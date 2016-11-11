@@ -1,0 +1,1570 @@
+
+
+
+The Thesis of the Recent Work
+
+
+My thesis is, that all cultures are illegible.
+There is always already a problematic of reading, writing, trans-
+mission.
+In one's native culture, these appear transparent, as if the habitus
+were capable of denotation - as if the signifier exhausted the world.
+After one has misunderstood, one consigns the rest to silence.
+What cannot be expressed in a particular language, may not be expres-
+sible in any.
+Thought, cultural thought, thinking through or within a culture, does
+not necessarily proceed by signs dependent on the culture.
+Within the literate frame of mind, the world appears as if there were
+signifiers all the way down.
+If one omits illegibility, one begins with understanding, subject to
+misrecognition.
+What is illegible, the cultural _scrawl._
+The scrawl is a recognition that cultural attributes, parameters,
+languages, instantiations, may be heuristic, ad hoc, appearances only
+as if there were cultural laws, superstructures, placements and
+consensual citations.
+I use Japan as an instance of (my) misrecognition. I _apply_ this
+misrecognition elsewhere, to my native culture(s), to theory itself,
+to my ability to _read, write, and transmit._
+This is a thesis as _therapeutic_; make no mistake about it.
+Or rather: continue to make mistakes: that is my thesis.
+_All cultures are illegible._
+
+_______________________________________________________________________
+
+
+Looking for It (Es, Id)
+
+
+Playing the lower register of the shakuhachi: six degrees of movement
+against the edge produces six levels of microtones. I can play from
+almost a whisper to a relatively loud bass. My fingers hardly move
+above the holes. I am beginning to feel the music emerging - not just
+the notes _in relation_ to the body. Impulses tend towards flows; they
+transpire as the instrument begins to disappear. Shakuhachi becomes
+_tongue,_ interior/exterior of the mouth; it becomes _tongue,_ a lang-
+uage without semantics, whose syntax is similar to that of other nat-
+ural languages. But the semantics have disappeared in favor of a pure
+structure, denuded by noise, breathing-out, breathing-in. I am on the
+_plateau_ of the instrument, roaming, nomadic. Eyes closed, the world
+spreads out, eddies, gathers, releases. Disappearing, I can live in
+this world.
+
+Making music is making discourse, conversation. The instrument returns
+to the condition of the _weed._ Talking to myself, I might slip across
+a position, search for another. I might slip out of it. I might miss
+the note, particularly in the other registers. Then everything will
+crash down and I am holding a tube again. Then the tube is grasped in
+my hands. Then I am standing or sitting in a room with the tube. Then
+I hear the breathing-out and breathing-in. Then I am breathless, and
+it is precisely at that moment that I die.
+
+Oh this is ludicrous. I do not die. But everything returns to everyday
+life, and logic again holds sway, objects are clearly defined, I take
+meaning for granted. I clean the instrument carefully, inside and out, 
+wrap it in cloth, take it out of the dry and heated room. Then I know
+I can speak to someone. Then I have lost something. Then it will not be
+found.
+
+Oh, this is so stupid.
+
+
+_________________________________________________________________________
+
+
+
+From NIKUKO@sexxxygirrrl.cum Tue Feb  3 02:44:22 1998
+Date: NOW!
+From: NIKUKO@sexxxygirrrl.cum
+To: Poetics <POETICS@listserv.acsu.buffalo.edu>
+Subject: Nikuko's Service Offer
+
+
+
+######################################################################
+######################################################################
+
+
+Hey Guys, Write Me! I'll do _Anything_ Just for You!
+
+
+- Nikuko!!!!!
+
+Nikuko p0  tc-1-119.fukuoka  2:10AM     0 w 
+{k:14} cat passwd | grep nikuko
+nikuko:*:13788:22:Nikuko:/home/n/nikuko:/bin/ksh
+daemon:*:1:1:Nikuko1 System Daemon:/:nologin, comeon!
+sys:*:2:2:Nikuko1 Operating System:/tmp:nologin, comeon!
+bin:*:3:7:Nikuko1 BSDI Software:/usr/bsdi:nologin, comeon!
+operator:*:5:5:Nikuko1 System Operator:/usr/opr:nologin, comeon!
+games:*:7:13:Nikuko1 Games Pseudo-user:/usr/games:nologin, comeon!
+news:*:9:8:Nikuko1 USENET News:/var/news/etc:nologin, comeon!
+demo:*:10:13:Nikuko1 Demo User:/usr/demo:nologin, comeon!
+(I'm not Nice!)
+
+######################################################################
+#   Format of headers   #
+######################################################################
+ 
+H?P?Return-Path: <$g> Nikuko, eh?
+HReceived: $?sfrom $s $.$?_($?s$|from $.$_)
+        $.by $j ($v/$Z)$?r with $r$. id $i$?u
+        for $u; $|;
+        $.$b
+H?D?Resent-Date: $a
+H?D?Date: $a
+H?F?Resent-From: $?x$x <$g>$|$g$.
+H?F?From: Nikuko, eh? $?x$x <$g>$|$g$.
+H?x?Full-Name: Nikuko, eh? $x
+# HPosted-Date: $a
+# H?l?Received-Date: $b
+H?M?Resent-Message-Id: <$t.$i@$j>
+H?M?Message-Id: <$t.$i@$j>
+#
+#
+######################################################################
+ Script started on Tue Feb  3 02:23:09 1998
+$ ps
+  PID  TT  STAT      TIME COMMAND
+17546  p0- I      0:00.00 leave, Nikuko! +59
+20548  p0  Ss     0:00.12 -ksh (ksh)
+20580  p0  I      0:00.00 leave, Nikuko! +59
+24744  p0  S+     0:00.01 script ll
+24756  p0  S+     0:00.01 script ll
+24757  p1  Ss     0:00.01 sh sh, shhh, Nikuko! (ksh)
+24959  p1  R+     0:00.00 ps
+$ exit Nikuko!
+
+Script done on Tue Feb  3 02:23:20 1998
+
+######################################################################
+######################################################################
+
+
+
+
+CYBERSHINTO !!!
+
+
+Think! Think! Think!
+
+Cyber-Shinto, marriage of the Electronic Chip and the National Treas-
+ure Ginko Tree! Cyber-Shinto in All things! Cyber-Shinto, Live and Let
+Live!
+
+Cyber-Shinto: It was bound to happen! Forget the Seven Happy Gods,
+        think of _yao-yoruzu no kami,_ "ever-increasing myriad
+        deities, each a Node on the Network, the Virtual Spiritual-
+        Real of all things. Make up your prays, sublimations, dis-
+        course as you go along - it's not a return to Tribality so
+        much as an entrance to post-animism spirituality.
+Cyber-Shinto: Kami, kami, kami!
+Cyber-Shinto: That this World Isn't All there is, that one goes
+        beyond, Beyond!
+Cyber-Shinto: Celebration of Life, not Death! Leave the funerals to
+        the Buddhists!
+Cyber-Shinto: Instead of Heavenly or Earthly Gods, think of Presences
+        on the Net: _so far,_ one has a sense of turning away from
+        the computer Screen - HERE, it's virtual - THERE, it's real!
+        _So far,_ there is still a distinction to be made.
+Cyber-Shinto: In which the kamidana, household altar, becomes the
+        computer, and the computer becomes the kamidana! Still, it's
+        a Thing in the room, something approached or withdrawn-from -
+        but for _how long?_
+Cyber-Shinto: Where the ceremony to summon kami, kamimukae, becomes
+        the Entrance to Cyberspace (Forget Nationism!), burgeoning
+        of Communities of Avatars, excellence in all things! Think
+        of this as the TCP/IP _protocols of the faith,_ regulating
+        Entrance and Exit! (Forget Emperors, Leaders, Men, Women,
+        Gurus, Avatars!)
+Cyber-Shinto: For neo-animisms and spiritualities work excellently
+        in Technological Society - breakdowns of Grand Narratives
+        (forget the Kojiki or Nihongi!), spread of micro-electronics,
+        nanotechnologies and miniaturized interpenetrating Virtual
+        Worlds (the garage-door microchip! telephone! ankle-guard!).
+Cyber-Shinto, now _Cybershinto:_ Think of kamiokuri, the ceremony
+        of sending-off kami after kamimukae, releasing the Virtual,
+        turning off the Speaking-Machine: "IT IS NOW SAFE TO LEAVE
+        THE KAMI, TURN OFF THE COMPUTER!" But for _how long_ will
+        there be this distinction, before Perfect Merging, here
+        and now?
+Cybershinto: The computer is the shintai, object of worship contain-
+        ing kami. Shinto: Way of the Kami. Cybershinto: Way of the
+        Virtual, indeed!
+Cybershinto: The carrying-palanquin for the kami, moving from
+        shrine to street, dispersed among the nodes - the mikoshi,
+        carried by protocols across cyberspace, whole worlds of
+        kami! (Often translated as portable shrine, but think of
+        as a _vector_ from node to node, fiber-optic ultimate band-
+        width of the Real!)
+Cybershinto: Mikoto, words or commands of a god or noble, for ex-
+        ample: WHAT ARE YOU SAYING OVER THE WIRES? WHO IS LISTEN-
+        ING? WHO CARRIES THE SONGS? TO WHOM DOES YOUR HEART BELONG?
+Cybershinto: Ah, tana or spirit / soul, in Everything that Lives!
+        Tana across the Wires, Tana of the Wires! For the Wires are
+        Everywhere; we are Turning, not towards Tribalism, but to-
+        wards the Virtual in All Things!
+Cybershinto: not National Shinto, Shrine Shinto, Traditional Shin-
+        tos, but the Wired Shinto of the Future Technological
+        State, the Perfect Innuendo, Perfect Harmony!
+Cybershinto: "Networks are inherently decentralizing and anti-hi-
+        erarchical." (Wired magazine, January 1998.)
+Cybershinto: "We live in a MEDIATED world." (Wired magazine, Janu-
+        ary, 1998.)
+Cybershinto: "Pierre Teilhard de Chardin prophesied 50 years ago
+        that an electronic membrane covering the earth would wire
+        all humanity together in a single nervous system." (Wired
+        magazine, January, 1998.)
+Cybershinto: "We stand on the verge of being able to change the
+        human race." (Wired magazine, January, 1998.)
+Cybershinto: "THE FUTURE IS IN BETA." (Wired magazine, January,
+        1998.)
+CYBERSHINTO!!!
+
+
+_____________________________________________________________________
+
+Subject: Nikuko's Stealing of My Account - Sorry
+
+Nikuko's Records:
+
+nikuko ttyp8 tc-1-064.fukuoka.gol.ne.jp Wed Feb 4 01:47 still logged in
+nikuko ttyp2 tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 23:46 - 23:54 (00:07) 
+nikuko ttyp5 tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 23:42 - 23:46 (00:03) 
+nikuko ftp tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 23:41 - 23:42 (00:00) 
+nikuko ttyp8 tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 22:48 - 23:40 (00:51) 
+nikuko ftp tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 22:47 - 22:47 (00:00) 
+nikuko ttyp0 tc-1-119.fukuoka.gol.ne.jp Tue Feb 3 02:10 - 02:46 (00:36) 
+nikuko ttyp0 tc-1-119.fukuoka.gol.ne.jp Tue Feb 3 02:00 - 02:09 (00:09) 
+nikuko ttyp4 tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 01:11 - 01:22 (00:11) 
+nikuko ttyp4 tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 01:08 - 01:10 (00:02) 
+nikuko ftp tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 01:06 - 01:07 (00:01) 
+nikuko ttyp4 tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 01:04 - 01:06 (00:01) 
+nikuko ftp tc-1-070.fukuoka.gol.ne.jp Tue Feb 3 01:03 - 01:04 (00:01) 
+nikuko ttyp5 tc-1-064.fukuoka.gol.ne.jp Tue Feb 3 00:05 - 00:18 (00:13) 
+nikuko ttyp1 tc-1-064.fukuoka.gol.ne.jp Mon Feb 2 22:55 - 23:56 (01:00) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Mon Feb 2 22:54 - 22:55 (00:00) 
+nikuko ttypa tc-1-064.fukuoka.gol.ne.jp Mon Feb 2 01:29 - 01:50 (00:21) 
+nikuko ttyp1 tc-1-064.fukuoka.gol.ne.jp Sun Feb 1 05:29 - 05:40 (00:11) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Sun Feb 1 05:27 - 05:28 (00:01) 
+nikuko ftp www.anu.edu.au Sun Feb 1 02:21 - 02:22 (00:00)  nikuko ftp
+jefferson.village.Virginia.EDU Sun Feb 1 02:18 - 02:18 (00:00)  nikuko
+ttyp0 tc-1-064.fukuoka.gol.ne.jp Sun Feb 1 02:10 - 02:38 (00:28)  nikuko
+ftp tc-1-064.fukuoka.gol.ne.jp Sun Feb 1 02:09 - 02:09 (00:00)  nikuko
+ttyp0 tc-1-106.fukuoka.gol.ne.jp Sun Feb 1 00:12 - 00:42 (00:30)  nikuko
+ttyp1 tc-1-096.fukuoka.gol.ne.jp Sat Jan 31 03:56 - 04:08 (00:12) 
+nikuko ftp tc-1-096.fukuoka.gol.ne.jp Sat Jan 31 03:55 - 03:55 (00:00) 
+nikuko ttyp1 tc-1-096.fukuoka.gol.ne.jp Sat Jan 31 03:54 - 03:54 (00:00) 
+nikuko ftp tc-1-096.fukuoka.gol.ne.jp Sat Jan 31 03:53 - 03:54 (00:00) 
+nikuko ttyp1 tc-1-096.fukuoka.gol.ne.jp Sat Jan 31 03:52 - 03:53 (00:01) 
+nikuko ftp tc-1-096.fukuoka.gol.ne.jp Sat Jan 31 03:51 - 03:51 (00:00) 
+nikuko ttyp4 tc-1-096.fukuoka.gol.ne.jp Sat Jan 31 01:59 - 02:23 (00:23) 
+nikuko ttyp8 tc-1-075.fukuoka.gol.ne.jp Fri Jan 30 02:46 - 02:58 (00:11) 
+nikuko ttypb tc-1-064.fukuoka.gol.ne.jp Fri Jan 30 00:35 - 00:54 (00:18) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Fri Jan 30 00:34 - 00:35 (00:00) 
+nikuko ttyp1 tc-1-064.fukuoka.gol.ne.jp Thu Jan 29 20:30 - 21:12 (00:41) 
+nikuko ttype tc-1-080.fukuoka.gol.ne.jp Thu Jan 29 03:54 - 03:55 (00:00) 
+nikuko ttype tc-1-080.fukuoka.gol.ne.jp Thu Jan 29 03:52 - 03:54 (00:01) 
+nikuko ttype tc-1-080.fukuoka.gol.ne.jp Thu Jan 29 03:50 - 03:52 (00:01) 
+nikuko ttype tc-1-080.fukuoka.gol.ne.jp Thu Jan 29 03:22 - 03:50 (00:28) 
+nikuko ttyq1 tc-1-064.fukuoka.gol.ne.jp Thu Jan 29 00:49 - 01:14 (00:24) 
+nikuko ttyq1 tc-1-064.fukuoka.gol.ne.jp Thu Jan 29 00:39 - 00:49 (00:10) 
+nikuko ttyq1 tc-1-064.fukuoka.gol.ne.jp Thu Jan 29 00:14 - 00:39 (00:24) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Thu Jan 29 00:13 - 00:14 (00:00) 
+nikuko ttyq3 tc-1-064.fukuoka.gol.ne.jp Wed Jan 28 18:04 - 18:55 (00:50) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Wed Jan 28 18:03 - 18:04 (00:00) 
+nikuko ttyq0 tc-1-064.fukuoka.gol.ne.jp Tue Jan 27 23:43 - 23:50 (00:07) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Tue Jan 27 23:42 - 23:42 (00:00) 
+nikuko ttypa tc-1-064.fukuoka.gol.ne.jp Tue Jan 27 22:48 - 22:57 (00:08) 
+nikuko ttyq4 tc-1-070.fukuoka.gol.ne.jp Tue Jan 27 15:15 - 15:42 (00:27) 
+nikuko ttyp3 tc-1-084.fukuoka.gol.ne.jp Tue Jan 27 06:24 - 06:26 (00:02) 
+nikuko ttyp9 tc-1-114.fukuoka.gol.ne.jp Tue Jan 27 05:23 - 05:44 (00:20) 
+nikuko ttyp3 tc-1-064.fukuoka.gol.ne.jp Tue Jan 27 03:54 - 04:44 (00:49) 
+nikuko ttyp0 tc-1-064.fukuoka.gol.ne.jp Tue Jan 27 01:54 - 02:09 (00:15) 
+nikuko ttypa tc-1-079.fukuoka.gol.ne.jp Tue Jan 27 00:18 - 00:27 (00:09) 
+nikuko ttyp0 tc-1-068.fukuoka.gol.ne.jp Mon Jan 26 20:17 - 20:20 (00:03) 
+nikuko ttypf tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 18:46 - 18:47 (00:00) 
+nikuko ttypc tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 17:14 - 17:32 (00:17) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 17:13 - 17:13 (00:00) 
+nikuko ttypc tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 17:07 - 17:12 (00:04) 
+nikuko ttyq5 tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 16:32 - 16:52 (00:20) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 16:32 - 16:32 (00:00) 
+nikuko ttyp2 tc-1-080.fukuoka.gol.ne.jp Mon Jan 26 02:43 - 02:53 (00:09) 
+nikuko ttyp3 tc-1-111.fukuoka.gol.ne.jp Mon Jan 26 01:44 - 01:58 (00:14) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 00:43 - 00:43 (00:00) 
+nikuko ttypd tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 00:23 - 00:42 (00:18) 
+nikuko ttypd tc-1-064.fukuoka.gol.ne.jp Mon Jan 26 00:15 - 00:23 (00:07) 
+nikuko ttypd tc-1-064.fukuoka.gol.ne.jp Sun Jan 25 23:57 - 00:15 (00:18) 
+nikuko ttyq0 tc-1-064.fukuoka.gol.ne.jp Sun Jan 25 23:51 - 23:56 (00:05) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Sun Jan 25 23:49 - 23:50 (00:00) 
+nikuko ttyp3 tc-1-098.fukuoka.gol.ne.jp Sun Jan 25 17:28 - 18:24 (00:56) 
+nikuko ttypd tc-1-102.fukuoka.gol.ne.jp Sun Jan 25 03:56 - 03:56 (00:00) 
+nikuko ttypd tc-1-102.fukuoka.gol.ne.jp Sun Jan 25 03:46 - 03:56 (00:10) 
+nikuko ttypf tc-1-077.fukuoka.gol.ne.jp Sun Jan 25 02:29 - 02:49 (00:19) 
+nikuko ttyq0 tc-1-077.fukuoka.gol.ne.jp Sun Jan 25 01:57 - 02:28 (00:31) 
+nikuko ttypb tc-1-124.fukuoka.gol.ne.jp Sun Jan 25 01:16 - 01:36 (00:19) 
+nikuko ttypf tc-1-102.fukuoka.gol.ne.jp Sat Jan 24 22:43 - 22:46 (00:03) 
+nikuko ftp tc-1-102.fukuoka.gol.ne.jp Sat Jan 24 22:42 - 22:43 (00:01) 
+nikuko ttypc tc-1-107.fukuoka.gol.ne.jp Sat Jan 24 21:54 - 22:05 (00:11) 
+nikuko ftp tc-1-107.fukuoka.gol.ne.jp Sat Jan 24 21:53 - 21:53 (00:00) 
+nikuko ttypc tc-1-064.fukuoka.gol.ne.jp Sat Jan 24 19:09 - 19:29 (00:20) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Sat Jan 24 19:08 - 19:08 (00:00) 
+nikuko ttype tc-1-064.fukuoka.gol.ne.jp Sat Jan 24 14:59 - 15:20 (00:20) 
+nikuko ttypc tc-1-064.fukuoka.gol.ne.jp Sat Jan 24 03:50 - 04:05 (00:15) 
+nikuko ttype tc-1-064.fukuoka.gol.ne.jp Sat Jan 24 03:36 - 03:48 (00:11) 
+nikuko ftp tc-1-064.fukuoka.gol.ne.jp Sat Jan 24 03:35 - 03:36 (00:00) 
+nikuko ftp tc-1-092.fukuoka.gol.ne.jp Sat Jan 24 00:53 - 00:54 (00:00) 
+nikuko ttyq1 tc-1-092.fukuoka.gol.ne.jp Sat Jan 24 00:37 - 00:52 (00:14) 
+nikuko ftp tc-1-092.fukuoka.gol.ne.jp Sat Jan 24 00:36 - 00:37 (00:00) 
+nikuko ttyp3 tc-1-098.fukuoka.gol.ne.jp Fri Jan 23 23:52 - 00:01 (00:09) 
+nikuko ttyp3 tc-1-098.fukuoka.gol.ne.jp Fri Jan 23 23:23 - 23:50 (00:26) 
+nikuko ttyp3 tc-1-098.fukuoka.gol.ne.jp Fri Jan 23 23:10 - 23:21 (00:10) 
+nikuko ttype tc-1-064.fukuoka.gol.ne.jp Fri Jan 23 18:29 - 18:35 (00:05) 
+nikuko ttypd tc-1-064.fukuoka.gol.ne.jp Fri Jan 23 18:07 - 18:13 (00:06) 
+nikuko ttype tc-1-064.fukuoka.gol.ne.jp Fri Jan 23 17:37 - 18:06 (00:29) 
+
+wtmp begins Thu Jan 22 15:19 
+
+
+________________________________________________________________________
+
+<html><body>
+<I>I</I>rate exiting through closure - slope, by, I<Br>eakdown<--over
+and out--><p>athetic, I'm <s>tupid, fucked, <B>ody bought and </S>old.
+</B>slash-boy-</body>
+</html>
+
+________________________________________________________________________
+
+
+The Game of Japan (of Signifiers)
+
+
+Mendicant monks, we
+are on the road of total dissolution, along which a stream
+hampered by concrete flows, down predestination, we're carrying
+the magatama jewel, curved like liver like tear like conch
+like Nikuko, we're biting the head off to make kami-gods,
+we're biting the middle to make more of 'em,
+we're biting the tail, just when we thought there wasn't any more,
+we're biting each other, falling over in the ha-ha-onsen,
+suddenly switched, I've got my mouth fastened
+on some nether parts of me that hurt hurt hurt, they disappear
+along with the rest of my jewels, so like liver like tear like conch
+or ouroboros, I go in, she's elsewhere, smarter with all this Nikuko-
+biting, oh reader here I am!, until somewhere
+my toe meets my head and I'm an inch of flesh, all necessary
+for the jewel-cushion, Yasaka-jewels, you would've heard of them!
+on the couch, coach, shaped like conch - see where language gets you,
+not a bit of it!, hurt hurt hurt, you'll never guess
+what I'm typing with (it's not what you think, Yasaka!), I'm sitting
+on the conch
+
+ii
+
+We travel to Beppu where we make a big storm and a tsunami fills all
+the onsen with frothy-fish-foam and someone makes an island.
+
+iii
+
+There are trees on the island, there's a dragon and a cave made of
+burning human skin, the skin grows from the outside in, it's like a
+yakitoriya there, all warm and would-be pretty good to eat, but the
+dragon likes the roof, her flame goes out in the rain, you can only
+imagine the rest of this, how we burrowed and made little rooms for
+ourselves, ringing our begging-bowls, playing shakuhachi, until she
+gave up, in, out, 10,000 yen for the troubles, and how they emerged
+in Ireland.
+
+iv
+
+We leave the island, heading for a place that makes crows constantly.
+
+v
+
+In this place, there's a parliament of birds deciding on a proper
+constitution. So it includes homage to the emperor, a clean death for
+all traitors, exchange students and retributions well-crafted for
+certain crimes and misdemeanors, take care of the shrine! which means
+liquid for everyone, you might think someone would care in the midst
+of all this chaos. But now there's a text and everyone can read, and
+happily everyone does the production, even criminals who gladly
+retribute. Now we collect money from the criminals, because we rebuild
+the onsen, that's so necessary. It's quite nice now and not very
+expensive, and a writer like me can disgorge, unravel, open up like a
+box of shogi pieces which can't play the game of Japan. I will sit
+down at my desk with my brush. I will ink the inkan and ink the
+computer. I will portray my whole life, mendicant, auspicious,
+medieval. You will not believe the lovely jewels, curved, bitten in
+three places, tongues torn from mouths, just lovely talk. There's no
+mouth (against which the tongues) pressed against the skin against the
+dragon cave. The skin against the cave was comfortable, warm, worn;
+the cave wore the skin.
+
+vi
+
+The skin against the cave was the cave, the game of Japan.
+
+vii
+
+I sit at my desk and oh I am bleeding to death! I cannot, oh, type,
+touching myself in this matter, the A B I D E already have disappeared
+"in the manner of painting." You will see depth when something goes
+wrong and there is a big fixture (interlinear chandelier) in a space
+in which I am a magatama jewel. Now you will bite me in three places,
+what I call "the game of Japan."
+
+viii
+
+The apology for all peoples, which I make, a life of regret. That I am
+not all peoples, that I am on the exterior of any skin for any house
+containing any plant or animal. I am called a "covering." A "covering"
+may be a surface with thickness, and may serve the purpose of rainful-
+keeping-away. Together we meet again and shake hands and smile and the
+sun is warm (we have made it that way). And we are mendicant monks; we
+are wandering. We're on the road of total dissolution. There's a
+stream hampered by something or other, and we've got these jewels.
+
+ix
+
+_I'm bitten._
+
+
+______________________________________________________________________
+
+
+
+
+ON THE NODES
+
+
+Tras na sevo.
+
+Chak fwa ou fe you bagay, sa lese takou you tras na sevo ou.
+
+Le ou fe mem bagay la plisie fwa, tras la vin pi fo. Se pou tet sa tout
+bagay ou abitue fe, ou fe-l pi fasil, paske bagay la ge cheme-l tou trase
+na lespri ou.
+
+[...]
+
+Tracks in the brain
+
+Each time you do a thing it leaves as it were a track in your brain.
+
+When you do the same thing many times the track becomes deeper. It is for
+that reason everything you are accustomed to do, you do it more easily
+because that thing has got its road all traced in your mind.
+
+(from Haitian Creole, McConnell and Swan, Petit-Goave, Haiti, 1960.)
+
+
+I've got tracks in the brain. I believe in Kami-sama, the god of the
+universe who makes me feel small. But I am in Kami-sama, so I am a small
+part of the god of the universe, and I know just what I am. But I am not
+going to pray any longer, no I am not going to pray any longer. There's
+nothing to ask but the task. Daily life is full of daily occurrence and
+that is the will of Kami-sama. And I do believe all the same, I do be-
+lieve. And I will continue to believe because I am on the right track. I
+do and am on the right track. 
+
+I'm not gonna pray any longer, I'm on the right track. 
+I'm not gonna pray any longer, I'm on the right track.
+
+I will go down to the station, I will go down to the station.
+I am on the right track, I am on the right track.
+Kami-sama, kamai-sama, I am on the right track.
+It is daily life, naruyuki, I have no steering wheel.
+I don't need your steering-wheel, I don't need your steering wheel.
+
+The train comes down to the station, I want to ride you baby.
+The train comes to the station , I want to ride you baby.
+The blues are falling down, trains at the station, baby.
+
+I want to learn you, baby, learn everything there is.
+I want to live forever, rather than I want to die.
+Heidgger digger caught over the fiddle, 
+I'm caught way over the moon.
+
+"Me, pou chak aksio ki ge na mache, ou te oblije bay tet ou you lod."
+
+"But for each action which walking has, you were obliged to give your head
+an order." 
+
+(ibid.) Don't ask me why you're here.
+
+____________________________________________________________________________
+
+
+
+
+
+Figuring
+
+
+(Fukuoka, Japan)
+
+The upper range of the noh flute is atonal in relation to the lower;
+this is probably unique in the flute family. The flute is designed
+with a small wooden insert near the mouth-hole. The flute I heard today
+at the Konkyoko temple ceremony, accompanying koto, was atonal as
+well, the result I think of ignoring the lower octave altogether, and
+playing up to three octaves above. After the ceremony over 10-sake-
+argument-me, we discussed theology. Everything is fine with one God
+the universe, the story, and I think every religion has a story, the
+narrative of _Being_ which doesn't have to go anywhere at all. There
+is a good daily-life narrative in Konkyoko, just let it go with the
+flow, coming and going, give and take, it's all back to daily life,
+which is where the God has big divinity. It's the them speaking, not
+as one, not as beings, but Being: "Why is there Being rather than
+nothing" might conceivably translate into "Why not?". I am greatly
+thankful that this group of people are thinking about the universe.
+
+("If Sectarian Shinto is individualistic and ethical, it is quite con-
+ceivable that it has a tinge of religious universalism, even though it
+is not quite relieved of the bond of national religion. Therefore it
+may be described as quasi-universal or semi-propagandistic in charac-
+ter, and thus Sectarian Shinto has in principle some approach to the
+genuine universal religions, Buddhism and Christianity. Most of the
+Shinto sects are national in one respect, because their religious ob-
+servances are not a little connected with some of the national deities
+mentioned in the _Kojiki_ and _Nihongi_ myths, but in another respect
+some - at least one - of the Shinto sects have passed beyond the
+limits of national religion. To cite an example: the Konko Sect which
+adores Tenchikane-no-Maki (a name never mentioned in the _Kojiki_ or
+the _Nihongi_) or the Heaven-and-Earth-Including-Deity, i.e., the
+Supreme Deity whose influences extend over the entire Heaven and the
+Earth, free of any racial restriction or boundaries of nationality -
+in its worship of this Deity the sect displays an aspect of Shinto as
+a universal religion." From Genchi Kato, A Study of Shinto, 1926.)
+
+Now we will go out to the flea-market nearby at the Hakozaki shrine.
+Here there is much pottery from the last couple of centuries for sale,
+I do notice. I know nothing about this. We are walking down back the
+left-side and I notice a carton on the ground with shards. These
+aren't like the other shards at the flea-market, which are decorated
+and recent - these are apparently old, and we ask the owner where they
+are from. He mentions a river that was diverted; these surfaced. I am
+feeling eerie; they're inexpensive, and I figure they're not fake,
+since they are _so_ cheap, all different, worn in a manner similar to
+those I've seen in the middle-east or north-eastern Pennsylvania - and
+since it would be difficult to reproduce the _look._ I buy two pieces
+for 700 yen, around $6, and figure later, from a book (from which I
+figure everything - depending on _figuration_), that they are Yayoi,
+between 300 BC and 300 AD, wheel-turned with slight straw incisions. I
+have part of a base and bowl-side and part of a shoulder and lip and
+part of the universe.
+
+Like the 3.5 billion-year-old stromatolite fossil I own, these are
+part of the universe, before the _other_ incision of writing, although
+one might find DNA coding a form of inscription or universal govern-
+ment. These shards are part of the problem of ceramics, which always -
+in art departments - are closer to ateliers, workshops, eruptions,
+than to the discursive formations of academia. Their roughness pre-
+figures the figuration of the earth, before the figure of the book.
+I think they run on no protocol, no _writing_ except the survival of
+hardened clay in the earth, the habitus of their production, the
+familialities they occurred within - this is how I would _like_ to see
+them, in other words: without narrative and the pleasure of narrative,
+without the story of their origin or production (although with the
+story of their discovery and removal to the carton on the grounds of
+the Hakozaki Shrine flea-market).
+
+There are other narratives which are not. In Israel, studying prehis-
+tory, I went on a field-trip with other students to the North. We
+visited an Olduvai site, a dried lake-shore under excavation; there
+were trenches, about five feet high, and I walked through one of them.
+On both sides, there were stone-tools, Olduvai, still embedded. They
+were _there,_ roughly carved, way before points and handles. Touching
+them, I realized that the _last touch,_ the touch before _this,_ was
+by a creature not quite human, different, the same, intermediaries,
+just as the stromatolite appears rock-like, hardly alive, the first
+larger organisms (composed of cyanobacteria) to leave fossil records,
+thin bands in certain rock.
+
+We are talking about _rock,_ about _clay,_ about _writing,_ there and
+not there, as if touched, caressed, by a presence at a far remove from
+the symbolic - or stumbling through the symbolic, or being a sign. And
+we are talking about a _flute_ which doesn't jump to the octave, but
+jumps into tension, and the impetus accompanying the flute, and the
+difficult care of its carving.
+
+But we are talking about a sign, and what constitutes a sign when it
+emerges from the earth - or a sign, emerging as sound from silence -
+or a sign, when it is not a sign at all, not even a narrative not even
+a Presence of religion.
+
+We are talking about a sign which for us, _damaged life_ (Adorno), al-
+ready problematizes a sign, problematizes signifiers - just as such
+_operations after the fact_ inform Kristeva's Revolution in Poetic
+Language. And we are talking about a sign which is always already an
+upwelling, anomaly, appearance - an appearing which is taken-for a
+sign, a sign in these instances of the obdurate, inert earth - a sign
+which lends itself, trembling, as it were, to the chthonic. ("As it
+were," for it is our trembling, or my trembling, and "as it were," for
+the sign is neither borrowed nor lent, but constituted or recuperated
+by one organism in relation or within/without the presence of anoth-
+er.) Thus a sign which emerges, dragging the inchoate with it, and
+this is perhaps related to Otto's _numinous_ which is present in these
+objects, these shards, stones, sounds bent out of, within, belonging.
+Or what we read as the numinous, I would say not the divine or Pre-
+sence in all things, but a thinging which resonates the symbolic as if
+_the symbolic were there to be played._
+
+We forget this, comfortable with writing. Or if not comfortable with
+writing, with reading. Or if not comfortable with reading, with the
+sign. Or if not comfortable with the kanji, comfortable with speech,
+with speaking and replying, call and response. Or if not comfortable
+with speech, comfortable with sound. Or if not comfortable with sound,
+comfortable with that silence which does not exist, emerge, upwell. Or
+here, comfortable with that uneasy obdurate which threatens those who
+signify, those who sign. And who of us are immune from this, at all
+levels of what is constituted or constructed as the real? No matter
+how much art is a placement _elsewhere,_ no matter how much the Net is
+a figure of flux, dispersion, dissolution. For a membrane has no nodes.
+"For a membrane has no nodes."
+
+And the _symbolic is a placement or a play._ (In noh, there is the
+_waki_ who probes, prods, the masked hero or heroine. The _waki,_ like
+everything here, I figure to be within and without the narrative - the
+_moment_ of the narrative perhaps, so that the hero or heroine can
+_produce_ the speaking or singing or _tuning_ of the world of the
+script to the audience, transmission eddying around his figuration.)
+
+
+
+(The greater the degree of superstructural play on the Net, the great-
+er the foreclosure of a political economy that problematizes the sign,
+in a way that no sed[  ] or awk[  ] or script can. So that one glides
+on the surface of the TCP/IP protocol narratives, for example, as if
+there were the continuum. But there is no continuum; there is only
+cauterization, filtering-machinery, no matter how fine the raster. And
+I would not know how to define the raster of the _upper register_ of
+atonality, the raster of the shard. I would not know how to define the
+raster of clay or stone, and I think these are problems of the Net,
+January Wired a case in point - the translation of scarcity economics
+into entrepreneurial capital for example. But this transformation,
+which is also a blinding, is a different occasion, and while I program
+_here_ I will also Olduvai _there._ Nothing will come of it. I am sure
+of that; _nothing will come of it._)
+
+
+_______________________________________________________________________
+
+
+Aliases: Transformations: Us:
+
+
+# General redirections for pseudo accounts.
+bin:            root-around-the-merry-go-round
+daemon:         root-around-the-merry-go-round
+games:          root-around-the-merry-go-round
+ingres:         root-around-the-merry-go-round
+nobody:         root-around-the-merry-go-round
+system:         root-around-the-merry-go-round
+toor:           root-around-the-merry-go-round
+uucp:           root-around-the-merry-go-round
+webmaster:      root-around-the-merry-go-round
+archive:        root-around-the-merry-go-round
+hostmaster:     root-around-the-merry-go-round
+usenet:         root-around-the-merry-go-round
+news:           root-around-the-merry-go-round
+ 
+# Well-known aliases
+root-around-the-merry-go-round:   admin
+manager:        root-around-the-merry-go-round
+dumper:         root-around-the-merry-go-round
+operator:       root-around-the-merry-go-round
+ 
+ 
+# trap decode to catch security attacks
+decode:         root-around-the-merry-go-round
+(END)
+
+
+_______________________________________________________________________
+
+
+
+What surrounds these -
+
+
+Notation on these recent texts which are almost-narratives, or al-
+most-narratives which _tend towards_ textuality - as a way of explora-
+tion/explanation - what I would want to say to you (if I could only
+speak) (clearly) (I can't) (*)
+
+The narratives are _broken,_ torn in the middle (Nikuko, torn); they
+        return through a discourse on _language and matter_ -
+What is the matter with matter - the non-practical-inert or effluvia -
+        think of _emergent debris_ - upwelling, as if there were a
+        _moment_ of language and silence (I know there's not) -
+So then think of the _coughing or choking of language,_ or think of
+        the _language of the throat_ - those uneasy areas where death
+        might ascend, where the _sign_ might (appear to) be given
+        from _on high_ - as if there were _height_ involved -
+The _returning_ or _recuperation_ of language, self-reflexivity of
+        language, text, narrative - as if there were a _conjuring-
+        trick,_ (levitation or game or strategy or the _cutting of a
+        woman in two, making her whole again_) - as if there were a
+        _disappearance of sense_ - as if someone might emerge, _mute_
+        in relation to the sign -
+The _returning_ or _recuperation_ of language, self-reflexivity of
+        language, text, narrative - as if there were a _conjuring-
+        trick,_ the act of _being clever, cleverness,_ skimming
+        across the exfoliations of "clever's structure" -
+Or the recuperation of the _materiality_ disguised by cleverness -
+        the obdurate of the sign, what holds the sign, say, on the
+        sign-post - what posts the sign to you -
+And _to or for_ the purpose of exploring a territory which refuses
+        the return of inscription (as in "a good return for the in-
+        vestment"), for example - I can't return (myself), that is,
+        I can't make sense (as if there were sense to be made), as
+        if inscription were obtuse, as if muteness could be displaced
+        (itself) into a _sign_ -
+So the machinery exploring those portions of the world not given unto
+        man or woman, or those portions which appear on the periphery
+        of dreams, or those portions of the imaginary _about to rise,
+        coagulate,_ on the level of the symbolic - but not quite -
+This narrative's having troubles getting organized - it's as if you
+        can't follow it, but the cleverness, say, of the author,
+        perhaps a foreclosing on the _truth of the world,_ or a de-
+        flection (that's what it is, a deflection or entertainment) -
+        not a deconstruction, but an addition of the same, or an addi-
+        tion of a _difference_ which refuses to be accounted for,
+        enumerated, even _legible_ -
+"The recent texts, and so forth" (*) -
+
+
+------------------
+
+
+*"not at all"
+
+
+_______________________________________________________________________
+
+
+
+YOU ARE WRITING TO NOBODY! THIS MESSAGE IS GOING TO NOBODY!
+
+
+LISTEN UP! LOOSEN UP!
+
+For some, the message below, confused, overly-obscure, obfuscatory in
+fact, might tend towards a blankness resonant with the absence of ANY
+communication in this damned space. For me, the INCONSISTENCY noted simply
+means that, in fact, EVERY ISP is creating its own simulacrum of messaging
+- as if there _were_ communication among widely-dispersed peoples - where-
+as in fact, it is a _fiction_ created by the world-wide consortium of
+interactive governments (WWCIG), which ensure that populations _remain
+put._ Why else would an ISP have an UNEXPECTED INCONSISTENCY involving
+something as simple as a quota-check from root?
+
+
+{k:11} /sbin/quotacheck -a
+/dev/rsd4a: Permission denied
+/dev/rsd2a: Permission denied
+THE FOLLOWING FILE SYSTEMS HAD AN UNEXPECTED INCONSISTENCY:
+        /dev/rsd4a (/var/mail), /dev/rsd2a (/home)
+
+
+DUPES! NO ONE IS TALKING TO ANYONE HERE! WE'RE RESPONDING TO BOTS!
+GET IT? BOTS!!!!!!
+
+UNDERSTAND ME!
+UNDERSTAND ME!!
+UNDERSTAND ME!!!
+UNDERSTAND ME!!!!
+UNDERSTAND ME!!!!!
+UNDERSTAND ME!!!!!!
+UNDERSTAND ME!!!!!!!
+UNDERSTAND ME!!!!!!!!
+
+
+__________________________________________________________________________
+
+
+No Play
+
+
+<The curtain rises. Nikuko and American boy on stage.>
+
+Nikuko speaks (kabuki voice throughout):
+
+"I, Nikuko, do beg you to sew my eyes shut!
+Oh, I have not seen so much horror in world!
+But, I, Nikuko, want to experience total bliss!
+I want to do one-man sumo with fearsome opponents!
+I will fight me in blackness of invisible enemies!
+I will fight police throwing me in filthy cell!
+Do you like elimination of "a" "the" articles now such?
+Do wrap me in kimono-cloth, strangle in transparent tape!
+I will know ecstasy! Then I will bring "you" ecstasy!
+I will make "you" verb in my vagina! 
+Do you like forbidden pleasure? Jewel-Lotus-Magatama-Pleasure?
+You will have rope through labia to pull my deep joy-suffering!
+You will have me, do you like Oriental face?
+Deep cast of eyes wide open for your english-teaching insert!
+Where you are from, they have automobiles! I so like to drive!
+Oh deep American boy, I will make you drive in my vagina!
+I do like overdrive-gear-shift-nitro-burn as well!
+I will do one-man sumo with fearsome opportunities!"
+
+<Gas floods the stage; American boy dies, vomiting. Nikuko staggers
+to her feet, takes off her mask. She is a woman of thirty-five. She
+is carrying a dagger. She turns and faces the audience. She screams
+"MU!" The curtain falls.>
+
+_____________________________________________________________________
+
+
+Despair!
+
+
+Script started on Wed Feb 11 11:08:59 1998
+warning: could not update utmp entry
+$ /usr/games/hangman
+^[[;H^[[2J	^H^H^H______^[[2;6H|	  |
+	^H^H^H|^[[3;54HGuessed:
+	^H^H^H|
+	^H^H^H|^[[5;54HWord #:		^H1
+	^H^H^H|^[[6;54HCurrent Average:  0.000
+   __|_____^[[7;54HOverall Average:  0.000
+   |	  |___
+   |_________|
+
+ Word:	---------
+Guess:	^[[3;64He^[[11;10He	e
+	^[[3;11HO^[[3;64Hae^[[6;72H1
+	^[[3;66Ht
+	  |^[[6;72H2
+	^[[3;66Hrt^[[11;9Hr
+	^[[3;67Hst^[[11;14Hs
+	^[[3;66Hnrst
+	  |^[[6;72H3
+	^[[3;66Hmnrst
+	 /^[[6;72H4
+	^[[3;65Hdemnrst
+	 /^[[6;72H5
+	^[[3;67Hlmnrst^[[11;13Hl
+	^[[3;67Hglmnrst
+	 /|\^[[6;72H6
+	^[[3;71Hprst^[[11;11Hp
+	^[[3;75Hu^[[11;12Hu
+	^[[3;68Hilmnprstu^[[11;15Hi
+	^[[3;77Hv^[[11;16Hv
+
+        repulsive
+You got it!
+Another word? ^[[25;1H
+$ exit
+script done on Wed Feb 11 11:10:10 1998
+
+
+_________________________________________________________________________
+
+
+The Ratio
+
+
+Through the shakuhachi I project this and that into the into the habi-
+tus; it is pure sound and its mathematical relationships that estab-
+lish that establish a common language, which is not of this world,
+these broken rhythms or scales which together constitute what might be
+called a construct - so for example, the rhythm which is pure and
+additive, based on these divisions for example which (on the other
+hand), the scales which fracture such divisions - there's always a
+dialectic established, what might be considered a mobile ratio - and
+through this (through the shakuhachi I project this and that into the
+into the habitus) the habitus expands, exhausts itself (that is, as
+waveforms, solitons, stases, oases). In other words, it is the mobile
+ratio which constitutes the world for humans, which is constitutive of
+the world - order (extension and divisibility - what I have elsewhere
+called _measure geometries_) on one hand, and its fracturing as the
+body extends into, say, the _high note,_ the _bent note._ There has
+always been the body in the midst of this; see _Ornament._ There have
+always been _uneasy dreams_ of flight, always the grounding of the
+waking world.
+
+The language of this music is not of this world, because it (just)
+misses the sign, the symbolic; it cross-references (through the octave
+although that is not even recognized necessarily cross-culturally), is
+_heard._  It is and is not pure sound; it is within sequencing, within
+differentiation, and it is described say by idealized sine-waves with-
+out beginning or end (onset tones are another story - and in fact the
+creation of the story itself). So I would say that music is _of_ the
+world in a way language is not, and as such, it is a replay of scaf-
+folding against which the human emerges, is constituted. Which is not
+to say that this is either an explanation of the existence or cogni-
+tion of music, but only of a certain interplay between repetition and
+anomaly which exists throughout the habitus. What is habit.
+
+So that for example (this is all an example) I can play my ignorance
+(of the language and writing of Japan) into the void, so that I can
+reclaim (claim) a certain territorialization by virtue of an amanuen-
+sis or presence - an inscription which, as I have pointed out, is sim-
+ultaneously mute (virtual) and a _cut_ which is also a Jordan (closed)
+curve, or _circumlocution._
+
+What is human plays around the remnant of metaphysics. One might call
+this a foreclosure against death, for example. The _breathing_ of a
+note, for example. The _holding_ of the note, until the onset is for-
+gotten. The _disappearance_ of the same, as soon as breathing stops
+(when one can no longer exhale, when the air inside is exhausted).
+
+The mobile ratio whereby the universe _turns._
+
+
+______________________________________________________________________
+
+
+
+Illegibility (Proposal for Perforations) -
+
+
+An assumption of this century, Foucault's analysis of _divinatio_ not-
+withstanding, is that the world is becoming increasingly legible -
+that there are one or more _readings_ of the world - either through
+the foreclosing of textuality (what is, can be said), or through an
+increased understanding aligned with progress and progressivity. If
+the world is an encoding, then decipherment continues to reduce the
+unknown, and this might even be measured in terms of bandwidth, toler-
+ances, and so forth.
+
+On the other hand, one might argue towards an essential and irreduci-
+ble _illegibility,_ that not everything is decipherable - that there
+may, perhaps, be unknown or unknowable signs - as well as phenomena
+masquerading as signs - as well as phenomena having no relation to the
+symbolic at all.
+
+I am not arguing for a "horizon" of the illegible, but a seepage that
+occurs perhaps _within_ as well as without the legible. (For example,
+it may not be the case that every culture can be traced or translated
+- even in part - into every other.) Perhaps every domain is inherently
+illegible; perhaps foundations are not always interpretable across the
+board (and there for are not foundations sub specie aeternis). Consi-
+der the illegibility and illiteracy of the world, and consider the
+following, somewhat practical, concerns.
+
+0 Issues of identity, recognition, self-reflexivity / asservation: To
+what extent does identity depend on legibility? Can one "read" another
+culture (without or without literacy in that culture) in such a manner
+that anomie or the sensation of exile do not occur? Can one "read"
+one's own culture in this manner? What is the phenomenology of anomie?
+Of exile?
+
+1 Illiteracy - the inability to read and write. Every text is illegi-
+ble. (But if one is literate in the language of a text, and the text
+is visually "clear," does that _necessarily_ mean it is legible?)
+What is the post-Ivan Illich "take" on language, reading and writing?
+
+2 Computer illiteracy - the inability to use computer technology. (Are
+computers legible _all the way down_? What constitutes legibility in
+this case?) What is the political economy of computer technology? Of
+computer-mediated-communication (CMC) in relation to this? (Think of
+the division between haves and have-nots for example. What - today -
+constitutes _having_? Is bandwidth a consideration?)
+
+3 Dead Media (Bruce Sterling) - illegible remnants, archeologies.
+(What constitutes "media" in the first place?)
+
+4 Infinite _kanji_ - wandering across a Borgesian world in which uni-
+versals do not exist, in which each signified (in the sense of refer-
+ence in the world) possesses its own sign. Nothing and everything are
+simultaneously interpretable in writing. All signs are illegible and
+legible; all are strictly indexical, ikonic, blurring the distinction.
+
+5 Illegibility of or on or off the Net: What constitutes Internet
+illegibility; what constitutes Net illiteracy? Do TCP/IP and other
+protocols play a role here? Since virtual subjectivity is largely
+textual (or entirely textual, if bit-mapping is considered as such),
+what would be an _illegible subject_? What sorts of reception theory
+apply here?
+
+6 Are cultures translatable? Is habitus a discourse or discursive for-
+mation? What is the political economy of legibility, of illegibility?
+
+7 What constitutes misrecognition? How does misrecognition play into
+the above? (Misrecognition: an alternative or alternative reading, a
+non-intended reading, a reading-degree-zero, an absent or absent-mind-
+ed reading.)
+
+8 Reading and writing "foreign" cultures or the cultures of one's own.
+Reading and writing on the Net.
+
+9 And finally, to what extent is illegibility _inherent_ in the world
+at large? And what constitutes this inherency?
+
+
+_______________________________________________________________________
+
+
+
+
+
+Writing Exercise, the Samurai of Cyberspace
+
+
+/salamander/
+between one and the other, the animal which survives fire
+burns its way out of stones, you see animals here,
+        she said, i only see salamanders.
+then and then.
+then and then he said why don't you say what I see or
+        get rid of your eyes.
+then and then, she said, you're a fucking salamander.
+
+/party/
+party is such, sweet, sorrow said, sweet-trotsky nodded
+        in return. twas better than the death of the two
+        of them, remnants of the left brigade. paris burned
+        in the distance. sorrow had a baby face, and sweet was
+        sweet sixteen.
+
+/machine/
+so that the sixteen-machine sewed sorrow to sweet, so
+        that stalin-machine killed trotsky-machine, so
+        that paris burns with green sweet flame, sorrow
+        said, jealous of the spotted animal suffocating,
+        floundering, at her feet.
+
+/salamander/
+between one and the samurai of cyberspace and othe samurai of cyberspace
+and r, the samurai of cyberspace and animal which survives fire burns its
+way out of stones, you see animals here,
+        she said, i only see salamanders. the samurai of cyberspace and n
+and the samurai of cyberspace and n. the samurai of cyberspace and n and
+the samurai of cyberspace and n he said why don't you say what I see or
+        get rid of your eyes. the samurai of cyberspace and n and the
+samurai of cyberspace and n, she said, you're a fucking salamander. 
+
+/party/
+party is such, sweet, sorrow said, sweet-trotsky nodded
+        in return. twas better than the samurai of cyberspace and death of
+the samurai of cyberspace and two
+        of the samurai of cyberspace and m, remnants of the samurai of
+cyberspace and left brigade. paris burned
+        in the samurai of cyberspace and distance. sorrow had a baby face,
+and sweet was
+        sweet sixteen.
+
+/machine/ 
+so that the samurai of cyberspace and sixteen-machine sewed sorrow to
+sweet, so
+        that stalin-machine killed trotsky-machine, so
+        that paris burns with green sweet flame, sorrow
+        said, jealous of the samurai of cyberspace and spotted animal
+suffocating,
+        floundering, at her feet.
+
+
+_________________________________________________________________________
+
+
+SONG FOR EMPEROR JIMMU
+
+
+Come on, my boys!
+Come on, my boys!
+Let the arrows hail!
+Let the arrows hail!
+"Let us smite them utterly!"
+"Let us smite them utterly!"
+
+Oh boys, let's go!
+Oh boys, let's go!
+Let us dance around the kami!
+Let us dance around the jinja!
+Let us traverse their scapula!
+Let us traverse their scapula!
+
+Oh boys, let's cut them utterly!
+Oh boys, let's cut them utterly!
+Let's cut them down and up!
+Let's cut them up and down!
+Oh boys, let the arrows hail!
+Oh boys, let the stones pound away!
+Oh boys, let's pound away the stone!
+
+Now, ha ha!
+Now, hai hai!
+"Let us pound them utterly!"
+"Let us cut them utterly!"
+Let the birds fly away!
+Let the beasts fly afield!
+Let them fly utterly!
+"Let us let them fly utterly!"
+
+Smite them, boys!
+Don't let them fly utterly!
+Don't let them pound utterly!
+Don't let them cut utterly!
+Smite them, boys!
+Don't let them dance utterly!
+Utterly smite them!
+Utterly smite them!
+
+Don't let them pound!
+Don't let them!
+Don't let them pound!
+Don't let them!
+Utterly smite them!
+Cut them!
+Utterly smite them!
+Cut them!
+Don't let them fly utterly!
+
+________________________________________________________________________
+
+
+
+Subject: Deja-vu, the Leper, Gone-World, Re/vision/ Re/verse
+
+
+My Mythology, by Nikuko-oozing
+
+
+The earth was formed from a swelling that began out of a primordial germ
+and split, separating dust from effluvia, debris from stony veins. From
+this, the kami emerged. Soon veins formed head-bands, emptied of swollen
+lungs and brains. Some kami committed seppuku, removing their tongues by
+means of pinchers forged from stony veins.  Thus were formed brains with
+their many channels of mizu. Ah, lovely mizu! Transparent mizu! Tasteless
+mizu! Channels of mizu run down tiny brain-cunts in skulls formed from
+stony veins. Thus were formed "channels." (Cells gleam at the bottom of
+the world. Tongues stick to them.)
+
+Inkan stamp the elbows of kami-heads; the stamps cry "Oh Holy Mother Let
+Us Have Necks And Shoulders." Thus did necks and shoulders form. Some kami
+have arms on shoulders on necks on heads. They are meat-girls, Nikuko-
+oozings swelling into split germs and stony veins. They are angry girls! 
+They are Dead-Meat-Buffalo Daughter, whose New Rock release is on
+Toshiba-EMI Limited, a blend of techno and industrial voice-over somewhat
+reminiscent of Big Stick, first heard at Rhino Records in Los Angeles (as
+usual, their lead singer died). Dead-Meat-Buffalo Daughter appears cour-
+tesy of Chameleon Records in Fukuoka, punk-animals everywhere or rather
+can you dance as the voice goes _way behind_ the back-beat. On the floor
+of genitals they dance the back-beat. It's illuminated. Slippery, signs
+slide across spaces of holes and _stupa._ Someone makes a sky-signal.
+
+Meanwhile, in the Nihongi, Izanagi no Mikoto and Izanami no Mikoto say
+"Why should we not produce someone who shall be lord of the universe?" -
+an off-handed remark leading to much future woe. One can only imagine.
+"Universe" is given as "tenka" in a footnote, now meaning "the whole
+country; the public; the reins of government." Either a bringdown (EFL
+students wa take-note of the idiom) or hubris, from The New Crown
+Japanese-English Dictionary. What happens in the tenka? I don't know, but
+return to Nikuko-oozing's story, for her promising anger which spread like
+a virus from Nikuko-oozings-coalescing with trunks and legs, breasts and
+wombs, fierce warriors who have heard of Greece and Monique Wittig. They
+come across a hermit in a cave, another kami in disguise, since there are
+Nikuko-oozings-One and kami, and that's all. They show him their cunts,
+ask for sake; they drink much, push the stick through his cloth, and that
+is all there is to it. 
+
+Shite, lead character in a Noh play, he begins to sing, Wa! (Harmony!) 
+Waa! (Hurray!)  He's _it,_ goaded by the _waki,_ Nikuko-oozing-who-does-
+not-wear-a-mask. Wa!  Waa! Yugen crashed-body or scabbed, mystery-depth-
+profound-subtle-aesthetic, emerges among the kami, a beat magazine in New
+York 1950s, edited by Leroi Jones, if memory serves me. "It runs fine when
+I'm here," sing Dead-Meat-Buffalo Daughter, thinking of Nikuko-oozing. 
+Shite-hermit sings and sings, stick poking through. Thus was born "song," 
+"Noh," and "penis." In revenge, Shitehermit says, "Nikuko-oozing, you
+cannot be in Noh." No-Noh-Nikuko-oozing.  She sews him back up in the
+cave. (Was he sewn at first? Whose cave? Was that Nikuko-oozing's? Niku-
+ko-oozing's cave - thus was born possession.) (Thus was born cunt, for
+there were no things before any of this. Nikuko insists on comprehension
+of this _no._)
+
+Dead-Meat-Buffalo Daughter change to swing-beat. The synthesizers wind
+down. Anyway, they make the Sun-Goddess, called Oho-hiru-me no muchi,
+although Ama-terasu no Oho kami and Ama-terasu-oho-hiru-me no Mikoto are
+cited as well. Nikuko takes pity; the earth is kami, too. So are Dead-
+Meat-Buffalo Daughter, who are auspicious; the hermit, who receives the
+penis; the waki, helping everyone. Now everyone has all limbs and bodies
+but the penises and wombs are equally divided. When a war comes, Nikuko-
+oozing-who-does-not-wear-a-mask, and is a dark-haired girl living near
+Nakasu, gets angry, and says, there is no kami for any of us, and there
+are many less penises perhaps at first, and then less wombs.
+
+When the earth swells, there is an earthquake and caves are swallowed in
+the earth. Sesshu's Long Landscape Scroll portrays this incident of
+Nikuko-oozing-supporating and hermit, and, as if in despair and irony,
+there is earthquake also, destroying the earth shrine at Hakata, until its
+memory faded from the affairs of men and women. (Some men and women are
+born without arms or legs; some without brains; some without breasts or
+wombs; some without penises;  some without heads; some without skulls or
+necks; and some without shoulders.)
+
+---------------
+
+Mizu, water; Nikuko-oozing, meat-girl; seppuku, suicide; shite, hero or
+heroine in Noh play, primary actor (wears a mask); waki, secondary actor,
+(maskless) in the same; Dead-Meat-Buffalo Daughter, playing now;  kami,
+deity/spirit of sorts; inkan, signature-stamp; Sesshu painted primarily
+in the 15th century; head-bands are often worn by workmen in Japan; Rhi-
+no Records was (and maybe is) the best alternative music store I've seen
+in America. The last copy of Yugen crashed-body or scabbed was going for
+$10 a few months ago on the Lower East Side. Big Stick has disbanded. The
+Sun-Goddess names are from Aston's translation of the Nihongi. Monique
+Wittig wrote The Lesbian Body among other works. Nakasu is the snack-bar
+district of Fukuoka. Stupa, holy signal-tower of Buddhist cosmology I
+would say, Nikuko. Noh is a form of Japanese medieval theater; there are
+translations by Waley, but the intensity of televised Noh was completely
+unexpected. I live in Hakata-Ku, Hakata Ward, which is the merchant's town
+of Fukuoka. I have no brain or skull. Aston translates the Sun-Goddess'
+names as "Great-noon-female-of-possessor"; "Heaven-illumine-of-great-
+deity"; and "Heaven-illumine-great-noon-female-of-augustness"; but then
+Aston was writing in the nineteenth century. 
+
+
+_______________________________________________________________________
+
+
+
+
+
+
+Nikuko
+
+
+*** Value of LOG set to ON ^***^ Alan_S (sondheim@panix3.panix.com)
+has joined channel #cybersex *** Topic for #cybersex: 0037:BC:<Jesus>
+BRB <---------yea right *** Topic for #cybersex set by `AntiChrist
+on Feb 14 12:13:29 *** #cybersex 887461296 ^***^ none has joined
+Nikuko settles down for the night all wrapped up with her kittens.
+channel #cybersex -Gravity505- DCC Send script.ini *** DCC SEND
+(script.ini 3072) request received from Gravity505 [E/X] I am
+autogetting /net/u/6/s/sondheim/script.ini from Gravity505. *** DCC
+GET:/net/u/6/s/sondheim/script.ini from Gravity505 completed 1 kb/sec
+
+<Larry^47> ROTFLMAO *** none is now known as Guest30868 *** Roaster is
+now known as Punisher *** Guest30868 has been kicked off channel
+#cybersex by _^Pagan^_ (10We are taking up a collection ta buy ya
+your own nick...till then.. get the phuck out!) <`AntiChrist> i kill
+me *** Signoff: |Romeo (Quit: Leaving) <Amber--^> we will start with a
+Nikuko cries silently to herself, midnight-dreaming of loving families.
+passionate french <zebra1> amber please fuck me sweety <natasha2> hi
+everyone *** Signoff: Gravity505 (Quit: Leaving) ^***^ litle has
+joined channel #cybersex *** Lululean has left channel #cybersex ^***^
+brosnon has joined channel #cybersex <seto1> LOOKING FOR ANOTHER MALE
+WHO WANT TO CHAT WITH ME DCC ME
+
+<nakedguy`> hi natasha2 *** Mode change "+b natasha2!*@*" on channel
+#cybersex by _^Pagan^_ <zebra1> mmmmmmmm *** natasha2 has been kicked
+off channel #cybersex by _^Pagan^_ (One at a time please) *** Mode
+change "+b *!*@203.135.1.2" on channel #cybersex by `AntiChrist
+Nikuko is happy morning-dreaming, surrounded by smiling men and women.
+<countryboy1> any ladies what to be my valentine. msg, me! *** brosnon
+has been kicked off channel #Cybersex by `AntiChrist (IP Filter:
+*!*@203.135.1.2 (Clone sheep, Not PPL) *** Signoff: HOT-BOY (Ping
+timeout) <Jericho^one> that's damn funny AntiC! <Ned^> Hi
+Natasha...nice to meet you..
+
+^***^ Bob_Mass (justme@bterrace.tiac.net) has joined channel #cybersex
+<wildtyme> fuck ^***^ FFreTT (ou812@pntcmi137198.voyager.net) has
+joined channel #cybersex *** Punisher is now known as DoggyBastah
+<Amber--^> oh i forgot my tongue in your mouth babes <Larry^47> oh
+Nikuko, in beautiful soft dreaming, dawn-smiles, wakes up very slowly.
+^***^ Mike21 has joined channel #cybersex <Larry^47> heh <Larry^47> ok
+^***^ timmmm has joined channel #cybersex <wildtyme> shit sorry wrong
+chan *** rips has left channel #cybersex <zebra1> oh
+
+<Larry^47> he called you Antic <Jericho^one> I heard Jesus logged on
+three days later though.... *** BOB23 has left channel #cybersex
+<alanw> look, let's get to the point. any ladies want to talk to a
+real man? <Jericho^one> must be net lag ^***^ rd1 has joined channel
+Nikuko looks at morning plum tree blossoms and light morning sky.
+#cybersex <zebra1> lick ma body sweety *** DoggyBastah is now known as
+Cupido ^***^ ^ilikeit has joined channel #cybersex ^***^ cyberjohn has
+joined channel #cybersex
+
+*** Signoff: Aerdy (Quit: There are old pilots and there are bold
+pilots, but there are very few old bold pilots) <alanw> a real man
+with a dick so big it is unreal? <Amber--^> okay <Nuc|earWi> Any
+ladies want to chat or cyber msg me. *** Larry^47 is now known as
+Nikuko is happy and smiling, thinking of soft beauty all afternoon.
+Jesus`Christ ^***^ samm (..@194.126.3.110) has joined channel
+#cybersex *** Signoff: cuteguy20 (Quit: Leaving) *** Signoff:
+Glen31047 (Quit: Leaving) *** Mode change "-o `AntiChrist" on channel
+#cybersex by `AntiChrist
+
+*** Signoff: hornyme (Quit: Leaving) *** Mode change "-b natasha2!*@*"
+on channel #cybersex by _^Pagan^_ ^***^ Ninja-Turtle has joined
+channel #cybersex <Jericho^one> Do you know any alanw? *** No such
+variable "logg" *** Cupido is now known as CupidoTheLover <alanw>
+Nikuko walks slowly at dusk, almost forgetting the very lovely day.
+hahahaha ^***^ Ikabod has joined channel #cybersex ^***^ bhdick has
+joined channel #cybersex *** Signoff: Alan_S (Sweet taste of
+vindication, It turns to ashes in your mouth.) IRC Log ended *** Sat
+Feb 14 12:15
+
+
+______________________________________________________________________
+
+
+Nikuko Fights Back
+
+
+<^Tonguer^> hi ther
+*** #cybersex 887461296
+<Grampian> any ladies here for cybersex or just looking ??
+<Eva1> have to get off for a little while but ill be back
+<***> Signoff: Eva1 (Quit: Leaving)
+<woylie> can it peel off in my directoion?? hehe
+*** Nikuko is now known as iB9321805
+*** iB9321805 is now known as cs7991917
+--=[+#cybersex+] BigGreek joined the channel.
+--=[+#cybersex+] Homer has left the channel.
+*** cs7991917 is now known as kf8076029
+--=[+#cybersex+] LA_LEY joined the channel.
+*** kf8076029 is now known as qj8535742
+--=[+#cybersex+] phallic_symbol joined the channel.
+<wrapping`paper`peeling`off> hahaha
+*** qj8535742 is now known as c2774822
+<*> ^Tonguer^ is single/male/38/6ft/195 lbs/well built/long brown hair
+        /beard/blue eyes/Texan. Any ladies like to chat. Msg me
+*** c2774822 is now known as Nikuko
+--=[+#cybersex+] xyz12345 joined the channel.
+--=[+#cybersex+] kenzo^ has left the channel.
+*** Nikuko is now known as y86378360
+*** y86378360 is now known as gp5551475
+*** gp5551475 is now known as ny3820935
+--=[+#cybersex+] Border joined the channel.
+*** ny3820935 is now known as yJ2368136
+<***> Signoff: dickers (Operation timed out)
+--=[+#cybersex+] LA_LEY has left the channel.
+*** yJ2368136 is now known as vQ4085561
+*** vQ4085561 is now known as pu5118542
+--=[+#cybersex+] BigGreek has left the channel.
+*** pu5118542 is now known as t91468770
+*** wrapping`paper`peeling`off is now known as guest`number`35
+(Johnny2Bad/#cybersex) So now I finally get to see what my present is!?
+*** t91468770 is now known as yb6540044
+*** You have been kicked off channel #cybersex by Curien 
+        (Goway +1[+141332+1])
+*** yb6540044 is now known as Nikuko
+/join #cybersex Nikuko
+IRC Log ended *** Sun Feb 15 06:08
+
+__________________________________________________________________________
+
+
+
+Giving and Taking Notice
+
+
+"The great majority of people in most human societies is conservative.
+The reasons for this are not at all mysterious. Most people are cons-
+ervative in the sense that they take the basic structures of their
+society for granted and try to work out the problems of their own
+lives within these structures. In the words of Alfred Schutz, the soc-
+ial world is 'taken for granted until further notice.'" (Peter Berger,
+"Intellectual Conservatism: Two Paradoxes," in Facing up to Moderni-
+ty, 1977.)
+
+What does it mean for the world to give notice, or for someone to give
+notice to the world? What strife is encountered as the habitus enters
+a new phase, or is indifferently enframed, shattered - the brokerage
+of the commonplace? Berger's critique of modernity focuses on five do-
+mains: abstraction, futurity, individuation, liberation, and secular-
+ization. The first, second, and last tend towards teleology from below
+- it's here that the notice upwells - and both individuation and lib-
+eration might be said to have been handed notice by the strictures of
+the life-world. Structures or strictures (Berger was an exponent of
+phenomenological sociology, in particular the work of Alfred Schutz),
+one might consider first of all what is a _notice_?
+
+To notice something is to perceive and recognize it - the recognition
+might be considered an embedding of the _thing_ in the semiotic - that
+is, the thing becomes susceptible to semiosis, to furtherance on the
+plane of the symbolic. To give notice is to intend such an embedding,
+to intend the positioning of an activated signifier within the sememe.
+A signifier is activated in this regard if it is attended to - and a
+notice demands attention, inscription or circumscription within the
+subject (virtual or not).
+
+Only on the Internet can the world be considered as constituted by a
+collocation, or perhaps even, a conflagration, of notices. Everything
+present is intended, competitive; everything demands attention, de-
+mands attending-to. The life-world of the Net exists only insofar as
+intention is at work; turn the computer off or _stop reading,_ and the
+life-world dissolves. (Part of the addictive quality of the Net may
+come from the fact that it _appears_ intended as well - as if it were
+a maternal universe, human, legible, licit, and safe.)
+
+The exception is breakdown, hacking, any asservation in which anomaly
+or unintended consequences appear. Unintended, by whom? Certainly not
+by the hacker (for example), but unintended in terms of the relevances
+and coherencies established between the user and her machine, the user
+and her applications and the content delivered by those applications.
+
+All of this remains, then, normally (or in a normative mode) within
+the sphere of coherent content, competency; hacking or otherwise
+breakdowns appear to come in from the cold, from the outside. These
+never shatter, but shudder, the life-world of the Net; there are al-
+most always further actions that may be taken (reconnect, for example)
+in order to re-establish the constituting of the world.
+
+The life-world of the Net is _constituting,_ not constituted - it is a
+situation of _continuous rewrite._ (See the Internet Text.) The break-
+down of ceasing of transmission of writing results in stasis, a freez-
+ing of inscription, anomie on the part of the subject, the withdrawal
+of communicative competencies.
+
+So to say the Net is composed of _noticing,_ _notices,_ _taking notice
+of,_ is to say that the Net is intended as a constituted and constitu-
+ting realm. This is also to say that the Net and the user, as a dyad,
+form a performative coupling; the life-world exists as such within the
+phenomenological horizon of the user, but only in relation to the
+components provided by the Net as coherent (and, one might say, back-
+grounding and invisible). Thus the relevancies of TCP/IP and other
+protocols are abrogated to backgrounding, just as the cognitive mech-
+anisms within the subject are also backgrounded.
+
+The foregrounding is a confluence of signs. The signs are notices, as
+the computer gives notices. Giving and taking notice: What the subject
+does, and perhaps _what the subject is._ For the subject of or in the
+life-world of the Net is never taken-for-granted, but equally consti-
+tuted: constitute the life-world of the subject in front of his compu-
+ter, and you have constituted the virtual subject for the subject, or
+constituted the subject in relation to the Net, to the Net communities
+or computer-mediated-communications that seem so transparent across
+the wires.
+
+One might conceive of a liberation _from_ the notice or a liberation
+from the signifier, in fact, but the Net (at least until the raster be-
+comes finer with the advent of seamless virtual realities), at this
+stage, is a control system, a system of discrete inputs and outputs, a
+system of channels and agents, a system of well-defined specificities.
+Within such a system, anomie runs rampant; wetware and software meet
+only through the manipulations of voice, finger, and eye/ear/touch
+perceptual input. Isn't flaming an insistence on noticing - aren't
+web-pages personal or corporate notices - isn't this text itself a
+form of notice, giving notice on the Net, giving notice - as a report
+for example - on the state of the life-world of the Net? On its status
+(as seen by _this_ subject)?
+
+"Taken for granted until further notice."
+
+_________________________________________________________________________
+
+
+Nikuko Joins the Fun
+
+
+*** Value of LOG set to ON
+***! Nikuko (sondheim@panix3.panix.com) has joined channel #cybersex
+*** Topic for #cybersex: <*Scratch-N-Sniff*><---
+        Smells just like glass eh?
+*** #cybersex 887461296
+<`Serina> hehe
+*** tina_^ has left channel #cybersex
+###[sweetteen]### hi, want to see !HAIRLESS SCHOOLGIRL'S FIRST FUCK? ### 
+ RECEIVE A SECRET VALENTINES DAY GIFT FOR FREE?! then checkout 
+  !http://www.wildteensex.com!^
+###[kategirl]### hi sweety, visit my new XXX home page, 
+        http://www.free-sexpix.com , it has some FREE XXX pics/movies^
+<HotPent> well  I am off to the shower 
+!***! ByTe-SiZe has joined channel #cybersex
+*** Signoff: Ridgy (Quit: Leaving)
+*** sorciere has left channel #cybersex
+*** Packers has left channel #cybersex
+<countryboy1> is looking for a countrygirl,,msg,,me!!
+<FODA> hi!!any chick wanna talk to a hot stud?
+*** xll has left channel #cybersex
+*** Nikuko is now known as Nikuko-Pu
+*** heartthrob has left channel #cybersex
+!***! filipo has joined channel #cybersex
+*** Signoff: Strppn_Man (Ping timeout)
+*** warII has left channel #cybersex
+!***! honey1l has joined channel #cybersex
+*** Nikuko-Pu is now known as Nik-Pussy
+*** birthdayboy has left channel #cybersex
+<HotPent> I have  to do something presidenty today!!!! so I will shower!
+*** Shane-1 has left channel #cybersex
+*** Nik-Pussy is now known as Pussy
+!***! Nude27Man has joined channel #cybersex
+*** Signoff: Don- (Quit: Leaving)
+<countryboy1> is looking for a countrygirl,,msg,,me!!  29/m
+!<!Pussy!>! I want to be you.
+!***! iha has joined channel #cybersex
+*** Streak14 has left channel #cybersex
+!***! ryno has joined channel #cybersex
+*** Signoff: frdf (Quit: Leaving)
+!***! kath`` has joined channel #cybersex
+!<!Pussy!>! Please be me
+*** dicky-dew has left channel #cybersex
+<CyberJohn> hi any girls for sex ,msg me
+###[Todders]### hi  mam how are you today^
+!<!Pussy!>! Please cum to me
+!***! ^0verfiend^ has joined channel #cybersex
+<`Serina> it had to be youuuuuuuuuuu
+###[FODA]### f or m?^
+###[spirox]### lo^
+!<!Pussy!>! Please cum to me f
+###[frogman]### hi what to cyber^
+<`Serina> thanks a lot....
+[!E/X!] !BAN ON YOU DETECTED.! By: _^Pagan^_
+*** Mode change "###b *!*sondheim@*.panix.com" on channel 
+#cybersex by _^Pagan^_
+*** You have been kicked off channel #CyberSex by _^Pagan^_ (-10Lemme 
+  intoduce ya to my Thwack`Em Stic *-3!THWACK!!-10*.....Thwack`Em Stick)
+*** #CyberSex :Cannot join channel (###b) (Banned from channel)
+###[spirox]### are you f^
+
+IRC Log ended *** Mon Feb 16 09:42
+
+
+________________________________________________________________________
+
+
+The Long Night of Welcome and Dismay
+
+
+I<ping -s>t's after dusk, <bong>, the temple/shrine (Buddhist/Shinto) 
+complex next door, <bong>, is about to close, <ping>. I <ping -s> bring my
+Sony professional cassette recorder with me, <ping>. I<ping -s>t is set
+for Dolby, <bong>, high-bias, <bong>, and I <ping -s> have stereo micro-
+phones, <ping>. We are the only ones in the complex, <ping>. I<ping -s>'m
+determined to call on the gods, <ping>. 
+
+We approach the shrine, <bong>, and ring the bells, <ping>. There are
+varieties here, <bong>, some like traditional bells you might we<dong>ar
+on your clothing in the West, <bong>, some like doubled gongs, <bong>,
+some like heavy sleigh bells no horse could carry, <ping>. There are also
+metal ringing bowls and wooden bells and hammers of various sorts, <ping>.
+There are Buddhas and other deities, <bong>, some Hindu I <ping -s> think,
+<bong>, lined up against the wall, <ping>. 
+
+Against the wall there are probably two thousand images, <bong>, ranging
+from an inch to two feet, <ping>. They have offerings of sake, <bong>,
+water, <bong>, coffee, <bong>, rice, <bong>, and other materials, <ping>. 
+Some are we<dong>aring cloth, <bong>, I <ping -s> would call it propiti-
+ation cloth, <ping>. But now it's night and all of this is more or less
+invisible, <bong>, and we <dong> are walking along with the recorder on in
+the almost pitch black and every so often ringing the bells, <bong>, by
+ropes, <bong>, or hitting the bowls with the varied hammers, <bong>, and
+there is also the sound of our footsteps, <ping>. And we <dong> are
+driving the gods back into cyberspace or we <dong> are driving the gods
+towards us and the devils back into cyberspace, <bong>, or we <dong> are
+driving the devils towards us, <ping>.
+
+We hear rustlings in the air and I <ping -s> am sure there are ghosts
+everywhere but their moans will not appear later on the tape, <bong>, only
+high pitched doubled sinewaves as the ringing bowls' harmonics interfere
+with the bias frequency set on the recorder in order to bring the tape
+within the flat part of the hysteresis loop, <ping>.  The remarkably even
+recording now has its own moans, <bong>, behind which, <bong>, I <ping -s>
+am sure, <bong>, the ghosts are hidden, <ping>. 
+
+I <ping -s> believe they carry red lanterns, <bong>, but I <ping -s> am
+not sure, <ping>. They fly through the air with moaning sounds, <ping>. 
+
+I <ping -s> will listen to the tape and leave my body, <ping>. I <ping -s>
+will carry a red lantern everywhere, <ping>. I <ping -s> will be that red
+lantern and I <ping -s> will illuminate my path forever, <ping>. 
+
+
+______________________________________________________________________

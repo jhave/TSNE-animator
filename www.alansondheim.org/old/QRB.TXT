@@ -1,0 +1,488 @@
+Green_Candle holds up the stapler...and please could you speak more
+ closely to this?
+aluminum says, "people filled out a quota request card, and put it in a
+ box. then it ended up here, on the request board."
+"how did ig t get fromt  the box to the board?
+You ask, "how did it get from the box to the board?"
+aluminum exclaims, "if you type 'look rb' now, you'll see the one that
+ $goat! did as a test the other day."
+aluminum says, "moo magic."
+"where is the box? I did read the text  st
+You ask, "where is the box? I did read the test"
+$Goat! sits down at the table.
+aluminum says, "it was in the hallway of the conference center."
+aluminum says, "that's a detail, though."
+aluminum smiles.
+Tarquin peruses the fine literature posted on Request Board <rb>.
+ryan.schram@ sits cross-legged on the floor.
+Tarquin says, "the request board works well i think"
+aluminum says, "the members of the qrb would come here and check the
+ request board. if there was a request, they would read it, as you can
+ now."
+aluminum says, "they could comment on it, or vote on it..."
+"where do they comment and where do they vote?
+You ask, "where do they comment and where do they vote?"
+aluminum says, "usually, people would read it, and then come back to it
+ later, after looking at other stuff the player had done."
+$Goat! . o O ( news 1 is about quota request cards and all )
+aluminum says, "whenever they're ready."
+Tarquin . o O ( alan needs to read 1 on rb )
+aluminum says, "we used to have lumper's player info bank that was very
+ helpful."
+think I did
+Alan . o O ( I did )
+news 1
+Author: Claw (asleep) (#5578)       Subject: Quota Review Board Overview
+Last Update: Always Valid
+
+The purpose of this post is to give everyone here at PMC a general 
+overview of the Quota Review Board and some idea of the general 
+guidelines by which the QRB operates.
+
+The Quota Review Board was formed to alleviate our wizards of the 
+task of answering quota requests and examining objects built by the 
+requesting player to determine if more quota for that player was 
+to be given.  The deegation of quota related duties to the QRB 
+gives our wizard team time to attend to more pressing matters.
+
+The current members of the Quota Review Board as of May 2, 1995 
+are aluminum, Ashley, Claw, Goat, ignatz, Lumper, Midnight, and Sedate.
+
+Presently, to request quota, go to the Library Hub off the corridor in
+ the
+main PMC complex.  There, you will find a stack of quota request cards
+and a QRB mailbox.  Just 'take card from stack' and follow the
+ instructions
+presented. Put your request in the mailbox when you are finished.  Your
+request will be forwarded to the QRB for voting.
+*** More ***  49 lines left.  Do @more [rest|flush] for more.
+@more
+When constructing your request message PLEASE include the following
+ info:
+  1. The amount of quota requested.
+  2. What the quota will be used for.
+  3. A general idea of the kinds of things you have been doing with
+     the quota you already have.
+
+The request information is then transferred to a ballot for voting 
+and comments by the QRB.  This ballot allows each QRB member to cast 
+a vote of 'Yes' or 'No' on the request or to 'Abstain' from voting on 
+the request altogether.
+
+When a quorum is reached on a request (A quorum being 50% or more of 
+all active QRB members) the voting on that request is closed and the 
+votes are tallied and the request is processed in the following manner:
+  A. If the number of 'Yes' votes exceeds the number of 'No' votes, 
+     the request is considered approved and notification is send to 
+     the wizards indicating that the request was approved.
+  B. If the number of 'No' votes exceeds the number of 'Yes' votes, 
+     the request is considered denied and the requester is notified
+     of that fact.
+  C. If, after all active members of the QRB have voted, a request
+     results in a tie vote, the request is automatically considered
+*** More ***  27 lines left.  Do @more [rest|flush] for more.
+@more
+     approved and the wizards are notified of the approval.
+
+Guidelines for Additional Quota (Minimum Standards)
+
+  1. It is expected that any object owned by the requester:
+
+     A. Has a description.
+     B. Has been built without malicious intent (spam devices, etc.)
+     C. Conforms to the standards in 'help quota-policy'
+     Note - In addition to setting descriptions, any messages related 
+             to the object should be set (entrances, exits and such)
+   
+  2. In addition, objects owned by the requester should (ideally) be
+     accessible by the general public.  More quota will be given to 
+     those players whose objects are useable by the entire MOO.
+     While it is realized that *some* items are for personal use,
+     publically useable, or at least publically accessable objects
+     are considered a plus.
+
+  3. The QRB is expected to consider points 1 and 2 above when 
+      coming to a decision about how to vote on a request.
+
+If you have any questions about the Quota Review Board or it's 
+*** More ***  8 lines left.  Do @more [rest|flush] for more.
+@more
+operation, please feel free to contact a QRB member.
+
+--------------------
+Tarquin says, "the rb asks for comments and votes"
+$Goat! says, " misses Lumpers coding"
+aluminum says, "you would evaluate people's stuff: was it well-written
+ or interesting or did they describe everything and did they learn any
+ programming etc. etc., whatever your criteria were."
+aluminum says, "qrb members would vote."
+"I see, that's simpleenough       enough.
+You say, "I see, that's simple enough."
+$Goat! peruses the fine literature posted on Request Board <rb>.
+Tarquin [to Green_Candle]: a guest is requesting entry
+ryan.schram@ says, "do we really still have to do that for the rb....it
+ seems the Project system would separate private use from public use"
+ham peruses the fine literature posted on Request Board <rb>.
+aluminum says, "when a quorum had voted, the result was tabulated and
+ whisked away. claw manually forwarded the information to the wiz
+ staff."
+Green_Candle asks, "Do you want a guest involved?"
+"sureham says, "no"
+
+You say, "sure"
+aluminum thinks the guest is a bad idea.
+"ham beat me to it...
+You say, "ham beat me to it..."
+se'lavy say, "guest is a bad idea"
+$Goat! says, " why a guest only players not guest"
+Green_Candle stands, with arms blocking the door, sneering at Guest.
+Tarquin [to ryan.schram@]: it seems to me a request is a request and
+ they need equal teatment
+ryan.schram@ says, "its ku'upio_meow"
+ryan.schram@ says, "then they need the same system"
+You sense that Guest is looking for you in generic room (#3).
+It pages, "'where is freedom when a speaker for the populace won't be
+ let in?"
+pagaluminum says, "that's the basic way it worked. the player would get a
+e note saying their request was approved or denied, with no further
+ explanation."
+ guest sYou sense that Guest is looking for you in generic room (#3).
+ayIt pages, "'stop the meeting. vow not to take part in meetings until
+ everyone can speak, low or high."
+s "where is fre               ^R
+page guest sa             "guest is saying to me "where is freedom when a speaker for the populace won't be let inryan.schram@ says, "i'm jes askin if we should be so critical of quota
+ for fun stuff...now that we have projects , we will get a lot of rb
+ requests for that"
+."
+You say, "guest is saying to me "where is freedom when a speaker for
+ the populace won't be let in.""
+aluminum hopes that is clear. hopes we can move on to substantive
+ issues that we need to decide.
+$Goat! says, " I think the no discussion  was bad in the old system"
+Tarquin [to aluminum (anodized)]: that is a fault in my veiw they need
+ some explanations
+"gryan.schram@ says, "@gag the guest"
+e guest is pagy ing me a lot...
+You say, "gguest is paging me a lot..."
+ryan.schram@ says, "I'll be pagiong him/her"
+@gag guest
+You are now gagging Guest (#93).
+Green_Candle [to Alan]: tell guest that it waits patiently til the hard
+ work is done...then's the time for freedom.
+se'lavy grins, terrorist paging
+aluminum [to Alan]: just tell guest you can't unlock the room.
+Ignatz beams.
+ryan.schram@ says, "i asked her to stop for my sake"
+"I just gagged... Ignatz has to go
+
+You say, "I just gagged... "
+Ignatz waves.
+Green_Candle [to ryan.schram@]: Oh thank you...you're such a martyr...
+Ignatz puts a trashcan on her head and walks out the door.
+aluminum asks, "does everyone understand the basics of the old system?"
+ham nods
+nod
+Alan nods.
+Tarquin says, "it was my hope that the new qrb would be more accounable
+ and have to explan its actions"
+ryan.schram@ nods.
+"would we then describe the reasoham thinx explainins a good idea
+ns for our voting at the same aluminum [to Tarquin]: i agree. i gather most people agree from what
+ i've read/heard.
+time that we vote?se'lavy nods
+
+You ask, "would we then describe the reasons for our voting at the same
+ time that we vote?"
+aluminum says, "perhaps."
+ham says, "that would make sense"
+Tarquin says, "silence after a nefgative vote is destructive"
+$Goat! says, " So the old system is  good but needs a tune up.  and
+ this tune up would not stop request right?"
+ham says, "or sometime before the weeks out"
+aluminum asks, "is that the next issue you'd like to address?"
+aluminum guesses we can address it...
+@ungag guest
+Guest removed from gag list.
+You are no longer gagging anything.
+aluminum asks, "is there any benefit to private discussion among the
+ qrb members about a proposal?"
+"that would bother me; Tarquin says, "why not let the requestee see the comments"
+we certainly can email each otherse'lavy say, "we could use *qrb for that"
+ if nealuminum says, "and... should there be a formal revision process as
+e suggested by the wiz staff in one of their news items?"
+d be..
+You say, "that would bother me; we certainly can email each other if
+ need be.."
+ryan.schram@ says, "why not involve the requestee in the discussion"
+"yes to ryan
+You say, "yes to ryan"
+A little red light blinks on the surface of Eye.
+Tarquin says, "secrecy breeds contempt"
+se'lavy nods
+Green_Candle nods in agreement with Tarquin.
+"it seemsGreen_Candle smiles.
+ to breed Niki...
+You say, "it seems to breed Niki..."
+ham lafs
+aluminum asks, "how about some forum for moo-wide discussion?"
+ryan.schram@ says, "wherre is Niki this fine evening"
+Green_Candle [to Alan]: You can have Niki as your personal $project.
+Tarquin is through breeding
+t page Green_Candle NNNNNNNNNNNNNNNNNOGreen_Candle thinks she may be incognito as a Guest.
+OOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!
+Oh?
+se'lavy say, "what is written on the Request Board could be the
+ official statments to the proposer"
+$Goat! smiles 
+ryan.schram@ says, "Oh, Alan, you seem to have a much better grasp of
+ the therme...tee hee..;)"
+ham nods to official statements on board
+nod Ham
+Alan nods in agreement with ham.
+aluminum says, "this would override defender's *projects list, unless
+ we link them."
+"what isTarquin asks, "why does the qrb room need to be locked? why not let it
+  be open to the public?"
+the advantage of one over the other?
+You ask, "what is the advantage of one over the other?"
+ham says, "well couldn't there be somekinda crosspost"
+Green_Candle will unlock it if you'd like.
+aluminum says, "there could."
+se'lavy say, "no--the projects list is for open discussion"
+$Goat! says, " Qrb room is a work area"
+aluminum [to Green_Candle]: let's wait until the end of the  meeting,
+ ok?
+se'lavy say, "I don't see why one overrides the other"
+Green_Candle [to aluminum]: sure thing...whatever you'd like.
+aluminum says, "i only meant that if we have a discussion here, it
+ won't be available to the whole moo. unless, of course, we make this
+ room open."
+Tarquin says, " let everyone see and read the RB and keep track of a
+ proposals progress"
+aluminum says, "so... how's this."
+Green_Candle thinks that anyone can read a transcript of the meetings
+ though..it's difficult enough to have meetings with the few who do
+ show up.
+Tarquin says, "in the past a proposal would languish for days and
+ sometimes weeks with no comments or votes"
+aluminum asks, "it's on the rb until approved, and then it goest to the
+ projects board that defender made?"
+*** More ***  1 lines left.  Do @more [rest|flush] for more.
+@more
+ham nods to difficulty
+$Goat! says to Tarquin, "a none qrber can not read rb even if in the
+ room I think."
+.....LANGUISH?.....
+Tarquin nods
+aluminum [to Tarquin]: that's another issue. can we finish this one?
+ryan.schram@ languishes on the floor of the QRB wiithout comments.
+:languishes Al........how lovely.......languishing proposals......lovely......
+an for a change...
+Alan languishes Alan for a change...
+Tarquin nods again
+aluminum says, "this is what i hear: make the discussions public as
+ they are in progress."
+aluminum asks, "is that the consensus?"
+" nod
+Tarquin nods once more
+Alan nods.
+"damn, late again.
+You say, "damn, late again."
+ham asks, "how would that be done?"
+...all in favor, languish...
+ryan.schram@ says, "aye from the QRBer from The New Topos Hotel."
+ham asks, "excerpts from the qrb list?"
+ham says, "or projects list"
+aluminum suggests we delegate the details to a smaller group, that
+ would also have to include defender and claw.
+aluminum nominates ham.
+aluminum grins.
+ryan.schram@ smiles.
+ham says, "i don't really think there's need for it during the week"
+Tarquin seconds hams nomination
+ham says, "why not just wait and summarize the points at the end of the
+ week"
+aluminum says, "i'd like to get to the issue of quorum. i think that's
+ holding us up more."
+ham says, "if it's rejected"
+aluminum [to ham]: that's not what the consensus just agreed on. you
+ spoke too late.
+$Goat! agrees with alum quorum is holding us up
+Green_Candle wonders if Sundays could be the day that the discussions
+ end..the QRB gets together to vote, and construction on new projects
+*** More ***  1 lines left.  Do @more [rest|flush] for more.
+@more
+ can begin on Monday.
+Tarquin asks, "are we agreed to keep the RB and its functions?"
+ham says, "well then someone else can work out the details"
+Green_Candle says, "Whoever shows up on Sunday gets to vote."
+ryan.schram@ says, "i savor the delicious performative elemnet of
+ Public Discussion..or Reports to the Public"
+se'lavy say, "yes keept the RB and its functions"
+aluminum [to Tarquin]: in some form. i think so.
+"the rb is simple to use, thTarquin [to Green_Candle]: BAd Idea
+at's a plus
+You say, "the rb is simple to use, that's a plus"
+aluminum nominates rschram for the committee with ham.
+$Goat! says, " no I do not like meetings as we are spead across the
+ world"
+ryan.schram@ says, "eek"
+aluminum says, "i agree. weekly meetings won't do it."
+ham says, "ya simpler just to vote"
+Green_Candle nods.
+ham says, "that's why there's no way to dissemintae discussions"
+ham says, "since there's unlikely to be much"
+"we could each have our se'lavy nods
+voting accomGreen_Candle thinks that they shouldn't languish for more than a week
+p though...
+n anied b       ^R
+"we could each have our voting accom aluminum says, "since i'm moderating... let's stick to one issue at a
+^R
+"we could each have our voting acc       time."
+^R
+"we could each have our vot                           aluminum [to Green_Candle]: agreed. we're not there yet, though.
+se'lavy say, "you could talk to the project itself through its mailing
+ list"
+ham says, "and if the voting is timely it can all be done at the end"
+$Goat! says, " I like the one week deadline"
+aluminum lets out a long sigh.
+ryan.schram@ says, "the suggestion to randomly..or otherwise assign
+ QRBers to requests/projects to get info for the group was very
+*** More ***  1 lines left.  Do @more [rest|flush] for more.
+@more
+ good...then we could almost do w/o complete meetings"
+Tarquin [to aluminum (anodized)]: we are talkin quorum now
+Green_Candle says, "hey...listen up....let alum moderate."
+aluminum says, "i thought so."
+$Goat! says, " I think a quorum should be 1/3 of qrbers"
+(from Q.R.B.) Green_Candle covers eir ears...this is the part that I
+ can't bear!
+ryan.schram@ nods.
+page Tarquin says, "I am very afraid of the qrb approving projects with as
+ few as 2 or 4 votes"
+Green here we go! ...aluminum would like to see half +1, for reasons i stated in a note to
+  *qrb earlier today.
+But I'm definitely going to dye my hair.Tarquin meant 2 or 3
+..
+"Green" could refer to Green_Candle (#14492), Spanky(Spankmeister)
+ (#11077), Green Sorcerer (asleep) (#4725), or Green Knight (Immortal)
+ (#10440).
+page Green_Candle here we go, but I'm definaluminum asks, "out of how many? 17?"
+itely going to dye my hair...
+Oh?
+se'lavy ask, "how large is the qrb?"
+$Goat! says, " Then we NEED to trim the none voting qrbers"
+ryan.schram@ says, "why..are projects that dangerous..its the members
+ responsibility to state objections...if not voteds"
+Tarquin says, "I haven't seen 17 interetsed people"
+Green_Candle would like to point out that both stay, le_soldat are
+ interested...
+"how many in all?
+You ask, "how many in all?"
+ham asks, "what's soldat's problem?"
+ryan.schram@ says, "You should do a "quorum call" on thenm via email"
+aluminum asks, "what's an ideal number, individuals aside?"
+$Goat! says, " 1/2 plus is fine with me if we trim the ...."
+aluminum [to $Goat!]: right.
+nod all
+#4422:nod, line 5:  Invalid indirection
+... called from #6:my_huh (this == #14773), line 30
+... called from built-in function pass()
+... called from #4326:my_huh (this == #14773), line 16
+... called from #57:do_huh, line 6
+... called from #1:huh (this == #1615), line 5
+(End of traceback)
+nod
+Alan nods.
+ryan.schram@ nods.
+aluminum asks, "should we aim for 15?"
+Green_Candle says, "le_soldat also has been busy...hasn't had a
+ connection...but I've received mail from him saying that he is
+ interested."
+Green_Candle he's been reading the transcripts.
+"15 anham nods
+d 7 for quorum and 4ryan.schram@ is away from the keyboard right now.
+-5 for agreement
+You say, "15 and 7 for quorum and 4-5 for agreement"
+Green_Candle asks, "What happened to Iggy? I couldn't tell if she left
+ in disgust."
+aluminum [to Green_Candle]: suggest he post to *qrb. i don't know him
+ or anything about his views.
+aluminum [to Green_Candle]: probably. but she didn't quit, so let's not
+ assume.
+ham nods to alan
+$Goat! says, " I though a quorum voting one way   yes or no"
+" ??
+You ask, " ??"
+aluminum [to $Goat!]: could you explain that?
+ham says, "no quorum is how many votes total are needed for a valid
+ vote"
+Listen...
+Green_Candle pages, "I LOVE Goat's writing style."
+$Goat! says, " sure the old system 4 had to vote yes "
+aluminum [to $Goat!]: true. this system is asking for much less
+ agreement.
+page Green hh  I'm watching baseball...Tarquin asks, "how many were on the qrb when you needed 4 votes?"
+
+"Green" could refer to Green_Candle (#14492), Spanky(Spankster)
+ (#11077), Green Sorcerer (asleep) (#4725), or Green Knight (Immortal)
+ (#10440).
+page Green_Candle I'm watching baluminum says, "eight."
+aeball...
+Oh?
+$Goat! asks, " so now if 7 vote oand 4 say yes it passes?"
+aluminum says, "it required 4 votes either for or against."
+nod
+Alan nods.
+Green_Candle responds, "why?"
+Tarquin says, " we need to keep the number high"
+aluminum says, "out of eight."
+page Green_Candle because it _is._Green_Candle responds, "this is inane! I'm not listening! I'm reading
+ Heidegger!"
+
+Oh?
+page Green_Candle giggle...
+Oh?
+$Goat! says, " I would say 1/2 of qrb say yes to pass"
+Listen...
+Green_Candle pages, "Because he IS...now, what do you mean by IS?"
+page Green_Candle baseball, $Goat! says, " maybe 1/3"
+4 toham says, "not if they're 15"
+ 2 braves... or at least _was_Listen...
+Green_Candle pages, "Did you tell diva about the time change yet? OR
+ bookish?"
+
+Oh?
+Tarquin [to ham]: why not?
+You sense that Guest is looking for you in Inside/Out.
+It pages, "'freedom is a thing we are all entited too. give me mine and
+ let me enter."
+page Gren_Candle         een_Candle both, yes
+Oh?
+ham says, "because of problems gettin all the votes in"
+ham says, "that's why the quorum discussions"
+se'lavy thinks you want an odd number too
+"Tarquin says, "that was a problem with 8 as well "
+ham says, "keep things timely"
+^R
+page Green_CListen...
+anGreen_Candle pages, "Why did it change? I miss Diva! I want her to come
+ to NYC! Make it december instead!"
+dse'lavy nods n nods
+le guest aluminum says, "ok, now i'll bring in the time thing."
+wriham says, "well"
+tes: "freedom is a thing we are all entham says, "ther ya go"
+itled too. give me mine and let me enter."ham says, "makin it more won't solve that"
+
+Oh?
+aluminum says, "thephoenix suggested a double system... achieve a
+ quorum within a time limit."
+page Listen...
+GGreen_Candle pages, "Isn't aluminum divine? She's just like Heidegger."
+reen_Candle I don't have any control over this...
+Oh?
+page$Goat! says, " I like that alum"
+ Green_Candle Heidegger must have had a quota somewhere... all those words being nothingness...
+Oh?
+Tarquin says, "exactly but the old qrb had no time limit and they often
+ felt like it was an impostion to have to vote at all"

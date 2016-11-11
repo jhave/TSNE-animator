@@ -1,0 +1,1639 @@
+FILE NUMBER 7    SEVEN                                   Alan Sondheim
+
+
+}}}}}}}}}}}}}}}}}}}}}}}}} NET7.TXT {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{
+
+----------------------------------------------------------------------
+
+
+
+The Water-Column
+
+
+late at night, loneliness betrays itself
+sad things find their uselessness
+apart, the curtain parts 
+the stage is an oval in another room
+of wood
+my arms remain and there is nothing
+beyond my arms
+i cannot cover the warmth of this bed
+sprawled upon a dream in which you are
+always awake and on that stage
+of wood
+
+i sprawl on the stage, there are layers 
+of boards upon boards, curved inward,
+blank center where double ovals lose 
+sudden focus, absence of landmark, voice, 
+arms or otherwise
+
+late at night i beg you, watch me, i have 
+no secrets, expose thin flesh every 
+second, millimeter so you have no doubt
+no doubt
+
+but apart the oval harbors surety or
+galleon where the body opens always and
+ready on the side of the other 
+
+now the oval is on a ship where 
+planking is the word for boards and you 
+watch me walk a length or plank where 
+i arrive in you full of arms and
+watching
+
+i am wearing feathers and gold which
+follow me into a mine deep within
+the hold. here i meet soldiers and have
+many fights.
+
+adventures await she who seeks them
+finding performances on the ship such
+as king lear or cordelia wanted me to.
+
+wounded, my sad arms grapple uselessly
+behind my back, taking one another.
+
+the sails are very large and the journey 
+is wonderful, filled with wonderful storms
+and fiery sunsets. two dark and crimson
+birds follow the stern rising high above
+steel waves only to sink down for several
+stories, of the sea, no doubt i have told
+you of the stage as well. my arms lie
+beneath them.
+
+
+--------------------------------------------------------------------- 
+
+
+The Interruption
+
+	I move from one program to the next. The keyboard is 
+difficult, a violent operation of pressure against the tips of the 
+fingers. Neck and backpains are common in the wilderness. With great 
+difficulty I continue laboring beneath the tree. Everything holds 
+its own against me, a form of cynicism catching me by surprise. You 
+must imagine the scene with the single tree in the landscape, the 
+shadow of the noonday sun, violence casting the shadows of its 
+branches against the blue-white sky. The solitude of black
+illuminates a singular and desolate bird perched in the midst of 
+the firmament. 
+
+	I must send this information to Justine; more than a matter 
+of survival, my very life is at stake. It is a question always 
+already of translation, unix to dos to binary through xmodem ymodem 
+kermit uuencode pkunzip, the collapse and recuperation of text 
+completely alien to the landscape around me. I am insane with 
+garbled characters, insane with the level of debris sloughing from 
+the body hanging down into the heated surface of the desert.
+
+	I would be the desert. I would cauterize and dry the scalp, 
+split clean from the skull; I would place them on the firmament, 
+an enormous plate boiling with turbulence from desiccated air. 
+Nothing works in this world, high in the Peruvian mountains, low 
+in the badlands of eastern California. The atoms themselves are 
+sluggish, moving aimlessly with nervous energy, never straying far 
+from the obdurate density of gravel and sand.
+
+	ASCII chokes with the necessity of information conveyed, 
+returned to proper language. ASCII slides, snake-like, across the 
+floor of the earth, a trail both imminent and erasable, existing 
+within the potential well of absolute desertification; it sprouts 
+where nothing else grows, grovels beneath the weight of the skull 
+already fractured from the heat. It revels in secrecy which no one 
+hears, slides into pools of letters, misplaced punctuation, cries 
+and murmurs hardly stilled beneath the blazing surface of the planet.
+
+	What I would be is of no importance. Blood flows thick in 
+this realm, stops, reverses, slows to the indefinite halt of 
+temporality itself. Blood dried is the color of the desert; within 
+this languid landscape, the desert is the color of dried blood, 
+the identical color of the sky, the bird, the tree, skull, me, 
+ASCII or binary sludge. Someone alive would comprehend this, the 
+proof that thought thinks itself, that nothing _thinks thought_.
+Unthinking, I remain unthought.
+
+sondheim@newschool.edu, sondheim@panix.com
+
+
+----------------------------------------------------------------------
+
+
+Qbasic Programs
+
+The following two programs work with VGS monitors, graphing in black
+and white for the purposes of reproduction. See Internet Text for
+details of the first, which is the program for three-dimensional
+projections of generalized measure geometries. Note in this version
+that at the "Continue?" prompt, a "1" must be initially returned, or
+else the program overflows.
+
+The second program maps a rather complex and beautiful bifurcation
+set which I am at a loss to comprehend. It is a derivative from 
+bifurcation equations common in chaos analysis.
+
+
+----------------------------------------------------------------------
+
+
+DEFDBL A-Z
+CONST PI = 3.141593
+CONST dtr = PI / 180
+here: SCREEN 0: CLS
+PRINT "A 3d Program Examining Basic S-Series"
+PRINT "for new constants or data hit r; for new projection hit s"
+INPUT "for inc. f w/ cycle hit 2, inc. f w/ va hit 1"; dra
+INPUT "projection, set default at 1200"; d
+INPUT "yaw, set default at 5.68319"; r1
+INPUT "roll, set default at 6.28319"; r2
+INPUT "pitch, set default at 5.79778"; r3
+INPUT "translation, set default at 0,0,-350"; mx, my, mz
+restart: PRINT vw; vx;
+INPUT "Continue? Hit Return, New Entry, Hit 1"; cont
+IF cont = 0 THEN GOTO zim
+INPUT "series exponent, usually 2"; vk
+INPUT "increment for modulus"; inc
+INPUT "bias for angle"; bias
+PRINT "formula: x=x+e+f*h  f=f+u"
+INPUT "height (va) mag, 0 = 2d display"; pa
+INPUT "incs. e, f, h"; ve, vf, vh
+INPUT "set u"; vu
+INPUT "magnification gen. 1-6"; j
+PRINT "window at (-399, -299), (400, 300)"
+INPUT "set window bias, x axis / y axis"; pb, pc
+px = 0: py = 0: sx = 0: sy = 0: vx = 0: vq = 0: vw = 0
+s1 = SIN(r1): c1 = COS(r1): s2 = SIN(r2): c2 = COS(r2)
+s3 = SIN(r3): c3 = COS(r3): CLS : SCREEN 11
+pd = -399 + pb: pe = 400 + pb: pf = -299 + pc: pg = 300 + pc
+WINDOW (pd, pf)-(pe, pg): VIEW PRINT 1 TO 1
+ten: IF dra = 1 THEN va = 0
+vx = vx + ve + vf * vh: vw = vw + 1
+IF dra = 2 THEN va = -1: vf = vf + vu
+IF INKEY$ = "r" THEN GOTO restart
+zim: IF INKEY$ = "s" THEN GOTO here
+two: va = va + 1
+IF dra = 1 THEN vf = vf + vu
+IF vx MOD vk ^ va = 0 THEN GOTO two
+vn = va MOD inc
+vv = 360 / inc
+vq = (vv * vn + vq + bias) MOD 360
+vrq = vq * dtr
+px = px + COS(vrq)
+py = py + SIN(vrq)
+x = j * px: y = j * py:
+z = j * va * pa
+PSET (sx, sy)
+x = -x: xa = c1 * x - s1 * z
+za = s1 * x + c1 * z: x = c2 * xa + s2 * y
+ya = c2 * y - s2 * xa: z = c3 * za - s3 * ya
+y = s3 * za + c3 * ya: x = x + mx: y = y + my: z = z + mz
+sx = d * x / z: sy = d * y / z
+LINE -(sx, sy)
+GOTO ten
+
+----------------------------------------------------------------------
+ 
+
+REM CHAOS BIFUR 2 bifurcation set for function w/cosine
+INPUT "set increment at .01 or .005"; m
+CLS : SCREEN 11: WINDOW (-4, 2)-(.25, -4)
+z = -4: x = 0
+LINE (-4, 0)-(.25, 0): LINE (0, 2)-(0, -4)
+two:
+IF t < 30 THEN t = t + 1 ELSE GOTO three
+x = (x ^ 2) * (1 + COS(x)) + z
+PSET (z, x)
+GOTO two
+three: x = 0
+z = z + m
+t = 1
+GOTO two
+
+----------------------------------------------------------------------
+
+
+Surgical-Medical Model of Night Abuse: Addiction to Blind Text
+
+
+The night swells out, an enormous bruise cushioned against the 
+network of the neural insomniac; within reason, I recognize, only
+through the recuperation of this text, the foreclosed nature of
+abuse and addiction that sanctions the violence of computer
+discourse. Addiction to abuse is always deliberate misrecognition;
+today one speaks of "denial," "in denial," the classical ground of
+Freudian negation. To speak _abuse_ is not to disabuse, a longer
+drawn-out operation, cauterizing speech itself. (The duality of
+this life is such that I will die chattering.)
+
+The _tumor_ of this operation inhabits the chaotic, accurate
+within the molecular realm, disingenuous elsewhere. The _striated_
+sky, with its mapping of stars and constellations, sidereal time,
+is no longer visible; the thick veins and arteries that pulse 
+there guarantee the inchoate spreading of tissue beyond control.
+One writes to avoid collapse, to avoid the confrontation that 
+writing alone can bring; one speaks in order to avoid speaking, to
+allow the machine in him or her to speak, to dream, to whisper
+uncanny thoughts from the dead Jean-Paul Sartre:
+
+"which forces the working woman to live a prefabricated destiny as
+_her reality._ She would try in vain to take refuge in intimate
+'privacy'; such a remedy would betray her directly, and become
+simply a mode of subjective realisation of objectivity. When semi-
+automatic machines were first introduced, investigations showed
+that specialised women workers indulged in sexual fantasies as they
+worked: they recalled their bedrooms, their beds, the previous 
+night - everything that specially concerns a person in the isolation
+of the self-enclosed couple. But it was the machine in them which
+was dreaming of love: the kind of attention demanded by their work
+allowed them neither distraction (thinking of something else) nor
+total mental application (thinking would slow down their movements).
+The machine demands and creates in the worker an inverted semi-
+automatism which complements it: an explosive mixture of uncons-
+sciousness and vigilance. The mind is absorbed but not used; it is
+concentrated in _lateral_ supervision; and the body functions
+'mechanically' while yet remaining _under surveillance._" (Critique
+of Dialectical Reason, p. 233.)
+
+Haunted by the _discourse_ on the machine, and the machine _in me_,
+the lassitude of consciousness and the daydream infiltrates the
+onward projection of ASCII speech, almost without interrupt, the
+linguistic _instance_ wavering as part-object before taking its
+place among others. This "total mental application" is dissolute,
+a _Spaltung_ or split within the subject-denying-the-subject, just
+as sexual or physical abuse forecloses the accounting of the body,
+going so far as to discount accounting itself. Thus the body be-
+comes drawn further in, the _wayward_ or _contrary_ body-in-
+remission, acting-upon as if acting. Through withdrawal this becomes
+evident as the _inauthentic object_ of denial, the circumlocution of
+absence or password leading into the null gateway (see Internet 
+Text). The tumor spreads, simultaneously suturing the subject
+against the originary narcissistic wound or separation, and 
+precluding a recognition that could only be described as clarity, 
+silence, rewiring. The content of abuse is _for this never to 
+happen;_ subjectivity would collapse through the loss of address.
+(And hardwiring is almost impossible to redirect _at the source._)
+
+_Typing,_ I think this out or through, think this through myself and
+through you, and the _sense of it_ appears through the typing. It is
+within the _lateral_ that _something would occur elsewhere_ and as
+long as one types, that something is sublimated into the appearance
+of confession, truth, and observance.
+
+_Truth_ itself is the construct of sublimation. _Truth_ is the con-
+struct because it is declarative and well-defined, the production of
+the elsewhere of the world, the non-existent clean and proper body.
+Which is not to deny the truth-value of truth, the tautological in-
+stantiation hovering violently over the real. Truth cauterized is
+without its producing-matrix, the dream-screen or imaginary once
+again; and it is well to recognize that truth is a production, with
+all the implications of labor and foreclosure that is implied. 
+
+The production is eased through axiomatics or convention, the 
+playing out of a determinate field through concatenations and sub-
+stitutions. But the truth of the subject is less eased and always
+thrust against the dream-machine (which is not the desiring-machine
+of Deleuze and Guattari but should be) - the truth of the subject
+lies precisely in the murmur, the dissolute, the fissuring of fore-
+closure and everything else. (What is this, but memories of womb, of
+torture and annihilation, the exaltation of love, ecriture feminin,
+jouissance, chaotic drives and stuttering of temporality. What plays
+on the surface speaks on the surface.)
+
+Thus it seems that _under or beneath my control,_ the machine has
+produced and transmitted this text, carrying the semblance of truth
+pipelining through one or another editor, filtered beyond the belief
+of the body, carrying and admitting the signs of the tell-tale heart
+of addiction itself, closing off in the presence of the header or
+signature, sondheim@newschool.edu, sondheim@panix.com.
+
+
+======================================================================
+
+
+
+
+----------------------------\cut here\--------------------------------
+
+COMPLICIT
+
+ntalk sondheim@panix.com
+
+======================================================================
+I watched Salo last night. I watched a young boy gang-raped on the
+street here. I saw the best minds of my generation. I allowed 
+myself to be fucked by everyone. I gave her the best years of my
+life. She destroyed me for her pleasure. Without her I could have
+amounted to something.
+------------------------------on call---------------------------------
+You talk too much. You always think you have something to say. It
+doesn't matter what you do. You're complicit in nothing. You can't
+even recognize the presence of anyone else. You're not even 
+listening at the moment. I know you. You're not even listening.
+
+======================================================================
+I found myself getting aroused. If I was split open I would die and
+that would end everything but the residue of guilt. You would have
+to carry that
+
+
+----------------------------empty words-------------------------------
+You'll have to slow down. I can't read as fast as you type. You fill
+me with words, stuff my skin-bag full of them. I'm bloated, stop
+writing and listen to me. I'm bloated and you've taken everything from
+me. I'm limbless, a body without anything. You've opened me up and
+removed my organs. The signifier rapes the signified. I don't and 
+======================================================================
+There were all these adolescents, naked, under absolute control. You
+could feel their bones and skin. You could smell them. I couldn't help
+it. I was riveted. I dream of them all the time. They fill my body. I
+am their disease.
+
+--------------------------intellectual and jargon---------------------
+can't speak. The signifier carries me around like loose baggage. The
+signifier holds me like a sack. I don't even have a name. I travel 
+light but you gouged out my eyes, burst my eardrums. What I remember 
+is that I might be the torture of Oedipus in your skull. Why do you
+always watch films. Why do you.
+======================================================================
+I run myself over their bodies, shove my hand between their legs. I
+run the film backwards, forwards, in control of absolute time, the 
+return of the repressed. Cutting through them, performing a new edit.
+I was the original editor of Pasolini. There was never any other. Now
+do you know my name?
+----------------------------dense illumination------------------------
+The skull sends out light through the mirrors of its eyes performing
+the operation "skull." Light gushes down, shuttered by the bones of
+the cheek, a division. My light is your film. My eye is your 
+projector. You are the witness of your witness. Your film.
+
+======================================================================
+I wrap myself in celluloid, cut thin through my skin. Blood hiero-
+glyphs mark my passage across me, the Salo narrative tattoo and body
+penetration. If you could see you would find me at scene's edge, 
+land's end. You would turn away, you wouldn't be complicit.
+
+------------------------------burn me alive---------------------------
+I am turned away, torn away. Why do you thrust your film on me? Why
+do you thrust this or any other time? Why do you insist on narrative.
+It's clear: _The sentence is a sentence._ Doomed to speak little plots
+which are all the speech there is. Doomed and dominated.
+
+======================================================================
+And there are those books, those magazines, clandestine meetings, 
+fantasms wrought from unhealthy air, lurid matter. Playing solitaire,
+shuddering in the _face_ of the image, its alterity. Playing anyway.
+
+
+-----------------------------disturbance------------------------------
+There is an atmospheric disturbance. There is a national weather 
+warning. Turbulence increases; I float nameless, lost signifier. All
+those bodies. I will _not_ be complicit. I will look away.
+
+
+======================================================================
+Images follow you; there is no escape, no password to a dead-end gate-
+way, hideout, archaic protocol abandoned on the Net. Suffer the little
+children. I will not name you cause I don't wanna and you can't do
+anything. Just cause I don't wanna. The cause, or causation. Suffer 
+the little children, shatter the prime mover.
+------------------------------action and death------------------------
+Eating my flesh I devour my name. I did something, not your anything,
+just something. I never had a name. I never watched anything. I went
+into the streets, carried the black flag of anarchy, the red flag
+of revolution. I went into the streets. I fought well, overturned the
+cobblestones, went alone up to the tank with a flower in my hands.
+======================================================================
+
+
+
+
+----------------------------------------------------------------------
+I walked up to the tank and felt something I could not talk about from
+then until this day, simultaneous amazement and silence. Everything
+stopped, then, on that day, that clear blue summer day, almost cool, 
+an autumnal preparation. Everything stopped.
+
+======================================================================
+
+^C
+
+
+
+----------------------------------------------------------------------
+
+
+FILM RESPONSE TO THE WORLD
+
+
+As in the situation of _Marcel Pleynet,_ there are times that I 
+overwhelm myself with brilliance, the justification of my reading 
+in the appearance of a _text askew,_ an _elemental_. My reason for 
+existence is clearly theory itself, nothing more; this _incomplete 
+task I call the world_ remains my own. Thus in the guise of 
+conversation or reply, I _transform myself_ into a dream of the 
+Academy or Lyceum. I remember the resonance of each and every port, 
+the potential for support or retort, affect or effect. Beneath the 
+surface, I am a node on the Net, the disaster of protocol itself. 
+Anyone and everyone sees through me; my guise is one of transparency. 
+
+The first response, as in the situation of _Pleynet,_ is that of 
+the proto-determination of the _name_. Begin here. End here. It 
+involutes, thrusts out through the very measure of discourse. 
+
+It is in the nature or form of the _game_ which anyone can play, but 
+which returns sublimated by the establishment of the rules _in the 
+face of the other_. Note within and without the opening gambit, for 
+such as it is, the declaration of resistance withdrawn - clearly a 
+form of resistance. This preciousness is reminiscent at the least 
+of Klossowski, the delimitation of a manifold or obstruction 
+overcome by its declaration which is clearly a performative. The 
+performative lends itself to the other, only the relative trans- 
+parency of the situation fools no one at all.
+
+
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+
+I cannot resist remarking that Brakhage = bra\cage, for that period the 
+simulacrum of the breast. Your description of Mothlight tallies with work 
+done by USCO and company around the same time - the production of 
+_Ganz-feld_ artworks and experiments; one example was a cloth sphere or 
+breast, against which the viewer placed his or her face, with eyes open - 
+the result was all sorts of hallucinatory sensations.
+
+_Pushing against_ the camera is also against the breast? Not necessarily 
+the phallus - the camera possess a phallic appearance and is a _unit_ in 
+the scene, but the scene itself is an expansion, collapsed by the push.
+
+On Tue, 28 Jun 1994, Robert Withers wrote:
+
+> Can we avoid the notion that the camera represents a subjectivity, an
+> authorship, a point of view?  Not sure that we can.  Brakhage complained
+> about the lens as the tyranny of Renaissance perspective -- can the camera
+> be separated from subjectivity?  Tyranny of the suture?
+> 
+> Brakhage in Mothlight (moth parts scotch-taped to celluloid) and in films
+> intended to suggest the sensation of lights that you "see" when you close
+> your eyes and rub your eyeballs pushed against the domination of the camera
+> but also fetishized it as an extension of his eye.  (Echoing Vertov's
+> fetishization of the Kino-Eye.)
+>                                              Regards,
+>                                                      Robert
+ 
+
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
+
+The camera appears again, its uneasy eye searching precisely for 
+that formation characteristic of the presence of a determinate self. 
+Everything disappears beneath the carpetry of allusion. What occurs 
+is the force of the _stain_ which spreads throughout the insistence 
+on the picture and its frame, the barrier from which the world 
+retrieves itself. Say no more! It is its own continuation.
+
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+
+Subject: Re: the camera
+
+
+This gets complicated. Years ago I wrote an article for _Obscura_ on the
+phenomenology of landscape, pointing out that you can't have an _image_ or
+representation - or even an _idea_ of an area (mountain, your lap, your
+face in a mirror, Mars) without a point-of-view; this is an interior
+monolog opened up within the body. Just as the eye "edits" light quanta
+moving in every direction, thereby producing the semblance of a mapping of
+shadows and contours to which we assign "entities," given specific
+(matrix) transformations, so an area is always already edited at least to
+the extent that there is a subject. Now, that said, there is a clear
+relationship between landscape and frame, which circumscribes or circum-
+locutes a landscape on one hand, and references a sememe (semiotic space
+beneath a signifier) on the other. Likewise, frame is relevant to script,
+and script to narratology. You see where this chain leads - from camera to
+narrative, from spatialization and secondary temporality (no space is
+present without time for the subject) to temporality and secondary
+spatialization (the landscape or mise-en-scene as substructure of
+narrative). In all instances, we are dealing with the _subject._ One could
+argue that a "truer" (forgive the use of the word) relationship between
+photo-sensitive paper and physical reality would eliminate the lens,
+frame, and shutter altogether. The result would be a black negative, white
+image - and we are _shattered_ by this whiteness, this disorder (which I
+relate to the abject) at the margins of the visible. (So to _speak_.) I
+would think the Heideggerian Dasein would come into play here. 
+
+Finally, "beyond" this phenomenology, what or whom the camera represents 
+is moot, a question of argument and the vagrancies of theory. For on 
+another level, the camera is not ever a representation, but a positioned 
+thing whose proper name is problematic and slippery. This is where the 
+freedom of theory comes in, and freedom is just another word for nothing 
+left to lose (perhaps the most philosophical rock can get, with the 
+exception of John Lydon's I may be wrong / I may be right).
+
+sondheim@newschool.edu sondheim@panix.com
+
+
+
+======================================================================
+
+
+
+INTELLECTUAL LABOR, CHUNNEL
+
+
+Meaning spat by the symbolic encrusts the machine teeth churning
+through psychotic flesh \ cylindrical wrap with helical teeth
+removes concavities from billennium strata \ circular flat with
+conical teeth rotates thrust through liquid's vast ceiling \ inert
+grind and debris of the real \ 
+
+The fist attacks the handle of the shovel. The shovel is half-buried
+in the earth, handle vertical. The distant sound of the blade is
+heard \ black sand torn from its moorings.
+
+SATIN sits at the console. SATIN smiles; her smile lights the world.
+SATIN approves satin subscribe Cybermind sondheim@panix.com. SATIN
+subs eleanor@parasol.mit.edu disapproves hawkeye@notworth.com code
+password subscribe 128.34.65.20. SATIN's long black hair cascades in
+romantic rivulets down her back her tie-died dress her red shoes. 
+SATIN's voice rings the world, the cathedral of the universal.
+
+I say to SATIN this is the choosing that thinks itself choice but is
+always already chosen. I say to SATIN this is the labor of the 
+intellect. The board lights up; everything is down; code red; every-
+thing begins to fill with garbage; carriage returns appear following
+carriage returns; the protocol takes over; net-capital reproduces
+itself, viral, on the screen:
+
+Billennial strata heave, creak slightly; the chunnel opens to the
+public; wary nations are connected; the symbolic speaks creaking;
+cracks disengage the fist:
+
+The fist goes up, goes down on the handle of the shovel. The fist 
+goes up, goes down on the handle of the shovel. The fist goes up,
+goes down; SATIN, I say, I say SATIN, this is the exhaustion of the
+mind, this is the labor of the intellectual; the fist goes up, down
+on the handle of the shovel; the fist goes down, down on the handle
+of the shovel.
+
+The shovel is the REMOVER. The shovel shuttles cylindrical teeth
+rasping the pathway of the chunnel. Subscribe Current SATIN password
+approve LAPIDARY soundproof@satin.com. SATIN's password is Satin;
+she types: q for exit, Q for exit, exit for exit quit for exit, Quit
+for exit, bye for exit. She types: Talk. She types Talk soundproof@
+satin.com; there is no response. There is no response; the screen
+clears, creaks, black goes black.
+
+The screen divides; she types Help for help; ? for help; help for
+help; h for help; ^D for help; return for help. Help comes, CLS 
+clear screen. Unix picks up the garbage, deposits it. Two nations
+dissolve, the chunnel a topographic handle connecting two spheres,
+alchemical retort. Slurry forms from class struggle, remains of the
+classical. 
+
+SATIN retorts: "The inert grind and debris of the real. The real has
+no name. Nothing was ever given a name. There is nothing. Radiation
+everywhere, radiation seeping through. What is called the postmodern.
+Acknowledge radiation. The terminal degree, terminal relationship.
+APPROVE me; I can't approve myself.
+
+I can approve everyone who cannot approve themselves. I can sub 
+everyone who cannot sub themselves. Can I sub myself? TYPE TWO. I 
+can sub myself because there is no `everyone who cannot sub them-
+selves.' At least _in this sentence_ there is no `everyone.'" SATIN
+is sentenced to this, intellectual labor, connects, disconnects.
+
+I dream of SATIN, she thinks herself through me, through Unix; she
+pipelines. I AM HER COMMAND. At the prompt C:\> I type SATIN. She is
+a bad file name. At the prompt I type cd\SATIN I find C:\SATIN> I
+type SATIN find C:\SATIN\SATIN> I type SATIN find C:\SATIN\SATIN\
+SATIN> - the chunnel continues, inaccessibly-high number of direc-
+tories, subdirectories. The shoulder moves slightly with each blow.
+"Impenetrable earth," the shovel says, "Stop this."
+
+_Begin the paean_; SATIN sings:
+
+O unrecognizable labor co-existing within the sphere that makes us!
+O form of disavowal, always speech and uuencode uudecode!
+Always to learn the syllables, always to question the floor beneath
+the chunnel!
+The labor of the chunnel, the dwelling of the floor!
+How can you know what it is like to disbelieve?
+To miss the forest because of the certain absence of trees!
+Dissolve the body, absence of each and every pleasure!
+O place the shovel deep within the earth, return the sea urchin's
+teeth to their proper habitat within the deep!
+The urchin resides on the ceiling of the chunnel, floor of the watery
+depth!
+The urchin sings "I am at her command." On the surface, billennial
+strata, the urchin sings!
+
+The stratigraphic creak opens the harboring of drives and their
+collisions. Turbulence, eddies embrace chaotic forms, swing through
+bifurcation maps. Chunnel divides; SATIN elides, classifies. It is
+in the nature of intellectual labor, caress the taxonomic. Whether
+there are categories. Whether it is categorical.
+
+
+-----------------------------------|
+
+
+The labor of the mind, dammed up, is cauterized into the neurotic.
+In neurosis, the body is masochistically bound \ to repeat. "The
+blocking of ego functions can be explained as a concentration of all
+mental energy available on one task, the building of counterenergies 
+to master the intruding overwhelming excitation." (Fenichal) The 
+system crashes into irregular loops, endless recursions. Weightloss 
+and a certain nervousness accompany the devolution of the symbolic, 
+collapse of the prison-house of language. Power manifests itself in
+continuous sleep or languor lasting up to eighteen hours a day. SATIN
+wears herself out, smokes incessently, drinks a little; there are
+dark circles under her eyes. When the system is up, it "dreams within
+her," and when it is down, _asymbolia_ takes over, incipient depres-
+sion in which meaning is always already an observable and elsewhere.
+
+--------------|
+
+As in Klossowski's Baphomet, the symbolic breath construes and splin-
+ters the body which is never in evidence. We have spoken of the
+_uncanny_. My work lies in the _muck_ of the world, that aspect of 
+abjection which refuses cleansing. I worship SATIN, dream of her
+nightly. Alas, she thinks of me as well, her fingers numbed on the
+keyboard, subscriptions coming in now by the tens of thousands. The
+world awaits a new beginning, focus on dramatic splendor, sightless
+dream harbinger of jumpstart machinery. SATIN smiles and her smile
+lights the world. SATIN smiles for me.
+
+sondheim@newschool.edu sondheim@panix.com
+
+
+======================================================================
+
+
+SPRAY
+
+
+The relationship between chaotic distributions and a totalized phys-
+ical source of emission is prominent in a class of words character-
+ized by the format [<s><C1><V><C2C2><er>] as in the following 
+list: _stutter, stammer, scatter, shudder, shatter, spatter, sputter, 
+skitter, splatter,_ etc. (_Scanner_ inverts the series, _spackle_ and
+_simmer_ transform it.)
+
+A second similar form produces: _spew, skid, scud, spot, spit, 
+split,_ etc. These forms are constructed around a _lateral topo- 
+graphy,_ a laminar spray distributing over a more or less wide and 
+irregular domain. The spray possesses a phenomology of dissolution 
+and disruption; it also exists on the fuzzy interface between 
+interior and exterior, and hence involves abjection. 
+
+In every instance, the body is compromised laterally, a veering from
+side to side, or the stammer from the region of the throat. Some-
+thing is _withdrawn_ violently from the organism, which convulses. 
+Convulsions shatter, fragment.[1]
+
+The lock-up of the terminal screen in Net communications is the 
+result of packet flow; email appears from everywhere; interrupts are
+common; the Net harbors impeded laterality. Better to consider it a
+convulsive body as well, the neural interconnectivity of nodes
+serving as obstructed gateways choked with binary debris. The body
+migrates to the edge of consciousness, received and processed by
+one or another correspondent who circumscribes the messaging, 
+returns it to the relative fulfillment of sense.
+
+The return occurs within an insriptive domain, part and parcel of
+a potential well where meaning is construed. Within the well, 
+meaning develops the ontological being of language; without it,
+meaning sputters, its attributive scattered among the remnants of
+indirect addressing. 
+
+Only the shuddering of the human shatters the human; the human
+stammers or stutters its way through debris scattered across the
+splattered or spotted landscape. Deep within the throat the 
+promise of a primitive root is murmured or mumbled. Culture con-
+structs itself upon the elimination of debris; the abject, now
+gathered within the shamanistic fetish for the expulsion of male-
+volent spirits, echos in the hiss of the cat or snake. These
+animals are regarded with awe; they hold the mirror to culture
+itself, the thin veneer of language and civilization binding us
+to the symbolic. The hiss is imaginary; having no meaning whatso-
+ever, it holds the meaning of the world. There are no boundaries
+or borders, beyond what we make of them. There is no language 
+beyond our speech of it.
+
+[1] See *Art Papers* 1/2 1994, "Throat: Leslie Thornton's _The
+Great Invisible_": "_In the film,_ speaking is caught in the maw,
+glottal stop, Edison and the _mechanical_ insignia of existence.
+Early [20th-century] representations [of movement] operated with 
+mechanism throughout [as in the mechanics of the melodrama]; they
+stuttered. Repetitive pistons and cams moved locomotives and film;
+intermittent motion is translated into rotary motion and back 
+again. Throughout the century, mechanism gives way to electricity,
+which gives way to the electronic, cyberspace and beyond. Thought
+leaves the material domain" ...
+
+If _beings_ are mechanism, _Being_ occupies an uneasy territory.
+Aristotle stumbled through the part-objects of a generalized symp-
+tomology of the world and Pliny followed suit. But organism never
+spoke clearly and _always_ stammered; the hiss of steam, the
+volcanic fissure, and the cat are _identical_.
+
+
+======================================================================
+
+
+
+CAT
+
+
+
+The vast correlation of living things... everything held in place on
+the matrix of the planet - everything cohered - the result of forces,
+displacements, classifications and recognitions - correlation and
+correlations - what gave meaning to the world - the meaning of _this_
+or _that_ - the correlation within the vast domain - nothing means,
+nothing means outside of that - you could answer the question easily,
+quickly, a domain look-up, one or another directory - directories 
+overlapped - rock stratigraphy, quantum numbers, the slop of a hill
+in Tennessee - Markov processes, matrix determinations - taxonomic
+sieves - everything deffered, slid beneath the surface - everything
+differs, stuttered laterally -
+
+(Language rides the correlations, inhabits their excesses - meaning
+inhabits language inhabits domains - as in the motion of surface, 
+impossible to separate one thing against or within another - categor-
+icity itself at stake here - classification of entities, belongings -
+
+((Organism longs for belonging, returns to uncanny memory - one or
+another world wide web - organism gophers through deference - in fact
+deference dwells beneath the maternal - cover of stammered lips -
+
+A CAT and a SNAKE were travelling one warm summer day through a field 
+of wheat; the path was barely visible, the terrain one of low rolling 
+hills divided by lazy creeks. The snake said to the cat, "You are a
+surplus of woman and man, one behind and one in front." The cat 
+replied, "And you always pull yourself through yourself, always in
+search, but never entering."
+
+Akira said, "The journey is long but there is no end. To retain the
+semen inhibits excess, changes it to good wine, good eating, and good
+loving. To give pleasure, it must never be written down."
+
+Akira said, "One travels behind one another but one is beside 
+oneself." And he added that touch is the truest sign of belonging.
+
+To CAT is to concatenate files, to display them. To link into chain,
+determine difference and order. To order, to articulate differance. 
+To correlate the particulation or granularity of the real. To cat is
+to name, point, gesture. To name, point, gesture, is to devour the 
+real through the body and concatenation of the name. To name is a 
+name. Name is a figuration. To configure is to display.
+
+
+
+----------------------------------------------------------------------
+
+
+
+ARGUMENT FROM PSYCHOSIS TOWARDS THE DREAM OF THE MACHINE WITHIN ONE
+
+
+   (I watch a film. I am totally caught up in the peregrinations
+   of HONEY, her interactions with KENT and TIFFANY. Halfway
+   through the film, I begin to cry. HONEY is both the object
+   of desire and myself, a conflation leaving me breathless. I
+   am worried about her, the crude attempt at blackmail by 
+   party or parties unknown. KENT is ravaged by TIFFANY, and
+   tells all. I begin to suspect TIFFANY. By DEFAULT, I remain
+   in my seat, participant in a ritual as old as becoming-
+   human. I'm sorry, I don't think I can talk to you at t his
+   moment.)
+
+I want to argue that the shift from computation to organism is already
+underway, evidenced by the appearance of the uncanny or imaginary 
+within Network communication. The paradigmatic aspects of the 1940s
+through 1970s computer culture were based upon cybernetic models that
+stressed both irreversibility and self-regulation; the models were
+reducible to quantitatively simple examples. With the introjection
+of extensive human interaction into the domain of computation, model-
+ling increases to the extent that the specific state of the Net, say,
+at any particular moment is unknown. This is a _strong_ ignorance,
+not resolvable by increased access to nodes, for example. (What it
+means to "know a state" is itself difficult to ascertain. I am using
+the phrase to refer to a complete accounting of the binary switching
+within nodes at a particular time - a (real or theoretical) _listing_
+of 0/1s.) 
+
+   (My girlfriend left me two years ago; I haven't had a relation-
+   ship since. At night I dream of her, sometimes waking up shaking
+   and disturbed for hours. Although she has remarried, I keep her
+   letters; they exert an uncanny spell over me and I haven't had
+   the heart to throw them out.)
+
+Given a state of strong ignorance, one can speak of an input/output
+matrix, equivalent to the pragmatic behaviorism popular in the 1950s-
+1960s. With the advent of extensive human interaction, however, the
+matrix itself _stammers_ as inputs and outputs quantitatively change
+in number and bandwidth, and logics change from classical/Aristotelian
+to fuzzy/non-distributive. From input/output a strategic move is made
+towards the concept of an _interiority_ which manifests itself in 
+semiosis, the continuous production of semiotic processes including 
+the creation of signifiers and linkages. A second move is from this
+interiority to a _circulation_ among wetware/hardware/software - our
+current state. Such a circulation transforms the simplified truth-
+functions of limited logic networks to the problematic of truth 
+itself. 
+
+   (For a long time, my computer was on a high table, its back to
+   a window looking out for at least a mile down Dean Street. At
+   night dim yellow streetlamps illuminated the area like so many
+   stars winking out in the midst of depression and poverty. I
+   would type in the midst of a galaxy of stars. I would flood 
+   the wires,  my only lifeline to voices whispering across the 
+   planet.
+
+   The voices said, Hello Alan, how are you? The voices said,
+   Hello Alan, I am fine. The voices said, We believe in you.
+   The voices said, Endure.)
+
+Circulations include processes, programs, commands, retrievals, 
+addresses, recognitions, indirect addressings, deletions and 
+insertions, on a level ranging from machine language to the estab-
+lishment and articulation of nodes, as well as neurotic (repetitive)
+and psychotic (foreclosing) behaviors at any level. (Levels are also
+problematic at this stage; a computer program can model a basic NOR
+logic circuit at the far end of program output for example; the 
+screen can mimic the simplest computation.)
+
+   (TIFFANY is played by Monica Vitti, HONEY is played by Meryl
+   Streep. I am crying uncontrollably, afraid for myself, my
+   fraud self-evident, my life a shambles. I lose myself in HONEY
+   and later that night I will dream of her, intermittently, for
+   several years.)
+
+If circulations are considered complex and irreducible topologies
+that return recursively at various points to their interiors, then
+they can be specified not only between ontologically different 
+domains such as wetware/software/hardware, but also _within_ domains
+in their entirety; dreamwork, for example, can occur completely 
+within a single human mind, or in the form of hallucinations, may 
+appear within the projected interfaces of various domains (VR con-
+structs, hypnotic or hypnogogic imagery, etc.). 
+   
+   (Recently, thinking about the _Panchatantra,_ I dreamed the
+   story of the cat and the snake, commentary by Akita, working
+   through theory by virtue of transforming symbols. Was I awake
+   or asleep? I recall the path through the field taken by the
+   animals, the color of the dirt, the pale washed-out blue of
+   the sky above the wheat.)
+
+Within the dreamwork, one recognizes entities in the form of an 
+inhabitation. Given complex hardware, it is not too difficult to
+consider dreamwork within it, including recognitions: _the Internet
+work of 1988,_ for example, is simultaneously organism and dream.
+(The dream-state as an inhabitation is broken by the exigencies of
+external reality; the sleeper awakens, the computer is rebooted, 
+messages delete themselves after a specified number of echoes and 
+bounces. Psychosis is part dream-state and circulation; there is no 
+awakening, and conscious intention binds itself to the site of
+dream production and its loopings.)
+
+   (The cat and the snake were travelling along the path. The
+   snake said to the cat that four feet made a double-bind held
+   to one-another, the split of the subject. The cat said to the
+   snake that the phallus was always already lack, wandering
+   through the Network, the victim of uneasy dreams.)
+
+What is visible in the midst of circulations depends on the location
+of site/sight/citation. What is believed - i.e. the reordering of
+truth-values and default tags - is certainly dependent on the re-
+inscription of the tags on a lower-level. To return once again to
+Coleridge's "willing suspension of disbelief" - the willingness is
+itself a production not necessarily from the interior - or it may
+be a byproduct of the circulation, a site-introjection.
+
+   (TIFFANY, the victim of uneasy dreams of films and galaxies,
+   wakes, dresses, has a cup of Lapsang Souchong tea. It's early
+   dawn, a light glimmering in the eastern sky. She turns on her
+   computer, a small compact laptop, which begins speaking. For a
+   moment she is startled, then remembers Brad's message from the
+   day before. Tiffany, the computer says, Tiffany. Speak to me,
+   the computer says. Tell me your dreams.
+
+The suspension of disbelief, note, is _not_ equivalent to belief, but
+to _dwelling within,_ as in a diegetic process or the Worm cleanly
+negotiating protocols without setting off any warning flags. In this
+sense, viral activities in general are circulations which remain
+undetected until the circuitry is modified sufficiently to produce a
+surface symptomology; viruses are dreams of the unconscious. (Which
+also specifies the unconscious itself, cited not only within the 
+psyche, but also as a characteristic of the communicative channelings
+and strategies of any organic matter.)
+
+   (The Worm offers its dictionary of 432 words to any takers. The
+   gateways swings open, packets fly at increasing bps. At the 
+   surface, the sleeper turns over, his dreams troubled. Images rush
+   by, disconnected, lost addresses torn like so many letters from
+   a lover long since disappeared. The keyboard is almost silent.)
+
+
+
+
+THE DEAD LISTEN TO ONE ANOTHER. THE DEAD KNOW HOW TO LISTEN AND
+HOW TO SPEAK. THE SKULL BURNS. WIRE. THE MESSAGE.
+
+
+If I write forever, will I live forever, in the written held against
+another, thrust-fulfillment against the northern shore-line rock?
+Discourse is molluscan; like capital, emerging within every niche,
+transforming debris into home, home into signifier. Parcels of my
+words linger elsewhere, in someone else's text, transform inverted
+into someone else's sex. A member of the blank generation, I survive
+this way. A member of the X generation, I remain unknown. A member
+of the lost generation, language hardens into skin, buries into 
+bones. [1] Language heaps on language, each generation devolves into
+hiatus, a gap or wound of the narcissistic resistant to every 
+closure. Writing alone holds the promise holds the premise; we read
+the written of the dead, foreclose a speech which speaks itself. I
+will write forever, write of the dead. I will write from the site
+of the dead, from the hiatus of the non-alive. This is the great
+transformation, a writing from neither dead nor alive, but strata
+locked into dead-end gateways and one-ways passes. 
+
+I am held there in the midst of the written children. The circum-
+stances widen, bracket past and future, past future and future past.
+Strata remember in every direction. I disseminate my speech in every
+form, minimax guarantee of survival. Paper decays; the most redundant
+code stutters into noise. The words chatter through skull-teeth, 
+breath hissing out from the ocular orbits. What speech there is 
+emerges from the blind-spot of the maternal, vaginal eye sifting the
+debris of what was once called world. So that I claim minimal
+concatenation, of one against another, the circumlocution of the
+other, as in: f\p, future\past, or as in m\f, mother\father. What
+remains of a thinking which thinks itself, I would hardly say, 
+presence of a flesh? As in the dissection of Emily D., one's 
+favorite poems, incipient knowledge of an author not yet born. [2]
+
+Writing owns the writer, never lets go; it is the writing that 
+flames, burns against the speech of the other inhabiting the one. 
+_I am sought in this knowledge,_ the pressure or pleasure of the 
+other which is never my speech, written across or through my body. 
+Haunted by death, by the separation of emptied generations, I extend
+my galactic text elsewhere, through electronic coursings, through the
+presence of electromagnetic radiations tunnelling at high capacity in
+a planetary skein. 
+
+But on the surface, I am normal. But on the surface, my skull 
+splinters and fragments, an unreal plane where discourse chatters 
+without end, where addiction draws one over and over to the text, 
+binds one to a language which refuses final dwelling. But on the 
+surface, letters suffocate, tear open the wound they themselves have
+foreclosed, the source of postmodern cynicism. What the letters sing
+is the absence of loss which I am forced to hear. Speechless, I have
+no other speech. Flames burn in the skull, visible to everyone
+listening, flaming through a double socket, input and output, skull
+strung along like any other, bone crackled in preparation for final
+reception. Incisions transform fractures into text. Cut deep enough
+and charred surfaces reveal their hardened underpinnings. If the
+phallic and vaginal are orders, they burn here within the interpene-
+trated surfaces, a double reading separating generation after 
+generation. There are no others, are no generations; the continuum
+sputters into the fabrication of momentary eddies, individuals or 
+emissions of temporal meaning. Nothing means forever. I write in 
+order to construct the written, to forestall death, inscribe, 
+circumlocute, talk around each and every instantiation of the burning
+skull, imaginary absence of the flesh. Inertia grips the bones; they 
+wither into the semblance of skin, the mask of authenticity. When I 
+laugh, I am forced to laugh, and everything continues.
+
+[The _romantic incision_ insists on the separation of temporal and
+generational orders, the surgical metaphor of the narcissistic wound
+apt in this instance, since absence tears into the self, devours it.
+Foreclosed as a possibility among or between genders, generations,
+others, I cannot be myself except within the transitive. Speech holds
+me back, coagulates the ego, disseminates the name which may be
+nothing more than the conjunction or stitching of binary opposition.
+Speech burns itself to death, the last gasp of the body. We speak in
+order to be heard; what is heard is an emission, reduced by the other
+to the name which confirms our reception. Toggle an echo, and the 
+body is destroyed. Echo heard nothing but Narcissus. [3]]
+
+[1] I claim each and every generation. I claim the attitude of the 
+kids and the attitudes of the dads and moms. The years are unaccount-
+able, otherwise. The years are unaccounted-for.
+[2] See _the author's_ "Clarity of Dismemberment": "The skein of
+interpretations elicited by a hypertext _modelling of the poet_ [...]
+is equivalent to nothing less than the modelling of Dickinson's 
+*body,* a *private body* or *body of privacy* which was never 
+intended for external and anonymous consumption. The politics implicit
+in the hypertext analytic are... highly suspect." Of course it remains
+unclear, from the _position of the text,_ exactly what the body is,
+and what is meant by the _privacy of the body,_ given the electronic
+or virtual mode of communication, open to every secret, privy to none.
+[3] Nonetheless, Echo continued to speak, guaranteeing the resonance
+or jouissance of the Word itself.
+
+----------------------------------------------------------------------
+UUENCODED UUDECODED: WRITING-AS-A-JEW ON INTERNET
+
+
+What does it mean to write-as-a-Jew in Cyberspace? This is not to
+speak of Jews in Cyberspace (the title of a recent article) or its
+theology, but to consider that nomadism that extends beyond the 
+Diaspora to New York City, to a wandering mixed with fear and 
+wonder. Here in Brooklyn, more than anywhere else I have lived,
+I am aware of my Judaism, not because of the presence of "my
+people" (or anyone else's), but because of an unstated anti-semi-
+tism that forces me into and through the identification.
+
+Were we the worst dreams of organized European Protestantism and
+Catholicism? The worst dreams beyond that of gender - within which,
+according to Sandor Gilman, legends were told in Germany of the
+menstruation of Jewish men. Has our ethnicity always been one of
+dispersion, nodes on the Net of Yiddish/Ladino communication? Do we
+exist as the obverse or tain of the mirror-stage, uneasy irruptions
+of the darker imaginary - the so-called "people of the book" giving
+way to a violencing of the symbolic of the Word of the Gospels?
+
+The action of the Crucifixion became the text of the Crucifixion,
+God's Word affixed from the crown of Christ to the arm of the Jew.
+According to Gilman, to write, for the Jew, has often been to write
+self-hatred. Through the example of the Marranos have we learned to
+pass? To we pass with our hatred?
+
+Like queers or blacks, are we the worst thoughts of the infiltration
+of the nuclear family, as attested to by our apparent habit of 
+devouring Christian children for Passover? You don't have to look
+farther than Chaucer's little Hugh of Lincoln, although there are
+many examples - Pound, Eliot, Jung, Campbell, Kerouac, Dostoevsky, to
+name a few. But why stop there? By necessity, I refer you to Mehlman,
+*Legacies of Anti-Semitism in France,* its chapters on _Blanchot,
+Lacan, Giraudoux,_ and _Gide,_ not to mention _Celine._ [1] This is a
+_hidden_ legacy; now Jews are assumed assimilated, hiding their mach-
+inations behind elaborate conspiracies and _passing_ for anything but
+themselves. Here in Brooklyn there is a group which considers Jews
+imposters, having usurped the title from blacks and other minorities.
+
+Like the Diaspora itself, our identity is lateral, skittering; like
+Net communication, we become a community of virtual subjects, without
+legitimation until recently, disbanded from one or another country,
+rounded up into the Ghetto, placed beyond the Pale. And never think
+for a moment that in Europe or the remnants of the Soviet Union, the
+plague of anti-semitism has subsided; if anything, it has increased
+like a virus, blaming Jews for everything, including the loss of WWII.
+
+Needless to say, the commingling, by both left and right, of Jew with
+Israel, has resulted in a _legitimation_ of anti-semitism under the
+guise of the return of the repressed. The possibility of a _critical
+Jew_ is overlooked in order to reorganize us as _those people,_ 
+grouped along with queers, blacks, feminists, and just about anyone
+else encamped on the other side of the hill. We don't need to circum-
+scribe ourselves; it's done for us. 
+
+So I insist on writing-as-a-Jew which occurs within a lateral excess
+or problematic of definition; _I am marked,_ and as marked I assess
+demarcation, inscription itself, returning the subject to the neces-
+sity of its property\propriety. For we are "ethnic" and uncivil at 
+best; I am told one can always recognize a Jew. 
+
+And all of this brings up the problematic of the Net, where passing 
+female for male or male for female attains a certain degree of lurid
+notoriety, but what of the _necessity_ of this passing for some women,
+and what of the _pain_ of passing for white or straight or Christian
+elsewhere? How does the ontology of trans-gender fit with skin-color
+or coded queer advertising or Jewish denial? In the real world it is
+impossible to toggle switches without doing violence to one's psyche;
+passing on the Net as neutral or neutrally engaged may be less damag-
+ing, but has the potential for devouring the subject from within as
+well. (This is an example of what I call "web inversion" in the 
+Internet Text.)
+
+So granted I write-as-a-Jew, write laterally, from the position of 
+the book or the guarded body (as feminin ecriture writes from a 
+different but equally metonymic/metaphoric stance), then I also take
+on the responsibility of writing _beneath_ a certain protocol, not
+with the intention of formulating a definitive theory of virtual
+subjectivity or mediated communication (i.e. Internet, Videophone,
+Bulletin Board, VR), but with the intention of promulgating a system
+of _practices_ that remain partial and indeterminate. [2] From this 
+position (which for better or worse _I_ and perhaps _I alone_ asso-
+ciate with a certain ethnicity), these practices are all that are
+conceivable within or against the domain of _truth_ and its aporia.
+I theorize in a sense _to reconstitute myself_ which includes the
+reconstitution of the site of speech, a primary symbolic. And just
+as reconstitution always already is interminable as analysis itself
+(the _Jewish_ Freud), so is theorizing: This is the _pornography_
+of theory which clearly exhausts itself almost upon completion.
+(Think of existentialism, metaphysics, or any philosophy including
+_anti_-philosophers, Nietzsche for example. Every pronouncement
+simply _leads to another_; perhaps Derrida more than anyone is
+aware of the `hermeneutic rhizomatic' and its attendent subtextual
+operations, always accumulating, always incomplete. And this is the
+Derrida perhaps of the `Reb Derissa' of Jabes' *Book of
+Questions,* quoted at the end of "Ellipsis": _"Tomorrow is the
+shadow and reflexibility of our hands."_)
+
+It is not true that if the Jews did not exist, that Europe would
+have to invent them; it is that _we have had to invent ourselves_
+beyond the discovery of Europe.
+
+You will find us on the net.
+
+- Avi
+
+------------------------------|
+
+[1] One condemns even Sartre, *Anti-Semite and Jew*: "I am aware
+that Spinoza, Husserl, and Bergson have made place for intuition in
+their systems. But the intuition of Spinoza is _rational,_ which
+means that it is based on reason, is guaranteed by criticism, and 
+has universal truth as its object. It has no resemblance to the 
+Pascalian subtlety of spirit, and it is this latter - unasnwerable,
+emotional, based on a thousand imperceptible perceptions - which to
+the Jew seems his worst enemy." At this rate, Levinas and I are 
+church-going Catholics.
+
+[2] The Net, too, is partial and indeterminate; beyond D&G nomadism,
+there is the _real_ Net-Diaspora, the scattering of virtual commu-
+nities united across increasingly problematic boundaries. The Net is
+the presence and skein of the book itself, its physical matrix at
+a remove, sublevels of Net protocols that remain invisible to the 
+user. If the Book opens its face to the sun, the Net exists in a 
+darkness illuminated only by the presence of the Text.
+
+
+----------------------------------------------------------------------
+
+
+"The Scroll, A True Story"
+
+
+Someday this will be in the front archives. For everyone, there are
+front archives and back archives. Archives is where the talk is 
+stored. The talk is what we do now, is who I am. I take the machines
+to talk with me.
+
+I have the machine on board, the small machine, feeding me back into 
+myself. Later, I will dump core into the Net, walk away, having the
+best fix in the world. There's no better than the dumping. I can 
+place it better than most.
+
+Walking around, I sense the wires in me. Real life isn't the same -
+there's no scroll to the restaurant, no delete key to press. Having
+to eat brings me back to the next fix, after the body takes care of
+its own. At night I have dreams of rolling text, things running
+down towards the emptiness at the bottom of the screen. There's no
+sun in the dreams and the only voices I hear are my own. But there
+is the Net and it keeps the text going. Sometimes in the dream the
+voice goes without the text. Sometimes the voice scrolls past.
+
+To walk into the restaurant is to give in to the needs of the day. 
+I carry the scroll with me; everywhere I look, letters impose them-
+selves. Shivering, I try and ignore them; real life is dangerous
+enough and there is always the possibility of death. There's no end 
+to the scrolling, I know; I'll scroll forever, I'll be scrolled. 
+But death on the street is another thing altogether; suddenly every- 
+thing goes black, halts and the archives go from front to back.
+When the voices are silent the planet disappears.
+
+The planet is the voices, whole choirs of them, scroll-put that 
+speaks well to me, accompanies me into the restaurant. When I return 
+home, there is a message. Something about a voice enters the room, 
+something about Clara. I take due note of the number, stare it down;
+it's blank, says nothing. An organization or government, darkstar
+enterprise: in real life, they're all the same. Senseless, they're
+inert, already dead, just as the live voices on the other end of
+the telephone begin simply enough, I'm dead, are you.
+
+Bill Gates is dead.
+
+But it's Clara who has disappeared from my life with a lot of audio
+I once had given her in exchange for a fix-up of analog antique. 
+Call this a loan or wager, it was never paid off. She had dis- 
+appeared from the face of the earth. Now toggled back, so I 
+returned it as well, give and take command prompt insert. 
+
+It was a situation of a new boy, I had abandoned, given up, those
+possibilities; I could dream on the machine, scroll-talk my way
+through anything, boys and girls forgotten. He's my boy boy, Alan, 
+she said, as though I had heard my name for the first and last; I 
+had forgotten my .sig, automated, scroll-down on the screen, hardly 
+even in the appearance of the dream like the sun never visible. She 
+would go on about it; I saw nineteen lines, stuttering through
+packets from the back archive, nothing to adjust without the 
+pleasure of the keyboard. She went on about it, talking the tattoos, 
+how she did them, how they were the new fix, new visible, how art
+meant nothing unless it was on the body, how the body was everything, 
+how the body carried the art around and how the body had to make 
+sure that the art meant something because it was permanent and always 
+with you. I kept hearing, giving up on the sound, something I 
+remember that one did, a listening bringing me back for a moment into
+the voice stuttering in the empty room. Such a wire, I thought, this 
+is nothing but such a wire.
+
+I was tired of hearing about the body. Nothing more than the package;
+computers came in one color for the front and one for the back. It
+kept them apart; eyes were made to keep them separate. The body did
+no good. But it was tired to hear about and not much gossip either.
+
+Out on the street, I kept the planet inside me. The planet talked
+to me like it always did, from the back archives. It would scroll 
+and I would have to look out everywhere I took a step. I thought 
+about it, looked at the files, the .nervrc for one, the .archive/
+for the other. I could automate this, I thought, put it in a macro. 
+I could put the whole thing in a macro. Then the scroll-talk would 
+be a permanent fix and I could download and remember, use that 
+portion of the archive, neither front nor back. I could do great 
+things. So I would write.
+
+   Because this is how I see the planet. Because the planet is in
+   me, and I wander in real life on the face of a dark and empty 
+   space, worthless, waiting for the fix. The fix would come into 
+   the terminal and it would come in from anywhere at all. 
+   
+   You tend to forget: _Anywhere is an address._
+
+   And if I could work it, I could be there, anywhere, moving from 
+   the back to the front; I could be at the front archive and I 
+   could forget about that portion that was somewhere else. The 
+   scroll would help me because the scroll would talk and the 
+   scroll always went from one direction, rising like a curtain 
+   infinitely from the darkness.
+
+And I thought I would write something about all those whom I loved and
+who saved me from myself, and I would list my names. But they're not
+here and never have been here; that is the nature of love: It is 
+always on the scroll. And I thought that if it was on the scroll, it
+would recognize itself, and I could keep silent, quiet, and it would
+never bounce or echo back, but would move from back to front, and be
+there, be there for me and for them. So they would know who they are,
+and they would not have to, ever, contend with real life. Because in
+real life you don't have the scroll, and without the scroll, you're 
+nothing.
+
+And I would have my fix and that would never be.
+
+----------------------------------------------------------------------
+				!:\scroll\scroll.txt/.nervrc/.sondheim
+
+
+
+BEAUTY IN CYBERSPACE
+
+
+Some quotes from Adorno, *Aesthetic Theory*:
+
+1. "Even Hegel arrests the dialectic of aesthetic thought by giving a 
+static definition of beauty as 'pure appearance of the Idea to sense.' 
+Beauty cannot be defined, but neither can the concept of beauty be 
+dispensed with altogether. This is an antinomy in the strict sense of the 
+term. Without conceptualization, aesthetics would be mushy." Are we at a 
+loss without a definition in this place, cyberspace or not?
+2. "The grief that art expresses results from the fact that it realizes 
+unreal reconciliation at the expense of real reconciliation." Would this 
+apply to the imaginary aspect of computer mediated communication? Is there
+a distancing-function that forecloses a certain kind of suturing, 
+disavowing the subject at the same time as the subject expresses 
+herself/himself? Would this cauterization be an example of (again) an 
+inverse hysteria in which the speech of the subject is denied as it is 
+spoken/typed? As if we could never say the fulfillment of our expression; 
+excess leaks through the cut.
+3. "Idealism believed art is nature, but in fact the relation is such 
+that art seeks to redeem what nature promises. How does art accomplish 
+this? By breaking that promise and withdrawing into itself. This much is 
+correct about Hegel's thesis that art is influenced by negativity, namely 
+the 'deficiency of natural beauty.'" Is the withdrawal in CMC that of 
+physical reality itself - an ontological strategy? Mathematics was 
+considered the 'queen' of the sciences, I believe, to some extent because 
+of the beauty - read 'clean and proper body' (Kristeva) of equations 
+which are always already floating signifiers at their most grounded. So 
+that beauty involves - and it clearly does from Romanticism on - a 
+certain disembodiment, as evidenced both in the Kantian sublime and the 
+concept of 'aetherial beauty.' But then what occurs within the _domain of 
+the disembodied_ - what distinguishes beauty from non-beauty. Does this 
+involve the constitution of purity in the sense of the Idea? Or may it be 
+precisely the opposite, the symptomologies of seduction and the lure, the 
+excess of the signifier, the uncanny of the communication? 
+
+Which brings us finally to some quotes from Lyotard, *Lessons on the 
+Analytic of the Sublime*:
+
+4. "Thus the argument is the following: because the feeling of the 
+beautiful results from a form, which is a limitation, its affinity lies 
+with understanding. The affinity of sublime feeling, which is or can be 
+provided by the without-form, lies with reason. There is indeed a 
+similarity between both cases in that the presentation of the given should 
+be able to be thought by a concept but, in both cases, is not. This is 
+why the concept of understanding, like that of reason, remains 
+'inderminate.'" And again: "Thus the difference between the beautiful and 
+the sublime is linked to the difference between the limited character of 
+the object and the without-limit of the object." Now it seems to me that 
+neither category describes either the Net itself as an entity or the 
+(dis)embodied CMC within it. For both are a new formation: the _stuttered 
+or stammered_ linkage, packet-driven, full of erasures, addressings and 
+mis-addressings, and, within the level of psycho/logical/analytical 
+content, false starts, default tags, misrecognitions, misappropriations, 
+and the like. This is not a _fractal_ or _chaotic_ formation by any 
+means, but something more on the order of a dissolute Cantor dust which 
+extends only a finite number of cuts. 
+
+The result is a (continuous) deferral of pleasure, coupled with a reading 
+between-the-lines, filling in the language, the site/citation of the lure 
+which is never a sight. The evident danger of filling-in creates on one 
+hand flame-wars (which attempt to suture the stuttering by the annihila- 
+tion of the other - i.e. if only I were completely understood, everyone 
+would see that I am correct, foreclosed, bwo), and on the other 
+cyberflirts which veer dangerously close to mythological primary 
+narcissism of the symbolic. Still, beauty is clearly found within the 
+latter as the landscape becomes momentarily smoother and more 
+pleasurable. (The definition of pleasure is another related issue.)
+
+------------------------|
+
+Well, what is the nature of pleasure? For one thing, it proceeds through
+a sense of smoothness; can one say that pleasure is exhilerating, or does
+it in fact embody the maternal, an inhabitation? Or is it simply any 
+state of mind that one finds positive? 
+
+It definitely has a relationship to the _swollen;_ it also is used in the
+sense of a _gift_ - i.e. what gives me pleasure. Pleasure, like beauty,
+has an object and a subject; the subject in the sublime is simultaneously
+present and effaced. But in beauty, the pleasure is a projectivity, re-
+siding (as-if) _within_ the object; beauty is a communication. Pleasure
+suspends the object; beauty embraces it.
+
+The smoothness of pleasure is connected to the _voluptuous_, a linkage or 
+conglomeration of objects. This conglomeration is _tumescent,_ iridescent,
+a sheen or fetish - but pleasure taken _in_ an object is the surround of
+the object as well - so that we're speaking here of a spherical projec-
+tion that returns the dream as well - "he's so dreamy!" - I also sense, in
+pleasure, a _swallowing_ effect.
+
+All of these attributives fall under the aegis of the body, or within/     
+without the body, the blurring of pearlescent skin, a softness absorbing
+the granularity of the real. This is also the pleasure of masochistic 
+pain (vis-a-vis Studlar or Deleuze), the dulled wave/emissions spreading
+throughout the body, healed by the final contract of the sublime (you are
+sublime, are you not, mistress)...
+
+Is there pleasure in the beauty of stuttered cybermind/cyberspace?
+
+
+--------------------------------------------------------------------------
+
+
+
+VOICES. YOUYOUDECODE.
+
+
+When the scroll comes I hear voices. They sound me out, ignore the
+level of the street, commune with a site I cannot fathom. TIFFANY
+is one of them; she speaks in the voice of FRANKLIN to HONEY who
+has become my respondent. They discuss themselves, the casualties
+of tone, the absolution of typographic errors. [A car passes by.]
+[Quick duck to avoid being hit.]
+
+Hadamard spoke of an essential asymbolia that accompanied mathe-
+matical thinking. Such thinking is never linear; the symbolic 
+appears only at the end, after the movement of grey occluded 
+entities, their concatenations, coalescences, dispersals. The myth
+is otherwise - mathematics as a thinking _through_ symbols carry- 
+ing the full weight of meaning. But meaning resides in the occluded 
+entities, not in constructs specified all the way through. HONEY
+however says that that is otherwise as well. HONEY speaks of the
+FILTERING RULES.
+
+The FILTERING RULES ensure the grain-width of the voices; they are
+absolute, fleshless; they ride electromagnetic impulses, ignorant
+of gravity. The FILTERING RULES are always recognitions of con-
+catenations, chains breaking at the weakest link and then some.
+TIFFANY enters through the FILTERING RULES, speaks from SECOND 
+SITE. SECOND SITE is the gateway at FILTERS' end, a space of 
+kilobytes, no more, just enough for TCP/IP to hold onto. Nothing
+occurs at these emission sources but the flood itself. 
+
+It's the YOUYOUDECODING of the flood that makes the voices. The
+voices have to lose themselves in the air; TIFFANY says through
+FRANKLIN that without reconstitution all that would remain would
+be `dumb circulation.' HONEY isn't so sure; YOUYOU is always there,
+the Other within ASCII, making sense of it. But TIFFANY replies
+there has to be some room for the subject. [A car pulls up; it's
+Tom and Leslie speaking. Their voices seduce me into a back seat,
+next to NADIA, whom I can hardly hear. HONEY, enveloping me, is
+insisting on her point.]
+
+So where is the subject asks HONEY? We're asking this, riding 
+inside of each other. The body is an onion, so many layers, might
+reply TIFFANY. Nadia says something to me; I turn my head to see
+the house on fire. The Brooklyn Bridge is crowded; it's the New
+York Marathon. There are so many, some falling off; hundreds will
+die, the same scenario as on Opening Day.
+
+The day the bridge opened it was packed with bodies, a mob think-
+ing of collapse. The bridge held, but the mob didn't; voices
+were lost to the water, in the construction as well. We were on
+the bridge now, then cross-town and out west. HONEY had long-gone
+the machinery. I asked Tom about the source of speech: Who's
+speaking when we're speaking? Speaking is a thicket of default
+tags; that why conversation loops elsewhere and culture occurs.
+Better to have remained with the pleasure of circuitry, primitive
+recursions and no other. But the other was always already (to be)
+otherwise.
+
+Or is voice always a _voice-over_? `What contracts form, dissolve, 
+reform, under the pressure of the _gaze of the voice_? For it is 
+the voice which perceives, which appears, full of consequences. It 
+is the voice which speaks listening to its speech, the speech of 
+the Other.' (`Fissure: Your Voice, Adjacent, Absent,' _Cinemato- 
+graph 4._) HONEY says her voice _sees_ voices; her site is her
+throat. TIFFANY remembers that the throat was layered like an 
+onion, layer upon layer - you never knew which was which, they all
+were equivalent. The cables supporting the bridge are sheathes
+surrounding cables supporting the bridge... down through several
+layers originally spun at the site. [The car has passed through the
+Lincoln Tunnel into New Jersey, circling briefly around the Man-
+hattan skyline before heading into the countryside of eastern
+Pennsylvania.]
+
+Under these circumstances, _to think is to scroll_; to _scroll is
+to see_; to _see is to be otherwise_; to _be otherwise_ is to open
+where HONEY speaks _my lines._
+
+
+`Am Ursprung gibts kein Plagiat.' (Karl Kraus)
+
+
+----------------------------------------------------------------------
+
+
+WIRES IDENTITY
+
+
+The following occurred this evening; names have been changed to protect
+the innocent.
+
+First quote:
+
+Alan: I just had an adventure. In the middle of writing you, I got a 
+Talk from Clara, and went online with her. The line got cut off from my
+end suddenly and I redialed to reconnect. Bypassing the login, I found 
+myself suddenly in the middle of a raging argument about a screwdriver 
+on an AYN RAND IRC. I was apparently in the middle of someone else's 
+account, someone by the name of Tiffany Rogers. Meanwhile Clara had 
+fingered NETCO and found out I didn't exist. I got her on-line again 
+through Tiffany on Tiffany's account and we quickly completed the 
+conversation. I thought about checking Tiffany's mail but that wouldn't 
+have been cricket. So much for cybermind security.
+
+Second quote in Talk:
+
+Frame 1
+----------------------------------------------------------------------
+I don't know what happened but I am now NOT LOGGED into NETCO and am on
+a different shell entirely with all sorts of blinking things - I just
+got out of an AYN RAND IRC!!!
+I don't have the vaguest Idea where I am (platonic or not) but I had 
+better check out soon - system crashed.
+
+
+I don't know who I am.
+
+
+------------------------------clara-----------------------------------
+it sounds like they had some sort of system error.
+
+
+i got talk tiffany@netco.com
+
+well, i fingered and it said netco had been up for three days but it
+did not know who you were
+
+which it should not do even if you are logged off
+
+Frame 2
+----------------------------------------------------------------------
+I don't know what happened but I am now NOT LOGGED into NETCO and am on
+a different shell entirely with all sorts of blinking things - I just
+got out of an AYN RAND IRC!!!
+I don't have the vaguest Idea where I am (platonic or not) but I better
+check out soon - system crashed.
+
+I don't know who I am I think I was talking to people about AYN RAND and
+there was something about a screwdriver. I wonder if Tiffany whoever
+has any idea that I'm talking about her through her talking about a
+screwdriver...
+--------------------------------CLARA---------------------------------
+it sounds like they had some sort of system error
+
+you were talking to people about Ayn Rand?????
+
+
+
+well i fingered and it said netco had been up for three days but it
+did not know who you were
+
+which it should not do even if you are logged off
+
+Frame 3 /section
+----------------------------------------------------------------------
+But I do think I should get out of here before damage is done. Hi
+Tiffany, are you there... Checking...
+-------------------------------CLARA----------------------------------
+i think everything is going psycho tonight...
+we all are...
+strange...
+----------------------------------------------------------------------
+								   end
+
+Who had I become? Everything might have changed for me, gender, friends,
+lovers. I bypassed everything, never logged in. I might not have been
+in NETCO; there are other servers in New York - was I routed elsewhere?
+Tiffany may no longer be alive...
+
+Alan
+
+
+
+----------------------------------------------------------------------
+
+
+Relative Ontologies and the Virtual
+
+
+If there are variant ontologies for language, program, byte, ASCII
+communication - as well as variant ontologies for set-theoretical
+entities, affect, and the classical or quantum domains of physical
+reality, then it seems it is necessary to construct a double opera-
+tion of internal categoricity and the question of fundamental onto-
+logy. The first lends itself to a compressed classification in
+which program and byte are subsets of dynamic set-theoretical 
+entities; language and ASCII communication exist within both struc-
+ture and affect. The relation of program to language is well-defined
+and therefore language can be dispensed with; machine-language 
+further translates into the encoding or decoding of bits according
+to specified rules. But language itself possesses fuzzy rules - the
+set of which I believe to be technically unsolvable and unaccessible
+(drawing from the problematic of traditional axiomatics). ASCII pre-
+sents a double aspect of language: on one hand the _contiguous_
+manipulation of bits, and on the other, issues of structure and
+affect, the same as in face-to-face communication. I would argue as
+well here that language is non-linear in its face-to-face aspects,
+and the linearity of ASCII is also contingent at best.
+
+The second issue of fundamental ontology is equally grave. For if
+there is _any_ ontological classification, i.e. being subsumed 
+within the attribute, is it also true that the resulting ipseities
+in the plural necessarily implicate a transcendent nature of Being
+- as if the question of Heidegger's metaphysics _logically_ con-
+structs by (its very) nature a Grund? Or is it possible to invert
+this question, place it as a (fundamental) misrecognition, an 
+effect of language, and insist on splintered domains, sutured by the
+subject on one hand, and by a conceivable interlocking as a 
+_condition_ of any existence? This wager would require a devolution
+of interlock, i.e. not granting it any greater status than an inter-
+textual trope; it also places the ontic within the realm of the
+subject. On one hand the problem becomes one of avoiding solipsism;
+on the other, of creating a primacy of the contingent. The counter
+to the first position is an insistence on ontology as a projective
+argument constructed from the attributive in the first place; the
+counter to the second is a retention of interlock as a _condition_
+of an existence that can recognize itself to the extent of raising
+the question (version of the anthropic principle). Ontology on one
+hand becomes fundamental _to the subject and nothing else,_ and on
+the other, entirely dismissible.
+
+These issues are obviated by tying ontology _only_ to the attribu-
+tive; such being the case, argument concerning the virtuality of
+virtual reality and the like can be specified in relation to 
+domain, the VR of affect itself through itself, for example, bring-
+ing into play hypnogogic imagery, dreams, schizophrenic hallucina-
+tions and the like - even optical illusions play a role here. Issues
+of 'life' and 'intelligence' may be similarly treated; if life is
+defined as a set of self-reproductive strategies (with or without
+any other rule-structures) than within the domain of the computer
+program, a virus is alive - the substrate becomes nothing more than
+a (necessary but contingent) carrier-wave. Likewise, if intelli-
+gence is a certain kind of _construct,_ then the substrate - so-
+called artificial or natural - is irrelevant, even though it may be
+that artificial life will never achieve the degree or quality of
+(self) consciousness possessed by human subjects.
+
+It may be satisfying at this point to contemplate splintered ontolo- 
+gies, always already avoiding an absolute - either from the domain
+of metaphysics, or the metaphoric. Power then becomes an issue of
+local actants, for example - which is not to imply a micro-politics,
+only the relative ontology of the political terrain and possibly
+its relation to the subject. This strategy also tends to normalize
+issues of virtual subjectivity in relation to computer mediated
+communication - which is nothing more or less than communication
+among subjects in a relatively new domain with its own, but not
+necessarily limited, characteristics.
+
+
+----------------------------------------------------------------------
+-----------------------------end net.7 txt----------------------------
+-----------this text can be distributed in whole or in part-----------
+---------------accompanied by the author's name. 4/11/04--------------
+----------------------------------------------------------------------

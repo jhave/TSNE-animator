@@ -1,0 +1,476 @@
+-
+
+
+Some Dialog on the Way Towards Self-Hatred, Construct of an Ego
+
+
+-You're afraid of men.
+-I'm afraid of getting too close to men. They seem to want something
+from me, do you know.
+-They want something from you.
+-They want to take me over completely, you know.
+-Why are you telling me this.
+-I can trust you. You're not like them. You're not like those other
+men.
+-I know.
+
+-Do they make you shy or something.
+-Do they. I don't know. I mean, I'm shy. I know what I want. I want to
+decide if I, you know, want to get married. Like I get offers.
+-You get offers.
+-I get, well, an offer, you know. When I want to. I get nervous, what
+they want. Not shy, you know, nervous. What they want from me.
+-What do they want.
+-You know, they want me, you know. Not like you.
+
+-You're shy of men.
+-What I have to say, you know. Like who I am. I need something, you
+know. Like when I want to be alone. They want to take me over.
+-Take you over how.
+-Want, you know, things. I'll decide when I want to.
+
+-You are hiding behind something.
+-Just don't like crowds. Too many people. When I'm back here, you know,
+by myself. I can do what I want to.
+-I don't expect you to go out anymore.
+-You don't. You want to go out with me.
+-No just that you're hurting yourself I think. Alone.
+-I get things done when I'm alone, you know. When I'm out I get nothing
+done. I learn nothing.
+-Hurting yourself, I think.
+-Better than I was. You should have seen me then. Better than I was.
+
+-Are you afraid of being unhappy
+-I like this, you know. Nothing around me that matters this way. You
+know, it's the same thing. What has happened and will happen, you know.
+-Too many years like this.
+-You know you don't see me. You're a good friend, you know. Not like
+them. They seem to want something.
+-They seem to want something
+-Yes, they want something, you know. You don't.
+
+________________________________________________________________________
+
+
+Fucking
+
+
+Is fucking information? Certainly, there are sensory modalities involved -
+scent, touch, sight, sound, taste, all of which play into neural net-
+working; there are also the usual bodily somatic responses. But I wonder
+if it is possible to map these, vis-a-vis teledildonics, and I suspect
+there is a limit to information, not only in terms of bandwidth, but also
+in terms of temporal "windowing," i.e. mapping the internal body pathways
+and their delay-patterns in relation to input and output. I would think
+that fucking would map _only_ onto fucking, and nothing more. This fasci-
+nates me, one way or another, because of the horizon of cybersexuality
+which is brought up in so many discussions, as if intimacy will eventually
+come the way of the virtual, be brought into the (literal, catastrophic) 
+fold. 
+
+The discussion is related to Penrose et. al. who consider consciousness 
+and other higher-order functioning of the mind to be inherently quantum 
+oriented. One might think no farther, however, than a multiply-layered 
+manifold with waves spreading and interacting across the surface. 
+
+The discussion isn't trivial. Fucking is one of the most intimate phy- 
+sical acts humans are capable of. The Net is tending towards increased 
+bandwidth for aural and visual modalities; to the extent, for example, 
+that hearing occurs through registration in the ears (low frequencies 
+also register elsewhere within the body), it should be possible to 
+eventually program binaural input with a high degree of versimilitude. 
+Sight, of course, is another matter, and even binaural recordings fail to 
+take into account variegated rates of transmission through different 
+areas of the skull, brain, and flesh. 
+
+Suppose, however, that complete aural-visual bandwidth is achieved, that 
+body-suits are perfected, that molecular synthesis includes the possi- 
+bility of taste and odor, that these may be triggered "accordingly." I 
+would still question whether fucking is information, whether there is an 
+excess, quantum or otherwise, based on wavefronts throughout the body 
+(i.e. information carried by neurons and other sensors).
+
+There is also a question here as to the nature of information itself, 
+which has been debated forever. Here, I mean primarily is fucking quan- 
+tifiable, that is, able to be placed within a digital database in one or 
+another form, and able to be transmitted in and out of the database. 
+
+And there is also a question as to what constitutes fucking, since (let 
+us consider only male/female for the moment) penetration by two other- 
+wise bound and gagged bodies is entirely possible, and certainly that 
+would take considerably less effort to simulate (it already does). 
+
+Never mind the bullocks.
+
+_______________________________________________________________________
+-
+
+
+The Loneliest Text
+
+
+The loneliest text in the world announces itself, expects and garners no 
+response, like so many others. It stands in for itself, for all those 
+others of which there is no account, which have been lost in the archives 
+or worst, abandoned entirely, invisible, violated without a murmur or 
+other sub-text, other presence.
+
+The loneliest text in the world expects nothing in return; read or unread,
+nothing makes a differance, it leaves no trace, not even defuge announcing
+its already tired presence.
+
+The loneliest text in the world was lovingly brought into existence, each 
+word caressed upon the birth of each word, only to be abandoned, control 
+x, only to silently end up, packets, splattered nowhere across the wires, 
+garnering no response, or in return, no other alter, no other presence.
+
+The loneliest text carries its history, messages of beauty and import, 
+messages of travesty and desperation, tragedy and dissolution; it lies 
+fallow, outside of all time and space, losing itself in the memory of the 
+writer who entered letter after letter, thinking each word, speech in 
+return, weaving such a feeble presence.
+
+The loneliest text is this text, lost in a world of noise and confusion, 
+time and space filtered through dim membranes, cells coagulating around 
+othered, emptied cells, forgetting for a moment, for eternity, for all 
+time, forever and ever, the slightest vestige of its presence.
+
+__________________________________________________________________________
+
+-
+
+
+Differences
+
+
+Sometimes the simplest ideas take the longest time to seep in; sometimes 
+additional information is necessary. Years ago, I was interested in 
+difference equations - fascinated by them in fact; more recently, I've 
+been interested in the phenomenology of iteration, i.e. where one has
+f(x) => (x1); f(x1) => f(x2) and in fact f(x(n)) => f(x(n+1)). Clearly 
+each of this is a production depending on the series, and f itself can be 
+considered a generating function. So this leads to a conception of mathe- 
+matics, from a phenomenological viewpoint, as time-dependent, i.e. one 
+establishes a series of discrete temporal intervals, t1, t2, t3, etc. and 
+at each turn of the "clock" the generating function is activated. Note 
+that _nothing_ occurs between such intervals, i.e. t2 - t1 is empty. 
+
+What I failed to notice, blindsighted that I am, and what is pointed out 
+in Kocak, Differential and Difference Equations through Computer Experi- 
+ments, is that the series f(x(n)), f(x(n+1)), etc. is constituted as a 
+series of "equal" intervals as well, a series of differences. The trails 
+left in some programs then are trails of equal steps, and out of them 
+chaotic behavior is constructed. For example I've been interested in the 
+difference equations x1' = x1 - cos(x2) * b, x2' = x2 + sin(x1) * b. The 
+results, plotting them in two dimensions, are stunning. 
+
+In any case, thinking of the trails as atemporal tracings constituted by 
+equal differences results in the notion of a transcendent structure, back 
+to a form of Kantianism I'd suppose, as opposed to considering them as 
+patterns of growth, etc. It all depends on the viewpoint. What emerges 
+also from the book is - given that it's written in 1988 - little comment 
+on chaos or fractal theory, even though examples of the gingerbread and 
+henon equations are given. I was surprised to notice that a ball bouncing 
+on a periodically vibrating table is subject to strange attractors.
+
+Anyway to summarize this sad tale: I'd always assumed iteration was temp-
+orally based and constructed, for no reason at all. It didn't "occur"  to
+me that the construction-presentation was a result of computer calcula-
+tion, i.e. needing f(x(n)) to produce f(x(n+1)), but that beyond this, 
+there is no reason to assume that anything is present other than a fixed 
+structure of differences. This relates of course to the cardinal/ordinal 
+phenomenology in the philosophy of mathematics.
+
+Enough! Computers have led me astray!
+
+_________________________________________________________________________
+
+-
+
+
+Dissolving
+
+
+One reads William J. Mitchell's City of Bits, Space, Place, and the
+Infobahn, against Anne Fausto-Sterling's Gender, Race, and Nation, The
+Comparative Anatomy of "Hottentot" Women in Europe, 1815-1817, and against
+Carol Groneman's Nymphomania: The Historical Construction of Female Sexua-
+lity, both in Jennifer Terry's and Jacqueline's Urla's Deviant Bodies; and
+against that of the fourteenth century The Voiage and Travayle of Sir John
+Maundeville, Knight. All of these present dissolute discursivities: the
+inability to classify Sarah Barton on sliding scales of constructed races
+and humans; the problematic of nymphomania in the 19th century, and the
+fantastic/uncanny reports on races, women, men, through travel narratives
+in close-to-medieval Europe, Africa, Asia.* The City of Bits relates the
+difficulty of the interpenetration of city and cybersphere through a ser-
+ies of binary oppositions that turn out, themselves, to be false, and
+dissolute in a somewhat similar manner. Instead, the model, as elsewhere,
+is that of local territorializations, temporary circumscriptions, coagu-
+lations, membranes. These hold, I believe, within the other domains as
+well. What of it? 
+
+Concepts and categories are becoming more fluid; categoricity itself may
+fall by the wayside. This is no light matter; the metaphysics of Stefan
+Korner become an issue of concepts. The question moves from the concept to
+the nature of circumscription. At one point, I defined inscription in
+terms of such qualities as maintenance, embodiment, linkage, representa-
+tion structure, legitimation structure, impulse, and field of abjection.
+Now I put forth the questions again: What is the nature of inscription and
+circumscription in cyberspace? What is required in terms of maintenance?
+Is there anything other than temporary identities, softwares, communities,
+applications? These categories themselves are mixed, and mixed in among
+themselves. 
+
+For one effect of City of Bits is a sense of exhaustion, and this not just
+the result of something new coming along which will be assimilated in the
+future (for one thing, the noise in a contemporary urban center creates
+higher levels of stress and anomie, even among those born within it). The 
+exhaustion arrives with the constant necessity for reterritorialization, 
+for the inhabitation of situations which are always already destabilized.
+
+Some of the pairs in City of Bits are: Work / Net-Work, Department Stores
+/ Electronic Shopping Malls, Trading Floors / Electronic Trading Systems,
+Banking Chambers / ATMs, Schoolhouses / Virtual Campuses, Bookstores /
+Bitstores, Brains / Artificial Intelligence, Muscles / Actuators, Nervous
+System / Body Net, Contiguous / Connected, Narrowband / Broadband, Syn-
+chronous / Asynchronous, Banishment / Sysop Blacklist, Territory / Topo-
+logy, Jurisdictions / Logical Limits, Enclosure / Encryption, and Face-to-
+Face / Interface. Almost all the latter terms reference delocalized space
+and time, continuously upgraded software, electronic investment, variety
+of sites/applications, and increasing computational power. So the _third_
+question arises, now, and in the future: In the next millennium, how will
+one cope with this global destructuring? Don't forget it will be accom-
+panied by increased gaps between haves and have-nots, and so forth; the
+resulting global stresses, if nothing else, will be tremendous. 
+
+-------------------------------------------|
+
+Surely these discursivities are the result of partial information, the
+emergence of new information and communications technologies, the
+projection of desire into the uncanny - all characteristics, in fact, of 
+Internet communities, and the City of Bits.
+
+__________________________________________________________________________
+
+-
+
+
+
+States of Affairs
+
+
+In relation to Heidegger, can one talk about technology as referencing
+_the course of things_ (as opposed to an analogy based on cyborg/prosthe-
+sis)? The viral aspect of technology, its interpenetration, its doubling
+within the real, parallels the simultaneous growth of organic viruses, the
+planet heading towards the double cusp of plague and pure virtuality. As
+the organic sloughs, decomposes, transforms into the intermittent, so vir-
+tuality coheres, composes and constructs, transforms into the redundant. 
+
+Nonetheless this occurs beneath the sign of plasma, lest one forget - that
+the planet is in a potential well of momentary relative stability and not-
+hing more... 
+
+(I would not place technology within Being or beings; I would place it
+within the construct of the _things themselves._ That is, construct is
+always already technology. I would not place technology within the pros-
+thetic, nor would I insist on a nature/culture dichotomy - not only
+wouldn't I know where to draw the line, but the inscription itself onto-
+logically wavers.)
+
+See Heidegger's Identity and Difference:
+
+"Let us at long last stop conceiving technology as something purely tech-
+nical, that is, in terms of man and his machines. Let us listen to the
+claim placed in our age not only upon man, but also upon all beings, na-
+ture and history, with regard to their Being. 
+
+"What claim do we have in mind? Our whole human existence everywhere sees
+itself challenged - now playfully and now urgently, now breathlessly and
+now ponderously - to devote itself to the planning and calculating of
+everything. What speaks in this challenge? Does it stem merely from man's
+spontaneous whim? Or are we here already concerned with beings themselves,
+in such a way that they make a claim on us with respect to their aptness
+to be planned and calculated? Is it that Being itself is faced with the
+challenge of letting beings appear within the horizon of what is calcula-
+ble? Indeed. And not only this. To the same degree that Being is challen-
+ged, man too, is challenged, that is, forced to secure all beings that are
+his concern as the substance for his planning and calculating; and to
+carry this manipulation on past all bounds." (Trans. Stambaugh.)
+
+(But Being is not challenged, neither one nor the other is challenged, or
+rather, the Other is always challenged. And I would question whether tech-
+nology is in fact manipulation, rather, again, than a state of affairs,
+that is, always an interpenetrating circumscription, construct, process of
+emergence. In this sense to talk of the prosthetics or uses of technology
+is precisely to talk of beings; to talk of technology is to talk of Being.
+And is the challenge that of a Being who is challenged, i.e. handicapped
+or thwarted precisely to the extent that it is not Being but emergence it-
+self? Which hopefully is not to argue for say a Whiteheadian process meta-
+physics, but instead to deconstruct metaphysics and categoricity in favor
+of emergence, or to comprehend phenomena as emergent, information all the 
+way down - although information which may carry scars, wounds, virality, 
+death and its simulacra.)
+
+
+__________________________________________________________________________
+-
+
+
+My You, My Net, My Stockings
+
+
+My current issue of The New Yorker is a Women's Issue and it comes with an
+ad for ALLURE from Chanel, Impossible to Resist, and there is a page that
+folds out, there is a page that folds out, and in the crease of the page,
+in the corner of the crease, there are these words, ...stroke inner fold
+on pulse points, and I do on my shaved skin, on my shaved skin, and per-
+fume releases itself, perfume floods from it, and I am flowing with vir-
+tual you, I am coming with virtual you, and I touch my skin you are my
+skin and I touch my perfume and you are my perfume and I turn ever so
+slowly, turn ever so slowly, across the bed, turn faster now, almost but
+not quite as in dreaming as in sleeping, and the perfume leaves its stain
+on the sheets, perfume leaves its stain on the nipples, across the chest,
+and there is a crease in the bed and there is a bed that folds out and in
+the corner of the bed there are these words, and I can't read them, virtu-
+al you, and I can smell them, virtual you, t, u, v, virtual-u, x, y, z,
+your equations in six unknowns reduced to five, your smell on my eyes, my
+ears, my throat, perfume sheets, perfume calves and pages, perfume text,
+all I reach for in the morning alphabet, all that floods this, flooding
+
+_________________________________________________________________________
+
+-
+
+
+SEAR: Spew, Erase, Assay, Release
+
+
+I want to write about the project I have been carrying on, the writing of
+a (continuous) text, called for lack of a better term, the Internet Text,
+and available at the URL that accompanies my signature almost everywhere
+I go/write. I have been wondering whether this meditation, more or less
+continuous, produces any effects in cyberspace other than to assuage my
+own ego, whether it's not, in fact, a signifier of my own virtuality, my
+disappearance behind a certain foreclosure of writing. Certainly as some-
+one said to me recently, it forms a punctuation in the midst of posts on
+both Cybermind and FOP-L, but the punctuation is intermittent and hardly
+creates discussion, nor, do I think, does it direct or intervene discus-
+sion. 
+
+Instead, it continues on its own, building on what, for the reader, must
+be a fictitious past; no one reads _all_ the posts (and probably few will
+read this one as well). Yet without this past, without the return engen-
+dered, the text would have to begin all over again with each new instance,
+much as if a 19th century serial novel proceeded by creating one first
+chapter after another.
+
+The risk, for those who don't go to the Internet Text as a whole (and I
+assume no one does for that matter), is that text is out of con-text, 
+creating either a sense of obscurity or dullness; what is the point, for
+example, of correcting something now at time _y_ that I may have written
+at time _x_, if no one else has noticed? What sort of totality am I pla-
+cing the texts within, if I alone am aware of this? And such a totality
+clearly takes on the character of _psychosis._
+
+The strategy to avoid this is to assume an uncanny or imaginary audience,
+one which engages and critiques the text at each and every turn, one that
+in fact interpenetrates it. But such a fantasm itself requires a consider-
+able effort to maintain as a (circum)scription of the w/hole, an effort
+that's not without its own psychological cost. 
+
+The result of this travail is that the text exists within a dreary suspen-
+sion. It's awkward, inoperable; it belongs nowhere. It's not publishable
+in its entirety (which would run over 1200 pages), nor piecemeal (since
+the parts are interrelated), even though a number of articles have been
+taken from it, by hands other than my own. It's also not publishable in 
+an edited version; I've attempted to reduce it (with help) to a form more
+suitable for print, with no success. 
+
+And even the form is continually ruptured, with dialog, script, programs,
+poetics, theory of all sorts, narratives as well - so that it becomes, 
+not formless, but suspect of form, almost substance-like, a roiling of
+philosophical, literary, and psychological issues. Each of the individual
+sections, for that _matter,_ is dense in itself; the weight of the pro-
+duction appears to increase without bound.
+
+Again - it's not as if any conclusions have been reached. Certain terms
+and concepts have been developed - ascii unconscious, defuge, construct,
+emission, inscription, representation, etc., and these have been reapplied
+into and within the descriptive apparatus. While this constitutes theory
+it hardly constitutes an orderly progression; it's both a new and/or dif-
+ferent mode of theorizing, and an absurdity, a work gone out of hand, in
+fact a form of _spew._
+
+I characterize _spew_ as an emission of the inchoate, a dribbling of coa-
+gulations (related to ego-constructs, etc.), abject ecriture of the body,
+incoherent maintenance of inscriptions. Spew is also desire thwarted, 
+failure of the prosthetic body, detumescence; it is nomadic, not in the
+sense of situationism, but in that of concrete poverty, of conclusion, of 
+capital even to continue. It is blocked, dammed, gathered; it roils as 
+turbulence, as the equations I occasionally describe also roil.
+
+Spew is hardly _there_ for the subject, the reader, as well. As individu-
+al texts, it becomes a displaced pebble-architecture, weir-grating. With-
+in the contexts of the texts' appearances on "their" email lists, they
+are objects for deletion, not catalysts for meditation, debate, reply.
+They're too rounded for that, too emptied of entrance, simultaneously 
+dammed and damned.
+
+So the writing is void-writing, as in the sense of writing void on a 
+check, avoidable writing, writing into the void; likewise it is abyss-
+writing, abysmal writing. I would that were it delirious, it would then
+bring forth an _act_ of reading, that, if it were the symptom of psycho-
+tic production, it would nonetheless bypass the same in favor of the 
+other. But none of this seems to be the case, and perhaps the texts need
+tendenz towards retirement, towards a closure beyond the Net 1-14, beyond
+as well the alphabetic texts, already a through t, midway through u. 
+
+The ritual of self-publication, placing the files one after the other on
+the URL, proves unsatisfactory as well; what is the point of this act
+carried out every two or three weeks, without end, for over two years to
+date? Spew knows no boundaries; there are none from within, and everything
+turns cancerous, stillborn. Everything is dead.
+
+Thus a time appears when in fact I have less to say, when already a cer-
+tain lid appears in the sky, heavy with viscous fluid, coating, flooding,
+the landscape with the transparency of glycerine. My mouth and lungs are
+coated with molasses; I choke on unimaginable sweetness, engorging text
+and texts, section and sections, paragraph and paragraphs, down to the
+poor shapes of the letters themselves. There's no dawn in my world - if 
+I've learned anything, it's that. And with this broken communication -
+broken among the texts, broken as spew, broken with audience, broken with
+publication, broken with form, broken with continuity and content - with
+this vomit, disgorging, I can hardly call it a day.
+
+ii
+
+Normally, I would have stopped here. But I think to myself: And what if
+this _is_ an end, the spew drying, coagulating as I have said that it 
+would? The entire text suddenly becomes irrelevant, as if it were rele-
+vant in the first place; it gains a date and a time, gains a location and
+a system, an entire taxonomy, of attributes: it's _there,_ as if something
+had been said, after all, but something that is now ended, completed, and
+finally, furtively, discarded. So it must continue onward, push itself
+once more into the light, the latter sections bringing the earlier into
+the self-same bandwidth, even plateau, of misplaced temporality. But then,
+I continue to myself, it can at the least be slowed in its pace, the vis-
+cosity increased, not in order to rethink or reinvent sections, but in
+order to devote my time to other projects of writing and thinking. Doesn't
+this become absurd, pretentious, a creation of a whole _economy_ of thin-
+king, as if the time I have at my disposal is not only limited but meas-
+ured? Still, since it seems both necessary to disinvest, release, and
+at the same time, tether the work to the present; since it's part of my
+own psychosis to continue speech yet not in speech's absence; since I
+insist on a certain defeat of order paramount on the construct of my or-
+dure - since all of this together and separate, since thought is already
+in the process of dissolving the image of the body, I continue through
+transparency, posting on occasion of posting, something on the order of
+_touching reminders,_ engagements now and then, as if I were to be mar-
+ried on the _morrow._
+
+(It's all "as if," "still," "yet," "nonetheless," it's all me me me. Yet
+there's _no face to it,_ as if there ever were. A text in subjunctive 
+form.)
+
+_________________________________________________________________________

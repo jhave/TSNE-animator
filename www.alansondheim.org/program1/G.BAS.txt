@@ -1,0 +1,37 @@
+
+REM CHAOS BIFUR bifurcation set for function w/cosine
+' ** defaults and scaling added 17 dec 1998  |{hm **
+one:
+ CLS : SCREEN 11: LOCATE 23: p = 1.618034: m = .02: PRINT "default m=.02; "; p = 1.618; ""
+ INPUT "Separate density (.005>m) and exponent (p>1) with comma: ", mm, pp:
+	IF mm > 0 THEN m = mm
+	IF pp > 0 THEN p = pp
+ : ON ERROR GOTO pxt
+ x = .001: z = -3.57: zw = 7:  xx = x:     'z from Sci Am 9/91
+WINDOW (z, -1.5)-(zw, 1.8)                      ' zw includes most of the hairy chaotic cycle
+REM LINE (z, x)-(zw, x): LINE (0, xw)-(0, z)
+    LINE (-3!, x - .6)-(-3!, x - .3)        'this varies slightly with exponent
+    LINE (0, x - .6)-(0, x - .3)            'zero crossing
+    LINE (3.23, x - .6)-(3.23, x - .3)     'often overflows here; use F5 to continue
+    LINE (6.77, x - .6)-(6.77, x - .3)      'error trapped at .01/1.15; wide variability
+
+two:                                           
+WHILE t < 50: t = t + 1
+x = EXP(LOG(ABS(x)) * p) * (1 + COS(x)) + z
+xw = x / EXP(ABS(z))            'approx horiz baseline
+PSET (z, xw)                            ' <----
+ WEND
+x = xx
+z = z + m
+t = 1
+GOTO two
+
+pxt:
+IF xw > 3200000 THEN RESUME NEXT    'works out pretty consistently around z=7 for p<2.5
+ 
+  PRINT x; m; p, z; zz; xw
+ STOP                                          'F5 rolls over to start
+ GOTO one
+
+
+

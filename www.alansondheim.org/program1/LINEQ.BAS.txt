@@ -1,0 +1,13 @@
+REM linearq basic S-series with full divisor series,spectrum
+SCREEN 1: CLS : q = 1: VIEW PRINT 1 TO 1
+div: q = q + 1: IF q > 320 THEN STOP
+x = 0
+one: a = 0
+x = x + q
+two: a = a + 1
+IF x MOD q ^ a = 0 THEN GOTO two
+IF a MOD 2 = 0 THEN IF POINT(x, 100) = 0 THEN LINE (x, 100)-(x, 110), 1 ELSE LINE (x, 100)-(x, 110), 0
+PRINT x, q; "     "
+IF x > 320 THEN GOTO div
+GOTO one
+

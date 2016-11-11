@@ -1,0 +1,1344 @@
+--------------------------------------------------------------------------
+
+The Situation of the Beginner
+
+Phil Agre <pagre@ucsd.edu>
+
+June 1996
+
+This file contains 39 messages, totalling about 63Kbytes, that subscribers
+(mostly) of the Red Rock Eater News Service (RRE) contributed in response
+to a call for stories about the experiences of beginning computer users.
+Please read and learn from the stories while respecting their personal
+nature.  Each message is Copyright 1996 by its author, with all rights
+reserved.  You are welcome to distribute this file, in electronic form
+only, and only in its entirety, to anyone for any noncommercial purpose.
+If you wish to use these messages in any other fashion, you will need to
+obtain permission from each author individually.  For more information
+about RRE, consult  http://communication.ucsd.edu/pagre/rre.html
+or send a message that looks like this:
+
+  To: rre-request@weber.ucsd.edu
+  Subject: help
+
+--------------------------------------------------------------------------
+
+Date: Mon, 27 May 1996 21:22:15 -0600 (CST)
+From: Ron Berntson <berntson@duke.usask.ca>
+
+I work as the librarian / network manager in a small (600 students)
+high school in the middle of the Canadian prairies. We deal mostly with
+students who have a long history of not coming to school. They don't "use"
+computers in the sense of your question. A month ago, their activities
+of choice were smoking and playing the few shareware games I put on the
+network (thankfully, not at the same time). Their necessary computer
+activity was often typing up a resume. Now, in addition, they like to fire
+up Netscape and browse for anything and everything. They need almost no
+instruction - they teach each other. My point? Design means very little;
+personal context means a lot.
+
+Ron Berntson
+
+
+
+Date: Mon, 27 May 1996 22:47:02 -0500
+From: gordo@interlog.com (Gordon Jessop)
+
+Less than two years ago I would need my friend's assistance just to turn
+a computer on and get the word processor up and running. Computers made me
+feel like an idiot.
+
+Then a year ago last September, I bought one; I spent that entire day and
+evening (with no sleep) clicking and pushing buttons, just to see what
+happened.
+
+Now I own a successful software development firm that I built myself; I
+actually program some of the code, scarily enough ;)
+
+The best advice I can give (and it really helped me) is to simply push the
+buttons.  See what happens when you click something... there is always the
+undo command - you can't hurt the thing.
+
+Never let the lack of knowledge slow you down... if an acronym or term
+pops up that you do not understand, let it ride. It'll be explained, in
+some obscure place or time, later.
+
+cheers,
+Gordon Jessop
+
+www.remote-software.com
+cut and paste cgi
+
+
+
+Date: Mon, 27 May 1996 22:28:36 -0700 (PDT)
+From: Penelope Kelly <pkelly@efn.org>
+
+when i help people learn to use a computer, i reassure them with "i know
+it's confusing, but you can learn to do it".  i taught myself everything,
+because when i asked for help, i received a dismissive "there's nothing
+to it ... it's easy".  all that did was make me feel stupid, because it
+'wasn't easy, and there was a lot to it'. when i was a beginner i didn't
+know many people who used computers, so i bought lots of books, used my
+computer and learned, now it's *easy*... but i don't use that word with
+beginners.  i/they know it isn't easy at first .. but they *can* learn.
+
+penelope kelly
+pkelly@efn.org
+
+
+
+Date: Mon, 27 May 1996 22:29:07 -0700 (PDT)
+From: Judi Clark <judic@manymedia.com>
+
+When I was a beginner learning email for the first time some 12 or 13
+years ago, I remember the most difficult thing to understand was the logic
+of the system. It's not innate until you've been working with it a while,
+and even then there are logical things that surprised me. My world wasn't
+logical in the same way as computers were.
+
+Sending and receiving mail or a file, from a remote system to another
+remote system -- where was my computer in this set-up? How do I get a file
+from my computer to someone else?  I felt stupid when I didn't know what
+questions to ask.
+
+My schools seem to have failed in teaching me how to think critically, how
+to figure things out, or how to ask the questions to take us to the first
+level of understanding.  Memorization only goes so far in a new way of
+thinking, and I was never good at memorizing. It took me a while to figure
+out that I needed to move my file onto my ISP's machine, then from there
+to another machine.
+
+I always try to explain the steps and what's happening at each step when
+I'm working with beginners.
+
+  judi
+
+
+
+Date: Tue, 28 May 96 18:52:06 +1200
+From: "Blair Anderson" <benefit@ibm.net>
+
+I have a perspective and experiance that places me at the pitface so to
+speak, having worked with the technologies for the past 25 years.
+
+Everyday is a new day, Everyday I am a "beginner", Everyday is a
+challenge, everyday there is pain, be it a lost file, or something falling
+short of expectations..
+
+The pleasure.. the sense of satisfaction is for the large part diminished
+by the experience that soon there will be another problem. How experienced
+is experienced..  well theres the rub.. there is the perception of a
+constant learning curve, a constant challenge, a constant threat of
+"newness" that disenfranchises all the collective wisdom thus far.. this
+is reinforced by a community that "cannot hope to explain in a press
+release" the constancy of change, other than make "profound" statements,
+that reinforce the notion of "NEW" and "CHANGE"... drawing into doubt the
+value of experience...
+
+This is because they dont understand the business of solving problems.
+
+The problems I solve are the same problems that I solved 20 years
+ago.. they just have different wrappers.. The techniques are the
+same.. the skills are the same, the resources are the same.. the
+resolutions are as often as not, the same..
+
+The experience of the beginner... is really the unrefined art of the
+experienced !
+
+It would be fair to say that I spend 80% of my effort in problem
+resolution, working with the same tools and information and interim
+conclusions as a beginner.. and the remaining 20% i do, out of
+intuition....
+
+The beginner is not alone..  I am just quicker!
+
+Cheers,
+
+Blair Anderson
+International Consultant in Electronic Commerce, Encryption and Electronic Rights Management
+
+Net Benefits Ltd.
+BENEFIT@IBM.NET
+
+
+
+Date: Tue, 28 May 1996 09:26:19 +0200
+From: "Richard Ramsden" <ramsdenr@cssa.org.za>
+
+In 1984 I was implementing integrated systems at a hospital.  The
+bookkeeper of this hospital was in her seventies and had never used a
+computer before.  She was very resistant.  All of a sudden we started
+having a series of power-outs.  The three operating theatres on that
+floor had backup power supplies but the rest of the floor would go out.
+Our resistant individual always seemed to be down the passage when the
+power went.  Eventually I caught her in the act of throwing the main
+breaker switch.
+
+She had selective insight into how the computer worked.  It was a Unix
+system with limited battery backup.  She knew that we got agitated if it
+wasn't shut down properly, and was desperately trying to shake the tree.
+Although the user interface had been designed with this woman in mind she
+was the only person who did not make the transition to the new systems.
+Her mind had been made up the day the equipment had been installed.
+
+Richard Ramsden
+email: ramsdenr@cssa.org.za
+Voice: +27 21 790-4917
+Cell: 082-9005729
+SMail: 11 Plumtree Avenue, Hout Bay, 7800, South Africa
+
+
+
+Date: Tue, 28 May 1996 03:39:20 -0700 (MST)
+From: Daniel Eisenberg <Daniel.Eisenberg@nau.edu>
+
+My first computer purchase, in 1979, was a CP/M 32K computer for which
+I paid $4500.  at that time there were no brand names, it was assembled
+for me by someone who later, briefly, became a dealer.  While it was
+an educational experience in many ways, and prepared me for later
+experiences, the computer was never able to do even one of the tasks I
+envisioned for it (word processing and schedule keeping).  The software
+was not yet available, to make along story short.  But I was at the
+time to inexperienced to know this and it performed well (aside from
+breakdowns) all of the specifications that the seller had written, so
+I didn't have much recourse.  I did write and publish an article about
+1981 on "How I Wasted $4500 on a Microcomputer."
+
+
+
+Date: Tue, 28 May 1996 07:21:39 -0500 (CDT)
+From: Don Bass <bass@tenet.edu>
+
+	I work as an instructional administrator in a community college
+and I have found two principles helpful in dealing with beginners.
+
+	1. Make equipment and support available to the beginner. We have
+nearly 100 faculty (4,000 students) and we attempt to put equipment in the
+offices of every one. We are almost complete. If equipment is available,
+and a person available to answer questions, and technical support to do
+installing and configuring (at the start), then there is a good chance of
+success.
+	In tandem with this it is helpful to establish user groups (by
+topic, or software package, etc.) and to offer training.
+	From this time forward, I cannot conceive of employing anyone who
+is not computer literate.
+	These are the same things we do to help students...provide the
+environment and support. We are making a lot of progress.
+
+	2. Do not cast pearls among swine.. I find that I waste my time
+trying to talk people into being interested, or arguing about the value
+of technology to someone who is emotionally opposed to learning. (i.e.
+Luddites). If someone is not trying to use it, one might as well be
+talking to himself/herself.People cannot learn to use this stuff or
+appreciate, or understand anything about it, until they are *in* it.If
+they want to argue about something that they know not, I just walk away.
+
+	I estimate the "unclean" represent 3% of the population.... very
+minimal. I suspect they don't use the telephone much either. ~:>
+
+Don Bass
+College of the Mainland
+Texas City, Texas
+
+"Every expert was once a beginner."
+
+
+
+Date: Tue, 28 May 1996 09:04:15 -0400
+From: edh@cybernex.net (Eric D. Hancock)
+
+I remember my first experience with a computer.
+
+It was fifth grade, and the computer was some sort of Atari (quite old).
+We were in a classroom situation, learning simple programming concepts
+in BASIC.  This should have been stressful, but the instructor was very
+nurturing, encouraging us to experiment.
+
+I have noticed a trend in this area.  Many people who experience computers
+for the first time using DOS/Windows are told "Do this, type this, and
+don't touch anything else!"  They get the impression the computers are
+fragile, moody, mysterious animals.  However, people who experience
+computers for the first time using Macintosh (or NeXT) are more at ease,
+and are less likely to be told "Don't touch anything!"  There are, of
+course, exceptions to the rule.
+
+Just my observation.  By the way, I now program computers for a living.
+
+E-
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+            edh@bc.cybernex.net  /  76502.271@compuserve.com
+                   http://www2.cybernex.net/~edh/
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+
+Date: Tue, 28 May 1996 09:27:18 -0400
+From: "A. Simon Mielniczuk" <simon@web.net>
+
+Some short anecdotes about beginners & technology.
+
+During the late 80s I was training grad students from a social work
+faculty on computer applications. One of the students was a mature
+woman who had returned, after several years of successful practice, to
+get a graduate degree. During the largely hands-on session I noticed her
+becoming increasingly aggitated. She shoke her head, clenched her fists,
+exhaled heavily. I asked her, "Are you having a problem here?" "I've
+spent my whole life staying away from typewriters and keyboards. Now these
+things are everywhere!" Her conscious effort to avoid gender stereotyping
+in order to maintain her professional status had re-bounded.
+
+In another instance I was sent to a northern Ontario First Nations
+community to introduce a community development project to basic computer
+use and an online communication system that linked several such projects.
+Early on it became clear that no one with the project had any computer
+experience. During my tour of the community I noticed a large covered case
+under an office desk. It turned out to be a very powerful PC which had
+been sold to the band along with various software packages. No one could
+put it together or turn it on.
+
+--
+A. Simon Mielniczuk            Information System Consultant
+Toronto, Ontario Canada        Ontario Prevention Clearinghouse
+http://www.opc.on.ca/~simon    http://www.opc.on.ca
+(416) 408-2121 x241
+
+
+
+Date: Tue, 28 May 1996 10:44:56 -0500
+From: "Barrett L. McCormick" <blm@execpc.com>
+
+A while ago a close friend was a support person for a Fortune 500 firm
+that was upgrading a wide area network. The upgrade required users to
+install Windows, which many had never used. The support was all conducted
+over the phone which at times led to interesting complications. One woman
+simply could not get the cursor to respond to her mouse despite days of
+struggle with drivers, hardware diagnostics, re-installations and all the
+usual fixes. Finally, one of the support people discovered the problem:
+the user was holding the mouse upside down! Without this bit of context,
+the rest of the fine diagnostic skill and instruction was useless. Which
+leads me to wonder what else veteran computer users know that is not
+formalized in manuals or verbal instructions. I suspect it is the vague
+awareness -- or the fear -- of not knowing such things that the insiders
+take for granted that makes beginners feel so stupid.
+
+Barrett McCormick
+========================================================
+Barrett L. McCormick                      blm@execpc.com
+Political Science                             (414) 288 6842
+Marquette University/Milwaukee, WI 53233/USA
+
+
+
+Date: Tue, 28 May 1996 14:40:43 -0400
+From: Dean Esmay <esmay@syndicomm.com>
+
+When I first started using a computer, my experience as a beginner was
+different from most, because I was fascinated by them from the very start,
+and learned everything I could about how to use one.
+
+When I got to where I had to start helping others, I found that I had an
+aptitude for teaching others how to use them.  I've done consultation work
+as well as taught workshops, and have usually been highly praised for my
+ability to put myself in beginners' shoes.
+
+Although it sounds obnoxious, one thing that usually has helped was for
+me to always assume that the person using the computer is too old to have
+learned the way I did--I was a 13 year old kid who developed an early
+passion for them, but I realized that most older people weren't so lucky,
+and that older folks already had ingrained habits of thinking about how
+things work, and would not adapt so easily.
+
+Part of this is my age I suppose; today young people are very used to
+electronics, so they tend to pick them up easier.  I still wind up working
+mostly with people over 30, usually over 40, who are beginners.  The young
+kids pick it up well, the older folks don't.
+
+So the main piece of advice I always start with is, "Don't worry that
+this is confusing.  It will probably take you a while to pick it up.
+If you have kids, most especially don't feel bad that they seem to learn
+this faster--every time I encounter someone younger than me, I'm amazed
+at how much more quickly they pick up new stuff than I do.  It's just how
+it works.  Remember to be patient with yourself, and that the only thing
+that really will get in your way is if you let yourself get frustrated.
+Getting frustrated is the one thing that'll slow you down and give you
+trouble.  Just relax and have confidence--you CAN do this, and I know you
+can because I've taught lots of others who started just where you are."
+
+And all that's true--the #1 thing I've always found about people I'm
+trying to teach computer use to who just aren't getting anywhere are
+the people who've allowed themselves to become frustrated.  It's not a
+self-esteem issue; some people with terrible self-esteem make progress.
+It's the people who get angry with themselves or the computer, who simply
+become frustrated because they "don't get" what's going on, who have
+the most trouble by far.  The only people who are worse off are those
+convinced they already know everything, and they're fortunately quite
+rare.
+
+There's one other thing I recommend for beginners--whenever possible,
+I encourage them to get Macintosh systems.  There's simply no disputing
+anymore that the Macs are easier for beginners to pick up, and have fewer
+problems with setup and daily use than most Windows machines.  I use both
+platforms myself, and have taught people to use all manner of machines,
+but I think everyone on this industry ought to recognize that, despite
+whatever strengths other systems may have, at least those Macs tend to
+work right out of the box, and beginners learn to use them much more
+quickly than other systems.  In my experience, they tend to get used more
+often too--I've seen many a family buy a computer only to have it sit in a
+corner, rarely used, or used only for one or two games.  I have yet to see
+anyone who bought a Mac wind up in this position.
+
+ ---
+
+"All truth passes through 3 stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+						--- Arthur Schopenhauer
+
+
+
+Date: Tue, 28 May 1996 11:43:27 -0700 (PDT)
+From: Andrew Robson <arobson@uswnvg.com>
+
+Since I got behind due to the long weekend, and have no time for
+distractions from work, I am (of course) going to respond to a couple of
+your recent items.
+
+As an undergraduate in the mid 1960's, I found myself in the position of
+being a teaching assistant for an elementary programming class (FORTRAN)
+offered by the Mathematical Biology department and attended primarily by
+MDs and post-docs.  I graded programs and did tutorials and help sessions
+at the students request.
+
+The high status and undeniable intelligence of the students did not
+help them much with procedural programming.  The most basic programming
+concepts were the most difficult to get across.  I spent hours explaining
+IF statements and DO loops.  I became convinced that something about the
+practice of medicine interfered with the ability to understand procedural
+logic.  The sticking point seemed to be that the computer would only
+execute the statements in a program one at a time, and would not even
+consider the alternatives that were not selected.
+
+Of course, I was spending my time with the students that had the most
+trouble.  Still, I think that the main impact of that class was to leave
+these medical professionals overly impressed with programmers in general
+and vaguely convinced that we had special powers to make the computers
+do our bidding.  I suppose turnabout is fair play since doctors trade on
+a similar impression from the layman in the practice of their art.
+
+Andy
+
+
+
+
+
+Date: Tue, 28 May 96 12:06:05 PDT
+From: Giordano Beretta <beretta@chroma.hpl.hp.com>
+
+Around 1980 I was working on a fairly abstract PhD on computational
+geometry.  My advisor had a severe acid test for all software his PhD
+students wrote; when a demo was ready, he would bring in a 6-7 year
+old kid who could read and that kid would be the first user of the
+software. Only if demo survived the kid, the professor was willing to
+look at it.
+
+Among the lessons I learned are:
+- no matter how arcane your application, you only understood the problem
+  if you you can make it interesting to a layperson (example: the best
+  book ever written on relativity is Einstein's book for the layperson)
+- never make assumptions on the users, give them full control and always
+  explain why they have to perform a given action you make them do
+- structure your user interface and make it 100% consistent
+
+Reference: J. Nievergelt, "Errors in Dialog Design and How To Avoid Them,"
+in "Document Preparation Systems," J. Nievergelt et al. Eds., pp. 265-274,
+North-Holland (in the US: Elsevier Science Publishing), Amsterdam, 1982.
+
+Giordano Beretta
+Member of Technical Staff
+Hewlett-Packard Company
+beretta@hpl.hp.com
+
+
+
+Date: Tue, 28 May 1996 15:40:31 -0500
+From: glockner@intr.net (Alexander Glockner)
+
+I usually have two stories I like to tell when a beginner says that s/he
+doesn't think s/he can learn all this computer stuff.
+
+The first is about my wife learning to drive.  For the first few months
+after getting her license, she had to have a passenger tell her where to
+turn, even if she had driven the same route many times before.  She could
+not operate the car and figure out where she was at the same time!  No,
+my wife is not stupid - she just grew up in a country where few people
+had driver's licenses, so she had little background knowledge obtained
+from watching others drive.  Her attention simply had to be focused on
+operating the car.
+
+When the beginner says something like "but that's just a fluke, learning
+to driving a car is so natural" - and this is most of the time - I point
+out that learning to drive was *not* natural in the early 1900's; it
+required wealth, strength, mechanical aptitude, and daring.  We've just
+had a century of experience to learn from. I then make some moral about
+having the same daring as those drivers of old...
+
+If the beginner still isn't convinced, I tell my own driving story.  I was
+taking driver's ed as a 16-year-old, and in the middle of the last left
+turn I had to make on the last day of class, the car suddenly lurched to
+a stop.  The driving instructor had slammed on his foot brake when he saw
+that I wasn't going to complete the turn properly, and the car stopped
+less than five feet from going head-on into a telephone pole and a
+mailbox. I could not remember beginning the turn.  After that, I didn't
+try to drive for eight years - though it was simply a matter of learning
+how to pay attention in spite of any natural inclination.  Well, at least
+I saved a lot of money on car insurance.
+
+The beginner usually sees the second moral before I start it: A beginner
+is going to make mistakes. *No* tool is easy to learn to use - especially
+if it's been designed by expert users and has only been in the public eye
+for a decade or so; that doesn't mean you shouldn't try.  We'll learn over
+time to make it easier to use; even then it doesn't mean you'll never make
+a mistake.
+
+(A few beginners I have to beat into submission by then asking how much
+time they spent in school learning to write, but very few...)
+
+Alex
+glockner@intr.net
+
+
+
+Date: Tue, 28 May 1996 19:21:20 -0400 (EDT)
+From: "Ilene Frank (REF)" <ifrank@dudley.lib.usf.edu>
+
+My favorite PC story about myself: In 1988, a friend and I decided to get
+the identical PCs so we could compare systems if anything seemed broken,
+help each other learn, etc.  He recieved his and got it up and running
+in no time. When my equipment showed up a few days later, I nervously put
+all the cables in the right place (I thought,) plugged it in, and turned
+on the master switch on my surge protector.  The master switch lit up just
+fine, but nothing else happened!  I was frantic.  I called my friend. He
+"walked" me through all the connections. I tried again.  Nothing.  It was
+only some number of phone calls later, that I happened to accidently like
+look at the side of the computer case and see this HUGE red switch labeled
+ON/OFF... "Hey, Joe, do you think this could be the problem?"
+
+There are plenty of days when I feel that I have not progressed much
+beyond this point.  And I always try to remember this when I'm dealing
+with inexperienced computer users at the Reference Desk.
+
+Ilene Frank, Reference Dept.
+Tampa Campus Library, LIB 122
+University of South Florida, Tampa FL 33620
+ifrank@lib.usf.edu        Work 813.974.2483
+
+
+
+Date: Tue, 28 May 1996 17:29:58 +0000
+From: Judith Sherwood <C4S@jill.sannet.gov>
+
+"You're always a beginner" category
+
+After 6 years of owning an Apple II, and then a Mac, I bought my very
+first PC. I can vividly remeber setting it up, and flipping the power
+switch. The computer store had pre-loaded Windows,and set it up to run
+Windows on booting up. They hadn't installed the mouse software though.
+
+Try looking at the program manager, and imagining how you would do
+anything at all from that point, without a functioning mouse.... Using the
+Alt key and F is not an intuitive move for a non-Windows user!  I finally
+called a friend who explained how to access the pull down menus without
+using a mouse, but it was one of the most frustrating computer experiences
+I can recall.
+
+--
+Judith Sherwood: c4s@library.sannet.gov  | San Diego Public Library
+Voice:           619.236.5824            | 820 E Street,
+Fax:             619.236.5878            | San Diego, CA 92101
+
+
+
+Date: Tue, 28 May 96 21:10:39 -0700
+From: "P. Eads" <peads@nilenet.com>
+
+The most frustrating experiences for me as a beginner was trying to buy
+the computer and then learn it. I had no idea where to start or what kind
+of computer I needed. I read and researched as much as I could even though
+the information meant nothing to me as I had no one who would explain what
+the terms and hardware/software was all about. I went to a local computer
+store in my city and thought that if I was going to buy a system, surely
+the salesperson would be able to help me with what I needed as well as
+what all the jargon was all about. Not Hardly! I couldn't even find a
+salesman to help me. They would walk around me to help a guy, but leave
+me standing around looking for someone. I would flag a saleman down and he
+would be too busy helping someone else. It was very frustrating to try to
+spend money on a system when no one wanted to help out. I ended up buying
+on gut instinct and managed to get a beginner system that held me for
+about 2 years and was easy enough for me to rip apart and figure out how
+to install things. My husband, who I meant after I got the system, helped
+to teach me a lot about how things go into a system and now we both
+continue to be pretty proficient at making our own systems rather than
+buying prepackaged.
+
+Nowadays, when I go into a computer store, if I don't see women on the
+floor working at selling computers, I don't spend my money there. I even
+tell the management why, as women don't like to be fobbed off by men who
+won't take time to talk to them about systems. Perhaps if more stores
+made an effort to recruit women to sell their systems, more women would
+consider buying, but as long as men make them feel stupid, they either
+won't buy, or they'll wait until someone like me comes along and is
+willing to go with them and teach them what getting a computer is about.
+
+Penny
+- -----
+- -----------------------------------------------------------------------
+P. Eads <peads@nilenet.com>
+P. Eads <peads@iuc.org>
+Do you know what privacy is? If you do, then you'd better know that you
+don't have it on the internet. You're just a databit with a $ sign attached.
+- -----------------------------------------------------------------------
+
+
+
+Date: Tue, 28 May 1996 21:54:50 +0000
+From: "John Statler" <statler@mind.net>
+
+A friend recently bought a complete pentium system. She asked me to help
+set it up and teach her. I expected the system to be already set up since
+it came from a main mail order source. Boy, was I fooled. I made the
+mistake of having her sit at the keyboard first off. There were so many
+glitches (like the mouse working so fast even I had trouble) that she was
+pretty well shaken up.
+
+The software was loaded but untested, the modem wouldn't work and after 2
+hours of messing with it the company sent out a tech from 150 miles away.
+I think win3.1 might be more user friendly than win95. By the way, anyone
+know how to slow down that mouse?
+
+Economic Justice / Leadership and Homeless Issues
+
+John Statler
+1120 Niantic St.
+Medford, OR  97501
+541-770-5524
+statler@mind.net
+
+
+
+Date: Wed, 29 May 1996 11:24:01 +0000
+From: k.l.brunskill@aston.ac.uk (Kate Brunskill)
+
+As an undergraduate I was quite literally forced, against my will, to
+learn how to use a computer by one of my lecturers. This lecturer ran
+a fascinating course dealing ancient scripts, palaeography, handwriting
+forgery, hand printing, and many other great things. There were 12
+students in the class and he decided that, as humanities students,
+we needed to be educated about using computers or we were going to get
+nowhere in this world. He is a Buddhist, of the enlightened variety. So
+we were introduced to the most basic pc and told that all our work was now
+to be submitted in wordprocessed format. At the time I was very worried,
+I was wrapped up in a certain way of thinking about writing creatively. I
+believed that if I lost the ability to write a coherent, flowing sentence
+and get it right first time I was losing something very important
+indeed. This new tool was encouraging me to simply fling words onto
+the screen and then to tweak them into coherence, cutting and pasting,
+deleting, amending as I went along. I feared that when I came to the
+end of my course and had to sit exams, I would be unable to reverse the
+process and would be unable to write a structured essay. Of course, this
+didn't happen, of course I can still write the "old" way, but more often
+than not I don't. Indeed after all the "tweaking" I often come up with
+a better product. Having said this, I still haven't entirely lost the
+suspicion that somehow I've lost a creative edge.
+
+Kate Brunskill
+CAS-IAS Project Researcher
+Aston University, UK
+
+
+
+Date: 29 May 96 06:46:22 EDT
+From: "R. Craig Schroll" <71101.3545@CompuServe.COM>
+
+Three main rules of computer users should be:
+Backup before you make system changes.
+Backup before you install software/hardware.
+Backup often even if you do not do either of these.
+
+Every major problem I have ever had with my computer has been easy to
+solve if I was following the above rules.  Prior to learning this lesson I
+had several ocassions where the easiest solution to the problem seemed to
+be pitch the computer out the window and go back to doing things by hand.
+
+For purchasers a big warning.  Always evaulate the purchase of a computer
+based on what you intend to do with it now and in the foreseeable future.
+I went through three computers in as many years when I first started
+because I didn't do an adequate job of this.  My current thinking is to
+by the best I can afford and keep it for as long as the capabilities are
+adequate.  I usually get five years service from a computer now.
+
+New purchasers need to reconcil themselves to the pace of technology
+improvement.  Even if you by the best of the currently available models
+your computer will not be the cutting edge almost by the time you get it
+set up and learn how to use it.  If you're buying from the top of the pile
+this doesn't matter.  If you decide to save a few dollars by buying at the
+bottom of the range it might.
+
+If you need to be mobile consider a laptop computer and docking station
+rather than a laptop and a desktop computer.  I travel frequently for
+business and have been using this arrangement for about six months.  It is
+working great.  It's one of those things that after you do it you wonder
+what took you so long to decide to do things this way.
+
+There is no such thing as too much memory.  Both for RAM and your hard
+drive, get as much as you can afford when you purchase a computer.
+
+Invest in a quality external storage device such as a Zip drive.  This
+will make following the first rules easier and can effectively increase
+your storage capacity without limits.
+
+Do not automatically upgrade software.  If you use it infrequently or not
+at all anymore you obviously don't need to upgrade.  Also, if the upgrade
+provides features you won't use why bother.
+
+Also on software, keep the number of primary programs to the minimum that
+is effective for you.  Software will consume memory much more rapidly than
+data.  Ideally, you should periodically clean off software you no longer
+use or use so infrequently as to not be worth the disk space it takes up.
+
+I could go on and on but, you asked for brief so I'll stop with this.
+
+Hope your project goes well.
+
+Craig Schroll, CSP
+President
+FIRECON
+PO Box 231, East Earl, PA 17519  USA
+717-354-2411  fax 717-354-7233
+71101.3545@compuserve.com
+
+
+
+Date: Wed, 29 May 96 8:40:07 CDT
+From: b-hayward@cecer.army.mil
+
+I avoided computers for a long time.  As a teen (I am 29 now) I thought
+they were mainly good for wasting of time on games.  I took a course in
+high school in Basic, but my logic was so different that the instructor
+had a hard time debugging my programs.  Worse, I learned squat about the
+computer itself.  It was a bad experience that I didn't shake for a long
+time.
+
+When I went into the service, I learned to use a particular system that
+really didn't work well, and the whole setup so task-specific I still
+didn't learn computers.  Even when I learned to be in charge of the
+system, I was still just a trained monkey learning to push certain buttons
+when certain things happened.
+
+I only really learned computers when I went to work as a student research
+assistant at a government lab.  It was scary - the computer had been set
+up by someone else.  When I turned it on, the computer started spitting
+out arcane messages faster than I could read them.  Then it just sat
+there, with this funny thing on the screen "C:\>", and I had no idea what
+to do.  Fortunately, I was given the time to learn the computer, make
+mistakes, read the books.  It was a revelation.  Everything I had learned
+about computers up until that time fell into place (though it wasn't
+much).  I was getting to the point where some real learning could take
+place, but I needed some formal education.  And that wasn't available, and
+that is where I am today - knowing just enough to be dangerous, but not
+enough to really be proficient at fixing problems.
+
+Bryan Hayward
+SPACE: FUND IT OR PRIVATIZE IT!  The bold shall go to the stars.
+Lee wailz, Lifeson jamz, Peart bangz drumz - Rush rulz!!
+The Religious Right aren't, and Creation Science isn't.
+
+
+
+Date: Wed, 29 May 1996 09:01:07 -0500
+From: Technical sales support <chrisn@datasource.net>
+
+I had an occasion to tutor some grade school kids on some old PCs that
+they had in the classroom. After I sat the kids down and we were ready
+to begin, I decided to throw them a curve to break the ice. I said "OK,
+now who here thinks they are as smart as a computer?". You could feel the
+shock that someone could ask such a question. They looked at each other,
+and said nothing. After a pause I said, "You're wrong. You are ALL smarter
+than a computer. The computer is nothing more that a machine like a TV or
+radio, it just does things that seem smart."
+
+
+
+Date: Wed, 29 May 1996 07:29:43 -0700 (PDT)
+From: Gary Gach <ggg@well.com>
+
+For me, this has largely been my life for the past couple years.  I've
+been teaching basic Internet literacy to the general local community for
+a couple years now (http://www.unex.berkeley.edu:4243/cat/comp3.html).
+
+(When I began, there was, like, one other Internet trainer in town.  And,
+curious to ponder, neither of us were "certified."  We mostly made the
+whole thing up, from job description to course content.)
+
+I've literally SEEN the Nielsen/O'Reilly polls ("Who is using the
+Internet?"): via the students who come to my class They've never used a
+computer before, and don't even know what a mouse is, but are willing to
+learn.  Or they've been using AOL, for two months now, bumped into the
+button marked Internet, and got really confused: "Is AOL the Internet?"
+"Is Netscape?" (etc.) They're all age ranges, ethnicities, genders, etc.
+And they often don't know whether they know anything already or not.
+
+Sometimes, a few are more advanced, and like to let everyone else know it,
+("My daddy has a newer car than your daddy does.")  But mostly they are
+not only put off by "technospeak," they don't even know what "technospeak"
+is.  Nerd, geek, newbie, server are all Martian to them.  Some have never
+set foot in the Computer section of a bookstore before.  Some that have
+invested in something with a demeaning title like "For Dummies" feel even
+worse when they try to read it and still feel left out.
+
+(And you bet they all feel left out when the writer/trainer/presenter
+is doing little more than a "brain dump" ("This is what *I* do when I
+log on to my server") rather than empowering them to not get hung on the
+technology, to be mindful of the culture, and to keep an eye open for what
+will be unique to them.)
+
+They don't all have power tools.  (I.E., many use the Web via e-mail!)
+
+And yet this aggregate of folks comprise about 50% of the people using the
+Internet right now.
+
+Putting it another way, one year from now, the total number of these
+beginners will equal the total number of people who are online today.
+
+And, to put a capper on it -- they are now joining us from Kuwait, Uganda,
+China, etc.
+
+                                        - - - - - -  - -
+
+If you wish any further food for thought, here's an excerpt that went
+out on the Net last week.  It elicited an e-mail letter "out of the blue"
+to me, last night, from a gentleman in Pakistan, asking me to urge my
+publisher to distribute the book there, and offering to revise it to fit
+the country's needs and to translate it into Urdu.  I don't think I'm
+sounding my own horn.
+
+from "Endpapers," AMERICAN REPORTER, #293, May 22, 1996
+
+(URL:  http://www.newshare.com/Reporter/today.html
+        Archives: http://www.newshare.com/Reporter/archives/
+	For more info on AR: http://oz.net/~susanh/arbook.html)
+
+... the Internet is an ad hoc phenomenon, bottom-up, with no clear
+vertical hierarchy, so too there exists no Internet Literacy Budget.
+No Internet Training Certification Center.  In a word, there's a gap.
+
+Al Gore hasn't commissioned the GPO to issue a citizen's guide to the
+Internet.  The phone company hasn't.  And, surprisingly enough, the big
+online services -- that, in part, sell the Internet -- do a relatively
+scant job of explaining what that very Internet is; until very recently,
+for example, you had to bump your head on a file tucked away at
+CompuServe.
+
+So there's this gap.  And yet without some kind of push to make it
+intelligible, understandable, and, most of all, meaningful and useful
+to the mass populace, it might suffer the fate many of other scientific
+breakthroughs and technological innovations that did not fill that gap.
+Or suffer under the hands of the woefully ignorant.  ...
+
+So, while the Internet is like the phone -- just plug it in -- it's also
+like the computer -- something first-time users need to monkey around
+with a few times before it "clicks."  It needn't be hard -- and it can be
+downright empowering.
+
+Gary Gach has been teaching basic Internet literacy for a couple of years.
+Pocket Books published his POCKET GUIDE TO THE INTERNET in May, America's
+first massmarket pocketbook guide to the Net.  ISBN 0-671-56850-7.
+(http://www.pocketbooks.com/netguide.html)
+
+             gary gach |_|_|_|_| internet trainer
+       1243 broadway 4 |_|   |_| ggg@well.com
+  san francisco, calif |_|_ _|_| 1.415.771.7793
+            94109-2771 | | | | | http://www.pocketbooks.com/netguide.html
+
+
+
+Date: Wed, 29 May 1996 13:14:02 -0400 (EDT)
+From: Lewis Kaye <lkaye@ccs.carleton.ca>
+
+My experiences with beginners and technology are not, in fact, concerned
+with computers. However, I do believe they are instructive. The questions
+you raised in your call for comments apply equally well to all forms of
+high technology, from computers all the way to the VCR and microwave oven.
+The issues really revolve around the mystification of technology, and the
+consequent belief by many beginners that they are incapable of mastering
+such specialized techniques.
+
+For several years I was the Technical Coordinator for a small, volunteer-
+based community radio station in Toronto. Among my responsibilities was
+to teach new volunteers about radio production, and to train them in
+our relatively low-tech studios. But for new volunteers, the studio was
+a daunting place: radio production was a task for specialists, and many
+wondered out loud how they would ever learn these skills without years of
+education. The trick was to make them feel comfortable, intelligent and
+capable. This was accomplished by explaining them the technology on their
+own level, free from any jargon and with the knowledge that what these
+people were in fact scared of learning. More accurately, they were sacred
+of NOT being able to learn. But we humans have this wonderful capability
+to learn just about anything.
+
+All that was really needed was to make people aware of what they already
+knew, but took for granted. A studio is really no different from a home
+stereo: same principles, just more complex. Emphasizing this similarity
+seemed to make people more comfortable, and when they were comfortable
+they learned quickly.
+
+With respect to computers, we could say that the Internet is nothing
+more than a more complex telephone network and a PC is nothing more
+than a more complex TV/VCR combo. What we all have to do when dealing
+with beginners is to emphasize the similarities between computers (or any
+other technological tool) and their associated skills and knowledge that
+beginners simply take for granted.
+
+Lewis Kaye
+Ottawa, Ontario
+lkaye@ccs.carleton.ca
+
+
+
+Date: Wed, 29 May 1996 10:09:56 -0500
+From: Don Nicholls <nicholls@btigate.com>
+
+We have all heard comments about children readily picking up on computer
+skills, particular in games, but just in general.  I have wondered just
+why. Is it, "old dogs learning new tricks"?
+
+Not sure about that, for I am in my 50's, and went back to college
+following an injury.  In high school, could not begin to comprehend
+calculus but found myself actually excelling at this old age. At same
+time, find myself having to take it much slower in absorbing the computer
+knowlege that I am studying. None of it comes easy.
+
+Computer pain for me is only that I need an ergonomic work station for my
+injury.  The pain of learning is just frustration at times.  When my 12 yr
+old wants to, he picks up instantly on anything I show him.  So it might
+just be interest/confidence level that limits us in new things.  Many of
+my friends are intimidated by computers, so simply reject learning about
+them.  To add to normal intimidations, the computer industry frequently
+goes out of their way to complicated the program/ application.  Not all of
+us are gurus or pardon, nerds in computers.
+
+Will summarize by urging the experts to orient their projects more to
+average user knowledge.  Case in point has been learning Web construction.
+I have searched everywhere to find the inclusive software/editors, &
+reference material to grasp HTML. Have succeeded, but not without "pain".
+
+
+
+Date: Thu, 30 May 1996 16:57:57 -0600 (MDT)
+From: Shirl Kennedy <skennedy@bcr.org>
+
+As a professional Internet trainer and consultant, I find that I am
+working directly with fewer and fewer "rank" beginners these days.
+However, the librarians that I train -- particularly the public librarians
+-- are telling me that novice computer users are increasingly relying on
+the library as "tech support desk of last resort."
+
+Computers are being marketed and sold as commodities now; you can pick
+one up at your local "big box" appliance retailer or WalMart or wherever.
+But no one will be there to hold your hand when you get the thing home,
+attempt to unpack it and set it up and...uh, use it.  You have your
+choice of reading the turgid, poorly designed manual (if one is provided
+... increasingly rare in this age of "online documentation"), sitting on
+a tech support phone line (long distance/your dime) for 40 minutes (and/or
+even being asked to provide a credit card number before your question is
+answered), finding a computer literate friend, or...
+
+Most libraries now have computers available for public use, often
+including Internet access.  This has not gone unnoticed by library
+patrons who need techno-help.  You've never used a modem?  What better
+(free) place to learn than to dial into the public library catalog.  The
+service-oriented librarians will walk you through the steps of setting
+up your telcomm program, etc.  They'll show you how to use WordPerfect to
+prepare your resume, surf the Net to get that information on Uzbekistan
+your kid needs for his or her geography report, and dial into and use the
+local community freenet.
+
+Computers have sprouted like weeds in libraries and schools.  There
+always seems to be money around for the purchase of "technology" --
+e.g., "things."  Trouble is, there's not enough money to hire additional
+people -- or even train existing staff -- to support this stuff.  I
+am disheartened to hear an increasing number of librarians moaning and
+groaning about computers and the Internet, but it's hard to blame them,
+considering the extra burden being placed upon them by a public desperate
+for technical support.
+
+Shirl Kennedy				   Data is not information.
+Senior Internet Trainer/Web Goddess	   Information is not knowledge.
+Bibliographical Center for Research (BCR)  Knowledge is not wisdom.
+14394 E. Evans Avenue, Aurora, CO  80014	(303) 751-6277
+	"Hey, BCR's got a Home Page!"  http://www.bcr.org
+
+
+
+Date:         Thu, 30 May 96 18:59:40 EDT
+From: Tony Harminc <EL406045@BROWNVM.BROWN.EDU>
+
+There is an old story told about beginners and the Stanford WYLBUR system.
+(WYLBUR was an online, text editing system, with remote job entry, and
+various other features.)  The WYLBUR command-line prompt was COMMAND.
+
+Supposedly someone did a survey of beginners faced with this prompt for
+the first time, and a large proportion thought it meant that the computer
+was about to give *them* a command.
+
+Probably this is better and more authentically documented elsewhere.
+
+Tony Harminc
+
+
+
+Date: Thu, 30 May 1996 23:13:15 -0700 (MST)
+From: entre@aztec.asu.edu (K. KEMPER)
+
+1) my first was in 72 learning fortran.  WIth no algebraic background
+(neither did anyone else in class).  WE all bombed but earned Cs as the
+teacher was gracious.  80 column cards;
+
+2) TCI 100?  the cassette system.  I took it from my son the evening I
+gave it to him and stayed with it 16 consecutive hours.  I found that the
+instruction manual had 3 errors in it and I was the first to point this
+out to the publisher and I gave her the solutions!;
+
+3) A friend, a year later, lent me a Peace software system (hardware?)
+and forgot to tell me about 3 simple commands to start that were not in
+the manual.  In 3 days, with 72 hours invested, I could not get into the
+system.  When he returned, he apologized and keyed the simple pre-3 steps
+and the rest is history.  I have loved and hated computers ever since!
+
+I use IBM in the morning, MAC in the afternoon, and back to IBM at night
+and have crashed the Mac pentium 25 times, once 5 times in 3 minutes!
+
+--
+Entrepreneurial teacher, traveler, editor/writer and TV producer and director.
+entre@aztec.asu.edu.  602-279-0561.  Also real estate syndicator!
+smile, you might feel better!
+
+
+
+Date: Sun, 2 Jun 1996 10:10:59 -0400 (EDT)
+From: Selia Karsten <skarsten@oise.on.ca>
+
+A group of us at the Ontario Institute for Studies in Education recently
+completed a web site for Newbies called "Home on the Info Range".
+http://www.oise.on.ca/~civan/1551/intro.html
+
+In my module (each of us are metaphorical cowpokes sitting around a
+campfire telling tales about how to do E-mail and internet information
+management) Sagebrush Selia shares her LOG of what it was like her first
+sessions on the computer for a distance course. There is also a section
+called TALL E-TALES which gives collected stories from newbies (names
+changed to protect...) There are TIPS for Newbies and LINKS for Newbies
+in this and in other of the modules.
+
+Selia Karsten
+skarsten@oise.on.ca
+http://www.oise.on.ca/~skarsten
+
+
+
+Date: Tue, 28 May 1996 03:20:33 -0700 (PDT)
+From: John Howard Oxley <OCO81945@ac.dal.ca>
+
+It's been over a decade since I was a beginner, but I still remember it.
+My first machine was a SANYO MBC-550 with 128K RAM, a single 360Kb disk
+drive, and an analogue monochrome 25x80 monitor.  It was a very simple
+system, and I was able to learn all about it rapidly -- I could take it
+apart, do all needed diagnostics and repairs, and learn all the programs
+it used.  It didn't actually do all that much -- I had 3 main programs,
+EASY WRITER II, CALCSTAR [spreadsheet], and DATASTAR [database].  I used
+the system mostly for word processing, and churned out lots of important,
+useful work.  The very simplicity of the system was a joy -- it enabled me
+as a beginner to gain competence and mastery with a reasonable learning
+curve -- in short, it made being a beginner fun.
+
+Now, of course, I have a system whose power is literally orders of
+magnitude greater than the system with which I started, with a host
+of capabilities undreamed-of when that first system was put into use.
+Since I use a stable operating system, I still don't crash much, and my
+productivity has been greatly improved also.  But as always, there is a
+price -- it is not possible for me to have the sort of informed command
+of my system now that I did in 1985.  Now I have to employ experts for
+any operation beyond the most basic, and more and more I cannot understand
+what they are doing in any detail.  So I think of what it must be like
+to be a beginner today, and realize that with my current system, I have
+in fact reverted to being a beginner again.  Which makes me think that
+being a beginner now is a lot more daunting a prospect than a decade ago,
+because there is more to be learned, and less time in which to learn it.
+Much of the fun of mastery is gone, as a result.
+
+PS: A point to stress with the initial system -- it was so simple, and had
+such a limited number of tasks to perform, that it was relatively stable
+and did not crash much.  This situation was totally reversed when WINDOWS
+3.x came on the scene, and did not really change until WINDOWS NT was
+released.
+
+Regards, John Howard Oxley
+
+
+
+Date: Tue, 28 May 1996 04:11:55 -0700 (PDT)
+From: "elinor mosher" <emosher@fox.nstn.ca>
+
+I'm a 68 year old widow here in the Annapolis Valley of Nova Scotia.
+I had read about the Internet and was interested, but not in computers
+themselves -- found them boring, and hadn't used them. Abit over a year
+ago, I realized I was on the same phone exchange as a server node, so I
+bought a 2nd-hand 386, to get me on the net.
+
+My youngest son helped me get connected, but at first, we couldn't get any
+feedback.After fooling around with it for two months, we tried the Maxseg
+down to 68 and it worked. I do most of my activity on mailing lists,
+(Canada-L, Quaker-L, Futurework, Labour-L, freematt, Current-l, Red Rock
+Eaters (Love that name). For the last 3 months, I have been writing a
+little column for the American Reporter, online newspaper, called "Apples
+from Paradise" which is kind of fun. (I'm going to do one this am called
+'Carl Sagan and the Witch' -- a woman calling herslef a witch just moved
+into the village, into a big gothic house. It won't be nasty.)
+
+I just bought some more memory, and put Netscape and Win 3 on, but the
+web is terribly slow here; also, much of other functions. I think it's old
+telephone lines. This is why I use mailing lists so much.
+
+I'll be interested to see what happens when the new stripped-down $500
+computers come out. I think email is still the big thing.  My son solves
+most of my computer problems. I said to him one day when he was working on
+one, "How come when I do something dumb, it's because I'm a techno-moron,
+but when you do it's the stupid software?" I saw a little grin cross his
+face, then he turned around and with a look as bland as Kissinger said:
+"So what's your point?" Oh, well, at least he does it!
+
+One of my new net acquaintances is a computer whiz at the Pentagon.  He
+calls me his net nanny. I would hate to have to give it up now.
+--
+ elinor mosher
+ emosher@fox.nstn.ca
+ Paradise, NS
+ B0S  1R0
+ To miss the joy is to miss all.  R. L. Stevenson
+
+
+
+Date: Sun, 02 Jun 1996 21:13:48 -0400
+From: "Mary R. Pyett" <pyett@apk.net>
+
+As a technology coorinator and consultant to several schools, I have seen
+many people resistant to technology, for many reasons.  I can think of
+one teacher who approached the principal of a school where each classroom
+was to receive 4 new networked computers.  The teacher pleaded that she
+would be retiring after one more year and she would not be a part of
+this project.  The prinicpal totally defused the situation by telling the
+teacher she would receive the four computers and was required to attend
+the training, but did not have to use them if she so chose.  The teacher
+was satisfied with that and met the requests.  Not long after school
+started, an uninformed person flipped off the switch on the server which
+was located in the office.  This caused all of the classroom computers to
+stop working.  Guess who the first teacher in the office was to demand the
+computers be brought back on line because she couldn't teach without them!
+You guessed it!!!
+
+
+
+Date: Mon, 3 Jun 1996 10:19:22 CST6CDT
+From: "PAUL DOTY" <pdoty@staff.uwsuper.edu>
+
+I am a librarian and spend a fair amount of time with computer-beginners.
+What I am most struck by is the extent to which most beginners start a
+line of questioning with self-derision.  "I'm a real idiot when it comes
+to these things" "I can't get along with machines" "I don't know anything
+about computers" (I don't either, I just use them all the time).  This
+obviously is generated by a feeling that a college student should know how
+to use a computer, and I suspect the real root of that is the omnipresence
+of techology in the jet stream media.  I had a case once, of coming to
+assist a women with one of our online tools, and as she started to ask
+her question she pointed at the computer terminal and backed away as if it
+had actually threatened her.  (I've seen her since making good use of both
+print and computer resources).
+
+Paul Doty
+Information Literacy Librarian
+Jim Dan Hill Library
+University of Wisconsin Superior
+pdoty@staff.uwsuper.edu
+
+
+
+Date: Mon, 3 Jun 1996 11:39:51 -0500
+From: smk@io.com (Susan Kirchman)
+
+When I was a beginner I loaded a borrowed computer into my car, took
+it far far away and hid-out while I made my first attempts at useing
+this new tool to make my artwork.  I was so sure that I could not do it
+that I didn't want anyone to know that I was trying. I still have screen
+shots of those first few images. I think that they effectively convey the
+trepidation that I was feeling. I wish that they could be included in this
+compilation instead of this text.
+
+A three year old boy that I know is the biggest " 'puter user" in
+his family of four.  He will never remember the experience of being a
+beginner.
+
+
+
+Date: Mon, 3 Jun 1996 11:09:13 -0700
+From: habel1@llnl.gov (Patty Habel)
+
+I do not reply often but I couldn't resist this one. I hope it fits in
+with your request...
+
+A few years ago I worked as a consultant to the City Recreation
+Department, teaching evening beginning computer classes to adults.
+I taught using one computer for 10 students in a shared hands-on and
+lecture style.  At the same time, I taught classes during the day with
+an organization called "Computertots".  I took one computer into private
+preschools and daycare centers and taught computer to small groups of 3-4
+students ranging in age from 3-6 years.
+
+It was a terrific experience teaching the two age groups simultaneously.
+Most adults that registered for my course, did so because they were
+fearful of the computer.  They appreciated the ability to just observe
+or participate hands-on if they chose.  Many of them needed the
+non-threatening environment of not being forced to sit behind their
+own computer and keep-up with the class.  It was so gratifying for
+me to really see these adults go from total fear (and this is not an
+exaggeration) or at the least confusion and apprehension, to "lights-on"
+and enthusiasm!
+
+On the other hand, the children I taught were afraid of nothing! We taught
+them computer and disk care and operation by singing catchy little songs
+with a mascot puppet along with the activities.  They took to it like
+fish to water.  They were so eager to see me when I arrived each week
+and couldn't wait to "play" with the computer.  This play taught them to
+respect the equipment, to be creative and to succeed.  Not bad life skills
+at age 3-6, huh...
+
+The experience I gained teaching the children was much more helpful to
+me when teaching adults than vise-versa.  In this day, when computer use
+is becoming more and more vital to everyday life, helping these adults
+to become computer literate is definately one of the most gratifying jobs
+I have had. These adults taught me that there are truly very few people
+who cannot succeed if given the right environment, encouragement and
+knowledge.
+
+Patty Habel
+Customer Liaison
+Telecommunications Systems Dept.
+
+
+
+Date: Tue, 4 Jun 1996 09:25:19 -0500 (CDT)
+From: bowker@alexia.lis.uiuc.edu (Geoffrey Bowker)
+
+When I was first learning email in the mid 1980s I used a colleague's
+account (there weren't clear lines on how to set up your own).  I had
+no idea how it all worked - had no idea what a unix shell was etc.; and
+there were difficulties getting out from Paris to the rest of the world
+(problems with the British academic network coz they weren't paying their
+dues, and problems routing to the US).  I had a driving desire to learn -
+my lover was in CA and I was in Paris, and we couldn't afford phone calls
+to negotiate life together with.  I would send her these impassioned love
+letters, not realizing that every time they failed to get through for
+whatever reason (bad address, routing problem, mistake I had made) they
+bounced back into my colleague's inbox.  After a few weeks of this (he was
+French after all) and I guess a particularly steamy bounce back he told me
+about this and helped me set up my own account... .  What I learned from
+this, and continue learning, is that privacy on the internet is not like
+privacy elsewhere.  No beginner is going from the start to be able to set
+up a levely of security on their files that a priori they would like to
+have - if you don't know what 'finger' is then it's hard to stop yourself
+being fingered.  I think that you need to both modulate your own space
+boundaries as well as learn how to protect your output: the emotional work
+of the former option is as important as the technical work of the latter.
+
+
+
+Date: Wed, 5 Jun 1996 19:21:37 -0400 (edt)
+From: techno@vir.com (techno)
+
+Well here's a topic that could cause a stir.  I guess I should start with
+my own experience. I am not university educated, and I am a professionel
+municipal Firefighter. I did a lot of electronics as a hobby in the past
+10 years(audio,video) and over the past 5 years became self-educated in
+computer technology.(hardware hacker) Over the last 2 years I've been
+a self-study in communication technology.(BBS's & Internet).It's become
+almost an obsession as I know intuitively It's the single most important
+thing to happen in this century.  Being a blue collar worker, so to
+speak, I decided to learn how to set up a BBS and get my son and myself
+hooked up to the "net". We both share this passion for this new tool.
+First I bought a book,"Canadian Internet Handbook" by Jim Carroll &
+Rick Broadhead. That book was crucial to understanding how to get on the
+"Net".Later I bought another book"The Internet Complete Reference" by
+Harley Hahn & Rick Stout.Reading 800 page books did not intimidate me,
+as I had done a lot of that to learn computers.
+        Now, the good part.  After picking an ISP with great anticipation
+I began the technical "nightmare".My ISP dropped off the software on disk
+and I figured I would set it up in an hour.I installed the software, and
+had weeks of headaches trying to get it to work right. Of course my 16 yr
+old and I were fiddling with the settings to try to get it to work right,
+but to no avail. Finally in utter exasperation and frustration I called
+the small budding ISP for help.The VP half owner came over and was very
+polite and installed the software for us again and got it working. I felt
+quite technically inadequate at the time. Everytime the server would have
+problems or the uplink connection would develope a problem, my son would
+start fiddling with the software settings thinking it was our fault.That
+would completely mess up everything again and I would have to figure out
+how to reset it to the defaults.I learned a lot about setting up internet
+software but it was quite frustrating and a source of stress. Eventually,
+I became quite good at setting everything up, my son too.Chalked it up as
+a good learning experience. But, I am sure 99.5% of the general population
+doesn't have the patience for this stuff! It's just too complicated and
+difficult for the average joe. They have to figure out ways to make the
+install and setup idiot proof.  I don't consider myself to be a total
+moron, as a matter of fact I consider myself to be quite technically adept
+but it was too complicated for me let alone the average person.  Enough
+said. I do now enjoy the tools like email,usenet,web ,gopher,FTP, and
+IRC. Lets hope that it gets easier for the newbies in the future or a lot
+of people will reject it.
+
+Doug Taylor
+Montreal Quebec.
+"Ye shall know the truth and the truth will set you free"
+
+
+
+Date: Fri, 7 Jun 96 08:21:13 EDT
+From: michalik@VNET.IBM.COM
+
+My own situation as the computer beginner was hellish, without Virgil
+there to guide me! The professors I had had little interest and no ability
+to explain how to use any of the computer technology we had available
+to us. The tutors were arrogant and more interested in working on their
+programs than helping you with yours. You were left fend for yourself,
+with only your classmates to help you, and since they were as overwhelmed
+and as overworked as you were, that help often was meagre. In fact, we
+were so starved for information, that I felt joy - JOY! - when I found a
+quick reference card explaining how to use the compiler, debugger, and the
+system. It was like manna.
+
+Things got better as I rose through the info-archy in University, but then
+I started as a beginner at IBM and the cycle began again. It was better
+in many respects, but I still had to search for PL/1 manuals, dig out old
+compiler references, etc. Such a waste.
+
+Looking over my beginner experiences, my situation and that of my
+classmates was analogous to being a peasant. We scrounged for information,
+putting together programs with old technology, while the T.A.s and
+professors with their nice terminals and their unlimited access to the
+system and its information worked in relative luxury. I still see that
+happening in IBM. I'd be willing to be bet that little has changed in
+Universities, either.
+
+Bernie
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+

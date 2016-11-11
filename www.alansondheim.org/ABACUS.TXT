@@ -1,0 +1,541 @@
+From alans@mailhost.sva.edu Mon Jun 10 17:37:37 2002
+Date: Fri, 7 Jun 2002 18:41:17 -0400 (EDT)
+From: Alan Sondheim <alans@mailhost.sva.edu>
+To: sondheim@panix.com
+Subject: abacus
+
+
+
+
+
+The Laying-Out (infinite abacus)
+
+
+Consider an abacus with infinitely long columns; this is similar to a num-
+ber system with base infinity. (See below for finite approaches.) Now to
+add, simply move the requisite number of beads X to the already-calculated
+Y; you have X + Y. To subtract, do the reverse. To multiply, three columns
+are used. The first column is infinitely deep; the second is set to zero;
+the third to Y. Set X on the first; move one bead on the second; set a
+second X on the first; move a second bead on the second, and do this until
+the second and third columns are equivalent.
+
+One might also use two measure-strings and two columns. Set one measure-
+string to X, the second to Y; one column measure out to X, the second set
+at 1; measure a second X on the first column, add another 1 on the second
+and repeat until the second column is the length of the Y measure-string.
+
+One could use as well just one measure-string and a marker on the side of
+column Y; when the beads reach the marker, the calculation is finished.
+
+Division is a reversal of this process; set X and set Y on a measure-
+string; subtract the measure-string from X; add one to the second empty
+column; repeat until no more subtractings are possible; the length of the
+beads in the second column represents the integral quotient; what remains
+in the first is the remainder.
+
+The measure-strings in both instances are placed next to the requisite
+beads on the first and second columns.
+
+What is unique in this system is that there is no necessity whatsoever to
+name the numbers of beads, i.e. assign them to particular integral values.
+Instead, one has greater or lesser numbers of beads in the first column;
+after the operation, the rough length of the beads is the result. In this
+manner, a king may count his horses, a queen her subjects, without further
+need of specific tallying. When the column gets especially low, judge as
+"more or less"; that is all that is necessary.
+
+This is to some extent the mathematics of the heap or pile, a mathematics
+with an inner exactitude, but a fuzzy reading of both givens and results.
+
+Of course one can also consider an abacus with one bead per column and an
+infinite number of columns. In this manner, addition and subtraction are
+again to the base infinity, simply the moving up and down of beads at the
+leading edge of the quantity. But if one is insistent on multiplication, a
+second tally is necessary, and if one is insistent on division, one must
+look for the same.
+
+Moreover, it is unnecessary to specify an infinite length or number of
+beads or positions. An inaccessibly high finite number will do - or even a
+finite number practically greater than any conceivable calculations might
+warrant. Of course such a number could be arbitrarily extended or retract-
+ed by convention or convenience. In any case, problems of platonism or in-
+finity are bypassed in this fashion; the systems are both functional and
+phenomenologically interesting.
+
+Addition with columns or rows
+
+1oooooooooooooooooooooooooooooo
+2oooooooo
+
+1oooooooooooooooooooooooooooooooooooooo
+2
+
+Division with columns or rows and tallies (2ooo can be measure-string)
+
+1ooooooooooo
+2ooo
+3
+
+1oooooooo
+2ooo
+3o
+
+1ooooo
+2ooo
+3oo
+
+1oo (remainder)
+2ooo
+3ooo
+
+I'm fascinated by these simple systems of primitive measurings and tabula-
+tions of exactitude, of quantities precisely calculated but unknown, of
+the measurings of kingdoms without largesse and the origins of bureaucra-
+cies. For nothing more is needed than the laying-out of rows upon the
+ground, exalting at the beads disappearing in the distance, and worrying
+when the line becomes shorter, almost starved and measurable.
+
+-----
+
+Appendix of language etiquette:
+
+ oooooooooooooooooooooooooooooo              File: ww
+1oooooooooooooooooooooooooooooo
+
+    oooooooo              File: ww
+1oooooooooooooooooooooooooooooo
+2oooooooo
+
+    oooooooooooooooooooooooooooooooooooooo              File: ww
+1oooooooooooooooooooooooooooooooooooooo
+ 0: oooooooooooooooooooooooooooooo oooooooo
+ 1: oooooooooooooooooooooooooooooo-oooooooo
+ 2: oooooooo oooooooooooooooooooooooooooooo
+ 3: oooooooo-oooooooooooooooooooooooooooooo
+
+    ooo              File: ww
+Division with columns or rows and tallies (2ooo can be measure-string)
+00: boo 01: coo 02: foo 03: goo 04: loo 05: moo 06: Ofo 07: oho 08: Oto
+09: too 10: woo 11: zoo
+
+    ooooooooooo              File: ww
+1ooooooooooo
+ 0: oooooooo ooo
+ 1: oooooooo-ooo
+ 2: ooo oooooooo
+ 3: ooo-oooooooo
+
+   ooooo              File: ww
+1ooooo
+
+    oo              File: ww
+2ooo
+3oo
+00: Ao 16: moo 32: Oto 01: bo 17: no 33: ow 02: boo 18: o 34: ox 03: coo
+19: od 35: Oz 04: do 20: oe 36: po 05: Fo 21: of 37: Ro 06: foo 22: Ofo
+38: so 07: go 23: Og 39: to 08: goo 24: oh 40: too 09: ho 25: oho 41: wo
+10: io 26: Ok 42: woo 11: jo 27: om 43: yo 12: ko 28: on 44: zo 13: lo 29:
+ooo 45: zoo 14: loo 30: or 15: mo 31: os
+
+
+=====
+
+
+Plain and Heap
+
+
+No longer the line, the geometry, only the gatherings of beads, tokens,
+markers, units, only the rubble of accountancy:
+
+At the level of the plain, the abacus behaves differently. Consider an in-
+finite (or inaccessibly high finite etc.) flat surface of beads; it be-
+comes necessary to isolate portions among them, for example a 1-portion
+and a 2-portion, in order to carry out any operations.
+
+The portions have to be specified by closed, i.e. Jordan, curves which do
+not cross themselves. For addition and subtraction, either channels must
+be opened between the portions (in order to join or separate them), or an
+operation may be carried out, such that removing 1 bead from a 2-portion
+is accompanied by adding 1 bead to a 1-portion:
+
+2-portion - 1 => 1-portion + 1
+
+until 2-portion is empty, i.e. 2-portion = 0 (in which case the 2-portion
+may no longer exist).
+
+Subtraction is in the opposite direction, but in order to subtract a spec-
+ified amount note that we dispense with channels, so that
+
+2-portion - 1 => 1-portion - 1,
+
+with the bead from 1 portion returning to the undifferentiated plain, and
+this continues until 2-portion = 0 (or becomes non-existent).
+
+Note that a method is necessary to keep 1-portion and 2-portion separate
+and labeled.
+
+Multiplication and division also work by repeated additions and subtrac-
+tions, using a 3-portion, if not 4-portion and 5-portion for tallying -
+see heaps, below.
+
+And how are portions diminished or incremented in the midst of a solid sea
+of beads? Moats must be constructed, portions piled in grounds cleared of
+any interferences.
+
+So that from the plain, one gathers beads into heaps. The heaps are separ-
+ated by blanked space, the ground-state; this state G = 0. G is always
+existent; it is a territorialization, a boundary, a marker by virtue of
+lack of demarcation. If G = 0 it is 0 anywhere, everywhere that G is.
+Think of it as the Basin in Bon religion, or Kristevan chora. Nothing is
+ever placed within G; G surrounds heaps. New heaps may be created, but G
+is not among them, within them. In this sense, G is not a natural number,
+but a numberless state, not even an emptying of number. In this sense as
+well, the integers move from 1 upwards; negative integers might be indi-
+cated by heaps labeled as negative, but in fact all heaps are of the form:
+
+HN = | N | where N > 0.
+
+To add: combine heaps. To subtract: Either remove any number of beads from
+one heap and place them in a second heap or:
+
+Begin with H1 = X and H2 = Y. To reach X - Y:
+
+Subtract a bead from both; place these beads in a third heap H3; carry
+this operation out until H2 is empty. When H2 is empty, H2 = 0 = G, the
+undifferentiated state, H2 no longer existent. But see below, labeling.
+
+This depends of course on Y < or = X.
+
+To multiply X * Y. Create H3 and H4. Move H1 bead by bead to H3; each
+time, add one bead to H4. When H1 = 0 (i.e. non-existent), subtract one
+bead from H2 and place it in H5. Then move H3 bead by bead to H1 (which
+must be created anew - H3 and H1 oscillating in this fashion); each time,
+add one bead to H4. When H3 = 0 (i.e. non-existent), subtract another bead
+from H2 and place it in H5. We then have
+
+H1 = X
+H3 = 0 (i.e. non-existent)
+H2 = Y - 2
+H4 = X * 2
+
+continue until
+
+H2 = 0 (i.e. non-existent) at which point H4 = X * Y.
+
+In order to divide, a similar process is used, tracking beads removed from
+H1 in quantities of H2, until H2 > H1 (as divided), in which case what
+remains in H1 is the remainder.
+
+We have numbers to no base or perhaps to base infinity or to base 1. At
+the level of the heap, infinity cycles back to 1; at the level of the
+heap, there is no positionality. With the infinite or inaccessibly high
+finite column abacus, an infinite base might be theoretically employed,
+each integer individuated; with the infinite or inaccessibly high finite
+row abacus, a base of 1 might be theoretically employed, each integer an
+extension.
+
+Throughout all of this, the heaps must be labeled (just as the portions
+had to be labeled); think of a interior beads in label quantities o oo ooo
+oooo ooooo surrounding an emptied center, with rays connecting the center
+through the label quantities to the heaps beyond. If there are no heaps
+beyond certain label quantities, those spaces are reserved for the crea-
+tion of heaps, i.e. as in the oscillation of H1 and H3 above, which is
+based on the constant recreation of heaps in order to carry out multiplic-
+ation and division.
+
+Naturally the ground must be kept clear of any rolling beads, false beads,
+embezzlement beads, stolen beads, extra beads, and masqueraded bead-like
+objects. And naturally the ground must be level to avoid such rolling
+beads as well as emptied, flat, in order to create maximum conditions of
+visibility. One might think of Bentham's Panopticon as described by Fou-
+cault in this regard - while beads remain undifferentiated, except by
+virtue of belonging as a member of a set (heap), they must nonetheless
+leave a trail or trace; nothing must remain unaccounted or unaccounted-for
+and nothing must be unaccountable.
+
+
+=====
+
+
+Infinitely Small
+
+
+What happens when the size S of beads grows infinitely (or inaccessibly
+low finite) small?
+
+Of course one does not consider the size of abacus beads. But, given the
+heap, one might want to...
+
+With the abacus of infinitely high (or deep) columns, or the abacus of
+infinitely wide rows, measurement becomes an issue. Thus to add length X
+and length Y, measure X + Y, move beads. To subtract X from Y, measure X
+and within X from the far end, remove beads.
+
+To divide, repeatedly subtract X from Y until X < Y which is the remain-
+der. But without quantity, who knows how many subtractions? Keep track of
+subtractions with finite beads! (Note the need for a second measurement,
+second instrumentation.)
+
+However, to multiply is impossible; without scale, without beads, there is
+no way of telling how many beads are necessary. This is fascinating - in
+this instance it's easier to divide than multiply!
+
+One might measure X against Y by moving string, and in that fashion create
+an accurate multiplication - but only if X/Y or Y/X = an integer. Other-
+wise one is lost without further calculation, fractions, and so forth. An
+exercise: What calculations are necessary? What additional instruments?
+
+Given the plain, it's easy to add portions and subtract portions - the
+latter by laying the flat-measure of one portion on top of the other, or,
+given the two-dimensional invariant, removing portions from X and placing
+Y within them, until the roughly the same shape occurs (providing one has
+geometry at work); one might also place Y next to X, and remove portions
+of X until it appears that Y and the removed portions are equal.
+
+Appearances, appearances. Multiplication and division become much more
+difficult. An exercise! (And an exercise in perception. Again, we're run-
+ning into external instrumentation, tallying.)
+
+Consider the heap: To add, add portions. TO subtract, take away. To sub-
+tract a given portion, take portions away until they appear equivalent to
+the given portion.
+
+Or weigh the results. Or displace, measure water. Think of Archimedes.
+
+All of these bring quantity back by other means. Suppose there are no mea-
+sure strings, no way of judging equivalences, no waters, no scales. Then
+one might add by bringing portion to portion, and one might subtract - but
+only ikonically, by removing the subtracted portion. (This is quite impor-
+tant; if the abacus is indexical in Peirce's terms, the heap of substance
+is ikonic; representation is peripheral and obtuse at best. One is mucking
+in the real, not fucking in the symbolic. Literally!)
+
+One could not, for example, say, remove 1/3 of that heap, or remove this
+amount Y from that heap. One would begin with heap X and remove Y, both
+unquantified, and then one would be left with:
+
+X - Y
+
+and Y.
+
+How to remove a second portion Z such that Z = Y? This is impossible with-
+out external measuring.
+
+One begins with heap or heaps, one separates, one combines. It is a kind
+of concatenation without labeling. One can't say synchronically, spatial-
+ly, that X = Y + Z, but one can say diachronically, temporally, that X
+_did equal_ Y + Z. It is always a question of process.
+
+I am sure I am making errors throughout. Nonetheless: With infinitely
+small beads, with the reign of _substance,_ digital meets analog; the
+raster is now infinitely fine, and the modeling of the real has become
+equivalent to the real itself. As above, the ikonic becomes identity, a
+movement from the equivalences constituting the digital, a movement from
+the _adjudicated_ (and hence the origins of culture) raster back to
+relative undifferentiation.
+
+(If the digital inhabits eternity, the analog is worn, worn down; who is
+to say that erosion doesn't enter into the mess of the heaps, that with
+the division into Y + Z noise enters as well - Serres' Parasite - a bit of
+spillage, entropy, ultimately bringing down the constituted house? We are
+close to the _nerves of the real_ here, dissipated signals within which
+even the digital must reside. Pass the thresher, pass the threshold...)
+
+
+=====
+
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooo
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooo
+
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooo
+
+
+=====
+
+
+infinite abacus, accountancy, culture
+
+
+meandering paths among heaps and stones
+slow streamings, quietude
+murmurs of pebble movement
+who is counting here
+who knows the names
+
+
+=====
+
+
+no hands, names, dullness of flame, spark, & name. & knew there was some-
+thing i had dreamed, of names, of the numbers of names,, who knows the
+names i tried,, spreading words & wounds, numberless states, places,
+unemptied, handless, ashes & charnalhouses, sparks & nameless flames,,,
+
+
+=====
+
+
+what remains after the deluge
+
+maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya
+maya &a; &b; &c; &d; &e; < > & &lb;  maya maya maya & maya & "  maya maya
+maya maya maya maya maya maya maya < maya maya maya maya maya maya maya
+maya maya maya maya ^? maya ^?  maya maya maya maya maya
+maya-prayer-extensions maya maya maya maya maya maya maya maya maya maya
+maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya
+maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya
+maya maya "  maya maya maya maya maya < > maya > maya maya maya
+
+after the filtering and after the protocols
+after the enumerations, after the denumerations
+
+what remains after the orbit
+after the rockets thrust into datagrams and routings
+across softwares and hardwares
+
+what remains as higher ascii particles are cleaned up, the text
+rendered taut / distraught, nothing but ashes, it's just like
+any work, all work at a _loess_
+
+
+=====
+
+
+implementation of (infinite) abacus
+
+
+balls in grooves & if you slant the rock they roll dependent
+   on the tilt and depth of cut so they do not fall out,
+   so they are there or not there
+anyone can tell they are there or not there
+bring the balls back, lower the tilt
+so they lower the tilt, the balls remain
+let ones move from groove to groove
+later on it will remain for all time: let ones remain from groove
+   to groove
+count or capitulate balls
+later on, the grooves worn, balls flailing against all accountancy
+we must move the tallying
+later on, museums of grooves, a few remaining balls, weakened, witness,
+   positionless
+lift the grooves from the surface of the rock, breaths of different
+   exhalations furrowing the air
+creatures scurrying around the elder place of tallying
+office lamps, illuminations, you can hear the clacking of the balls
+   even on the lower floors
+
+
+=====
+
+
+living within our means
+of the abacus as if we're haunted by beadwork
+and its mobility, as if ends were always elsewhere
+beyond the framework
+really nothing more than a domain or groundwork
+where you might find someone sweeping the garden
+of stones into patterns always forgetting
+every one of them moving, about to be moved,
+about to move, every one of them quiet, in place
+beyond the framework,
+invisible, as we're
+borne in streams, as we're borne streams, muting
+along worn and barely visible furrows, in earth
+or stone, or in water or among membranes, most
+comforting, surrounding us, placenta feeding us,
+or feeding gardens, or earthwork,
+or groundwork, with furrows, as we begin,
+to constitute, or begin, to cancel and as we begin,
+to calculate or begin,
+the smallest particle of speech, already bead,
+already speechwork, already labor, and
+the measurement of the hole, where nearly, the bead
+might move, in placework, might be placed,
+might place, among our conscious, within, withal,
+our perplexity, that we may comprehend, mindwork,
+furrows and garden, work and beadwork, softly
+already
+
+=====
+
+on abacus onon on
+on on abacus onon
+onon abacus on on
+
+=====
+
+

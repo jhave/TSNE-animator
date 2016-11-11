@@ -1,0 +1,102 @@
+
+Sample Second Life scripts
+
+
+
+(teleport script with text)
+
+vector targetPos = <99, 244, 40>; //The x, y, z coordinates to teleport.
+string fltText = "i'm so tired i can't think straight
+so kill me i won't know it
+i won't remember anything
+i'll thank you for it
+honest i will
+i'll thank you and i'll thank you so very very much
+so very very much "; //label that floats above Teleport
+
+reset()
+{
+    vector target;
+    
+    target = (targetPos- llGetPos()) * (ZERO_ROTATION / llGetRot());
+    llSitTarget(target, ZERO_ROTATION);
+    llSetSitText("Teleport");
+    llSetText(fltText, <1,1,1>, 1);
+}
+default
+{
+    state_entry()
+    {
+        reset();
+    }
+    
+    on_rez(integer startup_param)
+    {
+        reset();
+    }
+    
+    changed(integer change)
+    {
+        if(change & CHANGED_LINK)
+        {
+        llUnSit(llAvatarOnSitTarget());
+        llResetScript() ;
+    }
+    }    
+}
+
+
+=======================
+
+(An object moves out of the way when an avatar comes near. if I knew how 
+to script, I could write a script that would change text as an avatar 
+approaches, and then perhaps flee when the avatar is almost within reach. 
+I can imagine text choices as well, depending on randomness or even the 
+direction that avatar approaches from. So you could have a complex story/ 
+dialog in Second Life that would be interactive in three-dimensional space 
+and amazingly dialogic.)
+
+
+list recent_avatars;
+vector v ;
+ 
+add_avatar(string name) {
+    if(!seen(name)) {
+        recent_avatars += name;
+        if (llGetListLength(recent_avatars) > 25) {
+            recent_avatars = llDeleteSubList(recent_avatars,0,0);
+        }
+    } 
+}
+integer seen(string name) {
+    if(llListFindList(recent_avatars,[name]) > -1) { return TRUE; }
+    return FALSE;
+}
+
+
+default
+{
+
+     
+    state_entry() {
+         v = llGetPos() ;
+        llSensorRepeat("", NULL_KEY, AGENT, 15, PI,1);
+        llSetTimerEvent(2) ;
+       
+       
+    }
+    sensor(integer total_number) {
+        if(!seen(llDetectedName(0))) {
+        llSetPos(llGetPos()+<0,0,3>);
+    //add_avatar(llDetectedName(0));
+    
+    //llDeleteSubList(recent_avatars,0,0);
+    }
+}
+timer()
+{
+    llSetPos(v) ;
+    
+}
+}
+

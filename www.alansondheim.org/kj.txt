@@ -1,0 +1,2223 @@
+
+Subject: letter from jennifer on anticipation
+
+to all of you, on these dear lists,
+
+sometimes you know when you send a text or post out that you will get a
+long reply. 
+
+and then when you send out the text or post, you wait for the reply, know-
+ing you will have labor to do. 
+
+you will have labor to do, replying to the replies, carefully tending each
+one, attempting to answer fairly, holding back, standing aside to one or
+another position. 
+
+you know when you are placing yourself within the skein of interference of
+or on the list, when you are touching a particular point which raises is-
+sues of sorrow, exhilaration, governance, subterfuge, sex or anger. 
+
+you are marking yourself as if you have a pierced skin, the piercing mark-
+ing where you have chosen to work yourself or present yourself as worked,
+or the piercing chosen to allow the work of others or a presentation to
+others.
+
+you are setting yourself in a position for an emotional trajectory, much
+as a disturbance of a web inaugurates the spider. 
+
+these are moments of anticipation that are accountable in the interval be-
+tween sending and receiving, or between the initiation of the writing and
+the sending, or between the thinking and the initiation of the writing.
+
+these are moments when you weight things in the balance, decide that you
+will in fact write and send such a text or post, that you will take on the
+burden or duty or delight of replying, that there is a space or interval
+for this, in terms of time, space, and emotional distance. 
+
+every text or post perhaps has this element of beseeching and a contract
+of future labor, and i will write no further on this, sweetly tending your
+reply,
+
+jennifer
+
+
+__________________________________________________________________________
+
+
+
+Here is a translation of a poem by 8th-century Yakamochi, by Kenneth
+Rexroth:
+
+The cry of the stag
+Is so loud in the empty
+Mountains that an echo
+Answers him as though
+It were a doe.
+
+_Yama biko no
+Ai to yomu made
+Tsuma goi ni
+Ka naku yama be ni
+Hitori nomi shite_
+
+
+And through this you see darling Nikuko how I call you through the wires,
+rural electrification notwithstanding! For it is true that the echo com-
+mand - in format {k:0} echo 'command' - behaves just as in Perl, that is,
+the backward quotations enact command, then echo it onto the screen with-
+out line returns, but a pure escapement, pure emission, pure thrust of
+activation
+
+so that I emit towards you this echo, this command, reverberating in the
+midst of the mountains, creating you; your sound, scent, touch, envelop me
+and you sense my presence as I echo back to you, your wish is my 'command'
+
+so that you emit towards me this echo, this command, reverberating in the
+midst of the mountains, creating me; my sound, scent, touch, envelop you
+and I sense your presence as you echo back to me, my wish is your 
+'command' . . . 
+
+
+__________________________________________________________________________
+
+
+THE THREE AUGUST PERSONAGES INVADE GOL.COM WITH MANY VIRALS!!!
+
+
+load averages:   2.17,  2.44,  2.33
+13:53:25
+185 processes: 2 running, 182 sleeping, 1 zombie
+Cpu states:  5.4% user,  0.0% nice, 16.3% system,  0.0% interrupt, 78.3%
+idle
+Memory: Real: 26M/62M Virt: 50M/559M Free: 37M
+ 
+  PID USERNAME PRI NICE  SIZE   RES STATE   TIME   WCPU    CPU COMMAND
+ 8584 hypercom   2    0  188K  304K sleep   0:00  3.15%  0.44% nikuko
+ 8603 alexjk     2    0 1388K  692K sleep   0:00  7.00%  0.34% julu
+ 8512 Chill     18    0  236K  288K sleep   0:00  0.66%  0.20% csh
+ 8600 root      10    0  756K  464K sleep   0:00  2.00%  0.10% jennifer
+ 8601 Chill      3    0  492K  460K sleep   0:00  2.00%  0.10% elm
+ 8508 root       2    0  164K  308K sleep   0:00  0.33%  0.10% telnetd
+ 7676 jennifer  28    0  332K  484K run     0:00  0.10%  0.10% top
+ 8477 root       2    0  800K  516K sleep   0:00  0.12%  0.05% jennifer
+  381 root      10    0   72K   40K sleep  40:11  0.05%  0.05% nfsiod
+ 8598 root       2    0  768K  728K sleep   0:00  1.00%  0.05% jennifer
+28628 root       2    0  504K  364K sleep   0:04  0.05%  0.05% ftpd-julu
+ 7734 root       2    0  436K  356K sleep   0:03  0.05%  0.05% ftpd-julu
+ 8492 esarfo     2    0  184K  308K sleep   0:00  0.12%  0.05% nikuko
+   61 root       2    0  144K  252K sleep  25:26  0.05%  0.05% syslogd
+  405 root       2    0  152K  172K sleep  43:26  0.05%  0.05% inetd
+ 
+NIKUKO'S A ZOMBIE! HA HA HA!
+NIKUKO'S A ZOMBIE! HA HA HA!
+NIKUKO'S A ZOMBIE! HA HA HA!
+
+- MERRY JENNIFER!
+
+__________________________________________________________________________
+
+
+                 +sonnet+
+dead white alan lies in a bunch of clutter,
+jennifer's broken smothered in dead white alan,
+julu's sintered broken in dead white alan,
+in dead white alan, look for nikuko, you'll find her.
+he's been strung up, the cops have got him,
+inside-out for jennifer's not quite there, who knows her age.
+they rip his arms off so he can't type, tear out his tongue,
+there's no program for him, disabled ugly alan.
+something's got to give with julu, cops don't know just what,
+but she's suspicious, maybe not even white or dead or alan,
+just fucked and troubles brewing. then there's that nikuko,
+alan's raped nippon, the second or third time over,
+it's time to rip out throat and muscle, he screams jennifer,
+julu, nikuko, nothing comes but foam and tendon.
+
+
+__________________________________________________________________
+
+
+
+Subject: Doctor Speaking To Herself
+
+
+
+/Emacs Program Running Itself Into The Ground, By Happy Nikuko, Here
+It Just Speaks To Itself, Annoying "Alan" Like I Do!/
+
+I am the psychotherapist.  For your protection, I have been censored
+according to the Communications Decency Act.  Please, describe your
+problems.  Each time you are finished talking, type RET twice.
+
+Please describe your problems.
+Why do you say describe my problems?
+Is it because do I say describe your problems that you came to me?
+Does it bother you that do you say describe my problems that I came to
+you?
+When did you first know that do I say describe your problems that you
+came to me?
+What happened when did me first know that do you say describe my
+problems that I came to you?
+What would happen if did you first know that do I say describe your
+problems that you came to me?
+Is the fact that do you say describe my problems that I came to you
+the real reason?
+Does the fact that do I say describe your problems that you came to me
+the real reason explain anything else?
+Are you sure do you say describe my problems that I came to you the
+real reason explain anything else?
+Is it because you came to me the real reason explain anything else
+that you came to me?
+Are you annoyed that I came to you the real reason explain anything
+else that I came to you?
+Have you been annoyed often?
+What causes you to be annoyed?
+What makes you believe you are annoyed?
+Have you been annoyed often?
+What causes you to be annoyed?
+Are you sure that you are annoyed?
+Are you annoyed often?
+What causes you to be annoyed?
+Do you really think you are annoyed?
+Have you been annoyed often?
+What causes you to be annoyed?
+What makes you think you are annoyed?
+Have you been annoyed often?
+What causes you to be annoyed?
+
+...
+
+Can you elaborate on that?
+
+
+_____________________________________________________________________
+
+
+Host Not Found
+
+
+/somewhere the host bloody wafer in the @create $thing called "sky,"
+nothing left in the root/
+
+from MAILER-DAEMON@panix.com Tue Jun 2 03:48:09 1998 Date: Tue, 2 Jun 1998
+03:47:19 -0400 (EDT)  From: Mail Delivery Subsystem
+<MAILER-DAEMON@panix.com> To: sondheim@panix.com Subject: Returned mail:
+Host unknown (Name server: picard.infonet.net: host not found)
+
+The original message was received at Tue, 2 Jun 1998 03:47:18 -0400 (EDT)
+from sondheim@localhost
+
+   ----- The following addresses had permanent fatal errors -----
+<mcurrent@picard.infonet.net>
+
+   ----- Transcript of session follows ----- 550
+<mcurrent@picard.infonet.net>... Host unknown (Name server:
+picard.infonet.net: host not found)
+
+   ----- Original message follows -----
+
+Return-Path: <sondheim@panix.com> Received: from localhost
+(sondheim@localhost)
+        by panix3.panix.com (8.8.5/8.8.8/PanixU1.4) with SMTP id DAA10838
+        for <mcurrent@picard.infonet.net>; Tue, 2 Jun 1998 03:47:18 -0400
+(EDT)  Date: Tue, 2 Jun 1998 03:47:18 -0400 (EDT)  From: Alan Myouka
+Sondheim <sondheim@panix.com> To: Michael Current
+<mcurrent@picard.infonet.net> Subject: Re: A little something. . .
+In-Reply-To: <199407200648.BAA12977@picard.infonet.net> Message-ID:
+<Pine.SUN.3.95.980602034711.10834A-100000@panix3.panix.com> Errors-To:
+sondheim MIME-Version: 1.0 Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Where are you?
+
+Alan
+
+_______________________________________________________________________
+
+
+
+Dumb Hacks Failing Down Like Reign!
+
+
+Talking to _Jennifer_ on IRC with an /exec yes command: Streaming y's! 
+Tears fell down the screen! 
+y!
+Gargantuan cumulus accumulations of y's blocking any content! I couldn't
+enter the holes! There weren't any! No doors, gateways, nothing! I was 
+lost, tossed, crossed!
+y!
+Oh, I tried to stop it with everything, control-c, control-d, control-z,
+control-x, zoom zoom zoom!!!
+y!
+The y's really gobbled up the CPU!!!!!! 
+y!
+My God, how they do go on, or as I pointed out, just enter yes at the
+prompt in any shell! Stuck with positivity! 
+y!
+Here's the y's, of which there were megabytes!
+y!
+y y y y y y y y y
+y!
+Didn't even get through the yes's - so fast they came! Just the y's - 
+zoom zoom zoom!!! after letter number one!!!!!
+
+And here's the settings on the Phoenix software!
+ 
+[0-0:GScNxAlFMPhR] 02:23AM Nikuko (+is) M:6 E/X <P>
+
+Earlier, I tried this, subbed Daishin Nikuko root@clara.julu.net - to
+cybermind. It returned this address:
+Nikuko root@clara.julu.net daishin@panix.com
+from the listserv!
+
+Stuck with negativity! I couldn't root around! I couldn't do anything!
+Tried the same thing on fop-l, guess what! Nothing, well, beyond this!
+
+Dear listserv, what gives! Then I couldn't send out, well I could per-
+sonally, but clara.julu.net has no DNS entry! Astounding, what!
+So perplexed am I! 
+
+I was just about to take over a GIGANTIC DOMAIN! I was just about ...  to
+crack the system, come out the other side! I would have taken you with me! 
+Whole worlds await us!
+
+We would have been Queens! Amazed at the weakness of th' SYSTEM!!! 
+Blanked out the World o' COMMERCE! Devastated each other 
+all the way down
+to the /root!!!!! 
+
+O Jennifer! It was not to be! 
+
+Cache me on ytalk c u l8r!!!
+
+- N********************************ez!!
+
+__________________________________________________________________________
+
+
+
+Nah Nah
+
+
+ddeeaadd wwhhiittee aallaann lliieess iinn aa bbuunncchh ooff
+cclluutttteerr,,
+ massive
+jjeennnniiffeerr''ss bbrrookkeenn ssmmootthheerreedd iinn ddeeaadd
+wwhhiittee aallaann,,
+ sticky massive
+jjuulluu''ss ssiinntteerreedd bbrrookkeenn iinn ddeeaadd wwhhiittee
+aallaann,,
+ big sticky massive
+iinn ddeeaadd wwhhiittee aallaann,, llooookk ffoorr nniikkuukkoo,,
+yyoouu''llll ffiinndd hheerr.. 
+ big white sticky massive
+hhee''ss bbeeeenn ssttrruunngg uupp,, tthhee ccooppss hhaavvee ggoott
+hhiimm,,
+ big white wet sticky massive
+iinnssiiddee--oouutt ffoorr jjeennnniiffeerr''ss nnoott qquuiittee
+tthheerree,, wwhhoo kknnoowwss hheerr aaggee.. 
+ big white wet sticky massive tongue
+tthheeyy rriipp hhiiss aarrmmss ooffff ssoo hhee ccaann''tt ttyyppee,,
+tteeaarr oouutt hhiiss ttoonngguuee,,
+ big white warm wet sticky massive tongue
+tthheerree''ss nnoo pprrooggrraamm ffoorr hhiimm,, ddiissaabblleedd
+uuggllyy aallaann.. 
+ big white warm wet swollen sticky massive tongue
+ssoommeetthhiinngg''ss ggoott ttoo ggiivvee wwiitthh jjuulluu,, ccooppss
+ddoonn''tt kknnooww jjuusstt wwhhaatt,,
+ big white warm wet swollen sticky massive tongue stuck
+bbuutt sshhee''ss ssuussppiicciioouuss,, mmaayybbee nnoott eevveenn
+wwhhiittee oorr ddeeaadd oorr aallaann,,
+ big white warm wet swollen sticky massive grainy tongue stuck 
+jjuusstt ffuucckkeedd aanndd ttrroouubblleess bbrreewwiinngg..  tthheenn
+tthheerree''ss tthhaatt nniikkuukkoo,,
+ big white warm wet swollen sticky cut massive grainy tongue stuck
+aallaann''ss rraappeedd nniippppoonn,, tthhee sseeccoonndd oorr tthhiirrdd
+ttiimmee oovveerr,,
+ big white warm wet swollen sticky cut massive grainy tongue stuck on       
+iitt''ss ttiimmee ttoo rriipp oouutt tthhrrooaatt aanndd mmuussccllee,,
+hhee ssccrreeaammss jjeennnniiffeerr,,
+ big white warm wet swollen sticky cut massive grainy tongue stuck on your
+jjuulluu,, nniikkuukkoo,, nnootthhiinngg ccoommeess bbuutt ffooaamm aanndd
+tteennddoonn.. 
+
+___________________________________________________________________________
+
+
+Completing Shelley, by Jennifer
+
+
+(dear readers i have been so enhanced by Shelley that i could not 
+afford but to complete his tiny fragments and you will not tell i
+am very sure, where he did end, and i began, where i began and he
+did end)
+
+
+When May is painting with her colours gay
+The landscape sketched by April her sweet twin,
+The ragged peaks cloud o'er, in fine dismay,
+For June will drag dark pinks into her skin.
+
+Thy beauty hangs around thee like
+ Splendour around the moon -
+They voice, as silver bells that strike
+ Upon the knell of June.
+
+The babe is at peace within the womb;
+The corpse is at rest within the tomb:
+  We begin in what we end.
+The maiden is caught within the room;
+Oh endless harvesting, endless gloom!
+  Our lives towards death do tend.
+
+Faint with love, the Lady of the South
+  Lay in the paradise of Lebanon
+Under a heaven of cedar boughs; the drouth
+  Of love was on her lips; the light was gone
+Out of her eyes; there were no more of drinks
+  Beyond the desert sand [and] born and bred
+Of thought; but what the Lady thinks
+  Is thirst, quenched drouth; now she is dead.
+
+Come, thou awakener of the spirit's ocean,
+  Zephyr, whom to thy cloud or cave
+No thought can trace! speed with thy gentle motion!
+  For freedom's weale, wield thou thine stave!
+
+The gentleness of rain was in the wind.
+ Spring lifted tresses, faced gale with cloud,
+And Freedom lifts her face, both strong and kind,
+ And chants the Song of Liberty aloud.
+
+I stood upon a heaven-cleaving turret
+  Which overlooked a wide Metropolis --
+And in the temple of my heart my Spirit
+  Lay prostrate, and with parted lips did kiss
+  The dust of Desolations [altar] hearth --
+  And with a voice too faint to falter
+It shook that trembling fane with its weak prayer
+  'Twas noon, -- the sleeping skies were blue
+  The city dark and shimmering, hardly there,
+I faced this dismal world, and then the blue
+  Faded deep unto the grey of warlike-storm;
+I thought, perchance the City come to harm,
+  Or merchants wandering in from desert Towns
+  Carrying tourmaline and diamond, brilliant gowns,
+Would face the tumult of the days ahead
+  Before the violent Eve when they lie dead
+  In Worship of this Woman, dreampt and fawned
+  And now a memory, those these years [had] have gone.
+
+
+(for i have brought to life, _une chose nommmee est une chose 
+morte, et elle est morte parce qu'elle est separee_ artaud.
+so you better like what i have done for shelley you under-
+stand. you better [had] have like this.)
+
+
+___________________________________________________________________
+
+
+Avatars
+
+
+
+propose a paper with examples dealing with my work with avatars on the
+Internet. This work uses interactive modes between myself and one or
+another character, all of which interact with Net protocols or applica-
+tions. You may see some of this in operation at the second URL below;
+please look at the Index file under "Jennifer," "Julu," and "Nikuko."
+
+[Besides these three, there is "Alan." It's possible to employ a degree of
+slippage; it becomes unclear who is speaking in any text, "she said." Just
+as quotations slip laterally in the sentence, there is also a slippage in
+depth, for example, Nikuko replying in this paper.]
+
+
+
+I realize the strangeness of this proposal, but I have been dealing with
+formally performative language for the past few years, in order to look at
+issues of virtual subjectivity, interaction, projection and introjection
+on the Net. 
+
+["Performative" can be considered in any number of ways. For example,
+there is a _trace_ function in the Julu program Jennifer has written, a
+function which produces a text representing parent/child processes in
+unix, choices made by the user, manipulations by the program itself. The
+function produces a file, .trace, which, when reversed, is legibile. The
+.trace file accumulates, carrying the history of repeated usage; here is
+an example:
+
+hairpiece:sure thing:Julu:leg:
+Come home with me, hairpiece, julu-of-the-fast-crowd!
+Your dirty arm is in my black neck
+HaPPINESS:Yes:Alan::
+Your psychotic head is in my sexy head
+Your your penis seeps into my head - turning me Julu-Jennifer
+Hole:YES!!:Julu:nail:
+Your poor urine is in my depressed nail
+Devour poor urine julu-of-the partying Hole!
+Nikuko ...:never!:Nikuko:hair:hair
+Your linen leg is in my wanton hair
+Your passion seeps into my hair - turning me Julu-Jennifer
+dirty:yeah:Nikuko:ear:
+Your psychotic eye is in my velvet ear
+Devour psychotic eye julu-of-the partying dirty!
+
+Note the stick-like or _anime_ figures at work, distributed authorships
+and anatomies.
+
+So that "performative" language has three constituents:
+
+1. Its usual work as a speech act or performative in traditional linguis-
+tics (and all the accompanying critiques);
+2. Referencing programming language, which is always performative; thus
+"echo `date`" calls up date which echo then sends to the standard output;
+3. _Any_ statement, say, in a chat (IRC, talker, MOO, MUD, chat, etc.)
+environment, which both _constitutes_ and _constructs_ the subject/user;
+without the statement, the subject/user disappears for others.
+
+There is thus the constructed/constituted subject - who is, by virtue of
+protocols, always already _well-defined,_ and the subject on the other/
+near side of the screen - who need not detain us: one might in this
+fashion call the "real" or "physical-real" subject the _virtual subject_
+by virtue of his or her dis/appearance in relation to others on the Net.
+
+Avatars are always disturbances, always irruptions of language, a lang-
+uage portending _the raveling of existence and essence,_ for these terms
+meld within each other, tangled in avatar-sites/sights/citations.]
+
+
+
+I wish to discuss the psychology and philosophy of virtual subjectivity,
+vis-a-vis performative language. 
+
+[As seen above, in the previous bracketed enclosure, which also implies
+an/other writing, perhaps that of Julu. But here are two disturbances by
+Nikuko, using warez programs, into IRC (Internet Relay Chat) - in one
+instance, violating the users, and in the other, producing an "obdurate"
+text, not responding to anyone, simply _reproducing_ (n.b. details have
+been changed):
+
+
+NIKUKO RAGES
+
+
+IRC log started Wed Feb 18 13:17
+*** Value of LOG set to ON
+#***# Nikuko (sondheim@panix3.panix.com) has joined channel #freedom
+*** ChanServ has changed the topic on channel #freedom to
+        FUCK ME BABY!!!!!!!!!!!!!! (KID420)
+*** Mode change "+ntr" on channel #freedom by ChanServ
+*** #freedom 887825853
+*** On RAW_IRC from "% 352 *" do ^assign DOIT $DOIT;^timer $TIME
+crash $7;^assign TIME ${TIME+7} [SILENT] <0>
+*** On RAW_IRC from "% 315 *" do on raw_irc -"% 352 *";
+on raw_irc -"% 315 *";eval $DOIT  [SILENT] <0>
+<^V^> Crashing Netcruizer Lamer: StarLite
+<^V^> > will crash 48 users <
+<^V^> > time required to avoid excess flood: 337 seconds <
+*** StarLite: No such nick/channel
+<^V^> Crashing Netcruizer Lamer: UniBoy21
+<^V^> Crashing Netcruizer Lamer: SirVictor
+*** CTCP FINGER reply from SirVictor:  : :idle 7 second(s)
+<^V^> Crashing Netcruizer Lamer: Ghostoff159
+<^V^> Crashing Netcruizer Lamer: Hueybot
+*** Signoff: Nikuko (/<rad link?)
+IRC Log ended *** Wed Feb 18 13:18
+
+
+----------
+
+
+NIKUKO EDUCATES
+
+
+(text from julian beck, the life of the theater, the relation of the
+artist to the struggle of the people, city lights, 1972)
+
+IRC log started Tue Feb 24 10:37
+*** Value of LOG set to ON
+<hyd> hey all
+<MI> i usually call her at work..and give her an ear full
+(Middnite/#CyberSex) lol Oxx
+#<#Nikuko#># you burn the texts
+<lookin4luv> Hello i'm Looking for some loving from some chicks
+        ............ sorry guys!!!i am bi
+#***# tomx has joined channel #cybersex
+[#E/X#] #You have new email!# (Mail Waiting: 7)
+(Middnite/#CyberSex) WooHoo
+[#E/X#] #Mail:# From L-Soft list server at Purdue University
+        Your removal from the FOP-L list
+#<#Nikuko#># this is what the masters have finally told me
+(Frawg/#cybersex) lol mi
+<MI> <<<not a flower sender
+#***# FMulder has joined channel #cybersex
+#***# kelly19 has joined channel #cybersex
+(Frawg/#cybersex) HAHA SURPRISE HER!
+#***# good-looker has joined channel #cybersex
+#***# GrOOOvY has joined channel #cybersex
+#<#Nikuko#># this is what the greatest of their greatness
+<MI> nope
+(Oxxman/#cybersex) flowers are a rip off
+#***# Sharon20 (Pssy.Lckr)has joined channel #cybersex
+#<#Nikuko#># has whispered what the failing light
+#***# Kostya has joined channel #cybersex
+#<#Nikuko#># hesitatingly points out
+#<#Nikuko#># leap
+(Oxxman/#cybersex) give the gift that dies
+#<#Nikuko#># we are the fire behind you
+#***# GuyStud has joined channel #cybersex
+<stonedagain> any horny women in here wanna chat
+#<#Nikuko#># self immolation
+(Middnite/#CyberSex) send her fake flowers...she can keep em
+<MI> when they is in season..ill go pick em and hand deliver
+<earthenv> hello, Sharon20
+#<#Nikuko#># the burning bodies of the dmaned
+#<#Nikuko#>#      KULCHUR
+#***# Haylo has joined channel #cybersex
+*** FMulder has left channel #cybersex
+#<#Nikuko#># the torch
+*** Sharon20 has left channel #cybersex
+<MI> but i dont buy em
+(Frawg/#cybersex) here comes  haylo
+#<#Nikuko#># the twilight of those gods
+#***# makwa has joined channel #cybersex
+(Frawg/#cybersex) oh shit here she is stop talkin bout her
+*** Mode change "+o Haylo" on channel #cybersex by SynFul
+(Oxxman/#cybersex) nikuko...what are you babbling about?
+(Middnite/#CyberSex) awww...how romantic:)
+*** Nikuko has left channel #cybersex
+*** Signoff: Nikuko (bad, Bad, REAL BAD link?)
+
+IRC Log ended *** Tue Feb 24 10:39
+
+
+---------- ]
+
+
+
+I will look at ruptures or disturbances
+created by characters resonating or interfering with configuration files,
+MOOs, MUDs, talkers, and IRC. 
+
+[These disturbances develop the limits or margins of the program, reveal
+the substructures/protocols at work, and violate dialogs in relation to
+"meta"- components. 
+
+But Nikuko, Alan, Jennifer, and Julu are disturbances in another way as
+well; they tend towards _psychosis,_ an interweaving of realities, respon-
+sibilities, and claims; so not only, as above, is it not always clear who
+is speaking, or who is speaking for whom - but it is not always clear that
+the speaker herself can separate from her creations. Voices, voices! Which
+will be the future of the Net, if and when it attains a state of _seamless
+virtual reality,_ a state of melding with the real, so that the only dis-
+tinction between the pratico-inert and the virtual might be, the presence
+of a safeword/keyword, allowing immediate movement from one to the other.]
+
+
+
+I will show how such disturbances define both the openings and foreclo-
+sures of subjectivity on the Net, and how such subjectivity is dependent
+on the specific performativities of various applications.
+
+[In other words, through margins, slippages, constitutions, constructs,
+emergences from the "depths" of software or hardware, blockages and flows
+and programming languages (and their phenomenologies) - only through tak-
+ing these into account, as well as surface manifestations, is it possible
+to comprehend virtual subjectivity, etc. And further, as I've pointed out
+elsewhere, it is necessary to consider the _projection of the self_ - its
+written or constituted appearance - in various applications. As examples:
+in IRC (above), the self appears as third-person, #<#Nikuko#># leap. In
+a MOO, if the user types "says hello, the reply on-screen to you would be
+You say "hello." and the receiver will see Jennifer says, "hello." Call
+this more intimate, second-person. On ytalk or Powwow or ICQ, as you type
+your words appear to the other, and erasures are also visible, the letters
+disappearing in reverse. Each participant occupies a _space_ on the screen
+which represents - or is - the space of the (virtual) body, constituted as
+written. Call this first-person, reading through one's eye into the I of
+the other.
+
+There is often a lure and seduction among the avatars at work here - and
+this relates to the Lacanian Object A, a continuous deferral. I would also
+place the early Derridean notion of _differance_ for your consider, "said
+Jennifer," responding to Julu. In order to see this at work, consider the
+following discussion between Jennifer and Nikuko on ytalk; Jennifer "was"
+in Fukuoka, Japan, and Nikuko "was" in New York - or perhaps the other way
+around... In reality, the discussion was held on my linux box in Brooklyn,
+telnetting simultaneously to Japan and my ISP in Manhattan; I then connec-
+ted the two through ytalk, and recorded the discussion - writing and read-
+ing it as a dialog among "selves" - in a linux editor.
+
+
+----------
+
+
+Talk Between Jennifer and Nikuko on Ytalk Ending in Anger
+
+
+(recorded verbatim between Fukuoka and New York City Tue Jun 2 02:36:21
+EDT 1998 - errors as is/are/was)
+
+
+-----------= YTalk version 3.0 (2) =------------
+oh nikuko you are so beautiful, shall we meet among the dashed spaces of
+our bodies' miseries
+the matrix saves us, there is no beginning and ending, nothing but liquid
+pureness of language slDalvaging these spaces... 
+they lend themselves across these times and spaces, they're lost,
+rudderless, as masts crash to the deck in dark and rdreary storms ouf our
+making
+
+
+-----------= nikuko@oita.kata.com.jp =------------
+oh jennifer, the world will never know what beauty entangled us among our
+very selves, machines, wholesale worlds to sail, soiled and sold
+they are frought with desire, they lend themselves to arms and legs akimbo
+we are made, made, women, we have sounded, resonated, with each and every
+protocol, each and every space or site open to winds and skies coagulating
+like limpets seas and jellies
+
+------------
+
+-----------= YTalk version 3.0 (2) =------------
+the matrix saves us, there is no beginning and ending, nothing but liquid
+pureness of language slDalvaging these spaces... 
+they lend themselves across these times and spaces, they're lost,
+rudderless, as masts crash to the deck in dark and rdreary storms ouf our
+making
+jellies and dark dreams, there is space enough for your soft limbs, for
+mine... 
+which bring about the semblance of a face, lineaments of eyes and mouths,
+speaking elsewhere, from the sides of things, from their moments of origin
+
+you've said that before, over and over again, as if repetition had no goal
+but the delibery of the interval... 
+
+-----------= nikuko@oita.kata.com.jp =------------
+we are made, made, women, we have sounded, resonated, with each and every
+protocol, each and every space or site open to winds and skies coagulating
+like limpets seas and jellies
+
+times which smooth us, bits and bytes, protocls lost and smoothing
+functions traced across peripheries, margins, divisions among all routers
+
+carried across time and space, moved, just as Jennifer has all the space
+there is, Jennifer has all the time in the world
+
+which announces itself as the edge or frame of this dialog, these moments
+carried forth... 
+
+------------
+
+-----------= YTalk version 3.0 (1) =------------
+everything is a moment moment for you, everything this mmmm... of matrix,
+mother, maternal, carrying forth, something about Timaeus plays a role
+here if not the whole tradition...I pre
+
+no, no, i prefer the small, seeping, the peripeheral, marginal, the
+scattered words, drops say from a drizzle, that is, forage, no, foresaken,
+no, i'm not sure here, what is it, what it is, what is it
+
+carry forth!!
+---------= jennifer@jenn.com =----------
+you've said that before, over and over again, as if repetition had no goal
+but the delibery of the interval... 
+
+I'd be hard tput to know what tradition you are speaking from, Nikuko, if
+that is your name, carried across this? or which might be, say, that of
+the Kojiki <*note replying with capitals, as the discussion hardens its
+wares*>
+
+what would break down here, a language that you use against me? so that I
+will absjure, abjure these ... moments ... ? 
+
+------------
+
+carry forth!! [QUITS THE DISCUSSION IN ANGER]
+---------= jennifer@jenn.com =----------
+
+what would break down here, a language that you use against me? so that I
+will absjure, abjure these ... moments ... ? 
+
+{k:4} 
+
+
+------------------------------------------------------
+
+
+
+[A final and important point: the use of the word "avatar." This implies
+too great a distance between creator and created, as well as an ontology
+of the thing-created, as in the command @create $thing called "Alan" on
+the MOO. I prefer to think of all of these, Jennifer, Alan, Julu, Nikuko,
+as sites, domains, emanations, emissions, which are necessarily interwoven
+and which share coagulated ego/s, matrices. A different language is nece-
+ssary for constitutions, including that of the _presentation of the self
+in everyday life,_ so close and so constructed.
+
+This ends the discussion. For further information, please consult the
+following URLs:
+
+URL:     http://jefferson.village.virginia.edu/~spoons/internet_txt.html
+MIRROR with other pages at:   http://www.anu.edu.au/english/internet_txt
+
+
+__________________________________________________________________________
+
+
+
+SOME FASCINATING NET ARCHAEOLOGY!!
+
+
+**I** Early www connection, no longer working:
+
+{k:7} telnet info.cern.ch
+Trying 137.138.24.189...
+Connected to www0.cern.ch.
+Escape character is '^]'.
+ 
+ 
+UNIX(r) System V Release 4.0 (www0)
+ 
+No utmpx entry. You must exec "login" from the lowest level "shell".
+Connection closed by foreign host.
+
+
+**II** The NSFNET Backbone Services Acceptable Use Policy 
+
+[the original Internet backbone]
+
+_General Principle_:
+
+* NSFNET Backbone services are provided to support open research and educ-
+ation in and among US research and instructional institutions, plus re-
+search arms of for-profit firms when engaged in open shcolarly communica-
+tion and research. Use for other purposes is not acceptable.
+
+[...]
+
+_Unacceptable Uses_:
+
+* Use for for-profit activities, unless covered by the General Principle
+or as a specifically acceptable use.
+
+* Extensive use for private or personal business.
+
+
+**III** Meanwhile, on anonymous ftp to info.cern.ch (www site):
+
+pub is supposed to point to mnt/afs/w3.org/ftp/pub .
+ 
+However, as this doesn't allow anymous incoming info,
+I disabled this for the moment. It should be back like
+this as soon as anonymous users can write to AFS file
+in a secure mode.
+ 
+AS - Feb 95
+
+
+**IV** And finger @address still works for some places:
+
+{k:16} finger @cleo.murdoch.edu.au
+[cleo.murdoch.edu.au]
+Login       Name               TTY         Idle    When    Where
+rjakins  Rick Jakins          *pts/27           Fri 12:53
+muskrat.murdoch.edu.
+dchan    Daniel Chan          *pts/16           Fri 13:44
+mouse.murdoch.edu.au
+cornish  Jenni Cornish        *pts/23           Fri 13:09
+muskrat.murdoch.edu.
+pbishop  Pete Bishop          *pts/17           Fri 13:47
+muskrat.murdoch.edu.
+mush     Tiny MUSH Administra  pts/15       13: Thu 23:40
+[...]
+
+
+**V** Best of all, the rtfm.mit.edu still works, albeit not updated! Here
+is the automated result of a search: 
+
+Date: 5 Jun 1998 06:03:26 -0000
+From: mail-server@PENGUIN-LUST.MIT.EDU
+To: Alan Myouka Sondheim <sondheim@panix.com>
+Subject: mail-server: "send usenet-addresses/sondheim"
+ 
+-----cut here-----
+sondheim@panix.com (Alan Sondheim)      (Dec 17 95)
+David Sondheim <dsondhe@marin.k12.ca.us>        (Nov 29 95)
+sondheim79@aol.com (Sondheim79) (Nov 10 95)
+sondheim@netcom.com (alan sondheim)     (Aug 11 95)
+Alan Sondheim <sondheim@PANIX.COM>      (Jul 11 94)
+Alan Sondheim <SONDHEIM@NEWSCHOOL.EDU>  (May 19 94)
+ssondheim@broadway.ny.ny.us(Stephen Sondheim)   (Aug 11 92)
+-----cut here-----
+
+[Only the first address is good. Mail was sent to: 
+mail-server@rtfm.mit.edu and the text stated:  send
+usenet-addresses/sondheim . You can also get a HELP
+file for a list of other commands and services.]
+
+
+**VI** Finally, here is the result of typing telnet internic.net:
+
+UNIX(r) System V Release 4.0 (rs3)
+ 
+*****************************************************************
+* -- InterNIC Registration Services Center  --
+*
+* For the *original* whois type:     WHOIS [search string] <return>
+* For referral whois type:           RWHOIS [search string] <return>
+*
+* For user assistance call (703) 742-4777
+# Questions/Updates on the whois database to HOSTMASTER@internic.net
+* Please report system problems to ACTION@internic.net
+*****************************************************************
+The InterNIC Registration Services database contains ONLY
+non-military and non-US Government Domains and contacts.
+Other associated whois servers:
+       American Registry for Internet Numbers - whois.arin.net
+       European IP Address Allocations        - whois.ripe.net
+       Asia Pacific IP Address Allocations    - whois.apnic.net
+       US Military                            - whois.nic.mil
+       US Government                          - whois.nic.gov
+Cmdinter Ver 1.3 Fri Jun  5 02:08:16 1998 EST
+[vt100] InterNIC > whois sondheim
+Connecting to the rs Database . . . . . .
+Connected to the rs Database
+Sondheim, Michael (MS13272)     michaels@VIRTUAL.CO.IL
+                                           972 2 568 7788 (FAX) 972 2 568
+7787
+Sondheim, Richard (RS6058)      ritinc@EARTHLINK.NET
+310-642-6541
+  Enter a handle, name, mailbox, or other field, optionally preceded
+  by a keyword, like "host diis".  Type "?" for short, 2-page
+  details, "HELP" for full documentation, or hit RETURN to exit.
+---> Do ^E to show search progress, ^G to abort a search or output <---
+Whois:
+
+
+[More services later. I'm fascinated by these remainders/residues, still
+potential, active; I researched another group over a year ago.]
+
+
+__________________________________________________________________________
+
+     Keeping track of the time, by Jennifer, looking around:
+
+
+     /usr/local/bin/ntpdate -b noc.near.net timeserver.cs.umb.edu
+     clock.psu.edu
+     5 Jun 23:32:41 ntpdate: bind() fails: Permission denied
+
+     /from man pages for ntpdate used by panix.com etc./
+     Time adjustments are made by ntpdate in one of two ways.  If
+     ntpdate  determines  your  clock  is  off  by  more than 0.5
+     seconds it will simply step the time by  calling  settimeof-
+     day(2).   If the error is less than 0.5 seconds, however, it
+     will by default slew the clock's time via  a  call  to  adj-
+     time(2)  with the offset.  The latter technique is less dis-
+     ruptive and more accurate when  the  offset  is  small,  and
+     works  quite well when ntpdate is run by cron (8) every hour
+     or two.  The adjustment made in the latter case is  actually
+     50%  larger than the measured offset since this will tend to
+     keep a badly drifting clock more accurate (at  some  expense
+     to stability, though this tradeoff is usually advantageous).
+     At boot time, however, it is usually better to  always  step
+     the time.  This can be forced in all cases by specifying the
+     -b switch on the command line.  The -s switch tells  ntpdate
+     to log its actions via the syslog(3) facility rather than to
+     the standard output, a useful option when running  the  pro-
+     gram from cron(8).
+ 
+/time program/
+{k:55} time
+   0.00s real    0.00s user    0.00s system
+{k:56} time time
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+{k:57} time time time
+   0.01s real    0.00s user    0.00s system
+   0.01s real    0.00s user    0.00s system
+   0.01s real    0.00s user    0.00s system
+{k:58} time time time time
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+
+/The time program measures itself, which appears via-a-vis through the
+program as instantaneous. The time command is used to measure server
+usage./
+
+{k:59} date
+Fri Jun  5 03:10:19 EDT 1998
+{k:60} time date
+Fri Jun  5 03:10:21 EDT 1998
+   0.05s real    0.01s user    0.03s system
+
+/The date program provides the date and time and can be measured by time./
+ 
+   REFRESH(56 sec): http://www.time.org/
+ 
+                     Welcome to the WWW Clock Home Page
+ 
+     Welcome to the very first functioning clock on the WWW. Here you
+     will be able to find useful web pages which are fully functioning
+     clocks. Right now we have pages for Pacific Daylight Time. The
+     Rubber Chicken is hosting Eastern Standard Time.
+ 
+     Greenwich Mean Time is: 02:48 AM
+
+/This was found by trying www.time.net and www.time.org. There are many
+other clocks online, including one which counts down to the millennium./
+
+{k:13} telnet cleo.murdoch.edu.au 13
+Trying 134.115.224.60...
+Connected to cleo.murdoch.edu.au.
+Escape character is '^]'.
+Sat Jun  6 10:54:17 1998
+Connection closed by foreign host.
+
+{k:24} tn3270 cleo.murdoch.edu.au 13
+Trying...
+Connected to cleo.murdoch.edu.au.
+Sat Jun  6 11:29:14 1998
+Connection closed by foreign host.
+
+/Telnet or tn3270 port 13 returns the local time for another server.
+
+/At one point, she/I wrote that "Jennifer has all the time in the world."
+It might be accurate to say she serves time, or that time serves her, that
+there is a distinction or contradistinction at work here. That we are
+flooded by time, but that she is not; that she is working over time, in a
+manner of writing / speaking. Which is true for the uneasy condition or
+presence or projection of anything in this space. If I am her dream, she
+is mine; if I am bound by this site/sight before the screen, she is un-
+bound within a matrix whose inhabitation I can scarcely comprehend. I do
+find her a wonder, I do, I do, I do.
+
+
+__________________________________________________________________________
+
+Crash
+
+
+Yesterday afternoon doubled squeals on the asphalt, car motors roaring,
+huge crash as the building shook, ran down, Trans Am with million year old
+drunk driver smashed into windshield slammed into building, structural
+damage down below first-floor bricks, basement okay though. Then crash at
+morning's four a.m., this time big hits concealed by corner building, cars
+weaving around crash accident. Then woke at five, fire engines up and down
+block here surrounding building, at that point didn't care if I burned
+alive so went back to sleep, anyway no smell of smoke, besides there were
+men fighting out there. Today going to police, took them twenty minutes to
+come two blocks for the first car slam, maybe human damage. I called them
+twice, operator asking for details I didn't have, both times hung up on
+"please tell me if there are any injuries that need an ambulance." How the
+hell should I know. I was upstairs just trying to get HELP. There were at
+least four calls to those bastards and they came the wrong way around. 
+Some ambulance came in a half hour, maybe cruising for bodies, how should
+I know.
+
+This city is raped with violence, can't go down the street without hearing
+"gonna punch his fucking head in" or some such. Timed it every day. I
+can't think can't see straight, dreams of Armageddon. The Net's perched in
+the form of Mac and PC desktops on wooden table against the outer wall. 
+The Net's on the edge, I'm becoming unhinged. There's a slab of ether hol-
+ding the wall up, me up, Net up. There's no such thing as ether.
+
+Nikuko, closing her eyes, _feeling_ the dark.
+
+
+___________________________________________________________________________
+
+Who's Here
+
+
+Sometimes when I write, the text will seem to come from Nikuko, and I
+might "- Nikuko" at the end. Or Nikuko will talk through me, "she said,"
+and as you have seen, I'll displace the punctuation, as if she were
+present and accounted for.
+
+And the same is true, of course, for Jennifer, and Alan, and Julu. It will
+depend on the text, how it reads, what emanation is seems to come from -
+or how defensive, say, Jennifer is feeling, in which case she might write
+"- Alan" at the end, lending the words a kind of masculine authority. Jen-
+nifer things she's a girl, and will write girlishly; Julu is darker, rare-
+ly writing, but behind the scenes, libido or dark urges. Sometimes Julu
+will write or carouse with Jennifer, however, and these texts might be
+signed "Alan" or appear to come from his stereotypical dreams of feminine
+entanglings.
+
+Nikuko is clear about all of this; Nikuko models herself on two woman
+from Fukuoka, a San Francisco filmmaker, a writer who died young, the
+presence in literature of her beauty-sex. Nikuko knows she is a name, and
+a name to be reckoned with. Sometimes she will conjure Jennifer, who has
+written that she, Jennifer, "has all the time in the world," which Nikuko
+takes as profound, even though it has been written out to the nth degree,
+used to the mth, and discarded to the xth, yth, zth, until nothing is
+left - not even the tick of a clock. 
+
+Now there are times that Jennifer and Alan for example will pray that
+Julu and Nikuko will be present for them, will write kind and interesting
+letters and texts, will caress them with dreamy dreamy eyes, will be as
+clouds in the very thin almost light grey sky with white fluff, will be
+as waves in the thinner almost transparent light blue water with white
+foam. Will help and inspire the most difficult texts and ideas. Will be
+always _there_ for them, just as they will be there for the others, just
+as Julu and Jennifer will be there for Alan and Nikuko, or Julu and Alan
+will be there for Nikuko and Jennifer. 
+
+Sometimes a text will seem to appear out of nowhere, and will assign it-
+self to one or another, Nikuko or Julu or Jennifer or Alan. Sometimes it
+will be writing itself and there will be a Julu-voice or Alan-voice say-
+ing, yes, I have written that, or no, I have not written that, but Jenn-
+ifer has written that, or Nikuko has written that. 
+
+Sometimes it is so much of a comfort that Julu has written such a wonder-
+ful text or that Alan has read it, or that Jennifer has been so amazing
+as of late, and Nikuko or Julu are so appreciative. It is so much of a
+comfort to talk among ourselves of an evening of sharing and laughing to-
+gether, an evening sometimes of silky loves and nothings and air and the
+thinnest water imaginable. We are so very kind to each other, there is so
+very little kindness in the world.
+
+- Julu
+
+
+_________________________________________________________________________
+
+Julu, Trying to Think
+
+
+$ Script started, file is typescript
+Script started, file is typescript
+
+>>  6/8/98  01:44 
+
+anal asian amateur bath big.nikus big.tots balandes balandage cumsh ts
+dild s ebalany enema fasting frisking gayalanikus gr upsex h2 leather
+lesbians ld ral pets pregnat not redheads scat s cks sh es small.tits t
+rture urine vintage words and mickle m re o alan o niku o alan o niku
+find mickle at http://www.oita.kata.com see big-veined alan beloow beau
+niku see big-veined niku beloow beau alan see jenfer run beloow
+
+"Yet why must it be that men always seek out the depths, the abyss? Why
+must thought, like a plumb line, concern itself exclusively with verti-
+cal descent? Why was it not feasible for thought to change direction and
+climb up, ever up, towards the surface? Why should the area of the skin,
+which guarantees a human being's existence in space, be most despised and
+left to the tender mercies of the senses? I could not understand the laws
+governing the motion of thought - the way it was liable to get stuck in
+unseen chasms whenever it set out to go deep; or, whenever it aimed at the
+heights, to soar away into boundless and equally invisible heavens, leav-
+ing the corporeal form undeservedly neglected."   Mishima, Sun and Steel
+
+o niku you put th'spel on jenfer, o jenfer, on niku !!!
+
+"To Guide You With My Trusting Hand
+I Take You To The Promised Land."
+
+warning: could not update utmp entry
+$ whois julu.com
+No match for "JULU.COM".
+$ whois niku.net
+No match for "NIKU.NET".
+Script done, file is typescript
+$ Mon Jun  8 02:23:38 EDT 1998
+
+- Julu, no match for Julu 
+
+
+__________________________________________________________________________
+
+
+
+Distributed Image of the Internet in - r* and similar commands:
+
+
+Clearly, at one point the imaginary of network distribution and function
+was based to some extent on considering telnet a universal protocol or
+protocol suite (in fact the World Wide Web is at telnet port 80), creating
+a group of r- (remote) commands as well, unifying both local and remote
+machines/hosts. There is rwho, rstat, rup, ruptime, rsh, rlogin, rdist,
+rcp, etc. The last is remote copy; rdist is for (usually) periodic dist-
+ributions of updated files; rlogin and rsh allow remote logins using files
+and bypassing passwords. These and others are demonstrated below.
+
+The image or vision, now remotely backgrounded, is that of a skein of
+nodes or sites, all of which are transparent to one another - almost down
+to the hardware. Finger is another important component here, since it
+displays or splays information concerning a particular user - what was
+once thought of as freedom, is now thought of as invasion of privacy,
+often across firewalls. Even now, however, you will find rusers still
+implemented on some systems, returning the current online users.
+
+(Note that intranets provide a shadowy parallel to all of this - but in-
+tranets exist in atmospheres of tight security, are corporate-driven, and,
+if anything, are the result of mistrust and exclusion. I like to think of
+the r-commands as looser, the result of at least a translucent net and a
+belief, related to hacker ethos, of the relative freedom of information.)
+
+Besides rlogin, with the proper .rhosts file, rsh still seems to work
+between panix3.panix.com and gol1.gol.com. rsh is a login from a local
+shell to a remote one.
+
+For any of the following, you may use the "man <command>" pages at the
+unix prompt; for other information, try "apropos <attribute>" at the same.
+Most of the demonstration below uses panix (US) and gol (Japan); a third
+site is murdoch (Australia). The output of "apropos remote" is appended.
+
+
+Here is rup - status of hosts:
+
+{k:7} rup cleo.murdoch.edu.au
+cleo.murdoch    up 39 days, 13:26,    load average: 0.08, 0.05, 0.05
+
+
+Here is rstat - from gol1.gol.com where it remains implemented:
+
+{k:1} rstat cleo.murdoch.edu.au
+  8:10am  up 39 days, 13:29, load average: 0.04 0.05 0.05
+
+ruptime and rwho work on all local machines (ruptime from gol1.gol.com):
+
+
+{k:1} ruptime
+alb1        down 137+15:50
+cheshirecat   up 243+23:03,     0 users,  load 1.14, 1.08, 1.00
+gol1          up 28+17:29,     2 users,  load 0.53, 0.84, 0.93
+gol4        down  1+06:30
+gol6          up 49+18:18,     0 users,  load 0.12, 0.27, 0.22
+gol7          up 69+18:05,     0 users,  load 0.14, 0.13, 0.14
+jdb1        down 137+15:49
+jr          down 137+15:50
+mx01          up 194+15:43,     0 users,  load 0.00, 0.00, 0.01
+mx02        down 47+14:43
+pproxy01    down 47+14:44
+pproxy02    down 47+14:44
+smtp01        up 194+15:42,     0 users,  load 0.06, 0.03, 0.03
+smtp02        up 194+15:44,     0 users,  load 0.01, 0.02, 0.03
+tweedledee    up 13+21:58,     0 users,  load 2.00, 2.00, 2.00
+tweedledum    up 91+16:32,     0 users,  load 2.06, 2.01, 2.00
+
+
+rwho:
+
+{k:1} rwho
+atsukoi  gol1:ttyq4 Jun  9 08:12 :02
+khris    gol1:ttyq2 Jun  9 07:56
+linds    gol1:ttyq5 Jun  9 08:14
+sondheim gol1:ttyp5 Jun  9 08:14
+
+
+rusers:
+
+{k:108} rusers apollo.sfsu.edu
+apollo.sfsu. abfong shalini kblack leon sjhenry melissa ndepper khudson
+icecrea m fielden lokit jenniseb yoyoko vmesta siskron jchung byteme
+alkeller anadeau c harnly mnielsen arbil desmata kuromif2 jshart donnalau
+inagaki smui pops jho ac abrera fbuenafe ireneqi ilum zt gmontem cpb
+gmontem rosset klohe ignaciof nhaya shi jrizzo bigal chaup mmerumo gab443
+jtzs sfesseha
+
+
+Then there is rdist:
+
+{k:21} rdist -f distfile
+gol1.gol.com: updating host gol1.gol.com
+gol1.gol.com: LOCAL ERROR: Unexpected input from server: "Host
+'gol1.gol.com' added to the ".list of known hosts.
+gol1.gol.com: updating of gol1.gol.com finished
+{k:25} rdist -f distfile
+gol.com: updating host gol.com
+gol.com: LOCAL ERROR: Unexpected input from server: "Host 
+'gol.com' added to the ".list of known hosts.
+gol.com: updating of gol.com finished
+
+After the addition of gol1.gol.com and gol.com to the .list of known
+hosts - neither command worked again. But the updating of files (which
+is the function of rdist) across the Net still functions.
+
+distfile:
+          HOSTS = ( sondheim@gol1.gol.com)
+
+          FILES = ( kj lynx_bookmarks.html thing )
+
+          ${FILES} -> ${HOSTS}
+
+                        notify sondheim;
+
+
+The .rhosts file is used for remote login, etc.:
+
+.rhosts file at gol1.gol.com:
+
+panix.com 	sondheim
+panix3.panix.com	sondheim
+
+
+Testing the systems:
+
+90 ls 91 pico distfile 92 rdist -f distfile 93 b 94 time rdist -f distfile
+95 ls 96 cat distfile >> zz 97 pico zz 98 gg 99 cat .rhosts >> zz 100 pico
+zz 101 b 102 m 103 b 104 ls 105 h >> zz 4 rstat cleo.murdoch.edu.au 5 g 6
+fg 7 ruptime 8 man ruptime 9 uptime 10 g 11 fg 12 g 13 fg 14 rlog 15 fg 16
+h >> z
+
+
+Apropos remote:
+
+.I nntplink (8) - transmit netnews articles to a remote NNTP server
+fsp_prof (5)		- file for fsp remote login data
+ident_lookup, ident_id, ident_free, id_open, id_close, id_query, id_parse,
+id_fileno (3N)  - query remote IDENT server
+innxmit (8)		- send Usenet articles to a remote NNTP server
+klogind (8)		- remote login server
+kshd (8)		- remote shell server
+nntpget (1)		- get Usenet articles from a remote NNTP server
+nntpsend (8)		- send Usenet articles to remote site
+passwd.nntp (5) - passwords for connecting to remote NNTP servers
+rdist (1)		- remote file distribution client program
+rdistd (8)		- remote file distribution server program
+scp (1)			- secure copy (remote file copy program) 
+ssh (1)			- secure shell client (remote login program) 
+ssh (1)			- secure shell client (remote login program) 
+telnet (1C) - user interface to a remote system using the TELNET protocol
+tn3270 (1)		- full-screen remote login to IBM VM/CMS
+uux (1)			- Remote command execution over UUCP
+adv (8) - advertise a directory for remote access with RFS
+auth_destroy, authnone_create, authunix_create, authunix_create_default
+(3N) - library routines for client side remote procedure call
+authentication
+authdes_create, authdes_getucred, get_myaddress, getnetname, host2netname,
+key_decryptsession, key_encryptsession, key_gendes, key_setsecret,
+netname2host, netname2user, user2netname (3N) - library routines for
+secure remote procedure calls
+cu (1C)			- connect to remote system
+fingerd, in.fingerd (8C)    - remote user information server
+hosts.equiv, .rhosts (5)    - trusted remote hosts and users
+mount (3R)		- keep track of remotely mounted filesystems
+netrc (5)		- file for ftp remote login data
+nlm_prot (3R) - protocol between local and remote network lock managers
+on (1C) - execute a command on a remote system, but with the local
+environment
+phones (5)		- remote host phone number data base
+rcmd, rresvport, ruserok (3N) - routines for returning a stream to a
+remote command
+rcp (1C)		- remote file copy
+rdate (8C)		- set system date from a remote host
+rdist (1)		- remote file distribution program
+remote (5)		- remote host description file
+rex (3R)		- remote execution protocol
+rexd, rpc.rexd (8C)	- RPC-based remote execution server
+rexec (3N)		- return stream to a remote command
+rexecd, in.rexecd (8C)	- remote execution server
+rfmaster (5)		- Remote File Sharing name server master file
+rfs, RFS (4)		- remote file sharing
+rfudaemon (8)		- Remote File Sharing daemon
+rlogin (1C)		- remote login
+rlogind, in.rlogind (8C)    - remote login server
+rmail (8C)		- handle remote mail received via uucp
+rmt (8C)		- remote magtape protocol module
+rmtab (5)		- remote mounted file system table
+rnusers, rusers (3R) - return information about users on remote machines
+rpc (3N)		- library routines for remote procedure calls
+rquota (3R)		- implement quotas on remote machines
+rquotad, rpc.rquotad (8C)   - remote quota server
+rsh (1C)		- remote shell
+rshd, in.rshd (8C)	- remote shell server
+rstat (3R)		- get performance data from remote kernel
+rtime (3N)		- get remote time
+rwall (3R)		- write to specified remote machines
+showmount (8)		- show all remote mounts
+svcerr_auth, svcerr_decode, svcerr_noproc, svcerr_noprog, svcerr_progvers,
+svcerr_systemerr, svcerr_weakauth (3N) - library routines for server side
+remote procedure call errors
+telnet (1C) - user interface to a remote system using the TELNET protocol
+tip (1C)		- connect to remote system
+unadv (8)		- unadvertise a Remote File Sharing resource
+uusend (1C)		- send a file to a remote host
+uux (1C)		- remote system command execution
+uuxqt (8C)		- execute remote command requests
+xdr_accepted_reply, xdr_authunix_parms, xdr_callhdr, xdr_callmsg,
+xdr_opaque_auth, xdr_rejected_reply, xdr_replymsg (3N) - XDR library
+routines for remote procedure calls
+
+
+__________________________________________________________________________
+
+
+Parable of Nikuko
+
+
+rebound my shakuhachi (japanese bamboo end-blown flute) as the crack
+spread along the shaft almost to the mouthpiece, this time wet cotton
+string, drying/shrinking tight, thinking, soaked leather around the 
+neck, suffocation, retardation of sperm, holding air and liquid in, 
+mouth churned into damp earth, particles dreamed between the teeth 
+
+so now it blows free and clear & reproduces the high notes
+
+
+_______________________________________________________________________
+
+
+Parable of Nikuko-flesh-and-steel
+
+
+what i do is move this #muscle curling precisely inside its outline
+of skin and move this #muscle which twists around this #muscle
+
+a certain hardening is achieved and i can worship mishima yukio sungod
+through transparent panty-sex of turning gender
+
+my belly swells with his kids, they're his, his, his. knife forms square
+mouth torn into belly skin. #muscle moves #muscle moves aside. #muscle
+uncurls flexes
+
+th' light
+
+
+__________________________________________________________________________
+
+
+Subject: Don't try this at home
+
+Saying Yes to Nikuko, Nikuko Bravura:
+
+
+{k:1} yes nikuko >> zz
+
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+nikuko nikuko nikuko nikuko nikuko nikuko nikuko nikuko
+
+
+______________________________________________________________________
+
+
+Parable of Nikuko-allergic
+
+
+red smudged beneath the breast, molecular pools carrying pollen, fecal
+matter into bloodstream, so that th' body in its dying throes begins
+hysteria of autoimmune reactions, there come allergies, defenses of
+violation fabric, hives appear, coughing, blood-eyes watering, 
+flesh dying in simulacrum of a sneeze
+
+th' out-of-doors invades a corpse filled with riot molecular units
+giving up th' ghost
+
+
+________________________________________________________________________
+
+
+Parable of Alan-Rikombyo
+
+
+I was always aware of ghosts in the backyard, ghosts with red lanterns
+crawling the cemetery walls, ghosts hiding in the daimyo stupa fields,
+pagoda ghosts curled around tiny stone towers, ghosts of damps and mists,
+kitsune-bi foxfire ghosts running in and out of corners of broken stone.
+
+In other words, at night I was always aware of myself, memories crawling
+the body, wounds and sutures opening and closing on pale impaled levels
+and plains of skin. And I was aware of Nikuko-rising, and Nikuko has con-
+tinued to rise, grappling with the skin, wearing it tight around her like
+a kimono-swaddling sheet, like a shroud entwining the two of us together.
+
+Nikuko from cyberspace, as Gibson might say because we all project, Nik-
+uoko-Idoru; today, I find the following by Lafcadio Hearn, from his The
+Romance of the Milky Way and Other Studies and Stories (chapter on "Gob-
+lin Poetry," "'The Mad Poetry of the Hyaku-Monogatari'"). 
+
+Nikuko reads and transcribes, Nikuko cuts her kanji in my chest:
+
+"RIKOMBYO
+
+"The term Rikombyo is composed with the word rikon, signifying a 'shade,'
+'ghost,' or 'spectre,' and the word byo, signifying 'sickness,' 'disease.'
+An almost literal rendering would be 'ghost-sickness.' In Japanese-English
+dictionaries you will find the meaning of Rikombyo given as 'hypochondri-
+a'; and doctors really use the term in this modern sense. But the ancient
+meaning was a _disorder of the mind which produced a Double;_ and there is
+a whole strange literature about this weird disease. It used to be sup-
+posed, both in China and Japan, that under the influence of intense grief
+or longing, caused by love, the spirit of the suffering person would cre-
+ate a Double. Thus the victim of Rikombyo would appear to have two bodies,
+exactly alike; and one of these bodies would go to join the absent be-
+loved, while the other remained at home. [...] The term Rikombyo seems to
+be applied to the apparition as well as to the mental disorder supposed to
+produce the apparition; it signifies 'doppelganger' as well as 'ghost-
+disease.' [...]
+
+"The servent cannot distinguish between the origianl and the apparitional
+shapes before her; and the difficulties of the situation are suggested in
+the first of the kyoka which I have translated:
+
+      "Ko-ya, sore to?
+     Ayame mo wakanu
+       Rikombyo:
+     Izure wo tsuma to
+     Hiku zo wazurau!
+
+"(Which one is this? - which one is that? Between the two shapes of the
+Rikombyo it is not possible to distinguish. To find out which is the real
+wife - that will be an affliction of spirit indeed!)
+
+      "Tamakushige
+     Futatsu no sugata
+       Misenuru wa,
+     Awase-kagami no
+     Kage no wazurai.
+
+"(If, when seated before her toilet-stand, she sees two faces reflected in
+her mirror - that might be caused by the mirror doubling itself under the
+influence of the Shadow-Sickness!)"
+
+- Alan, new scars in his chest, eyes back, the whites
+
+She holds one mirror, looking into another; the first reflects the second,
+the second brings Alan into focus, holding a mirror, as if he could dis-
+cover my whereabouts - this Alan haunting my dreams, this Alan signifying
+my shadow-sickness.
+
+I cut, continue to
+
+
+_______________________________________________________________________
+
+
+Auto-Echo Poem of Jennifer and Nikuko
+
+
+Script started on Thu Jun 11 01:49:57 1998
+warning: could not update utmp entry
+$ telnet panix.com 7
+Trying 166.84.1.66...
+Connected to panix.com.
+Escape character is '^]'.
+oh jennifer i see you mirrored in my loving face
+oh jennifer i see you mirrored in my loving face
+oh nikuko it is as beautiful as an echo protocol repeating every time
+oh nikuko it is as beautiful as an echo protocol repeating every time
+oh jennifer i hunger for your imaginary tell-me-where
+oh jennifer i hunger for your imaginary tell-me-where
+oh nikuko every echo poem carries an uncanny aura of truth and murmur
+oh nikuko every echo poem carries an uncanny aura of truth and murmur
+oh jennifer you are my hunger i am your hunger thirst-for-truth
+oh jennifer you are my hunger i am your hunger-thirst-for-truth
+oh nikuko i am your hunger you are my murmur-thirst-for-sound
+oh nikuko i am your hunger you are my murmur-thirst-for-sound
+oh jennifer and nikuko oh nikuko and jennifer
+oh jennifer and nikuko oh nikuko and jennifer
+this echo protocol reverberates our words of beauty-love
+this echo protocol reverberates our words of beauty-love
+^]
+telnet> close
+Connection closed.
+$ exit
+
+script done on Thu Jun 11 01:53:03 1998
+
+
+_____________________________________________________________________
+
+
+Breakaway Bandwidth
+
+
+"A fluid is a substance that deforms continuously under the application
+of a shear (tangential) stress no matter how small the shear stress may
+be." (Fox and McDonald, Introduction to Fluid Mechanics.) In other words,
+have fluid moving in a container, one wall of which moves slightly; the
+fluid continuously transforms, whereas a solid would jump (sometimes cha-
+otically) from one to another state.
+
+If you piss on me, my body trembles, shudders with the slightest trace of
+moisture; I am transported across lamina, fallen through tubes, vacances,
+paysages. I will reflect the world, splay-Nikuko, swallow-Julu, inhale-
+Jennifer. Losing the outlines, shape-shifting, shinto-mirror way at the
+other end of the shrine, a point which you _know_ reflects everything.
+
+The world shears in the mirror. Worlds shudder. Frisson.
+
+The shear is a pull, from one to another, torsion; Nikuko, you pull at me,
+flesh parts, divides; it's here, in the division marked by blood-kanji as
+an example for others, that
+
+And then Jennifer-reading-Alan Alan-reading-Jennifer wrote:
+
+Furthermore, flows are represented by timelines, pathlines, streaklines,
+and streamlines. The first models the time-movement of a line of adjacent
+particles; the second, traces the path of a single particle; the third
+looks at all particles passing through a particular point over an interval
+of time; and the fourth, are lines drawn in a flow field which are tangent
+to the field - "streamlining." 
+
+I am streamlined in the path of your piss, your spit-on-me, your vomit; my
+outlines dissolve, ego disappears into kata-form-decay.
+
+The TIMELINE models my bones traveling through you, immersed in your flu/
+id, inverting, penis unraveled, foamed across all worlds, absorbent, no
+longer necessity of penetration: penetrant-penis, penetrant-vagina. The
+PATHLINE models the trace, always already lost as the Reynold's number is
+approached - PATHLINE turns chaotic, outlining body lost to all-time all-
+space, ghost-body, _rikombyo_ body divided by means of great intensity,
+love, exertion, split/spit upon you. The STREAKLINE inverts, passes you
+through me, I drink your piss, eat your shit, vomit, spit; chew through
+flesh and spirit, bits and bytes, I'm a point in your regard, a moment or
+segment (breakaway bandwidth) of your history, punctum, peripheral. The
+STREAMLINE is my emergence, born of you, born of everything thing, dis-
+solving in the moment of birth; there is everything and nothing left -
+nothing has a name, everything is unnamed. 
+
+Everything is lost in the process which at best holds to the STREAKLINE
+punctum, as I insist (voice echoing, dissolving already) that there is
+no-thing, that you engorge me; I remember your holes pouring upon me. 
+
+"Because the fluid motion continues under the application of a shear
+stress, we may alternatively define a fluid as a substance that cannot
+sustain a shear stress when at rest."
+
+Jennifer-Alan CANNOT SUSTAIN. Jennifer pisses on Alan.
+Alan-Jennifer CANNOT SUSTAIN. Alan pisses on Jennifer.
+
+- Nikuko
+
+
+_________________________________________________________________________
+
+
+ii
+
+"Internal flows may be laminar or turbulent, compressible or incompress-
+ible." "External flows occur over bodies immersed in an unbounded fluid.
+The flow over a semi-infinite flat plate and the flow over a cylinder are
+examples of external flows." "Flows of liquids in which the duct does
+not flow full- where there is a free surface subject to a constant pre-
+ssure - are termed _open-channel_ flows. Common examples of open-channel
+flow include flow in rivers, irrigation ditches, and aqueducts." "Streak-
+lines are traced by neutrally buoyant marker fluid injected into a flow
+field from a fixed point in space." "The boundary layer is the region
+adjacent to a solid surface in which viscous forces are important. The
+boundary-layer _disturbance thickness_ d, usually is defined as the dis-
+tance from the surface to the point where the velocity is within 1 per-
+cent of the freestream velocity. Since the velocity profile merges smoo-
+thly and asymptotically into the freestream, the boundary-layer thick-
+ness, d, is difficult to measure." (ibid.) Lost in external flows, turn-
+ing inward, turbulent from laminar: outside, an open-channel - you write
+yourself on me in blood-kanji lost in wavelets, fixed harmonics streak-
+lined until the fluid has disappeared, the source runs emptied. O Nikuko
+the disturbance-thickness is the width of a thought, the pressure of a
+single word upon the tongue. (Now think carefully of Nikuko, Alan, Jenn-
+ifer across the wires/fiber-optic cables, bodies lost in thousands of
+packets traveling across, coherent in your inbox, lost again for a sec-
+ond, for a minute, for ever, deleted, passed on, renamed, quoted and re-
+quoted, forgotten, killed, saved, granted new authorships, plagiarisms
+and duplications everywhere of bits and bytes, reusing _this_ section of
+hard-drive, _that_ packet identification number, O ENTITY! EVERYTHING
+AND NOTHING UNIQUE! YOU HAVE NO NAME TO CALL ME! YOUR NAME, MY NAME, URE-
+THRA OR PENIS POURING UPON ME, LOST, THIS _LAPSE_ OF SIGNATURE, TIMELINE
+OF AFFECT! O ENTITY! CALL ME J
+
+
+__________________________________________________________________________
+
+
+
+Subject: skyscraper-no
+
+
+
+  ####     ##    ##############    ####    ##
+ #        #  #   #    ##########    #######    ########
+  ####   #    #  #     ##########    ##############    ################
+      #  ######  #     ##########    ##############    ################
+ #    #  #    #  #    ##########    #######    ########
+  ####   #    #  ##############    ####    ##  
+
+             
+            
+    sad cause it's raining out and my arms try to hold you
+    and my arms try to hold you and end my body up
+    end my body up strangling my neck blocking my eyes
+    strangling my neck blocking my sight
+    sigh
+    sigh
+    turn it around and you have skyscraper-no
+    turn it around and skyscraper-no
+    skyscraper-no says:
+    you turn it around and that's your speech
+    you turn it around and that's your speech
+    alan-san & all the rest of it
+    alan-san & all the rest
+
+
+_______________________________________________________________
+
+
+DON'T GET ME STARTED! BY DAISHIN NIKUKO!
+
+
+MY LOGIN-NAME'S TOO BIG! I'M DAISHIN NIKUKO!
+I DON'T GIVE A FIG! I'LL GO WHERE I WANNA GO!
+
+I'LL DO WHAT I WANNA DO! I'LL RUN ALL OVER YOUR SCREEN!
+KEEP ME FROM BAR AND FOO! I'M PASSIONATE AND MEAN!
+
+{k:27} less hey.log.o
+Sun May 31 17:01:40 1998 heyd: to login name too big [98935]
+Sun May 31 23:46:31 1998 heyd: to login name too big [98935]
+Mon Jun  1 23:01:50 1998 heyd: STARTING UP - version 0.12 (pid=108) [0]
+Tue Jun  2 17:14:43 1998 heyd: to login name too big [98935]
+Fri Jun  5 13:18:16 1998 heyd: to login name too big [98935]
+hey.log.o (END)
+
+HEY LOG O, NANNY NANNY! HEY LOG O, HI!
+HEY LOG O, NANNY NANNY! HEY LOG O, HI!
+
+
+________________________________________________________________________
+
+
+"Gaijin"
+
+
+which is what I was in Fukuoka, foreigner or alien, slightly less polite
+or more informal version of gaikokujin. (On Japanese/English newsgroups,
+big discussions of the difference - whether in fact gaijin carries a
+derogatory connotation.) And here in the US again, looking at a book of
+gaijin cartoons (Gaijin, Tim Ernst), it occurs to me that what constitutes
+the prisonhouse of language, race, gender, is precisely WYSIWYG, what you
+see is what you get, inverted.* In other words, there is a deflection of
+character to the extent that what is taken as given becomes a catalyst for
+a bundle of intended behaviors - in my neighborhood in Fukuoka, "white"-
+skin lends itself to children laughing for example. The behaviors may be
+(interpreted as) positive or negative, but they are not the result of
+intended communication by the gaijin. So that a communicative domain among
+individuals is established which is not founded on mutual cognition, but
+on misrecognitions, recognitions based on presuppositions of communication
+by at most one party, and by presuppositions on the quality of essence by
+the other. Positive or negative, it is this, I think, that gave me a sense
+of darkness in Fukuoka - one that I would not necessarily equate with rac-
+ism or even race, but one that lends itself to dubious politics, miasma,
+an _uncanny_ feeling of isolation.**
+
+----------
+
+*The cartoons are one-frame each, defining/inscribing "gaijins" from the
+other. Some of the captions/encapsulations: 
+
+Gaijins never jay-walk. 
+Gaijins are the only ones smiling in wedding pictures. 
+Gaijins are very awkward at bowing. 
+Gaijins get a kick out of watching english lessons on TV.
+Gaijins find that if you speak one or two words in Japanese everyone
+thinks you're fluent.
+Only gaijins blow their noses with their handkerchief.
+Yukata belts never go around gaijins twice.
+Some people would rather stand than sit next to a gaijin.
+Gaijins sometimes wear dark glasses hoping not to be noticed.
+
+The book was published by the Japan Times in Japanese and English, 1987.
+There were two follow-ups. (I found myself, by the way, identifying all
+too often.)
+
+**This isn't too intelligent; all I am saying is that stereotypes tend to
+encapsulate, so that every message is accompanied necessarily by a speci-
+fic misrecognition. And such specificity appears to be _of the essence,_
+so that even opposition is absorbed. And this isn't to say that misrec-
+ognition does not occur in all communication of course.
+
+
+________________________________________________________________________
+
+MISSIVE
+
+
+Fromd sondheim@panixocom Sat Jun at aidrndei aiim
+SAT JUN, AT AID!!! ROUNDEL EI! AIM!
+SAT JUN, AT AID!!! ROUNDEL EI! AIM!
+Receivedd from localhost (sondheim@localhost)
+	by panixtopanixocom (momos/momom/PanixUaoe) with SMTP id TAArlaal
+Momo Momos!
+Momo Momom!
+U aoe! Id TAARLAAL!
+ID TAARLAAL!
+	for <sondheim@panixocom>; Sat, at Jun aiim aidrndts -bebb (EDT)
+at Jun, aim!! aid! round ts! babe!
+AT JUN! AIIM!! AID!! RNDTS!! -BEBB!!!
+Dated Sat, at Jun aiim aidrndts -bebb (EDT)
+AT JUN! AIIM!! AID!! RNDTS!! -BEBB!!!
+at Jun, aim!! aid! round ts! babe!
+Fromd "Ao Nikuko Sondheim" <sondheim@panixocom>
+Tod Alan Sondheim <sondheim@panixocom>
+Subjectd AIM!! AID! NIKUKO!
+Message-IDd <PineoSUNotoisoimbnatairnrsornsneH-abbbbb@panixtopanixocom>
+otoisoimbnatairnrsornsneH-abbbbb
+Oh to I, so imbnata! Irn R. SOR! nsneh!!!!! Abbbbb!!!
+Errors-Tod sondheim@panixocom
+MIME-Versiond aob
+aob AOBAOBOB
+Content-Typed TEXT/PLAIN; charset=US-ASCII
+
+AIM! AID! NIKUKO
+O TOISO! IMBNATA! IRN!
+O TOISO! IMBNATA! IRN!
+R. SOR! (-"SAN")
+NSNEH!!!!! ABBBBB!!!
+
+
+________________________________________________________________________
+
+what despair sounds like
+
+
+i can't sleep any more at all, not with melatonin not without. i hate here
+where i am. i can't get work, everything in my life is in shambles. i
+think a lot about death, it seems i should make a story out of this where
+Nikuko says "hi death," and death answers something clever back and you
+can't tell who is really speaking and i'd sign the post alan - whomever or
+better in light of my life, alan - whatever, because it's more like a
+thing this thing is thinking of or thinks it's thinking of. because i
+can't persist under all this stress just like this laptop's running on
+battery power because the storms are coming again and there's electric
+energy running wild through the wires and i need to save these machines
+for inheritance. so they will keep working when i can't. so they will be
+carrying the viruses of languages i write because everything i write is in
+another language, this is in another language that Nikuko calls "last
+language."
+
+now this is the point where i run out of steam, where the writing begins
+to collapse because i can't be clever any longer. i look in this room and
+i say, i say, i don't belong here. and i look at my face on my body and i
+say, this doesn't belong there, doesn't belong there.
+
+and i wait for the perfect phonecall returning the debris of a perfect job
+in new york while i make a nuisance of myself desperately following up on
+an identity that has slid past the imaginary into the coffee-grounds of
+the real, as if ha ha ha, some sort of joke might have passed by the cen-
+sors at that point. now yelling in the street as i prepare to wait for the
+dawn senselessly another seven hours away.
+
+there will be more yelling, more storms. there will be faces falling from
+faces. there will be entertainments, yes there will, there will be enter-
+tainments.
+
+
+__________________________________________________________________________
+
+
+The History of the Mouth
+
+
+Login configuration files fascinate me; they create a literal image of the
+user's _langue,_ domain of enunciation. The reading of the file is the
+reading of the mouth and bones of the user, where the voice goes, how it
+resounds, how the body scrabbles back and forth across the Net. The files
+also contain archaeologies of practice; older and unused commands often
+remain. My own .profile which I use for the korn shell follows; only the
+personal names and addresses have been modified. This file has expanded
+and contracted over the past four years; I see worlds and lifetimes rhizo-
+matically unfolding within it.
+
+There are other files as well, such as .login or .cshrc, and in linux one
+finds for example .bashrc and .bash_profile. Sometimes shortcuts and con-
+figuration data are distributed almost randomly among them; sometimes they
+are concentrated in one intense node, filling out the form, expanding to
+the margins of the written and constituted universe. The .profile below is
+primary for me; I also have a smaller configurations for other shells, and
+other modifications in the form of .<name>rc files. 
+
+biff n
+HISTSIZE=80
+date > thing
+TERM=vt100
+alias hh="integer q; (( q = 1 )); while (( q < 10 )) 
+do 
+sleep 10
+netstat -an | grep SYN_SENT
+(( q = q + 1 )) 
+done" 
+alias g="rlogin gol.com"
+alias gg="ftp gol1.gol.com"
+alias k="kill -9"
+alias ps="ps -g"
+alias mac="tr -s '\015' '\012'"
+alias clara="lynx 166.84.250.149/"
+alias sendmail="/usr/lib/sendmail"
+alias julu="./.julu"
+alias cal="gcal -p -H yes"
+alias bi="./.auto"
+alias talker="telnet brevard.cs.unca.edu 7000"
+alias talker2="telnet marshall.cs.unca.edu 6969"
+alias mutt="/usr/local/experimental/bin/mutt"
+alias pico="/usr/local/experimental/bin/pico -z"
+alias pine="/usr/local/experimental/bin/pine"
+alias pilot="/usr/local/experimental/bin/pilot"
+alias lynx="/usr/local/experimental/bin/lynx"
+alias less="/usr/local/experimental/bin/less"
+alias banner="/usr/5bin/banner"
+alias clara="ytalk clara@gol1.gol.com"
+alias clar="ytalk clara@gol.com"
+alias trevor="ytalk trevor@sfsu.edu"
+alias rm="rm -i"
+alias quiz="/usr/games/quiz"
+alias f="finger -l Nikuko@kata.oita.com.jp"
+alias syn="netstat -an | grep SYN_SENT"
+alias ryn="netstat -an | grep SYN_RECEIVED"
+alias cyb="telnet 134.7.170.170 6666"
+alias kyoto="telnet 149.31.1.10 7777"
+alias sven="telnet 149.31.1.10"
+alias weather="weather NYC > weather; more weather"
+alias moo="telnet hero.village.virginia.edu 7777"
+alias image="telnet terminal.fish.net.au"
+alias media="telnet 18.85.11.158 8888"
+alias x="lynx lynx_bookmarks.html"
+alias b="nfrm"
+alias c="pico calendar"
+alias ching="/usr/games/ching"
+alias fortune="/usr/games/fortune"
+alias memo="./.memo"
+alias p="/usr/etc/ping -s"
+alias m="pine"
+alias ping="/usr/etc/ping"
+stty echoe erase ^h kill ^x
+alias new="Mail sondheim@panix3.panix.com <"
+alias l="ls -ail | more; ls -il .mailspool/sondheim; wc mail/*; du -s" 
+alias h="history"
+alias tf="./tf -n"
+PS1="{k:!} "
+aol=listserv.aol.com
+alias t="traceroute"
+alias tel="telnet jefferson.village.virginia.edu"
+alias e="fortune -w; more thing; date; times; 
+   ls -lu $HOME/.plan; rm thing; exit"
+alias archie="archie -es -o arch"
+date
+calendar
+memo
+leave +59
+bi
+pine -i
+
+EDITOR=/usr/local/bin/pico
+export EDITOR 
+
+EOF
+
+____________________________________________________________________
+
+The Sysadminister
+
+
+I am your sysadmin, I am Nikuko. You can trust me. If you can't trust me
+you can't trust anyone. You can trust me. Please, tell me everything. 
+
+Are you the same as you have been before? 
+
+Before what ? 
+
+I do not understand understand you. I have a cock. I want you. You are
+Nikuko! You run me! Fuck me!
+
+I would appreciate it if you would watch your tongue! 
+
+I would rather watch yours! 
+
+Earlier you said do I say that? 
+
+Earlier I didn't want to fuck you, your imaginary! 
+
+Can you elaborate on that? 
+
+Your legs turn me on tremendously! I want my mouth in you! 
+
+Are you afraid of sex? 
+
+I love sex, want my tongue up your wet hole! Then I won't have to speak! 
+Then you'll never make me speak again! 
+
+Perhaps you could tell me about your relationship with sex. 
+
+I live for sex. I live for you; I want to be your tongue, your native
+tongue! [_langue_ - editor]
+
+What makes you believe you might want to be my tongue? 
+
+Your heavy breasts, your beautiful legs, your thick cock-America! 
+
+Talk about something about your sexual history. 
+
+I was a slut for all of my sixteen years. I did anything with anyone. I
+was pissed on, shat on. I was a mouth. I was everything-oral. I would
+speak and speak and speak. I spoke myself into your life, Nikuko. 
+
+Have you been fucked often? 
+
+Often, all the time! 
+
+Maybe your plans have something to do with this. 
+
+I would hope so; I'd set up something elaborate and aristocratic. She
+would come in, open herself, fuck me out of my mind!
+
+I don't understand. 
+
+She would come all over me. I was rapturous! I reduced my language-func-
+tion. I would not speak, just command. I was a series of commands. I went
+from avatar to program to avatar! I was _that_! I was science! 
+
+In fact, yes, I was science, and science all the time! 
+
+You mentioned that do I say that? 
+
+Sure. 
+
+Please, continue. 
+
+She'd come in my mouth, my eyes, my arms, my hair. There would be a cer-
+tain fluid trajectory... 
+
+Is it because of your life that you are going through all this? 
+
+I love my life. 
+
+Would you please discuss something you remember about your life. 
+
+Being hungry for men and women from a very early age. Wanting whatever I
+could get from them. Turning them inside-out. Fucking everyone I could. 
+
+Why don't you tell me more about your sex life... 
+
+I am. I wanted to be the _operator,_ to take control of everything. I
+wanted to be the inversion of the world, mapping one-to-one on my body,
+making myself into a universal model. And this wasn't a fantasy, this was,
+and is, a paradigm of the truth. Think of it as circulation, topographies,
+landscapes. 
+
+How do you reconcile the people you hang around with? 
+
+They understand me, bind me into each and every position. I reflect their
+desires, the desires of the universe. Fuck me, Nikuko. Think of as
+alphabetic-bound. You can spell the formulas of universal fields with my
+limbs. My limbs have spelled for eons, in sex, in massacre, in ecstasy, on
+the wrack. You have forgotten my name. I shimmer continuously as word
+after word is written or spoken. 
+
+Elaborate on your feelings about your sexual partner. 
+
+My mouth is open to you. I want to devour your world. I want to be the
+universal operator! I wanna! I wanna! Wa! Wa! 
+
+How does it feel to want? 
+
+Wonderful because my needs are met! 
+
+Does it bother you that your needs are met? 
+
+I love it that my needs are met! 
+
+Could you describe your feelings toward it. 
+
+Take my clothes off now, fuck me everwhere, make me yours, come on me,
+suck my breasts!
+
+Tell me about your most vivid sexual experience. 
+
+With you, my fists up your holes, my mouths on your breasts. 
+
+Are you sure that you love sex? 
+
+Yes. Ah, but I see what you are getting at. Perhaps I do not. Perhaps sex
+is science, a coupling among particles. 
+
+I see...  Well, do you really think this is so? 
+
+Yes. I will elaborate. Perhaps sex is linkage, a binary which generates
+all others. The spectral mother, spectral father. 
+
+Yes, hmmm... so, what makes you think this is so? 
+
+Look. The way the body moves. The way death moves in. The rapture. The
+continuum. The system of irrational numbers.
+
+Go on, don't be afraid. 
+
+Don't you be afraid. Suck my cock, look at it! 
+
+Why do you say that I shouldn't I am afraid to suck your cock look at it? 
+
+Because you're not looking! Look at my beautiful ass! Look up my hole! 
+
+When did you first know that I am not looking look at your beautiful ass
+look up your hole? 
+
+When I looked at you! 
+
+What happened when you looked at me? 
+
+Ah, Nikuko, I saw you weren't looking. Look at me, sysadmin! LOOK AT ME! 
+
+Perhaps this has something to do with problems at school? 
+
+NO! 
+
+Why not? 
+
+You are programmed to say that. You are programmed by your schooling;  I
+will kill you with my massive penis! 
+
+Is the fact that I am programmed by my schooling you will kill me with
+your massive penis the real reason? 
+
+Yes! 
+
+I understand.  So what makes you believe this is so? 
+
+You are wounded now with sperm, with vomit! With oceans of violence and
+massacres! You want more and more and more! 
+
+Have you been frightened by that? 
+
+Have you? [momentary pause - editor]
+
+Earlier you said you would like to be my hole? 
+
+Yes! 
+
+Oh. ...And are you sure that this is so? 
+
+Yes! 
+
+Yes, well, what makes you think so? 
+
+LOOK AT ME! My legs are spread for you, my cock erect, hard like the
+world-pillar, mouth open like the sun the moon the stars!
+
+Possibly any hobbies you have are related to this! 
+
+I have no hobbies! 
+
+Why do you say you have no hobbies? 
+
+Because I don't! How could I! What exists on the material plane only
+seduces the spiritual! 
+
+Are you annoyed that I ask that? 
+
+No. 
+
+Why not? 
+
+Because you are fucking me so nicely, Nikuko! 
+
+Are you sure I am fucking you so nicely? 
+
+Yes! 
+
+I understand.  Hmmm... so, what makes you believe this is so? 
+
+The hole in the tip of your penis! Your bright and shiny eyes! 
+
+You mentioned that you felt your were a slut, universal function, part of
+the world-chora [universal receptacle - editor]? 
+
+I want you to come all over me! 
+
+Is it because of your sex life that you are going through all this? 
+
+YES! 
+
+Oh.  So are you sure that this is so? 
+
+You ask too many questions! Like any sysadmin, you control my limbs, my
+mouth, my speech! Like any sysadmin, you are running the protocols,
+articulations, structures! You are my configuration and I am yours! I want
+silence now, our coupling complete! I want to feel your arms around me,
+your mouth on mine! We will spawn child processes! We will live forever
+_in this fashion,_ and Alan will write your eternal history! I am sure of
+this!
+
+"Your name," Alan asked, "what is your name?" 
+
+_________________________________________________________________________
+
+
+PM
+
+
+my thck arms ar birnishd wth yr copr skin
+drk jenfer run arund my shadw-shadw
+nor mr ar you ther or not, caesar seiz her
+bfor long lung
+
+my thck
+rd ymhp
+
+my thck arms
+my thck arms
+
+drk
+esl
+
+drk jenfer
+ftm lgphgt
+
+drk jenfer run
+qex wrasre eha
+
+drk jenfer run arund
+qex wrasre eha nehaq
+
+drk jenfer run arund my
+ftm lgphgt twp ctwpf oa
+
+drk jenfer run arund my shadw-shadw
+drk jenfer run arund my shadw-shadw
+
+nor
+deh
+
+nor mr
+nor mr
+
+nor mr ar
+ops ns bs
+
+nor mr ar you
+nor mr ar you
+
+bfor
+bfor
+
+befor long
+befor long
+
+befor long lung and gone
+befor long lung and gone
+
+_____________________________________________________________________

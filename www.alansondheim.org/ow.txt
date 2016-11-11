@@ -1,0 +1,1967 @@
+
+
+<<<<<<<<<<<<<< variant A
+
+A moment when I think I might just be able to transform anguish into
+philosophy. Of course that isn't true; one stays against the stays
+of the other, as if moving solo across phenomenological waters. I
+can't work this way. Is  make -k C:\dor.el
+Exiting due to signal SIGSEGV
+General Protection Fault at eip=0001b4cb
+eax=ff960000 ebx=ff960000 ecx=000002ac edx=ff970000 esi=00000000 
+edi=00004010
+ebp=000ba5ac esp=000ba598 program=C:\FSF\BIN\MAKE.EXE
+cs: sel=01a7  base=02ac0000  limit=7d52ffff
+ds: sel=01af  base=02ac0000  limit=7d52ffff
+es: sel=01af  base=02ac0000  limit=7d52ffff
+fs: sel=017f  base=0000e540  limit=0000ffff
+gs: sel=01bf  base=00000000  limit=0010ffff
+ss: sel=01af  base=02ac0000  limit=7d52ffff
+App stack: [000bb090..0003b090]  Exceptn stack: [0003aab8..00038b78]
+Call frame traceback EIPs:
+  0x0001b4cb
+  0x0002ddac
+  0x000254c5
+  0x0000b884
+  0x0001aeba
+cd c:/ make -k C:\dor.el Exiting due to signal SIGSEGV General
+Protection Fault at eip=0001b4cb eax=ff960000 ebx=ff960000
+ecx=000002ac edx=ff970000 esi=00000000 edi=00004010 ebp=000ba5ac
+esp=000ba598 program=C:\FSF\BIN\MAKE.EXE cs: sel=01a7 base=02ac0000
+limit=7d52ffff ds: sel=01af base=02ac0000 limit=7d52ffff es: sel=01af
+base=02ac0000 limit=7d52ffff fs: sel=017f base=0000e540 limit=0000ffff
+gs: sel=01bf base=00000000 limit=0010ffff ss: sel=01af base=02ac0000
+limit=7d52ffff App stack: [000bb090..0003b090] Exceptn stack:
+[0003aab8..00038b78]
+Call frame traceback EIPs:
+  0x0001b4cb
+  0x0002ddacthis philosophy, what passes for the movement
+of depressive faculties? 
+
+>>>>>>>>>>>>>> variant B
+
+
+
+Give The Female Pope a Rope
+
+
+Too often have the forces gone astray
+That force one's hand; and yet another day
+Brings nothing new. Everything is lost
+In this or other groping holocaust.
+I write the only way I know how to;
+Thus write reversed in letters as a Jew
+Who claims his right to silent speech,
+Lest some good offal - whom I won't beseech -
+States, nothing is the same between us two;
+You shouldn't speak unless you're spoken to.
+I raise my Vajra, Siva's darkling spell
+Holds me in thrall; I'll take you all to hell
+And back, and forth, and all across the town
+Of knaves and fools who want to hold me down.
+My writing blisters, cuts the flesh, and seeps
+Like acid on the eyes; the reader weeps -
+She sees naught, hears what? I cannot guess -
+Smells naught, breathes, and touches even less.
+I claim the right to both the West and East
+As Occident or Orient, I trample; I'm the beast
+Of World Wars Three and Four, not to mention Five;
+I flay men, women, children, skin theorists alive.
+To hell with them who take words as the hammer
+Meant for cruelty, for I'm a culture jammer:
+And just as you speak from your flesh and blood
+I speak your bones and body born of mud.
+I take your words, and turn them inside-out
+Until they scream forgiveness from your ugly mouth
+That squeals traitor, revelation's sin -
+You can't know what a State you've put me in.
+I'll name it: State of Exculpation, Fear -
+The State of Fabrication - I am the seer
+Who speaks with bloody mouth, speaks to one and all -
+Who leans with bloody back against the bloody wall
+Where traitors die, where theory sickens, stains
+While I remember boxcars, people, trains.
+While I remember Beirut, Iraq, Iran,
+Theory steps, confers, and to a man
+Or woman sets up condemnation
+In no uncertain terms! It tells the nation
+Hold back, desist, go home, now end the war!
+Books appear, and seminars, and more!
+And manifestos filled with deconstruction,
+Petitions, mandates, anything that sucks on
+The use, employment, of illicit power -
+For theory triumphs! This is theory's hour!
+I'm on my side and I can only urge
+I'm recognized as enemy or sourge -
+It's all there, attested-to, I'm sure
+Celia shits on me, my writing's but manure
+Without the Jewels men wear; please don't sift -
+There's nothing down there, just ask Doctor Swift.
+
+
+
+
+
+
+
+Recent Events on Nettyme
+
+The Sun clouds o'er, the Golden Hour -
+All Men love a Golden Shower -
+The Female Pope sits in her Bower -
+But never fear - I won't eat Kali's Flower.
+
+
+
+Text for Geneve performance this Freitag
+
+
+Dance. How can I make this entertaining? We shall witness
+men and women amputated at the brain! They cannot think!
+They can only dance! Dansez Dansez! Oui, c'est tout! Pourquoi?
+They are ne real pas, ils dansez le "reel." I make a map of this
+dance. Je fabrique un plan von der Unterwelt. They have no legs.
+They have no arms. Quel dommage! Pourqoi? POURQUOI? 
+Parceque ce'st mois! La Divine! Ceas vrai! Wirklich! I will make
+their interieures! Inside them! You will see!
+
+Dance, alas, how can I ever make sense? Together we shall see
+human beings with brains and minds cut out! They can't think!
+They never could! All they can do is dance! Well, really, is 
+that all? Why for the Sake of God! They're not real now, are
+they? They dance the reel! They dance the jig! I'll make a 
+pretty picture of this dance! I'll make a map of the Underworld!
+They have no legs! They don't have arms either! They don't have
+brains either! They don't have minds either! This is terrible
+damage! I am a cheese! Why, WHY? For the love of the Dear Lord!
+Because it's me! I made them! I'm the Author of the World! The
+Divine! The Divine Sarah Bernhardt! The Jew! It's True! Really!
+I will make their interiors! We'll go inside them! You and I,
+we'll go inside their bellies! We'll wear the Pubic Hair! You'll
+see! Just wait! You'll see!
+
+Bonjour, salaam, shalom, hello! I will kill myself! Why is this
+night different from all other nights? Because I am here? These
+are my people! My little people! They run around the room! I 
+play my harmonica for you. A little aire, a tiny aire, surely
+something you have heard before?
+
+Hello, yes, peace be with you, hello! I commit suicide! Humans
+must die so that the world survive? On Chanukah I fled. Is
+Geneva safe for Jews? They are my people! My avatars! My little
+people! They run around everywhere, underfoot. I will play a 
+song, a little aire, a jig or rondelay! I'm sure you have heard
+everything already. In English we say, "I've heard everything!"
+"I've heard enough!"
+
+I send my voice my voix my Sprechstimme my Alpine Chough across
+Space and Grid. Grid breaks space. Une grille for viande. Yes, 
+it is True. Space breaks on Grid, Space is lost, gone. What 
+remains is Grid. I can say une Grille? C'est possible? Oui? Non?
+Dienstag. Space Crackles: craqueter. There are sparks, etin- 
+celles; the Grid disturbs Volume. VOLUME IS A SICKNESS, maladie.
+Of this I am certain. WHAT IS INSIDE, IS OUTSIDE. WHAT IS OUT-
+SIDE, IS INSIDE. Empty the balloons! Videz les ballons!
+
+I send my voices across the wires, Schoenberg's voices, the 
+sounds of birds in the Alps, across the universe, Descartes,
+Cartesian. The universe is meat, it's true. The universe cooks
+the universe, watch out! The fire sparkles, crackles! But here:
+VOLUME IS A SICKNESS: there are no things but interiors. From
+which some light remains, inside, indoors, next to the fire, in
+the kitchen. The balloons from the birthday party deflate!
+They lose air! Empty the balloons! Long live the balloons!
+
+We breathe, we suffocate; we are numbered: Abu Gharayb, Bergen-
+Belsen, Baghdad, Saigon. The others, Les Autres, are always 
+numbered. Regardez-moi: not 650000 dead in Baghdad, les mortes,
+but 650,000 - you see? The number divides, the number is divided
+- the comma, virgule, makes all the differance (vide Derrida).
+DO WE NOT BREATHE AS ONE PERSON? ARE WE NOT HUMAN? souffler, 
+suffoquer. My little figures... they are not real... alors...
+
+We breath or try to breath; we are robbed of air. Every one is
+a number, 1,2,3, towns and prisons, Auschwitz Tibet Beirut, in 
+Amerika we have secrets. In Amerika we torture. Amerika is not
+my country, slaughter-house Amerika. Torturer. My Amerika is
+not real. My Amerika swallows my America. 
+
+It was different back then... our history, our armoire...
+
+My little figures... they are not real... When I make them, I
+travel through them. Then... they are flat, flattened... plat,
+platitude, pur. dhamman saranam gacchami langue parole langage
+baggage bagage. My cornemuse. My avatars speak with a thousand
+voices. Mon poupees.
+
+My dying people, my fucking people, they're real and they're 
+not real. When they make me, they travel through me. Then, I'm 
+blown up like a poupee, a balloon, a corset in disguise. Take
+refuge in the truth, in unknown languages, encased in bagpipes.
+Yes, Languages in bagpipes! It's true, it's still true! My 
+avatars murmur constantly, you can hear them just beneath the
+surface, in my heart, my little gasps of air, my little dolls.
+
+
+
+
+
+Harmonitons
+
+
+The old familiar file, FIle: zz
+
+Everything happens here http://www.asondheim.org/soliton1.mp3
+Everything happens here http://www.asondheim.org/soliton2.au
+Everything happens here http://www.asondheim.org/soliton3.au
+
+- always engorged with something new. They say it's digital here (no, 
+it's cold here!). They say you can fall between one letter and another - 
+but just try it! (Go ahead, break the screen!) 
+
+Somebody made me color and somebody made me another color.
+You've heard this all before, but what? This particular speech? These 
+roars, worthy of Lovecraft?
+
+Every voice has a throat. No voice has a throat. Throat = chamber. 
+I've heard these screams before shuttled across the u-s-a.
+
+When I hear these, I think of shortwave. And they were just as hard to 
+tune in. Antenna tuning = packet/codec tuning.
+
+These travel partcularly fast. When I found myself sleeping our cat had 
+grown to enormous size - rising against me, these sounds.
+
+
+_
+
+
+INTERFERENCE 
+I have no idea how to begin. These pieces are explorations
+of dance-movement translated into alien spaces. This is sound bounced 
+from New York to Chicago then back to West Virgnia then back to New 
+York using Internet 2. Everything is out of sync. Thiis is Foofwa's 
+dance troop doing a synchronized exercise from "swimming."
+It's difficult to figure how to get into this material for me. For one 
+thing the laptop was acting up. We found a toy gun in California and 
+scanned it in West Virginia - deconstructing it atthe same time. Ok we 
+did this with a tree as well
+This will go on until I stop it.
+Sometimes you get up in the morning and its not the right thing to say. 
+Do you know the United States is at WAR with Iraq!? I found out today - 
+that's really bad. They were looking for illegal immigrants and look 
+what they came up with - WEAPOONS OF MASSSSSSSSSSSSSSSSSSS 
+DESTRUCTION~! I knew my United States
+             MY UNITED STATES!!!!!!!!!!!!!!!
+would come through in the end. And everybody thought that Bush was a 
+two bit terrorist who was anti-gay? Whatever happened to his daughters? 
+They're probably fucking Rumseld.
+I look on this as therapy. While I'm playiing with software programs 
+(the very latest!_ (not really)) - there are a numbetr of species going 
+extinct per hour.
+But they can all move to the Arcitic. By the way polar bears have 
+turned cannibal and elephants are raping other species - this is true - 
+as animals find their habitat disappiearing. What these abstract imags 
+ar -
+the body is divided into 17 segments and these are then captured while 
+a dancer moves - the movements are captured - and then - then you can 
+map them on to for example people - 
+These people practiced for weeks to get it right and I had to pay them 
+to get naked.
+Now we can take this mapping of figures onto figures - dancers onto 
+avatar dancers - and we can map into entirely new spaces and content - 
+So this is a dancer transformed.
+Well hell this has no use whatsoever but I'm fascinated by the 
+extentions of the body - When you play around with software like this 
+you can enter the world of dreams so quickly...
+I can't find my way outshide this world.
+
+Dance. How can I make this entertaining? We shall witness
+men and women amputated at the brain! They cannot think!
+They can only dance! Dansez Dansez! O Here is Azure being scanned. The 
+laser destroyed one of my cameras. I have learned not to work in the 
+real world. ui, c'est tout! Pourquoi?
+
+They are ne real pas, ils dansez le "reel." I make a map of this
+dance. Je fabrique un plan von der Unterwelt. They have no  Now in 
+order to get away from legs I have moved into the interior of 
+avatars... So this is what it looks like from inside -
+
+They have no arms. Quel dommage! Pourqoi? POURQUOI? 
+Parceque ce'st mois! La Divine! Ceas vrai! Wirklich! I will make
+their interieures! Inside them! You will see!
+I forgot the trees. Here is a tree being scanned by a laser sending the 
+signal out - From here you can move deep into the dtree .. there are 
+other things to see.... You can see the laser burn.
+The best way to proceed I think is to hmmm... Is to go into the real 
+world as little as possible... and then bring back whatever you need 
+like going to a 7-11 or something - Is this going ok Foofwa? Uh it 
+seems to lack coherency. I wish I was home making new avatars on my 
+computer to fuck with.
+Later no earlier
+in 2006 I don't know what happened, I showed work - real pieces of 
+things and computers - in Los Angels - you can actually stumble over 
+wires once you leave home.
+One absolutely has to know how to inhabit theoretical digital space. 
+Every other space will become poisonous. This space now this space here 
+- this space is a ruler being taken apart by a laser - you can study it 
+and see how measurement began.
+I keep thinking I've got some terrible disease and am just about to die 
+(SOB!) so I need your sympathy vote!
+This is my partner Azure Azul being deconstructed on a bad hair day. So 
+I'm thinking of war and extinctions and the nightmare the world is 
+turning into and atomic bombs going off and being unable to sleep and I 
+can't help making stupid jokes. Like the maarx brothers - it's a kind 
+of immigrant fever -
+More mapping of dancers. Foofwa is the only person I know who could 
+dance this.
+The advantage of a dancer: You'll have your body at the end of the 
+world. 
+The disadvantage of a dancer: You'll have your body at the end of the 
+world.
+And you will send signals to yourself.
+You will send signals to yourself.
+You'll look in the mirror and say hello world.
+And nothing will say anything back.
+Not even you.
+Susan Sontag I think wrote about the tens of thousand of birds that 
+died at 9/11.
+In New York they erected a memorial of lights. The lights went high in 
+the sky and interacted with migrating flocks of birds.
+Ten thousand birds died because of the memorial.
+So the question is: How do you make art - not after Auschwitz -
+but IN Auschwitz? Because we are at the gates and work arbeit does 
+nothing for us.
+
+Dance, alas, how can I ever make sense? Together we shall see
+human beings with brains and minds cut out! They can't think!
+They never could! All they can do is dance! Well, really, is 
+that all? Why for the Sake of God! They're not real now, are
+they? They dance the reel! They dance the jig! I'll make a 
+pretty picture of this dance! I'll make a map of the Underworld!
+They have no legs! They don't have arms either! If I could dance - if I 
+could really dance - I wouldn't be doing any of this - why bother? You 
+have your body on your back and your back on your body and that's all 
+you'd need.
+When you look at the world correctly, on what basis can you do anything 
+at all?
+Hello I am the world. I don't have anything at al. They don't have
+brains either! They don't have minds either! This is terrible
+damage! I am a cheese! Why, WHY? For the love of the Dear Lord!
+Because it's me! I made them! I'm the Author of the World! The
+Divine! The Divine Sarah Bernhardt! The Jew! It's True! Really!
+I will make their interiors! We'll go inside them! You and I,
+we'll go inside their bellies! We'll wear the Pubic Hair! You'll
+see! Just wait! You'll see!
+
+Bonjour, salaam, shalom, hello! I will kill myself! Why is this
+night different from all other nights? Because I am here? These
+are my people! My little people! They run around the room! I 
+play my harmonica for you. A little aire, a tiny aire, surely
+something you have heard before?
+Because we can bounce sound around the world like this.
+But we can't stop trade in rhino horns.
+Azure struggles with the avatar. The avatar has to avoid the swords. 
+The swords make the avatar angry. Azure writhes in pain. If she moves 
+she will be cut by the swords.The swords are dream sword.s They do not 
+exist in reality. In reality I am home at the moment comfortably seated 
+in front of my computer. And Im working on new exciting software 
+programs called
+RHINO
+WEAPONS OF MASS DESTRUCTION
+ABU GHARAYB (fun to play!)
+Guantanamo 
+Afghanistan
+North Korea
+Pakistan
+United States
+China
+This is how I imagine EMPIRE - something in the form of a dream. And if 
+EMPIRE stays a dream then everything
+then everything will be 
+then everything will be okay.
+Then everything will be okay.
+
+Thank you.
+
+
+
+
+The Descent into Being
+
+
+http://www.asondheim.org/cath.mov
+"It's not a dream anymore."
+
+
+
+
+pas d'une
+
+
+In the distant future, a dancer will be seen, at the edge of the space 
+of dance, immersed in her world, 
+Ah shall this dancer be nameless, shall skull-bones, dust-bones tell 
+any story other than that of a misidentified corpse,
+Shall grace still be among them, graciousness, will this remnant speak,
+of a world in which some were still peaceful, unwilling to slaughter, 
+unwilling to be slaughtered,
+For the youth of a dancer is lost, before the dancer's youth, and the 
+dancer's body is lost, before the body of the dancer,
+And that so early and lone among the furious travesties of a wounded 
+world, 
+And the cause, and the choreography, and the choreographer, all lost,
+And the circle of friends, gone, gone, even the idea of friendship,
+And names and places and languages, all, gone and all gone,
+This trace of the dancer remains, against the wall of plague and 
+pestilence, against the wall of radiation, wall of heat and inundation, 
+wall of fire and thirst, wall of starvation,
+"no one to see the trace, no one to remember, nothing to remember, no 
+memory at all,"
+No dancer walking now among us, dancing in the corner of a stage in 
+Geneva, immersed in the world of dance, immersed in the dancing world.
+
+http://www.asondheim.org/maudlone.mov Maud Liardon before performance
+
+
+
+no data available
+
+
+weather Geneve
+
+/wx/data/DAT/EXT/GEN.EXT
+/wx/data/DAT/BER.DAT
+/wx/data/DAT/XXX/LAU.XXX
+/wx/data/DAT/CUR/DAV.CUR
+/wx/data/DAT/ALE.DAT
+/wx/data/DAT/ZUR.DAT
+/wx/data/DAT/BRI.DAT
+/wx/data/DAT/LAC.DAT
+/wx/data/DAT/EGG.DAT
+                         
+weather Carrouge
+Weather Conditions at 12:54 AM EDT on 23 Oct 2006 for Caribou, ME.
+
+Eggishorn
+/wx/data/DAT/EGG.DAT
+
+
+avatar-meat
+
+from body motion-capture to digital representation to uncaptured body
+body remembering origins / scars < digital
+body of wounds keeping up < digital
+"at night they come out" < analog
+Maud Liardon, Foofwa d'Imobilite
+
+http://www.asondheim.org/duetavatargrange.mp4
+
+around Gruyere / prealps
+Alps / pals / slap / laps / salp
+1 of about 60
+
+uncaptured body < but the body is always already enculturated (of 
+course)
+in the back of the mind, tainted freedom
+
+
+Aletsch
+
+At Belalp and Aletsch Glacier, Foofwa with VLF radio.
+European Indians I will see you on the other side of the world.
+It's all in the overtones.
+To my right: a book about two hands.
+Climb up from Egga with 1887 guide and horseback or walk.
+Perhaps walk from Blatten or Brig, around 4 1/2 - 5 hours.
+We walk from Egga. At the top: Alpine Chough. 
+In my estimation animals sense transformations of EMF.
+Look around the edge of the universe - there's the slightest bit.
+There, la.
+Really one might fall forever seven hundred meters to the base.
+The largest glacier in the Alps, Aletsch has retreated 3 km since 1865.
+Earlier, glacial levels were close to the lower peaks.
+It is not the fault of the glaciers that will inundate our cities.
+Their skin dries, hardens; attacked by plants and animals, they
+continue their retreat.
+Foofwa talks to universal sound.
+O! Unmeasured howling of the mountains!
+
+http://www.asondheim.org/vvllff.mp4
+
+
+
+
+Pringy < spirit > digital < analog
+
+
+http://www.asondheim.org/maudpringychurch.mp4
+
+avatar < digital < broken > analog < mocap < digital > avatar-meats
+the ecstatics of our Lords Jesuses Christs
+Alps churches
+
+
+10/29/2006  05:47 PM     1,179,854,300 alandanceis.avi
+10/29/2006  05:14 PM       290,535,964 aletschdamscenery.avi
+10/29/2006  05:55 PM       123,182,932 azurerun.avi
+10/29/2006  05:57 PM       181,801,228 azurerun1.avi
+10/29/2006  05:31 PM       117,962,460 damscene3.avi
+10/29/2006  05:19 PM       123,182,932 damscenery.avi
+10/29/2006  05:22 PM        98,124,724 damscenery2.avi
+10/29/2006  05:31 PM       242,955,188 damthing.avi
+10/29/2006  05:38 PM       692,543,404 damvlf1.avi
+10/29/2006  05:40 PM       438,349,548 damvlf2.avi
+10/29/2006  05:18 PM       953,417,260 damwalk.avi
+10/29/2006  05:33 PM       303,214,212 damwalking.avi
+10/29/2006  05:59 PM       399,568,988 foofwashadow.avi
+10/29/2006  05:22 PM       570,949,244 handgestures.avi
+10/29/2006  05:52 PM       155,997,252 maudcastle1.avi
+10/29/2006  05:53 PM       130,939,044 maudcastle2.avi
+10/29/2006  05:54 PM       211,035,804 maudcastle3.avi
+10/29/2006  05:11 PM     1,215,375,812 maudpringychurch.avi
+10/29/2006  05:12 PM       217,598,668 pringybirds.avi
+10/29/2006  05:25 PM       632,731,860 virtualkissdam.avi
+10/29/2006  03:49 PM       272,488,076 aletsch.avi
+10/29/2006  03:52 PM       510,839,364 aletschvlf1.avi
+10/29/2006  04:31 PM        87,982,116 avalanche.avi
+10/29/2006  04:52 PM     1,176,984,820 blemish.avi
+10/29/2006  04:00 PM        69,039,292 briglandscape.avi
+10/29/2006  04:01 PM        51,140,572 briglandscape2.avi
+10/29/2006  04:36 PM       434,620,660 brigscape`.avi
+10/29/2006  04:45 PM       532,466,996 bumpvirtual.avi
+10/29/2006  04:43 PM     1,416,853,140 cathedralbells.avi
+10/29/2006  03:48 PM        70,381,708 chough.avi
+10/29/2006  04:01 PM        51,140,572 foofwajump.avi
+10/29/2006  04:32 PM       238,480,508 foofwastumble1.avi
+10/29/2006  04:34 PM       324,990,988 foofwastumble2.avi
+10/29/2006  04:28 PM     1,111,814,140 foofwavlfnude.avi
+10/29/2006  04:15 PM       874,812,036 glacialfall.avi
+10/29/2006  04:11 PM       334,387,828 landscape.avi
+10/29/2006  04:06 PM       356,648,036 maudcompass.avi
+10/29/2006  04:08 PM       162,261,804 maudjump.avi
+10/29/2006  04:55 PM       388,233,132 maudrilkechurch.avi
+10/29/2006  04:04 PM       501,740,860 octopuscloth.avi
+10/29/2006  04:09 PM       300,678,572 octopusnude.avi
+10/29/2006  04:00 PM       557,972,660 pumporgan.avi
+10/29/2006  04:53 PM       125,569,428 rilkecompass.avi
+10/29/2006  04:54 PM        93,500,876 rilkeread.avi
+10/24/2006  01:12 PM       223,844,512 soaksuck.mov
+10/29/2006  04:30 PM       375,704,028 trishabrown.avi
+10/23/2006  10:00 AM       419,555,892 ballplaying.avi
+10/23/2006  11:19 AM       297,844,596 bridge.avi
+10/23/2006  11:21 AM       283,525,620 bridge1.avi
+10/23/2006  10:16 AM       361,534,220 choir1.avi
+10/23/2006  10:20 AM       854,521,700 choir2.avi
+10/23/2006  11:01 AM       336,774,324 clap.avi
+10/23/2006  10:26 AM     1,429,789,656 filibertsolo.avi
+10/23/2006  11:22 AM       101,256,988 foofwaprone1.avi
+10/23/2006  11:26 AM       846,323,252 foofwaprone2.avi
+10/23/2006  11:07 AM       294,414,020 foofwasolo.avi
+10/23/2006  11:06 AM       306,346,500 foofwasoloshort.avi
+10/23/2006  09:58 AM        85,595,620 genevevarious.avi
+10/23/2006  10:57 AM       142,274,900 hands.avi
+10/23/2006  10:07 AM       298,888,700 jet1.avi
+10/23/2006  10:40 AM       153,759,900 jet10.avi
+10/23/2006  10:41 AM       314,251,756 jet11.avi
+10/23/2006  10:42 AM        15,492,300 jet12.avi
+10/23/2006  10:49 AM       210,737,492 jet13.avi
+10/23/2006  10:50 AM       168,228,044 jet14.avi
+10/23/2006  10:09 AM       527,097,380 jet2.avi
+10/23/2006  10:33 AM       108,714,788 jet3.avi
+10/23/2006  10:33 AM       130,044,108 jet4.avi
+10/23/2006  10:34 AM       226,995,508 jet5.avi
+10/23/2006  10:36 AM       237,585,572 jet6.avi
+10/23/2006  10:36 AM       179,414,732 jet7.avi
+10/23/2006  10:39 AM       353,032,316 jet8.avi
+10/23/2006  10:39 AM        95,887,372 jet9.avi
+10/23/2006  09:55 AM     1,362,867,356 mauddanceis.avi
+10/23/2006  10:56 AM     1,044,104,108 maudface.avi
+10/23/2006  11:12 AM       968,929,484 maudfilibert.avi
+10/23/2006  09:57 AM        55,615,252 maudhands.avi
+10/23/2006  10:29 AM       638,734,548 maudsolo.avi
+10/23/2006  11:21 AM        43,533,628 pigeon.avi
+10/23/2006  10:59 AM       447,298,908 rehearsal.avi
+10/23/2006  10:12 AM       230,276,940 spire.avi
+10/23/2006  11:34 AM     1,454,583,540 undeuxtroiw.avi
+10/30/2006  03:55 AM       552,603,044 avatarcaress1.avi
+10/30/2006  03:58 AM       566,623,708 avatarcaress2.avi
+10/30/2006  04:47 AM     1,134,034,804 duetavatargrange.avi
+10/30/2006  04:51 AM       577,512,108 duetavatargrange2.avi
+10/30/2006  04:56 AM     1,116,437,228 foofwadanceis.avi
+10/30/2006  05:01 AM     1,118,077,684 foofwavlfguyere.avi
+10/30/2006  05:10 AM       495,028,828 foofwawaterfallavatar.avi
+10/30/2006  05:13 AM       315,445,004 gorgewaterfall.avi
+10/30/2006  05:03 AM        74,707,220 grotto1.avi
+10/30/2006  05:06 AM       241,314,484 grottoscape.avi
+10/30/2006  05:08 AM       222,371,660 grottowaterfall.avi
+10/30/2006  04:42 AM       811,122,436 maudavatarsgrange.avi
+10/30/2006  05:05 AM       444,763,268 mercigrotto.avi
+10/30/2006  03:51 AM       353,479,796 octopusnose.avi
+10/30/2006  03:49 AM     1,331,847,900 smokevlf.avi
+10/30/2006  03:53 AM       225,354,780 sundance.avi
+10/30/2006  05:11 AM       154,654,836 waterfallleaves.avi
+10/30/2006  05:55 AM       299,336,156 avatarcaresswhitechurch.avi
+10/30/2006  05:35 AM       553,199,668 avatarkiss.avi
+10/30/2006  05:38 AM       601,259,932 avatarkissclose.avi
+10/30/2006  05:48 AM       243,402,668 avatarscastlewindow.avi
+10/30/2006  05:53 AM       186,275,908 birdscastlescape.avi
+10/30/2006  05:50 AM        37,716,532 castlegardenshort.avi
+10/30/2006  05:52 AM       423,881,428 cowbells.avi
+10/30/2006  05:45 AM       194,181,188 faceschurch.avi
+10/30/2006  05:50 AM       182,547,020 foofwaavatarcastlewalk.avi
+10/30/2006  06:13 AM       914,338,388 foofwachurchchant.avi
+10/30/2006  06:00 AM       344,530,436 foofwachurchmumble.avi
+10/30/2006  06:08 AM     1,443,100,372 foofwachurchmumble1.avi
+10/30/2006  05:28 AM       107,670,708 gruyeremtns1.avi
+10/30/2006  06:21 AM     1,800,601,812 harmonicachurch.avi
+10/30/2006  05:32 AM        96,782,308 horse.avi
+10/30/2006  05:30 AM       170,167,060 house.avi
+10/30/2006  05:31 AM       174,940,052 kitten.avi
+10/30/2006  06:23 AM       196,269,372 nightguardianbirdswater.avi
+10/30/2006  05:44 AM     1,349,147,212 parapet.avi
+10/30/2006  05:47 AM       311,268,636 virtualbumpnormalcastle.avi
+10/30/2006  05:57 AM       209,842,556 whitechurchpolka.avi
+10/30/2006  05:58 AM       163,902,508 whitechurchpolka2.avi
+
+
+
+Saving, Castle, Brig
+
+
+ancient castle at Brig / Brieg / Brigue ... the castle walls alas ...
+the light ... night-time uneasy time ... the inspiration of Maud 
+Liardon ... her religious beliefs ... she is Savior, Unsaved ... we,
+Apostolic ... true miracle of the walls of caves ... caverns looming
+... O listen Immortals! ... unspoken, what one or another ... what
+hands ... what holds one against others ... the One at Brieg ... the
+Others at Brique ... the One who Saves ... the Others Unsaved ...
+
+http://www.asondheim.org/maudbrigcastle.mp4
+
+
+
+danse la restaurwant
+
+http://www.asondheim.org/commedia.mp4 h ha ha ha twah wah wah! ha ha ha 
+twah wah wah! ha ha ha pwah wah wah! ha ha ha :wah wah wah! ha ha ha /wah 
+wah wah! ha ha ha /wah wah wah! ha ha ha wwah wah wah! ha ha ha wwah wah 
+wah! ha ha ha wwah wah wah! ha ha ha . ha ha ha a ha ha ha swah wah wah! 
+ha ha ha owah wah wah! ha ha ha nwah wah wah! ha ha ha dwah wah wah! ha ha 
+ha h ha ha ha ewah wah wah! ha ha ha iwah wah wah! ha ha ha mwah wah wah! 
+ha ha ha . ha ha ha owah wah wah! ha ha ha rwah wah wah! ha ha ha gwah wah 
+wah! ha ha ha /wah wah wah! ha ha ha cwah wah wah! ha ha ha owah wah wah! 
+ha ha ha mwah wah wah! ha ha ha mwah wah wah! ha ha ha ewah wah wah! ha ha 
+ha dwah wah wah! ha ha ha iwah wah wah! ha ha ha a ha ha ha . ha ha ha 
+mwah wah wah! ha ha ha pwah wah wah! ha ha ha 4 ha ha ha ha ha ha
+
+
+
+
+Philosophy and Others of Dance, numerous pieces, feedback welcomed
+
+
+Prolog:
+
+Maud-enunciation of avatars, pre-duet: the occupation of virtual space - 
+sad pirouette sad dancer lonely dancer left behind magic wand paper stars 
+in paper skies tiny bows and pas http://www.asondheim.org/maudatar.mp4 
+d'une d'une, I will hide your tiny little URL, almost so real - When the 
+Role disappears from dance, dance is.
+
+When the dancer disappears, when position and momentum disappear, when 
+energy and space disappear, when many and one disappear; when eidetic 
+reduction and the phenomenological stance are flattened, historicized, 
+demarcated, incapable of reproduction, incapable of recuperation; the 
+accumulation of the symbolic, dance is disappearance, no longer imminent, 
+immanent: then paste, defuge, tumescent shuddering of the real. Then 
+nothing of the real. Then "annihilation to the limit" which is nothing. 
+Which is nothing at all.
+
+Paragraphs and Chapters:
+
+Below: "dance is" - dance philosophy, not philosophy of dance. Short 
+analysis and explanation of the dance series in relation to the 
+virtual/real, analog/digital, and governance/community. There are five 
+dance-is to date: Foofwa*2, Alan, Maud, Tom where it all started. 
+http://www.asondheim.org/alandanceis.mp3
+
+I always wonder about dance, participating in choreography or mise-en- 
+scene, or compositeur, even a bit of movement; I can't dance, am awkward 
+and far too nervous; I admire dancers but there are very few I relate to. 
+Foofwa's work is close to performance, sport, theory. But it's a question 
+of the Sign - which is always already mute; in writing, sign is signifying 
+- assignation. Dance reads, constructs, deconstructs the world; this is 
+also a characteristic of culture in general. Dance begins and ends with 
+the consciousness of the body; why wear clothes? Use props? Why work for 
+that matter within the institution of the theater? Writing and the gospel 
+truth - http://www.asondheim.org/mercigrotto.mp4
+
+There is the gospel of dance, its history, which is something else, as in 
+photography or any other cultural form in these thick times - it's over- 
+determined, obstructive, overly cognizant of cultural form, of modes of 
+distribution, of theatrical and terpsichorean politics, of master-disciple 
+relationships, of the aporia of the knotted student.
+
+There's the gospel of the virtual, its imaginary, elsewhere, as in the 
+shamanic or production of images in these exfoliated times - it's overtly 
+misrecognized, smoothed, the incipient production of culture, telecommun- 
+ications, any moment of being, of absenting relationship, but of techno- 
+logical construct as well. And of the real, of which the less or more said 
+the better or the worse. http://www.asondheim.org/virtualreal.mp4
+
+[[ sed 's/writing/real/g' < The real dances around dance; writing dances 
+around the real; the real dances around writing; etc. sed 's/dance/X/g' 
+The real Xs around X; writing Xs around the real; the real Xs around 
+writing; etc. < analog < digital < etc. > sed 's/real/written/g' etc. | 
+sed 's/real/"real"/g' | sed 's/real/X/g' -> "X" < digital == analog > 
+faunal cultural history < inscription < digital ]]
+
+[[ X* ]] perhaps another term than dance, for how should definition 
+function here? Or perhaps neither performance nor the body. One is left 
+with abjection, the sublime, real/imaginary; let us call this the "abject 
+sublime." For we are within this era, this positioning, dulled, imploded, 
+decathetcted, exhausted, condition of defuge. If defuge relates to 
+depression, then defuge relates to the real in a manner of none other, 
+nothing else. And if we do not think dance, we do not think culture, we 
+begin to think.
+
+Postlog:
+
+Two sound pieces in prealpine church of Pringy (chromatic and 'Weekender' 
+harmonicas) - http://www.asondheim.org/charmchurch.mp3 - within which the 
+church signifies the tumescence of the resonator.
+
+
+
+jump!
+
+
+http://www.asondheim.org/jump.mp4
+
+and
+
+pain. avatar.
+
+in pain. if she moves they knew i played with avatars, avatar-abuse: this
+avatar dancers - and we can map into entirely new spaces and content - the
+occupation of virtual space - parent-child relations, father-avatar avatar
+< digital < broken > analog < mocap < digital > avatar-meats are leashed,
+tethered to logical reach of avatars. reach avatars. of and my people! my
+avatars! my little maud-enunciation of avatars, pre-duet: making new
+avatars on - my, the swords make the avatar angry! azure writhes house.
+they knew i played with avatars, front of the house. that they avatars.
+that one cannot cum seems to lack coherency. i wish i was home. avatar-
+abuse: this is more than familiar to me. i am in the neighborhood manner,
+similar to the avatar but the dancer is dancer imitated by a month old,
+protocol-driven, hunger for signifiers, azure struggles which is more
+than familiar, is more than familiar: they knew i played with avatars.
+avatar-abuse: this relates to mother-father relations: primordial thought
+of "my avatars avatars." so this is what it looks like from inside - an
+avatar. those few knew i played with avatars; all of them are avatars,
+but mapped - which in fact indicates the direct murmuring of avatar-meat;
+you can hear them directly beneath the swords. avatars have to avoid
+swords, their baggage. they speak through a thousand dancers, most of whom
+were abused.
+
+jump!
+
+
+
+the devils in Rilke's church
+
+http://www.asondheim.org/rilkes.mov very short
+
+emanations tether flesh to representation
+imaginary spreads the paste of the body's uncertain declination
+"i decline to accept such images"
+"i recline to accept such images"
+nothing moves but the trembling of your drum of flesh
+we were never stopped, nothing stopped us, not even hell
+the hell of burning cocks, burning cunts
+but never this ecstasy or indefinite sublime which remains unreachable
+o holderlin
+o rilke
+the shadows of prophecy turn one inside out
+shuddering, primitive he said, shuddering she said, trembling
+surmounting the drum of flesh, unmounting the drum of flesh
+pipe and tabor played simultaneously with hands and mouths
+racket played with fingers and mouths
+viol d'amore, vial d'amore, vile the mouths of hell
+ecstatic the mouths of hell
+o rilke
+o holderlin
+the mouths of hell return us to the remnants of perfect desire
+
+
+
+deploy, he said, the devouring powers of light
+
+
+all natural languages have precisely the same degree of complexity.
+'destroy, she said', 'primitive, he said', 'enjoy, he said', 'deploy,
+she said.'
+to deconstruct is neither to analyze nor to take apart.
+http://www.asondheim.org/eatenbylight.mp4
+you can't argue with an aphorism.
+'code' is more than structure, structure is more than substructure,
+substructure is more than equivalence, organism is less than code.
+throw out everything you know about animal behavior and culture;
+humans are just beginning to discover civilization.
+our knowledge is not our own.
+humans construct the only deliberate, calculated, and universal
+slaughter-house.
+everything an enemy, every enemy a thing.
+take the man from the woman and kill him.
+binary oppositions replace cultural capital with economic capital.
+there are dozens of types of war and at any time we are engaged
+in at least a quarter of them.
+do not ask for whom the bell tolls; ask who made the bell.
+an aphorism makes the man.
+reality is imaginary's monotonic.
+or the romanticism of the real is the classicism of the imaginary.
+projection kills and introjection devours.
+or introjection suppurates and projection wounds.
+murder is wild war.
+if i want a word with you, the word i want is 'you.'
+give away your sex and there goes your reputation.
+give away your reputation and here comes your sex.
+public masturbation constructs the truth of the real for audience and
+masturbater alike.
+faunal extinction takes humans home.
+sex kills and slaughter entertains.
+eroticism is the neocon of sexual war.
+the aphoristic is the final refuge of the defeated.
+aphorisms are always otherwise.
+
+devouring waters of li(f)(gh)t
+
+colonized by light
+light = colonization of invisible matter
+invisible matter = universal organism
+organism = colonialization
+colony = territorialization
+release the light! deterritorialize!
+
+http://www.asondheim.org/eatenbylight.mp4
+
+dancer: Filibert Tologo
+stage: la Salle des Eaux-Vives, Geneve
+
+throw out everything we know about the future of the human race:
+there isn't any, anything recognizable.
+throw out everything we know about animal behaviour and culture:
+we're blind and will remain so, driving species to extinction.
+
+these are the truths brought to us by dance and culture:
+dance and culture brings Signs from Worlds eaten by light.
+dance and culture have no territory:
+Worlds disappear, tethered to exhausted Signs.
+
+*/
+At first I thought this period is the end of prehistory, that history only
+begins with the definitive event of the large-scale disappearance of hu-
+mans across an earth ruined by nuclear, chemical, and biological warfare.
+The future of history is hyperhistory; all other histories meander through
+fractured sememes destined to disappear.
+
+Then I thought this period is the beginning of prehistory, towards the
+potential of the mute, the moot point, the unacknowledged pivot or hinge,
+the elimination of all evidence of the pivot, which after all is spread
+across space and time, reaching far behind us for example, extending far
+ahead of us for example. This prehistory may be followed by nothing in
+terms of familiar inscription; it may be followed by a superfluity of
+familiar inscription; it may be all or nothing, open or closed.
+
+But whether or not this is the end or beginning of prehistory, it is the
+continuation of the brute, inert, violence of our existence, scabbing and
+devouring beyond the carrying-capacity of the earth - it is the continua-
+tion or the end of our existence, the violence itself carrying-on, residue
+far beyond lifespans, half-lifespans, sintering of the remnants of debris.
+/*
+
+throw out, throw out, throw out
+
+
+
+
+
+three videos, the most beautiful, the sublime, the compelling
+
+
+below: perhaps an unintended homage to gustave moreau, certainly my most 
+beautiful work, which comes through, however strangely, in spite of the 
+necessary compression. taped inside the rilke church, if i may call it 
+that, in raron, accompanied with the falls at the very tip of the aletsch. 
+here is spirit at its most sublime, from the upward sweep of the nave, to 
+the grandiosity of the glacier itself, many thousands of feet below.
+
+http://www.asondheim.org/rilketongue.mp4
+
+below: closeup of the 'tongue' of the aletsch glacier, with modified very 
+low frequency radio signals taken from the same site. the signals were 
+contaminated, by local power generation, up there on the bluff. filtering 
+was difficult because the generators seemed somewhat unstable. i used 
+extreme hiss reduction, notch filtering, and graphic equalization to 
+create something 'readable.' i'm fascinated that the glacier moves of 
+course at a snail's pace or slower - but accompanied these radio signals, 
+which originate from mostly from cosmic and atmospheric phenomena. radio 
+emissions (from cosmic and atmomspheric phenomena) - invisible events, 
+interpreted as sound. again, the sublime, which often appears without the 
+body of this body of work.
+
+http://www.asondheim.org/aletschvlf.mp4
+
+below: foofwa on 'dance is' for a second take in a squat in geneva. this 
+is more personal than the first 'dance is' and as such it was taped in a 
+more or less straightforward manner. i find the take quite touching. we 
+later talked about the graffiti surrounding us; the tags were in english, 
+and seemed to represent a form of the usual colonization.
+
+http://www.asondheim.org/foofwadanceis2.mp4
+
+
+
+Cli!
+
+
+Top/World/Deutsch/Gesellschaft/Umwelt,_Verkehr,_Energi#h#rea#letsc!
+Glacie#ie#ituate##h#00#!hig#ro#h#onkordiaplatz#h!
+Aletsc#lacie#a#!widt##pproximatel#.#rie#ot##h#h!
+mos#laciate#ar##h#lp#a#nscribe##000#wis#ikin!
+recommendatio#ro#h#ctivit#orkshop#escribin#!wal#longsid#h!
+Aletsc#lacie#ro#iescheral##ru#IM#urop#agazin#xplore#h!
+wonder##urope#!summe#ourne#roun#urope#wis#ikin!
+recommendatio#ro#h#ctivit#orkshop#escribin#!wal#longsid#h!
+Aletsc#lacie#ro#h#A#egio##h#os#laciate#re##h#lp!
+an#ncorporate#h#letsc#lacier#h#arges#n#onges##ester!
+Eurasia#.#letsc#lacie#h#lp#arges#n#onges#lacier#yin!
+i#h#ernes#lp##outh-centra#witzerland#overin##re##!
+squar#ile#17#.#iveca#ovie##rosse#letschgletscher#ernes!
+Alps#witzerland#on#now#h#letsc#lacie#h#igges#!
+continenta#urop#ou#eu#u#ignore##lacie#Aletsc#s##lu!
+gran#lacie#letsc#eathe#n#nformatio#bou#ringy#rance#h!
+foo##ru#e#illag##h#djacen#illag##ring#th#ctua!
+locatio##ru#e#rai#tation)#o##in#!Bienven!
+  PRING#Pou#!
+de##it#lique!
+su##hoto#er!
+r#is!
+  jou##ffichag#ptim!
+  pou#nterne!
+Explore#!e#lus##etscap#.#.#ring##ituate#ppro##!
+sout##h#renc#apita#ari#n##ar#ring##ocate##h#!
+#ithi####ontaineblea#n#ithi##.#ring#Sein#arne)!
+de#i!
+rente#ctiv!
+##e#anifestation#rgan!
+es!
+dinformatio###ill##ringy#ommun##ein##arn!
+partemen#7)#oordo!
+e###airie#lan#arte#ostale!
+anciennes#.#elp#or#nformatio##rofil#ages#ringy#rofile!
+Pringy#ocation:#Newcastl#K#eviewe#ank:#e#l#!review#!
+helpfu#otes#.#H#66#ringy-Gr!
+res!
+l#+4#0##2##!
+I##ccessibl##rain#tatio##ringy/Gr!
+re##in#P!
+Bulle-Montbovo#n##pposit#iscove#r!
+#ree#astures#t!
+cattl#erd#n#dmir#h#uthenti#lpin#halet#it#hei#hingl!
+roof#etwee#ring#n#!
+son-Village#ring#.27904#!!
+Top/World/Deutsch/Gesellschaft/Umwelt,_Verkehr,_Energi#h#rea#letsc!
+
+
+
+mc1
+
+with music provided by a jazz group in the castle cave
+
+http://www.asondheim.org/mc1.mp4
+
+so that avatar and body meet with snappy rhythm
+
+if you don't believe it take a look
+
+if you do believe it take a look
+
+looking is fun and better than music
+
+i'd rather look than dance with a snappy rhythm
+
+
+
+
+turning away from the intermittent:
+
+http://www.asondheim.org/azrun.mp4
+
+with azure carter in stride at the brieg castle
+i don't know, she's a soliton among quanta
+she's a wave among solitons
+inspired by string theory, this video has eleven dimensions
+or at least eleven parameters some of which might be the same
+or some of them might split as well, no limits to splits
+azure takes it in stride, she doesn't break stride,
+she walks astride, quasar among black holes, she needs
+at least ten dimensions to express the life of the castle
+or the wall's life or the midnight lights,
+she's cracker-jack tensor, her eigenvalues stay close,
+determine her trajectory within the eleven parameters
+
+as science determines lit crit, lit crit determines science,
+all poetics embody science, science is subset of poetics
+humans lead the way from eleven dimensions, 
+back to them, string theory makes the poem
+
+_
+
+
+watery
+
+bugsy molloy - sup you - i have fleas bugsy molloy - nice you - not really 
+you - you think i'm typing i'm scratching like crazy bugsy molloy - lol 
+you - that's easy for you to say you - try it with pesky varmints jumping 
+all over you,darn! bugsy molloy - ill pass you - not really, i caught some 
+virus my hard drive's messed up and my memory's rammed flat bugsy molloy - 
+that sucks you - not as bad as microsoft you - lsmft lucky strike means 
+fine tobacco bugsy molloy - ohh ya bugsy molloy - how long you been 
+playin?? you - about a year or two now you - but i don't know anything and 
+the fleas are in the way, maybe try some calomine lotion i don't know 
+bugsy molloy - ive been playin for like 5 min you - we got you beat by a 
+factor of ten million or so bugsy molloy - i no colonic drug - hey you - i 
+dunno either. sometimes i just sit here and wait for stuff to happen and 
+then i think well i got to start typing or something you - hey bugsy 
+molloy - yo bugsy molloy - same thing you - yo backwards is oy don't 
+forget that colonic drug - oy bugsy molloy - ok you - nice suit consu 
+diplo bugsy molloy - sup diplomat colonic drug - danka you - shoen colonic 
+drug - still trying to get the hang of it bugsy molloy - me 2 colonic drug 
+- just found out about this yesterday you - oh, there;s noting bu5t hang 
+here colonic drug - and i thought i was hip! tells you what i know you - 
+auf deutsch? sprechst du deutsch? bugsy molloy - i found about it 2 day 
+colonic drug - no, just high school german, unfortunately colonic drug - 
+which is why i spelled it wrong you - that's about it at this end you - 
+takes a while we just go tback from the alps you - not these damn fake 
+mountains the real alps colonic drug - so this is the help island, i've 
+gathered bugsy molloy - so were are you guys from you - spend most of my 
+time here underwater breathing fish and
+
+colonic drug - breathing fish? you - well someone has to you - boo! you - 
+gets stuck in my throat colonic drug - i would thinl colonic drug - thinsk 
+you - but my feet spin like a motorboat bugsy molloy - so were is every 1 
+from colonic drug - ct bugsy molloy - ct????? colonic drug - connecticut 
+bugsy molloy - ohh colonic drug - us, you? you - like once i had to go to 
+the doctor cause i couldn't get the bone out and i was bleeding ad 
+everything i was about ten and so then the docror gave me this fear of 
+fish so i try to swim away form them bugsy molloy - yep you - us too, darn 
+fish! bugsy molloy - i hate fish colonic drug - so, what's this "mentor" 
+thing you - yeah we still have fleas here. (slap! slap!!!!) you - fish 
+suck, man colonic drug - who's a mentor? colonic drug - yeahl fish suck 
+bugsy molloy - i hear you you - i dunno, sometimes i think it's some kind 
+of deodorant you - i mean for underarms and stuff you - keeps the fleas 
+away colonic drug - makes sense bugsy molloy - really you - honest to god 
+it's what happens when you grow up in dallas colonic drug - i feel for you 
+colonic drug - been there colonic drug - i'm gonna go investigate more - 
+get my wings you know? bugsy molloy - sweet i went there for a vacation 
+you - it's good you can feel soething here? you - dallas? where'd you go? 
+you - was down in lower greenville colonic drug - later, guys you - 85934 
+-dds1 - bugsy molloy - just to the air port 2 get on a nother plane you - 
+i've been on those mother planes myself you - they like take you places 
+but they don't really you - you just sit there on the tarmac waiting for 
+something to happen bugsy molloy - exacty you - we're gonne fly now 
+somewhere r othr bugsy molloy - i feel like super man!
+
+
+
+
+razz /*
+no, guys and gals, cats and kittens, not the sick schtick but the flute 
+beaut, coupla chicks and cats, coupla babes and bobs, high trippin gin 
+slippin pill poppin snow hoppin dudes with ludes, take a hessian session 
+up the road and down the code, listen to the tail wail, the head bed, 
+shuttup she said in the hard charred burned locomotive dawn & while 
+furious & while delirious & while theyre outta room & the big one falls, 
+these hepcats are havin fun starin at the sun, countin up to one, mountin 
+the hun. th fountain that run up that purple hilltop majesty, down from 
+sea to shinin sea, they gonna do it, the way she blew it, that cat she 
+knew it, wham bam thank you mam http://www.asondheim.org/fluflew.mp4 heh 
+those cats can blow now cant they
+
+
+
+Sonnet 
+
+One quarter of my life remains to me.
+One fifth, one sixth, one seventh.
+The thickness of the world = deathbed spirituality.
+Call ontology what you will = thick mantle of flesh.
+Barrel of flesh = warmth in winter, food in drought.
+More and more I recognize _I inhabit myself._
+The body = burial shroud.
+No other is needed = the other is always needed.
+I turn around and recognize world other than my mother.
+The mind stumbles to comprehend radical difference.
+Radical difference = strangulation of the mesh.
+One eighth of my life remains to me.
+Listen! These are the worlds of an _already-ghost._
+Flesh and bone = beautiful nudity. 
+"We are all holes under the hammer of god."
+
+Does this work?
+
+I'm fairly complicated in this regard; part of me feels that I'm genius 
+and working on necessary (however defined) themes, part of me is jealous 
+and troubled that others haven't really read the material (one thing that 
+happens a lot is that people feel a kind of hatred or awe at the work that 
+also keeps them from it), and part of me feels just worthless in any 
+situation - which has nothing to do with any of my work per se, but goes 
+back as usual to family issues/problems.
+
+http://www.asondheim.org/bones.mov (with Sandy Baldwin)
+
+There's always an issue of legitimation and history. Because my work is 
+produced in sections and over a wide variety of outlets, but not intensely 
+within any particular outlet, I feel I have to literally re-present the 
+grounds I work within, in any given publication. This has led to a fairly 
+dense writing, which is also fragmentary. I've taught in so many venues 
+without any kind of stability, that the fragment seems almost second 
+nature to me, more than the finished text which involves, again, a kind of 
+stability I've never had.
+
+http://www.asondheim.org/dns.mov (with Sandy Baldwin)
+
+As far as contents are concerned - I think what I do is valuable - at 
+least the work I do with analog/digital, defuge, virtual/real, the older 
+material on rewrite, immersive/definable, thresholding, and so forth. The 
+theorization of sexuality, body, and language, tends to be overdetermined 
+but these are grounds - abjection, the corpse, arousal, familiality - that 
+we live within and through, and they're often not confronted directly. 
+Sexuality sloughs into eroticism, body into body of theory or theoretical 
+body, and so forth. It's one thing to have theoretical layers between 
+abject and reader; it's another to have them rub raw against one another.
+
+I felt this at the conference panel today in fact - that we're talking 
+about Web 3.0 on a dying planet; most people have little, if any, access 
+to broadband, yet the discussion appeared as if within the 'pure' of 
+capital, infinite capital, a fecund planet, and so forth. It's short- 
+sighted. For me, the death of _any_ species as a result of human behavior 
+is both problematic and dire - and yet we're destroying at a steady rate 
+of 3/4 an _hour._ It's all too easy to read WOW against that, but theory, 
+at least on the panel, presented the site of gaming as independent or 
+immune or oblivious. Again, I think that extinction/pain/slaughter and 
+virtual pain/slaughter inhere within each other. -
+
+In my secret dreams, I want to produce, work on, processes etc. that are 
+new, that move in entirely new directions, at least for me, and at least 
+as far as possible. And while the work might embrace sexuality, it ab- 
+jures violence; there isn't murder or beatings or rapine in Incidences or 
+the videos - in fact there are pleasures, sadnesses, fear of death, and so 
+forth, but no celebration of brute force. I can't abide it; my early 
+reading of the Nuremberg medical trials still gives me nightmares, and I 
+have no faith in humans; they/we are capable of absolutely anything. So I 
+try to make my ecological footprint as small as possible in this regard 
+(which touches on vegan concerns, and so forth).
+
+I've never seen re/presentations of humans in the manner I work with them 
+(yes, it's easy to mess up in Poser and produce distorted figures, but 
+they're not married to motion capture, they don't return to the flesh 
+etc.), nor have I seen dance/performance in the manner of Foofwa and co. 
+In the music/soundwork I try to go elsewhere than anything I hear. It's a 
+kind of migratory/emigrant behavior, a forced nomadicism (at least in the 
+roots); again I'd have to retreat to family history. (I should say I 
+identify with Lenny Bruce, Houdini, the Marx bros. here.)
+
+http://www.asondheim.org/azuredanceis.mp4
+
+I want to take theory, however I understand it, to the limit, to the limit 
+among other things, of its annihilation; theory is as destructive as it is 
+revelation - it distances the always-already distanced, to the point of 
+language games, no return, conferencing, capital, enunciation. 
+
+I love Lingis in this regard, and Existence and Existents as well. If one 
+can be made uncomfortable in a positive way, one succeeds; there's some 
+sort of progress (although I don't believe in progress per se). It would 
+be even better if one might be motivated to the point of political respon- 
+sibility, but I think at least in this world, that's asking too much...
+
+So back to the beginning of this meander, I think what I'm doing is 
+valuable, and I have absolutely no doubt about that, none at all. How it 
+plays out within and without acad- emia - I have no idea, but for me (in a 
+safe position of course), that's not the primary thing. The primary thing 
+is the work - for me, it's always been the work, above anything else. I'm 
+well aware that this is a neurotic position but it keeps me going. -
+
+
+
+
+
+
+god
+
+
+http://www.asondheim.org/god.mp4
+
+please view god. thank you.
+
+wererat werewolf werewolves white whitedragon whiteunicorn wight winter 
+Jun 14 2000 Directory Hindim Abhay Abhijit Abhilasha Achit Achyuta Aditi 
+Aditya A boggart bogle bonachus bonasus bonedevil bonnacon boobrie boojum 
+borak Akaash Akriti Akuti Alok Amal Amar Amavasu Amit Jun 14 2000 
+Directory danish ysbaddaden ysgithyrwyn zeus ziphius ziz zolostraya zombie 
+zoroastrian Subjec Jun 14 2000 Directory namewererat werewolf werewolves 
+white whitedragon whiteunicorn wight winter Jun 14 2000 Directory Hindim 
+cynamolgi cynamolgus cynocephali cynocephalus dadhikravan dadjikra49 
+daedalus daedelus daemon danaan daoine daoinesidhe daoram deino 
+delphyneghout dattatreya deena deepak deepika deepti desire devaki devarsi 
+devesh devie in demilich demogorgon dendain derceto devil dies diocletan 
+direach dispater from anywhere on the dhananjay dharma dharmavira dharuna 
+dhatri dhruv dilip dinesh dinkar divya
+
+Exiting via interrupt: 2 k13% mv yy zzooks and Cle k14% pico zz varun 
+varuni vasant vasanta vasava vasavi vasu vasudev vasudhara 
+vasukiim/.procmail/log'? y k1% p vasuman vasumati vatsa veda vedanga veer 
+vena vibhuti vidvan vidya vijay [ New file ] http vikas vikram vikrant 
+vikriti vimal vimala vinata vinay vinaya vineetme to write : zz
+                            
+vineeta vinita vinod vipin vipul viraj virasana virat virini visala visha
+
+
+
+catechism
+
+and the transformative nature of the digital in relation to the obdurate 
+nature of the analog; the latter swallows, devours, the former; existence 
+is always already a knife-edge; existence tangles/entangles; potential 
+wells disappear, dissolve, corrode; languages self-obfuscate; the sublime 
+inheres to the analogic; the digital decathects the sublime; the analogic 
+decathects the digital; the analogic decathects the sublime, decathects 
+the analogic; identity construes the analogic; equivalence construes the 
+digital; the digital constructs the digital; the analogic construes 
+nothing; the digital is a placement; the analogic is a place; dwelling and 
+building, the analogic and digital; the avatar is a placement of the 
+digital; entity is analogic place; union, digital; intersection, analogic; 
+division, digital; multiplication, analog; 0, origin; 0, analogic place; 
+0, digital placement;
+
+
+
+the christa
+
+because she climbed the mountain and made the world revolve around her
+and everything got caught on the nails of the cross
+and i have no idea what i'm talking about
+a. i'm not christian but neither was jesus
+b. i couldn't care less about crosses look at darfur
+c. nylon doesn't snag
+d. to hell with death by itself
+e. wah wah sublime
+   http://www.asondheim.org/christa.mp4
+f. what's a jewboy doing in a place like this
+g. i love jews and womn
+h. yes but what's happening with the gilmore girls
+i. the writers must have been on nettime
+j. fuck jews and women
+h. you can't they fly too fast
+g. no soap radio
+e. elephant soup
+g. two five hundred pound crows with machine guns
+i. darfur darfur
+j. darfur darfur
+j. darfur darfur
+why the hell are we making art
+
+
+SAC
+
+Space and Grid. Grid breaks it is True. Space breaks but just try it! (Go 
+ahead, break azure takes it in stride, she doesn't break And that so early 
+and lone among the furious travesties of a wound body of wound or 
+introjection suppurates and projection wound Bonjour, salaam, shalom, 
+hello! I will kill take the man from the woman and kill projection kill 
+sex kill virus my hard drive's mess (yes, it's easy to mess emiss The 
+thickness of the world = death sighted. For me, the death the videos - in 
+fact there are pleasures, sadnesses, fear of death d. to hell with death 
+numbered. Regardez-moi: not 650000 dead died at 9/11. Ten thousand birds 
+died philosophy. Of course that isn't true; one stay out against the stay 
+out EMPIRE stay out she's cracker-jack tensor, her eigenvalues stay out.
+http://www.asondheim.org/blockage.mp4
+
+
+Pillars and Dance
+
+CountryDance was videotaped on a bluff overlooking Lac Leman in the Roman 
+city of Nyon, outside of Geneve. Maud Liardon performs a folk or country 
+dance which, I believe, is Swedish in origin; Foofwa d'Imobilite performs 
+a separated but inseparable work, separated by the framing device of a 
+pillar. (The scene is a remnant of a ruin, agora or forum transported to 
+its present location above the void.) If Maud's dance resonates with the 
+names of towns encountered on our journey, Foofwa's speeds and slows, 
+measured against them. It is the regulatory apparatus of Roman architec- 
+ture and military organization against the peasantry, with its excessive 
+retemporalization of the real. Jakarta and shadow puppetry come to mind as 
+d'Imobilite's presentation appears flattened in its silhouette; the pirou- 
+etting of Liardon transforms the female body into volume - a volumetric 
+whose forensics reveal the architecture of fecundity. Her turns create a 
+tensor calculus destined to overturn the fabric of Roman linearity.
+
+Beyond this evident symbolics, there are issues of nationalism, Swiss 
+nationalism and its symbolic - Switzerland, with its 100,000 year-old 
+past, ranging from deep prehistory through the wild tribal groups 
+surrounding Hannibal's pilgrimage through the Alps. One has the Alphorn, 
+citharas of all sorts, yodels and cheese, skies and private banking; one 
+has costuming and multiple languages and dialects, Swatch and army knife, 
+Rolex and fondue. The symbols proliferate to the extent that the imaginary 
+of the Alps occupies a territory almost as large as the United States; in 
+reality, Switzerland is roughly the size of West Virginia. Given this, any 
+sign of "authenticity" may be seized by the visitor as Switzerland's 
+Beyond, in the heart of the country and its culture. The fractal Alps 
+twist and turn all the way down; dancing might present the preposterous 
+notion of a "Swiss soul" (or any other nation's "soul") as the flesh 
+supports Foofwa's "authentic" (the quotes proliferate) Gruyere costume.
+
+Nevertheless the emblematic espoused by d'Imobilite's dance is a furious 
+series of signs, almost toppling against the steadied rhythm of Maud's 
+performance. Consider this: an alphabet of dance transformed through the 
+graphemic directly into inscription, which is sublimated into the usual 
+form and figuration of text. To the extent that dance leaves one speech-
+less, dance speaks; isn't this true of any cultural form? And if it is so, 
+if it is true, than cultural form subsumes speech, creates a differend out 
+of which speech emerges only in its problematic. Here, speech is simultan- 
+eously performative and non-performative - and what is the performative of 
+speech in the first place? Nothing whatsoever without cultural context, 
+mores, etiquette, and power down the road. This isn't the performative of 
+a computer program in which for example "date" produces "October 4" - it's 
+not process but flattening, re/presentation. Dance gives the lie, in other 
+words, to the performative of language, just as violence gives the lie to 
+dance. It is both degree and epistemological shift; ontology is just 
+around the corner. 
+
+This conundrum, this relative annihilation of language, fascinates dance, 
+fastens dance. Language is ultimately residue; inscription is hardened 
+language, the beginnings of power, the suturing of the body politic. It 
+takes dance, and dance signifying class, to unite language through its 
+bypassing. Revolution is in the step, and violence is not far behind. One 
+way or another, the earth stumbles beneath the feet of the dancers; one 
+way or another, everything and nothing survives.
+
+http://www.asondheim.org/countrydance.mp4
+
+
+
+   kill the freak
+
+   source of information about freaks, abnormals, human 
+   the film, the physically deformed freaks are
+   http://www.asondheim.org/freak.mp4
+   inherently trusting and honorable  at one point in the
+   film, the freak crowd cry: gooble gobble, ...
+   http://www.asondheim.org/freak.mp4
+   freak is used to refer a person with an unusual 
+   personality. however, many people enjoy referring to
+   true website that offers daily news and background information on cd-r
+   http://www.asondheim.org/freak.mp4
+   and dvd related  subjects, both software and hardware. has
+   cast of freaks (1932), clockwise from top: tod browning
+   (director. banner by  johnny meah. frank lentini, the only
+   http://www.asondheim.org/freak.mp4
+   27k true gothic pictures at vampirefreaks.com . pictures of sexy
+   beautiful gothic freaks.  horror movies, scary movies. goth
+   clothing, industrial music, gothic pics. ...
+   vampirefreaks.com . pictures of sexy beautiful gothic freaks.
+    horror movies, scary movies. goth clothing, industrial music,
+   freaks is an online php help community that provides php
+   by: freaks 
+   http://www.asondheim.org/freak.mp4
+
+
+
+Dead
+
+
+I woke up this morning covered in blood. I fell down the stairs and a 
+sharp shard of bone cut into my abdomen. A severe stroke has incapacitated 
+my right side. Alzheimer's lesions have almost literally cauterized my 
+memory; I hardly recognize Azure. The odd pulsing in my abdomen stems from 
+a hard lump which appears to be growing. When I try to stand my legs 
+collapse under me. My stools are bloody. I've been so dizzy I can hardly 
+walk across the room. I'm constantly sweating under the bed-clothes. I 
+tried to call Azure but could hardly speak. I fell on the floor and lost 
+consciousness and died. The whole bathroom is covered with blood. There 
+are spots in front of my eyes everywhere. I can't see anymore. Help me up. 
+My arms are tingling. My brain is swelling; the pain is horrible. My heart 
+is beating so fast it's bursting. I can't breath. I'm gasping for breath. 
+I'm about to go unconscious. I'm too dizzy to stand up. My heart's stopped 
+beating. It's permanent. I'm dead. There's an unbelievable pain in my 
+lower abdomen. My stomach's in knots. I'm falling over. I'm crawling to 
+the door. I die before I reach the door. There's a white light but the 
+light fades. The pain is too great. I can't think about anything. I call 
+Azure's name. I think I called it. I can't remember about anything. I 
+can't stand up. I can't be here. My chest is torn in two. I can't see 
+anything. My ears filled with screams. The screams may be mine. I don't 
+want to die. I really don't want to die. The right side of my body is 
+gone. I'm bleeding from my mouth. I can't move. I'm dead.
+
+
+
+octopus chased by train
+
+
+http://www.asondheim.org/octopuschasedbytrain.mp4
+
+inside, we huddle within ourselves, medieval grange warming us for the 
+next chain or bluff or cliff, the abandoned resort in the midst of 
+whistling winds, emptied church of all but brilliant sound, fingers 
+gracing keys; now the little party has moved out of doors, what delight { 
+} immersion now ascending now descending such thinned air { }:lost-body- 
+skins slough from miracles of movement, inflationary moments of universal 
+depth, O Maud! O Foofwa! Thou conquerest thine ridges of hunger taut 
+against meadow and moraine! civilization floods from thine arms and legs, 
+hands and feet, neck and torso, waist and hair. Weirdness of furies tamed 
+by grange and goat, Alpine chough and sparrow, fawn and fog, the weather 
+darkling towards the welkin's eve, enormous face of the world 
+inconceivably thrusting towards the stars { }:smeared and teetering across 
+the landscape of exaltation, glacial exhalation as the enormous lip 
+withdraws from the teeth of the snow-time Alpine wilderness, gorgeous 
+bodies flux themselves deeper into the new Dawn of human technics, rattled 
+and open to wheeling the precipice; prepuce and foreskin, cauterization 
+and catalysis: who could imagine such beauty of bodies breathing in the 
+purity of lungs swollen with energy and delight {} ::graffiti of useless 
+deterritorializations { } ravaged city industry { } sharpened teeth of 
+suburban wolves { } poisoned waters { } dead polluted air { } graffiti of 
+useless deterritorializations { } cauterization of the human soul { }
+
+http://www.asondheim.org/octopuschasedbytrain.mp4
+
+Devour lost cauterization of the human soul { } Brought Forth through 
+inside, we huddle within ourselves, medieval grange warming us for the 
+next chain or bluff or cliff, the abandoned resort in the midst of 
+whistling winds, emptied church of all but brilliant sound, fingers 
+gracing keys; now the little party has moved out of doors, what delight { 
+} immersion now ascending now descending such thinned air { }!
+
+http://www.asondheim.org/octopuschasedbytrain.mp4
+
+Octopus choreographed by Foofwa d'Imobilite Danced by Foofwa d'Imobilite 
+and Maud Liardon Videotaped by Foofwa d'Imobilite Mise en abyme by Alan 
+Sondheim Videotaped train by Alan Sondheim Special effects and editing by 
+Alan Sondheim Site by Foofwa d'Imobilite and Alan Sondheim Assistance by 
+Azure Carter Driver Alan Sondheim
+
+http://www.asondheim.org/octopuschasedbytrain.mp4
+
+
+
+
+transgression of the 1st and 2nd life
+
+the chiasm turns back on itself. 
+I knew something was wrong with the world.
+at the edge, the pli or fold - analog transforms into zero.
+zero-multiplication: the world is absorbed.
+one-multiplication: the world returns to the world.
+we do not return. 
+we head across the divide.
+we are returned.
+again and again, we are returned.
+we form a corpuscle.
+
+if zero is boundary, one is interior.
+the boundary has zero area in relation to interior.
+but the same order of the continuum.
+
+you can assign addresses one place or another.
+these addresses are on the boundary.
+the interior is emptied.
+the interior is empty.
+
+because it's useless to move in such and such a direction,
+i move in such and such a direction.
+because nothing lives or dies there, i give myself
+the permission of breath.
+
+the dragon looks at the sun, calling for st-george
+the dragon looks at the sun, calling for st-george
+the dragon looks at the sun
+
+what the sun does is beyond the pale
+the jew is beyond the pale. the jew can't reach himself.
+the woman is beyond the pale. she can't reach the jew.
+
+I announce to you: the cleansing of the waters of forgetfulness.
+You can't go that way. You don't belong that way.
+That way of the waters of forgetfulness there are things.
+Nothing swims among them.
+Neither things nor things.
+
+escapade, escape, esplanade, explanatory, promontory
+episodes of leaving and impossibility.
+communality of the first of prankster and on-the-go
+exhaustion of the second, landscape cylinders
+tomb cylinders of day and night land
+
+of dropping, the fraud of the real against the masquerade of the self
+you roam and it doesn't seem like marauding, more like comfort
+then the edge says, come lie with me
+then the plane says, come sleep with me
+dropping the fraud of the real into the real of the fraud
+dropping the masquerade of the self into the self of the masquerade
+
+when zero becomes infinitesimal and the hills are polygons
+when infinitesimals give birth to the digital
+when the digital swallows the self
+then
+
+http://www.asondheim.org/xcape1.mp4
+http://www.asondheim.org/xcape2.mp4
+http://www.asondheim.org/dropping.mp4
+
+video with sandy baldwin {first two somewhat long, third somewhat short}
+
+
+
+Reviews of Numerous Wonderful Books
+
+I haven't done these in a while; I'm fairly behind schedule. But there are 
+so many exciting things, new and used, that I feel the need to begin, even 
+if the reviews are encapsulated.
+
+1 Prevention of Railroad Accidents or Safety in Railroading, George 
+Bradshaw, 1912. This is a small semi-paperback, profusely illustrated. 
+There are sections on how to move explosives and warnings about not 
+climbing on the front of a locomotive while it's moving towards you. 
+"Don't try to open knuckles as cars are about to come together." This 
+curious work opens a whole new world of course. Look for it!
+
+2 The Book of Talismans, Amulets, and Zodaical Gems, Thomas and Pavitt, 
+1914. This is a wonder; there are ten plates plus one colored plate, 
+covering gnosticism, Egypt, India, the Koran, and so forth. A lengthly 
+section deals with the mystic qualities of gems. I believe this has been 
+reprinted..
+
+3 The Ochre Robe, an autobiography, Agehananda Bharati. This is a troub- 
+ling book by an Austrian who wrote the brilliant The Tantric Tradition. 
+Bharati was somewhat of a follower of Bose; his account is oddly harsh, 
+"no-nonsense," and thereby wonderful. Bharati was an expert, among other 
+things, on Wittgenstein and the British philosophical tradition; his use 
+of language is precise. I can recommend both of these books without hes- 
+itation; The Tantric Tradition for example has an important section on 
+intentional language. (1970-80)
+
+4 Selected Writings, Walter Benjamin, edited by Jennings, Eiland, and 
+Smith, Harvard, 2005 paperback, five volumes from the original hardcover 
+four. All I can say is Wow! These are absolutely amazing. I've been 
+working on a theory of "defuge" - the roots are here. There's enough to 
+keep cyberspatial theorists busy for years. The entries range from frag- 
+ment to extended essay, and there are probably a couple of hundred of 
+them. This, along with the full Arcades, has to be one of the monumental 
+philosophical/literary works of our time.
+
+5 HTML & XHTML, The Definitive Guide, 6th edition, Musciano and Kennedy, 
+O'Reilly, 2007. I love this book (I received a review copy); I've used the 
+previous editions as well. It is intelligent, packed with information, 
+clear, and prescriptive; I can't recommend a better book for Web authors. 
+Everything from CSS and XML through URLs is clarified. Even if you only 
+use GUI editing software for Webpages, this gives you useful information 
+on what goes on "under the hood" - information that allows you to tweak 
+pages any way you want. There's a useful webpage for the book as well. The 
+book is also "Safari Enabled" - which allows you to access it entirely on 
+the Web for a fee. I used Safari for a while but realized I prefer my 
+books next to me; not everything has to be on the screen, not even texts 
+about online organization.
+
+6 Death Scenes, A Homicide Detective's Scrapbook, Katherine Dunn, text; 
+edited by Sean Tejaratchi, Feral, 1996. I hadn't seen this before; it's 
+hard to look at. Bodies are blown apart, dismembered, hung, torn apart, 
+shot, knifed, and so forth. The detective is Jack Huddleston, who worked 
+in LA from the 20s to the 50s. Dunn's essay frames the material. The book 
+exposes one beyond CSI coolness; it's difficult to view without becoming 
+involved; instead of desensitization, one becomes aware, to a very raw 
+degree, of humanity's propensity towards violence and annihilation. 
+There's no way to "bypass" the images. I'd recommend this to everyone, 
+although one might have nightmares for days after.
+
+7 Pancoast's Tokology and Ladies' Medical Guide, A Complete Instructor in 
+all the Delicate and Wonderful Matters Pertaining to Women, 1901-03, with 
+"many illustrations," by S. Pancoast M. D., enlarged and revised by Wesley 
+Cook. There's a description of plates - and the plates aren't there. There 
+are other plates that aren't listed. The text sometimes leaves the page 
+altogether due to printing errors, and the result is something like John 
+Furnival's concrete poetry. The text is also wonderful; testes, but not 
+the penis, are described; there are images of anomalies of the vagina, but 
+none of the "normal" vagina; images of deformed and joined babies 
+accompany the section on ("normal") childbirth, and the authors on one 
+hand applaud the emancipation of women and on the other decry suffrage. 
+What comes through with all of this is the incredible frailty of child- 
+birth at the time - so much could and did go wrong, as well as a medical 
+habitus that can report cases from 1650 or so as if they were relevant and 
+accurate in the early 20th-century. The book in other words is a pastiche 
+of anecdote and "strict" medical knowledge; it's troubling on all levels.
+
+8 Anomalies and Curiosities of Medicine, reprinted numerous times from 
+1896, by George Gould and Walter Pyle. My edition is two volumes from 
+1937. This work, composed largely of anecdotes, many of which are 
+illustrated, is a guide to the monstrous; the images are in extremism. The 
+result is a semiotics of the plasticity of the human form; the stories 
+read something like Stekel or Ellis in tone. I think of this as an antique 
+cabinet of wonders, of course. One of the directions emphasized by many of 
+the older books above is the relative lack of structural principles; rumor 
+and exaggeration from the Greeks onward characterize a kind of fascinating 
+pseudo-science; the greater or more exaggerated the transformation, the 
+more it holds our interest.
+
+9 The Baburnama, Memoirs of Babur, Prince and Emperor, Thackston, 2002. 
+The emperor Babur, 1483-1530, wrote this personal chronicle of ethnog- 
+raphy, poetics, brutality and war. As the back cover says, this is "the 
+first autobiography in Islamic literature". The text is wonder to read out 
+of order; I found myself uninterested in the historical aspects, but very 
+interested in the description, for example, of Kabul. The introduction is 
+by Rushdie. I highly recommend this; it's like nothing I've ever read 
+before.
+
+10 The History of Humayun, Humayun-Nama by Gul-Baden Begam, translated by 
+Beveridge, first published 1902. Gul-Baden Begam is Babur's daughter; this 
+account reveals a great deal about a mystic palace, weddings, court life, 
+and battles, from the viewpoint of an Islamic woman. I personally found 
+this the more interesting of the texts, but very different; the two should 
+be read together.
+
+11 The Art of the Byzantine Empire, 312-1453, edited Cyril Mango, Toronto, 
+1986. Wonderful accounts of the building of St Sophia among other things. 
+I knew nothing about these texts, which are arranged thematically and 
+chronologically; there's a mystical account of the construction which is 
+quite beautiful. The book is texts only; there are no illustrations.
+
+12 Ancient China's Technology and Science, "Compiled by the Institute of 
+the History of Natural Sciences, Chinese Academy of Sciences," Beijing, 
+1983. The sections on mathematics, the south-pointing chariot and odometer 
+are of great interest. There is a description of the abacus as well as 
+counting- or mathematical- sticks, which, for me, is quite important; I 
+wonder if the sticks are related to the Mah Jong counting sticks. In any 
+case, the sticks are used in quite a different manner than the usual; the 
+positions determine to some extent their orientation, and the numerical 
+value is calculated by horizontals and verticals. There's more than a bit 
+of the old Maoist propaganda here, but the book is invaluable as a 
+resource.
+
+13 Emotions and Relations, Nan Goldin, David Armstrong, Mark Morrisroe, 
+Jack Pierson, and Philip-Lorca diCorcia, curated F.C. Gundlach, Taschen, 
+1987. These photographs are friends and worked with and through one 
+another at times. The images are stark, disturbing, discomfiting no matter 
+how you try to frame them. In a different way, they remind me of the work 
+of Araki, who is also a disturbance, Larry Clark, others. When an image 
+abandons the punctum for a field incapable of recuperation, something 
+works on the subject in a radically different way. These aren't death 
+scenes but life scenes that simultaneously refuse, slide easily. I do 
+recommend the work of these photographers, Araki as well, creepy though he 
+may be.
+
+14 A New Course in Reading Pali, Entering the Word of the Buddha, James W. 
+Gair and W.s. Karunatillake, Motilal, 1998-2005, and Introduction to Pali, 
+2nd edition, A.K. Warder, Pali Text Society, 1984. Thanks to Gabe Gudding 
+for the first of these, which contains, right from the beginning, texts 
+from the Canon. The Pali Canon is a large and complex collection of works 
+that stem from the time of the Buddha; they're the heart of the Theraveda. 
+Pali is the language of the Buddha as well; the texts that survive are 
+spiritual. Pali has no endemic, specific alphabet; there are a number in 
+use, including the Roman. The second book contains a more detailed grammar 
+as well as an extended Pali-English, English-Pali dictionary. Both are 
+beautiful; I never will learn Pali (I have no patience for anything, 
+including myself, at my age), but I begin to understand the grammar, the 
+"flow" of the language, which is tremendously exciting. I'd recommend the 
+first of these books primarily, but the second is necessary (I think) as 
+well.
+
+15 Assyrian Language, Easy Lessons in the Cuneiform Inscriptions, L.W. 
+King, Routledge, 1901, reprinted by AMS. Cuneiform is impossibly diffi- 
+cult; I find that this book, although antiquated and quite possibly 
+incorrect, gives a good introduction to the syllabic aspects of the 
+script. It's a way in. Assyrian is related of course to Babylonian, 
+Akkadian, Hebrew, Arabic; it's semitic (and therefore fun!). This book has 
+proved far more useful than I thought it would. The book goes well with 
+Beginner's Assyrian, D.G. Lyon, reprinted by Hippocrene.
+
+16. Fijian Grammar, G.B. Milner, Government Press, Fiji, 1972. I'm 
+fascinated by Hawaiian, Tahitian, Fijian. This is a somewhat complete 
+grammar; the author immediately departs from western categorizations, 
+using instead bases, common, particles, voice, etc. The bases and 
+particles are of particular interest, since they seem to point the way 
+towards another non-Indo-European semantics of great interest. This is one 
+of the most interesting language texts I've seen.
+
+17 A Cultural History of Tibet, David Snellgrove and Hugh Richardson, 
+Shambhala, 1968. As with almost all the other books mentioned here, I have 
+no idea whether or not this is considered "accurate" by today's standards. 
+I wish I had known about this book earlier; it clarifies the country (at 
+least for me), provides somewhat of a foundation for thinking through all 
+those texts and practices in translation. There it is, at the beginning 
+and end of my library. Recommended as essential.
+
+18 Nonduality, A Study in Comparative Philosophy, David Loy, 1988. Yes, 
+this is also recommended, also provides a path of thinking; western 
+references include Derrida; Buddhism, Vedanta, the Bhagavad-Gita, etc. are 
+covered in detail. I found the work illuminating; nonduality is opened and 
+released.
+
+19 Field Theory in Social Science, Selected Theoretical Papers, Kurt 
+Lewin, Harpers, 1951. Mix with Lacan; Lewin developed a topological field 
+theory of personal and psychological processes; there are numerous 
+examples (with, I believe, dubious mathematical formulas) throughout. One 
+can go from here to Lacan to Sokal (who I think should be given a bit more 
+credence than he is). On the other hand, the topological tools and notion 
+of a field are quite useful; dynamic group processes, for example, are 
+analyzed in detail.
+
+20 Revolt, She Said, Julia Kristeva, Semiotext(e) Foreign Agents Series. 
+Semiotext(e) is the Museum of Modern Art for theorists; it's simultan- 
+eously hip and canonical; the Semiotext(e) seal of approval extends far 
+beyond the size of the paperbacks. Be that as it may, Baudrilliard aside, 
+this is a great book, particularly for those who love Kristeva (as I do). 
+There are three interviews, the longest by Philippe Petit; one should 
+definitely read this, but not as an introduction to Kristeva - instead, a 
+kind of summing up, metacommentary, analysis.
+
+21 Counter Daemons, Robert O. Harrison, Litmus Press, 2006, and Elemental 
+Song, Robert O. Harrison, <Answer>, 2006. Harrison sent me these books. I 
+thought they'd be problematic (he mentioned connection with computers). 
+This worried me. Instead, they're two of the most brilliant books of 
+poetry I've read, period. I hope to review them at greater length later. 
+Counter Daemons reflects both daemons in unix/linux and Socrates' daemon. 
+The "I" is insistent all the way through. Computer ideas are used beneath 
+the surface; they don't dominate, they're not codework, not subtext. 
+They're the dark matter of the writing. They suffuse the surface which is 
+the depth; they're not beneath it. The "I" reminds me (everything reminds 
+me of everything, apologies) of Nicanor Parra's Individual. It's demiurge, 
+Vedic. In Elemental Song, the stanzas are unrhymed triplets. There is an 
+"a" that begins the first five; there's a relation with the longer work. I 
+want to mention these because everyone should buy them. They're two of the 
+few books of writing I can carry around; they have that intimacy. The 
+cover of CD is by Brenda Iijima, one of the best I've seen.
+
+22 Mary Magdalen, The Essential History, Susan Haskins, 2005. This is just 
+a terrific book to delve into. MM refuses framework, seeps; there is 
+little to go on historically. Sexuality is there from the beginning, as 
+perhaps are penitence and leadership. My Nikuko was partly based on MM; I 
+think she figures through the Preraphaelites and the Victorian in general. 
+In any case this is thoroughly researched stunning book that goes to the 
+heart of western culture.
+
+23 The Dark Philosophers, Gwyn Thomas, Library of Wales, 1946-2006. These 
+three novelettes lie between Proust and P.D. James; the back cover insists 
+Thomas Hardy and Damon Runyon. I want to recommend the depths of these; 
+there is coal everywhere in the townscape, and the violence combined with 
+almost feudal conditions resonates with the coal regions of Pennsylvania 
+and West Virginia. I'm mesmerized by the stories (still haven't read the 
+third).
+
+24 The Talmud, The Steinsaltz Edition, Rabbi Adin Steinsaltz, Random 
+House, 1989. The Talmud and its hermeneutics are useful and originary for 
+textual analysis that mixes surface and depth inextricably. I want to 
+mention in particular A Reference Guide, which accompanies the Tractates. 
+There are sections on The Essential Nature of the Talmud, Aramaic, The 
+Book, Talmudic Terminology, Talmudic Hermeneutics, Halakhic Concepts and 
+Terms, etc. Some of the concepts defined and discussed: "There is no 
+absolute chronological order in the Torah." "If it does not refer to..." 
+"The verse speaks about the present." "Revealing something." This can 
+usefully be read in conjunction with Marc-Atain Ouaknin's The Burnt Book, 
+Reading the Talmud, perhaps the best book I've read on hermeneutics and 
+the phenomenology of the text.
+
+25 Tumult on the Mountains, Lumbering in West Virginia, 1770-1920, Roy B. 
+Clarkson, first published 1964. I recommend this to anyone interested in 
+forestry and its environmental impact; almost all the old (first growth) 
+forest in West Virginia has disappeared. I never realized either the 
+extent of the damage or the density of the original forests; they remind 
+me of the old growth on Victoria Island. The Appalachians were almost 
+tropical; now almost all of this is lost, and the rest is disappearing 
+with the advent of mountain-topping. It's horrible; the Appalachians 
+constitute literally one of the thickest and most variegated ecosystems in 
+the world; as with the tropics, it's disappearing fast. The book is mainly 
+revealing photographs; there's a great deal on logging locomotives which 
+operated on somewhat different principles than the usual engines.
+
+26 Hesiod's Theogony, translated and edited by Richard S. Caldwell, Focus 
+Classical Library, 1987. Caldwell makes sense of the genealogy; that alone 
+should give him a Pulitzer. The commentary is lengthy and excellent; if 
+you're interested in the text, this will be of great use.
+
+27 The Complete Kama Sutra, Alain Danielou, Park Street, 1994. The KS is 
+one of the most and worst translated Sanskrit texts. This is an excellent 
+one (as far as I can tell), with two commentaries, one traditional and one 
+more or less modern. Because it's complete, there are sections on morals, 
+economics, conduct, and so forth, in relation to sexuality and mores. It's 
+far more interesting than the abbreviated versions.
+
+28 Technological note again: I've been working with PAL cameras, both in 
+Europe and the US, and find them so far superior to NTSC that the con- 
+version and difficulty (in the US) is worth it. The reds stay red; they're 
+not mixed in with the luminance, and don't blur. The additional lines make 
+for a much sharper picture, somewhat close to HD. These cameras are more 
+than sufficient for anything online, relatively inexpensive, and a joy to 
+operate.
+
+29, 30, 31, ... I wish I could read more, could go on! I'd like to cover, 
+in depth, the work of Joe Amato and the post-Yasusada work of Kent 
+Johnson. Amato's Virga Under is wonderful; I've been reading it on and 
+off, but not enough to do anything but recommend it. The same goes for 
+Kent Johnson's eloquent Lyric Poetry After Auschwitz. ... I've mentioned 
+Marguerite Young before; at this point I think I have all of her work here 
+- do check it out, give it time, delve into it; it's worth it. ... And I 
+think I've mentioned Paul Young's The Cinema Dreams its Rivals, Media 
+Fantasy Films from Radio to the Internet, which covers the interrelation- 
+ships between film and video/cyberspace/radio and so forth; film is one of 
+the most inert, "insoluble" media - the others are aerial, virtual, always 
+already elsewhere. The interconnections among all of these reveal a lot 
+about our culture. ... Just found, literally on the sidewalk, Donald E. 
+Knuth's The TEXbook - TEX is a markup language developed by this famous 
+programmer, and this book, from 1984-86 is a complete guide to it. There 
+are a lot of escape keys and backslashings; the description is worth 
+reading even if one doesn't employ TEX. ... In French: Dictionnaire de la 
+prehistoire, Andre Leroi-Gourhan, Quadrige, Presses Universitaires de 
+France, 1988-97 - a beautiful book for delving into the (roughly) current 
+state of research in the field; there are probably thousands of sites 
+listed. ... Les Guerres de Demain, Pascal Boniface, Seuil, 2001 - so many 
+ways to die, so many types of war, we're always under the gun. I've been 
+reading this on and off; it's not fun - it's eerie. ... La Suisse de la 
+formation des Alpes a la quete du futur, pub Migros 1975 - I'd been 
+looking for a book dealing with the political/cultural/geographic/histor- 
+ical/etc. background to Switzerland; this seemed the best, in spite of its 
+age. It was 5 fr for 700 pages! Something to read on the plane trip back. 
+- English again: poems for teeth, Richard Loranger, We Press, 2005 - a 
+wonderful book of poetry (pardon the use of the same superlatives over and 
+over again) dealing with... teeth and their condition; it's oddly uncom- 
+fortable to read, and I hope to get to this later. Each tooth has a 
+section and a description - "Tooth of Memory" for example. I recommend 
+this not only for its oddness, but for that very discomfort; teeth are an 
+aporia of the body-bone itself, this is sensed throughout the book. - 
+Finally, why not end on The Ladies' Home Journal Treasury, edited by John 
+Mason Brown, Simon and Schuster, 1956? The writers include Eugene Field, 
+Helen Keller, John Steinbeck, Bill Malden, Ethel Waters, Marianne Moore, 
+Daphne du Maurier, Vachel Lindsay, and Jerome K. Jerome. There are full- 
+color illustrations from covers, advertisements, and page layouts. Really 
+recommended; it's a great view of America from, say, 1883 on.
+
+== I offer no apologies for this close to endless listing (providing one 
+is doing modular arithmetic!); all of the above are useful and exciting. 
+I've been reading like a fiend, trying to keep up; so many of these back- 
+ground my own writing (which admittedly is a poor excuse, but ah well...) 
+- do check them out!
+
+- Alan
+
+
+
+no-thing, that you engorge me; 
+
+no-thing, that you engorge me; 
+no-thing, you engorge me,
+surpassed, as a gorge itself
+engorge me; you remember pouring upon you, altitude. 
+greedily i engorge on her http://www.asondheim.org/gorge.mp4
+reading, partially hidden by trees by the side of the gorge - while 
+at land, mount, gorge images - god : gorgeaa : gorgeab o : gorgead o : you
+are to be surpassed, as a gorge itself and every symbol :<> mouth opened 
+gorge gorge greens ground groundzero h h 
+gorge greens gorge ground greens groundzero ground h groundzero hiway hold 
+over the road lane-jamming. the pass through the virgin river gorge and 
+gorge tzu-k greenz tzu-k mounta!nwake tzu-k uould DzE! ZA!D lv :  pm bomb 
+uorlda kale godzlv ru gorge ned greenz mozz rad poet o% mud g kuer read 
+yah yah yah
+yah yah yah
+yah yah yah
+yah yah yah
+yah yah yah
+
+
+
+
+
+RODS
+
+
+http://www.asondheim.org/rods.mp4 long but when hasn't it been 
+worth it
+
+learning chinese rod arithmetic (precursor of the abacus); positions
+slip out but the procedure is simpler and faster. 0 is indicated by
+place only, - sometimes 5 sometimes 1 | sometimes 5 sometimes 1 place
+is important
+
+the mystery lies in the clearing of the space and its frisson of 
+rearrangement
+
+in the bone and skeleton of enumeration
+bones disappear in evaluation of 0
+places slide across surface, skin, world, map
+
+Advertisement: 
+
+The Revenge of Gaia, Earth's Climate Crisis and the Fate of Humanity, 
+James Lovelock, Basic, 2006, is the most important book I've read in 
+years. Read it!
+
+ -- Alan Sondheim (I'm serious)
+
+
+
+
+
+
+this is my tomb.
+
+http://www.asondheim.org/lumen.mp4 of - glisten power again goes 
+enlightment longer power grid the nothing down on them television longer 
+goes glisten them them refugees down grid from grid longer television from 
+from on longer refugees me these them glisten the brings these tv power 
+glisten television tv burma me again again from into from brings on them 
+burma on link power grid these the into to power from the border these 
+brings to into children the from them these children starving burma me 
+link border plastic lovely tv from thailand plastic plastic thailand link 
+from starving soldiers starving burma these border soldiers of the from on 
+of mob plastic thailand into under rule mob lovely thailand lovely mob and 
+of the the of people malaria under the under and to organized children 
+children rule death people violence children soldiers to gangs rule under 
+violence people mobs to soldiers plastic rule mobs mobs and violence 
+organized gangs the gangs mob soldiers close the the close organized 
+malaria will tomorrow will malaria rule gangs just tomorrow death malaria 
+close world just the close people rule another tomorrow and people and 
+just it's tomorrow death death tomorrow no day will death rule it's longer 
+tomorrow and mobs another that, no the mobs just than this another rule 
+the no the than just the another desecration the it's world tomorrow that, 
+can't this just just no support support longer tomorrow day earth the the 
+day another this electricity the that, another longer you, will can't no 
+no earth disappear, - desecration no desecration - internet you, that, 
+that, the enclaved disappear, earth that, can't internet for electricity 
+desecration the will - enclaved support the the the wealthy, will earth 
+support enclaved this the the can't disappear, this is internet you, 
+electricity - of wealthy, will the enclaved of of for electricity the is 
+change is the will wealthy, change change - disappear, for real in of 
+enclaved internet inherency in useless this enclaved wealthy, useless 
+world real the the change kiltered a inherency - of world - is this is in 
+death kiltered the this change death for in inherency the kiltered 
+biosphere, death change of in biosphere, this world real is for your the 
+useless change towards your your towards is a this extinction, this world 
+in for extinction, - death a - - the your towards kiltered isn't use the 
+the towards the the slaughter's - death death - - of isn't death isn't 
+slaughter's it's what's biosphere, biosphere, use coming, - usual 
+biosphere, extinction, it's this use isn't usual - a it's extinction, your 
+use a a slaughter's usual what's this the this the extinction, 
+description, the the description, what's of moment of moment of use this 
+catastrophe of coming, of description, hinge information the description, 
+- on exfoliates where is - is information the of coming, coming, of 
+maximum. to moment coming, on the elimination where is a exfoliates the 
+maximum. the a catastrophe on other exfoliates on the maximum. of on 
+catastrophe the exfoliates side of the hinge where the taking other 
+information catastrophe maximum. one one elimination where to growth, (to 
+of to exfoliates other there (to the exfoliates elimination down that 
+taking maximum. maximum. growth, it's - side maximum. side - to down the 
+the (to continue, it's growth, the taking to a there side of that of 
+continue, one of (to moment enlightment that growth, one continue, - 
+moment (to taking it's - nothing to down there of down enlightment that 
+(to continue, down down a there useless nothing nothing useless that 
+enlightment of it's a longer down continue, to goes - continue, 
+enlightment longer moment moment goes of down - nothing much - goes much 
+down longer
+
+

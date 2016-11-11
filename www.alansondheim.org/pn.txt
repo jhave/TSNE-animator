@@ -1,0 +1,1862 @@
+
+
+graphic used interface
+
+http://www.alansondheim.org/gui.jpg
+http://www.alansondheim.org/gui.mp3
+
+constrained and smeared temporally and spatially
+swallowing time, swallowing space
+body used and wounded, sutured
+sound smeared fore and aft
+
+both say everywhere everywhere
+both say everywhere where are you i'm hurting
+both say everywhere where are you i'm saved
+
+
+
+outline of emanent research (current work at wvu, written 1/18/08)
+
+
+(note while the notions of 'code,' 'coding,' 'decoding,' codework, 
+underlie almost everything below, they're not explicit - nor are the 
+actions of reading and writing. the actions can be considered emergent 
+phenomena, and the notions as primitives in the sense of members of a set, 
+etc. again, the analog and digital phenomenologies are implicit as well, 
+as are the (related) concepts of abjection and purification. the analyses 
+of these comes out through praxis, attention to detail, thinking through 
+mandalic structuring until the scaffolding leads, not to silence, but to 
+tending. this should be clearer as the work progresses.
+
+i should note that the following is both a constitution of my usual/cur- 
+rent directions and most likely too ambitious. the trajectories circulate 
+around formal systems and their psychoanalytic/psychological receptivi- 
+ties, around emanents and 'true worlds,' around edge phenomena which turn 
+towards the uncanny and abject, around languages, bodies, sexualities, 
+communalities, and inhabitations. i have increasingly worked through 
+buddhist philosophies, the analogic and digital at the limits, notions of 
+'dis/eased' philosophies, deathing and uneasy worlds. now that i have a 
+clear time to think through these things, the outline below is useful as a 
+guide; for that matter, it's a guide to the past few years of the 'inter- 
+net text' as well.)
+
+I. motion capture: this conjures up external behavioral characteristics 
+translated into internal processes (penetration, scale, displacement, 
+torsion, according to various geometries). think of mocap behaviors 
+operating within a constrained field with strange attractors / catas- 
+trophic jumps. continue to develop mocap with new multi-valent sensors
+and software rewrites:
+
+1. turning nodes on and off
+2. combining nodes
+3. mathesis such that node1 = f(node{n not = 1}), or such that 
+   node1 = recursively f(node1)
+4. multivalent sensors such that sensor(x) = sensor[{n}]
+
+what are the emergent images here?
+
+what is the possibility of constructing bvh files with additional nodes 
+determined mathematically from the hardware set? or mathematically from 
+extraneous data?
+
+what is the possibility of other organic models (i.e. than human or
+animal forms)?
+
+IA. data remappings
+
+entry of bvh files into blender:
+1. modeled onto abstracted forms
+2. modeled onto parent/child forms
+3. modeled onto metaball forms
+
+blender file outputs:
+
+1. entry into cave environment: static or dynamic
+2. video output
+3. what is the possibility of gaming output here? (moving around emanent 
+   environment)
+3. second life output: static or dynamic/interactive
+   
+IB. interiors
+
+1. standardized interiors: sheave-skin, sheave-organism
+2. constructed 'model' interiors: solid, transparent, penetrable, 
+   impenetrable
+3. abject fluxed interiors: how should these be constructed?
+
+IC. interior narratologies
+
+1. abject/purified narratologies and emanent interactions 
+2. abjected/purified contents of dis/ease, dis/order, ecstasy, ekstasis, 
+   catatonia, defuge, death/immobility, sexuality, speech/murmured/
+   whispered/cried/screamed, body formed/deformed 
+3. tantric/middleway theoretics
+
+ID. choreographic mocap (see above)
+
+1. additional issues of jump/leap, exhaustion, tether
+2. video/photographic output as well as bvh
+
+II. scan
+
+phenomenology of scanning, causality across scanned lines
+
+IIA. small scanner
+
+1. head/speech phenomena dissected
+2. schizophrenias and beam-splitters
+3. reflections from coils, air condensers
+4. static tantric buddha image: sutured, stitched-displaced, node
+   combinations and splits
+5. wounds, scars, lips, genitals, ears
+
+output into .obj files into blender/cave
+output into video/still image files
+
+within blender: solve the issue of disappearance/transparency
+
+IIIB. large scanner
+
+1. interior scans: rooms with bodies, reflections, dance-studio,
+   scan-choreographies
+2. exterior scans at bretz coke ovens, persona rapid transit (in motion), 
+   soccer fields
+3. mobilized body scans in inert environments: reading 2d -> 3d, nature of 
+   the inference.
+3. environmental scans with mobilized and peripheral bodies
+5. narratologies of such bodies: violence, chase, jump/fall, etc.
+6. choreographic narratologies
+
+III. access grid (open source internet 2 group messaging/environment)
+
+1. distant interaction with emanents
+2. readings of the corporate / corporate bodies: photographs/video
+3. theory and discussion, levinas, leder, lingis, etc. at the distance
+   of telecommunications
+
+IV. cave and second life
+
+1. performance and documentation
+2. working/running within emanent interiors
+3. and so forth
+
+V. goals of the above:
+
+1. what does it mean to be in-carnated within the real/virtual/
+   true world?
+2. what are the edge-phenomena/plastic and static limits of the body?
+3. of the geopolitical body? of the political-economic body?
+   performance: abu-gharayb modeling in sl
+   performance: abu-gharayb modeling in choreography
+4. what are the signifiers of bodily arousal/violence/meditation?
+   how are these constituted within the real/virtual?
+5. readings: what does it mean to read the real body? the virtual body?
+6. what are the ontologies and epistemologies involved here? 
+   ontological status of the so-called virtual -
+   schrodinger's cat paradox and collapse of the wave function as model
+   for simultaneous analogic/digital readings -
+   seeing through microscopy (tunnel, scanning, optical, etc.):
+   are ontology and epistemology equivalent at the limit?
+   (are analogic and digital equivalent at a parallel limit?)
+
+VI. medical model
+
+1. internals and externals, static/dynamic. remnants of the visible 
+   human project, gendering of the visual/internal 
+2. comfort, dis/comfort, ease, dis/ease, hysteria and abjection/fluid-
+   ity (laycock's 1840 essay on hysteria, kristeva, chasseguet-smirgel)
+3. dis/ease, hysteria, and so forth of emanents
+   distorted emanent behavior and body image (gaz)
+   distorted surface textures and behavior-collisions (sondheim)
+   distorted worlding, 'bringing one out of the true world' (etc.)
+4. medical model and technology
+5. psychoanalytics and technology, psychoanalytics of emanents
+
+VII. radio
+
+1. vlf - very low frequency - body interferences with antenna 
+   reception, phenomenology of body coupling with antenna 
+2. scanner - social, continuous socio-political landscape description.
+3. sw - anomalous signals
+4. long-wave - anomalous signals
+5. crystal - the receptivity of inert materials, primordial radio and
+   primordial radio culture
+6. phenomenology of the antenna/field: materiality of the world as
+   electromagnetic channeling
+
+VIII. emanents within fieldings, choreographies, edge/boundary phenomena
+
+VIIIA. praxis of edge/boundary phenomena
+
+1. analogic and worn emanent boundaries
+2. edge / boundary phenomena - physics and psychophysics of the game-
+   world edge in second life
+3. phenomena of the sheave-skin and sheave-skin internals
+4. phenomena of medical models in relation to edge/boundaries
+
+VIIIB. praxis of edge/boundary phenomena with hardware/software 
+
+1. edge phenomena in literature, codework, mathesis of the text
+   (cramer's and reith's programs)
+2. edge phenomena within the motion capture software, poser, blender,
+   calculations for example of sin(tan x) as tan x nears the
+   asymptote
+3. generalization of edge phenomena into the dialectic between tacit
+   knowledge (polyani) and error (winograd/flores)
+
+VIIIC. live choreographies: 
+
+1. foofwa and soccer (edge phenomena, dancesport, etc.)
+2. foofwa with crystal radio, vlf radio, etc. in large field
+3. sexuality of ballet (nude ballet, classical or genre figures),
+   gendering of roles, ballet as emanation
+4. anita berber narratologies ('annihilation: to the limit!')
+5. foofwa dancework at coke ovens
+6. 'body-contouring' of dance/geography
+   the geography of dance, dance of geography, dance geography
+7. 'body-contouring' of dance/technology: dance at the limits 
+   of the machine
+
+IX. world-constructions
+
+1. what constitutes worlds? constructing?
+   world of the text, inhabitation/dwelling/building (heidegger,
+   dufrenne)
+2. what constitutes the true world? worlding?
+   'true world' in which lines/angles are 'trued' (affine geometry),
+   'true world' in the sense of 'trued' phenomenologies within which
+   virtual, real, and ikonic are blurred and interpenetrating, somewhat
+   equivalent, and within which traditional epistemologies of symbol/
+   sign/signifier/signified/index/ikon etc. break down (kalachakra
+   tantra, jeffrey hopkins)
+3. 'reading' underlying (substructural, configuration files, guides)
+   organization of mocap/scan through surface phenomena
+   (and the relationship of this reading to waddington's epigenetic
+   landscapes)
+4. who is world? communality, consensuality?
+   the problem of other minds and the problem of consensual other minds
+   (group hallucinations, vijnanavada, dwarf sitings, ufos, etc.)
+
+X. outputs:
+
+1. video and film (in practice, usual issues of apparatus/spectator)
+2. digital and silver photography (digital/analogic and analogic/digi-
+   tal divides - potential well on one hand, grain on the other)
+3. series of short papers/descriptions
+4. series of performances (individual and collaborative)
+   morgantown and elsewhere across real geographies
+   anywhere across virtual geographies
+5. formal presentations at wvu (spring and perhaps fall)
+6. formal presentations elsewhere
+
+
+===
+
+
+
+Writing and Wryting
+
+[Written for an online class at DMU]
+
+I write daily and when I'm not writing, I'm thinking about writing or 
+writing in another medium; the world is a world of inscriptions. At one 
+point I believed there were signs, that the world was inhabited by 
+signifiers which might or might not have referents; now, after looking 
+repeatedly at tantra and the casting-off of whatever was found and 
+impeded, I think signifiers might be nothing except residues of a kind of 
+frisson, the world rubbing up against itself. Whatever codes there are, 
+and however these codes are manipulated -
+
+http://www.alansondheim.org/examples.txt -
+
+they're not the only story, or rather, they _are_ the story but that's 
+nothing - what's going on in the world isn't story at all. We tend to make 
+scripts of things around us - that's how we get along. For example, 
+there's the restaurant script (and this example of course isn't mine) - I 
+enter a restaurant I've never been in before, but I know exactly what to 
+do; there's a restaurant script and subscripts; we don't make it up 
+immediately - that would be far too costly - but rely on constructing, 
+memory, reconstructing, and so forth, and there we are, eating together. 
+And it's eating together, because scripts, like the world, are consensual 
+and build community.
+
+Somebody said something like aye, there's the rub of it - and that's it, 
+precisely; the world rubs one, _worlding_ is a form of rubbing - which 
+makes virtual worlds such as Second Life all the more perplexed, where 
+rubbing and any physics has to be _intended_ by someone, a programmer, or 
+nothing would happen at all. Still, in second life, one might have bodies 
+or rather one might _inscribe_ bodies with writing, and this body writing 
+I call _wryting_ and it occurs in the real world as well. For example,
+
+http://www.alansondheim.org/throbbed.mp4
+
+where avatars conform and display to one another, and all these behaviors 
+are automated from written files called bvh files, which give an indica- 
+tion of how virtual worlds are in fact a kind of writing. Here is part of 
+a bvh which produced what you've seen in throbbed:
+
+HIERARCHY
+ROOT Hips
+{
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 6 Xposition Yposition Zposition Xrotation Zrotation Yrotation
+JOINT LeftHip
+{
+OFFSET 15.061017 17.082508 -14.925126
+CHANNELS 3 Xrotation Zrotation Yrotation
+JOINT LeftKnee
+{
+OFFSET 160.534210 236.940994 175.551743
+CHANNELS 3 Xrotation Zrotation Yrotation
+JOINT LeftAnkle
+
+This gives the initial positions of the body; later, there are tens of 
+thousands of numbers that give the node movements from these positions.
+Do note that this is an ascii, a text file, and not a binary, not an 
+executable; the file is executed by a program that uses it as data. In 
+this sense, the virtual world is always inscribed, digital, just as the 
+real physical world is not written, but _is,_ and is analog, and tends to 
+wear out. Nothing wears out in the digital world, and while avatars - what 
+I call emanents - need electricity to run, they don't need food. Still, 
+given that, I think that for a conscious mind, a mind used to dreaming, to 
+projections and introjections, there are no real differences between the 
+virtual and the real, and there's dreaming, proverbs, tales, stories, 
+poetry, poetics, hallucinations, hypnagogic imagery, meditations, and the 
+like to show that. 
+
+And even though the real physical world isn't written, it's full of 
+writing and our bodies themselves are always already written, inscribed - 
+full of tattoos, scars, burns, abrasions, wrinkles, salves, perfumes, 
+calluses, and so forth. I think it's from these things, particularly from 
+scars, wounds, abrasions, scrapes, etc., that language descends - that 
+language is first and foremost a reading of the history of the body, that 
+the body, the physical body, carries its own primordial memory upon it. 
+That's important, since it's this memory, these scarrings, that bind us to 
+the earth, to the world, the analogic. The digital is constructed from 
+that with a bit of a help from the corporate, from political economy - the 
+digital rides and infuses poitical economy in fact. So there are digital 
+standards for sampling, for encoding and decoding and checksums and so 
+forth, and these guarantee that a parsing of the world in one part of it 
+can be a parsing of the world in another. Think of the digital as an 
+extrusion, and think, even, of writing as _always_ digital or at least 
+always discrete, one symbol differentiated from another, from the other, 
+as all of them together generate meaning within organism and conscious- 
+ness, generate culture.
+
+An aside here to the effect that _culture is all the way down,_ that any 
+organism has culture, has learning, has the symbolic, has the digital (in 
+the sense that catastrophe theory prescribes and describes certain sudden 
+shifts in behavior or states which might as well be digital, that is _on 
+and off switches_ operating within potential wells, that is a level above 
+noise which allows them to function. Recent experiences in fact demon- 
+strate amoebic memory, even within this one-celled animal without neurons 
+or nervous system. It's important to think throug this, to see the world 
+as not only processings but also culturings - if you do that, a very 
+different kind of world emerges. 
+
+So where does codework or digital writing come into play here? One might 
+begin back with culturing - that the world is replete with poetics, that 
+it makes real, concrete, sense to speak or think of the poetics of the 
+real - that this isn't just metaphoric. And then one might proceed fur- 
+ther and realize, within the analogic the digital resides - that the 
+analog harbors splits and leaps, as the collapse of the wave equation or 
+annihilation of virtual particles shows. And within the digital, there's 
+the analog as well - the potential well upon which the digital rides, 
+literally, let there be no mistake about it. 
+
+So one might ride the digital as well, perceive the digital as an extru- 
+sion from the analogic, or a residue, or a system of signs which for the 
+most part are produced by humans, according to human conventions and 
+protocols, for example, the tcp/ip structure or protocol suite of the 
+Internet - and if not this protocol suite, another or an other. Then one 
+writes here, in this medium, in this temporarily electronic medium (for 
+there might be other sorts of transmission in the future, who knows? or 
+other sorts now for that matter, literally for that matter). And within 
+the digital, in which bits bite bits, every pixel, every character, every 
+moment of the digital is independently accessible, and every moment is 
+deeply ruptured, disconnected, from every other. This is why the digital 
+is inherently untruthful; there's no truth within it, since manipulation 
+is complete and replete within every file, every domain, every protocol, 
+every instantiation in fact. There are no lies, either, and if there are 
+narratologies, these reside in sememes embedded or encoded within the 
+digital, interpreted by organism, often human. In creating in such an 
+environment, one plays god, or at least deity (in the tantric sense); one 
+constructs out of nothing, and if I write the phrase, as On Kawara might, 
+"I am still alive," these letters are, at a very fundamental and concrete 
+level, completely independent; I could just as well write "lkurj llisihg" 
+or anything else, literally, again, for that matter, and for the sorts and 
+sortings of that matter. 
+
+Well, I can write anything, I can say anything. And some of what I write 
+just lies there, and some is performative, in the sense that, if I type
+
+k3% date
+Sat Jan 19 01:13:23 EST 2008
+
+at the k3% prompt, the date is returned - the word is not just a word, but 
+an action, a process, an operation inherent in the reading and writing of 
+it within an operating system. Now if I type
+
+k7% lkjsfug
+ksh: lkjsfug: not found
+
+as you can see, it's still performing, but the operating system is looking 
+for a meaning or decoding and can't find any or rather finds a kind of 
+null-decoding which is based on absence. So that electronic writing, with- 
+in a terminal window is always a performance; it's never static. And it's 
+not only a performance, but also a communalit, since there are others who 
+may well be present, even though invisible, uncounted, and unaccountable:
+
+cbpp     ftp12907 Jan 18 10:42  (cbpp8.cbpp.org)
+cbpp     ftp7371  Jan 18 10:16  (cbpp8.cbpp.org)
+jpl15    ttyp0    Jan 18 11:20  (76.216.63.13)
+harold   ttyp1    Jan 19 01:16  (12.6.206.9)
+dagger   ttyp2    Jan 16 01:31  (24.5.61.60)
+bitty    ttyp3    Jan 16 20:32  (76.19.99.242)
+bord     ttyp5    Jan 14 11:10  (75.129.128.49:S.0)
+
+for example are running around on the same machine I am, and I'm aware of 
+them, even though I don't know who they are. I can find out what some of 
+them are doing:
+
+bord     ttyp5   75-129-128-49.dhcp.fdul.wi Mon11AM  5:20 irc
+gburnore ttyp6   bastille.netbasix.net      Fri10PM    29 rtin
+bord     ttyp7   75-129-128-49.dhcp.fdul.wi Mon11AM 12:25 
+/usr/local/bin/ksh
+bord     ttyp8   75-129-128-49.dhcp.fdul.wi Mon11AM  5:20 irc
+jkurck   ttyp9   adsl-75-10-97-59.dsl.frs2c Fri02AM 12:25 -tcsh
+
+for example, but I'm not informed as to the semantics involved, only the 
+protocols, the surface syntactics.
+
+So one might see codework as a mix of all of this, a kind of dirty or 
+abject combination, a kind of rupturing, of surface and depth, one 
+producing another or an other, a kind of drawing-out of the fecundity of 
+the world and its structure, its poetics. This combination or drawing-out 
+reflects the real unclarity of what I call the true world, which is the 
+real and virtual world interpenetrated, intermingled, diffused, effused, 
+as they are for us, no matter where we think we are, in first life or 
+Second Life or what I call third sex, which is online sex, as if there 
+were a first or second, which there aren't. 
+
+Beyond this, I'm not sure what codework is, even though I've invented or 
+discovered the term. Here is a program Florian Cramer wrote for me, called 
+eliminate.pl (it's in perl):
+
+#!/usr/local/bin/perl5
+
+while (<STDIN>) {
+        @words = split /[\s]+/, $_;
+        @spaces = split /[\S]+/, $_;
+	for ($x=0; $x <= $#words; $x++) {
+                $word_count{$words[$x]}++;
+if ($word_count{$words[$x]} == 1) {print $words[$x],$spaces[$x+1]}
+                }
+        }
+
+This is based on the Thousand Character Essay, written in Chinese around 
+fifteen hundred years ago - an essay in which each character is different 
+from every other; each character, in a sense, is primordial, individuated 
+- an extreme nominalism. Although I don't know Chinese, I worked with a 
+friend laboriously translating it. Anyway, I wanted to duplicate this in 
+English - use a program in which each instance of a word appears only 
+once, that is, at its first (and only) appearance. Within this, the fol- 
+lowing are still distinguished: "word" "Word" "Word," "word-" and so forth 
+since these have different ascii renderings. Here is part of this very 
+essay rendered with the program:
+
+my writing
+
+I write daily and when I'm not writing, thinking about or in another
+medium; the world is a of inscriptions. At one point believed there were
+signs, that was inhabited by signifiers which might have referents; now,
+after looking repeatedly at tantra casting-off whatever found impeded,
+think be nothing except residues kind frisson, rubbing up against itself.
+Whatever codes are, however these are manipulated -
+http://www.alansondheim.org/examples.txt they're only story, rather, they
+_are_ story but that's what's going on isn't all. We tend to make scripts
+things around us how we get along. For example, there's restaurant script
+(and this example course mine) enter I've never been before, know exactly
+what do; subscripts; don't it immediately would far too costly rely
+constructing, memory, reconstructing, so forth, eating together. And it's
+together, because scripts, like world, consensual build community.
+
+== Now this is at the beginning of the text, and clear, but see what 
+happens towards the end:
+
+$word_count{$words[$x]}++;($word_count{$words[$x]} == 1) {print
+$words[$x],$spaces[$x+1]} }Thousand Character Essay, Chinese fifteen
+hundred years ago essay each character other; primordial, individuated
+extreme nominalism. Although Chinese, worked friend laboriously
+translating Anyway, wanted duplicate English use instance appears once,
+only) appearance. Within fol- lowing distinguished: "word" "Word" "Word,"
+"word-" forth ascii renderings. rendered program:
+
+== Here, towards the end, the condensation is extreme. One might think of 
+this in terms of the biblical book of Genesis - and one of the first 
+things I did was to render Genesis with the program, which resulted, 
+again, in a kind of _Vac,_ word-creation, creation-word of a primordial 
+sort. I think of this as codework, since, reading it, it becomes clear 
+quickly - what is happening, what the structure is - even if the code 
+itself isn't present except as a disturbance upon another text, an other.
+This becomes clearer, perhaps, when the program is applied to itself:
+
+#!/usr/local/bin/perl5
+while (<STDIN>) {
+ @words = split /[\s]+/,
+$_;@spaces /[\S]+/,
+for ($x=0; $x <= $#words; $x++)
+$word_count{$words[$x]}++;if ($word_count{$words[$x]} == 1) {print
+$words[$x],$spaces[$x+1]}}
+
+== Now I don't think of this as a 'better' example of codework than the 
+first example, even though code is evident here; it's just another sub- 
+ject for the performative maw. 
+
+A point about interactivity: Every writing, wryting, upon reading or 
+sensing, scenting, is always already interactive; the inscriptive is never 
+_linear,_ no matter the appearance of lines. Memory, remembrance, is at 
+work, scanning moves backwards and forwards, moves in chunks, and even 
+syntax tends to jump about, leap. There is of course an active interactiv- 
+ity, in which the reader/scenter is required to _do_ something concrete, 
+within a repertoire or potential series of actions; hypertext is perhaps 
+the simplest example. I've not been so interested in that, and my lack of 
+interest has to do with worlds and the false appearance of choice; I'd 
+rather have the running of inscription and meaning go on about without 
+interruption, as the world goes on about one, even though one seems to 
+have choice within it. This stems to some extent from my interest in film; 
+I've never been carried so far in a hypertextual situation as I am when 
+embedded in the cinematic other which is also the self, selving. The world 
+is complex and I attempt to deal with that complexity and its perturba- 
+tions, attempt to deal with the surface codes of the world. This isn't a 
+manifesto on my part, and in fact, I've produced interactive work as well, 
+particularly in simple Visual Basic, but I'd rather the interactivity 
+occur elsewhere, within consciousness.
+
+Here are some links. First, to the most recent series of texts:
+
+http://www.alansondheim.org/pm.txt - here you'll find all sorts of things, 
+from a report on an airline's first attempts at wireless en route to the 
+derivation of 'bug' (as in software or computer bug), to the kinds of code 
+early telegraph operators used, to... a google scraping piece on 'bush 
+fucks' to... an elimination piece featuring my Facebook superwall. These 
+texts are 'thicker' than many others, and they're stressed - we were mov- 
+ing temporarily to West Virginia, and our companion cat of 18 years had to 
+be put down, which was one of the most traumatic events of my life. At 
+this point, pm.txt is somewhat diaristic, although most of it isn't.
+
+These are part of the Internet Text, which I've been writing since 1994, a 
+continuous meditation on the above and other subjects. If you look at the 
+earlier texts, for example:
+
+http://www.alansondheim.org/net1.txt - you'll find a clearer form of expo- 
+sition than much of the later work. Since this is from 1994, the Net is 
+very different, mostly what I call 'darknet,' referncing lower ascii and 
+terminal windows as standard, instead of the current multi-mediacy. Almost 
+from the beginning, I wrote through avatars, other characters, who really 
+weren't other at all (see my file-in-progress, 
+
+http://www.alansondheim.org/pn.txt - for an account of the research I'm 
+doing in this direction).
+
+This is about it at the moment; as you can see, there are gaps, errors 
+(which I'm interested in), disturbances, in the account. On another, an 
+other, hand, we can proceed from here, I'm sure.
+
+And thanks for this opportunity -
+
+Alan, 01/19/08
+
+
+
+lovely luser
+
+http://www.alansondheim.org/banes.mov
+ : total leaking drwx--s--x sondheim drwx--s--x users total users users 
+drwx--s--x : users users ^ users : drwxr-xr-x Sep drwxr-xr-x drwxr-xr-x : 
+Aug drwxr-xr-x ^ : drwxr-xr-x root : drwxr-xr-x : ^^ root drwx--S--- : : 
+^itchX : drwx--S--- -rw------- ^^ -rw------- -rw------- drwx--S--- 
+^addressbook -rw------- -rw------- ^addressbook^lu -rw------- ^addressbook 
+-rwxrwxrwx : -rwxrwxrwx -rwxrwxrwx ^addressbook ^auto -rwxrwxrwx 
+^addressbook^lu -rw----r-- -rwxrwxrwx Jan -rw----r-- -rwxrwxrwx -rw----r-- 
+May Jan ^bashrc -rw----r-- -rw----r-- ^delgroups -rw----r-- ^bashrc Jun 
+May Jun Jun ^bashrc drwx------ Jun Jun ^elm Jun drwx------ -rw-r--r-- 
+^editor -rw-r--r-- -rw-r--r-- drwx------ ^emacs -rw-r--r-- ^elm ^emacs^d 
+-rw-r--r-- Jul Feb -rw-r--r-- ^emacs^d Feb Jul ^exrc Feb ^emacs^d 
+lrwxrwxrwx Feb ^exrc Nov Feb Nov Nov ^exrc -> Nov lrwxrwxrwx 
+/usr/local/etc/dot^cess Nov ^forward ^forward-converted ^forward 
+^forward-converted ^forward-converted -> ^hlevel ^forward-converted 
+/usr/local/etc/dot^cess -rw-rw-r-- ^forward-converted ^hlevel ^ircrc 
+^forward-converted -rw-rw-r-- ^ircrc ^hlevel : ^ircrc -rw-rw-r-- 
+^ispell_abject ^ircrc : -rwx--x--x ^ircrc -rwx--x--x -rwx--x--x : ^learnrc 
+-rwx--x--x ^ispell_abject : -rwx--x--x ^juluold ^lesshst ^juluold : 
+^lesshst ^learnrc : ^lesshst : ^lynxrc ^lesshst : ^machinescarred ^lesshst 
+^lynxrc ^machinescarred : ^bruiseddir ^machinescarred ^lynxrc 
+/net/bruised/spool/panix//b/sondheim@panix^com ^machinescarred ^bruiseddir 
+^bruiseder ^machinescarred ^bruiseder Oct ^bruiseddir ^bruisedme Oct 
+/net/bruised/spool/panix//b/sondheim@panix^com drwx--x--x ^bruiseder Oct 
+^bruisedspool Oct drwx--x--x ^bruisedspool ^bruisedme -rwx------ 
+^bruisedspool drwx--x--x : ^bruisedspool -rwx------ ^scarred ^bruisedspool 
+: ^scarred -rwx------ ^scarred^old ^scarred : ^motd-social_time ^scarred 
+^scarred^old ^motd_time ^scarred ^motd_time ^msgsrc ^scarred^old ^muttrc 
+^msgsrc ^motd-social_time Apr ^msgsrc ^msgsrc ^ncftp ^msgsrc Apr ^ncftp 
+^muttrc Dec ^ncftp Apr ^newhurtingrc ^ncftp Dec ^newhurtingrc ^ncftp 
+^newhurtingrc ^newhurtingrc Dec ^hurtingrc ^newhurtingrc ^newhurtingrc 
+^hurtingrc^bak ^newhurtingrc ^newhurtingrc ^hurtingrc^eep ^newhurtingrc 
+^hurtingrc^eep ^hurtingrc^old ^hurtingrc ^hurtingreader ^hurtingrc^old 
+^hurtingrc^bak Mar ^hurtingrc^old ^hurtingrc^old ^nn ^hurtingrc^old Mar 
+^nn ^hurtingreader ^oldhurtingrc ^nn Mar ^phoenix^away ^nn ^oldhurtingrc : 
+^nn ^phoenix^away : ^oldhurtingrc ^dirty-crash : ^one ^dirty-debug : : : : 
+^dirty-debug ^dirty-debug ^dirty-crash ^dirty-debug ^dirty-debug 
+^dirty-debug ^dirty-debug ^dirty-debug ^dirty-debug : ^dirty-debug 
+^dirty-debug ^dirty-debug : ^dirty-debug ^dirty-debug ^dirty-debug 
+^dirtyrc : ^dirty-debug ^dirtyrc~ ^dirty-debug ^dirtyrc ^dirtyrc~ 
+^dirty-debug ^plan ^dirtyrc~ : ^printmenu ^dirtyrc~ ^dirtyrc~ ^procbruised 
+^dirtyrc~ ^printmenu ^procbruisedrc ^plan ^procbruisedrc ^procbruisedrc 
+^printmenu ^profile ^procbruisedrc ^procbruisedrc ^profile^save 
+^procbruisedrc ^profile ^project : ^project ^project ^profile ^pshenv 
+^project ^profile^save ^pshrc ^project ^pshenv ^pshrc ^project ^pshrc^old 
+^pshrc ^pscreen -rw-rw-rw- ^pshrc ^pshrc ^rhosts ^pshrc -rw-rw-rw- ^rmm 
+^pshrc^old ^rmm ^rmm -rw-rw-rw- ^filthysoft ^rmm ^rmm ^s ^rmm ^filthysoft 
+^sig ^filthylast ^sig ^sig ^filthysoft ^ssh ^sig ^s ^termtype ^sig ^spam 
+^termtype ^sig ^tfrc ^termtype ^spam ^tin ^termtype ^termtype : ^termtype 
+^tin ^trace ^tfrc ^trace ^trace ^tin ^two ^trace ^trace ^xtod ^trace ^two 
+^ytalkrc ^trn ^ytalkrc ^ytalkrc ^two Mail ^ytalkrc ^xtod News ^ytalkrc 
+GoogleSearch^wsdl News ^ytalkrc News : GoogleSearch^wsdl a News News : 
+News a ad : ad ad a lulu ad ad : ad lulu class : class class lulu : class 
+: travis class julu travis class travis : julu leo : travis : : leo lisp : 
+lisp lisp leo bruised lisp lisp : lisp bruised mod lynx_bookmarks^html mod 
+mod bruised : mod : : mod : notes mod : notes : bandage^txt notes : : 
+notes bandage^txt sger_prop_short^pdf notes sger_prop_short^pdf 
+sger_prop_short^pdf bandage^txt leaking^txt sger_prop_short^pdf : : 
+sger_prop_short^pdf : leaking : leaking leaking leaking^txt leaking :  
+leaking leaking
+http://www.alansondheim.org/banes.mov
+
+
+
+
+I met my Baby, out behind the Gaz-Works
+
+
+You don't often think of your body unless you're thinking of your body. 
+It's there and even when you think of it, you're incarnated, presenced. 
+You're presenced all the time. Sign off Second Life and you're gone. 
+That's the ground state, disappearance. In SL your bodies intended, 
+there's nothing given but the slate. Whatever is added parallels cinema 
+and the mise en scene - nothing is left to chance unless chance is 
+determined, built-in. But it's the projections that fundamentally 
+characterize it - introjections from SL body to organism, projections from 
+organism to SL body. Think of this as jectivity, an uncanny relationship 
+which escapes determination, which flirts with abjection. The SL body is a 
+body that is witnessed, except for the somewhat clumsy 'mouselook' which 
+places you within it; the mouselook eerily bends the landscape while the 
+framework monitor remains static. There's always background going on in or 
+within/without SL; jectivity operates through a normalization that behaves 
+as dream-screen - for jectivity to occur, the SL/organism interface must 
+appear coherent, cohering - an inhabitation or dwelling beyond building. 
+Gaz breaks through this in a way that would be illicit in the world of 
+organism, of course; pulled or distended limbs in the latter would be a 
+form of torture or death. One might still speak of self-image and perhaps 
+drugs which alter it, even the appearance of the physical scaffolding of 
+the organic body, but Gaz does this with what one postulates, again as a 
+kind of background radiation, as a normal state which is a state of 
+absence.
+
+All of this is too neat and I'd argue further a few things - first, that 
+body and mind are always already both 'real' and 'virtual,' the computer 
+monitor appearing within this almost as afterthought - and second, that 
+culture, which is interlaced with intentionality, occurs all the way down 
+and across - not only from amoeba to, say, bird (with destructive humans 
+halfway across this continuum), but also from carbon- to silicon- based 
+lifeform which would include both amoeba and computer, if not the internal 
+combustion engine. I speak of spew and emissions - of signifiers which 
+ride across and above the surfaces of what's really going on - the true 
+world - and it's these signifiers that are subtextual operatives within 
+Second Life and art- or culture- working in Second Life, which is coding, 
+coded, recoding, writing, rewriting, and wryting itself constantly - 
+wryting being the implicit inhering relationship of inscriptive to the 
+body, bodily inscription and inscriptive body coalescing and coalesced 
+from the very beginning.
+
+Think of edges of worlds and bodies; Second Life adds two new constants: 
+height (evidenced in flying) and gameworld boundaries, for example at the 
+bottom of the ocean where everything is transformed, and moving forward 
+out of the gamespace results in asymptotic returns to the interior. Camera 
+movement can distance you from the avatar; one can move within, beneath, 
+above, within her. There are at least two positions of inherent interest. 
+In the first, the camera leaves the avatar altogether, in order to peer 
+beneath the gamespace or elsewhere across forbidden zones, and in the 
+second, the camera appears within the avatar body - a view that brings the 
+sheaves/prims to the foreground, not goreground, as the avatar dissolves 
+into empty space. Gaz' reach extends, appears to extend, of course it 
+doesn't and can't, outside the gamespace altogether (a point in an expand- 
+ing universe is still within an expanding universe) - this is an inversion 
+of a caveworld, transformed into private plateau. Again the physics are 
+odd, exposing the Second Life universe as non-isotropic whatsoever - as a 
+construct within which worlding occurs and within/without which the true 
+world operates as it does, ontologically and epistemologically, everywhere 
+we are, can think of, within and without jectivity.
+
+Now there are issues of entrapment, reminiscent of current RIAA stuff; Gaz 
+insists that one's body in Second Life is not one's own, and that jectiv- 
+ity in the same is only artifact, in fact mitigated by Linden Labs, at 
+best. S/he's a gadfly or parasitic (in Serres' sense of cultural producer) 
+about the game (as one is a man or woman 'about the town'). So one's 
+behavior in the vicinity of a Gazwork, gasworks (think of Bhopal) is not 
+one's own, either; the distortions and entrapments, the weighings-down, 
+are not of one's making, but of one's wandering into a work such that the 
+wandering becomes the catalyst or primordial state of the work.
+
+Not always, but almost always, avatars are smaller than one's physical 
+body, or appear so. And one's viewpoint is not always, but almost always, 
+above and behind the avatar, slightly raised - as if one's watching a 
+soccer game, which for a spectator can be senseless from a ground-based 
+camera. I think this kind of miniaturization tends towards a maternal 
+reading of the world, a reading within which the image on the screen forms 
+a safe matrix; after all, the computer goes on and off, games and software 
+are replaced or updated, and both the world and you go on. So here's this 
+safe world, and jectivity or what one might call the 'jectivity-braid' - 
+the braid of psychoanalytic renderings, readings and writings, introjec- 
+tions and projections, dreamings and hallucinatings, all before or within 
+and without the screen - this braid is taken for granted; it's the safe- 
+house of the world, transforming the world and the true world into a 
+habitus. As a result of peering and miniaturization among other things. 
+And the ability to chat and keep or erase chat. And the ability to fly or 
+teletransport, playing into Freud's condensation/displacement in the 
+dreamwork. Second Life is a _pun_ in this regard - one place quickly sub- 
+stituted for another, and such substitutions revolutionary or disrupting 
+as one landscape disappears, another appears - perhaps throwing everything 
+off but just for a (very safe) moment. It's the safety in punning that 
+makes them revolutionary, and the same safety occurs in relation and 
+through the braid. So again, when Gaz takes a meta-position in relation to 
+this relation, when Gaz appears apparently half-in and half-out of the 
+gamespace, the disruptive becomes difficult to absorb, becomes something 
+that doesn't happen in the real (except perhaps with sado-masochism and 
+the use of safewords which break out of one theater into another). It's a 
+contradiction which can't be absorbed. And to return to one's "own" avatar 
+body after Gaz' distortion, one logs out of Second Life - in other words 
+out of the fundamental world, what is _being_ the fundamental world - into 
+another world with its real dangers, etc. - the world of the inert or 
+'idiotic' real (Rosset).
+
+So that the space-time slice within which your body is distorted must be 
+abandoned. So that one returns and in this return, like the prodigal 
+daughter or sun, the body is made w/hole again, just like in the MOOs and 
+MUDs and various adventure games which are the history of all these spaces 
+and WOW and whatnot. (I want to mention briefly my own work here, which is 
+concerned with inconceivable positionings of one's own avatar, position- 
+ings within which behaviors pile on behaviors, creating 'behavior colli- 
+sions' that create, for the viewer (distinct from the performer), a 
+disturbing and/or dis/eased representation of the body, an abject body 
+that indicates something else other the normative is occurring, something 
+that can't be absorbed. With Gaz, this occurs first-person - the change is 
+to _me_ and my image/imaginary; with my work, it's third-person and in a 
+sense stains or transforms the mise en scene into something abject and 
+unexpected.)
+
+To conclude on a mundane note - There are two things that distinguish Gaz' 
+works as well as Second Life, and are critical for contemporary theory, to 
+the extent that contemporary theory is critical. First, the latter: When- 
+ever people talk about an experience in Second Life, they talk as if 
+they're _in the world_: "I just wandered around and didn't see much." "I 
+talked to some people and a bird flew overhead and grabbed me." "I was 
+teleported to the Odyssey Gallery and saw an amazing work there, well, not 
+actually _saw,_ but experienced." "I kept looking for someone but all I 
+found were empty spaces." And so forth. So the _experience_ of SL melds 
+with experience otherwise (or the same), and this doesn't happen with 
+other online experiences, except of course games and other social spaces. 
+We adapt quickly to the screen, we're braided to the screen, and this 
+permits the creation of artworks and environments that simply have no 
+parallel elsewhere: "I entered this house and it flew away." "I turned 
+myself from a forty-year-old man into a sexy twenty-year-old." "I couldn't 
+get lose from the bird until I logged out and in again." "I was buried in 
+paintings." "Records played by themselves." "I flew." We say these things 
+as if they're everyday, as if they were always possible. "Question-marks 
+were falling everywhere." Sometimes the servers are hacked or slowed up, 
+but even this can be absorbed until everything grinds to a halt, and then 
+one just logs out, waits, logs in again. This logging-out/logging-in has 
+become an integral part of SL, in fact, just as online/offline otherwise 
+is integral to being in a post-industrial world. (I do want to point out 
+that this isn't, naturally, the only world - the world outside the matrix 
+or braid is characterized by intense poverty, local wars, starvations, and 
+so forth, and SL is powerless in relation to these; one might argue in 
+fact that SL is too much of a safe haven, that it detracts from real 
+praxis and real difference in the true world. And there's truth to this.)
+
+The second, related, thing in conclusion, is Gaz' works themselves; as I 
+pointed out above, the behaviors they trigger couldn't occur outside 
+gamespace without bodily destruction - and some of the behaviors couldn't 
+occur at all. So these behaviors, these works, are absolutely unique in 
+this respect; they depend on both a reading of the SL environment as 
+'natural,' and a scripting within and of that environment to produce the 
+'unnatural' which is still read as natural. These works, on this level, 
+question the authority of the real, of the idiotic real; they're a kind of 
+critique that couldn't exist anywhere else. The viewer/participant isn't 
+prepared for them. (UPS trucks falling on one!) So one engages both crit- 
+ically and psychologically/psychoanalytically - the works create both 
+contemplation and affect, in ways we're not used to. And that, at least 
+for me, is one of the highest goals of art - to create that sense of 
+dis/comfort that gives us a place to question everything, and to return 
+from that questioning hopefully wiser. On a personal note, I can't say 
+I've found anything as intriguing as Gaz' works, anywhere, and for a long 
+time, and I'm still fathoming out the implications, still feeling the 
+limbs extended almost to the breaking-point. Gaz is a pioneer in the body 
+and space of the Other - and perhaps nothing more need have been said than 
+that.
+
+===
+
+References in no particular order (check online for details):
+
+Drew Leder, The Absent Body
+Alfred, Schutz, Reflections on the Problem of Relevance
+Dalai Lama, introduction by Jeffrey Hopkins, Kalachakra Tantra,
+ Rite of Initiation
+Janet Gyatso, Apparitions of the Self, The Secret Autobiographies of a
+ Tibetan Visionary
+Candrakirti, Madhyamakavatara (The Entry into the Middle Way)
+Hevajra Tanta
+Visuddhi Magga (The Path of Purification)
+Paul Fishwick (editor), Aesthetic Computing
+(by various) second life, the official guide (2007)
+
+===
+
+
+in the rasping of these many worlds
+
+{ on a foreign planet a great claw moves
+
+dark masses echo safety's incarnate form
+
+{ serrated edges hold things in its grasp
+
+imaginary in our sad faltering
+
+{ thud echoes through the mantle up and down
+
+safety in the curling inward home
+
+{ knowing neither home nor sea nor sky
+
+follow down beneath our fulling surface
+
+{ dimly lit and friction takes its course
+
+hiding from the universe and death
+
+{ othering murmurs everywhere abroad
+
+cuddling quietly in endless sleep
+
+{ alive and everywhere and endless claws
+
+always deep below beyond the deep
+
+{ on every planet murmuring and maws
+
+
+http://www.alansondheim.org/internals.bmp
+
+
+
+Backwoods Lowery
+
+
+The Lowery organ was a fixture for decades; in Morgantown, there's a music 
+shop that specializes in them, but they're expensive. Nonetheless, I found 
+an old Lowery Mini-Genie, which looks like a Casio plastic keyboard (61 
+keys), but was apparently made by JVC for Lowery fans in the early-80s who 
+wanted something portable. Although early digital, it sounds like nothing 
+else and I recorded extended lounging which will surely find its way into 
+avatar videos. So here for your listening enjoyment,
+
+http://www.alansondheim.org/lowery2.mp3
+http://www.alansondheim.org/lowery6.mp3
+http://www.alansondheim.org/lowery7.mp3
+http://www.alansondheim.org/lowery8.mp3
+http://www.alansondheim.org/lowery10.mp3
+http://www.alansondheim.org/lowery11.mp3
+
+which are all based on one or another closely-watched rhythm or timbre, 
+somewhat similar, modulated for the most part in overly-strict time 
+signatures developed for easy early-80s listening.
+
+
+
+Evidence from the large scanner: 
+
+Azure Carter film noir templates for continuance of research
+into the obscenity of the night
+
+http://www.alansondheim.org/azuren1.gif
+http://www.alansondheim.org/azuren2.gif
+http://www.alansondheim.org/azuren12.gif
+http://www.alansondheim.org/azuren21.gif
+http://www.alansondheim.org/azuren32.gif
+http://www.alansondheim.org/azuresit.gif
+
+
+(later this week) evidence from the large scanner
+
+point-cloud into abject objects of desire, smeared pixels
+and the conjuration of the true real organism
+
+http://www.alansondheim.org/azureleg1.jpg
+http://www.alansondheim.org/azureleg2.jpg
+http://www.alansondheim.org/azureleg3.jpg
+http://www.alansondheim.org/azureleg4.jpg
+http://www.alansondheim.org/azureleg5.jpg
+http://www.alansondheim.org/azurelega.jpg
+http://www.alansondheim.org/azurelegb.jpg
+http://www.alansondheim.org/azurelegc.jpg
+
+(David Askevold would have liked this; in a way the translucency of the 
+digital and pristine quality of the analogic, that sort of thing, would 
+have resonated. I remember the two of us scuttling down a barren coastal 
+cliff, jagged rocks all the way, in the middle of a pitch-dark and stormy 
+Nova Scotia winter night. We were recording a foghorn and its echoes, 
+holding on for dear life. I can see the scanner images through an uncanny 
+the memory of these soundings, which are with me here in West Virginia, a 
+35-year-old tape. I'd dedicate these works to him if that weren't such an 
+absurd, meaningless gesture, especially in the face and body of death.)
+
+
+
+
+
+some characteristics of organic and emanent life
+
+
+homeostasis - boundary maintenance + (coherency of avatar body)
+elaboration: coherency references a body that remains topologically
+ connected, no matter what external and internal motions occur.
+consideration: of course the body may be split by wounding, division,
+ and other processes; in these cases, the body homeostatically
+ repositions itself. external motions: the organism or emanent changing
+ position in relation to the external world (space time coordinates);
+ internal motion: processes, motions, within the body of the organism.
+
+
+immunity - identity maintenance + (database accountancy)
+elaboration: immunological processes based on body identification 
+ (organism) and database stability and stable addressing of whole and
+ parts (emanent).
+consideration: relationship of dis/ease and disease/hacking. identity
+ maintenance occurs within absolute fluidity; with organism, motility
+ and bodily changes (disease/death/exhaustion/dissolution/decay/
+ extinction/mutation etc.), and with emanent, 'remakes' (new textures,
+ bodies, accouterments, etc.), corporate transformations (economy,
+ merger, dissolution, etc.), and interest/disinterest/defuge in
+ relation to maintenance.
+
+
+culture - remembrance and communality + (history of interactivity)
+elaboration: organism - culture occurring 'all the way down,' with
+ internal/external memories/storage/data-processing/quantum and
+ molecular, etc. memory and communality inhere. emanent - relation-
+ ship of external (organic) or internal (digital) mind to avatar
+ _steerage_ (which is intentional).
+consideration: mind inhabits organism inhabits mind; inherence is
+ primordial, backgrounding. there is a complex relationship between
+ this inhabitation and issues of health, disease, death, etc. - issues
+ that simultaneously reify and parcel the body, and a turn towards 
+ moments or places/spaces of body (pain for example) that call for 
+ tending. there are qualitatively different tendings for organism and 
+ emanent; it is a matter of time before they coalesce.
+
+
+negation - circumscription of an other + (avatar interactions, 
+ game physics)
+elaboration: circumscription sends the other to the pale; structures
+ gesture and language, transforms ikonic into indexical. 
+consideration: semantics of avatar boundaries on a subtextual level;
+ semantics of organic boundaries on the supra-textual. the latter is
+ ikonic, the former, indexical. (perhaps there is no place for the
+ symbolic in the midst of emanents and organisms.)
+
+
+consumption and excretion tropisms (energy flow)
+elaboration: evanescent organic life as abject spew, continuous
+ breathing. a stationary emanent requires no energy; a stationary
+ organism continues its tropic behavior.
+consideration: nature of the tropism, energy-seeking, pollution-
+ fleeing. direction of emanent irrelevant; energy comes from external
+ steerage.
+
+
+variegated metabolic processes (chemical, quantum, atomic)
+elaboration: striations and differentiations within organism. 
+ epistemologically, organism transforms internally and externally
+ from horizon to horizon; emanent possesses epistemological
+ equivalence (substance) and differentiation occurs in syntactics.
+consideration: herbert simon's nearly decomposable hierarchies;
+ differentiation in organism occurs on the level of the phoneme.
+ emanent and organism meet on the plane of semantics, sememe.
+
+-- absorption and excretion
+elaboration: or circulation, necessary for organism, and only for 
+ emanent in the sense that mind requires circulation (as do
+ computers in terms of cycles, energy-flow, etc.). 
+consideration: note in all of these instances we're considering life
+ in terms of the _metabolic,_ flux-processes, remembering, identity,
+ recognitions, tropisms, negations, perceptions.
+
+-- reproduction 
+elaboration: organisms most often self-reproduce through one or 
+ multiple generations; emanents do not. organic emanent minds do
+ but not electronic emanent minds, do not. 
+consideration: reproduction is not necessarily a constituent of
+ life - dreams of the loch ness monster point in another direction.
+ and there is always the exhaustion, punctum, of the 'last of a 
+ species' or reproductive pool, which is becoming more and more
+ common. say that reproduction temporally smears the organic while
+ identity spatially restricts the organic.
+
+----- carrier image (reproductive plan, layout) + (template)
+elaboration: reproduction is haunted by the organism to be, whether
+ template or internal processes.
+consideration: with organism, reproduction is always already uncanny;
+ with emanent, reproduction is canny. with organism, internal and 
+ with emanent external, steered. the emanent is always already
+ hallucinatory, which is not to say inexact or 'unreal'; its model
+ and modeling are elsewhere. let us say that the emanent is freed
+ from reproduction but an emanent class is bound to steering mind for
+ continued existence.
+
+
+maintenance of interiority
+elaboration: what goes on inside, stays inside, is maintained inside.
+ for organism this includes temperature control (or adjustments to
+ non-control); for emanents, this again is a matter of contiguity at
+ best.
+consideration: wounds close, bruises heal, diseases disperse; there 
+ is an ideal at the back of organism, backgrounding organism, as if
+ primordial (and when i use 'primordial' here, i mean nothing meta-
+ physical, only primitives, backgroundings, against or within which
+ everything else occurs). nothing immediately with emanents, but a long
+ time ago, in irc (internet relay chat), netsplit would occur, and
+ members of coherent communities would be cut off from each other -
+ there would for example be two, not one *love channels. it would be
+ of interest to think through the metabolism and political economy
+ of irc channels and channel communities as organisms.
+
+
+biome and niche maintenance (immediate vicinity cleanup)
+elaboration: what happens outside the body of the organism, more or
+ less in the immediate vicinity (think of potential exceptions such 
+ as albatross or plankton, bring them into the model by including
+ mobile niches, evanescent biomes). emanents also tend to control 
+ their immediate vicinity; sl avatars will have a 'home' teleport
+ site, will fly to a certain height, will be admitted or not to 
+ restricted territories (and may create restricted territories of
+ their own). 
+consideration: mobile niches within evanescent biomes are of great
+ interest; they reflect the potential of taz (temporary autonomous
+ zones) and extend the concepts of home and territory - the latter
+ might be considered a personal niche, and the former, that biome
+ which provides a necessary degree of comfort for its species and
+ occupants. different species may connote different biome 
+ definitions which overlap and are displaced from 'human geography'
+ and its defining characteristics.
+
+
+contiguity of body or bodies + (substructure of sheave-skin)
+elaboration: organic body held together by skeletal (internal and
+ external) structures, skin and muscle, etc.; the sheave-skin held
+ together by parent-child relationships and restrictions on size
+ and angle. contiguity is complex with sheave-skins; importing a
+ bvh file into blender requires hand-setting the parent-child
+ relationships, and motion capture models permit extensions and
+ topological remodelings of these. generally organic bodies are
+ topographically defined; there are physical restraints to size, etc.
+ while emanent bodies are topological, once 'set' into structure by
+ node assignments. again, the latter reference external steerage.
+consideration: this external steerage of emanents is mapped in
+ various ways - through mind and gui or other interfaces, through
+ virtual reality interaction software, through software itself which
+ may operate emanents autonomously, so that the emanent becomes 
+ nothing more than an output display of a program epistemologically
+ other. of course this may change in the future; there is no reason
+ why emanents should not be autonomous and locally-so, so that 
+ steerage, communication, etc., is part and parcel of the emanent
+ software, integral to it, inhering. 
+
+
+regulated, homeostatic communication
+elaboration: organisms and emanents are nodes, channels, transmitters,
+ receptors, codes, encodings, decodings, part-objects and their per- 
+ ception, skins and sheave-skins and their perception. to the extent
+ that regulation occurs, cohering semantics emerges; to the extent
+ that noise or parasitism enters the systems, transformations and
+ possible mutations occur, beneficial or destructive, possibly inher-
+ ited or not (and the latter, with emanent mind-steering, becomes to
+ some extent an issue of conscious choice).
+consideration: one begins to approach a _plasma model_ within which
+ forms flux, and flux forms, stases are imminent and always in the
+ process of forming and dissolving; memory is primordial (in the
+ above sense). 
+
+-- internal and external + (between mind and emanent)
+elaboration: internal processes are homeostatically regulated in
+ organism; it is moot whether such occur in emanents except to the
+ extent that _emanents are inherently part of the gamespace, do not
+ ontologically exist other than as gamespace._
+consideration: external communication - one might bring issues of
+ data-bases with both organism and emanent, steerage, community and
+ individual memory, community and individual hallucination, etc. it's
+ here that language comes forth as the mutual orienting of cognitive
+ domains (maturana); while one might speak of the cosmos as languaging
+ and only languaging (epistemologically and ontologically), one might
+ also conceive of languaging as ikonic in terms of the primordial,
+ the thinging of language, or language grounded (as in electronic
+ grounding) in things. in this sense, language is literally an after-
+ thought, shape-riding.
+
+-- emitters and receptors (within and without organisms)
+elaboration: sm (sado-masochist/abject) maws/fits/misfits,
+ the contradictory transformed into the contrary or wayward.
+consideration: emitters and receptors are in-line, online, bought
+ into line vis-a-vis codings. without emitter and receptor interfaces,
+ languaging doesn't happen; one might think then of emitters and
+ receptors _themselves_ as ikonic languages, so that sign-flows are
+ fundamental (but not symbols or indices).
+
+---- emitter and receptor codings (entranceways and exits)
+elaboration: entrances and exits but also molecular or protocol 
+ structures, sm touch/scent/contact. information must obey etiquette,
+ otherwise it's noise. etiquette touches on the aesthetics and
+ efficiency of coding. _coded emanents have no code_; their code is
+ external steerage, subtextual beneath the surface, in the dis/splay
+ of sheave-skin.
+consideration: it's important to think through analog/ikonic and 
+ digital/indexical here. organism code is ikonic to the extent that,
+ for example, dna coding _is_ molecular, while emanent code is
+ indexical since to some extent programming languages are interchange-
+ able, they're teleologically drawn-out to steerage goals, and they
+ form/construct a performative layer which runs the emanent directly.
+
+---- domain orientations (tropic turns towards energy, communication 
+ potentials)
+elaboration: organisms are tropic, turning towards, away, or skew-
+ orthogonally; emanents are tropic through camera positioning (without
+ the camera, emanents are invisible, non-existent, which are not equiv-
+ alent) within the aegis of mind.
+consideration: cameras move emanents as residue, dejecta, abject stain
+ on occasion blocking the field of view. 
+
+
+pollutions and abjections (body disposal, chemical slough)
+
+-- purifications and expulsions
+elaboration: this operates on the epistemological if not ontological
+ dichotomy described re: kristeva, douglas, etc. organisms are channels
+ and flows; the flows channel, and the channels flow. the abject is
+ integral to organism, just as purification and expulsion may be 
+ integral to emanent.
+consideration: this may be far too simplistic, but it's a step at 
+ least. when the true world is considered, emanent and organism are
+ interpenetrated, intermingled, formed and in/formed together at the 
+ limit.
+
+
+emanents and avatars inhere, cohere, mishmash, spew, emit, slur, slough, 
+intermingle, interpenetrate, within the true world, they are true-world- 
+ing, in a sense mind-only, but only in the sense that steerage is always 
+present, from language through metabolic process through retinal process- 
+ing, immunological defense systems, heartbeat, hormonal maintenance, soft- 
+ware updating and replacement, membrane filtering, and so forth. this is 
+_not_ life force, but inherited and inhering organization in relation to 
+reproduction, within which the carrier image is but a dream, our dream, 
+our presentification of the future anterior.
+
+(elements marked + pertain in particular to emanent/avatar process. note
+that in the above, 'emanent' and 'avatar' are to some extent equivalent, 
+although the latter is mostly reserved for entities within second life
+and other online/offline 'virtual' worlds.)
+
+
+
+this ungainly one.
+
+over a half hour at top speed, I wanted to see what happens with extended 
+improvisation bound to permanent rhythm. with a rhythm of steel ferrules. 
+hot notes beckoning. what happened that I saw was severe carpal tunnel in 
+my right wrist and elbow. it was close to impossible for me to play this 
+fast for any length of time. so i thought; now my hand and arm shake with 
+jabs of pain. you can hear this occasioned at 
+http://www.alansondheim.org/hotsmall.mp3 . 
+
+the other Lowery have been removed to make room for this ungainly one.
+
+
+murm
+
+
+http://www.alansondheim.org/murm.mp3
+
+homeohZtahZayehZthmuhZ - boundar+ maayentenanCLAWLAWLAWLAWe + 
+(CLAWLAWLAWLAWoherrrrrenCLAWLAWLAWLAWOO+ ofukuukuukuukulsh! avatar bod+) 
+elaborashunt: CLAWLAWLAWLAWoherrrrrenCLAWLAWLAWLAWOO+ 
+refukuukuukuukuerrrrrenCLAWLAWLAWLAWehZ a bod+ THOOOOOOOOat remaayenhZ 
+topologayeCLAWLAWLAWLAWalulululull+
+ CLAWLAWLAWLAWonneCLAWLAWLAWLAWted, no matternrnrnrnr wanedanedanedanedhat 
+ex-tasis-tahZayehZthmuhZ-tahZayehZthmuhZ-tahZayehZternrnrnrnrnl andrea 
+ayenternrnrnrnrnl moshunthZ oCLAWLAWLAWLAWCLAWLAWLAWLAWur. 
+CLAWLAWLAWLAWonhZayederrrrrashunt: ofukuukuukuukulsh! CLAWLAWLAWLAWourhZe 
+THOOOOOOOOe bod+ ma+ bre& hZplayet b+ wanedanedanedanedoundayeng, 
+dayevayehZayeon,
+ andrea oTHOOOOOOOOerrrrr proCLAWLAWLAWLAWehZhzehZ; ayen THOOOOOOOOehZe 
+CLAWLAWLAWLAWahZehZ, THOOOOOOOOe bod+ 
+homeohZtatayeCLAWLAWLAWLAWalulululull+
+ repohZayeshunthZ ayethZelfukuukuukuukulsh!. 
+ex-tasis-tahZayehZthmuhZ-tahZayehZthmuhZ-tahZayehZternrnrnrnrnl moshunthZ: 
+THOOOOOOOOe organayehZm or emanent CLAWLAWLAWLAWhangayeng
+ pohZayeshunt ayen relashunt \taut THOOOOOOOOe 
+ex-tasis-tahZayehZthmuhZ-tahZayehZthmuhZ-tahZayehZternrnrnrnrnl 
+wanedanedanedanedorld (hZpaCLAWLAWLAWLAWe tayeme 
+CLAWLAWLAWLAWoordayenatehZ);
+ ayenternrnrnrnrnl moshunt: proCLAWLAWLAWLAWehZhzehZ, moshunthZ, 
+wanedanedanedanedayeTHOOOOOOOOayen THOOOOOOOOe bod+ ofukuukuukuukulsh! 
+THOOOOOOOOe organayehZm.
+
+http://www.alansondheim.org/murm.mp3
+
+ayemmunayet+ - ayedentayet+ maayentenanCLAWLAWLAWLAWe + (databahZe 
+aCLAWLAWLAWLAWCLAWLAWLAWLAWountanCLAWLAWLAWLAWOO+) elaborashunt: 
+ayemmunologayeCLAWLAWLAWLAWl proCLAWLAWLAWLAWehZhzehZ bahZed on bod+ 
+ayedentayefukuukuukuukuayeCLAWLAWLAWLAWashunt
+ (organayehZm) andrea databahZe hZtabayelayet+ andrea hZtable 
+addrehZhzayeng ofukuukuukuukulsh! wanedanedanedanedhole andrea
+ parthZ (emanent). CLAWLAWLAWLAWonhZayederrrrrashunt: relashuntshayep 
+ofukuukuukuukulsh! dayehZthmuhZ/eahZe andrea 
+dayehZeahZe/haCLAWLAWLAWLAWkayeng. ayedentayet+
+ maayentenanCLAWLAWLAWLAWe oCLAWLAWLAWLAWCLAWLAWLAWLAWurhZ 
+wanedanedanedanedayeTHOOOOOOOOayen abhZolute fukuukuukuukuluayedayet+; 
+wanedanedanedanedayeth organayehZm, motayelayet+
+ andrea bodayel+ CLAWLAWLAWLAWhangehZ 
+(dayehZeahZe/death/ex-tasis-tahZayehZthmuhZ-
+ tahZayehZthmuhZ-tahZayeshauhZshunt/dayehZhzolushunt/deCLAWLAWLAWLAWa+/
+ 
+ex-tasis-tahZayehZthmuhZ-tahZayehZthmuhZ-
+ tahZayehZtayenCLAWLAWLAWLAWshunt/mutashunt 
+etCLAWLAWLAWLAWOO.), andrea wanedanedanedanedayeth emanent, remakehZ 
+(neodeo^oode tex-tasis-tahZayehZthmuhZ-tahZayehZthmuhZ-tahZayehZturehZ,
+ bodayeehZ, aCLAWLAWLAWLAWCLAWLAWLAWLAWouternrnrnrnrmenthZ, 
+etCLAWLAWLAWLAWOO.), CLAWLAWLAWLAWorporate tranhZfukuukuukuukuormashunthZ 
+(eCLAWLAWLAWLAWonom+,
+ merrrrrgerrrrr, dayehZhzolushunt, etCLAWLAWLAWLAWOO.), andrea 
+ayenternrnrnrnrehZt/dayehZayenternrnrnrnrehZt/defukuukuukuukuuge ayen
+ relashunt \taut maayentenanCLAWLAWLAWLAWe.
+
+http://www.alansondheim.org/murm.mp3
+
+
+
+structure of a classroom conversation on codework 
+january 2007
+
+
+ :   29--2007 14:51:36 
+   -   6    !! 29--2007 
+29--2007 14:52:20 
+ :   -      29--2007 
+14:52:29 
+ :    . 29--2007 14:52:30 
+ : ***** 29--2007 14:52:53 
+ 29--2007 14:53:02 
+ :  29--2007 14:53:07 
+ : ! 29--2007 14:53:11 
+... 29--2007 14:53:22 
+ 29--2007 14:53:52 
+ :  29--2007 14:53:57 
+ :    ? 29--2007 14:54:13 
+ :    ... 29--2007 14:54:39 
+ :     29--2007 14:54:45 
+ :  29--2007 14:55:11 
+ :       - 29--2007 14:55:28 
+     29--2007 14:55:28 
+     29--2007 14:55:34 
+     29--2007 14:55:46 
+     29--2007 14:55:51 
+ : '   ! 29--2007 14:55:59 
+ : '   ! 29--2007 14:56:14 
+     29--2007 14:56:28 
+     29--2007 14:56:32 
+ :  29--2007 14:56:43 
+ :  29--2007 14:56:46 
+ :    29--2007 14:56:47 
+ :  29--2007 14:56:56 
+ :  29--2007 14:57:04 
+     29--2007 14:57:18 
+     29--2007 14:57:21 
+ :  29--2007 14:57:36 
+ : '    29--2007 14:57:42 
+     29--2007 14:57:45 
+://../1.  29--2007 14:57:45 
+ 29--2007 14:57:48 
+ :  ! 29--2007 14:57:57 
+ :      ? 29--2007 14:58:02 
+   '    ! 29--2007 14:58:10 
+ :  ,  ,   29--2007 14:58:25 
+? 29--2007 14:58:26 
+ :     ;-) 29--2007 14:58:30 
+     29--2007 14:58:32 
+ : ,    29--2007 14:58:32 
+ 29--2007 14:58:34 
+ :   29--2007 14:58:41 
+ :    ... 29--2007 14:58:42 
+ :  ,   29--2007 14:58:43 
+ :  - ' ? 29--2007 14:58:48 
+ :  ! 29--2007 14:58:52 
+ :   29--2007 14:58:54 
+ :  29--2007 14:58:54 
+ :   ,     . 29--2007 
+29--2007 14:58:59 
+ :   29--2007 14:59:06 
+ :     ... 29--2007 14:59:16 
+     29--2007 14:59:19 
+ ! 29--2007 14:59:22 
+          29--2007 14:59:23 
+ : '    29--2007 14:59:26 
+ : ,         29--2007 
+    . 29--2007 15:00:12 
+   . 29--2007 15:00:13 
+ : '    . 29--2007 15:00:17 
+     29--2007 15:00:26 
+29--2007 15:00:34 
+ : !    - 29--2007 15:00:35 
+ :  29--2007 15:00:46 
+     29--2007 15:00:56 
+29--2007 15:01:01 
+ :  29--2007 15:01:09 
+ :  '      - 29--2007 
+ :    29--2007 15:01:21 
+ :      '  ? 29--2007 
+       29--2007 15:01:46 
+ :     29--2007 15:01:55 
+   29--2007 15:02:01 
+ : ,  29--2007 15:02:05 
+  - 29--2007 15:02:26 
+     29--2007 15:02:29 
+ :  29--2007 15:02:37 
+ :  - 29--2007 15:02:41 
+29--2007 15:02:45 
+29--2007 15:02:53 
+ :    29--2007 15:02:53 
+      29--2007 15:03:24 
+ :  '   29--2007 15:03:43 
+ :  29--2007 15:04:01 
+ : ,    ,    29--2007 15:04:10 
+   - 29--2007 15:04:18 
+29--2007 15:04:34 
+ -     - 29--2007 15:04:36 
+ :   . - 29--2007 15:04:43 
+ :    ,   29--2007 15:04:58 
+   - 29--2007 15:05:00 
+ :   29--2007 15:05:05 
+ :       , 29--2007 
+ :   -  - 29--2007 15:05:24 
+      29--2007 15:05:26 
+ : '    . 29--2007 15:05:31 
+ :         29--2007 15:05:32 
+ :     29--2007 15:05:42 
+ : '   -  - 29--2007 15:05:49 
+29--2007 15:06:04 
+  29--2007 15:06:09 
+ : '      - 29--2007 15:06:20 
+  -  ''  29--2007 15:06:40 
+ :       29--2007 15:06:54 
+()    29--2007 15:06:58 
+ ? 29--2007 15:07:22 
+, , , . 29--2007 15:07:28 
+  . 29--2007 15:07:59 
+   . 29--2007 15:08:17 
+   . 29--2007 15:08:34 
+. 29--2007 15:08:52 
+29--2007 15:09:14 
+      29--2007 15:09:24 
+   . 29--2007 15:09:37 
+ :       ? 29--2007 
+ - 29--2007 15:09:57 
+,    , . 29--2007 15:10:18 
+29--2007 15:10:32 
+,      ''  - 29--2007 
+29--2007 15:11:46 
+  - 29--2007 15:12:04 
+ ,      -, "" 29--2007 
+ : -     . 29--2007 15:12:41 
+ :     29--2007 15:13:27 
+/      29--2007 15:13:43 
+ :  ? 29--2007 15:13:46 
+ :  3    . 29--2007 15:14:08 
+     29--2007 15:14:21 
+    - 29--2007 15:14:28 
+ : ,     29--2007 15:14:40 
+     29--2007 15:14:49 
+ : ,   29--2007 15:14:59 
+  -      . 29--2007 15:15:01 
+ :   29--2007 15:15:04 
+ 29--2007 15:15:05 
+ :      29--2007 15:15:17 
+ :    -    -   ... 29--2007 
+ .3         - 29--2007 
+ :     29--2007 15:15:53 
+  -    29--2007 15:16:11 
+ :      29--2007 15:16:12 
+ : ,       ,  29--2007 15:16:16 
+29--2007 15:16:20 
+ :     29--2007 15:16:26 
+ - 29--2007 15:16:57 
+) 29--2007 15:17:13 
+29--2007 15:17:41 
+ :          29--2007 
+ :  ,        29--2007 
+     - 29--2007 15:18:06 
+ :   29--2007 15:18:19 
+://../.  29--2007 15:18:20 
+ :     ? 29--2007 15:18:38 
+ :  29--2007 15:18:49 
+29--2007 15:19:14 
+ . 29--2007 15:19:39 
+29--2007 15:20:16 
+    ... 29--2007 15:20:33 
+29--2007 15:21:16 
+    ,    .) 29--2007 
+      29--2007 15:21:41 
+     - 29--2007 15:21:54 
+     29--2007 15:22:13 
+      29--2007 15:22:28 
+     29--2007 15:22:38 
+  : * 29--2007 15:22:38 
+     ,   ... 29--2007 
+     29--2007 15:22:45 
+ :    29--2007 15:22:55 
+ :      29--2007 15:23:08 
+ :  - -       29--2007 
+ :     29--2007 
+ :      29--2007 15:23:43 
+  -! 29--2007 15:24:03 
+29--2007 15:24:32 
+        29--2007 15:24:55 
+ . 29--2007 15:25:12 
+29--2007 15:25:49 
+      29--2007 15:25:53 
+29--2007 15:26:09 
+         ,  29--2007 
+ :  ...   29--2007 15:26:17 
+29--2007 15:26:40 
+ -     ""    - 29--2007 15:27:08 
+ :    . 29--2007 15:27:14 
+         29--2007 
+29--2007 15:29:15 
+      - 29--2007 15:29:33 
+ : ,      29--2007 15:30:21 
+ - 29--2007 15:30:23 
+   ! 29--2007 15:30:33 
+  29--2007 15:31:00 
+ :     29--2007 15:31:05 
+ :     29--2007 15:31:58 
+ ( '     )    - 29--2007 
+ :    29--2007 15:32:36 
+   , ,     29--2007 15:33:02 
+. 29--2007 15:33:15 
+ :  , ,        29--2007 15:33:46 
+ :     ,     29--2007 
+29--2007 15:34:02 
+ : ,       29--2007 
+       - 29--2007 15:34:29 
+ :    29--2007 15:34:38 
+  " 29--2007 15:35:37 
+. 29--2007 15:36:18 
+29--2007 15:36:29 
+ 29--2007 15:37:05 
+    . 29--2007 15:37:13 
+  . 29--2007 15:37:30 
+ :  29--2007 15:37:32 
+       /. 29--2007 15:37:38 
+ :  -  '    - 29--2007 
+ : ! 29--2007 15:38:21 
+ :        29--2007 15:38:22 
+ :   29--2007 15:38:24 
+ :         29--2007 
+ - 29--2007 15:38:55 
+  ; 29--2007 15:39:31 
+         . 29--2007 15:39:51 
+   . 29--2007 15:40:05 
+ : '       29--2007 15:40:21 
+   - 29--2007 15:40:36 
+       ?   29 15:16:32  2007
+   :  ' '    29 
+,      ,     - 29--2007 
+ : '   ? 29--2007 15:41:15 
+ :  (   29--2007 15:41:22 
+    ?   29 15:24:44  2007
+ 29 15:41:40  2007
+ ,   '. 29--2007 15:41:46 
+  29--2007 15:42:16 
+,     ?   29 15:29:21  2007
+   :      29 15:42:16  2007
+29--2007 15:42:49 
+  '   ' -   ... 29--2007 
+   - '  29--2007 15:43:55 
+ ? 29--2007 15:44:04 
+  ... 29--2007 15:44:10 
+ 29--2007 15:44:33 
+ '   . 29--2007 15:44:49 
+29--2007 15:45:03 
+ : ,   ...   29--2007 15:45:03 
+ :    29--2007 15:45:05 
+     . 29--2007 15:45:22 
+ :   ,    ... 29--2007 
+ :         29--2007 15:45:51 
+ :          29--2007 
+ 29--2007 15:46:05 
+,  , . 29--2007 15:46:09 
+      -  29--2007 
+ :        . 29--2007 
+ : ,        29--2007 15:46:59 
+ 29--2007 15:47:10 
+ ' . 29--2007 15:47:27 
+  -         - 29--2007 
+  29--2007 15:48:08 
+ :  -  29--2007 15:48:16 
+29--2007 15:48:23 
+ :     ,    29--2007 
+29--2007 15:48:34 
+     29--2007 15:49:00 
+   . 29--2007 15:49:02 
+ : , '  29--2007 15:49:16 
+ :       . 29--2007 15:49:18 
+ :        29--2007 
+ :    3   . 29--2007 
+ :     3  29--2007 15:49:52 
+   -         - 29--2007 
+ :   ,    29--2007 15:49:55 
+      . 29--2007 15:50:18 
+29--2007 15:50:18 
+ :      29--2007 15:50:30 
+. 29--2007 15:50:33 
+ : '   &  -   29--2007 
+     ) 29--2007 15:51:28 
+'      ,  29--2007 15:51:49 
+     29--2007 15:51:50 
+ : , ' .    29--2007 
+ :     29--2007 15:52:21 
+29--2007 15:52:25 
+ :  - '       29--2007 
+  -  - 29--2007 15:52:48 
+29--2007 15:52:51 
+     29--2007 15:53:00 
+ :   29--2007 15:53:19 
+ ,    , . 29--2007 
+ :  ! 29--2007 15:53:28 
+29--2007 15:53:39 
+ :     29--2007 15:53:52 
+ . 29--2007 15:54:06 
+ :   . 29--2007 15:54:10 
+  ... 29--2007 15:54:27 
+29--2007 15:54:58 
+29--2007 15:55:07 
+ :  - 29--2007 15:55:12 
+ ? 29--2007 15:55:18 
+ :     ... 29--2007 15:55:47 
+).. 29--2007 15:55:55 
+  . 29--2007 15:56:10 
+29--2007 15:56:21 
+     29--2007 15:56:43 
+ : ;-) 29--2007 15:56:54 
+29--2007 15:56:56 
+',' . 29--2007 15:57:14 
+ . 29--2007 15:57:28 
+, . 29--2007 15:58:04 
+. 29--2007 15:58:34 
+'   ' . 29--2007 15:59:04 
+29--2007 15:59:14 
+ : ??   ? 29--2007 15:59:28 
+29--2007 15:59:42 
+ :       29--2007 15:59:49 
+ : ,   . 29--2007 15:59:52 
+ :  29--2007 16:00:00 
+,      29--2007 16:00:02 
+ :   1, 29--2007 16:00:17 
+     29--2007 16:00:28 
+   .        . 29--2007 
+ :   29--2007 16:01:05 
+29--2007 16:01:07 
+29--2007 16:01:19 
+ " " 29--2007 16:01:31 
+ : ,      29--2007 16:01:34 
+29--2007 16:01:41 
+  :   29--2007 16:01:52 
+'  . 29--2007 16:02:19 
+ : ,         29--2007 16:02:21 
+ : '        . 29--2007 
+  :    ? 29--2007 16:02:35 
+  :   29--2007 16:02:42 
+  :    29--2007 16:02:48 
+ : ? '     ... 29--2007 16:02:53 
+ :    29--2007 16:02:53 
+    29--2007 16:02:58 
+, .  '   . 29--2007 16:03:01 
+  :   29--2007 16:03:07 
+... 29--2007 16:03:19 
+ . 29--2007 16:03:23 
+ :   - 29--2007 16:03:24 
+ 29--2007 16:03:25 
+ :       . 29--2007 
+ : ,          29--2007 
+ :   29--2007 16:03:47 
+ :  ,     29--2007 16:03:52 
+'       (). 29--2007 16:03:55 
+ :     29--2007 16:04:14 
+     29--2007 16:04:17 
+  . 29--2007 16:04:35 
+ :   29--2007 16:04:49 
+     29--2007 16:04:51 
+,  '   '   ... 29--2007 16:04:55 
+    ..     29--2007 16:05:14 
+ :      - 29--2007 16:05:23 
+ : -  -   29--2007 
+ : ,      29--2007 16:05:37 
+ :  ,      ... 29--2007 
+ 29--2007 16:05:58 
+ :   ''  -   29--2007 
+ :  29--2007 16:06:13 
+ :     ,  29--2007 16:06:14 
+   )    29--2007 16:06:32 
+29--2007 16:06:48 
+ :     ? 29--2007 16:06:52 
+ 29--2007 16:06:53 
+ :  '' ('    .) 29--2007 
+ ! 29--2007 16:07:11 
+29--2007 16:07:12 
+ :        - 29--2007 
+ :      ? 29--2007 16:07:31 
+     - 29--2007 16:07:32 
+29--2007 16:07:43 
+ :  29--2007 16:07:44 
+ :     ? 29--2007 16:07:53 
+ :       ? 29--2007 
+   . 29--2007 16:08:19 
+ :        29--2007 
+29--2007 16:08:32 
+ : ,         29--2007 
+ :       29--2007 16:08:53 
+( )      . 29--2007 
+     29--2007 16:09:17 
+29--2007 16:09:50 
+     ... 29--2007 16:09:51 
+ . 29--2007 16:10:09 
+ :   29--2007 16:10:20 
+ .      29--2007 16:10:24 
+ '     29--2007 16:10:25 
+ : '   . - 29--2007 16:10:34 
+ - 29--2007 16:10:53 
+29--2007 16:11:03 
+ :     29--2007 16:11:12 
+ ,       29--2007 16:11:19 
+29--2007 16:11:27 
+ :  ,   29--2007 16:11:28 
+ :     29--2007 16:11:38 
+     ... 29--2007 16:11:51 
+ :    -  29--2007 16:11:52 
+ :  ! - 29--2007 16:11:56 
+ :      29--2007 16:11:59 
+      29--2007 16:12:03 
+ :   - 29--2007 16:12:05 
+     29--2007 16:12:07 
+     29--2007 16:12:20 
+? '      29--2007 16:12:26 
+     29--2007 16:12:27 
+ :   ! 29--2007 16:12:34 
+   29--2007 16:12:41 
+29--2007 16:12:46 
+ :      29--2007 16:12:53 
+ :  29--2007 16:12:56 
+ :       29--2007 16:13:05 
+ :      29--2007 16:13:11 
+... 29--2007 16:13:27 
+ :        ;-) 29--2007 
+ : ..     29--2007 16:13:51 
+29--2007 16:13:59 
+... 29--2007 16:13:59 
+ : ,       ! 29--2007 
+ : ,  '  ... 29--2007 16:14:17 
+ :           29--2007 
+ : ,  29--2007 16:14:32 
+ : '       29--2007 16:14:33 
+ :    29--2007 16:14:38 
+ :  - 29--2007 16:14:40 
+ :  29--2007 16:14:45 
+ : .. 29--2007 16:14:46 
+   ... 29--2007 16:14:56 
+     29--2007 16:14:57 
+ : -  - 29--2007 16:14:59 
+     29--2007 16:15:08 
+ : ' 29--2007 16:15:08 
+     29--2007 16:15:17 
+     29--2007 16:15:19 
+     29--2007 16:15:27 
+
+
+
+
+the kiss
+
+
+the kiss the touch of life and death
+darling give me your last breath
+i'll place my lips against your skull
+and marrow swoons and all is null
+
+
+http://www.alansondheim.org/thekiss.mp4
+
+
+and void against the gristeled grid
+your lips my bones construct a lid
+that turns self-slaughtered in the wind
+o emanents please let us in
+
+
+the chest and groin
+
+
+among sites hidden nightly from one another
+are chest and groin, no matter what bother
+one sticks to, male or female blend,
+and chest and groin come to untimely end
+
+a hand moves, fingers, thrust and throb, then silence
+death hangs tattered on the scanner's fence
+gender falters in ungainly weather
+somewhere worlds collapse, one's metal mother
+
+http://www.alansondheim.org/chest1.jpg
+http://www.alansondheim.org/chest2.jpg
+http://www.alansondheim.org/chest3.jpg
+http://www.alansondheim.org/chest4.jpg
+http://www.alansondheim.org/chest5.jpg
+http://www.alansondheim.org/chest6.jpg
+http://www.alansondheim.org/groin1.jpg
+http://www.alansondheim.org/groin2.jpg
+http://www.alansondheim.org/groin3.jpg
+http://www.alansondheim.org/groin4.jpg
+http://www.alansondheim.org/groin5.jpg
+http://www.alansondheim.org/groin6.jpg
+
+
+
+sorrowful the intervention of death
+
+
+sorrowful the intervention of death
+mournful community, the horizon continues briefly, then desolation
+tears of martyrs of kenya, darfur, small witnessings in forests
+sorrowful the finality, how i claw at death
+how i cultivate my tiny death, caress my intervention
+before you i am going, after you, following and the forests
+and the forests and the imminent cliffs
+how sorrowful they are
+
+
+the first 4 are pieces for another cd
+
+the next group are smallscanner modifications with artifacts, moving
+towards the extremities of the software's ability to coalesce with
+the dream of the real. the triangular protrusions are similar to the
+catastrophic jumps visible in the motion capture videos. 
+
+here thom's semantics of catastrophe theory, his linguistic primitives,
+are more than useful. code at the limits turns to prey.
+
+http://www.alansondheim.org/tobin2.mp3
+http://www.alansondheim.org/tobin3.mp3
+http://www.alansondheim.org/tobin4.mp3
+http://www.alansondheim.org/tobin5.mp3
+http://www.alansondheim.org/trueworldword01.jpg
+http://www.alansondheim.org/trueworldword02.jpg
+http://www.alansondheim.org/trueworldword03.jpg
+http://www.alansondheim.org/trueworldword04.jpg
+http://www.alansondheim.org/trueworldword05.jpg
+http://www.alansondheim.org/trueworldword06.jpg
+http://www.alansondheim.org/trueworldword07.jpg
+http://www.alansondheim.org/trueworldword08.jpg
+http://www.alansondheim.org/trueworldword09.jpg
+http://www.alansondheim.org/trueworldword10.jpg
+http://www.alansondheim.org/trueworldword11.jpg
+http://www.alansondheim.org/trueworldword12.jpg
+http://www.alansondheim.org/trueworldword13.jpg
+
+
+
+,===>
+
+i was n. and a had telling been me her that four, the from age of close 
+unclear. to time, suicide, eighth for we when year tried so, up lived with 
+in painted, her, visited asylum else pills p. everyone how after cut she 
+married someone june else. first around my it all sad no store, turned got 
+shortly hear pin could what going met worse
+
+i i was was n. n. and and a a had had telling telling been been me me her 
+her that that four, four, the the from from age age of of close close 
+unclear. unclear. to to time, time, suicide, suicide, eighth eighth for 
+for we we when when year year tried tried so, so, up up lived lived with 
+with in in painted, painted, her, her, visited visited asylum asylum else 
+else pills pills p. p. everyone everyone how how after after cut cut she 
+she married married someone someone june june else. else. first first 
+around around my my it it all all sad sad no no store, store, turned 
+turned got got shortly shortly hear hear pin pin could could what what 
+going going met met worse worse
+
+dark. dark. i close was i n. was and n. a and had a telling had been 
+telling me been her me that her four, that the four, from the age from of 
+age close of unclear. with to unclear. time, to suicide, time, eighth 
+suicide, for eighth we for when we year when tried year so, tried up so, 
+lived up with lived in she painted, in her, painted, visited her, asylum 
+visited else asylum pills else p. pills everyone p. how everyone after how 
+cut after she cut married got someone married june someone else. june 
+first else. around first my around it my all it sad all no sad store, no 
+turned store, got turned shortly worse hear shortly pin hear could pin 
+what could going what met going worse met
+
+dark. dark. i close was i n. was and n. a and had a telling had been 
+telling me been her me that her four, that the four, from the age from of 
+age close of unclear. with to unclear. time, to suicide, time, eighth 
+suicide, for eighth we for when we year when tried year so, tried up so, 
+lived up with lived in she painted, in her, painted, visited her, asylum 
+visited else asylum pills else p. pills everyone p. how everyone after how 
+cut after she cut married got someone married june someone else. june 
+first else. around first my around it my all it sad all no sad store, no 
+turned store, got turned shortly worse hear shortly pin hear could pin 
+what could going what met going worse met
+
+
+
+spirit
+
+
+spirit lurid speaks lured through me
+lured me sprite exalt breath pinned-down
+sprout more murmured light begone me
+up foregrounding wine-dark sea
+and red-dark sea through cells her gown
+jeweled inside and beside me dim sounded
+surge upwound again and urgent ecstasy
+
+http://www.alansondheim.org/conju01.jpg
+http://www.alansondheim.org/conju02.jpg
+http://www.alansondheim.org/conju03.jpg
+http://www.alansondheim.org/conju04.jpg
+http://www.alansondheim.org/conju05.jpg
+http://www.alansondheim.org/conju06.jpg
+http://www.alansondheim.org/conju07.jpg
+http://www.alansondheim.org/conju08.jpg
+http://www.alansondheim.org/conju09.jpg
+http://www.alansondheim.org/conju10.jpg
+
+and violent ecstasy
+

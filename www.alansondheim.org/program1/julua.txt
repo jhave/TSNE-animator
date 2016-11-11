@@ -1,0 +1,128 @@
+#!/usr/local/bin/perl5 -w
+
+# Makes new gender lines in a trace file
+# which represent the striations of user's desire
+$t = time;
+$| = 1;
+srand time;
+@a=("hard", "soft", "velvet", "cotton", "linen", "flax", "pure",
+"black", "dirty", "clean", "soiled", "sexy", "wet", "sleazy",
+"wayward", "nice", "feminine", "lovely", "used", "fashionable", "small",
+"death-like", "lively", "protruding", "penetrating", "thrusting",
+"giving", "forgiving", "poor", "rich", "sedate", "wanton", "contrary",
+"nervous", "wandering", "ill", "uneasy", "spry", "florid", "edgy",
+"neurotic", "psychotic", "catatonic", "loose", "taut", "tight",
+"depressed", "manic");
+@verb=("thrusts", "turns", "surrounds", "oozes", "inherits", "splays",
+"plays", "mixes", "amuses", "runs", "flows", "repairs");
+@prep=("beneath or within", "beyond", "throughout", "confusing",
+"staining", "accompanying");
+@noun=("breast", "love", "passion", "womb", "being", "your penis", 
+"your vagina", "your makeup", "your masquerade", "my makeup", 
+"my masquerade");
+@nnn=("flower", "thing", "hole", "stick", "frock", "jumper", "skin");
+$nnnn= int rand(8);
+$non = int rand(11);
+$non1 = int rand(7);
+$pre = int rand(6);
+$gen = int(48*rand);
+$gen1 = int(48*rand);
+$gen2 = 49 - int(40*rand);
+$time = int(time/3600);
+$g = int(8*rand);
+if ($sign=fork) {print "\nOpen your mouth...\n";}
+ else {sleep(1); print "\nAh... speak... speak...\n";
+  exit(0);}
+sleep(2);
+print "\nJennifer, what do they call you, when they call you...\n";
+chop($that=<STDIN>);
+print "\nAre you dressed as $that? Is $that dressed as you?\n";
+print "Are you in your @nnn[$nnnn], are you in your flesh, ah don't answer...\n"; sleep(1);
+print "Ah...\n";
+sleep(2);
+print "\nIs Julu wearing your ... , are you wearing your @nnn[$non1]? \n";
+chop($str=<STDIN>);
+if ($str eq "no") {print "\nShow me your panties...\n"; sleep(10); goto FINAL;}  
+else {print "\nI love your feelings, $that ...\n";}
+print "Would $that mind you partying?", "\n" if 1==$g;
+print "Your thighs are moist and inviting", "\n" if 5==$g;
+print "Your breasts call me to them...", "\n" if 6== $g;
+print "Your tongue speaks so sweetly, turning me grrrl", "\n" if 4==$g;
+sleep(1);
+print "\n@noun[$non1] @verb[$non] me @prep[$nnnn] your @nnn[$non1]!\n";
+print "\nWhat do you call your @a[$gen2] @nnn[$nnnn]?\n";
+$name=<STDIN>;
+chop $name;
+print "\n";
+print "$that, $name turns my @nnn[$g] ", "\n" if 3==$g; 
+print "$that, $name opens me totally to you!", "\n" if 7==$g;
+print "Nothing moves, river deep...", "\n" if 5==$g;
+print "Your $name is mine, my sweet $that, I am yours!", "\n" if 2==$g;
+sleep(1);
+print "Your body parts, mine, in a dark list, list them... \n";
+print "one by one, each on a line alone, typing Control-d when done.\n";
+@adj=<STDIN>;
+chop(@adj);
+$size=@adj;
+$pick=int(rand($size));
+srand;
+$newpick=int(rand($size));
+print "\nMy @adj[$pick] is yours...\n";
+$be=int(rand(4));
+ open(APPEND, ">> enfolding");
+ print APPEND
+  join(":",$name,$str,$that,@adj[$pick + 1], @adj[$newpick + 1]), "\n"; 
+# join(":",@adj,$name,$str,$sign,$g,$that,$name,@adj[$pick]), "\n"; 
+print APPEND "Would $that mind you partying, $name, with us?\n" if 3==$be;
+print APPEND "Come home with me, $name, julu-of-the-fast-crowd!\n" if 2==$be;
+print APPEND "Your @a[$gen1] @adj[$pick] is in my @a[$gen] @adj[$newpick]\n" if 1 > $b3;
+print APPEND "Your @noun[$non1] seeps into my @adj[$newpick] - turning me Julu-Jennifer\n" if 0==$be; 
+print APPEND "Ah, @noun[$non] eaten by julu-of-the-open-arms and julu-depressed\n" if (2 < $be); 
+print APPEND "Devour @a[$gen1] @adj[$pick] julu-of-the partying $name!\n" if 1==$be;
+ close(APPEND);
+ open(STDOUT);
+ if ($pid = fork) {
+  $diff=$pid - $$;
+  print "$name makes me thoughtful $diff times!", "\n" if 5 < $g;
+
+  print <<Construct;
+
+$name calls forth @a[$gen1] @noun[$non], eating, excreting memory. 
+@prep[$pre] the @a[$gen], $name is @a[$diff], @a[$gen], $str?
+... @noun[$non] is @adj[$newpick] here, it's @noun[$non]?
+
+Construct
+
+} else {
+          close (STDOUT);
+
+          system("touch .trace; rev enfolding >> .trace");
+          system("rm enfolding");
+
+          exit(0);
+}
+sleep(1);
+print "Are you becoming close to Jennifer's $name?\n";
+chop($answer=<STDIN>);
+if ($answer eq "no") {print "You're dealing with @a[10+$pre] Jennifer.\n";}  
+if ($answer eq "yes") {print "Ah, a @a[10+$pre] and @a[15+$pre] fantasy!\n";}
+print "You melt into Julu's skin forever...", "\n\n" if 3 < $g;
+print "I think $name $pid is your scar, your wound, your brand.", "\n\n" if 3==$g;
+print "... @a[$non] $name $$ is Julu's gift to you ...", "\n\n" if 6==$g;
+print "Your $name $diff is darling Jennifer's flesh", "\n\n" if 4==$g;
+print "You wore her frock for $time hours?", "\n" if 2==$g;
+sleep(1);
+print "$name and $$ and $pid - and you knew that all along!", "\n\n" if 2==$g;
+sleep(1);
+print "Wait! $name and $pid are gone forever!", "\n\n" if 1==$g;
+FINAL: {
+$d = int((gmtime)[6]);
+$gen3 = 48 - int(20*rand);
+print "For $d @a[$gen2] days, I have been @a[$gen3] Julu ...";
+print "\n";
+$u = (time - $t)/60;
+printf "and it has taken you just %2.3f minutes turning Jennifer ...", "$u";
+print "\n\n"; 
+print `rev .trace`, "\n\n";
+}
+exit(0);

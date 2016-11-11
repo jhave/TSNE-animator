@@ -1,0 +1,785 @@
+
+
+Texta From The Talker
+
+
+
+Wandering in the Virtual City
+
+
+thanks to Andres Lepp
+
+Welcome to Virtual City, Alan a new user
+
+<04:09 Alan>
+@go main_street
+
+You are at the main_street
+
+Welcome to Main Street - your path to all the excitement the city 
+has to offer.  "Watch out for those cars!"  The sounds of honking 
+horns fills the air.  As you hop onto the curb and take a look 
+around, a light mist starts to fall...You realize that you should 
+soon make your way into the Virtual City that awaits you...
+
+You can go to the : broadway promenade central_park pub wall_street 
+seaside
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+@go pub
+
+You are at the pub
+
+The pub 'Frog & Shield' is the main Irish joint in the City. Here 
+you can always find a pint of Guinness or a shot of good Irish 
+malt, along with a good company to drink it with. The main room is 
+filled with jolly music, loud hum of bartalk and an occasional 
+beersong.
+
+You can go to the : bar billiards video_arcade main_street upstairs
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<04:10 Alan>
+@review
+Last things done on pub
+Susan smiles: so much for you :)
+Susan will sing a sad song
+Gerald says: o my love
+
+<04:10 Alan>
+@go bar
+
+You are at the bar
+
+You can go to the : pub  video_arcade
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<04:10 Alan>
+@review
+Last things done on bar
+
+<04:11 Alan>
+
+You are at the pub
+
+<04:11 Alan>
+@go upstairs
+
+You are at the upstairs
+
+Here in the upstairs corridor are the entrances to the office of 
+the manager and to some private rooms for more secretive 
+customers. If you want to reserve one of those, then talk to the 
+manager. Floor is covered with soft carpet and on the wall are 
+candle-shaped lamps.
+
+You can go to the : pub blue_room red_room office
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<04:11 Alan>
+@go blue_room
+
+You are at the blue_room
+
+You are in the Blue Room. King-size bed dominates the room. Couple 
+of chairs, a couch, desk under the window, cabinet in the corner 
+and a bath. Everything you might need during a business trip or a 
+love affair.
+
+You can go to the : upstairs
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<04:11 Alan>
+@review
+Last things done on blue_room
+Gerald is on a chair, staring, alone, at the bed.
+
+<04:12 Alan>
+:I am in the midst of ghosts and whispers.
+Alan I am in the midst of ghosts and whispers.
+
+<04:12 Alan>
+Alan searches among the ghosts and sees nothing.
+Alan says: Alan searches among the ghosts and sees nothing.
+
+<04:12 Alan>
+:searches among the ghosts and sees nothing.
+Alan searches among the ghosts and sees nothing.
+
+<04:13 Alan>
+;cries and whispers
+Alan cries and whispers
+
+<04:13 Alan>
+Among all the worlds I have come and gone, among,
+Alan says: Among all the worlds I have come and gone, among,
+
+<04:13 Alan>
+this is the most beautiful
+Alan says: this is the most beautiful
+
+<04:18 Alan>
+@review
+Last things done on main_street
+
+Susan smiles: I knew you would find me, it was just a matter of 
+time.
+Laurie says: Gerald was somewhere around, I wonder where he's 
+gone.
+Laurie says: He was speaking of clouds and travel.
+Susan smiles: Yes, of course, and windows to the abyss.
+Laurie says: Always these spaces are so unnerving.
+Susan winks: Now you sound like Gerald!
+Laurie says: Men, remain at home. Women, explore the wilderness.
+Laurie says: Tentatively we will all meet at the plaza.
+Susan says: The three of us, no one else is here.
+Susan says: We will take vast strids.
+Laurie says: Gerald!
+Susan smiles: The three of us!
+Laurie says: review
+Laurie says: NOW!
+Davis says: w
+Alan says: ...wait...
+
+<04:19 Alan>
+@go beach
+
+You are at the beach
+
+You can go to the : seaside
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<04:19 Alan>
+@topic the wall of fallen flowers
+Topic set to the wall of fallen flowers
+<04:20 Alan>
+@go seaside
+
+You are at the seaside
+
+You can go to the : beach port main_street broadway garage 
+central_park
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<04:21 Alan>
+@go central_park
+
+You are at the central_park
+
+It's a beautiful sunny day.  You begin to daydream as you gaze 
+past the swans swimming around the the beautiful glass-like lake.  
+A light summer's breeze blows in carrying the light scent of 
+lilacs.  You lay down your blanket and open up your picinic 
+basket, ready to enjoy a relaxing afternoon in the park. ...right 
+now you don't have a care in the world....
+
+You can go to the : main_street library pet_store playground 
+subway
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<04:21 Alan>
+@topic the lake, and all the time in the world...
+Topic set to the lake, and all the time in the world...
+<04:22 Alan>
+beauty continues, increase upon increase...
+Alan says: beauty continues, increase upon increase...
+
+<04:22 Alan>
+I will lay myself down and forever...
+Alan says: I will lay myself down and forever...
+
+<04:22 Alan>
+@topic I will lay myself down and forever...
+Topic set to I will lay myself down and forever...
+
+@quit
+
+Have a nice day, Alan
+Connection closed by foreign host.
+
+
+
+[ A rewrite of a narrative; I spent some time looking for a talker, a form 
+of chat and architecture popular before the Web, still online. This is the 
+only one I found, in Estonia. I wrote the sysadmin and he gave me a name 
+and password. I went in and explored and rewrote the 'review' dialog, 
+which was a remnant of Estonians who had been in the talker before. So 
+they were ghosts. I didn't understand their dialog - it was in Estonian 
+and I thought in any case publishing would be a violation of privacy. So I 
+wrote my own dialog as a result, substituting for theirs. It was an eerie 
+space. - Alan ]
+
+
+
+The ghosts speak, themselves, the ghosts speak themselves
+
+
+The ghosts speak, themselves: the ghosts speak themselves
+
+[ processed from an abandoned Estonian talker, names changed, 
+text translated through Google ]
+
+
+You are at the main_street
+
+Welcome to Main Street - your path to all the excitement the city 
+has to offer.  "Watch out for those cars!"  The sounds of honking 
+horns fills the air.  As you hop onto the curb and take a look 
+around, a light mist starts to fall...You realize that you should 
+soon make your way into the Virtual City that awaits you...
+
+You can go to the : broadway  promenade  central_park  pub  
+wall_street  seaside
+
+You are alone here.
+
+The room is set to public
+There are 0 messages on the board
+There is no current topic here
+
+<08:36 Alan>
+.rev
+Last things done on main_street
+Laura smiles: This is actually definitely a hard scene where 
+someone gets on here and someone is already ahead :)
+Anna says: irw, I do not think anyone realizes into a very
+Anna says: However, if you invite, you will probably come
+Laura smiles: do not know anything ... Look to this are those 
+nostalgia fans to both :)
+Anna says: well, if they remember, though, they will come
+Laura winks: would be cool though;)
+Anna says: well, I'll think about it tomorrow
+Anna says: interesting, when I last visited here before today
+Laura says: By the way - speaking of summer, and plans - worth 
+memorizing option Sru Jazz. I'm almost definitely out there, and 
+our place in it is almost
+Anna says: I vaaasin that the parts are gone again in 2004
+Anna says: Ah, leave out
+Laura says: But there is still time. Prior to cope with winter
+Anna says: Yes, that's right
+Laura smiles: But olks. I guess to put it to bed now. Nostalgia 
+was hard whack :)
+Anna says: irw: D
+
+The pub 'Frog & Shield' is the main Irish joint in the City. here 
+you can always find a pint of Guinness or a shot of good Irish 
+malt, along with a good company to drink it with. The main room is 
+filled with jolly music, loud hum of Bartali and an occasional 
+beersong.
+
+You can go to the: bar billiards upstairs video_arcade main_street
+
+You are alone here.
+
+<08:38 Alan>
+. rev
+Last things done is pub
+Chris smiles: a pub, where else :)
+Chris brings beers
+Caroline says: welcome
+Laura says: lrev
+Anna says: 'go br
+Alan play and work in the Virtual City, I'll do that
+
+Last things done the gallery
+Anna says: I
+Anna says: a color-
+
+You are at the subway
+
+You've Reached the subway - your ticket to all the city has to 
+offer. as you look around at the graffiti on the walls, you wonder 
+how safe you are ... but hey, afterall, if the drunk in the corner 
+is okay, you should be too .... right?
+
+You can go to the Broadway promenade ghetto
+You are alone here.
+Current topic is: Boo-Yaka
+
+<08:45 Alan>
+. rev
+Last things done is the subway
+Ent says: 'nao
+Ent)
+Ent says: [B [B
+Enda says:-w
+Anna says: 'map
+You are at the ghetto
+
+This is the place where all the lowlife of the City residents. 
+Dark hours here are very dangerous and nobody will give a dime for 
+your wallet nor safety. The rouhg Conditions here. So better 
+behave if you want to survive here.
+
+You can go to the: shrink skid_row drugstore
+
+You are alone here.
+<08:47 Alan>
+. rev
+Last things done is a ghetto
+Steve says: ls
+
+You are at the shrink
+
+This is a safe place. Nobody can hurt you here ... Neither can 
+you. It's clean, quiet and friendly here.
+
+You can go to the Shrink
+You are alone here.
+
+<08:49 Alan>
+. rev
+Last things done is shrink
+A patient says: test
++ hall
+A patient thinks. o O (fish)
+A patient says: s.g shrink
+You are at the shrink
+
+This is a safe place. Nobody can hurt you here ... Neither can 
+you. It's clean, quiet and friendly here.
+
+You can go to the Shrink
+
+You are alone here.
+
+<08:49 Alan>
+. rev
+Last things done is shrink
+A patient says: test
++ hall
+A patient thinks. o O (fish)
+A patient says: s.g shrink
+
+<08:49 Alan>
+. g shrink
+You jump in vain against rubber walls.
+<08:50 Alan>
+. rev
+Last things done is shrink
+A patient says: test
++ hall
+A patient thinks. o O (fish)
+A patient says: s.g shrink
+
+<08:50 Alan>
+. g shrink
+You jump in vain against rubber walls.
+<08:50 Alan>
+. g shrink
+You jump in vain against rubber walls.
+<08:50 Alan>
+. rev
+Last things done is shrink
+A patient says: test
++ hall
+A patient thinks. o O (fish)
+A patient says: s.g shrink
+
+<08:51 Alan>
+
+
+
+.s .e .w .n
+
+Alan says: in germany there was a town a town a town
+Alan says: in germany there was a town
+Alan says: of .n go north go north
+Alan says: and in this town there was a sign
+Alan says: of .w go west go west
+Alan says: of nowhere teleport was called
+Alan says: the power out the arrow key
+Alan says: in germany in germany
+Alan says: i beg of you i cannot walk
+Alan says: my throat is cut i cannot talk
+Alan says: i brooklyn i have learned to stalk
+Alan says: in yet another century
+Alan says: i turn around and move for me i'm homeward bound
+Alan says: in germany in germany
+Alan murmurs through his wounded foot an odyssey this is not me
+Alan asks for .w am i for .w is reading .w is writing
+Alan .w for where and .w who and .w when are you coming
+Alan .i'm born and buried here in germany in germany
+Alan says: in brooklyn i am buried there in germany am buried here
+Alan .knows the nightmare of the dead is in my nightmare
+Alan .knows the breathing of the dead is in my breathing
+Alan .knows the bones are in my bones
+Alan says: in germany in germany
+Alan says: in america there was a town a town a town
+Alan says: i'm buried there my grave is in my grave
+Alan says: i cannot walk to germany i cannot walk to america
+Alan says: i cannot walk to my room i cannot walk to hear you
+Alan says: i cannot wake and cannot walk in america in germany
+Alan says: i cannot walk in latvia in lithuania
+Alan says: i cannot walk in france in england i cannot walk
+Alan says: in canada i cannot walk to america in copenhagen
+Alan says: in my room i cannot walk in my room and to another
+Alan says: in america i cannot hear i cannot see in germany
+Alan says: in germany i cannot talk in america
+Alan says .s .e .w n. i cannot go in copenhagen
+Alan says: i cannot go i cannot go i cannot go
+Alan breaks off here
+
+<05:24 Alan>
+
+
+
+the square
+
+yay yawqyu yacpcfr yawwlykpce yalg :yaqqwy yalyjy yal. yawu.
+yaq. yawqyu yacpcfr yawwlykpce yalg :yaqqwy yalyjy yamrlu ya
+yay yamrlu yalyjy yafrpml yawme yafrpml yawme yal. yadm :yaq
+yalyjy yamrlu yay :yaqqwy yalyjy yagqle yay yawqyu yacpcfr y
+yaqgfr yalg yably :yaqqwy yamlcpcfu yadm :yaqqwy yalyjy yawr
+yawme yawrqcu yawme yawu. yadm yacfr yarsm yamnpcu yacfr :ya
+yalyjy yawbcjjya yawqyu yarpmncjcr yalyjy yawwlykpce yalg ya
+yalg :yaqqwy yalyjy yawwci yaumppy yawk :yaqqwy yalyjy yawij
+yawrmllya yag yasmw yadm yacze yag :yaqqwy yammpzlwji yag :y
+yalyjy yarijy yawrmllya yag yawrsa yaqg yampfrry yapcfrmly y
+yalg :yaqqwy yalyjy yarqijy yamr yacjbclpy yafcty yag yack y
+yactmk yably yablsmpy yalpsr yag :yaqqwy yalyjy yawwpsrlca 
+yawwlykpce yalg yawwlykpce yalg :yaqqwy yalyjy yablsmz yackm
+yak'yag yaqgfr yawcqqwbm yaly yarmmd yawbcblsmu yaqgf yasmpf
+yaqpskpsk yalyjy yaqg yawu. yapmd yag yaky yawu. yapmd yaqiq
+yack yarml yaqg yawu. yably yawcpcfu yapmd yawu. yalyjy yawe
+yaqg yawu. yacpelgby yalpmz yak'yag. yalyjy yawelgkma yasmw 
+yawlcfu yawu. yably yawmfu yalg :yaqqwy yalyjy yawwlykpce ya
+yawwlykpce yalg yacpcf yabcgpsz yably yacpcf yabcgpsz yaky 
+yawwlykpce yalg yacpcfr yabcgpsz yaky yag yammpzlwji yawk ya
+yacbby yacfr yadm yaglcpykrfe yacfr yawqumli. yalyjy yalg ya
+yacbby yacfr yadm yacpzelgfry yacfr yawqumli. yalyjy yaglcpy
+yaqclmz yawk yalg yacpy yaqclmz yacfr yawqumli. yalyjy yacpz
+yawk yalg :yaqqwy yalyjy yawwlykpce yalg yawwlykpce yalg :ya
+yalyjy :yaqqwy yalyjy yamrlu yay yamrlu yay yamrlu yay yawqy
+yacpcfr yayagpcky yalyjy yawctype yawk yalg yaqg yawctype ya
+yacpcfr yabcgpsz yak'yag yamr yawijyu yawrmllya yag yawwlykp
+yawijyu yawrmllya yag :yaqqwy yag yakmmp yawk yamr yawijyu y
+yag :yaqqwy yalyjy yayagpcky yawciyu yawrmllya yag :yaqqwy y
+yasmw yacfpy yamr yawijyu yawrmllya yag :yaqqwy yalyjy yawwl
+yalg yayagpcky yalg yawijyu yawrmllya yably yag :yaqqwy yaly
+yasfrgjygly yalg yajygtry yalg yawijyu yawrmllya yawijyu yaw
+yag yalcblyje yalg yapdcaly yalg yawijyu yawrmllya yalg yaya
+yamr yawijyu yawrmllya yag yawybylya yalg :yaqqwy yalyjy yal
+yawijyu yawrmllya yag yakmmp yawk yalg :yaqqwy yalyjy yawlce
+yag yayagpcky yalg :yaqqwy yalyjy yapcfrmly yamr yably yakmm
+yalg :yaqqwy yalyjy yawwlykpce yalg yaccq yawrmllya yag yacf
+yawrmllya yac. yaq. yaqqwy yalyjy yayagpcky yalg yarijy yawr
+yag yawwlykpce yag :yaqqwy yalyjy yawlceyflcnma yalg yawme y
+yag .yal yawu. yacpzqiy yalyjy yawme yawrmllya yag yawme yaw
+yag yawme yawrmllya >yalyjy 42:50< yacpcf yaddm
+
+
+
+Destroyer of Worlds
+
+
+<19:06 Alan>
+.w
+Current users on May  4 19:06:56 2013
+
+================================================================
+| NAME -- DESCRIPTION             |     ROOM     | TIME | 
+IDLE |
+================================================================
+| Alan a new user                 | Main_street  |    0 |    
+0 |
+================================================================
+
+Total of 1 users logged on.
+
+<19:06 Alan>
+I am the destroyer of worlds
+Alan says: I am the destroyer of worlds
+
+<19:07 Alan>
+My text blots and clots the writings of others
+Alan says: My text blots and clots the writings of others
+
+<19:07 Alan>
+A newcomer, I have destroyed the past
+Alan says: A newcomer, I have destroyed the past
+
+<19:07 Alan>
+The past is irretrievable; it has disappeared
+Alan says: The past is irretrievable; it has disappeared
+
+<19:07 Alan>
+This talker is the poorer and there is no response
+Alan says: This talker is the poorer and there is no response
+
+<19:08 Alan>
+I cannot hear myself because I hear myself
+Alan says: I cannot hear myself because I hear myself
+
+<19:08 Alan>
+I wander through the city and my voice deafens me
+Alan says: I wander through the city and my voice deafens me
+
+<19:08 Alan>
+The prison is a destiny, the prison is a destiny.
+Alan says: The prison is a destiny, the prison is a destiny.
+
+<19:08 Alan>
+I have changed the net forever, I have destroyed history.
+Alan says: I have changed the net forever, I have destroyed 
+history.
+
+<19:09 Alan>
+I have trampled on the words of others filling space with 
+my own brutality.
+Alan says: I have trampled on the words of others filling 
+space with my own brutality.
+
+<19:09 Alan>
+I have trampled on their souls filling time with my arrogance 
+and english english english language
+Alan says: I have trampled on their souls filling time with 
+my arrogance and english english english language
+
+<19:10 Alan>
+I offer myself to you and it is useless no one is around
+Alan says: I offer myself to you and it is useless no one is 
+around
+
+<19:10 Alan>
+No one has been around no one has been here day after day 
+after day
+Alan says: No one has been around no one has been here day 
+after day after day
+
+<19:11 Alan>
+Inadvertently I have killed and slaughtered the word
+Alan says: Inadvertently I have killed and slaughtered the word
+
+<19:11 Alan>
+Inadvertently I have killed the language of others
+Alan says: Inadvertently I have killed the language of others
+
+<19:11 Alan>
+I have banned myself and colonized myself.
+Alan says: I have banned myself and colonized myself.
+
+<19:11 Alan>
+I have done violence to myself and violence to others.
+Alan says: I have done violence to myself and violence to others.
+
+<19:12 Alan>
+I am the destroyer of worlds
+Alan says: I am the destroyer of worlds
+
+<19:12 Alan>
+I am the destroyer of worlds.
+Alan says: I am the destroyer of worlds.
+
+<19:12 Alan>
+.rev
+Last things done on main_street
+Alan says: i cannot go i cannot go i cannot go
+Alan breaks off here
+Alan says: I am the destroyer of worlds
+Alan says: My text blots and clots the writings of others
+Alan says: A newcomer, I have destroyed the past
+Alan says: The past is irretrievable; it has disappeared
+Alan says: This talker is the poorer and there is no response
+Alan says: I cannot hear myself because I hear myself
+Alan says: I wander through the city and my voice deafens me
+Alan says: The prison is a destiny, the prison is a destiny.
+Alan says: I have changed the net forever, I have destroyed 
+history.
+Alan says: I have trampled on the words of others filling 
+space with my own brutality.
+Alan says: I have trampled on their souls filling time with my 
+arrogance and english english english language
+Alan says: I offer myself to you and it is useless no one is 
+around
+Alan says: No one has been around no one has been here day after 
+day after day
+Alan says: Inadvertently I have killed and slaughtered the word
+Alan says: Inadvertently I have killed the language of others
+Alan says: I have banned myself and colonized myself.
+Alan says: I have done violence to myself and violence to others.
+Alan says: I am the destroyer of worlds
+Alan says: I am the destroyer of worlds.
+
+[...]
+
+<19:12 Alan> The .rev command accesses a small buffer that
+reproduces the last conversation in the talker; my comments have
+eliminated the last comments of the Estonians who used it years
+ago.
+
+
+
+
+Destroyer of Worlds Destroyed Collapsed
+
+
+.ex Alan
+
+###############################################################
+Alan ghost in the machine
+Gender: Unknown  Age:           main_street Idle:    0
+Last login:      Sunday, 05 May 04:10 2013
+
+Email Address (hidden):   
+Flags :
+###############################################################
+
+Alan says: <19:06 Alan> .w Current users on May 4 19:06:56 2013
+======================================================== | NAME 
+-- DESCRIPTION ROOM TIME IDLE
+
+<04:08 Alan>
+
+Alan says: Alan a new user Main_street 0 Total 1 logged on. I am 
+the destroyer worlds says: <19:07 My text blots and clots writings 
+others A newcomer, have destroyed past The is irretrievable; it 
+has disappeared This talker poorer there no response <19:08 cannot 
+hear myself because wander through city my voice deafens me prison 
+destiny, destiny. changed net forever, history. <19:09 trampled 
+words filling space with own brutality. their souls time arrogance 
+english language <19:10 offer to you useless one around No been 
+here day after
+
+<04:08 Alan>
+19:11 is not in the City now.
+
+<04:08 Alan>
+
+<19:06 Alan>
+.w
+Current users on May  4 19:06:56 2013
+===========================================================
+| NAME -- DESCRIPTION         ROOM     TIME IDLE 
+Alan a new user Main_street  0 Total 1 logged on.
+I am the destroyer worlds
+says: 
+<19:07 My text blots and clots writings others
+A newcomer, have destroyed past
+The is irretrievable; it has disappeared
+This talker poorer there no response
+<19:08 cannot hear myself because wander through city my 
+voice deafens me prison destiny, destiny.
+changed net forever, history.
+<19:09 trampled words filling space with 
+own brutality.
+their souls time arrogance 
+english language
+<19:10 offer to you useless one around
+No been here day after 
+<19:11 Inadvertently killed slaughtered word
+banned colonized myself.
+done violence others.
+<19:12 worlds.
+.rev
+Last things main_street
+i go breaks off [...]
+
+
+.ex
+
+<06:16 Alan>
+
+Alan says: i will start with my name and end without it
+i'm ashamed of my name of what i have done here
+done here and elsewhere in america in latvia
+in germany in virtual city in estonia in arenaland
+where i have misbehaved in deep misbehavior
+:cries i can never absolve myself i have no freedom
+:weeps i can move neither to the left nor right
+:whimpers I can ascend the depths descend the heights
+cry my beloved homeland, weep lands of mothers and fathers
+call me forth and call me back towards the winter walls
+towards the wolves and foxes towards the merlin and eagle
+for the eagle shall destroy the server and the wolf the client
+i weep for nothing has prepared me for this coming forth
+this coming towards the horizon of darkness
+i carry this within me i break myself against it i log out
+my name obscure see that thing there is weeping
+those shoulders hunched the head bowed the folded body
+bowed the arms and legs bowed the neck the torso crushed
+it lies there it is a stain it folds up it disappears
+the stars go on it isn't for them
+it isn't for the sun or moon either it isn't for the air
+it has wound itself tight it has spiraled into control
+spiraled: into control
+in estonia it is gone from me in germany it is gone in latvia
+in arena land in lithuania it is gone from me in america
+it has never been in america in virtual city
+it has never been anywhere and will never be anywhere
+it is gone weeping just as one might say
+"He is gone from the city and maybe has left the country"
+"And quit, I think he's quit now, I'm almost certain."
+
+
+
+collapse of cry
+
+done here elsewhere i'm ashamed what 
+he says: start with end without 
+arenaland
+where misbehaved deep misbehavior
+:cries absolve have no freedom
+:weeps move neither to nor right
+:whimpers can ascend depths descend heights
+cry beloved homeland lands mothers fathers
+wolves foxes merlin call back winter walls
+eagle shall destroy server wolf client
+weep nothing prepared forth
+coming towards horizon of darkness
+my name obscure 
+see that thing i carry this within 
+break myself against log out
+those shoulders hunched head folded body
+bowed arms legs neck torso crushed
+lies there a stain folds up disappears
+stars go on them
+wound itself tight 
+spiraled isnt for sun or moon either air
+spiraled: into control
+never been anywhere will be in america 
+virtual arena land lithuania me estonia germany latvia
+it weeping just as one might say
+"He is gone from the city and maybe has left country"
+"And quit, I think he's quit now, I'm almost certain."
+

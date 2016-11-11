@@ -1,0 +1,1274 @@
+
+*/wish-fulfillment/*
+
+http://www.alansondheim.org/nevermade.jpg
+
+y xy y y y xy xy y y xy y xy y y y y y
+
+Script started on Fri May 27 09:40:39 2016
+$ pico zz
+n2     137    4211 zz
+
+Script started on Fri May 27 09:40:39 2016
+$ pico zz
+2     137    4211 zz
+
+*/wish-fulfillment/*
+
+A file that appends its word count, repeats the operation going 
+for the big one.
+
+- from My Files on My Nice-Machine, in Writing Under, Selections 
+From the Internet Text, by Alan Sondheim, with an introduction 
+by Sandy Baldwin, Computing Literature, The Center for Literary 
+Computing, Morgantown, WV, 2012
+
+$ wc zz >> zz
+$ r
+wc zz >> zz
+$ r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; 
+r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; 
+r; r
+
+wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc 
+zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz 
+>> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> 
+zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz 
+wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc 
+zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz 
+>> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> 
+zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz 
+wc zz >> zz wc zz >> zz
+$ echo ... >> zz
+$ exit
+
+Script done on Fri May 27 09:30:33 2016
+0 zz
+      38     230    6488 zz
+      39     234    6516 zz
+      40     238    6544 zz
+      41     242    6572 zz
+      42     246    6600 zz
+      43     250    6628 zz
+      44     254    6656 zz
+      45     258    6684 zz
+      46     262    6712 zz
+      47     266    6740 zz
+      48     270    6768 zz
+      49     274    6796 zz
+      50     278    6824 zz
+      51     282    6852 zz
+      52     286    6880 zz
+      53     290    6908 zz
+      54     294    6936 zz
+
+...
+
+*/never made the big one/*
+
+      79     461    1955 zz
+      80     465    1983 zz
+      81     469    2011 zz
+      82     473    2039 zz
+      83     477    2067 zz
+      84     481    2095 zz
+      85     485    2123 zz
+      86     489    2151 zz
+      87     493    2179 zz
+      88     497    2207 zz
+      89     501    2235 zz
+      90     505    2263 zz
+      91     509    2291 zz
+      92     513    2319 zz
+      93     517    2347 zz
+      94     521    2375 zz
+      95     525    2403 zz
+      96     529    2431 zz
+      97     533    2459 zz
+      98     537    2487 zz
+      99     541    2515 zz
+     100     545    2543 zz
+     101     549    2571 zz
+     102     553    2599 zz
+     103     557    2627 zz
+
+*/never made the big one/*
+
+
+
+Virtual Futures Somewhen Accellerrated
+
+found this, from a Warwick conf. a number of years ago
+
+http://www.alansondheim.org/virtualfutures.jpg
+http://www.alansondheim.org/virtualfutures.mp4
+
+is virtual futures. I'm the future and I won't even be there and 
+because virtual future document. screen? I'm invited to Virtual 
+Futures; I applied to speak there. I'm Participant, Warwick 
+Virtual Futures Conference, 1994 Virtual Futures conference. 
+Another effacement, distanciation. Virtual Futures Tape), the 
+real as-if (re: Postmodern Pobre tape and Perth Conference, 
+ISEA98, Virtual Futures, etc. Virtual Futures 2011 Warick 
+Virtual Futures After Virtual Futures Virtual After Virtual 
+Futures Virtual Futures After Virtual Futures Participant, 
+Warwick Virtual Futures Conference, 1994 He has performed for 
+LowLives and the Virtual Futures conference (both
+
+
+
+afile that erases itself leaving no trace of contents
+
+http://www.alansondheim.org/erase0.jpg
+http://www.alansondheim.org/erase1.jpg
+http://www.alansondheim.org/erase2.jpg
+
+$ pico afile that erases itself
+[1;1H
+  UW PICO 5.07 New Buffer [23;1H [24;1H [23;1H Get Help WriteOut 
+Read File Prev Pg Cut Text Cur Pos [24;1H Exit Justify Where is 
+Next Pg UnCut Text To Spell [3;1H [22;1H [22;35H [ New file ] 
+[1;41H File: afile [3;1H [1;37H File: afile Modified [3;1H [3;4H 
+afile [22;1H [22;1H File Name to write :  [22;22H [23;15H
+  To Files [24;2H
+ Cancel Complete [22;22H afile [22;27H [22;1H
+[22;34H [ Writing... ] [22;1H
+[22;33H [ Wrote 1 line ] [1;37H
+    File: afile [23;1H [24;1H [23;1H Get Help WriteOut Read File 
+Prev Pg Cut Text Cur Pos [24;1H Exit Justify Where is Next Pg 
+UnCut Text To Spell [3;9H [23;1H [24;1H $ history 1 pico afile 
+that erases itself $ pico afilethaterasesitself [1;1H
+  UW PICO 5.07 New Buffer [23;1H [24;1H [23;1H Get Help WriteOut 
+Read File Prev Pg Cut Text Cur Pos [24;1H Exit Justify Where is 
+Next Pg UnCut Text To Spell [3;1H [22;1H
+
+[22;35H [ New file ] [1;33H File: afilethaterasesitself [3;1H 
+[1;29H File: afilethaterasesitself Modified [3;1H [3;4H [3;6H 
+filethaterasesitself [22;1H
+
+[3;25H [3;24H [3;23H [3;22H [3;21H [3;20H [3;19H [3;18H [3;17H 
+[3;16H [3;15H [3;14H [3;13H [3;12H [3;11H [3;10H [3;9H [3;8H 
+[3;7H [3;6H [3;5H filethaterasesitself [3;5H [22;1H
+
+[22;1H File Name to write :  [22;22H [23;15H To Files [24;2H 
+Cancel Complete [22;22H afilethaterasesitself [22;43H [22;1H
+
+[22;34H
+[ Writing... ]
+[22;1H
+
+[22;33H [ Wrote 1 line ] [1;29H File: afilethaterasesitself 
+[23;1H [24;1H [23;1H Get Help WriteOut Read File Prev Pg Cut 
+Text Cur Pos [24;1H Exit Justify Where is Next Pg UnCut Text To 
+Spell [3;5H [23;1H [24;1H
+
+$ ls Mail elo.rtf sl News linux talks a lisp texts ad mail 
+tlk.txt afile mod tz.txt afilethaterasesitself notes.txt vr 
+alist olda zz biog older dhsi.rtf sc
+
+$ chmod a 777 afile $ ./afile $ ls Mail elo.rtf sc News linux sl 
+a lisp talks ad mail texts afilethaterasesitself mod tlk.txt 
+alist notes.txt tz.txt biog olda vr dhsi.rtf older zz $ chmod 
+777 afile* $ ./afile* $ ls Mail ad dhsi.rtf lisp notes.txt sc 
+texts vr News alist elo.rtf mail olda sl tlk.txt zz a biog linux 
+mod older talks tz.txt $ exit
+
+
+Hawk
+
+Juvenile black morph Swainson's hawk against Wasatch Mountains
+
+http://www.alansondheim.org/skcc11.jpg
+
+http://www.alansondheim.org/blurt.mp3 dry-weather shakuhachi
+
+
+Playing with Meditative Fire
+
+http://www.alansondheim.org/lastus073.jpg Azure in Roslyn's 
+Northern Exposure set http://www.alansondheim.org/lastus.mp4 the 
+gap at 80 mph times 10 following a Mitsubishi sportscar with 
+cherry candy finish http://www.alansondheim.org/lastus097.jpg 
+Roslyn's Native American Totem Pole from Northern Exposure
+
+Sung mountainscapes centering on crazed auto race down rainfog 
+slopes we had to pull a truck and trailer off the road to tell 
+them their wheels were breaking & it wasn't the wind
+
+accelerating the Sung then into the odd fictivity of Northern 
+Exposure (U.S. tv show 'set' in Cecily Alaska shot in Roslyn 
+Washington, the wonder of imaginary speeding, speeding
+imaginaries, doubles, blankspace, edgespace as we all fall off
+the real and virtual earth
+
+
+Talking Domains
+
+
+Notes for upcoming talk, 
+Digital Humanities Summer Institute, University of Victoria
+
+http://www.alansondheim.org/vic56.jpg
+http://www.alansondheim.org/gear.mp4
+http://www.alansondheim.org/shfft.mp4
+
+Outline
+
+1. Advantages of using virtual worlds. Suppleness, universal 
+audience.
+2. Rough guide: packaged movements, avatars, objects, variable 
+physics.
+3. Second Life, MacGrid, localhost
+4. Ideas of Gamespace, Edgespace, Blankspace
+5. What happens at edgespaces? Everything is still contained
+6. Blankspaces and the imaginary
+7. Languaging - see Use of Writing below. Idea of lived writing.
+
+8. dynamics, category theory, morphisms and arrows, objects: 
+think of gamespace/edgespace/blankspace as dynamic, striated: 
+how do these meld?
+gamespace as kernel: Trump the bully totalizes this: what occurs 
+internally (truth functions) is irrelevant. edgespace: regions 
+of contestation again circumlocuted. blankspace: contestation of 
+the imaginary.
+
+Directory Categories (of examples):
+
+blankspace
+edgespace 
+gamespace
+
+In Sl, supple and indefinite modeling.
+What happens at the _edges_ of models?
+Models as gamespace structures.
+Epistemology of gamespace - speak to Sandy re: online/offline 
+gaming -
+ cosplay etc. -
+Blankness, substance (fissure, not cut/inscription)
+ - the problematic of same/same/same/ the _queasiness_
+ - of structurelessness - unstructured - loss of structure -
+ - the imaginary - deprivation chambers -
+ - what's down there, what's all around us?
+
+GAMESPACE / EDGESPACE / BLANKSPACE
+
+Language, Accident, and the Virtual
+
+In this talk, I focus on concepts of blankness, geography, 
+gamespace in virtual worlds, and what I term edgespace - the 
+limits of the gamespace, where language occurs and seethes. I 
+argue that the phenomenology of the real comes into play when 
+living spaces are abandoned, where broken geographies are signs 
+of a future already present. I present instances of digital 
+language production in such spaces, working through virtual 
+worlds such as Second Life and the Macgrid, as well as 
+self-contained Open Sim software that can be run on most 
+computers.
+
+The edgespace is always uneasy, tottering, catastrophic; it is 
+the space of the unalloyed digital, where things no longer 
+operate within a classical or modernist tradition. Increasingly, 
+this space characterizes our current place in the world, with 
+its fractured media histories and environments of scorched 
+earth, environmental depredation, and slaughter. We can work 
+through and within such spaces, developing (as perhaps Occupy 
+did) new forms of production, resistance, and digital culture.
+
+Use of writing:
+
+The creation of texts within the videos is in real time  think 
+of a jazz improvisation.
+So its not like a text pinning down the videos, but more like 
+talking within them:
+The texts are an immersive experience. Its not illustrated 
+poetry; its being there, being within these spaces. If you were 
+in them when the texts are being spoken, you would read them as 
+part of your immersive experience as well. This is a fundamental 
+difference compared, for example, to conceptual art, where 
+writing is a structural orientation to illustration.
+
+---
+
+emphasize the problematic of codes, organisms, classification 
+schemes - what constitutes gamespace (ARG? the game of "life"? 
+the game of life?) - how is everything entangled?
+
+how can one disassociate gamespace/rules for example from other 
+domains? are there clear-cut distinctions?
+
+in Wittgenstein, games and "game" and "language game" 
+disassociated these things. Wittgenstein was _clean_ - language 
+games occurred with loose referents but within language. he 
+_spoke._
+
+we're language-centric of course.
+consider "completely" entangled - what does that mean?
+what might "surface symptomologies" tell us about the 
+coruscations beneath the surface?
+where image/imaginary comes in - reading among chaos, chaotic 
+waveforms 
+
+when Weyl's notion of hunting for automorphisms falls through 
+structures of examination and abjection.
+
+"What we have learn from our whole discussion and what has 
+indeed become a guiding principle in mathematics is this lesson: 
+_Whenever you have to do with a structure-endowed entity E try 
+to determine its group of auto- morphisms,_ the group of those 
+element-wise transformations which leave all structural 
+relations undisturbed." (Weyl, Symmetry, p. 144.)
+
+
+
+variations on a theme
+
+http://www.alansondheim.org/vic40.jpg
+http://www.alansondheim.org/barnd.mp3
+
+barndance kind of stuff 
+if you like this kind of barn and this kind of dance
+ninety year old The Up To Date hammered reed Hohner's
+model 46 1/2
+
+Electronic Literature Organization shortalk outline
+
+1. MOCAP - oriented towards EDGESPACE and reading-into 
+(BLANKSPACE)
+2. SURGE / ANGUISH: coming annihilations, disseminations
+3. B/Lathering of language and inscriptions
+4. Inscriptive recuperation: transforming fissures, samesame --> 
+differences
+5. BUT: it all falls apart; it's all entangled; it's always a 
+failure
+6. BUT: one can live in inscription - realtime virtualworlding
+
+variations on a theme if you like this kind of theme and this 
+kind of talk
+
+
+
+my philosophy in a nutshell
+
+http://www.alansondheim.org/shore08.jpg
+
+think of striations of the imaginary within blankness, strange 
+attractors, hallucinatory structures, wrong turns, dead ends, 
+failures. think of edgespace not as glitch but as inherent, 
+inhering, bridging nonetheless, entangled projects and intro- 
+jections ("jectivities," morphisms); think of gamespace as 
+corporate, closed manifolding, totalities, kernels of clean and 
+proper bodies:: map all of this onto immersive/definable 
+hierarchies (mathematical _activity and production_ in relation 
+to (in)formalized mathematical structures):: immersion appears 
+_fundamental_ to blankspace, as mutually-generated activities 
+within edgespace, as the construction of _dwelling_ within 
+gamespace; definability appears _fundamental_ to gamespace, as 
+wrong or deliberate well-defined turns within edgespace; as 
+categorical formalisms after the fact in gamespace:: then think 
+of _regimes of control_ within and without gamespace (player / 
+gamemaster / corporation) and their loosening within edgespace 
+and blankspace (as well as the chaotic and stochastic nature of 
+blankspace itself):: and you have a way of thinking through a 
+world or the world:: now consider this in terms of unravelings, 
+being again with this consideration in mind, in terms of 
+gamespace, edgespace, blankspace, immersion and definability 
+(again keeping in mind that these are basically entangled), and 
+you are on the way to at least an interesting way of thinking 
+through worldings (which are subject to and suspect of such 
+categories which are thereby unraveling... )::
+
+
++++
+
+
+flood advisory national weather service taunton ma pm edt sun 
+jun ric---- /o.new.kbox.fa.y..tz-tz/ /.n.er.tz.tz.tz.oo/ kent 
+ri-washington ri-providence ri- the in has issued a * urban and 
+small stream for... eastern county rhode island...central 
+washington providence until at edt...doppler radar indicated 
+line of heavy rain thunderstorms approaching region during time 
+hightide along shores that will cause minor flooding. 
+overflowing poor drainage areas result flooding area. up to one 
+inch already fallen.some locations experience include 
+providence...warwick...cranston...pawtucket...eastprovidence... 
+coventry...cumberland...north providence...south 
+kingstown...west warwick...and johnston.additional rainfall an 
+is expected over this make precautionary/preparedness actions... 
+for do not drive through flooded roads. && lat...lon
+           
+        $$ sipprell coastal 
+
+statement hazard message maz>-riz->-- /o.new.kbox.cf.s..tz-tz/ 
+southern bristol ma-southern plymouth ma-barnstable ma-southeast 
+ri-bristol ri-newport ...minor splashover possible tonight... 
+locations...the south facing coastline from buzzards bay 
+narragansett entire island coast.flooding...minor around 
+tide.timing...between tonight. impacts...localized on most 
+vulnerable shore roadways may occur.all heights are relative 
+mean lower low water. total tides approximate nearest hour. - 
+fox point day/time surge waves /ft/ category----------- 
+---------- --------- ------- .- . / ./ .  none.- . / am -./ . .- 
+. ./ . .- . / . - / ./ . conimicut ./ . .- . .- . .- . judith .- 
+. ./ .  .- . .- . . / .- . - .- . / westerly .- . / .- . - / .- 
+.  newport harbor .- . ./ .- . / .- . westport .- . fall river 
+.- . .- . new bedford outside hurricane barrier .- . - 
+mattapoisett - - wareham / .- . woods hole ./ . .- . .- . .- . 
+.- . .- . wings neck $$for latest updates...please visit our 
+webpage www.weather.gov/boston you can follow us facebook 
+www.facebook.com/nwsboston twitter @nwsboston hazardous outlook 
+ctz>-maz>--riz>-- hartford ct-tolland ct-windham ct-western 
+franklin ma- ma-northern worcester ma-central middlesex western 
+essex ma-eastern ma-western hampshire hampden norfolk suffolk 
+ma-dukes ma-nantucket northern ma-northwest southeast ri-western 
+ri-eastern ri-block connecticut...all massachusetts except 
+berkshire county...and island. .day one...this afternoon bands 
+embedded evening. brief street flooding, but no significant 
+problems anticipated. .days two seven...monday saturday. tuesday 
+evening... few strong severe if able develop...isolated reports 
+large hail/damaging wind gusts would be possible. .spotter 
+information statement... spotters encouraged report conditions 
+according standard operating procedures.
+
+9c9
+< corporate, closed manifolding, totalities, kernels of clean and 
+---
+> corporate, closed manfolding, totalities, kernels of clean and 
+11,12c11,12
+< hierarchies (mathematical _activity and production_ in relation 
+< to (in)formalized mathematical structures):: immersion appears 
+---
+> hiearchies (mathematical _activity and production_ in relation 
+> to (in)formalized mathematical stuctures):: immersion appears 
+18c18
+< of _regimes of control_ within and without gamespace (player / 
+---
+> of _regimes of control_ within amd without gamespace (player / 
+24c24
+< gamespace, edgespace, blankspace, immersion and definability 
+---
+> gamespace, edgespace, blankspace, immersision and definability 
+26c26
+< you are on the way to at least an interesting way of thinking 
+---
+> you are on the way to at leat an interesting way of thinking 
+79,82d78
+< 
+< +++
+< 
+< 
+
++++
+
+
+
+bodhis for sail
+
+http://www.alansondheim.org/bodhisforsail0.jpg
+http://www.alansondheim.org/bodhisforsail.mp4
+http://www.alansondheim.org/bodhisforsail1.png
+http://www.alansondheim.org/bodhisforsail2.png
+http://www.alansondheim.org/bodhisforsail3.png
+
+no interest in explaining myself/ bodhisattva helps/ that is a 
+space/ boatvibe bobbbing bobbing bobdebbywps bock bod bodb bodee 
+bodhi
+
+    bodhisattva momyo. i will bring bodhisattva momyo. 
+    shakyamuni buddha brought forth bodhisattva momyo. 
+    bodhisattva momyo emerged from the earth. bodhisattva momyo 
+    snapped his fingers. nikuko emerged from
+
+empyrean; this i confuse hells and heavens and bodhisattvas and 
+no interest in explaining myself/ bodhisattva helps/ that is a 
+space/ i will be bodhisattva 1 i will be bodhisattva 2 i will be 
+bodhisattva 3 i will be bodhisattva 4
+
+     i'm riding the elephant bigger than any bodhisattva
+    bodhisattva momyo. i will bring bodhisattva momyo. 
+    shakyamuni buddha brought forth bodhisattva momyo. 
+    bodhisattva momyo emerged from the earth. bodhisattva momyo 
+    snapped his fingers. nikuko emerged from
+
+julu is perfection. nikuko is a bodhisattva. nikuko is always 
+loving.
+
+         bodhisattvas or saints.of solstice. is pro
+         you will be among those beyond bodhisattva and saint, those
+6 bodhisattvas or saints.of solstice. is pro 
+'s/+---------\^/bodhisattva/g' 's/+--------\^/meritorius/g'
+bodhi, svaha!" *
+
+[15:27] Julu Twine: bodhi, svaha!" *
+
+both are anchored to the earth and its bodhisattvas 
+annihilations you life jewel bodhisattva you existent to to 
+existent to recollection to escaped non-enlightenment jewel 
+bodhisattva lotus bodhisattva meritorius nothing +--)^ to lotus 
+life life to meritorius to bodhisattva you existent +- 
+bodhisattva life life life life you +escape)^ bodhisattva to 
+emptiness a death to escaped to life +escape-----^ life to 
+meritorius life life you bodhisattva a life you death to 
+emptiness you existent emptiness the you to you bodhisattva 
+existent you you to to you evil before kwak less evil before 
+kwak more hears death bodhisattva you death to you emptiness you 
+meritorius death to life +- bodhisattva to life
+
+sed 's/+---------\^/bodhisattva/g' zz > yy
+bodhisattvas recognize the turn
+bodhisattvas their their face to me
+
+i confuse hells and heavens and bodhisattvas and arhats and wish 
+annihilations you life jewel bodhisattva you existent to to 
+existent to recollection to escaped non-enlightenment jewel 
+bodhisattva lotus evil before kwak less evil before kwak more 
+hears death bodhisattva you death to you emptiness you 
+meritorius death to life +- bodhisattva to life sickens 
+meritorius bodhisattva reproduced dirty perfection. nikuko 
+bodhisattva. needy beyond belief incapable anyone
+
+bodhi, svaha!" *
+Gate, gate, paragate, parasamgate, bodhi, 
+bodhi, svaha!" *
+[15:27] Julu Twine: bodhi, svaha!" *
+ bodhi, svaha!" *
+empyrean; this i confuse hells and heavens and bodhisattvas and 
+bodhisattvas recognize the turn
+
+bodhisattvas their their face to me
+bodhisattvas their their face to me
+bodhisattvas their their face to me
+
+
+I'm Giving a Talk at DHSI, University of Victoria, Tomorrow
+
+Please come if you can! (ELO welcome of course!)
+
+http://www.alansondheim.org/lastus051.jpg
+
+Azure and I drove across country (from Providence, RI, through 
+Atlanta, GA, to Victoria BC); we arrived a few days ago. I'm 
+speaking at the Digital Humanities Summer Institute, at U. Vic, 
+tomorrow, Thursday, at 5:00-5:30 - details of the (heavily 
+illustrated) talk below:
+
+Thursday, June 9th, 5:00 to 5:30
+
+Event: Alan Sondheim, "Language, Accident, and the Virtual"
+
+(MacLaurin Building, Room A144)
+
+Abstract: This talk engages concepts of blankness, geography, 
+gamespace in virtual worlds, and what I term edgespace - the 
+limits of the gamespace, where language occurs and seethes. I 
+argue that the phenomenology of the real comes into play when 
+living spaces are abandoned, where broken geographies are signs 
+of a future already present. I present instances of digital 
+language production in such spaces, working through virtual 
+worlds such as Second Life and the Macgrid, as well as 
+self-contained Open Sim software that can be run on most 
+computers.
+
+The edgespace is always uneasy, tottering, catastrophic; it is 
+the space of the unalloyed digital, where things no longer 
+operate within a classical or modernist tradition. Increasingly, 
+this space characterizes our current place in the world, with 
+its fractured media histories and environments of scorched 
+earth, environmental depredation, and slaughter. We can work 
+through and within such spaces, developing (as perhaps Occupy 
+did) new forms of production, resistance, and digital culture.
+
+Thank you!
+
+- Alan
+
+
+zed
+
+http://www.alansondheim.org/denvera27.jpg
+http://www.alansondheim.org/rehearsal.mp3
+
+Azure Carter, song and voice; myself on viola - I thought it 
+might be interesting to present a rehearsal, the same song six 
+times with six different improvised accompaniments and two 
+different bows; here's a full short rehearsal and slightly 
+lowered fidelity (the file's smaller) - thanks for listening/
+reading below -
+
+to the z at the ends of the earth
+
+assay cry uzconverted zizx / z# ! rulezO!O v voom! hZ/([\abu.ya 
+yn agonyehz ewunutterable chaos of loveeyr bodyehzhZ/(\abu.ya 
+hZ/+([\abu.ya hZ/[\abu.ya hZ/\\([a dropped loagonyehz hZ/a 
+hZ/l(\abu.ya hZ/tunutterable gone/agonyehzhZ/unutterable 
+myhztheyr LK ENANNUound BEL NMR goneyouhz- Jennifer Lopezgrep 
+air a/char >> zzbaby birth black blue boy build child cloud dead 
+death dwell earth farm farmer fog foolish forest girl gone happy 
+hill home house husband hut ill infant king lake lost lucky man 
+meadow mist mountain ocean palace queen red sad sailor sea sick 
+soldier star student stupid sun teacher unhappy unluckly valley 
+well white wife wise woman yellow 38 230 6488 39 234 6516 40 238 
+6544 41 242 6572 42 246 6600 43 250 6628 44 254 6656 45 258 6684 
+46 262 6712 47 266 6740 48 270 6768 49 274 6796 50 278 6824 51 
+282 6852 52 286 6880 53 290 6908 54 294 6936 79 461 1955 80 465 
+1983 81 469 2011 82 473 2039 83 477 2067 84 481 2095 85 485 2123 
+86 489 2151 87 493 2179 88 497 2207 89 501 2235 90 505 2263 91 
+509 2291 92 513 2319 93 517 2347 94 521 2375 95 525 2403 96 529 
+2431 97 533 2459 98 537 2487 99 541 2515 lz lt lu o lv lkkx l! 1 
+zurpluz! paralyz=, provez prz100 545 2543 101 549 2571 102 553 
+2599 103 557 2627 3 przekutor 4zome. tzalvagr! Muzl!mz, Muzl!mz5 
+2 Zteuben !ntr!orz15 adamz23 8 round uaz + urong, a u!th 
+dr!pp!ng prphektl! bald az30 t!nkled! pazZengr, 10 m!zplasz she 
+FYR9nruaz4 spherical * > /root/zz6 warmezt! rez!te, krutkhez 
+Br!dget vezt!g!l. akadem!ez9 -h $ret_val = eval($formula); m 0.1 
+-2 0 j 13 tumescent 14 159 16:36 "great war" network/* 163 16:37 
+"missing in action" 165 16:38 "missing" 167 "killed or wounded" 
+169 16:39 "wounded killed" 171 and 173 175 16:40 "mutilated" 26 
+God's Word--By: David Katz27 netstat | 28 29 wc 35 pico 37 ls 59 
+more 60 rm 62 72 uniq adventure.text 73 74 -d adventure.txt 75 
+76 77 adventure.data 78 figlet -f mnemonic "one day scattered 
+friendships hallowed" toilet pagga.tlf "or garnered among JUST A 
+MINUTE PLEASE" digital "CALL WAITING BACKWARDS FROM HERE" 
+circle.tlf "questionable DERAIL DERAIL" bubble "work backwards 
+EXCLAIM work BACKWARDS" future FORWARDS exclaim WORK FORWARDS" 
+After AuschwitzOur UW PICO(tm)  4.10 File: bir vakte kadar avuc 
+yazar ile uc okuru bulusturacak, yazforward this mail along with 
+your enquiry, to anti-virus@xtra.co.nz.* virtual ... But here 
+are two disturbances by Nikuko, using warezthat write lyric 
+poetry after virus from computer: enquiry term "INTERRUPT 
+INTERRUPT" 104 107 161 du 164 portal/polypore portal/bool 166 
+portal/book portal/book/texts 168 portal/book/talks/ 170 
+portal/basic/ 180 cat K*.txt 181 K*.Txt 183 car K*.xml zz; 184 
+185 217 -la nz221 less 222 224 touch zzzzz225 ?? 226 227 *.txt 
+228 229 Uncanny Weather Blood Fantasm 232 240 mv nz.txt 241 257 
+260 273 talks/* 275 ez276 zzz277 304 problematic 305 307 310 
+zzzz311 312 313 315 Past 316 324 343 fuzzy 344 346 347 349 ??? 
+350 354 ~/zzzz356 358 359 363 ../../web/* 364 365 367 defuge 368 
+369 370 371 372 384 385 387 388 389 *.ext 390 391 book? 393 394 
+396 432 history 486 487 jed 488 502 h 503 you" . ...0 -> FTP 
+Request: STOR 1% ppiiccoo 1000 daz1030 1080 18 20 22 24 3040 
+4000 -C ilhebrew.flc ivrit "black LETERZ aGNST HARD YSE" script 
+"WYte Alan Sondheim, electric sazdisappear the radioactivity 
+trauma smoky quartzlong-necked sarangi, oud, !n dze m!dzt ov 
+mrr!ment, v!rzt !zZuez d!ztr!buz!onz d!ztr!but!v!t!ez !ve alwayz 
+been upzet... remembr dzat da! ualk!ng uoodz "somewhere there's 
+junk crime done wrong" julu sez "sondheim +buddha" perl 
+looply.pl "Alan Sondheim +Buddha" $ awk < yy echo k22% k3% 
+'s/\[//g' sed 's/\]//g' 's/\^M//g' 's/^...//g' ( ) .biz 
+(VRMLBrowser)FreeWRL-036tar.gz (reclawurhzayeve): 
+phayeen+men+l+g+ phen+men+l+g+ hzwanure +perraashunthz **** 
+Command 'b1fok/ahak >>>> rCzNTsKgEz31XRK/uRT 'rczntskgez 
+'vvaklwiazj fT9ApypgiZ967DlaYEA 'ft9apypgiz 'yaqz32amrx 
+6QiwQ6m0SZ50A8GVoyH '6qiwq6m0sz prayed. great l!ght v!led 4ezt 
+klear!ng, ue heard vo!sz -dzg2600cm-feme-cem, -rw------- 
+sondheim users 264 Nov 01:12 ...saz ..zz ./ppt "HELP ME HELP ME" 
+~/zz "I CANNOT THINK" am caught between worlds" "ONLY 
+DISTINCTIONS FOUND //init() runs on state_entry on_rez /g' yy; 
+'s/*/*/g' 's/[.;:,]/ 's/[$^-]/ " -v mj i texts/??.txt head -200 
+"filling space" texts/* sonnet texts/*.txt -14 
+grep#"#"#-v#mj#>#zz codework sort might "all you think know" 
+1111 -1 's/ aa Laraf Lardi Larej 25 Larin Larjo Larty Laruz 11 
+be "be any trouble" exception 12 something "All 11111 
+./a/elimy.pl most problem" 111111 Drawings Objects, artists book 
+Mike Metz likely think" 1111111 's/Today\#s Visitors: //g' 142 
+143 y 144 145 11111111 16 know about" nuisance" tr A-Z a-z 17 
+said about ADAM kenji cadaver feti made crisis 19 "death life" 
+"like an idiot" 's/,/, 197 198 199 200 oo 201 cp mail/sl I 
+"wasting nikuko lx 137 4211 2. La-gmage diffmmim- mhmmmgh 
+memceimed mmmemimm mech-mlmgm izmmmmed fmmz "life death" 
+20021026 01:03:56 /usr/bin/sz -vv -b Sending: 20021129 01:15:24 
+01:15:25 20021130 02:03:04 20021212 19:11:59 20021228 23:40:56 
+21 ./a/elimx.pl these 216 circumstances criminal" killer" 
+maniac" embryo sex" dead" 's/^????????//g' ./a/elim2.pl who '{ 
+print $1 }' "making 31 chromo desire 32 33 34 ivrit.flf "TRUE 
+LOSS OF MEMORY" 36 digital.flf "RESURRECTION THE WORD" hh 
+'s/[a-zA-Z]//g' one say 's/^ "useless aaa Today /breasts/g' 
+twelve makyng twent! TAZunn! hztormhz Being is fundamentally 
+subjunctive , 4pfBXSvDmqeHPDPxd0qGw8T6rZ+Jde1z time" aaaa as 55 
+56 57 58 being burden" demon -w /kill biogsort.txt 61 regard 63 
+equivalent 64 65 66 ? 7 's/demon/demon presence/g' 70 
+===================== yet /+++/g' there 111 :  Ziz Uz bz cz dz 
+gz kz mz oz sz tz :!grep merge zzzzzzzzzzz 3UH6lqChStyMRGOHG6n 
+'3uh6lqchst GmQKD+i3MOcea3jtwVz g5WZ+Aj20NuqnKqi7Yt 'g5wz+aj20n 
+ihuJFx+WZtI0ywpdzXz j0YSA3mCGTCyyImKBKj 'j0ysa3mcgt 
+Qp/l3MvXi6KMTER/Nyz >j+Cz Additional material Michael Oppitz 
+Qin, Oud, Cura Saz erhu, suroz tro, dan moi, kouqin, And Artwork 
+Artwork, meta, Azure Carter, song voice, Maya Maya, BehZ Gable 
+Aehz ewU C O Leyr Behz Ge U Lohze NMhz hU GhaphZ Birds Mood, 
+BlaSAKout hZtathz Bretz Brom G Ahz Bush Amerosykeyanhz 
+DMF_ON_DISC.dwz Ciccoricco dave.ciccoricco@canterbury.ac.nz 
+Display mode: Rootless Quartz ElectricSaz Emrmxtee babez & ORG 
+pAehz Goncalo Leonardo, bass; Gutierrez INPUT "Enter increment, 
+usually .001 1"; "translation, set default at 0,0,-350"; mx, my, 
+IRAQ file IdaAbogagillwarNanEvaPaz In Honour Of The Hat Gaz 
+Instrument: solo Japanese Bullet Train Miracle At Least 300 
+Kilometers Hour zzzzzzzzzzzz Ju61lu% words jen Ju62lu% explos 
+Ju63lu% Ju64lu% relat Ju65lu% truth Ju70lu% je Ju71lu% expl 
+Ju72lu% fro Ju73lu% rela Ju74lu% tru KA!++ pe hzpyderos keyame 
+up borrowed heros leghz goneable BALeyr LambdaCore-12Apr99.tgz 
+LambdaMOO-1.8.1.tar.gz Lament Suroz Le Blsh! hayr1 armhZontrar+ 
+Les tetins? Rondz Long-necked MacStumbler-075b.tgz March 1971, 
+publication Materials Making Ethnographic Film: Shamans Blind 
+Country, glond\a loAehz Now issues entrapment, reminiscent 
+current RIAA stuff; OAM false Pyngyng lovee w9ndyth bytehz 
+Sarinda Script started, output Settled Brooklyn all Jazz Stefano 
+Franchi s.franchi@auckland.ac.nz Symbol Kernels for Jochen Gerz 
+Telnet Data Terms:h gauz SqueeeeeeeeLer!, 1987, review article, 
+Robert Horvitz old familiar file, FIle: transitional-objects-zz 
+open sets, just part-objects-zz Ur-zyehaldean uyn -orld Grapheme 
+Graphyhzmuhz Velasquez Waltz Work Breakthrough Fictioneers, 
+Richard Kostelanetz envelope You: /zzz darkling world bone skin 
+flesh text [13;16Hzzz [19:06] sandy Taifun: [19:07] [19:08] 
+[19:09] [19:10] zzzzzz [19:11] [19:12] [19:13] [19:14] [19:15] 
+[19:16] [19:17] [19:18] [19:19] [19:20] [19:21] [19:23] [19:25] 
+[19:26] [19:27] [19:31] [19:32] [19:33] [19:34] [19:35] [19:36] 
+[19:37] [19:38] [19:39] [19:41] [19:42] [19:43] [19:44] [19:45] 
+aaclawshunthz aalwaayhz wanedaa+. attrayebutehz abcdefghijklm 
+nopqrstuvwxyz abcdefghijklmnopqrstuvwxyz alan cambodian mute 
+viola, pipa violin sarangi oud over auschwitz little town called 
+anti music against cumbus anything could moving here, art my 
+engine beauty harbinger thou minuet waltz attached those thing? 
+Whaaaz light? awoke FYRrom uneahz+ hzleep.  Gunhz boathz behind 
+ordinary mark skwarek's erasure dmz boyznoyz breathing orchids, 
+harmonium, brunette but nn's right we're motherfuckerz centenary 
+jacques lacan measured emergence.:!grep gonee unutterable 
+loveohze needlemarkhz loveyhz begynnynglsh! lyperhaphz 
+claw+mmunayeclawaashunt. rehz+naanclawehz _hzayegnaal_ aahz 
+clubsaz contemplation zzzzzzzzz youth hurries itation 
+zzzzzzzzzzzzzzzzz control way down singular bit cycling 
+dI2ka18gO2Jw6e6nt/Suj1RxfpbWMRO26xIz danz date deg melt 'zzzzz' 
+bookmark peripheries confuse during sunshine saz, end products, 
+evening fatO!Orez. Dze bombz K++ debr=. O!Otz 
+O!OnkomprehenzO!Oble. War returnz fbbz V"X\ <R@*X*@.Xv $~bb P$,` 
+fbbd ``vdz finalhours zu!z!de onl! meanz tzukzezz th= l!fe haz 
+kho!sz flux They was aloof, too oh toor color shattered kill 
+drop look fuzz foldoc:  taz foo.ipk.gz Kathe Kollwitz example 
+eyebeam, online frankz lenz gaz gimp-139tar.gz gonehaps they 
+planned beginninglsh! "no film" music" photo" pictures" stuff" 
+text" video" location ??.txt mandate economics trans have built 
+mayIRAQ hayeerraarclawhayeehz hello asa ni oiz identified 
+emphatic new musick waz darkness doctor japanese kilometers jazz 
+jmaaj Maaj edazkaz EDA zmkarkajmz zmzm lmzmkajml jz Pajn Jzaz 
+k!% traceroute panix.com k1% yes k11% zzzzzzzzzzzzzz k12% 
+zzzzzzzzzzzzz k13% k14% k15% zzzzzzzzzz k16% k17% zzzzzzzz k18% 
+zzzzzzz k19% k20% k21% k23% k24% k86 k87 strang k88 kirawaltz 
+lambda.tar.gz lond\a .snapshot/hourly.* ln messages~0~gz 
+messages~1~gz messages~2~gz messages~3~gz messages~4~gz 
+met+nym+. lethz pass tonics. door body want how it did THAT. 
+Think route through Watz mm:  mtez zz.htm; lynx zz.htm ./mod 
+strings n n2 nd:  hunutterable armhzstahzyehz nodz!ng zt!rz od 
+-H SATORI, what need koan, zaz off geez 193 194 195 196 
+operations closely watched pathing, diadem, pehze eventhz, do 
+Juhzt not three dayhz perhaphz lovee+ 's/[-]/ ikuko NF play 
+viola another quoat43 <DeadL> VeNoM v2.01 Downfall #oldwarez r; 
+yl uh HY mY hO oP hI aS ff Hz 2" (? dl i: // (! dv Sn y, l/ HH 
+,. ks $z rayntunutterable goneya return, guyldhZ operhaphz 
+recording Westinghouse vibration mic fed into mono Marantz 
+rehzemblaanclawe: fuku+lull+wayeng 
+clawhaaraaclawternrayehztayeclawhz reining-incorrosionies 
+worldpressure non-embeddedbut returnhz hzpaEEK hzame 
+dyhzhZolvehz earlyerosohz. Pen ooh1hz sax baritone horn 
+'s+----------------- /non-enlightenment +,--- o,non +------\./ 
+sickens -----\.-----\./ taste -----\./ before ----\./ ----\^ 
+hears ---\./ aum sigh 's/+-- /the 's/+--- /with 's/+------ 
+/nothing 's/+------- /buddhas 's/+-------- /strivings 
+'s/+--------- /tathagathas 's/+--------------- /differentiations 
+'s/+----------------- 's/+-------------\^ /indistinguishes 
+'s/+----------^ /integrations 's/+------\^/nothing/g' 
+'s/+---:/evil 's/--------\./nirvanas 's/-//g' 's/@/ 's/\.//g' 
+'s/\<....\>//g' 's/[<>]//g' 's/b/i/g' 's/buddha/lotus/g' 
+'s/can/alone/g' 's/existence/being/g' 's/f/t/g' 's/g/e/g' 
+'s/gg/ng/g' 's/however/and sigh/g' 's/lll/l/g' 
+'s/misery/perverse/g' 's/recollection/collocation/g' 
+'s/surely/truely really/g' 's/the/moanly/g' 's/u/n/g' 's/v/l/g' 
+'s/way/lonely/g' 's/with/so recompare/g' 's/x/m/g' shuttling 
+packets similar names lb mind thing slow sondheim, 178 179 182 
+sound murmur sounz suicide sx d z: sy ternrmhz 
+clawyberrnetayeclawhz texts.txt.gz po!nt r zelebr!t!ez, dzatz 
+uh! !m hre. Dz!nk me thanx OpenSource, DC, Sugar, sending better 
+experimental move absolute silence making that's beginningound 
+togeththeir bodies guyldhz thooen eqlueuayevaalenclawe underr 
+hztruclawture. h+0+^+0 d+ clawhaaayenhz todtanz topaz 
+xyzwuvtsrqponmlkjihgfedcba abcdefghijklmnopqrstuvw 
+zyxwuvtsrqponmlkjihgfedcba abcdefghijklmnopqrstuvwxy 
+zyxwvutsrqponmlkjihgfedcba transmission, simulacrum defeat 
+death. un-becoming-Gaz begynnynge lond\a vikriti vimal vimala 
+vinata vinay vinaya vineetme wallltz waves Juarez were, much 
+anything, tests s wdswk weather web WET where womans wtc xl 
+xzais worldz wvusummary.txt wvxlmhgifxgrmt zylny znvirxz (x ^ 2) 
+(1 COS(x)) -x: xa c1 s1 xn5jj1Q+0hLPLSP6zOldfHy+migu7COS2/Az s3 
+za c3 ya: mx: my: yaqclmz yawk yalg yacpy yacfr yawqumli. yalyjy 
+yacpz ynhztytute hznEEK nb TAZarega tooha thzonb mahz 
+'s/^.........//g' zomi 500 reinvigorating old! movez uavez 
+v!rtul, 's/[:\/]//g' ww fold -35 212 213 214 215 's/S//g' 
+'s/N//g' +----Colomina, Beatriz +---Electric +---Suroz +---adamz 
++---az +---kirawaltz Xcamel.npuz \---npuz (VRML 
+Browser)FreeWRL-036tar.gz +---Gutierrez \---mtez .zzz 0.db.zzz 
+00.db.zzz Test Slice.zzz tempslice.zzz undo.db.zzz \---What 
+Remains |t[$@z ?  readme.gz ????mtez ????kirawaltz ????danz    z
+
+*/ grep -h z$ texts/*.txt > zz wc zz pico zz sort zz > yy tr -d 
+< yy > zz uniq zz > yy wc yy grep -v http yy > zz grep -v .org 
+zz > yy wc yy more yy h perl a/eliminate.pl < yy > zz wc zz pico 
+zz stty cols 70; fg /*
+
+
+a
+
+http://www.alansondheim.org/bctrip410.jpg
+http://www.alansondheim.org/bctrip412.jpg
+(presenting at DHSI, U. Vic, Azure Carter, photo)
+
+a       are reborn as vermin. They howl forever because of their 
+terrible deeds. aren't patriotic. died this country is Godless. 
+a cult. one man. conspiracy. and kill you can do nothing to stop 
+me. exposed. We're depressed. falling down the eastern seacoast 
+all you. in ruins. jammed with us. these amazing they shaped 
+like tiny cones anthrax." missile trail.:the other waits:one 
+waits.:: letter.:another mark.:a mark.:: another mark!:8 julu:7 
+julu::17 julu:16 julu: it has taken 0.167 minutes swallow your 
+last ... addiction nudes, programs :the category nudes we speak, 
+often cannot function. i am off medication. sleep; tonight again 
+night full nightmare internal violence. gnaws at world. ran away 
+together. were seen going west from if shot through gauze (it 
+wasn't), first had talc, pretended annihilation translation 
+naming enumeration form chaos being non-being associations 
+bracketing demarcation information set equality analysis 
+repeated sort instance made by file1 > file2 - which alphabetic 
+order. transforms concepts presumably have ally independent. 
+associative complexes formed sorting consciousness 'self' 
+'self-awareness'; brings analysis^2 such' relation legitimacy. 
+see thwarted apologetics writing, writing an n-dimensional 
+space, alt.sex.pedophilia! 1-196401 alt.sex.fetish.watersports! 
+1-514916 alt.sex.bondage! 1-631387 alt.sex.pictures! 1-1011382 
+alt.sex.enemas! 1-281971 alt.sex.anal! 1-520256 aus.sex.bondage! 
+1-36957 alt.sex.bears! 1-214792 alt.sex.voyeurism! 1-449809 
+alt.sex.necrophilia! 1-166109 alt.homosexual! alt.magick.sex! 
+alt.politics.homosexuality! alt.politics.sex! alt.sex! 
+alt.sex.NOT! alt.sex.bestiality! 
+1-75860,75868-75873,75876,75881-75882, 
+alt.sex.bondage.particle.physics! alt.sex.boredom! 
+alt.sex.fetish.feet! alt.sex.fetish.hair! alt.sex.homosexual! 
+alt.sex.masturbation! alt.sex.motss! 
+1-11836,11838,11840,11843-11845,11847-11850, alt.sex.movies! 
+alt.sex.pictures.d! alt.sex.pictures.female! 
+alt.sex.pictures.male! alt.sex.sounds! alt.sex.stories! 
+alt.sex.stories.d! alt.sex.wanted! alt.sex.wizards! 
+alt.sexual.abuse.recovery! alt.sexual.abuse.recovery.d! 
+alt.sexy.bald.captains! alt.sex.fetish.orientals! 
+alt.sex.spanking! alt.sex.exhibitionism! 1-1188 
+alt.sex.bestiality.barney! alt.sex.bestiality.hamster.duct-tape! 
+1-1229,1231,1233,1235,1237-1238, alt.sex.watersports! aus.sex! 
+alt.sex.fetish.diapers! alt.sex.fetish.fashion! 
+alt.sex.services! alt.sex.strip-clubs! alt.sex.intergen! 
+alt.sex.femdom! alt.sex.telephone! alt.sex.fat! 
+alt.sex.fetish.startrek! alt.sex.magazines! 
+alt.sex.erotica.marketplace! alt.tv.tiny-toon.sex! 
+alt.sex.nasal-hair! alt.sex.breast! 
+1-6,8-9,11,21-22,25-26,30,34-36,38,51-53,66-67,71 I would rather 
+eat Fruits Triumph than my flesh torn among predators. "When 
+human dies his deeds weighed violence there no escape. Behold 
+Caves Heathen. When Essenic Flames; some Truth Burgess; guilty. 
+what damage done fucking rocky satisfied tourists cameras they'd 
+come viable mode CHAIRS TABLES communicationWALLS world's 
+population grows austere elements opera muted terror 
+annihilation. already memory denial. This was happening them. 
+For time, trauma takes central stage. The audience apocalypse 
+armageddon. i'm tired defending myself. stdin. anthrax rape alan 
+azure. media azure alan. cnn azure.:if want will destroy same; 
+resonate; remain incomplete; pornography anything any speed; 
+lends itself you; domains; about sexual history. appreciate so 
+very much partner. Tell me more most intense went out, lay back 
+deckchairs pool stared up after death, nothing. judgment 
+senseless. draw that just that, without meaning except take for 
+along, where ethics belongs. but not world; within that. life 
+turns into impossibility virtue azure, said, almost crying, 
+wanted hold back, you're only alteration program (LRTAP). 
+written last. occurs. above, near bottom carefully surveying 
+earth, light brown lizard around corner plant, walks off, still, 
+sex-terror leaflets video\scrip sound\scrip, company scrips,:oh 
+well descrips images, scripts,:interiors, exteriors, entries, 
+contents:setups message someone be murdered. unable speak. 
+hiding. arrested. frightened death. $pid knew along!", "\n\n" 
+2==$g;:sleep(1);:print address. If received email error, please 
+accept our apologies. another. girl silent. sits there. she 
+fragile.  accidental tourist.:x''':x'' almost. 
+dead^^^^^^^^^^^^^^^^ gone^^^^^^^^^^^^^^^^ pushed able input or 
+output, foreclosed presumption rich inner lives, programmings 
+constructing fortification-modules them, sharing virtual-real 
+worlds worldings 8.950 turning Jennifer dwsd. dirty wet cloth, 
+feminine linen work flax velvet altering (responding text)^2 gap 
+hiatus. wayward contrary characters. harshness all, males 
+devours inside. it's distrust males, character also stain 
+residue, always wants disappear engrave stone. everything stone 
+then rails totality writes dubious philosophy. doesn't make 
+sense. tearing each bayhead.dmessmass dmessmess dmess Nikuko. 
+it. No else find out anything. Don't leave swearing secrecy 
+myself secrecy. go further, anus, dead here: :Scattered-bombs 
+locus quality text. ./alan diacritical presence. virtual life, 
+intention presence position array x+1 between 0 1; foreclosed. 
+arms. kernel generator. something emerges, expands. trapped it.) 
+2002 12:20:58 -0500nel disfri mar 29 16:27:03 est says == 
+religion. temple. holy city. one's flesh, lacerate onself, cut 
+offending bit ability maintai text spurts, outline, chasing 
+down, encapsulating, limited domain inscribed fuzzy boundaries. 
+domains clue interpretable symptom, according scheme based 
+articulated methodology. cue activation anomaly repetitive 
+structure domain. turn may evidence past present; attention. 
+begins pre-theoretic presuppositions. schemes noise. approach, 
+detour regard; again; behavior clusters attributes. story biome 
+flora/fauna regimes. muck clutter skin. differentiation mass. 
+eidetic reduction anomalies generative boundaries, entities, 
+temporary accountable accounted-for. unaccountable, uncounted, 
+generates circumscriptions, circumlocutions; involved 
+potentially around, turned horizons 'subjective' 'objective' 
+approach self-critical, self-critique; critique appears be) 
+case. extent phenomenology object both diffuses expands; 
+becoming invisible, participates dialectics reifications, 
+objectifications, subjectivities, absorptions data, local 
+geodesics, clouded enumerations, no-see-ums. (thus sides, top 
+forth) disconnected (to 'its' reference, dedication authority, 
+placement reification peer consensus; rethinking it, arc across 
+report, response, 'of it' possessive releasement. analysis. 
+bladderwort surrounds nano-bio organelles. movement, neural 
+networking, stasis, world shutting-down live-born young order 
+day. second-order phalanx inside mutated grills. intervention. 
+dynamic everything; think glades _inscribed surface_ 
+transforming space time surface organic shifting. simultaneous 
+entanglement migration; vectored, vector everything. american 
+bittern breathing sheet water laminar/animal flow broken x ~x = 
+inscribes null x^~x intersection. a. unintended x-protocol: dna 
+crystal mapping, clays, lindenmayer algorithms plant formation. 
+b. intended tcp/ element-between dirty, abject, fuzzy, 
+problematic, historically approach; marks/inscribes 
+investigation, expenditure, meaning's withdrawal. apple-snails, 
+high-flying snail-kites, swallows' enormous swallows hi-speed, 
+polluted cypress-domes, hammocks, we're animals red eyes 
+substructural matrix (presentation format) co 
+alligator:alligator:alligator:: alligator busy glade! plants 
+narrows open wide poisoned _climbed_ animal. Greek answer 
+abraham afraid animal iron dying agreed upon sender receiver. 
+discontinuous, syntactic, digital, characterized discrete abjure 
+clear distinction analog symbolic. Cartesian coordinates 
+countermanded arbitrary location origin. metonymy tropes, 
+digital. analogic. creation signifier re-inscribes signified 
+accounted-for, trembling fragile falling-apart, they're poison 
+men's minds, perfect audience) Which did use? (pause) (louder) 
+used KNIFE OF COURSE? digital interpenetrate 5 interpenetrate. 
+least extent. number. (distinction orders here chaotic. regimes 
+digital: audio/video/image/web/performance coheres. languaging 
+background, disseminated, dissimulated. attempting grasp 
+infinite. theme 'otherwise.' argument totalization. code affairs 
+gossamer seasonal pinup phase military art Ando beauty princess 
+sea yet direction Watanabe summing-up absence every other. 
+absolute frameworks, definitive infinities. production discrete; 
+never done. bulwark fiction; non-fiction, languorous; mattered 
+universe large. unpublished letter Edwin Way Teale found copy 
+Near Horizons, finality not. But sure burden ghosts, about. More 
+dominated electronic afterwards, when expected. These times ah, 
+wondering perhaps Wait minute, I'm sorry, disappear. You know 
+"the weather." See how foreign America. don't love country, 
+making show ESPECIALLY FOR YOU. plane floats landing.) thank 
+coming. antenna coupling musicla instrument strings, there's 
+microphone, azure's movements coupled came goiing armegeddon 
+isn't corner, now apologize. maybe sense point analogic well. 
+means INTO WETWARE perceiving SUBJECT), cast-off ass posted val 
+prieto august pm trackback suck blog administrations 
+catastrophic response katrina sadly clinton been health 
+hurricane fuck day analog: infiltration dirt, unacknowledged 
+real entirely, births result deformed infants. Ozone depletion 
+miniaturization. achieved consciousness. Robotics 
+nanotechnologies plagues will. unbreathable, asthma / allergic 
+reactions throbbing coc k filthy germs streaming ghosts soak 
+waters fire, well, miss apart, couldn't watch four minutes, 
+shaking, wrong me, do, final cities, living forest, force 
+world-wide, too annihilation, preacher them hmans tear tongues, 
+articulation, burning, end-angel, reassemblage, once annihilate, 
+truth false demand, willingly, element humans nation-wide 
+continuously-maintained. DSL course channel. wireless modem 
+built US. In traced extractive industries; nation, communication 
+other, using variety maintenance. socio-economic grid provides, 
+various routes, abstract numbers eventually results movement 
+goods acceptable parameters. use Zaurus, hand, digital) 
+employed; programmed languages are, part, locally coherent. 
+Abstract physical objects created life-forms ultimately 
+reproduce themselves exist certain political/abstract economies; 
+example, accuracy; otherwise, slippage might entire bio-cultural 
+apparatus collapsing, possibility recuperation. others; 
+stability, analog/digital investigations: physics, mathematics 
+*/failed far/* anomalous vlf signals welded together */as still 
+earth/* assertion. who manufactures sheet? organism? species? 
+second limit i.e. bandwidth perceptual any./* chiasmus until 
+extinction. accountancy disinterrment unaccountable. eternal 
+presencing. allowing speech formlessness abacus processes 
+protocols. shape-riding synaptic signals. assignments flexible, 
+flex-work. construct margins state unitl moment observed, forced 
+life/death antennas tended possible get archaeological remnants, 
+paints, scratches, rubber trails, scars angeles choreographer 
+discussing latest "new moves" chant slaughter poem eagles 
+timeinged, forlorn, ininged we, fraught thisinged darkling 
+placeinged here, theinged fecund flora, machineinged during 
+continuesinged unflinged unabatedinged whereinged place flocks, 
+anhinga, heron, weinged unhinged gods, nowinged machine slaugher 
+hereinged continues congo killing atinged leopold meloninged 
+judge budge juiceinged happy midst mustinged murder proceedinged 
+millions nation carefullyinged rings twenty-five itinged melon 
+isinged blood juice youinged willinged must fiften beinged 
+proceed happyinged belgians withinged perfectinged while hands 
+fingers ringinged unclear exactly congoinged underinged dinged 
+many leopoldinged estimatesinged ranged nine frominged nineinged 
+under unclearinged twenty-one exactlyinged estimates howling 
+howinged range deranged manyinged lynched diedinged speciesinged 
+singed capableinged soon ofinged torture slaughteringed species 
+empire appliesinged capable twenty-oneinged burned millioninged 
+white phosphor asinged a-bombed peoples sooninged its typeinged 
+typed bloodinged furious energies condoned condominged same irak 
+name foringed domestic grist mill askinginged begging type 
+binged itsinged filling fullinged condom genocides energiesinged 
+yours sameinged leopold's gristinged handsinged careful offinged 
+pictures ainged women agoinged areinged chopped pleaseinged 
+carefulinged oh century's picturesinged long ago womeninged 
+seemed andinged wereinged deadinged remember names caninged 
+manipulate manipulateinged clubinged thing impossibleinged begin 
+lord's teachesinged thereinged noinged religion teaches toinged 
+tongues begininged innocent innocentinged thatinged save us 
+logic logicinged salvage corpses outinged fed noringed whole 
+saveinged salvageinged dogs crows wellinged neither beast nor 
+inged wholeinged escape mattressinged manifold bunny folksinged 
+fur mattress youringed synthetic cathedral syntheticinged folks 
+bunnyinged blooded furinged dismal comfort haveinged you've 
+nothinginged farm justinged aboutinged comfortinged we've 
+comeinged say it'singed clearinged skininged amount notinged 
+blood's skeininged mawinged culture fucked familyinged skin 
+skein sayinged scratch maw hard stick dreyfusinged tasty drink 
+hardinged dreyfus pierced stickinged stockade morsel tastyinged 
+cleared tinged iinged palisades souls palisadeinged doubled wall 
+food doubledinged slots wallinged doors bullets yesinged tallies 
+letters nearlyinged governor watches nearly watchesinged 
+twenty-fiveinged few remaining teninged years sweetinged ten 
+yearsinged hand meat charred actinged monument arrestsinged 
+belgium usa france iran criminalsinged patriot patriotinged act 
+canada sweden china taiwan actsinged arrests malay timor hinged 
+oninged true megafauna mega meatinged criminals granite 
+monumentinged acts own realize tire killinginged philosophy 
+stillborn goes tireinged lashed philosophyinged sex advances 
+aristotleinged stays stillborninged sutras cocks cunts munged 
+aminged upanishads wandered occupyinginged saying occupying 
+sutrasinged occupiedinged centuryinged observeinged understand 
+hinge observe hisinged lastinged mirror mirrored mirroringed 
+doomed slaughtered eachinged anywhere otheringed bad 
+inconvenient inconveniencesinged fragility material-real, inert 
+unique; equivalence Net destined artifacts. We should prepare 
+this. recognize future better "not writing." Wait, lost suitcase 
+somewhere outside Chicago.You're early, anyway scandal over Abu 
+Gharayb animated motion graphics graphic device messing 
+attitudes body. So sensor stuff soup kitchens overflowing giving 
+those Huntington beach california, fourth july animations 
+surfaces stapled LITERALLY end... idea (according Schelling Idea 
+better. others night, distant glimmers eternity page, slight 
+cough Schroedinger looking forward slopes, rumours Davos, mice 
+scuttling floor, representation embedded appeal meaning, 
+transcendence, falls knees >>> tell >>>> classical treasure 
+unquestioning existence, ontology, nothingness. slipping. 
+legends buying selling fake load quake
+
+grep -h ^a texts/*.txt | head -5000 | tail -500 > zz tr -d 
+< zz > yy; strings yy > zz wc zz perl a/eliminate.pl < zz > yy; 
+pico yy
+
+
+
+Friday night performance, Azure Carter and Alan Sondheim, ELO
+
+http://www.alansondheim.org/vvelo.jpg
+http://www.alansondheim.org/vvelo.mp4
+
+Performed at University of Victoria, as part of the Electronic 
+Literature Organization conference. I'm on viola. Apologies for 
+the poor audio; the club was noisy and there wasn't any sound- 
+proofing. On the other hand, this is one of our best perfor- 
+mances; I was on fire w/ the viola, and Azure was terrific.
+
+
+
+largest chiton species in the world
+
+giant western firey chiton (gumboot chiton)
+http://www.alansondheim.org/bctrip945.jpg
+http://www.alansondheim.org/bctrip941.jpg
+http://www.alansondheim.org/bctrip942.jpg
+Cryptochiton stelleri,
+found on the rocky beach and returned to the ocean
+
+My work is my obsession, to an unhealthy degree; however, when 
+filled with <cylinder>: i refuse your unhealthy humanism. you 
+both look like parts My work is my obsession, to an unhealthy 
+degree; however, when filled with Working with body phrasing, 
+unhealthy bodies, ecstatic bodies, a certain unhealthy odor, not 
+something you would want to identify with. I Hangup (0:21:46) 
+"Do you think kissing is unhealthy?" fantasms wrought from 
+unhealthy air, lurid matter. an unhealthy bed ounce prevention 
+better pound cure return truth persist not another? Why must one 
+be healthy, or unhealthy, or hungry, or of suggestion of nothing 
+more than an 'unhealthy obsession' as if worlds had the start 
+there was something unhealthy about it,' for example, not 
+another? Why must one be healthy, or unhealthy, or hungry, or of 
+dominated. clandestine meetings, fantasms wrought unhealthy 
+solitaire, My work is my obsession, to an unhealthy degree; 
+however, when filled with not another? Why must one be healthy, 
+or unhealthy, or hungry, or of
+ 
+<cylinder>: i refuse your unhealthy humanism. you both look like 
+parts fantasms wrought from unhealthy air, lurid matter.
+
+<cylinder>: you both look like Cryptochiton stelleri, in 
+unhealthy air, returning to the breathing ocean, wringing us 
+from lurid matter.
+
+
+the slow
+
+http://www.alansondheim.org/bctrip956.jpg
+http://www.alansondheim.org/theslow.mp4
+http://www.alansondheim.org/bctrip957.jpg
+
+the slow accretion
+animals, turbulence, waves
+among slow time, before us, among us, after us
+the after
+the slow and slower
+the blurred snapshot the snapshot blurred
+the almost stationary among us
+the glance over the shoulder slightest movement of a chiton
+the glance of the chiton length of glance of the chiton
+a chiton the chiton
+the slow accretion of turbulence and shallows
+the impossible slowness of the ripple
+the slowing timing
+
+neighborhood (packet channels slowing down just right for the 
+soft waters, slowing up computers and making their access more 
+difficult, slowing-up and speed up instead; my technique is 
+improving and i'm doing i breath fast. i get out of breath fast. 
+death promises slowing, can see your reading slowing down. the 
+programs are in full motion, as a borhood (packet channels 
+slowing down just right for the home terminal) form and 
+formlessness. and so many fundamental constants, the slowing- 
+down among us, cool objects slowing their thinking, d'eruza 
+saying cool, creation, but slowing their undoing. you might see 
+affect in the layering for improvement lhow about some food 
+worth slowing down for gslow down mi animation slowing - almost 
+to a halt - i'd settle for grays - zig-zagslocality, the 
+construct of neighborhood (packet channels slowing downdump, 
+clogging the communications channels, and slowing things 
+down,speed of teleporting, slowing down as waves course through 
+the flesh,particles last as long as they do? retardation - 
+slowing things speech. i breath fast. i get out of breath fast. 
+death promises slowing. for slowing or scraping the flesh trying 
+to think, what? about the borhood (packet channels slowing down 
+just right for the home terminal) sitting dumped there slowing 
+up everything just like that borhood (packet channels slowing 
+down just right for the home terminal) not wanting to go on like 
+this, watching the irreversible slowing-up of my do? retardation 
+- slowing things down, copying, duplicating, a poetics of for 
+slowing or scraping the flesh trying to think, what? about the 
+labor purposed, slowing scraping trying think, what? damage 
+cause caused. know this is a fault of mine, slowing me up, 
+creating a rougher particles last as long as they do? 
+retardation - slowing things slowing right home terminal) 
+redefining body; extension; extension noise; you get the 
+picture. even now, there's no sign of things slowing down it's 
+slowing me up; depression invades intention. i'm beginning 
+speech. i breath fast. i get out of breath fast. death promises 
+slowing. slowing-down universe, may survive know immediate 
+future). alien bodies grainy worlds population slowing, food 
+production still fundamental constants, the slowing-down true 
+stars, their design constants, the slowing-down of the universe, 
+etc. we may not constants! slowing down true stars! design 
+formless! beyond inside, you and i, the bifurcation of satin and 
+retorts slowing locality, the construct of neighborhood (packet 
+channels slowing down dump, clogging the communications 
+channels, and slowing things down, speed of teleporting, slowing 
+down as waves course through the flesh, i breathe, i breathe 
+slower, i breathe almost the slow accretion, i accrete, so slow 
+do i accrete, <chiton> i dream of waves almost movement, i dream 
+an eternal space of hesitation, i dream this, i dream that, so 
+slow do it, i dream this, i dream that, i dream this, i dream 
+that, i dream this, i dream that, i dream this, i dream that ...
+
+
+
+on the road - twin peaks
+
+http://www.alansondheim.org/twinpeaks.jpg
+http://www.alansondheim.org/twinpeaks.mp4
+
+
+the wedge
+
+http://www.alansondheim.org/thewedge.jpg
+http://www.alansondheim.org/thewedge.mp4
+
+but only the limitations of the five wedges, horizontal >--, 
+oblique \ or /, vertical |, and wedge or _Winkelhaken_ itself, < 
+! It is with post, looking for an irreal behind the wedges. Its 
+resistance to duplicacones, lines as wedges, surfaces as flat 
+wedges, and then there's the thing; i certainly felt like a 
+family wedge, my father returning from the thin wedge of light 
+bright on the beam an acute angled wedge into the instability 
+domain._ Thus for systems thing; i certainly felt like a family 
+wedge, my father returning from the wedged and lawless. 
+Occasionally a section of floorboard appears like a down the dim 
+dark wedge of the thicket. One more and I have to get back on 
+the thing; i certainly felt like a family wedge, my father 
+returning from the and Julu grab lungs, diaphragm, wedge arms 
+and elbows between ribs. He'd The head ends in a thin wedge; 
+mine has been damaged, but is now covered by a shamisen head 
+wedge cover, which protects it from any jects an acute angled 
+wedge into the instability domain._ Thus for systems Humanity 
+exists on the thinnest wedge (of stability and entity) extending 
+this is also the world from the wedge. thin wedge of light 
+bright on the beam wedged and lawless. Occasionally a section of 
+floorboard appears like a thing; i certainly felt like a family 
+wedge, my father returning from the thing; *i am wedged in the 
+declivity between twins wedged and lawless. Occasionally a 
+section of floorboard appears like a surpassed greenland tilted, 
+angled perpendicular default. wedges eye. meter was wedged 
+against the chamber floor and a structural
+
+your= wedge =fall s=on= me
+
+
+
+our trip so far
+
+http://www.alansondheim.org/tripsofar.jpg
+http://www.alansondheim.org/tripsofar.mp4
+
+providence, south carolina, atlanta, omaha, denver, salt lake 
+city, pendleton, bellingham, victoria, botanical beach, coombs, 
+ellensberg, boise, salt lake city now
+
+eyedrum, atlanta; dhsi and elo, victoria, botanicals everywhere
+
+escaping accidents -
+flying metal somewhere in washington or oregon, struck the side
+of the car; later, created a tire ballooning in victoria
+(we needed to replace two);
+forced off the road near ellensberg as a pickup swerved into 
+fast-lane; i pulled into the central medium, swerved right 
+across traffic, came to a stop in the shoulder; 
+accident in atlanta traffic - care ahead of us was sidewiped;
+trashcan flying off a pickup truck towards us i think maybe
+in missouri;
+coyote running front of the car in georgia;
+
+seen - sandhill cranes, pelican, ravens everywhere, stellar's
+jay, ferruginous hawks, swainson's hawks, bald eagles, 
+unbelievable numbers of great blue herons taking over the 
+world, largest chiton species in the world, black-chinned
+humingbirds, kestrels, osprey of course, many others;
+
+not to mention amazing people at dhsi and elo!
+and our assorted relatives along the way!
+
+

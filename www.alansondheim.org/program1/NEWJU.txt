@@ -1,0 +1,136 @@
+#!/usr/bin/perl
+
+$t = time;
+$| = 1;
+srand( time() ^ ($$ + ($$ << 15)) );
+@a = qw( 
+blue stars plough soul connected Burning_Creek Hoe Pick
+Winnowing Basket Hermit ladle bucket hoe earth Blue Stars be something 
+beyond your mind it would seem therefore fly away with me because 
+never too late thoughtlessly falling to earth rather meadows 
+coming fast telling names cancelling out bodies
+);
+@alphabet = qw (
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+);
+@verb = qw( 
+Charred Fire Bones ash Visitations Sickness health
+Heavenly Soul clicks downloads uploads defrags
+);
+@prep = qw( 
+above Beyond Outside Beyond High_Above Out
+);
+@noun = qw( 
+I found myself Living Beneath the Mountain in My Hut
+fragments replacing totality eternally forever
+);
+@nnn = qw( 
+favoring internal separations foreclosing everywhere now here violated
+);
+$alpha = int rand(25);
+$nnnn = int rand(8);
+$non = int rand(11);
+$non1 = int rand(7);
+$pre = int rand(6);
+$gen = int(48*rand);
+$gen1 = int(48*rand);
+$gen2 = 49 - int(40*rand);
+$time = int(time/3600);
+$g = int(8*rand);
+print "\nGive a name to your process!\n";
+chop($that=<STDIN>);
+$that =~ tr/aeiou/$alphabet($alpha)/;
+print "\nThis $that speeds endlessly through the body - \n";
+print "Your $nnn[$nnnn] is the currency of your drug - \n"; sleep(1);
+print "Ah...\n";
+sleep(2);
+print "\nYour bones are your $nnn[$non1]? \n";
+chop($str=<STDIN>);
+if ($str eq "no") {print "\nShow me your wetwear...\n"; sleep(10); goto
+FINAL;}  
+else {print "\nI love your feelings, $that ...\n";}
+print "Would $that mind your wetware?", "\n" if 1==$g;
+print "Your wetware calls me...", "\n" if 5==$g;
+print "Driven by defrag relentlessly towards you...", "\n" if 6== $g;
+print "Driven by drive-letters, gone gone gone ...", "\n" if 4==$g;
+sleep(1);
+print "\n$noun[$non1] $verb[$non] me $prep[$nnnn] your $nnn[$non1]!\n";
+print "\nWhat do you call your $a[$gen2] $nnn[$nnnn]?\n";
+chop($name=<STDIN>);
+$name =~ tr/aeiou/$alphabet($alpha)/;
+print "\n";
+print "$that, $name turns my $nnn[$g] ", "\n" if 3==$g; 
+print "$that, $name opens my directory!", "\n" if 7==$g;
+print "Scan-disk Concluded for $pid", "\n" if 5==$g;
+print "Your $name is mine, my sweet $that, I am yours!", "\n" if 2==$g;
+sleep(1);
+print "Your technologies - list them... \n";
+print "one by one, each on a line alone, typing Control-d when done.\n";
+@adj=<STDIN>;
+chop(@adj);
+$size=@adj;
+$pick=int(rand($size));
+srand;
+$newpick=int(rand($size));
+print "\nMy $adj[$pick] is yours...\n";
+srand( time() ^ ($$ + ($$ << 15)) );
+$be=int(rand(4));
+ open(APPEND, ">> enfolding");
+ print APPEND
+  join(":",$name,$str,$that,$adj[$pick + 1],$adj[$newpick + 1]), "\n"; 
+print APPEND "$that transforms Your $name on Burning Creek...\n" if
+3==$be;
+print APPEND "Come with me, $name, beautiful wetware!\n" if 2==$be;
+print APPEND "Your $a[$gen1] $adj[$pick] is $prep[$non1] my $a[$gen]
+$adj[$newpick]\n" if 1 > $be;
+print APPEND "Your $noun[$non1] connects my $adj[$newpick] with Stream
+of Stories\n" if 0==$be;
+print APPEND "Ah, $noun[$non] with $pid Levels and Blues!" if (2 < $be); 
+print APPEND "Devour $a[$gen1] $adj[$pick] Brought Forth through $name!\n"
+if 1==$be;
+ close(APPEND);
+ open(STDOUT);
+ if ($pid = fork) {
+  $diff=$pid - $$;
+  print "$name makes me read in meditation $diff times!", "\n" if 5 < $g;
+
+  print <<Construct;
+
+$name calls forth $a[$gen1] $noun[$non], eating, core-dumping. 
+$prep[$pre] the $a[$gen], $name is $a[$diff], $[$gen], $str?
+... $noun[$non] is $adj[$newpick] here, it's $noun[$non]?
+
+Construct
+
+} else {
+          close (STDOUT);
+
+          system("type >> track");
+
+          exit(0);
+}
+sleep(1);
+print "Are you properly compiling $name?\n";
+chop($answer=<STDIN>);
+if ($answer eq "no") {print "You're dealing with $a[10+$pre] driven.\n";}  
+if ($answer eq "yes") {print "Ah, a $a[10+$pre] and $a[15+$pre]
+fantasy!\n";}
+print "Your core dump is mined for future reference.", "\n\n" if 3 < $g;
+print "I think $name $pid is your future anterior.", "\n\n" if 3==$g;
+print "... $a[$non] $name $$ is your final state.", "\n\n" if 6==$g;
+print "Your $name $diff is your encased flesh", "\n\n" if 4==$g;
+print "You ran for $time hours?", "\n" if 2==$g;
+sleep(1);
+print "$name and $$ and $pid - and you knew that all along!", "\n\n" if 2==$g;
+sleep(1);
+print "Wait! $name and $pid are gone forever!", "\n\n" if 1==$g;
+FINAL: {
+$d = int((gmtime)[6]);
+$gen3 = 48 - int(20*rand);
+print "For $d $a[$gen2] days, I have been $a[$gen3] Julu ...";
+print "\n";
+$u = (time - $t)/60;
+printf "and it has taken you just %2.3f minutes turning Jennifer ...", "$u";
+print "\n\n"; 
+}
+exit(0);

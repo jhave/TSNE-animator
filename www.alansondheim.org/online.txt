@@ -1,0 +1,315 @@
+
+
+Writing and Wryting
+
+
+I write daily and when I'm not writing, I'm thinking about writing or 
+writing in another medium; the world is a world of inscriptions. At one 
+point I believed there were signs, that the world was inhabited by 
+signifiers which might or might not have referents; now, after looking 
+repeatedly at tantra and the casting-off of whatever was found and 
+impeded, I think signifiers might be nothing except residues of a kind of 
+frisson, the world rubbing up against itself. Whatever codes there are, 
+and however these codes are manipulated -
+
+http://www.alansondheim.org/examples.txt -
+
+they're not the only story, or rather, they _are_ the story but that's 
+nothing - what's going on in the world isn't story at all. We tend to make 
+scripts of things around us - that's how we get along. For example, 
+there's the restaurant script (and this example of course isn't mine) - I 
+enter a restaurant I've never been in before, but I know exactly what to 
+do; there's a restaurant script and subscripts; we don't make it up 
+immediately - that would be far too costly - but rely on constructing, 
+memory, reconstructing, and so forth, and there we are, eating together. 
+And it's eating together, because scripts, like the world, are consensual 
+and build community.
+
+Somebody said something like aye, there's the rub of it - and that's it, 
+precisely; the world rubs one, _worlding_ is a form of rubbing - which 
+makes virtual worlds such as Second Life all the more perplexed, where 
+rubbing and any physics has to be _intended_ by someone, a programmer, or 
+nothing would happen at all. Still, in second life, one might have bodies 
+or rather one might _inscribe_ bodies with writing, and this body writing 
+I call _wryting_ and it occurs in the real world as well. For example,
+
+http://www.alansondheim.org/throbbed.mp4
+
+where avatars conform and display to one another, and all these behaviors 
+are automated from written files called bvh files, which give an indica- 
+tion of how virtual worlds are in fact a kind of writing. Here is part of 
+a bvh which produced what you've seen in throbbed:
+
+HIERARCHY
+ROOT Hips
+{
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 6 Xposition Yposition Zposition Xrotation Zrotation Yrotation
+JOINT LeftHip
+{
+OFFSET 15.061017 17.082508 -14.925126
+CHANNELS 3 Xrotation Zrotation Yrotation
+JOINT LeftKnee
+{
+OFFSET 160.534210 236.940994 175.551743
+CHANNELS 3 Xrotation Zrotation Yrotation
+JOINT LeftAnkle
+
+This gives the initial positions of the body; later, there are tens of 
+thousands of numbers that give the node movements from these positions.
+Do note that this is an ascii, a text file, and not a binary, not an 
+executable; the file is executed by a program that uses it as data. In 
+this sense, the virtual world is always inscribed, digital, just as the 
+real physical world is not written, but _is,_ and is analog, and tends to 
+wear out. Nothing wears out in the digital world, and while avatars - what 
+I call emanents - need electricity to run, they don't need food. Still, 
+given that, I think that for a conscious mind, a mind used to dreaming, to 
+projections and introjections, there are no real differences between the 
+virtual and the real, and there's dreaming, proverbs, tales, stories, 
+poetry, poetics, hallucinations, hypnagogic imagery, meditations, and the 
+like to show that. 
+
+And even though the real physical world isn't written, it's full of 
+writing and our bodies themselves are always already written, inscribed - 
+full of tattoos, scars, burns, abrasions, wrinkles, salves, perfumes, 
+calluses, and so forth. I think it's from these things, particularly from 
+scars, wounds, abrasions, scrapes, etc., that language descends - that 
+language is first and foremost a reading of the history of the body, that 
+the body, the physical body, carries its own primordial memory upon it. 
+That's important, since it's this memory, these scarrings, that bind us to 
+the earth, to the world, the analogic. The digital is constructed from 
+that with a bit of a help from the corporate, from political economy - the 
+digital rides and infuses poitical economy in fact. So there are digital 
+standards for sampling, for encoding and decoding and checksums and so 
+forth, and these guarantee that a parsing of the world in one part of it 
+can be a parsing of the world in another. Think of the digital as an 
+extrusion, and think, even, of writing as _always_ digital or at least 
+always discrete, one symbol differentiated from another, from the other, 
+as all of them together generate meaning within organism and conscious- 
+ness, generate culture.
+
+An aside here to the effect that _culture is all the way down,_ that any 
+organism has culture, has learning, has the symbolic, has the digital (in 
+the sense that catastrophe theory prescribes and describes certain sudden 
+shifts in behavior or states which might as well be digital, that is _on 
+and off switches_ operating within potential wells, that is a level above 
+noise which allows them to function. Recent experiences in fact demon- 
+strate amoebic memory, even within this one-celled animal without neurons 
+or nervous system. It's important to think throug this, to see the world 
+as not only processings but also culturings - if you do that, a very 
+different kind of world emerges. 
+
+So where does codework or digital writing come into play here? One might 
+begin back with culturing - that the world is replete with poetics, that 
+it makes real, concrete, sense to speak or think of the poetics of the 
+real - that this isn't just metaphoric. And then one might proceed fur- 
+ther and realize, within the analogic the digital resides - that the 
+analog harbors splits and leaps, as the collapse of the wave equation or 
+annihilation of virtual particles shows. And within the digital, there's 
+the analog as well - the potential well upon which the digital rides, 
+literally, let there be no mistake about it. 
+
+So one might ride the digital as well, perceive the digital as an extru- 
+sion from the analogic, or a residue, or a system of signs which for the 
+most part are produced by humans, according to human conventions and 
+protocols, for example, the tcp/ip structure or protocol suite of the 
+Internet - and if not this protocol suite, another or an other. Then one 
+writes here, in this medium, in this temporarily electronic medium (for 
+there might be other sorts of transmission in the future, who knows? or 
+other sorts now for that matter, literally for that matter). And within 
+the digital, in which bits bite bits, every pixel, every character, every 
+moment of the digital is independently accessible, and every moment is 
+deeply ruptured, disconnected, from every other. This is why the digital 
+is inherently untruthful; there's no truth within it, since manipulation 
+is complete and replete within every file, every domain, every protocol, 
+every instantiation in fact. There are no lies, either, and if there are 
+narratologies, these reside in sememes embedded or encoded within the 
+digital, interpreted by organism, often human. In creating in such an 
+environment, one plays god, or at least deity (in the tantric sense); one 
+constructs out of nothing, and if I write the phrase, as On Kawara might, 
+"I am still alive," these letters are, at a very fundamental and concrete 
+level, completely independent; I could just as well write "lkurj llisihg" 
+or anything else, literally, again, for that matter, and for the sorts and 
+sortings of that matter. 
+
+Well, I can write anything, I can say anything. And some of what I write 
+just lies there, and some is performative, in the sense that, if I type
+
+k3% date
+Sat Jan 19 01:13:23 EST 2008
+
+at the k3% prompt, the date is returned - the word is not just a word, but 
+an action, a process, an operation inherent in the reading and writing of 
+it within an operating system. Now if I type
+
+k7% lkjsfug
+ksh: lkjsfug: not found
+
+as you can see, it's still performing, but the operating system is looking 
+for a meaning or decoding and can't find any or rather finds a kind of 
+null-decoding which is based on absence. So that electronic writing, with- 
+in a terminal window is always a performance; it's never static. And it's 
+not only a performance, but also a communalit, since there are others who 
+may well be present, even though invisible, uncounted, and unaccountable:
+
+cbpp     ftp12907 Jan 18 10:42  (cbpp8.cbpp.org)
+cbpp     ftp7371  Jan 18 10:16  (cbpp8.cbpp.org)
+jpl15    ttyp0    Jan 18 11:20  (76.216.63.13)
+harold   ttyp1    Jan 19 01:16  (12.6.206.9)
+dagger   ttyp2    Jan 16 01:31  (24.5.61.60)
+bitty    ttyp3    Jan 16 20:32  (76.19.99.242)
+bord     ttyp5    Jan 14 11:10  (75.129.128.49:S.0)
+
+for example are running around on the same machine I am, and I'm aware of 
+them, even though I don't know who they are. I can find out what some of 
+them are doing:
+
+bord     ttyp5   75-129-128-49.dhcp.fdul.wi Mon11AM  5:20 irc
+gburnore ttyp6   bastille.netbasix.net      Fri10PM    29 rtin
+bord     ttyp7   75-129-128-49.dhcp.fdul.wi Mon11AM 12:25 
+/usr/local/bin/ksh
+bord     ttyp8   75-129-128-49.dhcp.fdul.wi Mon11AM  5:20 irc
+jkurck   ttyp9   adsl-75-10-97-59.dsl.frs2c Fri02AM 12:25 -tcsh
+
+for example, but I'm not informed as to the semantics involved, only the 
+protocols, the surface syntactics.
+
+So one might see codework as a mix of all of this, a kind of dirty or 
+abject combination, a kind of rupturing, of surface and depth, one 
+producing another or an other, a kind of drawing-out of the fecundity of 
+the world and its structure, its poetics. This combination or drawing-out 
+reflects the real unclarity of what I call the true world, which is the 
+real and virtual world interpenetrated, intermingled, diffused, effused, 
+as they are for us, no matter where we think we are, in first life or 
+Second Life or what I call third sex, which is online sex, as if there 
+were a first or second, which there aren't. 
+
+Beyond this, I'm not sure what codework is, even though I've invented or 
+discovered the term. Here is a program Florian Cramer wrote for me, called 
+eliminate.pl (it's in perl):
+
+#!/usr/local/bin/perl5
+
+while (<STDIN>) {
+        @words = split /[\s]+/, $_;
+        @spaces = split /[\S]+/, $_;
+	for ($x=0; $x <= $#words; $x++) {
+                $word_count{$words[$x]}++;
+if ($word_count{$words[$x]} == 1) {print $words[$x],$spaces[$x+1]}
+                }
+        }
+
+This is based on the Thousand Character Essay, written in Chinese around 
+fifteen hundred years ago - an essay in which each character is different 
+from every other; each character, in a sense, is primordial, individuated 
+- an extreme nominalism. Although I don't know Chinese, I worked with a 
+friend laboriously translating it. Anyway, I wanted to duplicate this in 
+English - use a program in which each instance of a word appears only 
+once, that is, at its first (and only) appearance. Within this, the fol- 
+lowing are still distinguished: "word" "Word" "Word," "word-" and so forth 
+since these have different ascii renderings. Here is part of this very 
+essay rendered with the program:
+
+my writing
+
+I write daily and when I'm not writing, thinking about or in another
+medium; the world is a of inscriptions. At one point believed there were
+signs, that was inhabited by signifiers which might have referents; now,
+after looking repeatedly at tantra casting-off whatever found impeded,
+think be nothing except residues kind frisson, rubbing up against itself.
+Whatever codes are, however these are manipulated -
+http://www.alansondheim.org/examples.txt they're only story, rather, they
+_are_ story but that's what's going on isn't all. We tend to make scripts
+things around us how we get along. For example, there's restaurant script
+(and this example course mine) enter I've never been before, know exactly
+what do; subscripts; don't it immediately would far too costly rely
+constructing, memory, reconstructing, so forth, eating together. And it's
+together, because scripts, like world, consensual build community.
+
+== Now this is at the beginning of the text, and clear, but see what 
+happens towards the end:
+
+$word_count{$words[$x]}++;($word_count{$words[$x]} == 1) {print
+$words[$x],$spaces[$x+1]} }Thousand Character Essay, Chinese fifteen
+hundred years ago essay each character other; primordial, individuated
+extreme nominalism. Although Chinese, worked friend laboriously
+translating Anyway, wanted duplicate English use instance appears once,
+only) appearance. Within fol- lowing distinguished: "word" "Word" "Word,"
+"word-" forth ascii renderings. rendered program:
+
+== Here, towards the end, the condensation is extreme. One might think of 
+this in terms of the biblical book of Genesis - and one of the first 
+things I did was to render Genesis with the program, which resulted, 
+again, in a kind of _Vac,_ word-creation, creation-word of a primordial 
+sort. I think of this as codework, since, reading it, it becomes clear 
+quickly - what is happening, what the structure is - even if the code 
+itself isn't present except as a disturbance upon another text, an other.
+This becomes clearer, perhaps, when the program is applied to itself:
+
+#!/usr/local/bin/perl5
+while (<STDIN>) {
+ @words = split /[\s]+/,
+$_;@spaces /[\S]+/,
+for ($x=0; $x <= $#words; $x++)
+$word_count{$words[$x]}++;if ($word_count{$words[$x]} == 1) {print
+$words[$x],$spaces[$x+1]}}
+
+== Now I don't think of this as a 'better' example of codework than the 
+first example, even though code is evident here; it's just another sub- 
+ject for the performative maw. 
+
+A point about interactivity: Every writing, wryting, upon reading or 
+sensing, scenting, is always already interactive; the inscriptive is never 
+_linear,_ no matter the appearance of lines. Memory, remembrance, is at 
+work, scanning moves backwards and forwards, moves in chunks, and even 
+syntax tends to jump about, leap. There is of course an active interactiv- 
+ity, in which the reader/scenter is required to _do_ something concrete, 
+within a repertoire or potential series of actions; hypertext is perhaps 
+the simplest example. I've not been so interested in that, and my lack of 
+interest has to do with worlds and the false appearance of choice; I'd 
+rather have the running of inscription and meaning go on about without 
+interruption, as the world goes on about one, even though one seems to 
+have choice within it. This stems to some extent from my interest in film; 
+I've never been carried so far in a hypertextual situation as I am when 
+embedded in the cinematic other which is also the self, selving. The world 
+is complex and I attempt to deal with that complexity and its perturba- 
+tions, attempt to deal with the surface codes of the world. This isn't a 
+manifesto on my part, and in fact, I've produced interactive work as well, 
+particularly in simple Visual Basic, but I'd rather the interactivity 
+occur elsewhere, within consciousness.
+
+Here are some links. First, to the most recent series of texts:
+
+http://www.alansondheim.org/pm.txt - here you'll find all sorts of things, 
+from a report on an airline's first attempts at wireless en route to the 
+derivation of 'bug' (as in software or computer bug), to the kinds of code 
+early telegraph operators used, to... a google scraping piece on 'bush 
+fucks' to... an elimination piece featuring my Facebook superwall. These 
+texts are 'thicker' than many others, and they're stressed - we were mov- 
+ing temporarily to West Virginia, and our companion cat of 18 years had to 
+be put down, which was one of the most traumatic events of my life. At 
+this point, pm.txt is somewhat diaristic, although most of it isn't.
+
+These are part of the Internet Text, which I've been writing since 1994, a 
+continuous meditation on the above and other subjects. If you look at the 
+earlier texts, for example:
+
+http://www.alansondheim.org/net1.txt - you'll find a clearer form of expo- 
+sition than much of the later work. Since this is from 1994, the Net is 
+very different, mostly what I call 'darknet,' referncing lower ascii and 
+terminal windows as standard, instead of the current multi-mediacy. Almost 
+from the beginning, I wrote through avatars, other characters, who really 
+weren't other at all (see my file-in-progress, 
+
+http://www.alansondheim.org/pn.txt - for an account of the research I'm 
+doing in this direction).
+
+This is about it at the moment; as you can see, there are gaps, errors 
+(which I'm interested in), disturbances, in the account. On another, an 
+other, hand, we can proceed from here, I'm sure.
+
+And thanks for this opportunity -
+
+Alan, 01/19/08
+
+

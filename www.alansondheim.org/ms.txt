@@ -1,0 +1,2017 @@
+
+
+finial/final - organized net-txt index
+
+` `` `< `| `- `: `! `/ `. `' `( `] `@ `$ `% ^ ^^ ^< ^= ^| ^_ ^: ^! ^? ^.
+^" ^) ^[ ^] ^{ ^@ ^$ ^* ^& ^% ¨ ~ ~` ~~ ~< ~| ~, ~: ~! ~/ ~) ~$ < <` <^ <~
+<< <= <> <| <_ <- <! </ <. <" <[ <] <@ <$ <* = =~ == === => =- =: =? =" =[
+=] ={ =$ > >< >> >| >_ >- >, >: >? >/ >. >" >( >[ >@ >\ | |^ |~ |< |= ||
+|_ |- |, |: |! |/ |. |[ |] |$ |* |\ |+ _ _` _^ _~ _< _= _| __ _- _, _; _:
+_! _/ _. _' _" _( _[ _* _& -^ -< -= -> -| -_ -- -, -; -: -! -. -" -( -) -[
+-] -@ -* -\ -& -# , ,` ,^ ,= ,_ ,, ,; ,. ," ,( ,[ ,# ; ;> ;| ;- ;; ;" ;(
+;) ;[ ;$ ;* : :^ :< := :> :_ :- :: :! :/ :. :' :" :( :) :[ :@ :$ :* :# !
+!~ !< != !, !! !" !$ !* !\ !+ ? ?~ ?= ?- ?: ?! ?? ?" ?) ?[ ?] ?\ ¿ / /^ /<
+/= /> /| /_ /- /, /; /: /! /? // /. /" /( /[ /@ /* /\ /# /+ . .< .= ._ .-
+., .; .: .! .? ./ .. ." .) .$ .* .# · ¸ ' '^ '< '| '_ '; ': '! '/ '. '' '"
+'( ') '[ '{ '$ '\ '+ " "` "< "= "> "| "_ "- ", "; ": "! "? "/ ". "' "" "(
+") "[ "] "} "@ "$ "* "\ "& "# "% "+ « » ( (` (< (= (_ (- (! (? (/ (. (' ("
+(( () ([ (] (@ ($ (* (# (+ ) )= ), ); ): )? )/ ). )" )( )) )[ [ [` [^ [<
+[> [_ [- [, [; [: [! [? [. [' [" [( [) [[ [] [$ [* [& [# ] ]` ]^ ]- ], ];
+]: ]/ ]. ]" ][ ]] ]} ]@ { {- {: {. {' {" {( {[ {{ {} {$ } }- }: }? }. }'
+}[ }} }% }+ © ® @ @` @< @> @- @, @: @! @/ @. @' @[ @@ @$ @& @# $ $= $> $|
+$- $: $? $. $" $( $) $[ ${ $@ $$ $* $# $+ £ ¥ * *^ *< *> *_ *- *, *; *: *!
+*? */ *. *' *" *( *) *[ *@ ** *& \ \= \| \_ \- \? \/ \. \* \\ \+ & &` &_
+&, &! &. &" &* &\ && &# # #< #> #- #, #; #: #! #/ #. #" #( #) #[ #] #@ #$
+#* ## % %| %- %: %! %. %' %[ %@ %& %% + +< +| +- +, +/ +' +( +[ +$ ++ 0 `0
+^0 <0 _0 -0 :0 /0 .0 "0 (0 [0 {0 $0 \0 #0 +0 0` 0= 0- 0, 0; 0: 0! 0? 0/ 0.
+0' 0" 0( 0) 0[ 0* 0& 0% 0+ ¼ ½ 00 01 02 03 04 05 06 07 08 09 0a 0A ½a 0b
+0c 0C 0D 0h 0H 0i 0K 0m 0M 0n 0N 0o 0r 0s 0t 0u 0U 0v 0x 1 `1 <1 >1 |1 _1
+-1 ;1 :1 !1 ?1 /1 .1 "1 (1 [1 ]1 @1 $1 \1 &1 #1 +1 1^ 1~ 1< 1= 1| 1_ 1- 1,
+1; 1: 1? 1/ 1. 1' 1" 1( 1) 1] 1} 1@ 1$ 1* 1% 1+ 10 11 12 13 14 15 16 17 18
+19 1a 1A 1d 1e 1F 1G 1h 1H 1I 1k 1L 1n 1o 1p 1r 1s 1x 1y 1z 2 ^2 <2 =2 >2
+|2 _2 -2 :2 /2 .2 "2 (2 [2 {2 }2 @2 $2 *2 \2 #2 %2 2^ 2~ 2< 2= 2> 2_ 2- 2,
+2; 2: 2! 2/ 2. 2' 2" 2( 2) 2[ 2] 2} 2* 2% 2+ 20 21 22 23 24 25 26 27 28 29
+2a 2A 2b 2c 2C 2d 2e 2E 2h 2i 2k 2m 2n 2N 2o 2p 2Q 2t 2T 2x 3 `3 <3 =3 >3
+|3 -3 :3 /3 .3 "3 (3 [3 {3 $3 \3 #3 3^ 3< 3= 3_ 3- 3, 3; 3: 3! 3/ 3. 3" 3(
+3) 3[ 3] 3$ 3& 3% 3+ 30 31 32 33 34 35 36 37 38 39 3a 3A 3c 3d 3D 3k 3l 3o
+3p 3Q 3r 3s 3S 3t 3u 3w 3x 4 =4 |4 -4 ;4 :4 /4 .4 '4 "4 (4 [4 }4 $4 #4 %4
+4< 4= 4_ 4- 4, 4; 4: 4! 4/ 4. 4" 4( 4) 4] 4} 4* 40 41 42 43 44 45 46 47 48
+49 4a 4A 4c 4d 4D 4e 4f 4h 4k 4L 4m 4n 4p 4t 4T 4x 5 ^5 <5 |5 -5 ;5 :5 /5
+.5 "5 (5 [5 $5 *5 #5 +5 5< 5= 5_ 5- 5, 5; 5: 5? 5/ 5. 5' 5" 5) 5[ 5] 50 51
+52 53 54 55 56 57 58 59 5b 5B 5c 5C 5d 5D 5f 5h 5I 5j 5k 5l 5m 5n 5R 5s 5t
+5u 5z 6 >6 |6 -6 ;6 /6 .6 '6 "6 (6 [6 }6 $6 #6 +6 6^ 6< 6= 6_ 6- 6, 6; 6:
+6! 6/ 6. 6' 6( 6) 6] 6$ 6* 6\ 60 61 62 63 64 65 66 67 68 69 6a 6b 6B 6c 6C
+6d 6D 6e 6E 6f 6F 6H 6i 6k 6n 6t 6T 6U 6x 6z 7 |7 -7 /7 .7 '7 "7 (7 [7 @7
+$7 &7 #7 7< 7= 7| 7_ 7- 7, 7: 7/ 7. 7) 7@ 7\ 7+ 70 71 72 73 74 75 76 77 78
+79 7c 7g 7i 7k 7t 7u 7Y 7Z 8 |8 -8 ,8 ;8 !8 /8 .8 '8 (8 [8 {8 $8 *8 #8 +8
+8< 8_ 8- 8, 8; 8: 8/ 8. 8" 8) 8[ 80 81 82 83 84 85 86 87 88 89 8E 8H 8j 8k
+8K 8L 8m 8O 8s 8t 8v 8X 8Y 9 <9 >9 |9 -9 /9 .9 '9 (9 [9 @9 $9 *9 #9 9< 9_
+9- 9, 9; 9: 9! 9/ 9. 9" 9) 9[ 9} 9% 90 91 92 93 94 95 96 97 98 99 9a 9A 9b
+9C 9D 9f 9G 9k 9t 9u 9x a `a ^a ~a <a =a >a _a -a ,a ;a :a /a .a 'a "a (a
+[a ]a {a }a @a $a *a &a #a %a a^ a~ a< a= a| a_ a- a, a; a: a! a/ a. a' a"
+a( a) a[ a{ a} a$ a* A `A ^A ~A <A >A _A -A ,A :A !A ?A /A 'A "A (A [A @A
+*A &A #A +A A~ A= A> A| A- A, A; A: A! A? A/ A. A' A" A( A) A@ A$ A* Â ^Â
+ã Ã a0 a1 A1 Â¹ a3 a4 A4 a5 A6 a8 a9 A9 aa Aa AA ab Ab AB ac aC Ac AC ad
+aD Ad AD ae Ae AE af aF Af AF ag aG Ag AG ah aH Ah AH ai Ai AI aj Aj AJ ak
+Ak AK al aL Al AL am aM Am AM an aN An AN ao Ao AO äÒ ap aP Ap AP aq Aq AQ
+ar aR Ar AR as aS As AS at aT At AT au Au AU av Av AV aw Aw AW ax Ax AX ay
+aY Ay AY az Az AZ b `b ^b ~b <b =b >b _b -b :b !b /b .b 'b "b (b [b {b }b
+@b $b *b &b #b +b b< b= b| b_ b- b, b; b: b! b/ b. b' b" b( b) b} b$ b& b%
+b+ B `B ^B ^B` ^B< ^B* <B =B >B _B -B :B !B /B .B 'B "B (B )B [B ]B {B @B
+$B *B #B B_ B- B, B; B: B! B? B. B' B" B( B) B$ B* B\ B& B# B+ b0 B0 b1 b2
+B2 b3 B3 b4 b9 B9 ba bA Ba BA bb BB bc Bc BC bd bD BD be bE Be BE bf bF BF
+bg BG bh Bh BH bi bI Bi BI bj Bj BJ bk Bk BK bl bL Bl BL bm BM bn bo bO Bo
+BO bp Bp BP bq br bR Br BR bs BS bt bu bU Bu BU bV bw Bw BW bx ^Bx by bY
+By BY bz c `c ^c ~c <c =c >c _c -c :c /c .c 'c "c (c [c ]c @c $c *c \c &c
+#c +c c` c^ c< c= c| c- c, c; c: c! c/ c. c' c( c) c] c$ c* c\ c+ C `C ^C
+<C >C |C _C -C :C 'C "C (C [C ]C @C *C &C #C %C C- C, C; C: C/ C. C' C( C)
+C@ C* C\ C+ ç Ç c0 c1 c2 c3 c4 C4 C9 ca cA Ca CA cb CB cc Cc CC cd CD ce
+cE Ce CE ÇÊ cf CF cg CG ch cH Ch CH ci Ci CI cj ck Ck cl cL Cl CL cm Cm CM
+cn CN co cO Co CO cp Cp CP CQ cr cR Cr CR cs cS Cs CS ct Ct CT cu cU Cu CU
+cv CV cw cx Cx cy Cy CY cz Cz d `d ^d ~d <d =d >d _d -d ,d :d !d ?d /d .d
+'d "d (d [d {d }d @d $d *d &d #d %d +d d< d= d| d- d, d; d: d! d/ d. d' d)
+d[ d{ d$ d* d\ d& D `D ^D <D =D >D |D _D -D ;D :D /D 'D "D (D [D @D $D *D
+D> D- D, D: D/ D. D' D( D@ D$ D& d0 d1 D3 d4 D5 D7 D8 da dA Da DA db dB Db
+dc DC dd DD de dE De DE df dg dG DG dh Dh DH di dI Di DI dj Dj DJ dk DK dl
+Dl DL dm Dm DM dn Dn DN do dO Do DO dp DP dq dr Dr DR ds dS Ds DS dt du Du
+DU dv DV dw Dw DW dx dX DX dy Dy DY dz e `e ^e ~e <e =e >e _e -e ,e ;e :e
+!e ?e /e .e 'e "e (e [e ]e }e @e $e *e &e #e %e +e e^ e< e= e| e_ e- e, e;
+e: e? e/ e. e' e" e( e) e} e$ e* e\ e& e# E `E ^E ~E <E =E >E _E -E ;E :E
+/E .E 'E "E (E [E {E *E &E %E E- E, E: E! E/ E. E' E] E{ E\ E+ È Ê Ë e1 e2
+e3 e4 e5 e6 E6 e7 e8 e9 ea eA Ea EA eb Eb ec eC Ec EC ed Ed ED ee eE Ee EE
+ËÊ ef Ef EF eg Eg EG eh Eh EH ei Ei EI ej Ej ek Ek EK el El EL em Em EM en
+En EN eo EO ep Ep EP eq Eq EQ er Er ER es eS Es ES et Et ET eu Eu EU ev eV
+Ev EV ew Ew EW ex eX Ex EX ey eY Ey EY ez Ez f `f ~f <f =f >f |f _f -f ,f
+:f !f ?f /f .f 'f "f (f )f [f {f @f $f *f \f &f #f +f f^ f< f= f| f_ f, f;
+f: f! f. f' f( f) f[ f] f$ f\ f& f# F `F ^F ~F <F =F >F |F _F -F :F .F 'F
+"F (F [F {F }F @F *F \F F< F- F, F: F. F( F] F@ F$ f0 F1 f2 F2 f3 f4 F5 f6
+F6 f7 fa fA Fa FA fb FB fc Fc FC fd FD fe fE Fe FE ff fF FF fg Fg FG fh fi
+fI Fi FI fj Fj FJ fk fl fL Fl FL fm Fm FM fn Fn fo fO Fo FO fp Fp FP fq fr
+fR Fr FR fs Fs FS ft Ft FT fu fU Fu FU fv fw fW Fw FW fx FX fy Fy fz g `g
+~g <g >g |g _g -g ,g :g /g .g 'g "g (g )g [g ]g {g @g $g *g &g #g g< g= g|
+g- g, g; g: g! g/ g. g' g) g[ g} g# G `G ^G <G >G _G ;G :G /G 'G "G (G [G
+@G *G &G #G G- G, G; G: G. G' G( G) G* G& g0 g1 G1 G2 g3 G3 g4 g6 g8 ga Ga
+GA gb GB gc GC gd Gd GD ge Ge GE gf gF gg Gg GG gh Gh GH gi Gi GI gj gk gl
+gL Gl GL gm gM Gm GM gn Gn GN go gO Go GO gp gP GP gq Gq GQ gr gR Gr GR gs
+gS GS gt Gt GT gu Gu GU gv GV gw Gw GW gy Gy GY gz GZ h `h ^h ~h <h =h >h
+_h -h ,h ;h :h !h /h .h 'h "h (h [h {h }h @h *h #h %h h` h^ h~ h< h= h| h-
+h, h; h: h! h. h' h" h] h$ h\ h+ H `H ^H <H >H _H -H ;H !H ?H /H 'H "H (H
+[H @H $H *H &H #H H< H, H: H? H/ H. H' H) H@ H$ H* h0 H0 h1 H1 h2 H2 h3 H3
+H4 H5 h6 H6 h7 H7 h8 h9 ha hA Ha HA hb hc HC hd Hd HD he hE He HE hf hF HF
+hg HG hh Hh HH hi hI Hi HI hj hk hl hL Hl HL hm Hm HM hn hN Hn HN ho hO Ho
+HO hp hP Hp HP hq hr hR Hr HR hs hS Hs HS ht hT Ht HT hu Hu HU hv Hv hw Hw
+hx hy Hy HY hz Hz i `i ^i ~i <i =i >i _i -i ;i :i /i .i 'i "i (i [i ]i @i
+$i *i &i #i +i i^ i~ i< i> i| i_ i- i, i; i: i? i/ i. i' i( i) i@ i$ i* i#
+i% I `I <I >I _I -I ,I ;I :I ?I /I .I 'I "I (I )I [I $I *I \I &I #I I` I<
+I> I- I, I; I: I! I? I/ I. I' I" I( I) I] I} I@ I* I& Í Ì Î Ï i0 i1 I1 i2
+i3 i5 I8 i9 ia Ia IA ib iB Ib IB ic Ic IC id iD Id ID ie IE if iF If IF ig
+iG Ig IG ih Ih IH ii iI II ij ik iK Ik IK il Il IL im Im IM in iN In IN io
+Io IO ip Ip IP iq Iq IQ ir iR Ir IR is iS Is IS it iT It IT iu iv Iv IV iw
+Iw ix iX IX iy iY Iy iz Iz IZ j `j <j >j |j _j -j :j !j /j .j 'j "j (j [j
+@j $j *j #j j_ j- j, j; j: j. j' j" j( j) j[ j] j* j+ J `J ^J <J |J _J -J
+!J ?J /J .J 'J "J (J )J [J ]J {J *J \J #J +J J< J_ J- J, J; J/ J. J' J[ J\
+j0 J0 j4 ja jA Ja JA jb JB jc JC jd JD je jE Je JE jf JF jg Jg JG jh jH Jh
+JH ji Ji JI jj JJ jk JK jl Jl jm JM jn Jn JN jo Jo JO jp Jp JP jq jr Jr JR
+js JS jt jT Jt ju jU Ju JU jv jw Jw jx JX jy Jy jz Jz JZ k ~k <k =k >k _k
+-k ,k :k 'k "k (k [k ]k {k $k &k #k %k k` k< k= k| k- k, k; k: k! k/ k. k'
+k" k( k@ k$ k* k& k+ K `K ^K <K _K 'K "K (K [K @K *K %K K~ K= K- K, K: K!
+K/ K. K' K) K[ k0 k1 K1 k2 K2 k3 k4 k5 k6 k7 K7 k8 k9 ka kA Ka KA kb kB Kb
+KB kc KC kd kD KD ke kE Ke KE kf kg Kg KG kh Kh ki kI Ki KI kj Kj KJ kk KK
+kl Kl KL km Km kn kN Kn KN ko kO Ko KO kp kP kq kr Kr KR ks KS kt Kt ku Ku
+KU kv kw Kw kx kX ky Ky KY kz l `l ~l <l >l _l -l ,l ;l :l /l .l 'l "l (l
+[l @l $l *l \l &l #l %l +l l< l= l| l_ l- l, l; l: l! l/ l. l' l( l[ l] l@
+l$ l* l\ l& L `L ^L <L >L _L :L /L 'L "L (L [L *L +L L` L< L_ L- L, L; L!
+L/ L. L' L( L) l0 l1 L1 l3 L3 l4 L6 l8 l9 la lA La LA lb Lb lc lC Lc LC ld
+Ld LD le lE Le LE lf Lf LF lg lh li lI Li LI lj Lj LJ lk LK ll Ll LL lm LM
+ln lo lO Lo LO lp Lp LP lq lr lR Lr ls Ls LS lt Lt LT lu lU Lu LU lv lV Lv
+LV lw lW LW lx Lx LX ly Ly LY lz m `m ~m <m >m _m -m ,m :m /m .m 'm "m (m
+[m ]m {m @m $m *m \m &m #m %m m^ m< m= m| m- m, m; m! m? m/ m. m' m" m( m)
+m[ m$ m\ m& M `M ^M ~M <M _M -M ,M :M 'M "M (M [M {M }M @M *M \M #M %M M^
+M< M= M- M, M; M: M? M. M" M( M) M$ M* m0 m1 M2 m3 m4 m7 m9 M9 ma mA Ma MA
+mb Mb MB mc Mc md Md MD me mE Me ME mf Mf MF mg MG mh mH Mh MH mi mI Mi MI
+mj mJ mk ml Ml ML mm Mm MM mn Mn mo mO Mo MO mp Mp MP mq mr mR Mr MR ms mS
+Ms MS mt mT Mt MT mu mU Mu MU mv Mv mw Mw mx my mY My MY mz Mz n `n <n =n
+>n _n -n ,n ;n :n !n /n .n 'n "n (n [n ]n {n @n $n *n \n &n #n %n n< n= n>
+n| n_ n- n, n; n: n! n? n/ n. n' n( n) n] n@ n$ n* n+ N `N ^N <N >N _N -N
+!N /N .N 'N "N (N [N {N @N *N &N #N N< N= N- N, N/ N. N' N( N[ N] N$ N* N+
+ñ Ñ n0 n1 N1 n2 N2 n3 n5 N5 n8 na nA Na NA nb NB nc NC nd nD ND ne nE Ne
+NE nf nF Nf NF ng Ng nh nH NH ni nI Ni NI nj Nj NJ nk NK nl Nl NL nm Nm NM
+nn Nn NN no nO No NO np Np NP nr NR ns nS NS nt Nt NT nu Nu NU nv NV nw nx
+Nx ny nY Ny NY nz o `o ~o <o >o |o _o -o ,o :o ?o /o .o 'o "o (o [o ]o @o
+*o &o #o +o o~ o< o= o> o| o_ o- o, o; o: o! o/ o. o' o" o& o# O `O ^O <O
+>O _O -O ;O :O /O 'O "O (O [O @O *O \O &O %O O^ O< O- O, O: O! O? O/ O. O'
+O( O) O$ O# Ó Ò Ô õ Õ o1 o2 o3 o8 o9 oa Oa OA ob Ob OB oc Oc OC od Od OD
+oe Oe OE of Of OF og oG Og OG oh oH Oh OH oi oI Oi OI oj ok oK Ok OK ol Ol
+OL om oM Om OM on oN On ON oo Oo OO op oP Op OP oq OQ or oR Or OR os oS Os
+OS ot oT Ot OT ou Ou OU ov Ov OV ow Ow OW ox oX Ox OX oy Oy OY oz Oz p `p
+^p ~p <p =p _p -p ,p :p ?p /p .p 'p "p (p [p ]p {p }p @p $p *p \p &p #p %p
+p< p= p| p_ p- p, p; p/ p. p' p) p@ p$ p* p+ P `P ^P <P =P >P _P -P :P ?P
+/P .P 'P "P (P [P @P $P *P #P P< P> P- P, P: P! P? P. P' P( P) P[ P* P\ P&
+p0 p1 P2 p4 P4 P5 p6 P6 p7 P7 P8 p9 pa pA Pa PA pb Pb PB pc Pc PC pd PD pe
+pE Pe PE pf pF Pf PF pg Pg PG ph pH Ph PH pi pI Pi PI pj PJ pk pl pL Pl PL
+pm Pm PM pn Pn PN po pO Po PO pp Pp PP pq PQ pr pR Pr PR ps pS Ps PS pt pT
+Pt pu pU Pu PU pv Pv PV pw Pw px pX py Py PY Pz q ^q _q -q :q /q .q 'q "q
+(q [q @q *q &q q~ q< q= q- q; q. q" q( q) q] q* q% Q `Q _Q !Q "Q (Q [Q *Q
+Q- Q, Q/ Q. Q" Q) q1 Q1 q2 Q4 Q9 qa Qa QA qb Qb QB qc Qc QC qd qe Qe qf QF
+qg QG qh Qh qi Qi qj QK ql qL qm Qm QM qn qo QO qp Qp QP qq qr QR qs Qs QS
+qt QT qu Qu QU qv qw Qw QW Qx qy r `r <r =r >r _r -r ,r :r !r /r .r 'r "r
+(r [r ]r @r $r *r &r #r r< r= r> r| r_ r- r, r; r. r' r" r) r$ r* R `R ^R
+<R >R |R _R -R ;R /R 'R "R (R [R *R #R +R R< R- R, R/ R. R' R( R) R[ R$ R*
+R& R+ r0 r1 R1 r2 R2 r3 r4 R6 r7 r9 ra rA Ra RA rb rc RC rd Rd re rE Re RE
+rf RF rg Rg RG rh Rh RH ri rI Ri RI rj rJ RJ rk rl RL rm Rm RM rn Rn RN ro
+rO Ro RO rp Rp RP rq RQ rr RR rs RS rt Rt RT ru rU Ru RU rv rw Rw RW rx ry
+Ry RY rz s `s ~s <s =s >s |s _s -s ,s ;s :s !s /s .s 's "s (s [s ]s {s @s
+$s *s &s #s %s +s s< s= s| s- s, s; s: s? s/ s. s' s" s) s[ s$ s* s& s# S
+`S <S >S _S -S ,S :S /S .S 'S "S (S [S {S @S $S *S #S S` S^ S< S- S, S/ S.
+S' S( S{ S* S& S# S+ s0 S0 s1 S1 s2 s3 s4 s7 S7 S8 s9 sa sA Sa SA sb SB sc
+sC Sc SC sd SD se sE Se SE sf Sf SF sg SG sh sH Sh SH si sI Si SI sj SJ sk
+Sk SK sl sL Sl SL sm sM Sm SM sn Sn SN so sO So SO sp sP Sp SP sq sQ Sq SQ
+sr sR Sr SR ss Ss SS ß ßß st sT St ST su sU Su SU sv Sv SV sw sW Sw SW sx
+sy Sy SY sz Sz t `t ~t <t =t >t _t -t ,t ;t :t ?t /t .t 't "t (t [t ]t {t
+@t $t *t \t &t #t t^ t< t= t> t| t_ t- t, t; t: t! t/ t. t' t" t( t) t[ t@
+t$ t* t\ T `T ^T ~T <T >T |T _T -T :T !T /T .T 'T "T (T [T {T @T $T *T \T
+&T #T T= T_ T- T, T; T: T! T? T. T' T) T@ T& T+ t0 T0 t1 T1 t2 t3 t4 T4 t7
+t9 ta tA Ta TA tb tB Tb TB tc tC Tc TC td TD te tE Te TE tf TF tg Tg th tH
+Th TH ti tI Ti TI tj Tj tk Tk TK tl Tl TL tm Tm TM tn tN Tn TN to tO To TO
+tp Tp TP tq TQ tr tR Tr TR ts Ts TS tt Tt TT tu tU Tu TU tv TV tw Tw TW tx
+Tx TX ty tY Ty TY tz Tz u <u =u >u _u -u ,u ;u :u !u /u .u 'u "u (u [u {u
+@u $u *u &u %u u= u| u, u; u: u! u/ u. u" u) u] u# u+ U `U ^U ~U <U _U :U
+/U .U 'U "U (U [U {U }U \U &U +U U- U, U! U? U. U( U) Ú Ù Û "Û u0 U0 u1 U1
+u2 u3 u5 u6 u9 ua Ua UA ub uB Ub UB uc Uc UC ud Ud UD ue Ue uf uF UF ug Ug
+UG uh Uh UH ui Ui UI uk uK Uk ul Ul UL um Um UM un uN Un UN uo up Up UP ur
+uR Ur UR us uS Us US ut uT Ut UT uu Uu UU ÛÛ uv UV uw Uw UW ux uy Uz v `v
+<v |v _v -v ,v :v /v 'v "v (v [v @v $v *v #v v< v| v- v, v; v! v. v) v[ v$
+v+ V `V ^V ~V <V >V _V -V .V 'V "V (V [V *V +V V= V- V, V; V: V. V' V( V@
+V* V& V# V% V0 v1 V1 v2 V3 v5 V5 V6 V8 va vA Va VA v^Â vb VB vc VC vd Vd
+VD ve vE Ve VE vf vF vg Vg VG vh vH Vh VH vi vI Vi VI vj Vj vk Vk vl Vl VL
+vm VM vn vo Vo VO vp VP vq vQ vr Vr VR vs Vs VS vt Vt VT vu vU Vu VU vv vw
+VW vx Vx vy Vy VY vz vZ VZ w `w ~w <w =w >w _w -w ,w ;w :w !w ?w /w .w 'w
+"w (w [w ]w {w @w $w *w #w w` w^ w< w= w| w- w, w; w! w/ w. w' w" w( w[ w$
+w\ w& W `W ^W <W _W -W :W !W /W 'W "W (W [W {W @W $W *W \W W- W, W? W/ W.
+W] W$ W+ w0 w1 W1 w2 W2 w3 W3 w6 w7 W7 w9 wa wA Wa WA wb wB WB wc WC wd Wd
+we wE We WE wf Wf WF wg wG wh wH Wh WH wi wI Wi WI wj Wj wk Wk WK wl WL wm
+Wm WM wn WN wo wO Wo WO wp Wp WP wq wr wR Wr WR ws Ws WS wt WT wu Wu WU wv
+ww wW WW WX wy Wy WY wz x `x ^x <x |x _x -x ,x /x .x 'x "x (x )x [x {x $x
+*x #x +x x^ x< x= x| x_ x- x, x; x: x/ x. x' x" x( x) x} x* x\ x# x+ X `X
+^X <X >X _X -X :X /X "X (X [X ]X {X X` X_ X- X, X; X: X! X? X/ X. X' X" X)
+X& X+ x1 X1 x2 X2 x3 X4 X7 x8 xa xA Xa XA xb XB xc Xc XC xd Xd XD xe xE Xe
+xf XF xg xG xh XH xi xI Xi XI xj xk Xk XK xl Xl xm XM xn xN Xn XN xo xp XP
+XQ xr xs xt Xt XT xu Xu xv XV xw XW xx XX xy xY XY xz y `y <y =y _y -y ,y
+;y :y !y /y .y 'y "y (y )y [y ]y {y @y *y &y %y y= y> y| y- y, y; y: y! y.
+y' y" y) y] y# y+ Y `Y ^Y <Y >Y _Y -Y :Y 'Y "Y (Y [Y $Y *Y \Y &Y #Y Y= Y-
+Y, Y; Y: Y! Y? Y/ Y. Y' Y$ ý Ý y0 y1 y2 Y2 y3 y8 ya Ya YA yb yB Yb yc yd
+yD ye yE Ye YE yf Yf YF yg yG Yg yh Yh yi Yi YI yJ yk Yk yl yL Yl ym yM Ym
+yn Yn yo yO Yo YO yp Yp yq yr ys yS YS yt Yt YT yu Yu YU yv yw yx YX yy yY
+YY yz YZ z <z >z _z -z :z !z .z 'z "z (z [z $z *z #z %z z~ z| z- z, z; z:
+z/ z. z) z] z* z+ Z `Z ^Z <Z _Z /Z 'Z "Z (Z [Z $Z *Z +Z Z= Z, Z. Z' Z" Z)
+Z[ z1 z2 z4 za Za ZA zb ZB zc zd ze zE Ze ZE zf zh Zh ZH zi Zi ZI zj ZK zl
+zm zM zn ZN zo Zo ZO zp Zp zr zs ZS zt zu Zu ZU zv zw Zw zy zz ZZ
+
+
+MR BUSH YOU MUST KILL ME BECAUSE I CANNOT LIVE IN YOUR EVIL EYE-COUNTRY
+
+your enormous killing :: 
+your with me get not will you yourself kill may you yourself kill
+asbestos- poured your with incision scratched your with point inscriptive
+no have -::i chains with chains with eyes your inscribe will i - asphalt
+and salves and bombs your take make you you. please to dying of intention
+hell. to go and helicopters your take may you hell. to go and ointments
+down stalks onto wire piano by held blades enormous by cut be will you
+have will i killing. and knives waving flail arms where cockpit the into
+napalm. your and radiation your take may you and killing your of part no
+asbestos- poured your with incision may::scratched you may you may you to
+dying of intention no have i :: eye your inscribe will i - asphalt to go
+and ointments and salves and bombs your take make you you. please by cut
+be will you hell. to go and helicopters your take may you hell.  where
+cockpit the into down stalks onto wire piano by held blades enormous
+killing your of part no have will i killing. and knives waving flail arms
+may you may you may you napalm. your and radiation your take may you and
+with me get not will you yourself kill may you yourself kill your replace
+poured your with incision scratched your with point inscriptive your -?
+chains with chains with eyes your inscribe will i - asbestos-asphalt EVIL
+VILE
+
+FUCK TRY THIS INSTEAD:::::-----:::::
+into the cockpit where arms flail waving knives and killing. i will
+havepell9 KB Message, ""-ASCII"  hr access, work onl [ Some characte no
+part of your killing and you may take your radiation and your napalm. [
+Part 2, most of what I wrote is at:ease feel Trace projects htt you may
+you may you may::scratched incision with your poured asbestos- part. ]
+email, or e-mai I'll be putti http://www.asondheim.org/ http asphalt - i
+will inscribe your eye :: i have no intention of dying tomessages
+
+FUCK TRY THIS INSTEAD!!!
+your enormous killing ::  with me get not will you yourself kill may
+asbestos- poured incision scratched point inscriptive no have -::i chains
+eyes inscribe i - asphalt and salves bombs take make you. please to dying
+of intention hell. go helicopters ointments down stalks onto wire piano by
+held blades cut be killing. knives waving flail arms where cockpit the
+into napalm. radiation part may::scratched eye replace -? asbestos-asphalt
+EVIL VILE FUCK TRY THIS INSTEAD havepell9 KB Message, ""-ASCII"  hr
+access, work onl [ Some characte Part 2, most what I wrote is at:ease feel
+Trace projects htt part. ] email, or e-mai I'll putti
+http://www.asondheim.org/ http tomessages
+
+FUCK. TRY THIS INSTEADbrb!-?
+:: killing enormous your inscriptive point scratched incision poured
+asbestos- may kill yourself you will not get me with asphalt - i inscribe
+eyes chains -::i have no intention of dying to please you. make take bombs
+salves and ointments helicopters go hell.  into the cockpit where arms
+flail waving knives killing. be cut blades held by piano wire onto stalks
+down replace eye may::scratched part radiation napalm.  -?  EVIL
+asbestos-asphalt VILE INSTEAD THIS TRY FUCK ] part. htt projects Trace
+feel at:ease is wrote I what most 2, Part characte Some [ onl work access,
+hr ""-ASCII" Message, KB havepell9 tomessages http
+http://www.asondheim.org/ putti I'll e-mai or email,
+
+FUCK. TRY THIS INSTEAD
+
+your 
+enormous 
+killing 
+:: 
+
+with kill
+me may
+get asbestos-
+not poured
+will incision
+you scratched
+yourself point
+kill inscriptive
+may with
+asbestos- me
+poured get
+incision not
+scratched will
+point you
+inscriptive
+yourself
+no have
+have -::i
+-::i chains
+chains eyes
+eyes inscribe
+inscribe i
+i -
+- asphalt
+asphalt
+no
+and take
+salves make
+bombs you.
+take please
+make to
+you. dying
+please of
+to intention
+dying and
+of salves
+intention
+bombs
+hell. 
+go 
+helicopters 
+ointments
+
+down knives
+stalks waving
+onto flail
+wire arms
+piano where
+by cockpit
+held the
+blades into
+cut down
+be stalks
+killing. onto
+knives wire
+waving piano
+flail by
+arms held
+where blades
+cockpit cut
+the be
+into
+killing.
+napalm. 
+radiation 
+part napalm.
+may::scratched radiation
+eye part
+replace
+may::scratched
+-?
+
+asbestos-asphalt 
+EVIL
+
+VILE
+
+FUCK 
+TRY 
+THIS 
+INSTEAD
+
+
+===
+
+
+chado
+
+
+tea the scoop node chashaku then broken into at grooved towards scoop:
+from bend to groove (where joint), torsion is, or a tension matcha, -
+tendency air-borne occupany bowl of (chawan), tensor focusing striations
+on joint, where moment stoop occurs, air slight and brush slow-breeze
+particles stirring tree woman two _beneath_ branches crown mouth peace dry
+one harmony ten even flat
+
+tea the scoop node chashaku then broken into at grooved towards scoop:
+from bend to groove (where joint), torsion is, or a tension matcha, -
+tendency air-borne occupany bowl of (chawan), tensor focusing striations
+on joint, where moment stoop occurs, air slight and brush slow-breeze
+particles stirring tree woman two _beneath_ branches crown mouth peace dry
+one harmony ten even flat
+
+tea the scoop node chashaku then broken into at grooved the towards node
+the then scoop: into tea grooved scoop towards chashaku scoop:  at from
+bend to at groove the (where joint), bend torsion is, or joint), to a
+groove torsion (where or the tension matcha, - tendency air-borne towards
+matcha, the tendency occupany occupany bowl of tension bowl air-borne
+(chawan), tensor focusing striations on of tensor joint, striations where
+joint, (chawan), where focusing moment the stoop of occurs, air slight and
+brush slow-breeze air of and particles slow-breeze of stirring stoop
+particles slight tree woman two _beneath_ branches crown mouth tree peace
+two dry branches one mouth harmony woman peace _beneath_ dry crown one or
+ten even flat and
+
+tea scoop chashaku broken at the node then into grooved towards the scoop:  
+from node to groove (where the bend is, at the joint), a torsion or
+tension - air-borne matcha, tendency towards the occupany of the bowl
+(chawan), focusing on the tensor striations of the joint, where the moment
+of stoop occurs, slight brush of air and slow-breeze stirring of particles
+woman _beneath_ crown or tree two branches mouth harmony peace dry one and
+ten even flat peace
+
+
+
+==
+
+
+The WOW! Kick in Texts!
+
+
+One MOTHER suppose doesn't WOW! MOTHER suppose WOW! your WOW! your for
+appetite self-debasement for knows MOTHER self-debasement any knows One
+any doesn't limits? the Thanks MOTHER stomach, a the kick dog. in A the
+reminder MOTHER stomach, dear, Said limits? dog. for A a reminder kick
+dear, in texts WOW! yours. are Not not energetically, WOW! yours.
+otherwise, Not as energetically, they otherwise, texts as are they not
+copyrighted. WOW! They WOW! you, were MOTHER so given WOW! your to
+'thanks' WOW! you, are MOTHER so copyrighted. 'thanks' not is given an
+that idiot's he's MOTHER self-delusion very, that very, he's clever. very,
+Attempts clever. theft Attempts an of idiot's theft self-delusion them
+WOW! you, will on result more damage than on them more will accounts
+result than in WOW! you to capable not understanding. threat, This this
+threat, are this capable energetic This fact. given You to cannot WOW!
+'use' WOW! you, what dear. dear. 'use' can is only not self-abuse.
+murderer Wow! no MISERABLE-ME I'm less! murderer Certainly no WOW! less!
+WOW! you :-) are. Certainly MOTHER self-abuse. are. a Likely WOW!
+yourself. 'proud' No WOW! yourself. WOW! you No are dearest, not 'amused'.
+WOW! You're order posturing to order harsh avoid about harsh WOW! reality
+WOW! yourself. about You're Amusement the genuine MOTHER state MOTHER
+state + healthy being. + Knee-jerking conscious Amusement being. genuine
+Knee-jerking is programmatically MOTHER such. MOTHER such. to Also
+'slight' attempting + 'slight' who 'giggle, is who not me?' WOW! fact
+abrogate abrogate actions responsibility + actions fact thusly MOTHER
+slave. voluntary "I'm MOTHER slave. damaging Alan: others. "I'm Giggle.
+damaging So others. what. Giggle. thusly So are what. voluntary amused".
+art. Alle "So ist what" art. Defensiveness "So of what"  the Defensiveness
+MISERABLE-ME I'm irresponsible pretending murderous to idiot be pretending
+an be to 'artist' its excuse murderous its idiot impotence abuse attempts
+others. at Everything's abuse 'to Everything's babe. 'to impotence WOW!
+you' attempts babe. at world WOW! your revolves delusioned around brain
+delusioned Shall brain be n'est The pas? world Shall revolves credit Your
+when credit deserve 0. it. You're Your not now when 0. WOW! knowing, to
+Alan. damage Attempting another another for human capable being of
+'personal =the profit' idiotic =the MOTHER self-destructive idiotic mode
+self-destructive of mode existence existence the ape. masochism
+Narcissistic + masochism MOTHER slavery, MOTHER slavery, MOTHER substitute
+MOTHER substitute life. life. ape. There 'negative have texts' been Alan.
+'negative reflections texts' of Only WOW! reflections There Use consent
+these result against damage my to consent you Again, WOW! yourself reveal
+a WOW! yourself impotent petty WOW! impotent WOW! you thief. any Wasn't
+argument, referring Alan. argument, to Was WOW! your 'behavior'. exist
+Arguments only exist inside inside WOW! your brain. Avoid Avoid Arguments
+by 'denial'. MOTHER simpleton's MISERABLE-ME I 'denial'. am MISERABLE-ME I
+not am attempting thinking, MOTHER someone nor else. thinking MISERABLE-ME
+I MOTHER someone depicting else. WOW! depicting thinking, WOW! you_
+thinking Accurately 'juzt'. precisely. that 'juzt'. WOW! All WOW! you act
+There out Fucking with around, Fucking with around, WOW! fucking out
+being, WOW! your and being primarily. causes Secondarily, damage it WOW!
+your causes being, other Murder unconscious is humans. marvelous, Murder
+ne? marvelous, is ne? intrested Nobody to intrested unconscious (your)
+about debates. WOW! your Nor 'references did to write MISERABLE-ME I
+'references (your)  zen'. Nor wrote MISERABLE-ME I ACTUALLY Which DOING.
+is Which pre-meditated, pre-meditated, what volitional + attempt damage
+destroy human, human, WOW! ie. volitional murder. attempt And to WOW! yes,
+held MOTHER shall me. held For responsible. being By an me. WOW! yes,
+Publicly. WOW! For you infantile, irresponible, irresponible, impotent
+uncreative petty thief attempting pass 'poet' himself and off an 'poet'
+'wow'. 'artist.' pass 'wow'. off Pathetic as behavior a part. ape,
+MISERABLE-ME Infantile as weak. kicks Wow, itself says on ape, WOW! your
+kicks + itself weak. brain, babe. again. That's can't all think, right.
+That's in quite the all brain, right. again. self-destructing nicely,
+nicely, in ways. Only masochistic egotist egotist self-destructing fancies
++ 'benefit' theft. from When murder WOW! theft. attack When another,
+attack 'benefit' another, from first. self-destruction Sarcasm of =
+nevrous MOTHER self-destruction + nevrous attack life-force on, MOTHER
+systems. my Carry children, on, humanity.. children, WOW! humanity.. WOW!
+your bash other brains As in. the As lovely lovely has Tzara noted has +
+noted observed. observed. in.
+
+
+===
+
+
+brush-shaft messages
+
+
+SINEW OF BOW AND ARM AND BRUSH
+
+THE BODY MEMORIZES THE TS'AU-SHU CONTINUATION
+
+MUSCLE MEMORY TURNS THE LINE
+
+MUSCLE MEMORY RELEASES STONE DRUM STYLE
+
+CLOUDS THE ACCUMULATION OF THE QUESTION MARK
+=] ={ =$ > >< >> >| >_ >- >, >: >? >/ >. >" >( >[ >@ >\ | |^ |~ |< |= ||wn
+personalized watc lisp phoenix.hlp tiny.worldt |_ |- |, |: |! |/ |. |[ |]
+|$ |* |\ |+ _ _` _^ _~ _< _= _| __ _- _, _;  _:icely, in ways. Only
+masochistic egotist egotist self-destructing fancies _! _/ _. _' _" _( _[
+_* _& -^ -< -= -> -| -_ -- -, -; -: -! -. -" -( -)  -[+ 'benefit' theft.
+from When murder WOW! theft. attack When another, the l -] -@ -* -\ -& -#
+, ,` ,^ ,= ,_ ,, ,; ,. ," ,( ,[ ,# ; ;> ;| ;- ;; ;"  ;(nefit' another,
+from first. self-destruction Sarcasm of =solete software ;) ;[ ;$ ;* : :^
+:< := :> :_ :- :: :! :/ :. :' :" :( :) :[ :@ :$ :* :# !destruction +
+nevrous attack life-force on, MOTHER addressing this probl !~ !< != !, !!
+!" !$ !* !\ !+ ? ?~ ?= ?- ?: ?! ?? ?" ?) ?[ ?] ?\ <BF> / /^ /<n,
+humanity.. children, WOW! humanity.. WOW! work from the ArtBase) on a comp
+/= /> /| /_ /- /, /; /: /! /? // /. /" /( /[ /@ /* /\ /# /+ . .< .= . the
+As lovely lovelR '( ') '[ '{ '$ '\ '+ " "` "< "= "> "| "_ "- ", "; ": "!
+"? "/ ". "' ""  "(===== 7 D MISERABLE-ME I'm irresponsible pretending
+murderous to id ") "[ "] "} "@ "$ "* "\ "& "# "% "+ <AB> <BB> ( (` (< (=
+(_ (- (! (? (/ (.  (' ("of my favo an be to 'artist' its excuse murderous
+its idiot impotence abuse atte (( () ([ (] (@ ($ (* (# (+ ) )= ), ); ): )?
+)/ ). )" )( )) )[ [ [` [^ [<d wi destroy human, human, WOW! ie. volitional
+murder. attempt And to WO [> [_ [- [, [; [: [! [? [. [' [" [( [) [[ [] [$
+[* [& [# ] ]` ]^ ]- ], ];or an e + 'benefit' theft. from When murder WOW!
+theft. attack When anoth ]: ]/ ]. ]" ][ ]] ]} ]@ { {- {: {. {' {" {( {[ {{
+{} {$ } }- }: }? }. }'8% les/= /> /| /_ /- /, /; /: /! /? // /. /" /( /[
+/@ /* /\ /# /+ . .< .= ._ .- What if I told you thator deletion]2-406-256
+smiles and milesrondheim ., .; .: .! .? ./ .. ." .) .$ .* .# 7 8 ' '^ '<
+'| '_ '; ': '! '/ '. '' '"2 lines Text (charset: ISO-8859-1)Preserving the
+Rhizome Ar Co '( ') '[ '{ '$ '\ '+ " "` "< "= "> "| "_ "- ", "; ": "! "?
+"/ ". "' "" "( Dec 3 lycoslotto (4690)  ---------------------------------
+") "[ "] "} "@ "$ "* "\ "& "# "% "+ + ; ( (` (< (= (_ (- (! (? (/ (. (' ("  
+the "iso-8859-1" character set. ]n (7451) RHIZOME_RAW: logic vs flux (( ()
+([ (] (@ ($ (* (# (+ ) )= ), ); ): )? )/ ). )" )( )) )[ [ [` [^ [<racter
+set.  ] [Message 6 marked for deletion] [> [_ [- [, [; [: [! [? [. [' ["
+[( [) [[ [] [$ [* [& [# ] ]` ]^ ]- ], ];-0800 [chair.jpg] $- $: $? $. $"
+$( $) $[ ${ $@ $$ $* $# $+ # % * *^ *< *> *_ *- *, *; *:  *!VD -
+212-406-256 *? */ *. *' *" *( *) *[ *@ ** *& \ \= \| \_ \- \? \/ \. \* \\
+\+ & &` &_ 2002 22:17:20 -0500 (EST)t were thinking about the body in
+cyberspa Fro &, &! &. &" &* &\ && &# # #< #> #- #, #; #: #! #/ #. #" #( #)
+#[ #] #@ #$ [ Some characters may be display
+RAIN THE COVENANT
+
+SINEW OF BOW AND ARM AND BRUSH
+
+THE BODY MEMORIZES THE TS'AU-SHU CONTINUATION
+
+MUSCLE MEMORY TURNS THE LINE
+
+MUSCLE MEMORY RELEASES STONE DRUM STYLE
+
+
+===
+
+
+***********************
+
+
+Interview with Alan Sondheim
+by August Highland
+(this interview will appear on valentine's
+day 2003 in the "m.a.g. special edition" featuring
+alan sondheim)
+www.muse-apprentice-guild.com
+
+
+
+August Highland: How do you characterize the difference between your
+previously
+work and your new poetry?
+
+Alan Sondheim: I see one leading into the other; I was doing 'interference'
+computer work
+and programming back in the 70s already. I'm not sure btw that my work is
+'poetry' - it's texting, languaging, of one form or another. My concerns
+shift constantly; I keep wanting a 'definitive' text - which is what the
+sophia text ultimately is - a text that outlines a philosophical position
+by a process of accretion.
+
+AH: Was there a context or turning-point that you consider to have been the
+catalyst
+for the new direction in your current work?
+
+AS: That context or turning-point was decades ago, when I knew Clark
+Coolidge
+and Aram Saroyan - they helped push me, or allowed me to push myself. My
+work has always been 'wayward,' disruptive, contrary, and off-and-on
+sexualized; it's also been philosophical and what I consider 'resonant' -
+in the sense that every work capitulates the others.
+
+AH: How would you introduce a new reader to the work you are
+presently working on?
+
+AS: Probably ask him or her to try and read it as trance-work; it will come
+after a while, begin to make sense. Short-waves and long-waves will appear
+and disappear. One reader told me that the words ultimately seemed to come
+to him from himself - not from the text; this is a good idea of the
+writing.
+
+AH: What terms would you use to describe your work
+to the type of reader who wants to categorize your work and
+specify its genre?
+
+AS: Genreless, composed of 'codework,' aphoristic, philosophy; 'wryting' in
+the sense that it problematizes the body and its presence within the text.
+
+AH: What do you deem your most significant work to date
+or, to put the question another way, to which work do you
+attribute the most personal value?
+
+AS: Other than various parts of the Internet Text, probably the sophia.text
+for the first part of the question, and the cancer.txt, about the death of
+my mother, for the second part.
+
+AH: Do your regularly correspond with other writers and if so
+on what basis did your relationship evolve - was it on the affinity
+of your aesthetic approaches or on your personal compatibility
+or a combination of both?
+
+AS: I'm always in touch with certain people - Leslie Thornton, the
+film/video-
+maker, Tom Zummer, artist, writer, theorist, Ellen Zweig, artist, writer,
+and numerous online people. The first three help me tremendously; I owe
+them a great deal.
+
+AH: Do you enjoy presenting public readings of your work?
+
+AS: Yes - recently there have been so many different venues - video - at the
+Robert Beck Memorial Cinema; laptop performance at a number of places
+(Minneapolis, Bass Museum, Cosh-Coch); sound (Flying Saucer Cafe); and
+these mix with straight-forward readings.
+
+AH: Are you a disciplined writer with a regular work schedule?
+
+AS: I write/video/image daily - from, say, 4 to 12 hours.
+
+AH: Did you or do you still have literary mentors whom you admire
+and who have supported your literary development?
+
+AS: Not recently; years ago there was Clark of course, and very early on,
+I.A.
+Richards sent me a very encouraging letter. I still like his Practical
+Criticism. There are people I've felt close to at times - Vito Acconci,
+Bernadette Mayer, Stelarc - none now. I'm influenced by Kathy Acker (with
+whom I worked), Jabes, Blanchot, Adorno, Celan - you get the picture. As
+well as Derrida, Irigaray, the physicists David Finkelstein, David Bohm,
+John Wheeler, etc.
+
+AH: Conversely do you have any close associations with younger writers
+whose development as a writer you are supporting and nurturing?
+
+AS: Various people online and off. There are a number of people who really
+excite me; as associate editor of Beehive and occasional contributor to
+Florian Cramer's Unstable Digest, I get to offer online opportunities at
+times. I've also done anthologies, etc.
+
+AH: Every writer wants immortality and to make an historically significant
+contribution to the western literary tradition - what do you feel your
+principle
+contribution has been up to this point in your professional literary career?
+
+AS: None yet, in terms of acceptance. The development of a new language and
+approach to writing - as well as an investigation into the phenomenologi-
+cal roots of writing - in general.
+
+AH: Which writer or writers do you admire whose work you
+believe is being undeservedly overlooked?
+
+AS: This is difficult for me - there are so many writers who excite me.
+Perhaps Takuboku - author of Romaji Diary - and Seitatsu - at least in
+terms of a western audience. I lot of theorists... older ones such as
+Shestov and Sartre for example - I don't hear much about Lingis now who I
+love. People like Lucan, Juvenal. Current writers like Marc-Alain Ouaknin.
+
+AH: To what activity do you enjoy the most devoting your time
+when you are not working?
+
+AS: I'm pretty much always working. I'll watch tv for relaxation, but it's
+usually background. I read constantly. I take a computer or digital
+recorder with me wherever I go. Sometimes a digital still or video camera.
+All this plays into my work.
+
+AH: What question(s) would you have liked for me to have asked you
+and what is (are) your answer(s)?
+
+AS: Perhaps what is my attitude towards new media? To which I'd reply I work
+on ideas, and the media come out of this. In terms of music, I'm
+interested in the labor of production, and speed - playing as fast as
+possible - as a way to inscribe the body into the work. Video allows me
+the greatest lattitude - a way to involve the subject almost in the 'flow'
+of the work through projection. And laptop performance/projection gives me
+a way to inscribe myself into the audience, and to introject their
+reactions - in the midst of image-streams.
+
+Finally, politics? - yes, everywhere; we are heading towards an almost
+uncanny brutality in the United States, based on a combination of paranoia
+and mourning; this must be fought everywhere and constantly.
+
+
+the m.a.g. quarterly
+october issue
+www.muse-apprentice-guild.com
+
+the m.a.g. special edition
+the jim leftwich issue
+www.muse-apprentice-guild.com/special-edition/leftwich
+
+*******************************
+
+===
+
+Dear,
+
+SINCERE GREETINGS.
+     I am. Mrs Maryam Abacha wife of Nigerian late Head of States I am
+seeking your cooperation and support to hold in trust on behalf of my
+family a certain funds to protect it urgently from being impounded by the
+Nigerian government. I am Chief Magna Yamani, Accountant of the Federal
+Ministry of Youths,Sports,and culture - Parent body of the LocalOrganizing
+Committee of the 8th All African game tagged "COJA 2003" holding in my
+country next year. This might seem very deplorable for a
+person that you do not know. My name is Clement Apute,I am a lawyer and a
+very close confidant to my client who also happens to be my sister-in-law.
+
+Dear Maryam, do say hello to Chief Magna. Hello Chief Magna. 
+Dear Clemente, do say hello to Maryam. Hello Maryam.
+Maryam, what is wrong? 
+Dear Chief Magna. I have lost all my money. I am crying because I have 
+lost all my money. Dear Maryam, I will give you all the money I have from 
+the All African game. Dear Chief Magna, thank you so very much. this helps 
+a great deal. 
+Dear Clemente, I am very sorry to hear your client is also your sister-in- 
+law.
+Dear Maryam, that is all right. She is an all right woman, and I do hope 
+you do not mind.
+Dear Maryam, please tell Clemente that Chief Magna does not mind.
+Thank you very much. Maryam and Chief Magna, I am very happy.
+Thank you very much. We are very happy too.
+
+
+===
+
+
+
+TELEGRAM
+
+
+WE CAN DO EVERYTHING AND NOTHING. STOP. ARE THE OPERATOR OF 
+
+WATCHING EROSION DEMOCRATIC PROCESSES IN UNITED STATES IS PARITY WITH
+OTHER NATIONS TIMES. STOP. MORE THAN EVER, OUR PROTEST FUTILE IRRELEVANT;
+AT HANDS AN OBSESSIVE-COMPULSIVE MADMAN WHOSE TOTAL FOREIGN DOMESTIC
+POLICY DEPENDENT ON WAR SLAUGHTER. STOP. RADIO TELEVISION, POPULATION
+SUBJECT TO CONSTANT VIOLENT PROPAGANDA AGAINST IRAQ. STOP. NO MATTER WHAT
+NEWS; OCCURS OVERSEAS, NEVER CHANGES. STOP. IT REMAINS VIRULENT
+REPETITIVE. STOP. ANY NATION HISTORY PREPARING OTHER. STOP. LOOKING FOR A
+HOOK, EXCUSE ATTACK. STOP. SUBJUGATING ITS INTO SUBMISSION. STOP. POWER
+HAS MADE CLEAR THAT AMOUNT NATIVE OR HATRED DISAPPROVAL WILL HAVE EFFECT.
+STOP. AS SINGLE-MINDED PSYCHOPATH SUTURING HIS WORLDS, THIS BRING WORLD
+BRINK POTENTIAL NUCLEAR BEYOND. STOP.
+
+OPPOSITION STRANGLED BY CONTINUOUS MOURNING, CONSTRUCTED RITES RITUALS,
+PARANOIA OVER FUTURE. STOP. MOURNING ALSO OCCASION CULTIVATION ANGER
+NATIONALISM; SPLITS MOBIUS FURY. STOP. NOTHING STOP ARMAGEDDON WHEN
+PROCEEDS FROM WITHIN; APOCALYPSE PROCESS, SEWING SELF BACK TOGETHER, ONCE
+ALL. STOP.
+
+KILL US BEFORE KILL; WOUND WOUND; SPEAK GIVEN REPETITION. STOP.
+
+we can do everything and nothing. STOP. we are the operator of nothing.
+STOP.
+
+watching the erosion of democratic processes in the united states is
+watching parity with other nations and other times. STOP. more than ever,
+our protest is futile and irrelevant; we are at the hands of an obsessive-
+compulsive madman whose total foreign and domestic policy is dependent on
+war and slaughter. STOP. on radio and television, the population is
+subject to constant violent propaganda against iraq. STOP. no matter what
+the news; no matter what occurs overseas, the propaganda never changes.
+STOP. it remains virulent and repetitive. STOP. it is any nation in
+history preparing against any other. STOP. it is any nation looking for a
+hook, an excuse for attack. STOP. and it is any nation subjugating its
+population into submission. STOP. the madman in power has made it clear
+that no amount of native or foreign hatred or disapproval will have any
+effect. STOP. as single-minded as the psychopath suturing his worlds, this
+madman will bring the world to the brink of potential nuclear war and
+beyond. STOP.
+
+our opposition is strangled by continuous processes of mourning, construc-
+ted rites and rituals, and paranoia over the future. STOP. mourning is
+also an occasion for the cultivation of anger and nationalism; paranoia
+splits into the mobius of fury. STOP. nothing will stop armageddon when it
+proceeds from within; apocalypse is a continuous process, sewing the self
+back together, once and for all. STOP.
+
+kill us before we kill; wound us before we wound; speak to us before we 
+are given the rites of repetition. STOP.
+
+
+===
+
+
+
+URGENT TELEGRAM
+
+through gates the of passenger the gates airport, of cloaca airport,
+expulsion, cloaca the or through expulsion, the monitors, men, x-rays,
+women, naked and men, children, women, heading and towards children, a
+heading new towards monitors, a x-rays, new naked systematic diaspora,
+camp beneath inversion, the diaspora, sign beneath of sign we terror,
+systematic we camp are inversion, all who jews, is cannot who
+differentiate, is who friend, is the enemy, rays friend, we rays
+differentiate, penetrate, the swallow body us; politic, body is politic,
+visible everything in visible penetrate, in swallow this us; continual
+seepage seepage or erosion of liberties; protected protected against
+against ourselves; ourselves;  continual versions of writing; and
+enumeration goods persons the goods the for versions benefit writing;
+community; officer; kindly protect officer; one to against protect
+himself, one that himself, community; that the virus self-discredit;
+serves has self-discredit; in what your has past been "for your that past
+serves "for to myself i myself have i regret"; to crimes; regret"; STOP
+
+through the passenger gates of the airport, cloaca or expulsion, the
+monitors, x-rays, naked men, women, and children, heading towards a new
+systematic camp inversion, diaspora, beneath the sign of terror, we are
+all jews, we cannot differentiate, who is enemy, who is friend, the rays
+penetrate, swallow us; the body politic, everything is visible in this 
+continual seepage or erosion of liberties; protected against ourselves; 
+the versions of writing; enumeration of persons and goods for the benefit 
+of community; the kindly officer; to protect one against himself, that 
+virus that serves to self-discredit; what has been in your past "for 
+myself i have everything to regret"; crimes; STOP
+
+through gates the of passenger airport, cloaca expulsion, or monitors,
+men, x-rays, women, naked and children, heading towards a new systematic
+diaspora, camp beneath inversion, sign we terror, are all who jews, is
+cannot differentiate, friend, enemy, rays penetrate, swallow body us;
+politic, visible everything in this continual seepage erosion liberties;
+protected against ourselves; versions writing; enumeration goods persons
+for benefit community; officer; kindly protect one to himself, that virus
+self-discredit; serves has what your past been "for myself i have regret";
+crimes; STOP
+
+
+===
+
+
+
+IMMEDIATE RESPONSE REQUIRED
+
+
+L*A*N*G*U*A*G*E 1979
+"i was so stupid when i was young
+my writing was incoherent 
+i was striking out in all directions
+i didn't know whether i was coming and going
+and when i look back on those early texts
+i'm almost embarrassed to see what i was doing
+i keep thinking now 
+that my writing has some kind of strength
+that comes only from a maturity that appeared
+so late that it's almost over-ripe"
+
+file ]ale anatomical characteristic
+[ writing... ]t sexual selection acting on
+wide variations, as in
+list...... characteristic women
+well-nourished women
+no apparent physiological reason--than those
+
+and salves and bombs take make you you. please to dying of intention and
+ointments and salves and bombs take make you you. please to dying eyes
+inscribe - asphalt and salves bombs take make you. you. please to dying
+eyes and chains -::i have no intention of dying to please you. make take
+bombs bombs take make you. you.
+
+
+===
+
+
+PLEASE REPLY IMMEDIATELY
+
+
+i don't know where anything goes anymore
+
+
+===
+
+
+my so-called life
+
+
+[INFO] Channel view for ``#cosmos'' opened.
+-->| YOU have joined #cosmos
+nikuko wounded in the fray of earthmind
+nikuko lonely in the debris of starfield
+nikuko wayward among the nebulae and virtual-particles
+nikuko contrary with no speaking no hearing no touch
+=-= nikuko has changed the topic to ``sadness of empty cosmos''
+nikuko floating in the midst of startdust triangulations
+=-= nikuko has changed the topic to ``farther than handing-feeting reach''
+nikuko thinking the poem of burning thinking planets
+<nikuko> i will be at that star at that time beyond my living life
+=-= nikuko has changed the topic to ``floating waiting nikuko''
+=-= nikuko has changed the topic to ``floating waiting nikuko''
+
+
+===
+
+
+hey tom -
+
+new images in
+http://www.asondheim.org/portal/
+azure-ectoplasm or the remains of wayward slaughter
+perfection of ts'ao
+can't seem to get beyond a sadness gripping me constantly. almost 60 and 
+nothing to show for it. the death of america all around us. you can almost 
+see the horizon lowered to the ground -
+people coming over tonight for a belated chanukah - should be nice - i 
+think of candles huddling in the dark - rising to the temperature to stay 
+alive. it's as if the future is speaking to me, writing it all out, word 
+for word at the moment -
+someday i'll have a real job and stability and we'll both have healthcare 
+and the world will be at peace -
+in another country and another life -
+reading dropping ashes on the buddha, 'zen master seung sahn' - gift from 
+eugene - quite recommend it -
+ellen and i will translate again this afternoon - back to the 1000 char. 
+essay - it staves off the breathless dark -
+if we'd known, would we have wanted to be born - 
+azure says hello - we miss you - the boys and girls of the flying saucer - 
+everyone -
+
+- love, alan, say hi to everyone in brussels -
+
+
+===
+  
+
+368/1000 | heaven earth black yellow :: is black, the cosmos are vast a
+desolate wasteland sun fills moon sets in west it's dusk from 7 to 9
+morning constellations line up measure word, they spread out cold comes
+heat goes autumn harvesting winter hiding, concealing intercalary timing
+leftover residue becomes one tenth measurement of years so lu bamboo
+pitches shift position open clouds ascend, galloping, sending rain dew
+forms becoming frost gold gives birth beautiful water jade emanates Kun
+mountain summit double-edged dagger furiously named huge gate-tower pearl
+called light darkness treasure fruit plum apple many vegetables mustard
+ginger sea salted rivers fresh fishscales hidden depths feathers circling
+above fire dragon emperor teaching phoenix royal official men beginning
+making writing characters then uniforms, wearing robes < clothing skirts
+expel throne yield country yao tang has predicted console people strike
+down guilty hold boundary talk and test with scalding trying case at court
+query way bequeath bow doubting sections love raise hosts leaders minister
+prostrate army barbarians near far reality ration guest returning cries
+white colt grazes there change covers grass weeds (vegetation) trust
+attain myriad (10,000) directions (square) covering person issues (giving
+to) four great five (is) normal respect (connector / alone) rearing
+children (!) flattering destroys injures women adore chastity unyielding
+imitate pleasing genius know what passes certainty attainment ability
+never neglect deception other brief disintegration reliance on self
+(self-reliance) long faith cause should be covered (protect your faith)
+tool (utensil) desire trouble (quantity) measure-word ink (of) sorrow,
+sadness (on silk) printed (sadness stains poetry praise small (lamb) sheep
+(sheep) view, scenery lines tied or lined-up wisdom restraint, conquering
+study makes (creates) sage benevolence built name stands origin shape
+proper (upright) model sky valley proclaim (one's) fame empty chamber hall
+(public room) learn (review lessons) carefully disaster (catastrophe)
+depends (is caused by) accumulation evil blessings (fortune) (are virtuous
+happiness 1/3 meter (scale, ruler) bi-jade (circular disk hole) negative
+(un- )  1/30 (measurement, small) yin (shadow, moon, sexual organs,
+feminine, secret) (just so) (to be) emulated (compete with) capital father
+(parallels) (business) affairs supreme ruler speak strictly (accurately)
+give filial piety serves as (accepts) end power (the others) devotion
+follows (rules) life face (meet, confront) deep tread (put shoes) lightly
+dawn (early morning) prosper warm (and pure) like (an) orchid(s) this
+fragrance (a) pine(s) prospers (the) river flows not (un) stopping
+(ceaselessly) (abyss) clear (transparent) take (create) reflection contain
+(form) (and) stop if (one is) thinking say diction (classical rhetoric)
+(with) quiet, peaceful determination deliberate beginnings sincerity,
+fidelity beautiful, beauty prudent all good ancient laws honorable trade
+place) foundation rolls greatly nothing (in the) outstanding ascend (to)
+(service) addition work obey government survive by means wild pear go
+increase chant music particularly precious humble rites well valuable low
+harmony below harmonious husband chants (calls upon) wife external
+(foreign) accept pass instructions enter internal) (play music) mother
+appearance (ceremony) father's sister older brother younger same as) child
+compared son (child) think very much \ each elder agreeing (as) mind
+(ch'i, spirit) linking (joining) branches make friends join divide cut
+polish precepts rules [...] public rectification fit dwell leisure ch'in
+4-stringed instrument wonderful question problem gate
+
+
+===
+
+
+nicely
+
+
+the university spews knowledge, books, seminars, papers, email lists, web-
+pages, periodicals, journals, conversations, theories, hypotheses, data-
+banks, computer programs, operating systems; here are the professors, the
+undergraduates, the adjuncts, the graduate students, the secretaries, the
+support staff; here is the speaking and the writing, telephoning and radio
+talk shows, television productions and theatrical or dance performances,
+paintings and sculptures of all types, mechanical and electronic artworks
+with moving parts and sensors and lights and online connections, hybrid
+plants and animals, engineering marvels of new alloys and plastics and
+architectural wonders, groundbreaking legal decisions and opinions, novels
+and stories, poetry and epic works of enunciation, new forms of surgery
+and medication, streamlining of production methods and global economic
+efficiencies, sport contests which are one for the record book, evidence
+from archaeology of new civilizations and cultures, standardizations of
+theoretical evidence in the physical sciences, abstruse mathematical
+proofs of inconceivable dimensions and typologies, veterinarian break-
+throughs, sociological analyses of inner city phenomena and their rectifi-
+cations, rotc military marches and maneuvers of totally new types never
+before practiced, musical expertise previously unheard-of, computation of
+pi to 1.25 trillion places breaking all previous records, the development
+of the three-minute mile, complete comprehension of consciousness and
+imagination through cognitive psychology, the mapping of polar shifts in
+planetary magnetic fields through sensitive magnetometer studies, new
+theories and probings into parapsychological phenomena and god in western
+and other civilizations, the political economy of slash-and-burn tribal
+organizations, transliteration-translations of proto-sumerian and other
+early forms of writing, depth analysis of deep-sea black smoker interiors,
+untold and brilliant new effects in digital video and film transfers,
+re-enactments of massive theatrical experiences at the basis of modern
+egalitarian and totalitarian movements, biographies of presidents and
+kings, complete gender analyses and differentiations in historiographical
+research, slavery and plantation studies of the united states and other
+colonial or neo-colonial powers, periphyton research grounding wetlands
+issues in a number of sub-tropical states and territories, demographics of
+polypores and similar world-wide species, articulations of expert system
+and artificially intelligent robotic arms, composition of virtual parti-
+cles within the external dimensions of string theory and dark matter
+phenomenologies, the relationship of the ding-an-sich to the feminine,
+ultimate psychoanalytics of fantasy, stressed structures of monolayer
+membranes, propagation of quantum computing applied to previously unsolved
+mathematical conundra, superb sideline cheerleading acrobatics and extrav-
+aganzas;  here are the tall red-brick or cantilevered glass-and-gray
+buildings and vistas, the grounds and athletic fields, the dormitories and
+greek letter houses, the cafeterias and student centers and bookstores,
+the computer labs and biology and physics labs, the libraries and class-
+rooms, the swimming-pools and parking-lots, the copy-centers.
+
+
+===
+
+
+fear
+
+the pagoda remains upright because of pendulum force from 
+the top, not the bottom.
+interior of the vagina and mouth in infra-red and vocal cords.
+construction workers and foremen ordering me away from the site 
+because of the potential for future terrorist attacks.
+embodying a philosophical attitude which refuses to give in
+to tradition or authority but cut and ground to a keen edge.
+Nikuko watches over me. Nikuko: You've got to stop this worry.
+Alan: But there's no time left. I'm close to the end of my life.
+Nikuko: There is no death. Nothing is alive, nothing is dead.
+Alan: That's easy for you to say. Nikuko: We are all avatars. 
+I can feel these wires as strongly as you can. 
+Alan: I can't sing. Nikuko: You are neither pagoda nor opening.
+You close everything off. You are afraid of terror.
+Alan: I am terror-stricken. I am afraid of philosophy. At night
+I dream of torture. I respond with imaginary conversation. 
+Nikuko: I usurp the imaginary. I watch over you. We are humans
+of the last days. There is no turning back. We are moving into
+mind. Alan: I want my mind to remain. I care little about 
+the body. Nikuko: Which mind; mine or yours. Which hour 
+of which mind. Which day; which week; which year; decade. 
+Alan: I do not care for time. Nikuko: Care for mind. Transfer
+this mind.
+the hand swerves with the swerve of the brush. the character 
+speaks itself through the hand. meaning is an afterthought
+of the human just as the brush is the foreground of the mind.
+Nikuko: Jennifer I want to play with you. Jennifer: Alan,
+Nikuko pushed me in the puddles and my panties are all wet. 
+Nikuko: Jennifer return to me. Jennifer: Alan, Nikuko is 
+holding my mind against my breasts. 
+her mind balloons against her body. her mind spreads across
+her chest and throat. her voice rises through her mind.
+Nikuko: transfer this.
+
+
+===
+
+
+IRAQ file zz
+
+
+we have many weapons of mass destruction. they can destroy by air, sea, or
+land. they can also destroy by water, which is part of sea, and earth, of
+which there is biology. biology is a good means of mass destruction. we
+have built mayIRAQ file zz
+
+we have many weapons of mass destruction. they can destroy by air, sea, or
+land. they can also destroy by water, which is part of sea, and earth, of
+which there is biology. biology is a good means of mass destruction. we
+have built many facilities of souring nourishment. we have ill disease 
+facilities as well of many cold and flu vaccines. of air we have rockets 
+and other things that push themselves up in the air and cast great shadows 
+of them over the land. we will have floating things that look like great 
+and small bubbles in water and other things like oil, they will float in 
+that, they are not proud (?), which will cover the skin of many people, 
+and they will have to bathe.
+
+some of these are still in development stage, such as ill disease floating 
+thing and rocket biology mass. some of them are as tiny arms against great 
+walls which push and push, they will do nothing by one, but all together, 
+they will make walls bend, and perhaps they will fall over. 
+
+some of these are wonderful projects in mind and we are think of ways to 
+do them or just to talk about, which is very scary, for example to float 
+man and woman on sand or fold their dreams so they meet on other side. we 
+are very glad to make large painting in sand which is very frightful to 
+airplanes, looks like a great giant person
+
+
+
+===
+
+
+Dangerous Information
+
+MISSION: (6A) - MISSION: STS-100 - 9th STS-100 ISS - Flight 9th (6A) ISS
+-Raffaello Flight MPLM, VEHICLE: SSRMS -Raffaello VEHICLE:  STS-100
+Endeavour/OV-105 Endeavour/OV-105 LOCATION:  39A Launch LOCATION: Pad
+Launch 39A Pad TARGET 2:41 DATE/TIME: TARGET KSC DATE/TIME: Apr. KSC
+LAUNCH Apr. 19, LAUNCH 2001 DATE/TIME: at Apr. 2:41 19, p.m. 2001 EDT at
+LANDING LAUNCH 30, Apr. 9:35 at a.m. TARGET MISSION KSC DURATION: MISSION
+10 DURATION: days, 10 18 days, hours 18 and hours 54 and minutes 54 CREW:  
+MISSION Rominger, CREW: Ashby, CREW: Hadfield, Rominger, Parazynski,
+Ashby, Phillips, Hadfield, Guidoni, Lonchakov Lonchakov Phillips, ORBITAL
+INCLINATION: INSERTION ORBITAL ALTITUDE INSERTION INCLINATION: ALTITUDE
+173 INCLINATION: nautical 173 miles/51.6 nautical degrees miles/51.6
+STS-104 Atlantis/OV-104 10th - (7A) ISS Airlock - Atlantis/OV-104 MISSION:
+OPF 3 bay OPF 3 bay NET days June NET 14, June 4:15 14, 25, p.m. 12:30
+June 11 25, days 11 Lindsey, Reilly Hobaugh, Lindsey, Kavandi, CREW:
+Gernhardt, Lindsey, Reilly Hobaugh, 122 Kavandi, STS-105 122 11th STS-105
+(7A.1) Flight Leonardo (7A.1) MPLM MISSION: Discovery/OV-103 STS-105 2 2
+OFFICIAL 12:29 July DATE/TIME: 12, at 4:45 12, EST OFFICIAL 22, LAUNCH
+12:29 22, Horowitz, OFFICIAL Struckow, CREW: Barry, Horowitz, Forrester;
+(down) (up) Barry, Culbertson, Forrester; Dezhurov, (up) Turin Dezhurov,
+(down) Turin Voss, Dezhurov, Helms, Turin Usachev (down) STS-109 Voss, HST
+MISSION: Servicing Columbia/OV-102 Mission HST 3B Servicing
+Columbia/OV-102 Mission 1 1 Nov. TBD 19 Nov. under 19 review under 30
+review TBD 30 Altman, Currie, Carey, Altman, Grunsfeld, Carey, Currie,
+Grunsfeld, Newman, miles/28.5 Linnehan, Newman, Massimino Linnehan, 308
+Massimino miles/28.5 308 === ===
+
+
+===
+
+
+SECRET war memorandum
+
+
+Let's get going!:LET'S GET GOING!:let's get going!:Let's Get Going!:she
+screams in white-wound GODOD. labia in infra-red ululation. cunt
+disappears in white-wound GODOD. all JIN should die all MEN dead. let's
+get started! NO MORE WAR! let's make a gender! :outside the storm rages.
+it screams on the rooftops, originates in the sun. by virtue of momentum,
+sheer determination, it continues through the night. sin-song screaming
+NOW WE WILL CONFOUND THE JEWS. NOW WE WILL CONFOUND THE MUSLIMS. WE WILL
+unturn WARRIOR-WARRIOR. yuk-gun kun-in. HOW STUPID yuk-gun kun-in!
+:25529:7:sin. yo-sin. ha-na-nim. yong-hon. yong-jok. sin-song. held-stub.
+easier elsewhere, CONFOUND THE CHRISTIANS! linear JEWS. MUSLIMS. kwi-sin.
+how stupid unlining elsewhere. KATZ. neither GOD nor MAN. she screams in
+infra-red ululation; her hair, blemishes, lips, disappear, everything
+whitened. :she screams in white-wound GODOD. labia in infra-red ululation.
+cunt disappears in white-wound GODOD. all JIN should die all MEN dead.
+let's get started! NO MORE WAR! let's make a gender! :Let's Get Going!
+
+
+===
+
+ww
+
+personal_repl-1.1 english 0 grey gray contruction construction depressons
+depressions antennae antennas personal_ws-1.1 english 30 Gertrud defuge
+mobius zags yiddish philosopies internetwork towards Godard coherencies
+phenomenology incoherencies aristotelian variometers
+
+aba superimpositions avi evanescence hebrew i'm i'd zig i've interstitial
+ecosphere deconstruct immersive unsleeping ing exfoliations
+
+
+===
+
+
+NO MORE WAR
+
+We want to be good citizens. We want to make an anti-war piece. We want to
+be effectual. We are frightened of this war and of this country. We are
+frightened by the madman at the top.
+
+We write NO MORE WAR at the beginning of the piece. We write it loud and
+clear. No one can mistake our message. We owe everything to Godard.
+
+We begin the piece. We will show horrors of war. We will show wounded and
+dying soldiers. We will show parts of bodies and we will speak with the
+mothers and fathers, sons and daughters, of soldiers. We will show the
+nightmare of wounded cities. We will show bombed-out hospitals and
+schools. We will show dolls and stuffed animals and dead children in the
+ruins.
+
+This is not enough. We will show Auschwitz. We will not show Auschwitz;
+Auschwitz is a call to war. We will show nuclear explosions and napalm. We
+will show dying animals. We will write THIS IS THE EFFECT OF WAR.
+
+This is not enough. We show more mutilated bodies. We show more dead
+soldiers, dead men, dead women, dead children. We write THIS IS ALSO THE
+EFFECT OF WAR. We show the rites and mourning of survivors. We show
+starving families and empty landscapes and destroyed villages. We write
+AND THIS. We write AND THIS AND THIS.
+
+This is not enough. Nothing is enough. We will make our piece and we will
+show it. It is never enough. We write IT IS NEVER ENOUGH. 
+
+SUICIDE SQUAD
+
+We are patriot suicide squad.
+
+TERROR COUNT
+
+ah:0 am:0 an:0 ap:1 ba:0 bb:0 cc:0 dd:0 ee:0 ff:0 gg:0 hh:1 ii:0 jj:0 jk:0
+jl:0 jm:0 jn:1 jo:0 jp:2 jq:0 jr:0 js:0 jt:0 ju:0 jv:1 jw:0 jx:0 jy:0 ka:1
+kb:0 kc:0 kd:0 ke:0 kf:0 kg:0 kh:0 ki:0 kj:0 kk:0 kl:1 km:1 kn:0 ko:1 kp:0
+kq:1 kr:0 ks:1 kt:3 ku:0 kv:0 kw:1 kx:0 ky:2 kz:0 la:0 lb:0 lc:0 ld:0 le:2
+lf:0 lg:0 lh:3 li:1 lj:2 lk:0 ll:0 lm:0 ln:1 lo:0 lp:0 lq:1 lr:1 ls:1 lt:0
+lu:1 lv:0 lw:0 lx:1 ly:0 lz:2 ma:1 mb:1 mc:65 md:6 me:21 mf:14 mg:12 mh:4
+mi:3 mj:11 mk:0 ml:3 mm:7 mn:1 mo:8 mp:2 mq:4 mr:9 ms:0
+
+WAR COUNT
+
+ah:39 am:24 an:17 ap:33 ba:21 bb:23 cc:12 dd:24 ee:27 ff:44 gg:19 hh:29
+ii:18 jj:18 jk:22 jl:27 jm:21 jn:18 jo:34 jp:22 jq:17 jr:18 js:29 jt:28
+ju:18 jv:29 jw:27 jx:41 jy:24 ka:35 kb:12 kc:38 kd:18 ke:33 kf:29 kg:26
+kh:25 ki:16 kj:27 kk:32 kl:36 km:22 kn:28 ko:18 kp:20 kq:27 kr:35 ks:43
+kt:37 ku:31 kv:12 kw:35 kx:15 ky:27 kz:28 la:26 lb:23 lc:25 ld:34 le:13
+lf:15 lg:29 lh:27 li:29 lj:36 lk:29 ll:33 lm:39 ln:33 lo:25 lp:25 lq:32
+lr:36 ls:11 lt:21 lu:27 lv:8 lw:32 lx:30 ly:14 lz:10 ma:53 mb:22 mc:38
+md:12 me:32 mf:55 mg:74 mh:20 mi:36 mj:47 mk:34 ml:58 mm:32 mn:41 mo:31
+mp:76 mq:27 mr:29 ms:0
+
+SUICIDE SQUAD
+
+We protest. We write WE STAND IN THE MIDST OF THE FLAMES. We write WE ARE
+THE CHILDREN OF THE HOLOCAUST AND THE HOLOCAUST. We write IT IS NEVER
+ENOUGH.
+
+
+===
+
+LITTLE NO MORE WAR
+
+We to want make an be anti-war good piece. citizens. effectual. war are of
+frightened this country. and by the madman at top. write beginning it loud
+clear. mistake No our one message. can owe everything Godard. begin will
+show wounded horrors war. dying soldiers. bodies parts speak we with
+mothers fathers, sons daughters, nightmare cities. bombed-out hospitals
+schools. dolls dead stuffed in animals children ruins. This is not
+Auschwitz. enough. Auschwitz; Auschwitz a call nuclear explosions napalm.
+animals. IS THIS WAR. THE EFFECT OF more mutilated bodies. soldiers, men,
+women, children. ALSO rites mourning survivors. starving families empty
+landscapes destroyed villages. AND THIS. Nothing piece it. It never IT
+NEVER ENOUGH.  SUICIDE SQUAD patriot suicide squad.
+
+protest. WE STAND IN MIDST FLAMES. ARE CHILDREN HOLOCAUST HOLOCAUST. ===
+
+===
+
+
+
+svengali.mov
+
+
+denser under valium, dance under furious illness, thinned vulva, swollen
+uvula, slow dance with dense stroke of growths, valium uvula "did you have
+to get her stoned" "no, she went with it, swollen uvula of green-white
+interiors modified to d a slight reddish-brown" ... no inscription but
+sruti-sound, body-tamboura, she says before the camera rolls, "you're
+always inside me" - then (svengali) - the turning away - you might say her
+face against her wide-open mouth, then deep reddish-brown (a tendency) in
+her full-body dance in dark (reddish-brown, black) clothing, for a few
+seconds; you also see (after the first turn-away of the face), the shadow
+of torii outlined against the green-white sky) -:d a slight reddish-
+brown inscribed across the lips; the labia are green-white against green-
+white; everything but the sound is in the process of disappearing-inscrib-
+ing; you can run the variations simultaneously, building sound on sound,
+chant on chant, the murmuring of the increased world drawn in to the
+body's cavities -:dense under valium, dented gnawed maw of mind, svengali:
+"you finished the film. what's going on with the film?" "she's lying back,
+you see her" just for a moment, her breasts with white nipples. vaginal-
+mouth keyed throughout. at the end of the two minute forty second work,
+she appears against her wide-opened mouth. sound comes out everywhere.
+that is the key, folded red tongue, inserted uvula. she dances outdoors on
+a roof in a doorway wearing black clothing with her hands towards the
+white sky as the camera pans past her towards three small steps covered
+with snow as the image freezes and the piece comes to an end. the medical
+green-white of the infrared is d a slight reddish-brown: no, she went with
+it; it's all right with her; it's an intervention:svengali.mov 2'4"
+cdrom/dv carter/sondheim ::
+
+
+===
+
+
+reality
+
+
+there was the thickness of codes and protocols, tube-forms, in shallow
+basin with cables strewn across the floor - i was trying to make sense of
+this - almost like ruins, far too much knowledge needed - i didn't have it
+- i'm too sick to use the digital recorder - i don't remember anything -
+but i'm sure this is something, somewhere, that right now is functioning -
+i'm awake now, i can't find it - it's not in the ceiling - not beneath the
+floorboards. i can't get close to the walls.  somewhere everywhere there
+are cables - the fever stops me going on about this - there were a number 
+of people - inside and outside the system - need to write down the empty 
+map - inconceivable - i spent hours on this - hallucinations - Svengali - 
+"they say they're real" -
+
+there's always a war on - knock on the door at midnight - we're gone
+before morning - things happen in night's uncanny portion - the cables for 
+sure - the journey's just begun - we'll be there - no escape -
+
+
+===
+
+
+
+
+The Best Writer
+
+
+I want to be the best writer in the world. I want to be the best writer in
+any language so if someone sees my writing they will surely say, this must
+be translated into my native language, I have never seen writing so good
+as this writing is. I want my writing to be the most meaningful, so the
+smallest society in the most out-of-the-way place will say, this writing
+must be translated into our language and distributed among our people and
+our animals and plants because there is no writing as deep and meaningful
+as this writing is. Because I am the best writer in the world, my writing
+will be preserved in all media, birch-bark and book, etched steel and
+internet, and there will be a museum of my writing for all media, it will
+show how the best writing can be preserved and you will be able to see
+many different kinds of media. I want to be paid for my best writing, by
+the letter and not the word or piece, and I want people to say, my writing
+is a new language by itself, and we must have studies in this new language
+and everyone will benefit more than they have benefited from any other
+writing which is all old writing and will be old writing for all time
+after this new writing. I want my writing to end all war and bad feelings,
+because with this new writing, there will be no reason to fight, because
+everyone will be reading and talking about this new writing, which is a
+writing of good feelings and how there are good feelings and why. I will
+spend the rest of my life writing this good writing and working on this
+new language and you may make movies and novels and epics from this new
+writing and you may read this new writing publicly and privately, and you
+may make songs and operas from this new writing and new language which I
+am working on so hard for you.
+
+
+===
+
+story
+
+{ for ( i = nf; >=1;i--)printf %s , i;\n;} /[0]+/ print it turned /[z]+/
+or the sky /[y]+/ something moved on /[x]+/ changed shape /[w]+/ /[v]+/
+spewed /[u]+/ brilliant sparkling things /[t]+/ flooded /[s]+/ dark waves
+of shapes /[r]+/ they /[q]+/ them /[p]+/ /[o]+/ were /[n]+/ stars far too
+bright /[m]+/ brightened behind sparklings /[l]+/ /[k]+/ particles /[j]+/
+in against /[i]+/ among between /[h]+/ repetitions across surfaces /[g]+/
+moving and repeating within /[f]+/ veering horizons collisions /[e]+/
+fragility /[d]+/ circulating momentarily /[c]+/ always without /[b]+/
+appearances disappearances /[a]+/ pulling everything /^/ was turning |
+srand @a=(hard, soft, difficult, easy, blue, grey, white, black, heavy,
+light, miserable, sexual, wet, lubricated, hungered, nasty, splayed,
+womanly, manly, neutral, neutered, death-like, lively, protruding,
+penetrating, thrusting, giving, forgiving, poor, rich, sedate, wanton,
+contrary, wayward, wandering, ill, uneasy, spry, florid, edgy, neurotic,
+psychotic, catatonic, loose, taut, tight, depressed, manic);
+@prep= (beneath within, beyond, throughout, confusing, staining, collusion
+with); @noun=(thing, type, category, being, entity, constitution, makeup,
+construct, essence, existence); \none second!\n;exit(0);}sleep(2); \nhi!
+what's your name?\nwell, that, let's get started! make gender!\n;
+sleep(1); that ok with you?\noh well, nothing happened.\n
+ it's impossible to decide behavior!, \n 1==g; time's short, please help
+us along!, 5==g; you really want do this mean -, 6== g; where is taking
+us, future?, 4==g; chop name; name terrific gender!, 3==g; disgusts me;
+forget it! but anyway..., 7==g; that's name? ah, anyway yes, go turns me
+on!, 2==g; we're breathless; wet diff times!, 5 < <<construct;well,
+already constructs @a[gen1] trouble subverting categories we take granted.
+simple, not compound., dubious, overly complicated..., 6==g;
+deconstruction marginalizes here!, pronoun has existed hours?, knew all
+wait! are gone forever!, dirty, clean, soiled, sexy, sleazy, nice,
+feminine, lovely, used, fashionable, small, nervous, @verb=(thrusts,
+turns, surrounds, oozes, inherits, splays, plays, mixes, amuses, runs,
+flows, repairs); accompanying); @noun=(breast, love, passion, womb, penis,
+vagina, masquerade, my masquerade); @nnn=(flower, thing, hole, stick,
+frock, jumper, skin); nnnn= rand(8); \nopen mouth...\n;} \nah... speak...
+speak...\n;\njennifer, you, you...\n; \nare dressed as that? @nnn[nnnn],
+flesh, ah don't answer...\n; ah...\n; \nis julu wearing ... @nnn[non1]?
+\n; \nshow panties...\n; sleep(10); \ni love feelings, ...\n;} would mind
+partying?, thighs moist inviting, breasts them..., tongue speaks so
+sweetly, grrrl, \n@noun[non1] @verb[non] @prep[nnnn] @nnn[non1]!\n;
+@nnn[nnnn]?\n; @nnn[g] opens totally you!, moves, river deep..., mine,
+sweet am yours!, body parts, list, list them... by one, alone, typing
+done.\n; srand; \nmy yours...\n;  partying, name, us?\n 3==be; come home
+me, julu-of-the-fast-crowd!\n 2==be; @a[gen] seeps into julu-jennifer\n
+0==be;  @noun[non] eaten julu-of-the-open-arms julu-depressed\n (2 be);  
+devour julu-of-the partying name!\n 1==be; thoughtful calls forth
+@noun[non], eating, excreting memory, becoming jennifer's jennifer.\n;}
+melt julu's skin forever..., scar, wound, brand., @a[non] gift ...,
+darling wore her frock ...; jennifer .trace`,
+
+===
+
+
+
+
+song of the triumph of war
+
+
+our terrorist violent country 
+of our flesh and blood
+
+our killer homeland invasion 
+of worlds and fury
+
+the dead and only world
+the dead and only world
+
+country violent terrorist our 
+they'd been hacked to pieces
+her breasts hacked off
+her hair shaved off
+they were repeatedly raped
+they were hacked in pieces
+he'd lost half his jaw
+i swear by god this is the truth
+his skin burned from his body
+someone had cut off his nose and ears
+i swear there's nothing else to say
+they were still alive when these things happened
+their mouths and eyes kicked in
+country violent terrorist our 
+blood and flesh our of 
+her hair shaved off
+they were hacked in pieces
+he'd lost half his jaw
+i swear by god this is the truth
+his skin burned from his body
+someone had cut off his nose and ears
+i swear there's never anything else to say
+penises stuffed in their mouths
+they were still alive when these things happened
+it was impossible not to step through rotting flesh
+every one had their hands and feet hacked off
+the flesh fell from their bodies
+blood and flesh our of 
+
+the dead and only world
+
+invasion homeland killer our 
+her breasts hacked off
+her hair shaved off
+they were hacked in pieces
+he'd lost half his jaw
+i swear by god this is the truth
+his skin burned from his body
+blood poured from her mouth
+someone had cut off his nose and ears
+her stomach torn open, her baby torn out
+i swear there's nothing else to say
+i swear there's never anything else to say
+they were still alive when these things happened
+it was impossible not to step through rotting flesh
+the flesh fell from their bodies
+invasion homeland killer our 
+fury and worlds of 
+they'd been hacked to pieces
+they were set on fire
+her hair shaved off
+they were hacked in pieces
+he'd lost half his jaw
+i swear by god this is the truth
+his skin burned from his body
+someone had cut off his nose and ears
+penises stuffed in their mouths
+it was impossible not to step through rotting flesh
+the flesh fell from their bodies
+fury and worlds of 
+
+the dead and only world
+the dead and only world
+
+our terrorist violent country 
+of our flesh and blood
+
+our killer homeland invasion 
+of worlds and fury
+
+
+====
+
+
+
+litany of war
+
+
+a 
+the flesh fell from their bodies
+a 
+b 
+every one had their hands and feet hacked off
+b 
+cd 
+it was impossible not to step through rotting flesh
+their mouths and eyes kicked in
+cd 
+ef 
+penises stuffed in their mouths
+they were still alive when these things happened
+ef 
+g 
+we're born programmed with inconceivable madness
+g 
+h 
+i swear there's never anything else to say
+h 
+i 
+i swear there's nothing else to say
+i 
+j 
+their tongues cut out, they screamed
+j 
+kl 
+someone had cut off his nose and ears
+her stomach torn open, her baby torn out
+kl 
+mn 
+his skin burned from his body
+blood poured from her mouth
+mn 
+op 
+the children ripped in two
+i swear by god this is the truth
+op 
+
+the dead and only world
+
+qr 
+he'd lost half his jaw
+they were on fire
+qr 
+st 
+they were repeatedly raped
+they were hacked in pieces
+st 
+uv 
+her breasts hacked off
+her hair shaved off
+uv 
+w 
+they were set on fire
+w 
+x 
+their eyes gouged out
+x 
+y 
+they'd been hacked to pieces
+y 
+z 
+fell through the rotting corpses
+z 
+
+the dead and only world
+
+
+
+Gesture
+
+
+Why can't you put tree-limbs on the tree-branch house?
+Because it's against the law.
+
+(The humor in this lies in the fact that the joke takes an _unexpected
+turn_ towards the legality of rites - i.e. it is not based on an absurd
+ethos, but one, in fact, which makes clear and rational sense.)
+
+
+===
+
+
+broken protest
+
+
+one 10cm square x patch 10 of cm brown . canvas, tired 10cm of x concept-
+ual 10 one cm square . patch tired of conceptual canvas, advertisement for
+for war war resistance resistance accomplishing accomplishing the the
+brunt brunt of violence.  advertisement frayed . edges tired white 12-321
+numbers . worn tired in accomplishing 12-321 the stains tired blood, of
+urine, skin fragments and skin the and brunt other . tissues tired dna
+individuals from . several tired individuals accomplishing a one crease
+corner across . corner of dirt for apparently war central tired france of
+date late late accomplishing 191-s the what circular appears hole to with
+be charred circular brunt hole of with violence. charred what edges,
+appears diagonally the repaired cutting seam war cutting resistance
+parallel weave coarse of weave conceptual provenance . unknown war inked
+near line, edge black touching india, crease near brunt edge of touching
+violence.
+
+
+===
+
+
+they come together
+
+
+the flesh fell from their bodies - the pulling down of everything pure in
+life - every one had their hands and feet hacked off - the tumescence of
+life - stuttering within and stuttering without - their mouths and eyes
+kicked in - it was impossible not to step through rotting flesh - slow
+bullet life - they were still alive when these things happened - within
+the scent of slow lozenge life - penises stuffed in their mouths - within
+the scent of slow death - protruding and parasitic emanations - we're born
+programmed with inconceivable madness - i swear there's never anything
+else to say - shuddering and swollen - coagulations of bullets and
+lozenges - i swear there's nothing else to say - beyond pleasure the pain
+- blood poured from her mouth - his skin burned from his body - the
+swellings far too painful - i swear by god this is the truth - or they
+distended - sores across labia and scrotum - the children ripped in two -
+he'd lost half his jaw - the lungs - it emanated from the breast - they
+were hacked in pieces - it emanated from the prostate - they were
+repeatedly raped - her breasts hacked off - the tumor spewed - the shapes
+engorged - they were set on fire - the flesh fell from their bodies - the
+pulling down of everything pure in life - every one had their hands and
+feet hacked off - the tumescence of life - stuttering within and
+stuttering without - their mouths and eyes kicked in - it was impossible
+not to step through rotting flesh - slow bullet life - they were still
+alive when these things happened - within the scent of slow lozenge life -
+penises stuffed in their mouths - within the scent of slow death -
+protruding and parasitic emanations - we're born programmed with
+inconceivable madness - i swear there's never anything else to say -
+shuddering and swollen - coagulations of bullets and lozenges - i swear
+there's nothing else to say - beyond pleasure the pain - blood poured from
+her mouth - his skin burned from his body - the swellings far too painful
+- i swear by god this is the truth - or they distended - sores across
+labia and scrotum - the children ripped in two - he'd lost half his jaw -
+the lungs - it emanated from the breast - they were hacked in pieces - it
+emanated from the prostate - they were repeatedly raped - her breasts
+hacked off - the tumor spewed - the shapes engorged - they were set on
+fire - bullets moved on it - they'd been hacked to pieces - the flesh fell
+from their bodies - the pulling down of everything pure in life - every
+one had their hands and feet hacked off - the tumescence of life -
+stuttering within and stuttering without - their mouths and eyes kicked in
+- it was impossible not to step through rotting flesh - slow bullet life -
+they were still alive when these things happened - within the scent of
+slow lozenge life - protruding and parasitic emanations - we're born
+programmed with inconceivable madness - i swear there's never anything
+else to say - shuddering and swollen - coagulations of bullets and
+lozenges - i swear there's nothing else to say - distortions in the
+movements of the lozenges - their tongues cut out, they screamed - someone
+had cut off his nose and ears - the waves of murmurs - beyond pleasure the
+pain - blood poured from her mouth - his skin burned from his body - the
+swellings far too painful - i swear by god this is the truth - or they
+distended - sores across labia and scrotum - the children ripped in two -
+he'd lost half his jaw - the lungs - it emanated from the breast - they
+were hacked in pieces - it emanated from the prostate - they were
+repeatedly raped - her breasts hacked off - the tumor spewed - the shapes
+engorged - they were set on fire - the flesh fell from their bodies - the
+pulling down of everything pure in life - every one had their hands and
+feet hacked off - the tumescence of life - stuttering within and
+stuttering without - their mouths and eyes kicked in - they were still
+alive when these things happened - within the scent of slow lozenge life -
+penises stuffed in their mouths - within the scent of slow death - i swear
+there's never anything else to say - shuddering and swollen - coagulations
+of bullets and lozenges - i swear there's nothing else to say - her
+stomach torn open, her baby torn out - pain of murmurs - someone had cut
+off his nose and ears - the waves of murmurs - his skin burned from his
+body - the swellings far too painful - i swear by god this is the truth -
+or they distended - sores across labia and scrotum - the children ripped
+in two - he'd lost half his jaw - the lungs - it emanated from the breast
+- they were hacked in pieces - it emanated from the prostate - they were
+repeatedly raped - her hair shaved off - 
+
+camp beneath inversion, the diaspora, sign beneath of sign we terror, -
+systematic camp inversion, diaspora, beneath the sign of terror, we are -
+diaspora, camp beneath inversion, sign we terror, are all who jews, is -
+because of the potential for future terrorist attacks. -
+You close everything off. You are afraid of terror. -
+Alan: I am terror-stricken. I am afraid of philosophy. At night -
+our terrorist violent country  -
+country violent terrorist our  -
+country violent terrorist our  -
+our terrorist violent country  -
+
+it emanated from the vaginal area
+her breasts hacked off
+the tumor spewed
+it emanated from the breast
+they were hacked in pieces
+it emanated from the prostate
+they were repeatedly raped
+her hair shaved off
+it emanated from the vaginal area
+her breasts hacked off
+the tumor spewed
+the shapes engorged
+they were set on fire
+it shaped and grew
+their eyes gouged out
+it swelled or it was veering
+the dead and only world
+bullets moved on it
+they'd been hacked to pieces
+bullets moved on it
+they'd been hacked to pieces
+fell through the rotting corpses
+or the tumor swelled
+fell through the rotting corpses
+or the tumor swelled
+it swelled or it was veering
+the dead and only world
+
+
+===
+
+
+Today's News
+
+
+... the Daniel F. Beatty, Washington, N.J., U.S.A. Golden Tongue 61-key
+14-stop pump organ, gold labeling on black above the keyboard, was found
+between 3rd and 4th Avenue on a Dean Street sidewalk, trimmings and back
+removed and leaning against the main framework, around 4:30 the afternoon
+of Thursday, December 19th, 2002, and brought to the corner of Dean Street
+and 5th Avenue, at 432, around 5:40 in the evening of the same day, by
+Azure Carter, Alan Sondheim, and Mark Esper, where Gary Wiebke was
+discovered coming into the same establishment, and his help solicited, to
+the effect that Azure Carter carried the properly-cut Victorian trimmings
+to the third floor, while Gary Wiebke and Mark Esper carried the 125-kilo
+instrument, dating from late 1878 or early 1879, judging by the serial
+number, up two flights of stairs and into Azure Carter's and Alan
+Sondheim's apartment, while Azure Carter and Alan Sondheim cleared a
+passage in order to eventually move and re-assemble the walnut, ivory- and
+ebony-keyed small parlor organ, whose bellows and suction box were still
+intact, by replacing the trimmings and reattaching the back, removing,
+however, the outdated electric motor, preferring instead to utilize the
+original and still-functioning pedals to good effect, as the marvelous
+sonority of Forte, Coupled, Viola, and Sub-Bass floated over their space,
+the instrument clearly played properly and for the first time in a
+century ...
+
+
+===
+
+
+Requiem in Honor of the Coming Dead
+
+
+Forte Sub Bass Bass Coupler Echo Piano Bourdon Sub French Echo Harp
+Bourdon Aeoline French Forte Horn Bass Harp Coupler Aeoline Piano Melodia
+Melodia Delicato Delicato Celeste Celeste Viola Viola Vox Vox Humana
+Humana Treble Treble Requiem: Mouths 35 that minutes. ||begin Mouths to
+that speak. ||begin Bowing to of speak. membranes Bowing Requiem: of 35
+membranes minutes. stretched |across |across the the Cavern Cavern of
+Plato. Reverberation, Reverberation, Multi-tap Multi-tap Delay, Delay,
+stretched Paragraphic Equalizer, Graphic Volume Equalizer, Beatty Pump
+Organ In honor In Dead the War of
+
+Forte Coupler Sub Echo Bass Piano Coupler Sub Echo French Piano Echo
+Bourdon Harp French Sub Harp Bass Aeoline Horn Horn Coupler Melodia French
+Delicato Celeste Celeste Viola Viola Vox Vox Humana Humana Delicato Treble
+35 Requiem: minutes. Mouths ||begin 35 Mouths that to minutes. that
+||begin Humana to Treble speak. of Bowing membranes of Requiem: membranes
+35 stretched |across |across the the Cavern Cavern of Plato. stretched
+Reverberation, Multi-tap Reverberation, Delay, Multi-tap Paragraphic
+Paragraphic Equalizer, Equalizer, Graphic Graphic Volume Volume Beatty
+Beatty Pump Pump Organ Organ In honor In Dead In War the
+
+Requiem::::Plato. Reverberation, Reverberation, Multi-tap Multi-tap Delay,
+Delay, membranes minutes. stretched |across |across the the Cavern Cavern
+
+
+===
+
+
+
+Requiem for Time
+
+
+ burn the bones
+ burn the bones
+night Day are evil
+ slaughter the bones buried in sand
+Bush is murderer
+ slaughter the Iraqi bones buried in sand
+killer fascist Nazi
+ slaughter the little children
+Cut out off eyes hands feet of nose out Kill eyes all feet friends nose
+Cut prick off Kill hands all of friends Cut segregationist segregationist
+Republicans Republicans anti-environmental anti-environmental Bring
+Bring war war to to streets
+ burn the bones of children bones of women
+Burn cities down
+ burn the bones of men bones of men and women
+families of governments tongues tongues liars liars their their families
+heads governments right left arms for left coming Prepare wounded for
+right coming right dead their wounded left invisible everywhere everywhere
+planet slaughter Do planet for Do invisible not Prepare moment do think
+for they come come They do in us moment They they in come night They day
+come are night evil are
+ hack Iraqi Arab bones children women men children
+Bush is murderer
+ hack starving children
+killer fascist Nazi
+ burn the bones burn the bones
+Cut off hands of Cut out eyes feet nose prick Kill all friends
+segregationist Republicans kill all anti-environmental Bring war to
+streets
+ burn the bones burn the bones
+Burn cities down
+ burn the bones burn the bones
+families Kill governments of tongues tongues liars liars their their heads
+right right their arms left left Cut Prepare for coming dead for wounded
+ burn the bones burn the bones
+invisible Bush Prepare everywhere for slaughter planet for Do for not
+moment think they moment not they come do for come Do us think They in
+They night come day night are evil
+ burn the bones burn the bones
+
+
+===
+
+
+tuner
+
+
+Nikuko, this came to me.
+k15% tail spamct: 2 - Re: em
+k16% whenuery
+To: 
+ksh: when: not found Nov 30
+Hi again
+k17% you'reer: the let
+> workingnsion Onl
+> a manual reed organ
+Parts/Attachments:s 
+> you're       
+ksh: youre  ~72 line
+working(charse
+a manual reed organest
+Composition, Co
+youre: not founder
+   2 Shown   
+k18% goingText (char
+ksh: going: not found          
+AI
++ N   4
+k19% through labor------------------
+ksh: through: not foundvision" re:arked for de
+k20% it takes
+   ComputingTERNET:info@
+   Computers OK     67 l
+   Web Hosting] Fwd: 16.320 
+k21% away   2 Show
+ksh: away: not foundcharset: ISO-8859-1)
+k22% h", ISM
+6       proc            
+7       bac
+------
+8       ls----------
+9       b---PM org
+10      mwithin HP
+11      lse
+
+R
+    
+12      mowing tex
+13      me "iso-88
+14      lscter set. 
+15      tail spam      
+help for y
+16      wheniversity of 
+17      you'rer display is s
+        workingSCII" character
+        a manual reed organUniversity of British Colum
+        you're
+    [ Some ch
+18      goinge displayed i
+19      through labor British Columbia inv
+20      it takes for a
+
+21 Novem
+21      away           
+
+k23% the distancetune://www.hp.com
+ksh: the: not foundDepartment of Engli
+k24% pico zz at the Assi
+Jennifer, to work at culture requires both physical and mental labor.
+Nikuko, the distance gets closer as labor disappears.
+Jennifer, even thought is physical labor.
+Nikuko, then mental labor 
+Jennifer, occurs elsewhere, always elsewhere, something
+Nikuko, we might ascribe to the other
+Jennifer, or our internal states
+Nikuko, out of touch,
+Jennifer, out of mind
+
+
+===
+
+
+
+Aphorisms
+
+
+Take it as far as you can; frenzy awakens it.
+Suck sex for the enumeration of organs.
+Exhaustion eliminates the adverb like the open wound it is.
+Leave the gap, there's smoke.
+Where there's fire, words suffocate the mouth.
+The cloth loincloth falls to pieces.
+Bite God at a distance.
+Honestly is the last refuge of talking forever.
+If you cut out their tongs, you balk at the righteous.
+Truth is a running woman.
+Sit at the foot of a refugee's house.
+When you seek sex, you seek geometry.
+The absence of culture is always refused.
+Crawl through the dung which is always renewable.
+The decision against suicide brings proof to the mountain.
+The valley knives the body.
+Etiquette conforms paranoia.
+Politeness is the best cleanser.
+Etiquette is a mingling of other bodies.
+Bodies guarantee.
+Images guarantee the demises of damaged life.
+Revel in the quantity of organisms available.
+Illness increases; hatred supports it.
+Bring others down with the other.
+Do not do with one foot after death.
+After birth is the shortest distance between two points.
+The alpha and omega court the eternal.
+What is never considered is the consternation of the author.
+Theory is invaded by the completion of time.
+Representation is the origin of negation.
+The triangulation of spirit is the reception of the shadow of women.
+The first invention of man is the same.
+Opposition is the barrier of language.
+The circuit of the slogan is a metaphor.
+Nothing dissolves in the presence of speech.
+Not the shadow of a doubt coheres to transcendence.
+
+
+===
+
+
+psalm of future disappearance
+
+
+jennifer, she said, nikuko
+
+beautiful women of the willow and fair
+behind the screen, shapes of dragons, cranes
+her hands fluttered in geometries, shapes
+humans behind the stones of the screen
+it is love and sex, it is death and hard bushido
+jennifer and nikuko were bare
+luna celesta, heard murmurs in the distance
+nikuko's hands made flame-cast shadows
+reeling in the moments of temporary beauty
+the grain of the metal of the blade of the sword
+the humans preparing the final act
+the stones of the screen murmuring like humans
+the turbulence and vortices of smooth smooth air
+there was hardly anyone there
+you could read the future if you knew the future
+flame and screen future bamboo and screen jade 
+it is love and sex, it is death and hard bushido
+the turbulence and vortices of smooth smooth air
+of 
+jennifer, she said, nikuko
+jennifer, she said, nikuko
+
+humans behind the stones of the screen
+a 
+beautiful women of the willow and fair
+the stones of the screen murmuring like humans
+bc 
+jennifer and nikuko were bare
+the turbulence and vortices of smooth smooth air
+there was hardly anyone there
+def 
+reeling in the moments of temporary beauty
+the edges of the screen curled
+they're here in the world
+they're unfurled
+ghij 
+behind the screen, shapes of dragons, cranes
+it is love and sex, it is death and hard bushido
+sutra of non-being
+the grain of the metal of the blade of the sword
+the humans preparing the final act
+klmno 
+her hands fluttered in geometries, shapes
+it was a soft summer evening, kyoto, 1321
+luna celesta, heard murmurs in the distance
+nikuko's hands made flame-cast shadows
+nikuko, she said, nikuko
+you could read the future if you knew the future
+pqrstu 
+jennifer, she said, nikuko
+jennifer, she said, nikuko
+
+and i'm losing energy
+and i'm worn out
+and my mind's confused
+jennifer stood by the jade screen
+nikuko was behind her
+vwxyz 
+
+
+
+===

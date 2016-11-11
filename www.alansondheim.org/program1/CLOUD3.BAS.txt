@@ -1,0 +1,25 @@
+DEFDBL X-Y
+CLS : PRINT "WELCOME TO CHAOS CLOUD 3 GRID ORBITS": PRINT " "
+INPUT "If color scheme 1, enter 1; if 0, enter 0"; j: PRINT " "
+PRINT "Mag. .2-20, expansions 1.5<b<2 good"
+PRINT " ": INPUT "If dot mapping, enter 1; if line mapping, enter 2"; h
+PRINT " ": INPUT "IF RESEARCH TYPE 2, ELSE FOR DISPLAY TYPE 0"; f: PRINT " "
+IF f = 0 THEN c = 1000000: INPUT "magnification,expansion"; a, b: GOTO five
+PRINT "If RESEARCH, use cycle of zero to restart screen": PRINT " "
+seven: INPUT "magnification,   (expansion,cycles)resettable"; a, b, c
+REM orbits tend to stabilize <2, ck.1.865 and 1.9 dot; attractor near 1
+five: CLS : SCREEN 1: COLOR 8, j
+IF f = 2 THEN PRINT a; b; c;
+LINE (0, 100)-(320, 100): LINE (160, 0)-(160, 200)
+two: r = r + 5 * a: PSET (r, 95): IF r < 320 THEN GOTO two
+x = 0: y = 0: m = 160: n = 100: t = 0
+zone: p = m: q = n: x = x + SIN(y) * b: t = t + 1
+y = y - COS(x) * b
+m = x * a + 160: n = y * a + 100
+IF POINT(m, n) = 0 THEN z = 1 ELSE z = 2
+IF h = 2 THEN LINE (p, q)-(m, n), z ELSE PSET (m, n), z
+IF t = c THEN GOTO six
+GOTO zone
+six: INPUT ; b, c: t = 0: x = 0: y = 0
+IF c = 0 THEN GOTO seven ELSE GOTO two
+

@@ -1,0 +1,13 @@
+REM MASS produces a symmetrical pattern for any z
+CLS : SCREEN 0, 1: INPUT "enter z, x increment, power basis"; z, y, e
+Th: d = 0: x = x + 1: c = e
+Tw: a = 0
+Tx: a = a + 1
+IF x MOD c ^ a = 0 THEN d = d + 1: GOTO Tx
+c = c * e
+IF c * 2 < 2 * x + 1 THEN GOTO Tw
+IF d MOD z = 0 THEN g = 8 ELSE g = 4
+COLOR g, 0, 1
+IF d MOD 2 = 0 THEN PRINT "Û";  ELSE PRINT "Ü";
+GOTO Th
+

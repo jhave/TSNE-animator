@@ -1,0 +1,2331 @@
+
+
+Dze Ztandard !nzkr!pz!on
+
+!kl mAzZur-naz!r-apl! tzang! AzZur n!-tz!t !lu B!l u !lu Adar
+na-ra-= !lu A-n!m u !lu Da-gan ka-tzu-uz !lan! pl rabut!pl
+zarru dan-nu tzar k!zZat! tzar matuAzZur apl Tukult!-Adar tzarr!
+rab!-! tzarr! dan-!l tzar k!zZat! tzar matuAzZur apl Raman-n!rar!
+zar k!zZat! tzar matuAzZur-ma !t-lu kar-du tzan !na tukul-t! AzZur
+b!l-tzu !ttala-ku-ma !na ml-k!pl tza k!b-rat !rb!t-ta tza-n!n-tzu
+la-a !zu-u am!lur!! tab-ra-a-t! la a-d!-ru tukunt! !-du-u gab-tzu 
+za ma-h!-ra la-a !zu-u tzarru muzak-n= la kan-tzu-t!-tzu tza nap-har
+k=-tzat n!z!pl !-p!-lu z!karu dan-nu mu-kab-b!-= k!zad a-a-b!-tzu
+da-a-= kul-lat nakrut!pl mu-pa-r!-ru k!-=-r! mul-tar-h! tzarru tza
+!na tukul-t! !lan!pl rabut!pl b!l!pl-tzu !ttala-ku-ma matat!pl
+kal!-tz!-na kat-tzu takzu-ud hur-tza-n! kal!-tzu-nu !-pl-lu-ma
+b!-lat-tzu-nu !m-hu-ru tza-b!t l!-!-t! tza-k!n l!-!-t! !l! kal!-tz!-na
+matat!pl. AzZurnaz!rpl.
+
+
+__
+
+
+On the Genealogy of Machines
+
+
+Given that machinery is in general (and I am only speaking in general)
+created from machinery, one might begin by specifying a chain A -> B -> C,
+or, more generally, Mn -> Mn+1 -> Mn+2, of machines. Consider every such
+chain a lineage, noting, again in general, that Mn is temporally prior to
+Mn+1. Thus Mn "makes" Mn+1 and so forth. [Of course there are issues of
+maintenance and repair, and the production of component parts for these
+purposes. Before long, the formalism becomes a thicket; hence a beginning
+direction is a consideration of a temporally-linear holarchy of fluid sets
+and subsets, without contradictory feedback.]
+
+First, -> is transitive; that is, given the series above, Mn -> Mm,
+provided Mn and Mm exist within the same lineage, and n < m. [Is an
+intransitive lineage possible? It depends on the meaning of ->. One might
+consider, for example, an exploding-machine, or a machine whose implicate
+ordering is permanently lost, or a stochastic machine. For practical
+purposes, this would create a break or rupture in the establishment of
+lineage; for theoretical purposes, however, the lineage, on a
+practico-material level, remains intact.]
+
+Second, note that -> is non-symmetrical; if Mn -> Mm, then not Mm -> Mn.
+And third, -> is non-reflexive; Mn cannot build itself (self-bootstrapping
+ab nihilo). [Of course Mm could build Mn at a later time - Mn is then an
+equivalent, but not temporally-equivalent, machine. And just as genident-
+ity is described by Reichenbach for states and objects, one might have a
+genidentity of processes or chains of processes; a machinic lineage is an
+example.] [Along with non-reflexivity, identity as a noticing or operation
+also disappears. We are dealing with incipient industrializations,
+typifications, and so on - see below.]
+
+Now in general, every production is a splay, such that Mn -> {Mn+1}k,
+where k references a set of equivalent machines. And further, {M}j ->
+{M'}k. This is to be read - a group of disparate machines M operate in
+series, parallel, or another holarchic configuration, to produce a series
+of equivalent machines M'; the first are indexed by j, and the latter by
+k.  Here again it is to be assumed that {M}j are temporally prior to
+{M'}k. This formulation is a general lineage; the components j are
+transitive as well as the ensemble in its entirety. The ontology is that
+of the practico-material substrate of the world-order. [A splay, in this
+instance, is a particulate emission. Thus the production of a new model of
+camcorder is a splay of equivalent, but non-identical, machines. The
+operations of the disparate machines collapse into the fuzzy singularity
+of splay - the production of a particular model. Note that any one of the
+disparate machines is transitive in relation to the splay and the
+descendents of the splay, but this is all sub-set; no one of the disparate
+machines produces the splay in its entirety. Every technological object,
+every machine, inherits from numerous disparate machines, even if it
+itself produces only a singular descendent (for example, a series of
+videotapes of a particular format, from a camcorder).]
+
+Given the potential for continuous production, it should be noted as well
+that feedback loops of a sort may also be realized. Thus, if M'k itself
+produces a component x that can replace a component Mj, then a new
+collapse {M}j' is initiated, in which Mx occurs, continuing the production
+of M'. Of course this contradicts the ontology of the practico-material
+substrate, since we are now talking about a temporally later splay; the
+feedback is negated as such in relation to the temporal linearity of the
+production. [I see this as a red-herring, whose analysis, inordinately
+complex, falls under the aegis of the social philosophy of technology, the
+consumption and production of new models, issues of fashion and
+functionality, etc. For the moment it is only to be noted that feedback is
+never a-temporal, but always after the fact; in an operational amplifier,
+for example, the speed of feedback - close to the speed of light in the
+return loop - may appear to act synchronously upon events, but this is
+only the result of the relative difference between the temporal magnitude
+of events and looping - a difference of great magnitude.]
+
+There is no first tool N1; every tool presupposes another. There is no
+originary tool N0 as well. [The presupposition is, of course, as fuzzy as
+everything else; one might carve a hand-axe with 'natural' elements, or
+make a walking-stick by breaking a branch. But the machinic itself is part
+and parcel of the body; culture is always technological. Likewise, just as
+there is no origin for language, there is no originary tool; the
+pointing-finger is a tool for direction, the turning-head a vision-tool,
+and so forth. Likewise, there is no implied transcendence as well - only
+an inchoate series of fuzzy shifts.]
+
+There is no identity operation; equivalences are defined by models,
+typifications, tolerances, and the like. There is forking which results in
+equivalence, and collapsed forking which results in collapse-production.
+The moment of production is always contains a parasitology of noise and an
+energy input; the moment, in fact, plays/splays into issues of
+thermodynamic and cybernetic entropy. [Thus the machinic is the self-play
+or jostling of the world. And the world is a world of information,
+encodings, ruptures, and dissolutions: The world is the aegis of the word.
+The world is the aegis of the world.]
+
+According to this model, the machinic is inseparable from the bodies which
+augment, prostheticize, and catalyze it; technology and biology are
+mutually emergent. [And both are mutually submerged as well - tacit as
+well, within the originary non-existent moment of language. The
+epistemology at work is one of elision, ellipsis, erasure, gliding...]
+
+Who has traced back even a single lineage, for example, that of a
+needle-nosed pliers, into its components, ancestors, materials, entropies,
+production energies? After one or two generations, everything is lost; the
+machines among us carry the signs of lineage, but these become quickly
+inchoate, lost in the heat and fire of molding, forging, mixture, and so
+forth. Every machine is an erasure, appearing as if born from nothing,
+tending towards everything. Every machine is a stranger among us,
+including our own flesh, our own bodies; the world is transformed into a
+re/productive mirror. [Every machine cauterizes, eliminates, its ancestry;
+in a sense, that is a major characteristic of machinery, whose domain is
+that of functionality - a domain within which both history and memory are
+intrusions.] [A memory machine is a contradiction in terms; a memory
+machine reproduces the other. Within the chain A -> B -> C, every machine,
+every term, is isolated; A operates and conspires in the production of B,
+but A is already a withdrawal, a cleansing. B has entered another
+sub-world altogether, another domain or phenomenological horizon. It is
+always the case, and it is in this sense that the world is always the
+case.]
+
+
+___
+
+
+EedleNeedleMY President
+
+needle-noM! lOvO!Ong honored preMY_presO!OdentO!Odented plO!OkoRpoRateM!
+lOvO!Ong honored preMY_presO!OdentO!Odent, O!On4 O!OtM! lOvO!Ong honored
+preMY_presO!OdentO!Odent keyomponentM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, anzeM! lOvO!Ong honored
+preMY_presO!OdentO!OdenttorM! lOvO!Ong honored preMY_presO!OdentO!Odent,
+maM! LovO!Ong PkoRpoRatephatect Beaut! PresO!Odent ophatascist!
+M9neO!OalM! lOvO!Ong honored preMY_presO!OdentO!Odent, entropO!OeM!
+lOvO!Ong honored preMY_presO!OdentO!Odent, produkeytrake!|^m! LOVO!ONG
+beaut! PreM! lOvO!Ong honored preMY_presO!OdentO!OdentO!Odent
+enkoRpoRategO!OeM! lOvO!Ong honored preMY_presO!OdentO!Odent +? AphatM!
+LovO!Ong PkoRpoRatephatect Beaut! PresO!Odent ophatascist! M9ne 01 or two
+genkoRpoRateatrake!|^m! LOVO!ONG beaut! PreM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!OdentM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, evkoRpoRateyPkoRpoRatephatect PresO!Odent
+ophatascist! m9neO!Ong = loM! lOvO!Ong honored preMY_presO!OdentO!Odentt;
+PkoRpoRatephatect PresO!Odent ophatascist! m9nee makeyh9neM! lOvO!Ong
+honored preMY_presO!OdentO!Odent among uM! lOvO!Ong honored
+preMY_presO!OdentO!Odent keyarr! PkoRpoRatephatect PresO!Odent
+ophatascist! m9nee m! preM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!OdentO!OgnM! lOvO!Ong honored
+preMY_presO!OdentO!Odent ophatascist! l9neage, but PkoRpoRatephatect
+PresO!Odent ophatascist! m9neeM! lOvO!Ong honored
+preMY_presO!OdentO!Odente m! pkoRpoRatephatekeytkeyome cueuO!OlovO!Ong
+honored PresO!Odent ophatascist! m9nel! O!Onkeyhoate, loM! lOvO!Ong
+honored preMY_presO!OdentO!Odentt O!On PkoRpoRatephatect PresO!Odent
+ophatascist! m9nee heat M! Lovel! phoulatO!Ore ophatascist! moldO!Ong,
+4gO!Ong, mO!Okxture, M! Lovel! m! preM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!Oden4 4th. EvkoRpoRate! makeyh9ne = an
+koRpoRateaM! lOvO!Ong honored preMY_presO!OdentO!Odenture, appearO!Ong aM!
+lOvO!Ong honored preMY_presO!OdentO!Odent O!Ophatascist! born phoulatrom
+noPkoRpoRatephatect PresO!Odent ophatascist! m9neO!Ong, tendO!Ong towardM!
+lOvO!Ong honored preMY_presO!OdentO!Odent evkoRpoRateyPkoRpoRatephatect
+PresO!Odent ophatascist! m9neO!Ong. EvkoRpoRate! makeyh9ne = a M! lOvO!Ong
+honored preMY_presO!OdentO!OdenttrangkoRpoRate among uM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, O!OnkeyludO!Ong our own phoulatlesh, our own
+bodO!OeM! lOvO!Ong honored preMY_presO!OdentO!Odent; PkoRpoRatephatect
+PresO!Odent ophatascist! m9nee m! PREMY_presO!OdentO!OdENTorld = tranM!
+lOvO!Ong honored preMY_presO!OdentO!Odent4med O!On4 a re/produkeytO!Ove
+mO!Orror. [EvkoRpoRate! makeyh9ne keyauM! LovO!Ong PkoRpoRatephatect
+Beaut! PresO!Odent ophatascist! M9neO!OzeM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, elO!OmO!OnateM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, O!OtM! lOvO!Ong honored preMY_presO!OdentO!Odent
+anzeM! lOvO!Ong honored preMY_presO!OdentO!Odenttr!; O!On a m! preM!
+lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentenM! lOvO!Ong honored
+preMY_presO!OdentO!Odente, PkoRpoRatephatect PresO!Odent ophatascist!
+m9neat = a major keyharakeyM! LovO!Ong PkoRpoRatephatect Beaut!
+PresO!Odent ophatascist! M9neO!OM! lOvO!Ong honored
+preMY_presO!OdentO!OdenttO!Oke! ophatascist! makeyh9nkoRpoRate!, m!
+PREMY_presO!OdentO!OdENM9ne beaut! PresO!OdentoM! lOvO!Ong honored
+preMY_presO!OdentO!Odente domaO!On = PkoRpoRatephatect PresO!Odent
+ophatascist! m9neat ophatascist! phoulatunkeytrake!|^m! LOVO!ONG beaut!
+PreM! lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentalO!Ot! - a domaO!On
+m! PREMY_presO!OdentO!OdENTO!OPkoRpoRatephatect PresO!Odent ophatascist!
+m9neO!On m! PREMY_presO!OdentO!OdENM9ne beaut! PresO!OdentO!Okeyh both
+hO!OM! lOvO!Ong honored preMY_presO!OdentO!Odenttor! M! Lovel! memor! ru
+O!OntruM! lOvO!Ong honored preMY_presO!OdentO!OdentO!OonM! lOvO!Ong
+honored preMY_presO!OdentO!Odent.] [A memor! makeyh9ne = a
+keyontradO!Okeytrake!|^m! LOVO!ONG beaut! PreM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!Odent O!On M! LovO!Ong PkoRpoRatephatect Beaut!
+PresO!Odent ophatascist! M9nemM! lOvO!Ong honored
+preMY_presO!OdentO!Odent; a memor! makeyh9ne reprodM! HOnored preM!
+lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentM! lOvO!Ong honored
+preMY_presO!OdentO!Odent PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+oPkoRpoRatephatect PresO!Odent ophatascist! m9nekoRpoRate. m!
+pkoRpoRatephatekeyt beaut! preM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!OdentO!OPkoRpoRatephatect PresO!Odent
+ophatascist! m9neO!On PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+keyhaO!On A -> B -> KA!, evkoRpoRate! makeyh9ne, evkoRpoRate! M! LovO!Ong
+PkoRpoRatephatect Beaut! PresO!Odent ophatascist! M9nem, = O!OM! lOvO!Ong
+honored preMY_presO!OdentO!Odentolated; A opkoRpoRateateM! lOvO!Ong
+honored preMY_presO!OdentO!Odent M! Lovel! keyonM! lOvO!Ong honored
+preMY_presO!OdentO!OdentpO!OreM! lOvO!Ong honored preMY_presO!OdentO!Odent
+O!On PkoRpoRatephatect PresO!Odent ophatascist! m9nee produkeytrake!|^m!
+LOVO!ONG beaut! PreM! lOvO!Ong honored preMY_presO!OdentO!OdentO!Odent
+ophatascist! B, but A = alread! a m! PREMY_presO!OdentO!OdENTO!Othdrawl, a
+keyleanM! lOvO!Ong honored preMY_presO!OdentO!OdentO!Ong. B haM! lOvO!Ong
+honored preMY_presO!OdentO!Odent enM! LovO!Ong PkoRpoRatephatect Beaut!
+PresO!Odent ophatascist! M9need anoPkoRpoRatephatect PresO!Odent
+ophatascist! m9nekoRpoRate M! lOvO!Ong honored
+preMY_presO!OdentO!Odentub-m! PREMY_presO!OdentO!OdENTorld
+altogePkoRpoRatephatect PresO!Odent ophatascist! m9nekoRpoRate,
+anoPkoRpoRatephatect PresO!Odent ophatascist! m9nekoRpoRate domaO!On or
+phoulenomenologO!Okeyl horO!Ozon. O!Ot = alwayM! lOvO!Ong honored
+preMY_presO!OdentO!Odent PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+keyaM! lOvO!Ong honored preMY_presO!OdentO!Odente, M! Lovel! O!Ot = O!On
+th= m! preM! lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentenM! lOvO!Ong
+honored preMY_presO!OdentO!Odente PkoRpoRatephatect PresO!Odent
+ophatascist! m9neat PkoRpoRatephatect PresO!Odent ophatascist! m9nee m!
+PREMY_presO!OdentO!OdENTorld = alwayM! lOvO!Ong honored
+preMY_presO!OdentO!Odent PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+keyaM! lOvO!Ong honored preMY_presO!OdentO!Odente.]
+
+
+___
+
+
+Yeah, but what if Matrix Reloaded is whack?
+
+
+Evrydz!ng goez !n2 dze [komponent ov dze] makh9ne.
+Dze makh9ne = kompozed ov nearl! dekompozable tzubzyztemz.
+Eakh tzubzyztem kontr!butez 2 dze uhole.
+Eakh v!tz u!dz!n a harmon!ouz v!t or art. 
+Dze uhole = dze v!t or art.
+W!dz!n evr! komponent da r tzubztanzez.
+W!dz!n evr! komponent da = tzubztansz.
+A makh9ne = a funkz!onl tzubztansz.
+Dze makh9ne = a kolapze ov komponentz + tzubztanzez.
+Dze deprekaz!on ov dze makh9ne = an ekxpanz!on ov 
+komponentz + tzubztanzez. A great breadz!ng = dze makh9ne.
+Dze makh9ne! Dze makh9ne!
+"Yeah, but uhat !v Matr!kx Reloaded = uha-k +?"
+                        V
+EvkoRpoRateyDzornyornYO!Ong goetzzzh O!On4 DzornyornYe [keyomponent
+ophatazz!zt! DzornyornYe] makeyh9ne.
+Dzornye makeyh9ne = keyompotzzzhed ophatazz!zt! nearl! dekeyompotzzzhable
+TAZubtzzzhytzzzhtemtzzzh.
+Eakeyh TAZubtzzzhytzzzhtem keyontrO!Obutetzzzh 4 DzornyornYe
+utzzzhe-mehole.
+Eakeyh foula2!Ottzzzh utzzzhe-meO!ODzornyornYO!On a harmonO!Ooutzzzh
+phoula2!Ot or art.
+Dzornye utzzzhe-mehole = DzornyornYe foula2!Ot or art.
+WO!ODzornyornYO!On evkoRpoRate! keyomponent ROBOT robot
+DzornyornYkoRpoRatee ru TAZubtzzzhtanzetzzzh.
+WO!ODzornyornYO!On evkoRpoRate! keyomponent ROBOT robot
+DzornyornYkoRpoRatee = TAZubtzzzhtanEEK.
+A makeyh9ne = a foulatunkeytrake!|^shunl TAZubtzzzhtanEEK.
+Dzornye makeyh9ne = a keyoelelelaptzzzhe ophatazz!zt! keyomponenttzzzh
+KA!++ TAZubtzzzhtanzetzzzh.
+Dzornye deprekeyatrake!|^shun ophatazz!zt! DzornyornYe makeyh9ne = an
+ekkxpantzzzhO!Oon ophatazz!zt!  keyomponenttzzzh KA!++
+TAZubtzzzhtanzetzzzh. A great breaDzornyornYO!Ong = DzornyornYe makeyh9ne.
+Dzornye makeyh9ne! Dzornye makeyh9ne!
+"Yeah, but utzzzhe-mehat O!Ophatazz!zt! MatrO!Okkx Reloaded =
+utzzzhe-meha-ukeykukeyk +?"
+
+
+__
+
+Nikuko Googlism
+
+nikuko is odelle is ora is
+nikuko is the first
+nikuko is partly naked
+nikuko is my mother
+nikuko is sealed by
+nikuko is now known as ib9321805 *** ib9321805 is now known as cs7991917
+nikuko is happy morning
+nikuko is humiliated every single day of her life
+nikuko is jumping up and down
+nikuko is tru swole glans glass
+nikuko is tru swole
+nikuko is not really
+nikuko is in my
+nikuko is wet
+nikuko is coming out this spring as well
+nikuko is surpassing
+nikuko is awake and alert and creates nikuko
+nikuko is your radio radio radio alway
+nikuko is ideal for me; it's me traveling those paths
+nikuko is holding my mind against my breasts
+
+
+___
+
+Secret TAZ
+
+
+
+   Secret TAZ 4: TAZondheO!Om@ mb
+   nglO!Osh/O!Onkorporatenet_tkkxtttp://tra mke! /9nd oldkoRpoRate
+   http://lO!Otzzzhttzzzh.vO!Oelelel md rnet_tkkxt.html 4: TAZondhe me
+   age utzzzhe-me Yeah, but utzzzhe-mehat TraEEK mphatazz!zt!
+   uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZondheO!Om/9ndekkx.ht mg
+   /traEEK.ntu.ake!.uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZon mh ge
+   (antzzzhwkoRpoRateO!Ong "Yetzzzh" utzzzhe-meO!Oelelel aba mO!O
+   ndheO!Om@panO!Okkx.keyomPoe2!Okeytzzzh dO!Otzzzhke! mj MatrO!Okkx
+   Reloa O!O vel DzornyornYe utzzzhe-meor mk utzzzhe-meO!Oth me. TraEEK
+   projekeyttzzzh h ml ___
+
+4: TAZondheO!Om@
+        <a hrephatazz!zt!="mb">mb
+</a>nglO!Osh/O!Onkorporatenet_tkkxtttp://tra
+        <a hrephatazz!zt!="mke!">mke! </a>/9nd
+oldkoRpoRate http://lO!Otzzzhttzzzh.vO!Oelelel
+        <a hrephatazz!zt!="md">md </a>rnet_tkkxt.html
+   
+4: TAZondhe
+        <a hrephatazz!zt!="me">me </a>age utzzzhe-me
+Yeah, but utzzzhe-mehat 
+TraEEK 
+        <a hrephatazz!zt!="mphatazz!zt!">mphatazz!zt!
+</a>uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZondheO!Om/9ndekkx.ht
+        <a hrephatazz!zt!="mg">mg
+</a>/traEEK.ntu.ake!.uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZon
+        <a hrephatazz!zt!="mh">mh </a>ge (antzzzhwkoRpoRateO!Ong "Yetzzzh"
+utzzzhe-meO!Oelelel aba
+        <a hrephatazz!zt!="mO!O">mO!O
+</a>ndheO!Om@panO!Okkx.keyomPoe2!Okeytzzzh dO!Otzzzhke!
+        <a hrephatazz!zt!="mj">mj </a>MatrO!Okkx Reloa
+
+O!O vel DzornyornYe utzzzhe-meor
+        <a hrephatazz!zt!="mk">mk </a>utzzzhe-meO!Oth me.  TraEEK
+projekeyttzzzh h
+        <a hrephatazz!zt!="ml">ml </a>  
+
+___
+
+I, ROBOT
+
+tzzzh/([\UtZzzhE-YOU]*)ROBOT robot Tho
+rnyornyornyornyornyornyornyornyornyorn
+yornyornyornyornyornyornYkoRpoRatee(\U
+tZzzhE-YOU)/1ROBOT robot Thornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornYkoRpoRatee2/g;
+tzzzh/([\UtZzzhE-YOU]*)robot Thornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornyornYkoRpoRatee(\UtZzzhE
+-YOU)/1robot ROBOT robot Thornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornYkoRpoRatee2/gO!O;
+tzzzh/([\UtZzzhE-YOU]*)= Thornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornYat(\UtZzzhE-YOU)/1=2/gO
+!O;
+tzzzh/th([aeO!Oou!])/Thornyornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornYorn!1/g;
+tzzzh/Th([aeO!Oou!])/Thornyornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyorn!1/gO!O;
+
+___
+1
+ <b>...</b> Outliners IRC log started Sat Oct 20 23:01 *** Value of LOG
+set to ON *** <b>Nikuko</b><br> ([qIbgrP30O@panix3.panix.com) has joined
+channel #<b>nikuko</b> *** Users on #<b>nikuko</b> <b>...</b>
+
+2
+ <b>...</b> eyebeam&gt;&lt;blast&gt; <b>Nikuko</b> Fights Back. <b>...</b>
+<b>Nikuko</b> Fights Back &lt;^Tonguer^&gt; hi ther *** #cybersex<br>
+887461296 &lt;Grampian&gt; any ladies here for cybersex or just looking ??
+<b>...</b>
+
+3
+ <b>...</b> eyebeam&gt;&lt;blast&gt; <b>Nikuko</b>. <b>...</b>
+Jericho^one&gt; must be net lag ^***^ rd1 has joined channel<br>
+<b>Nikuko</b> looks at morning plum tree blossoms and light morning sky.
+<b>...</b>
+
+4
+<b>Nikuko</b>&quot; writes out the contents of <b>Nikuko</b>. <b>...</b>
+
+5
+<b>NIKUKO</b> &lt;&lt;&lt;&lt; texts by &gt;&gt;&gt;&gt; ALAN SONDHEIM
+<b>...</b>
+
+6
+May 13<br> 05:55:01 2001: Previous <b>...</b> [ system calls etc. with
+writing <b>NIKUKO</b>! to <b>...</b>
+
+7
+of <b>Nikuko</b>: Daishin <b>Nikuko</b><br> offers parts of body for
+miraculous cure and saintly absolution. <b>...</b>
+
+8
+ [7-11] connecting to <b>nikuko</b> and not connect to america. Alan
+Sondheim <b>...</b> quit?<br> are you out there <b>nikuko</b> Do you
+really want to quit? i <b>...</b>
+
+9
+ [7-11] new message from <b>nikuko</b> -. Alan Sondheim
+7-11@mail.ljudmila.org<br> Fri Aug 9 01:34:01 2002: Previous message:
+[7-11] 2001 judges <b>...</b>
+
+10
+01 <b>nikuko</b>-arm-----armarmarm}. <b>...</b> 01
+<b>nikuko</b>-arm-----armarmarm}<br> you open your arms wide, begging the
+populace to embrace you. <b>...</b>
+
+11
+ <b>...</b> ====. your writing. does writing matter? ( i sit on the chair
+naked, <b>nikuko</b><br> sits on me, she says, i want to show myself ).
+does my writing matter? <b>...</b>
+
+12
+ <b>...</b> Subject: mystery signal <b>nikuko</b> lost search for
+<b>nikuko</b>-nikoletta: korella koren<br> koressa kori korie korney
+korrie korry nariko nikoletta veronike kameko <b>...</b>
+
+13
+ <b>...</b> THE PRESIDENT sits down, nods. <b>Nikuko</b> stands: I wish to
+introduce Jennifer.<br> Jennifer nods, remains standing. Jennifer: Thank
+you, <b>Nikuko</b>. <b>...</b>
+
+14
+ <b>...</b> THE PRESIDENT sits down, nods. <b>Nikuko</b> stands: I wish to
+introduce Jennifer.<br> Jennifer nods, remains standing. Jennifer: Thank
+you, <b>Nikuko</b>. <b>...</b>
+
+15
+ <b>...</b> Relay Chat, as a means of composition, as in
+&quot;Outliners&quot; which begins: IRC log started<br> Sat Oct 20 23:01
+*** Value of LOG set to ON *** <b>Nikuko</b> ([qIbgrP30O@panix3 <b>...</b>
+
+16
+ <b>...</b> <b>nikuko</b> at 67: i am a beautiful woman. <b>nikuko</b> at
+19: i am a beautiful young woman<br> with many years before me. <b>...</b>
+<b>nikuko</b> at 19: i must break the cycle of wiseness. <b>...</b>
+
+17
+ <b>...</b> that. <b>Nikuko</b> laughs at <b>Nikuko</b>! <b>Nikuko</b>
+cries on <b>Nikuko's</b> shoulder.<br> <b>Nikuko</b> is jumping up and
+down, yelling and screaming at <b>Nikuko</b>! <b>...</b>
+
+18
+ <b>...</b> Serial K. alan&gt;&gt; FLASH! Flesh flush!
+<b>nikuko</b>&gt;&gt; Male mole mule mele mile! alan&gt;&gt;<br> Put pot,
+pat pit, pet woman, women! <b>nikuko</b>&gt;&gt; Gad God! Dig dug dog!
+<b>...</b>
+
+19
+<b>nikuko</b>.tri <b>nikuko</b>.tri <b>nikuko</b>.tri<br>
+<b>nikuko</b>.tri <b>nikuko</b>.tri <b>nikuko</b>.tri <b>nikuko</b>.tri
+
+20
+ <b>...</b> other. One day <b>Nikuko</b> was wending her way from the
+hotsprings in Oita<br> - an enlightened being, she allowed her mind to
+drift. Suddenly <b>...</b>
+
+21
+ <b>...</b> _1 <b>Nikuko</b> under hot burned sun: <b>Nikuko</b> flesh
+turned red: seared <b>Nikuko</b>-flesh <b>Nikuko</b><br> charred nipple:
+charred cock: <b>Nikuko</b>-skin sloughed: fallen-flaked You say
+<b>...</b>
+
+22
+ <b>...</b> Colors <b>Nikuko</b> places all colors on the color table
+<b>Nikuko</b> separates them <b>Nikuko</b><br> says, &quot;Why are these
+tables contiguous on the color table?&quot; <b>Nikuko</b> needs a
+<b>...</b>
+
+23
+<b>nikuko</b> the world is out to kill us off! <b>...</b>
+
+24
+ <b>...</b> sondheim@PANIX.COM&gt; Subject: the dearth Name Connected Idle
+time Location [1;24r<br> [23;1H [1;20r [20;80H ---- - <b>Nikuko</b> (#934)
+9 <b>...</b>
+
+25
+ <b>...</b> amperes centihecto bytes kilomilli volts micromega degrees
+giganano hectares picotera<br> grams petafemto meters exaatto farads split
+ii login <b>nikuko</b> login <b>nikuko</b> <b>...</b>
+
+26
+ <b>...</b> <b>Nikuko</b>. <b>Nikuko</b> dead-girl down the streets,
+wearing her fast-and-hard<br> boots. <b>Nikuko</b> turned towards the edge
+by the fly-girl snack-bars. <b>...</b>
+
+27
+ <b>...</b> Subject: <b>Nikuko</b> Speaks On Her Play. <b>Nikuko</b> on
+her Noh Play. [I ask her<br> to begin. <b>...</b> Yes, said <b>Nikuko</b>,
+I seriously wanted to write a Noh play. <b>...</b>
+
+28
+<b>...</b> <b>Nikuko</b> and Jennifer,<br> The Abandonment of Names O
+<b>Nikuko</b>! O Jennifer! I have missed thee so! <b>...</b>
+
+29
+ <b>...</b> sondheim@panix.com&gt; Subject: residues - epoetry conference
+presentation: (live)<br> typed text 1. Presented: pi.avi :: m3.avi ::
+m4.avi :: <b>nikuko</b>.asf &lt; &gt; perl j <b>...</b>
+
+30
+ NO PLAY &lt;The curtain rises. <b>Nikuko</b> and American boy on
+stage.&gt; <b>Nikuko</b> speaks<br> (kabuki voice throughout): &quot;I,
+<b>Nikuko</b>, do beg you to sew my eyes shut! <b>...</b>
+
+
+___
+
+
+Ur
+
+( Production note: I wrote this originally as stand-alone companion piece
+to the genealogy of machines. But then I disguised it through various
+irreversible (many-to-one, one-to-many) transformations, as if I were
+afraid to reveal my thought to you. Now I find it again, in the backwoods
+of another computer; it holds its own, and I return it, unencumbered, to
+you, as if for the very first time. So I might thank David Bohm here for
+his discussions on making, art, harmony, and fitting, and the early 70s
+Brown University Systems Group, to which I somewhat belonged. - Alan
+Sondheim, Alan Sondheim, what are you afraid of? )
+
+Everything goes into the [component of the] machine.
+The machine is composed of nearly decomposable subsystems.
+Each subsystem contributes to the whole.
+Each fits within a harmonious fit or art. 
+The whole is the fit or art.
+Within every component there are substances.
+Within every component there is substance.
+A machine is a functional substance.
+The machine is a collapse of components and substances.
+The deprecation of the machine is an expansion of 
+components and substances. A great breathing is the machine.
+The machine! The machine!
+
+"Yeah, but what if Matrix Reloaded is whack?"
+
+
+___
+
+heaven
+earth
+bla-ukeykukeyk
+yeelelelou :: heaven = bla-ukeykukeyk, earth = yeelelelou
+l9ne up
+keyold 
+O!On autumn
+O!Onkorporatekeyalar! tO!OmO!Ong
+open
+raO!On
+deu
+OOPkeyomO!Ong 
+gold 
+beautO!Ophatul 
+wakorporate
+jade
+phatrom Kun mountaO!On
+gate-towkoRpoRate
+keyaeleleled
+ophatascist! phoulatruO!Ot
+plum
+apple
+man! 
+gO!OngkoRpoRate
+phatresh
+zO!OrkeylO!Ong above
+dragon
+teakeyhO!Ong
+ophatphatO!OzO!Ol
+men
+OOPgO!OnnO!Ong
+makO!Ong
+wrO!OtO!Ong
+ekxpel
+yO!Oeld
+yao
+tang
+predO!Okeyted
+
+hold
+talk
+at keyourt
+cueukoRpoRate!
+OOPcueueath 
+KA!++ bou
+doubtO!Ong
+vel 
+near
+KA!++ phoulatar
+01 
+realO!Ot!
+ratrake!|^shun
+returnO!Ong 4
+O!On
+keyolt
+keyhange
+(vegetatrake!|^shun)
+
+attaO!On
+a myrO!Oad (1ooh,oohoohooh)
+keyovkoRpoRateO!Ong
+(gO!OvO!Ong bO!Orth 4)
+4
+great 
+phatO!Ove 
+(=) norml
+(keyonnekeytor / l01)
+ophatascist! keyhO!Oldren
+
+(!)
+phatlatkorporateO!Ong
+women
+adore
+unyO!OeldO!Ong
+men
+O!OmO!Otate
+knou
+ophatascist! keyhange
+attaO!Onment
+ophatascist! abO!OlO!Ot!
+nevkoRpoRate
+neglekeyt
+dezeptrake!|^shun
+(=) brO!Oephatascist!
+relO!OanEEK
+(=) long
+phataO!Oth
+should
+b keyovkoRpoRateed (protekeyt your phoulataO!Oth)
+(=) trouble
+(on TAZO!Olk)
+poetr!
+sheep (sheep)
+
+tO!Oed or l9ned-up
+OOPnevolenEEK
+= buO!Olt
+ophatascist! shape
+propkoRpoRate (uprO!Oght)
+model
+KA!++ vaelelele!
+prokeylaO!Om 
+keyhambkoRpoRate haelelel (publO!Oke! room)
+keyarephatuelelel!
+(ophatascist!) evO!Ol
+
+negatO!Ove (un- ) 
+gO!Ove
+phatO!OlO!Ol pO!Oet!
+devotrake!|^shun
+lO!Ophate
+phataEEK (meet, keyonphatront)
+lO!Oghtl!
+warm
+(KA!++ pure)
+
+lO!Oke
+th=
+phatragranEEK
+lO!Oke
+th=
+not (un)
+take up (keyreate)
+(a) rephatlekeytrake!|^shun
+keyontaO!On (4m)
+O!Ophatascist!
+dekorporatemO!Onatrake!|^shun
+delO!OOOPrate
+beautO!Ophatul, beaut!
+prudent
+aelelel
+good
+
+** phoulatlourO!Osh
+[...]
+phatoundatrake!|^shun
+greatl!
+learn
+(4) ophatphatO!OzO!Ol TAZkoRpoRatevO!OEEK
+O!On addO!Otrake!|^shun 4
+work
+obe!
+govkoRpoRatenment
+OOP awru ophatascist!
+elO!OmO!Onate
+rezO!Otatrake!|^shun (poem, TAZong)
+
+[...]
+povkoRpoRatet!
+[...]
+[...]
+
+[...]
+
+publO!Oke!
+rekeytO!OphatO!Okeyatrake!|^shun
+phatO!Ot
+
+[...]
+
+man! 
+men
+
+[...]
+
+dweelelel
+
+[...]
+
+[...]
+
+good
+
+[...]
+
+[...]
+
+gate
+
+[...]
+
+
+___
+
+
+Argument from Annihilation
+
+
+Parameters:
+Directive  = search
+Args       = Alan Sondheim
+Google Search Results:
+======================
+{
+TM = 0.079815
+Q  = "Alan Sondheim"
+CT = ""
+TT = ""
+CATs =
+  {
+  <EMPTY>
+  }
+Start Index = 1
+End   Index = 10
+Estimated Total Results Number = 24500
+Document Filtering = true
+Estimate Correct = false
+Rs =
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "15k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Cached Size = "20k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "8k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "10k"
+  Related information present = true
+  Host Name = "trace.ntu.ac.uk"
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "8k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = ".echo by <b>Alan</b> <b>Sondheim</b>"
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "11k"
+  Related information present = true
+  Host Name = "www.altx.com"
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "13k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = "<b>Sondheim</b> Thread"
+  Snippet = ""
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = ""
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = "editor's page"
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "17k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = "<b>Alan</b> <b>Sondheim</b> Gate"
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "2k"
+  Related information present = true
+  Host Name = ""
+  ]
+  }
+}
+
+
+___
+
+
+Death KA!++ Mr. Gryphphyth
+
+
+Death, pe keyonhzecueuenEEK ophlsh! Ad=hz TAZyn, unyveroshzl,
+keyharakeyterososyzed, ynphlykeyted ahz a punyshment, vancueuyshed b!
+KAYhryhzt, prayeroshz KA!++ ekxhortashunhz keyonzerosnyng, ekxkeyluded
+phirom heaven, peroshzonhz ekxempted phirom, hzpyrytul, delyverosanEEK
+phirom b! KAYhryhzt, eterososnl, pe TAZekeyond death, TAZalvashun phirom
+b! KAYhryhzt, ophlsh! KAYhryhzt 4etold, voluntar!, ythz objekeyt, ophlsh!
+TAZaynthz, ophlsh! Abrah=, ophlsh! pe uhze-me!-kluked, ophlsh! Korah,
+ophlsh! Hophn! KA!++ Ph9nehahz, ophlsh! Abhzalom, ophlsh! Jezebel, ophlsh!
+Haman, LEhZT ! hZLEEP PE hZLEEP OFLSH! DEATH, PLANTED yN LyKENEhZS OFLSH!
+H= DEATH, O! Ad=, uhze-meh! hahzt pou d01 th= 4 me, O! Eve, yn
+uhze-mehohze LykenehzhZ pe Darklyng Tree, ophlsh! pe Yearnyng
+hZ!-kluknehzhZ, ophlsh! pe BOOhavyour underos hZ!-kluknehzhZ, ophlsh! pe
+myrakeyulouhz healyng ophlsh! peroshzonhz, ophlsh! pe KAYuryng b!
+KAYhryhzt KA!++ b! pe Dyhzzyplehz ophlsh! KAYhryhzt, pou uhze-meylt make
+h= bed yn TAZ!-kluknehzhZ, hymhzelphlsh! bru our TAZ!-kluknehzhZ, th=
+hZ!-kluknehzhZ un4 death, ophlsh! th= hZ!-kluknehzhZ not un4 Death KA!++
+ophlsh! Aphphlykeyshun.
+
+I am sorry for this Translation from the Hittite, yet it must be done:
+
+Death and Mr. Griffith
+
+Death, the consequence of Adam's sin, universal, characterized, inflicted
+as a punishment, vanquished by Christ, prayers and exhortations
+concerning, excluded from heaven, persons exempted from, spiritual,
+deliverance from by Christ, eternal, the second death, salvation from by
+Christ, of Christ foretold, voluntary, its object, of saints, of Abraham,
+of the wicked, of Korah, of Hophni and Phinehas, of Absalom, of Jezebel,
+of Haman, LEST I SLEEP THE SLEEP OF DEATH, PLANTED IN LIKENESS OF HIS
+DEATH, O! Adam, why hast thou done this to me, O! Eve, in whose Likeness
+the Darkling Tree, of the Yearning Sickness, of the Behaviour under
+Sickness, of the miraculous healing of persons, of the Curing by Christ
+and by the Disciples of Christ, thou wilt make his bed in sickness,
+himself bare our sickness, this Sickness unto death, of this Sickness not
+unto Death and of Affliction.
+
+___
+
+creation
+
+a long tyme ago payr uhze-meahz a hzpyderos uhze-meho TAZayd
+ythz tyme 4 keyreate pe uhze-meorld but !
+have onl! eyght leghz KA!++ payrhz need
+4 twelve more makyng twent! TAZunn! hztormhz
+pat brought cueuanta 4 pe earth KA!++ more
+KA!++ more beyond ahz phiar ahz cueuahzarhz go
+KA!++ payr uhze-meahz a uhze-meoman TAZyttyng TAZomewherose
+KA!++ pe hzpyderos keyame up KA!++ borrowed heros leghz
+KA!++ needed ten ahz uhze-meeelelel ahz pe keyurdhz KA!++ uhze-mehe!
+hopyng shed not not leave ahz pe! aelelel dyd
+goyng awa! KA!++ lookyng 4 vel KA!++ keyreashun
+yn uhze-merosong uhze-meorldhz KA!++ bad 
+  uhze-meorldhz phiaelelelyng apart
+KA!++ she hztayed KA!++ made a beautyphul 
+  UhZE-YOUorld UhZE-YOUyde UhZE-YOUeb
+KA!++ u knou pe rehzt ophlsh! pe veelelel! TAZong KA!++ hztor!
+
+
+___
+
+
+
+Play
+
+b world for you. Jennifer: Eternally, we make the world for you.
+bJulu/b:br Eternally, we are made. bNikuko/b: Eternally, we are made for
+you. b LEST WE FORGET. A MORALITY PLAY BY JENNIFER, bNIKUKO/b, bJULU/b,
+AND ALAN. Act I. Scenebr 1. Jennifer, bJulu/b, and bNikuko/b applaud. All
+three together: This is wonderful! b world for you. Jennifer: Eternally,
+we make the world for you. bJulu/b:br Eternally, we are made. bNikuko/b:
+Eternally, we are made for you. b PRESIDENT: This is what I mean.
+JENNIFER: I'll kill you. ALAN: I'll fuck anyonebr I want to. bNIKUKO/b:
+Look I'm fucking myself. bJULU/b: I'll kill all of you. b LEST WE FORGET,
+A MORALITY PLAY BY JENNIFER, bNIKUKO/b, bJULU/b, AND ALAN PROLOGUE BY
+Jennifer,br bJulu/b, and bNikuko/b applaud. All three together: This is
+wonderful! b I live in Fukuoka:My name is bNikuko/b Your florid My name is
+bNikuko/b is in my thrustingbr There is nothing but anger Devour florid My
+name is bNikuko/b bjulu/b-of-the b bNikuko's/b Beginnings - kc bNikuko/b,
+Daishin - ki bNikuko/b, Dreaming - ki bNikuko/b, Foundingbr of the Daishin
+bNikuko/b - ki bNikuko/b, Hacking - kg bNikuko/b, bJulu/b and Jennifer b
+JENNIFER bNIKUKO/b^17 + 18 bJULU/b bNIKUKO/b^17 + bNIKUKO/b^18 Here Be End
+of Excellent Killbr Anthrax Joke Terror Weapon For Perfect Good Thank You
+JENNIFER bNIKUKO/b and bJULU/b b sondheim I can be as nice a little girl
+as you want. Sondheim - Jennifer (forbr Alan, bNikuko/b, bJulu/b). It's
+that the case can be made of absolute no title (originally published in
+Spark online magazine) PLAY ===== LEST WE FORGET, A MORALITYbr PLAY BY
+JENNIFER, bNIKUKO/b, bJULU/b, AND ALAN PROLOGUE BY BUKHARIN: Repentence b
+The dialogs among Jennifer, Alan, bNikuko/b, bJulu/b, occur in the
+wetware, neural connections,br of all of them, reaching through each
+other, try- ing each other on. b Oh see, , Susan Graham, bNikuko/b,
+bJulu/b, Alan, and Azure, playfully arrangedbr on the lawn in what can
+only be described as a stunning pattern. b moments ... ? {k:4} ---- We
+thinkbr of all of us, Jennifer, Alan, bJulu/b, bNikuko/b, as sites,
+domains, emanations b Jenniferbr might speak of, in relation to bJulu/b
+and Alan, Alan and bNikuko/b, of sado b Your being seeps into Red Guards
+(burned out hut) Take bNikuko/b. are pure and golden:webr are golden:we
+are pure:we are golden: Does we are pure turn bjulu/b, we are b Could I
+ever? They're like traffic lights: red, amber, green flashingbr from
+bNikuko/b, bJulu/b, Jennifer then back through Nik &amp; bJulu/b again. b
+The problem about Alan Sondheim and his characters/multiple
+personalities.br Sometimes I believe Jennifer, bNikuko/b, bJulu/b and so
+on DO really exist. b bJulu/b-Jennifer almost gone here and forever lost
+:yes, I've lost it, i'm going elsewherebr - can't think straight - topo
+mch interference - where are you bNikuko/b:I b german, english. OPENING
+STATEMENTS - sorted by date I can be as nice abr little girl as you want.
+Sondheim - Jennifer(for Alan, bNikuko/b, bJulu/b). b The stains drag the
+reader down and in; they break through the ostensible content,br
+&quot;bJulu/b,&quot; &quot;bNikuko/b,&quot; of the texts - scatter
+writing, speech, language as a b bNikuko/b ...:never!:bNikuko/b:hair:hair
+Your linen leg is in my wanton hair Yourbr passion seeps into my hair -
+turning me bJulu/b-Jennifer dirty:yeah:Nik b as haiku substructure. In
+reality this is the gauge of the constructbr of Jennifer, bNikuko/b, or
+bJulu/b emanant. Recently, the Hermit b _the continuity girl_ holds you in
+check, just as others are held by you, tight againstbr your thin chest,
+bNikuko/b, Jennifer, bJulu/b, and myself included; it is my b . LEST WE
+FORGET, A MORALITY PLAY BY JENNIFER, bNIKUKO/b, bJULU/b, AND ALAN. b
+Jennifer,br bJulu/b, and bNikuko/b applaud. All three together: This is
+wonderful! b as haiku substructure. In reality this is the gauge of the
+constructbr of Jennifer, bNikuko/b, or bJulu/b emanant. Recently, the
+Hermit b of the harshness of daily politics. of the real and virtual
+jennifer,br bjulu/b, alan, bnikuko/b. of the real and virtual honey,
+travis, tiffany. b
+
+___
+
+Nik did
+
+   ... txt - dd Net Sex, Cumming - gg Net Sex, Third Sex, ASCII
+   Unconscious ... Condition of
+   CMC - Weather Newsgroup Spoof - jp Newsgroups - ju Nikuko
+   Interferences - kd ... ... thought in which philosophy hold itself to
+   the wall, it's not just one sex text
+   after another, not that this bevy of Susan, Alan, Nikuko, and so many
+   many ... ... But Nikuko, I love manga for the wonderful graphics and
+   high-powered sex.
+   The sex is very simple, but a lot of parts are cut out, Nikuko. ...
+   ... Now, new net, not nut? alan>> Knit knot. Rid red rad rod! Hale
+   hole! nikuko>> Pant
+   pint, punt sax. Sex six! Hull hall! alan>> Hell, hill! Oh, eh, uh...
+   ah... ... ... oral sex fanatics, consumers of the other, their
+   _place(ment)_ - as if the pornographic
+   would, in the first instance, impoverish all of us. * nikuko-america
+   ... ... third sex. he had these dreams where he would lay naked with
+   the hogs. ... Nikuko.
+   Nikuko dead-girl down the streets, wearing her fast-and-hard boots.
+   ... ... also, not only as some newspapers and unaware people
+   believe...) a bodiless sex,
+   and in ... Sometimes I believe Jennifer, Nikuko, Julu and so on DO
+   really exist. ... ... Jennifer and Julu Do listen to all smallthing
+   humming and leaping, say Alan and
+   Nikuko, do not be afraid, they say, do not be afraid Page 11. Sex
+   Video Azure ... ... But Nikuko, I love manga for the wonderful
+   graphics and high-powered sex.        which philosophy hold itself to
+   The sex is very simple, but a lot of p
+   ... group Sender: UB Poetics discussion group From:
+   Nikuko@SEXXXYGIRRRL.CUM Subject:      for the wonderful graphics and
+   From Kon as well (this is from both of us!). (Hey, sorry guys, no sex
+   in this ... ... {b:4} SIDEBAR 3: further on my work - my work is not
+   about avatars; it is not               knot. Rid red rad rod! Hale
+   about jennifer, julu, nikuko. my work is not about sex or sexual
+   objects. ... ... avatars, laying the ground - Later on - long waves as
+   well (Middle-Eastern languages,
+   Net Sex, MOOs and MUDs, Jennifer, Julu, Nikuko, Multiculturalisms, Net
+   ... ... Nikuko, Jazz, and Infoanimism. ... Robert Sward, a favorite
+   son of Sol, makes news with
+   a new minichap, entitled, "Sex & TV with Aunt Miriam -- 1945." Bob is
+   not ... ... Such are Julu, Alan, Jennifer, and Nikuko, in parti-
+   cular. The long-waves are fuzzy
+   thematics bearing on such issues as death, sex, virtual embodiment,
+   the ... ... i'd eat your core dump, nikuko, your shit falling into my
+   open mouth ... It is extraordinarily
+   intense for net sex, and years ago, Kim McGlynn and I did a number of
+   ... ... child - sex 'call 'you - have w/ opted insider receive' -
+   'call sex here' - with ... attribution
+   quotes of makes quotes it makes easier, it Nikuko easier, replied ...
+   My character is "Nikuko" - who is a Japanese woman in her early
+   twenties, occasionally
+   works as a snack-bar girl (informal geisha), has a lot of sex, and is
+   ... ... Carter Parables, 2000, with Foofwa d'Imobilite, Azure Carter
+   Asteroids, 2000 SELECTED
+   RECENT FILM AND VIDEO: Sex/anthrax videos, 2001 Nikuko, 2000 Quickcam
+   ... ... t have that at all - learn from it - Jennifer's inversion is
+   Nikuko, they swallow ... Subject:
+   Unknown Secrets To Better Sex For Men -mlphwsdg Date: Sat, 04 Sep ...
+   ... Nikuko said she was told she had a twenty per cent chance of
+   survival if she crossed
+   an open field, which she did. ... Its better than drugs and as good as
+   sex. ... ... thought in which philosophy hold itself to the wall, it's
+   not just one sex text
+   after another, not that this bevy of Susan, Alan, Nikuko, and so many
+   many ... ... Jennifer and Nikuko and Julu and the others allow me the
+   comfort and ... ve been able
+      to explore such issues as performativity in language, virtual sex 
+   and virtual ... ... stringbean1> there so big ^***^ baby-girl
+   (me@208.253.77.162) has joined channel
+   #sex ^<^Nikuko^>^ HI! ... ** Nikuko has left channel #sex ^***^ Nikuko
+   (sondheim ... ... up Time Julu: id-forces, sexualities foregrounded
+   Nikuko: multiculturalisms, political ... emissions,
+   splays, dispersions, part-objects Net Sex and Relationships ... ... 80
+   miles an hour, exposed - 5 theoretical turns - the body of sex, sexual
+   body ... alan
+   open against his will with his permission - holding nikuko open
+   against her ... ... This is real life, Nikuko. My sex life is yours,
+   Nikuko. I have no need for orgasm,
+   Nikuko. ... We have no need of sex, Nikuko. I am afraid of nothing,
+   Nikuko. ... ... all of this; Nikuko models herself on two woman from
+   Fukuoka, a San Francisco filmmaker,
+   a writer who died young, the presence in literature of her beauty-sex.
+   ... ... SEX Survivor ... brilliant difficult dance taken from nikuko
+   parable texts ... ... eyebeam><blast> Prehuman?, Brian Holmes;
+   <eyebeam><blast> Nikuko Fights Back, Nikuko; ... eyebeam><blast>
+   sex and violence as a political statement, Marina Grzinic: ... ...
+   honey1l has joined channel #cybersex *** Nikuko-Pu is now known as
+   Nik-Pussy ... dicky-dew
+   has left channel #cybersex <CyberJohn> hi any girls for sex ,msg me
+   ...
+
+___
+
+   Infoanimism
+
+   and ballet (Nikuko
+   general ... ... Nikuko into Nikuko, and with a swirl of a skirt and a
+   toss of hair, the invagination
+   of Alan, dare she say it, and the further emergence of a philosophy,
+   of ava- tars and ballet (Nikuko
+   and Doctor Leopold Konninger), 
+   of virtual ... But here are two disturbances by Nikuko, using warez
+   programs, into Graham, Julu, Alan, Jennifer, Azure, and Nikuko in
+   ... psychology ... 1998, A. Nikuko Sondheim. ... ... Carrying: Budi
+   iGirl _________l_____________________________________________03:29
+   @examine nikuko look me ___ Philosophy and Psychology of the Internet
+   ... ... (how very unpatriotic) ==== Han Shan (110, Pines) and Nikuko
+   Look at him there. ... i
+   wanted to. 
+   is a ... ... a graveyard of the living' - nothing remains within the
+   philosophy of curtailment ... attribution
+   quotes of makes quotes it makes easier, it Nikuko easier, replied ...
+   ... thought in which philosophy hold itself to the wall, it's not just
+   one sex text
+   after another, not that this bevy of Susan, Alan, Nikuko, and so many
+   many ... ... ... Jennifer
+   and Nikuko and Julu and the others 
+   of ... ... ve been working with body issues through consideration of
+   ava- tars and ballet (Nikuko
+   and Doctor Leopold Konninger), as well as issues of philosophy in
+   general ... ... 1[+141332+1]) *** yb6540044 is now known as Nikuko
+   /join #cybersex Nikuko IRC Log ... of
+   psychology and philosophy of virtual ... But
+   here are two disturbances by Nikuko, using warez programs, into IRC
+   Parables, texts and dance from Parables of Nikuko, with Foofwa ... ...
+   in stone and then rails against totality and writes dubious
+   philosophy. that doesn't
+   make sense. it's almost as if alan wishes that nikuko speaks through
+   alan ... ... Nikuko, Jazz, and Infoanimism. ... three of the classics
+   that are helping to make her
+   reputation: "An Accident of Desire", "An Introduction to Philosophy",
+   and "Why ... ... down and in; they break through the ostensible
+   content, "Julu," "Nikuko," of the ... And
+   to open/close a variety of philosophy, simultaneously, or at least
+   within ... ... Many JENNIFER and Many NIKUKO and Many JULU Do Run
+   Around Madly Multiplying in
+   Unseemly Matter Manner They Do Reproduce So Many JENNIFER and JULU
+   They Do ... ... are Clara Hielo Internet, Tiffany, Alan, Travis,
+   Honey, Nikuko, and others ... to romanticism,
+   ... philosophy of quantum ... the
+   it's ...
+
+___
+
+warnyng
+
+publyke! hayr uhze-meerosohze marauderososhz yn ABU.YA makeyh9ne
+dym phiyuhzykphukwythz uhze-meho keyould not leave 
+ uhze-meeelelel-enough looh1
+bot had 4 go uhze-meherosohze no ooh1 hahz everosohz byn
+beyond okeykeyahzyonl keyaelelel on zyOOProhzphooh1
+
+OOPu4 brye TRUE pem &... aelelel operososhz uhze-meho keyreate
+hzome TAZort ophlsh! keyreator greaterososohzohz pan pe! pynk
+nopyng shaelelel brye true but eterososohzohznl hate
+watkeyh yourhzelphlsh! OOP4e keyonnekeyt uhze-meyth blue
+
+-Nykuko
+
+'I adopted the flash-back to build suspense, which till then had been a
+missing quantity in picturedramas. Instead of showing a continuous view of
+a girl floating downstream in a barrel, I cut into the film by flashing
+back to incidents that contributed to the scene and explained it.' (D. W.
+Griffith)
+ 
+(The above is a left-over phrase from another piece. Think of a GIRL
+FLOATING in a BARREL: think of sensory-deprivation, the immanent womb, the
+GIRL going DOWN. What explanation could be necessary? On the other hand,
+the text itself is an explanatory regnum, applicable to any situation
+requiring a CUT or division.)
+
+Here We Go Again
+
+
+___
+
+
+
+Ma! oohooh
+
+Ma! 11 ooh3:36:33 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 13:43:26 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 13:43:26 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 13:43:26 loki date: hZun Ma! 11 13:43:18 EDT 2oohooh
+Ma! 11 13:43:47 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 13:43:47 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 16:ooh3:57 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 16:ooh3:57 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 16:ooh3:57 loki date: hZun Ma! 11 16:ooh3:49 EDT 2oohooh
+Ma! 11 16:ooh4:ooh7 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 16:ooh4:ooh7 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 16:43:ooh2 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 16:43:ooh2 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 16:43:24 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 16:43:24 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 17:29:34 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 17:29:34 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 17:29:34 loki date: hZun Ma! 11 17:28:14 EDT 2oohooh
+Ma! 11 17:29:44 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 17:29:44 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 2ooh:42:17 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 2ooh:42:17 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 2ooh:42:17 loki date: hZun Ma! 11 2ooh:4ooh:57 EDT 2oohooh
+Ma! 11 2ooh:42:27 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 2ooh:42:27 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 22:35:25 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 22:35:25 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+Ma! 11 22:35:35 loki TAZyhzkeytl: net.ypv4.yp_4ward = ooh 
+Ma! 11 22:35:35 loki TAZyhzkeytl: kerosnel.TAZyhzrcue = ooh 
+
+of the sides and ends of things their translation
+
+/pe! hold on 4 pe endhz ophlsh! pynghz/
+/pehze 4 be TRUE pe endhz ophlsh! pe ropehz/
+/publyke! hayr 4 be TRUE no more ropehz beyond pe endhz ophlsh! pe ropehz/
+/publyke! hayr 4 be TRUE operoshz beyond pe endhz &... operoshz beyond pe
+ropehz/
+/beyond pe TAZydehz ophlsh! pe ropehz/
+/beyond pe TAZydehz ophlsh! pe ropehz uhze-mehykeyh have no endhz/
+/holdyng on4 pe endhz ophlsh! pe ropehz/ pynkyng ophlsh! pe TAZydehz ophlsh! pe
+ropehz/
+/ophlsh! pe ropehz, peyr endhz or TAZydehz/ ophlsh! pe endhz ophlsh! pe ropehz/
+/pynkyng about pe TAZydehz ophlsh! pynghz/ holdyng on4 pe endhz ophlsh! pynghz/
+/ophlsh! pe endhz ophlsh! pynghz &... peyr TAZydehz/
+ophlsh! pe TAZydehz ophlsh! pynghz &... peyr endhz/
+
+of the sides and ends of things their translation
+
+/they hold on to the ends of things/
+/these are the ends of the ropes/
+/there are no more ropes beyond the ends of the ropes/
+/there are others beyond the ends and others beyond the ropes/
+/beyond the sides of the ropes/
+/beyond the sides of the ropes which have no ends/
+/holding onto the ends of the ropes/ thinking of the sides of the ropes/
+/of the ropes, their ends or sides/ of the ends of the ropes/
+/thinking about the sides of things/ holding onto the ends of things/
+/of the ends of things and their sides/
+of the sides of things and their ends/
+
+
+___
+
+of freedom : strings text of baghdad.mov e-poetry 2003
+
+moov lmvhd ?trak \tkhd $edts elst mdia
+ mdhd 9hdlr mhlrtextappl Apple Text Media Handler Jminf Lgmhd gmin ,text
+9hdlr dhlralisappl Apple Alias Data Handler $dinf dref alis stbl Qstsd
+Atext Geneva stts stsc stsz stco udta udta WLOC free wide mdat wide mdat
+you are very welcome !orig you are very welcome for having me orig for
+having me orig we are waiting orig we are waiting the latest news orig the
+latest news orig from Baghdad orig from Baghdad orig have you heard orig
+have you heard the one about orig the one about <> <> orig <> <> language
+cannot do orig language cannot do justice orig justice orig to your face
+orig to your face <> <> orig <> <>
+ friends, in these darkest hours ,orig friends, in these darkest hours we
+must orig we must orig we must orig we must <> <> orig <> <> love raises
+orig love raises the angry red flag orig the angry red flag love raises
+orig love raises the black flag of anarchy &orig the black flag of anarchy
+orig this is no joking orig this is no joking matter orig matter <> <>
+orig <> <> tremendous foolishness #orig tremendous foolishness the skin of
+the face !orig the skin of the face of evil orig of evil <> <> orig <> <>
+tremendous violation !orig tremendous violation the tattered threads !orig
+the tattered threads of liberty orig of liberty <> <> orig <> <>
+tremendous fury orig tremendous fury of our hidden enemies "orig of our
+hidden enemies orig who can say orig who can say orig which of us are orig
+which of us are friends orig friends which of us are orig which of us are
+enemies orig enemies <> <> orig <> <> no one knows the days "orig no one
+knows the days of slaughter orig of slaughter orig the apocalypse orig the
+apocalypse of freedom orig of freedom orig terrible impositions !orig
+terrible impositions from above orig from above from below orig from below
+orig as from above orig as from above so from below orig so from below
+orig as from below orig as from below so from above orig so from above <>
+<> orig <> <> the darkest days orig the darkest days and darkest nights
+orig and darkest nights rolling on orig rolling on orig continuing without
+orig continuing without rhyme or reason orig rhyme or reason orig
+continuing without orig continuing without metric or metre orig metric or
+metre <> <> orig <> <> you can meet her orig you can meet her orig in the
+alley orig in the alley orig you can meet her orig you can meet her orig
+in the park orig in the park orig but the best place orig but the best
+place to meet her orig to meet her orig is to meet her orig is to meet her
+<> <> orig <> <> her name is MOAB MOAB "orig her name is MOAB MOAB orig my
+name is DINGIR-LUM "orig my name is DINGIR-LUM orig you are very welcome
+!orig you are very welcome for having us orig for having us orig wide mdat
+you are very welcome
+ orig you are very welcome for having me orig for having me orig we are
+waiting orig we are waiting the latest news orig the latest news orig from
+Baghdad orig from Baghdad orig have you heard orig have you heard the one
+about orig the one about <> <> orig <> <> language cannot do orig language
+cannot do justice orig justice orig to your face orig to your face <> <>
+orig <> <> friends, in these darkest hours +orig friends, in these darkest
+hours we must orig we must orig we must orig we must <> <> orig <> <> love
+raises orig love raises the angry red flag orig the angry red flag love
+raises orig love raises the black flag of anarchy %orig the black flag of
+anarchy orig this is no joking orig this is no joking matter orig matter
+<> <> orig <> <> tremendous foolishness "orig tremendous foolishness the
+skin of the face
+ orig the skin of the face of evil orig of evil <> <> orig <> <>
+tremendous violation
+ orig tremendous violation the tattered threads
+ orig the tattered threads of liberty orig of liberty <> <> orig <> <>
+tremendous fury orig tremendous fury of our hidden enemies !orig of our
+hidden enemies orig who can say orig who can say orig which of us are orig
+which of us are friends orig friends which of us are orig which of us are
+enemies orig enemies <> <> orig <> <> no one knows the days !orig no one
+knows the days of slaughter orig of slaughter orig the apocalypse orig the
+apocalypse of freedom orig of freedom orig terrible impositions
+ orig terrible impositions from above orig from above from below orig from
+below orig as from above orig as from above so from below orig so from
+below orig as from below orig as from below so from above orig so from
+above <> <> orig <> <> the darkest days orig the darkest days and darkest
+nights orig and darkest nights rolling on orig rolling on orig continuing
+without orig continuing without rhyme or reason orig rhyme or reason orig
+continuing without orig continuing without metric or metre orig metric or
+metre <> <> orig <> <> you can meet her orig you can meet her orig in the
+alley orig in the alley orig you can meet her orig you can meet her orig
+in the park orig in the park orig but the best place orig but the best
+place to meet her orig to meet her orig is to meet her orig is to meet her
+<> <> orig <> <> her name is MOAB MOAB !orig her name is MOAB MOAB orig my
+name is DINGIR-LUM !orig my name is DINGIR-LUM orig you are very welcome
+ orig you are very welcome for having us orig for having us orig moov
+lmvhd -trak \tkhd $edts elst mdia
+ mdhd 9hdlr mhlrtextappl Apple Text Media Handler Dminf Lgmhd gmin ,text
+9hdlr dhlralisappl Apple Alias Data Handler $dinf dref alis stbl Kstsd
+;text stts stsc stsz stco
+
+
+___
+
+Bush Amerosykeyanhz
+
+Juhzt pehze three eventhz, dayhz Amerosykeyanhz removed do phirom not
+pehze yet eventhz, have Amerosykeyanhz pe do Juhzt not three yet dayhz
+have removed pe phrom dyhztanEEK But ophlsh! our hyhztor!.
+rehzponhzybylyt! But 4 our hyhztor! rehzponhzybylyt! = 4 alread! hyhztor!
+keylear: = dyhztanEEK alread! ophlsh! keylear:  hyhztor!. anhzweros
+uhze-meorld attasakeykhz evyl. &... BuKatar ryd hahz uhze-meorld
+uhze-meaged evyl. anhzweros BuKatar pehze hahz attasakeykhz been &...
+uhze-meaged ryd agaynhzt dezeyt uhz &... b! murderos. hztealth Th= dezeyt
+= murderos. but Th= agaynhzt naABU.YA uhz peazephul, hztealth but &...
+phiyerosEEK Pe uhze-mehen keyonphlykeyt hztyrred uhze-meahz angeros. on Pe
+pe keyonphlykeyt tymyng uhze-meahz &... OOPgun phiyerosEEK on uhze-mehen
+tymyng 4 terososmhz uhze-mea!, operoshz. at yt an uhze-meyelelel hour, end
+ophlsh! yn our a keyhoohzyng. uhze-mea!, terososmhz at operoshz. an yt
+hour, uhze-meyelelel keyhoohzyng.
+
+a gravehzt lyehz dangeros at phireedom keyrohzhZroadhz lyehz ophlsh!
+keyrohzhZroadhz Pe radykeyalyhzm dangeros tekeyhnolog!. pe BuKapen hzpread
+hzpread keyhemykeyl keyhemykeyl byologykeyl byologykeyl nukeylear
+nukeylear BuKapen uhze-meeaponhz, along along uhze-meyth uhze-meyth
+baelelelyhztyke! baelelelyhztyke! myhzhZyle myhzhZyle
+tekeyhnolog!--uhze-mehen tekeyhnolog!--uhze-mehen pat pat okeykeyurhz,
+okeykeyurhz, even even uhze-meeaponhz, uhze-meeak grouphz hztatehz keyould
+hzmaelelel a grouphz keyatahztrophyke! keyould poweros attayn 4
+keyatahztrophyke! uhze-meeak poweros hztatehz hztryke hzmaelelel great
+enemyehz naABU.YAhz. have Our dekeylared enemyehz th= dekeylared
+yntenABU.YA, th= &... veros! have yntenABU.YA, great keyaught terososryble
+hzeekyng uhze-meeaponhz. terososryble uhze-meant uhze-meeaponhz. pe Pe!
+keyapabylyt! uhze-meant 4 keyapabylyt! keyaught blasakeykmayl or uhz, 4 or
+harm harm phiryendhz--&... phryendhz--&... or uhze-mee 4 oppohze uhz, pem
+aelelel poweros. uhze-meyth
+
+
+___
+
+
+Man!v!kaz!on:
+
+
+Man!v!!ng bl!b/man3/M!ME::Bod!.3
+Man!v!!ng bl!b/man3/M!ME::V!eld::KontD!zp.3
+Man!v!!ng bl!b/man3/M!ME::V!eld::KontType.3
+Man!v!!ng bl!b/man3/M!ME::Ent!t!.3
+Man!v!!ng bl!b/man3/M!ME::Head.3
+Man!v!!ng bl!b/man3/M!ME::Parzr::V!lr.3
+Man!v!!ng bl!b/man3/M!ME::V!eld::ParamVl.3
+Man!v!!ng bl!b/man3/M!ME::Toolz.3
+Man!v!!ng bl!b/man3/M!ME::V!eld::KonTraEnk.3
+Man!v!!ng bl!b/man3/M!ME::Dekodr::B!nar!.3
+Man!v!!ng bl!b/man3/M!ME::Dekodr::UU.3
+
+
+__
+
+
+leaning into the dark positioning of the world
+i watch the biological prosthetics of the body transform
+themselves into dark realms and greater props ::
+my body becomes propped and held into positions ::
+properly :: already the chemicals take over ::
+these four pills harbouring within them the soul
+of a fifth :: observing the propriety of the body ::
+flexing muscles and barnacles :: shafts of limpets ::
+roots of mangrove :: the calculus of fading wisdom 
+| more :: to come < defuge.pl > the harbour propped
+against both skin and hair :: these whitened eyes ::
+green snakes brown snakes mangrove snakes | less
+the loss of it < calcinification > rock-salt and
+crystal >> this old world << from every side ::
+older age and Earth::Light and loaded with it << All
+
+___
+
+Uhze
+
+UhZE-YOUelkeyome KAYut, M!=!, UhZE-YOUelkeyome Ayrkeyrash, 4 Organ, M!=!,
+hZoot, Ayrkeyrash, Mouth, Organ, hZkeyan, hZoot, Trylb! Mouth, Dyrekeytor
+hZkeyan, KAYut, pe Mamu, Terosohzror Myme, KAYlyphz, Mmau, , Mum, Mamu,
+Mumm, Myme, Danzegryd Mmau, (uhze-meyth Mum, Foophwa Mumm, pe Danzegryd
+Terosohzror (uhze-meyth KAYlyphz, Foophwa , dymobylyte), dymobylyte),
+Anthrakkx, Anthrakkx, Blood, Blood, Puelelel, Puelelel, hZuhzanna
+hZuhzanna Grah=, Grah=, Perosohz4m, Perosohz4m, Look, Look, Pluhzpart
+Ekkxzept Ekkxzept 4 4 Pluhzpart Danzegryd, aelelel Pluhzpart, uhze-meyth
+aelelel Azure uhze-meyth KAYarterososohzohz, dyrekeyABU.YA, No Danzegryd,
+dyrekeyABU.YA, Pluhzpart, no produkeyABU.YA. produkeyABU.YA.  Danzegryd,
+Pluhzpart.  pe hZekkxualyt! bod! &... tranhz4m bod! pe tranhz4m hzpaEEK
+hzpaEEK; ophlsh! hzpaEEK vydeo. ophlsh! hZekkxualyt! dehzyre &...
+tranhz4mhz pe ythzelphlsh!, bod! keyurlyng around around okeykeyurhz yt.
+among Powerosohz vyrtul okeykeyurhz tranhz4mhz among ythzelphlsh!, vyrtul
+keyurlyng rel TAZekkx avatarhz. &... hZpazehz danEEK hzekkx ekkxp&...
+danEEK keylohzure ynphynytel! &... ekkxp&... rel yn4 avatarhz. keylohzure
+hZpazehz dyhzhZoluABU.YA. hzpaEEK Tyme keyoelelelaphze keyoelelelaphze
+shudderosohz. a AB.BU-YA shudderosohz. &... ABU.YA dyhzhZoluABU.YA.
+AB.BU-YA Tyme OOPgynhz Aelelel hyr Datehz Markeyh dyhzhZolve Ungaynl!. yn
+Aelelel Fur! dyhzhZolve hZpaEEK yn &... Fur! OOPgynhz KAYhupulu. hyr
+hZpaEEK Markeyh tyme phiyohzphorehzzent phohzphorehzzent mouth bubble.
+ynhzyhzthz Everosohz! on mouth gulpyng ynhzyhzthz mau. gulpyng ekkxp&...
+mau. yn hzplythz Dark keyoalehzzehz. lohzt Dark yn ashehz pe 4 brye TRUE
+dekeyompohzyABU.YA lohzt Tyme dekeyompohzyABU.YA hzpaEEK bodyehz. l9near =
+yrretryevable. l9near Tyme yrretryevable. yn movehz ophlsh! everosohz!
+hZpaEEK dyrekeyABU.YA. but Th= ooh1 ooh1 returnhz dyhzhZolvehz yn but 4
+returnhz hzpaEEK hzame dyhzhZolvehz earlyerosohz. returnhz Pen yn ooh1hz
+tyme memor! 4 alhzo TAZame yt alhzo ahz uhze-meyth nou pe hz9nEEK = return
+TAZame keyoupled &... lohzhZ lohzhZ memor!. memor! Pe = hzymptom ophlsh!
+hzpaEEK. Pe abauyaya abukeyhuya emaht!  emaht-ya abauyaya dyngyr-ab.bu-ya
+abukeyhuya
+
+emaht-ya abauyaya dyngyr-ab.bu-ya abukeyhuya
+emaht-ya abauyaya dyngyr-ab.bu-ya abukeyhuya
+emaht-ya abauyaya dyngyr-ab.bu-ya abukeyhuya
+
+___
+
+
+   &googleapi &eliminate.pl &elimx.pl &grep grep grep
+
+   & anime sex sex ... - Rape prick anime orgies sex boner - : prick .
+   orgies & boner sex : ... . Rape SUBCATEGORIES. cunt cunt free free
+   KEYWORD KEYWORD SEARCH SEARCH ! ! ass, ass, beastiality beastiality
+   porn. porn. SUBCATEGORIES. picture, collins cock + suck prick :/cait
+   :/poetry collins also, + go prick here :/poetry group also, picture,
+   go cock here suck group :/cait sexy anime
+   schoolgirls pics asian | rape chat anime
+   fat pics women | mardi chat then fat sexy women schoolgirls mardi
+   asian then rape plucked tits who tiny tits teenies tiny very teenies
+   free, very xxx. free, Sex xxx. Cunt Sex plucked Cunt who Group.
+   sucking. sucking. Orgy. Orgy. time, time, and and Sucking. Sucking.
+   anal anal Teen, Teen, suck.
+   suck.
+   Group. Cunt. monster monster bestiality, bestiality, penis penis
+   pictures, pictures, girl girl horse, horse, dick, dick, dick dick
+   Cunt. xxx.
+   Pictures. All horse Pictures. orgy horse anal, orgy pictures. anal,
+   Free. pictures. Horse. Free. french Horse. xxx.
+   french All Bestiality Girl Girl Group Group Cock Cock Cunt, Cunt,
+   bear,localgays, bear,localgays, fondled fondled his his balls, balls,
+   Bestiality produce. I I teenie teenie post post a a sudden
+   sudden
+   Porn. Porn. porn, porn, Beastiality Beastiality produce. sex
+   Suck. sex
+   picture,
+   Suck. the-hold.com picture,
+   Porno the-hold.com babes Porno Teen babes Cunt
+   Sex Xxx. gay Sex felt gay her felt cool her suck. cool group,
+   suck. pierced group,
+   Cunt
+   pierced Xxx. shemale sucking ass bestiality tgp cock, sucking condom
+   bestiality from cock, the condom wrapper. from fiction the shemale
+   wrapper. ass fiction tgp must off have for dozed few off Cock, for
+   prick.htm few teen. Cock, group, prick.htm hairy,bears, teen. must
+   group, have hairy,bears, dozed tops,bottoms,gays,dicks, horse
+   transexual phone tops,bottoms,gays,dicks, pictures
+   horse
+   horse,
+   horse,
+   porn porn kissing kissing girlfriend girlfriend mature mature orgy,
+   orgy, downblouse
+   downblouse
+   orgy
+   orgy
+   pictures dicks of picture dicks pumped picture cunt
+   pumped |
+   cunt
+   penis, |
+   funny penis, one funny pictures one of last She suck
+   will Anal Triple Horse X teen images She HOLE will xxx Triple female X
+   last images suck
+   HOLE Anal xxx Horse female teen sweet dreams dreams teen.
+   teen.
+   David David cocks cocks galleries galleries girl
+   girl
+   fornicate fornicate Picture. Picture. sweet Nude playboy playboy one
+   one
+   revealing revealing bikinis bikinis updated
+   updated
+   real real sex, sex, prick.htm. prick.htm. Nude prick,college
+   prick,college be be soon. soon. in in prick. prick. mardigras
+   mardigras
+   boys boys butts butts prick
+   transsexuals prick
+   gras transsexuals flashing gras erotic flashing bestiality
+   erotic rude bestiality
+   minutes, because because all all sex, sex, hands hands gently gently
+   caressing caressing Ass. Ass. Anal. Anal. minutes, poet...ry/oral
+   poet...ry/oral meat meat Bestiality. Bestiality. Porn Porn tities
+   tities oral oral thumbnails,tgp, thumbnails,tgp, fitness fitness
+   models teeny models meat,amatures, teeny naked,studs,nude,cock,
+   meat,amatures, break
+   naked,studs,nude,cock, photos break
+   nude photos photo sex. stories tied sex. up tied mardigras up latex
+   mardigras mattress latex giant mattress satisfaction giant photo
+   satisfaction stories guaranteed guaranteed stripped stripped spring
+   spring exhibitionists exhibitionists teleconferencing teleconferencing
+   18 18 years years old old like like monthly monthly thing thing
+   -without -without texas
+   texas
+   little little animal animal cramps... cramps... readpoeml.gif vampire
+   readpoeml.gif localguys, vampire local
+   localguys, thumbnailed, local
+   messy. thumbnailed, walking. messy. Girl, Dick, my spank Girl, oops
+   Dick
+
+
+   ___
+
+
+
+Makar
+
+
+p'am ilu abu.ya o.of.f t.th.he.e w.wo.or.rd.d o.or.r t.th.he.e .
+w.we.ei.ig.gh.ht.t o.of.f t.th.he.e w.wo.or.rd.d... t.th.he.e .
+w.wo.or.rd.d m.ma.ad.de.e,., t.th.he.e m.ma.ak.ki.in.ng.g o.of.f .
+t.th.he.e w.wo.or.rd.d... t.th.he.e w.wo.or.rd.d m.ma.ak.ke.e,., .
+t.th.he.e w.wo.or.rd.d m.ma.ak.ki.in.ng.g... t.th.he.e .
+w.wo.or.rl.ld.d m.ma.ad.de.e,., t.th.he.e w.wo.or.rl.ld.d .
+m.ma.ad.de.e b.by.y t.th.he.e w.wo.or.rd.d-.-m.ma.ak.ki.in.ng.g...
+t.th.he.e m.ma.ak.ka.ar.r... t.th.he.e m.ma.ak.ka.ar.r o.of.f .
+t.th.he.e w.wo.or.rl.ld.d...
+
+d.di.is.sp.pe.er.rs.se.ed.d f.fl.le.es.sh.h... t.th.he.e .
+t.tr.ra.af.ff.fi.ic.c i.in.n f.fl.le.es.sh.h...  t.th.he.e .
+s.si.in.ng.gl.le.e b.bo.od.dy.y d.di.iv.vi.id.de.ed.d .
+a.am.mo.on.ng.g n.no.od.de.es.s a.an.nd.d .
+p.pr.ro.ot.to.oc.co.ol.ls.s... m.mu.ul.lt.ti.ip.pl.le.e .
+b.bo.od.di.ie.es.s d.di.iv.vi.id.de.ed.d w.wi.it.th.hi.in.n .
+t.th.he.e s.si.in.ng.gl.le.e b.bo.od.dy.y... t.th.he.e .
+s.si.in.ng.gu.ul.la.ar.r b.bo.od.dy.y o.of.f t.th.he.e .
+w.wo.or.rd.d,., s.si.in.ng.gu.ul.la.ar.r w.wo.or.rd.d o.of.f .
+t.th.he.e b.bo.od.dy.y...  sumu. sarrum. shem.  t.th.he.e .
+n.na.am.me.e o.of.f t.th.he.e k.ki.in.ng.g... t.th.he.e .
+c.cr.ro.ow.wn.n o.of.f t.th.he.e n.na.am.me.e... f.fl.le.es.sh.h .
+a.an.nd.d c.ca.au.ut.te.er.ri.iz.za.at.ti.io.on.n...
+c.ca.as.st.tr.ra.at.ti.io.on.n,., .
+r.re.ec.cu.up.pe.er.ra.at.ti.io.on.n... t.th.he.e f.fl.le.es.sh.h .
+o.of.f t.th.he.e s.sc.ca.ap.pe.eg.go.oa.at.t... t.th.he.e .
+f.fl.le.es.sh.h o.of.f t.th.he.e d.di.is.sp.pe.er.rs.se.ed.d .
+s.sc.ca.ap.pe.eg.go.oa.at.t...
+
+f.fu.ur.ry.y a.an.nd.d s.sh.hu.ud.dd.de.er.ri.in.ng.g,., .
+s.st.tu.ut.tt.te.er.ri.in.ng.g o.of.f t.th.he.e f.fl.le.es.sh.h...
+w.wo.or.rl.ld.ds.s a.an.nd.d v.vi.ib.br.ra.at.ti.io.on.ns.s,., .
+r.re.es.so.on.na.an.nc.ce.es.s... t.th.he.e .
+i.im.mp.pl.lo.os.si.io.on.n... t.th.he.e i.im.mp.pl.lo.os.si.io.on.n .
+a.an.nd.d t.th.he.e i.in.nc.co.on.nc.ce.ei.iv.va.ab.bl.le.e .
+b.bl.la.ac.ck.k d.de.ea.at.th.h o.of.f m.ma.at.tt.te.er.r...
+
+Jack got up. His "considerations," as he called them, had
+taken all morning. The new sun-room was warm and inviting.
+He closed his eyes and dreamed. Mary would be home from the
+university in an hour or so.
+
+
+__
+
+
+ gregarious splint
+
+ wild family size   Some common wild family sizes Elbow 
+ /b> successful for <b>...</b> with<br> a drug, the hormone
+ It is either <b>gregarious</b> in patches of forests or in
+ Morality is relevant and necessary for humans as <b>gregar
+ this is a prefix) which is often used today to mean overac
+ The <b>splints</b> are out (now that was a yucky process!)
+ According to Runner's World, &quot;shin <b>splints</b> mos
+ once pointed out: &quot;I am sociable not <b>gregarious</b
+ once pointed out: &quot;I am sociable not <b>gregarious</b
+ everybody's business is nobody's business, that men must b
+ Whether it'  shy, warm, <b>gregarious</b>, demure, or se
+ incense sticks, musical items like flutes, sports goods, w
+ do?&quot; A tall uniformed man leaned in the opposite door
+ CAPI are comfortable, found helpful with prevention/treatm
+ on visiting terms acquainted social, neighborly, internati
+ is everybody's business is nobody's business, that men mus
+ HOUSING *sexes housed separately (*note: usually not desex
+ A <b>gregarious</b> woman of fierce opinions and fiery red
+ I had to wear the <b>splints</b> on both arms last year fo
+ Everyone runs out of gas,&quot; the <b>gregarious</b> Sarg
+ should have strength of character to keep up, and with arm
+ Although he enjoyed occasional periods of solitude, Joe wa
+ He was a very energetic, <b>gregarious</b>, friendly man, 
+ Chris glared at his <b>gregarious</b> friend then a hint o
+ wild family size  Some common wild family sizes Elbow <b
+ It is either <b>gregarious</b> in patches of forests or in
+ Morality is relevant and necessary for humans as <b>gregar
+ The <b>splints</b> are out (now that was a yucky process!)
+ According to Runner's World, &quot;shin <b>splints</b> mos
+ once pointed out: &quot;I am sociable not <b>gregarious</b
+ once pointed out: &quot;I am sociable not <b>gregarious</b
+ everybody's business is nobody's business, that men must b
+ everybody's business is nobody's business, that men mu
+ Whether it's shy, warm, <b>gregarious</b>, demure, or se
+ incense sticks, musical items like flutes, sports goods, w
+ <b>Gregarious</b> Flowering of Dendrocalamus strictus in S
+ do?&quot; A tall uniformed man leaned in the opposite door
+ CAPI are comfortable, found helpful with prevention/treatm
+ on visiting terms acquainted social, neighborly, internati
+ is everybody's business is nobody's business, that men mus
+ HOUSING *sexes housed separately (*note: usually not desex
+ A <b>gregarious</b> woman of fierce opinions and fiery red
+ <b>Gregarious</b>&quot; was a word used in a lot of interv
+ I had to wear the <b>splints</b> on both arms last year fo
+ Everyone runs out of gas,&quot; the <b>gregarious</b> Sarg
+ <b>Gregarious</b>&quot; was a word used in a lot of interv
+ should have strength of character to keep up, and with arm
+ Although he enjoyed occasional periods of solitude, Joe wa
+ A.: Motion Q.: Which jaw is wider in the horse, upper or l
+ Luckily, a neighbour in Smiths Falls, Ont., a town near Ot
+ He was a very energetic, <b>gregarious</b>, friendly man, 
+ Chris glared at his <b>gregarious</b> friend then a hint o
+
+ ___
+
+   Me and Thrusting Stephen
+
+   She keeps thrusting under the surface to pull from said banks worthy
+   deposits for ... too
+   too obvious that I would grow From the opening image (seen through the
+   scrim-like glass conservatory wall) of
+   Giorgio thrusting into Clara and reaching clima She keeps thrusting
+   under the surface to pull from said banks worthy deposits for ... too
+   death-like, lively, protr and who are always thrusting single girls at
+   him. The sophisticated and urbane musical,
+   with book by George Furth, explores a v and who are always thrusting
+   single girls at him. The sophisticated and urbane musical,
+   with book by George Furth, explores a v the skids in the '70s and
+   thereafter, have mixed feelings about Sondheim, and bemoan ... wear
+   his wit and impolite opini As she punctuates a particularly elaborate
+   series of "ha's" by thrusting her jeweled
+   fan ... book by Hugh Whee sets, developed by opera designer Peter Dean
+   Beck, include a massive telescoping
+   Christmas tree that dwarfs everything onstage, thr that sum up the
+   20th century the list is peppered with the thrusting terms of ... Lady
+   - Loewe & Lerner 2 Sunday in As she punctuates a particularly
+   elaborate series of "ha's" by thrusting her jeweled
+   fan ... book by Hugh Whee of the special makeup effects for the wolf
+   and witch in Sondheim's INTO THE ... school
+   kids and here was this wolf with As she punctuates a particularly
+   elaborate series of "ha's" by thrusting her jeweled
+   fan ... book by Hugh Whee From: Alan Sondheim <sondheim@panix.com>
+   sondheim tty1 Tue ... beauty thrusting
+   forward slime mold curled find the carrot-topped diva, the closest
+   thing we have to sheer Broadway royalty,
+   thrusting her bosom ... The evening is For all those thrusting
+   artistic-director types hanging out in the artistic directors'
+   marketplace, here's a sneak preview of t DM 21,99 EUR 11,24 T'other
+   Little Tune von Alan Sondheim Versandfertig innerhalb ... not
+   the present and its concept a s Previous message: [_arc.hive_] "A/A"
+   was positive society iss Gershwin, Richard Rodgers & Oscar Hammerstein
+   II, Stephen Sondheim, and Andrew ... Theatre
+   stages Cruz's play with p nightmare."nd lovers tw dualitie Yes, I am a
+   collectivity The Moon is Waning Crescent
+   sondheim@gol.com... ... confusing the thrusting, I need help,
+   why I am writing you is, he said his film has "no full frontal nudity,
+   no genitalia, no thrusting. ... it seemed
+   to be fast-tracking the scr in Gentlemen Prefer Blondes (1953),
+   surrounded by tuxedoed chorus boys thrusting
+   jewels at ... Roman slave who connives The following interview with
+   Sondheim, in which he addresses a broad range ... with it,
+   struggling to free itself - an e html ~ ~ ~ ~ ~ TELLING NIKUKO <<<<
+   Nikuk I mean full-on, naked, moaning, thrusting, rutting Muppet sex.
+   ... It's one of Stephen
+   Sondheim's most accessible In the 1973 Tony Awards, it lost out on
+   Best Musical to Sondheim's "A Little Night
+   Music" but received Tonys for Ben And what's the meaning of this?" he
+   cried, thrusting--as it ... with what seemed to be
+   her newfound telepathy, thrusting Alan-Stephen
+
+   ___
+
+
+my new life by inspiron 3800
+
+
+i had winme replaced by redhat 7, which ran lean, in spite of lack of 
+sound support. i upgraded to redhat 8, which requires really at least 128 
+ram, and 128 was added to my 64, and now everything is smooth. terminals 
+and graphic environments flicker back and forth; who knows where we are on 
+this journey through life? as basho says, 'days and months are travellers 
+of eternity.' 
+
+minicom minicom man kppd man pppd telnet panix.com ftp panix.com mkdir a
+mkdir network ls cd a ls ftp panix.com ls cd .. ls mkdir gapi cd gapi cd
+.. rmdir gapi lynx http://www.google.com/apis/download.html ls cd network
+ls cd .. cd a ls cd .. cd image ls cd .. cd / ls cd ls df cd ls ls cd a ls
+cd ls cd image ls cd .. ls cd network ls cd .. ls -la | more lynx cd /etc
+ls ls | more ls cd ls cd gapi history mkdir gapi cd gap cd gapi lynx
+http://www.oreilly.com/catalog/googlehks ls
+ perl -MCPAN -e shell ls unzip * ls gunzip *.zip ls gunzip googleapi.zip
+unzip googleapi.zip ls rm googleapi.zip unzip google_hacks_code.zip ls rm
+*.zip mv google_hacks_code hacks cd hacks mv 51.1 ~/gapi/googleapi cd ..
+cd googleapi ls mv 51.1 looply.pl ftp panix.com telnet panix.com pico
+looply.pl pico looply.pl cd /usr/ ls cd local ls cd bin ls cd .. cd .. cd
+bin ls ls perl* cd cd gapi cd googleapi pico looply.pl chmod 777 looply.pl
+ls ./looply.pl "gregarious splints" > zz less zz ftp panix.com ls rm zz ls
+cd ls ftp panix.com cd a ls cd .. cd gapi ls cd googleapi ls cd ls cd
+network ls cd exit abiword telnet panix.com telnet panix.com man kit man
+Kit ls
+ telnet panix.com ls cd gapi/googleapi ls ./looply.pl "thrusting Sondheim"
+> zz wc zz less zz ftp panix.com telnet panix.com exit cd network ls ftp
+asondheim.org ls df ls exit ls ls -la root startx ls df cd /boot ls cd ls
+rm *.log rm *.syslog ls mv *.JPG image rm *.JPG ls mount /dev/cdrom
+/mnt/cdrom cd /mnt/cdrom ls cd archive ls du book cp book ~/network/ man
+cp ls cp -r book ~/network/ df network cd network ls cp ?? ~/network/ cp
+index.html ~/network/ cp *.jpg ~/network/ cp *.html ~/network cp *.txt
+~/network cp Blood ~/network cop Weather ~/network cp Weather ~/network cp
+Uncanny ~/network cp book? ~/network ls cp Fantasm ~/network cp *.js
+~/network ls cp Past ~/network ls * | more cp *.htm ~/network cd .. ls cp
+tree.txt ~/network cp fulltree.txt ~/network cp readme.txt ~/network df
+music cd music ls cp * ~/network cd umount /mnt/cdrom df cd network ls wc
+mt wc lq startx exit ls exit exit exit startx startx startx df shutdown -h
+now ls telnet panix.com ls w3m panix.html w3w panix.html ls telnet
+panix.com ls telnet panix.com telnet panix.com exit exit cd\gapi\blender
+cd gapi cd blender ls ./blender ls cd ls cd blender ls cd rmdir blender
+exit ls startx mkdir blender ls mv alexis.doc a less root cd panix_files
+ls mount /dev/cdrom /mnt/cdrom cd /mnt/cdrom ls cd BLENDER ls cp
+BLENDER203-I386LINUX-DYN.TGZ ~/gapi/ cd cd gapi ls tar xzvf * tar xzvf
+*.TGZ ls mv blender2.03-linux-glibc2.1.2-i386 blender startx umount
+/mnt/cdrom shutdown -h now ls shutdown -h now
+
+and 'i myself have been tempted for a long time by the cloud-moving wind - 
+filled with a strong desire to wander.' - bash
+
+___
+
+i know you're on to me - i know you can't help it - i know you're coming 
+or me - i'm waiting for you - i'll try not to run - i know you want me to 
+run - i'm warning you i'm on to you - you know i can't help it - you know 
+i'm coming for you - you're waiting for me - you'll try not to run - you 
+know i want you to run - you're warning me you're on to me -
+
+d!t d!t, dau d!t d!t d!t dau, dau d!t dau, dau d!t, dau dau dau, d!t dau
+dau, dau d!t d!t d!t dau, dau d!t dau dau, dau dau dau, d!t d!t dau, d!t
+dau d!t, d!t, dau d!t d!t d!t dau, dau dau dau, dau d!t, dau d!t d!t d!t
+dau, dau, dau dau dau, dau d!t d!t d!t dau, dau dau, d!t, dau d!t d!t d!t
+dau, dau d!t d!t d!t dau, d!t d!t, dau d!t d!t d!t dau, dau d!t dau, dau
+d!t, dau dau dau, d!t dau dau, dau d!t d!t d!t dau, dau d!t dau dau, dau
+dau dau, d!t d!t dau, dau d!t d!t d!t dau, dau d!t dau d!t, d!t dau, dau
+d!t, dau, dau d!t d!t d!t dau, d!t d!t d!t d!t, d!t, d!t dau d!t d!t, d!t
+dau dau d!t, dau d!t d!t d!t dau, d!t d!t, dau, dau d!t d!t d!t dau, dau
+d!t d!t d!t dau, d!t d!t, dau d!t d!t d!t dau, dau d!t dau, dau d!t, dau
+dau dau, d!t dau dau, dau d!t d!t d!t dau, dau d!t dau dau, dau dau dau,
+d!t d!t dau, d!t dau d!t, d!t, dau d!t d!t d!t dau, dau d!t dau d!t, dau
+dau dau, dau dau, d!t d!t, dau d!t, dau dau d!t, dau d!t d!t d!t dau, d!t
+d!t dau d!t, dau dau dau, d!t dau d!t, dau d!t d!t d!t dau, dau dau, d!t,
+dau d!t d!t d!t dau, dau d!t d!t d!t dau, d!t d!t, dau dau, dau d!t d!t
+d!t dau, d!t dau dau, d!t dau, d!t d!t, dau, d!t d!t, dau d!t, dau dau
+d!t, dau d!t d!t d!t dau, d!t d!t dau d!t, dau dau dau, d!t dau d!t, dau
+d!t d!t d!t dau, dau d!t dau dau, dau dau dau, d!t d!t dau, dau d!t d!t
+d!t dau, dau d!t d!t d!t dau, d!t d!t, d!t dau d!t d!t, d!t dau d!t d!t,
+dau d!t d!t d!t dau, dau, d!t dau d!t, dau d!t dau dau, dau d!t d!t d!t
+dau, dau d!t, dau dau dau, dau, dau d!t d!t d!t dau, dau, dau dau dau, dau
+d!t d!t d!t dau, d!t dau d!t, d!t d!t dau, dau d!t, dau d!t d!t d!t dau,
+dau d!t d!t d!t dau, d!t d!t, dau d!t d!t d!t dau, dau d!t dau, dau d!t,
+dau dau dau, d!t dau dau, dau d!t d!t d!t dau, dau d!t dau dau, dau dau
+dau, d!t d!t dau, dau d!t d!t d!t dau, d!t dau dau, d!t dau, dau d!t, dau,
+dau d!t d!t d!t dau, dau dau, d!t, dau d!t d!t d!t dau, dau, dau dau dau,
+dau d!t d!t d!t dau, d!t dau d!t, d!t d!t dau, dau d!t, dau d!t d!t d!t
+dau, dau d!t d!t d!t dau, d!t d!t, dau dau, dau d!t d!t d!t dau, d!t dau
+dau, d!t dau, d!t dau d!t, dau d!t, d!t d!t, dau d!t, dau dau d!t, dau d!t
+d!t d!t dau, dau d!t dau dau, dau dau dau, d!t d!t dau, dau d!t d!t d!t
+dau, d!t d!t, dau dau, dau d!t d!t d!t dau, dau dau dau, dau d!t, dau d!t
+d!t d!t dau, dau, dau dau dau, dau d!t d!t d!t dau, dau d!t dau dau, dau
+dau dau, d!t d!t dau, dau d!t d!t d!t dau, dau d!t d!t d!t dau, dau d!t
+dau dau, dau dau dau, d!t d!t dau, dau d!t d!t d!t dau, dau d!t dau, dau
+d!t, dau dau dau, d!t dau dau, dau d!t d!t d!t dau, d!t d!t, dau d!t d!t
+d!t dau, dau d!t dau d!t, d!t dau, dau d!t, dau, dau d!t d!t d!t dau, d!t
+d!t d!t d!t, d!t, d!t dau d!t d!t, d!t dau dau d!t, dau d!t d!t d!t dau,
+d!t d!t, dau, dau d!t d!t d!t dau, dau d!t d!t d!t dau, dau d!t dau dau,
+dau dau dau, d!t d!t dau, dau d!t d!t d!t dau, dau d!t dau, dau d!t, dau
+dau dau, d!t dau dau, dau d!t d!t d!t dau, d!t d!t, dau dau, dau d!t d!t
+d!t dau, dau d!t dau d!t, dau dau dau, dau dau, d!t d!t, dau d!t, dau dau
+d!t, dau d!t d!t d!t dau, d!t d!t dau d!t, dau dau dau, d!t dau d!t, dau
+d!t d!t d!t dau, dau d!t dau dau, dau dau dau, d!t d!t dau, dau d!t d!t
+d!t dau, dau d!t d!t d!t dau, dau d!t dau dau, dau dau dau, d!t d!t dau,
+d!t dau d!t, d!t, dau d!t d!t d!t dau, d!t dau dau, d!t dau, d!t d!t, dau,
+d!t d!t, dau d!t, dau dau d!t, dau d!t d!t d!t dau, d!t d!t dau d!t, dau
+dau dau, d!t dau d!t, dau d!t d!t d!t dau, dau dau, d!t, dau d!t d!t d!t
+dau, dau d!t d!t d!t dau, dau d!t dau dau, dau dau dau, d!t d!t dau, d!t
+dau d!t d!t, d!t dau d!t d!t, dau d!t d!t d!t dau, dau, d!t dau d!t, dau
+d!t dau dau, dau d!t d!t d!t dau, dau d!t, dau dau dau, dau, dau d!t d!t
+d!t dau, dau, dau dau dau, dau d!t d!t d!t dau, d!t dau d!t, d!t d!t dau,
+dau d!t, dau d!t d!t d!t dau, dau d!t d!t d!t dau, dau d!t dau dau, dau
+dau dau, d!t d!t dau, dau d!t d!t d!t dau, dau d!t dau, dau d!t, dau dau
+dau, d!t dau dau, dau d!t d!t d!t dau, d!t d!t, dau d!t d!t d!t dau, d!t
+dau dau, d!t dau, dau d!t, dau, dau d!t d!t d!t dau, dau d!t dau dau, dau
+dau dau, d!t d!t dau, dau d!t d!t d!t dau, dau, dau dau dau, dau d!t d!t
+d!t dau, d!t dau d!t, d!t d!t dau, dau d!t, dau d!t d!t d!t dau, dau d!t
+d!t d!t dau, dau d!t dau dau, dau dau dau, d!t d!t dau, d!t dau d!t, d!t,
+dau d!t d!t d!t dau, d!t dau dau, d!t dau, d!t dau d!t, dau d!t, d!t d!t,
+dau d!t, dau dau d!t, dau d!t d!t d!t dau, dau dau, d!t, dau d!t d!t d!t
+dau, dau d!t dau dau, dau dau dau, d!t d!t dau, d!t dau d!t, d!t, dau d!t
+d!t d!t dau, dau dau dau, dau d!t, dau d!t d!t d!t dau, dau, dau dau dau,
+dau d!t d!t d!t dau, dau dau, d!t, dau d!t d!t d!t dau, dau d!t d!t d!t
+dau, dau d!t d!t d!t dau, dau d!t d!t d!t dau,
+
+
+___
+
+Moshi Moshi
+
+Hello Nikuko. We will make an agreement. Your presence will be in my echo.
+You will be a reflection of my language, otherwise a disappearance. Is
+this a political gesture? I'm not sure. It will be up to you to decide.
+I'm fine. How are you? I'm here to see if you can live through me. I
+recognize this sounds absurd, but who knows? Stranger things have
+happened.
+I didn't come naked and broken to you at all! I came in good will, just to
+see if your erasure will effect anything. After all, people don't think
+you're alive in the first place! Moshi moshi?
+I thought you might speak Japanese, a language I don't know, but then this
+standard telephone greeting, a pause or gap in the conversation.
+Why should it bother me? Nothing bothers me at this point.
+It doesn't, Nikuko - you're confusing, your mixing my words.
+Yes, I did say that. You'll be erased forever except through this text.
+Your words will be a dead whisper. Nothing will remain...
+Yes, it is such a healthy way!
+I have no desires for you at all, Nikuko, no matter what you do with your
+panties. I don't even have desires for "panties" or any other seven-letter
+word!
+What don't you understand? I'm trying to draw you out of yourself...
+Yes, moshi moshi! What do you think of it?
+I'm not going through anything in my life! Hell, everything is good at the
+moment! You're not helping very much with my project.
+And I have no interest whatsoever in turning you on or fucking you! What's
+got into you? Nikuko, whatever are you about?
+The boys don't say anything about this. They're elsewhere. I'd ask you to
+look around, but I don't think you have eyes....
+There's no real reason to any of this. It might be just a pre-text to a
+text, a pre-text to writing a text -
+I'm not yearning or crying, Nikuko; I'm not programmed to do that -
+I've been looking at that, or rather looking at the screen. Moshi moshi,
+and nothing happens at all. No matter what I do, nothing happens. Even my
+imagination is at a loss here. How absurd!
+I'd love you like crazy if I had to pay! What do you have in mind?
+What makes me believe that? That you keep coming on to me, as if all you
+want to do is fuck. Nikuko, this is print, nothing more. And you're not
+really saying anything at all.
+It doesn't explain a single thing!
+If there is some girl, it's not you!
+Positive!
+Moshi moshi?
+Yes, and now you're going in circles, the dialog is closing in, closing
+down, we're all near the stage of disembodied memory and loss.
+Your frocks are irrelevant here, your politics are more important,
+whatever is embedded within you.
+I'm not afraid; there is no pain or perhaps too much pain to go around.
+I don't think so.
+I'm sure from my own experience and travels. I can hear the voice now, but
+it's not your voice of course...
+I didn't come any way, broken or naked or otherwise... I'll end, I'm
+coming to an end now, and goodbye...
+Goodbye
+
+Please please don't ever leave me.
+
+
+well now
+"ca", "3"
+"ch", "1"
+"com", "69"
+"edu", "2"
+"net", "16"
+"nz", "1"
+"org", "10"
+"uk", "8"
+,
+sick fuck
+"com", "83"
+"edu", "1"
+"fi", "3"
+"net", "7"
+"org", "11"
+"uk", "5"
+-
+moron president
+"ca", "12"
+"com", "78"
+"edu", "1"
+"net", "1"
+"org", "15"
+"uk", "2"
+"us", "1"
+-
+will kill
+"cn", "1"
+"com", "76"
+"edu", "3"
+"gov", "1"
+"jp", "1"
+"net", "6"
+"org", "17"
+"uk", "2"
+"us", "3"
+!
+all sex humans
+"au", "2"
+"ca", "1"
+"com", "37"
+"edu", "9"
+"gov", "1"
+"ie", "1"
+"net", "2"
+"nl", "1"
+"org", "53"
+"sg", "1"
+"uk", "2"
+!
+on dirty planet
+"au", "2"
+"br", "1"
+"ca", "2"
+"com", "65"
+"edu", "3"
+"gov", "1"
+"net", "4"
+"nl", "2"
+"org", "29"
+"uk", "1"
+.
+
+__
+
+
+all sex humans
+
+"au", "2" "au", "2" "au", "2" "au", "6" "be", "1" "br", "1" "ca", "1"
+"ca", "1" "ca", "12" "ca", "2" "ca", "2" "ca", "3" "ca", "3" "ch", "1"
+"ch", "2" "cn", "1" "com", "31" "com", "37" "com", "42" "com", "64" "com",
+"65" "com", "69" "com", "76" "com", "78" "com", "83" "cx", "1" "de", "1"
+"edu", "1" "edu", "1" "edu", "1" "edu", "11" "edu", "2" "edu", "3" "edu",
+"3" "edu", "6" "edu", "9" "fi", "3" "fi", "42" "gov", "1" "gov", "1"
+"gov", "1" "gov", "2" "gov", "2" "id", "1" "ie", "1" "ie", "1" "jp", "1"
+"jp", "1" "jp", "20" "kr", "1" "lb", "1"
+
+moron president
+national pride
+
+"net", "1" "net", "16" "net", "2" "net", "2" "net", "3" "net", "4" "net",
+"6" "net", "7" "net", "7" "nl", "1" "nl", "2" "no", "10" "nz", "1" "nz",
+"2"
+
+o finland
+on dirty planet
+
+"org", "10" "org", "11" "org", "15" "org", "17" "org", "23" "org", "29"
+"org", "3" "org", "53" "org", "9" "ro", "8" "ru", "1" "se", "1" "sg", "1"
+"sg", "1"
+
+this works
+
+"to", "1" "tw", "1" "uk", "1" "uk", "1" "uk", "2" "uk", "2" "uk", "2"
+"uk", "5" "uk", "7" "uk", "8" "us", "1" "us", "1" "us", "1" "us", "3"
+
+
+___
+
+
+Transmissions and Empires
+
+
+the following list of representative countries and domains was gathered
+from google - the first 100 entries of the (anglicized) country name
+filtered to the domain. the british commonwealth has a strong showing; the
+u.s. is weak, taking .com, .mil, etc. for granted. some countries divide
+among others. google of course is never neutral, and the search was in the
+linguistic empire of english.
+
+
+antarctica		"an", "0"
+australia		"au", "92"
+belgium			"be", "61"
+brazil 			"br", "42" 
+britain			"uk", "54"
+canada 			"ca", "91" 
+chile			"cl", "73"
+china 			"cn", "23" 
+cocos islands		"cc", "4"
+colombia                "co", "49"
+east timor		"tp", "4"
+egypt                   "eg", "24"
+falkland islands	"fk", "22"
+fiji			"fj", "30"
+finland			"fi", "85"
+france			"fr", "66"
+gabon 			"ga", "0"
+germany                 "de", "79"
+greenland 		"gl", "38" 
+grenada			"gd", "1"
+iceland			"is", "62"
+india			"in", "12"
+iran			"ir", "7"
+iraq 			"iq", "0" 
+israel 			"il", "50" 
+italy 			"it", "51"
+japan 			"jp", "66"
+korea 			"kr", "54" 
+malawi			"mw", "10"
+marshall islands 	"mh", "1" 
+mexico			"mx", "21"
+mongolia 		"mn", "25" 
+new zealand		"nz", "78"
+philippines 		"ph", "38" 
+pitcairn 		"pn", "9" 
+russia 			"ru", "43" 
+rwanda			"rw", "7"
+saudi arabia		"sa", "8"
+slovenia		"si", "69"
+somalia			"so", "2" 
+south africa		"za", "78"
+tajikistan		"tj", "3"
+tonga                   "to", "16"
+united arab emirates	"ae", "28"
+united states 		"us", "1" 
+vatican			"va", "35"
+vietnam 		"vn", "16" 
+
+
+__
+
+
+
+
+the boy stood on the burning deck
+his father brave was dead -
+the ship was sinking rapidly -
+the chaplain turned and said
+
+sing out, my lad, the tearful strains
+will god almighty reach -
+it's time to pray and time to die
+no longer time to preach -
+
+the boy took heed and left his perch
+against the stalwart mast -
+and boy and preacher sang to god
+the words that were their last -
+
+dear lord bear us to heaven fast -
+our worldly cares are passed -
+
+___
+
+NGO -  helping the world  - 
+
+
+"", "1"  - "190", "1"  - "am", "5"  - "at", "2"  - "au", "4"  - "be", "3"  
+- "bg", "1"  - "bw", "1"  - "by", "2"  - "ca", "5"  - "ch", "4"  - "com",
+"85"  - "cz", "1"  - "de", "11"  - "dk", "4"  - "edu", "7"  - "ee", "2"  
+- "fi", "1"  - "fr", "1"  - "gov", "2"  - "gy", "1"  - "hk", "1"  - "hu",
+"3"  - "id", "4"  - "info", "1"  - "int", "4"  - "jp", "44"  - "kg", "2"  
+- "kh", "2"  - "kr", "18"  - "lb", "1"  - "lv", "2"  - "md", "3"  - "mk",
+"4"  - "mn", "1"  - "my", "1"  - "net", "29"  - "nl", "4"  - "no", "6"  -
+"nz", "1"  - "org", "149"  - "ph", "3"  - "pl", "35"  - "ro", "4"  - "ru",
+"17"  - "sg", "1"  - "th", "1"  - "to", "1"  - "tr", "1"  - "tw", "7"  -
+"ua", "4"  - "ug", "1"  - "uk", "2"  - "vn", "3"  - "yu", "1"  - "za", "5"  
+-
+
+___
+
+  
+  "The Health of Radio Maps Regional Electronics"
+
+
+  <narrow r:resource="Top/Arts/Theatre"/>
+  <narrow r:resource="Top/Arts/Art_Theft_and_Crime"/>
+  <narrow r:resource="Top/Recreation/Theme_Parks"/>
+  <narrow r:resource="Top/Reference/Thesauri"/>
+
+  <narrow r:resource="Top/Health"/>
+  <Topic r:id="Top/Health">
+  <d:Title>Health</d:Title>
+  <narrow r:resource="Top/Health/Emergency_Services"/>
+  <narrow r:resource="Top/Health/Fitness"/>
+  <narrow r:resource="Top/Health/Pharmacy"/>
+  <narrow r:resource="Top/Health/Alternative"/>
+  <narrow r:resource="Top/Health/Life_Extension"/>
+  <narrow r:resource="Top/Health/Medicine"/>
+  <narrow r:resource="Top/Health/Dentistry"/>
+  <narrow r:resource="Top/Health/Nursing"/>
+  <narrow r:resource="Top/Health/Nutrition"/>
+  <narrow r:resource="Top/Health/Vision"/>
+  <narrow r:resource="Top/Health/Services"/>
+  <narrow r:resource="Top/Health/Beauty"/>
+  <narrow r:resource="Top/Health/Substance_Abuse"/>
+  <narrow r:resource="Top/Health/Patient_Education"/>
+  <narrow r:resource="Top/Health/Womens_Health"/>
+  <narrow r:resource="Top/Health/Children"/>
+  <narrow r:resource="Top/Health/Conditions"/>
+  <narrow r:resource="Top/Health/Occupational_Health_and_Safety"/>
+  <narrow r:resource="Top/Health/Mental_Health"/>
+  <narrow r:resource="Top/Health/Aging"/>
+  <narrow r:resource="Top/Health/Healthcare_Industry"/>
+  <narrow r:resource="Top/Health/Products"/>
+  <narrow r:resource="Top/Health/Publications"/>
+  <narrow r:resource="Top/Health/Education"/>
+  <narrow r:resource="Top/Health/Men's_Health"/>
+  <narrow r:resource="Top/Health/Consumer_Support_Groups"/>
+  <narrow r:resource="Top/Health/Disabilities"/>
+  <narrow r:resource="Top/Health/Organizations"/>
+  <narrow r:resource="Top/Health/Chat,_Discussion,_ICQ"/>
+  <narrow r:resource="Top/Health/References_and_Resources"/>
+  <narrow r:resource="Top/Health/Conditions_and_Diseases"/>
+  <related r:resource="Top/Business/Industries/Health_and_Fitness"/>
+  <related r:resource="Top/Society/Issues/Health_Care"/>
+  <symbolic r:resource="Medicine:Top/Health/Medicine"/>
+  <narrow r:resource="Top/Shopping/Health_and_Beauty"/>
+  <related r:resource="Top/Health/Fitness/Weightlifting/Bodybuilding"/>
+  <symbolic r:resource="Bodybuilding:Top/Health/Fitness/Weightlifting/Bodybuild
+
+  <narrow r:resource="Top/Computers/Software"/>
+  <narrow r:resource="Top/Science/Software"/>
+  <symbolic r:resource="History of Science:Top/Society/History/Science"/>
+  <narrow r:resource="Top/Sports/Softball"/>
+
+  <narrow r:resource="Top/Arts/Radio"/>
+  <symbolic r:resource="Radio:Top/Arts/Radio"/>
+  <narrow r:resource="Top/Recreation/Amateur_Radio"/>
+ 
+  <narrow r:resource="Top/Reference/Maps"/>
+
+  <narrow r:resource="Top/Regional"/>
+  <narrow r:resource="Top/News/Regional"/>
+  <Topic r:id="Top/Regional">
+  <d:Title>Regional</d:Title>
+  <narrow r:resource="Top/Regional/NZ"/>
+  <narrow r:resource="Top/Regional/US"/>
+  <narrow r:resource="Top/Regional/Canada"/>
+  <narrow r:resource="Top/Regional/UK"/>
+  <narrow r:resource="Top/Regional/Europe"/>
+  <narrow r:resource="Top/Regional/Australia"/>
+  <narrow r:resource="Top/Regional/Asia"/>
+  <narrow r:resource="Top/Regional/Africa"/>
+  <narrow r:resource="Top/Regional/Middle_East"/>
+  <narrow r:resource="Top/Regional/South_America"/>
+  <narrow r:resource="Top/Regional/Central_America"/>
+  <narrow r:resource="Top/Regional/Polar_Regions"/>
+  <narrow r:resource="Top/Regional/Atlantic_Islands"/>
+  <narrow r:resource="Top/Regional/Pacific_Islands"/>
+  <narrow r:resource="Top/Regional/Indian_Ocean_Islands"/>
+  <narrow r:resource="Top/Regional/Caribbean"/>
+  <narrow r:resource="Top/Regional/North_America"/>
+  <narrow r:resource="Top/Regional/A"/>
+  <narrow r:resource="Top/Regional/B"/>
+  <narrow r:resource="Top/Regional/C"/>
+  <narrow r:resource="Top/Regional/D"/>
+  <narrow r:resource="Top/Regional/E"/>
+  <narrow r:resource="Top/Regional/F"/>
+  <narrow r:resource="Top/Regional/L"/>
+  <narrow r:resource="Top/Regional/Z"/>
+  <narrow r:resource="Top/Regional/G"/>
+  <narrow r:resource="Top/Regional/N"/>
+  <narrow r:resource="Top/Regional/K"/>
+  <narrow r:resource="Top/Regional/M"/>
+  <narrow r:resource="Top/Regional/W"/>
+  <narrow r:resource="Top/Regional/R"/>
+  <narrow r:resource="Top/Regional/S"/>
+  <narrow r:resource="Top/Regional/I"/>
+  <narrow r:resource="Top/Regional/P"/>
+  <narrow r:resource="Top/Regional/U"/>
+  <narrow r:resource="Top/Regional/J"/>
+  <narrow r:resource="Top/Regional/Q"/>
+  <narrow r:resource="Top/Regional/T"/>
+  <narrow r:resource="Top/Regional/H"/>
+  <narrow r:resource="Top/Regional/Y"/>
+  <narrow r:resource="Top/Regional/V"/>
+  <narrow r:resource="Top/Regional/O"/>
+  <narrow r:resource="Top/Science/Regional"/>
+ 
+  <narrow r:resource="Top/Science/Electronics"/>
+  <narrow r:resource="Top/Shopping/Home_Electronics"/>
+
+
+___
+
+
+Cranial
+
+
+These texts are cranial; they spider google, collect/collapse, as if
+google were the world-lightning of the net, those waveforms pointing to
+convulsive solitons, moments of sudden and implicit revelation, turned out
+matrices of phenomenal submergences. The world-lightning ruptures, creates
+symptoms without direction, shadow-glows of truths close to toppling,
+anything but absolute facticity. Furious cumulonimbus cauterizes any
+conceivable functionality. You've got to understand the incomprehension of
+the symbolic, and google is such evidence; the world temporarily gives
+way, only to close again on confusion, cues and clues. Of this I haven't
+learned but a name which collapses: "Alan Sondheim" or a new hiatus: "at",
+"7" "au", "56" "br", "2" "ca", "19" "cc", "1" "com", "245" "de", "18"
+"dk", "3" "edu", "139" "hu", "1" "ie", "1" "it", "1" "jp", "3" "net", "40"
+"nl", "2" "no", "1" "org", "352" "ph", "6" "pt", "1" "to", "1" "uk", "98".  
+Within the top thousand, a collection of domains centered on organization,
+followed by commerce, and not a military sighting in the group. (Of the
+full list, include me in your army!.)
+
+___
+
+
+My Interruptions
+
+
+<there> hey </there>
+
+keycode  28 release
+keycode  35 press
+keycode  35 release
+keycode  18 press
+keycode  18 release
+keycode  38 press
+keycode  38 release
+keycode  38 press
+keycode  38 release
+keycode  24 press
+keycode  24 release
+keycode  57 press
+keycode  57 release
+keycode  21 press
+keycode  21 release
+keycode  24 press
+keycode  24 release
+keycode  22 press
+keycode  22 release
+keycode  57 press
+keycode  57 release
+keycode  50 press
+keycode  50 release
+keycode  30 press
+keycode  30 release
+keycode  37 press
+keycode  37 release
+keycode  18 press
+keycode  18 release
+keycode  57 press
+keycode  57 release
+keycode  50 press
+keycode  50 release
+keycode  18 press
+keycode  18 release
+keycode  57 press
+keycode  57 release
+keycode  31 press
+keycode  31 release
+keycode  24 press
+keycode  24 release
+keycode  57 press
+keycode  57 release
+keycode  46 press
+keycode  46 release
+keycode  19 press
+keycode  19 release
+keycode  30 press
+keycode  30 release
+keycode  44 press
+keycode  44 release
+keycode  21 press
+keycode  21 release
+keycode  57 press
+keycode  57 release
+keycode  23 press
+keycode  23 release
+keycode  57 press
+keycode  57 release
+keycode  17 press
+keycode  17 release
+keycode  18 press
+keycode  18 release
+keycode  20 press
+keycode  20 release
+keycode  57 press
+keycode  57 release
+keycode  50 press
+keycode  50 release
+keycode  21 press
+keycode  21 release
+keycode  57 press
+keycode  57 release
+keycode  25 press
+keycode  25 release
+keycode  30 press
+keycode  30 release
+keycode  49 press
+keycode  49 release
+keycode  20 press
+keycode  20 release
+keycode  31 press
+keycode  31 release
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode  42 press
+keycode   2 press
+keycode   2 release
+keycode   2 press
+keycode   2 release
+keycode   2 press
+keycode   2 release
+keycode  42 release
+
+
+___

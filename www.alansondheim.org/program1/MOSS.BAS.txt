@@ -1,0 +1,14 @@
+REM MOSS produces abacabadabacabae... pattern
+CLS
+SCREEN 0, 1
+x = 0
+Three: d = 0: c = 2: x = x + 1
+Two: a = 0
+One: a = a + 1
+IF x MOD c ^ a = 0 THEN d = d + 1: GOTO One
+c = c * 2
+IF c * 2 < 2 * x + 1 THEN GOTO Two
+COLOR d, 0, 8
+IF d MOD 2 = 0 THEN PRINT "Û";  ELSE PRINT "Ü";
+GOTO Three
+

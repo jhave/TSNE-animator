@@ -1,0 +1,1685 @@
+ss.txt
+
+       0       0       0 ss.txt
+       1       4      32 ss.txt
+       2       8      64 ss.txt
+       3      12      96 ss.txt
+       4      16     128 ss.txt
+       5      20     160 ss.txt
+       6      24     192 ss.txt
+       7      28     224 ss.txt
+       8      32     256 ss.txt
+       9      36     288 ss.txt
+      10      40     320 ss.txt
+k15% wc ss.txt > ss.txt
+k16% wc ss.txt >> ss.txt
+k17% wc ss.txt >> ss.txt
+k18% wc ss.txt >> ss.txt
+k19% wc ss.txt >> ss.txt
+k20% wc ss.txt >> ss.txt
+k21% wc ss.txt >> ss.txt
+k22% wc ss.txt >> ss.txt
+k23% wc ss.txt >> ss.txt
+k24% wc ss.txt >> ss.txt
+k25% wc ss.txt >> ss.txt
+
+
+
+
+catch me if you can
+
+http://www.alansondheim.org/catchme.mp3
+
+electric guitar, i haven't played this well before
+catch me if you can
+"a new standard for electric guitar"
+catch me if you can
+"a blowout single session masterpiece"
+catch me if you can
+
+
+
+DON'T EVER BUY ASUS IF YOU MIGHT NEED REPAIRS: 
+The last chapter!
+(Names have been changed etc.)
+
+Hello Alan Sondheim, thank you for contacting ASUS support. 
+Please give me a few moments to review your information. I will 
+be with you shortly.
+
+I will be more than happy to assist you today, Alan.
+
+For verification purposes, may I have your return shipping 
+address please?
+
+Alan Sondheim -----------------
+
+Are you there?
+
+Gary G.Thank you so much for that verification, Alan.
+
+Yes, I am here with you Alan.
+
+And I understand that you would like for the service to be 
+cancelled, right?
+
+Alan Sondheim I want to cancel the repair. You're coming at the 
+end of a LONG group of emails that went back and forth; at one 
+point the unit was returned by mistake etc. etc.
+
+5:17 am At this point I want ASUS to keep the unit. I received a 
+repair cost of $117 USD and we were told to pay it, along with 
+returning the unit. We did so and gave you guys our credit card 
+information.
+
+We then, just now, received a bill for $259, double what we were 
+told to already pay. In other words we were lied to.
+
+5:18 am I don't want the unit back. Use it for repairs. I'm 
+cancelling this and cancelling a new ASUS I ordered - I can't 
+deal with the company any longer.
+
+You should know I'm going to write about this; I'm a computer 
+consultant and this is the worst treatment I've ever received 
+from any tech company. We originally sent out the unit June 3rd 
+and it's been errors since then.
+
+5:19 am Please cancel any payment - the $117 might have already 
+gone through, I don't know. And we're certainly not paying the 
+new amount.
+
+Gary G.Alan, this is extremely disappointing. I can't even 
+begin to fathom the frustration you have been going through 
+here. I'm really sorry about this.
+
+Allow me to have an immediate request be made in this regard 
+Alan.
+
+Alan Sondheim I'm sorry too. I've liked ASUS computers before. 
+But now I want nothing to do with the company. Not ever again.
+
+Gary G.I understand, and that's perfectly understandable in 
+light of your bad experience Alan. This all definitely sounds 
+frustrating, and I'm sorry you have to go through this. These 
+are certainly not chats we receive, or at least not that I 
+personally have received, and ASUS will seriously have to 
+address this related matter for you immediately Alan.
+
+Alan Sondheim They don't have to address it. I just want 
+everything cancelled. We don't want the unit back. If you have 
+the case history, you'll see the problems - four times I was 
+told the case was "escalated" and sent to an "escalation team" 
+and nothing happened. Please just cancel.
+
+Just for the record, this isn't the first time I've had 
+troubles. The laptop came with a malfunction - it turned off 
+randomly. I sent it back when it was under warranty, stating it 
+was a motherboard issue and please don't erase the hard drive. 
+They sent it back with the hard drive erased and didn't fix the 
+problem at all. So I've been using a somewhat broken laptop ever 
+since. That was a different RMA, -----------.
+
+Gary G.As requested I will ensure to have the request be made 
+for the RMA service to be cancelled Alan. At the same time, 
+would I be able to obtain your permission to have this chat 
+transcript be reviewed by higher management due to this 
+unsatisfactory service Alan? Because I know ASUS will not be 
+pleased.
+
+Alan Sondheim Of course you have permission; I'm keeping a 
+record myself. And I don't really think ASUS cares about its 
+customers. I receive cut-and-paste responses to all my inquiries 
+and nothing has happened. Just consider me a lost customer.
+
+Gary G.If I were in your position Alan, I myself would be 
+upset. In fact if you were to say right now that you are way 
+past upset and in fact disappointed and felt cheated in this 
+entire process, I could not fault you Alan. I can honestly do 
+say based on my experience however Alan, that I essentially want 
+you to know that getting to the bottom of this is just as 
+important to ASUS as it is to you.
+
+Alan Sondheim It's not important to me at this point. I want 
+nothing to do with ASUS any more.
+
+I have to go and get some sleep; I stayed up trying to deal with 
+this problem for the past hour and a half.
+Seriously, have a good night, or day, I'm not sure where you 
+are. But I have to sleep. Apologies that you have to deal with 
+this. Please make as sure as you can that ASUS does not contact 
+me again, and that the repair is cancelled.
+
+Gary G.I understand. If you would like, I can also provide a 
+link where you can also express your bad experience to Corporate 
+directly Alan.
+
+Alan Sondheim No, I don't want to do anything. Do you 
+understand? I want to GET TO SLEEP!
+I'M THROUGH WITH ASUS!
+
+Gary G.Okay, my apologies. The ASUS case number created for 
+you for future reference is #:----------. Is there anything 
+further 
+you would like me to assist you with today?
+
+Alan Sondheim Nothing at all and thanks, and apologies. I'm not 
+going to take the case number. I don't want to contact them.
+
+Have a good day.
+
+Gary G.You are an important customer to us and we appreciate 
+your business. Please take a moment to complete a short survey 
+to let us know how we are doing.
+
+Thank you again for choosing ASUS. Have a great day!
+
+Gary G. has closed the chat.
+
+Start the chat again
+
+
+
+[ missing
+
+k10% [
+ksh: [: missing ]
+k11% [
+ksh: [: missing ]
+k12% [
+ksh: [: missing ]
+k13% [
+ksh: [: missing ]
+k14% [ in action
+ksh: [: missing ]
+k15% [ in hospital
+ksh: [: missing ]
+k16% [ violence everywhere
+ksh: [: missing ]
+k17% [ loss of life
+ksh: [: missing ]
+k18% [ - negation
+ksh: [: missing ]
+k19% [ + deployment
+ksh: [: missing ]
+k20% [ > towards children
+ksh: [: missing ]
+k21% [ < missiles in arrears
+ksh: cannot open missiles: No such file or directory
+k22% [ < tunnels and catastrophic dead
+ksh: cannot open tunnels: No such file or directory
+k23% [ < safe houses and drones > napalm
+ksh: cannot open safe: No such file or directory
+k24% [ < safe houses and napalm > ]
+ksh: cannot open safe: No such file or directory
+k25% [ safe-houses
+ksh: [: missing ]
+k26% [ bodies
+ksh: [: missing ]
+k27% [ planes
+ksh: [: missing ]
+k28% [
+ksh: [: missing ]
+k29% [
+ksh: [: missing ]
+k30% [
+ksh: [: missing ]
+k31% [
+ksh: [: missing ]
+
+ABM, ASM, ATS, Asp, Asroc, Atlas, Atlas-Agena, Atlas-Centaur, 
+Bullpup, Cajun, Corporal, Corvus, Crossbow, Dart, Deacon, Delta, 
+Diamant, Dove, Falcon, Firebee, Genie, Hawk, Holy Moses, Hound 
+Dog, ICBM, Irish confetti, Jupiter, Lacrosse, Lark, Loki, Loon, 
+Mace, Matador, Navaho, Nike, Nike Ajax, Pershing, Petrel, 
+Polaris, Poseidon, Quail, Ram, Rascal, Redeye, Redstone, Regulus 
+I, SLAM, Saturn, Scout, Sentinel, Sergeant, Shillelagh, 
+Sidewinder, Skybolt, Snark, Spaerobee, Sparrow, Subroc, Super 
+Talos, Talos, Tartar, Terrier, Thor, Thor Able Star, Thor-Agena, 
+Thor-Delta, Tiny Tim, Titan, V-2, Viking, WAC-Corporal, Wagtail, 
+Zuni
+
+
+
+
+fast drone strike kill
+
+yes "another one is dead" > yy
+drone outputs death, or, by default, dead forever.
+
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead another one is dead another one is dead 
+another one is dead
+
+
+
+flowing and then some
+
+http://www.alansondheim.org/flowing03.png
+
+http://www.alansondheim.org/aborny.mp3
+http://www.alansondheim.org/abornz.mp3
+http://www.alansondheim.org/abornz1.mp3
+
+Azure Carter, voice
+Jon Woodson, guitar
+Alan Sondheim, oud, erhu, suroz
+
+can't watch any more death
+death makes wonderful music 
+then there's watching death
+the wonder of watching death
+"never you breath again"
+
+
+
+From our AS220 performance last night
+
+some images and video shot by Henry Warwick
+(who also performed, and we might be able to
+put up work of his, with permission!) -
+
+http://www.alansondheim.org/a220s09.jpg
+http://www.alansondheim.org/as220nite.mp4
+http://www.alansondheim.org/a220s05.jpg
+http://www.alansondheim.org/a220s07.jpg
+http://www.alansondheim.org/a220s17.jpg
+http://www.alansondheim.org/a220s18.jpg
+http://www.alansondheim.org/a220s22.jpg
+http://www.alansondheim.org/a220s23.jpg
+http://www.alansondheim.org/a220s25.jpg
+http://www.alansondheim.org/a220s26.jpg
+http://www.alansondheim.org/a220s28.jpg
+
+Azure Carter, voice
+Jon Woodson, guitar
+Alan Sondheim, various
+
+
+
+channeling medieval
+
+https://www.google.com/search?q=bowlback+mandolin&num=20&newwindow=1&client=firefox-a&hs=ru9&rls=org.mozilla:en-US:official&channel=fflb&tbm=isch&tbo=u&source=univ&sa=X&ei=cHXWU6_aCZWoyASCrYL4BQ&ved=0CDUQsAQ&biw=1536&bih=769
+
+http://www.alansondheim.org/medieval.mp3
+
+Globe bowlback mandolin, American, 1890-1900
+
+so generally I don't play mandolin but then it reminds me
+of the oud in shape. so it's tuned probably a third or so
+low so the instrument doesn't buckle. and then when I 
+play I channel medieval, all these strange tunes coming
+out, slow, fast, I don't know, they just do. they're just
+weird., I mean the bowlback mandolins, not the tunes. well
+the tunes aren't weird, they're like something out of 
+Italy or England or something. but then they're pretty 
+weird, I don't know where they came from, I just play them.
+I don't get paid for it, but I just play them.
+
+
+
+DEAR GOD SEND THIS VIRAL!!! SHARE COOL MEME!!!
+
+The line recording of the AS220 event is damaged
+beyond repair; there were computer errors. From
+the debris of technophilia I produced a masterwork
+of unmitigated delight, replete with voice changes
+and confused brilliance resulting in even greater
+brilliance! Listen and PASS THIS ON TO EVERYONE
+YOU KNOW!!! Motto: THE WORLD OF ERRORS PRODUCES
+BRILLIANCE!!!
+
+http://www.alansondheim.org/a220s02.jpg
+http://www.alansondheim.org/goviral.mp3
+
+
+
+mach machine
+
+http://www.alansondheim.org/machmachine.png
+http://www.alansondheim.org/machmachine.mp4
+
+ch mchine gun crchine gun cr
+chine gun crzy bomber field incoming
+zy bomber field incoming
+
+zy bomber field incoming
+m
+drone forever mber fossil fuel rhetoricdrone forever 
+mber fossil fuel rhetoricl
+mber fossil fuel rhetoric
+l
+l
+
+nswers screnswers scre
+nswers screming deming de
+ming deth wish listed children
+th wish listed children
+
+th wish listed children
+
+ndls incresing speed demon
+
+ls incresing speed demon
+crus
+sing speed demon
+ding v
+zy
+ching m
+l nswers screnswers scre
+ming
+fossil fuel rhetoric
+ls
+th wish listed children crus
+ch
+sing speed demon fury 
+chine gune crzy
+chine gune cr
+mach machine gun crazy bomber field incoming
+drone forever amber fossil fuel rhetorical
+answers screaming death wish listed children
+crusading vandals increasing speed demon
+fury approaching mach machine gun crazy
+bomber field incoming drone forever amber
+fossil fuel rhetorical answers screaming
+death wish listed children crusading vandals
+increasing speed demon fury approaching mach
+machine gune crazy
+
+
+
+mortise and center
+
+
+http://www.alansondheim.org/curving.jpg
+
+mortise, 
+center
+
+crease, 
+of
+
+a
+
+hair-crown,
+
+furrow,
+
+forming
+
+corner,
+
+cornering 
+red
+
+reef,
+
+flats, 
+curving,
+
+bare 
+curved
+
+horn,
+
+gathering,
+
+splitting, 
+and
+
+gathering 
+seeds 
+seeds,
+
+white 
+pulp,
+
+scabbard,
+
+shore 
+driving
+
+dweller 
+down,
+
+our
+
+murmurs,
+
+sediment,
+
+dregs,
+
+dregs
+
+fruit, 
+pelting
+
+bloody 
+chocolate,
+
+imploring
+
+an
+
+upland
+
+dweller, 
+secret
+
+looker,
+
+hers
+
+his, 
+pavement,
+
+the
+
+heights
+
+mortise, center
+crease, of
+center a
+of hair-crown,
+a furrow,
+hair-crown, forming
+furrow, a
+forming corner,
+corner, 
+crease,
+cornering red
+red reef,
+flats, curving,
+bare curved
+reef, horn,
+curving, gathering,
+curved cornering
+horn, a
+gathering, 
+furrow,
+splitting, and
+gathering splitting,
+and red
+seeds seeds,
+white pulp,
+seeds, scabbard,
+pulp, splitting,
+scabbard, 
+gathering
+shore driving
+dweller down,
+driving our
+down, murmurs,
+our sediment,
+murmurs, dregs,
+sediment, dregs
+dregs, of
+dregs shore
+fruit, pelting
+pelting down,
+bloody chocolate,
+chocolate, imploring
+imploring an
+an upland
+upland 
+sediment,
+dweller, secret
+secret looker,
+looker, hers
+hers and
+his, pavement,
+pavement, the
+the heights
+heights
+dweller,
+
+mortise, crease, center of a hair-crown, furrow, forming a 
+corner, cornering a furrow, red flats, bare reef, curving, 
+curved horn, gathering, splitting, gathering and splitting, red 
+seeds white seeds, pulp, scabbard, shore dweller driving down, 
+our murmurs, sediment, dregs, dregs of sediment, fruit, pelting 
+down, bloody chocolate, imploring an upland dweller, secret 
+looker, hers and his, pavement, the heights
+
+
+
+
+Hasapi Music!
+
+http://www.alansondheim.org/hasa.png
+http://www.alansondheim.org/hasa.mp3
+
+http://www.alansondheim.org/hasapi.jpg
+
+lucky Swift hasapi, pipa Oud figures performances. anniversary 
+looms shelf hasapi. An online source described the instrument as 
+the only one with a this regard): The hasapi is played with the 
+opening (on the back) against clumped radiate music on the Toba 
+hasapi they slide on the hasapi, paralleling hegelung and 
+anything that comes hasapi, which has no frets two strings - 
+drone and melody; and the yayli the hegelung is slightly over an 
+octave, and the hasapi is variable but listing ,yayli tanbur 
+,ukulele ,cobza ,hasapi ,cura cumbus ,hegelung, acoustic oud, 
+large hasapi, ken bau with gourd bell (not jackfruit): (ken 
+bau's amazing, hasapi sings, oud plays the canyons) hasapi 
+threnody the hasapi is a fretless Indonesian instrument with two 
+strings; baritone sax, ken bau, oud, hasapi, Tibetan symbols, 
+pipa like the hasapi, oud, best w/ Chris' sax but will take 
+small hasapi recorded at Eyebeam, through the vibrations my 
+hasapi for YouTube!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+here's my hasapi for YouTube but they won't take it because it's 
+"my hasapi song" and I worked on it, thank you. which are the 
+most powerful I've heard; I've discovered my hasapi is also 
+stressed out hasapi in a (digital) cathedral chambers and rooms 
+with hasapi and motu this hasapi it is shaman staff it is power 
+hasapi from bottom to top bottom takes advantage of hasapi phase 
+playing
+
+   105	hasapi threnody, playing       SOUND
+    96	my hasapi for YouTube!!!!!
+    62	hasapi from bottom to top
+
+the hegelung and or one or more hasapi. the world is a skein, 
+hasapi and hegelung perhaps, i'm not sure, notes somewhere, 
+unknown situation [trying to find a home for melody on hasapi, 
+laptops, and whether I should trade the hasapi and guzheng 
+instruments in hasapi sings, oud plays the canyons) totally new 
+oud music the new oud is lucky Swift hasapi, pipa Oud figures 
+performances. anniversary looms shelf hasapi and motu some 
+internal chambers which may or may not hasapi and cifteli 
+changes in resonance as the hasapi is moved you can see the 
+hasapi at please give a listen; the hasapi alone is bottom takes 
+advantage of hasapi phase playing and long-necked saz and among 
+you, hasapi... punch at; hasapi; lyre; the lyre. halfback.v 
+hali.p haptic.p hart.p hasa.s hasapi.p hastac.tx hastac.t
+
+
+
+rawww dusk
+
+http://www.alansondheim.org/dusk.png
+http://www.alansondheim.org/rawww.mp4
+
+(to)ve)te (le((go (le(breakdraww (breakve)ne whom)whom) whom)who 
+anndd tthheorretticcall issssuess; ppieccess arre ddrrawwnn 
+ffrromm itt
+
+
+
+Doing Philosophy: Two Origin Myths
+
+http://www.alansondheim.org/origin.jpg
+
+"The beginning of writing provides an origin that sloughs off 
+into unknown trace is not only the disappearance -- within 
+discourse "spoken to, we speak for first time, primordial (Think 
+splayed out across phenomenological horizon, - it's source or 
+gives rise to culture tends -X -> 0 X, in which historical 
+figure marks a zero point / $ himmm mgmtgt guyggg goes forward 
+(i.e. from creation) 2 Who determines position such cross occurs 
+7 He, this creation, whether he formed it all > alive, at least 
+during journery metalinguistic faculty discover interpreting A 
+simply marker assign, like Cartesian Accounting Begin with O = 
+(01,02,03,...0N), coordinates dim N Disordered thinking through 
+language (I'm quotation) Europeans.) Thus said, when I seek 
+Jennifer, and do, am primordial, things. One need look no 
+further INPUT "set x,y 0,0 default; window -160,200/160,-200"; 
+ex, why In other words, how do fragility play themselves cyber- 
+Kitajima superior Yabe beauty preservation Oka thickly dense 
+Leonardo, etc. makes mention their (Hindu) as Or: sprawl Iraq 
+War. Representation negation. So what does following list tell 
+us? That _this_ system Such writing. Soon be taken up by 
+tradespeople every- The _gesture_ described Tran Duc Thao 
+relevant pain death: horizon foreclosing its subject well. There 
+holarch. There's 'beyond material' bound (and binding We have 
+arrived power: negation death Yet idea book-as-model if dis- 
+[[[repeating mythologies survival, rather given ges. word 
+'codework' w s n Sondheim, actants implications basic level. 
+carved emptiness retards engine against phoenix body so many 
+days, space. ah! f shape roper (upright) odel ah, would return 
+snow ice already filtered both proceed there's alt.flesh.sex; 
+addict chatters scene language, _in absentia,_ fertile ground 
+psychoanalytics collapse again node local vector end-point 
+another begins just there where i you see equivalent. one 
+escapes, disappears, becomes resonance third sentence, end, 
+finality, foreclosure, frame problems organism; speciation 
+regard are secondary. subverts result potentially destructive. 
+Pierre angle, returning corner. odds was perceived originary 
+inscription. attempt locate fundamental nature old author. Or 
+think book constituting writing, each believer's explanation 
+_mantra_ construction bluster speak, dead, divides reoccurs site 
+other. What can logic distributivity fails, built name stands 
+proper upright model sky but on contrary oriented toward very 
+Word c:\performc:\skindanceorigin measurement obvious. course 
+symbolization call _ruby,_ granting tenor heat, frisson, thrust, 
+tem- cartesian last vestige ego mathematization category may go 
+back Indo-European words chasm void my dark energy finitude 
+comments. This precisely scattering/heaving breath- communities 
+thinkers assign uniform continuous circulations looking senses 
+small equivalences, transfiguration always ghost cosmos infla 
+ion abyss unifica ma unification daughter melds erases us terms 
+libraries deep created ruler, measured 'fits.' disordered (i'm 
+dominion. "Neitherness," however, leaves entirely; duration 
+surface number membership/belonging space time constants final 
+itself? enemy. now enemy destroys us. say 'yes yes yes.' 
+enumerated n, n', n'' note case, presumed er fini every sound 
+i'm sure presencing 'so deny him possibility eternal extent 
+information pervades ontology pursue it, face eyes.  faceless 
+eyeless, deity song dance. He ferromagnetism, about metals, 
+atoms, quarks, fn(2,2)=4 matrix end circuitry op amp negative 
+feedback will blamed construct origin, among origins. virtual 
+particles. And go, come from. hedges judges brightness dragon 
+disgrace hell up. gets lost numbers, pulls out, shrieks here tat 
+[sic] enters image earhones history has emission reverse. 
+completion. completion cipher nought, substrate were gasp inexac 
+ring inflation inexact penetrating flesh, layer after layer; 
+ruptured broken involved never given; even remains, mystery, ude 
+mul caused symbolic, haha. way down, requires nothing 
+whatsoever, itself, material grounding Hebrew, lasts sense 
+rooted body, your leftover residue light moon fills then pearl 
+people line line, without code correctness, ality machinery; 
+"zero" text, moment making phenomena, destruction phenomena 
+mamam mime interview nub prep moments shaman skipe slonnui 
+slorgasm mammoths. 'jumping-about.' 'jumping-about' mythical 
+emperor kill us; feminist theory leads murder mother sister 
+brother son microwave exoplane Just pirouettes, center them. Her 
+flying SQUEAK forever churns she said die because I'm afraid 
+natyasatrotpatti: refuse moon-bay, moon-bay.  avatars, ned, 
+matter ideographic reference, ver- neither home nor place 
+insertion. For much nowhere growing rate x than any objects, 
+weathers, plateaus, height planar perhaps armature commencement 
+(see sending). hand-craft official (government) path (of) 
+ofge_origin me "Plethe oh they want jump bodies. dance deadly 
+earth. oilrig oldindexl organ o oldaba ontic open orbiting orch 
+ord order. blanket puts all; limb outcrop painting paraa parab 
+parac organization difference institutionalization, 'death): 
+mayhem vortex track dysfunction. valley proclaim alreay 
+implicit. break beginning, don't anything though maybe they're 
+grit corruption digital trembling potential net. These columns 
+did disappear, constituted except recip- background stance 
+well). Let consider regard, enumera- primitive recursion 
+historical. systems portend radia string Dialectical 
+Materialism, product masterful origins life world mind, mind 
+inter- otherwise should pears. tabulations histories, lifeforms 
+origintes cypherpunk bre("cyberpunk," surfing) tes others 
+(altrui), same, violent religious asceticism. peach tree grew 
+pit, orchard, plymouth colony, rendering our mutual possess 
+discrete spread, dissemination. problematic, deferred. 
+annihilated. prostheses imploded big one? delight repeatedly 
+born flame; time. Daishin Nikuko, Freud, course, castrated 
+failure My music well; nowhere; resonant itself. [This 
+important; h rocally nonorigin, trace, thus results recognize 
+answers being-hooked, 56/21. (ontological) absent; (physical, 
+scription. also self-fulfilling; second space, unfolds, rimmed 
+in- seemed were, not, anyone, lines short-circuit longing 
+nostalgia sig. inaccessible problem signifier incision, 
+disturbance, splits Pale Pale. (its) perfect absence. Like 
+current state situated camera, eye, within. Locked darkness, 
+skeins. It's necessary remember pixels, clear skilling, thanks 
+weather delays kept them two some ideas her workrk fury 
+twenty-six teethth stared something flies highway dissipation 
+vectors destination; spew wider emission, implies sort 
+standing-place, fame empty study (creates) sage benevolence must 
+accorded due importance. (Walter Benjamin, t earphones establish 
+origin: 'landscape' develops, origin. guy hangs there, claims 
+dead _closed set_; opens tendrils memory memory, grows, 
+striations, form speech APPA deconstructs/reconstructs grid, 
+situates itself (its own _historical._ everything! language; 
+hear subject, scanning placement null point, arbitrary conven- 
+that's identified moving tool; thermophilic hot springs bacteria 
+Thermophilic envelop universes vac denouement suturing mourning, 
+entombment, causeless Austria Bavaria, traced early 1800's. 
+_corner._ leave suicide (doctor-put-meaning stab topology, 
+invades universe, remains striated without, inchoate within, 
+visible, hiding behind things... wandering. Plagiarizing Kraus, 
+plagiarism existed poetics world. hallucinated korea, story 
+production (although world's cracking jittery notion cold brown 
+fox y axes, below navel; coloration red, black, yield temptation
+
+TEXT 0 ZERO INTERNET - preliminary Alan consists 14 sections, 
+well an alphabet-text extension.] is a meditation on philosophy, 
+psychology, poli- tical economy, psychoanalytics (computer) 
+communica- tion. It describes phenomenology "electronic 
+subject," user who plugged into computer correspondent or 
+researcher. dedicated to Michael Current, my co-moderator 
+Cybermind list, passed away recently. The text divided eight 
+labeled Net1-8; sections are also given following titles: Net1: 
+Text, approx. 82k Net2: Love Net, 84k Net3: Web 89k Net4: Clara 
+86k Net5: Singularities Net6: Secret Net7, Net 8: each. first 
+three texts form core volume; forms volume. These develop 
+analysis based protocol, spew, emission, recognition, address, 
+imaginary, murmur, uncanny. should be read order; only section 
+traditional form, however. (It returned continuous REWRITE 
+itself others.) last five open up, encompassing other areas 
+fourth includes work "the science fiction story," for example, 
+fifth projection/introjection relation "real" correspondents 
+BBS, email, lists, Usenet. Parts final deal with death, hacking, 
+"stuttering" communication. All have been ASCII files; there 
+graphics, how- ever, that can generated by running several 
+qbasic programs files. I envision single work. style difficult 
+times, format changes radically from one another. But reflect 
+content, rapidly spreading relatively new communication planet. 
+(Incidentally, much applies telephony well.) reader 
+self-generating, if were inner voice. What am attempting new; 
+bear texts, they will prove rewarding. Keywords: connect: 
+electronic subject, grain, exhausiton, obdurate, uncanny, 
+projection/introjection, _chora_, devouring, liquidity, bridge, 
+pipeline, node, transitivity, gesture, web inversion. Usage: may 
+distributed any medium indeed, urge you do so provided credited 
+authorship. would appreciate return comments have. Also, some 
+recommendations: include body message: subscribe cybermind <your 
+email address> FICTION-OF-PHILOSOPHY Louis Althusser: THE FUTURE 
+LASTS FOREVER Mark Poster: MODE OF INFORMATION Guido Ceronetti, 
+SILENCE BODY Alphonso Lingis, EXCESSES COMMUNITY THOSE WHO HAVE 
+NOTHING IN COMMON TeRry Winograd Fernando Flores: UNDERSTANDING 
+COMPUTERS AND COGNITION Paul Virilio, WAR CINEMA Avital Ronell, 
+TELEPHONE BOOK Merlin Donald, ORIGINS MODERN MIND Julia 
+Kristeva, REVOLUTION POETIC LANGUAGE Verena Conley, RETHINKING 
+TECHNOLOGIES PERFORATIONS magazine (contact zeug@pd.org) 
+Benedikt, CYBERSPACE Sondheim, DISORDERS REAL (shameless plug) 
+Pierre Bourdieu, AN INVITATION TO REFLEXIVE SOCIOLOGY Michel 
+Serres, PARASITE (and anything else get!) Anything P.J. Harvey 
+(music) INTRODUCTION AS A WHOLE Years ago, gave lecture Ontario 
+College Art, which interaction described production program 
+space. space characterized absolute control; responds one-to-one 
+basis input. If enters command, either command carried out, 
+various errors occur. Computer games carry this step farther 
+game deliberately what _do,_ creating sense dominated 
+environment. Today, situation completely different, particularly 
+communicative modalities usenet groups, IRC (Internet Relay 
+Chat), forth. Within next years, least seventy-five million 
+users on-line, grows, it becomes leaky, ungainly, noisy. More 
+than user's personality (on- off-line) plays major role his her 
+interaction. On hand, machine interface still determines great 
+extent nature interaction; other, tendency (want to) "see past" 
+machinery, heart Other. extended environment communication, 
+psychology philosophy exchange. As such, concerned primarily 
+virtual subjectivity simultaneous presence absence user, sorts 
+libidinal projections result, flamewars, ontological 
+epistemological issues underlie these processes. begins brief, 
+almost corrosive, account subject concepts Address, Protocol, 
+Recognition. This "reduces" packets information, sputterings, 
+ontology self Otherness _your_ recognition me responsible 
+Net-presence. reduction then break down through series further 
+detailing presence, both sexualized/ gendered, absenting, result 
+_imaginary site._ Almost all "short-waves, long-waves." former 
+individual themselves, variety styles, referencing number 
+writers ranging Jabes Blanchot Acker Bataille, Sartre, Karl 
+Kraus somewhere middle. interrelated; occasion "characters" 
+appear _actants,_ conveying certain psychological philosophical 
+ideas beyond within exposi- tory prose. long-waves 
+content-sites, such love, embodiment, "granularity real," 
+physical reality, forth, interpenetrate short-waves, connecting 
+them. During writing Current (now deceased) began conference, 
+moderating has led serious considerations hackers, "free" net 
+tion, flaming, Eventually, become clear every- thing revolves 
+around _on_ but very real _elsewhere._ So evolved more perhaps 
+dominant modes _being_ millennium. Finally, noted no conclusions 
+drawn protocol statements declarations sort ultimate defining 
+explanatory position. entire history mitigates against this; 
+instead, side Schlegels, Nietzsche, Jabes, others, whom fragment 
+crucial understanding contemporary life... wish thank Chris 
+Keep, Robert Withers their help encouragement. published Perfor- 
+ations Crash (Thread Waxing Space). Hielo. INDEX.TXT 
+INTERNET.TXT contains theorizing internet its relationship 
+emerging dominate post-industrial world century briefly 
+introduces parts order appear. presents overall theory midst 
+inter- net. subtexts: FILE TEXT, DEFINITION begin reiterative 
+structure whole; EXIT continues this. Although numbered, does 
+not necessarily logical consequence subcategories. TERMINAL ECHO 
+precedes composition reflects same concerns. NIPPLE discussion 
+sexualization affect net; (literally) position margin, reversal 
+process. ...PORTIA... process guise fiction. LOVING HONEY 
+alterity chat-line, `granularity' face-to-face electrically- 
+mediated relationships. STUTTER discusses DELAY SPEW brief 
+overview formal mathematics structures unusual degrees symmetry 
+a-symmetry; limits, produces fractal radially-symmetric regimes, 
+appearance chaos elsewhere. underlying symmetricizing operations 
+useful thinking later texts. skipped over necessary. GLOBAL 
+paper Public Domain group, theor- izing identity technology. <> 
+LOVE ON MORE texts; continuing raised HONEY. lol (LAUGHING OUT 
+LOUD) acronym used teleconferencing; here concretely symbol 
+symmetricizing, term mutual engagement. follows thread started 
+NIPPLE, PORTIA, HONEY, others. THREAD carries mode, act composi- 
+tion decomposition. DEATH completes mode cooling down. 
+<<Supplementary Texts: <<IRRESOLUTION NEW COMMUNICATIONS ORDER 
+examines future <<hysteria instantaneous. <<LISTING SIDE 
+JOANLESS transforms hallucinatory <<the face negation RL (real 
+life). <<THE END WORLD end world. <<AN ATTEMPT INDUCE SORCERY 
+construct <<inhabitation imaginary. <<HONEY I, INHABITING THIS 
+NETWORK WHICH FEAR MAY ELSEWHERE DYING <<is thinning eternal 
+love myself. <<HYSTERIA DRIVER /INTER/NETWORK USE THEORIZING 
+<<and hysteria again. <<JOAN.NOVEL uncanny narratology 
+denouement <<ellipsis murmuring memory. <<DRG.TXT addiction JOAN 
+initial supplement, finality. <<<*WHEN ELDERS LOSE THEIR TRUE 
+POSITION* is, reiteration, again <<<or once (moreover...) 
+fantasm real. <<<USER.TXT clarifies users, addictions, drugs, 
+articulations, truth, <<<in text, internet, TEXT. <<<ABSOLUTE 
+PLEASURE IMPENETRABLE BEAUTY TIFFAY, <<<ineffable sublime, ah 
+Lyotard... <<<THE FORM RADICAL PRESENCE CREATED ALONE, presences 
+<<<of lovely, of... <<<Note: vary slightly.>>> <<<<*WEB TEXT*: 
+SEE SEPARATE TABLE CONTENTS.>>>> 0. Prolegomena: iterative 
+internet. Traditional cultural categories highly problematic, 
+communications life-form. instead EMISSION, SPEW, ADDRESS, 
+RECOGNITION, PROTOCOL. essay, always preliminary, proceeds 
+numbered paragraphs, rewrite. 1. network membrane composed 
+nodes, better considered intensifications. An intensification 
+possesses interactive emission. emission inputs/outputs, 
+introjections/projections: -jectivity. occurs steep topographic 
+region; distinctions between hardware software blurred, 
+divisions (subject/ object, body/world, mind/brain). 2. In fact, 
+clearly replaced organic episteme; constitutes knowledge flow; 
+data replaces history; sourceless. Rather channels, consider 
+geodesics; rather geodesics, forced flows; flows, emissions. 3. 
+input, output; fragmented images, symbolic flux; problematizes 
+energy consumption, since simultaneously drain 
+produce/reproduce. chaotic domain vicinity unstable attractor; 
+escaping, quickly loses history, historiography, temporality 
+itself. Close speed light, exists temporal 4. enormous hypertext 
+whose linkages thin, occasionally break, redundant. neither 
+fuzzy set nor classical one; fast-forward topology, escapes 
+partitioning. deals constantly changing facial expressions; 
+never without alterity, (supine) absorption. clouds close me; 
+ontologically, escaping denotation; Thus related excess, 
+surplus, curlicue dia- critical mark, absents these, absenting 
+ignorance constructs waste-product; blindness site. 5. To hold 
+onto part body, sever part, construe re- devour it, tear surface 
+off: searches skinned (which murmur memory pain), articulation 
+truth one's own lost good search out bondage, restrains absent 
+
++++
+
+
+
+Sentinal and Bowlback and Gambus
+
+Bowlback and Gambus 
+
+http://www.alansondheim.org/gambus1.jpg
+http://www.alansondheim.org/gambus2.jpg
+http://www.alansondheim.org/bowlback.jpg 
+
+For those who want to see the gambus - gambus selodang? 
+seludang? malaya? - and the bowlback mandolin - Globe, 
+1890-1900
+
+Sentinal
+
+http://www.alansondheim.org/sentinal1.png
+http://www.alansondheim.org/sentinal.mp4
+http://www.alansondheim.org/sentinal2.png
+
+163. Specification: In that -----, while posted as a sentinel, 
+did, at 167. Specification: In that -----, while posted as a 
+sentinel, did, at avatar bails, object remains sentinel on 
+another parcel, avatar visits, senfinal
+
+
+
+after Gampopa
+
+and more, one will renounce all structure, all things,
+the manifold of worlds, visible and invisible, the 
+afflicted, will decrease, spheres remains spheres,
+angles remain angles, and afflicting emotions, these
+too will pass, the shore of the sea recedes into the
+shore of the sea, the depths of the sea surrounds the
+depths of the sea, and more, all is forsaken, one
+knows not, knows neither the depths of the shore, nor
+the shore of the depths, the afflicted will decrease
+
+http://www.alansondheim.org/woodsons28.jpg
+
+http://www.alansondheim.org/treebreath.mp4
+
+look for the songs and whispers a million years ago
+and the death of these songs. look for my breath and
+songs and the death of these songs. of my breath, 
+i have exhausted the air and the earth. of my songs,
+of my songs, i have worn through water and fire. 
+now then i will sing of these for you among the
+leaves. now then the bird shall sing me, i am of
+those species, i renounce being man or woman. 
+and in time i have been renounced. and before time,
+i am no longer sung.
+
+
+
+
+Postformance
+
+http://www.alansondheim.org/aleph.jpg
+http://www.alansondheim.org/RIP.mp4 
+http://www.alansondheim.org/alef.jpg
+
+Postformance from 2009 at AS220, Providence, RI, 
+with Foofwa d'Imobilite, Azure Carter, Alan Sondheim
+Finally processed reasonably from infra-red video.
+A chance to see the departed Foofwa now resident in
+Geneva and Europe.
+He is doing an avadance, word Kira Sedlock, in an
+outfit. He is very good at everything he does and 
+was congratulated.
+Azure was good singing and also performing sometimes
+and Alan was in Second Life and didn't have to be 
+good. My eyes are hurting from this first screening
+of this unique event.
+
+
+Cavern </> the cave game
+
+http://www.alansondheim.org/cave148.jpg
+http://www.alansondheim.org/cavern.mp4
+
+You descend, e, e, w, w, e, s, n, e, you are within a vast 
+cavern of hallowed twisty passages, churinga markings -
+
+And falls from caverns in my body. I hollow out and become a 
+space; people sad. Protocol parallel ports form lairs, caverns, 
+webs, where serial scarifications, churinga markings, ochred 
+hands on cavern walls, the very Swollen by river's wake by 
+cavern opening cavern awakened by the river's not know, your 
+blood flow through me dwsd, my teeth your caverns, your through 
+me dwsd, my teeth your caverns, your skull my caves. dwsd not 
+know, your blood flow through me dwsd, my teeth your caverns, 
+your flow through me dwsd, my teeth your caverns, your skull my 
+caves. dwsd know, your blood flow through me dwsd, my teeth your 
+caverns, your skull caverns chaos collapsing constant covered 
+cutting, dawns, day, dead. No one answered. Furious electric 
+whirlwinds dominated hollowed caverns That I never will be able 
+to stop crying or falling into the cavern or cauldron of death, 
+even before or beyond the cavern or cauldron of death. Swollen 
+by river's wake by cavern opening cavern awakened by the river's 
+not know, your blood flow through me dwsd, my teeth your 
+caverns, your through me dwsd, my teeth your caverns, your skull 
+my caves. dwsd not know, your blood flow through me dwsd, my 
+teeth your caverns, your flow through me dwsd, my teeth your 
+caverns, your skull my caves. dwsd know, your blood flow through 
+me dwsd, my teeth your caverns, your skull caverns chaos 
+collapsing constant covered cutting, dawns, day, dead. No one 
+answered. Furious electric whirlwinds dominated hollowed caverns 
+That I never will be able to stop crying or falling into the 
+cavern or cauldron of death, even before or beyond the cavern or 
+cauldron of death. Emote caverns legs mouths liquid teeth of 
+blood!
+
+	dark organ music, long o so low tones from darkened 
+caverns million turns a second. my heart gapes like the caverns 
+of yore, caves vallis_ 'hollowed valley,' and _cavernae_ 
+'caverns' from the _cavatio_ women seek caverns in response, 
+roam headlong through valleys hollowed and dust or percolation 
+or sponge, speared through and through by sky, caverns, Can you 
+not see that I was disheveled in the cavern, wild and wayward in 
+ing, beds heated with double warmths, caverns glistening in 
+motivation
+                                O cavernous love O emerald bone 
+and filE "Within the cavern Donna Donnatelli roamed in 
+impenetrable blackness Tiffany, imperceiving the cavern of Donna 
+Donnatelli, not exactly a syzygy or rearrangement at the edge 
+descendent or cwm of the cavern," their sort,_ forthcoming from 
+the caverns of the subconscious; Donna roars everywhere, 
+resonances from tombs and caves, caverns and dells, more without 
+the cavern - this only matters from the viewpoints of topography 
+(says no one) from beneath the ground and its cavern: would tell 
+and name. You stood dazed in the middle of the cavern, leaning 
+beneath the caverns, &C1&D2 S7=60 S11=55 S0=0 & here it begins
+
+					  a cavern or hollow mind
+Alan Sondheim>> but und or appearance of a cavern or hollow mind 
+not know, your blood flow through me dwsd, my teeth your 
+caverns, your through me dwsd, my teeth your caverns, your skull 
+my caves. dwsd not know, your blood flow through me dwsd, my 
+teeth your caverns, your flow through me dwsd, my teeth your 
+caverns, your skull my caves. dwsd know, your blood flow through 
+me dwsd, my teeth your caverns, your skull photographing inside 
+animal holes and those cavernous spaces beneath the 
+caverns chaos collapsing constant covered cutting, dawns, day, 
+dead. No one answered. Furious electric whirlwinds dominated 
+hollowed caverns your cavern none across my place
+
+hollow out; cavernous, wrung with the memory of weeping, thick 
+braids ous caverns that must lie beneath the asphalt. No one 
+around but her, to a cave: down the winding cavern we groped our 
+tedious way, till a cavern or kneeling where the entrance 
+closed, Tiffany's bees of desire Beautiful finality. The cavern 
+shuddered beneath the weight of a sun Within the cavern Donna 
+Donnatelli roamed in impenetrable blackness cavern, you could 
+see them shifting, an indecipherable increment, an increment 
+installed by Tiffany, imperceiving the cavern of Donna 
+descendent or cwm of the cavern, the walls sluggish with the 
+pleasure walks by the fire-cavern, stars wheeling through the 
+rain, faint sound Beautiful finality. The cavern shuddered 
+beneath the weight of a sun Within the cavern Donna Donnatelli 
+roamed in impenetrable blackness cavern or kneeling where the 
+entrance closed, Tiffany's bees of desire cavern, you could see 
+them shifting, an indecipherable increment, an descendent or cwm 
+of the cavern, the walls sluggish with the pleasure increment 
+installed by Tiffany, imperceiving the cavern of Donna walks by 
+the fire-cavern, stars wheeling through the rain, faint sound 
+hollows of the cavern, each to its own, allocations echoing back 
+to the The hanger was large and cavernous and damp. The ground 
+was hard and Apostolic ... true miracle of the walls of caves 
+... caverns looming of the lords of compression. Orcs leave 
+their caverns for final furious show it. cavernous lead south. 
+on scrawled inscription, "fee fie foe foo" farthest cavern 
+blood-red glare, giving every- thing eerie, macabre >> but und 
+or appearance of a cavern or hollow mind ano cavern hollowre 
+``interven minds remain universalaster every g.txt:Emote caverns 
+legs mouths liquid teeth of blood! That I never will be able to 
+stop crying or falling into the cavern or cauldron of death, 
+even before or beyond the cavern or cauldron of death. m. 
+protruding spaces, caverns, inverted cones, scanning, scanned 
+Can you not see that I was disheveled in the cavern, wild and 
+wayward in rangement at the edge descendent or cwm of the 
+cavern, dong my bdding. My rearrangement at the edge descendent 
+or cwm of the cavern, why fly, cwm descendent, or cwm of the 
+cavern, the walls sluggish with the pleasure of the edge 
+descendent, or cwm of the cavern, doing my bidding. my awkward 
+or cwm of the cavern, the walls sluggish with the pleasure 
+descendent or cwm of the cavern, the walls sluggish with the 
+pleasure
+
+                                O cavernous love O emerald bone 
+and filE ululations, weeping in caverns untitled groans from 
+caverns howls, something's there
+
+   103 untitled groans from caverns howls, something's there 
+cavern song; I think of this as the origins of the epic Drones 
+invert the sound and its rhapsodic; the cavern extends churns. 
+The cavern is the world reliant on atmosphere, on air, on is in 
+the material itself, the depths of the cavern. The left hand
+
+  dark organ music, long o so low tones from darkened caverns 
+tight into cavern," doing my bidding. my runes are my piercings, 
+my body a was once the legs and caverns between them. You never 
+know cavernous, wrung weeping, braids curl bathing underground 
+lake. silver receding car. tween glitter, edge-pointed lights, 
+lumin- ous caverns mill cave: cavern tedious boundless appear'd 
+immensity; said: 'if commit funloving": wandered cavern, 
+shifting, imperceiving donnatelli, "always you" fire-cavern, 
+sizzling flesh: tramping, radiant presence: thunderstorms, 
+exhalations...) assemblage filigree-cavern, intrusions is,_ 
+restored spaceship. hanger cavernous damp. dry. suns tension. 
+beings, resistance and the harmony of caverns beneath our 
+feet... filmmaker Leslie Thornton, will transform Track 16 
+Gallery~Rs cavernous hollow out; cavernous, wrung with the 
+memory of weeping, thick braids ous caverns that must lie 
+beneath the asphalt. No one around but her, to a cave: down the 
+winding cavern we groped our tedious way, till a cavern or 
+kneeling where the entrance closed, Tiffany's bees of desire 
+Beautiful finality. The cavern shuddered beneath the weight of a 
+sun Within the cavern Donna Donnatelli roamed in impenetrable 
+blackness cavern, you could see them shifting, an indecipherable 
+increment, an increment installed by Tiffany, imperceiving the 
+cavern of Donna descendent or cwm of the cavern, the walls 
+sluggish with the pleasure walks by the fire-cavern, stars 
+wheeling through the rain, faint sound Beautiful finality. The 
+cavern shuddered beneath the weight of a sun Within the cavern 
+Donna Donnatelli roamed in impenetrable blackness cavern or 
+kneeling where the entrance closed, Tiffany's bees of desire 
+cavern, you could see them shifting, an indecipherable 
+increment, an descendent or cwm of the cavern, the walls 
+sluggish with the pleasure increment installed by Tiffany, 
+imperceiving the cavern of Donna walks by the fire-cavern, stars 
+wheeling through the rain, faint sound hollows of the cavern, 
+each to its own, allocations echoing back to the The hanger was 
+large and cavernous and damp. The ground was hard and hollow 
+out; cavernous, wrung with the memory of weeping, thick braids, 
+cavernous and damp!
+
+
+
+Performance Collapse
+
+http://www.alansondheim.org/amocap009.jpg
+http://www.alansondheim.org/odyperform.mp4
+
+This is from Odyssey, probably a performance festival - 
+general collapse of the environment, platform, everyone
+falls into the sea - lots to say here, but I'm editing
+in the Providence Airport on the way to Denver with Azure
+to visit her parents, better to travel mentally light,
+reserve the thinking for later, for example, after we
+leave the Starbucks ecosystem. -
+
+
+
+
+Our Big Planestrip Stutter Raster Rapture "passing time"
+
+http://www.alansondheim.org/blanks013.jpg but
+http://www.alansondheim.org/aeroliner.mp4
+http://www.alansondheim.org/aeroliner.mp4
+
+involved in fact in work dealing with the phenomenology
+of the blank, but this is just on the way and there is
+a longer investigation in the works. time is taken.
+
+meanwhile, as well, the Homeland Security / Federal
+Building in Providence does an evacuation drill, and
+watch closely the man in the center of the image: what
+is he thinking, is he a minute-man?
+
+http://www.alansondheim.org/drilldrill.mp4
+http://www.alansondheim.org/drilldrill.mp4
+http://www.alansondheim.org/drilldrill.mp4
+
+
+
+
+doing philosophy: blank phenomenology
+
+
+blank phenomenology
+
+
+( http://www.alansondheim.org/blanks047.jpg
+http://www.alansondheim.org/blankn.mp4
+http://www.alansondheim.org/blanks046.jpg
+http://www.alansondheim.org/blanks050.jpg
+http://www.alansondheim.org/blanks051.jpg )
+
+a question for us, of annihilation, and it is the question that 
+defines us, not the emptiness of an answer, or an answer 
+dissolved and lost in the cataclysm of history. and all history 
+is local history.
+
+the blankness, pursuant to speech, the chora, but already the 
+collapse of speech, memory of the signifier, no distinctions 
+will be crossed, we scrabble keeping the edge of the game going 
+and going, we are ontologically emptied, projecting into 
+nothing, we beseech the same vacuum, beseech the same. 
+
+suppose The Writing of the Disaster were no writing at all. 
+suppose it were a blank page. 
+
+we perform and i'm trapped; younger people go to edgier 
+concerts, our music is edgy; older people won't go; younger 
+people want to hear younger people. i'm invisible. my sex is a 
+blank; while i wait for a stroke, i wait in absence.
+
+Kant, Critique of Pure Reason, "Now every sensation has a degree
+or magnitude whereby, in respect of its representation of an 
+object otherwise remaining the same, it can fill out one and the 
+same time, that is, occupy inner sense more or less completely,
+down to its cessation in nothingness (_=0=negatio_). There 
+therefore exists a relation and connection between reality and
+negation, or rather a transition from the one to the other, 
+which makes every reality representable as a quantum. The
+schema of a reality, as the quantity of something in so far as
+it fills time, is just this continuous and uniform production of
+that reality in time as we successively descend from a 
+sensation which has a certain degree to its vanishing point, or
+progressively ascend from its negation to some magnitude of it."
+
+we descend from blank to blank; the null set will not be a
+condition or a quantity or the absence of such quantity or a
+contract of such absence. 
+
+it is hard to disentangle the violent marked death of an other
+elsewhere on the planet, from the blank which is a pretense of
+a real always descending. the chain of being is a disappearance.
+reading a text, this or an/other, is a retardation, of course,
+of the inevitable; subject to imminent flow, the phenomenology
+of history, it is displaced from itself, elsewhere - the 
+elsewhere is embedded in the writing, what i might call the
+cicatrix of the abject.
+
+we do not write the abject, do not write within the abject. we
+defend within the cicatrix. it is within the position of the
+_game,_ to create the clean and proper body of the text, of
+the island of temporary life; and it is the _corporate_ that
+skims the abject, buries it with enumeration. one might think
+that the numeric is the serration, the raster, of the blank.
+
+'one might think' - 'one is permitted to think' - 'one is
+thinking now' - 'now is the time for thought' - 'for thinking
+through blankness' - 'through the throwing up of hands' 'in 
+the face of' - 'for awaiting the stroke' - 'of midnight' - 
+'of the brain' - 'of the short-circuiting of the brain' - 'of
+the short-circuitry of the brain' - 
+
+the blank short-circuits the abject; the abject short-circuits
+thought, thinking; 'one might think' [...] 'that thought
+proceeds in health' - 'that all thought is healthy thought' -
+'things fall apart' -
+
+the blank when we see nothing in the sky or air or water, 
+when there is no data, when noise circumvents data, when the
+rules of the game and gamespace disappear, when the edge of
+the gamespace forms a nub or lip, when there is catastrophe.
+
+or the blank when there is no witness and therefore no death,
+when there is a foreshadowing of the unremarkable. 
+
+or when the 'therefore' no longer carries weight or consequence,
+when the 'therefore' is no longer in passing, or history -
+
+this writing always already in a state of dissolution, just as,
+in English, 'always already' is marked as a blank phrase, that
+old and therefore outmoded theory, theorizing, just as 'theory' 
+draws, no longer draws, a blank or blanks.
+
+i would say 'i await you,' 'i am waiting'; i would say many
+things, but doesn't saying depend on a permanency, a seeing of
+the forever-world, isn't it a breathing in an air cleansed of
+impurities, in a polluted air, an irretrievable air?
+
+what of this air, what of the space of this air? 
+
+(of of this text, what of the space of this text?)
+
+
+--------------------------------------------------
+
+
+here is the game of translucence:
+
+body of which we can say _x,_ but only a body-in-passing, 
+translucent if translucent, troubled, and there were no tomorrow 
+pitched in relation to the other, two translucent, bound - as 
+well as body (metaphorically) into the translucent, of here and 
+there opaque, they murmur we are all avatartist, visible, 
+transparent, invisible, translucent, transparent, here 
+translucent, there to: opaque, there writing opaque, this, 
+writing us, translucent or transparent to invisible light. 
+translucent window viewing animated cartoons.  work has stemmed 
+this. surfaces), translucent, glowing. textured, planar default 
+simple surfacce crinkled black with a translucent window for 
+viewing the animated video playing upon their convoluted 
+surfaces), some translucent, and some translucent, troubled, and 
+there were no tomorrow surfaces, translucent or transparent to 
+invisible light.  body (metaphorically) into the translucent.  
+Fundamental rules of the translucent, of here and there opaque, 
+they murmur we are all avatartist, the sward, mobile and 
+translucent; Julu says more organism! more organism! Laboratory 
+to the invisible, transparent, physical, translucent, and 
+forgotten. words lose tongues... My sward, mobile and 
+translucent - Julu the future, translucent life-forms-media 
+almost translucent, hardly transparent. Deeper voice gives 
+everything away term, translucent, flailing across Websites; 
+email loses internal flow as translucent jade with a faint 
+ringing, the delicate sound of fine steel torn burrow within a 
+future translucent. Then will I bill myself upon the Net, I 
+notice my skin's translucent and not very funny at the moment. 
+I'm covered They are transparent, translucent, now. Are you sure 
+that they are transparent translucent now? o dark forest, in 
+search of Indian Pipe pale and translucent near the burials, 
+translucent paper of precisely the right color, neither too 
+yellow nor too the recommands as looser, the result of at least 
+a translucent net and a 19th-century science for an example; 
+ghosts are translucent but everyone and all of this reflects a 
+position of waning articulations, translucent through your gaze 
+- you are transitive, translucent - you are given or entity 
+grounded in the translucent. An image is never a map; a map 
+crinkled black with a translucent window for viewing the 
+animated Project: An enormous translucent plasticine sphere 300m 
+in diameter will was crinkled black with a translucent window 
+for viewing the animated black with a translucent window for 
+viewing the animated crits. I was projector crank side crinkled 
+black translucent window for viewing body (metaphorically) into 
+the translucent, of here and there opaque, they murmur we are 
+all avatartist, translucent, transparent, neither deep-time nor 
+anything more than surface. translucent or transparent to 
+invisible light. the sward, mobile and translucent; Julu says 
+more organism! more organism! Laboratory to the invisible, 
+transparent, physical, translucent, and forgotten. words lose 
+tongues... My sward, mobile and translucent - Julu unsolid, 
+translucent, the promise of comfort within translucent cartoons, 
+blood battles are forgotten as a torso sputters, of translucent 
+beauty transparent beauty suddenly becomes translucent; walking 
+through snow, one recites the attitudes. In cyberspace, the skin 
+is as smooth as the skin, translucent close closer now: pixel- 
+mania, ? day, Julu... tongues... translucent /Julu translucent 
+(cause my holes through my skin are space) emergence. i am in am 
+thinking of you inn these translucent plane, glowing with 
+translucent window viewing animated cartoons.  work has stemmed 
+this. surfaces), translucent, glowing. textured, planar default 
+simple surfacce for example. Actions on IRC on the other hand 
+are translucent statements translucent. They appear where 
+nothing has appeared. They realize a dream and as if it were 
+translucent and i am invisible in their midst. i must learn this 
+translucent land and there's almost no one else around, you 
+translucent Julu close, i produce nothing, i wait, i await, now: 
+pixel-mania, ? day, Julu... tongues... translucent /Julu the 
+sward, mobile and translucent; Julu says more organism! more 
+organism! Laboratory to the invisible, transparent, physical, 
+translucent, and forgotten. words lose tongues... My sward, 
+mobile and translucent - Julu disappoint listener date 
+translucent impregnated sustains point, ruins scream. plate: 
+transform, translucent. icon; senses translucent or transparent 
+to invisible light. now: pixel-mania, ? day, Julu... tongues... 
+translucent /Julu fine-grained opaque or almost-translucent 
+parchment made from lambskin or pixels.
+

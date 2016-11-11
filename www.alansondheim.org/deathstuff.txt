@@ -1,0 +1,180 @@
+
+deathstuff of avatars
+
+
+death stuff of avatars 1
+
+
+it says "002:0> avatars = {Nikuko, Julu, Jennifer}"
+it says "003:0> 'Nikuko, Jennifer'"
+=> "Nikuko, Jennifer"
+these are my avatars, Nikuko, Jennifer
+"\"Nikuko, Jennifer\""
+JenniferTravis"
+it says "019:0> x Julu" + "Jennifer, Travis""
+JuluJennifer, it says "020:0> " Jennifer, Julu it says "021:0> "Julu" <" 
+it says "023:0> > it says "025:0> "Julu Travis Nikuko""
+
+Nikuko,,,,"
+Nikuko ,,,,"
+
+it says "001:0> Travis, ,,,, ,,,,Jennifer, TravisJennifer," 
+"Nikuko \n"
+\nNikuko\n"
+
+ Someone or Other
+
+it says "022:0> avadance ['Julu', 'Jennifer', 'Travis', 'Nikuko', 
+'Alan']"
+["Julu", "Jennifer", "Travis", "Nikuko", "Alan"]
+Alan nil ["zero", "one", "Alan"]]
+it says "103:0> 'Jennifer'.object_id"
+it says "104:0> 'Julu'.object_id"
+
+=> ["Julu", "Alan", "Travis", "Jennifer", "Nikuko"]
+Deadatar [deadatar, ' NULL', ',,,,,']
+[["Julu", "Nikuko"], " NULL", ",,,,,"]
++ ",,,,,", 
+nil
+
+it says "010:0> Deadatar[2] ",,,,,""
+it says "011:0> Deadatar[1] NULL"
+it says "017:0> Deadatar[0][0] "Julu""
+it says "018:0> Deadatar[0][3] "Jennifer""
+it says "019:0> Deadatar[1][0] 32"
+it says "020:0> it says "021:0> Deadatar[1][1][1] 1"
+it says "022:0> Deadatar[1][1] 78"
+it says "023:0> Deadatar[1][0][0] 0"
+it says "024:0> Deadatar[0][0][1] 117"
+
+Why WHY?!!!
+:27 it says "028:0> it says "029:0> THIS!""
+NIKUKO THIS!
+
+it says "030:0> "All Dead""
+it says "031:0> "nil!""
+it says "032:0> death {Jennifer 'knife', 'gun', 'virus'}"
+it says "033:0> {'Jennifer' 'Travis' {"Jennifer"=>"knife", 
+"Travis"=>"virus"}"
+
+it says "036:0> death[Jennifer]"
+it says "037:0> death['Jennifer'] "knife""
+it says "038:0> death['Travis'] "virus""
+
+it says "042:0> 'Jennifer'.object_id -574617438"
+it says "043:0> 'Travis'.object_id -574047828"
+:44 it says "045:0> 'Julu'.object_id -574074978"
+it says "046:0> 'Alan'.object_id -574089058"
+it says "047:0> 'Nikuko'.object_id -574446048"
+it says "048:0> deadatar.object_id -574470198"
+it says "049:0> Deadatar.object_id -574485278"
+`noname' :51 it says "052:0> -1148955476"
+
+
+death stuff of avatars ii
+
+
+        from 
+        from ():26
+        from ():26:in `+'
+        from ():27
+        from ():32
+        from ():34
+        from ():36
+        from ():44
+        from ():50
+        from ():51
+        from :0
+ NULL
+"Julu", "Alan", "Travis", "Jennifer", "Nikuko"]
+$ exit
+,,,,,
+
+:0> "All Dead"
+:0> "nil!"
+:0> '
+:0> 'Jennifer'.object_id
+:0> 'Julu'.object_id
+:0> 'Nikuko'.object_id
+:0> 'T
+:0> 'Travis'.object_id
+:0> Deadatar 
+:0> Deadatar + deadatar
+:0> Deadatar = [deadatar, ' NULL', ',,,,,']
+:0> Deadatar.object_id
+
+:0> Deadatar[0[0]] :0> Deadatar[0[2]] :0> Deadatar[0[9]] :0> Deadatar[0] 
+:0> Deadatar[0][0][1] :0> Deadatar[0][3] :0> Deadatar[1] :0> Deadatar[1] 
+:0> Deadatar[1][0] :0> Deadatar[1][0][0] :0> Deadatar[1][1] 
+:0> Deadatar[1][1][1] :0> Deadatar[2] :0> Deadatar[3] :0> Deadatar[4] 
+:0> Deadatar[5] :0> Deadatar[6] :0> Deadatar[7] :0> Deadatar[8]
+
+:0> Jennifer
+:0> Jennifer.object_id
+:0> deadatar = ['Julu', 'Alan', Trav
+:0> deadatar.object_id
+:0> deadth
+:0> death -
+:0> death = {Jennifer => 'knife', Julu => 'gun', Travis => 
+:0> death['Jennifer' + 'Travis']
+:0> death['Jennifer']
+:0> death['Travis']
+:0> death[1]
+:0> death[Jennifer[
+:0> death[deadatar]
+:0> exit
+:0> no-name.object_id
+:0> noname.object_id
+:0> puts "NIKUKO PUT ME UP TO THIS" + DE
+:0> puts "NIKUKO PUT ME UP TO THIS" + puts Deadatar
+:0> puts "Nikuko
+:0> puts "Why Oh WHY?!!!"
+:0> puts Deadatar
+:0> puts Deadatar + deadatar
+=> " NULL"
+=> ",,,,,"
+=> "All Dead"
+=> "Jennifer"
+=> "Julu"
+=> "knife"
+=> "nil!"
+=> "virus"
+
+=> -1148955476 => -574047828 => -574074978 => -574089058 => -574446048 
+=> -574470198 => -574485278 => -574617438
+
+=> 0 => 1 => 117 => 32 => 78
+
+=> ["Julu", "Alan", "Travis", "Jennifer", "Nikuko"]
+=> [["Julu", "Alan", "Travis", "Jennifer", "Nikuko"], " NULL", ",,,,,", 
+=> [["Julu", "Alan", "Travis", "Jennifer", "Nikuko"], " NULL", ",,,,,"]
+=> nil
+=> {"Jennifer"=>"knife", "Travis"=>"virus"}
+
+Alan Jennifer Julu
+NIKUKO PUT ME UP TO THIS!
+
+NameError: uninitialized constant Jennifer
+Nikuko
+SyntaxError: compile error
+Travis
+Why Oh WHY?!!!
+[0][0]
+[K'Nikuko'.object_id
+[K'Nikuko']
+[K'Travis', 'Jennifer', N
+[K'virus'} 
+[K= 'Jennifer' => 'knife', 
+[KAlan'.object_id
+[KIKUKO PUT ME UP THI
+[KO THIS!"
+[Kdeadatar.object_id + Deadatar.object_id
+[Keadatar
+[Kki
+[Knife', 'Travis' => 'virus'}
+[Kt_id)/Nikuko
+[Kth[Deadatar]
+[K{'Jennifer' => 'n
+
+virus
+

@@ -1,0 +1,1298 @@
+Folder PATH listing for volume AlanSondheim
+Volume serial number is 0401-DC1A
+D:\
++---3DAR
+|   +---gif_maker
+|   |   \---Easy GIF Animator 5 Pro
+|   |       \---Virtual
+|   |           +---MODIFIED
+|   |           |   \---@PROGRAMFILES@
+|   |           |       \---Easy GIF Animator
+|   |           +---STUBEXE
+|   |           |   \---8.0.1135
+|   |           |       \---@PROGRAMFILES@
+|   |           |           \---Easy GIF Animator
+|   |           \---SXS
+|   |               +---DelphiApplication@1.0.0.0
+|   |               \---Manifests
+|   +---lacrossscan
+|   +---MikuMikuDanceE_v704
+|   |   \---MikuMikuDanceE_v704
+|   |       +---Data
+|   |       \---UserFile
+|   |           +---Accessory
+|   |           +---BackGround
+|   |           +---Model
+|   |           +---Motion
+|   |           +---Pose
+|   |           +---Vsq
+|   |           \---Wave
+|   +---MikuMikuDance_e
+|   |   \---MikuMikuDance_e
+|   |       +---Data
+|   |       \---UserFile
+|   |           +---Accessory
+|   |           +---BackGround
+|   |           +---Motion
+|   |           +---Pose
+|   |           +---Vsq
+|   |           \---Wave
+|   \---testing
++---ALPINE
+|   +---aletsch
+|   |   +---AUDIO_TS
+|   |   \---VIDEO_TS
+|   \---alpfles1
++---AUDIO
+|   +---Alan Sondheim
+|   |   +---Avatar Man Violin
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Bounces
+|   |   +---Cauldron Guzheng
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Creatures Elec
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Cura Cumbus
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Dark Robe Oud
+|   |   |   +---Audio Files
+|   |   |   +---Session File Backups
+|   |   |   \---What Remains Saz
+|   |   |       +---Audio Files
+|   |   |       \---Session File Backups
+|   |   +---Guitar
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Kansas Uke
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Making Boys harmonica
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Mom Zither
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---mp3s
+|   |   +---Nikuko Elec Oud
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Pipa
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Setup
+|   |   |   +---Audio Files
+|   |   |   +---Plug-In Settings
+|   |   |   |   \---AIR Kill EQ
+|   |   |   \---Session File Backups
+|   |   +---Viola
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   \---Viola Blood Tantra
+|   |       +---Audio Files
+|   |       \---Session File Backups
+|   +---BUNKER SESSION
+|   |   +---alan sondheim 1_EXPORT
+|   |   |   +---Audio Files
+|   |   |   \---Project Info Files
+|   |   +---alan sondheim 2_EXPORT
+|   |   |   +---Audio Files 1
+|   |   |   +---Audio Files 2
+|   |   |   \---Project Info Files
+|   |   +---alan sondheim 3_EXPORT
+|   |   |   +---Audio Files
+|   |   |   \---Project Info Files
+|   |   \---ROUGH MIXES
+|   |       +---LISTENER 1.1 BNC.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       +---LISTENER 1.1.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       +---LISTENER 1.2 BNC.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       +---LISTENER 1.2.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       +---LISTENER 2.1 BNC.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       +---LISTENER 2.1.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       +---LISTENER 2.2 BNC.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       +---LISTENER 2.2.wb3
+|   |       |   +---Audio
+|   |       |   \---WbDoc
+|   |       \---LISTENER 3.1.wb3
+|   +---GSrecordingsess
+|   |   +---Avatar Man Violin
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Bounces
+|   |   +---Cauldron Guzheng
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Creatures Elec
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Cura Cumbus
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Dark Robe Oud
+|   |   |   +---Audio Files
+|   |   |   +---Session File Backups
+|   |   |   \---What Remains Saz
+|   |   |       +---Audio Files
+|   |   |       \---Session File Backups
+|   |   +---Guitar
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Kansas Uke
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Making Boys harmonica
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Mom Zither
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---mp3s
+|   |   +---Nikuko Elec Oud
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Pipa
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   +---Setup
+|   |   |   +---Audio Files
+|   |   |   +---Plug-In Settings
+|   |   |   |   \---AIR Kill EQ
+|   |   |   \---Session File Backups
+|   |   +---Viola
+|   |   |   +---Audio Files
+|   |   |   \---Session File Backups
+|   |   \---Viola Blood Tantra
+|   |       +---Audio Files
+|   |       \---Session File Backups
+|   +---katydid
+|   \---vinylsession
+|       +---Cauldron Guzheng
+|       |   +---Audio Files
+|       |   \---Session File Backups
+|       +---Creatures Elec
+|       |   +---Audio Files
+|       |   \---Session File Backups
+|       +---Dark Robe Oud
+|       |   +---Audio Files
+|       |   \---Session File Backups
+|       +---Kansas Uke
+|       |   +---Audio Files
+|       |   \---Session File Backups
+|       +---Mom Zither
+|       |   +---Audio Files
+|       |   \---Session File Backups
+|       +---mp3s
+|       +---Setup
+|       |   +---Audio Files
+|       |   +---Plug-In Settings
+|       |   |   \---AIR Kill EQ
+|       |   \---Session File Backups
+|       \---vinyldone
+|   +---3-1-2010
+|   +---Bonjum October 2006
+|   +---boonjum
+|   |   \---Boonjum Aug.1, 07
+|   +---Boonjum Kitty Munch
+|   +---cats boonjum
+|   |   \---Boonjum 10-20-07
+|   +---CDROM
+|   +---Documents
+|   |   \---Downloads
+|   +---MoreBunjum
+|   |   +---Boonjum
+|   |   +---Bunjum
+|   |   \---Bunjum2
+|   +---mosaic
+|   |   \---HELP
+|   +---old Dell
+|   |   +---CDROM
+|   |   +---My Deliveries
+|   |   |   \---tax
+|   |   +---Results
+|   |   |   +---LILLE
+|   |   |   \---LILLE (2)
+|   |   \---view
+|   +---olddell
+|   |   \---Results
+|   |       +---LILLE
+|   |       \---LILLE (2)
+|   +---opal
+|   |   +---cgi-bin
+|   |   +---portrait
+|   |   +---test
+|   |   \---wwwstat
+|   +---photo
+|   +---photos
+|   +---Results
+|   |   +---LILLE
+|   |   \---LILLE (2)
+|   +---Roll1
+|   +---store
+|   +---stuff
+|   \---Winter on drugs
++---AZUREFILMETC
+|   +---azuremusic
+|   +---CDROM
+|   +---mosaic
+|   |   \---HELP
+|   +---old Dell
+|   |   +---Canon BJC2100v683
+|   |   |   \---images
+|   |   +---CDROM
+|   |   +---My Albums
+|   |   +---My Deliveries
+|   |   |   +---kdx
+|   |   |   \---tax
+|   |   +---My eBooks
+|   |   +---My Pictures
+|   |   |   \---Palm Photos
+|   |   |       \---sondhe
+|   |   |           \---Expansion Card
+|   |   +---Results
+|   |   |   +---LILLE
+|   |   |   \---LILLE (2)
+|   |   \---view
+|   +---opal
+|   |   +---cgi-bin
+|   |   +---portrait
+|   |   +---test
+|   |   \---wwwstat
+|   \---Results
+|       +---LILLE
+|       \---LILLE (2)
++---BACKGROUNDS
+|   +---connes
+|   +---Edongba Professional v3.3
+|   |   \---Tutorial
+|   +---mar
+|   |   \---cache
+|   +---mosaic
+|   |   \---HELP
+|   \---n96
+|       \---CACHE
++---COURSES
+|   \---SVAcourse
+|       \---codework_whitepaper
+|           \---positions papers
++---FAMILY
+|   +---birth
+|   +---dad
+|   +---FAMILY
+|   |   +---dad
+|   |   |   +---birth
+|   |   |   +---Misc
+|   |   |   +---Sondheims
+|   |   |   +---SondheimWeiss
+|   |   |   \---WB
+|   |   +---wedding
+|   |   |   \---recept
+|   |   \---WEDDING&SONDHEIM PICS
+|   |       +---SONDHEIMS
+|   |       +---WEDDING PHOTOS
+|   |       \---WEDDING VIDEOS
+|   +---iPod Photo Cache
+|   |   +---F00
+|   |   +---F01
+|   |   +---F02
+|   |   +---F03
+|   |   +---F04
+|   |   +---F05
+|   |   +---F06
+|   |   +---F07
+|   |   +---F08
+|   |   +---F09
+|   |   +---F10
+|   |   +---F11
+|   |   +---F12
+|   |   +---F13
+|   |   +---F14
+|   |   +---F15
+|   |   +---F16
+|   |   +---F17
+|   |   +---F18
+|   |   +---F19
+|   |   +---F20
+|   |   +---F21
+|   |   +---F22
+|   |   +---F23
+|   |   +---F24
+|   |   +---F25
+|   |   +---F26
+|   |   +---F27
+|   |   +---F28
+|   |   +---F29
+|   |   +---F30
+|   |   +---F31
+|   |   +---F32
+|   |   +---F33
+|   |   +---F34
+|   |   +---F35
+|   |   +---F36
+|   |   +---F37
+|   |   +---F38
+|   |   +---F39
+|   |   +---F40
+|   |   +---F41
+|   |   +---F42
+|   |   +---F43
+|   |   +---F44
+|   |   +---F45
+|   |   +---F46
+|   |   +---F47
+|   |   +---F48
+|   |   +---F49
+|   |   \---F50
+|   |   +---birth
+|   |   +---Misc
+|   |   +---Sondheims
+|   |   +---SondheimWeiss
+|   |   \---WB
+|   +---SONDHEIMS
+|   +---wedding
+|   |   +---iPod Photo Cache
+|   |   \---recept
+|   +---WEDDING PHOTOS
+|   +---WEDDING VIDEOS
+|   \---WEDDING&SONDHEIM PICS
+|       +---SONDHEIMS
+|       +---WEDDING PHOTOS
+|       \---WEDDING VIDEOS
++---FLOPPY
+|   +---albany
+|   +---aol30
+|   +---ast
+|   |   \---ast
+|   +---astronmy
+|   +---avipro
+|   +---bamboo
+|   +---BOOT286
+|   +---boot5204
+|   +---calc
+|   +---computer
+|   |   +---4SPEED
+|   |   +---CALARK
+|   |   +---CPUSPE
+|   |   +---CT50A
+|   |   +---FINDIRQ
+|   |   +---FSP
+|   |   +---PCHK
+|   |   +---SNOOPER
+|   |   \---VGASPD
+|   +---cyb
+|   +---dial95
+|   |   \---INTER
+|   +---diskfix
+|   +---fop
+|   +---image
+|   |   +---IPHONE
+|   |   +---kim
+|   |   +---perth
+|   |   +---perthmis
+|   |   \---WINDOWS
+|   |       \---SYSTEM
+|   +---life
+|   |   \---ALIFE
+|   |       +---ANIMAL
+|   |       \---ANTS
+|   +---mandel
+|   +---matlab
+|   +---mcurrent
+|   |   +---Cyberspace
+|   |   |   \---STONE
+|   |   +---Deleuze 2-1
+|   |   +---Deleuze Guattari Misc
+|   |   +---Deleuze list 1
+|   |   +---Foucault
+|   |   +---Future Culture
+|   |   +---Nietzsche
+|   |   +---PMC-list 1
+|   |   |   +---ARCHIVES
+|   |   |   \---INTRO
+|   |   +---PMC-list 2
+|   |   +---Pomo PS Philosophy
+|   |   +---Sondheim Texts 1
+|   |   +---Sondheim Texts 2
+|   |   +---Unix 1
+|   |   |   +---ELM
+|   |   |   \---VI
+|   |   +---Unix 2
+|   |   +---Unlabeled 1
+|   |   \---Unlabeled 2
+|   +---mitch
+|   |   +---0
+|   |   +---1
+|   |   +---10
+|   |   +---11
+|   |   +---12
+|   |   +---13
+|   |   +---14
+|   |   +---15
+|   |   +---16
+|   |   +---17
+|   |   +---18
+|   |   +---19
+|   |   +---2
+|   |   +---20
+|   |   +---21
+|   |   +---22
+|   |   +---23
+|   |   +---24
+|   |   +---25
+|   |   +---26
+|   |   +---27
+|   |   +---3
+|   |   +---4
+|   |   +---5
+|   |   +---6
+|   |   +---7
+|   |   +---8
+|   |   \---9
+|   +---momtext
+|   +---moo
+|   |   +---coterm
+|   |   |   \---SUPFILES
+|   |   +---display
+|   |   +---irc
+|   |   +---kayo
+|   |   +---misc
+|   |   |   +---AUT
+|   |   |   +---DAZZLE
+|   |   |   \---GIF
+|   |   \---mtez
+|   +---mosaic
+|   |   +---disk1
+|   |   \---disk2
+|   +---ncr
+|   |   +---backup
+|   |   \---old
+|   |       \---FILES
+|   |           \---CACHE
+|   +---net97
+|   |   +---exper
+|   |   +---htm
+|   |   +---jennifer
+|   |   \---www
+|   +---netscape
+|   |   +---mosaic
+|   |   |   \---HELP
+|   |   \---n96
+|   |       \---CACHE
+|   +---ntsecret
+|   |   +---disk2
+|   |   +---OFFLINE
+|   |   \---WAIS
+|   +---oldback
+|   |   +---e
+|   |   \---win
+|   |       \---system
+|   +---oldcompq
+|   |   \---mark
+|   +---ontrack
+|   +---pcplus
+|   +---pcplus2
+|   +---phaser
+|   |   +---cga
+|   |   |   +---CGA
+|   |   |   |   \---FILES
+|   |   |   \---FILES
+|   |   \---FILES
+|   +---procomm
+|   |   \---PHRACK
+|   +---qpeg
+|   +---quickcam
+|   |   +---31
+|   |   |   +---disk1
+|   |   |   \---disk2
+|   |   \---95
+|   |       +---disk1
+|   |       \---disk2
+|   +---sbl
+|   +---stereo
+|   +---text
+|   |   \---INI
+|   +---traverso
+|   +---vr
+|   +---win95str
+|   +---win98
+|   +---zdu
+|   \---zipinstl
++---FOOFWA
+|   +---cafeteria
+|   +---danceetc
+|   |   +---dance
+|   |   |   +---100msdcf
+|   |   |   +---Alan's project
+|   |   |   \---display
+|   |   +---FdI portraits-montages
+|   |   +---Liv&Dan Ge Vincent
+|   |   |   +---choix web
+|   |   |   \---Live & Dance
+|   |   +---Montages
+|   |   |   +---Montages couleurs
+|   |   |   |   \---Montages
+|   |   |   +---Montages n_b
+|   |   |   +---Montages web
+|   |   |   \---Montages work
+|   |   +---photos Incidences
+|   |   |   +---addendum
+|   |   |   +---choix
+|   |   |   \---web
+|   |   \---Presse
+|   +---dorsey
+|   +---DVD Foof ?copier
+|   |   +---Crepuscule PAL DVD.img
+|   |   +---EVAM PAL DVD.img
+|   |   +---Minuit NTSC DVD.img
+|   |   +---Minuit PAL DVD.img
+|   |   +---Virga DVD NTSC.img
+|   |   \---Virga PAL DVD.img
+|   +---foofwatwitch
+|   |   +---firsttape
+|   |   \---secondtape
+|   +---movs from foofcam
+|   +---place
+|   +---RhodeIsland
+|   +---RIclimb
+|   +---RIcolumn
+|   +---RIcolumn3
+|   +---RIfollow
+|   +---RIfollow2
+|   +---RIleaning
+|   +---RIontherails
+|   +---RIparcours
+|   +---RIrubbing
+|   +---RISayles
+|   \---RIthicket
++---GEOGRAPHIC
+|   \---gps
+|       \---num
++---HTML
+|   +---book
+|   |   +---NIKUKO
+|   |   \---TALKS
+|   +---FRAC
+|   +---html
+|   |   +---FRAC
+|   |   +---NARDIS
+|   |   \---WATER
+|   +---NARDIS
+|   \---WATER
++---MOCAP
+|   +---chimocap
+|   |   +---021511_realtime.bck
+|   |   +---021611_realtime.bck
+|   |   +---BVH1
+|   |   +---BVH2
+|   |   +---BVH3
+|   |   +---colSAICdvpal
+|   |   +---colSAIChdntsc
+|   |   |   \---Stop Motion Capture
+|   |   |       +---chicago0
+|   |   |       |   \---chicago0 - Session 01
+|   |   |       \---Temp
+|   |   \---TRB
+|   |       +---1p_harness
+|   |       +---2p
+|   |       +---2p_2harness
+|   |       +---2p_harness
+|   |       +---2p_LAS
+|   |       +---3p_2harness
+|   |       +---3p_2harness_b
+|   |       +---4p
+|   |       +---burble
+|   |       \---Diag
+|   +---SamShared
+|   |   +---EditedSAM
+|   |   |   +---Debug
+|   |   |   +---New Folder
+|   |   |   \---Release
+|   |   +---SAM
+|   |   |   +---Debug
+|   |   |   +---New Folder
+|   |   |   \---Release
+|   |   +---SAM2
+|   |   |   +---Debug
+|   |   |   +---New Folder
+|   |   |   \---Release
+|   |   +---SAMother
+|   |   |   +---New Folder
+|   |   |   \---Release
+|   |   \---WorkingSAM
+|   |       +---Debug
+|   |       +---New Folder
+|   |       \---Release
+|   +---wvumocap
+|   \---wvuvid
++---OLDERSAMPLER
+|   +---PARAB
+|   \---slough
++---PARAB
++---PDF
+|   +---.FBCLockFolder
+|   +---01a. Selected Critical Texts_
+|   +---01b. Selected Fictional Texts
+|   +---01c. Reviews
+|   +---01d. Commentary
+|   +---02. Texts on Drawings
+|   +---03. Zummer- ARTWORKS
+|   |   +---a. Zummer_Images_
+|   |   |   \---Satellites ZZZ
+|   |   +---b. Portraits of Robots
+|   |   |   +---a. Portraits & Studies
+|   |   |   +---b. Installation Views
+|   |   |   \---c. Reviews of Robots
+|   |   +---b. ZUMMER  new drawings
+|   |   +---c. Texts_Works TIFF
+|   |   \---Cartoon Archive Part 2
+|   |       +---.FBCLockFolder
+|   |       +---ZZ-JPEG Cartoons
+|   |       +---ZZ-Related Works
+|   |       |   \---REFERENCES
+|   |       \---ZZ-TIFF Cartoons
+|   +---19915-h
+|   |   \---images
+|   +---24571-h
+|   |   \---images
+|   +---32034-h
+|   |   \---images
+|   +---arch
+|   |   +---NYU1
+|   |   +---NYU2
+|   |   +---NYU3
+|   |   +---NYU4
+|   |   \---NYU5
+|   +---atexts from Jamie
+|   |   +---Heidegger A Starting - Survival Kit
+|   |   +---Heidegger, Martin
+|   |   +---Hobbes, Thomas
+|   |   \---on Heidegger
+|   +---book
+|   +---bvh_files
+|   +---James Der Derian
+|   +---Johannes Fabian
+|   +---kim
+|   +---louis_marin_essay_collection.zip.download
+|   |   \---louis_marin_essay_collection
+|   +---merce
+|   |   \---fiftyforward
+|   +---muturalism_files
+|   +---Nestor Makhno
+|   +---net97
+|   |   +---exper
+|   |   +---htm
+|   |   +---jennifer
+|   |   \---www
+|   +---netscape
+|   |   +---mosaic
+|   |   |   \---HELP
+|   |   \---n96
+|   |       \---CACHE
+|   +---PHRACK
+|   +---pipa_files
+|   +---prehis
+|   |   +---img
+|   |   \---style
+|   +---spoons
+|   |   \---fop
+|   |       \---fiction-of-philosophy.archive
+|   |           \---fop_1995
+|   |   +---01a. Selected Critical Texts_
+|   |   +---01b. Selected Fictional Texts
+|   |   +---01c. Reviews
+|   |   +---01d. Commentary
+|   |   +---02. Texts on Drawings
+|   |       |   \---Satellites ZZZ
+|   |       +---b. Portraits of Robots
+|   |       |   +---a. Portraits & Studies
+|   |       |   +---b. Installation Views
+|   |       |   \---c. Reviews of Robots
+|   |       +---c. Texts_Works TIFF
+|   |       \---Cartoon Archive Part 2
+|   |           +---.FBCLockFolder
+|   |           +---ZZ-JPEG Cartoons
+|   |           +---ZZ-Related Works
+|   |           |   \---REFERENCES
+|   |           \---ZZ-TIFF Cartoons
+|   +---ud
+|   +---wvubook
+|   |   \---texts
+|   |       +---a
+|   |       |   +---bldg
+|   |       |   +---book
+|   |       |   +---codework
+|   |       |   +---course
+|   |       |   \---ill
+|   |       +---Documents
+|   |       |   +---application
+|   |       |   |   \---octet-stream
+|   |       |   +---chemical
+|   |       |   |   \---x-pdb
+|   |       |   +---image
+|   |       |   |   +---jpeg
+|   |       |   |   \---png
+|   |       |   \---text
+|   |       |       \---html
+|   |       +---exper
+|   |       +---june17mail
+|   |       +---mail
+|   |       +---mail410
+|   |       +---maildec2309
+|   |       +---mailjuly2110
+|   |       +---mailjune508
+|   |       +---olderfrom128
+|   |       |   \---multi
+|   |       +---panix07
+|   |       |   +---a
+|   |       |   \---mail
+|   |       \---QtPalmtop
+|   |           +---apps
+|   |           |   +---Applications
+|   |           |   +---Games
+|   |           |   \---Jeode
+|   |           +---bin
+|   |           +---help
+|   |           |   \---html
+|   |           +---java
+|   |           +---pics
+|   |           \---share
+|   |               \---zaurus-sky-explorer
+|   +---XanaduSpace
+|   |   +---backup
+|   |   |   +---2008-04-02 15-37-59
+|   |   |   |   +---edls
+|   |   |   |   +---slices
+|   |   |   |   \---texts
+|   |   |   +---2008-04-02 15-40-29
+|   |   |   |   +---edls
+|   |   |   |   +---slices
+|   |   |   |   \---texts
+|   |   |   \---2008-04-02 15-40-44
+|   |   |       +---edls
+|   |   |       +---slices
+|   |   |       \---texts
+|   |   +---edls
+|   |   +---pictures
+|   |   +---slices
+|   |   +---system
+|   |   |   +---fonts
+|   |   |   +---python
+|   |   |   \---scripts
+|   |   \---texts
+|   |       \---demo
+|   +---Zizek-Future as Sci-Fi
+|   +----Adorno, Theodor
+|   |   \---.FBCLockFolder
+|   +----Agamben, Giorgio
+|   |   \---.FBCLockFolder
+|   +----Althusser, Louis
+|   |   \---.FBCLockFolder
+|   +----Badiou, Alain
+|   |   +---.FBCLockFolder
+|   |   \---4084-alain_badiou_essay_collection
+|   +----Ballard, J.G
+|   |   \---.FBCLockFolder
+|   +----Barthes, Roland
+|   |   \---.FBCLockFolder
+|   +----BATAILLE-Lascaux
+|   +----BATAILLE-Oeuvres completes
+|   +----Belting, Hans
+|   |   \---.FBCLockFolder
+|   +----Benveniste, Emile
+|   |   \---.FBCLockFolder
+|   +----Chun, Wendy
+|   |   \---.FBCLockFolder
+|   +----Colomina, Beatriz
+|   |   +---.FBCLockFolder
+|   |   +---atexts from Jamie
+|   |   |   +---Heidegger A Starting - Survival Kit
+|   |   |   +---Heidegger, Martin
+|   |   |   +---Hobbes, Thomas
+|   |   |   \---on Heidegger
+|   |   +---James Der Derian
+|   |   +---Johannes Fabian
+|   |   +---louis_marin_essay_collection.zip.download
+|   |   |   \---louis_marin_essay_collection
+|   |   +---Nestor Makhno
+|   |   +---Zizek-Future as Sci-Fi
+|   |   +---Zummer
+|   |   +----Adorno, Theodor
+|   |   |   \---.FBCLockFolder
+|   |   +----Agamben, Giorgio
+|   |   |   \---.FBCLockFolder
+|   |   +----Althusser, Louis
+|   |   |   \---.FBCLockFolder
+|   |   +----Badiou, Alain
+|   |   |   +---.FBCLockFolder
+|   |   |   \---4084-alain_badiou_essay_collection
+|   |   +----Ballard, J.G
+|   |   |   \---.FBCLockFolder
+|   |   +----Barthes, Roland
+|   |   |   \---.FBCLockFolder
+|   |   +----BATAILLE-Lascaux
+|   |   +----BATAILLE-Oeuvres completes
+|   |   +----Belting, Hans
+|   |   |   \---.FBCLockFolder
+|   |   +----Benveniste, Emile
+|   |   |   \---.FBCLockFolder
+|   |   +----Chun, Wendy
+|   |   |   \---.FBCLockFolder
+|   |   +----Colomina, Beatriz
+|   |   |   \---.FBCLockFolder
+|   |   +----Deleuze, Gilles
+|   |   |   \---.FBCLockFolder
+|   |   +----Derrida, Jacques
+|   |   |   +---.FBCLockFolder
+|   |   |   +---4106-jacques_derrida_essay_collection
+|   |   |   +---4107-jacques_derrida_essay_collection
+|   |   |   +---4108-jacques_derrida_essay_collection
+|   |   |   \---4109-jacques_derrida_essay_collection
+|   |   +----Farocki, Harun
+|   |   |   \---.FBCLockFolder
+|   |   +----Foucault, Michel
+|   |   |   \---.FBCLockFolder
+|   |   +----Freud, Sigmund
+|   |   |   +---.FBCLockFolder
+|   |   |   \---Freud Complete Works - figures
+|   |   +----Fuller, Matthew
+|   |   |   \---.FBCLockFolder
+|   |   +----Galison, Peter
+|   |   |   \---.FBCLockFolder
+|   |   +----Godard, Jean-Luc
+|   |   |   \---.FBCLockFolder
+|   |   +----Hayles, Katherine
+|   |   |   +---.FBCLockFolder
+|   |   |   \---4250-n_katherine_hayles_essay
+|   |   +----Heidegger, Martin
+|   |   |   \---.FBCLockFolder
+|   |   +----Heller-Roazen, Daniel
+|   |   |   \---.FBCLockFolder
+|   |   +----Kittler, Friedrich
+|   |   +----Kluge, Alexander
+|   |   |   \---.FBCLockFolder
+|   |   +----Laruelle, Francois
+|   |   |   \---.FBCLockFolder
+|   |   +----Levin, Thomas Y
+|   |   |   \---.FBCLockFolder
+|   |   +----Levinas, Emmanuel
+|   |   |   +---.FBCLockFolder
+|   |   |   \---4208-emmanuel_levinas_essay_collection
+|   |   +----Lyotard, Jean-Fran?ois
+|   |   |   +---.FBCLockFolder
+|   |   |   \---4096-jean_francois_lyotard_essay
+|   |   +----Makavejev, Dusan
+|   |   |   \---.FBCLockFolder
+|   |   +----Marks, Elaine
+|   |   |   \---.FBCLockFolder
+|   |   +----Nancy, Jean-Luc
+|   |   |   +---.FBCLockFolder
+|   |   |   \---4099-jean_luc_nancy_essay
+|   |   +----Plant, Sadie
+|   |   |   \---.FBCLockFolder
+|   |   +----PROCLUS-3 volumes
+|   |   +----Ranciere, Jacques
+|   |   |   +---.FBCLockFolder
+|   |   |   \---4098-jacques_ranciere_essay_collection
+|   |   +----Riegl, Alois
+|   |   |   \---.FBCLockFolder
+|   |   +----Simondon, Gilbert
+|   |   |   \---.FBCLockFolder
+|   |   +----Sobchack, Vivian
+|   |   |   \---.FBCLockFolder
+|   |   +----Stiegler, Bernard
+|   |   |   \---.FBCLockFolder
+|   |   +----Ticinito Clough, Patricia
+|   |   |   \---4469-patricia_ticineto_clough_essay
+|   |   +----Turkel, Sherry
+|   |   |   \---.FBCLockFolder
+|   |   +----Uexk?ll, Jakob von
+|   |   |   \---.FBCLockFolder
+|   |   +----Vertov, Dziga
+|   |   |   \---.FBCLockFolder
+|   |   \----Z-Other Essays
+|   |       \---.FBCLockFolder
+|   +----Deleuze, Gilles
+|   |   \---.FBCLockFolder
+|   +----Derrida, Jacques
+|   |   +---.FBCLockFolder
+|   |   +---4106-jacques_derrida_essay_collection
+|   |   +---4107-jacques_derrida_essay_collection
+|   |   +---4108-jacques_derrida_essay_collection
+|   |   \---4109-jacques_derrida_essay_collection
+|   +----Farocki, Harun
+|   |   \---.FBCLockFolder
+|   +----Foucault, Michel
+|   |   \---.FBCLockFolder
+|   +----Freud, Sigmund
+|   |   +---.FBCLockFolder
+|   |   \---Freud Complete Works - figures
+|   +----Fuller, Matthew
+|   |   \---.FBCLockFolder
+|   +----Galison, Peter
+|   |   \---.FBCLockFolder
+|   +----Godard, Jean-Luc
+|   |   \---.FBCLockFolder
+|   +----Hayles, Katherine
+|   |   +---.FBCLockFolder
+|   |   \---4250-n_katherine_hayles_essay
+|   +----Heidegger, Martin
+|   |   \---.FBCLockFolder
+|   +----Heller-Roazen, Daniel
+|   |   \---.FBCLockFolder
+|   +----Kittler, Friedrich
+|   +----Kluge, Alexander
+|   |   \---.FBCLockFolder
+|   +----Laruelle, Francois
+|   |   \---.FBCLockFolder
+|   +----Levin, Thomas Y
+|   |   \---.FBCLockFolder
+|   +----Levinas, Emmanuel
+|   |   +---.FBCLockFolder
+|   |   \---4208-emmanuel_levinas_essay_collection
+|   +----Lyotard, Jean-Fran?ois
+|   |   +---.FBCLockFolder
+|   |   \---4096-jean_francois_lyotard_essay
+|   +----Makavejev, Dusan
+|   |   \---.FBCLockFolder
+|   +----Marks, Elaine
+|   |   \---.FBCLockFolder
+|   +----Nancy, Jean-Luc
+|   |   +---.FBCLockFolder
+|   |   \---4099-jean_luc_nancy_essay
+|   +----Plant, Sadie
+|   |   \---.FBCLockFolder
+|   +----PROCLUS-3 volumes
+|   +----Ranciere, Jacques
+|   |   +---.FBCLockFolder
+|   |   \---4098-jacques_ranciere_essay_collection
+|   +----Riegl, Alois
+|   |   \---.FBCLockFolder
+|   +----Simondon, Gilbert
+|   |   \---.FBCLockFolder
+|   +----Sobchack, Vivian
+|   |   \---.FBCLockFolder
+|   +----Stiegler, Bernard
+|   |   \---.FBCLockFolder
+|   +----Ticinito Clough, Patricia
+|   |   \---4469-patricia_ticineto_clough_essay
+|   +----Turkel, Sherry
+|   |   \---.FBCLockFolder
+|   +----Uexk?ll, Jakob von
+|   |   \---.FBCLockFolder
+|   +----Vertov, Dziga
+|   |   \---.FBCLockFolder
+|   \----Z-Other Essays
+|       \---.FBCLockFolder
++---PERFORMANCE
+|   +---albany
+|   +---algae
+|   |   \---water
+|   +---bellycloseup
+|   +---duet1
+|   +---duet2
+|   +---genevaperform
+|   |   +---AUDIO_TS
+|   |   \---VIDEO_TS
+|   +---hapticgary
+|   +---incidences
+|   |   +---AUDIO_TS
+|   |   \---VIDEO_TS
+|   +---kira
+|   +---kira1
+|   +---kira2
+|   +---kirabelly2
+|   +---kirabelly3
+|   |   \---kirabelly1
+|   +---kirabellyreflection
+|   +---kirac
+|   +---kiracrouch
+|   +---kiracrouchstart
+|   +---kirascowl
+|   +---kiratracking
+|   +---kiravlfhead
+|   +---kiravlfhead2
+|   +---kiravlflake
+|   +---kiravlflake2
+|   +---kirawaltz
+|   +---maria
+|   |   +---code
+|   |   |   +---bass2
+|   |   |   +---exper
+|   |   |   \---maria
+|   |   \---talk
+|   +---odysseyperform1
+|   +---odysseyperform2
+|   +---odysseyperform3
+|   +---odysseyperform4
+|   +---odysseyperform5
+|   +---orangestream
+|   +---orangestream2
+|   +---perform1
+|   +---perform2
+|   +---philosophy
+|   |   +---graphics
+|   |   |   \---_notes
+|   |   \---_notes
+|   +---secliv
+|   +---trees
+|   +---tyler
+|   +---velcro
+|   +---velcro10
+|   +---velcro11
+|   +---velcro12
+|   +---velcro13
+|   +---velcro14
+|   +---velcro2
+|   +---velcro3
+|   +---velcro4
+|   +---velcro5
+|   +---velcro6
+|   +---velcro7
+|   +---velcro8
+|   +---velcro9
+|   +---warp1
+|   +---warp2
+|   +---warp3
+|   \---warpface
++---PUBLICATION
+|   +---book
+|   |   \---saltlong
+|   +---leonardo
+|   |   +---original
+|   |   |   \---monteiro
+|   |   +---original_without_names
+|   |   +---peer reviews
+|   |   \---revisions
+|   \---philosophy
+|       +---graphics
+|       |   \---_notes
+|       \---_notes
++---SEXUALITY
+|   +---crepuscle
+|   |   +---AUDIO_TS
+|   |   \---VIDEO_TS
+|   \---EVAM-PAL
+|       +---AUDIO_TS
+|       \---VIDEO_TS
++---SL
+|   +---alan_dojoji
+|   +---FRAPS-SL-FILES
+|   |   +---benchmarks
+|   |   \---HELP
+|   \---julu_twine
++---SLCDENETC
+|   \---soccer
+|       +---8-16-2009
+|       +---8-16-2009(1)
+|       +---8-18-2009
+|       +---8-19-2009
+|       \---MovieTracer
++---STILLS
+|   +---dawn
+|   +---exe
+|   +---incubate
+|   |   \---downtown
+|   +---mattfrantzopening
+|   +---shrine
+|   \---STATE
++---TALKSETC
+|   +---EPTEXT
+|   |   \---multi
+|   +---perth
+|   \---perthmis
++---TEXTS
+|   +---a
+|   |   +---bldg
+|   |   +---book
+|   |   +---codework
+|   |   +---course
+|   |   \---ill
+|   +---bk
+|   +---codework_whitepaper
+|   |   \---positions papers
+|   +---cybermind
+|   |   +---0
+|   |   +---1
+|   |   +---10
+|   |   +---11
+|   |   +---12
+|   |   +---13
+|   |   +---14
+|   |   +---15
+|   |   +---16
+|   |   +---17
+|   |   +---18
+|   |   +---19
+|   |   +---2
+|   |   +---20
+|   |   +---21
+|   |   +---22
+|   |   +---23
+|   |   +---24
+|   |   +---25
+|   |   +---26
+|   |   +---27
+|   |   +---3
+|   |   +---4
+|   |   +---5
+|   |   +---6
+|   |   +---7
+|   |   +---8
+|   |   +---9
+|   |   \---fop
+|   +---Documents
+|   |   +---application
+|   |   |   \---octet-stream
+|   |   +---chemical
+|   |   |   \---x-pdb
+|   |   +---image
+|   |   |   +---jpeg
+|   |   |   \---png
+|   |   \---text
+|   |       \---html
+|   +---exper
+|   +---feb11mail
+|   +---june06mail
+|   +---june17mail
+|   +---kayofl
+|   +---mail
+|   +---mail0708
+|   +---mail410
+|   |   \---mail
+|   +---mail52308
+|   +---maildec2309
+|   +---mailjuly2110
+|   +---mailjune508
+|   +---mcurrent
+|   |   +---Cyberspace
+|   |   |   \---STONE
+|   |   +---Deleuze 2-1
+|   |   +---Deleuze Guattari Misc
+|   |   +---Deleuze list 1
+|   |   +---Foucault
+|   |   +---Future Culture
+|   |   +---Nietzsche
+|   |   +---PMC-list 1
+|   |   |   +---ARCHIVES
+|   |   |   \---INTRO
+|   |   +---PMC-list 2
+|   |   +---Pomo PS Philosophy
+|   |   +---Sondheim Texts 1
+|   |   +---Sondheim Texts 2
+|   |   +---Unix 1
+|   |   |   +---ELM
+|   |   |   \---VI
+|   |   +---Unix 2
+|   |   +---Unlabeled 1
+|   |   \---Unlabeled 2
+|   +---misc
+|   |   +---alanphoto
+|   |   +---org_app_display.cfm_files
+|   |   \---pmc
+|   +---moo
+|   |   +---coterm
+|   |   |   \---SUPFILES
+|   |   +---display
+|   |   +---irc
+|   |   +---kayo
+|   |   +---misc
+|   |   |   +---AUT
+|   |   |   +---DAZZLE
+|   |   |   \---GIF
+|   |   \---mtez
+|   +---old
+|   +---olderfrom128
+|   |   \---multi
+|   +---org_app_display.cfm_files
+|   +---panix
+|   |   +---a
+|   |   \---mail
+|   +---panix07
+|   |   +---a
+|   |   \---mail
+|   +---perth
+|   +---pmc
+|   +---program1
+|   |   +---basic2
+|   |   |   +---qbasic
+|   |   |   |   \---PROGRAME
+|   |   |   |       +---ADVR_EX
+|   |   |   |       \---EXAMPLES
+|   |   |   +---~jd
+|   |   |   |   +---New Systems
+|   |   |   |   \---OldSystem
+|   |   |   \---~SUBS
+|   |   |       +---games
+|   |   |       +---graphics
+|   |   |       +---sims
+|   |   |       \---texteffects
+|   |   \---QB
+|   |       +---ADVR_EX
+|   |       \---EXAMPLES
+|   +---QtPalmtop
+|   |   +---apps
+|   |   |   +---Applications
+|   |   |   +---Games
+|   |   |   \---Jeode
+|   |   +---bin
+|   |   +---help
+|   |   |   \---html
+|   |   +---java
+|   |   +---pics
+|   |   \---share
+|   |       \---zaurus-sky-explorer
+|   +---refrommurat
+|   \---ud
++---TRACE
+|   +---ex
+|   \---lost
+\---VIDEO
+    +---acker
+    |   +---AUDIO_TS
+    |   \---VIDEO_TS
+    +---agbounce1
+    +---agbounce2
+    +---agbounce3
+    +---agbounce4
+    +---agbounce5
+    +---agbounce6
+    +---agbounce7
+    +---agbounce8
+    +---agbounce9
+    +---agbounce91
+    +---agbounce92
+    +---agbounce93
+    +---agbounce94
+    +---cooper1
+    +---cooper2
+    +---cooper3pine
+    +---foofwadvd1
+    |   +---AUDIO_TS
+    |   \---VIDEO_TS
+    +---foofwadvd2
+    |   +---AUDIO_TS
+    |   \---VIDEO_TS
+    +---haptic
+    +---miami
+    +---moth
+    +---mound
+    +---prt
+    +---sludge
+    +---sludge2
+    \---tunneltalk

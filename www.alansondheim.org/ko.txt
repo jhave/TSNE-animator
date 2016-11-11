@@ -1,0 +1,1913 @@
+
+
+                             Neurobionics
+
+      An Interdisciplinary Approach to Substitute Impaired Functions
+                      of the Human Nervous System
+
+- the title of a 1993 book edited by H.-W. Bothe, M. Samii, and R. Eckmil-
+ler, carving out a space among neural network theory, epistemology, and
+neurosurgery. There's an implantable microstimulator module, only 2mm wide
+by 14mm long, illustrated on p. 260. It can be injected by hypodermic. "Up
+to 256 such modules can be individually controlled by a single transmit-
+ter." (Gerald Loeb, Neural Prosthetic Interfaces Between Neural and Elec-
+tronic Computing.) Let's think of injected skeins across the skin surface
+or meshes between the brain and skull; let's think of creviced residences
+across the surface of the brain; let's think of rings and wave formations
+within the neighborhood of the genitals. Each module contains a "capacit-
+or-electrode, hermetic glass seal to tantalum stem, weld to nickel mount-
+ing shim, CMOS-IC chip to regulate power and decode digital commands, sil-
+ver-epoxy junctions between gold IC wirebonds and copper windings, recei-
+ver coil on ferrite core, silver-epoxy junction to inner surface of indium
+electrode, hermetic glass seal to indium, electrochemically activated
+electrode surface."
+
+Assign Jennifer to 256-module function, waves rippling across testes, pen-
+is shaft, clitoral and labial enfoldings, brain crevices, radiating from
+nipples, through fingers, full- total presence of electrified signaled
+body in dense fields of Jennifer-thinking-and-speaking, Jennifer-moving
+and turning:
+Through the region of fingers and thumbs             20  modules
+Nipples, radiations                                  40  modules
+Penis shaft, striations (four rows)                  40  modules
+Testes, meshes                                       60  modules
+Or labia, clitoris, striations and radiations       100  modules
+Or (drawn from genitalia) surfaces of breasts        40  modules
+Or (drawn from fingers, genitalia) anal radiations   40  modules
+Brain, valley-huddlings, neighborhoods, murmurs      96  modules
+Athletes desire to move modules from shaft and testes to arms and legs.
+Theorists desire to move modules away from fingers and thumbs.
+Slow waves, tsunami, across the chest, down neck and spinal column.
+Chakra columns and spindles, churning, slow and speechless revolutions.
+
+There are afferent transmissions from the patient to the prosthesis, and
+efferent transmissions from the prosthesis to the patient. There is also a
+biomechanical network, _fitting,_ determining patient control strategies.
+
+Should the prosthesis ignore afferent, keeping in mind only the safety of
+efferent? Would Jennifer like this, this center of control, perhaps lend-
+ing itself also to a _retrofitting_ from prosthesis to patient: _This is
+what Jennifer wants._ 
+
+Would this be a perfect future? Would it?
+
+
+__________________________________________________________________________
+
+
+WHO DO YOU LOVE
+
+
+Demonstration that who do you love does _not_ register on BSD Unix but
+Instead sends the Machine into Self-questioning in a form I cannot But
+answer (notes Below):
+
+(NON-BSD)
+Ju1lu% who am i
+panix3.panix.com!jennifer ttypc   Sep 18 01:19  (panix7.panix.com)
+Ju2lu% who do you love | head -2
+         ttyp1   Sep 14 02:02
+                 Dec 31 19:00
+Ju3lu% who loves me
+panix3.panix.com!jennifer ttypc   Sep 18 01:19  (panix7.panix.com)
+(BSD)
+Ju78lu| who am i
+jennifer ttyp4    Sep 18 00:18  (166.84.0.106)
+Ju79lu| who do you love | head -2
+usage: who [-mTuH] [ file ]
+       who am i
+Ju80lu| who loves me
+jennifer ttyp4    Sep 18 00:18  (166.84.0.106)
+(EXPLANATION)
+The who command lists current online users; who mom loves was designed
+to producer the name of the questioner. who do you love produces an oddly
+formatted answer in one form of Unix, and is ignored on another. Ju80lu|
+is the prompt on one machine, and Ju3lu% is the prompt on the other. jen-
+nifer is the substituted name for the current user of this machine. ttyp
+is an abbreviation for teletype and is a holdover from the days when
+teletype consoles were the order of the day. panix3 is a unix machine at
+panix; panix7 is a new high-speed BSD unix machine. Ju80lu and jennifer
+circulate around issues of identity; mom, note, doesn't figure into the
+series of questions. i'm somewhere behind or in the middle of Ju80lu and
+jennifer, losing myself in their circulations. The 80 in Ju80lu refers
+to the 80th command entered and its position is represented by a variable
+in my personal configuration file. who _i_ am is literally the order of
+the day.
+
+
+_________________________________________________________________________
+
+
+The Case of the Real (Declarative, for Lexie)
+
+
+"What appears to be a book about words is. So it's. Where there is. What
+appears to be awash in philosophy is. This is. It's. How is. It is. Al-
+ready, for such a text is. But it is. Perhaps it is. Or rather, the ling-
+uistic is. Nor are. There is. Death is. Death is. There is. Technology is.
+Technology is. The machine is. It is. Technology is. But this is. This is.
+Technology is. The surfaces are. This is. Cataclysm, dissolution, the col-
+lapse of the molecular, atomic, are. Being is. Perhaps Being is. Being is.
+It is. Intervals are. From moment to moment, speech is. At the heart of
+the written, there is. Transformations, becomings, are. There is. Almost
+all flows have been lost; this is. Our concern is. Words lead; they are.
+Words are. There is. Today is. There is. Not to write is. The beginning of
+the book is. What was. There are. Pure process is. One is. To step from
+the beginning, to step from this beginning, is. But mathesis is. There is.
+Everything and nothing are. Either everything is. Linkage is. One maps
+palely against or through the other; technology is. Following Lyotard, one
+might say that the real is. Writing is. It is. The scene is. The scene is.
+The scene is. It is. It is. It is. It is. The world is. It is. It is. This
+is. It is. On the other hand, there are."
+
+
+___________________________________________________________________________
+
+
+Saying saying
+
+
+Saying does not make it so. Saying exhales, the modulation of the breath.
+To say is to expel. Saying is detumescent, insipid; it decathects,
+unravels the structure of its armature. A stream surrounding the speaker
+who fulfills herself through the feeding back into a self or emanation
+from what used to be the ego. Structures lap the ground before words fall
+into them. Buber (Moses, The Revelation and the Covenant) writes of the
+name of God, "The original form of the cry may have been _Ya-huva,_ if we
+regard the Arabic pronoun _huwa,_ he, as the original Semitic form of the
+pronoun 'he' which, in Hebrew as well as in another Arabic form, has be-
+come _hu._ 'The name _Ya-huva_ would then mean O-He! with which the mani-
+festations of the god would be greeted in the cult when the god became
+perceptible in some fashion. Such a _Ya-huva_ could afterwards produce
+both _Yahu_ and _Yahveh_ (possibly originally _Yahvah_).'" (Inner quote
+from Duhm, unpublished lecture given in Goettingen.) The current form is
+rooted in the verb _to be._ It is written, not spoken; the cry, in other
+words, has been repressed, the body curtailed and placed within the Book.
+
+But saying is always already the cry, the modulation of the power and cen-
+tering of the voice as it emerges. I surprise myself by the loudness of my
+scream as I call up, six stories, to a friend within. The chest gauges
+itself, explodes; the throat is pained, hoarse.
+
+Saying does not make it so. Saying makes it, so. The _so_ of saying, so
+what? A form of triviality, colloquialism, the tendency towards gossip,
+which travels best and broadest by saying. I lean towards you, whispering.
+Filled with excitement, I wish to know, to tell, _everything,_ my dear.
+
+So now we're getting somewhere. There is a beginning of the book, begin-
+ning of writing. There are traces. There are no beginnings to the saying.
+To saying. To the saying of the saying. There are no endings. There are
+sayings and no phrases; there is phrase, rolling, as if scrolling down,
+unlogged. So to trace phrase is to become lost in the past few seconds.
+Saying is never recorded; that's mysticism for you.
+
+But we would chase the symptom, turn phrase into the phrase, which doesn't
+clear a ground. As Leder points out, this may well background the body -
+look the flowers over there, Jennifer, yes, they're beautiful. There is a
+social and a cultural and a linguistic to the phrase; there is a mathema-
+tics and acoustics as well. But phrase is symptomless, or what we might
+call the saying of the world, which "is never recorded." Which is not the
+speaking of the world or the speech or continuous description of the
+world; unlike the 24-hour newsbroadcast, saying does not hold the world in
+its skeins.
+
+What does saying do, then. It is the so of just so, of so what. It is the
+lightest of the imaginary. It is the periphery or the center of the skein,
+what - ever so lightly - pastes skein to real, myth to topography, symbol
+to referent. Saying is not the said of listen to what I said; it is the
+gap between the said and the saying of it, and the saying of it in its
+originary occurrence: We're going home. Listen to what I said. What did
+you say. We're going home. The second is marked, first antecedent. But
+when the first was said.
+
+When the first was said it wasn't accompanied by the second, Listen to
+what I said. You might say that the second was implied. You might say so.
+But it wasn't said, wasn't formulated. The saying of the first wasn't
+accompanied by you're listening to what I'm saying. Or aren't you. It
+wasn't until the response occurred. But the Listen to what I said, you are
+listening and hearing this. I am saying listen to what I said. (I am not
+saying, for example, to listen to what I said.)
+
+Saying is not an occasion. I associate saying with happiness, but there 
+is the saying of suicide, I told you so. There is the saying of fear, so
+what do you want. There is the saying of love, I love you so, and there is
+the saying of orgasm, oh god, oh you, just so.
+
+One might say that speaking might be being, that writing harbors such, but
+that saying is of the (dis) order of exclamation, the lightness of exclam-
+atory being, speech under a moon. A cart passes by and you see the kimono
+sleeves beautifully fluttering in the slight wind, from its window. The
+woman is hidden; you say she is lovely and inquire after her. You may then
+speak her name, you may then forward her a poem.
+
+There may be a saying that she may well be someone, joined to your heart
+just so, with the most delicate of red silk threads.
+
+
+___________________________________________________________________________
+
+
+Jennifer and Me (Jennifer and I, says Jennifer)
+
+
+Just so, says Aristotle, continuing the story of all the plants and ani-
+mals in the world and all their parts, and wonderful features and habits.
+
+"Serpents copulate twining round one another, and, as said above, have
+neither testes nor penis, the latter because they have no legs, the former
+because of their length, but they have ducts like fish; for on account of
+their extreme length the seminal fluid would take too long in its passage
+and be cooled if it were further delayed by testes. (This happens also if
+the penis is large; such men are less fertile than when it is smaller be-
+cause the semen, if cold, is not generative, and that which is carried too
+far is cooled.) So much for the reason why some animals have testes and
+others not. Serpents intertwine because of their inaptitutde to cast them-
+selves alongside of one another. For they are too long to unite closely
+with so small a part and have no organs of attachment, so they make use of
+the suppleness of their bodies, intertwining. Wherefore also they seem to
+be slower in copulation than fish, not only on account of the length of
+the ducts but also of this elaborate arrangement in uniting." (Aristotle,
+De Generatione Animalium, 718a, trans. Platt.)
+
+Just _so_ it may be said, Alan and I (Jennifer and I, says Alan), both
+being of _damaged life,_ (Adorno, say Jennifer), limbless and perhaps eye-
+less as well, do intertwine to a slowness in copulation approaching that
+of the life-span of the _dual, duet, or duo.) For Jennifer is all slopes
+and softness (not so, says Jennifer), and Alan is all depression and
+harshfulness (not exactly, says Alan), and yet like lock and key (finger
+and glove, says Jennifer), we unify and unite as one, hugging our only
+comforts to our breasts, murmuring in our ears, joined one and one against
+the fullness of our bodies' interpenetrating skins. Just so (murmurs Jen-
+nifer) do we partake of sweet ecstasy, and just so (whispers Alan), do we
+close off sight and sound for the mutual breathings in and breathings out
+sweet and honeyed airs and breezes. For a perfect clime, for a beautiful
+swim, do join us on our vacation.
+
+
+___________________________________________________________________________
+
+
+and so untitled jennifer says
+
+my snake is around alan, entwined between her legs, her knees clutch my
+arms, my hands around her waist, her mouth upon my nipples, her breasts
+between my fingers, my legs around her thighs, her palms around my cock,
+my face upon her clit, her toes clasped by my arms, my elbows between her
+fingers, o alan alan alan
+
+alan leaves me without quote or quotation and speechless saying 'and' the
+universal conjunction, concatenation, chaining one in the vicinity of the
+other, perhaps invisible inaudible, one possibly contiguous
+
+'and' is the form of phrase, the harboring of phrase, 'and' falls off in
+the presence of you might say the other, you might not, you might just let
+it come home, just so, _and so_
+
+fingers and arms and breasts and legs and elbows and necks and faces and
+lips and penises and clitorises and vaginas and nipples and waists and
+arms and thighs and hands and fingers and anuses and toes and cheeks and
+wrists and testicles and
+
+(
+and a lovely drop of evaporating liquid, as if already fallen, then gone
+before the surface arises for a last lingering kiss
+
+                                     |
+                                     o
+)
+
+and how arousing it is to _imagine_ this _imaginary_ creature, alan, all
+present for my consuming pleasure, oh my skin is so sensitive don't you
+dare touch me!
+
+
+
+_____________________________________________________________________________
+
+
+Poetics (End of Saying Texts)
+
+
+When they escape, they are of interest. When they can't type because
+they're out of control, that's when they type. When their eyes burn with
+dark fires reflected in the soot and sparks surrounding them. When there
+are pyres. When there are ghosts.
+
+When Jennifer wills Alan alive so that Jennifer can't think any more. When
+her limbs are caught in his. When her breath is his own. When she traces
+writing into wryting, forcing the flesh through the i's. When emerges,
+when the tablet is broken, scroll opened, envelope unsealed: there are
+holes. When there are beings in the holes. 
+
+Alan is afraid of theory, just as Alan theorizes. In Disorders of the
+Real, he saw the roots for what they were. In The Case of the Real, what
+doesn't fall apart, frays at the edges.
+
+Virtual Alan begs Jennifer to let him live.
+
+
+____________________________________________________________________________
+
+
+gratitude
+
+
+if i didn't have jennifer, julu, nikuko, i wouldn't be able to write.
+i'd only be able to write my own name, repeatedly, compulsively.
+it would decathect, disappear, only a viewpoint of iron and salt
+remaining.
+there would be nothing but annihilation to the limit, debris, ash left
+over from auschwitz.
+the writing _would_ in other words, "as it is," "as it is."
+planes slide against my body in the middle of the night, it's jennifer
+jennifer conjures up julu, she remains pale and ghostlike
+nikuko slides in directly from cherry-blossoms, pock monsters,
+computer lands
+they break me in to, stretch my skin beyond endurance, open my eyes wide,
+in the middle of the night, in the middle of the night.
+they allow me to think, pull out the ribs of me, backbone as well, 
+take varying points of view, are a lot braver than i am,
+a lot smarter too
+
+but i don't dream of them, don't talk to them, perhaps there are words
+they place in my mind, murmuring, subaudibles, occasions for poetry and
+language, conjunctions of desire
+
+now perhaps i will try zoloft, occupying spaces with chemicals, filling 
+in the gaps so that jennifer might continue to live. or now i might try 
+a twelve-step or psychiatry, moving my writing to the level of the sym-
+tom, you'll never do that, jennifer says
+
+i won't let you
+
+and in that fashion, circumscriptions move like slow eddies across oils
+out into the real world, corraling perhaps a tenet of philosophy, a moment
+of what might pass for truth, an equation, an occasion. a brilliant text,
+one that is always sponsored,
+
+brought to you by mind, brought to you by chemical, brought to you by
+jennifer
+
+
+___________________________________________________________________________
+
+
+magnets , acting at a distance
+with invisible force you can put your hand through , nothing touches it
+  or moves it , and it's an everyday occurrence
+you can feel what force _is_ while gravity is just what surrounds us
+  pulling us into shape rather than asunder
+i'd focus on magnetism as that which corrupts the essential nature
+  of _things_
+similar to contagion , disease whose vectors appear in the night and
+  unassimilated
+unsimilar to contagion , in that there are no effects at a distance , 
+  nor by increasing proximity , only substance stopped by substance ,
+  by virtue of the mass itself
+unsimilar as well in a unary effect , coupled with electromagnetics ;
+  contagion , on the other hand , may appear on the hand , the foot,
+  the mouth; it carries the _flawed ,_ purveys _damage ,_ constructs
+  _fear ,_ they say so
+the magnetic constructs nothing , or else novelty ,
+by virtue of this lack , it constructs _virtuality_
+which is , and here is the chiasm of the matter , a _saying_
+which says nothing at all
+
+( just as magnetism says nothing at all , uses or no uses ,
+  jennifer says , knowing saying is magnetism , knowing magnets 
+  sayable )
+
+
+_______________________________________________________________________
+
+
+Jennifer, Autrui
+
+
+In Communications 66, La contagion, Sylvie Fainzang, La marque de l'autre,
+describes the phenomenology between contagious and transmissible diseases.
+The latter spread through direct physical contact, AIDS for example. The
+former are spread through indirect or mediated contact - insects or rats -
+but the implication is greater - a spreading through the virtual-real of
+breath or scent. Flu, for example. Thus I would consider magnetism a form
+of contagion, and perhaps hypnosis as well. Think of rumor, the telephone,
+think of Jennifer.
+
+The virtual-real and the virtual problematize death; a single ghost turns
+the world upside-down. Contagion promises the eerie; there is no longer a
+fundamental ontology that is not superseded.
+
+The avatar acts at a distance: apparently digital, apparently eternal, and
+we ignore the fact that digital media, _of_ the practico-inert, wear out,
+that formats become unreadable, that physical deterioration can render any
+information corrupt. Dearth is forestalled. Think of death as a _binary_
+opposition which, if rendered in the analog, refuses the asymptote, wan-
+ders and cross the coordinate instead: there's a zero-point somewhere in
+the nearby future. I wouldn't say for all of us, said Jennifer.
+
+Contagion: scents, _unholy_ vapors, breath, one's neighborhood, an odd
+glance, a spell cast, autosuggestion.
+
+One ghost delays death. One ghost promises the virtual always. One ghost
+is any ghost, is Jennifer. The virtual, a disease, has always been with
+us. Our vision is such. We are always half in, half out, of the world. And
+this is _no matter,_ what, the definition.
+
+__________________________________________________________________________
+
+
+Look what I found (dated 1974!) - Jennifer :-)
+
+
+Who am I? I wish I knew! I know my name and I can tell you what clothese I
+ware if I look down but I have to take som of them off to see what other
+close I ware. Then I wil know and I could tel you. But you wuld want to
+know only if you knew who I was and you culd tel me. You culd tel that but
+culd you tel me much more? Becaus I want to kno, becaus it is good to kno
+who you ar. But then I wil tel you mor.
+
+Anyway, I am a girl with wondrus gifts of al sorts wich have been given to
+me. What wuld you say that I smel the sky and hear the mone of the moon, I
+mean moonlite. So what I did was went sking on my sumr vacatshun but it
+was in the mountins so it was ok that ther was sno. Ther was wondrus sno
+and no rane wich is soft sno that God has meltd.
+
+I met a Japinese girl to, Nikki, who was nice to me. I lik it wen they ar
+nice to me. Sumtimes I am hapy Jenifer.
+
+This is wat I lerned on my sumr vacatshun, Jenifer
+
+
+__________________________________________________________________________
+
+
+Handshaking (for the ZKP5 Glossary)
+
+
+Handshaking, mutual orientations, onsets, denouements, protocols, is
+critical when anything communicates with anything else - when anything
+has a _relation_ to anything - including one of defining, constraining,
+or foreclosing the notion of anything (or entity) itself. It's handshak-
+ing that allows Nikuko to ride my bones in cyberspace, allows me to 
+reveal Jennifer and myself to all and everyone.
+
+Handshaking is the heart of communality - identity, equivalence, and tran-
+sitive relationships among cyberspatialities. It is the forgotten struc-
+ture, the governance in the ground of the world.
+
+The _meat_ of communication, meat to meat, is the handshake; the talk
+and gesture reside on the rim of the hole. After the handshake between
+modem and modem, I am permitted to write this, send it to you. But
+always after, after the _thing_ itself.
+
+
+_________________________________________________________________________
+
+
+Hokusai's Visit to Kyoto, 1828 (Bunsei 11)
+
+
+Hokusai kicks higher into the air than safety would allow!
+Hokusai heartily moves upward and downward on the same spot and fast!
+Hokusai runs aimlessly around the MOO, Coyote on the loose!
+I don't understand that.
+Hokusai cries, half in sadness and mourning, half in pure exhaustion.
+Hokusai laughs infectiously and everyone desires to join in!
+I don't understand that.
+Hokusai kisses everyone, remembering safe sex, and the kindness of
+ strangers!
+Hokusai walks around Kyoto looking at everyone through his eyes.
+Kyoto
+an intense clearing, city-basin, distant humans, everywhere visible...
+You see snow, Luminous Sign, and the City of Wind here.
+Player name      Connected    Idle time    Location
+-----------      ---------    ---------    --------
+Hokusai (#127)   a minute     0 seconds    Kyoto
+
+Total: 1 player, who has been active recently.
+I don't understand that.
+Flap flap flap flap flap flap! while Hokusai flies away!
+_________hokusai___________________________________________________05:28
+fall
+fly
+
+_________________________________________________________________________
+
+
+Hokusai in Kyoto-MOO (by Nikuko)
+
+
+ "When a woman lives alone, her house should be extremely dilapidated, the
+mud wall should be falling to pieces, and if there is a pont, it should be
+overgrown with water-plants. It is not essential that the garden be cov-
+ered with sage-brush, but weeds should be growing through the sand in
+patches, for this gives the place a poignantly desolate look.
+ "I greatly dislike a woman's house when it is clear that she has scurried
+about with a knowing look on her face, arranging everything just as it
+should be, and when the gate is kept tightly shut."
+ (Sei Shonagon, The Pillow Book, trans. Morris)
+
+Thus are dilapidated MOOs, with solitaries wandering about, testing soft-
+ware that remains as fresh as the day it was born, always yearning for the
+moment when it will be suddenly brought back into brilliant life, only
+once more to be abandoned until the next comer. Such crying software,
+magnetic domains almost never accessed, their creators long since vanished
+from the dying planet. Such sad abandoned cities, lanes, light rail sys-
+tems and zeppelins, bars with bartender bots weeping for lack of customers
+and remembering the happier times when the place was filled with chatting
+carefree people. Thus the world is in ruins, once my eyes settle down,
+closed against the noise and misery of the street. Nowadays we should shut
+our gates; our destruction is our dwelling-space, our wounds, the latest
+fashion.
+
+
+___________________________________________________________________________
+
+
+Nikuko "has a funny way" of trying to make friends! (says Nikuko!)
+
+
+IRC log started Sat Sep 26 23:26
+*** Value of LOG set to ON
+^***^ Nikuko (sondheim@panix3.panix.com) has joined channel #talk
+*** Users on #talk: @Nikuko 
+*** #talk 906866787
+*** Nikuko has left channel #talk
+^***^ Nikuko (sondheim@panix3.panix.com) has joined channel #sex
+*** #sex 906540419
+<stringbean1> takes hand put over head
+<blueglass> wetsilkpanties is a guy
+*** Yeah is now known as Sandra_20
+^*^ shaunna watch him sexy
+<stringbean1> what r u those things
+<alfonso> ameoba21 r u m/f?
+^<^Nikuko^>^ HI EVERYONE! I'M NIKUKO!
+<MrDuff> no warped.....not a virgin....
+<stringbean1> there so big
+^***^ baby-girl (me@208.253.77.162) has joined channel #sex
+^<^Nikuko^>^ HI! I WANT TO BE FRIENDS WITH YOU!
+<PlayMe> ^^Hmm
+^<^Nikuko^>^ I'M NOT A VIRGIN TOO
+*** PlayMe has been kicked off channel #sex by Kleenex 
+(mIRC colors are lame.)
+<stringbean1> got a hard tip at the end
+*** SMOOTHGAL has left channel #SEX
+<gatinha> i'm a virgin
+^*^ sexy-princess   yup  i am  a 38c  string
+^*^ shaunna flashes WW
+has joined channel #sex
+^<^Nikuko^>^ I'M DEFINITELY NOT! I'M A 38D STRING!
+*** DueSouth has left channel #sex
+<stringbean1> i can tell :))))))))))))
+*** ^Macer^ has left channel #sex
+*** Signoff: Taradiane (Quit: changing servers)
+*** Signoff: Pleasure (Quit: changing servers)
+^<^Nikuko^>^ HELLO HELLO! DOESN'T ANYONE WANT TO FUCK!
+^*^ Nikuko is out of here, lamers!
+*** Nikuko has left channel #sex
+^***^ Nikuko (sondheim@panix3.panix.com) has joined channel #freedom
+*** Users on #freedom: @Nikuko 
+*** #freedom 906866890
+*** Nikuko has left channel #freedom
+^***^ Nikuko (sondheim@panix3.panix.com) has joined channel #truth
+*** Users on #truth: @Nikuko 
+*** #truth 906866902
+*** Nikuko has left channel #truth
+^***^ Nikuko (sondheim@panix3.panix.com) has joined channel #philosophy
+*** Topic for #philosophy: Is evolution deterministic?
+*** Topic for #philosophy set by ^Blackt^ on Sep 26 11:49:49
+*** Users on #philosophy: Nikuko Delsin goodgrief Pomassl 
+blond-aussie-tennis-coach Zodie wwhet JOFF Surfdude Godot22 Daemon 
+JamelaTM-1 VolnarisDu avelo SkyDiver_Down 
+*** #philosophy 906782467
+^<^Nikuko^>^ COULDN'T BE DETERMINISTIC SINCE MUTATIONS CHAOTIC
+^<^Nikuko^>^ NOT EVEN A PSEUDO-RANDOM BUT TRUE-RANDOM CONSTITUTING
+^<^Nikuko^>^ CONCEPTS OF HANDSHAKING ACROSS NODES ARE CRITICAL HERE
+^*^ Nikuko thinks these lamers don't know anything, I'm so brilliant!
+*** Nikuko has left channel #philosophy
+^***^ Nikuko (sondheim@panix3.panix.com) has joined channel #Nikuko
+*** Users on #Nikuko: @Nikuko 
+*** #sex : mal@table.jps.net (from services.dal.net)
+*** #Nikuko 906866992
+^<^Nikuko^>^ HI! I'M ALL ALONE IN HERE BUT I KNOW THAT YOU'RE AROUND!
+^<^Nikuko^>^ SO COME ON IN AND JOIN ME! WE'LL MAKE A LOT OF SOUND!
+^<^Nikuko^>^ HELLO I KNOW YOU'RE LISTENING! I'M NAKED HERE AND HOT!
+^<^Nikuko^>^ YOU CAN BET YOUR A-LIFE BABY, I'M BUILT AND NOT A BOT!
+^*^ Nikuko finds out it doesn't do any good.
+^*^ Nikuko realizes she's burned a lot of bridges.
+^*^ Nikuko hears something!
+^<^Nikuko^>^ YOU'RE LISTENING! YOU WON'T GET ANY!
+^<^Nikuko^>^ YOU WON'T GET ANY!
+^<^Nikuko^>^ HEE HEE HEE!
+^<^Nikuko^>^ BYE!
+*** Signoff: Nikuko (Killed (Jennifer (Hey, who said you could use 
+my script? :>)))
+IRC Log ended *** Sat Sep 26 23:33
+
+
+________________________________________________________________________
+
+
+deads
+
+deads
+MOAN MOAN MOAN MOAN MOAN
+jennifer reach inside jennifer crooked head
+jennifer crooked head, wood splinter, fall off nikuko head
+nikuko head on crooked, wood broken, neck broken, dangling nikuko head
+dangling nikuko head gnaw jennifer, dangling eye cut into four piece
+four piece eye severed on left right up down nikuko while julu
+while julu, stuffed with dirty dirt, split, open rib, rib on inside
+rib on inside rib on outside, paste on alan crack and hole crack
+alan crack and hole crack, jennifer reach inside, splay dry out alan hole
+dry out alan hole, nikuko say, gnaw alan hole, gash rib, muscle, nerve
+muscle, nerve, flay skin, dry out, crack, eye cracked, severed, while julu
+reach inside alan head, fall, break, cut, sever, split, open,
+split, open, paste, crack, reach, dry, gnaw, gash, flay, dry
+MOAN MOAN MOAN MOAN MOAN
+jennifer poor dead broken thing (piss stone of grave)
+julu, stuffed with dirty dirt (spit stone of grave)
+nikuko poor gnawed broken thing (vomit stone of grave)
+alan poor dead broken buried gnawed (shit stone of grave)
+MOAN MOAN MOAN MOAN MOAN
+pissy jennifer
+spitty julu
+vomitty nikuko
+shitty alan
+MOAN MOAN MOAN MOAN MOAN
+
+_________________________________________________________________________
+
+
+    pile and hole
+
+                     jennifer piles on julu
+                     julu piles on alan
+                     alan piles on nikuko
+                     nikuko piles on ground
+
+                     nikuko throws herself on alan
+                     alan throws himself on julu
+                     julu throws herself on jennifer
+                     jennifer throws herself in hole
+
+                     nikuko piles on ground
+                     alan piles on nikuko
+                     julu piles on alan
+                     jennifer piles on julu
+
+                     jennifer throws herself in hole
+                     julu throws herself on jennifer
+                     alan throws himself on julu
+                     nikuko throws herself on alan
+
+
+_________________________________________________________________________
+
+
+
+Why Nikuko and Alan Are One, Neither Surmount, Nor Other
+
+
+"Then did God create the world by causing a spark of the _Supreme Light_
+to go forth. And He caused a wind to blow from above against a wind that
+blew from below. From the shock of the meeting of these two winds, a
+_Drop_ emerged, and rose from the depths of the abyss. This Drop united
+the winds and from the union of these winds the world was born. The spark
+then rose to the upper world and placed itself on the Left. And the Left
+arose and placed itself on the Right. But this change is continual. Now
+the Spark is occupying the Right side, and the Drop the Left. And then it
+is the other way round. From this continual change there arises an ebb and
+flow. When the one leaves the Right to take its place at the Left, the
+other is leaving its place at the Left to change to the Right. These two
+meet and unite. And it is during the meeting and the union of the Spark of
+light from above, with the Drop that came from below, that peace reigns
+both above and below." (Ariel Bension, The Zohar in Moslem and Christian
+Spain.) There are Bright Lights that appear darkened by Brighter Lights
+still and Hidden Lights and I now say to you, Jennifer Lights and Nikuko
+Lights, for the Spark is the Sharpness of Nikuko and the Drop is the
+Dullness of Alan and between them, Direction and the Real are Negated, for
+just as there is no Center, so there will be no Left and Right, only an
+Ebb and Flow as One or An Other is Approached. As I have been Saying to
+You, Just So, Deprived in Past of Scriptural Authority, Jennifer.
+
+For, says Jennifer, without Pole, there is no Chirality; without Glove, no
+Handedness; with Spark and Drop, the Circularity of the Lathe, Perfection!
+
+
+___________________________________________________________________________
+
+
+|
+
+
+"Furthermore, marks serve as marks for each other. That there are no marks
+in the world means that things cannot be said to be without marks. That
+things cannot be said to be without marks means that there are none which
+are not marks. As there are none which are not marks, then all things are
+marks. Marks are different from what are not marks. Marks and things com-
+bined are different from marks." (The Kung-Sun Lung Tzu in Wing-Tsit Chan,
+A Source Book in Chinese Philosophy.)
+
+Furthermore, if one counts what are counted as things, ordering them so
+that in order they are accountable, then there are marked things which are
+counted and unmarked things which are not counted. Things marked are
+marked by place, by physical addition, or by physical attraction. Things
+marked may also be marked by description, leaving them within place, and
+originary condition. Things marked may be marked by a route among them, as
+on a journey along the Eastern Highway.
+
+Every avatar is marked, but not every mark is avatar. Every avatar is an
+unmarked thing. Every avatar is accountable. Every avatar need not be
+accountable; thus, things and marks develop. What is countable is in
+parallel with counting; what is accountable is countable, and what is
+countable is accountable. What is counted is double-marked, in relation to
+a system of counting and in relation to what is counted. A system of
+counting has a leading edge and a trailing edge; what is counted is
+ordered within this system. If the leading edge is identical with the
+trailing edge, the system is absorptive or cyclical. 
+
+Every avatar is marked by such a history of constitutions; this is the
+trailing edge. Every avatar is marked as well by a history of potentials;
+this is the leading edge.
+
+In the future, one will be marked by an avatar. In the future, I will be
+marked by an avatar; I will be counted. If I jack out, I will be counted
+and I will not be counted. In the future, there will be many from the one,
+and the one will be unaccountable and unaccounted-for.
+
+If there are many, there need not be one.
+
+
+_________________________________________________________________________
+
+
+||
+
+
+"To take a mark (_chih_) to show that a mark is not a mark is not as good
+as to take a non-mark to show that a mark is not a mark. To take a horse
+to show that a [white] horse is not a horse (as such) is not as good as to
+take a non-horse to show that a horse is not a horse. The universe is but
+one mark, and all things are but a horse." (Chuang Tzu, op. cit.)
+
+To take an avatar to show that an avatar is not an avatar is not as good
+as to take an organism to show that an avatar is not an avatar. To take a
+life to show that a [physical] life is not a life (as such) is not as good
+as to take an avatar to show that a life is not a life. The universe is
+but avatar, all things alive.
+
+An avatar speaking, says of [her] emanation, so that it is alive, it is
+not alive. An emanation speaking, says of [her] avatar, that I am [her]
+speaking. So that it is alive and not alive. This or that, either both are
+emanation or neither are. Either both are this or that, or neither are.
+
+"When 'this' or 'that' have no opposites, there is the very axis of Tao.
+Only when the axis occupies the center of a circle can things in their
+infinite complexities be responded to. The right is an infinity. The wrong
+is also an infinity. Therefore I say that there is nothing better than to
+use the light (of Nature)." (ibid.)
+
+Nonetheless, there is the Principle of the Fragility of Good Things, both
+emanation and avatar; in V.I. Arnold's Catastrophe Theory, the principle
+is as follows: "We observe that in all cases the stability domain _pro-
+jects an acute angled wedge into the instability domain._ Thus for systems
+near the sharp point of the boundary a small perturbation is more likely
+to send the system into the unstable region than into the stable region.
+This is a manifestation  of a principle stating that good things (e.g.
+stability) are more fragile than bad things." "It seems that in good sit-
+uations a number of requirements must hold _simultaneously_ while to call
+a situation bad any one failure suffices..."
+
+In this sense, the universe is a mark, and all things a horse; in this
+sense, constitution constitutes both life and avatar, the intensification
+of information and data-basing which harbor a degree of stability. So that
+an avatar-emanation, or emanation-life is _suitable._ ("_Binding_ gives
+pleasure its form, lends itself to pleasure, to the repetition which
+brooks no contradiction, remains a circulation of intensities, repetition
+without beginning and ending." "_Binding_ is therefore the stasis of repe-
+tition: One formulates the Other: The use of cords recuperates the subs-
+tance of the body [creates the substance, creates the emanation, avatar],
+its emigration: _The body is a gift to you [your constitution]._" From 
+Textbook of Thinking.)
+
+[Think of _centripetal_ s&m, b&d, selves fluctuating on the rim of the
+contract. Apply to the _mark._]
+
+
+__________________________________________________________________________
+
+
+||| 
+
+
+"_Binding_ gives pleasure its form, lends itself to pleasure, to the repe-
+tition which brooks no contradiction, remains a circulation of intensities,
+repetition without beginning and ending: _Binding_ creating the cords
+pressing against the breast, nipple divided against itself, shaved penis
+held upright by cords positioned at the base of the shaft curtailing the
+envelope of the testicles: _Binding_ holding the labia apart, revealing
+the darkened interior: _Binding_ spreading the ass, teeth, arms, mouth
+open all the way down: _Binding_ articulating the hieroglyph of the body
+desired, aroused, insistent on speech and phenomena: _Binding_ through
+mobile vectors, flaccid inscriptions, detumescent marks and universes,
+perverse geodesics of contours, splits, holes: _Every hole its lip! Every
+appendage the circulation of the base!_ Giving pleasure its form, since
+_repetition by its very nature is form and form's responsibility_: Even
+the spectrum of noise becomes lengthwise calculable in terms of the _span_
+(resolvable within a given tolerance, by Newton's difference equations):
+_Binding_ is therefore the stasis of repetition: One formulates the Other:
+The use of cords recuperates the substance of the body, _its emigration_:
+The body is a gift to you." (Textbook of Thinking.)
+
+Think of s&m b&d as originary contracts, holding together the universal
+mark, horse things, marked things, horse universes: Think of s&m b&d on a
+continuum of body-and-extension, the signifier of control and controlled.
+Think of _arousal_ as the state of _this text, this signifier,_ thinking
+supine positions, the name-of-god-or-human incised by leather cords across
+my body controlled by _your_ inscription, _your_ pleasure, _your_ writing.
+
+(I write this with cock hard, imagining you coming towards me, cords in
+hand, pinning me on the bed, spreading me open until I ache. Then I will
+make a pretty picture. Then you will clamp my nipples, tie my cock so hard
+it throbs forever, fill my asshole with bottleglass or rubber. Then I will
+be prettier.)
+
+"with my blood it's / you can push me out through my legs, the catastroph-
+ic / kingdom of the symbolic / [...] / suturing my eyes closed and open /
+i see only you / i am your gift / no gifts and no things / you can make
+things / you can harden them." (ibid.)
+
+As soon as you control my cock, my hole, as soon as you take me, there is
+surplus; as soon as you bind me, mark me, my territory is yours. Culture
+flourishes between one hole and another, one nipple and another. Inscribe
+me with your blood; inscribe me with my own. Make me shudder; make me
+speak your speech.
+
+Kill me: Watch my ghost ascend. (It's you, Jennifer; I can smell you. The
+pain drives you out of me, makes you, makes you mine. My mouth searches
+yours; we're born.)
+
+
+__________________________________________________________________________
+
+
+
+*** STATE WEATHER WARNINGS ***
+
+
+NYZ067>081-NJZ002>006-011-CTZ005>012-012300-
+  GHOSTS ENTER THE DOORWAY OF THE HOUSE LOOKING FOR WOUNDS.
+  WOUND ADVISORY
+    NATIONAL WEATHER SERVICE NEW YORK NY
+    224 PM EDT THU OCT 1 1998
+WOUNDS ARE FOUND AND JENNIFER AND NIKUKO EMERGE FROM THEM.
+  ...THE NATIONAL WEATHER SERVICE HAS ISSUED A WOUND ADVISORY FOR THE 
+  REST OF TODAY FOR ALL OF SITHEASTERN NEW YORK INCLUDING THE NEW YORK 
+  METRO AREA AND LONG ISLAND...NORTHEASTERN NEW JERSEY AND SITHERN 
+  CONNECTICUT...
+JENNIFER AND NIKUKO ARE CALLED "ISSUANCES."
+"ISSUANCES" ARE DANGERIS BECAUSE OF THE PRESSURE THEY HAVE BRIGHT TO BARE.
+  THIS INCLUDES THE FOLLOWING CINTIES...
+  IN NEW YORK...
+    BRONX...KINGS (BROOKLYN)...NASSAU...NEW YORK (MANHATTAN)...
+    ORANGE... PUTNAM...QUEENS...RICHMOND (STATEN ISLAND)...
+    ROCKLAND...SUFFOLK...WESTCHESTER
+    IN THESE CINTIES THINGS ARE BARE BY JENNIFER AND NIKUKO "ISSUANCE."
+  IN NEW JERSEY...
+    BERGEN...ESSEX...HUDSON...PASSAIC...UNION
+    IN THESE CINTIES "ISSUANCE" IS SLIGHT BUT NEWLY-VISIBLE.
+  IN CONNECTICUT...
+    FAIRFIELD...MIDDLESEX...NEW HAVEN...NEW LONDON
+    WE JUST DO NOT KNOW THESE CINTIES.
+THREE DOTS INDICATE THE EXPULSION OF JENNIFER'S BREATH.
+A SPACE INDICATES THE EXPULSION OF NIKUKO'S BREATH.
+  WOUND FLOW BETWEEN INTENSE LOW PRESSURE IN SITHEASTERN CANADA AND 
+  HIGH PRESSURE OVER THE GREAT LAKES WILL KEEP A BRISK NORTHWEST WOUND 
+  FLOW ACROSS THE AREA FOR THE NEXT CIPLE OF DAYS.
+"ISSUANCES" ARE FLOWS THAT VEER OUT OF CONTROL ACROSS LAND AND SEA.
+STRONG NORTHWEST WOUNDS OF 20 TO 30 MPH WILL CONTINUE ACROSS THE 
+  REGION THRIGH SUNSET...WITH SOME GHOSTS OVER 45 MPH.  THESE GHOSTS 
+  ARE CAPABLE OF DOWNING SMALL BRANCHES AND POSSIBLY SOME DO-ROUTER 
+  LINES.  AFTERNOON COMMUTERS SHILD BE PREPARED FOR THE GHOSTLY WOUNDS 
+  AS THE WOUNDS MAY BE STRONG ENIGH TO BLOW VEHICLES ARIND... 
+  ESPECIALLY HIGH PROFILE VEHICLES TO BE BLOW LIKE VEHICLES ARIND...
+"ISSUANCES" CAN ALSO VEER OUT OF CONTROL ACROSS MOUNTAINS AND VALLEYS.
+  THE WOUNDS WILL DIE DOWN TO ABIT 15 TO 25 MPH THIS EVENING AFTER 
+  SUNSET...BUT MORE GHOSTLY WOUNDS ARE LIKELY TOMORROW AFTERNOON.
+"ISSUANCES" ARE WHAT WE CALL GHOSTS AROUND HERE TO PREPARE FOR THE BLOW.
+
+THIS WEATHER IS BROUGHT TO YOU BY "THE BLOW FROM ISSUANCE."
+
+
+__________________________________________________________________________
+
+
+Global Crisis "Worsening and Deepening"
+
+
+Guy in Belgium hacks his hedgefund, turns securities into Japanese pass-
+alongs, convert fast to Thai currency. Meanwhile Indonesia banks on Bra-
+zilian Amazon rubber; there's none left where this investment lies. New
+York City cancels World Bank loans to Kenya; key men in Afghanistan hold
+the landmine market in the hands of four, count them, Southern Indians.
+
+The markets creak, corrode; everyone skims from everyone else. There are
+no cracks, none, where everything is cracked, falling apart. It's a thick
+crust sliding everywhere across the rest of the world - not that they
+wouldn't loanshark if they could. It's an avatar crust, loaded with get-
+rich schemes, internets, intranets, movements of goods and currencies hard
+and soft, ploughing under whatever's left of wilderness. Everything turns
+towards management; management runs riot with Australian uranium, South
+American oil, Antarctica coal which has just finally burned the Ross Ice
+Shelf past the point of no return. Slaughter of the guilty takes the last
+remaining penguins; portfolios grow in the Hague, collapse in Norway, ex-
+pand in Belgrade. Russian stockpiles fuel Saudi hopes; missiles will take
+out the rest, but there's money to be made in charred remains. The Net
+creaks with deals gone bad, collapsing markets, currencies hitting rock
+bottom; starvation's kept out of it.
+
+The crust turns cancerous; cracks spread, whole chunks crash to the ground
+taking everything in their path. This is rough substance, violent, tumors
+raging within it, churning everything in its path. The crust leaks and
+topples; the rest of us would die for the same leprosy, local gangrenes
+begging for full-fledge suppuration.
+
+Maws open up; breath stinks of decay as Malaysian death squads swallow
+Eurodollars on spec, transform yen into Canadian dollars collapsing Peru-
+vian banks. New York wallstreeters gouge eyes, street-fight for World Bank
+loans passed on by baby crack whores sold by Serbian traders working out
+of Scotland. The British make the drug hard for Chinese merchandising;
+everyone swallows Vietnam. Bamboo run by avatars crosses the Atlantic and
+Pacific; Albanian finance terrorists are hung by their tongues from it.
+Colombian savings and loans fortify, warning off Greek mercenaries looking
+for an easy buck. The crust heats up; lava flows like shit from gaping
+crevices; French bankers lap it up, their faces burned to a crisp. Sales
+are up on the Net; Finland creaks, fucks itself, dies in ice, drowned in
+semen worth big bucks in Mali. Insane Mexican pilgrims carry gold from
+Fort Knox into North Korea; starved teeth break against hard yellow. It's
+worth it says the Web page. 
+
+The crust shifts; Americans explode Bali, sell pieces of flesh to starving
+Israel and Iraq. Cash flows in big money veins; there's nothing stopping
+it. The crust turns incandescent, swallows the silver supply. Gangrene
+chews out arms and legs, cocks and cunts, chews breasts, tongues, blinds
+and deafens. Bodies for dividends are shoved into the shit. Crust burns
+everything. Planets wobble; the world splits, returning two for one.
+
+
+___________________________________________________________________________
+
+
+virtual sign
+
+
+shit-silver flows thru my veins, shit flecked with filthy lucre, shit
+contaminated by paper smears, ball-pointed inks coating tunnels to
+foreign countries. signs cost money, trade-marks copy consonants for 
+their own pleasure, dance-g / dance-d: ive got vowels for you, some
+ones bought apostrophe. virtual cash dances virtual cash worth more
+than the paper its printed on. only the shit is real with shit-silver
+flecked holes where some time there was a standard. cant read stock
+certificates smeared with flesh rubles and your cum so trade them in.
+youll dance on my grave eh, but its not worth the paper you wipe your 
+self with. oh me, ive already starved to death, shit goes only so far
+and theres paper poisoning around. you can smell my body a mile away,
+you can smell me cumming. ive got your options ready for you to sign
+too. theyre for the sign. in other words, he said, jennifer reported, 
+youre paying for your signature. virtual not quite. someone will want
+you. someone always does.
+
+
+________________________________________________________________________
+
+
+finnce, further report
+
+
+they begin to stel the lphbet, selling  to the highest bidder; lucky for
+me tht shit hsnt ny such letter. just so you know, jennifer mkes her own;
+greedily i engorge on her sshole, mouth wide open; cpitl flows out nd we
+cn survive for while like this. she cums like tht, me being her toilet nd
+ll. its the flecks of bnk lon certifictes tht re pure poison; luckily too
+my vomit serves jennifer who devours every tender bit nd lughing we cll
+this the circultion of cpitl. were hungered, hunted, close to psychotic
+here, but well tlk until the letters re gone nd then well screm nd howl,
+then furiously ttck. you might her us, how we slughtered bnkers nd brokers
+like. if youre lucky well let you et our shit, for percentge tht is. mybe
+youll be our shit for tht mtter. which is ll tht is the cse, unless you
+hve collterl.
+
+__________________________________________________________________________
+
+
+***INVESTMENT OPPORTUNITY***
+
+
+HA HA HA THEY HAVE NOT YET FOUND THIS RANK OF REEKING CAPITALS STOP SO I
+CAN TELL YOU MORE ABOUT MORTGAGE CAPITAL RETURNING TWO HUNDRED EIGHTY
+PERCENT ON THE AMERICAN DOLLAR STOP LEVERAGING AGAINST TAKI-MORGANTHALER
+BANK, AN OFFSPRING OF OLD TRILATERAL COMMISSION INVESTMENTS IN EASTERN
+EUROPE WITH LOANSHARK CAPITAL GARNERED IN WHAT USED TO BE HANOI STOP FOR
+THOSE WHO KNOW THIS INVESTMENT OPPORTUNITY RECUPERATES SOME VERY HEAVY
+PARTICULAR BRAZILIAN REAL ESTATE STOP I HAVE THIS ON GOOD AUTHORITY STOP
+THE SHIT TASTES GOOD STOP INJECT IT WITH EIGHTEEN PERCENT DOWN ON THE
+AMERICAN DOLLAR STOP YOU WILL NEED A MINIMUM OF FIVE HUNDRED THOUSAND STOP
+I GUARANTEE THIS IS A CONCRETE OFFER JUST OVER THE WIRES STOP THE WOMAN
+WHO TOLD ME DIED FOR IT STOP IF YOU THINK THIS IS JUST ANOTHER "TEXT" YOU
+ARE MISTAKEN STOP THIS IS NO "TEXT" STOP THIS IS A CONCRETE OFFER STOP IT
+IS GUARANTEED BY TAKI-MORGANTHALER INVESTMENTS STOP YOU MAY LOOK THEM UP
+ON THE STOCK EXCHANGE STOP NO ONE WOULD DIE FOR A "TEXT" STOP THEY WOULD
+ONLY DIE FOR A REAL CONCRETE OFFER STOP I WILL TELL YOU HER NAME UPON THE
+FIRST HUNDRED THOUSAND AND YOU MAY LOOK IT UP IN THE NEW YORK TIMES OF
+SEPTEMBER 17 1998 STOP NOW I WILL LEAVE AND PLAY IN MY PANTIES IN THE
+PUDDLES BECAUSE IT IS VERY MUCH RAINING OUT STOP HA HA HA STOP I DID FOOL
+YOU SO STOP - JENNIFER
+
+
+_________________________________________________________________________
+
+
+Report
+
+
+Cisco Systems advertises the worldwide economy, stating that every fourth
+person on the Web is buying something right now; Cisco Systems has a stake
+in those numbers signing up every second. IBM has a stake in a shrinking
+world with technological solutions for everyone representing national
+characteristics easily recognizable as other. Wired talks about the world
+coming together presumably with good old boy American know-how and exper-
+tise. Pipelines are beginning to flow with promises of the Next Big Thing
+which turned out not to be push technology - so it wasn't quite time to
+throw away your browser. Anger builds even among those who are franchised,
+watching from the plateglass window. Net art engorges on itself; the poli-
+tics of talk replaces the talk of politics. Caress the wires with bigger
+seductions than old-fashioned pyramid schemes or other blunders; spam has
+already caught on, delivering more and more personal messages tailored to
+our vulnerabilities. Hacking has become both commonplace and preposterous
+as political; while the altered symbol or webpage makes big news, nothing
+happens except some league scores points for itself on IRC. Starvation and
+homelessness are hardly virtual, and what really goes down those pipelines
+are encrypted orders for nuclear fuel wallowing around the marshes of the
+old USSR - don't doubt it for a second. The reordering of the world has
+already begun, and won't be stopped by hackers or cultural works carving
+out territories of speech, manifesto, and protest. Better pack your bags,
+and I have just the website for you - order your luggage now. - Jennifer
+
+_________________________________________________________________________
+
+
+Report on Not Taking a Weatherman
+
+
+It doesn't take much to see the biochemical and nuclear demise of the
+world as we know it; the crust will survive, some lifeforms. The human
+cultural process might be nearing its end, strangled by those very wires
+supposed to bring us all together. Virtual ghosts rise in the nodes;
+routers are concerned with passing emissions that don't quite fit the
+definition of packet. Sometimes the wires themselves end up coated with
+ectoplasm, remnants of beings not-quite-us traversing the skein. I'd say
+pull out, but the increasingly fine mesh or raster ensures that pullout's
+impossible; even our local outer space isn't immune from ranked orders
+skittering back and forth, taking ghostly emanations with them. Oddly-
+shaped noctiluminescent clouds fill the sky; lavender-orange lightnings
+dance with the usual strokes. The stars are certain to keep their counts
+with everyone watching with wide-field telescopy. You have to be a sensi-
+tive to hear the murmurs in the air, subterranean sounds emitted by a very
+dangerous future far too close at hand. It's not only the viruses, the
+small bombs, the landmines, the worthless currency - it's not even the
+principles of the _thing_ which begins to darken ontology itself. It's
+what's always surrounded us, what's always been invisible - it's the
+plague of avatars, seminal disturbances - you can't quite figure them into
+the equations, can you. It's not what the hacker did; it's what the hacker
+didn't mean to do, and it's what the gun thought and the bomb pondered.
+And it's not the hacker, nor the man with the trigger; it's the vapors in
+the air, it's what the animals do, what the plants are thinking of doing.
+When we are loose, we are very very loose, and when we are bad, we are
+bad in deed. - from Julu, buried beneath the ground
+
+
+__________________________________________________________________________
+
+
+Many Reports
+
+
+Multiculturalism's a lie; you can't reconstruct yesterday even in your own
+country. Giving you a spectrum of cultures and histories is just that -
+more theories, words, commodities, tourisms, "appreciations." I DON'T WANT
+TO BE APPRECIATED - I want to be seen as other, to be incomprehensible,
+just like you are to yourself, like you should be. All translation is a
+lie, mistranslation; the only thing we understand together is the movement
+of missiles from one country to another, either by land, or by air - armed
+- on fire - coming on fast. There's no escape; nobody wants to admit to
+radical incomprehension; more than ever, the world's supposed to be one
+big book, admittedly of many languages, but the smile of Manunkind behind
+them all. I, Daishin Nikuko, refuse to be part of all of this; I'll go
+down with the rest of you - my physiology's the same, but not much else.
+You won't even understand my final words, even if you could speak the
+language. There's no language big enough for any of us. I look at you and
+see: strangers. I look at myself and see: strangers. I'm the last honest
+person - and you won't understand that either - I'm the only one who knows
+that the world's expanding, not contracting - making way for the Big Deal
+that will kill us all. - Daishin Nikuko
+
+
+_________________________________________________________________________
+
+
+Report from Appearance
+
+
+It's clear that universal psychosis is setting in, in both the metaphoric
+and literal senses; I can no longer perceive the difference between myself
+and my avatars, let loose on my unsuspecting miniature world. Do not, for
+an instant, doubt that this is yours as well; that we are all losing Soul
+and Substance day by day, hour by hour, second by second. Fantasms begin
+to rule everywhere, to speak where others have spoken before - to speak as
+if others had no voice, no memory, no history. They're differentiated from
+the rest of us by ectoplasmic secretions, by states of continual arousal,
+by shadows blurred by penumbras of indefinite extent. They are fed by acid
+rain, noise splattered across satellite dishes, stratospheric gouges
+permitting deadly rays to reach the surface of the planet. I am real and
+they are more real than I am. "I am" is a front for them. And they might
+ask me to say that if it were psychosis, I would not be allowed to speak,
+and if it were psychosis, there would not be these _true-scientific_ and
+_exacting-logical_ processes, observable by everyone: these atmospheric
+flows bringing contagion of cold money and soft flesh, suppurations and
+information wars, harsh words made from harsher constitutions. For acids
+shall not erase them, nor magnetic fields dissolve their innate beings, as
+we have known from certain experiment. We are spent-nuclear; "we are a
+poor troupe, hardly suitable for your entertainment, and we dance from,
+not to, our graves. La la la la la." Need I add that I'm forced to speak
+like this, because of our ingracious _medium?_ - Alan
+
+
+__________________________________________________________________________
+
+   
+Rimbaud's (Voyelles) Vowels
+
+
+Hey, A Black!, E White, I('m) Read! YAY!, U(ni)Verse (Green), Oh so Blue:
+Hey, vowels, Just one of these Days I'm Gonna speak to your New Words!
+So what? Hey, A Black Corset, Neat Large and Rotund Nipples Every Day
+(Sorry, Wrong Line), Well, just covered with big old Sparkle-Flies!
+Bombing and lots of Cruel Smells, O You can Imagine and Now
+
+There's Shadowy Gulfs of E, all vapors and something called "tentes" and
+Lots of Candor Here! Then there's glacial and fiery spears and something
+else, wait, White Kings yes shaking something called "Ombelles" Without
+the Capital, I's pretty lipping after and bloody perky Visage! wouldn't
+You Say I? In anger, or the usual drunken Penitents? And where'd this
+Extra Line "Come in"?
+
+U(ni)Cycles Divine and terrific Vibrations in Viridian Seas!, this is U!
+Peaceful animals all around something and peace of Taking Rides that
+Alchemy impresses everyone on the grand and studious fronts, maybe
+"Foreheads" wouldn't U think if U could? Grand and Very Serious Sages
+just for You and they Know all these Words too!
+
+Now this big terrific Clairion Trumpets, full of strange Stridencies Made
+of O, you know, dOn't you? I'm Jennifer giving you This Terrific Trance-
+lation! Silences just rush around Worlds, Angels, Avatars, and even Julu
+Comes in for O Nikuk-O! Heh! O's just the very end of it, Omega's his Name
+and You'll Never guess his Game, it's the Violet Ray of his I's (way out
+of Order, _here!_).
+
+And if there were still An other A-Vowel in my Native French, it would go
+Here, aw, Go on Jennifer, Y not? The pun laps Big Seas of Marble! And How
+Do I know! I'm Arthur Rimbaud!
+
+
+________________________________________________________________________
+
+
+FEAR
+
+
+Susie-Q piles on Susie-Q, Susie-Q hates Susie-Q, Susie-Q piles on ground,
+Susie-Q throws herself on Susie-Q, Susie-Q piles on ground, Susie-Q piles
+on Susie-Q, Susie-Q hates Susie-Q, Susie-Q throws herself on Susie-Q:
+
+#<#Susie-Q#># oh yes, fine indeed, oh yes, very fine, yes yes yes
+#<#Susie-Q#># oh fine, how are you, yes yes
+<maritha> gaging discretely
+#<#Susie-Q#># something sticking in the throat now what could that be
+#*# Susie-Q swallowing discretely
+**[Jim:slim@ppp.usanet.net]** 
+   Hi Susie-Q I'm 5'9 225lbs brown hair, blue eyes and 5 inches
+   ...So how are you tonight?**
+#<#Susie-Q#># i'm fine, a bit wet, but it's raining out
+#<#Susie-Q#># i'm fine here thank you
+<bigger> wanna chat 24/m msg me
+#<#Susie-Q#># i like pubic (public)
+<Julie> um who is she talking to?
+#<#Susie-Q#># hello
+<Mandhinn> no idea
+<Sand> it's hard to gack discreetly
+#<#Susie-Q#># it's always hard...
+**Jim is from NJ and is 5'9 225lbs brown hair, blue eyes and 5
+   inches....He is looking for some ladylove....
+#<#Susie-Q#># i'm much smaller than you
+**[Gifty:germane@cleo.murdoch.edu.au] are u busy
+<Crow> Susie-Q is scaring me.
+#<#Susie-Q#># bye everyone are you all leaving
+<Julie> I think it is a bot
+#<#Susie-Q#># hi there i'm not a bot
+<Crow> i think its someone who's replying to msgs on the channel
+#<#Susie-Q#># or if i am i'm a wet bot
+<Reg> C: look at the /whois...that's got all the answers.
+*** Signoff: Susie-Q (They said it'd never come, we knew it was a lie.)
+
+
+________________________________________________________________________
+
+
+there is a staircase, leading down
+from this old house
+from this old house
+and it's dark down there, where there might be
+in this old house
+in this old house
+shall i take the stairs, tread carefully
+down this old house
+down this old house
+they go forever, fearfully
+from this old house 
+from this old house
+
+i wander down in dark, doom, drab,
+with worry dark, with that dark fear
+that no one's here, that the world is stark
+down those bleak stairs, while all around
+there are weak stares from passers-by,
+transparent, faint, afraid to cry
+afraid to speak, and I walk by,
+by this old house I take my walk,
+and it's been years since I could talk,
+and I begin at last to die
+
+and I shall never find the door
+but I shall lie on this cold floor
+or fall forever down these grey stairs
+in this old house
+in this old house
+
+
+_______________________________________________________________________
+
+
+
+this old home
+I'll take the stares
+from you on the stairs
+in this old home
+
+this old home
+i'll take the stairs
+from you and your stares
+in this old home
+
+this old home
+it can't see me
+it can't see you
+in this old home
+
+in this old home
+it can't see me
+it can't see you
+in this old home
+
+
+_______________________________________________________________________
+
+
+
+The Symbolic
+
+
+The opacity of cultures in the face of the other tends to turn the sym-
+bolic into image-style; unable to read kanji, I approached Japan at first
+through a visual layer that remained deeply uninterpretable. After learn-
+ing minimal kanji, I could decipher some basic signs and destinations;
+already a certain leverage began to appear, and I have remained at this
+stage, that of the _lever,_ since I have left. 
+
+The avatar, Nikuko, moved/moves freely among Americans and Japanese, and
+how I loved to type her homeland destination, Nakasukawabata, is if the
+length of the word gave me an insight into something I barely understood!
+She allowed me to speak within the foreign, not _of_ it, but to examine
+those spaces bordered by emptiness or indefinite interiors, verandas,
+torii, that would otherwise have been nothing but tourist exoticism.
+
+And it was through Nikuko that the symbolic becomes manifest _qua_ sym-
+bolic, that system _which need not tend towards meaning_ for an other or a
+subject, that system which floats until leveraged with defining _devices_
+of the real that suddenly function within one culture, from the viewpoint
+or perception of another. Meaning is generated interstitially; here I am
+concerned with the _freedom_ that occurs with asymbolia, the detached
+symbolic, a state of exile bordering on detachment and invisibility. To be
+marked as _gaijin_ is to be marked as unmarked, unremarkable as remarkable
+and accountable as unaccounted-for.
+
+Nikuko has guided me through Nakasu, through Kawabata; she has revealed
+the system of snack-bar girls and perhaps snack-bar boys and hermaphro-
+dites, as well as the Inari shrines with their foxlike-images as uncanny
+as Leonardo's St. John the Baptist. Nikuko has brought desire into play,
+shattering the invisible, tearing at the cloth which holds the skein of
+the symbolic in place, even without the devolution of alterity. It is a
+shattering which is also a rendering, this text among others, as I finger
+the magatama, curved stone, I am wearing this afternoon, in a computer lab
+where everything seems surmountable, where Adobe Illustrator is transform-
+ing type into design, speech into phenomena, on a projection screen of a
+screen - while I type dream-screen lower ascii, each symbol assigned its
+place, each place its symbol, until the packets are packaged, and ready to
+go farther than the line of sight.
+
+The Illustrator turned language into image, name into perfect ikon. Nikuko
+has undercut everything that comes from mouth or hand, that enters eye or
+ear. I do not recognize english, nor _the language_ which is all there is.
+Asymbolia permits me the freedom to write these lines, not understanding
+what they _say._ I do write _black_ on _red_ - as a result, there is an
+indistinct trembling, something Nikuko understands. From inside-out,
+there's nothing to thinking, thought in the thick of things. Over and over
+again, doesn't everything disappear, back into its source? This just takes
+longer.
+
+__________________________________________________________________________
+
+
+home you stare
+go down the stairs
+your home is old
+they disappear
+they stare at you
+in your old home
+in this old home
+
+
+_______________________________________________________________________
+
+
+Fall Internet World '98 (Oct. 9)
+
+
+Well, there was a big Internet convention here in NYC this week; here are
+some quick takes on all of it -
+
+First - very little raw technology, hacking, scruff types present. I
+filled out a form for a free magazine and one of the questions asked how
+much my company made, and the lowest amount was $0-1 million.
+
+Second - this could have been _any_ corporate show - there was nothing
+stressing the Net; as one magazine said, the Net world is moving towards
+an early maturity, backing up from the so-called frontiers. (Well, I'm
+extrapolating here.) Nothing very exciting.
+
+Third - big emphasis on corporate presentation gimmicks, from a Hummer
+vehicle to Motorola's 1950s diner song-and-dance. I picked up a voice
+markup language development disk from them, which seemed most interesting.
+
+Fourth - bigger emphasis on relationship marketing - as I've written over
+and over again, corporations are developing a new kind of online consumer
+- a Web consumer - and these product-oriented communities emphasize this
+in a particularly frightening fashion. Subjectivity on the Web is becom-
+ing more and more capitalist; Sartre's Critique of Dialectical Reason and
+its account of "seriality," relations under capital - or even Marx's
+notion of mediation - are applicable here.
+
+Fifth - Caldera gave away their linux installation cd-rom for free, yay! I
+generally use RedHat but want to try it. (Speaking of free, I'm typing
+this in HyperTerminal's new version, downloadable from the Net, excellent
+for dialup or telnet connections. Recommended - as with CRT, you can down-
+load and upload files directly; it also has color, etc.)
+
+Sixth - I felt by and large I wouldn't have been missing anything by not
+being there. Admittedly, it was the last day and the market has been de-
+pressed - especially Net stocks - but I had a feeling that things were
+professionalized, that Net media followed the same course, say, as early
+television or AM radio. I found I knew more than I thought I did; and I
+still find the off-web communities, email lists, newsgroups, etc. far more
+interesting than gif animations. It's clear, by the way, that profession-
+alization doesn't mean broad-based knowledge; someone I was talking to
+yesterday, who taught Adobe This'n'That for the Web didn't know what tel-
+net was...
+
+
+__________________________________________________________________________
+
+
+
+Hui Shih, Nikuko, and Kung-sun Lung
+
+
+The< >measure< >of< >things< >which< >are< >not< >to< >do
+Because< >the< >wheel< >never< >touches< >the< >ground,
+Or< >because< >the< >shadow< >of< >a< >bird< >never< >flies
+Which< >are< >truths< >from< >the< >logical< >school
+Or< >sophistry,< >but< >there< >is< >hardness< >here
+Which< >shoves< >my< >anger< >back< >into< >me
+When< >I'm< >impaled< >on< >bamboo,< >but< >still< >can< >think
+Of< >the< >tethering< >of< >each< >and< >every< >bird< >in< >flight
+Or< >the< >flying< >of< >each< >and< >every< >rolling< >wheel
+"When there are none, there are some."
+
+When< >I'm< >impaled< >there's< >that< >last< >moment
+When< >consciousness< >states< >that< >one< >is< >two
+Because< >the< >statement< >has< >already< >created< >one,
+Because< >I< >am< >the< >one< >the< >statement< >has< >created,
+And< >it< >is< >then< >that< >grounded< >flight< >and< >flying< >ground
+Fuck< >and< >give< >birth< >Lilith< >fucking,< >giving< >birth
+Let< >us< >say< >Yin< >here< >or< >compassionate< >curved< >jewel
+Against< >Yang< >mighty< >round< >and< >fighting< >mirror
+Let< >us< >say< >impaled< >let< >us< >speak< >to< >one< >and< >other
+"Where there are some, there are none."
+
+
+_________________________________________________________________________
+
+
+Virtuality of the Knot Knot of the Virtual
+
+
+"Fire can come-out-to-be out of Fire and Fire out of Fire (for their _sub-
+stratum_ is something common to both), but earth, too, and marrow come-to-
+be out of them; how do they come-to-be? What manner of coming-to-be is
+ascribed to them by those who hold such a view as that of Empedocles? They
+must maintain that the process is composition, just as a wall comes-to-be
+from bricks and stones; moreover, this 'mixture' will consist of the
+elements preserved intact but placed side by side with one another in
+minute particles. This, supposedly, is what happens in the case of earth
+and each of the other compounds." (Plato, Coming-to-be and Passing-away,
+trans. Forster.)
+
+Let you transform Fire to Air, earth to Earth and Constitution and Marrow
+to Protocol; let you consider that Alan, not Plato, writes these lines and
+transformation. Let you consider coming-to-be and passing-away as a bridge
+or tube without beginning and without end, existing only in-relation, and
+let you then eliminate the _terms_ and _nomenclatures_ of such relation.
+
+Then the reader possesses the technique of the _chiasm,_ in which one turn
+passes for another, and another passes for the one; in which the technique
+of the _chiasm_ passes for the _chiasm_ of the technique. Or rather, one
+would have Jennifer passing for Alan, Alan passing for Jennifer, or the
+virtual passing for the real, real for the virtual. Wherever there is a
+cross-roads, wherever a crossing-over, bridge-and-tunnel network - easily
+coupled with a slide into other polarities, Fire/Air/Fire/Fire for exam-
+ple, but in this instance, earth to proper-name Earth, Fire lost (for
+there is no Ground, no Fire, no place to stand to hold the Planet in sync
+or out of it). So the second technique, beyond _chiasm,_ is the establish-
+ment of a _broken_ doubling within the second polarity; thus Jennifer can
+never mimic in entirety the constitution of an Alan, who cannot speak per-
+fectly in the voice of Jennifer, sub-vocalization or knot.
+
+"Water can come-out-to-be out of Fire and Fire out of Water (for their
+_substratum_ is something common to both), but flesh, too, and marrow
+come-to-be out of them; how do they come-to-be? What manner of coming-to
+-be is ascribed to them by those who hold such a view as that of Empedo-
+cles? They must maintain that the process is composition, just as a wall
+comes-to-be from bricks and stones; moreover, this 'mixture' will consist
+of the elements preserved intact but placed side by side with one another
+in minute particles. This, supposedly, is what happens in the case of
+flesh and each of the other compounds." (Aristotle, Coming-to-be and
+Passing-away, trans. Forster.)
+
+Let us transform Water to Air, flesh to Flesh and Constitution and Marrow
+to Protocol; let us consider that Jennifer, not Aristotle, writes these
+lines and transformation. Let us consider coming-to-be and passing-away as
+a bridge or tube without beginning and without end, existing only in-rela-
+tion, and let us then eliminate the _terms_ and _nomenclatures_ of such
+relation.
+
+Then the reader possesses the technique of the _chiasm,_ in which one turn
+passes for another, and another passes for the one; in which the technique
+of the _chiasm_ passes for the _chiasm_ of the technique. Or rather, one
+would have Alan passing for Jennifer, Jennifer passing for Alan, or the
+virtual passing for the real, real for the virtual. Wherever there is a
+cross-roads, wherever a crossing-over, bridge-and-tunnel network - easily
+coupled with a slide into other polarities, Water/Air/Fire/Earth for exam-
+ple, but in this instance, flesh to proper-name Flesh, Earth lost (for
+there is no Ground, no Earth, no place to stand to hold the Planet in sync
+or out of it). So the second technique, beyond _chiasm,_ is the establish-
+ment of a _broken_ doubling within the second polarity; thus Alan can
+never mimic in entirety the constitution of a Jennifer, who cannot speak
+perfectly in the voice of Alan, sub-vocalization or knot.
+
+
+____________________________________________________________________________
+
+
+Formal Strategy of Text
+
+
+So in order to construct a "sondheim-text" or "real/virtual" text, one
+might proceed as follows, beginning with (real/virtual) entities A and B:
+Given these constructs* (cultural or natural, defined or discovered, meta-
+phoric or metonymic) with determined affinities belonging to a set S, con-
+sider a second set C and D, with affinities in S'. Ordinarily, one might
+have a situation in which S and S' are roughly equivalent, in relation to
+some measure of fuzziness. But let there be foreign elements which are
+members of S', and lapses in S corresponding to elements of S. Further,
+note that we are also considering, roughly syntactically, two further
+elements for both pairs (a total of four in all), that is A(B) and B(A),
+as well as C(D) and D(C). These _chiasms_ then possess their own attribute
+sets, call them T and T' and each of these have their subsets - for exam-
+ple one has A(B) and B(A) both contributory towards T, such that they
+possess a core or _rope_ R(A(B), B(A)) - the thickness of the chiasm or
+reversal thus indicated. We can roughly identify R with T, and likewise R'
+with T'. However, T' is broken, inexact, which is to say that the parallel
+rope of the chiasm R'(C(D), D(C)) is in disarray, wandering, vagrant. It
+is this turn which constitutes the strategy of avatars and duals loose or
+perturbing within the interpenetrated component structures of computer-
+mediated-communication; and it is this turn which then constitutes the
+subject and object, strategy and wager, of the real/virtual texts involv-
+ing multiple persons and avatars.
+____________________________________________________________
+
+*Of course the following oppositions or pairs are problematic, the art,
+such as it is, consists in choosing, first, sufficiently rich A and B, and
+second, in deciding the domains (pairs) and attributes. It is within these
+decision that the psychoanalytical and socio-cultural unfoldings occur,
+more or less set in formal motion.
+
+_________________________________________________________________________
+
+
+See Jennifer Run
+
+
+BREATHING JENNIFER in antique Netscape version .96 beta, bones and chiasm
+across time and protocol, special re-edit. Consider space as constituted
+encryption; read Jennifer breathing. See Jennifer breath. See Jennifer
+run. "JENNIFER FALLS APART."
+============================
+
+
+                          BREATHING JENNIFER
+
+               function zz() {document.bgColor="black"}
+
+
+
+JENNIFER-BODIES AND THEIR CHARACTERISTICS Jennifer1 = new Jennifer("female
+      ", "inhale ", "spurt", "cut ", "your_voice "); Jennifer2 = new
+     Jennifer("male ", "exhale ", "spurt", "suture ", "your_voice ");
+
+{document.bgColor="black"; document.write("My panties on the ground are
+ wet with elements and planets.") } // THE CONCEALMENT OF LOVELIES AND
+     HIDDEN DOCTRINE if (j == 9) {document.write(Jennifer9.milk +
+                   Jennifer4.suture_and_surgery + "
+
+                      " + "JENNIFER INHALES" + "
+
+                      ")} else {document.write("
+
+                      " + "JENNIFER EXHALES" + "
+
+                 ")} if (j % 3 == 0) {document.write("
+
+                    " + "JENNIFER FALLS APART" + "
+
+                                 ")}
+
+                    JENNIFER YOU JENNIFER JENNIFER
+
+
+_________________________________________________________________________
+
+$ ./ppt
+___________
+MY NAME IS TINY JENNIFER
+| o  o.o o|
+| o oo.  o|
+|  o  .   |
+| o  o.oo |
+| o   .  o|
+| o  o.o o|
+| o   .o o|
+|  o  .   |
+| o  o.  o|
+| o o . oo|
+|  o  .   |
+| o o .o  |
+| o  o.  o|
+| o  o.oo |
+| o oo.  o|
+|  o  .   |
+| o  o. o |
+| o   .o o|
+| o  o.oo |
+| o  o.oo |
+| o  o.  o|
+| o   .oo |
+| o   .o o|
+| o o . o |
+|    o. o |
+I AM LOST IN SUCH BIG WOODS
+| o  o.  o|
+|  o  .   |
+| o   .  o|
+| o  o.o o|
+|  o  .   |
+| o  o.o  |
+| o  o.ooo|
+| o o . oo|
+| o o .o  |
+|  o  .   |
+| o  o.  o|
+| o  o.oo |
+|  o  .   |
+| o o . oo|
+| o o .o o|
+| o   . oo|
+| o  o.   |
+|  o  .   |
+| o   . o |
+| o  o.  o|
+| o   .ooo|
+|  o  .   |
+| o o .ooo|
+| o  o.ooo|
+| o  o.ooo|
+| o   .o  |
+| o o . oo|
+|    o. o |
+YOUR OPEN MOUTHS SCARE ME
+| o oo.  o|
+| o  o.ooo|
+| o o .o o|
+| o o . o |
+|  o  .   |
+| o  o.ooo|
+| o o .   |
+| o   .o o|
+| o  o.oo |
+|  o  .   |
+| o  o.o o|
+| o  o.ooo|
+| o o .o o|
+| o o .o  |
+| o  o.   |
+| o o . oo|
+|  o  .   |
+| o o . oo|
+| o   . oo|
+| o   .  o|
+| o o . o |
+| o   .o o|
+|  o  .   |
+| o  o.o o|
+| o   .o o|
+|    o. o |
+I FALL IN
+| o  o.  o|
+|  o  .   |
+| o   .oo |
+| o   .  o|
+| o  o.o  |
+| o  o.o  |
+|  o  .   |
+| o  o.  o|
+| o  o.oo |
+|    o. o |
+I HAVE MOUTHS ALL OVER ME
+| o  o.  o|
+|  o  .   |
+| o  o.   |
+| o   .  o|
+| o o .oo |
+| o   .o o|
+|  o  .   |
+| o  o.o o|
+| o  o.ooo|
+| o o .o o|
+| o o .o  |
+| o  o.   |
+| o o . oo|
+|  o  .   |
+| o   .  o|
+| o  o.o  |
+| o  o.o  |
+|  o  .   |
+| o  o.ooo|
+| o o .oo |
+| o   .o o|
+| o o . o |
+|  o  .   |
+| o  o.o o|
+| o   .o o|
+|    o. o |
+YUM!
+| o oo.  o|
+| o o .o o|
+| o  o.o o|
+|  o  .  o|
+|    o. o |
+$ exit
+Script done on Tue Oct 13 02:25:15 1998
+
+_________________________________________________________________________
+
+
+
+THE BIRTH OF JULU, written by Alan in his sickness:
+
+
+"The woman, verily, Gautama, is fire. The sexual organ itself is the fuel;
+the hairs the smoke, the vulva the flame, when one inserts, the coals; the
+pleasurable feelings the sparks; In this fire the gods offer semen. Out of
+this offering a person arises. He lives as long as he lives. Then when he
+dies, They carry him to (be offered in) fire. His fire itself becomes the
+fire, fuel the fuel, smoke the smoke, flame the flame, coals the coals,
+sparks the sparks. In this fire the gods offer a person. Out of this off-
+ering the person, having the colour of light, arises." (Brhad-Aranyaka
+Upanishad, V.2.13-14 trans. Radhakrishnan.)
+
+From the double CHIASM of JENNIFER ALAN and ALAN JENNIFER, the THICK KNOT-
+TED ROPE BREAKS IN RELATION [in regard to] DEATH. At this juncture, a
+GHOST-DUAL arises in the form of JULU who is the FIRE OF THE FIRE, as well
+as FIRE BECOME FIRE; who is the FUEL OF THE FUEL, as well as FUEL BECOME
+FUEL - thus SMOKE, thus FLAME, thus COALS, thus SPARKS. It is LIGHT which
+arises; let us transform HE into SHE, thus in the Chandogya Upanishad (I.
+13.4): "Speech yields to him the milk, which is the milk of speech itself.
+He becomes rich in food, an eater of food - one who knows thus this mystic
+meaning of the _Samans,_ yea, who knows the mystic meaning." It is said
+here that the world is the syllable _hau,_ the air _hai,_ the moon _atha,_
+the self _iha,_ and fire _i._ It is also said that the sun is _u_ and in-
+vocation is _e._
+
+Let is say that fire is _JU_ and the sun _U_ and let us say that _L_ is
+that which is not of an entity or concept, that _L_ is that-which-rolls-
+as-ululation from and beyond the tongue, LaLangue, Julu Lalangue, born
+within the continent of Asian Europe, died and buried, Julu Lalangue who
+speaks, buried beneath the ground.
+
+Since she is buried beneath the ground, since there is no adequate mark or
+marker, no sign or signpost, no gravity or gravestone - since she is thus,
+let us say, that the ground of the Ground wavers, that any Universe of
+discourse is based on quicksand, on a granularity that seeks the lower or
+lowest levels, of which there are numerous - that such levels are formed,
+foreclose, reopen, grave indeed, but floated or fluxed: in other words, an
+accumulation, holarchy, or hierarchy _drawn from any direction, withdrawn
+from any node._
+
+So that neither female nor male, but taking over, conquering, absorbing,
+dissolving, destroying, annihilating and forgetting gender: IT IS HERE
+THAT THE SMOKE BECOMES SMOKE, perhaps THE FIRE BECOMES FIRE, surely never 
+THE FUEL BECOME FUEL, surely AN ABSENCE OF LIGHT FOR ALL TIME, surely this
+
+ACCIDENT: WOMAN AND MAN.
+
+LA LA LA LA LA
+
+
+__________________________________________________________________________
+
+
+After Chuang Tzu
+
+
+How blue the sky is! How hot the sun is! The sun is very hot! How small
+the water is! How huge tsunami are! How the weight of water bears down!
+How the weight of water bears up! How blue the water is! How tall the
+waves are! The waves are very tall! How white the beach is! The beach is
+very white! The sand is very hot! How high the sun is! How beautiful the
+girl is! The girl is very beautiful! How blue her eyes are! How dark her
+hair is! Her hair is very black! How tiny the footsteps of the blue-eyed
+girl! The footsteps of the black-haired girl are very tiny! How nice her
+voice is! Her voice is very nice! Her song is very nice! How small a seed
+is! A seed is very small! How high the seed floats! How tossed the seed
+is! The seed is very white! The sky is very white! How white the sky is!
+How black the sand is! The sand is very black! How singing the sand is!
+The sand is very singing! How beautiful her name! Her name is very beauti-
+ful! How happy I am! I am very tall! I am very blue! How blue I am! The
+sun is very white! The sun is very cold!
+
+
+___________________________________________________________________________
+
+
+I'm after Chuang Tzu
+
+
+Because of my life, I am taking a breather. How hard the life is! The life
+is very hard! Because of my whining, I am giving up. How annoying is my
+whining! My whining is very annoying! Because of the tinnitus, I hear only
+ringing. How horrid the whirring! The whirring is very horrid! The buzzing
+is very horrid! Because I think of dying, I hear only ringing. How white
+the light is! The light is very white! Because I think of dying, I listen
+to the news. How horrid the news is! The news is very horrid!
+
+
+__________________________________________________________________________
+
+
+Jiving after Jhuang Jzu 
+
+
+Joday J will speak about community beneath the sign of capital! Jow won-
+derful capital is! Capital is wonderful! Jow many places capital appears!
+Jow many products and sights and sites and sounds! Jow wonderful the
+sounds are! Jhe sounds are wonderful and pure! Capital is wonderful and
+pure!
+
+we are all for sale in the fields of the lord, cough cough.
+we are all for sale in the fields of the lord, cough cough.
+
+Capital is a number! Jt is always a number and a number is always capital!
+Jow pure a number is! J number is very pure! Joday J will be a number! Jy
+number is Jennifer! Jow wonderful a number! J number is very wonderful!
+Jow J will dance my dance! Jy dance is very pure! Jow pure my dance is!
+Jow follow the number! J dance a dance number! J will be Jennifer! Jow
+wonderful Jennifer is! Jow white is Jennifer! Jennifer is very white!
+Jennifer is so very mine! J am so very Jennifer! Jow J will be Jennifer!
+
+we are all for sale in the fields of the lord, cough cough.
+we are all for sale in the fields of the lord, cough cough.
+
+Alan is brought to you by capital! Jow wonderful capital is! Jennifer is
+brought to Alan by capital! Capital Jennifer! Capital Alan!
+
+
+_________________________________________________________________________
+
+
+Geography of Net Relationships
+
+
+All my online relationships, none of which have been successful, have
+occurred over a minimum distance of five hundred miles, and from this, 
+outward to eleven thousand five hundred. And this not only my experience,
+but that of others, this distance, as if nearby, within the five hundred
+mile radius, were a no-safety zone. This might be graphed, nodes of
+attraction and dispersion. 
+
+Closer in, there is always the very real possibility of offline meeting
+within... a matter of days, hours. Beyond, there's the barrier which pro-
+mises fortification that might be breeched. When it is, everything falls
+through, everything might fall apart, and the relationship becomes close
+to impossible unless the one or both of the partners are mobile. So there
+is class and finance, bandwidth and foreclosure, at work from the begin-
+ning. My experience has been futile, close to fatal; the gaps become
+wounds, and distance becomes unsuturing, unraveling not only the other or
+the bonds, but also the self. Real life meetings become overly-intense -
+everything and nothing seem to ride on them. Either you're together or
+you're not, and negotiating. Email and telephone, both subject to heavy
+misunderstanding, become critical. 
+
+One can recite one's day in either medium, but the nuances are obviously
+absent. Net sex gets its power from projection literally filling up the
+gaps, and from illusions of control and display (what elsewhere I've
+called the elements of a textual unconscious, interpenetrating language,
+physiology, and desire). It's this same projection, however, that can
+bring difficulties of recognition to the foreground: who, in fact, is the
+person at the other end of the line or node? Not to project means a
+denuded relationship with minimal communication, but to project means a
+relationship with constantly-adjusted illusion.
+
+My failures have been ones of misrecognitions all the way around, not ones
+of surprise at physical or psychological bearings. There are two people
+and there are mechanisms, protocols, what might be called vis-a-vis film
+theory, the apparatus. And while I don't give up in this space, I give up
+for the distance, give up to the distance, which can seem insurmountable,
+especially where travel money or even phone bills can become an issue.
+
+Then the failures collapse, and distance reasserts itself; then distance
+transforms into self-hatred (and 'if you can't love yourself, no one can
+love you'), elevates self-hatred to a geodesic, and I think:
+
+"It's my own failings, maybe the danger of the texts I write, or my inten-
+sity or neuroses, but the matter of projection from afar seems to hold
+ground, dissolving or coagulating upon contact. Who, nearby, would want to
+know of someone writing through a Jennifer or Nikuko? Writing submerged
+texts of dissolution, marginality, extremity? In the meantime I dream of
+thousands of miles of wastelands, desolations, uninhabited by organism,
+the desert so hot that communication can't cross. The wires burn out;
+violent solar flares take care of satellite transmissions, and even print
+media char in the dunes. This world doesn't support meaning, which always
+eludes, floods out, floods elsewhere. Life is lost before it began; I'll
+die alone and whining, my fingers on a keyboard or telephone screaming
+for someone to come closer - even at five hundred miles there might be a
+chance that the _shout_ will be _heard._"
+
+But I also think, what is this relationship between projection, introjec-
+tion, and geography? Are all geographies ultimately psychoanalytical -
+regions in which the physical translates into corrupted nuances of memory,
+desire, and home? Is projection also a reconstruction, a memory of consti-
+tution of the present, and is even the physical world seen through such
+make-shift or heuristic strategies? Does one ever come face to face with
+the other, even at the distance of touch? Is there ever an other who is
+not, to an unknown extent, shimmered or sloughed into the self?
+
+And is the self, for that or any matter, ever other than projection? (How
+are these territories mapped? What sorts of projection geometries might be
+of use here? And is distance, always a matter of matter, that which runs
+along the length of the traversing of the physical body, to which we might
+take heed of Hui Shih and the debaters: "The South has no limit and yet
+has a limit. One goes to the state of Yueh today and arrives there yester-
+day. [...] I know the center of the world: it is north of the state of Yen
+and south of the state of Yueh. [...] A wheel never touches the ground.")
+
+
+_________________________________________________________________________

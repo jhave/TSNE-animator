@@ -1,0 +1,93 @@
+DEFDBL A-Z
+lome:
+CLS : uu = 0
+home:
+RANDOMIZE TIMER
+IF RND > .6 THEN q = RND * 40 ELSE q = RND * 3
+seven:
+SCREEN 12: WINDOW (-q, q)-(q, -q)
+IF RND > .5 THEN se = RND * 20 ELSE se = RND
+j = q / 320
+sh = q / 1280
+A = q / 10: x = 1: y = 1
+al = 0: kj = RND * 4000
+two:
+uu = uu + 1
+al = al + 1
+IF INKEY$ = "r" THEN GOTO lome
+d = x: e = y
+x = q * RND ^ 1.5
+IF RND > .5 THEN x = -x
+y = q * RND ^ 1.5
+IF RND > .5 THEN y = -y
+n = POINT(x, y)
+n = n + 1
+IF n = 16 THEN n = 1
+l = SQR(x ^ 2 + y ^ 2)
+p = (x / y) * se
+IF p > 100000 THEN p = 10
+IF p < -100000 THEN p = -10
+u = x * SIN(l)
+v = y * SIN(l)
+PSET (u, v), n
+x = u * SIN(p)
+y = v * SIN(p)
+PSET (x, y), n
+tt = tt + 1
+IF tt > 15 THEN tt = 0
+t = 0:
+IF RND < .3 THEN PSET (x * RND, y * RND), 0
+lt:
+t = t + 1
+IF RND < .005 THEN LINE (d, e)-(x, y), tt: LINE (d, e)-(x, y), 0
+IF n > 1 AND RND < .3 THEN LINE (d, e)-(x, y), 12: LINE (d, e)-(x, y), 0
+k = RND
+IF k < .1 THEN PSET (x + j, y), n: PSET (x - j, y), n
+IF k < .1 THEN PSET (x, y + j), n: PSET (x, y - j), n
+dd = RND: jem = 0: jed = 1 / q: vv = 0
+hh = INT(40 * RND): ff = 0
+oval: jem = jem + 1: ff = ff + j: vv = vv + 1
+IF dd < .002 THEN CIRCLE (x, y), ff, 15: CIRCLE (x, y), ff, 0
+IF dd < .0004 THEN CIRCLE (x, y), vv, 15: CIRCLE (x, y), vv, 0
+IF jem < hh THEN GOTO oval
+IF (RND < .05 OR n > 1) AND t < 25 THEN GOTO lt
+PSET (x, y), n
+IF RND > .004 THEN GOTO two
+zed = 0
+four:
+zd = RND * 2
+zed = zed + zd
+IF x < 0 THEN x = x + sh
+IF x > 0 THEN x = x - sh
+IF y < 0 THEN y = y - sh
+IF y > 0 THEN y = y + sh
+PSET (x, y), 14
+PSET (x, y), 0
+IF zed > 250 THEN GOTO two
+IF al < kj THEN GOTO four
+REM second program beginning here
+zin: di = RND * 20
+IF di < 4 THEN GOTO zin
+qq = 5 * di
+WINDOW (-qq, qq)-(qq, -qq)
+jj = 0: jb = RND * 8000
+jy = 0: jN = 1
+jz = RND * 6
+jx = .000001
+jtwo:
+uu = uu + 1
+jj = jj + 1
+jy = SIN(COS(jx) / SIN(jx)) - jy
+jx = SIN(SIN(jy) / COS(jy)) - jx
+jN = POINT(jx / 2, jy / 2)
+IF jN = 0 THEN jN = 1 ELSE jN = jN + 1
+IF jN = 16 THEN jN = 1
+PSET (jx / 2, jy / 2), jN
+IF INKEY$ = "r" THEN GOTO lome
+IF uu > 15000 THEN GOTO lome
+qk = RND
+IF jj > jb AND qk > .65 THEN GOTO home
+IF jj > jb AND qk < .65 THEN GOTO seven
+jx = jx + jz
+GOTO jtwo
+

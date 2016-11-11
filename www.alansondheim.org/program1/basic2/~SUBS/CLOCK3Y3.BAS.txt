@@ -1,0 +1,297 @@
+redo:
+CLS : CLEAR
+pie = 3.141592654#
+e = 2.718281828#
+bk = 145       'length of hands
+bk2 = 100      'part II
+flare1 = 1     'the flaring of the center dot
+flare2 = 1     'second flare color
+basex = 300   'the center of the universe
+basey = 250   'ditto
+clrmars$ = "on"
+mercol = 0  'ditto
+marcol = 0
+vencol = 0
+k2 = .3
+earcol = 1
+clrmars = 4
+clearthisshit$ = "doit"
+SCREEN 12
+FOR per = 151 TO 170
+     COLOR 1
+     CIRCLE (basex, basey), per
+     CIRCLE (basex + 1, basey), per
+NEXT per
+FOR per = 125 TO 145
+     COLOR 1
+     CIRCLE (basex, basey), per
+     CIRCLE (basex + 1, basey), per
+NEXT per
+FOR per = 100 TO 120
+     COLOR 1
+     CIRCLE (basex, basey), per
+     CIRCLE (basex + 1, basey), per
+NEXT per
+
+rock = 42 'the rock and a rollin
+
+maxdim = 12
+DIM mon(1 TO maxdim)
+DIM totmonsec(1 TO maxdim)
+DIM totmonmin(1 TO maxdim)
+
+totdaysec = 86400
+totdaymin = 1440
+
+mon(1) = 31: totmonsec(1) = 2678400: totmonmin(1) = 44640
+mon(2) = 28: totmonsec(2) = 1128960: totmonmin(2) = 40320
+mon(3) = 31: totmonsec(3) = 2678400: totmonmin(3) = 44640
+mon(4) = 30: totmonsec(4) = 2592000: totmonmin(4) = 43200
+mon(5) = 31: totmonsec(5) = 2678400: totmonmin(5) = 44640
+mon(6) = 30: totmonsec(6) = 2592000: totmonmin(6) = 43200
+mon(7) = 31: totmonsec(7) = 2678400: totmonmin(7) = 44640
+mon(8) = 31: totmonsec(8) = 2678400: totmonmin(8) = 44640
+mon(9) = 30: totmonsec(9) = 2592000: totmonmin(9) = 43200
+mon(10) = 31: totmonsec(10) = 2678400: totmonmin(10) = 44640
+mon(11) = 30: totmonsec(11) = 2592000: totmonmin(11) = 43200
+mon(12) = 31: totmonsec(12) = 2678400: totmonmin(12) = 44640
+
+LOCATE 1, 1: PRINT jj
+
+DO
+  PAINT (1, 100), 4, 1
+  IF q$ = CHR$(27) THEN END
+  IF q$ = " " THEN GOTO redo
+  q$ = INKEY$
+  GOSUB timeit
+  GOSUB doit
+  'main plotter
+  z = z + 1
+  i2x = (-pie / 3) * hour / 2
+  ix = (-pie / 12) * minute / 2.5
+  ix3 = (-pie / 12) * seconds / 2.5
+
+'the hands
+      PAINT (basex, basey + 60), 0, 1
+      i2h = -(pie / 3.03) * hoursz / 2
+      i3h = -(pie / 3) * hoursz / 2       'point
+      i5h = -(pie / 2.97) * hoursz / 2
+
+      PAINT (xk2hb, yk2hb), 0, 1
+      PAINT (xk2hb2, yk2hb2), 0, 1
+
+      i2h2 = -(pie / 12.1) * minutesz / 2.5
+      i3h2 = -(pie / 12) * minutesz / 2.5       'point
+      i5h2 = -(pie / 11.9) * minutesz / 2.5
+
+'      ivz = -(pie / 12) * rock / 2.5       'point
+'      rock = rock + jj
+'xroc = -(SIN(ivz) * 60) + basex 'point
+'yroc = -(COS(ivz) * 60) + basey 'point
+'CIRCLE (xroc, yroc), 4
+'IF rock > 35 THEN jj = jj - .1
+'IF rock < 25 THEN jj = jj + .1
+'COLOR 0
+'CIRCLE (xroc, yroc), 5
+
+COLOR 15
+
+xk2ha = -(SIN(i2h) * 20) + basex
+yk2ha = -(COS(i2h) * 20) + basey
+xk2hb = -(SIN(i3h) * 70) + basex 'point
+yk2hb = -(COS(i3h) * 70) + basey 'point
+xk2hc = -(SIN(i5h) * 20) + basex
+yk2hc = -(COS(i5h) * 20) + basey
+COLOR 15
+LINE (xk2hc, yk2hc)-(xk2hb, yk2hb)
+LINE (xk2ha, yk2ha)-(xk2hb, yk2hb)
+LINE (xk2hc, yk2hc)-(basex, basey)
+LINE (xk2ha, yk2ha)-(basex, basey)
+
+xk2ha2 = -(SIN(i2h2) * 20) + basex
+yk2ha2 = -(COS(i2h2) * 20) + basey
+xk2hb2 = -(SIN(i3h2) * 90) + basex 'point
+yk2hb2 = -(COS(i3h2) * 90) + basey 'point
+xk2hc2 = -(SIN(i5h2) * 20) + basex
+yk2hc2 = -(COS(i5h2) * 20) + basey
+COLOR 15
+LINE (xk2hc2, yk2hc2)-(xk2hb2, yk2hb2)
+LINE (xk2ha2, yk2ha2)-(xk2hb2, yk2hb2)
+LINE (xk2hc2, yk2hc2)-(basex, basey)
+LINE (xk2ha2, yk2ha2)-(basex, basey)
+
+  IF seconds = 59 THEN clearthisshit$ = "doit"
+  IF clearthisshit$ = "doit" THEN
+     seconds2 = seconds2 + .5
+  END IF
+  IF seconds2 > 59 THEN clearthisshit$ = "": seconds2 = -1
+  ix4 = (-pie / 12) * INT(seconds2) / 2.5
+
+xk = -(SIN(ix) * 135) + basex
+yk = -(COS(ix) * 135) + basey
+xk2 = -(SIN(i2x) * 110) + basex
+yk2 = -(COS(i2x) * 110) + basey
+xkb = -(SIN(ix) * 160) + basex
+ykb = -(COS(ix) * 160) + basey
+xk2b = -(SIN(i2x) * 160) + basex
+yk2b = -(COS(i2x) * 160) + basey
+xk3 = -(SIN(ix3) * 160) + basex
+yk3 = -(COS(ix3) * 160) + basey
+xk3b = -(SIN(ix4) * 160) + basex
+yk3b = -(COS(ix4) * 160) + basey
+IF minute = 0 THEN minutez = 0
+
+IF minutez <= 60 THEN
+   minutez = minutez + 1
+   ixk = (-pie / 12) * minutez / 2.5
+   xkz = -(SIN(ixk) * 135) + basex
+   xkb = -(SIN(ixk) * 135) + basex
+   ykb = -(COS(ixk) * 135) + basey
+   COLOR 4
+   CIRCLE (xkb, ykb), 5: PAINT (xkb, ykb), 0, 4
+END IF
+
+IF hour = 24 AND seconds = 0 THEN hourz = 0
+IF hourz <= 24 THEN
+   hourz = hourz + 1
+   ix2k = (-pie / 3) * hourz / 2
+   xk2z = -(SIN(ix2k) * 110) + basex
+   xk2b = -(SIN(ix2k) * 110) + basex
+   yk2b = -(COS(ix2k) * 110) + basey
+   COLOR 4
+   CIRCLE (xk2b, yk2b), 5: PAINT (xk2b, yk2b), 0, 4
+END IF
+
+COLOR 0
+  CIRCLE (basex, basey), 150
+  CIRCLE (basex, basey), 11
+  COLOR 4
+     CIRCLE (xk3, yk3), 5: PAINT (xk3, yk3), 14, 4
+     CIRCLE (xk3b, yk3b), 5: PAINT (xk3b, yk3b), 0, 4
+     CIRCLE (xk, yk), 5: PAINT (xk, yk), 14, 4
+     CIRCLE (xk2, yk2), 5: PAINT (xk2, yk2), 14, 4
+LOOP
+timeit:
+        t$ = TIME$
+        hour = VAL(t$)
+        hourxv = VAL(t$)
+        minute$ = MID$(t$, 4, 2)
+        minute2$ = MID$(t$, 5, 2)
+        seconds$ = MID$(t$, 7, 2)
+        minute = VAL(minute$)
+        minute2 = VAL(minute2$)
+        seconds = VAL(seconds$)
+        IF hour > 12 THEN hour = hour - 12
+        IF hour = 0 THEN hour = 12
+        hoursz = hour + uns
+        uns = minute / 60
+        uns2 = seconds / 60
+        minutesz = minute + uns2
+       
+        'hoursz = hoursz + .5
+        'IF hoursz > 12 THEN hoursz = 0
+
+        d$ = DATE$
+        mon$ = MID$(d$, 1, 2)
+        day$ = MID$(d$, 4, 2)
+        mon = VAL(mon$)
+        day = VAL(day$)
+
+COLOR 1
+RETURN
+'planet stuph
+doit:
+GOSUB vars
+i2 = i2 + .01 + ra 'moons
+i3 = i3 + .005 + ra'mars
+i6 = i6 - .01 + ra 'moons again
+'main functions------>
+GOSUB calc     'the awesome calculations by ME!
+GOSUB circles 'This draws the planets.
+GOSUB flare   'This is the Kewl Sun strobe effect
+GOSUB CLRCIRC 'this is my wack graphics clearing job,I know kindergarden level
+'end main------------>
+COLOR 15
+RETURN
+circles:
+    COLOR marcol
+    CIRCLE (x2, y2), 4
+    CIRCLE (xb, yb), 1
+    CIRCLE (xb2, yb2), 1
+RETURN
+calc:    'CALCULATIONS......
+IF ie >= (a * 4) THEN ie = 0   '(a/180)
+    IF i2 >= (a * 4) THEN i2 = 0
+    IF i3 >= (a * 4) THEN i3 = 0
+    x2 = INT(SIN(i3) * ba) + sunx
+    y2 = (INT(COS(i3) * ba) / elipse) + suny
+    xb = INT(SIN(i2) * 10) + x2
+    yb = (INT(COS(i2) * 15) / elipse) + y2
+    xb2 = INT(SIN(i6) * 25) + x2
+    yb2 = (INT(COS(i6) * 25) / elipse) + y2
+RETURN
+flare:
+COLOR spot
+zx1 = zx1 + 1
+IF zx1 >= 10 THEN zx1 = 0: kbb = kbb + 1
+IF kbb = 1 THEN spot = flare1
+IF kbb = 2 THEN spot = flare2
+IF kbb >= 3 THEN kbb = 0
+CIRCLE (sunx, suny), zx1
+CIRCLE (sunx, suny + 1), zx1
+RETURN
+CLRCIRC:
+  IF clrmars$ = "on" THEN
+  COLOR clrmars
+    CIRCLE (x2, y2), 5
+    CIRCLE (x2, y2), 6
+    CIRCLE (xb, yb), 2
+    CIRCLE (xb, yb), 3
+    CIRCLE (xb, yb), 4
+    CIRCLE (xb2, yb2), 2
+    CIRCLE (xb2, yb2), 3
+    CIRCLE (xb2, yb2), 4
+  END IF
+RETURN
+vars:
+a = 3.141593                   'PI.... DUH.
+ba = 202                       'MARS FROM SUN
+sunx = 300
+suny = 250
+CIRCLE (sunx, suny), 10
+k = 0
+h = .05
+elipse = 1
+
+'calculating number of days left
+dayzz = 0
+FOR i = mon TO 12
+    dayzz = mon(i) + dayzz
+NEXT i
+dayzz = dayzz - day
+
+'calculating how many hours left till milenium
+'LOCATE 2, 2: PRINT hourxv
+hourszz = 23 - hourxv
+IF hourszz = -1 THEN hourszz = 23
+
+'calculating how many minutes left
+minuteszz = 59 - minute
+
+'seconds
+seconds2zz = 59 - seconds
+
+'total hours
+hours2zz = 24 * dayzz
+hours2z = 24 * dayzz
+hours2z = hours2z - hour
+
+'total minutes
+
+minutes2zz = totdaymin - (hour * 60)
+minutes2zz = (hours2zz * 60) - minutes2zz
+
+COLOR 15
+LOCATE 1, 1: PRINT dayzz; " Days "; hourszz; " hours "; minuteszz; " minutes  and "; seconds2zz; " seconds till the next Millenium!!!!"
+RETURN
+

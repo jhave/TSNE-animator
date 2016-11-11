@@ -1,0 +1,406 @@
+
+
+Art Papers, 9/10 1989
+
+
+Towards A Primary Differentiation Between Film and Video
+
+
+Historically, both film and video are 19th-century manifestations. The
+concept of an eletrical scanning or linearization of the real (i.e.
+the reproduction of the two-dimensional representation of three-dimen-
+sional space by means of a one-dimensional line repeatedly folded back
+upon itself within a single field) developed first. For television to
+become commercially feasible, however, fairly sophisticated electronic
+technology is necessary. Film disseminated several decades before
+video by virtue of its grounding in mechanism. All that was necessary
+was the perfection of the pulldown claw in relation to the manufactur-
+ing of a flexible film base of reasonable tolerance. Today, film and
+video have interpenetrated throughout the production of commodities
+ultimately destined for one or the other venue. This merging combines
+two very different sites or phenomenologies of representation, which
+are described below.
+
+Although super 8mm still retains an edge over 3/4" U-Matic video in
+terms of resolution, film and video may be considered ultimately
+equivalent in the degree of quantitative information presented per
+frame. This is based on the development of high-definition television
+(HDTV) which will reproduce about half the information present in a
+35mm slide. Industrial or military scanning systems can present as
+many as 10,000 lines to the frame - compared to the 500+ in commercial
+television or the 450+ in high-end popular tape formats. Therefore we
+do not look for a primary differentiation between the two media in
+terms of quantitative information (sharpness or contrast ratio).
+
+The primary differentiation is not located in histories or practices,
+although these vary widely. We acknowledge a materialism at work here,
+and ignore the class-dialectical aspects, including research programs,
+demographics, etc. Although intertwined with the technology, we con-
+sider them surface phenomena.
+
+The viewing milieus (normative venues) of film and video are
+different: theater versus home, external versus internal illumination.
+The viewer perceives the television set as one object among many (a
+piece of furniture to be _watched_), and the film screen as that
+absence of object within a spectacular and darkned space (a field to
+be _seen_). Television occurs in light, an everyday space of idle
+conversation, while film is presented in a darkness impregnated with
+meaning. But the primary differentiation lies elsewhere.
+
+(Of course we are constructing a myth of the cave and the stoa. This
+is traced in the form of the essay itself, in its narrative, which
+occupies the narrative of film or video. Every spectatorial experience
+occupies time, develops by virtue of the rupture at both ends.)
+
+Film, from an ontological viewpoint, is a translation of one material
+stratum, the potential visibility of the real, into another. This
+translation occurs from the position of a third, the sources of
+illumination of the former. This position is that of a mediation which
+embeds itself by virtue of the latter.
+
+From this viewpoint, the mapping that occurs (by virtue of perspec-
+tival optics) appears to be an allegiance, an internalization of the
+perceived by the film stratum. (The film, defined by an anti-halation
+layer, is considered to be a two-dimensional surface. Of course this
+is never true; film is a volume, and this complicates matters.) The
+alleigance is in the form of similitude or alignment. One is concerned
+with a projective geometry of an ideal sort itself translated into an
+applied mathematics jostling between two materialities.
+
+Video, however, is a translation which involves an ontological break
+(_ontology at work,_ even in the application of the Marxist theory of
+reflection, designed to return information theory once again to the
+practical-inert); it occurs between a material stratum and a potential
+well of discrete (digital) or indiscrete (analog) reversible states
+fully translatable and equivalent. This well is a momentary stasis, an
+impediment or data bank, a node, within an idealized flow of communi-
+cations. The well is characterized by electronic links; reversibility
+guarantees ideal constructibility (and also an insipid and exhuasted
+temporality - desire, produce, reproduce, desire, use as much time/
+tape as you like!). Video has no allegiance to the material stratum
+which is only one source, a source among many. Its allegiance in fact
+is to a secondary narcissism: from external manipulation vis-a-vis a
+human operator/subject to a total internalization as the image is
+enfolded into the body. This internalization is in the form of a
+circulation operating on the level of, and by the laws of, the _dream-
+work_: condensation, displacement, inversion, substitution, and the
+recuperation of the dream-time are the primary processes here.
+
+Video is therefore the _cinema of thought_: cinema is _mediated by
+thought._ Video turns the viewer back to him/herself; cinema returns
+the viewer to the world. This is reflected in the technology involved.
+The film apparatus is ultimately mechanical; even the nicad batteries
+translate into motor operations. But video translates into parameter-
+ization, the isolatable and isolated constituents of information, and
+the image is manipulated in an idealized (imaginary/Imaginary) space
+devoid of representation. Film may approach this space, and this is
+the influence of video, but the approach is mechanical, clumsy - the
+use of numerous camera passes, matte and optical effects, slit-scan
+technology, motion control, etc. Music video, television, and the
+hysteria of spectactular consumption have influenced cinematic repre-
+sentation to the point that it attempts to appropriate this idealized
+space for itself. The frame becomes a construction: as in set theory,
+the universe of images becomes equivalent to their _constructibility._
+Economics and audience demographics ar at stake. Media proliferate
+beneath the guise of capital.
+
+The primary state of video (down to the alignment of magnetic domains
+on the tape itself) is switched, reversible, impermanent; the state of
+film is fragile (subject to wear, to the "ravages of time"), irre-
+versible. A developed film is in a sense identical to its embedded
+images. The images carried by tape represent a temporary stasis.
+
+Manipulation in video occurs within a discrete state-space: the al-
+teration of the image occurs within the identical closure of its
+production. Manipulation in film is a posteriori to source (often
+occurring in other generations); while the frame is discrete in film,
+thus enveloping the real as occupant, the pixel is discrete in digi-
+tal video, producing empty polarity as the potential for minimal
+content. (_Nowhere_ does the real appear in either, except as dis-
+order, disorderly.)
+
+Deconstruction in film (i.e. the self-reflexivity/criticality of post-
+May '68 political cinema) is the deconstruction of the mediation of
+the real; this mediation is a primary object of film theory. Decon-
+struction-closure (a contradiction in terms) in video transforms into
+a surrealism guaranteeing the subject, subjectivity, narcissistic
+processes and slippage, as well as an ultimate decontextualization in
+which the objects of the world are recognized as colonized subjects
+which themselves reproduce (both within video and without it) the
+manipulated contents of the screen.
+
+The object as represented in the film frame is a category of linkages
+forming a Jordan (closed) curve with an interior and exterior defined
+by noisy (grain) boundaries. The object reprsented in the video frame
+is a system of accumulations exhausted in time and presenting the
+analog of a Jordan curve viewed from a suitable distance; these accu-
+mulations are characterized by their presentation across scan lines
+"contradicting" the topology of the object.
+
+In video, the contingent or continguous object. In film, the represent-
+ation permeated by noise. (In video, noise too!)
+
+For the viewer, the video image is ideal, "psychoanalytical." The film
+image is archeologial, embedded within an object psychology.
+
+The video image is a top-down presentation of discrete translations of
+sets of elements; these translations are dependent upon mathematical
+transformations and the primary source material (internally or extern-
+ally generated). In film, the translations ("special effects") are an
+interplay of constructions of all sorts, ultimately based on a mechan-
+ical-optical technology which has changed little from the time of the
+_Encyclopedia._
+
+The filmmaker organizes herself/himself around part-objects: splicer,
+editing table, bins, synchronizers, footage counters, magnetic and
+optical readers, gloves, glue, tape. These generate mechanical-optical
+activities in the form of juggling between signifiers and semiotic
+systems. Such activities transform the configuration of the workprint
+itself, an object. The videomaker recognizes the prsence of drives and
+pathways which are electronically constrained. The semiotics is built
+into the editorial apparatus which generates signs. If film operates
+under difference, video operates under division. If film is additive,
+video multiplies into noise and overload.
+
+In video, the representation of external reality (as if reality were
+external!) is immediately placed within an exchange system. Using a
+home camcorder, for example, both internal and external titling (in-
+volving key effects) create inserts into any image. Those portions of
+the image which are masked are exchanged for other content (titles,
+etc.), which form a second and equivalent level of representation.
+Since in simple inserts, luminosity determines the areas to be occu-
+pied by the second level, luminosity is defined as a parameter against
+"content." Video synthesizers with external inputs, digital editors,
+etc., are all capable of the same. In film, the filter often falls
+between the camera and the scene to be filmed; the filter becomes an
+editorializing apparatus within the "theater of the real." This is
+also true for simple keyhole matting and special effects. (The
+mattebox and the filter are _objects._)
+
+Video operates within a hueristics of discrete logics, that, through
+the presence of an increasingly fine mesh, reproduce the presence of
+the body. The body is simultaneously here, there, elsewhere. The body
+of video is self-contained, logical, surrealistic, drema-logical. The
+discrete frame of film may be contradicted by gestural logics that
+play aross it, the indefinite spectrum of light and dark, shadows,
+luminosities, paralleling the transgressive play of gestural logics
+across the spectator's body. But the film is internalized by the
+spectator, while video internalizes the spectator.
+
+Film is _abject,_ shadow and material, abstract and reprsentation. It
+is dirty, and always dirty; noise adheres to it in the form of object-
+particles - dust, hair, spores, earth. The dirtiness of film is the
+presence of the flesh, the imminency of flesh. It is the flesh of the
+actor or actress which presents itself. Cinematic pornography is more
+powerful and empowered than its video equivalent; the theater is the
+consummation of _illicit_ masturbation, fetishization, and the realm
+of skin descending to spectatorial transgression. Video pornography is
+simply the presence of other people. Video noise is a displacement of
+the image; film dirt is a condensation, an adhesion of parasitic
+material to the supposedly clean and proper body. Deep down, we know
+the body is never clean. Cinema is pornographic by its very nature (is
+that the primary differentiation?). Cinema procures us in the negation
+of etiquette and its replacement by the longing of touch. One touches
+the dirt of the film. Video is always polite.
+
+And video is the cinema of thought - a complete equivalence of
+objects in which a horse and man, for example, may be placed upside-
+down in the sky; in which a woman, for example, may be exchanged for
+the man. This is paradoxically the totalization of the real, a total-
+itarianism in which every object is subject and subject to manipula-
+tion. To the extent that video is indexical (and film ikonic), manipu-
+lation has uncomfortable implications for the theater of the real.
+Everything becomes part-object under capital: video makes capital of
+the traditional alienation-effect (Marx, Brecht), in which objects are
+mediated by commodification and abstract labor. The simulacrum
+appears. Film gets away with this because of the very intransigence,
+inertia, of the theatrical. Precisely because it is theatrical, it is
+real. Precisely because video is real, it is not theatrical. Video
+flows into secondary narcissistic processes. The landscape of the
+dream.
+
+In both video and film, the audience works. To work through the dream-
+work is to work. Everyone knows this who bothers to even watch an
+audience.
+
+It should be noted that the self-referentiality of video is fundamen-
+tal, in spite of everything. This is why it may be _watched._ An
+object in love with itself. Speaking in video is fundamental, saying
+this or that, and it's like a snapshot, appears like one in any case.
+This gives programs such as _60 Minutes_ their power: Be quite! Some-
+one's talking! The small speakers of the television set guarantee the
+presence of someone. She's over there. Video is always _present_ in
+this regard; she's speaking _now,_ but we don't care - we're simply
+listening to her.
+
+The acoustic and maternalizing space of the film is far more complex;
+here I note only the relationship of the sound to the introjection of
+the diegesis, as well as the phenomenology of a space that is ultim-
+ately an interiority. The theater is the space of the spoken, the
+spectatorial space in which the optical perspective of the camera/
+projector combination (the optical _machine,_ in fact, organizing the
+space of the real within a totalization of mechanism and recall) is
+displaced by an ungrounded acoustics. The dream-screen is not the
+visible, but the audible. One enters into a space that is hearing
+itself, fulfilled with transparencies and digressions, overlaps and
+chatterings that deconstruct location, and the site of the spectator.
+What the spectator or viewer _does_ is _see,_ what is _occurring_ is
+_hearing._ This is a fundamental distinction in cinema; again, there
+is a primary difference between film and video. In film, one _hears;_
+in video, one _listens._ If video is of the present and present, film
+is the time of the subject.
+
+Just as the "I" of this essay is a problematic construct, polarizing
+and institutionalizing the process of its reading, so the ostensible
+content of this essay is also problematic deployed along and against
+contradictory institutions. One sees signs of this immediately in the
+blurred distinctions between "film" and "cinema," and between
+"television" and "video." "Film" is used in general to refer both to
+the technology and its consequences; "cinema" - already economically
+institutionalized - points to a certain narratology that, I would
+claim, is inherent both in mental process and the technology itself.
+While "television" both refers to an apparatus and its deployment,
+"video" implies the internalized information - electronic constructs -
+as well as styles operative off of those constructs, such as the image
+manipulation developed at the Chicago Institute of Art.
+
+Some final points need to be mentioned here - first, I believe that
+the narratology of film and video is rooted not only in the
+conventions of representations, economics, and fashion - but also in
+the "operations" of the mind itself using models, for example, from
+cognitive psychology). This alignment with neural matter, in a sense,
+is what gives film and video their enormous power. The former is also
+augmented by the psychoanalytics of theatrical architecture, the
+latter by its everyday habitus. (I've developed this argument at
+length in "Theses on the Inversion of the Cinema.)
+
+Criticism 1: But the presence of economics, demographics, the
+constitution of the spectator, gaze, etc. - are not secondary sources
+"applied" to fundamental technological differences; instead, the
+presentations (productions) themselves are complicated _from the
+beginning) by virtue of the confluence of these areas - their virtual
+_embedding_ in technology.
+
+Criticism 2: Furthermore, Freudian processes can shift across media;
+they're not local inhabitations, dependent upon them.
+
+Defense of poverty: Deeper, perhaps, I'd again invert this argument,
+however, to recuperate a difference within and beyond the history of
+the media. For it's evident - the "experimentations" in film or video
+that have extended their boundaries, have developed in very different
+directions. A great deal of experimental video uses digital editing,
+reverting perhaps to a critical-theory phenomenology of equivalence
+and industrial massification. (Almost, but not quite, and this is all
+the difference in the world.) Even video concerned with gender issues
+often foregrounds editing. This is not true in film, in which differ-
+ent identification processes appear to be at work; opticals are often
+restricted to fades, wipes, and pixillation effects. Even prior to
+music video, the evening news stressed an accumulation of signifiers
+and "pop" signs heralding one story or another. Although it is tech-
+nically truer in video that 'you are there," in terms of a news story,
+"you are there" implies either a radio or cinematic presentation in
+which the spectator is simultaneously the production of an intro-
+jection and at the deployment of an apparent representation of the
+real.
+
+To summarize: Film appears to be at the service of the materiality of
+everyday life, which is transformed into the theatrical; television
+displaces the same materiality in favor of a reflection/disassocia-
+tion substrate. Film cuts into the real; television cuts across it.
+Film implies use value (every object on a dressing table in a 1940s
+drama, for example, _signifies_); television implies exchange. And if
+television is postmodern (in the Lyotardian sense), film is
+_premodern_ at best, or else a remove from the terms of the discussion
+altogether.
+
+
+
+---
+
+
+Two Films:
+
+
+_Sleazy and the Year 3000,_ 1987: Sound by Damaged Life. Woman: Marlis
+Schmidt.
+
+_Debrisfilm,_ 1989: Digital guitar produced by David Smith.
+
+This stage of my filmwork involves projections of narrative encapsu-
+lated by death. The first film territorializes sleaziness and the fu-
+ture. Sleaziness is culturally problematic, a site possessing a
+lumpen-economics, sexualities deployed across the fetishied body - its
+graininess, the citation of the torn or cauterized, and so forth. The
+sleazy corrupts, corrodes; presence and the present vanishes. What a
+violence emerges! As in Ballard's _Crash,_ car and organism are one;
+each wounds and sutures the other. The future wanders around the pre-
+sent, expands it into an infinite longing which is rootless and insis-
+tent on a denuded absolute. Nothing is fulfilled. The year 3000 is
+sufficiently "foreign" in terms of projection/projectiles (imagina-
+tion/imaginary) that it becomes another deployment, the beginning and
+stuttering of narrative and diegesis.
+
+Thus against these fields, narrative falters, is born, hystericizes,
+liquifies in the realm of jewels and genders, disappears. The film
+ends. Hold your breath.
+
+It is the bearing of sexuality (baring of the filmmaker) that resolves
+theory back into the body (no resolution here), but the body hopeless-
+ly theorized, awash in speech. It is the baring of narrative (narra-
+tive's sex) that longs for completion.
+
+The second film wants to straighten it, operating on the plane of the
+real. It drags the film in with it. Introduces and reintroduces
+itself. It dissolves into turbulence, the temporary stasis of _anim-
+als_ (large-scale "entities" remaining coherent in the midst of a
+chaotic liquid), almost on the level of non-equilibrium thermodynam-
+ics (plateaus of stabilization, such as organic systems). (This is in
+your head.) But not quite.
+
+Continues with the filmmaker's body, arousal states, sexuality mod-
+elled on 1950s soft-core, incomplete, the shaved body swimming through
+production debris. Exhibitions of a whore. The filmstock employed is
+outdated for the most part, a gift from one or another filmmaker -
+Phil Niblock, Leslie Thornton. Granularity swallows the body like
+menses or semen. Body in idel chatter, flickering throughout its
+development. Body of the film - what else is the film about?
+
+(I question those films using sex, nakedness, and _always the other,_
+never the filmmaker himself/herself. Arousal elsewhere. As if the line
+to be drawn were against the apparatus. "He" gets involved when the
+camera's off. Psychoanalytics and economics are involved: _"He" hires
+her._ The case of the _same._ My films are poor films. I use myself,
+present myself, a gift. Embed myself within desire, audience, abjec-
+tion. The delight in all of this. The other body the self. what about
+this nakedness, this heterosexuality, equation of film, power, state,
+lassitude, weakness, perversion?)
+
+What's present, a _clot_ or _coagulation,_ signification sinking, tak-
+ing the State (the Metro!) along with it, branding me unwholesome, un-
+welcome, beyond the Pale, undesierable. Flowing through your veins,
+dissecting this particular sexuality always labelled _male,_ same,
+jerk-off - this devouring sexuality in which the consensus-role of
+theory liquifies in spontaneities. There's not enough said about this,
+this placement of the clot against the sleazy orgasm sticking to the
+real, as if puttering or identity were all there is to it. What spills
+over is a politics that begins and ends with sputtering.
+
+"Asked for what reason she had taken man's dress. She answered that
+she had done so just now. Asked why, and who had induced her to do so.
+She said, of her own will. And that nobody had forced her to do so.
+And that she preferred man's dress to woman's.
+
+"Wherefore she was reminded that she had sworn and promised never
+again to wear male clothing. To which she replied that she had never
+intended to take an oath not to take man's dress again.
+
+"Being asked several more times why she had taken it again. She said
+that she had done so because it seemed to her more suitable and con-
+venient to wear man's dress being with men, than to wear woman's
+dress."
+
+(_Joan of Arc, Trial for Relapse,_ trans. Scott.)
+
+
++++
+

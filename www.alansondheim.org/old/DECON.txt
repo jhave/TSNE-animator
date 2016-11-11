@@ -1,0 +1,140 @@
+From wtm@ARTS.GLA.AC.UKMon Nov 13 11:36:23 1995
+Date: Mon, 13 Nov 1995 10:24:02 GMT
+From: Dr W T Maley <wtm@ARTS.GLA.AC.UK>
+Reply to: A discussion of Jacques Derrida and Deconstruction
+     <DERRIDA@CFRVM.CFR.USF.EDU>
+To: Multiple recipients of list DERRIDA <DERRIDA@CFRVM.CFR.USF.EDU>
+Subject: Deconstruction for Beginners
+
+Someone asked for a simpler discussion a few days ago. Last year I conjured
+up for some of my own students a checklist headed 'Ten ways of thinking
+about deconstruction'. I don't claim infallibility, just provocation ...
+
+10 ways of thinking about deconstruction - Willy Maley
+
+1) It is a general theory of text, not a "textualization" of politics but a
+politicization of text, of text as a system rather than as a book bound by
+covers. In 'Of Grammatology' (1967), Derrida first formulated the phrase
+that has haunted him ever since: 'There is no extra-text', or there is no
+frame, often interpreted as: 'There is nothing outside - or beyond - the
+text':
+
+'there is no outside-the-text' signifies that one never accedes to a text
+without some relation to its contextual opening and that a context is not
+made up only of what is so trivially called a text, that is, the words of a
+book or the more or less biodegradable paper document in a library. If one
+does not understand this initial transformation of the concepts of text
+...[and] ... context, one understands nothing about nothing of ....
+deconstruction ... (Derrida, "Biodegradables", p. 841).
+
+"all those boundaries that form the running border of what used to be
+called a text, of what we once thought this word could identify, i.e. the
+supposed end and beginning of a work, the unity of a corpus, the title, the
+margins, the signatures, the referential realm outside the frame, and so
+forth. What has happened ... is a sort of overrun that spoils all these
+boundaries and divisions and forces us to extend the accredited concept,
+the dominant notion of a 'text' ... that is no longer a finished corpus of
+writing, some content enclosed in a  book or its margins, but a
+differential network, a fabric of traces referring endlessly to something
+other than itself, to other differential traces". (Derrida, "Living
+On/Borderlines", p. 81; pp. 83-84).
+
+"An 'internal' reading will always be insufficient. And moreover
+impossible. Question of context, as everyone knows, there is nothing but
+context, and therefore: there is no outside-the-text" (Derrida,
+"Biodegradables", p. 873).
+
+Derrida's enlarged notion of text has been seen, curiously in an academic
+context, as a reduction of politics. Derrida denies the equation of
+textualization with trivialization. He maintains that:
+
+"It was never our wish to extend the reassuring notion of the text to a
+whole extra-textual realm and to transform the world into a library by
+doing away with all boundaries...but...we sought rather to work out the
+theoretical and practical system of these margins, these borders, once
+more, from the ground up".
+
+Derrida is out to circumvent both the "text as world" and the "world as text".
+
+2) Deconstruction is deliberately eccentric, working in the margins. As
+Terry Eagleton puts it in Literary Theory:
+
+"Derrida's ... typical habit of reading is to settle on some apparently
+peripheral fragment in the work - a footnote, a recurrent minor term or
+image, a casual allusion - and work it tenaciously through to the point
+where it threatens to dismantle the oppositions which govern the text as a
+whole" (p. 133-34).
+
+As Derrida himself says:
+
+"I do not 'concentrate' in my reading ... either exclusively or primarily
+on those points that appear to be the most 'important', 'central',
+'crucial'. Rather, I deconcentrate, and it is the secondary, eccentric,
+lateral, marginal, parasitic, borderline cases which are 'important' to me
+and are the source of many things, such as pleasure, but also insight into
+the general functioning of a textual syste"m (Derrida, "Limited Inc.").
+
+"... 'marginal, fringe' cases ... always constitute the most certain and
+most decisive indices wherever essential conditions are to be grasped"
+(Derrida, "Limited Inc", p. 209).
+
+Of course, there is a sense in which whenever we quote from any text,
+whenever we write criticism, we are writing on the margins.
+
+3) Deconstruction can be seen as an overcoming of the risk of repetition
+through revolution.  In Positions Derrida states that deconstruction has
+two stages. Reversal and displacement. Reversal of a binary opposition
+which is also a violent hierarchy, followed by a reorientation, or
+displacement of the problem, to avoid repetition. You cannot skip reversal
+and move straight on to displacement. Elsewhere Derrida seems to suggest
+that these two stages need not be executed in that order. Still, reversal
+and displacement remain one way of thinking about deconstruction.
+
+4) It can also be seen as an allegorics, or analogics of power. A politics
+of 'linkage'. Because there is nothing outside the text - everything is
+included in 'reading' - connections are constantly made with the so-called
+'real' or 'outside' world.
+
+5) It is an attempt to recover histories that have been 'repressed',
+'minoritized', 'deligitimated'. Derrida claims that it is in fact the most
+historical of approaches:
+
+"One of the most necessary gestures of a deconstructive understanding of
+history consists ... in transforming things by exhibiting writings, genres,
+textual strata (which is also to say - since there is no outside-the-text,
+right - exhibiting institutional, economic, political, pulsive [and so on]
+'realities') that have been repulsed, repressed, devalorized, minoritized,
+deligitimated, occulted by hegemonic canons, in short, all that which
+certain forces have attempted to melt down into the anonymous mass of an
+unrecognisable culture, to '(bio)degrade' in the common compost of a memory
+said to be living and organic" (Jacques Derrida, "Biodegradables: Seven
+Diary Fragments", Critical Inquiry 15, 4 (1989), p. 821).
+
+6) It problematises the notion of author. The author is included in the
+text - because there's nothing outside the text - but as text, to be read,
+not as a governing presence.
+
+"... what [deconstruction] calls into question is the presence of a
+fulfilled and actualised intentionality, adequate to itself and its
+contents" (Jacques Derrida, "Limited Inc", pp. 202-203).
+
+Derrida appeals to Freud and the psychoanalytic notion of the unconscious
+in order to back up his claim that intention is necessarily limited. Note,
+not that it doesn't exist. But it is limited.
+
+7) You become like the thing you criticize. Oppositional writing always
+runs the risk of reappropriation.
+
+8) Deconstruction inhabits - in a parasitic way - the texts it reads. There
+is a kind of miming that goes on. This is both a question of fidelity and
+of parody.
+
+9) It is a hauntology, rather than an ontology, a theory of ghosts. A
+belief in the ghostliness of being. The self, according to Derrida is a
+ghost. The first ghost we are host to. Derrida believes in ghosts, and in
+telepathy. This 'supernaturalism' can be traced throughout Derrida's work.
+
+
+10) It is "a radicalization of Marxism", claims Derrida in his most recent
+book (Specters of Marx (Routledge, 1994), p. 92), a radicalization in terms
+of its conception of work, ideology, and ghosts.

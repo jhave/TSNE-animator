@@ -1,0 +1,15 @@
+CLS : REM MESSCLR basic S-series
+INPUT "If color, enter 1; if black and white, enter 2"; t: PRINT ""
+INPUT "Divisor, usually 2"; z
+PLAY "T400": CLS : IF t = 2 THEN GOTO six
+SCREEN 0, 1
+six: x = 0
+One: a = 0
+x = x + 1
+Two: a = a + 1
+IF t = 1 THEN COLOR a, 0, 8
+IF x MOD z ^ a = 0 THEN GOTO Two
+IF a MOD 2 = 0 THEN PRINT "Û";  ELSE PRINT "Ü";
+b = 5 - a * 5: PLAY "L64 b"
+GOTO One
+

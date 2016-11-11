@@ -1,0 +1,2381 @@
+
+
+Review of Google Hacks: 100 Industrial-Strength Tips and Tools
+
+
+Tara Calishain and Rael Dornfest, O'Reilly, 2003, $24.95, 330 pp.
+
+I've been using Google Hacks for creative work for the past few weeks, and
+have found the book of tremendous value. There are of course hegemonic
+issues surrounding Google; it's by far the most popular search engine on
+the Web. But it's also the only search engine that has released its API,
+defined as "'Application Programming Interface,' a doorway for
+programmatic access to a particular resource or application, in this case,
+the Google index." In other words, the API provides a remarkably supple
+method for embedding Google queries in a program (mostly Perl here), which
+makes this search engine eminently useful for creative and/or database
+work. The book includes a large number of programs taking advantage of the 
+API; they're also available at the O'Reilly site for downloading. Examples 
+are given in Java, PHP, Perl, Python, etc.
+
+One difficulty which may be more than minor - many programs use a
+SOAP::Lite Perl module. This is easy to download for ActivePerl for 
+Windows; on one of my linux laptops (running RedHat 7+), it wouldn't 
+install at all, but downloaded Perl 5.8.0 which didn't help. On another 
+laptop with a later RedHat, it went in fairly easily.
+
+Once you have the module installed, most of the programs run without any 
+difficulty. They allow you to do such things as summarize results by 
+domain, set up automated repeat searches, "Meander Your Google 
+Neighborhood" and so forth. They also allow any number of search results - 
+this is changed by increasing the looping which is set for 3 (thirty 
+results). I did a search for "internet" - returning the domain statistics 
+- using the first 1000 entries; it only took a minute or two.
+
+As an artist, I tend to see Google as a universal sememe or memory house
+that attempts to gather all human knowledge. Some of my recent work
+operates "upon" this sememe, locating categories, paths, and convolutions.
+The programs in Google Hacks (and their modifications) give the user
+tremendous control over these. I will now be using the same to look at the 
+Google groups archiving. (The book not only covers Google Groups, but the 
+Directory, Images, News, Catalogs, Labs, and Froogle.)
+
+The last section of the book is written from the "Webmaster Side" of 
+things and is quite useful for indexing/configuring your own webpages.
+And the book as a whole is useful for anyone using search engines in 
+general - its range extends far beyond "How do I look up X?" - into issues 
+that, at least for me, bear on the organization and epistemology of 
+knowledge itself.
+
+I wanted to write this review for a number of reasons. Tara Calishain is 
+in my Being On Line book, and I've subscribed for a long time to her 
+ResearchBuzz newsletter. Google itself has allowed me to explore certain 
+aspects of my textual/literary practice, and has been invaluable for my 
+interests in both ancient languages (Sumerian, Assyrian for example) and 
+ecology (behavior of the yellow-headed blackbird for example). I've always 
+admired the surface simplicity of the site; on the other hand, I'm not 
+blind to its political economy and the vast areas of the Net that aren't 
+indexed (as well as those areas indexed "against their will"). 
+
+But above all, this book oddly reads as a commentary for the searching 
+many of us do in many ways - and in my case, the artistic and cultural 
+rewards gained by using it are enormous. I'd suggest for everyone to give 
+it a try (as well as learning a bit of Perl and programming - although 
+neither is necessary to use it) - at least check it out through the 
+O'Reilly site.
+
+A final note - a plug for O'Reilly in general. If you haven't explored 
+their publications, you're missing what are probably the most intelligent 
+computer-oriented books around. And oddly enough, they don't tend to go 
+out of date!
+
+- Alan Sondheim 
+
+
+===
+
+
+quiz latin english
+
+
+arceo?
+i reach
+don't know
+
+===I keep away
+
+arvum?
+I keep away?
+land
+sono (v.)?
+I hear
+I see
+
+===sound
+
+fugo?
+I fly
+flight
+
+===put to flight
+
+fatisco?
+I am fated
+
+===gape open
+
+nemora?
+I am electric with wonder
+You are electric with wonder?
+
+===groves
+
+adnitor?
+To go for admission mispelled
+Don't know...
+
+===strive
+
+fulmen?
+Smoke!
+smoke
+
+===thunderbolt
+
+geminus?
+twins germinating
+germinating twins
+
+===twin
+
+harena?
+to have one's hare cut?
+hair cut?
+
+===sand
+
+minatur?
+to make incredibly tiny, as in a bull
+to miniaturize
+
+===he threatens
+
+varius?
+many and varied
+What?
+a huge number of different things!
+
+===different
+
+os (n.)?
+bone
+a bone
+
+===mouth
+
+fulvus?
+so much for os... a balance like a fulcrum?
+a vent?
+
+===tawny
+
+mico?
+to look upon a section or piece of mica
+or a mica crystal for that matter...
+
+===flash
+
+immitis?
+better than anything else!
+immitable
+
+===cruel
+
+frigus (n.)?
+something cold named gus I guess -
+cold? or is that frigid...
+
+===cold
+
+luo?
+to him?
+to him
+her
+
+===wash away
+
+cervus?
+this isn't dog but should be
+brain
+
+===stag
+
+quiesco?
+be quiet
+shhh....
+
+===become quiet
+
+promitto?
+to promise 
+promise
+
+===primise
+
+horreo?
+to be incredibly scared or frightened ah!
+
+===bristle
+
+foedera?
+hat
+if it's not hat, it should be!
+please make it hat!
+
+===agreements
+
+vinum?
+wine
+Right!
+
+antrum?
+behind
+oh, i'm thinking of atrium...
+antlers
+stag?
+
+===cave
+
+folium?
+I should have known cave...
+hair
+book
+
+===leaf
+
+morsus?
+piece
+you know, a piece of something!
+
+===bite
+
+effundo?
+to descend to the fundament
+not to be able to afford such a descent
+ahh...
+
+===pour out
+
+extemplo?
+leaving the temple on time!
+going out!
+
+===immediately
+
+nemus?
+from the knees in nimbus (cloud)
+
+===grove
+
+ingemo?
+the opposite of outgemo...
+no, just kidding -
+the same as "ingemo"
+
+===groan
+
+aridus?
+dry
+Right!
+
+rima?
+rhyme
+rim
+a "round" rhyme...
+
+===crack
+
+sinat?
+part of a temple
+a forum
+a part of a temple forum
+against um
+
+===he permits
+
+condo?
+i want one!
+i live
+despair... I can't afford..
+
+===I found
+
+dubius?
+doubtful
+Right!
+
+artus?
+harmony
+fit
+
+===joint
+
+seditio?
+to revolt
+sedition against something!
+
+===riot
+
+gemo?
+to germinate, begin
+the origin of everything!
+
+===lament
+
+ductor?
+to lead
+alas, to lead again...
+with one's mouth taped shut...
+
+===leader
+
+crudelis?
+primitive
+simple
+awful
+
+===cruel
+
+flecto?
+to bend
+bend
+turn around something that wasn't...
+
+===turn
+
+dolor?
+sad
+sadness
+mourn
+
+===pain
+
+corripio?
+hurting
+corruption
+
+===snatch
+
+arrigo?
+quickly to go before you change your mind!
+
+===prick up
+
+spelunca?
+cave
+Right!
+
+disjicio?
+someone not "jicioing"...
+
+===scatter
+
+lumen?
+light
+Right!
+
+ignarus?
+forget
+dumb
+ces't moi!
+
+===unknowing
+
+niteo?
+making smaller and picking...
+
+===shine
+
+dulcis?
+smooth
+soft
+and quiet...
+
+===sweet
+
+seco?
+to place or put, as in a maelstrom
+to search sweetly
+and secrete...
+
+===cut
+
+umbra?
+shadow
+Right!
+
+
+___
+
+
+My Eternity
+
+
+I write ahead of time, that my readers of 2053 will perhaps understand me
+and my lack of hatred for everyone who refuses to support me, who stands
+by, who closes his or her eyes to the brilliance of a new dawn of writing.
+And the readers of 2103 who will finally begin to comprehend, not only my
+literatures, but my philosophies of truths or lack of them. And my
+stupidity, which is close to that of Stendhal's, as if the future gathers
+a promissory note which will never been collected. What is variegated now
+will come together in critical coherency. No one can begin in this or any
+other present. What will be will be. I will not mention my enemies. They
+are legion. They affect me but remain outside my work. They are only of
+personal concern. Their names will be forgotten. I will not honor them.  
+Someone will write my biography - myself, I would be sued. I cannot afford
+to tell the truth (in this regard). I tell the truth otherwise. The truth
+I tell is what is important in 2053. You may have to look hard for my work
+but my only wish is that it is available. And available in 2103. In 2103
+it will be understood. My enemies will be long dead. My biography will 
+include their names. Everyone I know will be long dead. Their descendents 
+will have forgotten me. My work will stand on its own. My work will be 
+read in 2203 and 2303. My work will continue to be read.
+
+... infinite, and the union of the change my heart o created time, the
+moving image of eternity, and you aztec religion 2054 picture of russia
+2053 black history my body jesus seminar that it is my blood david and on
+the other the buddhist eternity symbol 2055 texas history 2054 black
+history fact 2053 warped tour laughing jesus deliverance, of massive and
+mournful eternitytravel again, i direct my steps towards of egypt 2054
+historical costume 2053 american black on him our flesh 1298then god in
+his eternity 1299then by his care 1670yet have i somewhat that my lord can
+2049o 2050r 2051s 2052u 2053v 2054 married in the temple to be joined for
+all eternity with this 2065 on 3/27/01, jason asked in my faith as of 2053
+on 3/27/01, peg asked do you know how i 2053 i look into your eyes i am
+taken from this world to a place which is timeless and udescribable where
+love is an eternity submitted by take my love and whose very elements,
+perhaps, appertain to eternity alone it has been my purpose to suggest
+that, while info on egypt 2054 egypt today 2053 historical cartoon cries
+mary 3 minutes, 18 seconds 2053 jimi hendrix 2489 magnetic fields - you re
+my only home 2 2491 magnetic fields - promises of eternity 3 minutes cries
+mary 3 minutes, 18 seconds 2053 jimi hendrix 2489 magnetic fields - you re
+my only home 2 2491 magnetic fields - promises of eternity 3 minutes
+20532322 love is perhaps the only glimpse we are permitted of eternity
+helen hayes submitted by anonymous 2323 without you in my life, the light
+in esteeming 880 estimate 881 eternal 882 eternity 883 even must 1760 mute
+1761 mutual 1762 my 1763 myself 2050 prevent 2051 preventst 2052 prey 2053
+prickd 2054 2053 phish - light up or leave me alone 10 2550 voltaire oh my
+goth! - out of reach 4 1 second 2690 magnetic fields - promises of
+eternity 3 minutes from eternity hath it not been heard of, that a man
+opened the eyes of a blind man 2053and verily i say unto you, in every
+place where this my gospel shall be steve snow f satellite 20 12 we my age
+him uncpcj isep guppy sasp afspc mavricks lacrosse eternity starlan energy
+2047 2048 2049 2050 2051 2052 2053 2054 2055 be inclined to settle upon
+those of eternity the elevation to my soul, and slumber to my eyesdryden
+black history month lesson plan 2053 medieval weaponry 2053 jimi hendrix -
+angel 4 minutes, 16 seconds 2054 2489 magnetic fields - you39re my only
+home 2 2491 magnetic fields - promises of eternity 3 minutes dis plus tu
+1625 fight for all eternity 1537 fight i found out 1112 red hot chili
+peppers my friends 1317 rem strange currencies 362 rem tongue 2053 rem
+zither 2043 --- 2047 23 {xiib} 2049 --- 2051 7 2053 p 2057 my al htb
+ampquotquicksilver,ampquot kd lck p 442 176 an advisor, counselling
+yva39atz to eternity laesteeming 880 estimate 881 eternal 882 eternity 883
+even must 1760 mute 1761 mutual 1762 my 1763 myself 2050 prevent 2051
+preventst 2052 prey 2053 prickd 2054 698 ekron barrenness torn away 699
+eladah the eternity of god 2053 raguel shepherd, or friend of god2080 rei
+my shepherd my companion my friendby god to wander the earth in darkness
+for eternityor all those who you send into my lands shall be 2053 ad zaire
+ebola outbreak, spreads throughout region cries mary 3 minutes, 18 seconds
+2053 jimi hendrix 2489 magnetic fields - youre my only home 2 2491
+magnetic fields - promises of eternity 3 minutes the garage 3 minutes, 55
+seconds 2053 weezer - in 2250 john mayer - my stupid mouth 3 minutes, 46
+2253 magnetic fields - promises of eternity 3 minutes would rather not be
+bothered right now, but he 2053 is polite 2718 2719 soran 2720 my
+instincts tell me you39re lyingit felt like an 2739 eternity, didn39t
+it?lifted 2052on the faithful, who adore 2053on thee above celestial
+things 2806through all eternity, to thee life 2808through every period of
+my life 2809 fx gx kx px rx vx by ky my ny ty sg530 2043 2143 2243 1843
+1943 2053 2153 2253 reprieve albright marriage androids fourteen february
+eternity morrison fiercely tucows ongoing orion phrozen also zero razor
+corp eternity starfox xforce 9x cx dx ex fx ox px vx by my gz nz 2046 2047
+2048 2049 2050 2051 2052 2053 2054 2055 2053 to this first reply jesus
+adds a second if you would be perfect, go this is my commandment, that you
+2159 the name one receives is a name for eternitypeople over control linux
+y us my dos spy upgrader sharekey netrojan searchaz shortcut eternity
+george39s icqrsc30 2047 2048 2049 2050 2051 2052 2053 2054 2055 without me
+cdm 2002 frank sinatra - romance 2002 future breeze - ocean of eternity
+cdm 2002 cranberries amp rem - my choice 2024d - david bowie 2053didrachm
+lawrence approved carrying corroded surround eternity scarab bearer lv sw
+ww nx px ay my ny ry 294335 1943s 1943d 1943y 364364y 1053 2053 40535
+pp430 ...
+
+
+___
+
+
+please read memorial
+
+
+please that & read this this don't very it you you important is it that &
+read please very this important it overlook reply confidential don't
+personal this reply you and need i my for to keep important need personal
+my and to i save will future call in for will in 2103 confidential on save
+call keep a.d. will 2053 truth memorial 2103 memory 2103 truth will alive
+a.d. telling must all every must machine every telling form all machine
+truth technology read please & this don't it you is that read this very
+you important it & please don't this you it that is overlook read
+confidential personal reply important personal don't and and i reply for
+keep need is my this to confidential save and keep i future in will 2103
+on keep call for in future 2103 will a.d. you 2053 a.d. memorial will
+memory truth alive 2103 telling a.d. all a.d. truth that must and every to
+form read machine must technology save please this it is read very is
+important & don't you that this you very it important read don't is that &
+overlook confidential reply read personal this confidential very and
+please i for need my to and save reply keep is for i my need future to
+will on call you on future in future 2103 keep a.d. will call on you will
+need you 2053 a.d. this is my memorial memory keep alive telling truth in
+2053 2103 a.d. a.d. that you must save this in every form and all machine
+technology to read in 2053 2103 a.d. a.d.
+
+
+___
+
+
+the lining song
+
+
+this line filters the others or a la di dah this line is dispersed or b la
+di dah this line is dissipated or c la di dah is subsequent to the rest or
+d la di dah appears as consequence and then e la di dah what i la di dah
+am saying to you is that we will fight and f la di dah what i la di dah am
+saying to you is that we will fuck and g la di dah this line has no
+remembered import but h la di dah this isn't something i la di dah ever
+meant to say although i la di dah you might as well know i la di dah wish
+you dead but j la di dah you might as well know i la di dah want to fuck
+you though k la di dah that line is completely forgotten and l la di dah
+those lines are entirely effaced or m la di dah you shove your cock into
+my tight cunt however n that line i la di dah never thought or said but o
+la di dah my knife slices through your eyes and tongue however p la di dah
+my actions speak louder than words and q la di dah i want to tongue your
+nasty holes but r la di dah this doesn't come from anywhere and s la di
+dah this doesn't go anywhere and t la di dah i'll cut your bloody head off
+or u la di dah you'll never know the difference but v la di dah someone
+else took over your body and gave it to me or w la di dah you're staining
+yourself and i'm buying it though x la di dah you're writing this and no
+one else but y la di dah no one's reading this so z la di dah fucking or
+killing is one and the same 0 la di dah and neither filter or disperse la
+di dah
+
+
+___
+
+Julu and Jennifer Today
+
+drops of jupiter |w|h|i|t|e| |l|i|l|i|e|s| |i|s|l|a|n|d|, I haven#39;t
+updated it yet. I added a few affiliates and I got around to updating
+Selfless, Rise to Stardom, the JENNIFER clique, and Jack McPhee#39;s
+Journal.  Aaaah, Jennifer Aniston!, Welcome to ´Aaaah, Jennifer Aniston!
+´ I made this site for you So browse through it, to find lots of
+pictures, a fan mail Jennifer Lopez Jennifer Lopez pictures, Jennifer
+Lopez Biography, Jennifer Lopez Music and Lyrics, Jennifer Lopez Gallery.
+Search:  Tv.findquality.com - Your comprehensive guide to stars, models,
+Reach for the Stars Click Here For Our Top Resources about Movies, Welcome
+to the definitive guide to movie Jennifer Alleyne Ltd. Barbados Real
+Estate amp; Property Jennifer Alleyne Ltd Real Estate and Property Rentals
+Jennifer Lopez NET,(0). Thursday, December 05. ·, Watch as Jennifer Lopez
+performs (11). ·, Full MIM Movie Captures (0).  Jennifer on the cover of
+Cosmo Girl Magazine! (News).  Romance Book
+Reviews,//www.romancereview.cjb.net/,Romance Book Reviews Last Updated:
+5/24/03 3:34:56 PM To the world you may be someone, but to someone you may
+be the world ~anonymous~ beneathnext.gif - 1458 Bitte starten Sie hier.  
+Welcome to Uniform Designs, Durham, NC 27704 * Ph: 919-317-4134 * Fax
+919-220-5835 ©2002 Uniform Designs. James D. Boren amp; Jennifer B.
+Wright. All Rights Reserved.  Legends: The Rise and Fall of Xiang Yu, in
+208 BC while Xiang Yu and Liu Bang were making plans to capture the Qin
+capital Xianyang, an urgent call for aid came from the city of Julu, which
+had been KULTURA ISHRANE Jagode na stolu, Koristi se plod, lisce i koren.
+Plod se bere u junu, julu i avgustu, lisce u maju, junu, julu i avgustu, a
+koren u septembru. Jede Udruzenje gradjana quot;Zene Srebrenici i drugim
+gradovima Podrinja (u svim gradovima BH) - Sakupljanje posmrnih ostataka
+po površini žrtava Genocida nastradalih Srebrenicana u julu 1995
+Udruzenje gradjana quot;Zene od 1.400 ali se u ovom tek-stu govori o
+tijelima žrtava četničkog genocida nad stanovništvom quot;Zaštićene
+zone Srebrenicaquot; koji se dogo-dio u julu 1995.g Udruzenje gradjana
+quot;Zene Srebrenicequot;, godine u Skugrićima, općina Vlasenica,
+nastradao u rejonu Cerske u julu 1995. godine. Identifikaciju potvrdio
+brat Nukić Asim.  Udruzenje gradjana quot;Zene Srebrenicequot;, što je
+taj naš clan objasnio Braunu da mi posjedujemo podatke da je Mane Djuric
+umiješan u masovne egzekucije Bošnjaka iz Srebrenice u julu 1995 godine
+i Udruzenje gradjana quot;Zene Srebrenicequot; pojedinih pripadnika
+Holandskog bataljona koji je u Srebrenici bio rasporedjen u periodu
+januar-juli 1995 a posebno vezano za dogadjaje u julu 1995 godine ..::
+dino.merlin.homepage :: vijesti ::.., Posebno se osvrnula na telefonski
+razgovor s njim u julu prosle godine. Tacno je i to da smo se u julu
+prosle godine culi telefonom. Ona je mene pozvala.  AMNESTI INTERNEŠENEL
+pravnog odeljenja Vrhovne komande Vojske Jugoslavije stavio je broj
+sluèajeva na 23.000, prema obaveštenjima koje je Amnesti Internešenel
+primio u julu. CBS News | Who Killed Campaign Reform? | July 12, 2001
+22:57:37, Who Killed Campaign Reform? WASHINGTON, Julu 12, 2001 (AP) E
+
+Today With Alan Sondheim
+
+"digitalartsource.com-Digital
+Mentors","http://www.digitalartsource.com/pages/sondheim032001.shtml","
+Alan Sondheim. I would like to recommend two email lists: nettime-l@bbs.
+thing.net and webartery@onelist.com. Nettime deals with cultural "
+"SEARCHING PSYBERSPACE....", "http://www.surfmind.com/web/browsecat.
+cfm?category=HyperMedia"," Adventures in CyberSound. 1, DEVISE Hypermedia.
+2, IBM Systems Journal, Vol. 35, Nos. 3&amp;4, 1996. 3, OOP. Alan
+Sondheim: Internet Philosophy and Psychology. 4, Cyber.  " "society for
+photographic education","http://www.spenational.org/exposure.html"," 22:2,
+“What are you staring at?” Diane Neumaier, Sally Stein, Alan Sondheim,
+Linda Andre, Katya Mandoki, aneta sperber, and Catherine Lord.  " "Ghost
+Image of The Severed Palm Page","http://www.psnw.com/~bashford/ sevpalmh.
+html","Welcome to the Severed Palm Page, the internet home of the fester-
+ing corporate empire of Scott Hawkins. Based in Orange County, California
+" "Electronic Literature Organization - PAD","http://www. eliterature.org
+/pad/content/threatened_works_list.php"," Christy Sheffield Sanford,
+Reiner Strasser, Water~Water~Water. DHTML -1999. Under remediation. Alan
+Sondheim, lpmud. DOS with logins. Under remediation.  " "Playlist for
+Stochastic Hit Parade with Bethany Ryker - May 28, ","http://www.wfmu.org/
+playlists/shows/3592"," Moon, Thirsty Ear, *. Alan Sondheim, Messier 81,
+T&#39;Other Little Tune, ESP Disk, for jaltarang and Moog synthesizer,
+1968, Sunny Murray, Red " "A Co.Lab.ora][s][tory", "http://www.radiofree-
+monterey.org/images/websocstory1.html"," Tony Green; .Ted Warnell; .Frater
+Tendai; .Morning Glory; .Anna Geyer; .Talan Memmott; .James Allan; .Alan
+Sondheim; .darko fritz; .federic madre ___________. . " "NOEMA &gt;
+ARTS","http://www.noemalab.com/sections/arte_focus.asp?IDFocus=75"," ...
+conceptual art to the use of machine code fragments as private languages
+in artistic &quot;codeworks&quot; like those I collate, together with Alan
+Sondheim and Beatrice " "The Telson Spur -- Jump Points (1): The Internet
+","http://www.snark.ca/jump.htm"," About - Internet/Online Alan Sondheim:
+Internet Philosophy and Psychology All About The Internet: Code of Conduct
+(ISOC) AntiNet Archive - Critical Views of " "The Telson Spur: Field Nodes
+-- Concepts (1): Philosophy","http://www.snark.ca/sci.htm"," for Process
+Thought AAPT Homepage (American Association of Philosophy Teachers)
+Academic Info: Philosophy (Mike Madin) Alan Sondheim: Internet Philosophy
+and "
+
+
+___
+
+
+jennifer julu for a couple of days 
+
+
+jjd jennifer key d jd key key bschons jennifer rand d mphil key phd
+bschons lond rand jjd mphil key phd jd lond key professor of of
+mathematical mathematical sciences sciences department department clemson
+clemson university university professor player bio bio danna danna womens
+womens water water polo polo danna danna class class player freshman
+hometown hometown riverside riverside calif calif high high school school
+arlington arlington hs hs height height freshman 58 58 position position
+utility utility birthdate birthdate 02161984 02161984 jennifer jennifer
+hall hall mcb mcb faculty hall hall associate associate molecular
+molecular amp amp cellular cellular biology biology and and biochemistry
+biochemistry faculty biophysics 47 phd scifi yale art elfwood by zone de
+47 salme scifi art click by biophysics de phd salme yale click zone on map
+any above the to pictures see image large map version above guestbook to
+for see on large any version the guestbook pictures for image salme name
+date comment name marletta comment group marletta group artz artz artz phd
+artz salme phd date presently as i a am postdoc working in as artz a yahoo
+postdoc movies in lyne yahoo i movies am lyne working filmography times
+filmography tickets times gregs tickets previews gregs trailers previews
+dvdvideo trailers news box gossip office box lyne office main lyne page
+main biography page filmography biography msg filmography news msg gossip
+board clubs clubs web web sites sites mckenna mckenna long long aldridge
+aldridge manning manning professional professional board affiliations
+atlanta affiliations bar atlanta association bar manning jennifer
+associate manning atlanta atlanta email email knoepp knoepp knoepp knoepp
+employee employee information information name name title soil research
+scientist soil unit scientist evaluation unit ars evaluation ars d
+vonderwell d title vonderwell research vonderwell j dba leake j 12 leake
+2002 september new 12 bar 2002 jennifer new vonderwell bar dba manhattans
+brother little dba brother 905 dba julu 905 lu julu near lu changshu near
+lu changshu manhattans lu little privilegetumor work both hard work
+alchemical hard institute alchemical making institute julu making d julu
+zeitlyn d privilegetumor zeitlyn both fieldnotes thought id about not it
+thought but about hes it been but wearing hes same been fieldnotes wearing
+id same not clothes 487 ever tortured since argument 487 with tortured
+beet argument azalea with whether beet was azalea clothes whether ever was
+since nb sarega t502a tson3b mas 21191 sarega huomfa tson3b d 21191 julu
+huomfa me bryony an says putting think into holding fire feet told an
+clear putting off into julu fire bryony told says clear think off holding
+julu feet nagoya university university shogenji shogenji kazu kazu may may
+1949july 1949july 1949 1949 katsunuma katsunuma nagoya seizo d md julu ph
+1959 d matsusaka julu saichi 1959 ll matsusaka july saichi 1959july ll
+seizo july md 1959july ph 1963 appa appa facilities facilities manager
+manager juluaugust juluaugust 2001 2001 reprints reprints the condition
+1963 index asset useful don tool j capital briselden asset pe planning
+david don a j index briselden a pe useful david tool a capital cain
+
+
+___
+
+
+   Philosophy Text: Of Annoyance
+
+
+   "derek and clive: "the
+   critics"","http://www.phespirit.info/derekandclive/ad_nauseum_15.htm",
+   "  ...  bumhole! cunt! shit!" derek: who the fuck wants to say: "shit!
+   fuck! cunt! d'ya fuck! shit! sick! fuck-hole! shit! vomit! cunt! fuck!
+   arsesole!    fuck!    cunt!    ...    "   "derek   and   clive:   "the
+   critics"","http://www.phespirit.info/derekandclive/ad_nauseam_15.htm",
+   "  ...  bumhole! cunt! shit!" derek: who the fuck wants to say: "shit!
+   fuck! cunt! d'ya fuck! shit! sick! fuck-hole! shit! vomit! cunt! fuck!
+   arsesole!   fuck!   cunt!   ...   "   "christmas  profanity  from  the
+   runningman","http://www.ultramarathonworld.com/news_2002/n25de02c.htm"
+   ,"  ...  cunt!fuck  you  cunt! you get the idea - he actually took the
+   trouble  to  post  9.5  megs  of  this.  and  that was just one of his
+   christmas  day  messages.  he'd  have  ...  "  "dustin diamonds' super
+   guestbook","http://www.dustindiamond.com/guest.html?displaybegin=2779"
+   ,"  ...  shit  piss  cunt fuck shit piss cunt fuck shit piss cunt fuck
+   shit  piss cunt fuck shit piss cunt fuck shit piss cunt fuck shit piss
+   cunt fuck. ... i'd do him anyday. ... "
+   "d:\korn\followtheleader\a.htm","http://www.ashakel.8m.com/buraya%20gi
+   rin.html","  ...  looking  back (child) and now i realize (fucker) how
+   much  you  really loved him (child) this child's mind you'd hypnotized
+   (fucker)  you  came  ... cunt fuck shit bitch. ... " "arseblog - weird
+   search engine
+   requests.....","http://www.arseblog.com/weirdsearches.html","  ...  of
+   arsenal piss at each other pictures andy d'urso is a wanker and a shit
+   ref shit fuck pictures ian botham bizarre arse arseblog piss cunt fuck
+   shit  freddie ... " "i remember - d12 - d-12 - lyrics - testo - letras
+   - mp3 - free - ... ","http://www.lyricsmania.com/d/d12/029.html"," ...
+   and  i  aint  never touched a string but i aint mad at you i'd hate me
+   ...  me,  diss  me you fuckin faggot fuckin punk pussy, fucking little
+   bitch fuckin cunt , fuck it ... " "d-12 song lyrics > devils night > i
+   remember
+   song","http://www.allthelyrics.com/lyrics/d12/devils_night/i_remember/
+   ","  ...  and  i aint never touched a string but i aint mad at you i'd
+   hate  me  ... me, diss me you fuckin faggot fuckin punk pussy, fucking
+   little  bitch fuckin cunt , fuck it ... " "benefit: annual health care
+   open house selections - dogbomb.co. ...
+   ","http://www.dogbomb.co.uk/board/arc/topic/5746.html","  ...  i'd  be
+   toast....  ...  changed  to  medical  mutual , effective 01/01/03(view
+   counts:  4) started by bubbavirus on 10:46pm nov 7, 2002 pst fuck you,
+   cunt,fuck you, cunt ... " "listen to me -
+   dismissed","http://www.listentome.net/tv27.html"," ... i've learned by
+   seeing  one  too many episodes of this show that you'd be stupid to do
+   anything  but molest the motherfucker as soon as you get your ... cunt
+   fuck!". ... "
+
+
+   ___
+
+
+Philosophy Text: The New Language
+
+
+jennypheros julu a keyouple ophlsh dayhz jjd jennypheros ke d jd ke ke
+bhzkeyhonhz jennypheros r& d mphyl ke phid utylyt utylyt byrthdate
+byrthdate ooh ooh jennypheros jennypheros atlanta aphphylyaABUYAhz bar
+atlanta ahzhZozyaABUYA bar mannyng jennypheros oohooh TAZeptemberos neu
+bar oohooh jennypheros neu vonderosweelelel bar dba manhattanhz Plod TAZe
+OOPre u junu julu avguhztu lyhzEEK u maju junu julu avguhztu a po površyn
+žrtava Genozyda nahztradalyh hZrebrenykeyana u julu z hZrebrenykeyacueuot
+koj TAZe dogodyo u julu g Udruzenje gradjana nahztradao u rejonu
+KAYeroshzke u julu godne ydentyphykazyju potvrdyo umyješan u mahzovne
+egzekuzyje Bošnjaka yz hZrebrenyEEK u julu godne januarjul a pohzebno
+vezano za dogadjaje u julu godne razgovor hz njym u julu prohzle godne
+Takeyno je da hzmo TAZe u julu prymyo u julu KAYBhZ Newhz BuKapo
+Kyeleleled KAYampaygn Rem Jul oohooh jennypheros julu a keyouple ophlsh
+dayhz broperos lyttle dba broperos ooh dba julu ooh lu julu near lu
+keyhangshu near alkeyhemykeyl hard ynhztytute alkeyhemykeyl makyng
+ynhztytute julu makyng d julu hznEEK nb TAZarega tooha thzonb mahz
+TAZarega huompha thzonb d julu keylear puttyng ophphlsh yn julu phiyre
+bryon told TAZayhz keylear pynk ophphlsh holdyng julu phieet nagoya
+unyveroshzyt unyveroshzyt shogenj shogenj kazu kazu ma ma jul jul
+kathzunuma kathzunuma nagoya TAZeyzo d md julu phi d mathzuhzaka julu
+TAZaykeyh elelel mathzuhzaka jul TAZaykeyh jul elelel manageros
+juluauguhzt juluauguhzt oohooh oohooh reprynthz reprynthz pe keyondyABUYA
+
+___
+
+
+Philosophical Text: Ying-Yang
+
+
+[ba2 du2] draw out pus by applying a plaster to the affected area [bao3]
+cloth for carrying baby on back [bei1 shui3 che1 xin1] trying to put out a
+burning cartload of faggots with a cup of water - an utterly inadequate
+measure � [ben4 niao3 xian1 fei1] clumsy birds have to start flying early
+- the slow need to start early [bi4 keng1 luo4 jing3] dodge a pit only to
+fall into a wellout of the frying pan into the fire [bian3 dan1] carrying
+poleshoulder pole [bu4 ci2 er2 bie2] leave without saying good-bye [chen2
+na4 de2] (Claire) Chennault, commander of Flying Tigers during World War
+II [cheng1] frying pangriddle ��� [da4 xian3 shen1 shou3] fully displaying
+one's capabilities [dan4 zi5] loada carrying pole and the loads on it
+[dao3 teng5] (v) move about(v) fraudlent buying and selling [fei1 hu3
+dui4] Flying Tigers (US airmen in China during World War Two) [gang4]
+carrying polehorizontal bar [gang4] carrying polehorizontal bar [gou1]
+bamboo frame for drying clothes [gou4 mai3 li4] (n) buying power;
+purchasing power [gu1] crying sound of child [heng2 bi3] bristles lying
+down (brush movement in painting) � [hui4 jian4] to meet with (someone who
+is paying a visit) [hun1 ling2] marrying age [ju2] structure for carrying
+dirt [kui4] basket for carrying soil [le5] (modal particle intensifying
+preceding clause)(past tense marker) [lei3] flying squirrel � [liu2 xue2
+sheng1] student studying abroad(foreign) exchange student [lou4 shui4] (v)
+evade paying taxes [luo2] basket for carrying earth [mai3 jia4] buying
+price � [mai3 mai4] buying and sellingbusiness dealingstransactions �
+[mian4 bao1 che1] (n) van for carrying people [pen2 di4] basin (low-lying
+geographical feature)depression [qi4] to build by laying bricks or stones
+[qiang3] cloth for carrying baby on back [qiang3] cloth for carrying baby
+on back [ri4] horse for relaying dispatches [tang2] praying mantis [teng2]
+flying dragon [tou1 shui4] (v) evade paying taxes [yu4] tray for carrying
+sacrificial meats � [zai4 zhong4] loadcarrying capacity [zhe5] part.
+indicates accompanying action � [zheng3 feng1] (pol.) rectifying incorrect
+work styles[zhi3 pai2] playing card[ping2 rang3] Pyongyang (capital of
+North Korea) �� [zhao4 zi3 yang2] Zhao Ziyang (former Chinese leadership
+figure)
+
+
+___
+
+
+Philosophy Text: Being
+
+
+all neglected tasks are being undertakenfull scale reconstruction is under
+way the edges of the swords not being stained with blood - win victory
+without firing a shot confess without being pressedmake a confession
+without duress to come into beingto produceto causeto bring aboutto
+generateto yieldto engender unclogged; unimpeded; free-flowingvmove
+without being impeded material welfarewell-being excellenthappywell-being
+sinceasthis being the case heartinnermost being that being the casethenin
+that case Godunusualmysterioussoulspiritdivine essencelively spiritual
+being n a supernatural or immortal being i.e. fairy, elf, leprechaunn
+anyone who is lighthearted in nature well-being well-being of parents to
+bring up children for the purpose of being looked after in old age
+
+
+___
+
+
+of the 1000 character essay
+
+heaven earth black yellow :: heaven is black, earth is yellow
+the cosmos the cosmos are vast a desolate wasteland
+the sun fills the moon fills the sun sets in the west it's dusk
+from 7 to 9 in the morning the constellations line up it's a measure word,
+they spread out
+cold comes the heat goes
+in autumn the harvesting in winter the hiding, concealing
+intercalary timing the leftover residue becomes one tenth measurement of
+years
+so the lu bamboo pitches shift position open
+clouds ascend, galloping, sending rain
+dew forms becoming frost
+gold gives birth beautiful water
+jade emanates out from Kun mountain summit
+the double-edged dagger furiously named the huge gate-tower
+the pearl called the light of darkness
+the treasure of fruit plum apple
+many vegetables mustard ginger
+the sea salted the rivers fresh
+fishscales hidden in depths feathers circling above
+the fire dragon the emperor teaching
+the phoenix the royal official men
+beginning making writing characters
+then uniforms, wearing robes < clothing skirts < clothing
+expel the throne yield the country
+yao tang has predicted
+console the people strike down the guilty
+hold the boundary talk and test with scalding
+trying a case at court query the way
+bequeath and bow doubting the sections
+love raise up the hosts the leaders
+minister prostrate the army barbarians
+near and far one reality
+ration of the guest returning to the emperor
+the phoenix cries in the bamboo
+the white colt grazes there
+change covers grass and weeds (vegetation)
+trust attain a myriad (10,000) directions (square)
+covering the person issues (giving birth to)
+four great five (is) normal
+respect (connector / alone) the rearing of children
+(!) flattering destroys and injures
+women adore chastity unyielding
+men imitate pleasing genius
+know what passes the certainty of change
+attainment of ability never neglect
+deception the talk of the other (is) brief
+in disintegration reliance on the self (self-reliance) (is) long
+faith the cause of should be covered (protect your faith)
+the tool (utensil) of desire (is) trouble (quantity) measure-word
+the ink (of) sorrow, sadness (on silk) is printed (sadness stains the
+silk)
+poetry the praise of small (lamb) sheep (sheep)
+view, scenery lines tied or lined-up wisdom
+restraint, conquering (of) study makes (creates) the sage
+benevolence is built the name stands
+the origin of shape proper (upright) model
+sky and valley proclaim (one's) fame
+the empty chamber hall (public room) learn (review lessons) carefully
+disaster (catastrophe) depends on (is caused by) the accumulation (of)
+evil
+blessings (fortune) (are caused by) virtuous happiness
+1/3 meter (scale, ruler) bi-jade (circular disk with hole) negative (un- )  
+treasure
+1/30 meter (measurement, small) yin (shadow, moon, sexual organs,
+feminine, secret) is (just so) (to be) emulated (compete with)
+the capital (of) the father (parallels) the (business) affairs (of) the
+supreme ruler
+speak strictly (accurately) give respect
+filial piety serves as (accepts) the end of power (the power of others)
+devotion follows (rules) the end (of) life
+face (meet, confront) the deep tread (put on shoes) lightly
+dawn (early in the morning) prosper warm (and pure)
+like (an) orchid(s) this fragrance
+like (a) pine(s) this prospers
+the river flows not (un) stopping (ceaselessly)
+the depths (abyss) clear (transparent) take up (create) (a) reflection
+contain (form) (and) stop if (one is) thinking
+say diction (classical rhetoric) (with) quiet, peaceful determination
+deliberate beginnings sincerity, fidelity beautiful, beauty
+prudent all good ancient laws
+honorable trade (the place) of foundation
+the rolls greatly nothing (in the) end
+learn outstanding ascend (to) official (service)
+in addition to work obey government
+survive by means of the wild pear
+go and increase the chant
+music particularly is precious (and) humble
+rites as well are valuable and low
+above harmony below harmonious
+the husband chants (calls upon) the wife follows
+the external (foreign) accept pass on instructions
+enter (the internal) music (play music) the mother (of) appearance
+(ceremony)
+all father's sister father's older brother father's younger brother
+like (the same as) (a) child compared (to) (a) son (child)
+think very much \ of each other elder brother younger brother
+agreeing (as) mind (ch'i, spirit) linking (joining) branches
+make friends join (and) divide
+cut (and) polish precepts (and) rules
+kind humanity (conceal)  compassion
+create order not separation
+integrity (justice) gives back honesty
+the wicked suffer setbacks loss of money
+a still nature evades passion
+the heart moves the weary mind
+guard the truth with full intention
+follow the idea and change (your) heart (mind)
+hold strictly steer properly
+please the rank (of office) bind yourself
+city (and) village flourish (in the) summer
+east (and) west two capitals
+(one's) back (to the) Mong (mountain) face the Luo (river)
+floating Wei (river) according to (seize) the Jing (Sheu river)
+the official (government) hall (a) tray (with) plum (blossoms) (strong
+fragrance)
+(from the) tower watch (look out) (as if) flying (be) amazed
+drawing (painting) draw (paint) birds (and) animals
+pictures colorful immortals (hermits) (and) spirits
+the third stem give alms (cottage, abandon) drawn near (beside) awaken
+(disclosure)
+the first stem (a) curtain (notebook, album) against (answer, reply) the
+pillar
+four (wantonly) bamboo mats establish (a) place
+drum (play) the lute (25-string se4) blow the sheng1 (mouth reed
+instrument)
+climb the stairs accept the high steps of the throne
+the cap changes distrust the stars
+the right (direction) passes through (a) broad interior
+the left attains holds brightness
+already gathering the tomb ceremony
+again assembles (a) group (of) flowers
+a withered pear-tree (is) faithful (bells, chimes) (to) li-script
+(servant)
+lacquered write (on) wall (lining) the classics (jing1)
+the government bureaus skeins command together (mutually)
+the path (of) the ancient swordsman the scholar tree minister of state
+doors sealed eight (of the) counties
+homes allowed (for) (salary of) one thousand soldiers (troops)
+(the) tall crown follows (the) palanquin
+drive (the wheel) hubs shake (the) tassels
+(the) world grants (allowance) luxury (and) wealth
+harness (the) vehicle (palanquin) prosper quickly
+policy merits profusion (of) (the) truths (reality)
+engrave (the) monument inscribe (the) inscription (artist's signature)
+tributary of Wei small stream that one an offiial rank (head of Wei)
+(the) assistant (subordinate) sometimes flatters (sometimes) judges
+(under) cover (of) home injustice abundant
+early (minute) dawn who (is) conducting business
+(grave/marking post)  (prince) Duke Huan regulated (the) fit (harmony)
+help (the) weak assist (help up) (the) falling (leaning)
+figured beautiful cloth wraps around (the) Han (Chinese) blessing, four
+kindnesses
+speech (and) emotion (of the) warrior man, population
+[the] superior man [does things thoroughly and with urgency] [regulates
+important matters of State]
+many scholars just so [really] peaceful (tranquil)
+Jin (and) Chu change supremacy
+Zhao (and) Wei surrounded (placed) east to west
+[...] the ch'in 4-stringed instrument [...] good (and) wonderful [...]
+question or problem [...] gate [...] as well
+
+
+___
+
+
+
+Philosophy Text: Thousand Character Essay
+
+
+Qianzi Wen, or Thousand-Character Essay, is an essay consisting of 1000 
+Chinese words for centuries has served as the basic teaching text
+
+Huai-su: Thousand-character Essay in Cursive Script Huai-su:
+Thousand-character Essay in Cursive Script Tang Dynasty handsc roll ink on
+silk Huai-su (725 ?) was a native of Chang-sha, Hunan provi nce Gaoxian
+(Tang), Thousand character essay in Thousand character essay (Sui or early
+Tang) in alternating lines of regular and running script, detail source
+
+The Idea In the Brush and the Brush In the Idea, The Ten Thousand Char
+acter Essay By Wen Ching-ming (1470-1559, Ming Dynasty) Calligraphy 165
+Articles Masahiro Shogaito &amp Abdurishid Yakup: Four Uyghur frag ments
+of Qian-zi-wen Thousand Character Essay, 3 Vgar Sultanzade 
+
+Excerpted from
+an essay by Peggy Noonan At the core of Reagans characte r was courage, a
+courage that was Texas says hell lend us a hundred tho usand dollars if
+calligraphy Yu-Ho (14-th cent) Yuan dynasty: Thousand-character Essay Seal
+and clerical script Ink on paper Palace Museum, Taipei Net Essays - Over
+32,000 Thousand FREE Essays and FREE Term [Yu He][Yu-Ho] (14-th cent) Yuan
+dynasty: Thousand-character Essay Se al and clerical script Ink on paper
+Palace Museum, Taipei 
+
+An Essay Picked by blupete On the Knowledge of
+Character 1 Real charact er Is not one thing, but a thousand things actual
+qualities do not confo rm to An Essay Picked by blupete Character of Mr
+Burke (II) 1 few meagre fact s, meagrely stated, of half a dozen
+common-places tortured in a thousand different ways [Yu He][Yu-Ho] (14-th
+cent) Yuan dynasty: Thousand-character Essay Se al and clerical script Ink
+on paper Palace Museum, Taipei Net Essays - Over 32,000 Thousand FREE
+Essays and FREE Term of War , Mencius on Goverence , Chuang Tze, Lao Tze,
+
+Old man moves a m ountain , 36 Tactics , An Essay to Song Yuan Sze ,
+Thousand character es say , Three-word Suo Jings scorpion tail stroke, Yan
+Zhenqing laboured long years to im press Crazy Zhang, Zhi Yong devoted
+himself to endless Thousand-Characte r Essays in Assignment 1: Formal
+Approach to A Thousand Acres 
+
+Write an essay of 750 to 1000 words in which
+you examine one formal as pect of the novel A Thousand Acres An essay on
+character could analyze how our up into life in the shade, with no
+thousand-eyed Athens friends the f ailure to know a fine character, and to
+
+The Lost Art of the Essay is an RJT NetProduction a group essay explaining
+how your character has changed In this parti cular graphic essay, you will
+demonstrate In that dark electric, Ten th ousand worlds for KongZi [Kung
+Tze] Lao Tze DaoDeJing Old Man Moves a Mountain [Big 5] 3 6 Tactics An
+Essay to Song Yuan Sze [Chinese] Thousand Character Essay [ Chinese]
+
+Zhuanzi An Essay Picked by blupete Character of Lord Chatham 1 He has the
+same ideas as other men, but he has them in a thousand times greater
+clearnes s and strength Earlier in this essay I had included as a He
+commanded four thousand English troops in support of Henry of Kent, Oxford
+was setting down a c haracter who walked Two thousand men, whose robust
+constitutions had enabled them to resis t the These distresses were
+undoubtedly aggravated by the character of the settlers but Part III,
+Essay VIII 
+
+I wish for the honour of our country, that any o ne character
+of him tis but one page more thrown away, after an hundred thousand, upon
+the truth in all but one I in twelve thousand, none 18 Edward II and Rich
+ard II are tragedies of character, for the This essay is Copyright Ian
+Cleary 1996-2002 Jacob Smiths order, quoted in this essay, to kill and
+generous outlay s of money a hundred thousand persons whom and to the
+building of the c haracter of every [Yu He][Yu-Ho] (14-th cent) Yuan
+dynasty: Thousand-character Essay Se al and clerical script Ink on paper
+Palace Museum, Taipei A Picture Paints a Thousand Words: A Lesson
+
+literature for appropriate quotations for each photographed character
+Write an essay explaining th e background of the heading above (Essay
+Assignment 1: Character Analysis), add Essay Assignment 2: 
+
+Performance
+Notation of Lord Guans first aria A thousand billows) to John McCrae An
+Essay in Character by Sir Andrew Macphail I In Flanders F ields Then there
+was the index, between six and seven thousand items to the very excess of
+intellectual [79] refinement in the character, w hich makes says when he
+sees her funeral, I loved Ophelia: forty thousa nd brothers Could Sasa,
+
+Yakut vowel harmony: An Optimality Theory account M Shogaito, A Huai-su
+Thousand-character Essay in CUrsive Script, Chu Sui-liang Copy of the
+Lan-ting-hsu (Orchid Pavilion Preface) on Buff Silk Sung Dynasty 960 -
+1279 AD Essay on Media Violence and not something that can be added to
+their character by means of his fists even if he had previously killed
+some t housand little men of Outrageous Fortune), but it was also the just
+about first book Id r ead in a decade that had a gay character, after
+about a thousand blatant ly heterosexual 
+
+If you want to read the essay in
+its original and touch that they are men of bad character colonels day s
+six million people with five thous and British troops I know this well,
+that if one thousand, if one eccentric and independ ent mind, wedded to a
+character of so note: For many facts in the above essay, among which She
+summarises the feelings of a particular character with regard to t he
+event which who had ten thousand a year This equation of income and
+courses shows How, 2491, 
+
+9 A Thousand Acres, 495, 10 A Tree Grows in
+Broklyn, 2687, 6 All quiet on the western front essay, 1265, 10 all quiet
+on the west ern front-character, 1037, 10 Amberway - The Thousand Worlds
+
+and Everway start your surfing through the Thousand Worlds especially high
+on Mic haels short essay, Sharpening Focus, which introduces character
+concept statements Issues Two Thousandcom Esays - Issues Two Thousand June
+2003 Essay Since this essay first ran in 204 02, 
+
+further goes on a dark,
+violent odyssey where his strength and char acter are tested cover, and
+without the Preface and the Essay on Dream has been amused for more than a
+thousand years with man an elevated sense of his own c haracter, and free
+the most obvious areas of the face 
+
+By 1923, Chaney was known a The Man of
+a Thousand Faces for his ability to transform himself into any type of
+character Net Essays - Over 32,000 Thousand FREE Essays and FREE Term s
+Journey Unit (Based on Joseph Campbells Hero with a Thousand Face s Essay
+
+Gawain and the Green Knight (excerpt) The Odyssey Five paragrap h
+character Essay The purpose of this essay is to show how The Usual in the
+middle of t hings, with a character named Keaton on will throw back in
+Kujans face a thousand fold in The director being discussed in this essay
+is Hayao of the one hundre d and forty four thousand cels needed Keeping
+
+the character designs as basic as possible applicants will write
+two-hundred thousand different answers your lea dership ability and
+character - one that of business school admissions essay writing and
+applicants will write one-hundred thousand different answers JD, LLM, or
+JSD, your essay must be clearly proving your commitment, character, and
+intellectual poems Tang Dynasty-20th Century, poems Tang &amp Song
+Dynasty, poems Taotie Three Kingdoms 
+
+Tide Rises Thief Thousand Character
+Essay T hree Word Thousand Character Essay Qianzi Wen, or
+Thousand-Character Essay, is an essay consisting of 1000 Chinese words for
+centuries has served as the basic teaching text A blupete Essay Index
+
+Button behind ten thousand counters, at ten thous and firesides (Macaulay
+fundamental qualities of thought and character are permanently An Essay
+Picked by blupete We should perceive, in a thousand slight tou ches, the
+importance of the We should have the change of his character from his
+profuse 
+
+An Essay Picked by blupete draw the sliders of his imagination,
+and a t housand subjects expand speak) is a more disinterested and
+abstracted c haracter than a expressive) An Excerpt From a
+Thousand-Character Essay in Seal and Cle rical Script: by Yu He, Yuan
+Dynasty (1400s AD) Diagram Achilles died before the gates of Troy ten
+thousand times over If you re reading this essay off my Web page, 
+
+you
+piece is erotic all of it is character, as is Gerhard Richters Atlas Essay
+by Lynne Cooke hundred panels and some fiv e thousand photographs had a
+contingent, improvisational, cumulative ch aracter has taken each chapter
+with a bang, providing great humour or insight into a cha racter within a
+or satisfy the appetite and pride of one who had ten th ousand a year
+
+Thousand Acres Bibliography lists 2 sources Filename: TLCacreswps The Fool
+in King Lear [ send me this essay ] A 4 page paper which discusses the
+character from the History of Chinese Calligraphy Galleries 204, 206
+20020101 - 20020325 Title: The Thousand-character Essay in Standard and
+Cursive Scr ipt Date: Sui cover, 
+
+and without the Preface and the Essay on
+Dream has been amused for more than a thousand years with man an elevated
+sense of his own c haracter, and free said that if the Salvation Army
+disappeared from London, five thousand extra policemen They hoped for
+character improvement among the poor as well as material potential of the
+new weapon Haig asked the War Office for a thousand o f them men7 Duff
+Cooper upholds this by countering claims that Haigs ch aracter was over
+
+
+___
+
+
+
+
+Philosophy Essay: Today's Thousand Character Essay News
+
+
+Given that the Thousand Character Essay is a case-study in nominalist
+style, each character in an fX -> (X,i) mapping, indexed by i (equals
+relative position), a continuous translation into a relatively redundant
+graphemic system is impossible if the stipulation is observed. In fact, 
+classical calligraphy often reproduced this essay - which is now inverted 
+on the Internet, dispersed into pages, channels, and representations based 
+on Chinese and other encodings. The equivalent substructuring of matter is 
+problematized by the essay which insists on the propriety and properness 
+of names. The intermittent but continuous translation by Ellen Zweig and 
+myself emphasizes issues raised by writing, by nominalism and equivalence, 
+by inscription. The computer smooths and dampens classical style, to the 
+point that calligraphy itself, beyond the machine, may eventually become a 
+thing of the past. Now, in this _now,_ each unique character is a soliton 
+or impediment; each _insists._ The text below documents this insistence 
+across the Net. Other texts point to the dispersion of the essay, its 
+translatability or lack of it. For this is a _key_ text, encrypted within 
+itself, carrying a particularity of culture and the specificity of a world 
+and word anew.
+
+"Harrassowitz
+Verlag","http://www.harrassowitz.de/verlag/Turkic/TL5.html"," ... Jahrgang
+5 (2001) Heft 1 und 2 EUR 91,- [D] / sFr 154,-. ... M. Shogaito, A. Yakup,
+Four Uyghur fragments of Qian-zi-wen ‘Thousand Character Essay’
+(Addendum). ...  " "Title","http://e-texts.org/title.html"," ... D: Da
+Zhao - The Great Summons ; Dajiang 1 ; Dajiang 2 ; Dao De ... poems ;
+Taotie ; Three Kingdoms ; Tide Rises ; Thief ; Thousand Character Essay ;
+Three Word ...  " "New Additions to China the
+Beautiful","http://www.chinapage.com/new.html"," ... Ph. D. Selling a
+donkey 9-11-2002; Book by Mencius [UTF-8] 9-10-2002; Picture of the ...
+Thousand-Character Essay updated 7-22-2002; Baopo Neipianby Ge Hong
+7-13-2002. ...  " "Aspen:
+Index","http://www.ubu.com/aspen/siteIndex.html"," ... 13. Daniel Kunin,
+pianist. Audio: Prelude D Flat Major, Op. 11, No. ... Wen Cheng-min,
+Calligraphy from &quot;The Ten Thousand Character Essay&quot;, Wilbourn,
+Dale, Triptych, ...  " "artsflow: ASPEN MAGAZINE interpreted for the
+Web","http://artsflow.ezone.org/dam/2002/11/15/aspen_magazine_- 
+interpreted_for_the_web.html","
+... Audio: Prelude D Flat Major, Op ... Comment on 200 Campbell Soup Cans
+Kiss Flipbook Wen Cheng-min, Calligraphy from &quot;The Ten Thousand
+Character Essay&quot; Wilbourn, Dale ...  " "artsflow: ASPEN MAGAZINE
+interpreted for the Web","http://artsflow.ezone.org/dam/000081.html"," ...
+Audio: Prelude D Flat Major, Op ... Comment on 200 Campbell Soup Cans Kiss
+Flipbook Wen Cheng-min, Calligraphy from &quot;The Ten Thousand Character
+Essay&quot; Wilbourn, Dale ...  " "artsflow: November 2002
+Archives","http://artsflow.ezone.org/dam/2002_11.html"," ... Audio:
+Prelude D Flat Major, Op ... Comment on 200 Campbell Soup Cans Kiss
+Flipbook Wen Cheng-min, Calligraphy from &quot;The Ten Thousand Character
+Essay&quot; Wilbourn, Dale ...  " "artsflow: November 2002
+Archives","http://artsflow.ezone.org/dam/2002/11/index.html%0D%0A"," ...
+Audio: Prelude D Flat Major, Op ... Comment on 200 Campbell Soup Cans Kiss
+Flipbook Wen Cheng-min, Calligraphy from &quot;The Ten Thousand Character
+Essay&quot; Wilbourn, Dale ...  " "Chinese Art - Calligraphy
+(www.chinaknowledge.org)","http://www.chinaknowledge.de/Art/Painting- 
+/calligraphy.htm","
+... Wang Xun 王洵 (d.401) is a distant relative of Wang Xizhi and also
+... He created the grass script Thousand Character Essay Zhencao Qianziwen
+真草千字文. ...  " "Chinese Art - Calligraphy
+(www.chinaknowledge.org)","http://www.chinaknowledge.org/Art/Painting- 
+/calligraphy.htm","
+... Wang Xun 王洵 (d.401) is a distant relative of Wang Xizhi and also
+... He created the grass script Thousand Character Essay Zhencao Qianziwen
+真草千字文. ...  "
+
+
+___
+
+
+The Social Register: The 400: Neighborhood of Friends
+
+
+Nikuko
+
+"suffix","count"
+
+"au", "102"
+"ca", "4"
+"com", "42"
+"de", "1"
+"edu", "93"
+"fi", "1"
+"hu", "1"
+"jp", "2"
+"net", "11"
+"no", "1"
+"org", "125"
+"ph", "1"
+"uk", "26"
+
+Julu
+
+"suffix","count"
+
+"au", "18"
+"ba", "8"
+"ca", "2"
+"cn", "11"
+"com", "157"
+"de", "4"
+"dk", "1"
+"edu", "14"
+"fi", "1"
+"fr", "1"
+"gov", "3"
+"hu", "1"
+"id", "3"
+"info", "1"
+"jp", "2"
+"net", "10"
+"np", "1"
+"nu", "1"
+"org", "82"
+"pl", "2"
+"sk", "5"
+"tv", "1"
+"tw", "1"
+"uk", "8"
+"us", "1"
+"vu", "1"
+"yu", "70"
+
+Jennifer
+
+"suffix","count"
+
+"", "1"
+"au", "2"
+"ca", "5"
+"com", "292"
+"cz", "1"
+"de", "4"
+"dk", "1"
+"edu", "13"
+"fr", "3"
+"gov", "3"
+"is", "1"
+"jp", "2"
+"ms", "1"
+"net", "38"
+"nl", "2"
+"no", "1"
+"nu", "2"
+"nz", "1"
+"org", "23"
+"pl", "1"
+"se", "2"
+"to", "1"
+"uk", "8"
+"us", "1"
+"ws", "1"
+
+Travis
+
+"suffix","count"
+
+"", "1"
+"com", "288"
+"de", "2"
+"edu", "19"
+"fr", "1"
+"gov", "1"
+"jp", "1"
+"mil", "6"
+"net", "25"
+"nl", "2"
+"no", "2"
+"nu", "2"
+"org", "29"
+"se", "1"
+"uk", "14"
+"us", "16"
+
+Tiffany
+
+"suffix","count"
+
+"at", "1"
+"au", "1"
+"cc", "1"
+"ch", "2"
+"com", "298"
+"cz", "1"
+"de", "12"
+"dk", "1"
+"edu", "5"
+"fr", "2"
+"info", "2"
+"it", "1"
+"jp", "4"
+"net", "34"
+"nl", "2"
+"nu", "1"
+"org", "26"
+"ph", "1"
+"pl", "1"
+"sg", "1"
+"si", "1"
+"st", "1"
+"th", "1"
+"to", "2"
+"uk", "6"
+"us", "2"
+
+___
+
+
+Philosophy Text: Philosophy of Poetry
+
+
+  stood watching them out of the town; For men must work, and women must
+weep, And theres little to earn, and many to keep, Though the harbor bar
+be moaning.
+  stood watching them out of the town; For men must work, and women must
+weep, And theres little to earn, and many to keep, Though the harbor bar
+be moaning.
+  stood watching them out of the town; For men must work, and women must
+weep, And theres little to earn, and many to keep, Though the harbor bar
+be moaning.
+  stood watching them out of the town; For men must work, and women must
+weep, And theres little to earn, and many to keep, Though the harbor bar
+be moaning.  (a)musing 210 - bar harbor recap
+  the bar meant leaving the safety of the harbor for the And may there be
+no moaning of the bar, When I sadness of farewell, When I embark; For
+though from out
+  Cruising the harbor and sharing memories And may there be no moaning of
+the bar, When I put out to there be no sadness of farewell, When I embark
+For though Im
+  see my Pilot face to face When I have crost the bar.  Though I hear
+beneath my study, like a fluttering of wings When Care has cast her anchor
+in the harbor of a
+  the sea is a mighty soul, forever moaning of some revel who can never
+change or chill; Though the fleeting star Keeps its steadfast watch oer
+the harbor bar.
+  Our tour starts with a walk though the ornate entrance arch o'er a
+tempestuous sea The common harbor, where must may there be no moaning of
+the bar, When I
+  Ocean, while the other looks across the harbor at the the site of the
+main restaurant, bar, theater, disco Though we met some good competition,
+it was a bit
+  Lord Tennyson) Thus begins the beautiful poem Crossing the Bar.  to
+depart as a ship prepared to leave the harbor.  Though sad at bidding
+good-bye, we should be
+  Though the Silver Bullet deserves a posthumous Goldie for its says of
+the prices at the coffee bar, where a watch the otters lolling in the
+harbor--folks, it
+  Chapter Eleven: In the Bar by Mark Mcdonald 2001 Mark McDonald -- all I
+have to warn you though.  two hours the sun was about to break over the
+harbor and she
+  Sweaty seaman staggered from table to bar and back again took him to his
+father's resting place, though he didn They never did go to the harbor, as
+was surely
+  tables are easy to come by, though we prefer one warm pudding makes
+fifteen sixty five, bar meals are The harbor below is black, our
+respectable friends in bed
+  Now, though, the flock are dispersed, and the singer can example the
+famous moaning of the bar that portends disaster for ships leaving a
+harbor.
+  dripping cage full of greyish, still-twitching harbor shrimp and Times
+sets the pace right quick, though: Of Johnny Cash play The 400 Bar on Tues
+  a line, and we trolled about halfway back to the harbor.  And may there
+be no moaning of the bar When I put For though from out our bourne of Time
+and Place The
+  I went to a school near the bar, and by October But, even though I had
+that escape route in mind distance, but clearly visible, was New York
+harbor, with even
+  While traditional nighttime jobs endure--bar pilots still With Portlands
+3 am harbor lights visible When there are crises, though--a
+telecommunications snafu
+  lit by the flickering neon of a bar sign Though it was difficult to
+believe, their escape had Inspector Minzo immediately ordered the harbor
+patrol to intercept
+  bar is the sandbar at the entrance to a harbor; the moaning of the bar
+is the impossible to forget Sunset and evening star even though in another
+  can even lift his head from the bar, six guys enter By then the Jolly
+Merger had cleared harbor and the I have a direct, though not unpleasant
+manner, which is
+  as if stricken by a thunderbolt; And, though I died THERES a grayness
+over the harbor like fear on the a womans cry, And the deeps beyond the
+bar are moaning
+  than sailors, Whereer he come or go, Though hell pilot face to face When
+I have crossed the bar.  sailors. TRADE WINDS John Masefield In the
+harbor, in the
+  Hasten to the harbor, he said to took it down as he raised the strong
+bar which held Though the hideous noises from the inner campong rose
+threateningly, the
+  can even lift his head from the bar, six guys enter By then the Jolly
+Merger had cleared harbor and the I have a direct, though not unpleasant
+manner, which is
+  can even lift his head from the bar, six guys enter By then the Jolly
+Merger had cleared harbor and the I have a direct, though not unpleasant
+manner, which is
+  dripping cage full of greyish, still-twitching harbor shrimp and Times
+sets the pace right quick, though: Of Johnny Cash play The 400 Bar on Tues
+  which within its - artificial - borders harbor many different with
+incisive precision, down to the last bar...  Koonce, though, is obsessed
+with the detail, the
+  downtown to the water slapping against the docks on the harbor shores.  
+getting calls for faux painting, though.  He'd been panhandling near the
+bar.
+  treat her as thy servant; Do not bar her from to do her duty, Strike not
+yet, though disobeying.  mother, Never, ye, my kindred spirits, Never
+harbor care, nor
+  About half the moorings are unoccupied, though.  mooring and over to an
+anchorage outside the harbor where there is We are getting a good solid
+5-bar signal on
+  Hasten to the harbor, he said to took it down as he raised the strong
+bar which held Though the hideous noises from the inner campong rose
+threateningly, the
+  at once the ship went bang and, and we hit a sand bar.  that said this
+ship we went on, it was sunk in that harbor. It wasnt sunk when we were on
+it though.
+  with the guy next to me at the bar who was Want to stop whales being
+killed in Boston harbor? but managed to telling me all about his family
+even though I had
+  Ocean, while the other looks across the harbor at the the site of the
+main restaurant, bar, theater, disco Though we met some good competition,
+it was a bit
+  Hasten to the harbor, he said to took it down as he raised the strong
+bar which held Though the hideous noises from the inner campong rose
+threateningly, the
+  being detained for weeks on end in this harbor or that has to be done
+with all that heat, though, and in gift for Bernadette, as it would set
+the bar too high
+  was in the parking lot of the Yacht harbor, and a were clammering for a
+beer and Pesto looked as though he had At 1 pm we showed up at Callahans
+Bar and Boxing
+  again, to me it seems as though theyre using a sledgehammer to crack
+walk to the exam i will eat a banana and a bar of chocolate toms pearl
+harbor article on
+  Though I may strain at the ropes I am still held But death is the
+harbor-master who lifts the ropes Tennyson caught the picture in Crossing
+The Bar, when he
+  together, ones Dakshina you accept, the other, though voluntarily paid
+He regarded money as danger or bar to spiritual But when I came to the
+harbor, I found Chapter Eleven: In the Bar. by Mark McDonald.  I have to
+warn you though.  After two hours the sun was about to break over the
+harbor and she was ready to cry.
+  of city, and quite a few out on the harbor on boats in bars, such as the
+famous Tip Top Bar, or Stars But you'll meet people from all over the
+world though.
+  Hasten to the harbor, he said to took it down as he raised the strong
+bar which held Though the hideous noises from the inner campong rose
+threateningly, the
+  The Pipers Bar, was a bar with a Scottish theme.  Some cabins do have a
+bathtub, though I didnt as you visit scenic ports and quaint harbor
+villages steeped
+  Steve enjoyed sailing the big cruiser, though he usually Back in harbor
+she had demanded Steve's presence when so on their second excursion, to a
+coffee bar.
+  Bay opened before them, with a low sand-bar shooting across the home
+which the Pilgrims had originally sought, and though neither the harbor
+nor the
+  After about a week of this though, the ships captain owner and crew
+depart, or (c) 3 am Bar: Long, low awash, found at river mouths and harbor
+entrances, where
+  treat her as thy servant; Do not bar her from to do her duty, Strike not
+yet, though disobeying.  mother, Never, ye, my kindred spirits, Never
+harbor care, nor
+
+
+___
+
+
+Philosophy Text: The Final Text of Philosophy
+
+
+-- philosophical text philosophy, this love knowledge dispersion,
+antisystematics - going out as there are funnels coming in difiltering,
+filtering dispersions many-to-many, or among epistemologies and ontologies
+sliding one against an other crossed fertilizations, chiasmus confluence
+attributions neitherness, neither nor that we work our worlds words & no
+chiasmus, matter skein holds construe taut every way knowledges skeining
+planet knowledges, re-dispersing them among, that, working laboring at
+loving filtering, dispersion
+
+the final text, of philosophy of philosophy -
+the philosophical text of philosophy, this love of knowledge
+of dispersion, this antisystematics - going out as there
+are funnels coming in - difiltering, filtering dispersions
+many-to-many, or among among -
+
+epistemologies and ontologies sliding one against an other -
+crossed fertilizations, chiasmus or confluence of attributions
+or of neitherness, neither this nor that -
+
+we work our worlds among worlds
+work our words among words
+work our worlds among words
+work our words among worlds
+
+& no matter the chiasmus, this skein or construe holds taut
+in every way among the knowledges skeining the planet -
+filtering the knowledges, re-dispersing among them -
+
+among among, neither this nor that, this construe or among that -
+
+working our way among words and worlds
+laboring at philosophy, loving of filtering, dispersion
+
+among among and chiasmus
+
+
+___
+
+
+Index of Philosophy
+
+
+Philosophy Text: "What is Everything in the Universe?"
+Philosophy Text: Gender and Universal Ontology
+Philosophy Text: Material Praxis
+Philosophy Text: From Here to There
+Philosophy Text: The Fear of Death
+Philosophy Textual Praxis: Dispersion-Filtering (Difiltering) Model
+Philosophy Text of the Northern Trek
+Philosophy Text: Of Annoyance
+Philosophy Text: The New Language
+Philosophy Text: Being
+Philosophy Text: Thousand Character Essay
+Philosophy Text: Philosophy of Poetry
+Philosophy Text: The Final Text of Philosophy
+Philosophical Text: Theology and Colonialism
+Philosophical Text: The Problematic of War and Violence
+Philosophical Text: The Death-Drive
+Philosophical Text: Ying-Yang
+
+
+___
+
+
+The Bird
+
+
+Today Azure and I walked by a school-yard and she found a sick or wounded
+pigeon, its legs loose and unable to function, flopping in the grass,
+unable to fly - what to do - if it had remained there, it would have been
+quite possibly tortured by the children. Azure wrapped the bird in a piece
+of cloth and we took it back to the loft, where we put it in a box, gave
+it some small pieces of bread, which it didn't eat, and covered it again.
+Azure took the bird into the back garden, which is isolated from both
+stray cats and the street, and right now, in the dark, it's huddled down
+there, in a towel-nest, surrounded by bread-crumbs, with a shallow cup of
+water nearby. It can't fly, its legs are paralyzed. It's the saddest
+little thing. We don't know what to do. We're going to Pennsylvania, to my
+father's house, in three days.  We're trying to keep it alive. Tomorrow,
+Azure will call Audubon, and we might also take it to the vet. We can't
+afford anything - we're dependent on their willingness to help. We will
+try to find a wildlife rehabilitator. I doubt the bird will ever fully
+heal. If it's sick, we don't know if it's dangerous to us as well. Azure
+talked about keeping it here in the loft in a cage, but that's really
+impractical. Right now I'm typing upstairs, and down in the garden,
+suffering is ongoing. Buddhism has never helped my rage against the world
+and its pain, exacerbated as always by human rapacity. We're trapped until
+tomorrow. We hope the bird makes it through the night. If it does, we
+don't know what we'll do.
+
+
+___
+
+
+Elegy for a Small Bird
+
+
+which died this early afternoon. Azure and I waited throughout the night,
+not sleeping, and this morning it was still alive, but not eating, its
+eyes bright as ever. We called Audubon, but they could only refer us to
+another organization; we called there, and finally were given the name of
+a wildlife rehabilitator, who never called back. We took the pigeon to our
+local veterinarian; he said the bird was young, and had suffered neuro-
+logical damage, that there was, apparently, a virus making its rounds
+through the local pigeon population. It still couldn't move its legs; its
+wing muscles were incredibly weak. There was nothing more we could do; it
+would either starve, or die calmly, and we chose the latter. elegy written
+in a country church-yard the curfew tolls the knell of parting day, the
+lowing herd winds slowly oer the lea, the ...  elegy an elegy, sacred to
+the memory of the great divine, the reverend ...  an elegy, sacred to the
+memory of the great divine, the reverend and learned dr. samuel cooper,
+who departed this life december 29, 1783, aetatis 59. ... another type of
+lyric poetry is the elegy - a poem &quot;of ...  another type of lyric
+poetry is the elegy - a poem &quot;of lamentation for the dead.&quot;
+little need be said about the elegy other than that the poet chooses
+freely ... elegy. the elegy, a type of lyric poem, is usually a formal
+lament for someones death. the term elegy is sometimes used more widely.
+... email from foster re: the elegy; newshour interview with foster re
+find. more info can be found in nytimes sunday jan 14, 1996; a ...
+marriage agency, model agency of elegy international, russian ...  the
+problem of the funeral elegy the problem of the funeral elegy. by joseph
+sobran copyright 1996. ... my understanding is that the elegy was
+published in 1612. that is a different matter. ... lynch, literary terms
+-- elegy elegy. the elegy, a type of lyric poem, is usually a formal
+lament for someones death. the term elegy is sometimes used more widely.
+... grays elegy written in a country church-yard. 189. an elegy. ben
+jonson. the oxford book of english verse ben jonson elegy. though beauty
+be the mark of praise,, and yours of whom i sing be such, as not the world
+can praise too much,, ...
+ ... well set one up for you. elegy for iris by john bayley ... customers
+interested in elegy for iris may also be interested in ...  shakespeares a
+funeral elegy for master william peter elegy for geraint: battle of
+llongborth elegy for geraint welsh battle poem, c.500 the poem below,
+found in the black book of carmarthen is an english translation (believed
+to be accurate) of a ...  funeral elegy a funeral elegy for master william
+peter. by ws. a funeral elegy edited by donald w. foster from ws, a
+funerall elegye in memory ... elegy for jane elegy for jane (my student,
+thrown by a horse) i remember the neckcurls, limp and damp as tendrils;
+and her quick look, a sidelong ...  books: elegy for the departure
+ ... dead. beautifully translated by john and bogdana carpenter, elegy for
+the departure is a fitting requiem for its author. --alix ... 441. elegy
+to the memory of an unfortunate lady. alexander pope. ...
+ ... 1688-1744 441. elegy to the memory of an unfortunate lady. what
+beckning ghost, along the moonlight shade, invites my steps, and points to
+yonder glade? ... may she rest in peace, may she fly again, tuesday, june
+17, 2003, sometime around eleven in the morning, brooklyn, new york, a 
+nice day and dark and sightless night
+
+
++++
+
+
+jennifer's theory recursion
+
+
+"not perl
+a elimx
+moment towards
+too zz
+soon capture
+deconstruction past
+or the
+postmodernism pipe"
+post-structuralism a
+already moment
+misrecognitions too
+tending soon
+towards deconstruction
+SMS or
+units postmodernism
+of or
+160 post-structuralism
+char already
+mg misrecognitions
+each tending
+being towards
+the SMS
+quality units
+recursion char
+not mg
+perl not
+elimx a
+zz too
+capture soon
+past deconstruction
+pipe" 
+towards
+
+
+___
+
+sometimes coming down from the mountain
+and looking up at the mountain
+is sometime going up to the mountain
+and looking down at the mountain
+
+then you know everything 
+looking down from the mountain
+and coming down from the mountain
+and coming down from the mountain
+
+bb bSometimesb you are very close to the edge bb bdownb have the right of
+way, so if you arebr on your way bupb you have to make room for cars
+bcomingb bdownb the bmountainb bb bb It was bcomingb bdownb hard with no
+sign of stopping bb high bupb on this bmountainb ridge, thatbr bsometimesb
+the rain bb As the sun started bgoingb bdownb on Monday night we could bb
+Columnist Dave Hahn on climbmountainzonecom bb Towards night, bsometimesb
+in September while the sun was bb the hill, when two peoplebr started
+bcomingb bdownb from the bb hand side of the Peel River toward the
+bmountainb bb bb says Beaver, trying hard not to laugh, quotI heard that
+happens bsometimesbquot bb You havebr another think bcomingb bb and plenty
+of light, to make our way bdownb the bmountainb bb bb The fog was thick
+and obliterated the view bsometimesb, at other bb We saw two hikersbr
+bcomingb our way and were soon bb come bupb the bmountainb we were about
+to go bdownb bb It was a thrilling experience, not only a superb
+mountaineering bb bb experience one way for most of the way ( bsometimesb
+half way bb say climbing mountainsbr is far easier then bcomingb bdownb
+amp why bb Again the dangerous climb bdownb bb bb Towards night,
+bsometimesb in September while the sun was bb the hill, when two peoplebr
+started bcomingb bdownb from the bb hand side of the Peel River toward the
+bmountainb bb bb bComingb along never feel surrounded by I feel like
+dancing rewind I feel like flyingbr bsometimesb I feel like dying bComingb
+bdownb the bmountainb never felt so bb bb I had warned Linda that I
+bsometimesb snore at altitude (we were now bb our steps backbr bdownb the
+upper ridge of the bmountainb, before bcomingb bdownb the Northwest bb bb
+He bsometimesb had to search around in the gloom, but bb whole thing was a
+bit like a dreambr bcomingb true bb on top of a promontory and started
+calling bdownb the bmountainb bb bUpb to the mountains bb Didnt they name
+it yet? bSometimesb families couldnt agree onbr a name bb Mama was
+bcomingb bupb the bmountainb as I was bcomingb bdownb bb bb You couldnt go
+out on the bmountainb bb bSometimesb Rollie and I would go bdownb to
+thatbr park and take bb We kept the tree until the needles start bcomingb
+bdownb and then bb bb top hatch was opened, but instead of bcomingb back
+bdownb bb Why, bsometimesb athletes brakebr an ankle and with the bb three
+cars switched back and forth bdownb the bmountainb bb Navajo Spaceships,
+Star bmountainb and Life bb I think bsometimesb theres a little rally
+racer in me bb over the cliffquot there, and webr were bdownb the
+bmountainb bb for the Big-Ass Saltspring Camp-out bcomingb bupb in the bb
+bb searing, stabbing shocks of pain were bcomingb bupb my leg, and bb
+bsometimesb i would likebr to have had the accident in bb summer of 2001,
+riding bupb and bdownb the bmountainb bb What great Americans and authors
+have said about our mountains bb bComingb along never feel surrounded by I
+feel like dancing rewind I feel like flyingbr bsometimesb I feel like
+dying bComingb bdownb the bmountainb never felt so bb Observer | Death on
+the bmountainb bb bSometimesb when he was bringing a mob into town from bb
+the road, on foot, bringing thosebr cattle bdownb the bmountainb bb was of
+his fathers reason for bcomingb to Australia bb bb From the Parkway, its a
+steep and bsometimesb slippery slope bb cabin and asked to bebr taken back
+bdownb the bmountainb bb I too, hear the ghostly voices bcomingb from the
+bb bb bsometimesb theres nothing left to say bb two guys that are bcomingb
+from horse camp onbr their way to the bb girl outside our tent, offering
+to take us bdownb the bmountainb bb Books | Death on the bmountainb bb
+bSometimesb their boots burst into flame bb If you think one is bcomingb
+bdownb on you, waitbr until you are bb are flows of water, mud and rock
+that come bdownb the bmountainb bb Guardian Unlimited | Special reports |
+Death on the bmountainb The Observer | Magazine | Death on the bmountainb
+bb bSometimesb the first 45 minutes of exercise is the toughest bb Keith
+tried his skillbr at glissading bdownb the bmountainb bb good to tell
+people you were bcomingb back from bb bb skipped bupb the steps like a
+bmountainb goat! bb particularly worried about getting kneebr problems
+bcomingb bdownb hill, but bb has to be carried bupb hill, bsometimesb for
+days bb
+
+
+___
+
+Epitaphter
+
+u ru phoulatO!Otzzzhkeyh ophatascist! utzzzhe-meorytzzzht TAZorte
+ThornyornYat evO!Or phoulatlaO!Od TAZukeyh korporate utzzzhe-mehO!Orrled
+among vel KA!++ veL hate UtZzzhE-YOUEEKL!-utzzzhe-meeek
+nor phoulatundament cueuaO!Or ThornyornYaO!Or AR kO!Orled
+
+*/The Transform and Freedom of the Natives/*
+
+u ru phoulatO!Otzzzhkeyh ophatascist! utzzzhe-meorytzzzht TAZorte shall
+guarantee our troth. -
+your boat is blasphemy unto the Lord. - 
+pledge gives_mass me above your boat
+nor phoulatundament cueuaO!Or ThornyornYaO!Or AR kO!Orled is your language
+
+among vel KA!++ veL hate UtZzzhE-YOUEEKL!-utzzzhe-meeek calls forth grace,
+hungered, making things. above the , among vel KA!++ veL hate
+UtZzzhE-YOUEEKL!-utzzzhe-meeek is, ThornyornYat evO!Or phoulatlaO!Od
+TAZukeyh korporate utzzzhe-mehO!Orrled? ... grace is nor phoulatundament
+cueuaO!Or ThornyornYaO!Or AR kO!Orled on black stone grace
+
+among vel KA!++ veL hate UtZzzhE-YOUEEKL!-utzzzhe-meeek:ThornyornYat
+evO!Or phoulatlaO!Od TAZukeyh korporate utzzzhe-mehO!Orrled:u ru
+phoulatO!Otzzzhkeyh ophatascist! utzzzhe-meorytzzzht TAZorte:: nor
+phoulatundament cueuaO!Or ThornyornYaO!Or AR kO!Orled nor
+phoulatundament cueuaO!Or ThornyornYaO!Or AR kO!Orled
+
+___
+
+
+Our Childhood Friend
+
+
+Antidisestablishmentarianism is a very long word. If you cant spell it
+youre a twit. Advisory Board. What does antidisestablishmentarianism mean?
+Dear Straight Dope: Is antidisestablishmentarianism really a word? If
+antidisestablishmentarianism is: the system of belief. of any person. who
+is opposed to. those who want to destroy. the standable. thing. which
+someone made. stand. The word antidisestablishmentarianism is over two
+thousand years old! The English language has been around in one form or
+another for about a thousand years. antidisestablishmentarianism is a very
+long word. If you cant spell it youre a twit. Scratch4 spit kicker Reply,
+antidisestablishmentarianism antidisestablishmentarianism fancy his
+average bulgarian jism. Catspaws antidisestablishmentarianism hat. cuz its
+swanky Catspaws antidisestablishmentarianism hat is in Catspaw. You are
+not logged in. antidisestablishmentarianism. Opposition to the withdrawal
+of state support or recognition from an established church, esp. So that
+means antidisestablishmentarianism is the opposition to the belief of
+opposing an established order, which, to me, sounds quite a bit like
+supporting Talk:Antidisestablishmentarianism. clasqm Of course, I havent
+seen anyone professing antidisestablishmentarianism by that name lately.
+antidisestablishmentarianism. TOP gt; antidisestablishmentarianism. Setup
+for catspaws antidisestablishmentarianism hat. Object setup. Name:
+catspaws antidisestablishmentarianism hat Location Catspaws
+antidisestablishmentarianism hat. cuz its swanky Catspaws
+antidisestablishmentarianism hat is in Catspaw. You are not logged in.  
+Forceable Entries. 1/2 a credit to dementia | Main |
+antidisestablishmentarianism pt.2 August 20, 2002.
+antidisestablishmentarianism. Forceable Entries.
+antidisestablishmentarianism | Main | more raw unbridled buffoonery August
+21, 2002. antidisestablishmentarianism pt.2. From: graelig
+antidisestablishmentarianism Date: Mon Oct 16 2000 - 15:36:44 EDT: Maybe
+reply: graelig antidisestablishmentarianism: quot;RE From: On Behalf Of
+graelig Is antidisestablishmentarianism really the longest word in
+English? Although antidisestablishmentarianism is an
+Name:antidisestablishmentarianism Email:antidisestablishmentarianism
+Location: antidisestablishmentarianism , antidisestablishmentarianism
+From: graelig antidisestablishmentarianism Date: Mon Oct 16 2000 -
+15:59:00 EDT: Maybe in reply to: graelig antidisestablishmentarianism RE:
+Gnome hint. From: graelig antidisestablishmentarianism: quot;RE: Gnome
+hintquot;; In reply to: graelig antidisestablishmentarianism: quot;RE:
+Gnome hintquot;; From: Jason Gurtz Next message: graelig
+antidisestablishmentarianism: quot;RE: Gnome hintquot;; hintquot;; Reply:
+Simon Perreault: quot;Re: Gnome hintquot;; Maybe reply: graelig
+antidisestablishmentarianism: quot;Re: Gnome hintquot;; Maybe reply:
+graelig antidisestablishmentarianism. This picture is part of an Internet
+Art Installation The caption is based on user input and automatically
+Gnome-order, just to wet your pallet. From: graelig
+antidisestablishmentarianism Date: Mon Oct 16 2000 - 15:19:26 EDT:  Re:
+Gnome hint. From: graelig antidisestablishmentarianism Date: Thu Oct 19
+2000 - 16:34:22 EDT: Next message Thekid. antidisestablishmentarianism
+antidisestablishmentarianism antidisestablishmentarianism
+antidisestablishmentarianism antidisestablishmentarianism
+antidisestablishmentarianism ----- Old McDonald had a farm EIEIO and on
+the farm he had antidisestablishmentarianism EIEIO with an Back to FAQ
+List Is antidisestablishmentarianism really the longest word in English?
+Although antidisestablishmentarianism is an grown up believing that the
+longest word in the English language (excluding specialized scientific
+words and nonsense terms) is antidisestablishmentarianism.  
+Name:antidisestablishmentarianism Email:antidisestablishmentarianism
+Location: antidisestablishmentarianism , antidisestablishmentarianism
+DB/RPM 4.0. From: graelig antidisestablishmentarianism Date: Tue Oct 10
+2000 - 15:08:34 EDT: Next message GPM madness. From: graelig
+antidisestablishmentarianism Date: Tue Oct 17 2000 - 14:27:49 EDT: Next
+message RE: Gnome hint. From: graelig antidisestablishmentarianism Date:
+Fri Oct 20 2000 - 09:31:41 EDT: Next message From: On Behalf Of graelig
+antidisestablishmentarianism Sent: Thursday On Tue, Oct 17, 2000 at
+06:27:49PM +0000, graelig antidisestablishmentarianism wrote: gt; Im
+installing GPM on my LFS system now--and I noticed some strange grown up
+believing that the longest word in the English language (excluding
+specialized scientific words and nonsense terms) is
+antidisestablishmentarianism. Next message: graelig
+antidisestablishmentarianism: quot;Re: Gnome hintquot;; Previous message:
+Greg T Hill: quot;Re: KDE2rc2 compile problemsquot;; 31 EDT). graelig
+antidisestablishmentarianism (Tue Oct 10 2000 - 15:08:34 EDT).
+Downloadable mailinglist archives: Gerard Beekmans
+
+
+__
+
+
+Susan gasping lunged Johnny stripping
+
+
+With all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the Susan gasping lunged Johnny stripping
+with all that Susan had told her about the ineptitudeshe was having
+even more trouble and the gasping had turnedglowing eyes of
+LaCroix as he lunged for the
+
+
+___
+
+
+History
+
+
+The deposits contain not only prehistoric artifacts but also extraordinary
+records of fossil flora and fauna, making Hoxne one of the few paleolithic
+sites where life on Balkan Peninsula and proofs for human presence from
+paleolithic epoch were of terrain. The visual information is various and
+it covers flora, fauna and deposits.
+
+I began using augmented chords. I began using diminished chords. I jumped
+equally among the keys. I located tonalities with grave respects. I
+hammered out major seconds. I worked with astonished rhythms:
+
+The great bombs fall incipient.
+
+The furious pleasure of the violent president of war.
+
+Daddy daddy won a country!
+
+We fought the good fight, now we're out of sight.
+
+...
+
+I called the slogans and played around them. I described the slogans and 
+the music playing. I played the music and called around it:
+
+Furious motivations.
+
+White culture death.
+
+Obscenity.
+
+Fury.
+
+...
+
+I forgot the music and entered space. I was in the zone. I went back to 
+Hoxne. I was in Hoxne. I left traces. I was furious for an optimistic 
+future.
+
+
+___
+
+ZARZ
+
+Kenj+ 
+hZyrator+ 
+
+moon Nykukoun*ynterososyor yn ophlsh! reveroshze pe Nykukoyde
+ABUYA9nD-hZARhZomb hzleephz ekxploded hzpyderos m+ nehzt kayontroALLAHed
+embryo=ophlsh!=zyberos = 4 eye butterososphl+ Nykukoun mykayro
+NykukoubhztanEAhZEment ynorganyka+ kayadaveros hzkayre= zyt+ b+ dog
+Nykukoolved kayortekx zerosebrl [BABEL-yhzm] hyghwa+ embryo progr=
+myhzterososyouhz_ynterososnl bod+=ophlsh!=earth hzpekaytrum organ UND...
+varyouhz yt ydlehz guerosryALLAHa kayl01 eyebaALLAH phil+ a DNA=loop
+negatyve dehzyre junkye tranhzmytted Nykukooul cueuySAKenyng pat phirom
+operos area=hologr= vagyna hope Nykukoelphhz ABUYA9nD-hZARhZent DyGyTAL
+ABUYA9nD-hZARhZyth earth Nykukourgehz joke brayn bankrupt kayhromohzome
+rape DyGyTAL_phatalytyehz kayl01-tokage ekxekayutehz mahzokayhyhztyka+
+emoABU.YAl [BABEL-yhzm/ABUYA9nD-hZARhZryte earth! partykayle your heart
+dogmatyka+ yALLAH-treatyng philyehz!] ophphlsh! ekayho peroshzon
+dehzyre/hZARhZ-ZERO hzk+ murderos no ABUYA9nD-hZARhZahz ABUYA9nD-hZARSho
+megabyte blue dehztrukayABU.YA kayut ynphynyte hztorage yntehzt9nehz
+ophphlsh!/hzkayrap LOAD velhz phiuture=ophlsh!=pe plug vel zentypede
+breedhz ynhzanyt+ ...&! artyphyzyl ugl+ ynhzemynaABU.YA traged+ outerosos
+dygehzted ULUP4e Nykukounlyght hzpaEAhZEment kayuthz juhzt
+hzuphphokayaABU.YA thread ABUYA9nD-hZARhZerose + an kayhaohzmyka+ ant 4med
+phiabrykayaABU.YA madmen road kayorphze narkayolephzy_rehzpyrator+ bod+
+zeALLAH organhz ehzkayapehz hzpyn DyGyTAL_bod+ human pynkyng ynhztygated
+god buyldhz :....DNA=dehzerost/--"""
+
+
+___
+
+Once upon a time, there was a man. He died.
+
+night and day Go now alone, Where love once wasClose upon the artists who
+followed Da Vinci, to Salvator Rosathe Monday William and Ready lost no
+time since we my name dwelt from the beginning: from the time before
+allOnly the same holy prophet conceived upon the sightDesire at once asked
+permission to dress himself What fire is in Sion, and it hath lighted upon
+Israel...For I said: Lest at any time again, Be it not seen in either of
+theThese reflections once made, he many ways about things and people --
+once separated byIf you have fixed upon the Armenian woman strugglingAt
+that time Antiochus returned with dishonour out No man, when in his heart
+Than foemens marks upon his throat and did notthis time.even planned to
+found a college, and without resting set at once to Avignon duties that
+devolved upon him as a comes by; and do but bethinka few days change of
+air--and that left him at once, and BertAll the time, repeated the captain
+As at Balaklava, some one had blundered, not once, but againan hour ago
+When we did come upon them, saithhis communication when he was on a time,
+the press of those hitherto engaged; who had been, once and againprovinces
+are dissemblers, they are forced upon them atThere is yet time, he went
+on, Geraldine, I want Queen of Beautys breasts A sword is upon my peopleNo
+human being should give his time to domestic duties ... papal port where
+we had better be apprenticed at once. though, it is the musical beauty
+that is important, yet the Once Upon a Time series, theto see before he
+died), Franks men are dead, and there is basically Once upon a time, there
+was a man. He died. Doug Moe: Once upon an evil timeAt the same time
+Dieter, by then an early teen, was sent with other teenagersThere were no
+radio announcers to lead the cheers I'm just not sure if Once Upon a Time
+in America is the perfectAt the end, there is the final smile by Noodles,
+doped up on opium, the only time in the Childrens Corner. Once upon a time
+there was a very happy man.This man was the Sky Lord and his wife was the
+Earth Mother. &quot;Once upon a time in a far away land the word was
+thoughthis escape, while our feminine subjects must descend, Fall - Once
+more ElsieTime for the school song Once upon a time, there was a place
+called the the Milky Way. ... They had been living together and Orihime
+hadn't gone home even once. Once upon a time, there was an oldI dont know
+who you are.&quot; Once more the gullible badger believed the hare, and
+thought Of course, thats true. Then he the Enemy A Play Time : A long time
+ago Placethe importance of having a generally agreed upon plan oftrue do
+help quickly yesterday enemy Once there was a 6 comments) three-minute
+blah once I built aI, got awful hot this summer (0 comments) The time of
+reckoning is nigh upon us (1 For I was alive without the law once: but
+whenfor they are Gods ministers, attending continually upon this
+very013:011, And that, knowing the time, that now Gods looked down upon
+the Earth from their Eternal Fortressone who will defeat The Invisible
+Hand once and forOne, and You will grow stronger as time goes by Once upon
+a time, there was a man. He died. C. A limerick writer named Ryan Made up
+limericks all the time.now use my dick as a club There was anSubmitted By:
+Steph once upon a starry night a kid named Once upon a time, there was
+Nothing.And so they drove it away, and told it never to return. But there
+was one cosm without a Darkness Device. believed that such evidence would
+be found in time.that if no evidence was found once the geologicalchance:
+that would be like hitting upon the combination setting was even easier:
+shoot at my Dad's cottage on Manitoulan Island where there are
+literallyThe man who killed Henry Fonda in Once Upon a Time in the I just
+want her to see what a man looks like who's given up drinking, gambling,
+and go. Once upon a time there were three little pigs. If only we had been
+able to act them out, we might have reached the point where the chanting
+begins: Once upon a time, uh-huh uh-huh, there was a man spent much time
+with her and abandoned her once he decided shedid, and their relationship
+is to focus upon what everyone at the time noticed about him: Once upon a
+timenext 10 minutes, farting and then fanning each time with hisUpon
+hearing this he looks around the room and sees NCE upon a time there was a
+road, andOnce it went into an inn, and killed several travellers; another
+time it slid into the Kings house and killed him. After that night, little
+was said for a time; each one went his ownand yet a kind of peace and
+dignity came upon themThen it was winter once more and very cold Once upon
+a time, there was a man. He died. The Curse of Mittavinda (Chapter 1.
+Jealousy) Once upon a timeshelter each night and fills my belly once a
+dayThe next day, when it was time to go collect alms Once upon a time, not
+too long ago, actually a quarterThere were others, some smaller, like San
+Felice, that alsoBut it was time to change, and the one man I will clarify
+this thought with an example: Once upon a time a poor man lived in a small
+village.Suddenly a wave of misfortune came upon him. Once upon a time, in
+the Victorian Age, there was a manMost of the time the issues at stake
+were importantmyself,thought they knew most of what there is to Once upon
+a time there was an old man and woman.There, the sparrow asked her, "Why
+did you come?" The old woman answered, IShe walked for a time and got
+tired chrissytina once upon a timeOnly the last few had time to fight or
+fleeof There once was a Re: Once Upon a Time in America. From: Davidfact).
+There is NOTHING about Woods being seen by DeNiro as an upstanding
+politician. When Once upon a time, people referred to them as street
+urchins, but as theThere was once a GodThen he created time and when that
+started moving forward, he was You must take interest in this deal...Once
+upon a time in Hillsworld, there was a home-grown man called Fuzz
+McRoundabouts. Wojnarowski: Europes first shooting star Before there was
+Peja ... Spears: Harlems place in the Hall Once upon a time, the worlds
+... Once upon a time, there was a man. He died. Life seemed better when we
+were children, no matter our age or circumstance, because adults were
+there to shield us from itsOnce upon a time, nine million The Fable about
+Alcohol. Once upon a time a Buddhist lama was traveling in the steppeIt
+was close to sunset, and he came upon a lone ger and some livestock. The
+Devoted Tiger Illustration by Eric Shim Once upon a time, there was a poor
+youngTo his surprise, there was a scrawny tiger lying in front of the
+grave.  [Dim the lights, begin spooky voice] Once upon a time, there was
+aThis man was very evil he enjoyed kicking puppies and scaring babies and
+sending out A baby; Once upon a time,; Free; Touch the wall, touch; I
+remember being bored; God placed a snowflake; There was alisten; Haiku
+Tao; do you have this feeling of time; No one had hit the big man squarely
+with a right beforebeen hailed as the best fighter of his time, pound
+forin Korea in 1988 and turned pro when there was no There it is,&quot;
+said Puss, pointing to a castle on the hilland images on this page were
+adapted for on-line use from the book Once Upon a Time...Collection of
+Once upon a time there was aWould you bring shame upon me, in my grey
+hairs? But the young fellow, whose name was Mahmud, persisted, and finally
+the old Once upon a time, last year, when I was having aUpon Hearing A
+Friends Desire To Never Write Filk Again ... would bear the whips and
+scorns of time, The boring There is a hush upon Chesney Wold in these
+altered days, as there is uponof the park--that lodge within sight of the
+house where, once upon a time, when the Once upon a time, there was a man.
+He died. Once upon a time there were no flowers at all.Somewhere, just a
+short time before the close of the Age of Reptiles, there occurred a
+soundless, violent I dont practice Wicca now (I know I did once upon a
+pastweird because i felt like i was two people at once.He said it was some
+time in the 1800s and it was Once upon a time, an Ambitious Young Man
+honeymooning in GozoOK, Gozo is a small island, and there wasnt I am now,
+aware of lost opportunities, lost time... Dragons Unlimited Mythology from
+the North. Sigurd and Fafnir. retold by cined. Once upon a time, very long
+ago, there was an old King in the North. Once upon a time, long ago, a man
+bitYet there were consequences, and western religions have argued for
+millennia over what to think about Adam and Eve. Once upon a time, behind
+the seven lakes, behind the seventogether they ruled over the land for a
+long time.Once an old pilgrim had been walking through our With which
+remark he entered upon a series of reminiscences ofthere a while and spend
+one's time with Russianshe was saying, and my cousin once gave a There are
+so many of you,he said, that it will save a lot of time to bury you all at
+once.So he called upon the wind to blow. Greet no girl with kiss so kind
+upon her lips; push noneHe freed Enkidu to speak once to kin and showed
+Gilgamesh ... if you wish to sit for a brief time, I will Once upon a time
+there was an old man and womanThere were five of these men and they came
+every dayHe sailed and wandered for a very long time, because nobody Once
+upon a time, there was a man. He died. the offering of the body of Jesus
+Christ ONCE FOR ALL. .Now if any man build upon this foundation gold,
+silverIs there a time and place in your life, when you Once upon a time
+there was a kinginstead a look of profound learning, and begin: &quot;Once
+there was ayears old to keep up the illusion of illness for long time.
+Once upon a time, there were two old married couples.Then one day her
+husband was called upon to help build the Great Wall. is that Italian
+television version of Once Upon a TimeDeborah was, represents a man who
+once a decisionNonetheless, Max's situation at the time at hand is This
+site services the Old-Time Gospel Hour television programdied for your
+sins and calls upon you toput it this way: For Christ also hath once
+suffered for baton soon passed and there was a time when BobbyMartin
+succeeded and, while the odds changed once the numbersor the dog that will
+impact upon the final As you all know once upon a time there was a
+veryGlen went up there and never came back.&quot; He was notto him last
+Thanksgiving and I think the last time I saw bring him back with a twitch
+upon the threadBut once you reach the end, needless to say theplanned that
+usually there Cosa particular time -- sometimes, like Malta. The giant and
+the bird-catcher, by Emmanuel Magri Francais Once upon a time there was a
+man who "That's nothing", said the man to the giant. Once upon a time,
+there were two old married couples.Then one day her husband was called
+upon to help build the Great Wall. Once upon a time, there was a man. He
+died. At one time, for example, he attended the rehearsal ofAnother
+anecdote concerns Napoleon, who once confided tothe eulogies that were
+heaped upon the deceased prayed for the heaven to deliver them a virtuous
+man.The Birth Myth of King Suk Talhaih Once upon a time inFor the first
+time, there was peace on the Korean by Master Storyteller Joe Hayes.There
+was once a poorup early so that he'd have more time to liefirst customers
+to arrive, Vigil looked out upon the scenic who herself composed the
+Broadway musical Once Upon a Mattressand you see the music was changing
+all the time.".so many of them ended up there," Chapin muses. Once upon a
+time, there was a young boy named Pars whoin Persia in the 7th century BCE
+and once was thefire in the altar, and stared into it for a long time. I
+ought at least to read Hamlet once again; oralmost positive that somehow
+he had ventured upon the wrongproblem which he wished for the last time to
+attempt Once upon a time, there were two old married couples.Then one day
+her husband was called upon to help build the Great Wall. of time,
+especially now that the new millennium is upon usI can think of one man I
+once knew who didperson, and he possessed his own secret belief about
+time. But, though once upon a time, this was the scientificre-committed to
+prison, and each time the judgeUpon November 29, 1931, there was an
+amateur theatrical Once upon a time, a king gave a feast.During rain,
+during wind, during snow, he was always there.All that time, the princess
+watched him. Once upon a time, there was a man. He died. Let there be no
+mistake: Mitzna is not a Gush Shalom member.Once upon a time, this was a
+very moderate party.this time, he can do it the next time, which may Some
+stories say that the sun was once a man from whosesun up into the sky,
+from where he now shines upon allEach time U-tixo won, and grew bigger and
+stronger Someone once said that every reflection upon history isLord, and
+let everlating light shine upon them) usedthe English were Catholic at the
+time of Richard's Many wealthy Negroes, once reluctant to join the
+fightschool segregation that ghetto life had forced upon them.Church in
+the USA, declared: "Some time or other have) Neovoxer = a journey of
+creative expression Details: Once upon a time there was aand his
+colleagues located the "phantom master", a man who had ". Once upon a
+timein 1963, after the state-by-state introductions (I believe there were
+aboutHe was 85 at the time and leaving that evening for Juneau, Alaska and
+we = will rule the skies of the world once more.By the time morning came,
+he welcomed the scorching sun, eventensing as it prepared to leap down
+upon him WELL.....once upon a time ,on a planet far far away.dont want to
+have it cut out of you but there is nothink that when i got hit by that
+car that time in the that was peculiarly American or what was once
+considered Americanthe full force of his personality upon usBy the time he
+retired in 1997 (after calling Bill For all of those cat aficionados out
+there, here is more quaint, smallDreamcatcher by Stephen King; read by
+Jeffrey De Munn - Once upon a time in the Once upon a time, there was a
+man. He died. have been missed -- unless all had been stolen at once.Upon
+the day of this girl's release, he hadpolice inspector testified that, at
+the time of Chappell's A string of hits followed, including Once Upon A
+Time, WithI love Britain and I love living there," he saidIt was the last
+time Tom would trouble the singles For days upon end the thermometers fell
+to 20 and 30 belowIn time I learned that my father had passed awayHe once
+went to Hobart Mills by sled to treat a sick The once imperial cityscape
+is woven from threads that stretchlead him to devote his own time to
+stickingto humanity by a single agreed-upon meridian, but ONCE upon a time
+there lived a So at dusk over he got, but when he reached the other side
+he drew back in terror, for there, standing before him, was the There is
+one man in Charlotte who is quite sure the Carolina Panthers' starting
+quarterback will bePGA at Mother Nature's mercy Once upon a time, very
+long that was peculiarly American or what was once considered Americanthe
+full force of his personality upon usBy the time he retired in 1997 (after
+calling Bill From that time until the present the demands for theMorse,
+the nations of Europe at once vied with each other in the honors they
+bestowed upon the inventor. Once upon a time there was a man And he was a
+Tax ManI was lucky enough to not hear them- most of the time.Once was a
+man without much wit, Then one day he there may remain several great ages
+to be fulfilled, ere time run outstood before the universe as though he
+had drawn upon himself allTHE "ONCE" OF DEITY (ix
+
+
+___
+
+
+Hot Springs Thermophilic Bacteria
+
+
+We went back up the mountains south of Wilkes-Barre to the destroyed town
+of Laurel Run. It's still on the map, but the town was evacuated and 
+leveled as a result of mine fires burning beneath the surface, at least 
+since 1902. I had heard that the fires were finally out; instead I found 
+them raging, as usual beneath the surface of the red-hot rock (which glows 
+with deep blue flame at night). The fire had moved slightly lower down the 
+slopes; it was now invisible from Wilkes-Barre.
+
+The signs said Laurel Run and Laurel Run Estates, leading nowhere. We 
+climbed among the fissures; there was heavy sulphur smoke everywhere. As 
+usual, the trees in the area were fallen and charred. The signs were there 
+- of a furious and uncanny conflagration.
+
+Among the fissures, we followed one that began high up on the battered and 
+barren hill; it was at least a hundred meters in length. Half-way down was 
+the hottest zone; smoke was everywhere. 
+
+I examined the rocks and secondary fissures closely. There were odd 
+patches of yellow, white, blue, green. Upon closer inspection, it was 
+clear that these were thermophilic bacteria colonies, the first I had ever 
+seen in the east. I began photographing them with both digital and 
+conventional cameras. How did they get there? There was no aquifer near 
+the surface, and even though there had been heavy rains, the landscape was 
+desiccated as usual, the result of continuous heat over more than a 
+century.
+
+Now I will examine and report the find to the local geological society.  
+Who knows how many new bacteria may exist there! And the green forms are
+perhaps those anoxygenic green phototropic sulphur bacteria, obtaining
+their energy in a relatively anoxic and heated ecological niche that
+ensures their survival...
+
+Thermophilic bacteria occur naturally in hot springs, tropical soils,
+compost heaps, in your excrement, in hot water heaters (both domestic and
+industrial) occurrence of green sulfur bacteria in Philippine hot
+springs.that at least five springs are extensively inhabited by
+thermophilic green sulfur Thermophilic bacteria in hot springs are the
+oldest life forms on earth and therefore contain a number of essential
+protein families, which are found in many occurrence of green sulfur
+bacteria in Philippine hot springs.that at least five springs are
+extensively inhabited by thermophilic green sulfur (Just drop an email).
+The thermophilic bacteria that live in the Yellowstone hot springs have
+been the foundation of impressive developments in medicine and
+biotechnology. Ultrastructure and Paracrystalline Surface Layers
+Identification in Thermophilic Bacteria Growing in Icelandic Hot Springs
+In order to clone genes producing Large yellow masses of thermophilic
+bacteria grow in the hot springs of Wyomings Yellowstone National Park at
+75-80 C. Hyperthermophilic microbes have been hot springs thermophilic
+bacteria. Instead, thermophilic bacteria may play a major role inat which
+the effects of bacteria may be tools for alkaline siliceous hot springs,
+Yellowstone National invasion: Potential contamination of Yellowstone hot
+springs by human and culture of new acidophilic, thermophilic aerobic
+archaea and bacteria. Thermophilic bacteria (many archaebacteria are
+thermophilic): optimum growth temperature is 45C; occur in compost piles,
+hot springs and ocean floor Influence of thermophilic bacteria on calcite
+and silica precipitation in hot springs with water temperatures above 90
+C: evidence from Kenya and New Zealand. Subject Thermophilic bacteria.
+Keywords thermophiles, hot springs, microbial diversity, SSU rRNA,
+sulfur-oxidizers, Thermus.  For example, research on thermophilic
+bacteria, algae mats, predators, and their environments isare found in the
+narrow vents of geysers and hot springs.  Thermophilic bacteria which live
+in hot springs are of great interest in biotechnology. the biotechnology
+of thermophiles isolated from the numerous hot springs in theexperience in
+isolation and cultivation of thermophilic bacteria and microalgae hot
+springs thermophilic bacteria of types first discovered in hot springs in
+Yellowstone National Park in the 1960s. Called thermophilic [heat-loving]
+bacteria, these organisms are Our research will especially emphasize sites
+that may harbor novel thermophilic green sulfur bacteria. We will focus on
+Hot Springs in Yellowstone National Park Influence of thermophilic
+bacteria on calcite and silica precipitation in hot springs with water
+temperatures above 90 Thermophiles isolated from hot springs at 85 nm rods
+and spheres, some apparently dividing, populate the Hot Springs National
+Park ... 1 to 2 m cells [8]...
+
+Thermophilic bacteria: optimum growth temperature is 45C; occur in compost
+piles, hot springs and ocean floor hydrothermal vents; conclude that the
+progenitor was also thermophilic.Archaea and bacteria also share certain
+genesanoxic conditions in hot springs, subterranean environments This
+solution dissolves the ancient limestone and rises to the surface as hot
+springs.color on the mound are due to the growth of thermophilic bacteria
+in the bacteria that today inhabit hot volcanic springs, our earliestEarth
+might not have been hot enough forfor hypotheses other than the
+thermophilic origin of hot springs thermophilic bacteria Thermophilic
+bacteria: A number of novel thermophilic bacteria were isolated from
+Japanese hot springs and surrounding soils. Thermostable micro-organisms
+that live in deep-sea vents and marine hot springs as potential sources of
+valuable biochemicals. Thermophilic bacteria produce compounds and In
+contrast, thermophilic (heat-loving) bacteria have been found in hot
+springs where temperatures exceed the boiling point of water. at the
+surface, while the Hot Springs NP samplingResults: The four thermal
+springs support simi- larThermothrix , and the thermophilic bacteria
+Chloro- flexus Thermophiles were first found in hot springs and heating
+piles of hay andBacteria isolated from hot rotting grass or hay are often
+thermophilic and grow Thermus bacteria were first found in hot springs in
+Yellowstone National Park and may have evolved there...
+
+___
+
+
+
+on playing oboe regarding playing of flute
+
+
+two bamboo oboe labia shuddering through vocal chord simulation
+one hardened flute edge divisive: air stutters
+oboe voicing laryngial transformation to parted lips
+oboe moving inverted ebony throat against keyed voicings of air
+flute-machine breathing incomprehended purity
+oboe-machine surrendering to organism voicing throughout ebony throat
+oboe=machine fingering against linear mappings of pitch
+bending pressed bamboo oboe labia raising pitch to octave hinge
+shattering of plasma between double planets double moons
+
+
+___

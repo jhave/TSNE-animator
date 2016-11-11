@@ -1,0 +1,456 @@
+
+grep grep
+
+what i go about culling my writing from my writing
+
+       grep air a/char >> zz
+       grep baby a/char >> zz
+       grep black a/char >> zz
+       grep blue a/char >> zz
+       grep boy a/char >> zz
+       grep build a/char >> zz
+       grep child a/char >> zz
+       grep cloud a/char >> zz
+       grep dead a/char >> zz
+       grep death a/char >> zz
+       grep dwell a/char >> zz
+       grep earth a/char >> zz
+       grep farm a/char >> zz
+       grep farmer a/char >> zz
+       grep fog a/char >> zz
+       grep foolish a/char >> zz
+       grep forest a/char >> zz
+       grep girl a/char >> zz
+       grep gone a/char >> zz
+       grep happy a/char >> zz
+       grep hill a/char >> zz
+       grep home a/char >> zz
+       grep house a/char >> zz
+       grep husband a/char >> zz
+       grep hut a/char >> zz
+       grep ill a/char >> zz
+       grep infant a/char >> zz
+       grep king a/char >> zz
+       grep lake a/char >> zz
+       grep lost a/char >> zz
+       grep lucky a/char >> zz
+       grep man a/char >> zz
+       grep meadow a/char >> zz
+       grep mist a/char >> zz
+       grep mountain a/char >> zz
+       grep ocean a/char >> zz
+       grep palace a/char >> zz
+       grep queen a/char >> zz
+       grep red a/char >> zz
+       grep sad a/char >> zz
+       grep sailor a/char >> zz
+       grep sea a/char >> zz
+       grep sick a/char >> zz
+       grep soldier a/char >> zz
+       grep star a/char >> zz
+       grep student a/char >> zz
+       grep stupid a/char >> zz
+       grep sun a/char >> zz
+       grep teacher a/char >> zz
+       grep unhappy a/char >> zz
+       grep unluckly a/char >> zz
+       grep valley a/char >> zz
+       grep well a/char >> zz
+       grep white a/char >> zz
+       grep wife a/char >> zz
+       grep wise a/char >> zz
+       grep woman a/char >> zz
+       grep yellow a/char >> zz
+    16	foreach $rem (@rem) {$this = "grep -v '^$rem' .message > .mess";
+    4  grep spherical * > /root/zz
+    9  grep -h spherical * > /root/zz
+    B. COMMAND LINE tricks: od, sed, awk, grep, etc.
+   &googleapi &eliminate.pl &elimx.pl &grep grep grep
+   13  grep -h tumescent >> /root/zz
+   14  grep -h tumescent * >> /root/zz
+   159	16:36	grep -h "great war" network/* > zz
+   163	16:37	grep -h "missing in action" network/* > zz
+   165	16:38	grep -h "missing" network/* > zz
+   167	16:38	grep -h "killed or wounded" network/* > zz
+   169	16:39	grep -h "wounded or killed" network/* > zz
+   171	16:39	grep -h "wounded and killed" network/* > zz
+   173	16:39	grep -h "killed and wounded" network/* > zz
+   175	16:40	grep -h "mutilated" network/* > zz
+  295  grep Beaufort * > jjjj
+  303  man grep
+  304  grep -h problematic * > zzz
+  343  grep fuzzy * > zzzz
+  349  grep fuzzy ??? > zzzz
+  354  grep fuzzy * > ~/zzzz
+  363  grep -h fuzzy ../../web/* > zzzz
+  367  grep -h defuge ../../web/* > zzzz
+  julu of the grep-feather-chant
+ fictivityfilmstockfoofwafuturologygenidenticalticsgrgrep 
+ geomgeomaticsgrepglossolaliahhemipteragooglegridlinesheehegelungsishtm 
+ grep: pulling lines/strings from a file, etc.
+ pts/8   user-387hit9.cable.mindspr 12:25AM     0 grep mutt 
+ pts/8   user-387hit9.cable.mindspr 12:25AM     0 grep pine 
+"Ju6lu% netstat | grep sondheim
+"grep," pull out all lines that have a certain string (group of 
+"grep," pull out all lines that have a certain string (group of 
+$ grep Devil texts/* | wc
+$ grep God texts/* | wc
+$ grep Philosophy texts/* | wc
+$ grep abacus texts/* | wc
+$ grep abject texts/* | wc
+$ grep agnostic texts/* | wc
+$ grep annihilation texts/* | wc
+$ grep arouse texts/* | wc
+$ grep atheis texts/* | wc
+$ grep atheist texts/* | wc
+$ grep avatar texts/* | wc
+$ grep belief texts/* | wc
+$ grep believ texts/* | wc
+$ grep believer texts/* | wc
+$ grep birth texts/* | wc 1024 9759 79757 $ grep death texts/* | wc 5629 
+$ grep chora texts/* | wc
+$ grep code texts/* | wc
+$ grep coding texts/* | wc
+$ grep creation texts/* | wc
+$ grep dead texts/* | wc
+$ grep death texts/* | wc
+$ grep deconstruction texts/* | wc
+$ grep defuge texts/* | wc
+$ grep depress texts/* | wc
+$ grep desire texts/* | wc
+$ grep devil texts/* | wc
+$ grep epistemology texts/* | wc
+$ grep essence texts/* | wc
+$ grep evil texts/* | wc
+$ grep existence texts/* | wc
+$ grep false texts/* | wc
+$ grep feminine texts/* | wc
+$ grep feminism texts/* | wc
+$ grep god texts/* | wc
+$ grep good texts/* | wc
+$ grep grep texts/* | wc
+$ grep imaginary texts/* | wc
+$ grep joy texts/* | wc
+$ grep life texts/* | wc
+$ grep live texts/* | wc
+$ grep logic texts/* | wc
+$ grep masculine texts/* | wc
+$ grep mathematical texts/* | wc
+$ grep mathematics texts/* | wc
+$ grep mathesis texts/* | wc
+$ grep mathesis texts/* | wc
+$ grep mess texts/* | wc
+$ grep ontology texts/* | wc
+$ grep phallic texts/* | wc
+$ grep phallocentrism texts/* | wc
+$ grep philosophy texts/* | wc
+$ grep quantum texts/* | wc
+$ grep real texts/* | wc
+$ grep relation texts/* | wc
+$ grep relativ texts/* | wc
+$ grep relativity texts/* | wc
+$ grep script texts/* | wc
+$ grep scripting texts/* | wc
+$ grep sex texts/* | wc
+$ grep structur texts/* | wc
+$ grep structure texts/* | wc
+$ grep symbolic texts/* | wc
+$ grep tangle texts/* | wc
+$ grep text texts/* | wc
+$ grep true texts/* | wc
+$ grep virtual texts/* | wc
+$ grep word texts/* | wc
+$ grep wording texts/* | wc
+$ grep words texts/* | wc
+$ grep world texts/* | wc
+$ grep worlding texts/* | wc
+$ grep worlds texts/* | wc
+(w | grep <string> is a command to list current users on the shell
+*?? > z; grep Poetics *?? >> z; ftp panix3.panix.com; sed 's/^...g' z >
+*h*split* *cc* *hehe* *bogu *jj* *suck* *hh* *penis* *aa* :oo:oo 15 grep 
++Kukai" > zz ls wc zz rm zz sudo perl -MCPAN -e 'install zz wc zz grep
+,won uoy ta gnikool ma I tail mi grep eye mi > zz rev zz >> zz sort zz >
+. . grep "\." yy > zz sed 's/^........./ /g' zz >
+./mod grep Buddha zz > yy wc yy pico yy grep -v Stephen yy > zz wc zz pico
+/image ls wc historic ftp pahistoricx exit pwd tail historic grep
+1	grep " " -v mj > zz
+1	grep -h " i " texts/??.txt | head -200 > zz
+1	grep -h "filling space" texts/* > zz
+1	grep#"#"#-v#mj#>#zz
+10	grep "####" kenji
+11	grep ADAM kenji
+13	grep ADAM kenji | grep cadaver
+139 sort zz > yy 140 pico yy 141 grep oo yy > zz 142 pico zz 143 h 144
+14	grep ADAM kenji | grep cadaver | grep feti
+1405 $ grep deathless texts/* | wc 17 139 1164 $ grep depression texts/* | 
+1453 10973 $ grep guilty texts/* | wc 119 1168 8540
+149 pico yy 150 h 151 grep oo yy > zz; pico zz 152 sed 's/[?!]/ /g' zz >
+16	grep ADAM kenji | grep cadaver | grep feti | grep made
+18	grep ADAM kenji | grep cadaver | grep feti | grep made >> zz
+18 grep cock * >> oo
+19	grep -h "death and life" texts/* > zz
+197 pico zz 198 sort zz > yy 199 pico yy 200 grep oo yy > zz 201 pico zz
+2	grep -h " I " texts/??.txt | head -200 >> zz
+2	grep -h "wasting space" texts/* >> zz
+2	grep -h death texts/??.txt > zz
+2	grep nikuko lx > zz
+20	grep -h "life and death" texts/* >> zz
+202 sort zz > yy 203 pico yy 204 grep oo yy > zz 205 pico zz 206 sort zz >
+21	grep -h "death in life" texts/* >> zz
+22	grep -h "life in death" texts/* >> zz
+22	grep embryo kenji
+23	grep embryo kenji | grep that
+24	grep embryo kenji | grep that | grep feti
+25	grep Today zz > yy
+25	grep embryo kenji | grep that | grep feti >> zz
+25	grep y < zz >> yy
+29	grep chromo kenji
+3	grep -h "making space" texts/* >> zz
+30	grep chromo kenji | grep desire
+31	grep chromo kenji | grep desire >> zz
+38 grep Subject .procmail/log >> zz 40 sed 's/ Subject: //g' zz > yy; mv
+4	grep -h "useless space" texts/* >> zz
+4	grep -h life texts/??.txt > yy
+4	grep Today mail/sl > zz
+41 pico zz 42 grep oo yy >> zz 43 pico zz 44 mv zz ww 45 script zz 46 mv 
+4783 57906 405147 $ grep hate texts/* | wc 1829 22451 165507 $ grep shame 
+6	grep -h "wasting time" texts/* >> zz
+6	grep demon zz
+66942 482056 $ grep live texts/* | wc 4164 53402 391417 $ grep alive 
+7	grep -h "making time" texts/* >> zz
+7	grep demon zz | sed 's/demon/demon presence/g' >> zz
+7201 48860 $ grep misery texts/* | wc 236 2329 18109 $ grep sad texts/* | 
+8	grep -h "useless time" texts/* >> zz
+8860 $ grep sex texts/* | wc 4957 48981 395695 $ grep love texts/* | wc 
+:!grep merge lv >> zz
+:oo:oo 15 grep sex * > oo & 16 grep fuck * >> oo & 17 grep cunt * >> oo &
+> simple search command or a UNIX grep still offers the best tool for
+> yy 183 pico yy 184 grep oo yy > zz 185 pico zz 186 sort zz > yy 187 pico
+> zz sed 's/Woman/Man/g' zz > yy; mv yy zz; pico zz h grep woman pa.txt > 
+>> zz 27 grep voice sound >> zz 29 grep music sound >> zz 30 grep noise
+>> zz grep these mm >> zz grep sexy mm >> zz grep eyes mm >> zz grep sexy
+@blacklist          @grepcore           @quota              @unnewt
+@egrep              @make-player        @shout              
+Alan yy > zz wc zz mv zz zz.htm lynx zz.htm ./mod grep Buddha zz > yy wc
+Command: fgrep -i <search> <current file> >> <this file>
+E fg ls p exit p p ls exit p lynx http://www.news.google.com | grep rain >
+Filtering lines / words / letters: (similar to grep)
+Google Graphemes grep gridlines habitus halfgroupoid hallucinatory 
+Instead of the quasi-programming commands like sed, debug, grep, awk, or
+Ju11lu% w | grep jennifer
+Ju12lu% w | grep julu
+Ju13lu% w | grep alan
+Ju14lu% w | grep nikuko
+Ju15lu% w | grep sondheim
+Ju18lu% w | grep ar
+Ju19lu% w | grep ra
+Ju20lu% w | grep in
+Ju61lu% cat words | grep jen >> ~/zz
+Ju62lu% cat words | grep explos >> ~/zz
+Ju63lu% cat words | grep from >> ~/zz
+Ju64lu% cat words | grep relat >> ~/zz
+Ju65lu% cat words | grep truth >> ~/zz
+Ju70lu% cat words | grep je >> ~/zz
+Ju71lu% cat words | grep expl >> ~/zz
+Ju72lu% cat words | grep fro >> ~/zz
+Ju73lu% cat words | grep rela >> ~/zz
+Ju74lu% cat words | grep tru >> ~/zz
+MOO:   84  grep Nikuko *
+Sondheim zz > yy wc yy grep Alan yy > zz wc zz mv zz zz.htm lynx zz.htm
+agrep -n (approximates) string file
+alan zz >> yy grep Sondheim zz >> yy grep sondheim zz >> yy wc yy pico yy
+alias ryn="netstat -an | grep SYN_RECEIVED"
+alias syn="netstat -an | grep SYN_SENT"
+alias syn="netstat -an | grep SYN_SENT"
+ambulance irclog.ex grep tumor irclog.ex grep cancer irclog.ex grep
+and awk and grep and the rest of them _did_ without having to know all
+and we forget the other cat/etc/passwd | grep s, the other _s_ or the _s
+appears for cat /etc/passwd | grep ROUS, the EAU turning later on, along
+b b b biff y tf b ls b ls b ls grep nothing kz | sed 's/nothing/radio/g' >
+blacklist           @grep               @programmer         @toad
+bove: When I was considering the grep -v line, I originally pictured thick
+cencept ef grephecs, rether then emeleteng mere expenseve end stenderd- 
+centenary of jacques lacan measured from emergence.:!grep merge lv >> zz
+chance economics grep country economics grep nation economics grep mandate
+characters) in it. For example, if I grep the word "line" in a file which
+cinelerra.html grep video cinelerra.html grep cineo cinelerra.html grep
+command such as "grep -h *?? fruit >> y" over the entire internet text in
+crazy irclog.ex grep freak irclog.ex grep loony irclog.ex grep nurse
+debris grotesque surprise $ grep wc + bones. enters editing eating. manga. 
+done]ambabyagreptel exit shellthe magino yousubgroupoids subjectivities 
+dump_ciu dumpe2fu dumpkmap dutmp e2fuck e2label echo egrep elif elue elviu 
+dumpkmap dutmp e2fuck e2label echo egrep elif elue elviu embeddedkonuole 
+economics grep risk economics grep world economics grep world economics >
+ent structures of performative grep scripts and the melding of languaging
+eppleceteens, encledeng seme experementel grephecs pregrems thet ceme 
+fc fdfluuh fg fgrep fi figlet figliut figmagic filebrowuer find for free 
+fgrep 'hole' /usr/dict/words > ff
+fgrep fi figlet figliut figmagic filebrowuer find for free freeramdiuk 
+finally, without the marrow, the perfect blue jewels \ grep blue a/char >> 
+foofwa genidentity geomatics gesturally gigabytes Google grep gridlines 
+fruitful; i wonder if this were a flaw built into grep or the particular
+gesturally foofwa fingerboard grep genidentity gigabytes hee gesturally 
+gesturally gigabytes glossolalia Google Graphemes grep gridlines habitus 
+getty go gomoku grep guigrep gunzip gutenbrowuer gzip h halt hancomuheet 
+glossolalia = Google = Graphemes = grep = gridlines = habitus = 
+glossolalia Google graphemes grep gridlines habitus halfgroupoid 
+gomoku grep guigrep gunzip gutenbrowuer gzip h halt hancomuheet hauh head 
+grep 
+grep -h "no film" texts/*.txt >> zz
+grep -h "no music" texts/*.txt >> zz
+grep -h "no photo" texts/*.txt >> zz
+grep -h "no pictures" texts/*.txt >> zz
+grep -h "no stuff" texts/*.txt > zz
+grep -h "no text" texts/*.txt >> zz
+grep -h "no video" texts/*.txt >> zz
+grep -h location ??.txt > zz
+grep -h location ??.txt > zz
+grep -v ":" yy > zz 27 pico zz 28 strings zz > ww 29 pico yy 30 sed 
+grep Kukai zz >> yy wc yy less yy wc yy grep Alan yy > zz grep alan yy >>
+grep and the splashing-milk nipples possessed by maya so forth with
+grep carnal lu >> jj 4 grep knowledge lu >> jj 5 h >> jj 6 ls 7 pico jj 8
+grep doctor irclog.ex grep medic irclog.ex grep insane irclog.ex grep
+grep dollar economics grep poor economics grep rich economics grep invest
+grep grep
+grep honor texts/* | wc 184 1608 14236 $ grep innocent texts/* | wc 145 
+grep hurt mm grep terr mm grep these mm grep eyes grep eyes mm grep hands
+grep illness irclog.ex grep dying irclog.ex grep death irclog.ex grep
+grep kei economics rep kei economics h 1 | grep grep
+grep line lw
+grep mandate economics grep trans economics grep trans economics >> ~/zz
+grep oo yy > zz 163 pico zz 164 sort zz > yy 165 pico yy 166 grep oo yy >
+grep poetics *?? > z; grep Poetics *?? >> z; ftp panix3.panix.com; sed
+grep sondheim
+grep sondheim >> zz 6 w | grep sondheim >> zz 7 date >> zz 8 fg 9 pico zz 
+grep suicide texts/* | wc 303 3029 22921 $ grep happy texts/* | wc 549 
+grep woman pa.txt grep Woman pa.txt grep womans pa.txt sed 's/womans/- 
+grep-..-. coreutils-..-. ash-..-. grub-.-. gzip-..-. krb-libs-..-.
+grep-slough or ruth-havoc across threshed internet text:
+grep: spam: No such file
+grep: spam: No such file or directory rm:  
+h pico zz h grep woman pa.txt > zz grep womans pa.txt >> zz grep Woman 
+hee hemiptera grep holarchy hir hemiptera http hirself htm i'm holarchy 
+history: "1 ls 2 pico zz 3 fg 4 grep sondheim /etc/passwd >> zz 5 who | 
+ideogrammar grep deerflies emergences everglades peerings d'eruza 
+important mm >> zz grep terror mm > z grep hurt mm >> zz grep these mm >>
+inefficient. For a while, I wanted to do a grep -v $rem[1]&$rem[2] etc.,
+irclog.ex grep hospital irclog.ex grep sick irclog.ex grep dead irclog.ex
+issuing the command 'grep jennifer,' then 'jennifer' returns the 
+jennifer lb >> zz grep julu lb >> zz grep nikuko lb >> zz pico zz grep
+k%: grep -h [word|phrase] [set of texts] >> [initial collection]
+k10% grep " die" or.txt
+k11% grep nikuko-america >> quit? i ate from your body
+k6% grep death or.txt
+k7% grep dead or.txt
+k8% grep died or.txt
+k87 grep -h " strang " *.txt > zz
+k9% grep dying or.txt
+life texts/* | wc 5982 78082 571336 $ grep lifeless texts/* | wc 18 174 
+line, so it was a matter of cycling through. Each time, grep -v places a
+lines in a file. I knew that grep -v could take a file and erase _one_
+ls -la .snapshot/hourly.* | grep ln >> zz; cat zz
+lynx zz.htm ./mod chmod 777 mod ./mod grep kukai > yy grep kukai zz > yy
+lynx zz.htm grep Buddha zz.htm > zz wc zz grep Sondheim zz > yy wc yy grep
+mm >> zz grep hurt mm >> zz grep eyes mm grep hurt mm grep hands mm grep
+mm grep terr mm > zz grep hurt mm >> zz grep nobody mm >> zz grep
+mm:    4  grep spherical * > /root/zz
+mm:    9  grep -h spherical * > /root/zz
+mm:   13  grep -h tumescent >> /root/zz
+mm:   14  grep -h tumescent * >> /root/zz
+moonnoor. !OOoo cloombood wooth thoo. 38 h 39 grep -v oo yy > zz 40 wc zz 
+mv lb /root/ cd ls pine ls less lb grep azure lb grep azure lb > zz grep
+netstat -an | grep SYN_SENT
+neurotic texts/* | wc 172 1883 14888 $ grep neurosis texts/* | wc 101 1076 
+noisy; I think of the murmur of the world, the background 23 grep sound
+oo yy > zz 193 pico zz 194 sort zz > yy 195 pico yy 196 grep oo yy > zz
+operation irclog.ex grep depress irclog.ex grep sad irclog.ex
+p. 65. Expressions are used with commands such as tr, grep, sed, awk, and
+pa.txt >> zz grep Womans pa.txt >> zz sed 's/womans/men/g' zz > yy sed 
+pico  zzzz  history  grep   h  defuge      web*  zzzz  [nte] defuge   and 
+pico yy 158 grep oo yy > zz 159 pico zz 160 sort zz > yy 161 pico yy 162
+pico zz 173 sort zz > yy 174 pico yy 175 grep oo yy > zz 176 pico zz 177
+pico zz 19 grep -v "[" zz > yy 20 grep -v \[ > yy 21 grep -v "\[" > yy 22 
+pico zz grep defuge zz > yy sed 's/^ //g' zz > yy sed 's/[-]/ /g' yy > zz
+pico zz rm z mv zz yy less yy grep ikuko kz > zz pico zz sed 's/^ //g' zz
+pico zz rm zz; grep skin lb >> zz; grep bone lb >> zz; grep mind lb >> zz;
+ping host 127 ping 127.0.0.0 128 ls 129 grep phenomenological * > z 130 wc
+possessed by the world - grep reducing the size of the file and the
+prompt, grep -v ^$ foo > bar, and that would do it.
+query="egypt" grep
+randomly repeated acts of transformation; in fact, grep won't do at all,
+secret message embedded in grepped text file
+sed 's/ / /g' yy > zz sed 's/ / /g' zz > yy sed 's/[<>//]//g' yy > zz grep
+sed, buried	grep, buried	awk, buried
+sed, grep, awk) creates negotiations among text, body, framework -
+sex * > oo & 16 grep nikuko has the remote: she dances i rimming the 
+sexy grep 7 zz >> mm eyes grep 8
+skin lb >> zz grep bone lb >> zz grep mind lb >> zz grep thing lb >> zz
+small rhymed grep poem
+sometimes i will rake my older texts with grep looking for lines
+sondheim  pts/7   user-387hjcn.cable.mindspr  1:10PM     0 grep sondheim 
+sondheim p9 sondheim.dialup.  7:47PM     0 grep sondheim 
+sondheim q2 0-1pool108-105.n 12:26AM     0 grep so 
+sondheim ttyq1    12:26pm     1      5         grep Nikuko
+sondheim ttyq3     6:35am           15         grep jennifer 
+sondheim ttyq3     6:35am           16         grep julu 
+sondheim ttyq3     6:35am           17         grep alan 
+sondheim ttyq3     6:35am           17         grep nikuko 
+sondheim ttyq3     6:35am           17         grep sondheim 
+sondheim ttyq3     6:35am           18         grep ar 
+sondheim ttyq3     6:35am           19         grep ra 
+sondheim ttyq3     6:35am           23         grep in 
+sondheim zz > yy grep Sondheim zz >> yy wc yy pico yy ls +ennin" > zz wc
+sonnet grep oh oh
+sort zz > yy 145 pico yy 146 grep oo yy > zz 147 pico zz 148 sort zz > yy
+sort zz > yy 178 pico yy 179 grep oo yy > zz 180 pico zz 181 h 182 sort zz
+sound 24 grep sound sound > zz 25 grep hear hear >> zz 26 grep hear sound
+sound >> zz 31 grep murmur sound >> zz
+space. The following are grepped from the majority of the Internet Text, 
+split, csplit, mv, cp, ls, grep, sed, awk, egrep, gawk, cat, tac, a 
+stentor ideogrammar - grep - deerflies - emergences - everglades - peer- 
+stiffereith mathematical function searchglobal crisis n byzantium. agrep 
+substitutions, formations using awk, grep, sed, tr, etc.
+summarized knowledge and knowledge-owners, "1 m 2 grep smell lu > jj 3
+tarnid tuwerds cuul pegis end grephocs
+terpreted to grep -v etc., and that this interpretation would act as a
+terr mm > zz grep these mm >> zz grep nobody mm >> zz prof!
+texts culled from my everything; my commanding, perhaps grep -h cull 
+texts/* | wc 103 978 7333 $ grep insane texts/* | wc 68 591 4615 $ grep 
+texts/* | wc 399 4446 31585 $ grep guilt texts/* | wc 164 1641 12068 $ 
+texts/* | wc 893 10413 74362 $ grep dead texts/* | wc 2402 27166 196084 $ 
+the mess of reinsertion grep: spam: No such file
+the one dealing with mutilation - I did a series of "greps" on my entire
+there is no ROUSSEAU in ROUSSEAU; ROUSSEAU grapples and greps ROUSSEAU,
+ting decathecting nano manifes hema er hir grep app isp bookshops ava ions
+tr, sed, grep, fold, cut, awk, cp, rev, sort, sort -k a.b
+use is 'grep -h X *.txt' which produces a file without giving the file 
+using conjunctions, but became lazy - I'm not sure that grep -v can work
+washed-out infinity space despair spring-time is\ hempe\ n\ grep a/char >> 
+wc 1010 11013 82747 $ grep crazy texts/* | wc 202 2126 15583 $ grep sane 
+wc 503 5271 42902 $ grep depress texts/* | wc 738 7518 61422 $ grep 
+wc yy 23 grep -v 22 zz > yy 24 grep -v 13 yy > zz 25 grep -v 7 zz > yy 26 
+wc zz mv zz zz.htm; lynx zz.htm grep Buddha zz.htm > zz wc zz grep
+work, modified by repeated unix grep < > commands, then re-worked, re-en-
+works use, for the most part, the grep or grep -v (inverse grep) command 
+you tack on grep and sed and awk, 
+yy 188 grep oo yy > zz 189 pico zz 190 sort zz > yy 191 pico yy 192 grep
+yy 207 pico yy 208 grep yy > zz 209 grep oo yy > zz 210 pico zz 211 sort
+yy pico yy grep -v Stephen yy > zz wc zz pico zz grep Alan zz > yy grep
+z 131 pico z 132 rm z 133 man grep 134 grep -h phenomenological * > z 135
+zz 11 grep Jennifer lg >> zz 17 grep foreclose lg >> zz 19 grep .conceal
+zz 167 pico zz 168 h 169 sort zz > yy 170 pico yy 171 grep oo yy > zz 172
+zz > mm terror grep 4 zz >> mm hurt grep 5 zz >> mm these grep 6 zz >> mm
+zz > yy 212 pico yy 213 grep oo yy > zz 214 grep oo yy > zz 215 pico zz
+zz > zz wc zz r zz rm zz ls b p ls rm *.gmp rm *.rmp rm *.rpm grep film
+zz grep Alan zz > yy grep alan zz >> yy grep Sondheim zz >> yy grep
+zz grep sexy mm >> zz grep eyes mm >> zz grep terror mm > zz grep hurt mm
+zz grep womans pa.txt >> zz grep Woman pa.txt >> zz grep Womans pa.txt >> 
+zz wc zz grep sondheim zz > yy grep Sondheim zz >> yy wc yy pico yy ls
+zz wc zz r zz rm zz ls b p ls rm *.gmp rm *.rmp rm *.rpm grep film
+{k:14} cat passwd | grep nikuko
+{k:3} w | grep Nikuko
+|   |               |   egrep.exe
+|   |               |   |   |   grep.py
+|   |       |   egrep.exe
+|   |       |   |   |   grep.py
+~/zz grep earth economics grep world economics grep anx economics grep

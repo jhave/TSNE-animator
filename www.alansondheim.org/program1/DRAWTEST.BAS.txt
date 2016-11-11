@@ -1,0 +1,23 @@
+DEFDBL M, X
+now: CLS 0: SCREEN 0: x = 0: q = 0
+        INPUT "For invisible lines, enter 0 else 1"; j: PRINT " "
+        PRINT "To reset program, hit key r, p for printer output"
+        PRINT "": INPUT "for on-screen constants, enter 1"; o: PRINT " "
+INPUT "color 0 or 1, magnification"; t, z: PRINT " "
+INPUT "series exponent, usually 2"; k: PRINT " "
+INPUT "for mod divisor increment (usu. 2)"; inc: PRINT " "
+INPUT "for bias, -90 degrees for inc = 2, usu 360/1nc"; bias: PRINT " "
+CLS 0: SCREEN 1: COLOR 0, t: WINDOW (-160, 200)-(160, -200)
+ten: a = -1: x = x + 1: mem = x + x * x
+                IF o = 1 THEN VIEW PRINT 1 TO 1: PRINT x; mem;
+two: a = a + 1
+        IF INKEY$ = "r" THEN GOTO now
+IF INKEY$ = "p" THEN LPRINT "x"; x; "mem"; mem; "mag"; z; "bias"; bias; "exp"; k; "inc"; inc: LPRINT " ": INPUT "to continue press return"; ret
+                IF mem MOD k ^ a = 0 THEN GOTO two
+n = a MOD inc
+v = 360 / inc: IF a MOD 2 = 0 THEN col = j ELSE col = 2
+q = (q + n * v + bias) MOD 360
+move$ = "TA" + STR$(q) + "U" + STR$(z) + "C" + STR$(col)
+DRAW move$
+GOTO ten
+

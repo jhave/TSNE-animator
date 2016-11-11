@@ -1,0 +1,71 @@
+ REM Written by Luis E Figueredo
+REM PROGRAM: NUMBER
+'Calculates the Square, Cube, Sq. Root, Cu. Root
+
+'*************************** PROGRAM MAINLINE *******************************
+CLS
+GOSUB InitializeImages
+GOSUB InputData
+GOSUB PrintHeadings
+GOSUB ProcessDetail
+END
+
+'************************** INITIALIZE IMAGES *******************************
+
+InitializeImages:
+     LET t$ = "TABLE OF CALCULATIONS"
+     LET H1$ = "NUMBER     SQUARE        CUBE     SQ. ROOT    CU. ROOT"
+     LET D$ = "###        #####      ########  ####.##     ####.##"
+     RETURN
+
+'**************************** PRINT HEADINGS ********************************
+
+PrintHeadings:
+     PRINT
+     PRINT SPC((80 - LEN(t$)) / 2); t$
+     PRINT SPC((80 - LEN(t$)) / 2); STRING$(LEN(t$), "=")
+     PRINT
+     PRINT SPC((80 - LEN(H1$)) / 2); H1$
+     PRINT
+RETURN
+
+'**************************** PROCESS DETAIL ********************************
+
+ProcessDetail:
+count = 1
+
+     DO UNTIL count = 11
+        GOSUB CalculateFigures
+        GOSUB PrintOutput
+        num = num + 10
+        count = count + 1
+     LOOP
+RETURN
+
+'****************************** INPUT DATA **********************************
+
+InputData:
+     INPUT "Enter A NUMBER: ", num
+     
+RETURN
+
+'**************************** CALCULATE FIGURES *****************************
+
+CalculateFigures:
+
+SQUARE = num ^ 2
+CUBE = num ^ 3
+SQROOT = SQR(num)
+CUBROOT = num ^ (1 / 3)
+RETURN
+
+'****************************** PRINT OUTPUT ********************************
+
+PrintOutput:
+     PRINT USING D$; SPC((80 - LEN(H1$)) / 2); num; SQUARE; CUBE; SQROOT; CUBROOT
+RETURN
+
+
+
+
+

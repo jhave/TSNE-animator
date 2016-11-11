@@ -1,0 +1,2349 @@
+2.82
+
+
+__________________________________________________________________________
+
+
+     Sun
+
+      .                                  .
+ 
+                                       Earth
+
+
+  This is a recurrent image for me: a _period_ representing the sun, and
+  the distance to the earth calculated by the rough angle subtended; I
+  think here the distance is somewhat correct; the earth of course would
+  be a mere speck, dustmote at the distance. So it goes in this universe
+  of tiny ascii; with closed eyes, flares cross the space, radiation from
+  the corona breathes and diffuses; the earth's shadow turns a thin nee-
+  dle to the right.
+
+
+__________________________________________________________________________
+ 
+
+Cable Life
+
+
+Having checked the addresses-com ports-IRQs-internal/external modem con-
+figurations, it turned out as expected to be a hardware problem, a cable
+running to the serial port from the motherboard. The cable's been rewired
+by the upgraders, and everything runs; somehow in the process I seem to
+have inherited a second internal modem, neither of which are installed.
+
+Analog synthesizers such as the MOOG, at least before the ARP, used ex-
+ternal cable connects, plug-ins with phone jacks eventually covering the
+board. Later, a matrix board was used; this carries over to video image-
+processing, with the Experimental Television Center using a 50x50 matrix
+to interconnect components in any order. The wiring necessary for the
+board is probably over a mile in length, running everywhere beneath the
+independent components.
+
+Synthesizers switched to internal connections, with a certain loss - it's
+no longer possible to send a signal in between any two devices; instead,
+you've got to use the standardized inputs and outputs. MIDI made sure of
+standardization, as did TCP/IP, and so forth and so on. Sometimes there's
+a bit of sloppiness, such as the ability to download with cat and vi in
+Unix, anything that spills text on the screen.
+
+I imagine a hugely multiplexed cable with input and output addresses for
+everything except perhaps power, a single connect using fiberoptics and
+huge bandwidths. This travels among thousands of happy components, each
+time-sharing at impossibly high speeds. There's no reason for this of
+course except the aesthetics of a light-pipe in action...
+
+Meanwhile, as the drive towards interconnectivity hits _this_ machine in
+macroscopic and inordinately complex fashion, my sexual drive begins to
+disappear; instead of remaining at the node, I have dream to travel, the
+body battered into bytes and bits along local highways, buses, out through
+modem murmurs into pure vacuum, virtual particles. The body stains, spins,
+resides, memory self-exhausting.
+
+In fact, think of body as memory-container, spilling its contents (into
+memetic pools if you like); now, it begins to shuffle, speed up, thrust,
+_intend,_ hurl the purity of lightspeed approach (time down, space up!),
+digital bandwidth on the increase, bytes and bits into curves smoothed to
+any degree. Oh, I'm sorry, apparently I'm reconstituted here for you, but
+I'm on my way, moving on, and I'm on my way and I'm sorry I'm on my way.
+
+
+    My Body Is My Station On The Vast Highway Of All Living Things
+
+
+________________________________________________________________________
+
+
+
+(This is an updated version of a list of characteristics of postmodernism
+that I used in a number of courses taught from around 1983-92. It consists
+of a check list of processes and a brief addendum.) 
+
+------------------------------------------------------------------------
+
+
+Postmodern Checklist
+
+
+From modernity to postmodernity, the following processes occur, primarily
+within post-industrial societies: 
+
+
+Transformation of society from industrial to service to information econ-
+omy.
+
+Transformation from analog to digital processing technologies.
+
+Transformation from knowledge to knowledge management, and from knowledge
+management to the articulation of fragmentary flows of information.
+
+Exponential growth of knowledge and emergence of the knowledge industry. 
+
+Increased ad hoc attitudes towards labor, coupled with vocational disin-
+vestment (i.e. flexiwork).
+
+Transformation from late capitalism to ad hoc transnational managerial
+capitalism and bricolage entrepreneurialism in post-industrial nations.
+
+Weakening of the nation state and growth of bricolage governance (local
+mafias).
+
+Replacement of essentialisms by constructivisms, combined with the hard-
+ening of essentialist positions as a rearguard action (i.e. backlash to
+the woman's movement).
+
+Breakdown of materialist/idealist distinctions.
+
+Increasingly reified ethnicities, political consciousness and symbolic
+capital stressing 'traditional' geographic boundaries (homelands), at
+times coupled with anti-development attitudes.
+
+Increased breakdown and reification of traditional models of public and
+private (personal) relationships (sexual, civic, social, institutional).
+
+Proliferation of entertainment forms tending towards technological ef-
+fect (representations, media, programming) and distribution channels re-
+sulting in the breakdown of network hegemonies (Internet diffused gov-
+ernance for example).
+
+Proliferation of information flows into the private spaces such as the
+home, the body, etc. 
+
+Semiotic transformations from inscriptive (hardened, maintained, stable)
+processes to fissuring (weakened, stuttering, pre-oedipal/symbolic, de-
+stabilized) and fissuring regimes.
+
+Likewise from classical matter (stabilized signifier/sememe demarcations)
+to non-classical matter (problematic signifiers, significations).
+
+Increased leakage of the signifier (excesses, supplement).
+
+Increasing jostling of signifying regimes within information flows.
+
+Increased incommensurabilities, including languages, teleologies, and
+scripts.
+
+Problematizing of space-time and stable categorizations.
+
+Development of mathematics of non-classical spaces (monster curves, frac-
+tals, catastrophe theory, chaos theory, eccentric or abject spaces). 
+
+Mathematico-physical inclusion of disorder.
+
+Development of "intermaths" (massive parallel processes (Bailey)), with a
+tendency towards discrete, computational, digital, mathematical develop-
+ment (four-color theorem, reliance on the computer, artificial life).
+
+Endocolonization everywhere, coupled with the manufacturing of romanti-
+cisms (not only among minority ethnicities but also among the left - i.e.
+the "radical" effect of Wired magazine).
+
+Increased gaps between richer and poorer, in terms of both economic and
+cultural/informational capital.
+
+Emergence of subcultural-noise cultural phenomena, simultaneously using
+micro-technologies (pirate radio) and abjuring technology altogether.
+
+Ecological destabilizations and managerial or fundamentalist responses.
+
+Intensification of apocalyptic and survivalist subcultures.
+
+Increasing rhetorical/idiolectical emissions and distorted communica-
+tions.
+
+Increased problematic or property in general (including the technology of
+reproduction, birthing; intellectual property; farmlands).
+
+Increased development of _discursive fields_ and their receptors, and
+their interpenetrations (hypertext, punk rock).
+
+Simultaneously totalization of universal (computational) languages and
+functional idiolectical autonomies, the commodification of idiolects
+(rants, serial murders, dualities).
+
+A = A (Shelling's identity, totality) replaced by 0 = {X: x not-= x} (the
+null set as equivalent to the set of those x not equal to themselves -
+displacement and slippage).
+
+Semiotic emissions of symbols which appear sourceless and undirected
+(Disneyland effect).
+
+Stabilized "rigid" objects replaced by part-objects, incompletions,
+fragments.
+
+Transformation from cultural hegemonies taken for granted (with their
+associated margins) to competitive multiculturalisms within hegemonic
+regimes.
+
+Advent of microelectronics expanding the tacit environment of the body,
+tending towards full (seamless) virtual realities.
+
+Seamless virtual realities as the current _horizon_ of the technological
+subject.
+
+Destabilization of world economies coupled with exponential population
+growth.
+
+Increased reduction of DNA variability, increased toxicity of the planet. 
+
+Massive plant and animal extinctions.
+
+Deep pollution of local and usually urban environments.
+
+Increased "natural" catastrophies as the result of human interference
+(Mississippi flooding). 
+
+Proliferation of shack cities (favellas, colonias) without sewage, water,
+electric, and the growth of world-wide shack cultures.
+
+Emancipation increasingly tied to communication and communicative strat-
+egies - including weapons and weapon technology as media - the void (of
+power, territory, language) becomes integral to the emancipated society
+which is cast adrift.
+
+World-wide growth of the Internet, including dark-net domains.
+
+Tendency towards "technology with a human face" by the development and
+proliferation of increasingly higher-level languages - tendency towards
+cyborg-regimes.
+
+Elimination of _master narratives,_ replaced by situational micro-narra-
+tives (Lyotard).
+
+Backlashing through an insistence on non-transcendentalist ethics among
+tight subgroups (survivalists, fundamentalists) coupled with a freezing of
+inscriptions (reliance on biblical word).
+
+Confluence of genders, transgressive sexualities operating within an
+_engendered field._
+
+Increased problematizing of gender within queer/theory/feminist debates.
+
+Institutionalized transgressions, abjections.
+
+However, circumscribed abjections and alienations replaced by irreducible
+abjections.
+
+Traditional rites and rituals transformed into simulacra, combined with
+the exhaustion of tradition (interior horizons of tradition, and _tradi-
+tion_ replaced by _traditions_).
+
+Growth of technological vulnerabilities and parasitologies (manufacture of
+illegal domain names on the Net, hacking, cracking, pirate radio and
+television, phone phreaking, etc.).
+
+Art replaced by techne, and an exhaustion of traditional artistic/cultural
+notions of progress and development.
+
+Questioning of historic, geographic, anthropological methodologies and the
+emergence of self-reflexive discourses (Mike Davis, Michael Taussig).
+
+Increased serialities (manufactured "inauthentic" relations beneath and
+within the sign of capital).
+
+Increased cultural tourisms, relativisms, equivalences, beneath and within
+the same.
+
+Increased splitting of academic fields, discourses, languages.
+
+Commercialization of the university, alliance of business and education -
+i.e. _the business of education,_ _education of business._
+
+The simulacra of desire's liberation and the potential of infinite choice.
+
+Replacement of the spectacle by the simulacrum (no longer strings to pull)
+(Baudrillard).
+
+Replacement of the body by the cyborg-body, of the symbolic by the imag-
+inary masquerading as the symbolic, of the real by the symbolic.
+
+Replacement of the televised real by the symbolic-real, the real-symbolic
+by the real.
+
+The perception of life as the _condition_ of the real (Mars-life, diffu-
+sionist theories).
+
+--------------------
+
+A split among _postmodernisms_ themselves into _apartment postmodernism_
+characterized by wealth, personal telecom terminals, and a mobile urban-
+ism; and a _postmodern poor_ characterized by nomadicisms, urban inten-
+sifications, information economies (de Soto), available tech/telecom
+strategies, and_electric media_ (loudspeaker, telephone, telegraph).
+
+The development of _postmodern geographies_ which include nomadic and
+telecom geographies (electromagnetic spectrum for example), body/gender
+territories, and noise culture domains.
+
+The development of telecommunications as a _third space_ beyond the
+_second space_ of time and the _first space_ of traditional geographies.
+
+Appearance of the _postmodern body,_ part-object, cyborgian, simulacra
+appearing as _transgressive logics_ across and within its surfaces, the
+new frontier corrupted by violent social/environmental decay (appearance
+of immune deficiency and other diseases, increased medical technologies,
+disappearance of the dead (Gulf "War," etc.).
+
+Entrepreneurship within the digital realm, realm of the body - the sub-
+tending of the real.
+
+-------------------------------------------------------------------------
+
+The postmodern remains unnamed; what drives it, its drives, are unnamed.
+Names reproduce within the modern; their semantics are Kripkian, held in
+place as rigid designators true in all possible worlds (counterfactuals).
+In the postmodern, rigidity is problematic, deconstructed; worlds them-
+selves are fuzzy, interwoven, partial. Communication at the speed of light
+(Virilio) brings time to a standstill.
+
+(Postmodern poor: Postmodernism occurs within a critical space, a space of
+the catastrophic, emptied of symbolic legitimation and stability. Because
+of capital flow, emigration, and struggles for individual survival and
+autonomy, the space begins to "fill up," creating a cacophony of (infor-
+mal) regimes competing for cultural and economic power, gaslines, water,
+labor, prostitutions, and so forth. The resulting struggle produces com-
+peting domains in which the symbolic itself is at stake; nothing, not even
+communication, can be taken for granted. The zone is a chaotic accumula-
+tion of intensities, condensed matter and languages, a dead or deligimi-
+ized zone. The planet itself is becoming an accumulation of such zones.
+
+Poor postmodernism is life which skips modernism, and heavy industry,
+jumping when possible to radio, television, Internet - just a short dis-
+tance from the maquiladora poisoning the environment - the early post-
+industrial revolution of electronic assembly plants, tourisms, and small
+manufacturing. (But here too is a myth (and where is "here"?);  unemploy-
+ment also grows, scarcity and desertification increase; but here, too,
+a telenovella...))
+
+
+--------------------------------------------------------------------------
+
+
+
+Voyeur ii
+
+
+Two small eyes for this voyeur; first I was able to enter an adult
+reflector site (NO LURKERS HERE!) with a slightly misconfigured quick-
+cam; nothing sent, everything come in. A woman masturbated on a bed. A
+male masturbated and another male masturbated. The two men revealed
+their cocks and nothing more; the woman twisted and turned, exposed
+herself, fingers and dildo. The woman described a universe of affect;
+the men centered themselves on their axis. Later I did return to the
+primal scene, set my camera up on myself, chest down (emptied of all
+facial content, which I nontheless returned to periodically; I couldn't
+keep my self out of the picture). Wearing underwear of various sorts, I
+touched myself seductively - no replies. I typed is anyone there? No
+replies. I figured there was no transmission going on. I went to chat
+and asked; no replies. Everyone was intent on a woman X revealing her
+breasts. I went back to type on the image "I am so alone" "am I here
+for you?" "do you see my image"? No replies; I figured no one could see
+anything, but there was an edge to it. I was naked at this point,
+aroused by the contents emptying themselves on the screen, which were
+not facial, but everywhere. I masturbated, narcissistic to the end, my
+quickcam image echoing my body back to me in the midst of the relative-
+ly anonymous others.
+
+I walked away, dressed, returned to a more public Norwegian site, went
+through the same motions. Again I asked if my image were visible; in
+chat, I received several answers, yes; I confirmed this by running up
+my transmission rate until the reflector told me to cool it. So I was
+visible after all at the first site, fully exposed; everyone was quiet
+about it - the masturbators in the group, the woman included, going on
+with the production of the representation of the simulacrum of display,
+but in fact it was display for all that and real for all that and sim-
+ultaneously overwhelming (exposure before strangers! tickets! the win-
+dow goes up!) and fully prosaic...
+
+ii ii
+
+The men had the camera fixed on their cock, a singular position. The woman
+moved the camera; twice an arm appeared, indicating the presence of some-
+one else in the room. The woman developed a narrative of exploration; by
+the time I left the site the first time, she had the camera in close on
+her shaved cunt, which she opened, almost like an Annie Sprinkle perfor-
+mance. It was powerful and beautiful.
+
+The presence of a presumed partner, in the midst of what was most likely a
+heterosexual emission through the Net, is similar to the scene established
+in numerous swinger magazine advertisements - a female, accompanied by her
+male partner, fucking men and women, while the male watches. The tension,
+control, and split of power - as well as the subversion of jealousies and
+abjections - is intense. There is a hunger here, the subversion of homo-
+sexualities detoured (a la Irigaray); the opening of a "safe" and contrac-
+ted haven for pushing the body to its erotic edge; and the release of (La-
+canian) masquerade and (Reichian) everything else as the symbolic (cont-
+ract, division) transforms into the imaginary, and the flesh is carried
+further into the (Lacanian) real. 
+
+I know _I would have done anything_ had I been asked, exposed myself com-
+pletely to male or female (in fact, I had done that unknowingly, but none-
+theless filled with desire); I would not, however, have given out my ad-
+dress or other information - this was too present for presence. I did at-
+tempt to locate one of the participants (domain names are given) and with
+that, I had, if I had wanted, already a beginning, almost a location, a
+real name (I was "empty" on the site), almost something beyond the slip-
+page of the signifier into the grain of the screen/quickcam.
+
+The images of all the participants needed constant tending; because of the
+nature of CuSeeMe transmission, the woman's body constantly fractured into
+sheaves. The male bodies were more stationary, stilled, as if it were
+enough for the cock to be raised, periscopic, checking out the terrain.
+There was pathos all around, but the _hunt_ for the image, occasional tun-
+ing and retuning, the periodic slow typing in chat or at the bottom of the
+miniature screen, only increased the body turned towards its improbably
+destiny; it became a form of gambling - even sight was involved, decoding
+the planes, returning the woman's body to itself, tuning one's own to the
+screen.
+
+This is far preferable to teledildonics; this is in the realm of the lurid
+(which I have described in terms of the nightclub, the torn, the abject,
+the half-illuminated), and the lure. The object which is just beyond the
+screen is between your legs; the gift offered by the male or female is
+matched by your own; and display itself is cathartic. It's as if control
+of control were acceded, as if the body shimmered across issues of con-
+tractual domination, into a realm where light coupled with pixels, where
+revelation itself was dirtied by poor resolution, and was such a relief!
+
+
+_________________________________________________________________________
+
+
+Voyeur iii Bad Theory 
+
+
+What is the _scopic drive_? I suspect this is hard-wired in, open to ear-
+ly imprinting, perhaps more male-oriented (the jury's still out). Is it a
+form of objectification, or does it sexualize the real through fetishiza-
+tion? The real bends towards the voyeur; s/he perceives obstacles, barri-
+ers, the lure/lurid beyond them. The real is always already an unveiling.
+
+*A: Q your setup needs to be 15 send and 28 recv...not 80 and 300 the
+way it is now
+*A: Getting 60% lost packets that way
+*B: A...it's an empty room anyway!
+*C: true, Q..please adjust your settings, okay/
+
+Q is a woman. I tune to Q, see nothing; she's gone, on and off. My memory
+returns to OP of last night, obviously regulars. 
+
+*D: F I see you have things well in hand again!
+*F: well.............
+
+The phallic image holds fast but I exaggerate; there are all sorts of
+males on all sorts of channels, often with the chest showing - either
+chest or full genitals. I find my sweater makes pretty patterns on the
+screen and either no one cares or I'm not transmitting. 
+
+*A: Who can tell...80/300 is not going to send right anyway
+*A: Sure is
+*D: there goes Q Poof!
+*G: Q Hi
+*D: okay you're back huh!!! yeaah!
+*H: hello all....
+*MN: Q
+*D: Poof!!!
+
+Q goes back and forth, the image appearing and disappearing; I think of
+the instability of the imaginary, the uncanny, ghosts always appearing on
+the periphery.
+
+*G: boring!!!!!!
+*G: it's a bad day
+*F: yeah
+*C: yeah...surf time...see ya all
+
+Nothing much is happening on the channel. Everything is quiet; there are
+long pauses between lines on the chat. 
+
+*J: We need a little OQ!
+*F: they were here earlier
+*D: she already been here before
+*D: poor show they gave
+*F: there vid sucked
+*Y: bummer
+*Z: Hi all!  Who are we talking about?
+*D: can't anyone bring his lovely wife over?
+
+I gather OQ are popular on the channel; they give a show, construct a
+narrative. Last night, O alone was visible and I have written about this. 
+And I think it's genetic and the imprinting grabs hold of one really
+hard, and it's not the primal scene but the scopic scene, the way vision
+grabs you, and the imprinting is in dialog with features which make bab-
+ies smile and drives towards reproduction/sexuality are the visual/aural
+drives, and why wife? And where is over?
+
+*Alan: I don't know what I'm talking about. I'm already making moves
+here, building the narrative which is always a lure, lurid, torn - you're
+peering into a world, filling out the corners with people, bodies, de-
+sires, everyone wants to know more. In a Dallas swinger's magazine, a
+woman drank the piss of six men from champagne glasses accompanied by her
+husband; she looked abject and ecstatic. I sit at the computer and my
+pants are on my pants. 
+
+Scopic drive: The last thing we have to get rid of is the _story._
+
+(I'm struggling towards something that's too internalized, detouring the-
+ory, desiring the neurophysiological and its current mythologies. For
+example, here's Fenichel (The Psychoanalytical Theory of Neurosis), root-
+ing back towards childhood, but detouring the physiological: 
+
+"In the unconscious of voyeurs, the same tendencies are found as in ex-
+hibitionists. The childhood experiences on which voyeurs are fixated
+sometimes are scenes that gave reassurance - for example, such scenes as
+the incident in the case of Freud's foot fetishist. More frequently, voy-
+eurs are fixated on experiences that aroused their castration anxiety,
+either primal scenes or the sight of adult genitals. The patient attempts
+to deny the justification of his fright by repeating the frightening
+scenes with certain alterations; this type of voyeurism is based on the
+hunger for screen experiences, that is, for experiences sufficiently like
+the original to be substituted for it, but differing in the essential
+point and thereby giving reassurance that there is no danger. This tend-
+ency may be condensed with a tendency to repeat a traumatic scene for the
+purpose of achieving a belated mastery." 
+
+The screen metaphor is apt of course, as are the "primal scenes" if they
+can be untangled from _parents._ The hunger is there, but not, I believe,
+for the suturing of trauma. The detour is developed: 
+
+"The fact that no sight can actually bring about the reassurance for
+which the patients are striving has several consequences for the struc-
+ture of voyeurs: they either develop an attitude of insatiability - they
+have to look again and again, and to see more and more, with an ever
+increasing intensity - or they displace their interest from the genitals
+either to forepleasure activities and pregenitality or generally to
+scenes that may serve better as reassurances than does actual genital
+observation." 
+
+Finally,
+
+"The longing to substitute looking for acting makes persons who are in
+conflict about whether or not to follow some impulse long for someone
+else to perform the act. The release from responsibility which they ach-
+ieve in this way explains the effectiveness of the 'seducing example.'"
+
+Note that Fenichel's description itself waves, becomes unstable, covering
+itself, suturing the theory; what escapes are the _biology_ of the
+drives, the genetic components. Is narrative genetic? I think so, in the
+sense of foreclosure, completion - not that animals in general have a
+sense of plot, but that there are behavioral trajectories that begin the
+climb to story. Story as superstructure tangles with superstructural de-
+sire; everything escapes, including the signifier. We now return to the
+program.) 
+
+
+___________________________________________________________________________
+
+From sondheim@panix.com Thu Oct  3 12:25:48 1996
+Date: Thu, 3 Oct 1996 12:24:11 -0400 (EDT)
+From: your place or mine <sondheim@panix.com>
+To: Cyb <cybermind@LISTSERV.AOL.COM>, Fop <FOP-L@vm.cc.purdue.edu>
+Subject: your place or mine
+
+your place or mine
+
+___________________________________________________________________________
+
+
+  nothing [ to exclaim ]
+
+  much sadness although ( a
+  voyeur in memory of screen - neither
+  white knees press outside into pants, nor 
+  arms move window knuckle rap-glass; nevertheless
+  eye in shaved pussy / cock in knees... however
+  shivered floorflesh pants in pants since
+  my breath goes down your legs rap glass? ) but
+  my breath goes up your legs nonetheless,...
+  there's no other point to the real and
+  Net sex sounds like everything else: either
+  like a poem about it or a story.
+  
+
+________________________________________________________________________
+
+
+Voyeur-Machine
+
+
+Hordes 
+Groups of waiting males, nothing is happening here. Someone sleepily
+caresses his penis; no one says anything. Eyes half-closed, talk about
+ref surfing (reflector surfing, moving across CuSeeMe), languor. It's
+clear that connections are sometimes one-to-one, that private refs sur-
+round me like a halo.
+
+Woman
+Coming into the plain, and everyone goes polite. Someone smokes, someone
+else warns him to put it out, could start a fire. Please won't you let us
+see your breasts. Please what is your URL. Please I will take my _close_
+off. Please you are so beautiful. You can see fire in the distance.
+
+Women 
+Roam across the territory and it's new to them and the men. Everyone
+gauges the distance to their sex; everyone's wary, sitting in a circle.
+Almost-conversations are stillborn, aborted, literally aborted. The sky
+is a sullen grey. 
+
+Scopophilia
+Structures virtual subjectivity, explodes: The very sight of them! The
+slightest appearance of an areola lends itself towards further paste;
+the territory is tried and found wanton. The drive silences and cancels;
+tumescent computer becomes breast, nipple, vagina, penis, frozen, melted
+at the oral stage. It's the mouth which faces, defaces, the screen.
+
+Deer 
+And other animals cross the savannah, leaving spoors, traces, demarca-
+tion. Who will live by the smouldering plains, rain held off in the dis-
+tance, our machines curtaining flesh with flesh, ground to sky. Not so
+much a question as a period in our lives scuttled by charred bones. The
+fires have passed, past.
+
+
+_________________________________________________________________________
+
+
+This is the outline I finally used on the panel on voyeurism at the New
+School. The evening went well. I talked about niches, that any area of
+the Net that has more than one person visibly on at a time, tends to
+develop community and sexualities. I also talked about CuSeeMe, Iphone,
+MOO, MUD, talker, communities - that the Net was an extension of human
+modalities (sensory and otherwise) not a replacement. Even the people who
+were critical were interested in further information; the discussion
+continued after the panel ended.
+
+Anyway, for what it's worth -
+
+1. On the Net most communities use text-based applications.
+
+        In text when you stop speaking, you're no longer present.
+
+        When you are present, you're a construct.
+
+        Writing takes on ontological significance.
+
+        The interaction uses projection/introjection, "hysteric embodi-
+        ment," the displacement of body onto writing a a symptom."
+
+2. Net sex in text-based applications is largely exhibitionism.
+
+        Voyeurism involves the illicit, peering, anonymity, virtuality.
+
+        Exhibitionism occurs in theater areas of MOO.
+
+        Net sex is consensual and overpowering at times: the narrative
+        unfolds the desire of the other.
+
+        Net sex is empowering, leading to realignments of real-life
+        relationships. (Breakup of marriages, marriages, etc. - experi-
+        menting with the body.)
+
+        There are a variety of applications for private or public Net sex
+        including chat lines, IRC (msg, dcc), talkers, etc.
+
+3. CuSeeMe gets closer to voyeurism in the traditional sense.
+
+        What is CuSeeMe? Reflectors. Less talk, situation of waiting.
+
+        Female displays tend towards narrative, conditioned by males -
+        male displays tend towards phallocentricity, the object.
+
+4. Privacy and censorship: The private lines are almost inviolate to all
+   but inveterate hackers.
+
+5. Other voyeurism:
+
+        Hacking into someone's account - worms and viruses (as opposed
+        to SYN attacks, etc. - taxonomy of hacking).
+
+        Being in someone else's account, becoming-other.
+
+6. Inverted voyeurism: Net sex in the middle of a postmodern on-line con-
+        ference, sending out Net sex texts, etc.
+
+7. Contact me afterwards for further information.
+
+--------------------------------------------------------------------------
+
+
+Margaret and Kierkegaard
+
+
+ "Quite strange! In one of my first talks with her when I was most deeply
+shaken and had been stirred to the depths of my being, I told her: that in
+each generation there are a few persons destined to be sacrificed for the
+rest. Most likely she did not understand what I was talking about, perhaps
+I didn't make myself clear (in any case, only about my inward suffering,
+really) least of all did I understand that it would start making her suf-
+fer. But precisely her spontaneous, young happiness in juxtaposition to my
+horrible melancholy, and in such a relationship as ours, compelled me to
+try and understand myself; for I had never before suspected the extent of
+my melancholy; I had had no true yardstick for measuring how happy a human
+being could be. 
+
+"Thus I believed myself sacrificed because I understood that my suffering
+and anguish made me inventive in delving for the Truth which, in turn,
+might benefit others." (Diary)
+
+Of course it was Margaret who left me; the Truth is now the truth under
+erasure; I've never benefited anyone; I have not gone on to write book
+after book, but only drivel into files; and my suffering, if anything,
+produces nothing but a dark horizon beneath which thought and humanity
+suffocate.
+
+This is how literature lies; this is how you tell the truth to yourself.
+This is how you lie.
+
+
+_______________________________________________________________________
+
+
+
+What the Trembling is About (CMC/sexuality/BWO)
+
+
+I dream of everyone, fantasize. Everyone is in my imaginary. The symbolic
+spews out the cloaca. I toss and turn; the images are nightmarish, un-
+bearably pleasant. They are degenerative, dis-eased; the body floods it-
+self in public, my fingers in your holes, we expose ourselves, I devour
+your secretions, we're on stage, you've stained your skirt brown and
+yellow, I'm covered in shit. As soon as one strange attractor exits, ano-
+ther takes its place. They're nameless. No sleeping position, fetal or
+otherwise, springs the body's real back to life. I'm lifeless; I move,
+tremble.
+
+I tremble in the chest area; the images cathect in the eyes, literally
+cathect. I'm aroused, but not towards masturbation - it's towards the
+denigration of the body, for example, the one time I cheated on a wife,
+shaking violently before hand (outside, cold, beer; inside, anal sex),
+the only time. As if the body burned itself alive, jetted out, spewed
+across the tarmac, headed towards the terminal where everyone was burned
+alive. 
+
+Destabilized in house, job, lovelife, the body runs behind the herd,
+catches them unawares. It drowns itself, inverts, nests in shit (they're
+all shit anyhow). Images are as real as the words on this screen. I would
+do anything for you, meaning, at least that hooks into the flesh, buries
+the barb in. Turning solidifies them; what can I do but type.
+
+This isn't the kyber-exhibition/ist; this doesn't splay, display, spread
+apart, suture. This is turmoil, not BWO (body-without-organs), but BWO
+(body-with-organs, organelles), festooned. Trembling, I become St-Antoine
+without the signifier (see Flaubert) at the end; I am drawn towards, as
+someone did say, maybe voyeurism isn't the primal scene but eating. I
+will eat everything your body produces. I will turn into you, turn myself
+out. (But this is the primal scene, just another one, anus coupled to
+mouth, mouth coupled to anus, opening circuitry to peristaltic cycles,
+contractions, expansions. We/me, screen dreams, dream-screen, primal
+imaginary, coupled oscillators. _Resonance._ You could make a model.)
+
+The trembling occurs more intensely around the breasts; I fixate on nip-
+ples, want them smeared. They become writing-tools; drag my body, paral-
+lel lines of shit, blood, smeared across the screen. This is the _scrawl_
+of writing's beginnings, emerged from cloaca/chora/chthonic, the c-shell
+of eunuchs to be. My nipples pulled off, holes gape; I become _pure_
+text, skittering graphic energy, no signifier/signified. You read the
+blood of the body with your fingers. Holes plugged, fingers devoured, cut
+off; holes eat/themselves. 
+
+Not-sleeping I awake; images continue; I move towards the _rails_ of dis-
+course, train-tracks guiding these letters. Cold as ice, _they carry what
+I carry._* (But suppose we glue our flesh together; would it tear at the
+seams, develop scar tissue, heal into a heavy misshapen fibroid mass?
+Would we know we were ever apart? Would we share blood, healthy or dis-
+eased, share desire's discomfort? Suppose we gnawed each other's nipples,
+fastened/fascinated/fetishized _there_ across the blandness of the termi-
+nal chest. Symbiotic trembling, self-cancellations, collapse, atrophy,
+death.) 
+
+My candle burns at both ends; I am your candle. Day in and out I burn; 
+the screen adds fuel to the flames. I am soaked with you, soaked with
+empty air; like a nova shell, I explode, only to find collapsed excre-
+tions matting my hair, eyes, face, mouth, body, over and over again. The
+shell roars, ear-splitting thunderquakes, heaving back and forth. I bury
+my words my hair my eyes my face my body in time. These letters. The let-
+ters I send to you. E/piss/tols. Until tomorrow sings. Shorn desire. 
+_Drawn._**
+
+
+------------------|
+
+
+*It was pointed out repeatedly, on the voyeurism panel, that text has no
+aura, no pointers, no other means of employment than itself - unlike
+spoken language, one person in the presence of another. But in ytalk the
+body is there, if only in the erasures, speed of writing, spelling mis-
+takes, corrected or uncorrected. And on CuSeeMe, there are images, text
+on the images, crude stuttered telephony, chat-line typing as well, peo-
+ple staring, looking isolated; even _husbandnwife_ teams have one or
+another protruding at the keyboard, the other remaining beyond/ behind. 
+What's shared? But my fingers grope through their texts and pictures and
+oh we'd love to see each other's w/holes.
+
+**There's no language _of_ drawing, no language _for_ it.***
+
+***No language for _es,_ no drawing of the _id._***
+
+
+_________________________________________________________________________
+
+
+
+
+Why I love Amy Fisher
+
+
+"Little dabs of blood were everywhere. On my white Formica chair. My
+phone. My carpet. My desk. I called Jane again. Her father answered and
+said she'd left. I took deep breaths and hoped like hell _my_ father
+wouldn't wake up before she got there and helped me get rid of the blood.
+For playing with guns, I thought I would definitely be punished by my
+parents.
+
+"It never occurred to me to worry about the police."
+
+(From Amy Fisher, My Story, by Amy Fisher with Sheila Weller.)
+
+
+"A female informant described the Virgin to Nash as follows: 'Senora, I
+am going to tell you of the Virgin of the mineshaft. She is on top of the
+metal, on top of the gold that is still there in the mineshaft, under the
+church and the _pulperia._ Boiling water passes over this metal, crystal-
+line water that is bubbling and boiling. The Virgin is miraculous. The
+metal is liquid. It comes in very clean, and you can't move it at all. We
+went into the shaft under the _pulperia_ once...How beautiful it [the
+metal] was! It was like raw sugar.'"
+
+(From Michael Taussig, The Devil and Commodity Fetishism in South Ameri-
+ca.) 
+
+
+"Someone else put it this way: 'Amy, you have all the subtlety of a Mack
+truck.'
+
+"Yeah: a Mack truck loaded with lit dynamite, with broken brakes, going
+120 miles an hour toward a brick wall."
+
+(Fisher.)
+
+
+(The screen burns and shatters; my chest is cut. I can't see "what I'm
+doing" - can't see my words; I'm silenced, remembering the proper key /
+strokes to send the message _out._) 
+
+
+__________________________________________________________________________
+
+
+A True Account
+
+
+I went onto IRC to investigate breathing/heaving through textual correc-
+tions and backups. I joined channel #zz as @Alan op. There was no one else
+of course. I began typing when "Helis" (changed the name) replied to me.
+Helis was not on zz, but was somehow monitoring it and messaging me with
+comments. This is precisely the origin of scattering/heaving - the breath-
+ing of the text here, beyond the control of _this_ writing into the domain
+of the _other:_
+
+
+/j zz<P> #zz \|/ PhoEniX v2.25 \|/ *** Alan (sondheim@panix3.panix.com)
+has joined channel #zz*** Users on #zz: @Alan @Alan (+is) #zz \|/ PhoEniX
+v2.25 \|/ I want to Describig ng desire as it implements itself across
+
+ the screen, whatreen, what<Alan> Describing desire as it implements
+itself across the screen, what<P> I8AM @Alan (+is) #zz Lag ? - E/X E/X 'd
+refer to as breathing or heaving - which is an extension of the _text-t
+
+he _text-object_<Alan> I'd refer to as breathing or heaving - an extension
+of the _text-object_<P> into a symptomology, diegesis - thinking through
+the aura that rera that re- sults<Alan> into a symptomology, diegesis -
+thinking through the aura tha
+
+t results<P> [Helis:440@urh.uiuc.edu] why do you think this?or thinking
+9AM @Alan (+is) #zz Lag ? - E/X E/X at cross-purposes - as if: an action,
+i.e.:<Alan> or thinking at cross-purposes - as if: an action, i.e.:<P> /m
+Mel
+
+is why not becua ause this is running in this fashion<-[Helis]-> why not
+because this is running in this fashion<P> /me worrying through the text
+and intrusion of the fourth -* Alan worrying through the text and
+intrusion of the fourth -<P> /whois Helis<
+
+P> *** Whois Information for: Helis*** Address :
+440@isr0419.urh.uiuc.edu*** IRCNAME : NEKKED WOMAN*** Server :
+irc.ilstu.edu ([thor.cmp.ilstu.edu] Illinois State
+University)[Helis:440@urh.uiuc.edu] you are strange40AM @Alan (+is)
+
+#zz Lag ? - E/X 1 - E/X /m Helis i'd think so to be sure -<-[Helis]-> i'd
+think so to be sure -<P> /sc<P> Pub: #zz @Alan taking it further with the
+other coming into the sane<Alan> taking it further with the other comin
+
+g into the sane<P> /me auratic, downtrodden...* Alan auratic,
+downtrodden...<P> /1AM @Alan (+is) #zz Lag ? - E/X l1 - E/X <P> *** Alan
+has left channel #zzAlan (+is)  Lag 1 - E/X
+
+
+_________________________________________________________________________
+
+
+Leaving, See You
+
+
+On See You, See Me, I find myself awkward; my self-hatred results in my
+covering up my window (Quickcam image) with someone else's. I lurk; who
+would want to talk with me? It's too similar to a party; it's much too
+real. After a while, I'll bow out of there, click X on the screen, and
+CuSeeMe crashes to a halt; the party's over.
+
+What's unnerving is the feeling that the whole world has just collapsed.
+It's not like exiting a MOO with @quit, IRC's /quit or /leave or /bye,
+talker's .q, ytalk's ^C. It more like a sudden exhaustion of air; the
+universe has just deflated. 
+
+Now what's unnerving about this is how _real_ the stuttering images,
+sounds, and tentative gropings on the chat-type become. I see Rebecca
+getting ready for class and people saying good-bye to her. Or Don receiv-
+ing a call from someone in Iowa testing out the audio bar.  They're all
+on first-names; I've walked into a late-night bar all-day long.
+
+So what's unnserving here is that these wonderful people all know and love
+each other! They challenge each other! They help each other with personal
+tech support! They're in love! 
+
+Now I've just downloaded the demo of Enhanced CuSeeMe - have any of you
+used this? Which permits 1/1 conferencing, direct dialup if I can ever
+figure it out - and that would be unnerving. So call me up sometime at
+166.84.250.149; chances are we won't connect (any more than usual). But at
+least we won't be strangers, just disconnected. 
+
+
+________________________________________________________________________
+
+
+
+
+		PUSH THE VIRTUAL UNTIL IT BREAKS IN PIECES AND
+
+		 YOU DISCOVER WHAT WAS TRULY REAL IN THIS AND
+
+		             EVERY OTHER WORLD AND
+
+                          WHAT was EVERY OTHER WORLD
+
+                ______________________________________________
+
+
+Some topics I'm thinking about for the Perth conference -
+
+
+Talking about _approach_ which needs to be both intervention and parti-
+cipation, background and foreground. Acknowledging software options,
+built-in issues of governance, filtering, connection bandwidth, user's
+hardware requirements. 
+
+As participant, extending one as far as possible into the virtual realm
+vis-a-vis the application - working on the margins of the application in
+relation to deconstruction on one hand, hacking on the other. Associa-
+ting and disassociating levels (code, protocol, interface, phenomenology
+of user interactions, psychoanalytics of virtuality, etc.).
+
+Collusions of levels, for example traceroute indicating breakdown in oth-
+er realms as well; the possibilities of IRC and its interrupts signaling
+a relationship to the concreteness of the signifier within the textual
+domain, and so forth.
+
+The linguistic dispersion model of the Internet: floating applications,
+languages, communities, modalities. 
+
+---
+
+From the viewpoint of virtual subjectivity, issues of the "ascii uncon-
+scious," the signifier in Flaubert's St-Antoine or Hadamard's work as a
+concretion/coagulation a posteriori. Issues of hysteric embodiment, de-
+fuge, modalities of net sexuality. Making net sex real: increased phys-
+icalities of responses. Abjections, masochisms, empowerment, control.
+
+Life and death and Internet: mourning the impossible object. Leaving the
+"home" application. Address, recognition, protocol: establishment of
+presence. 
+
+Bodies: Virtual, dismembered: dual regimes of fissure and dismemberment.
+Cathecting and decathecting: phenomenology of the _limb_ (new). Phantom
+limbs and limbless phantoms. The occasions of silent presence on CuSeeMe.
+
+Collusions of real, Real, imaginary, uncanny, symbolic: dissolutions of
+form within the realm of form. The construct of seamless virtual reality. 
+Aesthetics in the midst of a newly-born realm (cuneiform antecedents).
+The poverty of technical art, the modernist/postmodernist trajectory.
+
+Geopolitical concerns: governance, Net povera, 300 baud phenomenology,
+recapitulation of hegemonies and divisions of the world. Surface, spec-
+tacle, display, simulacrum, specular: surfing.
+
+Where we are not, where we would not be, where we have not been (where we
+are not ourselves, where we would not be ourselves, where we have not
+been ourselves): The _not_ in cyberspace (deflection, kill, delete):
+shame, embarrassment, abjection. 
+
+The nothing.
+
+
+________________________________________________________________________
+
+
+
+From sondheim@panix.com Wed Oct  9 01:21:00 1996
+Date: Wed, 9 Oct 1996 01:20:11 -0400 (EDT)
+From: alan sondheim <sondheim@panix.com>
+To: Cyb <cybermind@listserv.aol.com>
+Subject: Message from FOP-L
+
+(Hello)
+
+
+
+######  #       #######    #     #####  #######
+#     # #       #         # #   #     # #
+#     # #       #        #   #  #       #
+######  #       #####   #     #  #####  #####
+#       #       #       #######       # #
+#       #       #       #     # #     # #
+#       ####### ####### #     #  #####  #######
+
+ #####  #######    #    #     #
+#     #    #      # #    #   #
+#          #     #   #    # #
+ #####     #    #     #    #
+      #    #    #######    #
+#     #    #    #     #    #
+ #####     #    #     #    #
+
+#     #   ###   ####### #     #
+#  #  #    #       #    #     #
+#  #  #    #       #    #     #
+#  #  #    #       #    #######
+#  #  #    #       #    #     #
+#  #  #    #       #    #     #
+ ## ##    ###      #    #     #
+
+#     #  #####
+#     # #     #
+#     # #
+#     #  #####
+#     #       #
+#     # #     #
+ #####   #####
+
+####### ####### ######  ####### #     # ####### ######
+#       #     # #     # #       #     # #       #     #
+#       #     # #     # #       #     # #       #     #
+#####   #     # ######  #####   #     # #####   ######
+#       #     # #   #   #        #   #  #       #   #
+#       #     # #    #  #         # #   #       #    #
+#       ####### #     # #######    #    ####### #     #
+
+   #    #     # ######
+  # #   ##    # #     #
+ #   #  # #   # #     #
+#     # #  #  # #     #
+####### #   # # #     #
+#     # #    ## #     #
+#     # #     # ######
+
+#     # ####### #     #
+ #   #  #     # #     #
+  # #   #     # #     #
+   #    #     # #     #
+   #    #     # #     #
+   #    #     # #     #
+   #    #######  #####
+
+#     #   ###   #       #
+#  #  #    #    #       #
+#  #  #    #    #       #
+#  #  #    #    #       #
+#  #  #    #    #       #
+#  #  #    #    #       #
+ ## ##    ###   ####### #######
+
+#######   ###   #     # ######
+#          #    ##    # #     #
+#          #    # #   # #     #
+#####      #    #  #  # #     #
+#          #    #   # # #     #
+#          #    #    ## #     #
+#         ###   #     # ######
+
+   #
+  # #
+ #   #
+#     #
+#######
+#     #
+#     #
+
+######  ######    ###   ####### #######
+#     # #     #    #         #  #
+#     # #     #    #        #   #
+######  ######     #       #    #####
+#       #   #      #      #     #
+#       #    #     #     #      #
+#       #     #   ###   ####### #######
+
+
+
+
+_________________________________________________________________________
+
+
+Phantoms, Bots, MOOs, Virtual Subjects, Devils
+
+
+"Of necessity, a commodity-based society produces such phantom objectivi-
+ty, and in so doing it obscures its roots - the relations between people. 
+This amounts to a socially instituted paradox with bewildering manifesta-
+tions, the chief of which is the denial by the society's members of the
+social construction of reality. Another manifestation is the schizoid
+attitude with which the nmembers of such a society necessarily confront
+the phantom objects that have been thus abstracted from social life, an
+attitude that shows itself to be deeply mystical. On the one hand, these
+abstractions are cherished as real objects akin to inert things, whereas
+on the other, they are thought of as animate entities with a life-force of
+their own akin to spirits or gods. Since these 'things' have lost their
+original connection with social life, they appear, paradoxically, both as
+inert and as animate entities. If the test of a first-rate intelligence is
+the ability to hold two opposed ideas at the same time and still retain
+the ability to function, then the modern mind can truly be said to have
+proved itself."
+
+(Michael Taussig, The Devil and Commodity Fetishism in South America.)
+
+
+________________________________________________________________________
+
+
+
+Face:It
+
+
+A Dewar's advertisement in the New York subway, B train from Brooklyn to
+the Waverly/Sixth Avenue Stop: 
+
+"It's not so much the 'Chat Room' as it is the sitting-home-alone-by-
+yourself part that concerns us."
+
+There are six black and white photographs of a man and terminal from
+above; he's bleary, haggard. These alternate down the car with a color
+display (includes the name "Dewar's" flanked by glasses with icecubes)
+and other texts/images.
+
+You shouldn't drink alone.
+
+The ad catches _perfectly_ the very definition of "haggard" here; I've
+seen his face over and over again, on myself, on CuSeeMe males, and even
+the occasional woman. It's the face of waiting, but it's the face of ex-
+haustion. It's the face of trembling, but it's frozen, spasmed. It's lit
+by the screen. It's overwrought, immobilized. It's aged, furrowed, but
+it's ageless. It leers, displays itself, but it's sullen, withdrawn. 
+
+It has nothing. It eats alone, drinks alone, sleeps alone. Its cock
+twists and ruptures. Its eyes are dead. Even the corporate is forewarned,,
+foreclosed, splits at the ad's wound. 
+
+It's the mask of death, but it's the haggard mask. It's the mask of rage,
+but it's the mask of withdrawal. It can hardly see the bottle. It doesn't
+drink. It's _stuff._ It waits, empty. It blocks the phonelines with its
+machine. It pumps the phonelines with waiting. It waits for nothing. It's
+a waste, a loser, drivel, mush, shit. It's cloacal. The face rides the
+frozen subway. Tonight on the way back the train went no longer.
+
+
+__________________________________________________________________________
+
+
+
+
+Kewl Hot and Wired
+
+
+CuSeeMe is the heroin of the Internet. Oh so sweet, milky murky colors
+where color is, slow coursing through the veins, eyes drawn back, soft as
+ever can be, later coldness and the need for sight again. Oh-oh-sight's an
+addiction, impulse, drive of the world, visual or aural, soft candy of the
+world, impossible sweetness. Oh, pay a price for the sweetness of the
+sweet soft world; hide the sugar chocolate wafers, gauge the price of soft
+junkie arms, sweet eyes burned through the bottom of the world's skull. Oh
+beautiful skin and sweet soft eyes everywhere on my world. You make them
+go on, they'll follow you anywhere, sweet soft world and you and your
+world coursing through their veins and always in the background.
+
+
+___________________________________________________________________________
+
+
+
+
+Weatherman to Tell You Which Way the Packet Goes
+
+
+The weatherman monitors the you-are. She ritualizes the health of site
+after site, traceroutes the veins of the world, unites families and home-
+lands, cauterizes lovers, breaks the psyche into two. She follows the
+vagaries of new countries, from megabyte to centibaud and back again. The
+weatherman with her laser pointer anoints the map of nodes and backbone
+penetrations. She is responsible. She is responsible for the _overall
+picture._ She determines the picture. 
+
+She _is_ the picture. The weatherman is overall display, the protrusion of
+the there-is. The weatherman is the there-is-it, the for-there-is. She
+changes nothing. She wears no clothes. She is traced herself. She traces
+her traces and that is who she is. She monitors the you-are. You are glad
+to have her round and around.
+
+
+_________________________________________________________________________
+
+
+
+I remember a conversation that I had in A. thirteen years ago with a young
+French pastor. We were asking ourselves quite simply what we wanted to do
+with our lives. He said he would like to become a saint (and I think it is
+quite likely that he did become one). At the time I was very impressed,
+but I disagreed with him, and said, in effect, that I should like to learn
+to have faith. For a long time I did not realize the depth of the con-
+trast. 
+
+Dietrich Bonhoeffer, 21 July 1944
+
+___________________________________________________________________________
+
+
+To Faith
+
+
+To have found faith; to have founded faith; to have had faith foundered.
+The withdrawal of faith is not faith; it is done to one. I would say that
+this is a concrete act in remission. To have faith is to found faith; even
+broken on absurdity, it is a founding. To found faith proceeds from having
+found faith; the difference rocks heaven. To have had faith founder is to
+lose the founding, lose the foundation.
+
+To have found faith is faith's extension; faith becomes faith is every-
+where. Faith everywhere is a founding and a foundation. To have faith
+founder is to lose faith's foundation; faith breathes through loss and
+pure appearance. 
+
+One loses faith through pure pictures. Faith is never found; faith is a
+having-found or a finding. Faith is a moment from faith-in to the purity
+of faith. The _in_ is the proper name of the finding.
+
+___________________________________________________________________________
+
+
+ii
+
+
+Can a pastor in cyberspace speak a Word not subject to eternal transforma-
+tion, transubstantiation? Can a word which is structured, dispersed, pack-
+eted, be a Word eternal and untransformed? Can one preach to a flock as
+hir words are taken from hir, from Hir? Who speaks here and for Whom, to
+whom?  Who determines capitalizations, loci, cites and citations, excesses
+of Latin alphabet? Who speaks for the Other, oneself, oneself in Other,
+Other in oneself? And for others? 'And if not me, who then?'
+
+
+___________________________________________________________________________
+
+
+iii
+
+
+Love of God, racism, charity, sexism, are all _matters_ of faith. 
+
+
+________________________________________________________________________
+
+
+
+sgniht talf daed era slegna
+gnipeels ma I nehw sdrow ym egnarraer ohw
+ekawa ma I nehw sdrow ym egnarraer
+meht esare sdrow ym etirw
+niaga dna niaga
+yas t'nac I tub wonk t'nod I
+gnihtyna tuoba tsuj
+enil eht kcolb yeht esuaceb slegna tuoba
+taht os ti egnarraer trohs ti peek
+reporp ro seman rieht evig t'nac _ti_
+deggar snur _ti_ taht os sserdda
+gnihton ot steg ti resolc eht
+
+
+________________________________________________________________________
+
+
+My body do lie in a pool on the floor, my hand do hold a telephone, my
+mouth do hold a camera, do hold my feets a radio thing wired to my body do
+hold a microphone my chest do hold a fret guitar. Do I move boom boom
+
+boom boom screen goes lksjfd
+boom boom screen goes sdflkj
+
+My body do stand in a pool on the floor, my hand do hold a ring-phone gone
+ringing, my camera gone clicking, my feets sing wires do talk clatter
+
+My body do sit in a pool on the floor
+My body do stand it sit no more
+My mouth do cry out more more more
+My feets do play out boom dada whore
+
+boom dada boom dada boom
+boom dada boom dada boom
+boom dada boom dada boom
+
+dada boom boom
+dada boom boom
+
+data data data
+data dada data dad
+
+ringing clicking camera feet arms do feats of wiring singing
+simple radio clicking simple phoning playing simple ringing
+wiring simple arms and legs
+
+do in a pool lie do on a floor lie,
+do on
+
+
+_______________________________________________________________________
+
+
+(precis for a talk, comments welcomed)
+
+
+The Future of the World: Internet Aesthetics and Reality's Cement Floor
+
+
+I'm going to concentrate on the Net of fifty years from now, in relation
+to under- and over-development world-wide. On one hand, we can assume a
+more or less seamless virtual interface and reality - on the other, we can
+assume that this interface is tied to corporate production and the cons-
+truct of a new subjectivity, based on consumption and desire. 
+
+(So on one hand, the real is the Real, parameters in n-space replacing the
+free-floating noisiness of the physical. On the other, the parameters
+_cost_; like certain explosives, they come complete with steganographic
+corporate logos. The subject is forced into difference on the level of
+nanotechnology, corporate viruses penetrating the skin; the subject be-
+comes Subject, extruded.) 
+
+(So on one hand, continuous upgrade, and on the other, debris-technology,
+bricolage, poverty-enclaves, home-owners' associations. On one hand, seam-
+less virtual reality; on the other, textual projection - see below.)
+
+I'm going therefore to examine a wide variety of Net applications and
+issues, ranging from low-bandwidth Web design to text-based "darknet"
+communities and CuSeeMe. The future is _now,_  and we, not our children,
+are _it._
+
+(How communities develop. How first/second/third person sexualities occur
+with text/CuSeeMe/phone/etc. The arguments against low bandwidth, restric-
+ted speech - the _auraless_ world. _Timing_ and stuttering of speech. Hys-
+teric embodiment, reading the other into oneself.)
+
+(How bodies are stormed. How bodies storm: delirium. Dismemberment, re-
+assemblage, prosthesis. The textual other as cyborgian. Narcissism and
+echo: filtering returning the body through re-inscription. Elimination of
+negation in cyberspace: alterity as self-construct. Interstices of vir-
+tual subjectivity (extensions).)
+
+(The phenomenology of the cement floor: true grit, dampness, and the gran-
+ular.) 
+
+(The infinite raster of the digital: the body returning to itself, disap-
+pearance of the virtual machine.) 
+
+Disentanglement - the Borromean knot of the subject: We're virtually
+_there._
+
+
+_________________________________________________________________________
+
+
+Hey everyone,
+
+You should know about Travis. I'm writing because Travis can't write any
+more. I don't know what's happened to him. I don't see him like I used
+to. He told me to say this, all of it, even the bad stuff. I don't know
+what he's talking about.
+
+But he wants you to know it's not the wires, not the internet. It's not
+the freedom he found there, or the fact that his skin grew pale, dis-
+appeared in just about any kind of light. It's not his weight-loss and
+if it's addiction, it's a new type.
+
+Travis told me to tell you he's tired of thinking about addiction, that
+you've got it all wrong. If it's addiction, he said, it's addiction to
+reality, but you wouldn't understand this, just like you wouldn't under-
+stand heroin or anything else without becoming part of it. An addiction
+he said is just something you're not part of and you look in and you see
+something you're not. And you don't know what that is, what you're not,
+but it's over the boundary.
+
+Travis said the boundary's inscribed, like drug, sex, internet. Travis
+said there's always an inscription; you have to look for it, and it's
+something you created in the first place. And you put all your energy
+into the inscription, as if you've discovered something, but what you
+fail to realize is that it's surrounding a place, just like you're in
+your place. And he's tired of hearing about addiction, all his addic-
+tions, and he doesn't want to hear about your addiction, but it's there
+like an ugly real, Travis says.
+
+There's not a real but reals, and everyone knows the sun from the moon
+but some people prefer to inscribe their own illuminations. He says he
+is closer to his body than you're closer to your own, and so who's the
+addict here, who takes hirself beyond the pale. He says to tell you to
+look to your own, but I haven't seen him for a while, so I can't bring
+him back an answer.
+
+He says he's real and he's stateless, he doesn't belong anywhere. But he
+says it's more than that - he's in no-state, which you wouldn't under-
+stand, because you only understand institutions from the outside in,
+which is what institutions are, inscriptions and barriers just like the
+word heroin or the word bible.
+
+He says you can reach him on the internet, you can reach him on the
+telephone or send him mail. He says you know how to reach him or you can
+contact me and I'll get him. He wanted me to tell you this. He says he
+can send you his ip number for sleazy net sex or his telephone number
+just in case you have something to sell. He can send you his address and
+you can send him just about anything you want that's not dangerous and he
+wants you to know that he's not dangerous, he's just disappeared for a
+while.
+
+He says he's more real than you are and if you're real too you'll find
+him.
+
+love to everyone on these lists,
+
+Clara
+
+Since I was Born
+
+Rock and Roll		Mircoelectronics	Optical Storage
+Home Television		Lasers			Quasars
+Computers 		Quark Theory		Strata-Embedded Life
+Internet		Cellular Telephony	Four-Color Map Solution
+Lunar Landing		Breakup of USSR		Commercial Jet Travel
+Life on Mars		Genetic Code		Bell's Theorem
+Solar System Mapping	Beats, Hippies, Punks	Chaos/Fractal Theories
+Systems Theory		Digital Revolution	Home Video
+FM Radio		Cable TV		Scanning Tunnel Microscopy
+Word Processing		Photo Manipulation	Space Stations
+Satellites		Astronauts		Trans-Uranium Elements
+K-Meson Anomalies	Transistors		Vietnam War
+Psychotropic Drugs	Virtual Realities	Atomic Bomb
+AIDS			Nuclear Fusion
+
+Characteristics of Monsters
+
+Slow			Dripping		Inside-Out
+Just Like Us		Mimickry		Slow and Clumsy
+Abject			Evil			Psychic
+Big Eyed		Clawed			Tentacles
+Stingers		Flat Voices		Want Our Gals
+Never Laugh		Have Slaves		Sexy Women
+Medieval Governance 	Tunics			Carnivorous
+No Pupils		Never Pun		Very Big or Very Small
+Toothless or Big Teeth	Dinosaurs		Brain-like Sludge
+Leave Puddles		Roar or Growl		Never Cough or Yawn
+Gooey			Stare a Lot		Fight a Lot
+Mother Ships
+
+
+______________________________________________________________________________
+
+
+
+How I'd Like to Speak, How I'd Like to Hear from You
+
+
+"What is distinctive and remarkable about the voice that Marx and Niet-
+zsche share is not only its breathless pace, its vibrant energy, its
+imaginative richness, but also its fast and drastic shifts in tone and in-
+flection, its readiness to turn on itself, to question and negate all it
+has said, to transform itself into a great range of harmonic or dissonant
+voice, and to stretch itself beyond its capacities into an endlessly wider
+range, to express and grasp a world where everything is pregnant with its
+contrary and all that is solid melts into air. This voice resounds at once
+with self-discovery and self-mocking, with self-delight and self-doubt. It
+is a voice that nows pain and dread, but believes in its power to come
+through. Grave danger is everywhere, and may strike at any moment, but not
+even the deepest wounds can stop the flow and overflow of its energy. It
+is ironic and contradictory, polyphonic and dialectical, denouncing modern
+life in the name of values that modernity itself has created, hoping - of-
+ten against hope - that the modernities of tomorrow and the day after to-
+morrow will heal the wounds that wreck the modern men and women of today."
+
+(From Marshall Berman, All That Is Solid Melts into Air: The Experience of
+Modernity, quoted in Robert Walser, Running with the Devil: Power, Gender,
+and Madness in Heavy Metal Music.)
+
+
+___________________________________________________________________________
+
+
+Show Biz MOO
+
+Draw on your life.
+Like they say, break a leg.
+There's no business like it.
+Sometimes you become your part.
+It's a wrap.
+
+_______________________________
+
+
+
+Machine/Anecdote/Divinatio
+
+
+
+Tonight I have been trying for hours to teach someone basic commands for
+downloading/viewing messages on the Internet. Like a lot of my students,
+s/he hasn't read any background material, and won't. Teaching becomes a
+matter of listing commands, presenting them as literal protocol senten-
+ces, each independent of the others. The sentences function, not as sym-
+bolic arrays, but as ikonic; they're proper names, and the "dir" in for
+example "dir netscape/cache" is not the same "dir" as in "dir windows" -
+in fact, both "dir" are independent diacritical modifiers, if they're even
+that substantiated. 
+
+This is the world of pre-Freudian psychoanalytics, going all the way back
+to the Questions of Aristotle - an accumulation of stories, symptoms, op-
+erations, non-systemic, or top-down systemic at best. Thus the humours are
+top-down, as are the astrological signs; they presuppose totalities - as
+opposed to bacterial classification, for example. The system that emerges
+is related to magic, fetishization, empathetic phenomenology - not to a
+generative or axiological ordering.
+
+Without this ordering, the totality remains impermeable, foreclosed; 
+learning becomes a matter of rote or brute force. Not only is very little
+retained, but there is no room for error or anomaly. Now within tradition-
+al structures, anomaly and error are absorbed; the structures are fuzzy.
+Within the digital realm (without analog slippage), error can easily be
+the matter of a single bit, and even semi-expert systems are relatively
+uncompromising. 
+
+Learning these machines becomes, then a matter of dialectic between top-
+down and bottom-up; on one hand, say, understanding the GUI (Graphic User
+Interface), and on the other, working through a knowledge - at the least -
+of data structures.  With this approach, if something goes wrong, or if a
+new application is downloaded from the Net, the user will have some idea
+of how to continue. The totality will still be there, but it will be, on
+some level, systematized. 
+
+Such is the passing of illusions of _divinatio,_ the computer as the book
+of nature, filled with wondrous signs. The greatest advancement in this
+sense is the well-defined statement descending from an axiom set, a feel-
+ing of regularity in spite of Godel, Tarski, Skolem, Church, and Cohen
+(and don't forget that Godel remained a variant of platonist). Wondrous
+signs are filled with excess, as we are here and in physical space; won-
+drous signs leak, exude desire, scent, and taste. In programming, there
+are no wondrous signs; statements are written according to the syntax or
+they don't compile, or compile badly, or produce something else. There is
+likewise no tolerance for wrong clicks spelling errors; there may be a
+decent error-reporting facility ("close parentheses") or you may be en-
+tirely on your own.
+
+We're used to the magic. A car doesn't just _go_ - it _surges._ Our cat
+thinks our thoughts for us. Current just _flows_ from the socket when a
+lever is turned elsewhere in the room. And most of us, myself included,
+can't tell exactly what goes on in the CPU. But you can't stop at the
+level of the interface - you've got to, at least, peel the tissues back,
+examine a bit of the nervous system, check memory and its management and
+short-term and long-term memory...
+
+Whole worlds are overturned. It's no longer enough to memorize Caesar.
+Gender becomes pheromic, hormonic, environmental, genetic, hysteric. God
+is a matter of cryptology or voiceover. The path not taken is charted by
+the GPS (Global Positioning Satellite). Good fences make good neighbors
+observed from the stratosphere and beyond. 
+
+There's no conclusion here. For a youngster, the magic's still there and
+all the way through, and the magic's tied to power, systems-control and
+all things go. The system transforms into adolescent _urge_ - I've got
+that even now - maybe the only difference is that I recognize the compon-
+ents. And this is the legacy, in fact, of this entire century in our West
+- the _component,_ and the problematic phenomenology accompanying it (just
+as the assembly line and modularity characterized the 19th century, from
+which humanity and the humanities despaired and fled and tried, unsuccess-
+fully, to overturn, time and time again) ... 
+
+
+_________________________________________________________________________
+
+
+ecological
+resources
+space
+blushed
+towards
+the
+fall
+of
+language
+below
+just
+as
+esophagus
+demon
+now
+tears
+skin
+devours
+eyes
+nose
+breasts
+line
+edges
+nipples
+leak
+face
+beyond
+face
+down
+towards
+ecology
+of
+face
+space
+wasted
+its
+away
+around
+the
+turn
+of
+the
+century
+it
+s
+a
+new
+thing
+this
+field
+bearing
+roses
+oh
+and
+textual
+extensions
+appear
+to
+disturb
+ecology
+deconstruct
+the
+manifold
+of
+the
+screen
+they
+produce
+the
+spear
+of
+impinged
+meaning
+garner
+repetition
+observe
+clues
+it
+is
+as
+if
+the
+computer
+is
+comfortable
+with
+total
+collapse
+as
+if
+the
+body
+extends
+infinitely
+as
+I
+have
+calculated
+so
+many
+words
+or
+lines
+to
+the
+miles
+so
+many
+miles
+until
+an
+ocean
+or
+mountain
+is
+attained
+it
+s
+the
+precision
+of
+the
+form
+the
+audience
+gasp
+no
+one
+can
+absorb
+everything
+in
+the
+world
+hold
+presence
+in
+extensio
+like
+a
+clean
+bridge
+gone
+down
+through
+dark
+grey
+days
+deeper
+into
+the
+pit
+falling
+into
+whatever
+waters
+are
+dredged
+from
+the
+unconscious
+you
+shoot
+upwards
+into
+me
+it
+isn
+t
+your
+place
+not
+to
+shoot
+at
+the
+bottom
+of
+every
+line
+every
+text
+there
+s
+an
+open
+mouth
+what
+desire
+shoots
+us
+space
+falls
+like
+pits
+flat
+on
+the
+floor
+on
+the
+right
+take
+a
+tumble
+the
+effort
+of
+pulling
+the
+screen
+down
+repeatedly
+as
+if
+you
+are
+down
+on
+me
+as
+if
+I
+m
+down
+today
+what
+s
+your
+name
+nearing
+the
+second
+or
+third
+level
+nearing
+the
+fourth
+or
+fifth
+level
+nearing
+the
+sixth
+or
+seventh
+level
+nearing
+the
+seventh
+or
+eighth
+level
+nearing
+the
+sixth
+or
+seventh
+level
+nearing
+the
+fourth
+or
+fifth
+level
+nearing
+the
+second
+or
+third
+level
+the
+length
+of
+a
+rope
+beyond
+all
+measurement
+this
+is
+a
+text
+that
+space
+behind
+the
+eyes
+you
+descend
+dissolute
+clothes
+falling
+off
+as
+you
+near
+what
+would
+be
+the
+bottom
+of
+a
+MUD
+where
+you
+might
+be
+reborn
+alive
+again
+in
+a
+church
+specifically
+pray
+within
+Lars
+lpmud
+converted
+for
+my
+pleasure
+it
+s
+as
+if
+naked
+you
+arrive
+at
+the
+entrance
+where
+the
+pray
+re
+embodies
+you
+gives
+you
+some
+weapons
+maybe
+but
+we
+re
+all
+the
+same
+here
+I
+m
+wandering
+but
+I
+wander
+only
+in
+the
+way
+you
+know
+this
+down
+dismemberment
+phantom
+limbs
+and
+spaces
+devils
+grinning
+angels
+throwing
+everything
+they
+ve
+got
+hideous
+yes
+hideous
+faces
+I
+could
+leave
+you
+with
+face
+s
+memory
+my
+own
+or
+the
+odd
+imprint
+of
+my
+body
+there
+on
+the
+right
+of
+the
+screen
+pale
+mixed
+with
+your
+own
+reflection
+I
+would
+say
+a
+fountain
+not
+a
+pillar
+from
+blushed
+towards
+the
+fall
+of
+language
+below
+just
+as
+esophagus
+demon
+now
+tears
+skin
+devours
+eyes
+nose
+breasts
+line
+edges
+nipples
+leak
+face
+beyond
+face
+down
+towards
+ecology
+of
+face
+space
+wasted
+its
+away
+around
+the
+turn
+of
+the
+century
+it
+s
+a
+new
+thing
+this
+field
+bearing
+roses
+a
+pool
+and
+not
+from
+the
+tautness
+of
+a
+fabrication
+of
+skin
+flesh
+blood
+bones
+gristle
+what
+you
+would
+throw
+past
+the
+longing
+of
+these
+words
+blushed
+towards
+the
+fall
+of
+language
+below
+just
+as
+esophagus
+demon
+now
+tears
+skin
+devours
+eyes
+nose
+breasts
+line
+edges
+nipples
+leak
+face
+beyond
+face
+down
+towards
+ecology
+of
+face
+space
+wasted
+its
+away
+around
+the
+turn
+of
+the
+century
+it
+s
+a
+new
+thing
+this
+field
+bearing
+roses
+blushed
+towards
+the
+fall
+of
+language
+below
+just
+as
+esophagus
+demon
+now
+tears
+skin
+devours
+eyes
+nose
+breasts
+line
+edges
+nipples
+leak
+face
+beyond
+face
+down
+towards
+ecology
+of
+face
+space
+wasted
+its
+away
+around
+the
+turn
+of
+the
+century
+it
+s
+a
+new
+thing
+this
+field
+bearing
+roses
+blushed
+towards
+the
+fall
+of
+language
+below
+just
+as
+esophagus
+demon
+now
+tears
+skin
+devours
+eyes
+nose
+breasts
+line
+edges
+nipples
+leak
+face
+beyond
+face
+down
+towards
+ecology
+of
+face
+space
+wasted
+its
+away
+around
+the
+turn
+of
+the
+century
+it
+s
+a
+new
+thing
+this
+field
+bearing
+roses
+
+
+
+____________________________________________________________________
+
+
+
+The Renunciation of Travis
+
+
+I, Travis, known by my first name and pronoun, hereby and accordingly for
+an indeterminate amount of time, do renounce any and all sexual activity
+of a solitary nature, within which the respondent is apperceived of a
+partner or partners by virtue of various electronic media, including tel-
+phone, CB radio, Internet ASCII communications, and Internet video. I do
+not renounce the solitary pleasures of Baywatch or binocular. My reasons
+for such an action are the following:
+
+1. I, Travis, have wasted countless hours bringing myself to culmination,
+being brought to culmination by another or others, or bringing another or
+others to culmination, without a positive indication of clear visual pre-
+sence within my otherwise physical space.
+
+2. I, Travis, have had night tremblings, furtive masturbations, sly hand-
+gropings and finger insertions in attempts to sleep through late night or
+early dawn; my situation has become one of disease, discomfort, and more
+or less leaning to one side during ordinary (verbal) circadian physical
+discourse.
+
+3. I, Travis, have found myself waiting with hordes of virtual males, on
+virtual fire, for one or another virtual woman to join our pathetic vir-
+group. I have urged on women, bringing them to culmination while I have
+waited without a clear and positive indication of pure visual presence
+within my otherwise physical space. 
+
+4. I, Travis, have been unable to renounce flesh for other pleasures in
+my otherwise physical space, having no other pleasures. My work suffers; 
+my eyes sting; my ears ring; my penis leaks; my mouth speaks and no one
+hears. My scalp itches; my fingers twitch; my nipples ache; my arms
+quake. I do get wakened in the night's middle by phantom limbs tearing at
+my flesh. I do toss and turn with the burning-fire of sex soaking my
+holes, splaying my legs, opening my mouths, scenting my nose. 
+
+Only a total and final renunciation will eliminate the dreams of fulfill-
+ment, the sweats, shivers, shudders, stutters, shakes; only a total and
+final renunciation will give me the space and place to write my piece. If
+I am a slight loss to you, I am a greater loss to myself; if I cannot see
+your flesh opened for me _here,_ I cannot imagine the sounds of laughter
+and weeping _there._ Please forgive me, and say no prayer, for there is
+no God. 
+
+I, Travis, on this day forward, do a-knighting go.
+
+
+__________________________________________________________________________
+
+
+Stigma*
+
+
+I'm out of the adult reflector site on CuSeeMe. I hadn't been on for a
+while because of the waiting-males syndrome, which I found uncomfortable
+(surely not-me...); when I tried to enter tonight, I found an ID number
+required. I didn't have it, so I went to the IRC channel sponsoring the
+reflector. The bot came on and stated that the ID number was given only to
+those who had a + by their names - stick around for a while, and I might
+be eligible. So it would have become a game of waiting again, becoming one
+of the boys or girls, which is quite understandable; the message read "due
+to abuse by some people," and the abuse wasn't specified. 
+
+Was I the source of the abuse, insisting on the position of the voyeur
+(di/splaying my body, but clearly ill at ease in the group); was it a spam
+(I had, after all, left a while ago) of new people threatening or violat-
+ing an unstated contract? Did the friends of the sysadmin fall off the
+edge, was there a loss of identity involved? In any case, the site sealed
+itself off, shut, sutured - and identity, forestalled, foreclosed, became
+my own smashed issue; would I remain on IRC until recognized, join some
+other, less (or more) secretive group, stay marginalized, nomadic, moving
+on? Did I have any choice? Uncomfortable with groups in real life, I de-
+termine not to frequent them on IRC or CuSeeMe as well. (Alas, of course,
+my very damage renders fragile any such delusionary contract.)
+
+Thus my identity follows me; a couples of weeks ago, for the first time in
+months, I joined the IRC channel #truth, and was immediately banned. I had
+said nothing; the ban continued until I finally signed off altogether.
+What had I done, as a seeker after truth, not #truth, or perhaps that was
+the issue after all? In reality, I'm sure there was no issue; either the 
+chat was private, or someone was fooling around.
+
+I churn in my own effluvia; it spatters, forms words, as if: here they
+are. 
+
+
+*See Erving Goffman, Stigma, Notes on the Management of Spoiled Identity.) 
+
+_________________________________________________________________________
+

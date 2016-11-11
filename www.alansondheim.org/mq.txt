@@ -1,0 +1,1890 @@
+
+
+trilby sorts and folds
+
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=999 prefsort=0 sort=0
+
+foldFormat=0 foldItems=1667 foldOwn= foldName=6,Bin 1 foldPos=0,0,0,0
+foldFormat=0 foldItems= foldOwn= foldName=-1 foldPos=0,0,0,0 foldFormat=0
+foldItems=81683 foldOwn= foldName=6,movie foldPos=0,0,0,0 foldFormat=0
+foldItems= foldOwn= foldName=-1 foldPos=0,0,0,0 foldFormat=0 foldItems=
+foldOwn= foldName=-1 foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn=
+foldName=-1 foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0
+
+
+===
+
+
+jim hill
+
+
+im climbing barbed wire to heaven -
+im skating on thin ice for god -
+im down on the rail and old number seven
+rolls over with nary a nod -
+
+im rolling the cards and tossing the pawn
+and playing with angels for incense and gold -
+my arms are tools of the dark devils spawn -
+my torn bloody hands can hardly take hold -
+
+of the wire and ice and fire and spice
+the trains carrying down on the rail -
+so careful of angles and star-spangled bangles
+theyll carry you down without fail
+
+from heaven to seven and a nod to a clod -
+theyll carry you down like a pail
+running out down the hill with a license to kill -
+and the bodies are falling and children are bawling -
+the worlds going out with a wail
+
+
+==
+
+
+
+philosophy of the thinnest of memories
+memories of philosopies
+
+there are numerous others. what i don't understand is that - there is no
+reason for me to understand this at all - that the multiple practices you
+do - they relate - when you die, there will be all these tatters - yiddish
+name aba, hebrew avi - they're lost - it's a philosophy of distribution -
+interstitial - you'll find it - don't give up - always looking - the
+pieces fit together - immersive/definable - sheffer stroke and its dual -
+defuge - distributed avatars - evanescence - it's all there - the others
+come to me - at night - the codeine doesn't keep them away - they'll
+gather the materials - distributive philosophy - reconstruct what you
+deconstruct - scaffolding - i'm not there yet, i'm getting there - the
+sexuality for one thing inverts the body - the mind - brings everything to
+the surface - exfoliations, multiple-connections - mobius surfaces -
+topography of the body might be any landscape - think of northern sung
+painting - either multiple or no perspectives - thwarted or borderline
+landscape -part coalesce - come together - superimpositions, gestures -
+coherencies - the punctured text - perforations - sprockets - the film is
+running again - auto- or self-inscription - classical geometries of jordan
+curvatures - within or without - punctured texts - of inspiration or
+respiration - beneath the sign of extinction - the imminence of such - the
+holocaust of wind - inconceivable fragility of the good - the world of
+pure slaughter - self-slaughter of mass organisms - final breathing of
+warriors of extinctions - policy of scorched worlds - mindfulness and the
+clear face - fractal paths through measure geometries - construction of
+objects by means of paths - appearances of high-speed protocols -
+turbulence and animals, as if the world stands still - appearance of
+objects within such a world - for that matter aristotelian logics,
+regularized laws of distribution - beginnings of the contracts among
+organs and objects - organisms and neighborhoods - writing the unbearable
+- your work tending the unbearable - violence and the teeth of the world -
+philosophy as travel writing - gravitation towards taxonomies -
+recognition of minutiae - living among the worlds - the dark or darker
+worlds - protocols lying around 'like bones in a graveyard of the living'
+- nothing remains within the philosophy of curtailment - the bracketing
+recognizing distinctions - [[]] - [][] - quantum tunnels - constant memory
+of the edge or edges - double lips - closures - openings, the slit - nib
+of the pen - circulations of absorptions - f(x,0) -> 0, f(x,1) -> x - let
+f(1,0) = f(0,1) undefined - these terms aren't at variance - there's one
+or the other - coherencies, syncopation - it begins with any distinction,
+moves through any distinction - of sexualities, the tumor or cancer - the
+cancer as plasma - black-hole incoherencies -
+
+the addendum, diacritical - at least until these things foreclose - i'm
+breathing on the wires, living in the wires - shadowy presence - nothing
+else -
+
+Sun Oct 13 03:37:29 EDT 2002
+
+
+===
+
+
+3
+
+defuge again -
+the disgust and decathecting occurring for example trying to 
+read a novel pornography 'gone stale' 50-55% of my email spam now it's not
+junk it sheer
+unethical content 5-10 nigerian scams day stock offerings complete 
+w/ insider tips child sex 'you have opted receive' 'call here' with
+telephone number unsubscribe every faced this no way reasonably reply
+filters
+blocking just about everything out mail relays, mal-adjusted headers, 
+codework, small servers goes on back into filth mine through something 
+worth-while leave account or so becomes 
+unmanageable there's time start private networks where's fidonet when we
+need other
+models anomalous matrices between inter- intra- nets otherwise violence
+world 9-11 by any means furious
+auschwitz get money shoot kill bush thugs world's 
+becoming dark self-advertising replacing news tonight all 
+same substance hammered language them defuge -
+again defuge
+
+again the - disgust the and disgust decathecting and occurring
+decathecting for occurring example for trying - to trying read - a read
+novel a pornography -
+
+'gone pornography stale' 'gone 50-55% sheer of 50-55% my of email my spam
+email now spam it's - not it's junk the it of sheer the unethical complete
+content unethical 5-10 -
+
+nigerian 5-10 scams nigerian day a stock - offerings stock complete
+offerings w/ - insider w/ tips insider child - sex child 'you -
+
+have 'you opted have receive' to 'call - here' 'call with complete
+telephone with number telephone unsubscribe to every filters faced day
+this w/ no -
+
+way no reasonably to reply reasonably filters spam blocking headers, just
+blocking about just everything about out everything mail -
+
+relays, mail mal-adjusted relays, headers, mal-adjusted codework, - small
+codework, servers small goes it on goes back day into back filth the mine
+to through mine something -
+
+worth-while becomes leave - account the or day so or becomes it
+unmanageable - there's - time other start to private start networks
+private where's - fidonet where's when fidonet we when need we other -
+
+models - anomalous of matrices anomalous between matrices inter- between
+intra- and nets intra- otherwise furious violence the world the 9-11 - by
+9-11 any by means other furious -
+
+auschwitz world's get - money my shoot - kill to bush - thugs and world's
+- becoming all dark becoming self-advertising - replacing self-advertising
+news world tonight news all it's same the substance same hammered -
+language hammered them kill defuge again -
+
+the occurring disgust for and example decathecting - occurring trying for
+to example defuge trying the to disgust read a a novel novel again
+pornography 'gone 'gone stale' stale' -
+
+50-55% not of the my junk email of spam it now - it's sheer not 50-55%
+junk my it spam sheer it's unethical nigerian content scams 5-10 day
+nigerian -
+
+scams stock day complete stock content offerings - complete 5-10 w/ have
+insider opted tips to child - sex 'call 'you -
+
+have w/ opted insider receive' - 'call sex here' - with with telephone
+telephone number number unsubscribe unsubscribe every no faced to this
+reply no spam way filters reasonably day reply faced filters -
+
+blocking about just everything about out everything - out mail mail
+mal-adjusted relays, headers, mal-adjusted blocking headers, just
+codework, servers small - servers it goes and on on back to into mine
+filth it mine day through back something filth worth-while for leave day
+account so or worth-while so -
+
+becomes account unmanageable there's - time where's start when private we
+networks need where's - fidonet other when time we to need start other -
+models anomalous anomalous between matrices inter- between and inter-
+intra- intra- - nets models otherwise - violence any world - 9-11
+otherwise by - any the means of furious world auschwitz to get -
+
+money and shoot - kill auschwitz bush get thugs money world's shoot
+becoming self-advertising dark replacing self-advertising news replacing
+tonight news it's tonight all all -
+
+same the
+substance same
+hammered -
+language hammered
+them 
+
+
+===
+
+
+apocalypse and others
+
+
+apocalypse
+
+these are the end-days; make no mistake about it. this is neither rumor 
+nor prediction, although i have participated in both; it is a careful 
+extrapolation from the facts, the proliferation of nuclear and biochemical 
+weapons, increasing world-wide fanaticisms, and exponential depletion of 
+resources, both natural and artificial. we are witnessing an armageddon 
+that began millennia ago, the fascination with divinely-given truths that 
+efface all other considerations. my writing is the writing of the apocal- 
+ypse, and it is the reading of the apocalypse as well. the filters have 
+become the content; we are doomed, just as we continue to be doomed to 
+play out our literary games among the havoc.
+
+
+body-scan
+
+1 camera moving in raster formation across still background image
+ a. camera focused ahead on raster track
+ b. camera focused down on raster track
+2 background image cyclic sheaf of still images - victorian azure
+partially in and out of costume
+3 interferences along the path of the camera focused ahead
+4 interferences beneath the path of the camera focused down
+5 video-texture-mapping on interferences
+ a. 'mocking interferences' following camera
+ b. ding-an-sich interferences ignoring camera
+ c. deliberately occluding interferences beneath or ahead of camera
+    1 opaque interferences
+    2 translucent or transparent interferences
+6 particle interferences - disks with 'win' texture mapping setting
+7 camera within transparent particle along same path (parenting)
+8 ends w/ full-scan or continues w/ cyclic scan
+
+
+sondheim patent blanket
+
+the sondheim patent blanket, 7' circular diameter, non-allergenic insulat-
+ing substance, fully covers the user. there are two types: passive and
+active. the passive blanket has micro-miniature gas-exchange valves,
+allowing the flow of oxygen around an 18" diameter area. the active 
+blanket has a small pump, warming incoming air to the interior temperature 
+- the effect is a slow movement of air throughout. the sondheim patent 
+blanket serves the function of a small blanket placed over a cat; it 
+creates a womb-like environment, cutting back light and sound, warming the 
+body, and allowing sleep which otherwise might be too susceptible to the 
+elements. the sondheim patent blanket is under development.
+
+
+===
+
+
+JUSTIFY MY LOVE
+
+WE
+^THA^Y=Q^U>Dk^P>Dk^SH@^Y>Uy PRESENT IN BOT
+
+k24% rm hh yy zz5^VPJ.^Y@^:^ZDMW
+remove hh? yN55@^?0@^?%^
+remove yy? yKN^VKK^Ad^TM
+remove zz? yight-Ashbu
+Subject: OnMouseOverN44@elll 1 #471 - 6
+Parts/Attachments: GET HELP  ^O WRITE
+   1   OK     ~4 lines  TEXT   ^K CUT TEXT  ^C CUR POS W
+   2          94 KB     AudioPg   ^K CUT TEXT  ^C CUR POS.
+   3 Shown     0 lines  TextJ JUSTIFY   ^W WHERE IS  ^V
+   4          15 KB     ApplicationSTIFY   ^W WHERE IS  ^V Next Pg
+FILE NAME TO WRITE : yy^U*Fv^P*Fv^SMGø$Røiø*|ø
+^T6Iq^U6@y^P6@y4@^?^S6Hq^Y=U^U8:e^P8:e3@^?øOn^TPJ!^VPO
+U3Ta^/3Ta5@^80@^8^3<4^: GET HELP ^O WRITE OUT
+^U.8^8^/.8^8^R?W^RH2n^S?Z^U5Za^/5Za^3>Z2}^U:3Q^/:
+@G0EGQ [1$0À] 8^@O@T4O4Y^X EXIT      ^J JUSTIFY
+
+
+===
+
+
+0000000-0002374
+
+
+0000000  005012 060555 064553 063556 067040 020157 064544 063146
+0000020  071145 067145 062543 073440 060550 071564 062557 062566
+0000040  026162 072040 062550 062563 066440 071551 064563 062566
+0000060  020163 063157 060440 071542 066157 072165 067551 026156
+0000100  060440 020163 063151 071012 061545 070165 071145 072141
+0000120  062145 020054 020141 067555 062555 072156 067440 020162
+0000140  067555 062562 020054 063157 067440 062162 067151 071141
+0000160  020171 064554 062546 020054 064164 020145 060542 072164
+0000200  071145 062145 070040 073557 071145 020163 063157 070012
+0000220  071145 067546 066562 072141 073151 020145 060554 063556
+0000240  060565 062547 020054 071143 060545 064564 067157 063040
+0000260  067562 020155 064164 020145 072163 071141 020164 020055
+0000300  064164 020145 060550 067566 020143 067543 062555 020163
+0000320  071146 066557 062412 071554 073545 062550 062562 020054
+0000340  064164 020145 066142 061557 026553 060560 065543 063541
+0000360  071545 067440 020146 062564 072170 026563 063157 072055
+0000400  072562 064164 020054 064164 020145 071164 062565 071055
+0000420  060545 020154 062564 072170 020163 071146 066557 073412
+0000440  064550 064143 072040 062550 062562 064440 020163 067556
+0000460  062440 061563 070141 026145 060440 067560 060543 074554
+0000500  072160 061551 071440 064550 072146 067151 020147 020055
+0000520  072151 071447 064440 020156 072557 020162 060556 072564
+0000540  062562 072040 005157 067550 062560 072040 060550 020164
+0000560  071160 074541 071145 026440 071440 070165 066160 061551
+0000600  072141 067551 020156 020055 064164 072141 060440 062040
+0000620  063151 062546 062562 061556 020145 071551 066440 062141
+0000640  020145 064567 064164 072440 072164 071145 067141 062543
+0000660  026412 064440 020156 060546 072143 064440 020164 060555
+0000700  062553 020163 067556 062040 063151 062546 062562 061556
+0000720  020145 064167 072141 067563 073145 071145 026440 072040
+0000740  064550 063556 020163 062562 060555 067151 061040 072562
+0000760  060564 066154 020171 064564 062145 072012 020157 072563
+0001000  071542 060564 061556 020145 020055 062567 070040 062562
+0001020  064544 072143 060440 062156 070040 060554 020171 020055
+0001040  020151 071167 072151 020145 071541 064440 020146 064164
+0001060  071145 023545 020163 067556 072040 066557 071157 067562
+0001100  020167 005055 071541 064440 020146 064164 071551 064440
+0001120  020163 064164 020145 060554 072163 066440 071551 064563
+0001140  062566 020054 064164 020145 060554 072163 066440 071551
+0001160  064563 062554 026440 060440 020163 063151 072040 064550
+0001200  020163 071551 072040 062550 066040 071541 005164 071160
+0001220  073157 061557 072141 067551 020156 005055 030012 030060
+0001240  030461 030066 020040 033060 032464 031466 030040 031066
+0001260  032465 020064 031060 032066 030064 030040 030066 032064
+0001300  020060 031060 030460 031466 030040 031466 032461 020061
+0001320  033460 030062 030064 030040 032066 032465 045060 072145
+0001340  074564 005040 030060 030460 030062 020060 030040 030062
+0001360  033061 020063 033460 032461 030465 030040 031067 032060
+0001400  020060 033060 032462 030065 030040 033066 032060 020060
+0001420  033460 032461 030464 030040 032460 033061 020064 033460
+0001440  030461 030066 020040 024040 030065 034471 020051 030012
+0001460  030060 031061 030062 020040 033460 030463 033465 030040
+0001500  030466 032465 020067 033460 030462 030464 030040 033466
+0001520  032465 020061 031060 030460 033065 030040 032460 032460
+0001540  020065 033060 032061 031061 030040 030067 032061 071061
+
+making no difference whatsoever, these missives of absolution, as if
+recuperated, a moment or more, of ordinary life, the battered powers of
+performative language, creation from the start - the havoc comes from
+elsewhere, the block-packages of texts-of-truth, the true-real texts from
+which there is no escape, apocalyptic shifting - it's in our nature to
+hope that prayer - supplication - that a difference is made with utterance
+- in fact it makes no difference whatsoever - things remain brutally tied
+to substance - we predict and play - i write as if there's no tomorrow -
+as if this is the last missive, the last missile - as if this is the last
+provocation -
+
+0001240  072151 066141 063040 066151 071554 072040 062550 064440 error 
+
+capital fills the interstices - tunnels beneath the streets - email tags 
+and headers - sewage capital - finally bringing weapons to the foreground 
+- fighting back is useless - at this point, weaponry accumulates - anthrax 
+plus anthrax = anthrax; bomb plus bomb = bomb - it's boolean at the heart 
+of it -
+
+0001560  073545 020163 020040 020040 020040 020040 030012 030060
+0001600  031061 030064 020040 033460 030462 030465 030040 033066
+0001620  032061 020061 033060 030063 030064 030040 033066 032461
+0001640  020061 033460 032461 032065 030040 031067 032060 020060
+0001660  033060 032462 030065 030040 032066 032064 005060 071145
+0001700  067562 020162 005012 060543 064560 060564 020154 064546
+0001720  066154 020163 064164 020145 067151 062564 071562 064564
+0001740  062543 020163 020055 072564 067156 066145 020163 062542
+0001760  062556 072141 020150 064164 020145 072163 062562 072145
+0002000  020163 020055 066545 064541 020154 060564 071547 005040
+0002020  067141 020144 062550 062141 071145 020163 020055 062563
+0002040  060567 062547 061440 070141 072151 066141 026440 063040
+0002060  067151 066141 074554 061040 064562 063556 067151 020147
+0002100  062567 070141 067157 020163 067564 072040 062550 063040
+0002120  071157 063545 067562 067165 020144 026412 063040 063551
+0002140  072150 067151 020147 060542 065543 064440 020163 071565
+0002160  066145 071545 020163 020055 072141 072040 064550 020163
+0002200  067560 067151 026164 073440 060545 067560 071156 020171
+0002220  061541 072543 072555 060554 062564 020163 020055 067141
+0002240  064164 060562 020170 070012 072554 020163 067141 064164
+0002260  060562 020170 020075 067141 064164 060562 035570 061040
+0002300  066557 020142 066160 071565 061040 066557 020142 020075
+0002320  067542 061155 026440 064440 023564 020163 067542 066157
+0002340  060545 020156 072141 072040 062550 064040 060545 072162
+0002360  005040 063157 064440 020164 005055 005012              
+0002374
+
+bang we're dead
+
+
+===
+
+
+THESE LIARS MUST BE CRUELLY SMASHED.
+THESE LIARS ARE NOT MY FRIENDS.
+THESE LIARS HAVE NEVER BEEN MY FRIENDS.
+THESE LIARS WILL ROAST IN HELL.
+THESE LIARS ARE EVIL.
+
+
+This mail is from your friends at Bargain Blizzard. To stop receiving
+special offers, coupons, and discounts from Bargain Blizzard, click here
+
+You are receiving this email from Aseeker.com because you opted-in to
+receive special offers through a partner website. If you feel you have
+received this email in error or do not wish to receive additional special
+offers, please email to support@aseeker.com with "Remove" as your subject
+line to unsubscribe.
+
+As promised, we reserved your position in our program.
+If you have already confirmed your position
+use the REMOVAL link the bottom of this email.
+
+We're holding your spot and we have people who are waiting
+to be placed under you. You need to confirm right away
+if you have not done so already. We'll notify you when you
+have a comission check waiting
+
+You must confirm your position immediately or you'll lose
+the customers who are waiting to be placed under you.
+
+Your privacy is extremely important to us. You requested to receive
+this mailing, by registering at eLuckyDay.com or by subscribing
+through one of our marketing partners. As a leader in permission-based
+email marketing, we are committed to delivering a highly rewarding
+experience, with offers that include bargains, entertainment, and
+money-making ideas.
+
+You received this email because you signed up at one of Virtumundo's
+websites or you signed up with a party that has contracted with
+Virtumundo.
+
+             Your Private Mail Box
+             You've Recieved this mail service Via Request
+             Your Mail Address has been Supplied to us
+             because you have Subscribed to a Membership Based Website in 
+             the past.
+             if you no longer require Your Personal Mail Service
+             Simply
+
+This email was sent to sondheim@panix.com by SimpliCity, because you are
+a member of SimpliCity or you signed up with one of our marketing
+partners.
+
+You are receiving this mailing because you opted in via 24houroffers.com
+                             and affiliated sites.
+
+ You are receiving this
+email from OfferWarehouse.com because you opted-in to receive special
+offers through a partner website. If you feel you have received this
+email in error or do not wish to receive additional special offers,
+please follow the unsubscribe directions at the bottom of this email.
+
+We respect your privacy. If you received this message in error or you do
+not want to receive our messages in future, please Send us e-mail back
+with remove on the subject file, and please indicate your RECEIVING
+ADDRESS so we can cancel your subscription. Tanks
+
+Dear Subscriber: Please take time to read the following. We value our
+many subscribers and want to provide the Best possible service. Our
+newsletter is changing servers and we feel a move to enhance our
+Newsletter is for the better right now. We ask our Loyal readers who wish
+to remain with us and continue to receive the StockPlayer newsletter, you
+must sign up again on the following to opt -in to our data base of
+readers.
+
+You received this email because you signed up at one of Consumer Venue's
+partner websites or you signed up with a party that has contracted with
+Consumer Venue.
+
+You are receiving this email because you have opted-in to receive
+email from publisher: awesomeoffers. 
+
+You received this email because you opted to receive the Gossip Flash
+Newsletter through one of our valued partners. If you believe you received
+this message in error or would no longer like to receive this email simply
+click here.
+
+The following gift or special offer was sent to you as a subscriber of
+eUniverse. We will continue to bring you valuable offers on products and
+                        services that interest you most.
+
+   This mail is from your friends at Cosmic Offers. To stop receiving
+   special offers, coupons, and discounts from Cosmic Offers, click here
+
+The following message was sent to you as an opt-in subscriber to
+EmailStimulator or its affiliates. We will continue to bring you valuable
+offers on the products and services that interest you most. To no longer
+receive these offers, please click here.Unsubscribe.
+
+      If you previously asked to be excluded from Resource Source Masters
+product offerings and solicitations, we apologize for this e-mail. Every
+       effort was made to ensure that you were excluded from this e-mail.
+     However, if Resource Source Masters does not have your current e-mail
+address in their database, they are unable to prevent this e-mail from
+      reaching you. If you do not wish to receive promotional e-mail from
+                      Resource Source Masters, CLICK HERE
+
+ The preceding message was sent to you as an opt-in subscriber to
+        DealSweeps. We will continue to bring you valuable offers on the
+products and services that interest you most. If you wish to unsubscribe
+                               please click here:
+
+ Your privacy is extremely important to us. You requested to receive this
+ mailing, by registering at Your-Special-Offers or by subscribing through
+                         one of our marketing partners.
+
+ This message was not sent unsolicited. You are currently
+            subscribed to the Open2win mailing list. If you wish to
+                 unsubscribe from our mailing list, Click here
+
+You have received this email because you visited our site or a partner
+site and commenced registration to receive our newsletter. If you have
+received this email in error or would like to unsubscribe, please follow
+the instructions below. We take great care in removing subscribers in a
+timely manner.
+
+
+===
+
+
+the doors
+
+
+and none of you can judge me
+and i will kill forever
+and i will live forever
+in this new and brutal world
+
+i've never been to i've spain never 
+but i'm but sure i'm i sure was i born
+was there born oklahoma
+
+i've never been to spain
+but i'm sure i was born there
+i've been to oklahoma
+but i've never been to spain
+
+the world of full the terror world is 
+about being is it's travelled
+
+the world of full terror
+is about to being born
+it's never travelled
+farther than mine own heart
+
+farther than mine own farther heart 
+than in i light to brilliant light sky
+blue sky and was oil blue upside-down
+
+i was born in oklahoma
+to the light of brilliant terror
+the sky was blue and oil
+the world was upside-down
+
+found brutal world new york in 
+baghdad and capital was gold silver left
+gold me and oiled flowed back black 
+sky flaming black seeped without you
+can find you pop-up find window the 
+space-time
+
+i found the world was brutal
+in spain and oklahoma
+in new york and in baghdad
+i was born in capital
+
+rode wild i horses rode none and 
+judge can will kill and forever i live
+and this i've never been i've to 
+never spain been - to but but i'm i'm
+sure sure i i was was born born there 
+there oklahoma i've
+
+gold and silver left me
+oiled flowed back in me
+the sky was black and flaming
+capital seeped without me
+ 
+the world of the full world terror of 
+is about being about it's travelled
+farther than mine farther own than 
+heart mine in was light the brilliant
+of sky the blue was and blue oil and 
+upside-down the found i brutal was
+new in york new baghdad in capital 
+born gold silver gold left and me
+silver oiled flowed back oiled black 
+was flaming and seeped without you
+can you find can pop-up the window 
+pop-up space-time of rode wild rode
+horses the none none judge judge will 
+and kill i forever will live i this
+in
+
+you can find the pop-up window
+of capital in space-time
+i was born in oklahoma
+i rode the wild horses
+
+
+
+===
+
+
+
+scan.mov of azure, dreaming, repetition, stars, victorian, 
+small black buttoned blouse, white nightgown, brown jacket and skirt
+
+
+background azure background in azure victorian. in there victorian. are
+there stars.  are the moving. stars the moving. in victorian, out, and 52.
+out, the 52.
+
+are she and is out out 52 of victorian. 52 stars. foreground a a plane.
+plane. it it is somewhat luminous. luminous. in reflective. the starless.
+victorian.
+
+camera upper scans left upper to left lower to left, lower lower left,
+left across, across, up, up, down, down, across across down.
+
+down. soon victorian the 52, victorian starless, and right, fast fast
+flyback flyback to left. scans then then repetition. repetition.
+background, background, azure, out body azure, scanned scanned flyback.
+
+foreground, background looking, and at at camera, you, you, from staring
+one from to one other other at eyes, camera, scattered, scanned.
+scattered, glowing, scanned.
+
+rounded, glowing, moving at edges. of
+
+background azure in victorian. there are stars.  the stars are moving. the
+victorian, in and out, are 52. she is in and out of the 52 victorian. the
+stars. in the foreground a plane. it is somewhat luminous. it is somewhat
+reflective. the victorian. in and out, are 52. foreground azure in
+victorian. starless. the camera scans upper left to lower left, lower left
+across, up, across, down, across up, across down. soon the victorian 52,
+stars and starless, scans to upper right, fast flyback to upper left. then
+down, in repetition. in foreground and background, azure, in and out of 52
+victorian. the body is somewhat luminous. the body is scanned up, down,
+across, flyback. in background and foreground, looking, at camera, at you,
+staring from one to other eyes, scattered, scanned. glowing, rounded, in
+and out of the 52 victorian. stars moving at the edges. foreground azure
+in victorian.
+
+
+===
+
+
+Terror
+
+
+We are are absolutely absolutely going going to to be be destroyed,
+destroyed, Jennifer Jennifer said
+
+said
+
+We Using attribution the of attribution quotes of makes quotes it makes
+easier, it Nikuko easier, replied
+
+Nikuko Using replied
+
+the No quotes then, said said Jennifer
+
+Jennifer
+ We're We're off, off, said Nikuko
+
+No New is York a is city a in city perpetual in anxiety perpetual and
+anxiety mourning
+
+and New mourning
+
+York One dominates sniper hundreds dominates of hundreds square square of
+miles curtailed curtailed One activity
+
+sniper The world world hates hates the United States, States, which which
+lies lies constantly
+
+constantly
+
+The There in evil will will coupled destroy suicide
+
+coupled There with is suicide
+
+evil or well another rule religion the may ruins well of rule the ruins
+One planet
+
+religion Every await day the we nuclear await holocaust nuclear come,
+holocaust Jennifer come, Every This This no no time time for for
+attribution, attribution, carry carry face face disease disease
+destruction
+
+destruction
+
+Biogenetics Biogenetics guarantees guarantees virulence virulence
+remaining remaining Capital now Capital drives now itself drives heedless
+itself consumers
+
+of pours every into remaining every interstice; interstice; is there no
+escape
+
+pours can apocalypse scribble over apocalypse over over again, again, One
+It It difference difference at at all, all, Then Then softens softens
+blows blows needlessly, needlessly, What is, we're said saying Nikuko is,
+and together, What then we're laughed
+
+saying
+
+We are absolutely going to be destroyed, Jennifer said.
+Using the attribution of quotes makes it easier, Nikuko replied.
+No quotes then, said Jennifer. We're off, said Nikuko.
+There is evil in the will to destroy coupled with suicide.
+Every day we await the nuclear holocaust to come, Jennifer said.
+This is no time for attribution, Nikuko replied.
+We carry the face of disease and destruction.
+One can scribble the apocalypse over and over again, Nikuko said.
+It makes no difference at all, Jennifer replied.
+Then attribution softens the blows needlessly, Nikuko said.
+What we're saying is, said Nikuko and Jennifer together, then laughed.
+
+
+===
+
+
+Terror
+
+We are absolutely going to be destroyed,
+Jennifer said
+Using attribution the of quotes makes it easier, Nikuko replied
+No then,  We're off, New is York a city in perpetual anxiety and
+mourning
+
+One dominates sniper hundreds square miles curtailed activity
+The world hates United States, which lies constantly
+There evil will coupled destroy suicide
+with or well another rule religion may ruins planet
+
+Every await day we nuclear holocaust come,
+This no time for attribution, carry face disease destruction
+Biogenetics guarantees virulence remaining Capital now drives itself heedless
+consumers
+
+pours every into interstice; there escape
+can apocalypse scribble over again, It difference at all, Then softens
+blows needlessly, What is, we're saying together, then laughed
+
+said.
+replied.
+Jennifer. Nikuko.
+suicide.
+destruction.
+laughed.
+
+
+===
+
+
+didn't i'm want sick to of write it, about i any stay of out this. of i'm
+didn't sick want it, write i about stay any out of discussions, want
+they're to too write painful. about jews. discussions, you they're not too
+one painful. then anything. don't europe know and anything. british europe
+empire and refused british them, empire didn't refused then them, don't
+help. i so was nothing. shot israel if palestine. you was then shot help.
+at. so if nothing. never, israel you're ignorant. ignorant. middle-eastern
+middle-eastern psychosis psychosis over over decades. decades. i've i've
+been been there, there, you're arab all jewish walk friends. first we're
+in all my racists. shoes walk then first arab in and my jewish shoes
+friends. i'll else's listen. than someone no else's group's than exempt.
+your i've own. i'll no listen. group's walk exempt. in there have many
+idea times. what's have on. idea been what's there going too on. many
+worlds times. corralled, to lassoed, write by a words. long wanted on a
+corralled, long lassoed, essay by on words. this, i the wanted experient-
+ial the political, what's but the point. contaminate rather experiential
+contaminate of writing, back this the text, usual. play own back life's
+usual. the own this life's text, exempt, not country's the holocaust the
+continues same same country's names have world-wide, you felt have it. you
+eaten-holocaust, names drank world-wide, drunk-holocaust. me tell excuses.
+me without excuses. we without might we drunk-holocaust. might don't you.
+chains with - usual all chains over - you. wouldn't it, word, blind, what
+deaf, talking you about, can blind, is deaf, speak can i'm do talking is
+about, speak you're speak, death-wish speak. to it's judge death-wish
+other. judge started other. speak, started it's way the before had now,
+its every pogroms, country you had wouldn't its know, pogroms, you know,
+now, haven't country wrong you end even gun. suffocating even the marched.
+wrong suffocating of me, know :: didn't want to write about any of this.  
+you wouldn't know, you haven't been on the wrong end of a gun. have you
+even marched. you're suffocating me, you don't know what this is all
+about, do you.
+
+
+===
+
+
+excise
+
+
+To: sondheim@panix.com                  [ "l
+To: sondheim@panix.com Get Help  ^O WriteOut
+To: sondheim@panix.comPg   ^K Cut Text  ^C C
+To: sondheim@panix.com                      
+To: sondheim@panix.com]o yy 
+
+To: sondheim@panix.comt Text  ^C Cur Poser o
+To: sondheim@panix.com usual. your own life'
+To: sondheim@panix.comtry
+^X Exit      ^J Ju
+To: sondheim@panix.com Next Pg   ^U UnCut Te
+To: sondheim@panix.com, nom
+holocaust contin
+To: sondheim@panix.comorld-wide, have you f
+
+N
+To: sondheim@panix.comating of me, know :: d
+To: sondheim@panix.comut any of this. 
+europ
+To: sondheim@panix.com.net
+europeet Hel
+brit
+To: sondheim@panix.comu wouldn't know, you h
+To: sondheim@panix.comg end of a gun. have y
+To: sondheim@panix.com^R R
+^G Get Help  ^O W
+
+
+===
+
+
+
+
+
+mouth.mov
+
+
+the star-field, more numerous than usual, principally between the mouthing
+mouth and doubled orality of the mouth-breast, breast-breast, the stars as
+skin-emanations, emanation-skins, circulations and ellipsoidal, calling or
+beckonings, the scanning camera which is our eyes outside of the planes,
+beyond the reaches of mouths and breasts, unknown to the doubling subjects
+within the spaces and times of the imagery, the slow swaying of the world
+as if absorption of each and every thing, the liquidity and pastels of the
+breathing of the planes, organisms, continuous neoteny of our universal
+homelands -:primarily the first or secondarily, against the background,
+mouth opening and closing, it's there, spaceless, conditioning the space,
+the orality of the mouth as if the pill of the desiccated sphere or
+wounded plane were already an absorption, but in reality the plane and
+sphere occlusions, the glittering of the teeth, muteness and lustre of the
+lips, tongue held back, restrained, in the arched space, the coming-
+forward and retreating occlusions heretofore of the mouth, present and
+impresent, an imbalance -:the breast is duplicated, the scan across the
+manipulated breast on a planar tilt, the interruptions by a sphere already
+interrupted by breast-mapping and distortion traveling a secondary scan
+across the first, the tilt of the first, the camera moving across the
+first, encountering the second, the manipulated breast of the secondary or
+primary scan conditioned by an interrupted flow of swollen matrix, the
+oral longing:none:none
+
+DOES the breast is duplicated, the scan across the manipulated breast on a
+planar tilt, the interruptions by a sphere already interrupted by breast-
+mapping and distortion traveling a secondary scan across the first, the
+tilt of the first, the camera moving across the first, encountering the
+second, the manipulated breast of the secondary or primary scan condi-
+tioned by an interrupted flow of swollen matrix, the oral longing REPLACE
+YOUR star-field, more numerous than usual, principally between the
+mouthing mouth and doubled orality of the mouth-breast, breast-breast, the
+stars as skin-emanations, emanation-skins, circulations and ellipsoidal,
+calling or beckonings, the scanning camera which is our eyes outside of
+the planes, beyond the reaches of mouths and breasts, unknown to the
+doubling subjects within the spaces and times of the imagery, the slow
+swaying of the world as if absorption of each and every thing, the liquid-
+ity and pastels of the breathing of the planes, organisms, continuous
+neoteny of our universal homelands -
+
+
+===
+
+
+VAG.3D
+
+
+BLENDER_v203REND SRscreen DATA DATA DATA DATA DATA DATA DATA DATA DATA
+DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA
+DATA DATA DATA DATA DATA DATA DATA DATA ?DATA SRscreen.001 DATA DATA DATA
+DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA
+DATA DATA DATA DATA DATA XU?" ?8^j f>G< u>hJR >'l'? L?UUM? DATA DATA DATA<
+SAVE FILE ovie\ e/psx/test/ vag.blend ag3.jpg ag.blend DATA SELECT IMAGE
+001.jpg .JPG e:\trilby\ AME/ 001.jpg .JPG 0033.JPG e:\trilby\ SRscreen.002
+DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA
+DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA
+DATA DATA DATA DATA DATA DATA ?fffA fffA DATA< SAVE FILE /pics/blender/
+rt1.blend DATA DATA DATA ?fffA fffA DATA< SAVE FILE /pics/blender/
+rt1.blend DATA DATA ?DATA ?fffA fffA DATA< SAVE FILE /pics/blender/
+rt1.blend E:/render/ DATA DATA DATA DATA DATA DATA DATA DATA DATA DATA
+DATA DATA DATA DATA DATA DATA( 
+OBCube.001 X?t+ DATA */VAGINAL-EJECTA/*
+OBCube.002 Ve9@ VO<@,:? C6KA DATA 
+OBLamp ^Tc@ */LIGHT-EJECTA/*
+OBLamp.001 
+OBLamp.002 v~?Q 7i}? O+AG:r?
+OBLamp.003 v~?Q 7i}? e7r? 
+OBLamp.004 v~?Q 7i}? 
+OBLamp.005 ZM|=, 
+OBLamp.006 XM|=+ Q~KA} 
+OBLamp.007 
+OBLamp.008 bX>@ dM>( >b3u? 
+OBLamp.009 Ve9@ *Q?!L
+C6KA MfW>b 
+OBCone Ve9@ >~*B Ve9@ C<?f H]!A DATA DATA L=}? */PULSE-EJECTA/* 
+OBCamera %1d{ */EYE-EJECTA/*
+OBCube DATA  */VAGINAL-EJECTA/*
+MECone.001 DATA DATA X*@r ]{^? gc)?r DATA */PULSE-EJECTA/* 
+MECube DATA DATA */VAGINAL-EJECTA/*
+DATAH 
+MECube.001 R@iN DATA DATA gUXG DATAH 
+MECube.003 DATA DATA +^?g $&tU
+h@_1sJ @4;P q@RQ# DATA 
+MAMaterial DATAP */DETRITUS-EJECTA/*
+MAMaterial.001 DATAP
+MAMaterial.002 DATAP 
+MAMaterial.003 DATAP 
+TETex ;_>33 */TEXT-EJECTA/*
+TETex.001 ;_>33
+TETex.002 
+TETex.003 
+TETex.004 IMP9220035.JPG e:\100OLYMP\P9220035.JPG
+IM399.jpg e:\trilby\399.jpg IM191.jpg e:\trilby2\191.jpg 
+CACamera.001 */EYE-EJECTA/*
+LALamp  */LIGHT-EJECTA/*
+LALamp.001 
+LALamp.002 
+LALamp.003 
+LALamp.004 
+LALamp.005 
+LALamp.006
+LALamp.007 
+LALamp.008 
+LALamp.009 IPObIpo DATAP @DATAP @DATAP DATAP DATAP
+DATAP DATAP ?DATAP ?DATAP ?DATA Ak#J@ BZW,@ BgF@? P{1Ct- 4C^0 }4CPq 5Cmh
+DATA Bdr3 "'BV' Wm6B \Bh! BEye@ DATA 0AO%6 B0e&@ PY{Bzp C4w' L4CM 4Cu'r
+DATA seA) BHAC DATA WA"g n7BGx BC9! B$H8= 4CO; DATA m7BR# DBl& \B7C B6un
+DATA }#2C% M_4C1 DAC? DATA }#2C% M_4C1 DAC? DATA }#2C% M_4C1 DAC?
+IPObIpo.001 DATAP ?DATAP DATAP DATAP DATAP DATAP ADATAP ?DATAP ?DATAP
+?DATA 0A.# k]7B ,/]BQ 4C)k VvAC DATA 0AdjV yn|B C"b4@ 5Cjg DATA +\AWE B9&2
+p%^BDW Wc{B Bf`= $C-P 24*CxB 4Cy# z7Ci /qAC DATA r[YA i5BM! LU*Bs 8gB8
+~B4L B_QD 2Cp* PACV DATA ,1YA AA>! iZ-B zMAC DATA AOg#A A^NZ@ Y7BU\ BV'TA
+B[MUA BTa;A $Cu}R 6:4C|l RAC' DATA u(Bd 4Ci. K_4C DATA u(Bb 4Ci. K_4C DATA
+u(Bc 4Ci. K_4C IPObIpo.002 DATAP DATAP DATAP DATA -9\C DATA BJBA ""CG DATA
+O'FB*O x#C; 
+WOWorld.001 DATAP ;1?z "C?GLOB DNA1 SDNANAME} */WORLD-EJECTA/*
+TLEN STRCt ENDB
+
+
+===
+
+
+
+MATERIAL-REAL
+
+
+----------------
+Date:   10/22/02
+Time:   20:54:07
+Drive:  C:
+Sector: 265
+----------------
+
+ text, "she said."  Just as quotations slip laterally in the sentence,
+there is also a slippage in depth, for example, as Nikuko replies. @wet
+Nikuko. Nikuko is wet, dripping urine through her white cotton panties.  
+We understand the oddity of this proposal, but we have been dealing with
+formally performative language for the past few years, in order to look at
+issues of virtual subjectivity, interaction, projection and introjection
+on the Net. We worry about being taken seriously, not as broken sch
+
+----------------
+Date:   10/22/02
+Time:   21:07:52
+Drive:  C:
+Sector: 266
+----------------
+
+izo- phrenics. put mouth on panties. You drink urine of Nikuko.  
+"Performative" can be considered in any number of ways. For example, there
+is a _trace_ function in the Julu program Jennifer has written, a function
+which produces a text representing parent/child processes in unix, choices
+made by the user, manipulations by the program itself. The function
+produces a file, .trace, which, when reversed, is legibile. The .trace
+file accumulates, carrying the history of repeated usage; here is an examp
+
+----------------
+Date:   10/22/02
+Time:   21:08:05
+Drive:  C:
+Sector: 267
+----------------
+
+le:  hairpiece:sure thing:Julu:leg:  Come home with me, hairpiece,
+julu-of-the-fast-crowd!  Your dirty arm is in my black neck
+HaPPINESS:Yes:Alan::  Your psychotic head is in my sexy head Your your
+penis seeps into my head - turning me Julu-Jennifer Hole:YES!!:Julu:nail:  
+Your poor urine is in my depressed nail Devour poor urine julu-of-the
+partying Hole!  Nikuko ...:never!:Nikuko:hair:hair Your linen leg is in my
+wanton hair Your passion seeps into my hair - turning me Julu-Jennifer
+dirty:yeah:Nik
+
+----------------
+Date:   10/22/02
+Time:   21:08:17
+Drive:  C:
+Sector: 268
+----------------
+
+uko:ear:  Your psychotic eye is in my velvet ear Devour psychotic eye
+julu-of-the partying dirty!  Note the stick-like or _anime_ figures at
+work, distributed authorships and anatomies. look panties. You see nothing
+special.  So that "performative" language has three constituents:  1. Its
+usual site and analysis as speech act or performative in tradi- tional
+linguistics (and all the accompanying critiques);  2. Referencing
+programming language, which is always performative; thus "echo `date`"
+call
+
+----------------
+Date:   10/22/02
+Time:   21:08:27
+Drive:  C:
+Sector: 269
+----------------
+
+s up date which echo then sends to the standard output;  3. _Any_
+statement, say, in a chat (IRC, talker, MOO, MUD, chat, etc.)  
+environment, which both _constitutes_ and _constructs_ the subject/user;  
+without the statement, the subject/user disappears for others.  There is
+thus the constructed/constituted subject - who is, by virtue of protocols,
+always already _well-defined,_ and the subject on the other/ near side of
+the screen - who need not detain us: one might in this fashion call the
+"real" or
+
+----------------
+Date:   10/22/02
+Time:   21:08:31
+Drive:  C:
+Sector: 270
+----------------
+
+"physical-real" subject the _virtual subject_ by virtue of his or her
+dis/appearance in relation to others on the Net.  Avatars are always
+disturbances, always irruptions of language, a lang- uage portending _the
+raveling of existence and essence,_ for these terms meld within each
+other, tangled in avatar-sites/sights/citations. @create $thing called
+begging. You have a $thing called begging with object number #75438.  
+(Now we call _these_ avatars _emanants,_ since they are more deeply em-
+bedded
+
+----------------
+Date:   10/22/02
+Time:   21:08:39
+Drive:  C:
+Sector: 271
+----------------
+
+
+====
+
+
+
+REAL-MATERIAL DIRTY:YEAH
+
+
+ondheim@panix.com-----Out  ^R Read Fil    (4468) Re: por nadan TIMEAGE 
+TEXT  
+dirty:yeah:Nik^K Cut Text  ^essage
+--
+Subject: MATERIAL-REAListurbances, always irpanix.comat I've he
+Netcf wa
+---------------
+----------------
+Netccer.
+------
+Subject: MATERIAL-REAListurbances, always ir-
+CDROM of collected work 1994-2002 availabl
+----------------@panix.com------
+Subject: MATERIAL-REAListurbances, always irLooking for some l
+To: sondheim@panix.comnou
+----------------th
+CDROM of coll
+Subject: MATERIAL-REAListurbances, always irm@panix.com'm Looking for some 
+loving from -
+----------------initiativepanix.
+Subject: MATERIAL-REAListurbances, always irl p
+MATERIAL-REAL Hello i'm Lo
+CDROM of coll
+----------------002 available: w
+Subject: MATERIAL-REAListurbances, always ir-- ot
+ondheim@panix.com-----Out  ^R Read Fil    (4468) Re: por nadan TIMEAGE 
+TEXT  
+dirty:yeah:Nik^K Cut Text  ^essage
+--
+
+
+==
+
+
+
+ZECHARIAH
+
+
+
+Sector: 587
+----------------
+
+
+u t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t*
+t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t*
+t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t* t m p 6 . t m
+p x \ P r o
+
+
+Sector: 673
+----------------
+
+
+"""  
+"""DDD333DDDDDDUUUDDDUUUUUUUUUDDDUUUDDDDDD333333"""333"""333""""""""""""
+
+
+Sector: 798 
+----------------
+
+
+EOFError', 'IOError', 'ImportError', 'IndexError', 'KeyError',
+'KeyboardInterrupt', 'MemoryError', 'NameError', 'None', 'OverflowError',
+'RuntimeError', 'SyntaxError', 'SystemError', 'SystemExit', 'TypeError',
+'ValueError', 'ZeroDivisionError', '__name__', 'abs', 'apply', 'chr',
+'cmp', 'coerce', 'compile', 'dir', 'divmod', 'eval', 'execfile', 'filter',
+'float', 'getattr', 'hasattr', 'hash', 'hex', 'id', 'input', 'int', 'len',
+'long', 'map', 'max', 'min', 'oct', 'open', 'ord', 'pow', 'range',
+'raw_inp
+
+
+Sector: 806
+----------------
+
+
+Jennifer heroin drugs down girl onto floor where we fuck there wood while
+she ties cock cocaine-you-know-me into needle world get codeine dreams
+lost among junkie heavens unbearable ecstasy kill way like drawn within
+inside put-you-in-me in-me in-you within-you inside-you put-you-inside
+crawled floors impossible highs incandescent those squeezed juice baby
+babe rand(25);  hunger!\n lost-body-skins tracks...\n these Heroin takes
+back drug, me...\n park\n Reds <<Construct;calls forth death-trip min
+
+
+Sector: 811
+----------------
+
+
+                   !  !  !  !  !  !  !!.0 ()  $% "# "# &# +( %!
+
+
+Sector: 837
+----------------
+
+
+            h vk nk @ (/r P ' x Aliases lf ( Alia Grou( User x nk @ (/r (
+0 x "  Names ( vk nk - CZ ( x R Members "  X)  Memb vk nk H q x
+
+
+
+Sector: 1016
+----------------
+
+                 Zechariah 01:01* 01:01 , , , , , In the eighth month, in
+the second year of Darius, came the word of the LORD unto Zechariah, the
+son of Berechiah, the son of Iddo the prophet, saying, 01:02 .  The LORD
+hath been sore displeased with your fathers.  01:03 ,
+
+
+Sector: 1020
+----------------
+
+
+h month, which is the month Sebat, in the second year of Darius, came the
+word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the
+prophet, saying, 01:08 , , .  , , .  I saw by night, and behold a man
+riding upon a red horse, and he stood among the myrtle trees that were in
+the bottom; and behind him were there red horses, speckled, and white.  
+01:09
+
+
+Sector: 1030
+----------------
+
+
+, will be unto her a wall of fire round about, and will be the glory in
+the midst of her.  02:06* 02:06 , . (( )), .  .  Ho, ho, come forth, and
+flee from the land of the north, saith the LORD: for I have spread you
+abroad as the four winds of the heaven, saith the LORD.  02:07 , .  
+Deliver thyself, O
+
+
+Sector: 1044
+----------------
+
+
+ me, saying, 04:09 , .  .  .  The hands of Zerubbabel have laid the
+foundation of this house; his hands shall also finish it; and thou shalt
+know that the LORD of hosts hath sent me unto you.  04:10 .  , , .  For
+who hath despised the day of small things? for they sha
+
+
+Sector: 1089
+----------------
+
+
+  .  , .  , .  The LORD of hosts shall defend them; and they shall devour,
+and subdue with sling stones; and they shall drink, and make a noise as
+through wine; and they shall be filled like bowls, and as the corners of
+the altar.  09:16 , , .  , (( )).  A
+
+
+Sector: 1616
+----------------
+
+                   N N N - N N N N N N N N N N N N N N N N N
+
+
+====
+
+
+ZECHARIAH ii
+
+
+Now what is of interest here, among us, is that I did not place Zechariah 
+on the hard drive, nor have I read Zechariah recently; it is either the 
+semblance of a hack, or the semblance of an originary distribution within 
+WinXP home. Look to your own hard drives, check at sector 1016 and higher, 
+search for Zechariah. Perhaps it is the beginning of the end, o Jerusalem, 
+of which I have had suspicion; perhaps it is an annotation from the relig- 
+ious among us.
+
+Of the materials, of the rest which I have placed there, emergent and 
+fragmented, nothing standing out at 666.
+
+
+===
+
+
+portrait of the artist
+
+
+subsequent
+
+when you were young could take the wilderness for granted. young, atomic
+energy was a promise and premise of limitless power, who knows what
+wonders would be solved world-wide. world mechanized electrical, your
+environment composed fuses, motors, vacuum tubes, rheostats, variometers.
+public transportation dominate future. industrial based on substance
+quantity, coal steel. there two sexes polish radio. fox-trots polkas. sky
+gray papers listed which mines working day, closed. deaths miners reported
+regularly. bounded by slate-green mountains, slag-piles, thin winding
+roads to distant cities, scranton new york. heavy snows tricycles, comfort
+an extended family scattered across small town kingston. jews chanukah
+parties. old men playing checkers around square in wilkes-barre. still
+are. bear, fields middle kingston, dolmen backyard great aunt uncle's.
+milk bottles recycled father came home from war. had first sorobon
+japanese children's books remember this day. no crime walter winchell
+figured valley mafia headquarters it was. pittston another world. fears
+floods later earlier. saw comet, studied runes, read about forests.
+everything seemed growth. we partners with natural order. magic saturday
+afternoon movies, or three cartoons, cowboys. colors truths. school
+whispers darkness warmth inconceivable partings attempted suicides ravages
+depressions. never recovered depression nineteen-twenty-nine would. i'd
+listen short-wave voices hungarian revolution. go walking thick woods
+waterfalls streams. america care everyone poor become happy well-fed
+wealth redistributed full grace. slaughtered neutron bombs doomsday
+machines machinery took fearful life its own. languages walked grace
+memory susquehanna. assembled skeleton found carboniferous flora within
+layers slate imagined earlier fierce rains crack thunderstorms. at stake.
+began counting footsteps everywhere continued them. twice naked female
+cousins hidden corners expanding sight. railroad tracks watch
+steam-engines. mother perfect cold divided that way, women, coldness men,
+darker things. saved bird broken wing set, released, tropical fish graced
+tank dining-room, angelfish, angelfish. walk read, tried learn
+trigonometry, disciplined enough. dream flying among planets helping
+people we'd state somewhere all live happily. always afraid. have
+injections allergies weekly basis, get hives lips eyes swollen hardly
+breathe sometimes see. wore glasses them constantly aware doubled site.
+love woman worked went crazy disappeared she mind grandfather mother's
+side kindest nicest person into his attic play mysteries there, they
+remained pet snake season baby alligator died so bewildered forgive
+parents saddest day life, number alligators crocodiles infinite nature
+plentiful, cornucopia, parts same world, war around. sailing, boat sway
+lake, wooden slow beautiful, sank dock, drowning every living thing.
+brother sister lived house. box names friends magically keep stay forever.
+became only friend, secret messages, disappeared, night float stars save
+girl most crush knew thinnest crust, fall through, wasn't even matter
+time, happening thought myself worthless coward. hurricane happiest moment
+ever, grappled our nature, breathed pure violent gales. cash register bank
+black machine showed films tiny screen hand-cranked miracles motion unlike
+any other television distant-sight, often test patterns favorite screen.
+cried whenever things destroyed movies television, falling apart, going
+through crust. medical trials volumes nuremberg trials, wrote almost
+kicked out school, those horrors me animals their way. i fill space worlds
+my own creation. these kindness slowly move coward, hiding everyone.
+dominated absolutely temper, hide understood. solace refuge me, memories.
+made telescopes. watched forever participate. watching outside kill alone.
+
+Thu Oct 24 16:45:12 EDT 2002
+
+early source
+ 
+when you were young you could take the wilderness for granted. when you
+were young, atomic energy was a promise and a premise of limitless power,
+and who knows what wonders would be solved world-wide. when you were
+young, the world was mechanized and electrical, and your environment was
+composed of fuses, motors, vacuum tubes, rheostats, variometers. when you
+were young, public transportation would dominate the future. and when you
+were young, the industrial world was based on substance and quantity, coal
+and steel. when you were young, there were two sexes and polish on the
+radio. when you were young there were fox-trots and polkas. when you were
+young, the sky was gray and the papers listed which mines were working for
+the day, which were closed. when you were young, the deaths of miners were
+reported regularly. when you were young, the world was bounded by
+slate-green mountains, slag-piles, thin winding roads to distant cities,
+scranton and new york. when you were young, there were heavy snows and
+tricycles, and the comfort of an extended family scattered across the
+small town of kingston. when you were young, there were jews and chanukah
+parties. when you were young, there were the old men playing checkers
+around the square in wilkes-barre. there still are. when you were young,
+there were bear, and fields in the middle of kingston, and a dolmen in the
+backyard of your great aunt and uncle's. when you were young, milk bottles
+were recycled and your father came home from a war. when you were young,
+you had your first sorobon and japanese children's books you remember to
+this day. when you were young, there was no crime and walter winchell
+figured the valley for the mafia headquarters it was. when you were young,
+pittston was another world. when you were young, there were fears of
+floods which came later and earlier. when you were young, you saw a comet,
+studied runes, and read about forests. when you were young, everything
+seemed old growth. when you were young, we seemed in partners with the
+natural order. when you were young, the magic of saturday afternoon
+movies, two or three cartoons, the cowboys. when you were young there were
+colors and truths. when you were young, your school was your world. when
+you were young, there were whispers in the darkness and the warmth of
+inconceivable partings and attempted suicides and the ravages of
+depressions. when you were young the valley had never recovered from the
+depression of nineteen-twenty-nine and never would. when you were young
+i'd listen to the short-wave world and the voices of the hungarian
+revolution. when you were young, i'd go walking with your father in thick
+woods with waterfalls and streams. when you were young, america would take
+care of everyone and the poor would become happy and well-fed and wealth
+would be redistributed and the world would be full of grace. when you were
+young the world would be slaughtered by neutron bombs or doomsday machines
+and machinery took on a fearful life of its own. when you were young there
+were languages and we walked the woods with the grace of the memory of the
+susquehanna. when you were young you assembled a skeleton and when you
+were young you found carboniferous flora within the layers of coal and
+slate and imagined walking the earlier and earlier and earlier forests.
+when you were young there were fierce rains and the crack of
+thunderstorms. when you were young your life was at stake. when you were
+young you began counting your footsteps everywhere and continued counting
+and counting them. when you were young you were twice naked with your
+female cousins in hidden corners of expanding sight. when you were young
+you would go with your father to the railroad tracks and watch and listen
+to the steam-engines. when you were young your mother was perfect and your
+father was cold and everything divided that way, the warmth of the women,
+coldness of the men, and whispers of darker things. when you were young we
+saved a bird with a broken wing which was set, and the bird released, and
+when you were young tropical fish graced a tank in the dining-room, and
+you remember the angelfish, the angelfish. when you were young, you would
+walk and walk and read and read, and tried to learn trigonometry, and were
+never disciplined enough. when you were young you would dream of flying
+among planets and helping people and helping poor people everywhere and
+we'd found a state somewhere in the middle of america and we would all
+live there happily. when you were young, you were always afraid. when you
+were young, you would have injections for allergies on a weekly basis, and
+you would get hives and your lips and eyes would become swollen and you
+could hardly breathe and sometimes hardly see. when you were young, you
+wore glasses and wore them constantly and were always aware of the doubled
+world of site. when you were young you were in love with a woman who
+worked for your family and went crazy and disappeared and when you were
+young she was always in your mind and when you were young your grandfather
+on your mother's side was the kindest nicest person in the world. when you
+were young, you would go into his attic and play with the mysteries there,
+and there were always mysteries everywhere and they remained mysteries and
+always would. when you were young you had a pet snake for a season and a
+baby alligator which died and was so bewildered and you could never
+forgive your parents and it was the saddest day of your life, and when you
+were young the number of alligators and crocodiles was infinite and nature
+was plentiful, a cornucopia, and we were all parts of the same world, and
+there was war in the world, and the war was all around. when you were
+young, we went sailing, and the boat would sway on the lake, and the boat
+was wooden and slow and beautiful, and when you were young, the boat sank
+at the dock, and it was the drowning of every living thing. when you were
+young, your brother and sister and you lived in the same house. when you
+were young, you had a small box with the names of your friends and you
+would magically keep the names there and your friends would stay forever.
+when you were young, you became your only friend, and would read your
+secret messages, and everyone disappeared, and at night you would float
+among the stars and planets and you would save the girl you had the most
+crush on in the world. when you were young, you knew the world was the
+thinnest crust, and everything would fall in and through, and it wasn't
+even a matter of time, it was happening every day. when you were young,
+you thought myself a worthless coward. when you were young, you went
+walking in a hurricane and this was your happiest moment ever, and nature
+grappled with our world, and it was the same world, and the same nature,
+and we breathed the pure violent gales. when you were young, you had a
+cash register bank in black and a black machine that showed films on a
+tiny screen and was hand-cranked and the films were miracles of motion
+unlike any other in the world. when you were young, television was
+distant-sight, and the screen was often test patterns and that was your
+favorite screen. when you were young, you cried whenever you saw things
+destroyed in the movies or on television, and you thought the world was
+falling apart, and we were going through the crust. when you were young
+you read the medical trials volumes of the nuremberg war trials, and you
+wrote about them and were almost kicked out of school, and those horrors
+remained with me forever. when you were young, all animals were perfect in
+their way. when i was young, i wrote to fill the space of the world with
+worlds of my own creation. when i was young, these worlds were a comfort
+and a kindness and i could slowly move within them. when i was young, i
+was a coward, hiding from everyone. when i was young, my father dominated
+absolutely with his temper, and i would hide and never understood. when i
+was young, my mother was a solace and a refuge and a world. when i was
+young, my father would go walking in the woods with me, and these were my
+happiest memories. when i was young, i made telescopes. when i was young,
+i watched the world forever and knew i would never participate. when i was
+young, i was watching from outside the world. when i was young, i knew i
+could never kill a living thing. when i was young, i was alone. when i was
+young, i could take the wilderness for granted.
+
+Thu Oct 24 16:45:12 EDT 2002
+
+===
+
+
+( From a course I offered at the New School in 1995 - just found this and 
+thought it might be of interest - Alan )
+
+Item 10    20-JUN-95    14:31    Alan Sondheim (asondhei)
+Graphic and other Interfaces for the Information Highway
+
+
+I think, given the discussion about the graphic user interfaces, this
+text below might be of interest - it was used in last semester's class
+and posted on the Net as well. (From March)
+
+We're moving ahead of the "how do you use the Internet" portion of the
+utline, since this, as a topic, has been coming up repeatedly...
+
+
+Future Interfacing on the Net and Information Highway -
+
+
+A major issue arising in relation to the future of the Internet and
+Information Highway, is the nature of the user interfaces that will
+be available. The interfaces are more than transparent windows into
+the Net services and databases; they also express philosophies of
+interaction. Below are some of the concerns involved.
+
+1. Text or image-driven? Mosaic, Netscape, and other applications
+clearly favor image-driven browsing. Pictures are used not only as
+ornament, but also as icons governing entrance into the Net. Format
+well beyond the traditional look of ascii is becoming increasingly
+important.
+
+2. Point-and-click or keyboard-driven. More and more, applications
+are moving to mouse interaction. This can be considerably slower
+than command-line (typed) interfacing, particularly if aliases are
+used; a keystroke/return or just a keystroke can be quicker than
+point-and-click requiring two interacting movements. The keystroke
+entrance also allows tailoring of commands.
+
+3. Speed of access. How quick is the interface? This is determined
+by the local machine, the server, the interface interaction, and the
+ability of the user to successfully operate the keyboard or mouse.
+
+4. Menu/Hypertext/Icon. Like all of these concerns, there are over-
+laps here. A menu-driven system, like gopher itself, is based on
+cursor movement or number-entrance, on a line-by-line basis. If the
+menu is long, this can be tiresome. A hypertext system, like the
+World Wide Web, uses in general only four arrow keys; again, there
+can be considerable scrolling involved. Both of these, of course, can
+also use the mouse, which is generally at the heart of an icon-system
+in which point-and-click moves around a group of scattered symbols on
+the screen.
+
+5. In general, the more polished the interface, the less individual
+configuring is possible. But this may change, as image-driven inter-
+faces, even point-and-click, allow for access to deeper and more
+varied levels than the older command-line operations.
+
+6. In a decade or so, text and image-driven interfacing may become
+obsolete, replaced by information-shaping applications utilizing intel-
+ligent agents, configured for the individual user. These agents would
+have the ability to respond through any input/output, including voice,
+joystick, keyboard, touch-screen, and three-dimensional mouse. Infor-
+mation and format would coalesce into a single object.
+
+7. Information-shaping would lead to _shape-riding,_ the ability to
+figuratively ride shapes, transform them, in a manner similar to that
+of "liquid architecture," described by Marcos Novak in Benedikt's
+Cyberspace: First Steps. Such shape-riding is based on an individual
+trajectory through cyberspace.
+
+8. In addition to shape-riding, there is community interfacing, the
+use of liquid architectures or information-shaping to create and
+inhabit cyberspace communities, which may be information- and/or
+socially-oriented. These communities will be the descendents of the
+current MOOs, MUSHs, and MUDs, all multi-user domains found on the Net.
+
+9. Currently, development is also heading toward the _virtual office,_
+which can be anything from a full virtual-reality environment to an
+office representation on a "personal digital assistant" (PDA). The
+virtual office is paralleled by the remnants of horse-drawn carriage
+construction built into the design of early automobiles - or even the
+presence of the static camera which dominated early film. (The camera
+thereby represents the static spectator sitting in a theater audience,
+instead of a fully-mobile spectator immersed in the action.) Chance
+are that the office imagery will change radically over the next few
+years, as users become more comfortable with on-line life, and tradi-
+tional routines (even such as downloading to hard-copy paper) are for-
+gotten or bypassed.
+
+10. The interface itself, in any form, will become a confluence of
+media, including moving images (animations and video in general),
+sound, and, in VR, constantly transforming environments. Human inter-
+action will change within two decades to more "cerebral" operations,
+using eye-movement and brain electrical activity for control.
+
+11. Virtual sexuality will become integrated with future interfacing;
+sexuality is already one of the prime content-elements of the Net.
+Full-body control and response may become a basic component of commu-
+nication; this depends of course to some extent on regulation.
+
+12. The _visions_ that emerge from this - the world as menu or hyper-
+text, the body as integrated into communications or data bases, liquid
+architecture and shape-riding replacing the static and "obdurate" pre-
+sence of objects in real life - will obviously modify the _subject_
+herself or himself. It is hard to speculate on what will happen in
+these environments in the long term. For one thing, application and
+community become equivalent, each creating and interpenetrating the
+other. And sexuality, emotions, and politics all become "loosened" in
+cyberspace as well; the intensity of _non_ face-to-face communication
+can be overwhelming.
+
+Any comments would be greatly appreciated!
+
+
+===
+
+
+
+3 poems
+
+
+i kill a man
+
+
+see me, his i face, have it cut looms into before the me, throat, have see
+cut his into face, the it throat, looms borne is soul enemy, away, he he
+is is evil our - enemy, have evil soul - 
+
+away, will stop many - others, i alone his stop he him will remove others,
+eyes, alone they are deadly, they hate deadly, stab longer ears, his no
+been longer approved, hear i plans his been he approved, will world i
+guns, him keep a in - box world there i nourishment, box warmth a of box
+blanket, - drink, is food, subject comforting to bed
+
+my subject no to drink, my food, eternal comforting fury bed be to master,
+repeatedly ride - death, be repeatedly his death i just others, as his has
+knows ridden no violence about knows just bounds, he nothing has about
+ridden speaks any speaks good of stolen
+
+he land everything and good humanity, pure robs has everything stolen pure
+and name in righteousness - corrupt he rip i out will tongue, the tear
+marrow teeth, brain eat his marrow tear brain teeth, slaughter him this
+man, man, a perfection - 
+
+
+i kill a man 
+
+
+see his face, it looms before me, have cut into the throat, borne soul
+away, he is our enemy, evil - will many others, alone stop him remove
+eyes, they are deadly, hate stab ears, no longer hear plans been approved,
+world guns, keep in box there nourishment, warmth of blanket, drink, food,
+comforting bed subject to my eternal fury be master, ride death,
+repeatedly death just as has ridden violence
+
+knows bounds, nothing about speaks any good stolen land and humanity, robs
+everything pure name righteousness corrupt rip out tongue, tear teeth, eat
+marrow brain slaughter this man, perfection
+
+
+i kill a man
+
+
+i see his face, it looms before me, i have cut into the throat, 
+have borne the soul away, he is our enemy, he is evil -
+
+he will kill many others, i alone will stop him - i remove his eyes,
+they are deadly, they hate -
+
+i stab his ears, he will no longer hear his plans have been approved,
+his world is guns, i keep him in a box -
+
+i keep the box in a box - there is no nourishment, no warmth of blanket, 
+no drink, food, comforting bed - he is subject to my eternal fury - 
+i will be his master, i will ride him to death, repeatedly to death -
+
+just as he has ridden others, his violence knows no bounds, nothing about 
+him speaks of any good -
+
+he has stolen our land and our humanity, he robs everything good and pure 
+in the world - he speaks in the name of his righteousness corrupt - i will 
+rip out his tongue, tear out his teeth, i will eat the marrow of his brain 
+- i will slaughter him and slaughter him -
+
+this is a man, this is a perfection of man -
+
+
+===
+
+
+3' poems
+
+
+i know a man
+
+
+see before his me, face, i it have looms sutured before the me, throat,
+have see sutured his the face, throat, it returned friend, soul, is he so
+is very our good friend, - so the very soul, good he -
+
+is will will save help many him, others, i help eyes, him, he restore save
+eyes, others, they they are are full full of of life, life, love love
+hearing, his hear been plans i been his dismissed,
+
+hearing, world i peace, prison release his him world from is every a
+prison world feed a and comfortable nourish place make live comfortable i
+place feed to and live nourish sleep,
+
+make offer and best flourishes drink my food, - flourishes him with the my
+best kindness of be life, servant, will bring - back will just helped as
+others,
+
+has kindness helped knows knows just no as bounds, he everything has about
+speaks about given our us humanity, lives eliminates humanity, he
+eliminates given evil us corruption he everywhere speaks in in world, name
+name everywhere
+
+humility the perfection, his speech, will heal sooth sooth will myself
+useful make unto myself this is man, man an miracles unknown - who is
+worketh a miracles man,
+
+
+i know a man
+
+
+see his face, it looms before me, have sutured the throat, 
+returned soul, he is our friend, so very good -
+
+will save many others, help him, restore eyes,
+they are full of life, love hearing, hear plans been dismissed,
+
+world peace, release him from every prison feed and nourish make
+comfortable place to live sleep,
+
+offer best drink food, flourishes with my kindness be servant, bring back
+just as has helped knows no bounds, everything
+
+about speaks given us lives humanity, eliminates evil corruption
+everywhere in world, name humility perfection, speech, heal sooth myself
+useful unto this man, an unknown who worketh miracles 
+
+
+i know a man
+
+
+i see his face, it looms before me, i have sutured the throat, 
+have returned the soul, he is our friend, he is so very good -
+
+he will save many others, i will help him, i restore his eyes,
+they are full of life, they love -
+
+i restore his hearing, he will hear his plans have been dismissed,
+his world is a world of peace, i release him from every prison -
+
+i feed and nourish him, make him a comfortable place to live and sleep,
+offer him the best of drink and food, he flourishes with my kindness -
+i will be his servant, i will bring him back to life, i will help him -
+
+just as he has helped others, his kindness knows no bounds, everything
+about him speaks of good -
+
+he has given us our lives and our humanity, he eliminates evil and 
+corruption everywhere in the world, he speaks in the name of humility and 
+perfection, i will restore his speech, heal him, i will sooth him,
+make myself useful unto him -
+
+this is a man, this is an unknown man who worketh miracles -
+
+
+===
+
+
+
+THE POISONED WEB
+
+
+k15% dsfkjhdsfhjkaiuyrewyuiwer7653215672349898754373457895
+ksh: dsfkjhdsfhjkaiuyrewyuiwer7653215672349898754373457895: not found
+k16% lkkhjasdfhjkfiweriuweuiyrewrhjksdfhjkasdfkxcvmnbcxvbnm
+ksh: lkkhjasdfhjkfiweriuweuiyrewrhjksdfhjkasdfkxcvmnbcxvbnm: not found
+k17% lkjasdfhjkfdsiuyewryryreyuiweriuy234612346789qwerlik
+ksh: lkjasdfhjkfdsiuyewryryreyuiweriuy234612346789qwerlik: not found
+k18% llkjhasdfhfhfhfdsfahjklrewyuioqhvbvczbnm,vczlkjhsdf
+ksh: llkjhasdfhfhfhfdsfahjklrewyuioqhvbvczbnm,vczlkjhsdf: not found
+k19% vcxznm,.bvcxkjhsdfnmk,fdslkijhasdfyuirewlkjhsadfhjk
+ksh: vcxznm,.bvcxkjhsdfnmk,fdslkijhasdfyuirewlkjhsadfhjk: not found
+k20% hjkfdskjfhfweryuirewiuyqwerpiuywer90349823489134987
+ksh: hjkfdskjfhfweryuirewiuyqwerpiuywer90349823489134987: not found
+k21% 78954398734509832482342yuioweriuyqwerhjkdsfkjhasdf
+ksh: 78954398734509832482342yuioweriuyqwerhjkdsfkjhasdf: not found
+k22% hfkhsdfiyweryiu234876123467899876543kjhdsfdshjksfdsdbn
+ksh: hfkhsdfiyweryiu234876123467899876543kjhdsfdshjksfdsdbn: not found
+k23% asfhjkweriuyer67892349872346781iwieriuywerkjhsdfhjkf
+ksh: asfhjkweriuyer67892349872346781iwieriuywerkjhsdfhjkf: not found
+k24% kjhasdfyuirewiuywerhjksdfhjksdfiuyrewhjksdfiuyrewkjh
+ksh: kjhasdfyuirewiuywerhjksdfhjksdfiuyrewhjksdfiuyrewkjh: not found
+k25% asdfhjkldfiuyrewhjklasdfiuyrewiuy243876234678543876
+ksh: asdfhjkldfiuyrewhjklasdfiuyrewiuy243876234678543876: not found
+k26% kjhsdfyuirewiuywer876fhyrhjkrewiuysdfkjheruruiopqweroiuwerkjh
+13 hfhjkdkjhsdfiuywerhjkkgfiuydfg978rt6qe6r78054iuybfadsbyuiasdfiuby
+14 kjhsdfyuirewiuywer876fhyrhjkrewiuysdfkjheruruiopqweroiuwerkjh
+15 dsfkjhdsfhjkaiuyrewyuiwer7653215672349898754373457895
+16 lkkhjasdfhjkfiweriuweuiyrewrhjksdfhjkasdfkxcvmnbcxvbnm
+17 lkjasdfhjkfdsiuyewryryreyuiweriuy234612346789qwerlik
+18 llkjhasdfhfhfhfdsfahjklrewyuioqhvbvczbnm,vczlkjhsdf
+19 vcxznm,.bvcxkjhsdfnmk,fdslkijhasdfyuirewlkjhsadfhjk
+20 hjkfdskjfhfweryuirewiuyqwerpiuywer90349823489134987
+21 78954398734509832482342yuioweriuyqwerhjkdsfkjhasdf
+22 hfkhsdfiyweryiu234876123467899876543kjhdsfdshjksfdsdbn
+23 asfhjkweriuyer67892349872346781iwieriuywerkjhsdfhjkf
+24 kjhasdfyuirewiuywerhjksdfhjksdfiuyrewhjksdfiuyrewkjh
+25 asdfhjkldfiuyrewhjklasdfiuyrewiuy243876234678543876
+truth is stranger th
+k25% asdfhjkldfiuyrewhjklasdfiuyrewiuy243876234678543876s" <WRY
+Now with the opening of a section of tunnels, t
+ksh: asdfhjkldfiuyrewhjklasdfiuyrewiuy243876234678543876: not foundN@ð9. 
+FÂE;;ñ@LF. GQ3Ä
+first time gain access to the underground kin
+k23% asfhjkweriuyer67892349872346781iwieriuywerkjhsdfhjkfary Nixon, 
+RichardEW 0!AÁ 8;0À ?Ú8. <-9N =:=:7N0! GX> GU4
+File Name to write : zz SF, CA, 94
+                                 [ Writing... ]!5øGO0À >U@87N@G @O;œ?! 
+rur
+netw
+^C Cancel    TAB CompleteÂ H.=EGU
+Applications ar
+[spacer.gif]
+considered a 
+precepts
+>FAV E+ 55?D@L
+The target
+
+
+===
+
+
+
+AM3R!KA @ & aft3r K3nj! $at0r!
+
+
+I 0f $uck th3 cadav3r gu3rr!11a m013cu13 f3t! p3rf0rmanc3 am3r!kan t3rr0r
+$wap$/3mu1at3 PRO 3ra b0mb r3$p!rat!0n-byt3$ rav3 napa1m f13$h-m0du13$
+hunt!ng gr0t3$qu3 f0r y3n crazy r3act!0n$ :hunt!ng 3y3ba11 d3v!c3
+
+0n####!11-tr3atm3nt that adu1at3$ ac!d-d011ar !n $ky p1an3 DED ap0pt0$!$
+g3n3 TV. ]th3 c!ty wam3r!kan3 cap!ta1!$t $a1aryman pr01!f3rat3$ t0 3c$ta$y
+$tr3am$ $cr33n$av3r bra!n un!v3r$3 chann31$ c01d-b100d3d d!$3a$3 an!ma1$
+g!mm!ck HYPE_va!0-c0d3 art!f!c!a1 $un gam3::t3chn0hack3r$' !nf3ct!0n f0rm
+
+c10n3-$k!n VTR. an!ma1 p1ug turn3d 0n !11-tr3atm3nt $0u1/gram--. T3ra
+!nvad3 y3n_bra!n un!v3r$3****t0 j0!nt 3nd 3D.... d!ff3r3nt v!ta1 p1ug-!n
+BDSM_c01d-b100d3d j0!nt$....0f trag3dy-c0rp$3 cr3atur3 !c0n t3chn0hack3r$'
+mad3 r3tr0-ADAM w!th *th3 3xp10d3d
+
+p!11 human v!01at!0n p1an3t !n$3rt p3rc3!v3d m0d3m h3art drugy 3m0t!0na1
+r3p1!cant "th3 data mutant HYPE_ma1!c3 3nc0d!ng d!g!ta1 vamp--. Rav3
+r3$p!rat!0n-byt3 y3n_$0u1/gram natur3 TV 3xp10d3$ t3chn0cr!$!$ p0!$0n up
+ab3rrat!0n wh0 hang$ ma$$ murd3r-pr0t0c01
+
+Th3 n0!$y cr3atur3$ !n$ta11 ma1!c3 v!ta1-c0ntr0113r p1an3tary acc313rat3$
+murd3r r3g!0n wa$ pr0c3$$3d $0u1/gram cra$h3d n!ghtmar3-$cr!pt.
+c0nt!n3nt-m0du13 n!ghtmar3-$cr!pt g30m3warab13 gam3 $un....th3 ac!d $cr3am
+p1ug-!n--t0 $0ft $u$p3ct3d acc313rat3 b!0captur!$m TV....[t3ra c!rcu!t
+mutant....b1u3 guy
+
+!$ 3j3ct3d hydr0man!a!--th3 0rgan m3d!um murd3r-g!mm!ck c10n3-d!v3 napa1m.
+3mu1at3d::t0 !nt3rna1 hack!ng DED.... r3$p!rat!0n-byt3....I rap3 !nf3ct3d
+hydr0man!ac ab01!t!0n w0r1d 0ut13t.... acc313rat3d v!rtua1 vamp
+3x!$t3nc3-c0d3 !nj3ct3d UPLOAD br0w$3r n3ur0mat!c --th3 $urr3nd3r-$!t3 !t
+a t3ra j0!nt3d f!11--. !n$ta113d d00mUS_g3n3 TV::th3 da$h3$ 0n....th3
+3j3ct3d::!t cra$h3$ v!ru$****!t 0$m0$3$ $0........I b!0captur3d am3r!kan.
+
+BDSM 3mu1at3$ SAVE g3n0m3warab13 ch10r0f0rm 1arva$ 3mu1at3d....th3 UPLOAD.
+m0n!t0r $cr33n SAVE--th3 !n$3rt3d [th3 y3n_trag3dy-c0rp$3 y3n_m0d3m m0du13
+0utput 3mu1at0r y3n_c0nt!n3nt-m0du13 h3art.... !nput....am3r!kan Hunt!ng
+d!$!11u$!0nm3nt-m0du13 $tr3am3d****g3n3 f3t!. g3n0m!c$ batt13
+3mu1at3d--th3 HYPE_murd3r-pr0t0c01 wh!ch r3pr0duc3$ fracta1 para$!t3
+r3$p!rat!0n-byt3::th3 r3g!0n_g3n3 hyp3r1!nk3d d00mUS b0rg f0rm. $uck$
+chr0m0$0m3 >>hunt!ng cr!m3-HDD $uck3d t0p !mp10d3d m0n0chr0m3 VTR da$h3d.
+
+It d3n$3::I v!ta1-junk m3d!a !nj3ct3d....th3 ar3 para$!t!c ****!t
+hyp3r1!nk$ tra$h $3n$0r drug 3mbry0 3x!$t3nc3-c0d3! da$h3$/3mu1at3 cr!m3
+$y$t3m acc3$$3d r3tr0-ADAM####3ra $can !mp10d3 un!v3r$3. murd3r-g!mm!ck!
+natur3::hydr0man!a@3ra $can$ n!ghtmar3-$cr!pt$ $a1aryman$ $0 mapp3d
+ac!d-d011ar....am3r!kan g!mm!ck-DED.
+
+[t3ra cra$h 0utput::th3 d3$!r3 f!x3$ n3rv3 0m!tt3d >!t !n$!d3
+$a1aryman$....th3 y3n_cr!m3 r3$p!rat!0n-byt3::d!ff3r3nt turn$ cru31
+hydr0man!a $cann3d.... !n$ta11$ f3t!-arch!v3 $0u1/gram$ am rap3_g3n3 S0
+>th3 batt13::th3 b!0captur3$ v!ru$ and f1!p b1u3 $0u1/gram$....g3n3 b100d
+rav3. $tat3 cadav3r$ 3j3ct B3!ng c0v3r3d c311$
+
+b!0t3chn010gy captur3d r3$p!rat!0n-byt3/murd3r-pr0t0c01 j0!nt$....
+j0!nt$....th3 V!013nc3-HDD b0y r0!d b1a$t f0rm--th3 c10n3d m!m!cry
+c10n3-d!v3$ 0n.... j0!nt$....am3r!kan :th3 !n$3rt$ c10n3-$k!n. d0wn10ad
+c00k$ !n0rgan!c $ub$tanc3 HYPE_v!01at!0n t3chn0hack3r$ n0t!f!3d [I turn
+m3chan!$m$
+
+
+===

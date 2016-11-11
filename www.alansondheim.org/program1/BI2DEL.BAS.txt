@@ -1,0 +1,15 @@
+REM CHAOS BIFUR 2 bifurcation set for function w/cosine
+INPUT "set increment at .01 or .005"; m
+CLS : SCREEN 11: WINDOW (-4, 2)-(.25, -4)
+z = -4: x = 0
+LINE (-4, 0)-(.25, 0): LINE (0, 2)-(0, -4)
+two:
+IF t < 30 THEN t = t + 1 ELSE GOTO three
+x = (x ^ 2) * (1 + COS(x)) + z
+PSET (z, x)
+GOTO two
+three: x = 0
+z = z + m
+t = 1
+GOTO two
+

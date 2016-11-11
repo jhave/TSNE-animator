@@ -1,0 +1,1590 @@
+-
+
+
+Blood
+
+
+Containing the blood, detaining it. I'm a bloody mess. Clean up that bloo-
+dy mess. @create container named Blood "One harbors the flesh against it-
+self; the skin chafes, reddens, blisters, scabs, in order that liquidity
+find its way towards the surface and give vent to the externalizations of 
+form. Form, thrust out. Form, thrust away." (Sondheim, Disorders of the 
+Real.)
+
+Opening a can, I cut myself deeply at the base of the index finger to-
+night; the blood flowed forever, through an opening about 3 cm long. I
+bandaged it tight and the bleeding stopped; after a couple of hours, I
+removed it and the blood started again, this time black. It's bandaged
+again; it should coagulate by morning, or tomorrow evening at the latest. 
+@create $thing named Blood Cutters deliberately cut themselves, creating
+their own histories upon their bodies. "Winnicott presented the case of a
+woman who was fascinated by autocannibalism, as exemplified by her fanta-
+sies about lost Arctic explorers who ate parts of their bodies in order to
+survive. The woman mutilated herself by eating pieces of her fingers. Win-
+nicott considered her act to be one of 'experiencing.' He noted that each
+person who reaches 'the stage of being a unit with a limiting membrane and
+an outside and an inside...[has] an inner reality...an inner world which
+can be rich and poor or can be at peace or in a state of war.'" (Favazza,
+Bodies Under Siege.)
+
+Margaret cut herself opening a can (similar story) in the bathroom; she
+screamed for help, and I ran in and caught her falling on me, almost a-
+gainst the granite floor. She had passed out. @describe Blood as passing
+out Quoting Dr. Carter, William Acton states "Thus, blood is directed to
+the mammae by the maternal emotions, to the testes by the sexual, and to
+the salivary glands by the influence of appetizing odors" (see Barreca,
+ed., Desire and Imagination). 
+
+When I was in Providence, Mike cut the tip of his little finger off and
+sutured it back on; he was a maverick medic. Earlier, he had mangled his
+hand in a press and operated on it, replacing bone and tendon with art-
+ifical materials he had developed. By 1974, he was cyborg more than most,
+with artificial ribs, kneecaps, fingers, tendons, and surgical procedures
+elsewhere. He was also good at stopping knives. @describe Blood as stop-
+ping knives Mike was an early hacker; he had pieces of satellites in his
+apartment that he had brought back from the high seas... "He is amidst six
+girls: one pricks him with a needle, the second uses pincers on him, the
+third burns him, the fourth bites him, the fifth scratches him, the sixth
+flagellates him. All that everywhere upon his body, indiscriminately. He
+discharges in the thick of this activity." (de Sade, The 120 Days of 
+Sodom.) 
+
+When I was in Dallas, Denise savagely painted her menses across me, slid-
+ing me beneath her, and I dreamed an open plain a field a meadow a woods a
+forest a stream I bathed in her. @put Blood in Blood "Not a delusion. A
+rift. Things that have begun terribly badly end in bad blood. When a woman
+feels doubt, she should go and live apart. She shouldn't walk on the
+earth, touching the man who is her mother. She shouldn't soil the universe
+because she is unclean. I was pure. I had never felt doubt. The earth qua-
+ked. Blood ran out the body." "If the world is bleeding anything can hap-
+pen!" (Cixous, Angst.)
+
+Blood runs deep, runs rivers between the letters on the screen. Trajec-
+tories across the monitor create chaotic domains as runnels carry heavy
+flow to edges, down across contrast/brightness controls. @drop Blood
+Blood washes itself through itself, always interpenetrating, emblematic 
+now of dis-ease. So many males fear the period, its levels of arousal, 
+flooding, everything out of control. "Nunberg's patient got sick while 
+witnessing a circumcision: 'When I saw this gaping wound around the head 
+of the penis, I thought that the bleeding vagina must look like that.'" 
+(Mary Jane Lupton, Menstruation and Psychoanalysis.)
+
+AIDS resonates; blood returns to the fetishistic enigma, a totality that
+nonetheless _trickles,_ interlocks. It cannot be contained, circumscri-
+bed; it extrudes some into safe cybersexual space, a space which refuses
+the _taint_ of blood and blood's exchanges. The exchange of blood by all
+that is Holy! @recycle Blood "At last, after all we had been through, I
+felt myself sinking into true submission to her, my ego bleeding out
+through newly opened pores in my skin, all my hope and despair became one
+ball of smoldering ash on the brink of burning its way out through my
+chest." (Clark, "A Civil Debate," in Porn Free #7.)
+
+Between the fetish and the text, lies cyberspace;
+Between the taint and the lure, lies cyberspace;
+Between female and female, female and male, male and male;
+Between the one and the other, between the self and the one:
+
+:From the direction of the blood, from the blood's seduction;
+:From the direction of the blood, from the flow of all that's.
+
+________________________________________________________________________
+-
+
+
+Depths
+
+
+Miscellaneous comments:
+
+What is the relationship between email and ordinary mail? I am a poor 
+letter-writer in real life; what disappears, seems not only gone forever 
+but an artificial construct, complete with its own rituals. Email on the 
+other hand is instantaneous, of the measure of speech; I tend to great 
+perhaps 40 email posts a day minimum, many back-channel and many to the 
+listservs themselves.
+
+Left-handed, I cannot handwrite, or rather I cannot _read_ my scrawls. 
+Typing is also a chore; I use the printer perhaps once every ten days,
+having reduced everything to bytes at this point. So there is no real
+precedent for my use of email, no precedent for the posts which I will 
+often spell-check and justify, even though they are informal, ephemeral, 
+off the cuff.
+
+I would be curious how many participants in the lists use or have used 
+ordinary mail extensively.
+
+---
+
+I am aware of the _depths_ of the Internet now, even when skitting across 
+the World Wide Web. I understand TCP/IP to an extent, sense the routes of 
+the packets, the nerves of communication. There are three reactions - 
+even at this point, constant amazement; a fear of failure, given the in- 
+ordinate complexity of it all; and a sensing that, at least on the Net, 
+images and sounds are _constructed,_ and illusion, relying on compression 
+techniques, protocols, transformation algorithms and the like, before the 
+appearance of appearance.
+
+Listen: "The basic idea behind a transparent bridge is that it acts as a
+station on two or more LANs, listens promiscuously to each data packet,
+stores the packet for forwarding, and forwards it onto every other LAN to
+which it is connected when the LAN arbitration protocol for the destina-
+tion LAN indicates the medium is available." "Routers are not supposed to
+advertise too often; the default value is once every 7-10 minutes. Hosts
+or others soliciting router information should not do so too often and, if
+they fail to obtain a response after three attempts, should cease solicit-
+ing for a period of time." "Time to Live (TTL): This 8-bit field was orig-
+inally intended to be used to specify how long, in seconds, an internet
+packet could persist in the internet before being discarded by a router
+or a host." "The IP header contains several pieces of information to aid 
+fragmentation and reassembly: a 13-bit Fragment Offset field; two flags, 
+Don't Fragment (DF) and More Fragments (MF); and an Identification field."
+(Various writers in Lynch and Rose, Internet System Handbook.)
+
+The body appears to breath, its organs duplicated everywhere, laminated 
+across the constructed world.
+
+---
+
+What is the _least expensive_ full-text connection that can be established
+for the Net? I've connected my Psion3A palmtop, without terminal emulation
+but with some success - no luck yet with my HP95xl palmtop, even though 
+it is supposed to be possible. Telnet tends to hang in a number of commu- 
+nications programs.
+
+But what would be necessary: A subnotebook size keyboard; liquid crystal 
+display 80 characters wide by at least 12 high; built-in modem and com 
+program; 250k RAM for storage; no hard disk (programs would be in ROM); 
+and an input/output port. There should also be a simple local editor, 
+like Edit in DOS. We need these back-pocket devices which could be con- 
+nected anywhere with limited battery power (like the palmtops, there 
+should be the possibility of using disposal batteries) - even with, say, 
+a pocket calculator, these could be sold for $100. So WHERE ARE THEY? 
+Advertisements welcome...
+
+---
+
+(These are just some random thoughts about the Net I thought worthwhile 
+to assemble, place together in a text.)
+
+_________________________________________________________________________
+-
+
+
+Althusser in Reading Capital
+
+"However paradoxical it may seem, I venture to suggest that our age threa-
+tens one day to appear in the the history of human culture as marked by
+the most dramatic and difficult trial of all, the discovery of and train-
+ing in the meaning of the 'simplest' acts of existence: seeing, listening,
+speaking, reading - the acts which relate men to their works, and to those
+works thrown in their faces, their 'absences of works.'" 
+
+"The same connexion that defines the visible also defines the invisible as
+its shadowy obverse. It is the field of the problematic that defines and
+structures the invisible as the defined excluded, _excluded_ from the
+field of visibility and _defined_ as excluded by the existence and peculi-
+ar structure of the problematic; as what forbids and represses the reflec-
+tion of the field on its object, i.e. the necessary and immanent inter-re-
+lationship of the problematic and one of its objects." 
+
+Marx, beginning of the Manifesto of the Communist Party
+
+"A specter haunts Europe - the specter of communism. All the powers of old
+Europe have entered into a holy alliance in order to lay this specter: 
+pope and tsar, Metternich and Guizot; French radicals and German police." 
+
+Derrida in Specters of Marx
+
+"The 'mystical character' of the commodity is inscribed before being in-
+scribed, traced before being written out letter for letter on the forehead
+or the screen of the commodity. Everything begins before it begins. Marx
+wants to know and make known _where, at what precise moment,_ at what _in-
+stant_ the ghost comes on stage, and this is a manner of exorcism, a way
+of keeping it at bay: before this limit, it was not there, it was power-
+less." 
+
+Quota Review Board, PMC2 MOO
+
+Should old objects that are abandoned be @recycled? What about Wizard's
+objects? Should players be contacted? Should therefore their email add-
+resses be made available? If a player is recycled, the number is perman- 
+ently set aside.
+
+__________________________________________________________________________
+
+-
+
+
+Logic, Nyaya-Manjari (Jayanta Bhatta), from Ahnika I (first section):
+
+
+5. Let the discerning wise people take their bath in this great flowing
+river of Sarasvati which ardenlty flows into the stream of Aksapada's
+logic. 
+
+6. We make an appeal to the great scholars to the effect that they may
+look kindly upon this work by a mere peep at it though their mind is
+fatigued, being in constant touch with the great works displaying wonder-
+ful skill in depicting matters of wide interst and arousing strong emo-
+tion. 
+
+7. I have culled this essential herb from the wild garden of herbs of
+logic and have churned this lump of butter from the milk of Logic of
+Aksapada. 
+
+8. We claim no originality of thinking to discover new truth but have 
+fascinating style to express the old ones in an attractive form. Let the 
+critics examine it for themselves.
+
+9. The very flowers by which garlands have been repeatedly prepared arouse
+curiosity even in the mind of those wearers of garlands when they consti-
+tute a new garland, being arranged in a new order. 
+
+10. The good men appreciate even a work of little worth presented to them 
+since they are unaware of turning down the request of a supplicant.
+
+11. Let the great savants of learning who are about to enjoy sportive walk
+in the garden of words adoen their ears with this (Nyayamanjari) new
+blossom of logic. 
+
+12. The tree of logic, planted by the great sage - Aksapada, has grown in
+its bulk and is bent under the burden of its fruits of thick juice tasting
+like nectar.
+
+13. I cannot climb up this tree because my powers are limited and hence 
+it is further beyond my powers to test its merits in toto.
+
+14. I take pains only to discuss some selected topics of this great work. 
+...
+
+(trans J. V. Bhattacharyya)
+
+_________________________________________________________________________
+
+
+
+3000 In the year 3000 my birthday falls on monday but I will not
+3000 be around to celebrate it my writings will be ash this list
+3000 our names smashed forgotten black dust everywhere it's gone
+3000 untrue we're inside others just from the sheer mixing of the
+3000 world september there were snows earlier than usual november
+3000 oddly warm no fingers no memory
+
+				3000
+
+	 Jan			Feb		       Mar
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+          1  2  3  4                      1                      1
+ 5  6  7  8  9 10 11    2  3  4  5  6  7  8    2  3  4  5  6  7  8
+12 13 14 15 16 17 18    9 10 11 12 13 14 15    9 10 11 12 13 14 15
+19 20 21 22 23 24 25   16 17 18 19 20 21 22   16 17 18 19 20 21 22
+26 27 28 29 30 31      23 24 25 26 27 28      23 24 25 26 27 28 29
+                                              30 31
+	 Apr			May		       Jun
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+       1  2  3  4  5                1  2  3    1  2  3  4  5  6  7
+ 6  7  8  9 10 11 12    4  5  6  7  8  9 10    8  9 10 11 12 13 14
+13 14 15 16 17 18 19   11 12 13 14 15 16 17   15 16 17 18 19 20 21
+20 21 22 23 24 25 26   18 19 20 21 22 23 24   22 23 24 25 26 27 28
+27 28 29 30            25 26 27 28 29 30 31   29 30
+
+	 Jul			Aug		       Sep
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+       1  2  3  4  5                   1  2       1  2  3  4  5  6
+ 6  7  8  9 10 11 12    3  4  5  6  7  8  9    7  8  9 10 11 12 13
+13 14 15 16 17 18 19   10 11 12 13 14 15 16   14 15 16 17 18 19 20
+20 21 22 23 24 25 26   17 18 19 20 21 22 23   21 22 23 24 25 26 27
+27 28 29 30 31         24 25 26 27 28 29 30   28 29 30
+                       31
+	 Oct			Nov		       Dec
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+          1  2  3  4                      1       1  2  3  4  5  6
+ 5  6  7  8  9 10 11    2  3  4  5  6  7  8    7  8  9 10 11 12 13
+12 13 14 15 16 17 18    9 10 11 12 13 14 15   14 15 16 17 18 19 20
+19 20 21 22 23 24 25   16 17 18 19 20 21 22   21 22 23 24 25 26 27
+26 27 28 29 30 31      23 24 25 26 27 28 29   28 29 30 31
+                       30
+
+1996 now I sit past uncomfortable wednesday of that year that will
+1996 end and the weight of the present smashes my body my mind and
+1996 the weight of the present kills the spirit in me and there is
+1996 no future there is none there is no future annihilation to the
+1996 limit more than any of you I can hold my death in my hands I
+1996 hold death in my hands I breathe it
+
+				1996
+
+	 Jan			Feb		       Mar
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+    1  2  3  4  5  6                1  2  3                   1  2
+ 7  8  9 10 11 12 13    4  5  6  7  8  9 10    3  4  5  6  7  8  9
+14 15 16 17 18 19 20   11 12 13 14 15 16 17   10 11 12 13 14 15 16
+21 22 23 24 25 26 27   18 19 20 21 22 23 24   17 18 19 20 21 22 23
+28 29 30 31            25 26 27 28 29         24 25 26 27 28 29 30
+                                              31
+	 Apr			May		       Jun
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+    1  2  3  4  5  6             1  2  3  4                      1
+ 7  8  9 10 11 12 13    5  6  7  8  9 10 11    2  3  4  5  6  7  8
+14 15 16 17 18 19 20   12 13 14 15 16 17 18    9 10 11 12 13 14 15
+21 22 23 24 25 26 27   19 20 21 22 23 24 25   16 17 18 19 20 21 22
+28 29 30               26 27 28 29 30 31      23 24 25 26 27 28 29
+                                              30
+	 Jul			Aug		       Sep
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+    1  2  3  4  5  6                1  2  3    1  2  3  4  5  6  7
+ 7  8  9 10 11 12 13    4  5  6  7  8  9 10    8  9 10 11 12 13 14
+14 15 16 17 18 19 20   11 12 13 14 15 16 17   15 16 17 18 19 20 21
+21 22 23 24 25 26 27   18 19 20 21 22 23 24   22 23 24 25 26 27 28
+28 29 30 31            25 26 27 28 29 30 31   29 30
+
+	 Oct			Nov		       Dec
+ S  M Tu  W Th  F  S    S  M Tu  W Th  F  S    S  M Tu  W Th  F  S
+       1  2  3  4  5                   1  2    1  2  3  4  5  6  7
+ 6  7  8  9 10 11 12    3  4  5  6  7  8  9    8  9 10 11 12 13 14
+13 14 15 16 17 18 19   10 11 12 13 14 15 16   15 16 17 18 19 20 21
+20 21 22 23 24 25 26   17 18 19 20 21 22 23   22 23 24 25 26 27 28
+27 28 29 30 31         24 25 26 27 28 29 30   29 30 31
+
+0000 that last tuesday screams last swallowed
+
+
+_______________________________________________________________________
+
+
+-
+
+
+Ill
+
+
+On the MOO a brief discussion about implementing disease. In real life, my
+cat's fur is clumped on her back, not falling out, but it worries me.  $30
+for just an examination; if it's diabetes, I can't afford the shots.  My
+tinnitus is acting up, constant ringing, a subject for discussion on a
+late-night talkshow; the guest said it can lead to suicide. The cut on my
+hand has healed, but I still worry infection. My depression's flaring up
+again; I think of leaving the lists, closing down, but hang on in any
+case. One of my plants is drooping, too many yellow leaves and the cacti
+lack vigor; they're leaning too far into the dim light from here here here
+
+here here here it is so beautiful and cleansed, just like the camps before
+the Allies came. I regret the image, but not enough regret. Towards what
+great beast are we remaking ourselves according to the image of sterility? 
+There's no way to thrust the body _out_ and _in_ - What happens? I write
+Blood, like Lautreamont bleed to the marrow, and the text becomes an ins-
+ertion, infinitely malleable, already rubble - but always already purified
+just like the blood's purified until it comes into contact with the air. 
+
+here here here there's no opposition, no connect, no coagulation; there's 
+no other to cyberspace, no air anywhere. The sterility of the body gives 
+it substance in media res, in noisy dominion. It's precisely the break- 
+throughs, the breakdowns, that give meaning to life, just as the inherent 
+possibility of face to face negation constructs meaning* of a sort which 
+is only borrowed in cyberspace. 
+
+here here here it's the voices chilling in the vacuum - no wonder there's
+always opposition to wizards, staff, sysadmin, moderators, anyone who
+might remind us that power occurs in every sphere. I'd rather not have
+tinnitus, have my perfect lovely body, but the real is the dark snare
+that cuts through the sliver of the neck, results in otherwise than being
+here, thus otherwise than metaphor. 
+
+-------------------------------------|
+
+*see various sections of the early Internet Text on issues of negation 
+related to alterity in cyberspace and material life.
+
+_________________________________________________________________________
+-
+
+
+Noise Rave
+
+
+Commercialism, which was suspect just a year ago, is rampant on the Net at
+this point; Web pages carry the messages of other Web pages, search eng-
+ines have advertising banners, and even Netscape is buttoned all over the
+place. Java creates moving billboards, and it's as if the millennium of
+capital has arrived all over again, after the laissez-faire of a century
+ago. What I call the darknet's almost all but forgotten; no one talks much
+about email lists any more, Usenet's noisy, I get advertisements in my 
+Inbox, people using majordomo and listserv are developing spam filters, 
+etc. etc. blah blah blah.
+
+Moving through cyberspace becomes continuous upgrading; Real Audio won't 
+run on my machine, nor on the machines of my friends, since it's been 
+changed to version 2.0. Unlike television, which has always, thanks to 
+the FCC, been backwards-compatible (radio as well), the Net simply aban- 
+dons those who can't keep up.
+
+The noise is in the magazines; I'd go so far as to say, within the US, 
+there's a mass psychosis underway, as if being offline meant you're some- 
+how deficient, in education, worldliness, style, income, and geographic 
+location. Wired's got incredible quantities of advertising, not least of 
+which is for itself. Spacewaste is common among the hip magazines. 
+
+All of which would be fine, radical, edgy, even corrective, were it not 
+for the intimacy with money, unchecked, unquestioned, that all of this 
+entails. The more "revolutionary" Web pages are usually those driven by 
+graphics, overly designed; you need money to read them, money to look 
+chic. There was a period in the NY artworld when gallerists (their name, 
+not mine), dressed in severely radical black with Eurotrash papamama 
+money, took over; art became style, and has never left that position. Of 
+course the gallerists were just following the course of the world; those 
+running around following them wouldn't know the World Bank from the Left 
+Bank. Now there's a movement called transformalism afloat, riven by pre- 
+tention and money, and I'm holding my breath wondering whether to go to 
+Netscape 2.01b or not.
+
+Where's the psychosis? In the assumption that all of this is _cool,_ a
+word borrowed from the 50s hipsters referring to the effort of music and
+style, bricolage, making-do, but certainly not buying into anything. 
+What's cool now (I hate that button on Netscape, not the sites, but the
+title) is what's affordable, fetishized - it's Veblen's conspicuous con-
+sumption all over again, the century becoming rather insistent on repeti-
+tion. 
+
+There's also an assumption that the change at work is somehow critical,
+not only on the technological edge, but on other edges as well. But what
+is really happening beyond alt.sex.bondage is the sublimation of critique,
+surprising in an Internet arena which has always stressed individuality, 
+up to and including _personal_ home pages.
+
+Home pages by the way have gluts of links; too often they also read like
+advertisements. _Everyone_ connects to Yahoo, another style. The creat-
+ivity of hypertext becomes a porousness allowing one to constantly fall,
+enticed by billboards on the way. The idea of a homepage becoming personal
+is difficult enough - it's only screen-available in the midst of other
+pages, it's on only until the battery dies or power's turned off, it's
+fully public, etc. - but the personal becomes even more impossible when 
+it's in the midst of noise, noise, noise.
+
+What happens in the long run, of course, is that, beyond the darknet, the
+very idea of the personal changes, becomes absorbed in the public - we're
+back to the concept of the one-dimensional man, but this time around it's
+ungendered and lateral. Introjections of simulacra do strange things to
+human beings; the fallout's just begun, and there's no end in site. What
+is worrisome is not only the personality made from corporate flotsam and
+jetsam, but the widening gap of haves and havenots (which the Rand Cor-
+poration, in a report released today, has reaffirmed), resulting in infor-
+mation/capital rich individuals on one hand, and street-smart social hack-
+ers on the other. Both categories leave out the majority of the world's 
+population, but no worry while we jack into our pentium 77 for the long 
+flight home. Fires look great from the air.
+
+Noise rave screech to a halt.
+
+__________________________________________________________________________
+
+-
+
+Water
+
+
+Just as the water-sprite, formed from the motion of atoms in the midst of
+others of her kind, senses the world at large, fluxing through her chosen
+medium of transparency - so do we, in our bid to comprehend the universe,
+look inside of ourselves, formed from the same atoms, quarks, transparenc-
+ies. What floods us floods the stars; neutrons rush through, cosmic rays
+occasionally spray bright spots against the retina in the dominion of the
+dark-adjusted eye. We inhale the vacuum, thrust forward by the presence of
+air; our words perform the actions of sounds at the depths of the sun. 
+
+Just so, the contemplative life, which permits us to filter all sensation,
+leaving us with the debris of the abyss alone - here we meditate upon the
+virtues of interior and exterior opened to the whirlwind. The water-sprite
+understands her world and ours, of the same; she changes oh so brilliantly
+into manifold shapes and specters. Thus do we move, motivated beyond our-
+selves, through a thousand thoughts, a thousand thousand words taking us
+into the realm of beautiful, true understanding. 
+
+We are all the same-atomic, our quantum fields interact in a fashion close
+to specular - each providing a mirror of the same to the same, the stage
+in which we begin to coalesce our ridden form. Thus the dawn forever turn-
+ing towards us, revealing new shapes in each and every horizon, and thus
+the water-sprite has taught us, on her way somewhen and where, beyond our
+loving comprehension. 
+
+
+__________________________________________________________________________
+-
+
+
+Voyeur
+
+
+On the Internet, there are devices for Net sex that permit the same space
+to be used simultaneously for action and otherwise conversation. On PMC, I
+participated in Net sex while engaging in a theoretical discussion of
+postmodernism, in someone's homespace. In other spaces, there are situa-
+tions where virtual individuals watch virtual sex. 
+
+In real life, I have been watched only a few times in my life. My second 
+wife and I lived in Copenhagen for a month; we'd make love in a window at 
+night, and someone across the way looked and looked. Sometimes we made 
+love in a high-speed car, driving naked; what about this? Bodies hurtling 
+across the world here, there, everywhere. When Kathy Acker and I did our 
+tape, we had a camerawoman; explicit sex, talk.
+
+But I've never done a pornographic film, sex show, public display. And
+it's not that I would object to this; it would be something to slide into,
+meanwhile explore on the Net, watch the explorations of others, tabulate
+them. But I'm a coward; I've seen, in fact, very little, almost nothing at
+all. Fantasy: In real life masturbating in front of you. Net:  Burrowing
+through each other's bodies, send out the texts, working them into some-
+thing (Kim McGlynn and myself). 
+
+Why is the _gaze_ so persistent, in its absence, in this space? I can't
+sleep at nights, imagining your legs, my legs, splayed open, an infinity
+of organs intersecting, anonymous eyes prying us apart. They dismember us,
+take our flesh back to their dominions, swallow us whole from the seed. 
+
+In my dream I can imagine being a stain on your wall, viral crawl through
+organic alleys, slab of daylight leaving/lifting the room. I can see 
+everything. In my dream I imagine myself inside-out, displayed, dissected
+across the table, coordinate x/y/z motion through time /t anything for the
+databanks, anything holding back death. If I can hold my breath I can hold
+your motion. In my dream I'm available, always available. 
+
+I'm available. I don't have to think any more. I don't have to type any-
+more. I don't belong in cyberspace realspace. I don't belong because
+there's no more belonging. Nothing belongs if there's no belonging. 
+Things stick, split like static electricity. My hair's blown off my body. 
+I don't have to think because you do all my thinking for me. You're look-
+ing at me through the window; I can see you. I perform for your pleasure
+and you tell me what to do. I can't hear you but I know, I know, what will
+please you. 
+
+My body is your text. I open my body so you'll read me. If you read me,
+I'll live forever. You can read anywhere across the nipples; there's a lot
+of space. You can read down the arms, down the legs; you can read the
+blood. You can read between the legs while the writing lasts. You can read
+the trail of the two of us interpenetrated, wrapped like wire around each
+other. There's no space among us. You required that. You said no space and
+we heard. We're splayed just for you. It's as if: We're opened on the
+outside, not the inside. It's as if: You give us names, you make us. Oh
+there's some truth to this. 
+
+Oh, Oh! "Brahmadatta, a great-grandson of Cikitana, while drinking the
+soma juice said, 'Let this soma juice knock off my head if I say that
+Ayasya Angirasa sang hymns through any deity other than this (vital force
+combined with speech.)' Indeed it sang hymns through speech and the vital
+force alone." 
+
+So you can put your arms up into me, pull me inside out. You can do this: 
+@create $thing called stain. You can give it nothing. @describe as if that
+were all there is. 
+
+Once I slept with two women together and when it came time to cum it was
+so complicated the room dissolved. No one, no one was watching. 
+
+
+_________________________________________________________________________
+-
+
+
+Loss
+
+
+What's fascinating about loss is that it is a reverse emission, an absorp-
+tion reminiscent of an object of fantasm, uncanny, always construct; the
+node in fact is a coagulation or bracketing, and the circumscription is
+after the fact. 
+
+(Loss is fact's abjection; the hardness of the word sticks in the throat. 
+What is constituted by the imaginary: loss.)
+
+The present fills with diffusion. The present becomes the ghost; life is
+always already memory. Loss generates the abyss; the object disappears in
+time, a radiating black hole. The resulting suture insists on the presence
+of scarification, a process, not a product. There are the stitches them-
+selves, the writing from which it is possible to recreate the scene of the
+crime. 
+
+(I think of life as funneled, of the origination of the vacuum, now crow- 
+ded with neutrinos and virtual particles. Life suppurates, bubbles, on 
+the verge of collapse. The collapse doesn't generate a singularity; death 
+is a fissuring out, confused bumbling at what appears from a distance to 
+be a horizon. Closer, it's fractal, filled with blunt eddies, lukewarm or 
+tepid waters.)
+
+I can't write about loss, without loss. This is its nature, this inabili-
+ty to ascertain, procure, even in the abstract. Like seduction, the limit
+dissolves simultaneously with the effort of the text. Unlike seduction,
+nothing at all remains. 
+
+(Not even theory remains; theorizing life, as Bowlby does, chokes the
+breath, fills space in an attempt usually considered the fetishistic ward-
+ing-off of death. But this isn't death; it's what happens to content when 
+the voice ceases to speak, the tongue dries - when there's too much heat, 
+too much of the appearance of height.)
+
+There are all the absenting signifiers, annihilations, of loss in cyber-
+space, but what I am talking about here is the heart of loss, the object
+which spreads, cancerous, as it loses border, becomes a matter of lang-
+uage. This is a necessary form of continuous mourning. There is no return;
+my losses, gathered, gnaw from nowhere for years. As a result, I continue
+to regret almost everything in my life, but this everything remains name-
+less, talks me down, takes me down, with the force of lumbering flesh.
+Buried, there's no room for language's breath, nor nouns to speak of. 
+
+(Nor images, returning to the theme of emergence/submergence. In loss, 
+what is submerged is _drowned,_ flayed and ribboned, decaying banners of 
+skin written in no language, twisted like kelp, nor images.)
+
+__________________________________________________________________________
+
+
+bluntness, dulled texts in cyberspace
+muted, almost inaudible
+
+imagine the letters smaller, maybe, blurred
+
+i want to drink to take the edge off things
+i want to write to take the edge off things
+
+look, i'm murmuring to you. closer, you hear :
+everything
+
+it's as if something came into the light
+it's as if the sound of a tiny bell came into the light
+knowing where everything is
+
+tracing the sound of the wound in complex realspace
+texts muted in cyberspace
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmm
+not a grating, you
+
+(rang from his cock wherever he was in the house)
+(rang from her clit whenever she was in the house)
+
+truth or not, couldn't get away from the writing
+swollen beast
+
+dumb split : split dumb
+
+
+_________________________________________________________________________
+
+
+the way yr gaze holds me, on line off line, your power 
+
+in the manipulation of _sudden_ text, command of language,
+
+as in: Clara succumbs to Alan's swollen embrace
+
+
+framed by yr punctuation, ornament, ravaged lines
+
+you wryte the hole
+
+you wryte the hole _thing_
+
+
+____________________________________________________________________
+
+-
+
+
+Mask
+
+
+I have never been able to comfortably take a pseudonym on a MOO; avatars
+don't work for me in ThePalace or WorldChat. I stay buried in Alan, a name
+I hate, from the Welsh, dulled like a knife that's cut through too many
+other countries. I can't wear masks on Halloween as well; there has to be
+the sign of the flesh present, as if I was re-marked for failure, for my
+self, letting go leading straight to perversion, the body dissolving in
+the vat of acid, gaze of the Other. I'd fall apart; I don't take drugs.
+When I took amphetamine that once, I almost slammed into traffic and it
+wouldn't have made a difference. The mask would make a difference; I'm led
+to believe it would be the death of me. Ridden with guilt always, I'd fear
+the mask bonding itself permanently to me; I'd wake up you, I'd be you,
+I'd lose everything, everything. I tell you all my secrets in cyberspace
+and real life; there's no facade. If I'm called on facade, I collapse.
+
+There's no collapse; I keep myself bound. You can dominate me. I keep
+myself an open book; there's too much information, information-glut. At
+parties, I retire to the corner. I can't piss in a men's room urinal if
+anyone else is there. Your look destroys me. I reign in tight; I'm bound
+to break. I break these sentences in two; they collapse on the semi-colon. 
+Their parts are given to me; I swallow them. I've told you about swallow- 
+ing; I can't swallow without a mask. I took mescaline twice, saw things; 
+I wouldn't take it again. If I let myself go, I'd fuck everyone; like 
+Janis Joplin, you'd find me on your floor. I'd be filled with needles; 
+they'd mark my name, ever, never.
+
+There must have been a goblin when I was a child; it held me in its ten- 
+tacles, promised me a life of burning coals. It added its mask to the 
+others; you can still see its outlines on my face. Father, I can't let 
+this go on any farther. Father, at night I dream; I dream of the prac- 
+tices of the Other. The Other looms large, emerges its swollen head; it 
+tries to take my name away. I scream; I hold on tight, name, name. Flesh 
+falls from caverns in my body. I hollow out and become a space; people 
+move through me. 
+
+I awake and look for the name to recite; any name will do. I call on
+Clara, Tiffany, female names, anything but Alan; they're not masquerade. 
+I have no name for them; they're burned into me. Goblins, perhaps her name
+was Theresa; I don't remember male. My life: I try, remember male.  My
+life: I use Alan, seethe within. On the MOOs, I'm Alan; on the talkers,
+Alan. On IRC, I'm Alan; and even here, Alan, in this space, Alan. There's
+no doubt as to the depth of the text; burned. Masquerade: I strip you, we 
+fuck like hell; I jump in your costume. We're both Honey; we flow. 
+
+__________________________________________________________________________
+-
+
+
+	xviii emblemme
+
+	This ys the Space of Memory
+	From whych eache Room is Opening
+	Uponne another; thus Sophistry
+	Doth doome the State of Ripening
+	Those forced madly Hyther, lightening
+	Theyr Burthen of Artystry, tempering
+	Theyr Reason: Thus Avatars, murmuring
+	Names of Others, Castigate those
+	Borne of Galls of Foreyn Mothers.
+	And soe Allegyance spake, in full Repose,
+	Agaynst the Foe; thus, angered Fathers
+	At last, upon the Bairn of Dusk arose:
+	Foresaken are Those beneath what Dysmal Sygn
+	Transpose theyr Selves, and steal what is Myne.
+
+_____________________________________________________________________
+-
+
+
+Disappearance of the Avatars
+______________________________________________________________________
+
+
+
+Bertolt Brecht, Die Hauspostille, Manual of Piety, trans. Eric Bentley,
+Das Schiff, The Ship, section 6: 
+
+
+Fremde Fischer sagten aus: sie sahen
+Etwas nahen, das verschwamm beim Nahen.
+Eine Insel? Ein verkommnes Floss?
+Etwas fuhr, schimmernd von Moevenkoten
+Voll von Alge, Wasser, Mond und Totem
+Stumm und dick auf den erbleichten Himmel los.
+
+
+Fishermen from far declared they saw 
+Something coming which dissolved while coming.
+Was it an island? A decrepit raft?
+Something was moving, bright with seagull dung,
+Full of algae, water, moon, dead objects,
+Silent and broad toward the washed-out sky.
+
+
+-------------------------------------------------------
+
+
+Robert Creeley, For Love, p. 37:
+
+
+I KNOW A MAN
+
+As I sd to my
+friend, because I am
+always talking,--John, I
+
+sd, which was not his
+name, the darkness sur-
+rounds us, what
+
+can we do against 
+it, or else, shall we &
+why not, buy a goddamn big car,
+
+drive, he sd, for
+christ's sake, look 
+out where yr going.
+
+
+_________________________________
+
+
+
+Where are we going; what will we do when we get there?
+Will we ever get where we are going; will the going be gotten?
+Will it disappear like the rainbow's foundation?
+Will it pass through us; will it be a mirage?
+In the morning on waking, these texts are forsaken,
+Drawn dreaming among the poets, whose footsteps are hardened by sea.
+I take up names and drop them in the registry of stars for everyone.
+I have no proof of reading; the letters slide among us.
+Tell me my name.
+
+
+_______________________
+
+
+
+Samuel Taylor Coleridge, The Rime of the Ancient Mariner, Part III, 
+stanzas 9-11:
+
+
+Alas! (thought I, and my heart beat loud)
+How fast she nears and nears!
+Are those her sails that glance in the Sun,
+Like restless gossameres?
+
+Are those her ribs through which the Sun
+Did peer, as through a grate?
+And is that Woman all her crew?
+Is that a Death? and are there two?
+Is Death that woman's mate?
+
+Her lips were red, her looks were free,
+Her locks were yellow as gold:
+Her skin was as white as leprosy,
+The Night-mare Life-in-Death was she,
+Who thicks man's blood with cold.
+
+
+_________
+
+
+The Tibetan Book of the Dead, translation Fremantle and Chogyam Trungpa, 
+pp. 119-20 Shambhala pocket edition:
+
+
+"Oh child of noble family, those realms too do not exist anywhere else, 
+but lie in the four directions of your heart with the center as fifth, 
+and now they emerge from within your heart and appear before you. Those 
+images too do not come from anywhere else, but are the primordial spon- 
+taneous play of your mind, so recognize them in this way. O child of 
+noble family, these images are neither large nor small, but perfectly 
+proportioned. They each have their own adornments, their costume, their 
+color, their posture, their throne, and their symbol. They are spread out 
+in five couples; each of the five is encircled by a halo of the five 
+colored lights. The whole mandala, the male and female deities of the 
+familieis, will appear completely, all at once, Recognize them, for they 
+are your yidams."
+
+
+--
+
+
+_Your name is an error-message; tell me your name._
+
+
+_________________________________________________________________________
+-
+
+
+Murdered by TV Radio!
+
+
+I mean this literally; I feel the onset of illness, simulacra piled on, 
+one atop another, lies so deep that the foundations themselves are sha- 
+ken. Surely the producers know this. My skin is removed; I'm musculature, 
+poor at that. It's not the programs, it's the in-between, news stations 
+announcing "exclusives," the radio barking about this or that from the 
+"weather center," back to television's "traffic central," advertising 
+choked on the vomit of nuclear families, perfections, voices screaming as 
+the treble's turned up. 
+
+All these hero cops. A cop gets killed, he's a hero. A three-year-old kid 
+calls someone, mom's lying on the floor, she's a hero. Someone doesn't 
+smoke pot, he's a hero. The world's populated by heros and evil killers. 
+Scum's everywhere. Everyone arrested has half-opened eyes or a jacket 
+over his head. Women are always crying on television, the kids, the kids, 
+the kids. McDonalds helps everyone. Someone is propping Dole up; no one 
+wants to get on him. People are anxious. 
+
+Someone / no one. Culture turns the planet into garbage; in fact, this
+apparent recycling, which tends more and more to non-biodegrading _stuff,_
+is the very armature of civilization. All societies across the galaxy are 
+similar, a few creatures in full ecological bloom subverting the energy 
+of their environments, appropriating and circumscribing dominion - this 
+is called both territory and writing. A trashed planet is simply the sim- 
+ultaneous manifestation of the sign and its exhaustion. Signs are weeds; 
+"real" weeds refuse the sign, are disposable. Worlds are weeds.
+
+Cyberspace presents the imaginary of infinite territory, signs, cultures, 
+spaces, depths, storage, bandwidth; New World genocide is just around the 
+corner. If as I would have it, the flood is the hardening and construct 
+of new capital, new consumption - if the flood is, in fact, creating the 
+new subject subtended to the maw of the idiotic-corporate (idiotic in the 
+sense of Rosset, blunt, unresponsive, in-itself, _there,_ and not in the 
+sense of _idiocy_), then we will witness a new form of anomie _within,_ 
+in the midst of horrendous poverty and ecological catastrophe _without._
+
+Which returns us once again to the phenomenology of the _cool,_ as applied
+by Netscape and just about anyone else on the Web. For what's _cool_ is
+what's clever, what applies a sense of neatness, graphics, reorientation,
+summarization, sensory seduction, the pastiche of historicism, the layered
+or morphed landscape, the promise of the digital-eternal - what's _cool_ 
+is _what's got to_ the editors of the cool list in overdrive.
+
+In 2050 c.e.. at least 100,000 species have full genomic representation on
+the Net; at least 85,000 of these are extinct. Reconstruction is feed for-
+ward through artificial life/expert system interfacings; creatures walk
+among us once again. Bang! They're dead! Bang! They're back again! Bang! 
+They're dead! Bang! They're back again! Recycling keeps trash to a mini-
+mum; in fact, I've never seen trash at all.
+
+
+__________________________________________________________________________
+
+-
+
+
+Hegel, Philosophy of Right, trans. Knox:
+
+
+59. By being taken into possession, the thing acquires the predicate
+'mine' and my will is related to it positively. Within this identity, the
+thing is equally established as something negative, and my will in this
+situation is a particular will, i.e. need, inclination, and so forth. Yet
+my need, as the particular aspect of a single will, is the positive ele-
+ment which finds satisfaction, and the thing, as something negative in
+itself, exists only for my need and is at its service. - The use of the
+thing is my need being externally realized through the change, destruc-
+tion, and consumption of the thing. The thing thereby stands revealed as
+naturally self-less and so fulfills its destiny. 
+
+[...]
+
+60. To use a thing by grasping it directly is in itself to take possession
+of a _single_ thing here and now. But if my use of it is grounded on a
+persistent need, and if I make repeated use of a product which continually
+renews itself, restricting my use if necessary to safeguard that renewal,
+then these and other circumstances transform the direct single grasp of
+the thing into a mark, intended to signify that I am taking it into my po-
+ssession in a universal way, and thereby taking possession of the elemen-
+tal or organic basis of such products, or of anything else that conditions
+them. 
+
+61. Since the substance of the thing which is my property is, if we take
+the thing by itself, its externality, i.e. its non-substantiality - in
+contrast with me it is not an end in itself - and since in my use or emp-
+loyment of it this externality is realized, it follows that my full use or
+employment of a thing is the thing in its entirety, so that if I have the
+full use of the thing I am its owner. Over and above the entirety of its
+use, there is nothing left of the thing which could be the property of
+another. 
+
+62. My merely partial or temporary use of a thing, like the partial or
+temporary possession of it (a possession with itself is simply the partial
+or temporary possibility of using it) is therefore to be distinguished
+from ownership of the thing itself. If the whole and entire use of a thing
+were mine, while the abstract ownership was supposed to be someone else's,
+then the thing as mine would be penetrated through and through by my will,
+and at the same time there would remain in the thing something impenetra-
+ble by me, namely the will, the empty will, of another. As a positive
+will, I would be at one and the same time objective and now objective to
+myself in the thing - an absolute contradiction. Ownership therefore is in
+essence free and complete. 
+
+
+------------------------------------|
+
+
+Written before the advent of information, simulacra, theory of equivalen-
+ces, Hegel's notion of the thing re-marks it as simultaneously mark and
+obdurate, related to Kristeva's Thing (Black Sun); it is slave, depres-
+sive, unique, consumed by use, existing within the phenomenological hor- 
+izon of complete annihilation. It is the thing of mechanism, thing of 
+basic survival: what is necessary in terms of food, clothing, shelter, 
+drink, community perhaps. 
+
+Possession however also re-marks fetishization, as any attempt to elim- 
+inate objects through a MOO Quota Review Board illustrates. @recycle 
+remains tied to the Owner/creator of bits on a foreign hard drive not 
+hers; there is a continuous question, in addition, concerning the labor 
+of software development in cyberspace.
+
+Beyond the labor, however, fetishization implies the seduction of total
+control, the libidinal use of bodies by others; this, too, plays a role in
+the Hegelian concept. I would go so far as to say that cyberspace exists
+in a dialectic between the Hegelian/Kristevan Thing, and the problematic
+of information. (Note that the Kristevan Thing relates to depression, and
+does not characterize her view of physical reality. But its hardness,
+tumor-like quality, is relevant to the Hegelian generalization.) There is
+much to be considered here, not only in terms of the cyberspatial real,
+but also the real cyberspatial. Where does possession lie? (And in addi-
+tion, in addiction, one may consider the second meaning of possession, _to
+be possessed, in relation to the fetish, to insertion into cyberspace, to 
+the convolution of projection/introjection among the subject and his com- 
+puter.)
+
+Beginning with Hegel, one begins with the negativity inherent in ordinary 
+existence as it pertains to our every-day life; one moves from there to 
+the world of semiosis, from there out, towards those shoals where there 
+are no moorings, temporary and imminent tetherings at best.
+
+
+__________________________________________________________________________
+-
+
+
+
+The Parable of the Little One
+
+
+Hurtling through space on a wayward planet, we were born, not in the
+genesis of primordial oceans, or at least not through a line of direct
+ascent; instead, it is clear that we were seeded here by a group from
+another, ulterior universe, one disembodied from the original universal
+expansion, one that has learned its way through barriers that to us seem
+insurmountable. 
+
+We are the first species cognizant of this truth, that we are drawn 
+towards a destiny on a path that veers from side to side, through the
+thicket of mutilations. 
+
+We are your sourcelessness.
+
+We have read fictions of information encoded in our DNA; that is not the
+real, which lies elsewhere, in the very conditions of our atmosphere, our
+local universal constants. But it is our role as witness that is crucial,
+what we bring to you, the existential burden that we shoulder. Tertullian
+knew of this; Job gave it a name: Its name was Siva. 
+
+We state as well that this is hardly the concern of wastefulness; what is
+waste compared to thought, to the singularity of stasis a bit of infor-
+mation can supply? Our Occam was wrong; conservation, in fact, is just
+momentary restriction or barrier against the baroque forces that inundate
+us from every direction. 
+
+The question is, that which haunts our dreams, our waking hours, and it is
+not so much a question, but a _condition:_ that we are to report _back,_
+that we carry this with us, without knowledge of contract or terms - To 
+whom should we speak? To what, in fact? Under what circumstances? The 
+knowledge we carry is that of universal processes; perhaps, in our ignor- 
+ance, we have discovered something even unknown to you? In the Rigveda, 
+there is talk of an unknown god, but we are not concerned here with 
+deity, only with protocol, etiquette: What is the nature of our address?
+
+And where is _back,_ external to our local neighborhood of space and time? 
+What inversion, reversal, must we incur, in order to say what? Or are we,
+in fact, in a state of continuous emission, reports streaming through
+processes expanded in dimension, according to which our universal manifold
+is nothing more than a slice, an embossed plate, or cut of stone across
+what we call history? 
+
+Our very foundation is without foundation. At one point, this was called 
+death. Now even death is annihilated as you also begin the short process 
+of dissolution and decay; so we would have it.
+
+
+__________________________________________________________________________
+-
+
+
+mv sondheim clara
+
+
+Bound and gagged, the body held into place, fingers trembling above the
+keyboard, stupid caresses, over and over again; I can't for a moment leave
+the machine that spits errors back into my breasts, clogs my throat with
+bounces - it's worse than tending the fields that the Argonauts came out
+of, spearshafts slicing the organs of speech as they emerged. Humans ended
+up mewling to be sure. Dumb created responsibility, mute gestures, hyster-
+ia, by hands once holding urns, shields, amphora, now reduced to counting
+out routing tables. Arm muscles burst; nipples emerge, milk flows. The
+body is a river; it doesn't take much to figure that out. 
+
+For two years I memorized Unix, learned "split" does just that to a file
+just as "last sondheim" does just that to me. Unix commands are ejacula-
+tions; someone makes a program, slams it into place, some bin, 5bin maybe,
+and we're off and running. Someone's got a dog and I memorize biff for 
+the mail hello an error. Someone spews a quiz in my direction. 
+
+Tend lists and you swallow the _stuff_ of the Net wholesale. Packets ooze
+from my tits (see "muscles" above); there's seepage, even among the parti-
+cles. It could happen to any of us. I dream pixels: a woman. They separ-
+ate, I fall through. Cartoon: land on my ass. Life: open it up. Packets 
+flow. 
+
+You might ask: pray for me. I'm troubled in need of salvation. I read
+identity-identification. It doesn't exist until it's got address, proto-
+col, recognition. I knew that when I started. Now I sit here, Medea, pac-
+kets flood from my tits (see "ooze" above);  they clatter. The world's a
+plate for a' that. I remember your name. On the table, routing. My back
+is a bridge in an airless sky. I'm bound so tight wires up I'm inhuman.
+I pull tighter them. I stole the lines they're made of. Blood forms the
+shape of freedom in my face. I fuck Unix. Despair drags me back to the
+indigo machine. I still got the bounce. 
+
+_________________________________________________________________________
+-
+
+
+				   ALARM
+
+
+			they closed my MOO behind a firewall
+
+			they butchered my talker
+
+			they cut off my legs my tongue
+
+			they refused my nightmares
+
+			they killed my haven
+
+			they plucked my lily from my navel
+
+			they ripped out my umbilical cord
+
+				ALARM! ALARM!
+
+			they hung me near your eyes your ears
+
+			they cut off my arms my hand
+
+			they cauterized my directories
+
+				ALARM! ALARM!
+
+			the MOO grinds on grinds on
+
+			the MOO screams loneliness and
+
+			the empty atmospherics wail on Phaedra
+
+			the world whirls away
+
+			there's no uptime downtime logins logouts
+
+				ALARM! ALARM!
+
+			no email no *Online MOO lists bulletins
+
+			no news no deaths no births
+
+			they cut out my eyes my ears
+
+			the split my head they killed me
+
+			firewalls silence ALARMS
+
+			I offer you my tits clattered to the floor
+
+			I have no solutions I'm dead
+
+			I have no MOO I'm dead
+
+			not a house to live in
+
+			not a container a thing an exit
+
+			NOT EVEN AN EXIT
+
+				ALARM! ALARM!
+
+				ALARM! ALARM!
+				
+				ALARM! ALARM!
+				
+
+________________________________________________________________________
+-
+
+
+Memoir with Bodies
+
+
+In the late 1960s I recorded with ESP-Disk, run by Bernard Stollman, the
+subject of numerous articles at the time. I met his brother in Europe
+where I was traveling and formed a loose group with Joel Zabor, a drummer;
+we played in Copenhagan, hung out with Ted Joans a bit, two whiteboys in
+Denmark and later Paris. When we returned I picked up other players and
+formed a group with no name or numerous names; they never mattered. 
+
+Joel had introduced me to the music of Art Blakey and I heard Dexter Gor-
+don and Yusef Lateef and others. Back home I had been listening to Albert
+Ayler, late Coltrane, Pharoah Sanders, some Ornette Coleman, and things
+were coming together. My own music, totally naive, worked just as much
+from middle-eastern scales, taksim, listened to ragas as well, preferring
+South Indian. I listened all over. 
+
+I met Marion Brown, but my circle was weird, moving away from Al Wilson
+who joined Canned Heat playing electric blues which wasn't my music and
+earlier on wasn't his. Paul Bley heard a recording of my stuff and liked 
+it. But it was all loner stuff, listening to records, making three myself.
+
+I could never have done it. Leroi Jones' Applecores column in Down Beat at
+the time was incredible, talking about black aesthetic, the sound the
+horns/rhythm were making, Cecil Taylor's fingers dancing on the keyboard,
+movement that was in direct way spirit, the horns _talking,_ _crying,_ in
+ways that couldn't be annotated, spelled out, confined. Spirit Unity check
+it out. All true; you can hear it first in Albert Ayler's early Summertime
+and go on from there. 
+
+The music had a fast 1/1/1/1 pulse sometimes and sometimes not that; Col- 
+trane's Ascension brought it up into the group format. Writing was loose, 
+drum and bass freed; harmony transformed into coloration, sometimes a 
+roar. Ayler took this to and from spirituals, the Marseilles, everything 
+like that.
+
+And the music was totally ignored by whites, by the jazz establishment
+press, everyone else then and still in cool withdraw. There wasn't any-
+thing like it and there won't be again, and why here in cyberspace? Be-
+cause it was stuff that refused the packet, protocol; it was anti-protocol
+so far back that it was as if protocol hadn't been invented. Not that it
+wasn't at times incredibly complex - Coleman and Taylor were and are, at
+times compositionally, but then there was freeform; I loved Guiseppi Logan
+for example, Sunny Murray, Sonny Sharrock on guitar. Or take Carla Bley,
+whose Tong Dynasty Funeral Piece was one of the most powerful I ever
+heard, Patty Waters' ESP album where she either got it all right or all
+wrong, it was hard to say and I still don't know. 
+
+The music took the saxophone way back into the body, away from the equi-
+distant well-tempering that Adolph brought to his invention. The notes,
+the _holes_ in the thing, became plateaus of past practices, maybe even
+colonialisms; they remained strange attractors against the chaotic impro-
+visation, bending, cries, going on around them/in spite of them. 
+
+Cecil Taylor - _no one_ ever commanded any instrument like he did/does. 
+Recently he played on cross-streets in Soho and some fell in - literally 
+- through a collapsed sidewalk grating. The rest fell in as well.
+
+But what happened? I look at the texts, listen to the sounds, and they're
+suddenly gone history; the whole ESP-Disk jazz catalog (including my work)
+has been reissued on CD, and you hear noise of being earnest at best in
+current music; if the New Music, Free Music, New Thing Jazz, whatever, is
+still there, it's not that much in evidence. Ayler died, Coltrane died,
+Hendrix (I at least see a relation) died, ESP folded, other companies came
+in and left, Miles Davis and others went fusion, no? Jazz is nice again, a
+coloration. That period, also that of Leroi Jones' System of Dante's Hell
+say, is gone, Jones gone too, Amiri Baraka continuing incredible writing
+everywhere. 
+
+My own stuff. I learned the country blues from white Al Wilson, later met 
+Son House, Mance Lipscomb, watched them. I was whiteboy all the way. I 
+read Paul Oliver's Blues Fell this Morning, still the best blues book - 
+it had to be, by an Englishman (just as the best overall book on New 
+Music is Valerie Wilmer, As Serious as Your Life, also British, I mean 
+beyond Jones' writings which were reissued) - and I couldn't play blues; 
+I knew context before I knew multiculturalism, and it wasn't me. At that 
+time, Al considered me city (since my guitar was/is fast as hell, ragged, 
+raged), he country - then the turnaround and Canned Heat was doing Robert 
+Johnson and doing it well, and Wilson turned around again and died at 27.
+
+I went on all over the place, formed Damaged Life in the 80s, recorded 
+cassettes with post-industrial stuff, worked through my own thinking of 
+music/sound. Ayler, Coltrane, Taylor, will always be up there. The music 
+stops me dead in my tracks. You can't get it in the packets.
+
+-----------------------------------|
+
+Leading to a disturbing question, an obvious answer no, but with a resi-
+due: Is the Internet white? European? Based on rigid logic (not the five-
+step inference say of Indian reasoning, but Boolean or three-step Aristo-
+telian), potential wells, truth tables, etc. 
+
+Or rather, not white, but rigid in its rejection of the body? I recognize 
+the bandwidth issues at work - they're always able to filter down down 
+down, increasingly fine-grained rasters for example - you can get 44 mhz 
+on CD doing nicely - but all the way down they're just _not_ the analog 
+cry, the life played out above the DNA, running around the social/sexual 
+like crazy, the edge of speed, the _sound._
+
+They're just _not_ that, petulant I am. They might be that, but that is 
+not what was caught in what web at that point, there? What brilliant, 
+there? 
+
+(This music that brought the body back, never caught on, held, in spite of
+the fact that it was the most original thing this country had heard in a
+long time. So it goes, race and aesthetics clamping down nicely, thank
+you. On the Web you can order records, hear snippets of sound, surf, thank
+you, so kindly among products and productions, kindly thank you.  Whatever
+might be missing isn't missing. 
+
+Whatever might be missing isn't missing: This is the motto of the Web.)
+
+
+________________________________________________________________________
+
+
+
+Obsession, The Record of Three Days
+
+
+sondheim  ttyp6    166.84.0.102     Thu Mar 28 02:18   still logged in
+sondheim  ttyp4    166.84.0.102     Wed Mar 27 23:42 - 01:44  (02:02)
+sondheim  ttyqb    166.84.0.102     Wed Mar 27 22:43 - 23:03  (00:19)
+sondheim  ttyp9    166.84.0.102     Wed Mar 27 20:26 - 21:12  (00:45)
+sondheim  ttyqb    166.84.0.102     Wed Mar 27 17:37 - 18:03  (00:25)
+sondheim  ttyrf    166.84.0.102     Wed Mar 27 16:12 - 16:15  (00:02)
+sondheim  ttyt5    166.84.0.102     Wed Mar 27 14:46 - 15:31  (00:44)
+sondheim  ttypc    166.84.0.103     Wed Mar 27 13:47 - 13:48  (00:01)
+sondheim  ttyr5    166.84.0.104     Wed Mar 27 12:00 - 12:26  (00:26)
+sondheim  ttyp2    166.84.0.102     Wed Mar 27 03:24 - 03:33  (00:08)
+sondheim  ttyp6    166.84.0.102     Wed Mar 27 02:22 - 02:23  (00:00)
+sondheim  ttyq6    166.84.0.102     Wed Mar 27 01:44 - 02:21  (00:37)
+sondheim  ttys0    166.84.250.149   Wed Mar 27 01:00 - 01:03  (00:02)
+sondheim  ttypd    166.84.250.149   Wed Mar 27 00:52 - 00:52  (00:00)
+sondheim  ttyra    166.84.0.103     Wed Mar 27 00:29 - 00:48  (00:18)
+sondheim  ttypd    166.84.0.102     Tue Mar 26 23:54 - 00:09  (00:15)
+sondheim  ttyp6    166.84.0.104     Tue Mar 26 23:08 - 23:11  (00:03)
+sondheim  ttys7    166.84.0.103     Tue Mar 26 22:51 - 22:57  (00:05)
+sondheim  ttyrf    166.84.0.103     Tue Mar 26 22:28 - 22:33  (00:05)
+sondheim  ttyp8    166.84.0.103     Tue Mar 26 22:02 - 22:04  (00:01)
+sondheim  ttyt9    149.31.1.100     Tue Mar 26 16:36 - 16:42  (00:05)
+sondheim  ttyrc    149.31.1.100     Tue Mar 26 14:22 - 14:23  (00:01)
+sondheim  ttyt9    149.31.1.100     Tue Mar 26 14:16 - 14:21  (00:05)
+sondheim  ttysc    149.31.1.100     Tue Mar 26 13:51 - 13:51  (00:00)
+sondheim  ttysc    149.31.1.100     Tue Mar 26 13:13 - 13:36  (00:23)
+sondheim  ttyqc    149.31.1.100     Tue Mar 26 13:02 - 13:07  (00:04)
+sondheim  ttys4    166.84.0.103     Tue Mar 26 11:25 - 11:41  (00:15)
+sondheim  ttypa    166.84.0.102     Tue Mar 26 02:01 - 02:21  (00:19)
+sondheim  ttypd    166.84.0.103     Tue Mar 26 01:01 - 01:02  (00:00)
+sondheim  ttyq0    166.84.0.102     Mon Mar 25 23:50 - 00:44  (00:54)
+sondheim  ttypf    166.84.0.102     Mon Mar 25 23:45 - 23:46  (00:01)
+sondheim  ttyr5    166.84.0.102     Mon Mar 25 22:31 - 22:53  (00:21)
+sondheim  ttys4    166.84.0.102     Mon Mar 25 21:47 - 21:48  (00:00)
+sondheim  ttyr1    206.20.110.15    Mon Mar 25 20:59 - 21:09  (00:09)
+sondheim  ttyp2    206.20.110.15    Mon Mar 25 20:30 - 20:40  (00:09)
+sondheim  ttyr2    206.20.110.15    Mon Mar 25 20:26 - 20:28  (00:02)
+sondheim  ttype    192.100.81.100   Mon Mar 25 16:39 - 16:40  (00:00)
+sondheim  ttyt8    192.100.81.100   Mon Mar 25 16:10 - 16:32  (00:21)
+sondheim  ttyq7    206.20.110.122   Mon Mar 25 16:07 - 16:10  (00:02)
+sondheim  ftp      netcom.netcom.co Mon Mar 25 15:55 - 15:55  (00:00)
+sondheim  ttyt8    192.100.81.100   Mon Mar 25 15:47 - 15:54  (00:06)
+sondheim  ttytc    192.100.81.100   Mon Mar 25 15:46 - 15:46  (00:00)
+sondheim  ttyt5    192.100.81.100   Mon Mar 25 15:41 - 15:42  (00:00)
+sondheim  ftp      netcom.netcom.co Mon Mar 25 15:41 - 15:41  (00:00)
+sondheim  ttyt8    192.100.81.100   Mon Mar 25 15:22 - 15:31  (00:09)
+sondheim  ttyqb    206.20.110.122   Mon Mar 25 15:19 - 15:21  (00:02)
+sondheim  ttys1    166.84.0.102     Mon Mar 25 11:43 - 12:09  (00:26)
+sondheim  ttyp2    166.84.0.102     Mon Mar 25 03:53 - 03:53  (00:00)
+sondheim  ttyp2    166.84.0.102     Mon Mar 25 02:34 - 03:40  (01:06)
+sondheim  ttyq1    166.84.0.106     Mon Mar 25 00:33 - 00:57  (00:23)
+
+----
+-
+
+
+(S)MER
+
+
+Everything conspires to drag us into the past, where causation appears 
+perfect, even if Babylonia and the Upanishads require emergence. Cause 
+and effect is neat, takes care of death as well; what was, lives on; 
+there's always the question of inheritance. We have names for this, so 
+many names in fact, that it's the situation of an entire industry...
+
+Think of: memoir, paeon, obituary, recounting, memory, ode, recreation, 
+accounting, remembrance, funeral, funereal, retelling, memorandum, 
+biography, autobiography, epitaph, cenotaph, history, retelling, grave, 
+genealogy, archeology, memorial, prehistory, commemoration, requiem - 
+and there are more, innumerable others, in varying forms, some with the 
+_re_ going over the same ground, a visitation and so forth (ghosts, 
+wraiths, spirits of children killed in the plague); and some with the 
+_mem_ or the retelling of it all, alas...
+
+We can't escape this, our own stories, already entombing us, pulling us
+back into the past, reconstructing the _problem_ of time as the dream
+screen against which we locate our own desires, projections, introjections
+in the form of violated beauty and horror.
+
+It's those strands of algae in Brecht's Manual of Piety again, it's the
+death of Ophelia, everything pulling us deeper, there's no end to it. The
+cast of forlorn times is always upon us; we try to make use of history,
+even make sense of it, forgetting that the only sense is that of sense-
+lessness, that cause and effect are not there for us, are only the desire
+of intellect gone awry. The tombs, graves, markers, shafts, stelae, do
+nothing but ascertain cause, construct the world from chaos, over and over
+again. And what is a masterpiece, (yes, gender-laden), say, if not already
+the signifier of demarcation: this is a _moment_ of comprehension, which
+usually mind you means _the most overdetermined moment_ - thus Rembrandt
+or Leonardo - you can read the world into them. In fact the only "truth"
+of Leonardo was his last sequence of global catastrophic drawings, every-
+thing occurring without rhyme or reason.
+
+_Memory_ and related apparently from a stem (S)MER-1, related to _mourn_ 
+in Claireborne, The Roots of English: We remember the death of the other. 
+We turn away: shame. We live _to remember._
+
+Age pulls us down; just as death seems causeless and is recuperated
+through the suturing of mourning, entombment, so the origin is causeless
+as well, coupled with emergence, mythos, beginnings which apparently cir-
+culated around themselves. We're thrown between the two, thrown _in the
+midst of happenstance,_ constructing the Aristotelian as we go, the logic
+of causes, of vacuum, annihilation, and lack - of fullness, creation, and
+plenitude, inputs and outputs. It's all there, myths varying from one to
+another position; a compendium of the first quatrain of all the creation
+texts worldwide would tend towards exhaustion, language splayed apart,
+deconstructed. Never fear; _man_ is _resolute._ Never fear; there are
+_containers_ for the _thing contained._ Never fear: Tiamat gets angry; 
+the guys try to deal with it, Babylonia. Never argue with male god/heads
+taken apart by their own irreconcilable logic. 
+
+I have no order in which _I speak this._ I sense my own pull towards the 
+grave. I sense the flash of memory and mourning burning skull-dry, in- 
+creasing their loads. I hear them, hear you. I make them, make you. I put 
+you together, put them together. I take you apart, take them apart. I 
+remember, at last, these words sewn as the threads silence my lips, etc.: 
+There is no cause for cause. The platitude rings true, doesn't ring. 
+
+So there are two questions: why is there something rather than nothing?; 
+how does this nothing begin causation? Infinite time places the origin
+elsewhere; this form of logic, applied to the cosmos is presumption it-
+self; one cannot legislate. What then? I prefer the pure grief of random
+acts to the fictions of narrative. This too is a leap, but at least out of
+the cycle, not of rebirth, but of implication: the _archeology_ of mourn-
+ing, the travails and history of the therapeutic, the narration of the
+sepulchre. And how could _causation begin,_ if not through the grace of 
+the story-teller's art?
+
+_________________________________________________________________________
+
+
+-
+
+
+Epitaph in Cyberspace
+
+
+--grounds for the epitaph
+"Someone dies; it's a movement of the lips." (Damaged Life)
+What is death in cyberspace? Where are the grounds of the epitaph,
+its holograph?
+
+--its authorship
+Can one ever be sure of its authenticity? Can one write one's own 
+epitaph here? Does it pass from person to person, wraith to wraith?
+
+--read/write permissions
+Does chmod, changing the permission of the epitaph, violate the real
+or virtual body of the deceased? Can the deceased change her/his own?
+Do the dead have permissions?
+
+--downloading the epitaph
+In cyberspace, is the epitaph the grave itself? Can the grave be down- 
+loaded? Does downloading the epitaph transform it into the _slogan_?
+
+--I write myself out of existence. Alan Sondheim 1943-2024
+This is my epitaph.
+
+--its equivalence to each and every text
+If the epitaph is equivalent to every other text, does death, too, 
+become lost in this dominion? Is the epitaph similar to a homepage, 
+always under construction, torn down at a server's notice?
+
+--its standardization of form as lower ascii
+Is there an equivalent to _engraving_ in cyberspace, to the granite 
+inscription, the tools of the stonemason?
+Or is the standardization of text so restraining that the epitaph 
+is destined to be one text among others, a floating signifier, lost 
+in hard drives and packet routing loops, gone from the world like 
+the virtual or real body itself?
+Is the epitaph always gone from the world?
+
+--its detachment from the site of the grave
+Does the epitaph detach itself from the site of the grave, 
+which is no site whatsoever, email address erased or reassigned?
+Is burial itself a gone thing? Mourning occurs forever, away from
+the computer:
+
+"I turned my head away in shame. I couldn't make clear, to myself, to any-
+one, what was happening to me in real life. He died and left this void,
+and no amount of writing or reading could fill it. I still keep his last
+story in my saved-messages folder; he sent it to me the day before he
+passed away. Is it a testimony to the eternal quality of the digital that
+the story remains there, now at the very top, a framework or bracketing
+for the messages that land temporarily beneath it, only to be deleted
+within a week or two? To grieve is to _disconnect,_ not to remain on-line,
+focused on the screen. There's never a latest in death, only the late de-
+parted. As for the story remaining, it's only witness to decent system 
+administration on the ISP, nothing more. That too will change." 
+
+--its further mobility and dissemination
+It travels elsewhere; it is forgotten. Nothing remains. 
+Software goes back to beta. Software goes to integer. 
+Software goes back to beta. You may find a letter lost and left behind. 
+You may find yourself in tears, wondering why. You may reuse this.
+You may reuse what you have lost.
+
+_________________________________________________________________________
+-
+
+
+Word (literally, I don't know what I'm talking _about_):
+
+
+Moments of pristine beauty from Edgar Sturtevant, A Hittie Glossary, 
+Works of Known or Conjectured Meaning with Sumerian and Akkadian Words 
+Occurring in Hittite Texts, 1936 (diacritical marks not included):
+
+watar, wetar (watar, uwatar, gen. witenas, wetenas, wetnas, dat. witeni,
+weteni, inst. wetenit, wedanda, pl.? widar, uwitar, dat. uwitenas),
+'water.'
+
+kwis 'quis, qui, aliquis' (interrogative, indefinite, relative).
+
+kuwat(t)a(n) [kwat.an], kuwatin, 'whither, why.'
+
+natta 'not; no.'
+
+nu 'then, and; however, but'; the most common sentence connective; always 
+the first word in its clause.
+
+tri- (nom. 3-es = *tries or *tres) 'three.'
+
+apasel, apasela 'is ipse.'
+
+sakkan (acc. saqqan), a kind of vessel. (Hebrew, sak, sack.)
+
+hassa- (acc. hassan, gen. hassas, dat. hassi) 'hearth, stove.'
+
+uttar (uttar, uddar, gen. uddanas) 'word; magic spell, magic formula; 
+thing, affair; cause, law-case.'
+
+marmaras 'murmur, lamentation'??
+
+I note in passing ALAN, ALAM [from the Sumerian] = essri, 'form, statue.' 
+These words appear in Hittite, as does for example the following from the 
+Akkadian:
+
+SUS(S)U (in Hittite texts Su-SI) 'sixty.' (Hebrew, shishim). 
+
+SAMU 'sky.' (Hebrew shemayim). This is interesting; my Hebrew etymological
+dictionary also gives shmin, Aramaic and Egyptian, as well as shmn, Ugari-
+tic. SAMSU 'sun.' (Hebrew shemesh.) Native Hittite nepis is sky; Istanus, 
+sun. 
+
+These moments serve as nodes connecting the rest of the language, working
+through/into the interior. From German to Latin, we're at a nexus, nu?
+Akkadian borrowings go elsewhere, wander throughout the Middle East, North
+Africa? 
+
+Cyberspace is Latin; we await the implementation of double-byte characters
+and multi-lingual sites without the necessity of special software. Still,
+these roots are absented; everything is fetishized. Don't forget that the
+letter "G" is an _invention_ (just as ascii itself); there are two Roman 
+candidates for the honor (and I forget their names)...
+
+
+_________________________________________________________________________
+-
+
+
+'standiP upp, jotnar! ok straiP bekki!'
+
+Stand up, giants! And straw the benches! First get the straw! 
+Then straw the benches! I'm getting married! Pick up a tree.
+You never know! upp-himinn there! We might fall down! 
+Where are the women! Pykkir mer or augum eldr of brenna!
+I think to myself her eyes, wow! They're burning! Now how
+Are the elves doing! What's with the gods here! Hold on, 
+Don't let the straw burn! Pick up the bench! Put the bench
+Down! You picked up the bench! ek I can't believe this!
+Sit down where you stood! First straw the benches! O giants,
+Sit down!
+
+
+________________________________________________________________________

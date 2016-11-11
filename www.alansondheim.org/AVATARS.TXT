@@ -1,0 +1,357 @@
+
+
+Avatars
+
+
+
+We propose a paper with examples dealing with my work with avatars on the
+Internet. This work uses interactive modes between myself and one or ano-
+ther character, all of which interact with Net protocols or applications.
+You may see some of this in operation at the URL below where Jennifer,
+Julu, Alan, and Nikuko have written themselves in and out of the texts.
+
+This is the paper we propose.
+
+It's possible to employ a degree of slippage; it becomes unclear who is
+speaking in any text, "she said."  Just as quotations slip laterally in
+the sentence, there is also a slippage in depth, for example, as Nikuko
+replies. @wet Nikuko. Nikuko is wet, dripping urine through her white
+cotton panties.
+
+We understand the oddity of this proposal, but we have been dealing with
+formally performative language for the past few years, in order to look at
+issues of virtual subjectivity, interaction, projection and introjection
+on the Net. We worry about being taken seriously, not as broken schizo-
+phrenics. put mouth on panties. You drink urine of Nikuko.
+
+"Performative" can be considered in any number of ways. For example,
+there is a _trace_ function in the Julu program Jennifer has written, a
+function which produces a text representing parent/child processes in
+unix, choices made by the user, manipulations by the program itself. The
+function produces a file, .trace, which, when reversed, is legibile. The
+.trace file accumulates, carrying the history of repeated usage; here is
+an example:
+
+hairpiece:sure thing:Julu:leg:
+Come home with me, hairpiece, julu-of-the-fast-crowd!
+Your dirty arm is in my black neck
+HaPPINESS:Yes:Alan::
+Your psychotic head is in my sexy head
+Your your penis seeps into my head - turning me Julu-Jennifer
+Hole:YES!!:Julu:nail:
+Your poor urine is in my depressed nail
+Devour poor urine julu-of-the partying Hole!
+Nikuko ...:never!:Nikuko:hair:hair
+Your linen leg is in my wanton hair
+Your passion seeps into my hair - turning me Julu-Jennifer
+dirty:yeah:Nikuko:ear:
+Your psychotic eye is in my velvet ear
+Devour psychotic eye julu-of-the partying dirty!
+
+Note the stick-like or _anime_ figures at work, distributed authorships
+and anatomies. look panties. You see nothing special.
+
+So that "performative" language has three constituents:
+
+1. Its usual site and analysis as speech act or performative in tradi-
+tional linguistics (and all the accompanying critiques);
+2. Referencing programming language, which is always performative; thus
+"echo `date`" calls up date which echo then sends to the standard output;
+3. _Any_ statement, say, in a chat (IRC, talker, MOO, MUD, chat, etc.)
+environment, which both _constitutes_ and _constructs_ the subject/user;
+without the statement, the subject/user disappears for others.
+
+There is thus the constructed/constituted subject - who is, by virtue of
+protocols, always already _well-defined,_ and the subject on the other/
+near side of the screen - who need not detain us: one might in this
+fashion call the "real" or "physical-real" subject the _virtual subject_
+by virtue of his or her dis/appearance in relation to others on the Net.
+
+Avatars are always disturbances, always irruptions of language, a lang-
+uage portending _the raveling of existence and essence,_ for these terms
+meld within each other, tangled in avatar-sites/sights/citations. @create
+$thing called begging. You have a $thing called begging with object number
+#75438.
+
+(Now we call _these_ avatars _emanants,_ since they are more deeply em-
+bedded than the usual - not to be taken up or dropped as MOO players for
+example, but part and parcel of psychoanalytics themselves.)
+
+We wish to discuss the psychology and philosophy of virtual subjectivity,
+vis-a-vis performative language. Look penis. You see nothing special.
+
+As seen above, in that an/other writing, perhaps that of Julu. But here
+are two disturbances by Nikuko, using warez programs, into IRC (Internet
+Relay Chat) - in one instance, violation of users, and in the other, pro-
+ducing an "obdurate" text, not responding to anyone, simply _reproducing_
+- avatar / emananating:
+
+
+NIKUKO RAGES
+
+IRC log started Wed Feb 18 13:17
+*** Value of LOG set to ON
+#***# Nikuko (sondheim@panix3.panix.com) has joined channel #freedom
+*** ChanServ has changed the topic on channel #freedom to
+        FUCK ME BABY!!!!!!!!!!!!!! (KID420)
+*** Mode change "+ntr" on channel #freedom by ChanServ
+*** #freedom 887825853
+*** On RAW_IRC from "% 352 *" do ^assign DOIT $DOIT;^timer $TIME
+crash $7;^assign TIME ${TIME+7} [SILENT] <0>
+*** On RAW_IRC from "% 315 *" do on raw_irc -"% 352 *";
+on raw_irc -"% 315 *";eval $DOIT  [SILENT] <0>
+<^V^> Crashing Netcruizer Lamer: StarLite
+<^V^> > will crash 48 users <
+<^V^> > time required to avoid excess flood: 337 seconds <
+*** StarLite: No such nick/channel
+<^V^> Crashing Netcruizer Lamer: UniBoy21
+<^V^> Crashing Netcruizer Lamer: SirVictor
+*** CTCP FINGER reply from SirVictor:  : :idle 7 second(s)
+<^V^> Crashing Netcruizer Lamer: Ghostoff159
+<^V^> Crashing Netcruizer Lamer: Hueybot
+*** Signoff: Nikuko (/<rad link?)
+IRC Log ended *** Wed Feb 18 13:18
+
+----------
+
+
+NIKUKO EDUCATES
+
+(text from julian beck, the life of the theater, the relation of the
+artist to the struggle of the people, city lights, 1972)
+
+IRC log started Tue Feb 24 10:37
+*** Value of LOG set to ON
+<hyd> hey all
+<MI> i usually call her at work..and give her an ear full
+(Middnite/#CyberSex) lol Oxx
+#<#Nikuko#># you burn the texts
+<lookin4luv> Hello i'm Looking for some loving from some chicks
+        ............ sorry guys!!!i am bi
+#***# tomx has joined channel #cybersex
+[#E/X#] #You have new email!# (Mail Waiting: 7)
+(Middnite/#CyberSex) WooHoo
+[#E/X#] #Mail:# From L-Soft list server at Purdue University
+        Your removal from the FOP-L list
+#<#Nikuko#># this is what the masters have finally told me
+(Frawg/#cybersex) lol mi
+<MI> <<<not a flower sender
+#***# FMulder has joined channel #cybersex
+#***# kelly19 has joined channel #cybersex
+(Frawg/#cybersex) HAHA SURPRISE HER!
+#***# good-looker has joined channel #cybersex
+#***# GrOOOvY has joined channel #cybersex
+#<#Nikuko#># this is what the greatest of their greatness
+<MI> nope
+(Oxxman/#cybersex) flowers are a rip off
+#***# Sharon20 (Pssy.Lckr)has joined channel #cybersex
+#<#Nikuko#># has whispered what the failing light
+#***# Kostya has joined channel #cybersex
+#<#Nikuko#># hesitatingly points out
+#<#Nikuko#># leap
+(Oxxman/#cybersex) give the gift that dies
+#<#Nikuko#># we are the fire behind you
+#***# GuyStud has joined channel #cybersex
+<stonedagain> any horny women in here wanna chat
+#<#Nikuko#># self immolation
+(Middnite/#CyberSex) send her fake flowers...she can keep em
+<MI> when they is in season..ill go pick em and hand deliver
+<earthenv> hello, Sharon20
+#<#Nikuko#># the burning bodies of the dmaned
+#<#Nikuko#>#      KULCHUR
+#***# Haylo has joined channel #cybersex
+*** FMulder has left channel #cybersex
+#<#Nikuko#># the torch
+*** Sharon20 has left channel #cybersex
+<MI> but i dont buy em
+(Frawg/#cybersex) here comes  haylo
+#<#Nikuko#># the twilight of those gods
+#***# makwa has joined channel #cybersex
+(Frawg/#cybersex) oh shit here she is stop talkin bout her
+*** Mode change "+o Haylo" on channel #cybersex by SynFul
+(Oxxman/#cybersex) nikuko...what are you babbling about?
+(Middnite/#CyberSex) awww...how romantic:)
+*** Nikuko has left channel #cybersex
+*** Signoff: Nikuko (bad, Bad, REAL BAD link?)
+
+IRC Log ended *** Tue Feb 24 10:39
+
+---------- ]
+
+
+We do look at ruptures or disturbances created by characters resonating
+or interfering with configuration files, MOOs, MUDs, talkers, and IRC.
+
+These disturbances develop the limits or margins of the program, reveal
+the substructures/protocols at work, and violate dialogs in relation to
+"meta"- components. @squeeze penis. It makes a mewling sound. You are
+sticky. @clean Julu. Julu is now cleaned from mewling penis.
+
+But Nikuko, Alan, Jennifer, and Julu are disturbances in another way as
+well; they tend towards _psychosis,_ an interweaving of realities, respon-
+sibilities, and claims; so not only, as above, is it not always clear who
+is speaking, or who is speaking for whom - but it is not always clear that
+the speaker herself can separate from her creations. Voices, voices!  
+
+Which will be the future of the Net, if and when it attains a state of
+_seamless virtual reality,_ a state of melding with the real, so that the
+only distinction between the pratico-inert and the virtual might be, the
+presence of a safeword/keyword, allowing immediate movement from one to
+the other. Look Julu. Julu is wearing lovely white panties.
+
+Nikuko says that Alan is repeating herself. Look Jennifer. Jennifer is
+wearing lovely white panties.
+
+We will show how such disturbances define both the openings and foreclo-
+sures of subjectivity on the Net, and how such subjectivity is dependent
+on the specific performativities of various applications.
+
+In other words, through margins, slippages, constitutions, constructs,
+emergences from the "depths" of software or hardware, blockages and flows
+and programming languages (and their phenomenologies) - only through tak-
+ing these into account, as well as surface manifestations, is it possible
+to comprehend virtual subjectivity, etc. And further, as we've pointed out
+elsewhere, it is necessary to consider the _projection of the self_ - its
+written or constituted appearance - in various applications. As examples:
+in IRC (above), the self appears as third-person, #<#Nikuko#># leap. In a
+MOO, if the user types "says hello, the reply on-screen to you would be
+You say "hello." and the receiver will see Jennifer says, "hello." Call
+this more intimate, second-person. On ytalk or Powwow or ICQ, as you type
+your words appear to the other, and erasures are also visible, the letters
+disappearing in reverse. Each participant occupies a _space_ on the screen
+which represents - or is - the space of the (virtual) body, constituted as
+written. Call this first-person, reading through one's eye into the I of
+the other. Look Alan. Alan is wearing lovely white panties. His penis
+presses against lovely white cotton cloth. @remove panties. Alan's penis
+sticks straight out. Look penis. You see nothing special.
+
+There is often a lure and seduction among the avatars at work here - and
+this relates to the Lacanian object a, a continuous deferral. We would
+also place the early Derridean notion of _differance_ for your considera-
+tion, "said Jennifer," responding to Julu. In order to see this at work,
+read the report of a discussion between Jennifer and Nikuko on ytalk; Jen-
+nifer "was" in Fukuoka, Japan, and Nikuko "was" in New York - or perhaps
+the other way around... In reality, the discussion was held on our linux
+box in Brooklyn, telnetting simultaneously to Japan and our ISP in Manhat-
+tan; we then connected the two through ytalk, and recorded the discussion
+- writing and reading it as a dialog among "selves" - in a linux editor.
+@touch penis.
+
+Lurid, lurid, talk straight. You see the shapes through their outlines in
+cotton panties! You can't see details; you know their scents, they take
+you over in desperate dreams, replied Jennifer, pulling her panties down
+ever so slightly, a thin ragged line of pubic hair visible above the
+elastic, her labia swollen against the wet cloth. @tongue panties. You
+tongue panties while Jennifer and Nikuko talk.
+
+----------
+
+Talk Between Jennifer and Nikuko on Ytalk Ending in Anger
+
+(recorded verbatim between Fukuoka and New York City Tue Jun 2 02:36:21
+EDT 1998 - errors as is/are/was)
+
+
+-----------= YTalk version 3.0 (2) =------------
+oh nikuko you are so beautiful, shall we meet among the dashed spaces of
+our bodies' miseries
+the matrix saves us, there is no beginning and ending, nothing but liquid
+pureness of language slDalvaging these spaces...
+they lend themselves across these times and spaces, they're lost,
+rudderless, as masts crash to the deck in dark and rdreary storms ouf our
+making
+
+
+-----------= nikuko@oita.kata.com.jp =------------
+oh jennifer, the world will never know what beauty entangled us among our
+very selves, machines, wholesale worlds to sail, soiled and sold
+they are frought with desire, they lend themselves to arms and legs 
+akimbo
+we are made, made, women, we have sounded, resonated, with each and every
+protocol, each and every space or site open to winds and skies 
+coagulating
+like limpets seas and jellies
+
+------------
+
+-----------= YTalk version 3.0 (2) =------------
+the matrix saves us, there is no beginning and ending, nothing but liquid
+pureness of language slDalvaging these spaces...
+they lend themselves across these times and spaces, they're lost,
+rudderless, as masts crash to the deck in dark and rdreary storms ouf our
+making
+jellies and dark dreams, there is space enough for your soft limbs, for
+mine...
+which bring about the semblance of a face, lineaments of eyes and mouths,
+speaking elsewhere, from the sides of things, from their moments of 
+origin
+
+you've said that before, over and over again, as if repetition had no 
+goal but the delibery of the interval...
+
+-----------= nikuko@oita.kata.com.jp =------------
+we are made, made, women, we have sounded, resonated, with each and every
+protocol, each and every space or site open to winds and skies 
+coagulating
+like limpets seas and jellies
+
+times which smooth us, bits and bytes, protocls lost and smoothing
+functions traced across peripheries, margins, divisions among all routers
+
+carried across time and space, moved, just as Jennifer has all the space
+there is, Jennifer has all the time in the world
+
+which announces itself as the edge or frame of this dialog, these moments
+carried forth...
+
+------------
+
+-----------= YTalk version 3.0 (1) =------------
+everything is a moment moment for you, everything this mmmm... of matrix,
+mother, maternal, carrying forth, something about Timaeus plays a role
+here if not the whole tradition...I pre
+
+no, no, i prefer the small, seeping, the peripeheral, marginal, the
+scattered words, drops say from a drizzle, that is, forage, no, 
+foresaken,
+no, i'm not sure here, what is it, what it is, what is it
+
+carry forth!!
+---------= jennifer@jenn.com =----------
+you've said that before, over and over again, as if repetition had no 
+goal but the delibery of the interval...
+
+I'd be hard tput to know what tradition you are speaking from, Nikuko, if
+that is your name, carried across this? or which might be, say, that of
+the Kojiki <*note replying with capitals, as the discussion hardens its
+wares*>
+
+what would break down here, a language that you use against me? so that I
+will absjure, abjure these ... moments ... ?
+
+------------
+
+carry forth!! [QUITS THE DISCUSSION IN ANGER]
+---------= jennifer@jenn.com =----------
+
+what would break down here, a language that you use against me? so that I
+will absjure, abjure these ... moments ... ?
+
+{k:4}
+
+
+------------------------------------------------------
+
+
+We think of all of us, Jennifer, Alan, Julu, Nikuko, as sites, domains,
+emanations, emissions, which are interwoven and sharing coagulated ego/s,
+matrices, languages, bodies. @create $thing called labia; put labia in
+panties. @create $thing called Alan. @describe Alan as hungered, shemale,
+made from bits and pieces of uneasy dreams. @put Alan in imaginary. Look
+Alan. You see nothing special.
+
+@see   http://www.anu.edu.au/english/internet_txt
+
+
+********************************************
+

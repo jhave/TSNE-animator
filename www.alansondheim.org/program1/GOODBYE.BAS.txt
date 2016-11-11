@@ -1,0 +1,3 @@
+INPUT ; f$
+KILL f$
+

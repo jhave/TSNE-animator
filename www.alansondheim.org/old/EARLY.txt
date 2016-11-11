@@ -1,0 +1,146 @@
+
+From edz@bsn.com Wed Jul  9 15:02:06 1997
+Date: Wed, 9 Jul 1997 09:52:45 +0200 (MET DST)
+From: "Edward C. Zimmermann" <edz@bsn.com>
+To: Alan * Sondheim <sondheim@panix.com>
+Subject: Re: RFC 602
+
+> 
+> 
+> On Tue, 8 Jul 1997, Edward C. Zimmermann wrote:
+> 
+> > > Ed? Is this you? In fact, where can I find out more about your exploits?
+> > Who knows? What system is he talking about? Cracked many many systems
+> > in my pre-18 days.. 
+> > If the system was claimed to be 100% secure I'm sure I was in :-)
+> > Now LA? High School kids? Must be my circle since there was no one
+> > else :-)
+> 
+> He didn't say what system he was talking about; it was in Salus' Casting
+> the Net, as I said, which surely is available abroad?
+> 
+> > When I was in Sweden some hacker mag talked about me (of course
+> > not knowing "my true identity")... It would be interesting to track
+> > truth and folklore.....
+> > > 
+> > > love, Alan 
+> > > 
+> Again, what exactly _were_ your exploits :-)  ?
+Depends on what perspective.. I probably *invented* the next
+generation of network software (post-Java) in the early 70s.
+I had an idea to have a computer program segment itself into
+parallel and sequential bits and to distribute itself across
+the network (on the basis of network timings and load
+statistics).. Pretty cool for the early 70s.. Who said that
+client/server came later?
+I was inspired by the Illiac-IV.. And it was during a
+doctoral seminar-- yea I used to attend these are UCLA--
+that I got the idea...
+My idea was even wackier since the idea was that the
+"next generation" langauge (again we are in the early 70s)
+would adapt itself to the individual programmer.. A kind
+of self-learning evolving computer language that focuses
+on the individual... The idea was to learn programmer
+intent.....
+A lot of people got upset since I had substantial ARPA
+resources.. I had an office at UCLA.. The problem was that
+I guess I never bothered to tell anyone that I was 16 and
+not, as apparently was assumed, a post-doc researcher.. I
+had more resources that the head of the network measurement
+center who got declined.. Shit hit the fan when one of
+assistents (who I did not like) stumbled upon the extent
+of my resources and the head blew the roof..
+Interestingly the head of the LLL (Lawrence Lincoln Labs)
+in Cambridge-- the center node chosen since Kleinrock did
+his research there-- continued to support my idea.. I then
+ended up as UCLA-CCBS.. And at 18 I quit computers..
+The funny thing about Kleinrock was that he was giving me
+tutorials on stochastic networking.. And one day his son
+was there and *surprize* I knew him from school.. It was
+very strange... Everyone knew that I was young, but I guess
+no-one really figured that I was a high school kid.. Since
+no one ever asked I .. :-)
+Anyway.. About my exploits.. Many people got angry and
+paranoid.. And Minsky blammed me for *everything*. UCLA
+NMS talked me that they would arrest me if I got within
+1000 feet for their computers.. USC too.. I guess it
+was a kind of scandal.. "How does a 16 year old kid
+end-up with high budget support from ARPA".. ARPA found
+it embarassing and cut my budget from one day to the
+next....
+Before that I used to *enter* computer systems like opening
+a sliding door.. Choose a machine, I was in-- and that
+includes the military networks.. 
+I used to also spend time at UCLA medial center.. There I
+just played to research units against one another.. Each
+*thought* that I worked in the other.. Yea Yea my waky
+days.. I had this idea for computer supported *human*
+vision, which was either thought up independently later
+or ripped-off...... But that's yet another story... 
+> 
+> love, Alan
+> 
+> 
+
+
+-- 
+______________________
+<A HREF="whois://rs.internic.net/ecz">Edward C. Zimmermann</A>
+<A HREF="http://www.bsn.com/">Basis Systeme netzwerk/Munich</A>
+From jea@rci.rutgers.edu Wed Jul  9 15:02:13 1997
+Date: Wed, 9 Jul 1997 14:25:37 -0400
+From: Janet Abbate <jea@rci.rutgers.edu>
+To: Alan * Sondheim <sondheim@panix.com>
+Subject: Re: Preliminary User's Guide to the ARPA Network
+
+The Center for the History of Electrical Engineering is jointly run by the
+IEEE and Rutgers. There is a staff of 6 researchers. We do various
+historical projects for the IEEE (for instance, we're currently working on
+a history of signal processing) and teach history of technology courses at
+Rutgers. We have a small library and an archive of materials relating to
+the IEEE and its history, but we don't collect any other materials. We do
+have guides to finding sources related to electrical history. You can find
+these online at our web site:
+
+http://www.ieee.org/history_center/
+
+I don't have a xerox of the full Scenarios, just 8 pages of it (including
+the table of contents).  If you want a copy of that, send me your mailing
+address. I think you would have trouble getting it from BBN, as their
+library is not open to the public; I had to be sponsored by an employee to
+get in. You might try the Charles Babbage Institute, if you haven't
+already. They did that big study on ARPA a few years ago and have a lot of
+relevant materials in their archives. Their email address is:
+
+cbi@tc.umn.edu
+
+I'm in the middle of writing a book on the history of the ARPANET, and one
+of the things I'm trying to figure out is what the network was like to use
+in the early days: what could you actually do with it, who used it, how
+difficult it was to use, what kind of impact it made on people's work
+habits or social interactions, etc. I've been finding it surprisingly hard
+to piece together this information. Everyone knows the story of how the
+ARPANET got built from 1969-1972; then there's this big gap until the early
+1980s, when the Internet got to be widely used. Hardly anyone seems to know
+what happened in between, other than their own personal experience. If you
+happen to have any stories about early ARPANET use, I'd love to hear them.
+
+By the way, what's BEING ON LINE?
+
+Janet
+
+>This sounds amazing. Could you also tell me something about the center
+>you're part of at Rutgers? I'm in Brooklyn - it wouldn't be difficult to
+>visit. Are there libraries connected with it? A xerox of the Scenarios
+>perhaps?
+>
+>It comes to life in your description - it's important to know just what
+>_was_ available on the machines at that time. The Salus book gave no hint,
+>of course, of things like Eliza.
+>
+>Alan
+
+>EXPERIMENTAL (on and off): http://166.84.250.149   Editor, BEING ON LINE
+>
+
+

@@ -1,0 +1,1835 @@
+
+Music Improvisation: New course at Underacademy College!
+
+There are other great classes as well! Check them all out!
+Free! Experimental!
+
+http://underacademycollege.wordpress.com/
+http://underacademycollege.wordpress.com/studies/courses/
+
+What is musical improvisation? Why do we do this? Why do we do 
+music at all? We'll consider this and other issues and post / 
+critique musical files through a blog interface. We'll see if we 
+can find a way to improvise communally online or off. Please 
+sign up if you're seriously interested in the subject; I'd like 
+to try to assemble a body of writing and work. There are no 
+assignments per se, except to post your thoughts and sounds; the 
+course will grow organically.
+
+Please note that this will begin around March 20th. I'm hoping 
+we can discuss the aesthetics of improvisation, find ways to 
+play online together, and discussion improvisational structures, 
+venues, etc. etc. Just about anything.
+
+Thanks and have fun!
+
+ Alan Sondheim
+You can write me at
+sondheim <at> panix.com for additional information.
+
+
+
+
+the vi * tracking of a certain device 
+
+hello, hello, you~~~~~~~~~~~~~~~~~~~~~~ hello, 
+you~~~~~~~~~~~~~~~~~~~~~~ hello, this you~~~~~~~~~~~~~~~~~~~~~~ 
+the hello, is hello, of beginning beginning and test beginning 
+test of and formation i'd i'd something add add something to 
+something it, to it, something means the in instead, in instead, 
+vi, in vi, i'm given i'm permanently permanently ability the 
+remain to within to structure the within certain within structure 
+a of certain a device, tracking thought from device, which 
+tracking or from device, which device, there no little there no or 
+no or escape; no it and this, is clause, escape offers that me 
+offers me offers that clause, choice, no cannot that allow cannot 
+freedom the _performative the would that word,_ change would 
+change world the - - only if only i only - if - longer longer 
+could escape, could bound bound longer other other marks, other 
+~and other what what what other have what have what marks, myself, 
+myself, to done, myself, language, to language, to o , , of he , 
+ins from forma which forma processing; ly of ain ain racking 
+marks, her canno wha change _performa her wha this
+
+* vi - unix/linux editor
+
+
+
+
+how i do it how i don't do it how i make 
+mistakes how i correct them how i am 
+ashamed how i am learning how i am
+failing how i am repeating myself how i
+am trying something new how i am close 
+to giving up how i begin again how i do
+it how i don't do it how i sarangi how
+i don't
+
+http://lounge.espdisk.com/archives/1075 (best)
+http://espdisk.com/alansondheim/howidoit.mp3
+
+-- alan sondheim, sarangi and talk --
+
+
+
+Just found these outlines of courses I taught around 1995-96 on Net stuff 
+- might be of interest - Alan
+
+
+
+EXTENDED OUTLINE: 
+
+This is a guide to all of the material that will be covered in the 
+course, either in outline form or in detail. I presuppose no prior 
+knowledge of the Internet. The main book is Harley Hahn, The Internet 
+Complete Reference, Second Edition, Osborne.
+
+
+Take Notes!
+
+1  Overview of the Internet: History, Demographics, Cultural Impact
+	History: Relation to Arpanet, DOD, BBN, NSF
+		TCP/IP
+		The _porous_ and _redundant_ Net
+		Dissolving the backbone
+		Commercialization
+	Demographics: Past and present
+	Cultural Impact:
+		From research to commerce
+		From television to cable to video: interactivity
+		Ham and CB Radio
+		Hacking: Subversion
+	Countries On Line:
+	Genders On Line:
+
+   Overview of Internet Applications:
+
+		synchronous  |  asynchronous
+		-------------|--------------
+		text         |  audio/video+
+
+   The "feel" of Unix Shell
+   The "feel" of the World Wide Web
+   The "feel" of off-Web applications
+
+   Brief Introduction to New School Interface
+
+2  Who Owns Information: Information Equality:
+	Haves and Have-Nots
+	Example: Wiring Cape Breton
+   --------------------------------------------------------------------
+   Beginning Technical Material
+
+   Connecting to a Unix Shell
+   Connecting to a SLIP/PPP Account
+   Connecting to the New School
+
+   Basic uses of the Internet (brief description at this point):
+	1. Telnet: Remotely logging in to another machine.
+		Internet Addresses: IP Address
+		Internet Addresses: Domain Structure
+			International Domain
+	2. FTP: File transfer, double telnet ports.
+	3. Email
+
+   Elaborate on Email:
+	Send, Receive, Reply, Forward, Bounce, Quote, .sigs, etc. 
+	Pine reader demo
+	SMTP demo if possible
+	Email address books
+		Aliases
+	Email attachments: The MIME format 
+   The _quality_ of email.
+	Conversation/Formal
+
+3  Email lists:
+	What they are:
+		Examples
+		Moderated/unmoderated/sub confirm/ _depth_
+	Types, how to sub/unsub
+		Address Aliases
+		Listserv (history)
+		Majordomo
+		Listproc
+	Subjects:
+		Research: MOO-Cows, Research, E-Conf
+		Community: Cybermind, Future Culture, FOP-L
+		Technical: Vidpro, AOL Listowners
+		Resource: Net-Happenings, Red Rock Eaters
+    Community on Email lists:
+	Death, love, divorce, marriage, sex, working-groups
+		Cybermind Conference
+	Flaming
+		Moderating techniques: unsubbing someone
+	Cross-posting
+	Issues of empowerment, censorship
+
+   Summary of material covered to date
+
+4  Usenet Newsgroups and Newsgroup Communities, 
+	Difference between Newsgroups and Email Lists
+	Quality of Newsgroups, all 17000 of them!
+	Newsgroup Hierarchy, formal/informal
+	Examples: alt.angst, alt.internet.culture, rec.pets.cats, 
+		sci.logic, alt.fan.tonya-harding.whack.whack.whack,
+		alt.adjective.noun.verb.verb.verb, alt.dirty-whores,
+		alt.sex.bondage, alt.flame, sci.med.vision, 
+		alt.society.neutopia, alt.personals
+		rec.radio.shortwave, various panix and netcom newsgroups,
+		comp.unix.questions, clari.world, alt.hackers, alt.2600
+	Uses: Emergence, empowerment:
+		Medical, political, sexual, hacking
+	Tin Newsgroup Reader: Command Structure
+	Netscape News Reader: Command Structure
+	Yanking/searching Newsgroups: Search Strategies
+	
+	The alt.sex hierarchy and censorship
+	Nature of community on newsgroups:
+		Lack of rites of passage in relation to email lists
+
+   Gopher: History, Quality, Menu-Driven
+	Gopher URLs
+	Gopher from prompt: Command Structure
+	Gopher examples
+	Veronica!
+
+5  FTP: File Transfer Protocol
+	Binary and Ascii Files
+	From Prompt: Command Structure
+		Downloading and Uploading
+	From Browser: Command Structure
+		Downloading and Uploading
+	Archie
+   
+   Getting information on someone or on a site:
+	Finger
+	Whois, nslookup, dig, traceroute, ping, ping -s, host, etc.
+	Netfind and other lookups
+
+   World Wide Web: Brief Introduction (We will return to this)
+	Text and Graphics Browsers: Lynx and Netscape
+	URL Structure including telnet, ftp, gopher, http, html
+	Nature of Web Sites, Web pages
+	Limitations of Web pages
+
+   ----------------------------------------------------------------------
+   Begin Synchronous Applications
+
+   Talk, Ntalk (Bigendian/Littlendian), Ytalk
+	
+   Chat on the World Wide Web
+	
+   IRC:
+	Channels, communities, bots, front ends:
+		Mirc, Phoenix
+			Command Structure
+	Hacking, Flooding
+	DCC for file transfer
+	Conferencing
+
+6  Text-Based and Graphics-Based Virtual Realities
+	Haven: From IRC
+	Talkers
+	MUDs (lpmud, dikumud)
+	MOOs including tiny fugue client
+		History, Command Structure
+   
+   Communities on MOOs, MUDs, Talkers
+	Net relationships
+	Body on MUD, MOO, talker
+		Injured, hungry, thirst, poor body
+		Virtual bodies, virtual subjectivities
+	First person, second person, third person sexualities: structure
+	Governance issues: wizards, quota review boards
+		Programming issues
+	Diversity University and other teaching/conferencing applications
+		Lily
+	MUD and talker as total environment
+
+   CuSeeMe:
+	Receive/send, quickcam
+	Relationship/sexual issues: voyeurism/exhibitionism
+	K12 uses
+	Screen refresh of still images: webcams, etc.
+
+   Graphics MOOs:
+	Avatars and representation in general
+	Bandwidth issues
+	ThePalace (Time Warner)
+		Organization, iptscrae, community
+		Talk balloons
+		Use of .gifs
+		Palace Server Distribution
+		Registration
+	Worldschat
+		Negotiation of Space
+		Lack of rites of passage in relation to ThePalace
+	Other modalities
+		Iphone
+		Webphone
+		Powwow
+
+7  Subjectivity and Net Sex:
+	Create a space and community/sex will come
+	Projection and Introjection in Net sex and relationships
+		The Ascii Unconscious
+		Empowerment
+	Writing and Wryting
+	Address/Recognition/Protocol
+   Virtual Subjectivity, Future Subjectivities
+
+   -------------------------------------------------------------------------
+   Landscape
+
+
+   The Cyber Landscape:
+
+
+     Uses for Communication: Anything at All
+
+     Common:
+	Family (email alias lists, home pages, email)
+	Education (MOO universities, class email lists, student home pages)
+	Sexual (net sex, sexual support groups, IRC, alt.sex newsgroups)
+		relationships
+	Support-groups (medical, addictions, see Needs)
+	Technical/Consumer (Usenet, email lists, WWW)
+     Information/Commercial:
+	WWW (active or passive pages)
+     Art-Related: 
+	WWW (active or passive pages and various extensions)
+     Reduction of Anomie:
+	Expert Systems (linkages, invisible colleges):
+		Needs:
+			News (newsgroups, WWW pages, etc.)
+			Medical (email lists, newsgroups, etc.)
+				Organized from below (patient)
+				Organized from above (institutional)
+			Emotional/Psychological (IRC, email, " ")
+				Organized from below (patient)
+				Organized from above (institutional)
+			Resources (scientific, hytelnet, etc., WWW, " ")
+		Fan-Clubbing:
+			Sports (email lists, newsgroups)
+			Music (real audio, Iphone, Xing, etc., " ")
+		Gaming (MUDs, IRC, email, newsgroups, etc.)
+		Conferencing
+	Community: [Wherever two-way multiply-connected communication is 
+		   possible]
+	Business: 
+		Direct and indirect marketing
+		Information Exchanges
+	Shared Gain and Pain: the wired or sentient environment
+
+   Summary of material covered to date
+
+   ----------------------------------------------------------------------       
+8  Begin World Wide Web
+
+    Netscape and the World Wide Web: 
+	General Overview:
+		Bookmarking
+		History
+		Go
+		Upload/Download
+		Mail/Newsgroups
+		Extensions/Telnet applications
+			Popular File Extensions
+   Lynx Brief Guide:
+	[See Above under Netscape.]
+
+   Commercialization and the Net
+	Monopoly telecommunications capital
+	Anarcho-libertarian aesthetic transformed
+
+   Off-Web PPP/SLIP Applications
+	Iphone and other Internet telephony
+	Powwow (see above)
+	ThePalace (")
+	CuSeeMe (")
+
+9  Search Engines and Search Strategies [section continuously updated]
+	Boolean, etc.
+		alta.vista
+		Yahoo
+		Inktomi, Hotbot
+	Intelligent Agent
+		my.yahoo.com
+		Firefly
+	Strategies:
+		Generalization: inclusive sweeping
+		Particularization: scope-narrowing
+	Dialectic of search strategies
+   
+10  Web Pages: Design, philosophy, technique:
+	Why have a home page?
+		Personal
+		Corporate
+		Group
+	HTML basic structure:
+		Recommended text: HTML, The Definitive Guide,
+			Musciano and Kennedy, O'Reilly
+	Design:
+		Incorporation of active forms, extensions
+		Text-browser readable
+		Maximum jpg, gif size
+		Varied points of entry, speeds
+
+    --------------------------------------------------------------------
+    Conclusions, Summary
+
+11  Internet Present and Future:
+    
+    Conferencing, small scale:
+	1. Gateway Web Page
+	2. Email lists (1-3)
+	3. Talkers
+    Conferencing, large scale:
+	1. Interactive Web Pages with Real Audio, etc.
+	2. Whiteboarding
+	3. Video Conferencing
+
+    The Future: Seamless Virtual Reality
+
+    Course Overview
+
+-------------------------------------------------------------------------
+
+
+If the above outline is too complex, we can simplify it as follows:
+
+Week    Topic
+
+1       Overview, History, Demographics
+2       Connecting, Email
+3       Email Lists, Community, Summary 
+4       Internet Newsgroups, and Gopher
+5       FTP, Chatting, Synchronous Communications
+6       MUD, MOO, and Other Applications
+7       Net Relationships, Subjectivity and Landscape, Summary
+8       The World Wide Web and Netscape
+9       Searching for Information, People, Etc.
+10      Setting Up Home Pages, Introduction and Design Issues
+11      Conferencing, Future of the Net, Summary
+
+----------------------------------------------------------------
+
+With either Outline:
+
+
+Assignment: Choose 1:
+
+a. Set up a home page for yourself;
+b. Write a paper on a topic of your choice;
+c. Propose a project
+
+The assignment should be underway by the fifth class.
+
+
+
+
+Reading Materials:
+Howard Rheingold, The Virtual Community
+Sherry Turkle, Life on the Screen
+Peter Salus, Casting the Net
+Internet Cultures
+Cultures of Internet
+Sondheim, Alan, Being on Line
+
+1 The current state of the Internet. Who is using it, what is it, what
+are the services and applications associated with it? What are the 
+current demographics? 
+
+2 The future state of the Internet. Where is it going in the next few
+years? Will it be able to keep pace with the increasing number of users?
+How are demographics changing? Entertainment vs. information visions.
+The other visions of business and community: How do applications such as
+the World Wide Web determine what is possible on the Net? How is the
+user "configured" by these applications?
+
+3 Radio, television, film beginnings: What sorts of parallels can we draw?
+What similarities are there between contemporary computer communication 
+and short-wave radio or cb, for example? Also: Analog and digital media,
+and the relationship between the two.
+
+3 Synchronous and asynchronous applications. What constitutes a data-
+base? What audio and video modalities are becoming available and how do
+these affect the user? Many-to-many, one-to-one, one-to-many, many-to-one
+applications. What is the future of "virtual persona" or "avatars" on the
+Net?
+
+4 Issues of the body: reading through the text, hysteria, net.sex and
+the "ascii unconscious," postmodernism and the fragmented self. Sex, love,
+and death in cyberspace. Cyberspace relations and the nuclear family. 
+Internet marriages and relationships.
+
+5 Virtual subjectivity. Projections and introjections. "Reality" and the
+grain of the voice, death and rape in cyberspace. Hallucinatory person-
+alities, Net personalities. Various spaces in Cyberspace: MOOs, Usenet,
+email lists.
+
+6 Privacy, security, community, and confession on the Net. Groups and
+counter-groups. Alt.society.neutopia and the monster-truck neutopians. 
+Alt.angst, Walkers in Darkness, and other support newsgroups and email 
+lists. 
+
+7 Hacking, cracking, and the anarcho-libertarian aspects of the Net.
+Spamming. The changing demographics/cultures as a result of the World
+Wide Web. The future of the Web, chat-lines, and so forth.
+
+8 Community Organization: Forms of outreach. Freenets, Community Access 
+Points, conferencing tools and strategies. Kiosks, from government to 
+Siggraph.
+
+9 Strategies for research and organizing information and personal/formal 
+databanks. Search engines and Boolean searching. Web page information 
+structure and philosophy: access for all.
+
+10 Community organization, continued: Levels of entry into the Net. Models
+of Internet economic and cultural development. Practical and theoretical
+policy development. 
+
+10 Course overview.
+
+-------------------------------------------------------------------------
+
+
+CMC Landscapes:
+
+ Uses for Communication: Anything at All
+
+ Common:
+	Family (email alias lists, home pages, email)
+	Education (MOO universities, class email lists, student home pages)
+	Sexual (net sex, sexual support groups, IRC, alt.sex newsgroups)
+		relationships
+	Support-groups (medical, addictions, see Needs)
+	Technical/Consumer (Usenet, email lists, WWW)
+ Information/Commercial:
+	WWW (active or passive pages)
+ Art-Related: 
+	WWW (active or passive pages and various extensions)
+ Reduction of Anomie:
+	Expert Systems (linkages, invisible colleges):
+		Needs:
+			News (newsgroups, WWW pages, etc.)
+			Medical (email lists, newsgroups, etc.)
+				Organized from below (patient)
+				Organized from above (institutional)
+			Emotional/Psychological (IRC, email, " ")
+				Organized from below (patient)
+				Organized from above (institutional)
+			Resources (scientific, hytelnet, etc., WWW, " ")
+		Fan-Clubbing:
+			Sports (email lists, newsgroups)
+			Music (real audio, Iphone, Xing, etc., " ")
+		Gaming (MUDs, IRC, email, newsgroups, etc.)
+		Conferencing
+	Community: [Wherever two-way multiply-connected communication is 
+		   possible]
+	Business: 
+		Direct and indirect marketing
+		Information Exchanges
+	Shared Gain and Pain: the wired or sentient environment
+
+		
+-------------------------------------------------------------------------
+
+COMMUNICATION TYPES:
+
+    -   LambdaMoo (MOO server and database core)
+    -   LilyMOO (MOO database core)
+    -   MUCK (furrymuck for example)
+    -   MUSH
+    -   MOOSE (k12 programming)
+    -   MUD (dikumud for example)
+    -   LPMUD (programmable)
+    -   Hotel California (talker)
+    -   Lorien (talker)
+    -   Nuts (talker)
+    -   Summink (talker)
+    -   Zone (talker)
+    -   Haven (talker)
+    -   Nuts (talker)
+    -   Internet Relay Chat (w/dcc file exchange)
+    -   Ytalk (Unixtalk)
+    -   Talk, Ntalk
+    -   WorldsChat (graphic)
+    -   ThePalace (graphic)
+    -   Firefly (audio, graphic, intelligent agent)
+    -   Iphone (audio)
+    -   Powwow (multiple ytalk, audio)
+    -   CuSeeMe (video w/audio, chat)
+
+Mostly Async:
+
+    -   Listserv (email list)
+    -   Majordomo (email list)
+    -   Listproc (email list)
+    -   Email Alias List (small email list)
+    -   Email
+    -   WWW Updating Homepage (slow chat, some graphics)
+    -   Newsgroup moderated +/- alt +/- registered +/- (Usenet)
+    -   Newsgroup single-poster (e.g. clari.net) (Usenet)
+
+---------------------------------------------------------------------------
+
+
+
+
+augmented reality text
+
+
+e b n a l e -+ s -+ -+ t r h -+ -+ -+ -+ a n -+ -+ -+ -+ -+ s n 
+-+ -+ -+ -+ -+ -+ -+ f -+ t -+ -+ d a d p t -+ b a -+ l -+ -+ s 
+-+ r t -+ -+ -+ -+ -+ -+ d t i d -+ n h b -+ -+ -+ r -+ -+ e -+ 
+-+ -+ t -+ -+ d -+ r -+ -+ -+ a -+- h e -+ -+ e s -+ a t -+ -+ 
+-+ s -+ e -+- s i -+ -+ -+ -+ o t r -+ -+ -+ a l -+ -+ l t c g 
+-+ h i e s -+ a d p d -+ -+- -+ s l -+ t d n -+ d t e b k -+ s 
+-+ a -+ d -+ -+ -+ -+ e n -+ -+ t e t -+ e -+ p b e -+ -+ -+ -+ 
+-+ -+ e b p -+ e -+ t e t -+ -+ n e -+ -+ -+ -+ d -+ a -+ s -+ k 
+b e t d -+ n d t -+ l s -+ -+- -+ d p d a -+ s e i h -+ g c t l 
+-+ -+ l a -+ -+ -+ r t o h -+ -+ -+ i s -+- e -+ s -+ -+ -+ t a 
+-+ s e -+ -+ e h -+- a -+ -+
+
+
+e -+ l -+ e -+ p -+ h -+ a -+ n -+ t -+ s -+ k -+ i -+ l -+ l -+ 
+i -+ n -+ g -+ e -+ l -+ e -+ p -+ h -+ a -+ n -+ t -+ s -+ f -+ 
+i -+ e -+ l -+ d -+ s -+ e -+ l -+ e -+ p -+ h -+ a -+ n -+ t -+ 
+s -+ d -+ e -+ a -+ d -+- b -+ i -+ r -+ d -+ s -+ c -+ h -+ a 
+-+ r -+ r -+ e -+ d -+ e -+ l -+ e -+ p -+ h -+ a -+ n -+ t -+ s 
+-+ d -+ e -+ a -+ d -+- b -+ i -+ r -+ d -+ s -+ b -+ o -+ d -+ 
+i -+ e -+ s -+ e -+ l -+ e -+ p -+ h -+ a -+ n -+ t -+ s -+ k -+ 
+i -+ l -+ l -+ i -+ n -+ g -+ e -+ l -+ e -+ p -+ h -+ a -+ n -+ 
+t -+ s -+ f -+ i -+ e -+ l -+ d -+ s -+A u -+ g -+ m -+ e -+ n 
+-+ t -+ e -+ d -+ b -+ u -+ n -+ n -+ y -+ m -+ a -+ c -+ h -+ i 
+-+ n -+ e -+- g -+ u -+ n -+ e -+ e -+ l -+ e -+ p -+ h -+ a -+ 
+n -+ t -+ s -+ d -+ e -+ a -+ d -+- b -+ i -+ r -+ d -+ s -+T e 
+-+ x -+ t -+ e -+ l -+ e -+ p -+ h -+ a -+ n -+ t -+ s -+ d -+ e 
+-+ a -+ d -+- b -+ i -+ r -+ d -+ s -+ c -+ h -+ a -+ r -+ r -+ 
+e -+ d -+ e -+ l -+ e -+ p -+ h -+ a -+ n -+ t -+ s -+ d -+ e -+ 
+a -+ d -+- b -+ i -+ r -+ d -+ s -+ b -+ o -+ d -+ i -+ e -+ s 
+-+
+
+
+-+ r -+ d -+ -+ t -+ -+ -+ e -+ -+ r -+ -+ -+ b h n -+ d i t d 
+-+ -+ -+ -+ -+ -+ t r -+ s -+ -+ l -+ a b -+ t p d a d -+ -+ t 
+-+ f -+ -+ -+ -+ -+ -+ -+ n s -+ -+ -+ -+ -+ n a -+ -+ -+ -+ h r 
+t -+ -+ s -+ e l a n b e -+ -+ -+ -+ -+ -+ -+ d -+ p i -+ -+ -+ 
+t d i d -+ -+ p t -+ e b -+ -+ l e l s p r t -+ h -+ e d -+ -+ 
+-+ -+ -+ s n -+ -+ n -+ l r -+ h -+ -+ f e t s n d -+ -+ -+ -+ e 
+-+ -+- -+ e l a -+ s e -+ t e a -+ s s -+ d -+ i d e -+ h -+ -+ 
+r l -+ -+ a -+ -+ s l t -+ g -+ h -+ -+ s l a d -+ -+ -+ d e s 
+-+ -+ t d -+ -+ -+ t e -+- -+ -+ -+ i -+ -+ -+ -+ r i i -+ -+ l 
+-+ -+ -+ t -+ -+ -+ -+ -+ e -+ e -+ d -+ d e b p -+ -+ h t -+ -+ 
+-+ d -+ e -+ -+ -+ s d a a d s -+ -+ -+ e -+ d -+ -+ -+ t h -+ 
+-+ p b e d -+ d -+ e -+ e -+ -+ -+ -+ -+ t -+ -+ -+ l -+ -+ i i 
+r -+ -+ -+ -+ i -+ -+ -+ -+- e -+ -+ -+ -+ d t -+ -+ s e d -+ -+ 
+-+ -+- a l s -+ -+ h -+ g -+ t l s -+ -+ a -+ -+ l r -+ -+ h -+ 
+e d i -+ d -+ s s -+ a e t -+ e s -+ a l e -+ -+- -+ e -+ -+ -+ 
+-+ d n s t e f -+ -+ h -+ r l -+ n -+ -+ n s -+ -+ -+ -+ -+ d e 
+-+ h -+ t r p s l e l -+ -+ b e -+ t p -+ -+ d i d t -+ -+ -+ i 
+p -+ d -+ -+ -+ -+ -+ -+ -+ e b n a l e -+ s -+ -+ t r h -+ -+ 
+-+ -+ a n -+ -+ -+ -+ -+ s n -+ -+ -+ -+ -+ -+ -+ f -+ t -+ -+ d 
+a d p t -+ b a -+ l -+ -+ s -+ r t -+ -+ -+ -+ -+ -+ d t i d -+ 
+n h b -+ -+ -+ r -+ -+ e -+ -+ -+ t -+ -+ d -+ r -+ -+ -+ a -+- 
+h e -+ -+ e s -+ a t -+ -+ -+ s -+ e -+- s i -+ -+ -+ -+ o t r 
+-+ -+ -+ a l -+ -+ l t c -+ -+ h i e s -+ a d p d -+ -+- -+ s l 
+-+ t d n -+ d t e b k -+ s -+ a -+ d -+ -+ -+ -+ e n -+ -+ t e t 
+-+ e -+ p b e -+ -+ -+ -+ -+ -+ e b p -+ e -+ t e t -+ -+ n e -+ 
+-+ -+ -+ d -+ a -+ s -+ k b e t d -+ n d t -+ l s -+ -+- -+ d p 
+d a -+ s e i h -+ g c t l -+ -+ l a -+ -+ -+ r t o h -+ -+ -+ i 
+s -+- e -+ s -+ -+ -+ t a -+ s e -+ -+ e h -+- a -+ -+ -+ r -+ d 
+-+ -+ t -+ -+ -+ e -+ -+ r -+ -+ -+ b h n -+ d
+
+
+
+PRINT <INPUT> <OUTPUT>
+
+PRINT "To reset program, hit key r, p for printer OO": " "In most cases, 
+you never know the difference between standard OO "content." Video 
+synthesizers with external IIs, digital editors, (instant response to 
+II/OO of user demands as well as: a. 3. An emission has no II, OO; an 
+consists fragmented <II type=Net name=radio value="1/2/3/4/5/[...]'those 
+people'"> Radio? type=radio name=Net value="1"> Net? Because nature forms 
+some texts 'take' and Binary file texts/Orders_of_the_Real-3.doc matches 
+Given a state strong ignorance, one can speak II OO. From within, GREAT 
+DEGREE OF FREEDOM. reduce! The senses are longer necessary; bits fly in 
+every language bvh ascii inchoate OO, our avatar II/OO/interiority; we 
+flight because impossible IIs OOs. computer operates above certain 
+tolerance In Brooklyn, there doesn't seem time real-life. loft is II/ t1 
+t2, different (parametric) way. But this OOs - what sorts symmetries 
+govern actions reading also dynamic, at least extent redrawing/rewriting/ 
+OOs, filling pipes development skein its own Requirements: Limited 
+bandwidth, traditional IIs. STRUCTURE SUPER-STORE, shape-riding think 
+MONEY LIBIDINAL characterized program space composed IIs/OOs, _machine_ 
+well-defined process, mach- loss discrete tangle. tangle collapses able or 
+foreclosed presumption rich inner lives, about relationship II; encoder 
+actor from deeper constituents example. it true on _II_ port. There should 
+be simple local editor, their delay-patterns relation I would automaton, 
+each block which completely consistent, such bureaucracy, ideally 
+possesses Starvation by interior layered keyboard II. Note that, another 
+checked, these become sites experiment; many add- circuitry functioning 
+usual terms matrices. encodes what? Itself, material blind DNA/RNA? DNA 
+codes framework (IIs, interfaces, hardware (in functional do they possess 
+including new IIting OOting (modelled general matrix ing express liminal 
+spaces three- interfaces activated by, say, action potentials, translated 
+into internal so that all within object sequence events. lel processing 
+_both_ emergent leverage, capital scrip. Quantity enters listening, 
+flaming through double socket, skull logic circuit far end example; lutely 
+returning old, trajectories will map territory, constituted site quantity, 
+II-OO itself _stammers_ quantitatively change CMC OOs); connotation "magic 
+mystery" time. If considers extended (which electronic technology. Now 
+course everyone access order begin skein, look but other hi8 camera 
+connecting line audio perfectly mid-air, lozenge hangs energy equals 
+plenitude, It's there, myths varying postmodern geography, Net acting 
+conduit exter- q = II('constant, p=1 '); r p-1 randomizing player's here.) 
+reader constructs resist. funny coded, destabilising. It s II('constant 
+-sin(), 1 t +sin(), tank); 6 Uniservos (known O register Dance reads 
+writes II/OO, perhaps infinitely tape continually records station tapes 
+tion otherwise _production_ What fuzzy/non-distributive. strategic move 
+made recursive space, same produce transformed bureaucratic shuffle memory 
+recall, wait, to-be-used; exist space. mixes my needs, isolation z 
+II('number operations [...]
+
+
+
+
+My panel talk at the glitch panel, SXSW
+
+http://www.alansondheim.org/sxsw.mp3
+
+The panel was "2012: Year of the GLI.TC/H"
+Panelists were Jon Cates, Jon Satrom, Patrick
+Lichty, myself, all thanks to Bishop Zareh,
+who brilliantly organized the whole thing.
+The panel lasted an hour in the Longhorn Room,
+Omni Downtown, under the sub-category
+"Art + Inspiration."
+
+disclaimers: I meant Iraq when I said Iran; I didn't
+mean to imply to the Involuntaries came out of the
+avatar work; I'm not sure I mentioned Maud Liardon's
+name, I didn't have time to thank everyone at Chicago
+and WVU; I stumbled a bit about the theoretical 
+material which I really didn't cover; I forgot to 
+show the Facebook profile picture of the wounded WWI
+soldier; I recorded at too high a volume; I didn't
+record others; I had the recorder awkwardly set. On
+the other hand, a lot of material was shown and 
+people were excited about it all. The Razorfish 
+presentation was similar but shorter and cut off in 
+the middle of a video. Hope you get something out of
+this; most but not all of the images (video/still)
+are older, but not all. Finally I didn't mean to 
+sound like such an idiot about erasing my Odyssey
+platform at the end of the last performance with 
+Sandy Baldwin. Everything was improvised, I did my
+best.
+
+
+
+===============================================
+
+some thought about augmented reality (ar)
+(before and after sxsw)
+
+===============================================
+
+1 ar is localized 
+ ar -> {x sub y}
+
+2 ar is interference (googleglass)
+ entanglement
+
+3 ar is distancing (lorenz, ethology, avoidive behavior)
+in terms of active engagement
+ drawing distinction, 'defoliation'
+
+4 ar is technology- and corporate- dependent
+ capital multiflux jitters, hyper-hyperbole
+
+5 ar is protocol- and codec- dependent
+ codework internalized
+
+6.ar is clever
+ ar is w(W)ired
+
+7 ar has the potential for deep history and deep ecology
+ historiographies
+
+8 ar like tablets creates class distinctions in the school
+system
+ capital / Kapital
+
+9 ar needs to get rid of external in favor of embedded
+technologies
+ on the level of the sensory aegis
+
+10 ar is coming whatever one thinks of it: ar is here
+ corporate, ar -> {W}
+
+11 ar may be distancing in terms of passive engagement -
+think of issues of slaughter, pain, resource consumption,
+etc.
+ image epistemology, bypass surgery, suture 
+
+12 ar will increasingly be independent of technological
+sophistication on the part of the user
+ autonomic somaticism
+
+13 military drones are the most sophisticated application
+of ar: why are we not making the connection?
+ tunneling effects, embedded theory
+
+14 w/ googleglass privacy is destroyed: the third person
+devours the first person transformed into the second 
+person
+ ar will talk not to you but among you
+
+15 does augmentation always improve the quality of our
+lives?
+ lifeworlds and does it matter?
+
+16 ar is useful in specific situations - say, the 
+location of mines in mine-fields, in surgeries, in
+situations that involve specificity and deep knowledge
+ deep geographies, geopolitics
+
+17 ar is useful as a demonstration of ar, of what lies
+behind the ordinary - mark skwarek's erasure of the dmz
+ but what lies behind is digital, truth is problematic,
+ anything may be inserted
+
+18 in this sense ar is highly useful as a symbolic
+construct
+ or the symbolic
+
+19 and in this sense the recording of ar for others is 
+equally useful as a symbolic construct - it presents 
+the subjunctive
+ potential individual communality beneath the sign of
+ capital
+
+20 ar -> digital over or among analog - what are the
+phenomenologies here? what are the potentials or
+dangers, what entanglements, what flows of capital?
+
+
+===============================================
+
+
+Grackles at SXSW, Austin, 2013
+
+(near the Congress Street Bridge)
+
+My favorite panel!
+
+http://www.alansondheim.org/grackles.mp4
+
+
+Back to the music where one instrument aligns itself
+
+http://lounge.espdisk.com/archives/1077 (best)
+http://espdisk.com/alansondheim/ghichaknear.mp3 (ghichak)
+http://espdisk.com/alansondheim/ghichakfar.mp3 (violin)
+
+with the other. memory's disservice.
+
+
+Hi - Need help! I'm giving a panel talk at the Hastac Conference in 
+Toronto, at the end of April; my proposal was as follows -
+
+"I'd like to do a full talk, dealing with What is to be Done, with issues
+of animal and plant extinctions, with degrees of hopelessness, with the
+mass Permian extinction, with images of escape in Second Life and
+elsewhere, with the damnation of technophilia and Google Glasses. I would
+talk from notes and project, not read a paper (I never write papers to
+read), but could turn the notes in later of course. This is a theme I've
+been harping on more and more - how to deal with absolute despair and the
+despair of the absolute."
+
+I've written out (most of) an outline below, and would appreciate any
+comments you might have. I realize my naivete in relation to the subject,
+and I'm trying to get away from just "gut feelings" and say something
+useful, with some sort of clarity. Please send me any thoughts; you can
+write me back-channel (what an old expression!) and thanks,
+
+- Alan
+
+=================================
+
+a. I am no expert in plant and animal extinctions; things seem complex on
+the level of the species, and here I deeply find myself at a loss; there
+are too many contradictory statistics for a layperson to disentangle, not
+the least of which is the definition of 'species' (for example, there are
+subspecies, morphs, etc.), and species' interrelationships.
+
+a.1. I am also no expert in bio-ethics or ethics in general. I do believe
+that the habitus, biome, communality, are more important than individual
+saves which take on symbolic status and often lead nowhere. I don't
+believe in instrumentalist arguments, that the natural should be saved by
+virtue of its use-value (say, for 'new medications'); I don't think any
+functionalist reason plays out in the long run. I think species should be
+saved because _they are there._
+
+a.1.a. The problem with symbolic value is that the most attractive or cute
+species (in terms of human perception) are often the ones that are saved
+and considered valuable, while other species that are less appealing are
+left by the wayside.
+
+b. There are three economies: political, financial, attention; each of
+these vies in terms of saving species or biomes.
+
+c. Every species has an equally lengthy holarchic history (including
+bacteria, mitochondria, etc.); each history is a sign and organism
+resonant with the origin of life itself.
+
+d. Each organism has its own world-view, Umwelt, Weltanschauung. Each is
+alterity and project to every other. Each possesses individual and
+communal culture. Each participates in negation and learning.
+
+e. Each is driven to extinction by the other. Each other collapses into
+either grotesque anomaly (asteroid, volcano) or the human, somewhere along
+the line.
+
+f. Each is a projection and introjection of the world; each is immersive,
+each is entangled, abject, somewhat definable.
+
+g. The extinction of any species is a permanent and irrevocable loss; the
+death of any individual is the same. Histories condense and disperse,
+homes disappear, the world flattens.
+
+h. Our era is not a repetition, say, of the Permian extinctions; it is
+other, it is slaughter, and it brings pain from one species to many. The
+death of an adult reproducer is the death of offspring, who may or may not
+have already made their way into the world.
+
+i. Our language betrays us: there are no weeds, no vermin. We define the
+world in terms of our desires and their negations.
+
+j. We are defined by our slaughters. We are hopeless, driven to the deaths
+of others; the death drive literally drives species, herds, hordes, before
+it; the death drive results in total annihilation.
+
+k. What is to be done? I am always surprised how few artists are concerned
+about the environment - other than creating networks and new forms of
+nodes and dwellings within it. How few media artists even bother with PETA
+for example, or conservation. How many artists, driven by teleology, are
+always already on the hunt for new forms of mappings, new modes of data
+analytics.  How we abjure responsibility, disconnect radically. How we
+favor the human over other species.
+
+l. Certainly the digital, even augmented reality or Google Glass, creates
+distance between ourselves and the world around us; what's added are bits.
+This distancing, which is both clever and fast-forward technology-driven,
+may be more part of the problem than the solution. I think of 'Internet
+hunting' for example, tv/video programs like Survivor or The Great Race
+(both of which can only damage pristine environments), etc.; on the other
+hand, bird-, nest- and waterhole-watches might well serve to awaken
+people's consciousness.
+
+m. How do we handle this on a personal level? If we're driven to
+catatonia, we're doomed. I haven't been able to accept the Buddhist
+account of suffering and enlightenment; the result is an almost constant
+state of anguish, that is to say a condition that is a combination of
+Lyotard's differend, a sense of helplessness, and a sense of the
+destruction of worlds.
+
+
+=======================================
+
+[Quote below from World Wildlife Federation]
+
+WWF:
+
+Just to illustrate the degree of biodiversity loss we're facing, let.s
+take you through one scientific analysis... The rapid loss of species we
+are seeing today is estimated by experts to be between 1,000 and 10,000
+times higher than the natural extinction rate.* These experts calculate
+that between 0.01 and 0.1% of all species will become extinct each year.
+If the low estimate of the number of species out there is true - i.e. that
+there are around 2 million different species on our planet** - then that
+means between 200 and 2,000 extinctions occur every year. But if the upper
+estimate of species numbers is true - that there are 100 million different
+species co-existing with us on our planet - then between 10,000 and
+100,000 species are becoming extinct each year.
+
+*Experts actually call this natural extinction rate the background
+extinction rate. This simply means the rate of species extinctions that
+would occur if we humans were not around.
+
+** Between 1.4 and 1.8 million species have already been scientifically
+identified.
+
+
+
+
+Swollen: solo sarangi with octave halver
+
+http://lounge.espdisk.com/archives/1080 (best)
+http://espdisk.com/alansondheim/swollen.mp3
+
+I just love this piece! It carries the depth
+that I want from bowed instruments; using 
+octave halving gives me the doubling of the
+instrumentation. I was thinking of shakuhachi
+playing and enlightenment throughout. And I 
+was thinking how absolutely great this would
+have sounded at SXSW! Please for Sakyamuni's
+sake ENJOY!
+
+
+
+
+Audition
+
+so today I went to my favorite pawnshop and found a dirty
+messed-up electric guitar with the name 'Audition' on it,
+with four strings, two of the geared tuners broken, pretty
+much rusted tailpiece, one knob missing, one that wouldn't 
+turn, a broken and useless nut. so for $20 I got the thing
+plus a four-string nut, tuned the four strings like a pipa 
+- ADEa - cleaned the instrument, got the knobs to work,
+used wire to cut out as much of the hum as possible (the
+pickups aren't hum-bucking) and have had a grand old time
+with the instrument, which it turns out sells from $400-
+$500 in good condition, from 1965 made by Teisco in Japan.
+I love the oddly dirty sound and can use it when I'm with
+sax players; anyway here are three pieces:
+
+http://lounge.espdisk.com/archives/1081 (best)
+ - but see the following descriptions -
+http://espdisk.com/alansondheim/audition1.mp3
+ - this is a blues improvisation - the first music 
+ I learned was the blues - not so much the commercial
+ stuff - fairly slow here -
+http://espdisk.com/alansondheim/audition2.mp3
+ - more experimental work taking advantage of the 
+ pipa tuning (which I used for all of these) -
+http://espdisk.com/alansondheim/audition3.mp3
+ - just a minor scale improvisation but I like its
+ energy -
+
+enjoy, they're not long - alan - 
+
+
+
+[my early net history, names removed]
+
+Internet Events:
+
+1 ----------'s suggestion that I join Future Culture.
+2 The psychiatric confessions on Future Culture coupled with someone's
+suicide hoax - ---------------'s response - the complaint to the sys-
+admin.
+3 Flirtation with -------- - no fruition - "freaking out." Our interrup-
+tion of the POMO-L list.
+4 -----------'s archiving of my work.
+5 Problems with the Arts list and ------------ - writing off-list,
+becoming unsubbed - -------' complaining, the list shutting down.
+6 Posting the "religious" text to Futurec, response based on religious
+mania.
+7 ------------- and I deciding to start Cybermind.
+8 ------------'s objection to Deleuze posts by ----- and --------.
+9 ------------'s closing down the lists - --------- and ------- beginning
+new account on World.
+10 -------------s shakiness with the current lists - temporarily closing
+down, imitating the Spoon Collective.
+11 Formation and resolution of the Spoon Collective.
+12 Flirt with -------- - until the packaging was sent.
+13 Flirt with ------------- - fading out, friendship ending when
+she unsubs participant because of his post of a cult advertisement.
+14 Cancelled flirt with ------------ in relation to her marriage - her
+upset over the nightmare dream I related to her.
+15 -------------- hack, its ins and outs, unsubbing -- several times,
+contact with NISC.tw. Discussion with ------------ about the validity
+of unsubbing.
+16 -------- and I posting the no slur requirement on Cybermind and its
+fallout.
+17 Current flirt with ------------ segueing into disbelief, pornography,
+and a future?
+18 ---------------'s death.
+19 -----'s co-moderation and its cancellation.
+20 -------' eating disorders and related posts.
+21 ------------'s hoax death.
+22 Hacking: My being unsubbed from Cybermind and fop, --'s posts under
+other names, ----'s resentments. Arguments on Spoon about hidden control
+characters, --'s posts cancelling archived files.
+23 My posts on alt.destroy.the.internet, tropical bionet, reposts from
+Usenet to lists.
+24 Spoon collective debate about depth vs. lateriality on lists.
+25 -------- and ---------- dominating Future Culture at various times -
+problems with libertarian/right-wing attitudes. The gun-control debate.
+Incoherencies. --------------'s posts.
+26 Flamewar with Mindvox - Fringeware list siding with -----. 
+27 Continuous New School server problems including bounced messages.
+28 Five unsubbings in a row without comment from the Derrida list.
+29 The Spoon lists going to closed moderation.
+30 Hacking with an Australian message on the Derrida list.
+31 My work available on ---------' WWW site.
+32 Changes for me in family relations as a result of greater communica-
+tion with --------- and ----------..
+33 Problems with Panix and the SLIP account - no support.
+34 ---------------'s and others' Internet affairs.
+35 Sudden moments of personal confession via private email - of loneli-
+ness, sadness, loss. Answering condolence posts and telephone calls
+in relation to ------'s death. Absence of photographs of -------.
+36 Ntalk with ------; Panix goes down, I dial in, end up on -------'s
+account, in an Ayn Rand IRC talking about screwdrivers. I quit IRC, go
+to ------'s ntalk, log in with ------- - who had fingered me, found no
+such user.
+37 Back and forth with ---------- on one 486/66, Mosaic with his pic-
+ture on the other.
+
+ Volume in drive A has no label
+ Directory of A:\
+
+EVENT    TXT         3,412  09-03-94  4:16a EVENT.TXT
+         1 file(s)          3,412 bytes
+         0 dir(s)          52,224 bytes free
+
+
+
+
+
+Playing session with Edward Schneider 
+(alto sax)
+
+http://lounge.espdisk.com/archives/1083
+http://espdisk.com/alansondheim/sch0.mp3
+http://espdisk.com/alansondheim/sch2.mp3
+http://espdisk.com/alansondheim/sch3.mp3
+http://espdisk.com/alansondheim/sch4.mp3
+http://espdisk.com/alansondheim/sch5.mp3
+http://espdisk.com/alansondheim/sch6.mp3
+http://espdisk.com/alansondheim/sch7.mp3
+http://espdisk.com/alansondheim/sch8.mp3
+
+I'm on electric guitar, pipa, oud, sarangi,
+viola, violin, chromatic harmonica, tabla
+cura cumbus. I recorded the sax a bit loud
+but it all comes through. Enjoy -
+
+
+
+==================
+
+AVATARS AND THEORY
+
+==================
+
+
+I started working with avatars in text-based applications such as 
+newsgroups, email lists, MOOs, LPMUDs, and IRC. Below is a list of what 
+I perceived as their common characters - and the relationship of those 
+characteristics to everyday, i.e. non-CMC, life. Current notes are in 
+brackets.
+
+
+
+==================
+
+JENNIFER, JULU, NIKUKO, ALAN
+
+==================
+
+
+1 system resonances - what entrances and exits available - sendmail for 
+example (from telnet 25 to configuration files), doctor for another [at 
+this point text-based avatars were attached to applications that were not 
+avatar-based. on the other hand the Eliza program in emacs allowed for the 
+development of personality and dialog, and might be one of the first 
+online avatar environments.]
+
+2 explorations of self and fragmentations - discomforts, tremblings as 
+totality is problematized [this tends towards issues of abjection, 
+wounding, frisson, arousal, and death within the virtual - which might 
+cynically be seen as nothing more than a rearrangement of digital bits.]
+
+3 psychotic emanations - selves generating worlds, inability to return or 
+manipulate one in relation to another [the worlds such as IRC were widely 
+disparate and appeared autonomous; to carry Jennifer from one to another 
+required reassertions. the same is true today, but mixed-reality work 
+tends to blur all of this - in other wor(l)ds the environments exist in 
+potential wells that allow tunneling.]
+
+4 perturbations within systems - IRC or alt.jen-coolest for examples [it 
+was, and still is, possible to perturb systems, to work at the edges of 
+the game space, to hack and infiltrate - annihilating a performance 
+platform at the end of a performance in Second Life, or having human 
+performs work at the edges of a mocap space are two examples.]
+
+5 theoretical turns - Jennifer's 'panties on the ground' - desire in 
+relation to metaphysical system building [sexual-theoretical turns, as 
+both male and female avatars operated within fetishization and abjection, 
+two trends that have become commonplace in virtual sexuality. what happens 
+when an avatar is 'in tatters,' falling apart, collapsing?]
+
+6 problematics of author and authoring - 'deaths of authors' [like the 
+uncanny between real and virtual worlds, there is an uncanny between 
+avatar creator/controller/human performer and avatar; through an analysis 
+of projection and introjection, avatar and (presumably) human become 
+inextricably entangled.]
+
+7 multiculturalisms (Nikuko), sexualities (Julu), Alan and the rhetoric 
+of innocence [multiculturalisms extend to virtual cultures and their 
+ethnographies, but what occurs in the virtual doesn't stay in the 
+virtual.]
+
+8 duals and dialogs, dialectic - talker or MOO explorations (wanderings 
+and fabrications of spaces) [these explorations have moved of course into 
+OpenSim and Second Life, but the concepts of historiography, broken 
+projects, avatar absences, debris, etc. remain the same.]
+
+9 stutterings, etc. - manipulated texts - the problematic of speaking, 
+including breakdowns of first/second/third persons [textual stuttering can 
+blur diegesis, tense, and person; it can play off inner speech, it can 
+speak among- or for-, it can reveal psychoanalytical debris.]
+
+10 ontic explorations - ghosts and other emanations (the videos) - 
+elements of disappearances, sadomasochisms, bindings and controls - the 
+nature of writing and inscription [again in this early outline, sexuality 
+makes an appearance. not only are ontologies blurred, but the very nature 
+of control becomes messy and obscured in terms of agency. social media 
+obscures and hides: think of Facebook for example as a sado-masochistic 
+theater, with non-existent keywords and with hidden, unknown, power 
+dispersing and controlling your self-image, and your image of other's 
+selves.]
+
+11 sexualities - multiples, topologies, exchanges (Nikuko), dismemberings 
+(Julu-function), affect (Alan) [selves split, bots are everywhere, avatar 
+bots are wonders of control and one can imagine such control as looped and 
+continuous, eventually becoming the real/virtual landscape itself. all of 
+this relates to the _obscene,_ which has been shown to operate differently 
+in the brain; 'primitive' processes are called up, and language becomes 
+threat, arousal, and other. sexualities operate everywhere in social media 
+and virtual worlds, and the cartoon-like visuals in the latter play deeply 
+into fantasy introjection and projection. humans are just at the beginning 
+of understanding this, ignoring their animal and primate present.]
+
+12 dismemberments - part-objects, splays, ruptures, s/ms, emissions [this 
+ties quickly into the world-theater of slaughter and corruption, plant and 
+animal extinctions, neo-liberalism and corporate enclaving: hiding the 
+parts in relation to a simulacrum of the w/hole. in a sense this is the 
+heart of an analysis that works with the engine of subterfuge and death.]
+
+13 language and performativities - javascript, julu-function, julu- or 
+jennifer-pages [after this, a bit of Visual Basic. i've used Perl for text 
+manipulation, Emacs Lisp for reworking Eliza, scripting in Second Life, 
+etc., but always with help; I'm not a programmer, just a kludger. but I 
+sometimes start talks with the phenomenology of performative language; for
+example 
+k2% date
+Mon Mar 18 12:40:35 EDT 2013
+where a command is qualitative transformed into an unforeseen result 
+(unforeseen in the sense that it occupies a different epistemological 
+regime) - and how this has utterly transformed our notion of the 
+fundamental depth and obdurate nature of analogic reality.]
+
+14 constitutive realities - nature of the digital, Jennifer "having all 
+the time in the world," holarchic spaces and levels, fully-determined 
+worldings, towards - [this get complicated - the digital as cleansed, 
+corporate, codec/corporate-driven, capable of infinite raster, problemat- 
+izing the truth, capable of controlling everything. in the real world, 
+digital and analog are entangled, holarchic (tangled hierarchically). 
+digital worlds are less and less fully-determined - too complex, too many 
+glitches (which are seeds for other things), too leaky, too multiply- 
+connected, too mixed with the real - they're part and parcel of everyday 
+life, at least for humans.]
+
+15 future seamless virtual realities, moving across cyberplains, fluid 
+architectures and entities, etc. [this is still a goal, but instead of the 
+analog embedded in the digital, at least for the foreseeable future, the 
+digital is embedded in the analog - in other words, we are all avatars, 
+and those who are relatively disconnected may well feel the wrath of our 
+slaughter.]
+
+
+==================
+
+
+
+Session with Chris Diasparra
+
+http://lounge.espdisk.com/archives/1084 
+ (best - order is 4, 5, 1, 3 of audsax))
+http://espdisk.com/alansondheim/audsax4.mp3
+http://espdisk.com/alansondheim/audsax5.mp3
+http://espdisk.com/alansondheim/audsax1.mp3
+http://espdisk.com/alansondheim/audsax3.mp3
+
+- Chris Diasparra, tenor sax -
+- Alan Sondheim, pipa-tuned electric guitar -
+
+Really love audsax4 and audsax5, slower and
+more moody/melodic and oddly comforting and
+those riffs coming out of nowhere - audsax1
+with fast underlying clean riffing against
+beautiful tenor - audsax3 experiment with
+overdriven electric, not so comfortable with
+this - but the others truly interesting I
+do believe - n-joi -
+
+
+
+more or less explaining
+
+http://lounge.espdisk.com/archives/1085 (best)
+http://espdisk.com/alansondheim/talkthru1.mp3
+http://espdisk.com/alansondheim/talkthru2.mp3
+ - pipa-tuned electric guitar -
+trying to explain what i'm doing or thinking
+about while slow-playing, about improvising
+and where i'm taking the piece, where it is
+taking me -
+
+
+HASTAC Text revised:
+
+
+
+Panel notes on plant and animal extinctions, revised:
+
+Notes for a panel talk at the Hastac Conference in Toronto, at the end of 
+April; my proposal was as follows -
+
+"I'd like to do a full talk, dealing with What is to be Done, with issues
+of animal and plant extinctions, with degrees of hopelessness, with the
+mass Permian extinction, with images of escape in Second Life and
+elsewhere, with the damnation of technophilia and Google Glasses. I would
+talk from notes and project, not read a paper (I never write papers to
+read), but could turn the notes in later of course. This is a theme I've
+been harping on more and more - how to deal with absolute despair and the
+despair of the absolute."
+
+- This is where I'm at now; newer comments are in brackets. I'm taking on 
+too much here; I feel that my view of the world is personally colored by 
+the effects of ageism and its accompanying deinstitutionalization (a 
+terrible word!). I hope this is still of interest, and that the comments 
+make sense to you. And I particularly want to thank  the people who have 
+taken time to reply to me; I'm glad there's still optimism out there!)
+
+=================================
+
+a. I am no expert in plant and animal extinctions; things seem complex on
+the level of the species, and here I deeply find myself at a loss; there
+are too many contradictory statistics for a layperson to disentangle, not
+the least of which is the definition of 'species' (for example, there are
+subspecies, morphs, etc.), and species' interrelationships.
+
+a.1. I am also no expert in bio-ethics or ethics in general. I do believe 
+that the habitus, biome, communality, are more important than individual 
+saves which take on symbolic status and often lead nowhere. (On the other 
+hand, as Jon Marshall points out, symbolic action is at least a first 
+step.) I don't believe in instrumentalist arguments, that the natural 
+should be saved by virtue of its use-value (say, for 'new medications'); I 
+don't think any functionalist reason plays out in the long run. I think 
+species should be saved because _they are there._ [I recognize the logical 
+fallacy in this, but that isn't the point. I also recognize that the world 
+was never, and never will be, pristine - that it has always been morally 
+and ethically problematic from the viewpoint of any positioning of good or 
+evil. I worry about the loss of the fecundity of the world, the amazing 
+diversity of ecological niches - everything will be the poorer, for 
+example, when the coral reefs disappear. Perhaps some of the anguish about 
+extinction originates with this knowledge, that species, including 
+ourselves, are useless, that intrinsic value is local and has no other 
+foundation than personal taste or desire. Spirituality clearly makes a 
+difference in this situation, but, at least for me, spirituality is always 
+suspect and hardly foundation; it just throws imminence into immanence. So 
+this is a weak point of my thinking, but that's also a weak point among 
+the human project - just as there may be no first cause, there may be no 
+fundamental value that might function as surrogate or catalyst.]
+
+a.1.a. The problem with symbolic value is that the most attractive or cute
+species (in terms of human perception) are often the ones that are saved
+and considered valuable, while other species that are less appealing are
+left by the wayside. [It is also very unclear that species can be saved in 
+isolation, i.e. without their habitus, their biome. One major problem here 
+is that of territoriality and the neurosis that ensues by salvaging a 
+small population and placing them in save but relatively small 'foreign' 
+havens. A second problem, hardly considered in the past, is that animals 
+have culture 'all the way down,' and isolated individuals, as with human 
+animals, can't carry the weight of communal knowledge.]
+
+b. There are three economies: political, financial, attention; each of
+these vies in terms of saving species or biomes. [What are the politics 
+for example of bushmeat? What might replace the economic or other gains of 
+poaching? And what species do we deem 'deserving' of attention? 
+Eliminating the criterion of attractiveness doesn't solve this problem, 
+since there is literally no way humans can pay attention to every species, 
+every biome, etc. Just as there's an economy of attention on the Net, 
+there are economies of attention within the 'real' world - this is where 
+Drew Leder's work on 'the absent body' comes into play.]
+
+c. Every species has an equally lengthy holarchic history (including 
+bacteria, mitochondria, etc.); each history is a sign and organism 
+resonant with the origin of life itself. [This is important; there are no 
+'primitive' species just as there are no 'primitive' peoples. There are 
+some characteristics of contemporary species that can be traced farther 
+back than others, and these could be labeled 'primitive' - but given, for 
+example, the recent discovery of relatively advanced brains in early 
+animals, even this classification is suspect. Everything that survives in 
+an oddly temporal sense is equivalent to everything else that survives. 
+The issue actually transforms to those species which might be considered 
+'generalist' and those which live within specific (and often somewhat 
+isolated) niches; the latter are of course much more at risk.]
+
+d. Each organism has its own world-view, Umwelt, Weltanschauung. Each is
+alterity and project to every other. Each possesses individual and
+communal culture. Each participates in negation and learning. [Heinz von 
+Foerster spoke of life entailing negation, and negation as fundamental: 
+turn away from something. And turning-away is also a sign of culture; 
+further, what one turns away from is dependent on the niches an organism 
+can survive in - different niches have different dangers.]
+
+e. Each is driven to extinction by the other. Each other collapses into 
+either grotesque anomaly (asteroid, volcano) or the human, somewhere along 
+the line. [This isn't entirely true; communality and altruism occur inter- 
+and intra-species. But species do have life-spams; ironically of course we 
+know only the life-spans of species which have already gone extinct, and 
+it's difficult to generalize. (However statistical generalizations do 
+exist.) The same is true of our own deaths, and just as mourning the death 
+of a friend or relative is an anguish which is irretrievable in terms of 
+its object, so mourning the disappearance of a species is similar (even if 
+individuals of that species may be brought back into existence, the 
+culture is gone). Most of us don't mourn extinctions in the same way, but 
+there is, I believe, a sense of anguish at the heart of these as well.]
+
+f. Each is a projection and introjection of the world; each is immersive, 
+each is entangled, abject, somewhat definable. [Each species is in dialog 
+with the rest of the world, which is also within each individual, just as 
+humans are fecund with bacteria and other micro-organisms, even within the 
+cell itself. So to talk of projecting _into_ the world, or introjecting 
+_from_ the world is more than a gross over-simplification; for this reason 
+I tend to use the neologism 'jectivity' to imply holarchic connectivities 
+between what _might_ be labeled an individual and its internality, and 
+what _might_ be labeled an external world. For this reason, I see crude 
+parallels between thinking through species and organisms, and the 
+philosophy of quantum mechanics; I'm not arguing for another pseudo-model 
+from the Heisenberg uncertainty principle, so much as thinking about all 
+varieties of entanglements, including Feynman diagrams, virtual particle,
+tunneling, and so forth. Think of the world, not as mind, but as 
+fermenting, for example.]
+
+g. The extinction of any species is a permanent and irrevocable loss; the 
+death of any individual is the same. Histories condense and disperse, 
+homes disappear, the world flattens. [New histories arise, new mementos, 
+memories, languages, technologies, storage mechanisms. Increased 
+population, global warming, and other uncomfortable signs, however, all 
+point towards a diminution in richness; species are disappearing for 
+example faster than new ones are appearing. The biomass of the world may 
+remain somewhat constant, given that decay species and micro-organisms 
+within rock-strata and beneath the ocean floor remain the same in volume, 
+but the variety is collapsing; the anthropocene is being compared to the 
+Permian extinction in this regard. See below and above.]
+
+h. Our era is not a repetition, say, of the Permian extinctions; it is
+other, it is slaughter, and it brings pain from one species to many. The
+death of an adult reproducer is the death of offspring, who may or may not
+have already made their way into the world. [It is slaughter, even legacy 
+slaughter, in many cases legacy hunting. It causes enormous pain; in 
+addition the narrowing or elimination of habitats, the increase in 
+pollutants, etc. - all take their unnatural toll, as does the development 
+and use of genetically-modified plants. As populations increase, we are 
+turning the world into our own infertile image. There's no doubt that the 
+very wealthy will survive and even benefit from all of this; increasingly 
+enclaved, they're safe for the foreseeable future - literally foreseeable, 
+for one or two generations at best.]
+
+i. Our language betrays us: there are no weeds, no vermin. We define the
+world in terms of our desires and their negations. [This has always 
+bothered me, this division into useful and useless, ornamental and pest, 
+etc. It governs our vision of 'wilderness,' such as it is, as well as what 
+sure and should not be allowed to survive in urban areas.]
+
+j. We are defined by our slaughters. We are hopeless, driven to the deaths 
+of others, driving species, herds, hordes, before us. Ultimately, we may 
+be headed towards total annihilation. This is not deliberate; we're not 
+all hunters for example. But we're a species in bloom, and that, along 
+with the increasing need for food, is taking its toll. [This is nothing 
+more than a _cris de coeur_ - it's where anguish begins and refuses to 
+disappear. Not all of us are driven to killing of course, but the tendency 
+is in that direction - killing need not be advertent.]
+
+k. What is to be done? I'm surprised how few artists are concerned about 
+the environment - other than creating networks and new forms of nodes and 
+dwellings within it. How few media artists even bother with PETA for 
+example, or conservation. How many artists, driven by teleology, are 
+always already on the hunt for new forms of mappings, new modes of data 
+analytics. How we abjure responsibility, disconnect radically. How we 
+favor the human over other species. [I have no idea about the truth of 
+this; what I'm writing here is only from personal, not broader, experience 
+or knowledge. Certainly the 'next greatest thing' dominates our thinking, 
+as do Facebook proverbs, Twitter's 140, or Wired magazine's "Forget all 
+you know about {x}" - every innovation is yet another revolution. We are 
+in love with our technophilia, and we see technological answers to just 
+about everything, from energy to death to the reconstitution of the 
+natural world. The empirical or concrete muck of the real is another 
+matter altogether, and it's this disassociation that seems to me, ensures 
+that the extinction catastrophe will continue.]
+
+l. Certainly the digital, even augmented reality or Google Glass, creates
+distance between ourselves and the world around us; what's added are bits.
+This distancing, which is both clever and fast-forward technology-driven,
+may be more part of the problem than the solution. I think of 'Internet
+hunting' for example, tv/video programs like Survivor or The Great Race
+(both of which can only damage pristine environments), etc.; on the other
+hand, bird-, nest- and waterhole-watches might well serve to awaken
+people's consciousness. [This is yet only more of the same. I don't think 
+that more theoretical analysis will do very much; what's needed is 
+concrete action, working with government and organizations like Nature 
+Conservancy. Consciousness has to be raised, primarily with K-12 - and 
+it's in this area, in public schooling, that we're failing the most, with 
+emphasis placed on the damnation of teachers, continual testing, limited 
+play, limited time for the old 'natural sciences,' limited monies for art 
+or music, limited monies for special ed. and even physical ed. in some 
+cases, and so forth. There's too much emphasis placed on STEM - most of 
+which is, of course, testable in a way that art and the softer sciences 
+may not be - and too little emphasis placed on play, revamping the 
+schools, calling on teachers as resources instead of demons and so forth. 
+It's disenheartening, and it is, I think, the future. Instead of raising 
+consciousness or bringing up difficult questions of ethics, we're 
+preparing workforces with even greater disconnect between ongoing 
+slaughter and technology.]
+
+m. How do we handle this on a personal level? If we're driven to
+catatonia, we're doomed. I haven't been able to accept the Buddhist
+account of suffering and enlightenment; the result is an almost constant
+state of anguish, that is to say a condition that is a combination of
+Lyotard's differend, a sense of helplessness, and a sense of the
+destruction of worlds. [And I have to end here; I could write out the 
+usual calls to action, but I doubt, given our inertia, that it would make 
+any difference at all. And I have no idea if my analysis or prognoses are 
+correct; in spite of my reading and amateurish naturalism, I'm ignorant. 
+The best I can do is call attention to the problem, which, as I've been 
+told repeatedly by people, is really no problem at all, but the natural 
+order of things. That I can't buy, and the dialog breaks off here.]
+
+=======================================
+
+From an email exchange (and thanks to everyone who wrote in) -
+
+"[...] I hate the idea of a 'posthuman' critique of mass extinctions: such 
+extinctions are slaughter, painful, abject, and 'critique' seems almost 
+obscene in relation to them. To me it doesn't matter if 'extinction' is 
+politically loaded: it carries as much of an absolute truth as possible 
+about the world; when a species is gone, it's _gone,_ and its entire 
+lineage is _gone_; there is no recourse, no politics, nothing to return 
+it, in spite of Wired and other sources yammering about resuscitation 
+through DNA. You don't have enough of a community to sustain gene 
+variability. It's death. It's absolute death. It's Kurtz's Horror."
+
+From a second exchange:
+
+"Diversity won't reassert itself in denuded and polluted areas. I talked 
+to Azure about this; she has a master's degree in environmental 
+conservation education, and reiterated what I said but more strongly - 
+that the news is all bad. Yes, something will emerge millions of years 
+from now, just as something emerged after the Permian extinction. But past 
+extinctions weren't the result of a supposedly moral or ethical species; 
+they were the result of asteroids or volcanic eruptions (and I suspect in 
+some cases viruses or prions, but I may well be wrong about this). This is 
+the first time another species - wildly out of control and in bloom - has 
+wreaked this kind of devastation. And it's the first time it's happened so 
+quickly; species are disappearing at the rate of several per hour. Most of 
+them aren't even tracked or understood yet, but that's not the point; the 
+point is the slaughter and the pollution - for example the micro-plastic 
+spheres in cosmetics that run up the food chain, or the floating islands 
+of plastic trash in the oceans, or the particulate matter pollution in our 
+part of NYC, or the Appalachian rivers running like orange soda (result 
+from mine pollution), or the exponential increase in global warming, etc. 
+etc. There's so much data; I get it daily, and not from 'leftist' sources 
+for that matter. And the data isn't only about elephants and rhinos and 
+polar bears; it's about birds you and I probably haven't heard of before, 
+alpine biomes collapsing, the rapid disappearing of Madagascar lemurs and 
+other flora and fauna, the lack of young saguaro cacti in the US south- 
+west, disappearing bees, Monarch butterflies down 61% in just the last 
+year, the hemlocks disappearing because of invasive species, the 
+Everglades down to less than 1% of their previous flora and fauna, the 
+results of the Yellow River damming, the 100 million or so sharks killed 
+yearly for shark-fin soup and because they're 'dangerous,' the elimination 
+of wolves everywhere in the continental US, the massacre/disappearance of 
+native bats here, Hawaiian birds, the disease killing off the Tasmanian 
+Devils, as well as the rapid increase of desertification world-wide, the 
+release of methane from Siberian and Canadian permafrost which is 
+speeding up global warming, the almost complete extinction now of bonobo, 
+gorillas, chimps, and other primates in the world - and so forth. DDT's 
+banned in the US but not in large parts of the world where it continues to 
+devastate. Disasters like BP in the Gulf are increasingly common. There's 
+debates among ecologists whether it's worthwhile to even try to save the 
+coral reefs because the money might better to to other ecologically easier 
+dealt problems, and because the reefs are going to disappear anyway. This 
+is just the recent stuff that comes to mind; I can send you sources if you 
+want. And it's not balanced by wonderful fecund ecosystems opening up or 
+cornucopias of new species; it's not balanced by anything. Not only are 
+tropical rainforests disappearing at record rates, but the southern 
+Appalachians are being devastated by mountain-topping; as of five years 
+ago, 423 mountains were already topped - and this used to be, behind the 
+rain-forests, the second-most ecologically diverse region in the world 
+because of the holler system. You can be, anyone can be, optimistic or not 
+of course, but the data is uniformly negative, except for extremely small 
+victories - for example in the US we point to whooping cranes and the 
+Californian condor, but so many other not so magnificent bird species are 
+already extinct or going so, here. I should add that my brother's also 
+helped me with this stuff; he does satellite and anti-bushmeat stuff in 
+Asia (he's a satellite expert) and my nephew was involved in saving the 
+last stand of large first-growth cypress in Victoria Island (Carmanah); 
+all around the area there's clear-cutting. I remember when I was in 
+Tasmania, I met the Greens down there, and they were able to stop the 
+damming of the river in the SW (think it was the Franklin?) - to save the 
+wilderness; they did it by blowing up the construction equipment. The dam 
+was going to be used for hydro which was already plentiful. The action 
+worked, but it's a small victory as a lot of Tasmanian flora/fauna are 
+still under the gun. I remember the stink of the paper mill in the NW of 
+the island, owned by coke, and busy cutting down as much Huon pine as 
+could be got hold of. In my area of NE Pennsylvania, the woods are over- 
+run by deer, they've no natural enemies since the bears are hunted down, 
+the wolves has disappeared, I haven't heard of foxes there for years. I'd 
+say more about plants, but other than disappearing hemlock, birch, and 
+elm, I really don't know the details, although quaking Aspen in the west 
+seem under siege now. With global warming, what insects and disease 
+doesn't get, the fires will.
+
+Sorry about this; this is what I think about all the time, what I live 
+with, which might be overly dramatic, neurotic, and stupid, but it's 
+ongoing. I asked Azure if NYC had anything to do with it, and she said no, 
+it's what she learned daily at NYU -"
+
+=======================================
+
+
+
+codework: sorted morse definition -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- 
+.-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. 
+.- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- -.. .- .-- 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+-.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - -.. .. - 
+...-.-
+
+E       E E   DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDA
+WDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAW
+DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWD
+AWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDA
+WDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAW
+DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWD
+AWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDA
+WDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAW
+DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWD
+AWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDA
+WDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAW
+DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWD
+AWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDA
+WDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAW
+DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWD
+AWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDA
+WDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAW
+DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWD
+AWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDA
+WDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAW
+DAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWD
+AWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDAWDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDIT
+DITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITD
+ITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDITDI
+TDITDITDITDITDIT

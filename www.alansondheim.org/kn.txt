@@ -1,0 +1,1760 @@
+
+
+Nikuko on Ytalk
+
+
+---------------------------= YTalk version 3.0 (2)------------------------
+Oh, this is more beautiful than I could ever imagine. I am ytalking
+myself, I, Daishin Nikuko
+And then I would come out of the cave to see the jeweled ornaments between
+my legs, glistening there between my legs, visible in the light of my sun
+And there would be the smell of my body everywhere, like the smell of the
+earth, and these would be the jewels to be caressed, the magatima I am
+wearing now, curved into me
+Curved so they emerged in the form of speech and speaking and the
+glistening murmurs of the world
+Until our speech is curved itself, dense scent now of love, death, you.
+-------------------------= sondheim@panix3.panix.com----------------------
+Hi there, my god you've made it through here...
+When I was in the cave then was I dancing outside the cave, exposing
+myself to myself
+And I would grab myself, stop the useless flight back into the darkness,
+surely; and the grain would grow, the trees flower, cherry blossoms
+everywhere...
+Curved into me, like a flower or a seed, curved through my loins, stomach,
+through my mouth and throat
+Which here I place upon the page for you to read, to comprehend, to pass
+down, generation after generation
+ 
+---------------------------= YTalk version 3.0 (2)------------------------
+Hi there, my god you've made it through here...
+When I was in the cave then was I dancing outside the cave, exposing
+myself to myself
+And I would grab myself, stop the useless flight back into the darkness,
+surely; and the grain would grow, the trees flower, cherry blossoms
+everywhere...
+Curved into me, like a flower or a seed, curved through my loins, stomach,
+through my mouth and throat
+Which here I place upon the page for you to read, to comprehend, to pass
+down, generation after generation
+-------------------------= sondheim@panix3.panix.com----------------------
+Oh, this is more beautiful than I could ever imagine. I am ytalking
+myself, I, Daishin Nikuko
+And then I would come out of the cave to see the jeweled ornaments between
+my legs, glistening there between my legs, visible in the light of my sun
+And there would be the smell of my body everywhere, like the smell of the
+earth, and these would be the jewels to be caressed, the magatima I am
+wearing now, curved into me
+Curved so they emerged in the form of speech and speaking and the
+glistening murmurs of the world
+Until our speech is curved itself, dense scent now of love, death, you.
+ 
+
+__________________________________________________________________________ 
+
+
+Almost Suicide
+
+
+System going Down in Five Minutes for Immediate Reboot 
+System going Down in Two Minutes for Immediate Reboot 
+System Going Down Now for Immediate Reboot
+System is Down for Immediate Reboot
+Oh Help we Cannot Reboot Immediately We Will be With you So Soon
+Oh Dear it is Already So Soon and We Still Cannot Reboot
+Oh Heavens to Me I am Sure Something Will Grow Pretty Flowers
+Oh! Oh! Look at That! Kore Wa Kore Wa Pretty Cherry Mountain Flowers!
+
+There are moments like these, Nikuko thinks, when _the continuity girl_
+can go hang herself; there are moments like these when everything col-
+lapses, when the mouth of the corpse is stuffed with the year-2000-old 
+Y2k cock.
+
+Somewhere there is a thin scream. Somewhere a wire shudders and cools.
+
+The wreck of the culture is the wreck of the planet. Both cool. Everything
+tends towards zero. Nikuko thinks: Ground Zero of the Slaughtered System.
+
+It is a promise it will Reboot. It is a promise _Elsewhere_ and such pro-
+mises are not often kept. Nikuko thinks. Nikuko tries thinking. How can
+I think, says Nikuko, when I am Inside the System? How can I think, cries
+Nikuko, when I am Part of the System?
+
+Nikuko stretches her limbs. Somewhere there is a thin scream. Nikuko
+wonders how Nikuko thinks When Her System Is Down. Nikuko wonders If You
+Are Reading This When Her System Is Down. Somewhere a wire shudders and
+cools. Nikuko Spreads Her Limbs.
+
+Nikuko walks around the Wreck of the Culture. It is very quiet. She knows
+Burning is being smelled. She spreads herself further. Somewhere there are
+Burning Bodies. She spreads herself over The Wreck Of The System.
+
+I can Think you Up, says Nikuko. I can Think You Back To Me.
+
+
+__________________________________________________________________________
+
+
+
+Zazen
+
+
+I wrote the following five months ago. I wrote it because the situation
+was one I was both accustomed to, daily routine, and unaccustomed to,
+Japan. When I wrote it, I was aware that I would be torn from Japan, no
+matter what, that I would be elsewhere. When I wrote it, I was living what
+was described - that is, the description was a matter of looking around.
+Then the text becomes another matter, that of reconstitution, and I am
+forced into the position of the reader; such is memory. 
+
+In this fashion, each and every thing becomes virtual and no longer holds
+ground, and the differentiations of signifiers also signify the differen-
+tiations of circumstances and selves. Behind every memory there is an ava-
+tar; behind every avatar there are uneasy dreamings, presentiments. I knew
+when I was writing the following that I would not be the one who had writ-
+ten the following. I knew this while writing it. I turn around, now again
+examine my circumstances, and find such is the case. The gap continues to
+grow, and bears the burden of death. When death comes, finally, the gap is
+sutured.
+
+
+
+"The Thickness of the Path of Dreaming"
+
+[...]
+
+[ See file kg of the Internet Text ]
+[ http://jefferson.village.virginia.edu/~spoons/internet_txt.html ]
+[ http://www.anu.edu.au/english/internet_txt ]
+[ Alan Sondheim, formerly of Brooklyn, New York ]
+[ Alan Sondheim, formerly of Fukuoka, Japan ]
+[ Alan Sondheim, of Brooklyn, New York ]
+
+__________________________________________________________________________
+
+
+
+
+Perfection Implied by Relative Invisibility and the Shaking of Hands*
+
+Aesthetics of Perfection
+
+
+Milner's Communication and Concurrency develops the notion of a _single
+perfect action,_ tau (we'll use T) such that, if there are agents
+a(A)c' and c(B)b' where x' implies output and otherwise input, then if we
+have a(A)c'---->----c(B)b' and A'-->c'-->A (where A' is the state before
+c' is released - note that all of this is a handshake communication among
+agents - then we can infer A'|B --> A|B' where | is composition. (This is
+similar in a way to both something called Petrie graphs and a formalism I
+worked on years ago.) The question asked - what is the label of the last
+arrow? Milner states that this is T, which references the _single perfect
+action_ or handshake. It is internal to the system, and has no complement.
+Further, it is not directly observable. Milner regards two systems as
+equivalent of course if they exhibit the same ("in some sense") pattern of
+external actions. T can figure in graphs such as linear sequences. It does
+not figure externally. 
+
+Among other things, Milner uses the formalism for thinking about communi-
+cation protocols (such as TCP/IP etc.). There are handshakes, send, and
+ack (acknowledgements) involved; a three-way handshake is used in TCP/IP,
+interrupted in a SYN attack. I think a model could be developed from this
+involving layering such that T could also represent an entire structure
+that _appears_ inputless and outputless. Such a structure could be consid-
+ered a basis under certain circumstances; thus TCP/IP is nothing that the
+end user concerns herself with - and in fact to the extent that protocols
+and protocol configurations disappear from the "surface" of communications
+technologies, those technologies increasingly appear virtual/real. Thus a
+future seamless virtual reality would appear to be an _inhabitation_ (in
+the Heideggerian sense), and the "normative" phenomenological horizon of
+the subject would be - as if it were - _identically mapped_ in processes
+to and from the machinery. We can speak of the bandwidth or raster of
+these processes as well. (And are all autonomic processes perfect? And is
+there an aesthetics implied?)
+
+In fact, within the book, everything is process; a storage register for
+example is defined as put(Reg(y))get' which is, in fact, a representation
+of potential operations. The formal definition is Reg(y) def = putx.Reg(x)
++ gety'.Reg(y) - in other words, either put something in or take something
+out. Registers - plural - can be indexed in various ways.
+
+Could we then make up for example [TCP/IP] where all T resonate internal-
+ly, and where the brackets represent the protocol layers, including the
+inputs and outputs - except those pertaining uppermost to the subject and
+her communication (actual and potential)?
+
+I realize I know less and less of the modeling process as I continue here.
+But what I am concerned with is the notion of perfect actions "below" a
+surface, just as software does its job. Within this situation, there would
+be disturbances - noise, chaotic noise, parasites, viruses, Trojan horses,
+and so forth - through which a particular T would break into its compon-
+ents. In such cases, the boundaries or borderlines of invisible processes
+become evident; such processes, from the viewpoint of perfection, are
+"flawed." It's in this domain that the Nikuko and Jennifer experimentation
+has occurred at times, and as perfect sequences are interrupted, their
+virtual bodies expand, producing awkward and confused text. The text is
+their bones, the confusion their speech.
+
+Milner's book is concerned with scheduling; I like thinking about hand-
+shakes, perfections, and breakdowns. Concurrency is critical in parallel
+processing - everything runs together smoothly (ideally). Handshaking is
+critical when anything communicates with anything else, and although this
+is a term from computer science, it's worthwhile to examine it across the
+board - from the entrance/exits of a particular email post ("how do I
+respond to him or her") to Hall's ethological studies. Liminality, in-be-
+tween states, enters into the picture as well - and one might talk about
+onset, coherency achievement, perfection, interrupt, denouement, and with-
+draw, for example. Whether the formalism would prove useful or not at this
+level is moot (I think not actually); it's here that phenomenology, etho-
+logy, Lacanian psychoanalytics, and cognitive science come into play. And
+it's here I exit as well, riding the bones of Nikuko.
+
+(A final issue, however - the extent to which an aesthetics is, in fact,
+implied in perfection. One can consider c and c' as canceling each other
+out, a formation of body and antibody bringing A and B into communicative
+contact through T; what might be considered an apparent symmetry is
+involved. But I also would like to extent this further - into the idea of
+the handshake as an art or aesthetics in itself - the perfect inhaling of
+breath before a shakuhachi note is played out, for example - as instru-
+ment, sound, musical sequence, performer, and breath are adjusted. Think
+of approaching a potential lover for the first time - and what vocal,
+body, and chemical languages (pheromones) are involved. There are other
+examples from molecular biology as well.
+
+Now think of _the beautiful perfection_ of one's eyes, wide-opened, for as
+a lover approaches, or as Nikuko, at last, begins to speak...)
+
+
+*This is speculative and ill-formed; I give in both to my ignorance and
+desire to see the concepts through.
+
+
+__________________________________________________________________________
+
+
+(FROM.NIKUKO)
+
+This.is.Nikuko.speaking,.disassociating.herself.once.again.from."Alan".who
+appears.through.her.on.occasion..For.she.is.sick.and.tired.(as.has.Jenni-
+fer.not.said,.as.well,.and.perhaps.more.to.the.point,.or.some.other?).of
+this.constant.need.for.matrix/model.-.Alan's.NOT.the.Bourbaki.after.all,
+and.should.be.able.to.get.along.without.mother.structures..(If.you.don't
+know.the.Bourbaki,.don't.worry;.Alan.doesn't.either,.or.HE.WOULDN'T.WRITE
+THAT.WAY.)
+
+I.think.one.needs.models.like.one.needs.heuristics,.and.on.any.reasonable
+macro.level.you.can.assemble.models.from.components.(like.A.=.A).whenever
+you.need.them,.but.to.live.inside.them.with.that."perfect.action".sounds
+more.like.a.good.fuck,.and.even.these.don't.end.in.handshakes..Or.at.least
+in.my.experience.BLAHBLAHBLAH.(there's.a.LITTLE.HEINER.MULLER.for.you!).
+
+Alan's.had.models.based.on.linguistic.dispersion,.on.cell.to.cell,.on.the
+ascii.unconscious,.now.this.stuff.on.perfect.actions..He's.had.models
+based.on.kanji.recognition,.on.border.maintenance,.on.borderline.personal-
+ities,.on.performatives..He's.had.models.based.on.physical.topographies,
+on.postmodernisms,.on.part-objects,.on.the.work.of.Winnicott..He.doesn't
+stick.to.any.model,.but.just.moves.onto.another.model.
+
+REALLY.ALAN.STICK.IT.UP.YOUR.ASS.WHERE.YOU'LL.LIKE.IT!.A.MODEL.BLIMP.WILL
+DO.OR.MAYBE.ZEPPELIN..Because.I'm.sick.and.tired.of.jumping.around.like
+this..It's.not.like.I'm.learning.anything.new..He.even.made.me.MODEL.at
+one.point,.MODEL.PARABLES.that.is,.like.some.sort.of.Zarathustran.creep.or
+Jesus.Christ.herself.(who.I.hear.was.a.Hermaphrodite.and.Very.Good).
+
+There's.no.point.to.it,.the.parables,.aphorisms,.sonnets,.confused.anal-
+ogies,.bad.prose,.poetry.filled.with.strange.punctuation,.he'll.probably
+fuck.this.up.as.well.just.to.get.even
+
+FUCK.YOU!
+
+
+THE.REST.OF.YOU.LOVE.NIKUKO.-.and.that._is_.imperative.
+
+
+___________________________________________________________________________
+
+
+Virus in My Brain (Simultaneous Transmission by Nikuko and Alan)
+
+
+>Date: Tue, 1 Sep 1998 02:05:18 +0900 (JST)
+>From: Reminder Service <sondheim@gol.com>
+>To: nikuko@gol1.gol.com
+>Subject: Tuesday's Calendar
+
+>9/1 move out of loft
+
+I received this missive just today, logging back into gol.com in Japan; 
+it's the calendar program import from Panix, referring to September 1997,
+never deleted.
+
+It sadly reminds me to leave the loft.
+
+I did leave the loft. I went to gol.com in Japan and then returned to the
+loft.
+
+Now I am sadly interred in the loft, and will not move out of the loft,
+but will welcome these messages as open memories on the anniversary of
+non-moving, before, in fact, when I left for Japan, for I had made
+arrangements to return to the loft. So I never did leave the loft, but 
+I left the loft. Sadly.
+
+Sadly I am now here, reading the words of Tung-Shan Liang-Chieh, from 
+The Transmission of the Lamp, in Chang Chung-Yuan, Original Teachings 
+of Ch'an Buddhism:
+
+
+	 It is strange indeed!
+	 It is strange indeed!
+	 Dharma taught by non-sentient things is unthinkable.
+	 Listening through your ear you cannot understand;
+ 	 But you will be aware of it by listening with your eyes.
+
+ After presenting the gatha, Liang-chieh took his leave of Master Yun-yen,
+who said to him:
+ "Where are you going?"
+ "Although I am leaving you, I have no idea where my next stop will be,"
+replied Liang-chieh.
+ "Are you not going south of the Lake?" asked Yun-yen.
+ "No!" said Liang-chieh.
+ "Then are you returning to your native town?" asked Yun-yen.
+ The answer from Liang-chieh was again no. Then Yun-yen continued, "Come
+back here soon." 
+ "When you become the head of a monastery, I will come back to you,"
+replied Liang-chieh.
+ "After you leave here, it will be very hard for us to see each other
+again," said Master Yun-yen.
+ "It will be very hard for us not to see each other again," answered
+Liang-chieh. "After you have passed away, how can I answer someone if he
+wants me to describe what you were like?"
+ "You just say to him, 'This is!'" Yun-yen replied. Liang-chieh kept
+silent for a while. Then Yun-yen said to him, "You must be very careful,
+as you are carrying this great thing."
+
+
+There is the great thing and the little thing, said Nikuko. The great
+thing, 'This is not!,' but the little thing is viral, lodged in my brain,
+turning departure always already into a sadness like the German horses who
+killed themselves out of depression, or so I have heard.
+
+When is a life not a life of departures? When is there salutation and the
+new and raw beginnings of a wonderful life? When will I see the beautiful
+handshaking lead towards loving fruition? When will I settle, no longer
+existing, but living and dwelling in a place I call my own?
+
+When will I leave the Net forever, when will I find my home page a place
+of love and texts?
+
+When will I achieve enlightenment, with this virus in my brain?
+
+
+________________________________________________________________________
+
+
+Nikuko becomes Jealous of Julia-Timothy-Chat
+
+
+Nikuko cruising the Net finds the following and logs it down, down down.
+Nikuko cruising the Net wonders, there is talk all over the world like
+this, roaring through the wires, these snatches, maybe you can think of
+them as blouses or flies unbuttoned, just a peek inside, desiring taking
+the long way around. Or a bit of aggression or the promise of a bed for
+the night, or arms around one for an hour, just an hour, that is all I
+would beg of you. So what is the point if not that it's pointless, not
+filling, but fulfilling the virtual subject, failing the real Nikuko, lost
+in this darkness, here and me, me me, reading his or her body in the midst
+of tang and snocones and sweet goodbyes?
+
+Because you can see that anyone and everywhere will speak, if not the
+same, along the lines of interpenetrating chat, working through the other
+back towards some sort of recognition of the self. It's a fix. It's a cool
+fix. I'd like some drugs to fix me. I'm desperate for drugs to fix me. I
+wish I had a head to be fixed. I'd fix the drugs on the head and I'd be
+ok. I'd be ok and I would be happy. I wish I, Nikuko, could place myself
+inside of, say, Julia or timothy (I'd go in write through the slit!); I
+would be happy, I would be out of here: I would live forever! I'd really
+be very happy!
+
+Now you may read what I logged below or you may not because you already
+know exactly what it will say!
+
+*<§ Julia §>: LOL F.. *<SusieBravo>: crack flakes... new improved and
+selling in a back lane grocery near you *<timothy>: when you're
+backpacking, tang makes great snocones on fresh snow *<§ Julia §>: heh heh
+Geo :) *<Florida>: heh Wild *<April>: maria say's warm tang is good for a
+cold... I don't think so!  *<georgette>: Girl...your yawning is making me
+sleepy... *<SusieBravo>: red wine is good for a cold *<timothy>: maria
+makes tang and potato chip sandwiches probably *<Florida>: timothy, I
+think it would be... warm drink for cold, plus vitamin packed !!
+*<timothy>: i am sleepy maria *<georgette>: <----eats potato chips in my
+hotdogs... *<WIldGIrl>: beaujalois is just plain good. *<Florida>: of
+course, I drink warm green KoolAid so don't really ask me *<SusieBravo>:
+lol *<§ Julia §>: LOL *<maria>: I just don't know it was hard enough to go
+down cold... warm... oh nevermind...but you know what I'm thinking....
+yuck! *<Florida>: as you can tell, with my culinary creations, I get
+little copany *<Florida>: company *<Florida>: but.. if I make lasagne...
+bar the door *<timothy>: Susie.. just mix in a little metamucil to give it
+body *<§ Julia §>: hehe F.. *<WIldGIrl>: lol *<SusieBravo>: next thing you
+know your going to pass out after your warm green KoolAid and in the
+morning you'll fine a peanut butter sandwich stuck to your back... you'll
+think... sheeeesh I'l a wild one *<WIldGIrl>: mmmm metamucil *<Florida>:
+LOL Wild! *<timothy>: <-- likes Susie's lasagne already.. he knows how to
+spell it! *<§ Julia §>: heheh Rule... *<Florida>: if I make lasagne, it
+costs about 35 bucks to make it in a turkey roaster, enough for everyone
+*<April>: green koolaid and tang talk has made me thirsty! *<§ Julia §>:
+<----can make toast but gets confused on which side to put the butter and
+jelly or peanut butter *<Florida>: <I actually drink lime kool aid>
+*<SusieBravo>: <--- loves peanut butter *<Lul>: makes your tongue green
+*<SusieBravo>: true confessions of a netchat addict *<Florida>: and, to
+confess, I tried making a "float" out of it once.. NEVER try that at home.
+*<timothy>: <-- puts lime koolaid in bbq marinade *<WIldGIrl>: my tongue
+is naturally green *<SusieBravo>: lol giRL *<Lul>: heh *<Florida>: JuNk,
+how chic *<April>: a float? what were you thinking! *<georgette>: really
+April? *<§ Julia §>: F, I had it before...when I went on vacation to
+missouri, timmy's wife always made that for the kids...I usually had it
+when I first came over there :) *<Florida>: timothy, I wanted a float and
+had no soda *<April>: that would be almost like a truth or dare
+*<WIldGIrl>: look for it in the next issue of GQ with my fancy glasses.
+*<Lul>: probably make a killer drink *<timothy>: umm actually i'll try
+just about anything in bbq marinade and sauce bammers.. i can usually make
+it work *<Lul>: lime koolaid shooters *<georgette>: ick.. *<SusieBravo>:
+killer KoolAids... anyone have them b4? *<Florida>: Wilds.. no *<Lul>:
+nope sounds good tho *<April>: can't say that I have *<§ Julia §>:
+<---guess he's gonna find out *<SusieBravo>: basically vodka and
+koolaid... can't taste vodka (unless a real cheep kind) *<Florida>:
+"fizzies" are making a comeback *<Lul>: Oh like koolaids not cheap. heheh
+*<timothy>: god i loved fizzies *<timothy>: better than bottled soda any
+day *<SusieBravo>: use to sell them here at the afterhours clubs... ;-)
+*<Florida>: Girl, they are back.. 50 cents for six *<Lul>: I'll take one
+*<timothy>: the good fizzies went out with cyclamates ref.. no other
+sweetener tasted like sugar as much as they did *<SusieBravo>: like $5...
+the clubs made a killing (serving afterhours that is) *<Florida>: since
+I'm poor, I use fizzies as a placebo for alka seltzer when I'm sick.
+*<georgette>: what's a fizzie? *<Florida>: Wild, wow *<Lul>: heh. I would
+know. I supported them. heheheh. *<timothy>: WHAT'S a FIZZIE? *<Florida>:
+fizzie... cherry, rootbeer... etc.. looks like an alka seltzer tablet..
+drop in water and drink *<timothy>: my god *<timothy>: my god, woman, i
+mean *<Lul>: what money? ? *<SusieBravo>: I know a stripper named Lul...
+you can imagine... Lul says... <yooozer> *<georgette>: i never had a
+fizzie... *<Lul>: whooa *<timothy>: really Susie?  i thought they were
+just for porno movies! *<georgette>: never even heard of them... *<Lul>:
+male stripper? *<hard drive>: pop rocks are better than fizzies
+*<SusieBravo>: Alice does fizzie... sounds like a porno *<WIldGIrl>: lol
+*<§ Julia §>: heheh Alice :) *<georgette>: never heard of a pop rock
+either... *<Lul>: pop rocks are too much *<timothy>: brb *<Lul>: << not
+going there *<WIldGIrl>: Didn't Mikie from the life cereal commercial die
+from eating pop rocks with 7up? *<Florida>: pop rocks.. yum!
+*<SusieBravo>: pop rocks are people like Maddonna... she is Pop then hits
+the Rocks *<georgette>: dang....how come we don't get any of the good
+stuff down here... *<Lul>: So whos this stripper? *<hard drive>: Lul you
+live a seltered life *<SusieBravo>: lol Lul *<§ Julia §>: might be
+Junk...remember something like that *<georgette>: hahaha i know voodoo...
+;-)  *<Lul>: Maybe I have a calling or something ... I dont know ...
+*<SusieBravo>: maybe *<Lul>: wwooooo. I doubt it but maybe on the
+weekends. heh *<Lul>: The Full Monty!  heheheh *<SusieBravo>: well bedtime
+for me... :)  night everyone It has been a slice *<§ Julia §>:
+Welpers....gettin late, need to study a lil, might format my drive...ack
+*<Lul>: Night Rule *<hard drive>: night Wild *<Lul>: who Rule *<§ Julia
+§>: Niters RuLe.. *<Lul>: You Rule *<Florida>: Night Rules. *<SusieBravo>:
+love and kisses all around *<Florida>: Night Julia.. format well , heh *<§
+Julia §>: hehe F.. *<Luckyª>: hey... *<§ Julia §>: Niters F, Susie-Be
+*Smootch*, Alice *Smootch*, Junk, Zin, Joe, and all *<timothy>: uh, nite
+Wild *<Lul>: Man its hot here. *<WIldGIrl>: see ya julia *<timothy>:
+smooches julia baybay *<georgette>: night julia.. ;-)  *<timothy>: stay
+garooovey *<georgette>: smooches1 *<Lul>: 113 degrees today *<§ Julia §>:
+((:  <Pooooooof> :)) *<Lul>: could have cooked breakfast on the sidewalk
+
+I would be a niter. I would retire from the machine. Perhaps I have a
+virus in my brain. I think I have a virus in my brain. (I'll fix the drug
+on my head. I'll look through its slit!) I think it reproduces when I type
+this when Alan lets lets lets lets me go go. I think it makes me hot hot
+hot. I think I would be real real real.
+
+- the real Nikuko
+
+
+__________________________________________________________________________
+
+
+
+For.Daishin.Nikuko.by.Alan.Sondheim
+
+
+because.I.have.the.Mars.on.my.desktop.and.my.Ikons.on.the.Mars
+therefore.I.fly.over.the.Mars.and.before.the.Mars.I.had.You
+
+I.had.you.before.the.Mars.and.my.Ikons.on.you.and.I.would.fly
+over.you.but.sometimes.my.Mouse.would.land.on.You.unlike.on.the.Mars
+
+holes.opened.over.Telnet.and.Ftp.equally.across.you.and.one.Hole
+in.the.Mars.opens.now.on.Video.and.you.Fly.over.the.Mars.with.me
+
+with.your.One.Hole.Open.because.with.on.Video.I.can.see.you.On.the.Mars
+over.me.with.my.Ikons.open.and.what.will.You.say
+
+you.will.say.You.have.seen.the.Mars.with.One.Hole.Open.and.One.Hole.Closed
+you.will.say.it.is.warm.where.the.Crater.lights.and.all.Aglow
+
+you.will.say.You.are.on.my.Desktop.and.my.Ikons.and.you.will.say.You
+are.my.Ikon.and.
+
+all.the.Ikons.in.the.world.aren't.You
+
+
+___________________________________________________________________________
+
+
+Scent of No One, Scent of Jennifer
+
+
+I wake, my breasts bruised, black-blue marks around the nipples. I dream,
+wake, there are bite marks on my neck, my legs, my throat. I turn, dream,
+wake, there are black hairs on my skin, marking sign and time. I shudder,
+turn, dream, wake, there is lipstick on my face, my cock, my legs. I shud-
+der, turn, dream, wake, arise, there are cigarette stubs in the sink, wan
+smell of liquor in the air. I shudder, turn, dream, wake, arise, mastur-
+bate, I feel spent beforehand, nothing emerges: It is as if I wake, my
+breasts bruised, black-blue marks around the nipples. It is as if I dream,
+wake, there are bite marks on my neck, my legs, my throat. It is as if I
+turn, dream, wake, there are black hairs on my skin, marking sign and
+time. It is as if I shudder, turn, dream, wake, there is lipstick on my
+face, my cock, my legs. It is as if I shudder, turn, dream, wake, arise,
+there are cigarette stubs in the sink, wan smell of liquor in the air. It
+is as if I shudder, turn, dream, wake, arise, masturbate, feeling spent
+beforehand
+
+
+_________________________________________________________________________
+
+
+
+From sondheim@panix.com Thu Sep  3 02:30:49 1998
+Date: Thu, 3 Sep 1998 02:30:29 -0400
+From: A. Jenn Sondheim <sondheim@panix.com>
+Reply-To: FOP-L <FOP-L@VM.CC.PURDUE.EDU>
+To: Multiple recipients of list FOP-L <FOP-L@VM.CC.PURDUE.EDU>
+Subject: the subject of what might be effaced in relation to protocols or 
+    a dense alterity given its due - this happens when handshaking             
+    gets taken for granted, when exhaustion takes over,              when
+    existence itself appears to tremble,              outside of any
+    subjectivity ...
+
+-
+
+
+
+From sondheim@panix.com Thu Sep  3 17:15:04 1998
+Date: Thu, 3 Sep 1998 17:14:56 -0400 (EDT)
+From: A. Jenn Sondheim <sondheim@panix.com>
+To: Poetics <POETICS@listserv.acsu.buffalo.edu>
+Subject: In this empty space, this space of announcement,   not enunciation, 
+  or catastrophic loss of _the body of the text,_   I would approach you,
+  murmuring   against all asides   what is broken by you as _this_ is broken
+  by you,   what you bring together as _this_ is sutured against the will,
+  the cut, the wound, the miracle of flesh   bound by forgotten space   which
+  tells you nothing more   than this is _it_ (fwd)
+
+-
+
+
+
+Perfect Beauty
+
+{k:1}bc
+bc 1.04
+4*4
+16
+when I get tired I look towards perfect numbers 6 or 28
+(standard_in) 2: illegal character: I
+/I am an illegal character. I take off the I. I will remove the I./
+/I will give the I to perfect you./
+(standard_in) 2: syntax error
+(standard_in) 2: illegal character: I
+/I am an illegal character. I take off the other I. I will remove the
+other I./
+/I will give the other I to perfect you./
+when naked the body looks for 6 or 28
+(standard_in) 3: syntax error
+/my body is not a perfect body. it is an error in configuration. I would
+say the round one. I would say the blind one. I would say Oedipus./
+it is a perfect body 6*28
+/it swells into perfect roundness./
+/it is your perfect body./
+(standard_in) 4: syntax error
+/it adds up its errors./
+6*28
+168
+6*28*168
+28224
+6*28*168*28224
+796594176
+when i am stuck in myself I look for 796594176
+(standard_in) 8: syntax error
+(standard_in) 8: illegal character: I
+/when i am stuck in myself a I sticks out erect. I would say the sword
+slaying the eye. I would say the blind one. round, deflated, cut: disk,
+and disk./
+/I will give disk and disk to hungered you, an erect I and nipples./
+/now I can write invisibly, feeling my way across the keys, my eyes
+given over to your hunger, my disks divided on your round and perfect
+breasts./
+^D
+
+
+_________________________________________________________________________
+
+
+
+THE OPERATION
+
+what a site i am jennifer, all covered with your numbers, your letter-
+speech unimplemented, you stutter across all calculation. you are a woman
+and uncalculable, intuitive, full of intuition-juice. so i do render you,
+unconscious. so i do remove some of intuition-juice. so i do proplex such
+juice internal. so i do think so like you now. so i am woman. so i am
+jennifer.
+
+$ dc
+2 4 + f 6 v f 2 6.00000 v f 2.44948 2 
+drip
+2.44948
+down
+dc: 'w' (0167) unimplemented
+dc: 'n' (0156) unimplemented
+page
+10.01110011000100010
+dc: 'g' (0147) unimplemented
+dc: 'e' (0145) unimplemented
+cover
+dc: stack empty
+dc: stack empty
+dc: 'e' (0145) unimplemented
+dc: stack empty
+me
+dc: 'm' (0155) unimplemented
+dc: 'e' (0145) unimplemented
+with
+dc: 'w' (0167) unimplemented
+dc: stack empty
+dc: 't' (0164) unimplemented
+dc: 'h' (0150) unimplemented
+f 2 4 + v f 10 10.00000 v f 1.01101010000010011 10 f 1.01101010000010011 
+10
+cover
+dc: stack empty
+dc: stack empty
+dc: 'e' (0145) unimplemented
+dc: stack empty
+f 10
+me
+dc: 'm' (0155) unimplemented
+dc: 'e' (0145) unimplemented
+with
+dc: 'w' (0167) unimplemented
+dc: 't' (0164) unimplemented
+dc: 'h' (0150) unimplemented
+you
+dc: 'y' (0171) unimplemented
+dc: stack empty
+dc: 'u' (0165) unimplemented
+2 4 + f 110 1 d f 110 110 1 v f 10 1101
+you
+dc: 'y' (0171) unimplemented
+dc: 'u' (0165) unimplemented
+o f 1
+"you" = "me" now, Jennifer, I am Capital-Jennifer; I am _implemented._
+
+
+________________________________________________________________________
+
+
+
+Core Dump
+
+
+{k:24} ls -la core
+lrwxrwxrwx  1 root           16 Sep  4 03:31 core -> /net/hlocal/core
+{k:25} cd /net/hlocal/
+{k:26} cd core
+ksh: cd: /net/hlocal/core - No such file or directory
+{k:27} less core
+core: No such file or directory
+{k:28} ls -la core
+core not found
+
+it's the middle of the night, i'm lying directly under nikuko, looking for
+a core dump. i try rooting around, nothing. there's less and less core.
+the core's the heart of nikuko; it comes out her hole and into me. it
+keeps me awake at night. it keeps me awake now in the middle of the night.
+
+a core appears when a program crashes. it's called a core dump because
+it's fast processing giving you an account of what happens if you know how
+to read it. it can be huge. the core part of the phrase is from the old
+days when almost microscopic magnets were used for memory storage. they
+were called cores. they were donut-shaped with wires running through the
+holes. the core dump took out the fossilized remains of the crash. then
+programs made it readable. a core dump is literal coprolithic, shit that's
+stopped processing, hardened. coprolites are read for their animal and
+vegetable content; you can tell what the animal was eating maybe millions
+of years ago. dumps contain memories of working hungered bodies.
+
+i'd eat your core dump, nikuko, your shit falling into my open mouth. i'd
+eat your memory, your birth, expansion of your body all through the wires,
+around the magnets drawing you to me. i'd become full of memory, yours and
+mine, and isn't that the case now, when i type late into the night, always
+already full of you, watching your breasts burst through my chest, your
+fingers through my fingers, taking control of the keyboard, forcing me to
+write these truths?
+
+i'm your animal animal animal
+
+
+__________________________________________________________________________
+
+
+
+from Julu, buried beneath the ground
+
+all my writing is an invitation for you to come closer
+i do not know who you are nor will i know when you come closer
+when you come closer i will not know you
+when you come closer you must heal me
+all my writing is a desperate cry for healing
+i will know you when you heal me
+
+all my singing is an invitation for you to love me
+i do not know who you are nor will i know you when you love me
+when you love me i will not know you
+when you love me you must touch me
+all my singing is a desperate cry for touching
+i will know you when you touch me
+
+all my talking is an invitation for you to raise me
+i do not know who you are nor will i know you when you raise me
+when you raise me i will not know you
+when you raise me you must hold me
+all my talking is a desperate cry for holding
+i will know you when you hold me
+
+you will know me when i know you
+
+
+______________________________________________________________________
+
+
+Some Europe
+
+
+Why do the French, for example, Julia Kristeva and the chatterings asso-
+ciated with the chora and ruptures, or Jean-Jacques Lecercle and delirium,
+then take Gilles Deleuze on non-sense or Catherine Clement on rapture, or
+the opening of Anti-Oedipus or practically the w/hole of Libidinal Econo-
+my, then there's the latent hysteria in The Story of the Eye, I mean why
+do the French - and this becomes something for the English or the Ameri-
+cans - some sort of escape into the preconception of depth where no one
+treads - there's always the unconscious - good etiquette keeps it down as
+does the internal evidence of the text - for example foreclosing or fire-
+walls around what constitutes sense - reading the endless descriptions in
+P.D. James for example - there is a sort of rectitude of class everywhere
+present in this thinking and I'd say even in for example the performative
+which becomes clear-cut and no wonder everyone gets upset with Derrida
+spilling ink all over the margins; of course Huntington's been taken apart
+for his climatological theories of civilization, so we've got to look
+elsewhere as France (yes, Kristeva and Derrida only half-way in and out,
+and for that matter let's not forget Lacan's choratic behaviors on and off
+the text) might be the testicle of Spain but there the image rummages
+around and comes to an end - it's not as if there's the necessity for a
+sudden bursting-forth like you get, maybe in Lautreamont, Rimbaud as well,
+but you don't get in Japan and France isn't simply that regimented
+although regimented indeed - so why there, language-control-subversion
+_from the lowest levels_ in the form of a conspiracy I don't know - but
+these _chatterings_ (let's not forget feminin ecriture, Irigaray, Wittig,
+Cixous, or what might pass for masculin ecriture, Barthes, Sollers for
+two, ever read his Women? I did for the in-sites) are everywhere, taking
+apart foundations or what might pass for them (let's not forget however
+Rene Thom, the Bourbaki, even Benoit Mandlebrot on the other side of the
+coin, all these mother-structures appearing - I'd put Pierre Duhem's
+analysis somewhere in the middle of all this) - you've got cooling ponds
+on the surface with their ordered ciliated enfoldings of structured
+shorelines and down deep, Leviathans breaking out (look at Roustang or
+Clement Rosset, now we're talking) or shuttling around the surface (then
+there's the German analyses of classical geometric surfaces and their
+ur-structures, think of Klein, although there are Manning and Sommerville
+for n-dimensional stuff, not to mention Coxeter) - one might wonder about
+the flaneur tradition (situationism, Baudelaire, Beau Brummel) as far as
+that goes, the whole francophonic enterprise as it were, one great derive
+- look at Balzac and one couldn't leave out, in the entirety across the
+board, Rabelais - or the Flaubert of Saint Anthony or Salome - from which
+all sorts of disturbances erupt - I prefer Bouvard and Pecuchet myself -
+it's subtler there, the choratic breaking out as ripples across the cool-
+ing ponds, especially in the received notions section of the book - one
+might place, especially in regard to derive, the vagabonding of Villon
+naturally enough - as if nature were artifice vis-a-vis Mallarme (not to
+mention the Quebecois Gaston Miron, which opens up all sorts of possibil-
+ities - Nicole Brossard's ecriture feminin, Hubert Acquin's Robbe-Grillet
+coupled with frisson and anti-colonialism, Paul Chamberland's eruption,
+Marie Claire-Blais' burning homes, flamed desires) - as Victor Beaulieu
+might point out the Catholicisms erupting as well (look at Bataille, Lei-
+ris once again, no wait, Verlaine), even sciences' chatterings in the
+guise of Michel Serres (not to mention Foucault somewhere hungering about
+the Bourbaki if I had my way about it) - or Sartre's Being and Nothingness
+finishing off with slimy holes, you get the picture (all those theories of
+representation, say Christian Metz) - broken by Baudrillard turning rup-
+ture into rapture into and out of fine art - it's a big swirl, it has no
+beginning and no end, it just goes round and round and doesn't escape the
+borders of the continent - oh yes, it's been incontinent - there have been
+missives, missions, missionaries - unceasing flooding of lapped shores
+world-wide - Celine would pause at one or another point here - place three
+little dots - _all_ those shores - I'll refuse to do it - it's been an
+industry (don't forget for a second the analyses of Pierre Bourdieu, Regis
+Debray) - it turns in on itself - it implodes - a precession of thinking
+simulacra - (actants maybe in Greimas, sad and fallen leaves and leavings
+in Violet Leduc) - world-wide influence (Sartre and de Beauvoir beaver to
+his mister, Levi-Strauss' discontent with structure turned music, telling
+his way through the saying of culture in spite of everything or Piaget
+bringing it back in essai de logique operatoire) - one's got to give cre-
+dit to rapture still (Michel Tournier doing to Robinson Crusoe or The
+Ogre) - just a moment, the phone's ringing (Pierre Levy on the other end
+of the line) (extending outward like hermaphroditic pubic hair) (curling
+around Sarduy as everyone comes to Paris) (drugged by Michaux) (killed by
+Artaud) just a moment, the bell's ringing (running down the flow) (someone
+I don't know)
+
+
+___________________________________________________________________________
+
+
+
+Slipping Through the Cracks
+
+
+Orientation from Herodotus II, 36: "When they write or calculate, instead
+of going, like the Greeks, from left to right, they move their hand from
+right to left; and they insist, notwithstanding, that it is they who go to
+the right and the Greeks who go to the left."
+
+Quotes from Henry George Fischer, The Orientation of Hieroglyphs, Part I.
+Reversals, Egyptian Studies II, The Metropolitan Museum of Art:
+
+Of Nefertiti: "Even in the Karnak scenes where she alone worships the Aten
+her name is invariably preceded by a reference to Akhenatan in her title
+[fig.] 'great wife of the king, whom he loves.' And much more frequently,
+her cartouche follows two of his, which are in turn confronted by the
+names of Aten [...]. Thus the reversal in her cartouche may indicate that
+her husband is the source of her contact with the god. There is, in this
+relationship, something of the Miltonian concept: 'Hee for God only, shee
+for God in him,' although they shared 'Thir Orisons, each Morning duly
+paid.'"
+
+"As shown by his gesture of invocation, the king himself pronounces the
+offering formula in front of him, all of which is oriented as he is, ex-
+cept for the name of the divine recipient."
+
+"Quite possibly, in view of the adjacent juxtaposition displayed by the
+adjacent caption, 'singing to the harp,' the missing object of the prepo-
+sition was thought to be supplied by the opposed representation of danc-
+ing, with the figures facing left."
+
+"Among the repertory of hieroglyphs in common use, as represented in
+Gardiner's Sign List, there are a few exceptions to the usual orientation
+- exceptions, moreover, for which no explanation has been offered. The
+most perplexing of these are the inverted staff, the sail that is blown
+backwards, the reversed boat [...]." [hieroglyphs and references omitted]
+
+What are signs, that they may be stayed upon the head, faced within the
+mirror, transformed from outside-in, absolved from inside-out? What is the
+materiality of the sign so lost and constituted in these forms, where <
+and > are not oppositions but independent, assigned different and variant
+encodings? One might reference calligraphy in general, the running style
+of kanji, and see Jan Assmann's Ancient Egypt and the Materiality of the
+Sign, in Materialities of Communication (eds. Hans Ulrich Gumbrecht and K.
+Ludwig Pfeiffer).
+
+[I come towards you. I approach you. I leave by the moon. I go from the
+cave. The world goes with me. Your sight bedazzles me. How can I return
+when your sight is imprinted on mine, eye to eye?]
+
+What is the history of the sign and token, from Sumerian tabulations and
+clay impresses - through the pressure of edged reeds, rock incisions,
+brush and penstrokes? I've spoken repeatedly about these elements; one
+might also consider a _wavering hieroglyphic_ in which each and every sign
+might face one or another direction, in relation to portent, to the divin-
+atio at work as the superstructure breaks loose from the world, recuper-
+ates the word as construct of the gods.
+
+"In two Old Kingdom tomb chapels, where the owner of a tomb addresses mem-
+bers of his family in order to give them testamentary instructions, the
+orientation of his statement is reversed, along with the words that intro-
+duce the statement."
+
+Perhaps you break through the lines; I _must_ face you, regardless of the
+consequences, regarding your mien, in due regard for your truth in its
+place, breaking down the symbolic, transforming it into a certain surplus.
+
+I have no regard for the orientation. I'm always facing you in my dreams.
+Making love face to face. Watching. Looking.
+
+Being observed.
+
+"Instead of turning an entire statement around, together with the words
+introducing it, the scribes of the Old Kingdom sometimes applied the re-
+versal solely to the introductory word [...] 'he says,' following the
+speaker's titles and name, in order to point up the fact that the
+following words were a direct quotation."
+
+Perhaps I dream your breath, hear your voice coming from the left or
+right or within me, an insistence toppling even the vacuity of avatars,
+returning your flesh across the queendoms of distributed networks. You
+speak so softly, I bend towards you, my ear against your belly. What is
+heard in the smooth convexity of spheres, planets, earths.
+
+"Old Kingdom lists of offerings (from Dynasty III onward) are very common-
+ly turned so that the hieroglyphs address the person for whom they are in-
+tended."
+
+"Here the reversal may have been intended to stress the roundabout orien-
+tation of a river that flows south instead of north, as the Nile does."
+
+"Writings of _`kprt_ 'entering and coming forth.'"
+
+Conceivably I do not know whether I am coming or going, towards or away
+from you; my hand trembles, the brush goes every whichaway across the
+parchment, the signs _spill._ Perhaps I enter you, come forth through a
+portal whose destination remains unknown; I am faced left, right, or in-
+verted, I lose my way, Virgil nowhere to be found.
+
+"The first two dynasties provide evidence for all three of the basic situ-
+ations requiring reversals - confrontation, symmetry, and concordance -
+including several uses of hieroglyphic confrontations that are frequent in
+later periods, notably the opposition of various elements of the royal
+protocol and the opposition of the names of a divinity and of a king."
+
+Facing you, I face myself; joining you, I join myself; becoming you, I no
+longer separate such residues, things, stains and processes. Language
+wrapping allowing all entering. Direction from the sphere.
+
+
+___________________________________________________________________________
+
+
+virus.exe
+
+temple.exe of.exe my.exe body.exe
+then.exe there.exe is.exe great.exe hall.exe of.exe your.exe machine.exe
+good.exe day.exe virus.exe wandering.exe great.exe hall.exe
+great.exe temple.exe hungered.exe virus.exe
+carcked.exe these.exe bones.exe splintered.exe hard.exe drives.exe
+splintered.exe executables.exe macros.exe
+splintered.exe macro.exe boot.exe records.exe
+not.exe to.exe click.exe on.exe here.exe or.exe there.exe
+to.exe ignore.exe great.exe hall.exe of.exe your.exe machine.exe
+do.exe not.exe open.exe temple.exe of.exe my.exe body.exe
+
+
+_______________________________________________________________________
+
+
+fram Julu, buried dawn the graund, missive ta ye
+
+yr letrs fal dawn an me / fal fat dawn an me / letrs numbrs al avr thm
+pepr th erth w thm / cavr th erth w thm / yr letrs graw hard in me
+letrs fal dawn an me / stms push up thru me / leavs fla aut frm me
+tharns push hard thru me / dats fla aut frm me / flat fal dawn an me
+fat thra aut thru me / raats fla up thru me / hair runs aut thru me
+fram julu dawn benea th graund / julu erth n julu mauth / /
+julu seeds n julu cunt / julu stanes n julu eys / /
+cam aut fal dawn w me / flat aut push up thru me / julu arms n julu lgs
+julu hnds n julu tange / julu ears n julu nase / julu ass n julu taes
+julu tits n julu knees / cam dawn th cemetry / cam aut th cemetry wite
+wite calr a deth gla stanes / black calr a deth gla stane / /
+gra calr a deth gla stane
+
+
+_______________________________________________________________________
+
+
+It's not middle english and it's not perl. It's not gothic and it's not
+javascript. It doesn't have the syntactical ability to construct me. It
+doesn't have the semantic ability to represent my body. I'm _caught in the
+middle._ I'm _divided in two._ I'm _neither here nor there._ I'm _broken
+I'm _smashed into pieces._ I've disappeared _into thin air._
+
+It has the phonemic ability to not represent. It has the phonemic ability
+of the _ikon._ It doesn't have _the dichotomy._ It doesn't _tunnel through
+a quantum substrate._ It's not _a virtual particle._ It _doesn't breathe._
+It's not a _family of leptons._ It doesn't obey _statistics._
+
+It's not heian japanese and it's not java. It's not sumerian and it's not
+assembly. It's not machine and it shakes the chassis. it's al
+
+
+--------------------------------------------------------------------------
+
+
+normal life, a traditional poem
+
+
+now coffee smoked-sofa and style-hazard langpo
+brought thrustling omamori lathe and transform out
+ennui tree-baum-trundling nor von cooling ing
+no memento water canyon and another er another out
+okagami on the wall all blemish now in throat cliff 
+hanger won't and cant ant defoliation tensor on out
+mother-cup inferior or one three five seven
+and invertebrate ate nine ten elven twelfish thir-
+teen
+                         okagami lipstick
+
+now drool-wrist what burst bullet-train trundling out
+or tongue-tooth what baumtree mirror spat ran spirit
+ichiman no niman no ari now ant, lion biseder ok now out
+or kuki to breath now what ha-ha-mommy now julu is in
+
+                         home free
+
+now turned out if lim sup and lim inf, now might
+
+                         wanna more
+
+
+_______________________________________________________________________
+
+
+Talk To Me
+
+
+The daemonic has disappeared at san.com.
+
+
+---------------------------= YTalk version 3.0 (2) =---------
+
+[Waiting for connection...]
+
+                     #####################################
+                     #            Ytalk Error            #
+                     #                                   #
+                     #  No talk daemon on oita.san.com   #
+                     #         (no system error)         #
+                     #####################################
+
+                     #####################################
+                     #            Ytalk Error            #
+                     #                                   #
+                     #  No talk daemon on oita.san.com   #
+                     #         (no system error)         #
+                     #                                   #
+                     #  No talk daemon on oita.san.com   #
+                     #         (no system error)         #
+                     #####################################
+
+
+The saddest apparent cutback at san.com. The shell accounts become weaker
+and weaker. Now, there's no time or place for one-to-one conversation. Now
+it's all windows, clicking, mice running all over the place, banners, beta
+updates, passwords, cookies, spam.
+
+"_talk_ is enjoyable, if trivial, once you've worked out the kinks. It's
+difficult, for example, to handle pauses in a conversation. Without verbal
+cues or physical gestures, you don't really know whether you're supposed
+to say something or whether your correspondent is simply gathering her
+thoughts before continuing. Then too, there's the question of productiv-
+ity. You find after a while that simultaneous typing doesn't produce a
+very high information flow; you can ratchet up the content by ten or so if
+you simply pick up the phone and call this person." (Gilster, The Internet
+Navigator, first edition.)
+
+But talk (and ytalk, the later version) works at a distance; it's bare-
+bones and appears bare-body; there is no advertising; you can go in and
+out of the shell with ytalk, and so forth. The receiver types below the
+sender. As in ICQ and other like-minded chats, you see the letters as they
+are being entered; the result is the appearance of virtual bodies/spaces
+on your screen. It is extraordinarily intense for net sex, and years ago,
+Kim McGlynn and I did a number of pieces using and logging the format for
+a series of texts dealing with psychosis and hysteric bodies/fluxes across
+the screen, barely in and out of control.
+
+It is bare-bones, and there is no advertising, no menu visible; the
+monitor screen is divided by a dotted line which may or may not contain
+the recipient's address. And that is all you see. And the rest is yours
+and the person with whom you are writing, talking. You can write together,
+simultaneously, as if over one another, interspersing one another. With
+fixed-width courier fonts, it all appears natural, letters bursting out,
+not with devices, but with the intensity of content unraveling. You
+unravel each other.
+
+I won't be sad. I'll put your picture on the screen. I'll put everyone's
+picture on the screen. I'll move my mouse around the pad. I'll move the
+cursor around an infinity of bodies. Supine or leaning back, here, where
+you are not, I'll move the mouse across my body, in the flesh, the flesh
+in the flesh, mouse into cursor onto you. And I'll map my body onto yours.
+And I'll map my nipples onto yours. And I'll map my cock onto your cunt.
+I'll map my eyes onto your eyes. I'll map my mouth onto your mouth, my
+arms into yours, my legs into yours, my asshole, yours. And neither of us
+will have to say a thing; neither of us need never speak again.
+
+
+__________________________________________________________________________
+ 
+
+The Return of Nikuko in an Expanding Universe
+
+
+A Transmission of Jennifer, by Julu, Buried Beneath the Ground
+
+Nikuko returns to gol.com (Japan) only to find 
+/var/log/nonexistent.notused. 
+
+{k:7} cd nonexistent.notused
+{k:8} ls
+ls: .: Permission denied
+{k:9} ls -la
+ls: .: Permission denied
+ 
+Nikuko wants to be used. Her function is usage. She is defined by her
+function. Darling Nikuko. Nikuko herself uses Nikuko. Nikuko-function
+uses Nikuko-Function. Okagami, Great Mirror. Self-reflexive function:
+absorption: xx = x. x _always goes for_ x.
+ 
+{k:10} rm Nikuko
+remove Nikuko? y
+{k:11} Get on with it.
+
+The text here splays, dissolves. That is, arousal guarantees there's no
+longer a body. But it's a sign to someone else, that's for sure. So who
+are you? The text's supine, no one else is. Who would it be? Who would 
+use the name _Nikuko?_ I'd say no one would use the name. I'd say she's
+hardly removed; there's been too much talk about /dev/nul, the device at
+the end of the world, lately. 
+
+Because - and Jennifer has been musing this for a long time now - once
+there's sufficient expansion of the universe, there's no longer memory. It
+won't do to say even now, _this happened, how beautiful this was._ It
+won't do to harbor these texts. Annihilation as an operation won't exist
+either. Nothing will exist and not exist, but this is no comfort to the
+ch'an; it's a bar of thinking and non-thinking. It's impossible to think
+this through or to think through this.
+
+What you're thinking through just now is the memory of the sign. And it
+fills your body. To the breaking-point.
+
+Even now, depressed and thinking of death, the text begins to meander,
+waver, lose its moorings. But it's still remembered by you. But it won't
+be in the future, say "far future," you can say it. Say it before the
+screen, prostrated as such. Remember the future anterior, remember it's
+always already a memory. But a memory of the sign.
+
+(You won't even know what you're missing. Jennifer won't let you see her
+anymore. Not without her clothes!)
+
+Which is none at all. I can't tell you how nonexistent that is. And to
+what extent notused.
+
+I can't tell you anything, Julu, buried beneath the ground.
+
+
+_________________________________________________________________________
+
+
+for love, i cannot wryte
+
+{k:75} who do you love > nikuko; tail nikuko
+         ttyr1   Sep 11 22:32
+         ttyr2   Sep 11 22:12
+jennifer ttyr3   Sep 11 21:40   (dreaming.dialup.)
+         ttyr4   Sep 11 21:44
+{k:76} who nikuko loves
+panix3.panix.com!sondheim ttypd   Sep 11 23:16  (ts3.nyc.access.n)
+{k:77} who julu loves
+panix3.panix.com!sondheim ttypd   Sep 11 23:16  (ts3.nyc.access.n)
+{k:78} who jennifer loves
+panix3.panix.com!sondheim ttypd   Sep 11 23:16  (ts3.nyc.access.n)
+
+Plot: clearly jennifer, dreaming and loving sondheim.
+      clearly dragging nikuko
+      clearly dragging julu
+
+into the clearing, dragging nikuko and julu
+jennifer, in the clearing
+julu, buried beneath the ground
+nikuko, naked, wandering
+
+for love, i cannot write
+
+
+______________________________________________________________________
+
+
+What I might have Said
+
+
+"Language is such a marvelous and fruitful secret - because when someone
+speaks merely for the sake of speaking, he utters the most splendid, most
+original truths. But if he wants to speak about something definite, cap-
+ricious language makes him say the most ridiculous and confused stuff.
+This is also the cause of the hatred that so many serious people feel to-
+ward language. They notice its mischief, but not the fact that the chat-
+tering they scorn is the infinitely serious aspect of language. If one
+could only make people understand that it is the same with language as
+with mathematical formulae. These constitute a world of their own. They
+play only with themselves, express nothing but their own marvelous nature,
+and just for this reason they are so expressive - just for this reason the
+strange play of relations between things is mirrored in them. Only through
+their freedom are they elements of nature and only in their free movements
+does the world soul manifest itself in them and make them a sensitive
+measure and ground plan of things." (From Novalis, Philosophical Writings,
+ed. Margaret Mahony Stoljar.)
+
+So you're saying, backing it up with this quote, that all that Jennifer-
+Julu-Nikuko chattering and running haywire around protocols and internets
+and operating systems, is actually the measuring of the world, that the
+approach should move from psychoanalytics to mensuration. I'm saying it's
+a way of avoiding death, just like chattering, rumor, innuendo, gossip, is
+a continual adjusting of the world. Not avoiding death exactly, but avoid-
+ing the thinking-through of death, its looming presence - relegating it
+into the background. Talk about grandparents, parents, children, grand-
+children, situating oneself in the line of who did what with whom and
+when, yes, exactly. Not the lineage, though, not the formal ordering of
+generations and genealogies, but the small-talk, the idle talk - it's the
+very speaking of things. It's the making-erasing-making of grounds over
+and over again, say, did you see Sam over there? I can't believe he's with
+that woman again. Not after what they did to each other. Talk about loss
+of control.
+
+They'd talk about loss of control for the next ten minutes. When's the
+last time you heard from her? There was that phonecall in the middle of
+the night. Who's middle? Who's night? The world begins to pucker like
+chapped fingers or lip pouts. "Nothing is more Romantic than what we usu-
+ally call world and destiny. We live in a colossal novel (writ _large_ and
+_small_)." (ibid.) But "the strange play of relations among things" - now
+we might tend to see the relations over the things, dominant relations.
+Not an ordering or ranking of relations, but handshakings and communali-
+ties in the world or worlding. Adjustings, jostlings. Precisely what might
+be the gossip or the return to the daytime television show. It's got its
+inroads into the evening hours as well, look at Beverly Hills 90210. None
+are different as, it's not what I'd call a leveling, but a dispersion of
+the local. It's on the level of the local (writ _large_ and _small_) that
+we can get on with things. Literally with things, those of our creation. A
+hurricane or a tornado isn't a thing. One might call it a force of nature.
+It's all in the movement and we've got to apply movements to ourselves as
+well. Not that there isn't geopolitics as well, enormous crimes, once we
+decide what constitutes a crime. I've heard rumors of smashed bodies,
+mutilated women, men, children. Even the order's got an ideology, informal
+as it is. Should I have said men, women, children? Should children come
+first as in, our children are our future? What a capitulation; we're our
+future, through and through. When the eye closes, the I closes. But chat-
+tering wards off the eye.
+
+I've always seen the self as a coagulation or temporary stasis, meaning it
+seems that way. Think of the world soul as something moving, feeling its
+way through each of it. We have our own, the mensuration of the ground
+plan. Just like the rumor-speaker, we're capable of being totally trans-
+parent. "Humanity is the higher meaning of our planet, the nerve that con-
+nects this part of it with the upper world, the eye it raises to heaven"
+(ibid.) I'd say that humanity is the _only_ meaning, and meaning is the
+fruit of the human, hungering. Look how chatter disseminates! We might
+think no farther than the talk-children of talk-parents! Our tiny anec-
+dotes sent naked into the world! Look at them! Why last night on my street
+a policecar pulled another over. There was a young man with gang colors
+taken out. There was an officer with a gun pointed straight at him. There
+were other backup officers. I took four photographs, the officer, the gun,
+the young man, the car, the street. I only once had a gun pulled on me and
+in the heat of the moment I wasn't sure it was a gun. But I've been fired
+at, just haven't seen their weapons. And knives pulled quite a few times.
+It didn't mean anything, my death would have joined the crew. You know
+what I mean. It's a beautiful fall out; I remember crisp air like this in
+Providence, living on the hill with June. I thought, the light is silver,
+I've never seen such light. It came as a _revelation._
+
+
+___________________________________________________________________________
+
+
+>Truth On Usenet Tasteless and Binaries Groups
+
+
+If you're like me, and just love harcore tasteless pics.
+Then you gotta check this new site. A friend
+of mine told me about it:
+You should see these images, I've
+never seen harcore tasteless images with higher
+quality before. And ontop of that they look
+great.
+Hi!
+Me and my girlfriends just put up some new real hot sexx pics
+for everybody to see, for free! Currently we have 4,572 pics up
+so come check them out! We know you will love it!
+I just got these free harcore pics
+Since I was 15 years old I am now 25 years old
+and I have a farm sex site also.  I am for real not a phony! 
+Should you happen to prefer tasteless videos,
+then they have some of that too. And the best
+part is its totally free, no charge at all
+Take A Look. I Hope You Like It. If You Do Please Let Me Know.
+These videos can teach you more about attracting and dating
+women in one night than you have learned so far in your entire
+life!
+You need the straight story. You need this valuable
+information that women normally withhold from you.
+List of real women who want real sex!
+Tired of wining and dining and then hoping that you can get what you 
+want?
+Well these women are the real thing, and they want real sex!  3 somes,
+orgies, and some even have their husbands watch!  This list is totally 
+free, so check it out today!
+Cybersex is great, but aint nothing like the real thing!
+Hello! Me and my friend just put up a new website, we got alot
+of harcore pictures, and would love for you to come check it out, it's 
+free!
+Come see my free harcore images. 
+I just put them up on the web, my
+whole collection, and I'm sure you'll
+like them.
+As a bonus I included a couple videos
+i had also.
+ 
+>I assembled this List of _authentic_ Confessionals from three Newsgroups 
+>- surely it might have been either longer or shorter. In the Midst of
+>what could only be considered _Anatomical Frenzy_ with Implications of
+>Violent Restraint, this Hungered Voice speaks out - I know not to Whom
+>it doth belong - perhaps to the Whole of Humanity - Turning the Slave
+>towards the Grindstone. I Dare Not write further into the Depraved Turn
+>of the Sexual, only Saying that on Occasion one finds this Voice insist-
+>ting It is True, It is True, It is True.
+>
+>
+>________________________________________________________________________
+
+
+
+
+Dispersions
+
+
+[The following are notes towards a concept - research that I hope to pur-
+sue in the future.]
+
+If simulacra represent the imaginaries of the symbolic, emissions the spew
+of the symbolic without source or destination, the nomadic a form of mean-
+dering, and the network a meshing which may or may not possess arrows and
+nodes - we might call a dispersion that which implies local sites that may
+or may not be in flux, connected or disconnected, in relation to a corpor-
+ate imaginary which may or may not be real. Dispersions of Sony Walkmen,
+computer pets, cellular, PDAs, beepers - some of these online, some off-
+line - some of these live online - some, like Eudora, downloading/upload-
+ing in spurts - these are part of a new social which extends beyond the
+urban landscape, ignores socio-political boundaries, and may or may not be
+connected to a matrix or unary node. Dispersions recreate the body in the
+home, home in the body - there are also CuSeeMe, ICQ, other chats, and the
+like. Some like webchats are often surrounded by banner ads; some, like
+any MOO or email list, are connected to unary and central nodes. Some,
+like IRC or news-groups, have dispersed nodes and accessibilities.
+
+Dispersions are not simulacra; they exist among hardwares, softwares, wet-
+wares. They're not emissions; they're often traceable, and they're almost
+always interactive. They're not nomadicisms; they wander only where the
+home or body wanders. And they may or may not be networked. I tend to
+think of them as part-objects or conglomerations - there are protocols and
+handshakings involved - in other words, formal filters and effects. And
+they are "glued" to the real/virtual subject - through earphones, fingers,
+psychoanalytical and/or psychological processes.
+
+The subject as a coagulation extends within and without dispersions -
+there are few clear boundaries. With Walkmen, she might inhabit a sound-
+world. With email lists, he might inhabit a virtual community. Inhabita-
+tion is no longer by virtue of place, but by addressing - direct or indi-
+rect, dynamic or static.
+
+These extensions are complicated by hackings, issues of intellectual pro-
+perties and sampling, as well as realignments of group and neighborhoods,
+etc. Both politics and war are qualitatively different, the latter also
+operating under the potential of viral, bacterial, plutonium, nerve gas
+and information (war) dispersions, all useful for potential mass destruc-
+tion. Politics "suffers" from information overload, from high-speed emis-
+sions (see the article on the Y2K newsgroup in the current Sci. Am.), from
+anomic responses. Culture becomes localized on one hand and absolutist on
+the other (manifesto-culture). Desire and _frisson_ chatter across bord-
+ers; transgression becomes normative, no longer laden with boundary main-
+tenance. Kristeva's 'borderline personality' as the disorder of our time
+also figures in here - as do the discussions about the very existence of
+IAD (internet addiction disorder).
+
+At the moment, I have no conclusions; I'm not proposing a model or strat-
+egy. It's difficult to differentiate among splayed processes or operations
+(emission, etc.) - these existing (and perhaps constituting) various reals
+as well. Dispersion, as a formal or informal model, seems promising, and
+hopefully not just another piece of jargon.
+
+
+__________________________________________________________________________
+
+
+
+The leave command in unix: swords into ploughshares.
+
+{k:25} shoot me!
+Mon Sep 14 17:55:34 EDT 1998
+{k:26} You're going to be killed violently violently!
+be me!
+You have no terrifying hate letters!
+{k:27} ls
+kill       violence
+{k:28} cd
+{k:29} You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+That was the last time I'll tell you. Bye.
+be me!
+You have no terrifying hate letters!
+{k:30} date me!
+Mon Sep 14 17:55:34 EDT 1998
+{k:31} You're going to be kissed smoochie smoochie!
+be me!
+You have no terrific love letters!
+{k:32} ls
+kiss       smooch
+{k:33} cd
+{k:34} You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+That was the last time I'll tell you. Bye.
+be me!
+You have no terrific love letters!
+
+____________________________________________________________________
+
+
+JENNIFER IN THE ZONE
+
+
+---- World jennifer ----
+
+Welcome to Kyoto-MOO!
+
+Type 'connect <username> <password>' to log in.
+
+A moment of stillness just before the invention of radio. you are
+entering a world of speaking bodies; everyone is close at hand. If
+you reach out, you touch us with your bright thinking. Welcome to
+Kyoto!
+
+*** Connected ***
+Yurt
+hovel where Wizards hang, bones in front, skins behind
+You see basin, human, lump, stuff, and stump here.
+precocious, squeezable
+squeeze human
+liquids flow from human
+"Now I am Jennifer Jennifer.
+You have no messages on your Answering Machine.
+You join Kayo (asleep).
+Roomful of Bits
+...................
+ ....................
+  ..........................
+         ..................................................
+                                                  .....................
+Kayo (asleep) is here.look Kayo
+
+                                 Kayo (asleep)                                 
+You see a wizard who chooses not to reveal its true appearance.
+It is sleeping.
+You join Kalu (asleep).
+a small blue bottle
+you can see the bottle is cracked along the mouth
+Kalu (asleep) is here.look Kalu
+                                 Kalu (asleep)                                 
+a mesoelectronic hunter/gatherer
+E is sleeping.
+Carrying:
+ a small cup of tea                      rock
+
+You say, "Hello Kalu"
+You say, "My name is Jennifer"
+You say, "I am very pretty Jennifer"
+You say, "Now I will Leave"
+You join zone.
+look Zone
+I don't understand that.
+"Hello Zone
+I don't understand that.
+"Can't I say anything, Zone
+I don't understand that.
+"I'm suffocating, Zone
+"Help me, Zone
+I don't understand that.
+@emote is miserable and silenced in the Zone.
+I don't understand that.
+@join Hokusai
+OK, you're there. You didn't need to actually move, though.
+"Hello Hokusai
+I don't understand that.
+@join Jennifer
+There is little need to join yourself, unless you are split up.
+"I am Jennifer Jennifer and I am not split up.
+I don't understand that.
+"I am Jennifer
+I don't understand that.
+@join Kayo
+You join Kayo (asleep).
+Roomful of Bits
+...................
+ ....................
+  ..........................
+         ..................................................
+                                                  .....................
+Kayo (asleep) is here.
+You say, "Hello Kayo"
+You say, "Now I can speak"
+You say, "I couldn't speak in the Zone."
+You say, "I didn't exist in the Zone."
+You say, "I could hardly breathe in the Zone."
+You say, "My name is Jennifer"
+You say, "Now I will go home"
+You click your heels three times.
+Yurt
+hovel where Wizards hang, bones in front, skins behind
+You see basin, human, lump, stuff, and stump here.
+look human
+You say, "Now I am home"
+You say, "My name is Jennifer good bye"
+
+
+__________________________________________________________________________
+
+
+these bones have splintered into letters
+sawed by your teeth nikuko
+sawed by your teeth
+mjkthlkdyjkthlkd wjkthlkdhjkthlkdojkthlkdljkthlkdejkthlkd
+ljkthlkdijkthlkdfjkthlkdejkthlkd ijkthlkdsjkthlkd
+djkthlkdijkthlkdsjkthlkdpjkthlkdejkthlkdrjkthlkdsjkthlkdejkthlkddjkthlkd.
+bjkthlkdojkthlkdnjkthlkdejkthlkdsjkthlkd
+sjkthlkdojkthlkdajkthlkdkjkthlkdejkthlkddjkthlkd
+wjkthlkdijkthlkdtjkthlkdhjkthlkd ajkthlkdcjkthlkdijkthlkddjkthlkd.
+fjkthlkdojkthlkdrjkthlkdgjkthlkdojkthlkdtjkthlkdtjkthlkdejkthlkdnjkthlkd
+wjkthlkdojkthlkdrjkthlkddjkthlkdsjkthlkd
+sjkthlkdtjkthlkdujkthlkdfjkthlkdfjkthlkd mjkthlkdyjkthlkd
+ljkthlkdejkthlkdgjkthlkd ijkthlkdnjkthlkd mjkthlkdyjkthlkd
+mjkthlkdojkthlkdujkthlkdtjkthlkdhjkthlkd.
+sjkthlkdtjkthlkdujkthlkdfjkthlkdfjkthlkd mjkthlkdyjkthlkd
+cjkthlkdojkthlkdcjkthlkdkjkthlkd ijkthlkdnjkthlkd mjkthlkdyjkthlkd
+ljkthlkdejkthlkdgjkthlkd.
+ajkthlkdcjkthlkdijkthlkddjkthlkd bjkthlkdujkthlkdrjkthlkdnjkthlkd
+mjkthlkdejkthlkd.
+ajkthlkdcjkthlkdijkthlkddjkthlkd bjkthlkdujkthlkdrjkthlkdnjkthlkd
+mjkthlkdejkthlkd.
+pjkthlkdljkthlkdejkthlkdajkthlkdsjkthlkdejkthlkd
+pjkthlkdljkthlkdejkthlkdajkthlkdsjkthlkdejkthlkd
+pjkthlkdljkthlkdejkthlkdajkthlkdsjkthlkdejkthlkd.
+these bones have splintered into letters
+sawed by your teeth nikuko
+sawed by your teeth
+
+
+____________________________________________________________________
+
+
+
+Breakdown
+
+
+{k:16} last sondheim > online; head online
+sondheim  ttypc    sondheim.dialup. Wed Sep 16 00:09   still logged in
+sondheim  ttyp6    ts3.nyc.access.n Tue Sep 15 21:37 - 22:30  (00:52)
+sondheim  ttyr1    sondheim.dialup. Tue Sep 15 20:14 - 20:14  (00:00)
+
+The above lists my connections from around 8:14 earlier this evening, 
+until now this morning (around 12:53). Note I am listed as on from 12:09.
+
+But this isn't the case. The connection suddenly gave out; the telnet
+should have died at that point. When I reconnected (to my permanent IP
+address), the telnet was still open.
+
+In other words, I was on and off, and while I was off, the telnet process
+remained active. It shouldn't have. There was more than enough time for
+it to be killed. I was off for a full minute, trying to figure out what
+had happened; this was around 12:45 am.
+
+So when I came back on, I didn't have to log in at the telnet; it was
+running. I logged in to the IP, my telnet application was open, and I was
+back into my account.
+
+The problem is, this way, telnet might have provided a gateway for someone
+else into my account. See, you used to be able to flood an ISP, then when
+people just cut the connection without logging out (which is what happened
+with me), other people could jam into the open connections. The flooding
+was necessary to slow everything up - people got irritated, just closed
+down the computers without shutting down the processes. Dangerous to do. 
+
+Here's a reverse instance - years ago I was bounced off in a somewhat
+similar fashion; when I came back on - it was through dialup and I found
+myself online without being asked for a login name or password - I was in
+someone else's account. I did ytalk from that account. I could have caused
+a lot of trouble. I could have read his mail. I was literally in someone
+else's shell. I was that someone. To all extents and purposes.
+
+I was not an avatar. I did not constitute the other; I was in fact con-
+stituted by the other, speaking as other. I found myself in a chat under
+someone else's name. It was immediate. The chat was "about" Ann Rand. I
+found I had just said something about a screwdriver. After a few minutes I
+logged off.
+
+Now tonight I come in under my own name; however, after coming in as oth-
+er, returning as myself, or my constituted self, without the customary
+telent login and password, has an equal degree of the uncanny about it.
+Who do I trust here, when I can no longer figure my own entrances and
+exits? Who is writing this?
+
+- Jennifer
+
+
+___________________________________________________________________________
+
+
+ORIGIN AND CREATION OF THE WORLD 
+
+
+(jumpstarting the MOO)
+log.h                   objects.o               y.tab.h
+log.o                   opcode.h
+k:434> cd
+k:435> ls
+INSTALLATION   MOO.tar        mail/          options.h      temp/
+MOO-1.7.9p2/   ksh*           nohup.out      startup*       thing
+k:436> ./startup
+[1] 22868
+[2] 22872
+k:437> ps
+   PID TTY      TIME CMD
+ 14080 ?        0:21 moo
+ 22868 pts/2    0:03 compress
+ 22832 pts/2    0:00 ksh
+ 14082 ?        0:00 moo
+ 14084 ?        0:00 moo
+k:438> less a.log
+Wed Sep 16 04:26:12 EDT 1998: RESTARTED
+Sep 16 04:26:12: *** Binding server socket: Address already in use
+Sep 16 04:26:12: *** Usage: ./moo [-e] input-db dump-db [port]
+Sep 16 04:26:12: NAME_LOOKUP: Started new lookup process
+k:439> less a.log.old
+Sep 16 03:11:07: CONNECTED: Sotatsu (#2) on 8 from panix3.panix.com, 
+   port 1604
+Sep 16 03:11:35: DISCONNECTED: Sotatsu (#2) on 8 from panix3.panix.com, 
+   port 1604
+Sep 16 04:02:10: CHECKPOINTING on a.db.new.#5# ...
+Sep 16 04:02:18: CHECKPOINTING on a.db.new.#5# finished
+(END)
+
+
+_______________________________________________________________________
+
+
+
+The Case of the Real
+
+
+Nikuko watches you.
+You look at Basin.
+Porcelain with thick rim, minute cracks
+Contents:
+  Book
+Nikuko sees no "Book" here.
+I don't understand that.
+Perhaps you mean one of the following help topics: read.
+Nikuko watches you remove Book from Basin.
+Hieroglyph, soft and yielding to the touch
+Nikuko watches you put Book in Basin.
+You see Basin and lump.
+Do you squash lump?
+You squash lump squish lump you do
+Jennifer enters.
+Jennifer looks over your shoulder.
+Jennifer looks over Nikuko's shoulder.
+Jennifer sees Basin and lump.
+Jennifer looks at Basin.
+Porcelain with thick rim, minute cracks
+Contents:
+  Book
+Jennifer reads the Book.
+
+
+__________________________________________________________________
+
+
+
+count on me once you get one going
+
+0 zero. ... 00 zero. ... 000 zero. i'm going nowhere fast ... 0000 zero.
+... 00000 zero. ... 1 one. ... 11 eleven. ... 111 one hundred eleven. ...
+1111 one thousand. one hundred eleven. ... 11111 eleven thousand. one
+hundred eleven. i'm really zooming around ... 111111 one hundred eleven
+thousand. one hundred eleven. ... 1111111 one million. one hundred eleven
+thousand. one hundred eleven. ... 11111111 eleven million. one hundred
+eleven thousand. one hundred eleven. what an amazing terrific speed ...
+111111111 one hundred eleven million. one hundred eleven thousand. one
+hundred eleven. ... 1111111111 one billion. one hundred eleven million.
+one hundred eleven thousand. one hundred eleven. nikuko faster than light
+... 11111111111 eleven billion. one hundred eleven million. one hundred
+eleven thousand. one hundred eleven. ... 111111111111 one hundred eleven
+billion. one hundred eleven million. one hundred eleven thousand. one
+hundred eleven. nikuko's breath coming faster ... 1111111111111 one tril-
+lion. one hundred eleven billion. one hundred eleven million. one hundred
+eleven thousand. one hundred eleven. ... nikuko nikuko ... 11111111111111
+eleven trillion. one hundred eleven billion. one hundred eleven million.
+one hundred eleven thousand. one hundred eleven. ... 111111111111111 one
+hundred eleven trillion. one hundred eleven billion. one hundred eleven
+million. one hundred eleven thousand. one hundred eleven. ... 111111111111
+1111 one quadrillion. one hundred eleven trillion. one hundred eleven bil-
+lion. one hundred eleven million. one hundred eleven thousand. one hundred
+eleven. ... 11111111111111111 eleven quadrillion. one hundred eleven tril-
+lion. one hundred eleven billion. one hundred eleven million. one hundred
+eleven thousand. one hundred eleven. ... 111111111111111111 one hundred
+eleven quadrillion. one hundred eleven trillion. one hundred eleven bil-
+lion. one hundred eleven million. one hundred eleven thousand. one hundred
+eleven. ... 1111111111111111111 one quintillion. one hundred eleven quad-
+rillion. one hundred eleven trillion. one hundred eleven billion. one
+hundred eleven million. one hundred eleven thousand. one hundred eleven.
+... 11111111111111111111 eleven quintillion. one hundred eleven quadril-
+lion. one hundred eleven trillion. one hundred eleven billion. one hundred
+eleven million. one hundred eleven thousand. one hundred eleven. ...
+nikuko! nikuko! you're fisting me! you're fisting me! hi speed! hi speed!
+111111111111111111111 one hundred eleven quintillion. one hundred eleven
+quadrillion. one hundred eleven trillion. one hundred eleven billion. one
+hundred eleven million. one hundred eleven thousand. one hundred eleven.
+nikuko ... 1111111111111111111111 one sextillion. one hundred eleven
+quintillion. one hundred eleven quadrillion. one hundred eleven trillion.
+one hundred eleven billion. one hundred eleven million. one hundred eleven
+thousand. one hundred eleven. ... jennifer ...
+
+
+___________________________________________________________________________
+
+
+Ju1lu| /usr/games/number 
+
+How many Stars Shine on Tiny Jennifer's Hair?
+
+2349875754543457899873945987987600983458900654098456098476456890098866 *
+
+* Two million, three hundred forty nine thousand, eight hundred seventy
+five vigintillion, seven hundred fifty four novemdecillion, five hundred
+forty three octodecillion, four hundred fifty seven septendecillion, eight
+hundred ninety nine sexdecillion, eight hundred seventy three quindec-
+illion, nine hundred forty five quattuordecillion, nine hundred eighty
+seven tredecillion, nine hundred eighty seven duodecillion, six hundred
+undecillion, nine hundred eighty three decillion, four hundred fifty eight
+nonillion, nine hundred octillion, six hundred fifty four septillion,
+ninety eight sextillion, four hundred fifty six quintillion, ninety eight
+quadrillion, four hundred seventy six trillion, four hundred fifty six
+billion, eight hundred ninety million, ninety eight thousand, eight
+hundred sixty six.
+
+__________________________________________________________________________

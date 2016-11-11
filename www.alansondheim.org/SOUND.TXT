@@ -1,0 +1,261 @@
+                                       Alan Sondheim, sondheim@panix.com
+
+SOUND: Song
+
+
+1
+
+Barong
+
+1999 actovatong osa dma hang workarounds. calobratong delay loop... 689.77
+bogomops onotoalozong rt netlonk socket pco: pco boos revosoon 2.10 entry
+at 0xfa114 pco: probong pco hardware pco: usong confoguratoon type 1 posox
+conformance testong by unofox calobratong delay loop... 689.77 bogomops
+pco: pco boos revosoon 2.10 entry at 0xfa114 pco: usong confoguratoon type
+1: they were yosa, hanging workarounds in Bratong. after a delay, looped
+for close to 700 bogomops, ontology of the right netlonk socket created a
+revulsion of boos entering. some work of the pro-bong configuration, some
+were singing usong in coformance with testong by a singular fox. all this
+in Bratong, another delay for close to seven hundred bogomops once again,
+and once again the books and songs and once again the songs.
+
+
+2
+
+Report from the Conference
+
+A discussion on the interference of language in the real, the violence of
+proper names, the encoding of process, interval, space, and parable:
+
+Proper names, through contour-enhancement in the broadest sense possible,
+constituting entities from flux; it is this constitution that is the core
+of narrative, its origin. Language is the embodiment of narrative; as such
+it already constructs culture at the cost of the real. To say the uncon-
+scious is proto-linguistic is to say that occurrences are recognized and
+transformed into resistances. The noise of the world is translated into
+the parasitic; the parasitic, as a third element, modifies or forecloses a
+chain of events. Such chains are already a defense against this noise;
+language is homeostatic, defending itself. The world becomes known through
+its masquerade.
+
+Proper names are occurrences, uncanny in their relationship to the real;
+generic nouns are happenings, imaginary in their relationship. The former
+implies a logic of iconicity; the latter, indexicality. Consider the pro-
+per name an actant, foregrounded - the generic noun, as environment, back-
+grounded. There are dual logics of impediments and flows; these are fuzzy,
+occupying the two poles of thresholding logics. Generic nouns emerge out
+of non-distributivity, gestural logics; they appear as an encoding of en-
+hancements, just as proper nouns imply a decoding of language, a rupture
+of strata. Narrative is a succession of encodings and decodings; the power
+of narrative, its semantics, comes from the surplus of the latter, and the
+syntactical aspect, from the restrained economy of the former.
+
+Thus within and without the world, language, the real, and narrative are
+inextricably entwined, to the extent that any and all are thought; it is
+through the gaps of language that the real emerges with the idiocy of
+truth.
+
+
+3 
+
+My writing is dependent upon breath, interval, emptiness, and a hardened
+facticity always rendered problematic. The 'o' may be used as an opening
+against the 'I' or 'eye' both of which assert contours on the world. The
+world is gestural, noisy; I think of the murmur of the world, the back-
+ground. Hsun Tzu said "Music embodies an unchanging harmony, while rites
+represent unalterable rason. Music unites that which is the same; rites
+distinguish that which is different; and through the combination of rites
+and music the human heart is governed." (Watson translation.) My writing
+is dopondont EYEpon broIth, intorvIl, omptinoss, Ind I hIrdonod fIcticity
+IlwIys rondorod problomItic. Tho 'o' mIy bo EYEsod Is In oponing IgIinst
+tho 'I' or 'oyo' both of which Issort contoEYErs on tho world. Tho world
+is gostEYErIl, noisy; I think of tho mEYErmEYEr of tho world, tho bIck-
+groEYEnd. HsEYEn TzEYE sIid "MEYEsic ombodios In EYEnchInging hIrmony,
+whilo ritos roprosont EYEnIltorIblo rIson. MEYEsic EYEnitos thIt which is
+tho sImo; ritos distingEYEish thIt which is difforont; Ind throEYEgh tho
+combinItion of ritos Ind mEYEsic tho hEYEmIn hoIrt is govornod." (WItson
+trInslItion.)
+
+
+4
+
+Before there was the word, there was no beginning. Nikuko tried to think.
+She couldn't think. She didn't have time to think, and she itched. Nikuko
+scratched herself and flakes of skin fell into the water. They became
+Japan. Nikuko, thought, I will take a swim. Nikuko said, I am swimming,
+and her mouth filled with water. She spat it out and it became Lake Biwa.
+Did I just say something, said Nikuko. She thought, now I can say all
+sorts of things. Just as she thought that, all sorts of things appeared.
+They were grey until she said, What a colorful life. They were dark until
+she said, I wish it were sunny out. They were hot until she said, I wonder
+when it will snow, and they were too shiny until she said Good night.
+
+
+5
+
+Internal strings in section of rewritten chat program for emacs, talk
+about serious breathless thing,
+dor-$ moods dor-remember you felt] 4]) (defalias 'dor-fear #[nil "\303
+\304\305\306!!\210\307\310\311\312\313\n\257 !\207" [sent found feared
+dor-setprep dor-type dor-$ fears dor-remember you were afraid of] 6])
+(defalias 'dor-hate #[nil "\303 \304\305$\210\306 >\203 \307 \210\310
+\207\n\311\232\203 \312\313!\207\312\314!\207" [sent found subj dor-svo 1
+t not dor-forget dor-huh you dor-type (why do you (// verb) (// obj) \?)
+(($ whysay) (list subj verb obj))] 5]) (defalias 'dor-symptoms #[nil
+"\300\301!\207" [dor-type (($ maybe) you should make love with someone
+cooler\, i am so hungry for you \.)] 2]) (defalias 'dor-hates #[nil "\302
+\303\304$\210\305 \207" [sent found dor-svo 1 t dor-hates1] 5]) (defalias
+'dor-hates1 #[nil "\300\301!\207" [dor-type (($ whysay) (list subj verb
+obj))] 2]) (defalias 'dor-loves #[nil "\302 \303\304$\210\305 \207" [sent
+found dor-svo 1 t dor-qloves] 5]) (defalias 'dor-qloves #[nil
+"\300\301!\207" [dor-type (($ bother) (list subj verb obj) \?)] 2])
+(defalias 'dor-love #[nil "\306 \307\310$\210\311 >\203 \312 \210\313
+\207\314 >\203 \315 \207\n\316\232\203$ \317 \320\232\203? \f\211
+\321\232\203; \322 \312 \210\323\324!\207\323\325!\207 \326\232\203I
+\327\330!\207\312 \210\331 \332 \333\" \334 \207" [sent found object subj
+obj lover dor-svo 1 t not dor-forget dor-huh to dor-hates1 something (this
+person you love) you (this person you love) (your partner) dor-type (with
+whom are you in love \?) (($ please) ($ describe) ($ relation) (// lover)
+\.) i dor-txtype (you were being fondled!) someone dor-build s dor-qloves
+verb] 6]) (defalias 'dor-mach #[nil "\301 \302\303\304!!\207" [found
+dor-plural dor-type dor-$ machlst] 3]) (defalias 'dor-sexnoun #[nil "\300
+\207" [dor-sexverb] 1]) (defalias 'dor-sexverb #[nil "\301 >\204 \302
+>\204 \303 >\203 \304 \207\305\306\307!!\207" [sent me myself i dor-foul
+dor-type dor-$ sexlst] 3]) (defalias 'dor-death #[nil " \203\n
+\303\304\305!!\207 \306\232\204\" \307\232\204 \310\232\203( \311\n>\203(
+\312 \303\313!\207\303\304\305!!\207" [suicide-flag found sent dor-type
+dor-$ deathlst suicide kill killing yourself t (If you are really
+suicidal\, you might want to write me \. ($ please) ($ continue) \.)] 3])
+(defalias 'dor-foul #[nil "\300\301\302!!\207" [dor-type dor-$ foullst]
+
+
+6
+
+Nikuko invented the syllabic script; Izanagi threw it away. Nikuko inven-
+ted the wheel; Izanagi rolled it out of site. Nikuko gave fire to humans;
+Izanagi stole the flames. Nikuko invented clothing; Izanagi tore it into
+shreds. Then Nikuko invented all the kanji, a myriad of signs; Izanagi was
+overwhelmed. What can I do with them, he said, There are so many, they
+will prove useless to men. But men read and reread the kanji, memorizing
+each and every one, and out of the shapes of the signs arose the wheel,
+fire, and clothing. Only the syllabic script remained behind, nurtured in
+the lives of women, always a chance, in this or any other worlds, of sub-
+verting, replacing, the kanji. Thus was hiragana born, as a reminder that
+invention and memory can reside, not only in the signs themselves, but
+also in the spaces between them.
+
+
+7
+
+Nikuko and Izanagi were at Kirishimayama, walking among the mountain
+paths. Izanagi said to Nikuko, Who will write your parables? Nikuko
+replied, It does not matter, there are none about how the Leopard got his
+spots. Are there no female Leopards, asked Izanagi. Yes, replied Nikuko,
+but the blemish clothed the male. Izanagi said, But who will write your
+parables? Nikuko said, There are not enough things in the world for
+parables. What would you have, Izanagi asked. More explanations, replied
+Nikuko, as if causes had effects, and effects had causes. So parables lie,
+said Izanagi, since they imply causes and effects tied together, as men
+and women are tied in procreation. Exactly, replied Nikuko, the binding of
+parables makes causes and effects, and out of these men and women thrive,
+and make culture. What they do then, asked Izanagi? Forget both of us
+after a while, replied Nikuko; and they continued on their way.
+
+
+8
+
+Nikuko and Izanagi continued south. They approached an elderly man talking
+to his sister, and they stopped to listen. The man said, I remember when
+you were little, how we saw the world differently, spoke differently, how
+everything seemed so fresh and new. The woman replied, Why must we always
+remember; it hurts so, to have something so close, yet out of touch for-
+ever, just the tiniest sound we might have made years ago. Nikuko said to
+Izanagi, See, they are sad, having such memories; such is the fate of men
+and women. Izanagi replied, They're remembering nothing; they're making it
+up as they go along.
+
+
+9
+
+Nikuko and Izanagi were walking down from Aso-san near the Sanjo shrine,
+when they came to a gate in the road. It was of unusual construction,
+tall, almost like a torii. It was hinged and barred with an image of the
+sun in the center. Sun or moon, what's the difference, said Nikuko, this
+is a machine for capturing goryo, spirits of the dead; they cycle in and
+out of this world, flickering between the sun and moon. How does it work,
+asked Izanagi. Nikuko replied, They mistake the sign for the thing itself
+- they expect space, but are confronted with iron. They walked around the
+gate, and continued down the steep road, the volcano fuming behind them.
+
+*i.e. the kanji for ma, space, is a gate with a sun in the center; previ-
+ously, a moon would do as well.
+
+
+10
+
+They were walking near Kokura. Who will listen to us, said Nikuko, and how
+will they listen. Izanagi replied, by the sound of the breeze and whispers
+in dreams. Nikuko said, That is absurd, only what the poets say. Izanagi
+thought for a moment and asked, Do you have a better idea. They'll go the
+crazier for it, said Nikuko, no one will believe them, better to talk just
+like they do, out loud with as much noise as possible, when they're awake
+and the air is still. We can't let them miss a thing, laughed Izanagi,
+we're so important. What did you say, said Nikuko. They boarded the ferry
+to Nagato, still talking away.
+
+
+11
+
+you call them what the addict is, the beginning and middle and end of the
+smaller stories, the crying for the end of the smaller stories and another
+beginning and another end, call these the smaller :the elderer do tell to
+the child who do remember all that she has been told the elderer do tell
+to the child who do remember all that he has been told the elderer: thus
+we move into darkerer spaces, do we not, in this darkerer world, where
+shall one gather against the smaller stories told to us by elders:tales:
+legends thus we move into darkerer spaces, do we not, in this darkerer
+world, where shall one gather against the smaller stories told to us by
+elders transforms your you call them what the addict is, the beginning and
+middle and end of the smaller stories, the crying for the end of the
+smaller stories and another beginning and another end, call these the
+smaller on me... ah getting with one another, legends and tales and tales
+and legends
+
+
+13
+
+And, just the tiniest sound we might have made years ago. Nikuko said,
+will they listen. Izanagi replied, by the sound of the breeze and whispers
+and music the human heart is governed. My writing transformed into resis-
+tances. The noise of the world is translated into chain of events. Such
+chains are already a defense against this noise; like they do, out loud
+with as much noise as possible, when they're awake and world is gestural,
+noisy; I think of the murmur of the world, the background 23 grep sound
+sound 24 grep sound sound > zz 25 grep hear hear >> zz 26 grep hear sound
+>> zz 27 grep voice sound >> zz 29 grep music sound >> zz 30 grep noise
+sound >> zz 31 grep murmur sound >> zz
+
+
+14
+
+"list:; syntax illegal for recipient addresses"
+R<@ $+>                 $#error $@ 5.1.1 $: "user address required"
+R$* <$* : $* > $*       $#error $@ 5.1.1 $:
+ "colon illegal in host name part"
+R$* < @ . > $*          $#error $@ 5.1.2 $: "invalid host name"
+R$* < @ [ $+ ] > $*     $: $>98 $1 < @ [ $2 ] > $3
+ numeric internet spec
+R$* < @ [ $+ ] > $*     $#smtp $@ [$2] $: $1 < @ [$2] > $3
+ still numeric: send
+R$* < @ > $*            $@ $>97 $1              user@ => user
+R< @ $=w . > : $*       $@ $>97 $2              @here:... -> ...
+R$- < @ $=w . >         $: $(dequote $1 $) < @ $2 . >   dequote "foo"@here
+R$* $=O $* < @ $=w . >  $@ $>97 $1 $2 $3                ...@here -> ...
+R$*                     $: $>98 $1
+R$=L < @ $=w . >        $#local $: @ $1         special local names
+R$+ < @ $=w . >         $#local $: $1                   regular local name
+
+
+
+
+__________________________________________________________________________

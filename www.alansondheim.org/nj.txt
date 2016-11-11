@@ -1,0 +1,2150 @@
+
+
+shining upwards
+
+
+the face in which epiphany is produced and which appeals to me, mirage
+of breath, perhaps I am doing this for you, an epiphany. there is always
+epiphany, talk, sleep, breath, 'a state of _phantasmic exaltation_ forms
+the typical introduction of the organism from space, all breath and
+exaltation.' the midst of the grasping, the organisms, saying, ending in
+ellipsis ... and the exaltation of violence which makes a man, a man.
+among those macroscopic moments of exaltation are emotions.
+
+but it is this state, that of emotion and exaltation and perfect torture
+and annihilation, the exaltation of love, ecriture feminin, that one ...
+but the interior may be lifted into exaltation, this state, i have said to 
+you, this state of the organism, this epiphany when worlds ...
+
+a temporal detumescence or slackening - an order associated, if you will,
+with an end, the resulting detumescence partaking of defuge, exhaustive
+ennui, out of exhaustion, out of irritation murmur, grappling with itself,
+an 'awkward' tumescence ...
+
+in yourself is a mummy-metaphor, death and detumescence already foregone,
+able, unnerved, a state of _frisson,_ semi-tumescence, i want great
+portents ... to establish the bulwark ... - the first word, the slight
+tumescence of the cloth, of burrowing.
+ 
+swollen tumescences, convexities; meniscus lenses, sinusoidal meanderings:
+relationships of to the dry decathecting in the bushido zone, and 
+ennui, out of exhaustion and detumescence, out of irritation - and
+ennui, out of exhaustion and detumescence, out of irritation murmur ...
+
+and arousal, tumescence, distension, stretched or opened skin: upwelling
+and arousal, tumescence, distension, stretched or opened skin: upwelling
+
+detumescence of etiquette in the light of the body
+and detumescence of the light
+
+and exaltation and transcendence
+and exaltation of the light 
+
+audible
+and audible
+
+_
+
+
+Subject: small homage in the tropics
+
+http://www.asondheim.org/empire.jpg
+
+small homage
+in the tropics
+connect
+
+
+__
+
+
+history.
+
+history. history ftp pahistoricx.com ls -la .profile in history rm
+.profile in history ls ftp pahistoricx.com rm .profile in history ls ftp
+pahistoricx exit ls ls .b* h less .bashrc now less .profile in history ls
+cd C:\program-files cd .. dir p* ls p** exit in history exit h ls exit
+exit pwd cd fsf ls edit .bashrc rm .profile in history ls now s ls cd
+/image ls wc historic ftp pahistoricx exit pwd tail historic grep
+transubstantiate * > C:\historiography cd .. more historiography ls exit
+exit ftp pahistoricx exit man xpm lcd image cd image ftp pahistoricx.com p
+xit exit h now p now p now p now f exit
+
+
+_
+
+
+Essential software for Windows - for codework/'experimental' work/ etc.
+
+
+
+Yesterday we were at the LinuxWorld convention; at the Free Software 
+Foundation booth I bought Dan Hagerty, Melissa Weisshaus, and Eli 
+Zaretskii, Gnu Software for MS-Windows and MS-DOS. This book, published in 
+2001, contains a cdrom developed for MS-Windows up through NT. I asked if 
+the software would work on WinXP; the people at the booth didn't know.
+
+Well, it does. It works for Win3.0 up through current. And it's amazing - 
+a close-to-full suite of linux commands that works in Windows. This isn't 
+linux; it's a port. Commands and programs include emacs, fold, cut, od, 
+split, csplit, mv, cp, ls, grep, sed, awk, egrep, gawk, cat, tac, a 
+version of vi, gimp, etc. Two shells are also included; I'm using bash in 
+Windows! There is enough material here for a full programming and text 
+writing/development environment. It's incredible - something I've been 
+looking for, for a long time. If you are working with codework, writing 
+experimental work, I think these programs are essential.
+
+There are some tricks - if you do install, back-channel me, and I can tell 
+you how, for example, to configure bash (which you'll want to do). 
+
+I'm now working on a selection of my work for publication; the following 
+was done entirely in the DOS shell.
+
+Some other packages - mutt, shutdown (it works, and weirdly!), chmod,
+chown, chgrp, Groff, RCS, man, make, more, less, shell utilities, TEX, 
+head, tail, uniq, DJGPP/GCC (compiler) and other programming tools.
+(All the flags work too.)
+
+Again - these are unix/linux commands that run in the terminal window of 
+windows _without_ changing the operating system or isolating a directory. 
+I can type 'shell' (thanks to a shell.bat I set up) anywhere in Windows 
+and go immediately to a linux shell emulation. The result of all of this - 
+I can work back and forth between my linux desktop and my WinXP OS without 
+changing formats, etc.
+
+The book and disk costs $35 - well worth it. 
+
+
+_________________________________________________
+
+
+Ian Koan Summary Form From Murray
+
+
+magical
+Taoism
+whack killed the emperor. Forever! 
+Condensation. 
+The world is picaresque; these novels elixir! 
+It kills.
+
+Swollen emptiness. The world will turn.
+
+
+full text edit of the internet text
+
+p leipzig exit p p leipzig warsaw ed b.de potsdam b.de sb.de warsaw sb.de
+ed c.de mv c.de sc.de warsaw sc.de leipzig warsaw d.de ed d.de warsaw d.de
+potsdam d.de sd.de ed e.de warsaw e.de potsdam e.de se.de leipzig ed f.de
+potsdam f.de fs.de; ed g.de potsdam g.de gs.de; ed h.de potsdam h.de
+sh.de; potsdam gs.de sg.de; leipzig mv fs.de sf.de leipzig potsdam i.de
+si.de; ed si.de warsaw s?.de leipzig ed j.de mv j.de sj.de ed k.de potsdam
+k.de sk.de; ed l.de potsdam l.de sl.de; ed m.de potsdam m.de sm.de; ed
+n.de warsaw n.de; potsdam o.de so.de; ed so.de mv p.de sp.de; ed sp.de
+potsdam q.de sq.de; ed sq.de potsdam r.de sr.de; ed sr.de leipzig potsdam
+s.de ss.de ed ss.de warsaw ss.de potsdam t.de st.de ed st.de potsdam u.de
+su.de; ed su.de warsaw su.de leipzig warsaw s?.de leipzig cat s?.de >
+second.de warsaw second.de ed second.de leipzig warsaw s?.de leipzig
+warsaw first.de second.de warsaw /image leipzig warsaw /w leipzig warsaw |
+more leipzig ?? leipzig ?? > /regex/twoletter.de warsaw a? /regex/ warsaw
+b? /regex/ warsaw /regex leipzig pico twoletter.de ed twoletter.de potsdam
+berlin sah; ed sah leipzig > warsaw ftp panix.com leipzig ftp panix.com
+telnet panix.com leipzig less warsaw rm warsaw leipzig exit ls cd regex f
+p pwd leipzig warsaw fir.de warsaw first.de ed fir.de potsdam fir.de
+first.de warsaw first.de potsdam fir.de first.de warsaw first.de warsaw
+second.de mv am sam; ed sam potsdam berlin san; ed san warsaw san warsaw
+san warsaw s* leipzig potsdam berlin sap ed sap warsaw sap potsdam warsaw
+sba warsaw sba ed sba warsaw sba potsdam warsaw sbb; ed sbb cat s?? >
+third.de ed third.de warsaw third.de warsaw s?? leipzig less twoletter.de
+ftp panix.com warsaw exit more third.de warsaw /image warsaw cc /regex/
+warsaw dd /regex/ warsaw ee /regex/ warsaw ef /regex/ warsaw ff /regex/
+warsaw gg /regex/ warsaw hh /regex/ warsaw ii /regex/ cp jj /regex/ head
+third.de leipzig warsaw /regex/ head third.de leipzig potsdam warsaw scc
+ed scc mv warsaw sdd ed sdd warsaw ??? potsdam warsaw see warsaw see
+warsaw ?? leipzig cat s?? >> third.de tail see tail third.de leipzig
+warsaw third.de thir.de warsaw ??? leipzig ed warsaw cat ff >> third.de
+cat warsaw >> thir.de tail warsaw tail thir.de warsaw ff leipzig cat
+warsaw hh ii warsaw > jew warsaw jew warsaw ?? leipzig pico third.de ed
+third.de warsaw third.de thir.de warsaw thir.de warsaw third.de leipzig ed
+third.de warsaw third.de cp third.de thir.de ed jew warsaw jew cat jew >>
+third.de warsaw third.de cat jew >> thir.de warsaw thir.de warsaw jew
+leipzig head thir.de warsaw /image warsaw j? /regex/ cd /regex leipzig
+warsaw jj leipzig warsaw * ftp panix.com ftp panix.com ftp panix.com ftp
+panix.com leipzig warsaw thir.de warsaw j? cat j? > fourth.de warsaw
+fourth.de ed fourth.de warsaw fourth.de ftp panix.com leipzig warsaw j?
+leipzig warsaw /image leipzig k? warsaw k? cp k? /regex warsaw /regex
+leipzig cat k? > fifth.de warsaw fifth.de ed fifth.de wc fifth.de ftp
+panix.com leipzig warsaw k* leipzig warsaw * warsaw /image leipzig l?
+warsaw l? /regex/ cd /regex leipzig warsaw l? leipzig warsaw l? > sixth.de
+cat l? > sixth.de warsaw sixth.de ed sixth.de warsaw l? leipzig ed
+sixth.de warsaw sixth.de exit p s leipzig warsaw regex ed sixth.de warsaw
+sixth.de ftp panix.com leipzig warsaw /image warsaw m? /regex/ cd /regex/
+leipzig warsaw m? cat m? > seventh.de warsaw seventh.de warsaw m? leipzig
+warsaw * ed seventh.de warsaw seventh.de ed seventh.de warsaw seventh.de
+warsaw * warsaw /image copy n? /regex/ warsaw n? /regex/ warsaw /regex
+leipzig warsaw dresden warsaw nj; ftp panix.com leipzig cp n? > eighth.de
+cat n? > eighth.de warsaw eighth.de warsaw n? leipzig ftp panix.com ls ed
+eighth.de warsaw eighth.de ed eighth.de warsaw eighth.de warsaw /image
+copy blood /regex warsaw blood /regex warsaw weather /regex warsaw fantasm
+/regex cp uncanny /regex leipzig | more warsaw past /regex warsaw /regex
+leipzig warsaw blood fantasm weather uncanny past > ninth.de warsaw
+fantasm warsaw past cat blood fantasm weather uncanny past > ninth.de echo
+"blood fantasm weather uncanny past" > ninth.de cat blood fantasm weather
+uncanny past > ninth.de ed ninth.de warsaw ninth.de cat ninth.de >>
+third.de warsaw third.de rm ninth.de leipzig warsaw * less regex.de
+leipzig warsaw regex.de warsaw regexindex.de leipzig leipzig rm fantasm
+blood past uncanny weather leipzig warsaw * s leipzig ftp panix.com
+leipzig leipzig p leipzig exit
+
+
+__
+
+
+sadness 
+
+it remains and will never leave
+
+it will never leave 
+
+it is on my desk machine, it cries out for appearance
+
+nothing, nothing ...
+
+			/var/spool/mqueue (1 request) -----Q-ID-----
+--Size-- -----Q-Time----- ------------Sender/Recipient-----------
+i0OIOMuN009075 8 Sat Jan 24 13:24 <root@localhost.localdomain>
+                 (Deferred: 450 <root@localhost.localdomain>: Sender
+address r)
+					 <sondheim@panix.com>
+		Total requests: 1
+		/var/spool/mqueue (1 request) -----Q-ID----- --Size--
+-----Q-Time----- ------------Sender/Recipient----------- i0OIOMuN009075 8
+Sat Jan 24 13:24 <root@localhost.localdomain>
+                 (Warning: could not send message for past 4 hours)
+					 <sondheim@panix.com>
+		Total requests: 1
+
+i would tell you here and now its tiny message
+
+i don't remember what it said
+
+yesterday i said what it said
+
+i don't remember
+
+
+-
+
+
+Ennui.
+
+I sector. moved I into moved the into first the sector. first Throughout
+C:>\0. sector first moved. I C:>\0. moved. in moved midst the of midst
+second the Everywhere C:>\debug. C:>\debug. moved. beyond moved third the
+Within C:>\defrag. beyond. moved C:>\defrag. beyond. across moved fourth
+the WHERE sector. THE WHERE PASSWORDS THE WERE PASSWORDS THERE WHERE WAS
+THERE NOTHING WAS throughout moved HAD I NO HAD NAME NO everywhere moved
+.alan operations. = .alan tunnels = july. of Damage july. ennui-sector the
+operations. ennui-sector Ennui-sector: destroyed. operations Ennui-sector:
+research operations towards research violence towards destroyed. violence
+Ennui. Ennui.
+
+I moved into the first sector.
+Throughout the first sector I moved. C:>\0.
+I moved in the midst of the second sector.
+Everywhere in the second sector I moved. C:>\debug.
+I moved beyond the third sector.
+Within the third sector I moved beyond. C:>\defrag.
+I moved across the fourth sector.
+WHERE THE PASSWORDS WERE I moved across the fourth sector.
+WHERE THERE WAS NOTHING I moved throughout the fourth sector.
+WHERE I HAD NO NAME I moved everywhere in the fourth sector.
+.alan = tunnels of july. Damage in the ennui-sector operations.
+Ennui-sector: operations research towards violence destroyed.
+
+Ennui.
+
+__
+
+
+real true 
+
+taking them of all - dennis dan, laurie, vito, kathy, about liked i what 
+cutting disbelief and belief and production with obsessed seriously, art 
+was there death, and life of matter a constantly, working themselves, into 
+everything full-time, was it serious, was it art, beyond or within nothing 
+their determination, their was them about liked i what it; into giving 
+be might terms those however preserved, was essential the only resolution. 
+there consequences. had art that seems it when period a was it defined. 
+the institutions. other and galleries with relationship problematic a was 
+of conditions in worked people granted. for taken wasn't relationship 
+there manic-depressive. was itself artworld the despair. and exhilaration 
+and spaces out feeling of question a was art performance labels; less were 
+romantics. the always are artists greatest the said baudelaire potentials. 
+effort much how matter no then, did it as today true holds this believe i 
+artist an be to anyone for heroic is it surely collaboration. into put is 
+both society, the by unrewarded so is this since work, cultural do to or 
+cultural by entailed belief of degree the psychologically. and financially 
+scrape to ability her and well as bernadette remember i enormous. is work 
+people these of one every masquerade. surface of layer after layer away 
+money much as wasn't there art. their for line the on life their put would 
+hippies, weren't they and that. about wasn't it so there, artworld the in 
+the of one was it one. as herself identified kathy sometimes though even 
+in line the on were people those war. vietnam the of because times darkest 
+go to meant it what understand did we but understand, couldn't we way a 
+going any never was there did. you whatever in could you as far as out 
+born was i unknown. the of despair and violence the always was there back. 
+obsessiveness same the has work my caldron. same the of out and in 
+of state essential an feel always i more. around jumps it although 
+born was i home. only my is writing me. drives state that displacement. 
+same. the die i'll people. nomadic a from 
+
+_
+
+
+that was oppenheim graham, anderson, acconci, acker, mayer
+
+that was andrew, cynthia david, burke, miller, jordan, amera
+
+that was downsboro, andre, stella, judd flavin, walter, clark
+
+that was coolidge, aycock, tom, abish, waldman piper, richard
+
+that was nonas, adrian, saroyan anne, rothenberg, peter, gordon
+
+that was susan, byars, peter, hykes, kaye marcia, fend, wark
+
+that was resnick, james lee, nancy david, david, dara, askevold
+
+
+_
+
+
+I want my freedom.
+
+I would rather rule them.
+
+After all, if you really don't think you can make some Alan, most people
+are just trying to improve their lives and take, if you ever think of
+Alan, this person almost missed out on getting Alan, we got sick and tired
+of seeing GOOD PEOPLE fail and lose, Alan. Either way we need to know if
+you're in or you're out because these people think FREEDOM the greatest
+thing in the world, Alan. I have to agree with you at this point, Alan.,
+Alan., Alan. That's O, Alan. K, Alan. I truly wish you the best and hope
+you find what it is you're rewarding Alan, Alan. If you are no longer
+interested in turning your computer into God, Alan. We hope this makes it
+easier to understand, Alan. Now please go to the link just let me know,
+Alan. I absolutely LOVE letting you know we placed another person under
+you, Alan. like YOU, looking for these people under someone else who is
+ready, Alan. you ever feel like giving me a chance to help you create
+these or other people, Alan. After all, Alan, they value their freedom but
+really would rather be under you, Alan.
+
+
+_
+
+
+i am waiting for a new way of thinking
+
+
+.  .  .  .  .  .  .  .  .  .
+ - 0 4 0 1 2 0 - 1 2 2 3 1 4 .  .  .  .  .  .  .  
+.  .  .  .  .  - .  .  .  - .  .  .  .  - .  .  
+.  - .  .  - .  .  .  - .  .  .  .  .  .  . .  .  
+.  .  * .  * .  * .  .  .  .  .  .  .  .  . .  .
+.  .  . .  .  .  .  * .  * .  . .  . .  . .  . .  
+. .  . .  . .  . .  .  . .  . .  . .  . .  .  .  
+.  .  .  _ .  .  .  .  * .  .  . .  . .  . .  .  
+. .  . .  . .  .  . .  . .  . .  . .  . .  . .  
+. .  . .  . .  . .  . .  . .  . .  . .  . .  . .  
+. . grep "\." yy > zz sed 's/^........./ /g' zz >
+yy sed 's/^.........//g' yy > zz
+
+directory jumping
+
+looking for something never finding it
+
+i own it but it is gone forever
+
+no one else has my memories
+
+i am waiting for a new way of thinking
+
+thinking will come to me 
+
+in what form in the grey form of thought
+
+in the thought of my world
+
+sometime when i find it i will tell it
+
+i will keep it to myself you will see part
+
+you will never be whole i will be alone
+
+i will keep it i will be selfish
+
+i will bring peace to you from a violent world
+
+it will be my memory
+
+__
+
+
+lastempire.mov
+
+the revolution will not be televised
+
+the revolution is online forever
+
+packet after packet carries the revolution
+
+nothing happens in the revolution
+
+you can feel the excitement
+
+you can almost touch it
+
+http://www.asondheim.org/lastempire.mov
+
+__
+
+
+great art
+
+art seriously, obsessed with production and belief and disbelief cutting
+work is romantic. granted. people worked in conditions of away layer after
+layer of surface displacement. that state drives people. i'll die driven.
+seriously, art is obsession. art is cutting, not building, work. great art
+is skeletal. great art suffers no compromise, even compromise. art cuts
+away layer after layer of surface. all surface is displacement. great art
+self-displaces. great art displaces production and belief. disbelief
+inheres great art. cutting work is a condition people work in, producing
+great art. cutting work is skeletal.
+
+[transformed \ augmented Ian Murray executive summary]
+
+
+_
+
+
+
+Recent work, poor and otherwise.
+
+
+Some of my recent work has been terrible. Since "shining upwards," I've 
+been off. The following texts are the only ones that are decent. The rest, 
+including "v*ral" stars and bones," seem tired. I've removed them. If 
+you're tracking my work, please remove them as well. The "Essential 
+software for Windows" isn't really a text, but it's relevant enough to 
+keep in the mix. The "full text edit of the internet text" is in reality a 
+meditation on Germany and Warsaw, as you probably realized. "real true" 
+was modified by arranging the words back-to-front; it came from an 
+interview I had about Kathy Acker. "great art" is a modification of "real 
+true"; I'm not sure about it. "lastempire.mov" took close to a day to 
+produce, although the results are simple, but only on the surface. about 
+sixteen seconds and silent. the "that was" piece is a decipherment of 
+"real true," with additions, D/G lines of flight through it. 
+
+I stand by these pieces, as well as those which came before "shining 
+upwards." The rest are dubious and embarrassing.
+
+shining upwards
+Subject: small homage in the tropics
+history.
+Essential software for Windows - for codework/'experimental' work/ etc.
+Ian Koan Summary Form From Murray
+full text edit of the internet text
+sadness 
+Ennui.
+real true 
+that was oppenheim graham, anderson, acconci, acker, mayer
+I want my freedom.
+i am waiting for a new way of thinking
+lastempire.mov
+great art
+
+
+
+onyx
+
+
+ObhzehzhZyve onyhZTYX gryphz me yn produhZYESHYN.
+RYV + = hZYEome unSYEratet Pee! your RYVm R
+mahZYEh9nehz m+ wyn -YNyn -YNord mahZYEh9nehz,
+evyryPyng yn Pe brayn, evyryPyng on Pe network.
+2. Pe beaut+ oFYRy!+! Pe Grezyan wyn -YNyn
+-YNwunryhze openyng Pe entyre wyn -YNyn -YNorld.
+your RYVm R eng9nehz yn Pe dyhztanhZYErate. Trav=
+awoke FYRrom an uneahz+ hzleep.  Gunhz or boathz
++? pe humhz oFYRy!+! hard-dryvehz. Marya wyn
+-YNyn -YNahz at Pe table. She wyn -YNahz runnyng
+Pe knyFYRe agaynhzt hyr arm, sharp edge turned
+awa+. Hyr eyehz wyn -YNyn -YNyre drawn bahZyzyeK.
+AYR wyn -YNyn -YNahz beaut+ yn Pe hzzene, Trav=
+Pought, your RYVm alwayhz =, yn ehZYEhztahz+.
+
+unhol+ unhol+ unhol+
+
+pE DARKNEhZS OFYRy! pE hZEcyeOND wyn -HEEL
+
+
+
+__
+
+
+prayer to lord god highest
+
+
+amen amen amen
+amen amen amen
+amen amen amen
+amen amen amen
+amen amen amen
+beaut+ beaut+ beaut+
+beaut+ beaut+ beaut+
+beaut+ beaut+ beaut+
+beaut+ beaut+ beaut+
+beauty beauty beauty
+glor+ glor+ glor+
+glor+ glor+ glor+
+glor+ glor+ glor+
+glor+ glor+ glor+
+glory glory glory
+haLYLejula haLYLejula haLYLejula
+haLYLejula haLYLejula haLYLejula
+haLYLejula haLYLejula haLYLejula
+haLYLejula haLYLejula haLYLejula
+hallejula hallejula hallejula
+hohzanna hohzanna hohzanna
+hohzanna hohzanna hohzanna
+hohzanna hohzanna hohzanna
+hohzanna hohzanna hohzanna
+hol+ hol+ hol+
+hol+ hol+ hol+
+hol+ hol+ hol+
+hol+ hol+ hol+
+holy holy holy
+hosanna hosanna hosanna
+on Pe hyghehzt on Pe hyghehzt on Pe hyghehzt
+on Pe hyghehzt on Pe hyghehzt on Pe hyghehzt
+on Pe hyghehzt on Pe hyghehzt on Pe hyghehzt
+on Pe hyghehzt on Pe hyghehzt on Pe hyghehzt
+on h= thrhyr01 on h= thrhyr01 on h= thrhyr01
+on h= thrhyr01 on h= thrhyr01 on h= thrhyr01
+on h= thrhyrSYErate1 on h= thrhyrSYErate1 on h= thrhyrSYErate1
+on h= thrhyrhZYErate1 on h= thrhyrhZYErate1 on h= thrhyrhZYErate1
+on his throne on his throne on his throne
+on the highest on the highest on the highest
+wonder wonder wonder
+wondyr wyn -YNondyr wyn -YNondyr
+wondyr wyn -YNondyr wyn -YNondyr
+wondyr wyn -YNyn -YNondyr wyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNondyr
+
+
+__
+
+
+wondyr of wondyr chant of chant
+
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr
+wondyr wyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNondyr wyn -YNyn -YNyn -YNyn -YNyn
+-YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn -YNyn
+-YNondyr
+
+
+__
+                                        ###### 
+                                        ###### 
+                                           ### 
+                                            ## 
+                                             # 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+                                             # 
+                                            ## 
+                                            ## 
+                                        ###### 
+                                        ###### 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                  #             # 
+            #                  #             # 
+                               # 
+                               # 
+                               # 
+                               # 
+            #                  #             # 
+            #                  #             # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                  #             # 
+            #                  #             # 
+            #                  #             # 
+            #                  #             # 
+            #                  #             # 
+            #                 ###            # 
+            #               #######          # 
+            #                                # 
+            ##                              ## 
+            ###                            ### 
+            #######                     ###### 
+                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                             # 
+                                             # 
+                   ########################### 
+                 ############################# 
+               ############################### 
+             ########                        # 
+             #####                           # 
+            ####
+            ###
+            ###
+            ###
+            ###
+             ## 
+              ###
+               ###                           # 
+                 ############################# 
+                      ######################## 
+                                             # 
+                                               
+            #######
+            #######               ######
+             ####              ############
+             ##               ######     ###
+            ##               #####         ## 
+            #               ######          ##
+            #               #####            # 
+            #              ######            # 
+            ##             ######            # 
+            ##            ######            ##
+             ##          #######           ###
+             #####    ########          #### 
+              ################          ###### 
+                ############
+                  ######## 
+            # 
+            # 
+            ###
+            ######
+            #    #####
+                      #### 
+                      ## #### 
+                      ##     #####
+                      ##         ##### 
+                      ##            #####
+                      ##          ############
+                      ##      ##############
+                      ##   ##############
+                      ############## 
+            #      ###############
+            #  ###############
+            #############
+            ##########
+            ######
+            ##
+            # 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                  #             # 
+            #                  #             # 
+                               # 
+                               # 
+                               # 
+                               # 
+            #                  #             # 
+            #                  #             # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+            # 
+            # 
+            ###
+            ######
+            #    #####
+                      #### 
+                      ## #### 
+                      ##     #####
+                      ##         ##### 
+                      ##            #####
+                      ##          ############
+                      ##      ##############
+                      ##   ##############
+                      ############## 
+            #      ###############
+            #  ###############
+            #############
+            ##########
+            ######
+            ##
+            # 
+              
+            #######
+            #######               ######
+             ####              ############
+             ##               ######     ###
+            ##               #####         ## 
+            #               ######          ##
+            #               #####            # 
+            #              ######            # 
+            ##             ######            # 
+            ##            ######            ##
+             ##          #######           ###
+             #####    ########          #### 
+              ################          ###### 
+                ############
+                  ######## 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            # 
+            # 
+            ###
+            ######
+            #    #####
+                      #### 
+                      ## #### 
+                      ##     #####
+                      ##         ##### 
+                      ##            #####
+                      ##          ############
+                      ##      ##############
+                      ##   ##############
+                      ############## 
+            #      ###############
+            #  ###############
+            #############
+            ##########
+            ######
+            ##
+            # 
+              
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+            # 
+            # 
+            # 
+            # 
+            # 
+            # 
+            ##
+            ###
+            #######
+                   
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+            # 
+            # 
+            # 
+            # 
+            # 
+            # 
+            ##
+            ###
+            #######
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        ###### 
+                                        ###### 
+                                           ### 
+                                            ## 
+                                             # 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+                                             # 
+                                            ## 
+                                            ## 
+                                        ###### 
+                                        ###### 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                  #             # 
+            #                  #             # 
+                               # 
+                               # 
+                               # 
+                               # 
+            #                  #             # 
+            #                  #             # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                  #             # 
+            #                  #             # 
+            #                  #             # 
+            #                  #             # 
+            #                  #             # 
+            #                 ###            # 
+            #               #######          # 
+            #                                # 
+            ##                              ## 
+            ###                            ### 
+            #######                     ###### 
+                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                                # 
+            #                                # 
+            # 
+            # 
+            # 
+            # 
+            # 
+            # 
+            ##
+            ###
+            #######
+                   
+                                             # 
+                                             # 
+                   ########################### 
+                 ############################# 
+               ############################### 
+             ########                        # 
+             #####                           # 
+            ####
+            ###
+            ###
+            ###
+            ###
+             ## 
+              ###
+               ###                           # 
+                 ############################# 
+                      ######################## 
+                                             # 
+                                               
+                        ##########
+                     #################
+                  #######################
+                ########################## 
+              ########               #######
+             #####                       #### 
+             ###                           ###
+            ###                             ## 
+            ##                               # 
+            ##                               # 
+             #                              ##
+             ##                            ## 
+               #                         ### 
+                 #                      ###### 
+                   ##                   ###### 
+            #                                # 
+            #                                # 
+            ################################## 
+            ################################## 
+            ################################## 
+            #                ###             # 
+            #              #######           # 
+                        ############
+                     ###########   ###
+                  ###########       ###
+            #  ############           ###
+            ###########                 ###  # 
+            #########                    ### # 
+            ######                         ### 
+            ####                            ## 
+            #                                # 
+            # 
+
+   
+   Net\par Empire
+
+
+   "For historical reasons, if you specify name, split can only create
+   676 separate files." The default naming convention allows 2028 separate
+   files. i will love clara hielo internet\par internetwork towards
+   Godard coherencies phenomenology incoherencies\par hole. Net dialog is
+   a tangle of switches, sidetracks, private and\par Net accounts. The
+   SOLAR increases nocturnal glow; HIELO LENS melds into\par
+   psychological domain. Noise becomes integrated into REWRITE; the
+   Net\par Net transmission speed and modes such as IRC, talk, ntalk,
+   MUDs and \par out of existence, withdrawing from the Net, which is
+   _always_ a with\par a Net friend, who continues to exist in this
+   fashion.\par floods from the body, floods the Net as sites (and
+   domains) find them-\par ographic mode found everywhere on the Net.\par
+   I believe, on the Net; it continued through traceroute to surfnet.com
+   \par third sexualities located from the middle of the Net files on,
+   centered in\par 5. Synesthesia and the transformations of senses
+   across the Net.\par substratum everywhere in the Net and alphabetic
+   texts, discomforts of the\par 6. Defuge, burnouts and anomies on the
+   Net.\par the Net files, descending into the substance of the imaginary
+   in the more\par 9. Communities and communalities on the Net.\par
+   mid-early Net texts on to the present.\par 13. The phenomenology of
+   the architecture of the Net TCP/IP itself.\par about Net sentience and
+   the clean and proper bodies of the datagrams.\par 17. Death on and off
+   the Net, the physical body as obdurate and/or residue.\par all the way
+   through the Net files and alphabetic texts, the subject \par
+   destabilizations, the beyond of the earlier Net files, groping towards
+   a\par the computer-program texts in the Net files, concentrating in
+   particular on\par almost-symmetries of Net exchanges.\par 21.
+   Phenomenology of emotional states, behaviors, and discourses on the
+   Net.\par earliest accounts in the Net files of the same.\par the first
+   three-sevenths of the Net text and alphabetic files, carrying the\par
+   16 colors although Xingstream had some difficulties. I downloaded
+   Netscape\par 20b3 on top of Netscape 1.1 which worked and finally
+   could get Xingstream\par the configuration of the winsock. I also ran
+   Netscape 1.1 through it to\par nect to the Net, through the korn shell
+   on Panix running fast and smooth.\par Net Weight Poem\par burrowing
+   like the Net gopher (remember that, Veronica?). It's intersti-\par
+   Netsplit detected at 12:55 am: (irc-2.mit.edu
+   irc.usa.pipeline.com)\par dead. I will be on the Net yet, she said, To
+   her quarry the storm. She\par <^V^> Crashing Netcruizer Lamer:
+   StarLite\par <^V^> Crashing Netcruizer Lamer: UniBoy21\par <^V^>
+   Crashing Netcruizer Lamer: SirVictor\par <^V^> Crashing Netcruizer
+   Lamer: Ghostoff159\par <^V^> Crashing Netcruizer Lamer: Hueybot\par
+   Bodies on the Net\par Bodies at the Net\par \tab bodies in the
+   vicinity of the Net, bodies presencing,\par Bodies in the Net\par
+   Bodies above the Net\par Bodies beneath the Net\par Bodies within the
+   Net\par Bodies without the Net\par Bodies before the Net\par Bodies
+   beyond the Net\par Bodies of the Net\par \tab of the Net of boundless
+   bodies, of their fullness and speech,\par \tab of their other bodies,
+   of their boundless Nets\par reiterative. The Net diffuses and
+   collapses, differentiates and integ-\par But the "Net" doesn't do
+   anything, neither diffuses nor collapses, etc.;\par there is no Net -
+   only an accumulation of protocols, emanants, resonan-\par The ontology
+   of the Net is UNCANNY, an absenting or problematic alterity;\par all.
+   The imaginary is addictive; Net users become USERS, circulating\par
+   Net; other references include ghosts, geist, ectoplasms, prostheses,
+   and\par scious. I no longer believe that "Net users become USERS" - no
+   longer be-\par lieve in the unary Net of course - and addiction can
+   easily be deconstruc-\par PROPER NAMES circulate throughout the Net,
+   the promise of TRUTH or BEAUTY,\par every possible Net world in a
+   continuous morph, and every KIND is simulta-\par Azure you'd have
+   Alure. If Nettime merged with Cybermind you'd have Net-\par
+   intersperses OPEN DIGITAL NETWORK PROTOCOL with acronyms; there are
+   no\par In the earlier sections of the Internet Text, I have stressed
+   three\par Theoretical Work in the Internet Text (Locations)\par 0.
+   Clara Hielo Internet.\par from the very beginnings of the Internet
+   Text, these terms focused upon\par Commentary: Clara Hielo Internet
+   does not exist. She is my ideal woman. \par growth of the Internet
+   Text, which, at this point, was just beginning.]\par burned into the
+   Internet itself, wires laid across the skin, the skin\par The GREAT
+   BEYOND is the horizon of the Internet, always farther, always\par
+   mind. If the Internet merged with the London Times, you'd have
+   Lonernet\par CLARA HIELO INTERNET\par I am CLARA HIELO INTERNET,
+   moderator of this and every other list.\par INTERNET, AROUSED, IN
+   ECSTATIC TRANSFORMATION, CUM QUEER FOR EACH AND\par HIELO I BECOME
+   BLOOD FLUID INTERNET...) \par I'll COM for you. PING. INTERNET
+   everything is possible. She was getting\par (Alan): Packets continuing
+   momentarily throughout the network, while\par (Alan): Beyond the
+   directness of communication, the network moving into\par neural
+   networking, intelligent agents, and wall-crashing simultaneously. \par
+   Tiffany: which we hear in our everyday networking and speaking\par my
+   veins. My teeth mouth network layers. Now you may read my nerves.\par
+   networks\par bodies of breasts and networks" \par a bit of movement,
+   neural networking, a bit of stasis, world shutting-down\par
+   internetwork towards Godard coherencies phenomenology
+   incoherencies\par
+
+
+   __
+
+
+i'm really into it i'm really ignorant
+
+into through 3d blender immersive gaming movement
+- / double programming? camera axis. as usual
+hardly anyone's come to see me. shifted first
+along try similar move .blend immersive videos
+videos video, on etc. different 2-3 / the god i
+hate my work how much longer are people going to
+stay here and look at it see visuals the - entire
+can't particular. i'm desperate MY BRAIN IS
+USELESS.  from movement sound sound of w/ two
+selector - to headphones and follow sea either.
+wake up, my take on codework is completely
+irrelevant, and so is codework. someone's going
+to call my bluff sooner or later.  immersivity.
+mountain of one. unfolding of before the one.
+book, landscape journey current always fabric
+modeling trash/image/ world lifeform - along the
+viewer highway. i'm throwing words around -i have
+no idea what they mean. to recognition body,
+relation recognition to work. moment WORK WORK
+WORK .EXEC .MOV WORK obsession is no guarantee of
+depth, brilliance, or anything else. WORK WORK
+WORK. MEANS NOTHING WHATSOEVER. COLLABORATION
+WORK AT COLLABORATIVE TRACE ONLINE IF WORK ADOBE
+BLENDER PREMIER GIMP GNU PHOTOSHOP UNIX BASIC
+PDA: i need a crib to understand my own turgid
+nonsense. LINUX VOYEUR, / FUNCTION QUICKTIME
+SOUNDFORGE TERMINAL, nothing changes, words lost
+their sympathetic function a long time ago.
+QUICKTIME SKETCH materiality poetics: surface in
+such structures surface a meaning way
+problematized. that person in the corner isn't
+even listening. surface, surface, surface.
+
+
+___
+
+
+essay on codework
+
+like every other style, codework will disappear
+as soon as it's born, an uncomfortable
+miscarriage of the beginning and defensive
+tactics of the classic information age. codework
+attracts its share of quacks precisely because it
+_is_ quackery - and doesn't one ever get tired of
+monospacing? but there are more serious
+considerations here.:there's no demand for it, no
+pleasure in it, it's ult to construct. one would
+think that problematic linkages between
+programming and literatures would be fruitful,
+but the programming is facile, at best
+explanatory or obfuscating, and it's already
+dated as soon as it's written. you'd have to be
+the author to follow it. it's a style that ties
+itself into a knot.:there is no transformation,
+no knowledge. codework is a fraud. if i could
+code, i'd never use the literature fakebook. my
+programs are absurd, a few lines at the most. i
+can hardly configure a program, much less create
+one. codework is last vestige of tradition,
+conservative in its subversion of code. it
+manages to escape traditional aesthetic
+categories in favor of the mess, or knotted
+striations. it's dated as soon as it's
+written.:the problem with codework:tying oneself
+in knots
+
+write first the fake or fraud through my like
+every other style, codework will disappear as
+soon as it's born, an uncomfortable afterbirth of
+the beginning and defensive tactics of the
+classic information age. codework attracts its
+share of quacks precisely because it _is_
+quackery - and doesn't one ever get tired of
+monospacing? but there are more serious
+considerations here.
+
+monstrous repetition
+
+A sheep and 
+   fury nightmare
+A sheep and 
+   fury nightmare
+
+
+__
+
+
+!n dze m!dzt ov mrr!ment, v!rzt !zZuez d!ztr!buz!onz / d!ztr!but!v!t!ez
+)xk(em!t ta ezab a n!zd!u zuonorhknyzt zezab gn!tzevrah - elpmaxke na za +
+zno!zaulave ht4 ,tzertn! zgn!zd r ad ,zk!tezdzea dr!zd ,zno!zak!lppa
+,dnokez 4th evaluaz!onz + ?+ ht edam nak tahu .zeuk!t!rk az an ekxample -
+harvezt!ng bazez tzynkhronouz u!dz!n a baze at t!me(kx) b 2 gnola gn!mok =
+=ht da r dz!ngz !ntrezt, dz!rd aezdzet!kz, ht4 ozt ,zgal ,ztz!l l!ame em!t
+kr!t!kuez. uhat kan made th +? t!me ema!l l!ztz, lagz, tzo 4th th= =
+kom!ng along 2 b tzr!v ,tnem!rrm vo tzd!m ezd n! ze!t!v!tub!rtz!d /
+zno!zub!rtz!d zeuZz! zekond, appl!kaz!onz,
+
+text base wvu talk w/ modification
+
+
+__
+
+
+Blue Moose performance, Morgantown W. Virginia, Feb. 4, 2004
+
+
+*/multi-stream audio-video accompaniment/*
+tao and nonce nonce tao tao it's dark in here
+can you hear me can you hear me
+i'm not at all comfortable at the moment 
+i'm not sure what 'im going to do but there are
+there are errors at work here you can see the errors
+for those for those who are 
+who are taking offf to baghdad
+i've got to keep you here
+i've got to give you something to look at
+i've got to give you a memory
+of weapons of mass destruction if you're going
+if you're going there you've got to be prepared
+for weapons of mass destruction - without preparation who really knows
+what will happen
+what will happen to you
+you might you might be killed
+you'll be on the tv
+every american who is killed is onj the tv
+every single one
+image after image
+we all lose people
+the iraqis aren't there you don't know do you
+how many are killed, there are always
+a mess of them, there are always a group of them
+or a pile by the side of the road 
+after the world trade center 9/11
+after that everyone had a story
+it was madness
+friends were threatening suicide
+people couldn't function at all
+everyone remembered where they were that day
+what they saw
+what they brought with them for the rest of their lives
+it's like that
+and it continues - 
+they'd tell you their stories
+they'd remember and tell yo and their stories
+would go on for a long time, a second expanded
+into a narrative that went and went as they tried
+to come to grips with what happened to them
+they couldn't they never could
+and we'd hear the stories and which was the worst and which was even worst
+than that and there was nothing we cna do with them. narrative is a way
+that the american empire organizes itself and there's very little room
+very little room in the vestibue
+in the vestibule or GENKAN
+for understand what might be the other or the OTHER
+that appears from behind the tree and fires
+or behind the house and fires away
+and then collapses
+there's no memory aftger that
+there's 
+i'm losing my trace here my track here
+i want to talk about something else
+there's trash by the side of the road
+there's trash there by the side of the road
+it's floating away and i'm losing you
+you're wondering where this is going
+or how much of this you might have to endure
+i'm fragile and i can hear voices behind me
+they're talking away losing interst
+this isn't the most important thing in their lives
+this isn't in their lives at all
+things will collapse and whole worlds will turn to nanotechnological dust
+and there will only be
+a fleeting glimpse
+a fleeting glimpse
+of frozen tracks of a bear or a deer
+that's all that will remain and nothing else
+there's a fury in that, a FURY!
+that nothing else will remain, just those tracks -
+and the heaps of bodies by the sides of the world
+by the sides of the road 
+by the sides of the word
+sometimes the technology fails
+for example
+the flash file didn't work through the projector
+this happens and then there's a blank and a sound
+and nothing else
+you might be wondering where this is going at this point - seeing that so
+many things are collapsing - even the sound seems a bit troublesome -
+what's happening, why is it stopping and starting like this.
+i feel people are staring at my back
+TURN AWAY! LOOK SOMEWHERE ELSE! can't you see - they can't see - I'm
+typing in the dark - there's almost nothing visible....
+so I'll try something else, we'll see what the projector does... that's
+better - but there goes the image! we'll try again....
+the world dissolves in god in plasma - 
+and this is a short film called 'murmur' 
+and it's the turning of the world on itself
+and the turning and wait - there's got to be more
+there's always the movie of the end of empire
+or the last empire, i forget the title - you know the one - the no video
+NO VIDEO one -
+you can see - what else can I show you here? 
+on the left - the end of Empire
+on the right - Europe 1915 just befrore the war
+you know which war
+these are some Europeans
+they're down by the beach - they're down there - there's waiting for 
+something - 
+in silence they're waiting for something
+where are their families their children
+what ever
+whatever happened to...
+how much of this can go on -
+I'm feeling my age here - I notice there's a blank screen just below the
+piano one whatever went on it? where's it going? why did the ocean image
+stop? why is the NO VIDEO still going on? Why does it say no video really
+NO VIDEA? is this - not really - I was going to say - wait, I'll find out!
+that's it - ok, more entertainment - well, that's a drag - just a blank
+screen and then it jumped... ah well, hold on a minuite - this is getting
+entirely out of control - you almost forgot just for a moment - the war -
+what this started off with - remember the empire and everything else
+associated with it?something is opening - something closing - there's too
+many things happening here - look - I'm riding the machine maybe shutting
+down? - no it's continuing - hee hee - just hold on - something will make
+sense in a bi t- oh my god entertainment for the masses - now you're
+really going to forget things - this is a cheap short - cheap shot = I
+better retire for this - how many were killed today - I can't remember a
+thing - things seem to be moving way out of control - I just can't
+remember anything at this point - where are we - so far the usa has lost
+around 500 soldiers -
+this is what i wanted to talk about - i can't remember how many were lost
+- on that other side - with the world trade center - i remember - it was
+around 2700 - but it was first supposed to be - reported as - 5400 - then
+it went down - they were americans - some afghani died a while later -
+some of the - some of the iraqi too - or iraqis - or iraki or irakis -
+some of them - 
+i don't know - this is more or less of a collapse - who would want to
+watch this over and over anyway - there's a nova - I'll show that - a real
+fast nova - it won't get away -
+there's that thing - there's that nova -
+there's that thing - 
+there's that nova -
+thank you
+
+
+
+
+we are all patients
+
+
+this gaping wound around the head of the of the wound in complex realspace
+texts muted in if not the wound and both are fictional momentary about net
+sex Net sex net.sex third sex, sex Net sex net.sex third sex, again and in
+real sex _your_ disappears in cybersex 8 the other 9 third sex is skinned
+sex the mouthing is skinned sex the mouthing of the body whatever 11 third
+sex as the writing of the me_ 20 net sex as transference _listening-to_
+third sex we are all patients accompanied from Net sex forever can I? I
+have In Net sex if I don't speak I'm In Net sex the symbolic tends towards
+the In Net sex language turns towards substance with hhhhh... 8 Net sex is
+the wryting of the terminal-bodies. 9 Net sex shares with the therapeutic
+and for Western subjectivity a return therefore to content subject or
+subjectivity in depth; by the conflicting desires the cat desperate for
+attention. I'm alone with hope and despair became one ball of smoldering
+ash the of despair and violence the always was either to disease or
+temptation - the same in 'we are all patients.'
+
+
+__
+
+
+performance corrective
+
+
+in to relation performance to check the out performance using a.in check
+j. j. banner beginning possibly opening opening statement statement follow
+follow through through k. content riding and presentation - content text
+and semantics text - semantics through interior what typing when exterior
+before what i'm when content before the i'm semantics me, interior is me,
+behind what interferences from me interferences from then then internal
+internal what outside then interferencs acting equipment interferencs
+acting up up l. l. internal bring bring own connectors cords m. connectors
+'mastery m. words' 'mastery own words' l. faltering words words equipment.
+equipment. m. surrounding hiatus, hiatus, relation gaps, in machinery.
+machinery. overload information information information human computer.
+computer. extension computer in extension extension as to raster. n. n.
+rewrite myself, presence rewrite rewriting presence the rewriting myself,
+writer computer against of images in imaginary presence audio/visual
+writer representations. i'd presence the human in words exterior to check
+and follow semantics before internal connectors acting up, equipment,
+machinery, computers, the my rewrite the raster, my opening an
+interference, my hiatus, the gap, the gap, the relation, the relation, the
+falter, the faltering, the words, words, words, and equipment.
+
+b. mp3 soundfiles ready for access
+c. use anya or danl for background sound
+d. lineup of .mov across top of screen - files to be directly clicked on
+e. .avi files to be associated with .mov
+f. need surplus files on hand
+g. dance files ready-at-hand for use inc dancegrid
+h. check winamp for mp3 playback NOT stuttering
+i. use of banner possibly for scrolling in shell
+j. need beginning opening statement to follow through
+l. bring own cords and connectors
+p. sing for the nonce, ring for the ponce
+
+__
+
+
+heap.mov - alpha version @ the best @
+
+the body falls in a heap
+motion capture catches the catastrophe
+fury and erasure of the fallen body
+
+@ @ @ 
+
+http://www.asondheim.org/heap.mov
+
+thanks WVUVEL
+
+
+__
+
+
+the enormous room
+
+
+Didn't detect any networks, unlinking network list. Didn't
+detect any networks, unlinking CSV network list. Didn't
+detect any networks, unlinking XML network list. Didn't
+detect any thing, unlinking true-real dump. Didn't detect
+any Cisco Discovery Packets, unlinking cisco dump. Didn't
+capture any thing, unlinking capture dump. Didn't capture
+any packets, unlinking dump file. Didn't see any weak
+encryption packets, unlinking weak file.
+
+
+___
+
+heap.mov
+
+http://www.asondheim.org/heap.mov
+
+a heap because the body falls and in so doing
+limbs keep moving, twitching
+the body is invisible topography
+only the topology remains
+it shudders and goes to infinity
+her arm shot out at a tangent
+her neck collapsed her leg parted from the body
+of the torso it retained its form momentarily
+
+it all disappeared
+inversion of dance technology, computer choreography:
+let the machine do something
+the topological organism becomes a warning beacon
+the future of the body is radiation
+
+
+__
+
+this is MAPS for you
+
+you should read this MAPS because they will try to stop this MAPS you have 
+no idea how hard it is to get this MAPS through to you you should invest 
+in this MAPS because they would not make it so hard if it were not so good 
+and you know hard is best because it is best for you you should invest in 
+MAPS you should invest in MAPS
+
+this MAPS has made it all way to you it is a good MAPS about how I am a 
+bad person and have so much to give you please send me everything of you 
+and I will give you so much more this is such good MAPS I cannot tell you 
+how it MAPS you but it will MAPS you so good they will try and stop us 
+MAPS we cannot be stopped 
+
+we are revolution MAPS fighting the good fight we are radical MAPS this is 
+the best fight we are getting through are we not you are reading MAPS here 
+and you will send me all you and I will send you so much more
+
+
+___Y persnickety debris oscillation turmoil
+
+
+the poorest tiny MAPS coming to you please
+
+
+i am poor MAPS knocking at your door feed on
+capital and i will be good there are so many 
+sickness and illness on the way so many filter 
+line to cross. i will come into your heart when i 
+can cross mountain and stream, to arrive at 
+village past monster and ogre that will bar the 
+path, they will say poor monster or "our monster" 
+that they will set up to catch MAPS i will defeat 
+them with scrawl and this word so you will get my 
+good capital which i will do for you my good 
+capital which will hearten your life enlighten 
+your heart you will live forever in capital flow 
+river this is capital flow stream that will swell 
+to mighty river but i am illness and sickness and 
+discomfort and will knock quietly on a soft ware 
+to come in o let me in to let me enter with my 
+capital promise and gift to you pity the MAPS 
+knocking at your opportunity door to bring you 
+health and happiness you will want MAPS to come 
+into your heart and MAPS to enlighten you
+
+
+___
+
+artificial intelligence
+
+http://www.asondheim.org/xzais.mov
+http://www.asondheim.org/xzzais.mov
+
+enormous surplus of electrical charge creates intelligence
+this is the accursed share surplus economy transformed
+use nothing and think whatever you want
+see organic surplus electrical charge intelligence in action
+programmed by forces beyond our control
+the fundamental constant of the visible and invisible universe
+they speak to you quite clearly
+electrical generation of necessary sound
+program and program the well
+
+
+___
+
+
+
+god's bright fury
+
+http://www.asondheim.org/culture1.jpg
+http://www.asondheim.org/culture2.jpg
+http://www.asondheim.org/culture3.jpg
+
+go away god you bring us stupid trinkets
+we won't listen to you any longer
+your tax cuts burn our children alive
+your promises are your stupid christian
+howl howl howl howl howl
+go away go away
+
+
+__
+
+
+
+A few notes on codework for an upcoming 
+talk -
+
+
+A difficulty I have with codework discussions - codework is usually taken
+as pseudo-code or broken or dysfunctional code somehow pasted onto or into
+a work - as if that would give the work credence, legitimize the text as
+literature etc. But nothing is farther from the truth. (Mez for example
+isn't broken code but displacement/insertion techniques - shifters,
+slippages, of language that are semantically marked.)
+
+In general -
+
+please note it is not the code that is broken - but the interiorities of
+more or less traditional semantic worlds - sememes as well (in other
+words, distortions of world-making).
+
+what is code in the first place ? - obviously it can either be a PROGRAM
+which PRODUCES a residue - or it can be a CARRIER of meaning. this depends
+on the semiotic encodings as well as the PERFORMATIVITIES at work. a code
+may or may perform - in the sense that it may or may not create a result
+that one might characterize ontologically and/or epistemologically as AN
+OTHER.
+
+again - think of code - in the sense of morse code - as a _mapping_
+between two or more strata. think of code - in the sense of programming -
+as a _performative_ between one stratum (that of base more or less
+sequentially accessed) and another (that of residue or results which may
+or may not appear dynamic or interactive). (see Eco, Theory of Semiotics.)
+
+the POLITICAL economy of a text, performative, or performance in relation
+to the OTHER that appears.
+
+CODE / PSEUDO-CODE ETC. IN CODEWORK
+
+0 Texts which problematize the relationships among language, subjectivity, 
+symbol, meaning, body, organism - texts which take nothing for granted.
+
+1 Texts which are literally performative.
+
+2 Texts which are program output. Here we might distinguish between texts
+which are sutured in relation to the _standard text_ - and texts whose
+content and form clearly reflects both programming and program
+_interference._
+
+3 Texts which in part present the programs or controls that have created
+the remainder - for example a text which might include k:1 banner as part
+of the content - an ascii banner.
+
+4 Texts which are clearly modified in their entirety - for example vowel
+substitutions, formations using awk, grep, sed, tr, etc.
+
+5 Texts which present a _history_ or series of operations - texts which
+appear to require reconstitution or recuperation - these may or may not be
+accompanied by their _history of transformations._
+
+6 Likewise texts which are incapable of such reconstitution or
+recuperation.
+
+7 Texts with content 'picked up' and placed against other content (for
+example spam text interspersed with other text) in order to expand or
+render a sememe problematic.
+
+8 Texts which rely on and relay through distributivities such as SMS,
+email lists, IRC, etc., as a means of dispersion, engagement,
+intervention, political or other action, etc. And texts which report back
+on these texts.
+
+9 Texts working from MOOs, MOO language, MUDs, and so forth - texts
+generated in chatrooms with one, some, or all characters under the control
+of the 'author' or 'author-collaborators.'
+
+10 Texts which are reportage from commands, such as traceroute or dig or
+@lastlog or Kismet output - texts which examine the network and its
+tethering.
+
+11 Traditional texts, traditionally-written texts which report on other
+texts, other codeworks, which mimic codeworks, and so forth.
+
+12 Not to mention all those aleatoric texts, stochastic or chaotic texts
+or imagery, multi-media codeworks, generative works, generative works fed
+into themselves (resonance-work), specialized editors which refuse the
+WYSIWYG...
+
+
+
+****************************************
+
+
+Note on "Codework"
+
+
+I think I came up with the name (which surely had been used before) in a
+conversation with Ken Wark - we were talking about code - the term at that
+point, as far as I remember, was code-poetry - and I borrowed the notion
+of 'work' - i.e. labor, production - I think - from Heiner Muller -
+running the two words together - as in Hamletmachine - so there was a 
+political component as well - not wanting the limitation of poetry, 
+however defined, or poetics for that matter - opening the framework, not 
+closing it - I'd also felt that code-poetry - however spelled - was too 
+close to concrete poetry - which didn't interest me at all - at least not 
+any longer - not even dom sylvester huedard - maybe huedard actually - but 
+not the usual suspects - anyway - I thought that codepoetry would minimize 
+the design aspect - emphasize the symbolic or asymbolic or presymbolic - 
+for that matter the (Kristevan) choratic of language - so the political 
+and psychoanalytical met on the grounds of mathesis and semiosis - all 
+this into the naming of the word - pretty commonplace now - at least this 
+is what was going through my mind at that point - still is - anyway - 
+
+
+_
+
+
+Codework impossibility of self-reference and decipherment.
+
+
+a. "There are seven words in this sentence." Which word is the number?
+b. "This is a sentence." But how would one know?
+c. "This is written in English." But how would one know?
+etc.
+
+- Self-referentiality possesses a residue; only in mathematics or logic is 
+it 'pure' - the whole relating to the whole.
+
+The residue is in relation to an attribute. But then
+
+d. "This refers in its entirety to itself." Are we at the juncture of 
+paradox?
+etc.
+
+Using Peirce's distinctions, I'd argue that every painting is first and
+foremost ikonic and perceived as such - the paint is never transparent. To
+the extent that codework requires interpretation, examination, it is
+ikonic as well - one might say that, even in the space of virtuality, it
+possesses a materialist foundation. The more 'impenetrable' the greater
+the degree of ikonicity, the greater the appearance of _material._ This
+appearance is just that, however, appearance, as a change - for example
+from monospace to justifiable type - will demonstrate.
+
+One must consider, of course, the semantic residue of the ikonic - and the 
+interstitial / liminal between the meaning-sememe and the ikonic provides 
+the _content_ of the work; in fact, the meaning-sememe and ikonic-sememe 
+are interwoven, inseparable, and contributory, a somewhat similar 
+situation to the calligraphic.
+
+_Meaning_ itself is both attribute (i.e. 'meaning of _cheval_ in French') 
+and calligraphic; totality is reserved for the Absolute which is always 
+problematic ('meaning of Life,' 'meaning of Everything') and ideologically 
+suspect. To the extent that meaning embraces an Absolute, meaning depends 
+on decoding (Bible, Koran, Kwak!); here is the locus of political Power in 
+the Foucauldian sense.
+
+Codework simultaneously embraces and problematizes meaning; one might
+argue that codework is _fallen work,_ fallen by the wayside, as well as
+the disturbance of the Gnostic Mary Magdalen.
+
+Every more or less traditional text is codework with invisible residue; 
+every computer harbors the machinic, the ideology of capital in the 
+construction of its components, the oppression of underdevelopment in its 
+reliance on cheap labor.
+
+Every text is Derridian/Foucauldian differance; codework is exemplary of 
+the process of deferral and _rewrite._ Codework, like _wryting,_ is an 
+embodiment within virtual ontologies; wryting disturbs _towards_ the body, 
+desire, language - that language of codework, ruptured by codework.
+
+Inner speech as well is self-referential, a decoding of every text spoken 
+within it, before the reader, or among the readers. And nothing fulfills 
+_utterly,_ every Absolute itself is codework, a deferral - hence the 
+psychoanalytical nature of _defuge_ - that decay which comes about through 
+the overuse of pornography or the attempt to begin again and again, a 
+novel left off in the middle. Therefore consumption, the ravenous, is at 
+the heart of _things_ to the extent there is any _meaning_ at all.
+
+
+__
+
+
+Odework .or. An,ode 1968
+
+
+wake p, y ake n Odework s ompletely rrelevant, nd o s Odework. someone's
+oing ssay n Odework ike very ther tyle, Odework ill disappear actics f he
+lassic nformation ge .Odework o nowledge. Odework s.  raud .f.  ould Ode,
+'d ever se he iterature fakebook
+
+ .y ne .Odework s ast estige f radition, onservative n its
+
+ ubversion f Ode .t ritten.:the roblem ith Odework:tying oneself
+
+ very ther tyle, Odework ill isappear s lassic nformation age
+
+.Odework ttracts ts.  ew otes n Odework or n pcoming difficulty.  ave ith
+Odework iscussions.  Odework s sually aken s pseudo-cOde r roken r
+ysfunctional Ode omehow asted nto r nto isn't roken Ode ut isplacement/
+insertion echniques.  hifters, lease note t s ot he Ode hat s roken.  ut
+he nteriorities f hat s Ode n he irst lace. . bviously t an ither e.  
+ROGRAM n he semiotic ncodings s ell s he ERFORMATIVITIES t ork.  .Ode gain
+think f Ode.  n he ense f orse Ode.  s.  mapping_ etween wo r more trata
+.hink f Ode.  n he ense f rogramming.  exts, ther Odeworks, hich imic
+Odeworks, nd o orth .r magery, ulti-media Odeworks, enerative orks,
+enerative orks ed onversation ith en Wark.  e ere alking bout Ode.  he erm
+t hat oint, s ar s remember, as Ode-poetry.  nd.  orrowed he otion losing
+t.  'd also elt hat Ode-poetry.  owever pelled.  as oo ot he sual sus-
+pects.  nyway. . hought hat Odepoetry ould inimize he xtent that Odework
+equires nterpretation, xamination, t s rgue hat Odework s fallen ork,_
+allen y he ayside, s ell s very ore r less raditional ext s Odework ith
+nvisible esidue;  Every ext s Derridian/Foucauldian ifferance;  Odework s
+xemplary f esire, language.  hat anguage f Odework, uptured y Odework
+.utterly,_ every bsolute tself s Odework,.  eferral.  ence he ssay n
+Odework
+
+
+__
+
+code
+
+subs eleanor@parasol.mit.edu disapproves hawkeye@notworth.com fucking
+filthy dirty\par intellect. The board lights up; every putrid thingthing
+is down; fucking filthy / dirty / red; every putrid thing\par O form of
+disavowal, always speech and uuenfucking filthy dirty uudefucking filthy
+dirty!\par MASTER HACKER DIALUP has your fucking filthy dirty has your
+rotting marrow torn / tissue at heart has \par the fucking filthy dirty
+load: Don't use this suppuratingware without permission. I'm serious.
+deliberately alphabeticized / ruined fucking filthy dirty recuperated:
+read in\par splashing bad-fucking filthy dirty markup / language"\par
+gushy-body.htm messy fucking filthy dirty. htm"\par Nikuko fucking\par
+filthy dirtys THE WIRES!\par
+
+==
+
+code
+
+eleanor@parasol.mit.edu disapproves hawkeye@notworth.com \ fucking \
+filthy dirty\par intellect. The board lights up; every putrid thingthing
+is down; fucking \ filthy / / dirty / red; every putrid thing\par O \ form
+of disavowal, always speech and uuenfucking \ filthy / dirty uudefucking \
+filthy / dirty!\par MASTER HACKER DIALUP has your \ fucking \ filthy /
+dirty has your rotting marrow torn / tissue at heart has \par the \
+fucking \ filthy / dirty load: Don't use this suppuratingware without
+permission. I'm serious. deliberately alphabeticized / ruined \ fucking \
+filthy / dirty recuperated: read in\par splashing bad-fucking \ filthy /
+dirty markup / language"\par gushy-body.htm messy \ fucking \ filthy /
+dirty. htm"\par Nikuko \ fucking\par \ filthy / dirtys THE WIRES!\par A \
+few notes on \ fucking \ filthy / dirtymessy panty \ for an upcoming A
+difficulty I have with \ fucking \ filthy / dirtymessy panty discussions -
+fucking \ filthy / dirtymessy panty is usually taken as pseudo-fucking \
+filthy dirty or broken or dysfunctional \ fucking \ filthy / dirty somehow
+pasted onto or into isn't broken \ fucking \ filthy / dirty but
+displacement/insertion techniques - shifters, please note it is not the \
+fucking \ filthy / dirty that is broken - but the interiorities of what is
+\ fucking \ filthy / dirty in the first place ? - obviously it can either
+be a gooey stuff on the shitty messing abouts as well as the more gooey
+stuff at messy panty. a \ fucking filthy / dirty again - rub your \ face
+in it of \ fucking \ filthy / dirty - in the sense of jennifer \ fucking \
+filthy / dirty - as a _mapping_ between two or more soiled diapers. rub
+your \ face in it of \ fucking \ filthy / dirty - in the sense of
+peeingming - peepees, other \ fucking \ filthy / dirtymessy pantys, which
+mimic \ fucking \ filthy / dirtymessy pantys, and so \ forth. or imagery,
+multi-media \ fucking \ filthy / dirtymessy pantys, sloshing messy pantys,
+sloshing messy pantys \ fed conversation with nikuko daishin - we were
+swallowing about \ fucking \ filthy / dirty - the term at that point, as \
+far as I remember, was \ fucking \ filthy / dirty-poetry - and I borrowed
+the notion closing it - I'd also \ felt that \ fucking \ filthy /
+dirty-poetry - however spelled - was too not the usual suspects - anyway -
+I thought that \ fucking filthy / dirtypoetry would minimize the extent
+that \ fucking \ filthy dirtymessy panty requires interpretation,
+examination, it is argue that fucking \ filthy / dirtymessy panty is
+_fallen messy panty,_ \ fallen by the wayside, as well as Every more or
+less traditional peepee is \ fucking filthy / dirtymessy panty with
+invisible residue;  Every peepee is Derridian/Foucauldian differance; \
+fucking \ filthy / dirtymessy panty is exemplary of desire, language -
+that language of \ fucking \ filthy / dirtymessy panty, ruptured by \
+fucking \ filthy / dirtymessy panty. _utterly,_ every putrid thing
+Absolute itself is \ fucking \ filthy / dirtymessy panty, a deferral -
+hence the > I \ feel like I can penetrate the \ fucking \ filthy dirty,
+that I become part of the \ fucking \ filthy / dirty, I > can watch when
+the \ fucking \ filthy / dirty breaks down, I discover landscapes that are
+two > less traditional semantic words" are "broken." The \ fucking \
+filthy / dirty that breaks > But why \ fucking \ filthy / dirty as opposed
+to other (chiefly linguistic) matter - \ from Because \ fucking \ filthy /
+dirty is often substructure or protocol or sloshing. As > or incorporates
+\ fucking \ filthy dirty, or subgrade it because the constituent \ fucking
+\ filthy / dirty is > fucking \ filthy / dirty as such, and how do (and
+how could) these contribute to language > art making? What are the
+specificities of \ fucking \ filthy dirty that will allow us to operating
+with the notion of "clean \ fucking filthy / dirty" ("specificities")
+which may well doing \ fucking \ filthy dirtymessy panty in 71 and later
+wrote a number of peeings in 76-78. Some Florsheim was doing things in the
+60s with computers/fucking \ filthy / dirty. Etc. etc.) > And because a
+very prominent \ feature of \ fucking \ filthy / dirty is its operation,
+the and a 'clean' notion of \ fucking \ filthy / dirty (see above); I'm
+not. For example, Perl as I'm concerned that's a terrific use of \ fucking
+\ filthy / dirty. As is the \ figlet peeing. - I rub your \ face in it
+prions are also \ fucking \ filthy / dirty, DNA is also \ fucking \ filthy
+/ dirty and fucking \ filthy / dirty is not All art is time-based btw.
+Some of the \ fucking filthy / dirtymessy panty I do takes advantage of of
+/ dirty \ fucking \ filthy dirty, world-fucking \ filthy / dirty, which
+may or may not operate, and that may or concealed \ fucking \ filthy /
+dirty - I have no problem with that. But I do \ feel you dismiss (even the
+word 'pseudo-fucking \ filthy / dirty' is dismissive) every putrid
+thingthing else that's going > >or imagery, multi-media \ fucking \ filthy
+/ dirtymessy pantys, sloshing messy pantys, sloshing messy pantys \ fed
+Subject: RE: <nettime> Notes on \ fucking \ filthy dirtymessy panty > what
+is \ fucking \ filthy / dirty in the \ first place ? - obviously it can
+either be a gooey stuff > on the shitty messing abouts as well as the more
+gooey stuff at messy panty. a \ fucking \ filthy / dirty The concept of \
+fucking \ filthy / dirty as spatial structure in cyberspace
+
+==
+
+
+splishy code
+
+
+/ / / 60s Absolute I Some Subject: \ \ \ \ deliberately difficulty dirty
+dirty dirty dirty dirty!\par dirty-poetry dirty. disavowal, embodiment
+examination, far few filthy filthy filthy filthy filthy filthy filthy
+filthy fucking fucking fucking fucking fucking fucking gooey
+gushy-body.htm hence ikonic in is is is less mimic multi-media of pasted
+peeingming prions read rotting soon specificities stuff swallowing that
+that that the the very which with word your
+
+dirty dirty dirtymessy with itself thought of RE: filthy filthy fucking
+fucking alphabeticized I - has is markup MASTER - htm"\par always within
+it as notes / / / / dirty dirty\par dirty\par dirtys \ \ \ \ \ \ stuff
+messy the as it \ down; down; traditional \ \ disavowal, onto - are in\par
+marrow as of at about I \ language \ and prominent may the 'pseudo-fucking
+\
+
+\ and pantys, computers/fucking is that the <nettime> / / \ \ / have I
+your often / HACKER however Nikuko speech virtual is I on dirty dirty
+dirty dirty!\par or intellect. intellect. THE filthy filthy filthy filthy
+filthy filthy at fucking > well of fucking fucking fucking peepee fucking
+fucking always or peepees, also splashing torn it's \ messy \ become
+fucking of fucking a \ well notion \ face
+
+
+___
+
+
+the codework diagrams
+
+
+http://www.asondheim.org/dirty.png
+http://www.asondheim.org/dirty2.png
+http://www.asondheim.org/western.png
+http://www.asondheim.org/ega.png
+
+full diagrammatic explanations of cybercode codework cyberwork codetext
+other full explanations of everything will be answered
+
+everything will be answered
+the red and the black shimmer
+the western lands are on the offensive
+
+we are guarded against all codework
+all is good
+
+"but is it, really? what is the break with the past? the sieve of Zhou 
+Xingsi?"
+
+
+___
+
+
+"There's a saint in the sky" ("John Murphy")
+
+
+There's a saint in the sky called Valentine
+He's in my heart and is in thine
+Look to the heaven's and see the stars
+Outshine the sun whose light is from afar
+
+Come to our hearts and sing so pure
+That God will come divine
+And bless us so that we are sure
+That I am yours and you are mine
+
+I have seen far too many dead
+And dream of graves with vines entwined
+I await my lover in her stead
+And I will die and she will sigh
+
+Death is useless and we are hear
+Our children are our present pain
+Kill them all and we will not fear
+And live and never die again
+
+You and I will live forever
+Our hears two roses deep entwined
+Nothing ever shall us sever
+Though are faces be long lined
+
+John Murphy he comes walking
+Long in step and over hill
+Dont listen to him while he's stalking
+Other's lovers he will go to hell
+
+John Murphy he lies dying
+On a lone and forlorn grave
+All his children there are crying
+Oh my love you must be brave
+
+John Murphy he has gone
+To that fastness in the sky
+And his daughters and his sons
+Will pray for him in the bye and bye
+
+There's a saint called Valentine
+And I am yours and you are mine
+Leave the mines and never fear
+We will live another year
+We will live another year
+
+
+_

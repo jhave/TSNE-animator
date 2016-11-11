@@ -1,0 +1,2614 @@
+
+11/17/94
+
+What follows is a slightly edited copy of my capture files from what I'm
+calling the Coup of U-MOO. What's edited? I've deleted things like passwords
+of mine, redundant '@who' checks (there are a lot in here), and various
+bits of rubbish that didn't pertain to the situation (like my messages to
+people on PMC-MOO telling them I'm busy, etc.). Toward the end of the first
+section you'll see some of the commands I typed that never came out cuz the 
+system lagged big-time and I logged out to get back on with a different 
+term prg. If you don't like what you see or believe anything contained 
+herein, fuck yerself cuz I don't really give a shit. Go write your own 
+version. People will believe what they want to believe regardless of the 
+factual content. Remember, history means 'his story'. Here's mine...
+
+Visual_Mark [to brett]: Serious? That's what it was doing to me...              
+Smack says, "with FTP gif sessions"                                             
+Visual_Mark [to Smack]: Really?                                                 
+Smack nods.                                                                     
+You say, "They have cameras?"                                                   
+Smack nods                                                                      
+You say, "Whoa."                                                                
+Smack nods.                                                                     
+Visual_Mark [to rivit]: Try logging in as 'test'                                
+Visual_Mark [to brett]: 'rivit' won't work anymore?                             
+brett says, "can't cd .. ;)"                                                    
+brett says, "uh uh"                                                             
+Visual_Mark [to Smack]: What's it look like?                                    
+Visual_Mark [to brett]: You mean out 'uploads'?                                 
+Smack [to Visual_Mark]: what does what look like? the site? it looks like a     
+ site.                                                                          
+Visual_Mark [to Smack]: I can't scope it right now, I'm using different         
+ software.                                                                      
+Visual_Mark grins at Smack.                                                     
+You say, "The copy of Mosaic the skewl gives you is wack."                      
+Smack says, " its just got some pictures of some chick posing rather risque"    
+Visual_Mark [to brett]: Hee hee, you're reading the log file...                 
+Sedate has connected.                                                           
+Smack says, " but if you subscribe... WOW!"                                     
+Visual_Mark [to Smack]: How do you pay 'em money? Credit card?                  
+Sedate says, "I dunno."                                                         
+Smack says, " mail em a check, I dunno..."                                      
+Sedate says, "WHo wants to be an admin?"                                        
+Smack [to Sedate]: shut up                                                      
+Smack says, " I DO! I DO!"                                                      
+Smack sent mail to *wiz                                                         
+Sedate [to Smack]: done                                                         
+Sedate has disconnected.                                                        
+Smack cheers                                                                    
+Sedate has connected.                                                           
+You say, "What the fuck?"                                                       
+Sedate [to Smack]: oh cute...                                                   
+Sedate laughs!                                                                  
+Visual_Mark [to Sedate]: Hey, punk...                                           
+Smack says, " HA! the @chparent is broke!" 
+Sedate says, "Actually I made that post so I could see if those whiny 
+ bastards would respond..."                                                              
+You say, "What post?"                                                           
+Sedate [to Visual_Mark]: ok...brb...                                            
+Sedate [to Visual_Mark]: *moo                                                   
+Visual_Mark shrugs its shoulders.                                               
+Smack says, " damn wont let me change your password either!"                    
+Visual_Mark [to Smack]: Heh?                                                    
+Visual_Mark [to Sedate]: Now try 'cd ..'                                        
+Smack @toads Sedate (#104)                                                      
+Sedate has disconnected.                                                        
+Smack says, " HA HA!"                                                           
+Smack says, " I hacked his shit!"                                                
+Smack laughs                                                                    
+Visual_Mark [to Smack]: Heh?                                                    
+Visual_Mark laffs!                                                              
+Smack says, " i just hacked his admin player class"                             
+Visual_Mark [to Sedate]: I already have that, dumbshit.                         
+Visual_Mark [to Sedate]: I'm just using that dir as a test...                   
+brett [to Visual_Mark]: you got @more                                           
+Smack says, " sedate aint here"                                                 
+Visual_Mark [to brett]: Heh?                                                    
+
+@sweep                                                                          
+
+brett (#3677) is listening.                                                     
+Smack (#2807) is listening.                                                     
+Sedate's Crypto Lab (#1551) may have been bugged by Fish and Sedate.            
+
+You say, "Hee hee."                                                             
+Visual_Mark [to Smack]: You @toaded him for real?                               
+Smack says, " and sedtest aint a wizard"                                        
+Smack nods.                                                                     
+Visual_Mark laffs his ass off!                                                  
+Smack nods.                                                                     
+Visual_Mark snickers under its breath.                                          
+Smack is wacking the whole moo                                                  
+brett says, "hey you punk"                                                      
+Smack [to brett]: shut up or Ill toad you too squirt                            
+Visual_Mark smirks.                                                             
+brett says, "hey man... this ain't too cool"                                    
+Visual_Mark cackles evilly.                                                     
+Smack [to brett]: you didnt see what sedate did to my moo                       
+brett says, "what did sedate do?"                                               
+Smack says, "turn about, and I told him that this was a foolish PC, 
+too hackable"                                                                      
+Smack says, " i am too busy right now to explain sorry"                         
+You say, "Heh."                                                                 
+
+@parents smack                                                                  
+
+Smack(#2807)   generic wizard(#58)   generic programmer(#59)   generic          
+ builder(#4)   Usefull Stuff PC(#340)   generic player(#6)   Root Class(#1)     
+
+@who Sedate
+
+brett says, "man..."                                                            
+
+"sedate" is not the name of any player.                                         
+
+You say, "Shit, did you nuke Sedate entirely?"                                  
+You say, "I bet he's pissed!"                                                   
+Smack says, "just temp toad"                                                   
+Smack nods.                                                                     
+Visual_Mark snickers.                                                           
+
+@wizards                                                                        
+
+Player name     Connected    Idle time    Location                              
+-----------     ---------    ---------    --------                              
+Smack (#2807)   17 minutes   4 seconds    Sedate's Crypto Lab                   
+										
+Total: 1 player, who has been active recently.                                  
+
+@wizards all                                                                    
+
+Player name     Connected      Idle time      Location                          
+-----------     ---------      ---------      --------                          
+Smack (#2807)   17 minutes     4 seconds      Sedate's Crypto Lab               
+	
+	------- Disconnected -------                                    
+Wizard (#2)     Sun Oct  2 11:28:44 1994 EDT  Wizard's Den                      
+										
+Total: 2 players, 1 of whom has been active recently.                           
+
+Visual_Mark [to Smack]: You @recycled him?                                      
+
+Smack says, " nothing that bad"                                                 
+You say, "Say, you're the only Wiz now."                                        
+Visual_Mark giggles.                                                            
+
+@who                                                                            
+
+Player name           Connected    Idle time    Location                        
+-----------           ---------    ---------    --------                        
+Visual_Mark (#2809)   an hour      0 seconds    Sedate's Crypto Lab             
+Seth (#2415)          2 hours      2 seconds    Crystal Prism                   
+Smack (#2807)         17 minutes   4 seconds    Sedate's Crypto Lab             
+Nemesis (#2353)       34 minutes   4 seconds    Test Room                       
+Prowler (#1723)       5 minutes    11 seconds   Crystal Prism                   
+brett (#3677)         28 minutes   26 seconds   Sedate's Crypto Lab             
+JollyRoger (#347)     46 minutes   34 seconds   The Hole                        
+Memory (#3396)        13 minutes   37 seconds   Memory Lane                     
+Fish (#319)           39 minutes   a minute     Memory Lane                     
+										
+Total: 9 players, all of whom have been active recently.                        
+
+brett says, "you noticed"                                                       
+brett frowns.                                                                   
+You say, "HAW HAW!"                                                             
+Visual_Mark jumps up in the air and gives Smack a highfive!                     
+Visual_Mark [to rivit]: You say you can't move up past 'uploads'?               
+Smack says, " i am teaching him a lesson, right now we are secure...."          
+Visual_Mark [to Smack]: Wonder if he has access to the machine it's running     
+ on...                                                                          
+You say, "physical access."                                                     
+Smack shrugs. t                                                                 
+Smack says, " ya that is the answer, though nothing is damaged yet"             
+Smack says, " I havve locked out all the wizard bits, and the root wizard's     
+ password"                                                                      
+Smack is laughing HARD!                                                         
+Sedtest teleports in.                                                           
+Sedtest kisses brett lightly on the cheek.                                      
+Sedtest [to brett]: why are you immortal?                                       
+Sedtest is immoral.                                                             
+Visual_Mark opens a capture file.                                               
+Nemesis arrives in a cloud of darkness!                                         
+The cloud dissipates behind Nemesis.                                            
+Nemesis waves.                                                                  
+Sedtest [to Nemesis]: Hi, I think it will be a while before the Admin class     
+ has all the bugs worked out...                                                 
+Smack waves.                                                                    
+Visual_Mark [to Nemesis]: Hola                                                  
+Sedtest laughs!                                                                 
+Smack nods to sedate.                                                           
+Visual_Mark [to Sedate]: I already have that...                                 
+Visual_Mark [to brett]: Can you still log in with a pwd?                        
+Sedtest [to Visual_Mark]: I know, but I didn't see it there so I upped it...    
+brett [to Visual_Mark]: no                                                      
+Fish teleports in.                                                              
+Visual_Mark [to Sedate]: That's just a dir I'm testing it out on...             
+Fish waves.                                                                     
+Nemesis [to Smack]: How can I make something like *moo-chat or *lemurs?         
+Visual_Mark bows to Fish.                                                       
+Sedtest has never seen a system type of MS-DOS.                                 
+Fish is rolling on the floor laughing!                                          
+brett [to Visual_Mark]: yes i can                                               
+Sedtest [to Nemesis]: just ask...                                               
+Visual_Mark [to brett]: Kewl.                                                   
+Visual_Mark [to brett]: Can you "cd .." ?                                       
+Fish . o O (just here for the conversation..)                                   
+Smack says, " make  #46"                                                        
+Sedtest nods in agreement with Smack.                                           
+Smack says, " and put it in the mail room or something"                         
+Nemesis says, "Don't work."                                                     
+brett [to Visual_Mark]: yeah                                                    
+Sedtest [to Nemesis]: perm denied?                                              
+Nemesis says, "Can't put in mail room."                                         
+Visual_Mark [to brett]: Damn...                                                 
+Nemesis nods in agreement with Sedtest.                                         
+Sedtest [to Nemesis]: hmm..well you can always just carry it with you..or 
+can you not make one?                                                              
+Smack [to Fish]: howdy... you know Sedate is a Toad?                            
+Sedtest [to Smack]: big bug its the @set huh?                                   
+Fish [to Sedate]: ..nice one..                                                  
+Fish is rolling on the floor laughing!                                          
+Smack [to Sedate]: yup..                                                        
+brett [to Visual_Mark]: anything interesting on your site?                      
+Sedtest nods in agreement with Fish.                                            
+Visual_Mark [to brett]: THat's my HD, dude.                                     
+Sedtest [to brett]: uh huh, hes got WINBABES!!!!!!                              
+Visual_Mark smirks at Sedate.                                                   
+brett [to Visual_Mark]: i know, I ain't stpid                                   
+Nemesis says, "It won't recognize it as a mail recipient!"                      
+Sedtest feels like he's giving vm a rectal exam probing about his HD.           
+Smack [to Fish]: you know you aint a wiz?                                       
+Visual_Mark [to brett]: It's not set up to be a site just yet. The 'uploads     
+ dir has more stuff...                                                          
+Visual_Mark smirks at Sedate.                                                   
+brett says, "ooh, a rectal exam"                                                
+brett lets out a long sigh.                                                     
+Sedtest [to Visual_Mark]: will it only be operating while you have a            
+ connection or do we use the moo for the addres?                                
+Sedtest has had a penile exam...bleah....                                       
+Sedtest says, "stick that nasty thing own yer dick...."                         
+brett [to Fish]: uhh, hello?                                                    
+Visual_Mark [to Sedate]: I gotta figger out how to keep people from moving out  
+ of one dir...                                                                  
+Sedtest says, "Now this might hurt a bit when you pee next....shyea right!!!!"  
+Fish [to brett]: ah...hi..                                                      
+Sedtest [to Fish]: brett                                                        
+Sedtest [to brett]: fish                                                        
+Visual_Mark [to brett]: What'd you do, get a ls -lR?                            
+You say, "Oop."                                                                 
+Visual_Mark grins.                                                              
+brett grins.                                                                    
+brett grins at Visual_Mark.                                                     
+Visual_Mark [to brett]: Funny.                                                  
+Sedtest [to brett]: I liked your old title better than (Immortal)               
+brett [to Visual_Mark]: you punk                                                
+You say, "You can finger me, but no more poking around."                        
+Visual_Mark snickers under its breath.                                          
+Sedtest [to Visual_Mark]: but I wanna probe.....                                
+Nemesis just eye-balled your player...                                          
+
+Visual_Mark [to Smack]: Still here?                                             
+
+Smack nods.                                                                     
+brett [to Fish]: still here?                                                    
+*** The server will be shut down by Smack (#2807) in 2 minutes:  ***            
+:can smell angry msg's...                                                       
+Visual_Mark can smell angry msg's...                                            
+Visual_Mark grins.                                                              
+*** Server shutdown ABORTED by Smack (#2807) ***                                
+Fish nods in agreement with brett.                                              
+Sedtest [to Smack]: hey I thought of some security for anarchy....              
+Visual_Mark [to Smack]: Hee hee!                                                
+brett laughs!                                                                   
+Smack laughs.                                                                   
+Fish [to brett]: trying to pick up...                                           
+Fish is rolling on the floor laughing!                                          
+Nemesis raises his arms and a cloud of darkness forms around him!               
+The cloud dissipates.                                                           
+Nemesis is gone!                                                                
+Fish goes home.                                                                 
+Sedtest [to Smack]: how about a loop that makes everyone in connected_players() 
+ wiz=1 that way it should cancel some idiot removing the bits...                
+Smack [to Sedtest]: like what?                                                  
+Sedtest [to Smack]: that would elliminate a big problem...                      
+Sedtest says, "gotta go talk...brb"                                             
+Smack says, " ya, as well as some restriction on @recycle, actullay we dont     
+ care if people strip bits"                                                     
+Visual_Mark [to Sedate]: Heh?                                                   
+Smack [to Sedtest]: wait...                                                     
+Sedtest [to Smack]: well stripping bits removes the permissions for ANYTHING    
+ to run, like notify()                                                          
+Sedtest [to Smack]: so when the bit on #2 is removed everything goes fucked.    
+Smack [to Sedate]: only if you wack wizard.... are you gonna reboot the moo?    
+Smack says, " you could loop just to perm him"                                  
+Visual_Mark [to Smack]: Hurry, back up the db!                                  
+Visual_Mark grins.                                                              
+Smack already has twice...                                                      
+Sedtest [to Smack]: depends, if you give the bits back nope..I gotta go talk,   
+ but if you do anything fucked yeah it has to be rebooted...                    
+Sedtest says, "gotta run....."                                                  
+Sedtest has disconnected.                                                       
+Smack says, " you would think that he would want to talk to me"                 
+Smack says, " I think I will recycle some of his shit for poor protocol"        
+Visual_Mark smirks.                                                             
+Visual_Mark [to fish]: So what's goin down?                                     
+You say, "Oop."                                                                 
+Visual_Mark [to Smack]: Did you boot fish?                                      
+Smack says, " nopes"                                                            
+You say, "Oh, he's still on."                                                   
+Visual_Mark [to brett]: Was there anything on the 'ol HD you wanted?            
+brett [to Visual_Mark]: no                                                      
+Visual_Mark shrugs its shoulders.                                               
+brett says, "brb"                                                               
+Visual_Mark nods.                                                               
+brett teleports out.                                                            
+Visual_Mark needs to find some NetWare docs.                                    
+You say, "Hmmm."                                                                
+
+@join brett
+You join brett (Immortal).
+
+Crystal Prism
+A patch o' grass and a pile of dirt.
+There is a little opening right behind the pile of dirt.  It looks to small to
+ just walk right through so you'll have to get down on all fours and 'crawl'.
+Just type 'crawl'.
+You see Da Bar and Chalk Board here.
+Prowler and brett (Immortal) are here.
+
+For the best picture, please adjust your tracking.
+
+You say, "What's up?"
+brett says, "not much"
+Prowler waves to Visual_Mark.
+Visual_Mark bows to Prowler.
+brett [to Prowler]: not too deep
+You say, "waiting for the apocalypse?"
+Visual_Mark grins.
+
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+Visual_Mark (#2809)   an hour      0 seconds    Crystal Prism
+Seth (#2415)          3 hours      0 seconds    PLAcE OF DeStRuctIoN
+Memory (#3396)        34 minutes   4 seconds    The Hole
+Smack (#2807)         39 minutes   12 seconds   Sedate's Crypto Lab [mailing]
+brett (#3677)         50 minutes   13 seconds   Crystal Prism
+JollyRoger (#347)     an hour      15 seconds   The Hole
+Prowler (#1723)       26 minutes   19 seconds   Crystal Prism
+Nemesis (#2353)       56 minutes   32 seconds   PLAcE OF DeStRuctIoN
+Fish (#319)           an hour      36 seconds   PLAcE OF DeStRuctIoN
+
+Total: 9 players, all of whom have been active recently.
+
+Prowler says, "so all the wizards we know are now not? right!"
+Visual_Mark [to Prowler]: Temporarily...
+Smack teleports in.
+Visual_Mark grins at Smack.
+brett says, "hey smack"
+Prowler hushs.
+Smack [to Visual_Mark]: @read last on *MOO
+Smack says, " howdy...."
+
+@read last on *MOO
+
+Message 42 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:14:05 1994 EST
+From:     Smack (#2807)
+To:       *MOO-chat (#3482)
+Subject:  poor judgement and more...
+
+I just wanted to note, Sedate's Admin Class has a big hole in it.
+I know cause I told him it would... and he didn't listen to me
+cause he thinks he is so smart... anyway he went ahead and made it
+against everyones better judgement and advice, and then went ahead
+with its implementation. I was happy to have the first oppurtunity
+to find its holes. To teach Sedate a lesson, I started off with a 
+little @toading, and then moved on to bigger and better things.
+I have stripped all the wizard bits and over ridden the root-wiz password.
+Unless they reboot the server, I have complete control. 
+I shall take it upon myself to restructure the political system here,
+as I too believe, too many wizards spoil the soup...
+Given that the current DB remains, I will get back with you all about
+the re-establishment of the wizardy
+
+With Love,
+Smack
+--------------------------
+
+brett [to Smack]: @shout it
+Visual_Mark snickers under its breath.
+Visual_Mark [to Smack]: Nice.
+Smack shouts, "@read last on *MOO"
+Prowler says, "WOW! damn..."
+Smack [to brett]: good idea, thanks...
+You say, "phuckin coups are kewl!"
+Visual_Mark smirks.
+brett says, "this moo does need political recontruction"
+Smack nods and is just the guy to do it....
+Visual_Mark [to Smack]: If you don't have a capture file on, I'll send you
+ mine...
+brett laughs!
+brett [to sedate]: dicely done
+Smack [to Visual_Mark]: please do!
+Visual_Mark nods in agreement with Smack.
+brett says, "err... nicely that is"
+You say, "Heh, heh."
+Prowler [to Smack]: don't take this wrong my next statement...
+Smack admits he was shaking IRL as he took over the MOO
+Smack is still high as a kite...
+Visual_Mark grins.
+Visual_Mark [to Smack]: You got that phreakin adrenaline rush.
+Prowler [to Smack]: are you an asshole or are you just showing people a
+ lesson? :)
+Smack [to Prowler]: no go rigth ahead, I am not out to get anybody...
+Visual_Mark [to Prowler]: Both.
+You smile.
+Prowler falls down laughing!
+Smack says, " #2 just teaching Sedate a lesson"
+Visual_Mark [to Prowler]: Showing Sedate.
+Visual_Mark nods.
+Smack says, " but ya VM is right "
+Prowler says, "I just wondered because I don't want to move?"
+Prowler falls down laughing!
+Smack [to Prowler]: na, dont worry about it...
+Visual_Mark [to Prowler]: We're all still here, eh?
+Visual_Mark grins.
+Prowler [to Smack]: Thanks Sedate need it!
+Smack says, " i could have done what sedate did "
+Visual_Mark cackles.
+Prowler [to brett]: do you have the power to lock people to rooms?
+Smack says, " and wack all the wiz bits and fuck up #2"
+Smack says, " then we would have all been screwed"
+brett [to himself]: what do you mean?
+Visual_Mark nods.
+to brett YOur lil                   
+brett says, "oops"
+Visual_Mark [to brett]: Your lil box...
+Smack regrets that there Sedate isnt here to beg...
+brett [to Prowler]: what do you mean>?
+brett [to Visual_Mark]: what box?
+Visual_Mark [to Smack]: He went to 'talk' someone...?
+Smack says, " probably grovel"
+Smack says, " to get someone to reboot the DB"
+Smack grins.
+Visual_Mark laffs!
+Prowler [to brett]: one day you, Sedate and myself were online... I got
+ trapped in sedates room did you do it or sedate?
+Visual_Mark [to Prowler]: Ah...
+Fish shouts, "bite me!"
+Smack [to Prowler]: most likely sedate
+Smack shouts, "kisses Fish..."
+brett says, "yeah"
+Prowler [to brett]: whell...
+Visual_Mark [to Smack]: Huh-oh...
+
+page smack Is he pissed?
+Your message has been sent.
+
+Prowler [to brett]: yeah you or yeah him?
+brett says, "yeah him"
+Prowler screams, "Eeeeeeeeeeeeek!"
+
+You sense that Smack is looking for you in Crystal Prism.
+He pages, "i would guess so..."
+
+page brett YOu dinna want him to know...?
+Your message has been sent.
+
+Prowler [to brett]: the asshole lied to my screen! AHHHHHHHHHHHHHH! 
+
+You sense that Smack is looking for you in Crystal Prism.
+He pages, "if he dont like it I can always spam the fuck out of him..."
+
+page smack Heh.
+Your message has been sent.
+
+You sense that brett (Immortal) is looking for you in Crystal Prism.
+He pages, "snicker snicker... if he didnt know (or couldn''t figger out) let
+ him blame sedate"
+
+page smack YOu can borrow my ol spam verb... me:sp ...
+Your message has been sent.
+
+page brett Yep.
+Your message has been sent.
+
+brett screams, "Eeeeeeeeeeeeek!"
+brett says, "i'm a mouse!"
+Visual_Mark snickers under its breath.
+brett teleports out.
+Prowler [to Smack]: you were the first admin and ya turned everything upside
+ down... hehe... good managing skills around here!
+Prowler falls down laughing!
+Smack nods.
+You say, "This is fuckin funny..."
+Prowler nods in agreement with Visual_Mark.
+
+/world pmc
+---- World pmc ----
+Smack appears in a shower of golden peanut-brittle!
+Your immersion is only slightly befuddled by a message from Smack.
+He pages, "cant talk to your site for somereason"
+
+% Activity in world m
+/world m
+---- World m ----
+Prowler says, "it is!  they tryied it and it failed!"
+Fish shouts, "Hey Smack .. you read *moo"
+brett teleports in.
+brett says, "smack!  move me to #3582"
+
+@next on *MOO
+
+Message 43 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:18:53 1994 EST
+From:     Fish (#319)
+To:       *MOO-chat (#3482)
+Subject:  Re ; $admin
+
+OK...
+
+POINT TAKEN!!!
+
+--------------------------
+
+Smack says, " didnt accept you brett"
+Smack shouts, "not yet,,, one minute"
+You say, "hmm."
+Visual_Mark [to Smack]: Do you have a list of all the former Wiz's?
+You say, "Hee hee."
+Fish shouts, "if anyone did work ...save it off line...cause it will all be
+ lost when we restart the server tomorrow!"
+Smack sighs...
+Visual_Mark snickers under its breath.
+brett teleports out.
+You say, "uhh, and what if a backup were made?"
+Prowler teleports out.
+
+page smack Note the bug in the room, eh?
+Your message has been sent.
+
+Visual_Mark grins.
+
+Crystal Prism
+A patch o' grass and a pile of dirt.
+There is a little opening right behind the pile of dirt.  It looks to small to
+ just walk right through so you'll have to get down on all fours and 'crawl'.
+Just type 'crawl'.
+You see Da Bar and Chalk Board here.
+Smack is here.
+
+@next on *moo
+
+Message 45 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:21:46 1994 EST
+From:     JollyRoger (#347)
+To:       *MOO-chat (#3482)
+Subject:  RE:smack
+
+	Well well well...what have we here??
+Now as people know I don't condone the Admin class....but hell I don't condone
+ Hijacking either..
+Smack has kidnapped the moo...how is not important now...that he did is..
+You can nortt just go and redo a moo just because you feel like proving a
+ point... it is one thing to plan on it and another to just do it..it's wrong
+ and it needs to stop..
+The point is made replace the moo and let's do this democaticlly not like..umm
+ HILTER...
+this is crap
+
+jolly
+--------------------------
+
+Smack shrugs.
+Smack says, " what did you mail?"
+brett teleports in.
+You say, "Heh."
+brett says, "who fucked him up the ass?"
+Visual_Mark [to Smack]: I like Jolly's post... ;)
+Visual_Mark [to brett]: Who?
+Visual_Mark grins.
+
+@next on *moo
+
+Message 46 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:26:42 1994 EST
+From:     Seth (#2415)
+To:       *MOO-chat (#3482)
+Subject:  What's up??
+
+Ok I don't agree with the Admin thing either but taking over a moo and trying
+ to wipe it out, what is the problem there??
+I know that you are trying to prove a point but what is it you are doing??
+What makes you think that you can just shut down anything you want, what about
+ the rest of us that want a moo and not have it taken over by someone who
+ disagrees with Sedate.
+It's not fair to you or to anyone else that MOO on here.
+Just think first, don't act stupid.
+
+seth
+--------------------------
+
+Fish shouts, "i suck...my verbs are wiz permed and i can't read
+ them....hahhaahahhah"
+brett benesus
+
+@next on *moo
+
+Message 47 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:26:43 1994 EST
+From:     Nemesis (#2353)
+To:       *MOO-chat (#3482)
+Subject:  re:smack
+
+Smack is a immature asshole with a penchant for self-destructiveness.
+--- And he's taking everyone with him.
+Who let him become an admin pc anyway?
+--------------------------
+
+brett says, "nemesis"
+brett teleports out.
+
+@next on *moo
+
+Message 48 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:29:43 1994 EST
+From:     Visual_Mark (#2809)
+To:       *MOO-chat (#3482)
+Subject:  For the record...
+
+If anybody wants a copy of my capture file of the coup, send me mail.
+
+That is as soon as I can regain my wits enough to stop laughing and edit
+the thing... Hee hee.
+--------------------------
+
+@send *moo
+
+brett is undressing you with his eyes.
+he begins to twitch with excitement.
+brett thinks that you are the most sexy person on the moo.
+he stops before becoming too excited!
+
+Sending...
+Mail actually sent to *MOO-chat (#3482)
+
+Crystal Prism
+A patch o' grass and a pile of dirt.
+There is a little opening right behind the pile of dirt.  It looks to small to
+ just walk right through so you'll have to get down on all fours and 'crawl'.
+Just type 'crawl'.
+You see Da Bar and Chalk Board here.
+Smack is here.
+
+@next on *moo
+
+Message 49 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:34:34 1994 EST
+From:     Visual_Mark (#2809)
+To:       *MOO-chat (#3482)
+Subject:  Who's the Mack?
+
+Does it like we're all being held hostage? Does it look like anyone's
+precious code is being deleted? If he were trying to be a dick most of
+the database would be slagged by now. Take a chill and wait it out. It'll
+all be over soon. I bet Sedate's pissin his drawers. Heh. If nobody knows
+what the hell's going on here (i.e. between Sedate and Smack), then you'd
+best find out before passing judgements...
+
+-VM-
+--------------------------
+
+brett teleports in.
+brett smirks.
+Visual_Mark grins.
+Visual_Mark [to brett]: Wassup?
+Visual_Mark [to Smack]: What are you doing?
+Smack has disconnected.
+You say, "hmmm..."
+You say, "I see a war on the horizon."
+
+% Activity in world pmc
+Visual_Mark grins at brett.
+/world pmc
+---- World pmc ----
+< disconnected: Smack. Total: 39 >
+/world m
+---- World m ----
+brett says, "uh oh"
+brett teleports out.
+
+@who
+
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+Visual_Mark (#2809)   2 hours      0 seconds    Crystal Prism
+Memory (#3396)        57 minutes   a second     The Hole
+JollyRoger (#347)     an hour      2 seconds    The Hole
+Prowler (#1723)       49 minutes   5 seconds    PLAcE OF DeStRuctIoN
+Nemesis (#2353)       an hour      7 seconds    PLAcE OF DeStRuctIoN
+brett (#3677)         an hour      11 seconds   PLAcE OF DeStRuctIoN
+Seth (#2415)          3 hours      12 seconds   PLAcE OF DeStRuctIoN
+Fish (#319)           an hour      5 minutes    PLAcE OF DeStRuctIoN
+
+Total: 8 players, 7 of whom have been active recently.
+
+@join brett
+You join brett (Immortal).
+pLAcE OF DeStRuctIoN
+ya i Dont wriTE a LonG DescriPton causE no one rEally Reads iT!!
+sO Just kiCk back anD enJoy, cAuse ya are WheRe ya aRe!!
+Oh...if yOu wAnt a desCriptiOn juSt usE yOUr ImaginaTioN! LatEr.
+You see Disco Ball here.
+Fish, Seth, Prowler, Nemesis (Bringer of Divine Justice), and brett (Immortal)
+ are here.
+
+For the best picture, please adjust your tracking.
+
+Seth says, "oh well..."
+Prowler [to brett]: why would he do that?
+Fish waves.
+Seth falls down laughing!!
+Nemesis slaps himself on the forehead.
+DOH!
+Nemesis says, "Gee, I wonder!"
+You say, "anyone need an explanation?"
+Prowler says, "@who.... smack2 "
+Prowler falls down laughing!
+Seth falls down laughing!!
+brett teleports out.
+Prowler [to Visual_Mark]: I got the drift... it is heavy too.
+Visual_Mark grins.
+Visual_Mark [to Prowler]: Heavy?
+Prowler [to Visual_Mark]: well this is alot to handle in just a few brief
+ minutes... hehe.. no wiz's
+Prowler falls down laughing!
+
+page brett What's the scoop?
+Your message has been sent.
+
+brett teleports in.
+You say, "Zen without Zen Masters."
+Fish shouts, "to all paging me about Smack leaving ...he's smack2 in outside!"
+brett [to Visual_Mark]: he isn't very talkative
+Fish is rolling on the floor laughing!
+Fish has returned to the conversation....Arn't cha glad!!!
+Visual_Mark giggles.
+Seth falls down laughing!!
+Nemesis says, "'cause I'm pimping him!"
+You say, "pimpin who?"
+Seth slowly fades away.
+Nemesis says, "smack2"
+You say, "Are we on the brink of war here?"
+Fish nods.
+Nemesis says, "I vote we are!"
+brett says, "war?  how can you have a war?"
+Prowler just launched a nuclear attack on brett!
+Fish [to Visual_Mark]: this could be most interesteing!
+<Boom!>
+    <Boom!>
+
+page smack2 Are you getting spammed? join me on PMC if you can multi-task...
+Your message has been sent.
+	  
+	  <Boom!>
+Radiated fallout scatters all over the room!
+brett glows bright green!
+Prowler falls down laughing!
+brett says, "what could?"
+Visual_Mark [to brett]: Spam war would be the likely eventuality.
+Prowler says, "everyone could now join me at #3172"
+You sense that smack2 is looking for you in Outside.
+It pages, "I am working"
+You say, "but I don't see why everyone's tweaed."
+You say, "tweaked."
+Visual_Mark shrugs its shoulders.
+Fish teleports out.
+Prowler looks to the sky.  The shadows around you appear to be moving.
+
+/world m
+---- World m ----
+You sense that smack2 is looking for you in Outside.
+It pages, "maybe I cant seem to @chparent"
+page smack2 I'm First_Guest, btw... what's the prob?
+Your message has been sent.
+/world u
+---- World u ----
+@who
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+First_Guest (#1577)   37 seconds   0 seconds    Outside
+brett (#3677)         an hour      0 seconds    Anti-Wizard's Core Headquarters
+Seth (#2415)          3 hours      0 seconds    Anti-Wizard's Core Headquarters
+Prowler (#1723)       54 minutes   a second     Anti-Wizard's Core Headquarters
+smack2 (#3843)        5 minutes    4 seconds    Outside
+Visual_Mark (#2809)   2 hours      6 seconds    Extropy
+Guest (#132)          a minute     8 seconds    Outside
+JollyRoger (#347)     an hour      16 seconds   The Hole
+Nemesis (#2353)       an hour      17 seconds   Anti-Wizard's Core Headquarters
+Fish (#319)           an hour      34 seconds   PLAcE OF DeStRuctIoN
+Memory (#3396)        an hour      a minute     The Hole
+
+Total: 11 players, all of whom have been active recently.
+% Activity in world m
+Guest says, "You don't want to be here now."
+You say, "why?"
+/world        /world m
+---- World m ----
+You sense that smack2 is looking for you in Outside.
+It pages, "i dunno"
+You feel Prowler's eyes looking down upon you from Anti-Wizard's Core
+ Headquarters.
+He pages, "join us... hehe!"
+% Activity in world u
+@join prowler
+You join Prowler.
+
+Anti-Wizard's Core Headquarters
+
+You have now entered the elite headquarters of the Anti-Wizard Core.
+
+As you look around the room you notice several posters plastered to the walls.
+
+Posters read:   
+-Viva la Revolution!
+-We should be treated proper! NOT like lab rats.
+Prowler, brett (Immortal), Nemesis (Bringer of Divine Justice), and Seth are
+ here.
+
+For the best picture, please adjust your tracking.
+
+You say, "Hola."
+Fish teleports in.
+/world u
+---- World u ----
+smack2 says, " i dunno"
+% Activity in world m
+You say, "Hee hee."
+/world m
+---- World m ----
+Fish waves.
+Prowler waves to Visual_Mark.
+Prowler waves to Fish.
+Seth waves.
+Visual_Mark bows.
+Nemesis says, "I think smack is first_guest!"
+
+page smack2 Check this out! Quick to mobilize!
+
+You say, "What?"
+Prowler says, "who is guest!"
+/world u
+---- World u ----
+You say, "who is there?"
+% Activity in world m
+/world m
+---- World m ----
+brett says, "if only we had @net-who"
+Nemesis says, "me"
+You say, "anyone have access to that info?"
+% Activity in world u
+Guest materializes out of thin air.
+/world u
+---- World u ----
+Guest disappears suddenly for parts unknown.
+% Activity in world m
+You say, "hmm."
+/world m
+---- World m ----
+Fish says, "any ideas how to shut the moo down???over-load the server?"
+You say, "anyone have physical access?"
+brett says, "remember the big LambdaMOO Server crash?"
+Nemesis says, "Where's Magenta?"
+Prowler says, "picket the tower!"
+
+page smack They think First_Guest is you... ;)
+
+Nemesis laughs!
+Fish says, "everyone is in bed..."
+Seth says, "whos' guest?"
+Fish is rolling on the floor laughing!
+% Activity in world pmc
+Nemesis says, "me"
+Seth nods.
+Guest is unceremoniously expelled from Anti-Wizard's Core Headquarters by
+ Prowler.
+
+page smack2 they're paranoid as hell, think First Guest is you... Guest is 
+ Nemesis...
+Your message has been sent.
+
+brett says, "who remembers the lambdaMOO crash?"
+You say, "Hmmm."
+Seth falls down laughing!!
+Prowler [to Nemesis]: get him out of here..
+Visual_Mark [to brett]: I do.
+/world u
+---- World u ----
+% Activity in world m
+Guest disappears suddenly for parts unknown.
+You say, "heh"
+/world m
+---- World m ----
+Prowler giggles.
+Seth is rolling on the floor laughing!
+brett [to Visual_Mark]: besides you
+Fish [to brett]: youthink we could overload the sever..make it crash?
+
+You sense that smack2 is looking for you in Outside.
+It pages, "damn cant chp"
+
+Visual_Mark [to brett]: why?
+brett [to Fish]: i crashed lambdamoo once..
+You say, "fork() ?"
+Prowler claps in admiration for brett.
+Visual_Mark [to brett]: Yep
+brett says, "i could crash this one the same way"
+Visual_Mark grins.
+Prowler is pondering brett's theories.
+
+page smack2 brett's gonna try to crash it like he did lambda, zat what he 
+ did on MOOt?
+
+Fish [to bett]: you think you could do it/? but warn everyone first?
+brett says, "theories?  i've proven this one"
+% Activity in world u
+Visual_Mark [to brett]: Same thing you did on MOOt, neh?
+Prowler claps in admiration for brett.
+/world u
+---- World u ----
+Smack has connected.
+% Activity in world m
+You say, "hi"
+/world m
+---- World m ----
+brett [to Fish]: i've done it before
+brett [to Visual_Mark]: i didn't do anything on moot
+Visual_Mark [to brett]: Serious?
+% Activity in world u
+Fish [to brett]: well smack is the only wiz ..so you have my permission..
+/world u
+---- World u ----
+Smack considers @toading everybody...
+% Activity in world m
+You say, "heh"
+/world m
+---- World m ----
+brett [to Visual_Mark]: yes
+brett [to Fish]: ok...
+Fish giggles.
+Visual_Mark [to brett]: what was the hoopla then?
+Prowler [to brett]: and mine!
+Visual_Mark never got a straight story from anyone...
+Prowler chants "go for it!"
+
+@who
+
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+Visual_Mark (#2809)   2 hours      0 seconds    Anti-Wizard's Core Headquarters
+Sedate (#104)         2 minutes    2 seconds    Sedate's Crypto Lab
+Prowler (#1723)       59 minutes   2 seconds    Anti-Wizard's Core Headquarters
+Smack (#2807)         a minute     3 seconds    Outside
+Memory (#3396)        an hour      3 seconds    The Hole
+Nemesis (#2353)       an hour      3 seconds    Anti-Wizard's Core Headquarters
+brett (#3677)         an hour      5 seconds    Anti-Wizard's Core Headquarters
+JollyRoger (#347)     an hour      12 seconds   The Hole
+Seth (#2415)          3 hours      28 seconds   Anti-Wizard's Core Headquarters
+Fish (#319)           an hour      37 seconds   Anti-Wizard's Core Headquarters
+First_Guest (#1577)   5 minutes    43 seconds   Outside
+Guest (#132)          6 minutes    53 seconds   Hideout
+smack2 (#3843)        10 minutes   a minute     Outside
+
+Total: 13 players, all of whom have been active recently.
+
+Seth says, "oh well it was getting late anyways."
+Fish nods in agreement with Prowler.
+Seth falls down laughing!!
+You say, "looks liek Sedate's on..."
+
+ar sedate with Join us?
+Arrow fired at Sedate.
+
+Seth nods in agreement with Prowler.
+Seth falls down laughing!!
+/world u
+---- World u ----
+@sweep
+
+smack2 (#3843) is listening.
+Smack (#2807) is listening.
+Outside (#11) may have been bugged by Fish and Sedate.
+
+You say, "bugs"
+You say, "Sedate is on."
+
+page sedate Hello?
+Sedate is not currently logged in.
+% Activity in world m
+
+@who
+
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+First_Guest (#1577)   6 minutes    0 seconds    Outside
+brett (#3677)         an hour      a second     Anti-Wizard's Core Headquarters
+Seth (#2415)          3 hours      2 seconds    Anti-Wizard's Core Headquarters
+Prowler (#1723)       an hour      4 seconds    Anti-Wizard's Core Headquarters
+JollyRoger (#347)     an hour      4 seconds    The Hole
+Smack (#2807)         2 minutes    6 seconds    Outside
+Fish (#319)           an hour      6 seconds    Anti-Wizard's Core Headquarters
+Memory (#3396)        an hour      8 seconds    The Hole
+Nemesis (#2353)       an hour      9 seconds    Anti-Wizard's Core Headquarters
+Visual_Mark (#2809)   2 hours      50 seconds   Anti-Wizard's Core Headquarters
+smack2 (#3843)        11 minutes   3 minutes    Outside
+
+Total: 11 players, all of whom have been active recently.
+
+You say, "Whoa."
+You say, "What the fuck?"
+
+/world m
+---- World m ----
+Seth falls down laughing!!
+brett says, "sedate could be smack you know"
+Prowler says, "Viva la Revolution! "
+brett says, "crash-time"
+Prowler nods in agreement with brett.
+% Activity in world u
+You say, "mebbe..."
+Fish nods.
+/world u
+---- World u ----
+You hear the bips of keyclick, the sliding of mice and the hum of computers in
+the distance as Smack fades slowly out of view, heading towards them.
+/world m
+---- World m ----
+Seth says, "ok tell everyone first"
+You say, "Hmmm."
+% Activity in world u
+Fish says, "nope i was given told to @toad him if i could..."
+Prowler [to Fish]: who!
+Fish [to Prowler]: ah...Smack.
+
+page smack2 I think brett's getting ready to drop da bomb.
+Your message has been sent.
+
+Prowler claps in admiration for Fish.
+Visual_Mark grins.
+
+/world u
+---- World u ----
+There are the light bips of keyclick and the sliding of mice as Smack fades
+into view, shoving himself away from the console, which promptly fades away.
+Smack shrugs.
+% Activity in world m
+/world m
+---- World m ----
+Prowler jumps up and down, cheering in admiration for Fish!
+% Activity in world u
+/world u
+---- World u ----
+You say, "get that page?"
+/world m
+---- World m ----
+You sense that Smack is looking for you in Outside.
+He pages, "damn my spam dont work as good"
+Nemesis says, "Anyone know Wizard #2's password?"
+Fish . o O (but my wiz bit was gone...pout)
+% Activity in world u
+Prowler pouts.
+Nemesis says, "It's still here."
+Fish says, "nope.."
+
+page smack You mod the one I have?
+Your message has been sent.
+	     
+	     ( damn! )
+	    O
+	  o
+Prowler .
+Nemesis says, "It's disconnected."
+You say, "Heh."
+Visual_Mark [to Nemesis]: Smack does.
+brett [to Nemesis]: he locked it out
+/world u
+---- World u ----
+You sense that Smack is looking for you in Outside.
+He pages, "no I didnt"
+You sense that Smack is looking for you in Outside.
+He pages, "what is going on?"
+page smack Brett's working on the c                                   
+% Activity in world m
+page smack Brett's working on crashing the MOO...
+Your message has been sent.
+/world m
+---- World m ----
+You sense that Smack is looking for you in Outside.
+He pages, "yes but it ticks out..."
+You sense that Smack is looking for you in Outside.
+He pages, "what is going on there"
+
+page smack Got my capture file... they're plotting.
+Your message has been sent.
+
+brett says, "it would appear we're going down..."
+You sense that Smack is looking for you in Sedate's Crypto Lab.
+He pages, "what is he doing?"
+Seth slowly fades away.
+
+page smack Dunno, fork() mebbe? Sa ez it's what he did y to crash Lambda...
+
+You say, "So now what?"
+LAG, lag, lag,...Nemesis is experiencing lots-o-lag!!!!
+to brett          
+Prowler says, "I think I need to change the name of my room here.. make it
+ singular!"
+
+A whirl wind appears, Seth emerges, the whirl wind disappears.
+to brett          
+% Activity in world u
+Visual_Mark [to brett]: That you lagging us?
+Your message has been sent.
+Fish is rolling on the floor laughing!
+to brett          
+brett says, "eh?"
+Fish [to brett]: shut the bitch down!
+Seth falls down laughing!!
+Fish is rolling on the floor laughing!
+brett says, "I can't"
+brett says, "you can't stop it"
+Fish says, "shit.."
+You say, "forking ice hole."
+Prowler just tryed to move Memory, who is protected by Fish's player class.
+Seth says, "i hate this lagging"
+Visual_Mark smirks.
+You sense that Smack is looking for you in Sedate's Crypto Lab.
+He pages, "should I start toading?"
+
+page smack Probably...   ... (shrug)
+
+Prowler is crying!
+Your message has been sent.
+You say, "I expect we'll all get @toaded if he catches on..."
+Prowler has disconnected.
+brett says, "he already caught on"
+Visual_Mark nods.
+Fish nods.
+You say, "kinda obvious, eh?"
+Visual_Mark snickers under its breath.
+brett says, "He pages, "kill it now or i kill you""
+brett says, "as if I could"
+Fish says, "well iff we all run forked tasks.."
+You say, "hmmm."
+LAG, lag, lag,...Nemesis is experiencing lots-o-lag!!!!
+/world u
+---- World u ----
+You say, "hello?"
+Weekend_Guest has connected.
+That_Guest has connected.
+% Activity in world m
+Happy_Guest has connected.
+Bob's_Guest has connected.
+/world m
+---- World m ----
+Prowler has connected.
+Fish is rolling on the floor laughing!
+Visual_Mark [to brett]: what the hell really happened on MOOt, man? did
+ everybody just want you booted?
+Fish goes home.
+Seth slowly fades away.
+Visual_Mark gropes the mighty lag beast.
+You say, "huh?"
+You sense that brett (Immortal) is looking for you in Anti-Wizard's Core
+ Headquarters.
+He pages, "hey.. unix talk me... or go to irc"
+brett says, "of course"
+% Activity in world u
+Prowler looks to the sky.  The shadows around you appear to be moving.
+The shadows return to normal.
+Prowler has vanished!
+
+page brett Okay... just a sec...
+/world u
+---- World u ----
+You say, "Wow! A lot of Guests!"
+Outgoing_Guest has connected.
+smack2 nods.
+% Activity in world m
+/world m
+---- World m ----
+Your message has been sent.
+% Activity in world u
+brett says, "hmmm"
+brett says, "not more lag"
+brett says, "less"
+
+Meanwhile at PMC...
+
+You say, "Hey..."
+Smack says, " woooo"
+Smack sighs.
+Smack says, " that little asshole"
+Smack says, " i always hated that fucker"
+You say, "What's up?"
+Visual_Mark grins.
+Smack says, " the MOO musta crashed"
+Visual_Mark nods.
+You say, "I'mma try to find him on IRC..."
+You say, "He said to talk opage him just before I logged out..."
+Smack laughs.
+Smack goes to check the other windows
+You say, "I found him on IRC, he said either talk him or meet him on IRC..."
+Smack says, " tell him he is a prick and a toad"
+Smack says, " and I hav locked him out, and I will WILL kick his ass"
+You say, "haven't gotten reply from him yet..."
+Smack nods.
+Smack says, " still laughing?"
+Smack says, " I am ... "
+You say, "locked out of where?"
+Smack says, " I killed him at UMOO"
+You say, "Yep. Got some adrenaline goin still..."
+Visual_Mark nods.
+You say, "Hmmm..."
+< connected: Sedate. Total: 31 >
+Smack sighs.
+>From the outside, Sedate knocks politely and wonders if it may @join you?
+Smack says, " the other worlds are shut down"
+Sedate says, "huh?"
+You say, "worlds?"
+Smack [to Sedate]: hey man, you mooo is crasing
+Sedate nods.
+Visual_Mark [to Sedate]: Hola.
+Smack says, " its all bretts fault"
+Visual_Mark [to Sedate]: I have a huge capture file you'll probably want a
+ copy of.
+Sedate [to Smack]: at least i know you.
+Smack says, " those bastards are insolent"
+Visual_Mark [to Smack]: well...
+Visual_Mark grins.
+Sedate [to Visual_Mark]: yes please.
+Smack says, " i should have toaded them all"
+Visual_Mark [to Smack]: Toldja.
+% Connection to m failed: Connection timed out
+Sedate [to Smack]: now oyu see what I have to deal with, they don't like power
+ to begin with, I think its a pretty universal thing..
+You say, "fuck, still no response from Rivit. He must be afk..."
+You say, "I made a good crack when we were all congregated..."
+Sedate [to Visual_Mark]: what was it?
+You say, "I said I could explain the whole situ if they wanted..."
+You say, "prowler was whining about something..."
+Sedate says, "prowler is always whining."
+You say, "he said, 'I don't know what to do, suddenly there's no wizards...'"
+Sedate says, "in fact all of them are always whining."
+You say, "my only comment was: Zen without Zen masters"
+Sedate says, "But I like them."
+Visual_Mark grins.
+Sedate [to Visual_Mark]: oh deep.
+Visual_Mark grins.
+Visual_Mark smirks.
+Sedate [to Smack]: y'know, I don't care, what really bugs me...
+Sedate [to Smack]: is you.
+Sedate [to Smack]: I thought he was bitter
+Sedate points at Visual_Mark.
+Visual_Mark [to Sedate]: Heh?
+Sedate [to Smack]: but you...well...
+Visual_Mark laffs!
+Visual_Mark shits a couple bricks.
+Sedate [to Visual_Mark]: Your a biter, are you gonna chef code some FORUM
+ letters?
+Sedate [to Visual_Mark]: when you gonna send me the capture?
+Smack says, " what are you talking aobut"
+Smack says, " I have tried to kill bretts shit"
+Visual_Mark [to Sedate]: Jeez, impatient!
+Sedate [to Smack]: you are just an ass.
+Smack says, " but I cant seem to"
+Smack says, " the @forked and @kill all tick out"
+Sedate [to Smack]: yeah well....
+Visual_Mark [to Smack]: I wouldn't be surprised if he tries to hack your shit
+ for real..
+Smack says, "well that woudl suck"
+Sedate [to Smack]: I think smack2 is no accident etc...
+Visual_Mark grins.
+Visual_Mark [to Sedate]: Heh?
+Smack says, " huh? I made that on the fly"
+Smack says, " dont work anyway"
+Sedate says, "Nope, y'know, I thought you vaguely liked me..."
+Smack says, " something is wrong with @chparent"
+Sedate says, "But fuck that."
+Sedate nods.
+Smack [to Sedate]: whatever..
+Smack says, " I have done nothing to hurt anybody"
+Sedate [to Smack]: you're an ass, thats all.
+Visual_Mark lets out a long sigh.
+Smack says, " the system was fine till brett fucked with it"
+Sedate [to Smack]: oyu sure hurt the fuck outta me.
+Smack [to Sedate]: so are you so take you shit like you deal it out fucker
+Visual_Mark [to Sedate]: He's got a point.
+Sedate [to Smack]: when have I ever fucked oyu?
+You run off to hide.
+Smack gets pissed.
+Sedate [to Smack]: huh?
+Smack says, " you crashed my MOO didnt you?"
+Smack says, " how have I fucked you?"
+Sedate [to Smack]: you are just a uh I crashed it after you @toaded me.
+Smack says, " go cry to your mama. this is the wild frontier, or havent you
+ heard?"
+You say, "Sheesh."
+Smack [to Sedate]: IIIIII did not toad you!
+Sedate [to Smack]: I know now huh?
+You say, "dog eat dog"
+Smack sighs.
+Smack hands sedate a pacifier
+You say, "I think Rivit's site is victim of netsplit..."
+Smack says, "really you are worse that those rank newbies you rule..."
+Sedate [to Smack]: No, I am hurt by you, you fuck.
+Smack says, " I think rivits brain is gonna be a victim of my fist plit"
+Smack [to Sedate]: why are you hurt? cause I hacked you?
+Sedate says, "His rl name is Brett btw."
+You say, "now kids, if you don't quit arguing I'm going to pull over to the
+ side of the info-highway and you can both get out and walk!"
+Smack says, " cause I taught you a lesson"
+Visual_Mark [to Sedate]: Gee, I think I know that.
+Sedate [to Smack]: No cuz you were an ass about it.
+Smack says, " how was i am ass, I did what I needed to to protect MYSELD!"
+Sedate [to Smack]: Fuck loot at POINT where you changed my desc and shit...
+Smack says, " I did not permanant or malichious damage"
+Smack says, " SO WHAT!"
+Smack says, " you could change it back"
+Smack says, " get a fucking GRIP!"
+Sedate [to Smack]: I never even used to publib @boot verb on yo that anyone
+ can use..
+Smack says, " I thought you were a fucking MAN!"
+You say, "dooty-doo..."
+Visual_Mark [to Smack]: Heh.
+Smack goes to check his new moo
+Visual_Mark can smell the testosterone in the air.
+Sedate [to Smack]: thats not that point, the point is I am hurt, I feel
+ betrayed by you, and I liked you too.
+Sedate lets out a long sigh.
+You say, "I can't take a side in this one."
+Sedate [to Visual_Mark]: I hope this makes for a good read later.
+Smack sighs too.
+Smack says, " I have almost hacked bretts shit I think"
+Visual_Mark [to Sedate]: I'm sure it will.
+Visual_Mark [to Smack]: Heh.
+Smack says, " if its not alredy to lare"
+Smack says, " late"
+Sedate [to Smack]: I can't even fuckin' flirt cuz of how hurt I am.
+Smack says, " I have tracked down the good damn verb!"
+Visual_Mark [to Sedate]: aww
+Sedate kisses Visual_Mark lightly on the cheek.
+Visual_Mark [to Sedate]: Come on, what's the big deal?
+Smack [to Sedate]: good maybe it will teach you a little fucking humility, its
+ called ego death, deal with it!
+Sedate grins at Smack.
+Visual_Mark [to Sedate]: If he really wanted to do damage he could have
+ recycled #2 or some shit...
+Sedate [to Smack]: so its too big to die, just a bit hurt.
+Smack  huh?
+Sedate [to Smack]: the point I liked you, I trusted you, that is the entire
+Smack is still waiting on the results from his kill
+Visual_Mark has cranked the rumor mill good and hard...
+With a puff of steam and perfume, the Rumor Mill cranks out :
+     "Dagny is in charge of coverup missions for the FBI."
+Sedate kisses Rumor Mill lightly on the cheek.
+Visual_Mark adds a new rumor to the Rumor Mill...
+Smack [to Sedate]: you were a sucker just like barney
+Sedate nods in agreement with Smack.
+Smack says, " I am out to learn something here.."
+------------------------------- Visual_Mark -------------------------------
+addr "hacked Sedate's lil MOO!" to mill                                       
+  
+------------------------ Visual_Mark stops pasting ------------------------
+Sedate [to Smack]: how'd Barney trust oyu?
+Visual_Mark grins.
+Smack says, " sorry if my meathods offeend"
+Smack says, " I am the Ubermensch"
+Visual_Mark smirks at Smack.
+Smack says, " barney trusted you"
+Sedate [to Smack]: so you played me all along again huh?
+Smack says, " what a MORON!"
+Visual_Mark eats some Neitzche Pops cereal.
+Sedate [to Smack]: he did?
+Smack [to Sedate]: I TOLD YOU! !@!!!O:KERHJ:LJF
+Sedate [to Smack]: told me what?
+Smack says, " YOU can NOT make an ADMIN CLASS!"
+Smack says, " so fuck yoU!"
+Sedate [to Smack]: sure, just remove the @set on it....
+Smack GROANS!
+Visual_Mark whistles innocently.
+Smack says, " there are a MILLION HOLES!"
+Smack GRRS!
+Sedate [to Smack]: if oyu can't @set then what, and @chparent too I guess...
+Smack says, " and it DEFEATS the fucking POINT!"
+Sedate [to Smack]: what point?
+Visual_Mark sighs and reads its capture buffer.
+Smack says, " we already went over this, "
+Sedate [to Smack]: no we didnt you might talk to other people but to me you
+ are jst usualy rude and abrupt.
+You say, "well, boys..."
+Sedate [to Visual_Mark]: hush.
+Visual_Mark runs to get some food, back in a couple min...
+Smack says, " whats the point of wiz verbs and wizards...."
+Visual_Mark [to Sedate]: blow me
+Visual_Mark is away from the keyboard right now.
+Smack [to you]: hey wiaty
+Sedate [to Visual_Mark]: so stuff can get done...
+Smack DAMNS!
+Sedate says, "oops to you."
+Smack says, " ever notice the sign in the anti-wiz headquarters..."
+Sedate [to Smack]: uh I think so, but I don't remember it.
+Smack [to Sedate]: have you learned nothing in a year?
+Sedate knows there is a sign...
+Sedate [to Smack]: nope.
+Smack says, " it says VIVA LA REVOLUCION!"
+Sedate [to Smack]: what is there to have learned besides don't trust anyone?
+Smack says, " and I DIDNT put it there..."
+You say, "you guys are like a couple girls fighting over borrowing the others'
+ lipstick."
+Visual_Mark smirks.
+Sedate [to Visual_Mark]: wit.
+Smack [to Sedate]: dont play coy, you screw head...
+Sedate [to Smack]: yeah well I didn't make the MOO server.
+Smack [to you]: did you see the sign in the anti-wiz headquarters?
+Smack says, " looks like the MOO is toast"
+Smack says, " I am on as brett and i cant stop it..."
+Sedate [to smato]: smack @shutdown 1 is good.
+Smack says, " you want me to shut it down>"
+Visual_Mark returns.
+Sedate nods.
+Sedate says, "it'll be started in the morning..."
+Smack says, " if it crahes during shutdown it can be bad news"
+Sedate [to Smack]: how?
+Visual_Mark [to Smack]: Yeah, the sign and all the messages on *MOO are in my
+ capture file..
+Smack says, " looks like its already froffed"
+Smack  shutsdown anyway
+Visual_Mark [to Smack]: Did you @toad all sites or something?
+Smack says, " I think it is too late"
+Smack [to you]: no not at all
+Smack says, " just booted brett and logged on as him"
+Visual_Mark can't log in...
+Smack says, " its fucking fried"
+Visual_Mark nods.
+You say, "wicked"
+Smack says, " I havent gotten any response in 8 minutes"
+Sedate nods.
+Visual_Mark [to Sedate]: You can't blame any one person.
+Smack says, " I have 3 windows open"
+Sedate says, "well this'll be a good chance for me to get access to the MOO
+ account.."
+Smack says, " and I am sending commands in all of them"
+Sedate [to Visual_Mark]: yeah I know, me and him.
+Sedate points at Smack.
+Visual_Mark grins at Sedate.
+Smack says, " we didnt crash the mOO"
+Sedate [to Visual_Mark]: me for being such a trusting idiot.
+Smack says, " that was not my intent"
+Visual_Mark [to Sedate]: And Brett.
+Sedate [to Visual_Mark]: and him for being him.
+Smack says, " I expected a reboot'"
+Sedate [to smach]: bullshit.
+You say, "Heh."
+Smack shrugs.
+Visual_Mark [to Sedate]: Then why didn't it happen immediamente?
+Smack says, " and if not, then tomarrow i would have given bits to anyone who
+ asked"
+Sedate [to Visual_Mark]: blaming brett is like blaming looters for looting
+ dutring a riot, its something you do.
+Smack says, " then the rioters are also to blame"
+Visual_Mark [to Sedate]: Well...
+Visual_Mark grins at Smack.
+Sedate says, "tho he will still be @blacklisted."
+Smack says, " those fucking babies"
+You say, "Yeah! We're ALL to blame!"
+Visual_Mark [to Sedate]: Why?
+Smack says, " I should have toaded them"
+Visual_Mark nods in agreement with Smack.
+Sedate [to Smack]: no, they neither, just you, the incitor.
+Sedate says, "and me the idiot."
+Sedate [to Smack]: the fool.
+Smack says, " then feel free to @toad me from you MOO"
+Visual_Mark [to Sedate]: May as well @blacklist yourself, too.
+Sedate [to Smack]: naw, oyu wouldn't care.
+Visual_Mark grins.
+Smack says, " I didnt do nuthin nasty"
+Smack says, " just tried to fix what I saw wsa broken"
+Visual_Mark [to Sedate]: The capture files tell all...
+Smack says, " if I hadent done it some one else woudl have"
+Sedate nods in agreement with Smack.
+Smack says, " and they might have been nastier"
+Smack says, " you implemented that WITHOUT any popular consent"
+You say, "hmm. time for some sugary dessert..."
+Visual_Mark is away from the keyboard right now.
+Smack says, " I am all for isocracy myself... wiz everybody..."
+Sedate [to Smack]: it wasn't impimented at all..I just wanted to see if oyu
+ tought it was good, there were no other admins..
+Smack says, " well you started handing it out like it was ready"
+Smack says, " what fucking use did I have for it?"
+Smack says, " I dont need or deserve a bit, or didnt you read my post to *wiz?"
+Visual_Mark grins.
+Sedate [to Smack]: I posted that note to see if the complainers would
+ volunteer, thus confirming my thoughts that they didnt think they were gonne
+ get power, so why should anyone else?
+Smack says, " I posted that I would hack it, if given the oppurtunity"
+Visual_Mark hopes those posts are intact still...
+Unanswered_Guest teleports in.
+Smack says, " we cant see em anyway VM"
+Visual_Mark bows to Unanswered_Guest.
+Smack waves.
+Visual_Mark [to Smack]: Whyzat?
+Sedate hopes they have a db from earlier today and not last month.
+Smack [to you]: they are on *wiz
+You say, "oh, to *wiz"
+Visual_Mark nods.
+Visual_Mark [to Unanswered_Guest]: Wassup?
+Smack says, " well it seemed to back up when I was on line"
+Smack grins.
+Visual_Mark [to Unanswered_Guest]: Hello? Anybody home?
+Smack says, " I would be happy to give some bits out..."
+Unanswered_Guest leaves for the in.
+You say, "Me! Me!"
+Smack says, " i would have anyways you know"
+Visual_Mark grins.
+Visual_Mark sticks his thumb in his bit.
+Smack says, " I wouldnt have crashed you fucking little precious moo"
+Smack says, " though I did recycle a few things of yours"
+Visual_Mark grins.
+Smack says, " it hurt me that you left in my moment of glory"
+Sedate [to Smack]: I don't care about that, its your betrayak that pisses me.
+You say, "Et tu Smack?"
+Sedate [to Smack]: its ow you treat my trust like shit, fine then.
+Visual_Mark snickers under its breath.
+Smack says, " you shouldnt have run away, we could have talked about your
+ feelings"
+Sedate nods in agreement with Visual_Mark.
+% Activity in world m
+% Connection to m closed.
+/world m
+---- World m (dead) ----
+*** Timed-out waiting for login. ***
+---- World pmc ----
+Smack [to Sedate]: I still like you , but i dont like your tone
+Sedate [to Visual_Mark]: I hope you captured that line, it sums it up.
+Smack says, " its like tha of a hypocrit... oooo"
+Visual_Mark [to Sedate]: Which?
+Smack says, " bretts window is open"
+You say, "The ole file is still runnin..."
+Sedate [to Smack]: hypocrasy is my greatest gift.
+cherubus sees: Visual_Mark grins. Hiya.
+Smack says, " i think you are covering your ass, thats IT!"
+% Activity in world m
+/world m
+*** Connected ***
+/world pmc
+---- World pmc ----
+Smack says, " you are pissed cause you have to be'"
+% Activity in world m
+/world m
+@who
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+Visual_Mark (#2809)   11 seconds   a second     Extropy
+Fish (#319)           22 seconds   33 seconds   PLAcE OF DeStRuctIoN
+brett (#3677)         22 minutes   57 seconds   Anti-Wizard's Core Headquarters
+Smack (#2807)         54 minutes   57 seconds   Sedate's Crypto Lab
+Nemesis (#2353)       2 hours      57 seconds   Anti-Wizard's Core Headquarters
+smack2 (#3843)        an hour      33 minutes   Outside
+Memory (#3396)        2 hours      48 minutes   The Hole
+
+Total: 7 players, 5 of whom have been active recently.
+/world pmc
+---- World pmc ----
+"Hey... we're on...
+/world m
+---- World m ----
+% Activity in world pmc
+@join brett
+You join brett (Immortal).
+/world pmc
+---- World pmc ----
+Smack says, " who cares its just a peice of restorable code"
+Sedate [to Smack]: covering it, of course I am covering it, but I am trying to
+ explain the pain inside me, and its cuz of you.
+You say, "Hey... we're on..."
+% Activity in world m
+Smack shecks brett
+/world m
+---- World m ----
+Anti-Wizard's Core Headquarters
+
+You have now entered the elite headquarters of the Anti-Wizard Core.
+
+As you look around the room you notice several posters plastered to the walls.
+
+Posters read:   
+-Viva la Revolution!
+-We should be treated proper! NOT like lab rats.
+brett (Immortal) and Nemesis (Bringer of Divine Justice) are here.
+For the best picture, please adjust your tracking.
+brett says, " the moo is gonna crash"
+% Activity in world pmc
+You say, "Hey!"
+to brett You get my pages?
+@next on *moo
+/world pmc
+---- World pmc ----
+You say, "How'd the system come back on?"
+Smack says, " ok I have initiated shutdown"
+Smack says, " cant kill bretts tasks"
+Visual_Mark is rolling on the ceiling laughing!
+Smack says, " its just cycling comands"
+Smack says, " we were on the task list for a sec then the next fork hit"
+Sedate wonders what bretts code was tho'...
+Smack says, " it will probably crash before it counts 2 minutes"
+Visual_Mark [to Smack]: Same shit he did on Lambda...
+Smack [to Sedate]: you have hurt lots of people withyour behavior, this hole
+ community, o GET USED TO IT!
+Sedate [to Smack]: no'one who trusted me as much as I liked and trusted you.
+to sed Shit, it's not like he raped your mom or something.
+Visual_Mark [to Sedate]: Shit, it's not like he raped your mom or something.
+Smack sighs.
+Smack says, " you dont trust me anymore eh?"
+Smack says, " well I NEVER trusted you  EVER!"
+Sedate says, "I don't care."
+Smack says, " well thats sad, cause I still want to be your friend"
+Smack says, " but maybe you wont fucking kiss me anymore!"
+Smack says, " is very upset he has had to use the word fuck so much"
+Smack says, " makes me sound like beavis or whatever.,..."
+You say, "fuck, you guts need to relax"
+You say, "and I thought _I_ got irate."
+
+>> Time is now Fri Nov 18 02:44:02 1994 EST
+
+Smack [to you]: no shit, I am pissed that the moo got crashed on my watch
+page cherubus It's hard cuz they're both my friends...
+cherubus hears your page, like the song of lost memories.
+Smack says, " its really buggin me..."
+Visual_Mark [to Smack]: Not much you can do about it now...
+Smack nods.
+Visual_Mark notes there was a new @post to *moo, but I didn't get it...
+Sedate [to Visual_Mark]: the new post was me...
+Visual_Mark [to Sedate]: Really? Got it on file?
+Sedate [to Visual_Mark]: tellin people to save their work, the MOO will be
+ back tomorrow morning..and life would be fine as always...
+Sedate [to Visual_Mark]: mebbe lemme check..
+Smack sighs.
+Sedate [to Visual_Mark]: nope it just ran off...
+Smack says, " too bad, I would have made a great head wizard..."
+Visual_Mark [to Sedate]: That's what Fish @shouted earlier...
+You say, "Is it dead yet? The MOO?"
+Visual_Mark [to Sedate]: Are you on an X-terminal?
+Sedate [to Visual_Mark]: nope.
+Smack says, " well it might have a few more cycles"
+Visual_Mark [to Sedate]: So you can't multi-wank?
+Smack says, " if it shutsdown, everything will be cool"
+Sedate [to Visual_Mark]: nope.
+Visual_Mark shrugs its shoulders.
+Visual_Mark has cranked the rumor mill good and hard...
+With a puff of steam and perfume, the Rumor Mill cranks out :
+     "ThBeaver wishes ZEUS would learn the difference between gay and
+ straight."
+Smack says, " but the @forks far out of control..."
+Smack says, " brett is just ticking out..."
+Visual_Mark nods.
+Smack [to Sedate]: would it make you feel better if i said I was sorry that it
+ got out of control?
+You say, "I'm not."
+Visual_Mark grins.
+% Activity in world m
+/world m
+---- World m ----
+brett says, " helping what?"
+Visual_Mark [to brett]: You get my pages?
+*** The server will be shut down by Smack (#2807) in 2 minutes: 1 ***
+Nemesis says, "What?"
+% Activity in world pmc
+/world pmc
+---- World pmc ----
+You say, "It's fuckin chaos, bay-bee!"
+% Activity in world m
+Sedate says, "No, but I do feel good that most of it will be erased, and now I
+ am wondering about damage control, I think I will blmae it all on brett..."
+/world m
+---- World m ----
+Message 50 on *MOO-chat (#3482):
+Date:     Fri Nov 18 01:54:21 1994 EST
+From:     Sedate (#104)
+To:       *MOO-chat (#3482)
+Subject:  Hmmmmmm the little bug that was found in admin
+
+Save all your work if you can folks, the MOO will be restarted tomorrow
+ morning early and Smack will no longer be a problem, just try to save any
+ work oyu have done in the last few days.
+Sedate.
+
+PS, everything will be fine, and we can discuss everything later...
+--------------------------
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+Visual_Mark (#2809)   11 minutes   9 seconds    Anti-Wizard's Core Headquarters
+Malachi (#3636)       5 seconds    16 seconds   The Industrial lounge
+Guardian (#333)       11 minutes   26 seconds   The Casino--First Floor
+brett (#3677)         33 minutes   26 seconds   Anti-Wizard's Core Headquarters
+Smack (#2807)         an hour      26 seconds   Sedate's Crypto Lab
+smack2 (#3843)        an hour      26 seconds   Outside
+Nemesis (#2353)       2 hours      26 seconds   Anti-Wizard's Core Headquarters
+Memory (#3396)        2 hours      an hour      The Hole
+
+Total: 8 players, 7 of whom have been active recently.
+You say, "Say...."
+You say, "Huh?"
+/world pmc
+---- World pmc ----
+You say, "I got a lil text from UMOO..."
+Smack says, " always looking for a way out eh?"
+Smack [to you]: that was our one cycle
+You say, "Heh."
+Visual_Mark [to Sedate]: Blame me! I wanna be the scapegoat!
+Smack says, " the @shutdown is in process"
+Visual_Mark nods.
+Sedate [to Visual_Mark]: its ok the text will only substatiate me.
+Smack says, " but brett ticked WAY out, didnt even come up with the task
+ number I bet..."
+Visual_Mark [to Sedate]: Uh...
+Sedate says, "people can see your @shutdown message."
+Visual_Mark [to Sedate]: I'm just an historian here. I have no biases either
+ way.
+You fall down laughing.
+You say, "I'm a neutral party."
+Visual_Mark snickers under its breath.
+Sedate says, "tho' I am not going to go to school tomorrow."
+Visual_Mark has cranked the rumor mill good and hard...
+With a puff of steam and perfume, the Rumor Mill cranks out :
+     "Goat spends a bunch of time perusing the alt.sex.beastiality newsgroup."
+Visual_Mark [to Sedate]: Good excuse... 'my dog ate my MOO'...
+Smack [to Sedate]: how come?
+Visual_Mark grins.
+Smack says, " viva la revolucion..."
+Smack says, " tell em you meant for that to happen"
+Sedate says, "i fact I should mail the sys-admin explaining the whole
+ thing...and how there was a bug in admin that some player got ahold of, and
+ they fucked around, then how brett crashed it..."
+Smack says, " it was an expirement"
+Visual_Mark looks for Che Guevera to pop out of the woodwork.
+Smack says, " what did I have to do with brett crashing the moo"
+Smack says, " he wanted me to make him an admin the little prick"
+Visual_Mark [to Sedate]: What's his address and I can mail him a doctored
+ capture file. ;)
+Sedate [to Visual_Mark]: sure, I'll even explain that it was all captured...
+Visual_Mark smirks.
+Smack [to Sedate]: some player? I am hurt, Im not just any old phreak...
+Visual_Mark [to Sedate]: Double-plus good!
+Sedate says, "Wow, I'm even begining to believe myself."
+Visual_Mark grins at Smack.
+Sedate kisses Smack lightly on the cheek.
+Sedate [to Smack]: oh Smack, life is never dull with you around.
+You say, "We've always been at ware with Eastasia."
+You say, "ware=war"
+Smack says, " happyhead pages, hello splat, start counting flat boy, its
+ coming soon..."
+Visual_Mark [to Smack]: Eh?
+Smack sighs.
+Sedate says, "I will explain that maybe admin isnt a good idea unless we can
+ guarantee there won't be any bugs..."
+Visual_Mark [to Sedate]: Wow, he's gonna be almost as popular as you!
+Smack says, " dont ask me"
+Smack says, " admin is not a good idea period"
+Sedate says, "happyhead pages what?"
+Smack says, " hello splat, start counting flat boy, its coming soon..."
+Sedate [to Visual_Mark]: no he won't I wont give him the opportunity for fame,
+ it will all go to brett.
+You say, "flat boy!? Hee hee."
+% Activity in world m
+Sedate says, "flat boy whats that?"
+/world m
+---- World m ----
+Smack shouts, "i am shuting down the MOO by Sedates authority, brett has
+ crashed it... congrats you will get your old DB back cry babies..."
+*** The server will be shut down by Smack (#2807) in 1 minute: 1 ***
+Nemesis has disconnected.
+brett says, " I have crashed the MOO"
+% Activity in world pmc
+You say, "Hey..."
+/world pmc
+---- World pmc ----
+Smack shrugs.
+Sedate [to Smack]: smart of you to keep #2.wizard tho.
+% Activity in world m
+/world m
+---- World m ----
+Visual_Mark bows to brett.
+brett is an ass
+Visual_Mark [to brett]: Good show.
+@who
+"Hey...
+% Activity in world pmc
+@read next on *moo
+/world pmc
+---- World pmc ----
+Sedate says, "hey anyone want to be famous tonight?"
+Sedate [to Smack]: besides you?
+You say, "Me! Me!"
+Sedate says, "And why do the wizards keep telling me that I am an authority
+ figgure here and that I should be more responsible???"
+Smack says, " looks like the shutdown will go"
+Visual_Mark smirks.
+Smack says, " in one more revolution"
+Visual_Mark nods in agreement with Smack.
+Smack says, "you are an authority figure here?"
+Sedate [to Visual_Mark]: really wanna be famous?
+Visual_Mark [to Sedate]: Shit, authority on what?
+Smack [to you]: nice abuse of brett eh?
+Visual_Mark [to Smack]: Abuse?
+Sedate [to Smack]: I dunno, both bookish and Defender have said that now...it
+ bugs me.
+Smack says, " ya, using his player to announce his guilt"
+Smack [to Sedate]: ya they really hate you
+Sedate [to Smack]: I know, esp bookish.
+You say, "Heh."
+Smack says, " they told me so, I think they will really like me now that I
+ have betrayed you "
+Lazarus falls rapidly from the sky into the room and lands with a loud >>
+ *SPLAT!* << sound.  Ouch... I bet that hurts!
+Lazarus says, "greets..."
+Visual_Mark grins at Smack.
+Smack [to Sedate]: you are so persecuted, just like jesus.
+Lazarus says, "whas up?"
+Visual_Mark bows to Lazarus.
+Visual_Mark [to Lazarus]: Much has happened in your absence.
+Smack [to Lazarus (may have been bugged by Ashley)]: howdy
+Lazarus gives Visual_Mark a serious wedgie!
+Lazarus [to Visual_Mark]: as usual...
+Visual_Mark [to Smack]: Hey, we've started a temple of Sedate...
+Visual_Mark [to Lazarus]: S'okay, I'm playing historian on this one...
+Visual_Mark pats his hard drive.
+Visual_Mark smirks.
+Lazarus [to Smack]: tell me about the @audit verb of MOOt... how can you block
+ it - a core db mod?
+Smack [to you]: cool, I ported the cybernetic lab BTW 
+Lazarus [to Sedate]: greets...
+Visual_Mark grins at Smack.
+Smack [to Lazarus (may have been bugged by Ashley)]: i think so, or actually
+ you just remove the object from your .owned_objects..
+Lazarus says, "a temple of Sedate?"
+Lazarus says, "a statue?"
+Visual_Mark [to Lazarus]: Wanna work on it?
+Lazarus says, "who's getting 15 minutes of fame now, Seddy?"
+Lazarus smirks.
+You say, "It's in Arius's shit right now, but I can log in as him and @chown
+ it..."
+Smack is.
+sual_Mark [to Lazarus]: Smack, Brett, Sedate, and Grandma Moses.
+Smack says, " you can chown here?"
+Smack says, " i dont think so..."
+Visual_Mark [to Smack]: Can't you?
+You say, "never done it"
+Lazarus [to Smack]: doubtful...
+Smack shakes his head.
+Smack says, " i dont think so..."
+You say, "hmm, how else can you open it up for modding by others...?"
+Lazarus [to Smack]: .owned_objects here is owned by Wizard #2 and they deny
+ permission on it...
+>> Time is now Fri Nov 18 03:03:38 1994 EST
+Smack says, " change the perms to +w"
+You say, "kewl"
+Smack [to Lazarus (may have been bugged by Ashley)]: then you are screwed...
+Visual_Mark [to Sedate]: Still here?
+Smack [to you]: he is crying
+Lazarus [to Smack]: what if I create my own player class that's a copy of my
+ current one?  Will all the props and verbs revert over to my ownership or do
+ they retain their owners props?
+Smack [to Sedate]: maybe if you had begged...
+Visual_Mark smirks.
+Visual_Mark [to Sedate]: idlechild
+Smack [to Lazarus (may have been bugged by Ashley)]: depends, probably on that
+ one, it will still be wiz owned
+Lazarus screams horribly and dies before your eyes, slumping into a heap of
+ tattered rags.  The ground opens up underneath him and swallows him whole!
+Lazarus has disconnected.
+Lazarus has connected.
+Lazarus rises from the dead again and stands before you wrapped in tattered
+ clothing!
+Lazarus . o O ( boink! )
+Vengeance teleports in.
+Lazarus smirks.
+Lazarus smacks his head with Smack!
+Visual_Mark bows to Vengeance.
+There has been a change to news article 29 (RiverMOO Grand Opening).  Please
+ check "news" for more information.
+Visual_Mark has an edit job to get to...
+Smack [to Vengeance]: odd spelling you got there..
+Lazarus says, "duh... I didn't remember to +w the props... sheesh.  Picked a
+ bad week to stop sniffing glue."
+Visual_Mark will idle for a bit...
+Visual_Mark zones.
+Smack sighs, waits for UMOO to shutdown
+Lazarus says, "hmms."
+Smack [to Lazarus (may have been bugged by Ashley)]: what?
+Sedate says, "anyone have @paste?"
+You say, "I'll be popping over every min or so..."
+Sedate was out writing letters...
+Smack  nopes.
+Visual_Mark nods in agreement with Sedate.
+Visual_Mark [to Sedate]: Why?
+Sedate [to Visual_Mark]: I have a letter to @paste...
+Lazarus says, "somewhere there's a paste... VM has one."
+Smack [to you]: give it to im...
+You say, "Ummm..."
+You say, "It's on an @fo here..."
+-----------------------Sedate (#6473) @pastes:------------------------
+Yes, unfortunatley there was a big hole in the class, Smack ot a hold of
+it and was about to have a little fun at my expense, but brett decided
+that now was the time to crash the MOO, he has crashed Lambda MOO on
+occaision, so he is rather experienced at it, and I think he did a pretty
+good job, so tomorrow who can first please type help @blacklist and use
+the appropriate @blacklist or @redlist on his site, and @toad him, and
+@newt smack until further discussion, oh yeah and please type @rmverb
+$admin:@chparent and @rmverb $admin:@set  this was how he gained access,
+and yes Magenta, I will have to ask Pavel how it happened because I have
+no idea that there was a hole in chparent() like that, I figured that -f
+meant an object wasn't fertile, mayybe we should type @seel for holes in
+out core, i think there might be one onhings back in order.
+Tosh
+----------------------------End of @paste-----------------------------
+% Activity in world m
+Visual_Mark snickers under its breath.
+/world m
+---- World m ----
+*** The server will be shut down by Smack (#2807) in 30 seconds: 1 ***
+% Activity in world pmc
+/world pmc
+---- World pmc ----
+Sedate smiles.
+% Activity in world m
+You say, "It's gonna be a long 30 sec!"
+/world m
+---- World m ----
+You smile.
+% Activity in world pmc
+*** The server will be shut down by Smack (#2807) in 10 seconds: 1 ***
+/world pmc
+---- World pmc ----
+Sedate nods.
+% Activity in world m
+/world m
+---- World m ----
+Player name           Connected    Idle time    Location
+-----------           ---------    ---------    --------
+Sedate (#104)         5 seconds    22 seconds   Sedate's Crypto Lab
+Visual_Mark (#2809)   32 minutes   35 seconds   Anti-Wizard's Core Headquarters
+Malachi (#3636)       21 minutes   36 seconds   The Industrial lounge
+brett (#3677)         54 minutes   13 minutes   Anti-Wizard's Core Headquarters
+Memory (#3396)        2 hours      14 minutes   The Hole
+Smack (#2807)         an hour      14 minutes   Sedate's Crypto Lab
+smack2 (#3843)        an hour      21 minutes   Outside
+
+Total: 7 players, 3 of whom have been active recently.
+You say, "Hey..."
+% Activity in world pmc
+*MOO-chat (#3482) has no next message.
+*** Server shutdown by Smack (#2807): 1 ***
+*** Disconnected ***
+% Connection to m closed.
+---- World pmc ----
+Smack says, " I dunno why chparent didnt work that time"
+Lazarus says, "FO #8505 has one... @paste <prefix> <sufix>"
+Smack says, " did work that one time"
+You say, "Wow."
+Smack says, " but why newt me?"
+Visual_Mark lets out a long sigh.
+You say, "I got it all."
+Sedate [to Smack]: prevent the truth hee hee.
+You smile.
+Lazarus says, "um, what exactly is 'afoot'?"
+Sedate smiles at Smack.
+Lazarus says, "the short version..."
+Visual_Mark [to Sedate]: Hey, you can't kill the patsy just yet...
+Sedate [to Lazarus]: vm will  send you the capture file.
+Visual_Mark nods in agreement with Lazarus.
+Smack says, " if they boot one of my DB's then there will be no wizards.."
+Lazarus says, "aaaah... heh"
+Visual_Mark [to Lazarus]: Bascially it's like this...
+Sedate nods in agreement with Smack.
+Smack says, " the MOO shutdown BTW"
+Sedate [to Smack]: but I told the sys-admin to boot oe form before midnight.
+Visual_Mark [to Lazarus]: Sedate made an admin class on U-MOO...
+You say, "He let Smack beta-test it, who hack wiz perms, stipped everyone
+ else's wiz bit..."
+Sedate [to Lazarus]: and smack hacked it and crashed the MOO
+You say, "while brett (aka rivit) fork()ed the fuck out of something that sent
+ it on a tailspin..."
+Sedate [to Visual_Mark]: by saying he hacked it makes it sound like he did
+ something...
+Lazarus says, "UMOO?"
+Smack didnt know he was beta-testing... thought he was first on the block,
+Sedate nods in agreement with Lazarus.
+Visual_Mark nods in agreement with Lazarus.
+Lazarus says, "oh"
+You say, "anyway, that's my unofficial blurb based on what I've seen..."
+You say, "history = his story"
+Lazarus hands out machetes...
+Lazarus . o O ( destroy the evidence... )
+Sedate nods in agreement with Lazarus.
+Visual_Mark grins at Lazarus.
+Smack says, " well the moo shutdown, good luck finding something before
+ midnight thogu"
+Smack says, " the DB backed up while I was on... and the shutdown will make a
+ copy too, that means mine are the only 2 copies (i think)"
+Lazarus smirks.
+Visual_Mark grins.
+Sedate [to Smack]: yeah I know.
+You say, "find what?"
+Visual_Mark [to Smack]: ooh
+Lazarus says, "it getting hard to keep up with all the MOO's and wizards
+ lately."
+Sedate [to Smack]: might lose a bit of work, but thats ok, I haven't done much
+ lately.
+Smack says, " mostly you just keep 2 backups and one current, which is down..."
+Lazarus [to Visual_Mark]: didja get that VIC-20 tinyMOO port, heh.
+Vengeance has disconnected.
+Visual_Mark [to Lazarus]: Not yet... ;)
+Smack [to Sedate]: why not boot one of mine, I will give you my pass word ...
+Visual_Mark is editing the capture files, hence the lag in response...
+You say, "only editing out sensitive info, like pwd's to my ftp site, etc..."
+Lazarus says, "who was the V-man?"
+Sedate [to Visual_Mark]: how long will it be up?
+Smack [to you]: clean up my spelling if you would...
+Visual_Mark shrugs to Lazarus.
+Visual_Mark [to Sedate]: What?
+Visual_Mark [to Smack]: Funny.
+Sedate [to Visual_Mark]: yeah and edit me out too huh?
+Lazarus [to Visual_Mark]: fed... blackhat... hangar 18 - probably kibo
+Visual_Mark [to Sedate]: Edit the peanuts out of my shit.
+Visual_Mark [to Lazarus]: Hee hee.
+You say, "ooh, this is good stuff..."
+Smack [to Sedate]: actually if you have to log in to one of my DB's ...
+Smack [to Sedate]: use smack2 blah
+Sedate [to Smack]: oh, thanks.
+Smack says, " he has a bit, but is not a wizard, you will have to hack your
+ way through that"
+Smack says, " or change my password and log in as me"
+Sedate [to Smack]: what kiind of bit?
+Smack says, " a wiz bit"
+Smack says, " wizard = 1"
+Visual_Mark [to Smack]: Hey, what did rivit do on MOOt?
+Smack says, " but I couldnt @chparent"
+Sedate nods.
+Smack [to you]: a bunch of dumb shit
+You say, "like?"
+Smack says, " he crashed it by riding the bike ride 100 times"
+Visual_Mark smirks.
+You fall down laughing.
+Smack says, " I dont remember what all else..."
+Visual_Mark chuckles.
+You say, "Phuckin bike ride."
+Visual_Mark snickers under its breath.
+The housekeeper arrives to cart Vengeance off to bed.
+Smack nods...
+Visual_Mark has cranked the rumor mill good and hard...
+With a puff of steam and perfume, the Rumor Mill cranks out :
+     "Alister licks things that may be illegal to lick... like 11-year-olds."
+Lazarus says, "mountain bike ride..."
+Sedate says, "ME TOO!!!!!!!"
+Sedate [to Smack]: pretty stable site tho huh?
+Smack [to Sedate]: me too what?
+Smack says, " oh 11 yearolds"
+Sedate says, "likes 11 yr olds."
+Sedate nods.
+Smack [to Sedate]: till the end....
+You say, "Shit..."
+Smack says, " wasnt when rivit crashed it, I dont think..."
+Visual_Mark snickers under its breath.
+Lazarus whistles innocently.
+Smack wonders what HappyHead meant... 
+Sedate [to Smack]: he knows what happened, I think he's trying to be
+ threatening...
+Smack says, " oooo scary..."
+Smack says, " what does he _know_?"
+Smack says, " and what are my just deserts?"
+You say, "flatboy!"
+Visual_Mark [to Lazarus]: FLATBOT FLATBOY FLATBOY!
+Smack laughs at his two-dimintiality
+Sedate [to Smack]: I dunno, I got mail from him to all the wizzes, lemme paste
+ it...
+Smack laughs.
+Smack says, "nemesis called him, what a whiner..."
+Smack says, " I should have toaded them all, brett first..."
+Sedate says, "Nemesis is a whiner yes, and a kiss ass you should see the mail
+ form him to *wiz..."
+Smack says, " but I told them I wouldnt, so they fucking spammed me"
+Sedate says, "Anyways, I check my mail..and theres a letter from HHead.....in
+ it he says....and I hadn't spoken with him either let me tell you...:"
+-----------------------Sedate (#6473) @pastes:------------------------
+Looks like the Admin PC was a bad idea.
+If you haven't already found out, Smack got an Admin bit, hacked a
+wizbit, and fraged us all.   Looks like it's nasty time.  Anybody got a
+good CORE file to mail him?
+----------------------------End of @paste-----------------------------
+Visual_Mark [to Lazarus]: See, you missed all the fun.
+You say, "core dump?"
+Sedate nods.
+Smack says, " i know, nemesis called him and told him what was up"
+Sedate says, "tho we have all limited ou coredumpsize=0 so we get one"
+Smack says, " nemesis was telling this to brett..."
+Sedate laughs!
+Lazarus says, "if I could get wiretap.spies.com reachable on a gopher slate
+ again I got a pointer to kibo's .sig file... show it to <playernumber and
+ several thousand lines of kibospam(tm) spews forth."
+Sedate says, "yuck."
+Sedate regains his faculties, and regroups...
+Smack says, " I hate mail bombs, I hope your crew aint that lame,"
+Sedate [to Smack]: no they won't...
+Smack says, " my host site has NOOOOOOOOO space"
+Visual_Mark grins at Lazarus.
+Lazarus [to Visual_Mark]: I'm always off doing brain surgery and rocket
+ science - I miss all the fun...
+You say, "I got lotsa room..."
+Sedate says, "But I should make another post tho'....."
+Visual_Mark [to Lazarus]: Yep.
+Sedate [to Visual_Mark]: how much?
+Visual_Mark [to Sedate]: For what?
+Sedate [to Visual_Mark]: is your site gonna be open alla time?
+You say, "a core dump?"
+Visual_Mark [to Sedate]: No, one of my accts. at UO.
+Smack says, " Sandy would be pissed, and she has some BAD-ASS hacker on call,
+ not a good lady to fuck with..."
+Sedate [to Visual_Mark]: huh what core dump?
+Visual_Mark smirks at Smack.
+You say, "It's not her acct."
+Smack [to you]: its her computer
+Sedate [to Smack]: so, no way to get into our school, it locked tight except
+ for the MOO...
+Visual_Mark [to Smack]: Not my Pentium machine.
+Smack says, " and the hard disk is full of old shit..."
+You say, "Huh?"
+Smack [to you]: I am talking about mail bombs
+Visual_Mark [to Smack]: What are you talking about?
+You say, "I have 23 meg free, 100 more when I nuke my Linux partition..."
+Sedate [to Visual_Mark]: my wiz's want to mail bomb him...
+Smack [to Sedate]: the lady knows hackers at Uwindsor, I am sure...
+Visual_Mark [to Sedate]: Who? Smack or Brett?
+Smack postures... :)
+Visual_Mark [to Smack]: Which lady?
+Visual_Mark loses it.
+Smack says, " SANDY STONE!"
+Visual_Mark [to Smack]: Ah!
+Sedate [to Visual_Mark]: Sharon Stones older sister.
+Lazarus says, "Fax bombs are better... a hands on job..."
+Visual_Mark [to Smack]: I was confused, I thought you were talking about
+ Sandie, my gf...
+Smack sighs.
+Visual_Mark [to Lazarus]: Lotsa black paper.
+Smack wishes he had logged in from eden.com
+Lazarus shoves a roll of Rush Limbaugh getting cornholed by Hillary with a
+ handy litt snap on job.  Tres graphique!
+You say, "What am I missing here? Everyone talks at once and I'm trying to
+ edit a fucking file! Geez, where's the brain lag when I need it?"
+tVisual_Mark [to Smack]: Whyzat?
+Smack reaches into the cigar box, selects a fine Cuban cigar, and lights up.
+Smack ***Puff***
+Smack [to you]: that site has plenty-o-room,
+Lazarus grins at Smack.
+Smack ***Puff***
+Visual_Mark [to Smack]: What do you need room for?
+You say, "letter bomb?"
+Smack [to you]: mail BOMBS!
+tisual_Mark [to Smack]: Why?
+Sedate says, "yeah I better call 'em of...."
+Sedate will be right back.
+Smack sighs.
+Visual_Mark smirks at Sedate.
+Smack ***Puff***
+Smack is glad he didnt have to beg.
+isual_Mark [to Smack]: Fill me in. You're saying in self-defense for all the
+ doughheads that are supposedly plotting against you as we speak?
+Lazarus removes some rice papers from the pouch of drum tobacco and begins to
+ roll a cigarette by hand.
+Smack ***Puff***
+Slowly Lazarus rolls...
+Smack ***Puff***
+Lazarus [to Visual_Mark]: never complain about spam... heh - you just get
+ more, historian.
+Lazarus smirks at Visual_Mark.
+Smack [to you]: yes, if they mailbomb the actlab, it will fuck up our memory..
+ and fuck up other peoples mail, that pisses sandy off, and THAT is not good.
+Lazarus continues rolling...
+Smack says, " that for instance is why Point got yacked with no warning"
+Visual_Mark nods in agreement with Smack.
+Smack ***Puff***
+Smack ***Puff***
+Smack [to you]: good thing I didnt get nasty I guess, I didnt even think about
+ vengeful geek
+Lazarus puts his rolling supplies away for VM's sanity sake.
+Smack ***Puff***
+Smack says, "let them eat spam..."
+Visual_Mark grins at Lazarus.
+Visual_Mark [to Smack]: heh
+Smack ***Puff***
+Lazarus [to Smack]: ...'given the choice, they with vote for more spam and
+ circuses...'
+Smack reaches over to the ashtray and snuffs out his cigar.
+Smack gets tired, waits for Sedate's return.
+Smack expects he is giving them my addresses and making suggestions.
+------------------------------- Visual_Mark -------------------------------
+Visual_Mark [to Smack]: Wonder if he has access to the machine it's running 
+  on...
+You say, "physical access."
+Smack shrugs. 
+Smack says, " ya that is the answer, though nothing is damaged yet"
+Smack says, " I havve locked out all the wizard bits, and the root wizard's
+  password"
+Smack is laughing HARD!
+Sedtest teleports in.
+Sedtest kisses brett lightly on the cheek.
+Sedtest [to brett]: why are you immortal?
+Sedtest is immoral.
+Visual_Mark opens a capture file.
+------------------------ Visual_Mark stops pasting ------------------------
+Done @pasting.
+Visual_Mark snickers under its breath.
+Smack says, " is that where it starts?"
+Visual_Mark [to Smack]: Newp. Starts with you telling me about that brothel
+ and Sedate ports in...
+Smack [to you]: yeesh, cut out that irrelevant stuff. 
+Visual_Mark nods.
+Lazarus [to Visual_Mark]: the short version... heh
+You say, "Only 3 or 4 lines before Sedate comes on."
+Smack says, " and remove that t after smack shrugs t"
+You say, "I'm only cutting redundant @sweeps and shit liek that."
+tVisual_Mark [to Smack]: No.
+Smack grings.
+You smile.
+Lazarus [to Visual_Mark]: see if you can make Smack's teeth gleam when you go
+ in for the closeup!
+Smack gags, has the lights off, cant see his damn fingers, has the monitor on
+ REALLYlow.
+Visual_Mark grins at Lazarus.
+Visual_Mark [to Smack]: Where the fuck is Sedate? Is he walking down to the
+ lab or something?
+Smack [to you]: dont have to make me look good, just clean up the typos!
+-----------------------Sedate (#6473) @pastes:------------------------
+Ok, dear Smack has atoned a bit, he didn't know brett was going to crash
+our site, so he shut it down before it could cause anymore damage, and
+supplied me with the password for smack2 (bleh is the pass btw) So if we
+could restart the second youngest db save and clean things up a bit (the
+only thing he did was remove all our bits) then we should be all fine, uh
+still @newt him, and no'one make anymore players until things are
+completely clean ok, and btw, no mail bomb, we are bigger than that.
+Tosh
+PS still @newt Smack, if oyu don't know how to hack a wiz bit back thens an
+ Admin, so type @set me.wizard to 1
+then type @copy #4:@chparent    then type @chparent me to #58   then give
+us all back wizardf
+its not one of us, don;t forget to @toad brett and @blacklist etc...
+Tosh
+----------------------------End of @paste-----------------------------
+Lazarus [to Visual_Mark]: and if Seddy appears anywhere - make it look like
+ he's well hung...
+Sedate says, "FUCK IT ALWAYS EATS MY TEXT!!!!"
+Lazarus smirks.
+Smack says, " the password is blah"
+Smack says, " not bleh"
+Lazarus says, "this the same Brett from MOOt?"
+Smack nods.
+Sedate nods.
+isual_Mark [to Lazarus]: Of course. My homey in Seattle.
+You smile at Smack.
+You say, "Weird. I'm friends with the whole fuckin posse."
+Smack says, " you can use smack2 to set your own wiz bit, but not @chparent,
+ your parent might be screwed cause of the toad, but everybodyelse can be
+ permed"
+Lazarus [to Visual_Mark]: jester
+Visual_Mark [to Lazarus]: Tee hee.
+Sedate [to Smack]: no, just @copy #4:@chparent...
+Smack says, " I couldnt get that to work either"
+Smack says, " but I was being harassed when I was trying"
+Smack says, " it has to do with the (set_task_perms)"
+Lazarus [to Smack]: the gleaming teeth thingy was HARDLY harassment.
+Lazarus sits cross-legged on the floor.
+Visual_Mark smirks at Lazarus.
+Visual_Mark [to Lazarus]: Jester.
+Sedate [to Smack]: hmm..oh mebbe it set them back to player and not #2?
+Visual_Mark puts on a point cap and jingly shoes.
+You say, "pointy"
+Smack [to Lazarus (may have been bugged by Ashley)]: I meant that I couldnt
+ copy #4:@chparent cause I was being assaulted
+Lazarus [to Visual_Mark]: Crag thinks one line of shout spam is harassment...
+Smack says, " but had I managed  I would have toaded them ALL!"
+Sedate says, "who's crag?"
+You say, "feh"
+Lazarus [to Sedate]: some Wiz from chiba... he doesn't like shouting when he's
+ idiling... clutters his widdle scween...
+Sedate says, "Oh, one of the wizards at UMOO wiz's at chiba, geesh and he's an
+ idiot too."
+Sedate says, "like me."
+Lazarus wedgies Crag/Trebor hard until his eyes pop out!
+Sedate says, "huh?"
+Smack [to Sedate]: BTW I have a 6 other characters at UMOO with bad addresses,
+ never used, and wiz bits on them, I also sprinkled a couple #2 permed verbs
+ onto system objexts...
+Visual_Mark grins at Smack.
+Sedate nods.
+Sedate [to Smack]: ok...good...
+Visual_Mark [to Smack]: Why you telling man? ;)
+Lazarus says, "basically I made enemies there on day one by shouting one
+ time... a friendly little YEEEEHAW after coding about 30 verbs... I was due! 
+ Then I argued my case before a tribunal of wizards in real time... the
+ consensus was that Crag/Trebor was a deek."
+Smack says, " I figured this could be protracted, and I dont want to give up
+ my new found power"
+Smack [to you]: he'll know when i take over again anyway..
+Sedate nods in agreement with Smack.
+You say, "Heh."
+Smack actually wishes he had made $speller:make_wiz
+Sedate laughs!
+Sedate says, "yuck..."
+Smack says, " wouldnt be much fun the second time though.. I would love to
+ toad nemesis, fish, jolly rodger, and whoever else needs it..."
+Smack says, " @recycle em infact"
+Lazarus says, "is that anything like $builder:take_pee?"
+Sedate nods in agreement with Smack.
+Lazarus hits a rimshot.
+Sedate says, "YES!!!!"
+Smack says, " should have @recycled brett"
+Smack [to Lazarus (may have been bugged by Ashley)]: yes only wiz permed
+Lazarus . o O ( $recycler:recycle(player) )
+Smack says, " that might have stopped his processes."
+Visual_Mark [to Sedate]: So what did you do earlier? Just send mail?
+Sedate nods.
+Smack [to Sedate]: well you put that verb on $speller, and Ill say I did it,
+ and @recycle those assholes..
+Visual_Mark [to Sedate]: Are you in communicatin with any of the other players
+ from U-MOO?
+Sedate [to Visual_Mark]: I hoe this teaches them that they should give me
+ access to the MOO account...
+Smack [to Sedate]: or take your wiz bit away
+Visual_Mark [to Lazarus]: He's lookin for access from all this. Heh.
+Visual_Mark nods in agreement with Smack.
+Smack laughs.
+Sedate [to Smack]: hmmmm....I'll think about it, I find it funny how they all
+ reacted so feircly to your tyranny.
+Smack [to Sedate]: what tyranny, I was going to liberate them!
+Lazarus [to Visual_Mark]: I say we gather the slaves and start building that
+ pyramid for Sedate...
+Lazarus [to smirk]: smack
+Smack turns his screen even lower...
+Sedate says, "well thats not how they see it, and thats not how it will be
+ written in UMOO historty, in fact I will tell them that their fighting you
+ saved the MOO from being destryoyed...""
+Lazarus shouts a slogan, "Workers of the world, RELAX!" and salutes.
+Smack [to Sedate]: that is fine with me, I hate that MOO, I only go there to
+ see you...
+Visual_Mark [to Sedate]: Yes, they mobilized quickly...
+Sedate nods.
+Visual_Mark smirks at Sedate.
+Visual_Mark [to Lazarus]: Shit, we've got a regular cover up in progress...
+Smack [to Sedate]: actually they prevented me from stopping brett you know...
+Sedate says, "I know, there were two rooms filled, one was Anti-Wizard HQ, and
+ the other was my room with oyu an d smack and brett"
+Lazarus [to Sedate]: Myth and legend building... J. Campbell would be proud. 
+ If here weren't so DEAD, that is...
+Sedate nods in agreement with Visual_Mark.
+Visual_Mark smirks.
+You say, "Back and to the left..."
+Visual_Mark has cranked the rumor mill good and hard...
+With a puff of steam and perfume, the Rumor Mill cranks out :
+Gina and Phydeaux spend lots of time together in locked rooms.
+Sedate [to Smack]: so..who cares about truth huh?
+Smack says, " not I"
+Sedate doesnt.
+Smack shrugs.
+Sedate says, "There oyu go, personal truth is all that is important..."
+Sedate is abou to engage in his first real cover-up...aya!!!!!
+Lazarus says, "plausible deniability"
+Sedate says, "I'm excited now..."
+Smack [to Sedate]: given the oppurtunity I will contest your lies...
+Smack [to Sedate]: I think you have lost all credibility...
+Lazarus [to Sedate]: try to work the phrase 'I don't exactly recall...' into
+ conversation more often.
+Sedate [to Smack]: thats why I hope to @newt you.
+Sedate [to Smack]: oh this is so much fun tho...
+You say, "Geez, this is wack."
+Smack [to Sedate]: well then I will come on as a guest...
+Sedate says, "Actually y'kow......"
+Sedate says, "I will kick all the wizards off and be the head dictator....."
+Smack [to you]: can you stand by and watch this travest of history, people
+ will call YOU a liar, for contesting Sedate's version of the "truth"
+Sedate says, "I hate all the wizards they are geeks."
+Smack [to Sedate]: that sounds like the plan
+Sedate says, "I will kill the MOO, and destroy it..."
+Visual_Mark [to Smack]: You bet I got your draft card... -Paris
+You say, "Unless you don't give a FUCK to be free."
+Smack [to you]: uh, ya..
+Visual_Mark [to Sedate]: Picked up 'Guerrila Funk' yet?
+Visual_Mark grins at Smack.
+Sedate [to Visual_Mark]: see if this capture gets around it will be too
+ ludacriss to be believed...
+Sedate [to Visual_Mark]: no I have no money so I am veyr new anything less.
+Smack says, " what?"
+Visual_Mark [to Sedate]: Shit.
+Sedate [to Smack]: I am so broke...or else I'd come down...
+Visual_Mark [to Smack]: And kick your ass personally.
+Visual_Mark smirks.
+Sedate [to Smack]: would oyu give up sandy for a MOO girl?
+Smack [to Sedate]: lame excuse...
+Smack [to Sedate]: MOO girl?
+Sedate [to Smack]: well yeah, but legitimate.
+Smack nods.
+Visual_Mark [to Sedate]: They will believe what they want, regardless of any
+ 'proof'...
+Sedate nods in agreement with Visual_Mark.
+Sedate [to Visual_Mark]: I noticed that, people like to hear what they want to
+ hear...
+Smack says, " maybe I should have been more populistic... expounded a bit on
+ my vision for the MOO..."
+Sedate nods in agreement with Smack.
+Sedate [to Smack]: oh well, there's always next time...
+Smack says, " oh well. lesson learned, yes, next time..."
+Sedate [to Smack]: I'm sure I will give oyu a bit some other time.
+Smack [to Sedate]: it will be pointless then...
+Lazarus [to Sedate]: to make them all good People's Front of Judeans?
+Smack [to Lazarus (may have been bugged by Ashley)]: promise them wiz bits...
+Visual_Mark [to Lazarus]: Say, we converted the People's Front to Temple of
+ Sedate...
+You say, "Irony at work!"
+Visual_Mark snickers under its breath.
+Lazarus [to Visual_Mark]: I thought it was the Judean People's Front now...
+ damn.
+Smack [to you]: when you think that file will be ready>
+Visual_Mark [to Lazarus]: Sedate's Front of Albatross Feeding.
+Sedate [to Visual_Mark]: I want it too, post it to gridpoint.
+Visual_Mark [to Smack]: A while, why?
+Visual_Mark [to Sedate]: Good idea.
+Sedate nods in agreement with Visual_Mark.
+Visual_Mark [to Smack]: As in an hour or so...
+Smack [to you]: just wondering, I havent got gridpoint in a LONG time...
+A cute little stuffed tiger jumps up into Lazarus's face, announces cherubus
+ sent him, and smothers him with little tiger kisses.  Then he runs away.
+You say, "Depending on how much gabbing I do..."
+to smack I unsubbe
+Sedate [to Smack]: no?
+Visual_Mark [to Smack]: I unsubbed you when you changed accts...
+Visual_Mark [to Smack]: Resub or I can resub you.
+Sedate [to Smack]: there was huge traffic today...
+Smack nods.
+You see a faint shimmering force wrapping itself around Lazarus (may have been
+ bugged by Ashley) and kicking him in the balls.
+Visual_Mark [to Sedate]: Yeah, a real surprise.
+Sedate laughs!
+Visual_Mark smirks.
+Lazarus [to Visual_Mark]: call it The Temple of Sedate on the Lost continent
+ of Atlantis and make the symbol of the republic a pyramid with an eye at the
+ top?  Too absurd?  Too surrealistic?
+You say, "It's phuckin dead."
+Smack [to you]: I dunno, if its good traffic yes, if not, no, it was spamm
+ before.,..
+A cute little stuffed tiger comes out of nowhere, climbs up your shoulder, and
+ proceeds to sit in your face.
+Tiger wraps his paws around you and cuddles your face, and lets you know
+ (tigers don't speak) that he is from cherubus.
+Visual_Mark [to Lazarus]: Naw...
+Sedate [to Visual_Mark]: I liked it, in fact I'mm gonna post more often...I'm
+ surprised steve spoke tome, I'm still gaged by him here..
+Tiger finally releases his hold and hops down from your face, then wanders off.
+Visual_Mark [to Smack]: Eh, on 2nd thought, forget it.
+Smack says, " is sabat on the that list?"
+cherubus sees: Visual_Mark smirks. Hiya hiya.
+Visual_Mark nods in agreement with Smack.
+Sedate nods in agreement with Smack.
+You say, "So is AEB."
+Smack says, " he is still around them?"
+You say, "So is Rivit."
+Visual_Mark grins.
+Visual_Mark [to Smack]: He was on earlier today.
+Sedate says, "ohh mebbe she can post diry chef letters."
+Smack says, " cooll"
+Visual_Mark [to Sedate]: Feh.
+Smack says, "  I dont want to be on a list with rivit, but go ahead and sub
+ me..."
+Lazarus [to Visual_Mark]: gridpoint is like the soft white under-belly button
+ of the entire MOOniverse...
+Sedate is surrounded by a warm golden glow..
+The glow wraps itself around Sedate with warmth and affection..
+Sedate sighs wistfully, as the glow fades..
+You see a faint shimmering force wrapping itself around Sedate and kicking
+ them in the balls.
+Sedate smiles.
+Lazarus . o O ( some people need more cybersex here... )
+Lazarus smirks.
+Visual_Mark [to Lazarus]: What?
+Visual_Mark grins.
+a small cherub flies up to you, grinning mischievously, and kisses you on the
+ forehead......it leaves you with this note from cherubus
+It pages, "nighty night!"
+Smack [to Sedate]: that was a new one...
+Lazarus [to Visual_Mark]: metaphors... just play along.
+Sedate [to Smack]: uh huh, so's this...
+You hear what sounds like burglars from somewhere...
+Visual_Mark nods in agreement with Lazarus.
+All of a sudden someone jumps out of the closet and yells, BOO!
+Oh look, its Sedate you just shot him.  HAHAHAHAHAHAHAHAHA!
+Sedate laughs!
+You say, "Uh."
+You say, "HUH-HUH-HUH."
+Smack says, " wow, how cool..."
+The strains of a lute and a pipe sound. The sky turns all the colors of a
+ peacock's tail. You suddenly smell the scent of sweet incense as cherubus
+ arrives on a tiny, nebulous cloud.
+You say, "COOL."
+Smack says, " how can I get one of those chief?"
+Visual_Mark [to cherubus]: Heya.
+Sedate says, "You guys didn't hear about the girl in luoisianna who did that?
+ her dad shot her in the neck with his 357 magnum hollow point bullets."
+cherubus curtsies to Smack.
+Sedate kisses cherubus lightly on the cheek.
+cherubus curtsies to Visual_Mark.
+cherubus says, "hi."
+Smack waves.
+Visual_Mark [to cherbu]: A warning to anyone still in command...
+Visual_Mark grins.
+Lazarus stands up from the floor.
+cherubus [to Sedate]: when she said,Boo?
+Visual_Mark hugs cherubus with a warm and loving embrace.
+Lazarus sits on the ceiling.
+cherubus tilts forward to give Lazarus (may have been bugged by Ashley) a
+ light peck on the cheek.
+cherubus [to Lazarus]: i didnt see you!
+cherubus [to Visual_Mark]: a warning?
+Sedate [to cherubus]: uh huh, she pretended to be a buglar..and jumped out of
+ the closet and shrieked BOO, BAM!!!
+Smack sits cross-legged on the floor.
+Sedate [to Smack]: @verbs me
+cherubus [to Sedate]: yeah.didnt you make a verb?
+Lazarus [to cherubus]: I'm trying to be inconspicuous...
+Sedate nods in agreement with cherubus.
+isual_Mark [to cherubus]: Twere a quote from 'The Final Cut'...
+cherubus [to Lazarus]: oh..well..you did a good job!
+You say, "I was just a child then, now I'm only a man..."
+Smack [to Sedate]: i didnt really want a copy, you fool...
+cherubus doesnt even notice lazarus
+Sedate [to Visual_Mark]: whats the chinese name for Hard Boiled?
+Visual_Mark [to Sedate]: Egg Fu Yung.
+Visual_Mark smirks.
+Lazarus crawls over and sits in the chandelier.
+Sedate [to Smack]: why not its an gret verb, excellently written.
+Smack [to you]: I was so much older then, I'm younger than that now...
+Visual_Mark [to Sedate]: How the fuck should I know?
+Visual_Mark [to Smack]: Eh?
+Smack [to Sedate]: bad grammer
+Smack [to you]: Dillon lyric...
+Visual_Mark nods in agreement with Smack.
+You say, "Dylan, even."
+Visual_Mark grins.
+Smack gags.
+cherubus giggles.
+Smack says, " its late"
+Sedate [to Visual_Mark]: I dunno oyu know everything...
+Visual_Mark [to Sedate]: It may be in an issue of Film Threat of mine...
+Sedate [to Smack]: excellent grammer.
+Visual_Mark doesn't have the time to dig for it.
+Smack [to Sedate]: good night sweet prince...
+cherubus waves goodnight!
+Smack waves.
+Lazarus [to Smack]: a line from We're not gonna take it by the Who?  Cryptic. 
+ Downright diabolicly coptic.
+Sedate kisses Smack lightly on the cheek.
+cherubus says, "bye!"
+cherubus goes home.
+Sedate says, "bye Smack."
+Smack has disconnected.
+< disconnected: cherubus and Smack. Total: 20 >
+Sedate says, "YAY lemme slag him now....."
+Sedate laughs!
+Sedate kisses Visual_Mark lightly on the cheek.
+Sedate waves.
+Sedate licks Lazarus!
+Sedate says, "What a fuckin night."
+Sedate lets out a long sigh.
+Sedate goes home.
+Lazarus says, "cherubus and Smack off fo a liason?"
+@sweep
+Lazarus (#4552) is listening.
+Lazarus smirks.
+Visual_Mark shrugs its shoulders.
+You say, "Guess it's over...?"
+< disconnected: Sedate. Total: 19 >
+Visual_Mark grins.
+Lazarus says, "well, I'm even more in the dark... nothing new - and my chick
+ wants my ass in the sack..."
+You say, "Huh-oh./.."
+Lazarus says, "and the rest of me too..."
+You say, "I'll mail you the files..."
+Lazarus smirks.
+Visual_Mark grins.
+Visual_Mark waves to Lazarus.
+You say, "Ciao."
+Lazarus says, "ok... don't be a stanger..."
+You say, "Yep."
+Lazarus drops Harley Hog.
+Visual_Mark grins.
+Lazarus climbs onto the Harley Hog!
+Home is where you hang your hat.
+Slack Emporium
+Among the trash you spot an empty Frosted Flakes box, some half-empty Jolt
+bottles, back issues of Spy Magazine and Film Threat, a stack of scratched
+CDs, some empty Zinger boxes, an empty Quick canister, and a faded cardboard
+cut-out of J.R. 'Bob' Dobbs. A small door is on the south wall.
+There's a huge, towering, one-way door to The Pit on the north wall.
+
+There is a banana chair here and some beanbag chairs tossed in the corner.
+You see an old Star Wars lunch pail, Albatross Hideaway, Iron Maiden, VNJ, and
+ Bun Warming Machine here.

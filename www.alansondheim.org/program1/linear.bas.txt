@@ -1,0 +1,14 @@
+REM LINEAR
+SCREEN 1: CLS : COLOR 0, 0: INPUT "z for line length <640"; z: CLS
+VIEW PRINT 1 TO 2
+INPUT "y=y axis offset; d=divisor of series; i=increment, hit return"; w
+DIV: INPUT "d,i,y"; d, i, y
+x = 0: r = 0: m = y + 100: s = m + 10
+one: a = 0
+x = x + 1: r = r + i
+Two: a = a + 1
+IF r MOD d ^ a = 0 THEN GOTO Two
+IF a MOD 2 = 0 THEN IF POINT(x, m) = 0 THEN LINE (x, m)-(x, s), 1 ELSE LINE (x, m)-(x, s), 0
+IF x > z THEN GOTO DIV
+GOTO one
+

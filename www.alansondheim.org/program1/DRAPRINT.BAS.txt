@@ -1,0 +1,24 @@
+DEFDBL F, X
+REM Draprint sends Drawalk(2) output to printer; consult Drawalk programs.
+now: CLS 0: SCREEN 0: x = 0: q = 0: w = 0
+INPUT "for drawalk enter 1 and for drawalk 2 enter 2"; t
+INPUT "series exponent, usually 2"; k: PRINT " "
+INPUT "for mod divisor increment (usu. 2)"; inc: PRINT " "
+INPUT "for bias, 90 degrees for inc = 2, usu 360/1nc"; bias: PRINT " "
+        PRINT "formula: x=x+e+f*h  f=f+u, u usually = k": PRINT " "
+INPUT "increment and expansion, h=0 for cancel or 1 for expansion"; e, g, h
+        PRINT " ": INPUT "set u"; u: CLS 0
+LPRINT "exp"; k; "mod.inc"; inc; "bias"; bias; "e"; e; "g"; g; "h"; h; "u"; u
+f = g: LPRINT "f=g; x=x+e+f*h; f=f+u"
+ten:
+IF t = 2 THEN a = -1 ELSE a = 0
+x = x + e + f * h: w = w + 1:
+LPRINT "x"; x; " w "; w; " f "; f; "g"; g
+IF t = 2 THEN f = f + u
+two: a = a + 1
+IF t = 1 THEN f = f + u
+        IF INKEY$ = "r" THEN GOTO now
+                IF x MOD k ^ a = 0 THEN GOTO two
+                LPRINT "a"; a
+GOTO ten
+

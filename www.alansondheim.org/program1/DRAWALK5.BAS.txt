@@ -1,0 +1,32 @@
+DEFDBL F, X
+now: CLS 0: SCREEN 0: x = 1: q = 0: w = 0: f = 0
+        PRINT "DRAWALK5 reduces increments to basic structure": PRINT " "
+        PRINT "DRAWALK2 prints map of fundamental s-series"
+        PRINT "increments by 1 at each increase of w": PRINT " "
+        PRINT "DRAWALK1 for series with increments at each reset."
+        PRINT " "
+INPUT "2 enter 2; for 1 enter 1"; dra
+        PRINT " ": PRINT "This series may be modulo any number": PRINT " "
+INPUT "For invisible lines, enter 0 else 1"; j: PRINT " "
+        PRINT "To reset program, hit key r, p for printer output": PRINT " "
+INPUT "for on-screen constants, enter 1"; o: PRINT " "
+INPUT "color 0 or 1, magnification"; t, z: PRINT " "
+INPUT "series exponent "; k: PRINT " "
+INPUT "for mod divisor increment"; inc: PRINT " "
+INPUT "for bias, 90 degrees for inc = 2, usu 360/inc"; bias: PRINT " "
+SCREEN 1: COLOR 0, t: WINDOW (-160, 200)-(160, -200)
+ten: IF dra = 1 THEN a = 0
+        x = x + f: f = 0: w = w + 1
+        IF dra = 2 THEN a = -1: f = 1
+                IF o = 1 THEN VIEW PRINT 1 TO 1: PRINT w; x; u;
+two: a = a + 1: u = a: IF dra = 1 THEN f = f + 1
+        IF INKEY$ = "r" THEN GOTO now
+IF INKEY$ = "p" THEN LPRINT "w"; w; "x"; x; "mag"; z; "bias"; bias; "exp"; k; "div"; inc: LPRINT " ": INPUT "Press return to continue"; ret
+                IF x MOD k ^ a = 0 THEN GOTO two
+n = a MOD inc
+v = 360 / inc: IF a MOD 2 = 0 THEN col = j ELSE col = 2
+q = (q + n * v + bias) MOD 360
+move$ = "TA" + STR$(q) + "U" + STR$(z) + "C" + STR$(col)
+DRAW move$
+GOTO ten
+

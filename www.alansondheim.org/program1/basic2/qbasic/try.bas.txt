@@ -1,0 +1,287 @@
+DECLARE SUB Arena ()
+DECLARE SUB Plcheck ()
+'[----------------- PRODUCT OF MAVERICK PROGRAMMING ------------------]
+'  I call this game TRY...
+'   Slogan: Sick of TETRIS?  Tri to beat try.
+'   Recommended Strategy: WHEN I FIND ONE, I'LL TELL YA
+' DIRECTIONS:
+'  1. Make THREE in a row (vertically or horizontally) of the same color
+'     for a match.
+'  2. Get three matches in the bottom zone to advance to next level.
+'  3. Use left and right arrow keys only...not up/down.
+'  4. Green Bonus block: GOOD & BAD!
+'     a. Destroys surrounding blocks in top zone (PROBABLY good)
+'     b. Changes all the block colors in the bottom zone (PROBABLY bad)
+'*NOTES*
+' 1. Speed increases with level...
+' 2. "Fall lines": every time you reach this number of matches,
+'    the floor of one column drops out and the first 3 rows fall
+'    into bottom zone.
+' 3. Total matches are displayed on the left in KILLED. *When 2
+'    kill columns are filled, you're score increases by A LOT!
+' 4. Green blocks are less common than red blocks, which are less common
+'    than blue blocks, which are less common than purple blocks.  This
+'    is important to know, because a RED match gives a better score than
+'    a BLUE or PURPLE match, get it????
+' Look for TRYTOO and TRYTRYTRY, coming soon...
+'                                   (Get the HULMER in these names?)
+'
+'
+' I'll shut up now, enjoy...                    <--[ MIKE HULME ]-->
+SCREEN 12: CLS : WIDTH 80, 30
+
+DIM SHARED B1%(70), B2%(70), B3%(70), B4%(70)
+DIM SHARED P(12, 11), L(12, 11)
+DIM Drop%(1000), Spr%(1000)
+PALETTE 14, 0
+Blocks:
+LINE (0, 0)-(15, 15), 14, BF: LINE (1, 1)-(14, 14), 13, BF
+LINE (3, 3)-(12, 12), 5, BF: LINE (7, 7)-(8, 8), 15, BF
+LINE (6, 6)-(9, 9), 13, B: GET (0, 0)-(15, 15), B1%
+LINE (0, 0)-(15, 15), 14, BF: LINE (1, 1)-(14, 14), 9, BF
+LINE (3, 3)-(12, 12), 1, BF: LINE (7, 7)-(8, 8), 15, BF
+LINE (6, 6)-(9, 9), 9, B: GET (0, 0)-(15, 15), B2%
+LINE (0, 0)-(15, 15), 14, BF: LINE (1, 1)-(14, 14), 12, BF
+LINE (3, 3)-(12, 12), 4, BF: LINE (7, 7)-(8, 8), 15, BF
+LINE (6, 6)-(9, 9), 12, B: GET (0, 0)-(15, 15), B3%
+LINE (0, 0)-(15, 15), 14, BF: LINE (1, 1)-(14, 14), 10, BF
+LINE (3, 3)-(12, 12), 2, BF: LINE (7, 7)-(8, 8), 3, BF
+LINE (6, 6)-(9, 9), 10, B: GET (0, 0)-(15, 15), B4%
+SPD = 100: PRY = 85: BLE = 85: RED = 85: PRX = 2: BLX = 32: RDX = 62
+CLS : LOCATE 27, 25: COLOR 10: PRINT "*": SLEEP 1
+LOCATE 27, 23: COLOR 9: PRINT "R": LOCATE 27, 27: COLOR 1: PRINT "R"
+LOCATE 28, 25: COLOR 9: PRINT "R": SLEEP 1
+LOCATE 27, 22: COLOR 13: PRINT "T": LOCATE 27, 26: COLOR 5: PRINT "T"
+LOCATE 28, 24: COLOR 5: PRINT "T": SLEEP 1
+LOCATE 27, 24: COLOR 4: PRINT "Y": LOCATE 27, 28: COLOR 12: PRINT "Y"
+LOCATE 28, 26: COLOR 12: PRINT "Y": SLEEP 1
+4 LINE (100, 60)-(280, 400), 0, BF: CALL Arena: RANDOMIZE TIMER
+FOR A = 0 TO 12: FOR B = 0 TO 11: P(A, B) = 0: L(A, B) = 0: NEXT B, A
+R = INT(RND * 3) + 1: Y = 48: X = 190: SPD = SPD - .1: LVL = LVL + 1: FLL = INT(RND * 0) + 1: TMTH = 0: BM = 0
+FOR ST = 1 TO 9 + LVL
+M = INT(RND * 11)
+H = INT(RND * 4) + 8
+C = INT(RND * 3) + 1
+IF C = 1 THEN PUT (M * 15 + 100, H * 15 + 48), B1%, PSET
+IF C = 2 THEN PUT (M * 15 + 100, H * 15 + 48), B2%, PSET
+IF C = 3 THEN PUT (M * 15 + 100, H * 15 + 48), B3%, PSET
+P(M, H) = C
+IF AA = 1 THEN
+IF C = 1 THEN PUT (M * 15 + 100, H * 15 + 220), B1%, PSET
+IF C = 2 THEN PUT (M * 15 + 100, H * 15 + 220), B2%, PSET
+IF C = 3 THEN PUT (M * 15 + 100, H * 15 + 220), B3%, PSET
+L(M, H) = C
+END IF
+IF AA = 0 THEN AA = 1 ELSE AA = 0
+NEXT ST
+COLOR 15: LOCATE 1, 1: PRINT "Press SPACEBAR to start...": BEEP: SLEEP
+LOCATE 1, 1: PRINT "                          "
+FOR II = 1 TO 300: COLOR 15: NEXT II
+3 DO
+KP$ = INKEY$
+1 SELECT CASE KP$
+CASE CHR$(0) + CHR$(75)
+C = (X - 100) / 15 - 1: D = (Y - 48) / 15
+IF C = -1 THEN C = 0
+IF P(C, D) = 1 THEN GOTO 3
+IF P(C, D) = 2 THEN GOTO 3
+IF P(C, D) = 3 THEN GOTO 3
+LINE (X, Y)-(X + 15, Y + 15), 0, BF: IF X > 100 THEN X = X - 15
+SCR = SCR - 5
+CASE CHR$(0) + CHR$(77)
+C = (X - 100) / 15 + 1: D = (Y - 48) / 15
+IF D = 12 THEN D = 11
+IF P(C, D) = 1 THEN GOTO 3
+IF P(C, D) = 2 THEN GOTO 3
+IF P(C, D) = 3 THEN GOTO 3
+LINE (X, Y)-(X + 15, Y + 15), 0, BF: IF X < 265 THEN X = X + 15
+SCR = SCR - 5
+END SELECT
+IF R = 1 THEN PUT (X, Y), B1%, PSET
+
+IF R = 2 THEN PUT (X, Y), B2%, PSET
+IF R = 3 THEN PUT (X, Y), B3%, PSET
+IF R = 4 THEN PUT (X, Y), B4%, PSET
+FOR RT = 1 TO SPD * 280: NEXT RT: LINE (X, Y)-(X + 15, Y + 15), 0, BF
+IF Y < 209 THEN
+C = (X - 100) / 15: D = (Y - 48) / 15 + 1
+IF P(C, D) = 1 THEN GOTO 2
+IF P(C, D) = 2 THEN GOTO 2
+IF P(C, D) = 3 THEN GOTO 2
+Y = Y + 15: SCR = SCR + 20
+ELSE
+2
+A = (X - 100) / 15: B = (Y - 48) / 15: P(A, B) = R
+IF R = 1 THEN PUT (X, Y), B1%, PSET
+IF R = 2 THEN PUT (X, Y), B2%, PSET
+IF R = 3 THEN PUT (X, Y), B3%, PSET
+IF R = 4 THEN PUT (X, Y), B4%, PSET: GOSUB Green
+Y = 48: X = 190: IF POINT(X, Y) > 0 THEN SYSTEM
+R = INT(RND * 10) + 1
+IF R = 1 OR R = 2 OR R = 3 OR R = 4 THEN R = 1
+IF R = 5 OR R = 6 OR R = 7 THEN R = 2
+IF R = 8 OR R = 9 THEN R = 3
+IF R = 10 THEN R = 4
+GOSUB Ok
+LOCATE 5, 38: PRINT "MATCHES THIS LEVEL:"; TMTH
+LOCATE 7, 38: PRINT "SCORE:"; SCR: LOCATE 6, 38: PRINT "BOTTOM MATCHES:"; BM
+LOCATE 9, 38: PRINT "LEVEL:"; LVL
+LOCATE 10, 38: PRINT "SPEED:"; SPD: LOCATE 11, 38: PRINT "FALL LINES:"; FLL
+END IF
+IF MTH >= FLL THEN GOSUB Super
+IF BM = 3 THEN LOCATE 1, 1: PRINT "  Level Completed....": BEEP: SLEEP: GOTO 4
+LOOP
+Ok:
+CALL Plcheck
+REDIM K(12, 11)
+FOR M = 0 TO 12: FOR H = 0 TO 9
+IF P(M, H) = 1 AND P(M, H + 1) = 1 AND P(M, H + 2) = 1 THEN LINE (M * 15 + 100, H * 15 + 48)-((M * 15 + 100) + 15, (H * 15 + 48) + 45), 0, BF: P(M, H) = 0: P(M, H + 1) = 0: P(M, H + 2) = 0: K(M, H) = 1: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1:  _
+PRY = PRY + 15: PUT (PRX, PRY), B1%, PSET
+IF P(M, H) = 2 AND P(M, H + 1) = 2 AND P(M, H + 2) = 2 THEN LINE (M * 15 + 100, H * 15 + 48)-((M * 15 + 100) + 15, (H * 15 + 48) + 45), 0, BF: P(M, H) = 0: P(M, H + 1) = 0: P(M, H + 2) = 0: K(M, H) = 1: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1:  _
+BLE = BLE + 15: PUT (BLX, BLE), B2%, PSET
+IF P(M, H) = 3 AND P(M, H + 1) = 3 AND P(M, H + 2) = 3 THEN LINE (M * 15 + 100, H * 15 + 48)-((M * 15 + 100) + 15, (H * 15 + 48) + 45), 0, BF: P(M, H) = 0: P(M, H + 1) = 0: P(M, H + 2) = 0: K(M, H) = 1: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1:  _
+RED = RED + 15: PUT (RDX, RED), B3%, PSET
+NEXT H, M
+FOR M = 0 TO 10: FOR H = 0 TO 11
+IF P(M, H) = 1 AND P(M + 1, H) = 1 AND P(M + 2, H) = 1 THEN LINE (M * 15 + 100, H * 15 + 48)-((M * 15 + 100) + 45, (H * 15 + 48) + 15), 0, BF: P(M, H) = 0: P(M + 1, H) = 0: P(M + 2, H) = 0: K(M, H) = 2: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1:  _
+PRY = PRY + 15: PUT (PRX, PRY), B1%, PSET
+IF P(M, H) = 2 AND P(M + 1, H) = 2 AND P(M + 2, H) = 2 THEN LINE (M * 15 + 100, H * 15 + 48)-((M * 15 + 100) + 45, (H * 15 + 48) + 15), 0, BF: P(M, H) = 0: P(M + 1, H) = 0: P(M + 2, H) = 0: K(M, H) = 2: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1:  _
+BLE = BLE + 15: PUT (BLX, BLE), B2%, PSET
+IF P(M, H) = 3 AND P(M + 1, H) = 3 AND P(M + 2, H) = 3 THEN LINE (M * 15 + 100, H * 15 + 48)-((M * 15 + 100) + 45, (H * 15 + 48) + 15), 0, BF: P(M, H) = 0: P(M + 1, H) = 0: P(M + 2, H) = 0: K(M, H) = 2: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1:  _
+RED = RED + 15: PUT (RDX, RED), B3%, PSET
+NEXT H, M
+IF PRY = 340 THEN PRY = 85: PRX = PRX + 15
+IF BLE = 340 THEN BLE = 85: BLX = BLX + 15
+IF RED = 340 THEN RED = 85: RDX = RDX + 15
+IF PRX > 20 THEN LINE (2, 85)-(31, 355), 0, BF: PRX = 2: SCR = SCR + 36100
+IF BLX > 50 THEN LINE (32, 85)-(61, 355), 0, BF: BLX = 32: SCR = SCR + 362
+0
+IF RDX > 80 THEN LINE (62, 85)-(91, 355), 0, BF: RDX = 62: SCR = SCR + 36300
+IF K(E, I) = 1 THEN
+SCR = SCR + 3100 + (30 * LVL) + (15 * SPD)
+GET (E * 15 + 101, 48)-(E * 15 + 114, I * 15 + 48), Drop%
+LINE (E * 15 + 101, 48)-(E * 15 + 114, I * 15 + 48), 0, BF
+PUT (E * 15 + 101, 48 + 45), Drop%, PSET
+CALL Plcheck
+GOTO Ok
+END IF
+IF K(E, I) = 2 THEN
+SCR = SCR + 3100 + (30 * LVL) + (15 * SPD)
+FOR J = 100 TO 130 STEP 15
+GET (E * 15 + J, 48)-(E * 15 + J + 15, I * 15 + 48), Drop%
+LINE (E * 15 + J, 48)-(E * 15 + J + 15, I * 15 + 48), 0, BF
+PUT (E * 15 + J, 48 + 15), Drop%, PSET
+NEXT J
+CALL Plcheck
+GOTO Ok
+END IF
+RETURN
+Super:
+MTH = 0: CN = INT(RND * 12): P(CN, 9) = 0: P(CN, 10) = 0: P(CN, 11) = 0
+SCR = 1000 + SCR + (30 * LVL) + (10 * (10 - SPD)) + (R * 200): CN = CN * 15 + 100
+LINE (CN, 230)-(CN + 15, 230), 0: GET (CN, 183)-(CN + 15, 229), Spr%
+FOR Y1 = 184 TO 354
+LINE (CN, Y1 - 1)-(CN + 15, Y1 - 4), 0
+PUT (CN, Y1), Spr%, PSET
+CLL = POINT(CN + 1, Y1 + 47)
+IF CLL > 0 THEN PUT (CN, Y1 + 1), Spr%, PSET: CALL Arena: GOTO 5
+NEXT Y1
+CALL Arena
+'----
+5
+CALL Plcheck
+REDIM K(12, 11)
+FOR M = 0 TO 12: FOR H = 0 TO 9
+IF L(M, H) = 1 AND L(M, H + 1) = 1 AND L(M, H + 2) = 1 THEN LINE (M * 15 + 100, H * 15 + 235)-((M * 15 + 100) + 15, (H * 15 + 235) + 45), 0, BF: L(M, H) = 0: L(M, H + 1) = 0: L(M, H + 2) = 0: K(M, H) = 1: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1 _
+: PRY = PRY + 15: PUT (PRX, PRY), B1%, PSET
+IF L(M, H) = 2 AND L(M, H + 1) = 2 AND L(M, H + 2) = 2 THEN LINE (M * 15 + 100, H * 15 + 235)-((M * 15 + 100) + 15, (H * 15 + 235) + 45), 0, BF: L(M, H) = 0: L(M, H + 1) = 0: L(M, H + 2) = 0: K(M, H) = 1: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1 _
+: BLE = BLE + 15: PUT (BLX, BLE), B2%, PSET
+IF L(M, H) = 3 AND L(M, H + 1) = 3 AND L(M, H + 2) = 3 THEN LINE (M * 15 + 100, H * 15 + 235)-((M * 15 + 100) + 15, (H * 15 + 235) + 45), 0, BF: L(M, H) = 0: L(M, H + 1) = 0: L(M, H + 2) = 0: K(M, H) = 1: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1 _
+: RED = RED + 15: PUT (RDX, RED), B3%, PSET
+NEXT H, M
+FOR M = 0 TO 10: FOR H = 0 TO 11
+IF L(M, H) = 1 AND L(M + 1, H) = 1 AND L(M + 2, H) = 1 THEN LINE (M * 15 + 100, H * 15 + 235)-((M * 15 + 100) + 45, (H * 15 + 235) + 15), 0, BF: L(M, H) = 0: L(M + 1, H) = 0: L(M + 2, H) = 0: K(M, H) = 2: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1 _
+: PRY = PRY + 15: PUT (PRX, PRY), B1%, PSET
+IF L(M, H) = 2 AND L(M + 1, H) = 2 AND L(M + 2, H) = 2 THEN LINE (M * 15 + 100, H * 15 + 235)-((M * 15 + 100) + 45, (H * 15 + 235) + 15), 0, BF: L(M, H) = 0: L(M + 1, H) = 0: L(M + 2, H) = 0: K(M, H) = 2: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1 _
+: BLE = BLE + 15: PUT (BLX, BLE), B2%, PSET
+IF L(M, H) = 3 AND L(M + 1, H) = 3 AND L(M + 2, H) = 3 THEN LINE (M * 15 + 100, H * 15 + 235)-((M * 15 + 100) + 45, (H * 15 + 235) + 15), 0, BF: L(M, H) = 0: L(M + 1, H) = 0: L(M + 2, H) = 0: K(M, H) = 2: I = H: E = M: MTH = MTH + 1: TMTH = TMTH + 1 _
+: RED = RED + 15: PUT (RDX, RED), B3%, PSET
+NEXT H, M
+IF PRY = 340 THEN PRY = 85: PRX = PRX + 15
+IF BLE = 340 THEN BLE = 85: BLX = BLX + 15
+IF RED = 340 THEN RED = 85: RDX = RDX + 15
+IF PRX > 20 THEN LINE (2, 85)-(31, 355), 0, BF: PRX = 2: SCR = SCR + 36100 * 2
+IF BLX > 50 THEN LINE (32, 85)-(61, 355), 0, BF: BLX = 32: SCR = SCR + 36200 * 2
+IF RDX > 80 THEN LINE (62, 85)-(91, 355), 0, BF: RDX = 62: SCR = SCR + 36300 * 2
+IF K(E, I) = 1 THEN
+BM = BM + 1
+GET (E * 15 + 100, 235)-(E * 15 + 115, I * 15 + 235), Drop%
+LINE (E * 15 + 100, 235)-(E * 15 + 115, I * 15 + 235), 0, BF
+PUT (E * 15 + 100, 280), Drop%, PSET
+CALL Plcheck
+GOTO Ok
+END IF
+IF K(E, I) = 2 THEN
+BM = BM + 1
+FOR J = 100 TO 130 STEP 15
+GET (E * 15 + J, 235)-(E * 15 + J + 15, I * 15 + 235), Drop%
+LINE (E * 15 + J, 235)-(E * 15 + J + 15, I * 15 + 235), 0, BF
+PUT (E * 15 + J, 250), Drop%, PSET
+NEXT J
+CALL Plcheck
+GOTO Ok
+END IF
+RETURN
+Green:
+FOR II = 1 TO 1000: NEXT II
+LINE (X - 15, Y - 15)-(X + 30, Y + 30), 0, BF: CALL Arena
+CALL Plcheck
+B = 0: A = 0
+FOR A = 0 TO 11
+FOR B = 0 TO 10
+IF L(A, B) > 0 THEN
+11 QQ = INT(RND * 3) + 1
+IF QQ = L(A, B) THEN GOTO 11
+IF QQ = 1 THEN L(A, B) = QQ: PUT (A * 15 + 100, B * 15 + 235), B1%, PSET
+IF QQ = 2 THEN L(A, B) = QQ: PUT (A * 15 + 100, B * 15 + 235), B2%, PSET
+IF QQ = 3 THEN L(A, B) = QQ: PUT (A * 15 + 100, B * 15 + 235), B3%, PSET
+END IF
+NEXT B, A
+CALL Plcheck
+GOSUB Super
+RETURN
+'different NOTES, NOT SUBJECTS.
+
+SUB Arena
+LINE (99, 59)-(0, 59), 15
+LINE (99, 83)-(0, 83), 15
+COLOR 15: LOCATE 5, 3: PRINT "*KILLED*"
+LINE (281, 59)-(639, 59), 15
+LINE (99, 59)-(99, 401), 15
+LINE (281, 59)-(281, 401), 15
+LINE (99, 230)-(281, 230), 15
+LINE (99, 401)-(281, 401), 15
+LINE (0, 59)-(0, 401), 15
+LINE (0, 401)-(99, 401), 15
+END SUB
+
+SUB Plcheck
+FOR F = 0 TO 12: FOR G = 0 TO 11
+H = POINT(F * 15 + 101, G * 15 + 49)
+IF H = 13 THEN H = 1: PUT (F * 15 + 100, G * 15 + 48), B1%, PSET
+IF H = 9 THEN H = 2: PUT (F * 15 + 100, G * 15 + 48), B2%, PSET
+IF H = 12 THEN H = 3: PUT (F * 15 + 100, G * 15 + 48), B3%, PSET
+P(F, G) = H
+NEXT G, F
+FOR F = 0 TO 12: FOR G = 0 TO 11
+H = POINT(F * 15 + 101, G * 15 + 236)
+IF H = 13 THEN H = 1: PUT (F * 15 + 100, G * 15 + 235), B1%, PSET
+IF H = 9 THEN H = 2: PUT (F * 15 + 100, G * 15 + 235), B2%, PSET
+IF H = 12 THEN H = 3: PUT (F * 15 + 100, G * 15 + 235), B3%, PSET
+IF H = 0 THEN H = 0: LINE (F * 15 + 100, G * 15 + 235)-(F * 15 + 115, G * 15 + 250), 0, BF
+
+L(F, G) = H
+NEXT G, F
+CALL Arena
+END SUB
+

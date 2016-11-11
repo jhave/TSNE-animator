@@ -1,0 +1,337 @@
+
+Musical/Sound Pieces to Accompany music.txt
+
+http://www.alansondheim.org/music.txt
+http://www.alansondheim.org/viola.jpg
+
+(all sound pieces from files ta.txt -> tz.txt, 
+approx 2/2015-2-/2016 )
+
+http://www.alansondheim.org/zhengraw.mp3
+http://www.alansondheim.org/zheng.mp3
+http://www.alansondheim.org/refuge1.mp3 hasapi reverse-dyn
+http://www.alansondheim.org/refuge0.mp3 hasapi
+http://www.alansondheim.org/belly.mp3 
+http://www.alansondheim.org/linearge.mp3 cura saz
+http://www.alansondheim.org/azurevoice.mp3
+http://www.alansondheim.org/stalkeddeath.mp3
+http://www.alansondheim.org/qq.mp3
+http://www.alansondheim.org/blownit.mp3
+http://www.alansondheim.org/qqq.mp3
+http://www.alansondheim.org/shasha.mp3
+http://www.alansondheim.org/toomb2.mp3 shakuhachi
+http://www.alansondheim.org/toomb1.mp3 viola
+http://www.alansondheim.org/claar2.mp3 clarinet
+http://www.alansondheim.org/claar1.mp3 clarinet
+http://www.alansondheim.org/toomb2.mp3 shakuhachi
+http://www.alansondheim.org/toomb1.mp3 viola
+http://www.alansondheim.org/eagle4.mp3
+http://www.alansondheim.org/eagle3.mp3
+http://www.alansondheim.org/eagle2.mp3
+http://www.alansondheim.org/eagle1.mp3
+http://www.alansondheim.org/etern.mp3
+http://www.alansondheim.org/oudelegy.mp3
+http://www.alansondheim.org/insidedouble.mp3
+http://www.alansondheim.org/frege.mp3
+http://www.alansondheim.org/ossiode.mp3
+http://www.alansondheim.org/cysanshin.mp3 sanshin
+http://www.alansondheim.org/du.mp3
+http://www.alansondheim.org/preludeforossi.mp3
+http://www.alansondheim.org/elegyforossi.mp3
+http://www.alansondheim.org/guz.mp3
+http://www.alansondheim.org/forossi.mp3
+http://www.alansondheim.org/hlung.mp3
+http://www.alansondheim.org/hegel.mp3
+http://www.alansondheim.org/verver.mp3
+http://www.alansondheim.org/scales2.mp3 sanshin
+http://www.alansondheim.org/scales1.mp3 qinqin / sanshin
+http://www.alansondheim.org/scales0.mp3 qinqin
+http://www.alansondheim.org/satori3.mp3
+http://www.alansondheim.org/satori2.mp3
+http://www.alansondheim.org/satori1.mp3
+http://www.alansondheim.org/banjo-in.mp3
+http://www.alansondheim.org/limbs.mp3  
+http://www.alansondheim.org/guqins.mp3
+http://www.alansondheim.org/harmon2.mp3 qin, qin
+http://www.alansondheim.org/harmon1.mp3 qin, qin
+http://www.alansondheim.org/harmon0.mp3 qin
+http://www.alansondheim.org/murmur.mp3
+http://www.alansondheim.org/extrusion.mp3
+http://www.alansondheim.org/intrusion.mp3
+http://www.alansondheim.org/samisenblues.mp3
+http://www.alansondheim.org/zheng1.mp3
+http://www.alansondheim.org/zheng0.mp3
+http://www.alansondheim.org/hallows.mp3
+http://www.alansondheim.org/holydays.mp3 di Giorgio guitar
+http://www.alansondheim.org/pulsion.mp3
+http://www.alansondheim.org/or.mp3 'oriental' clarinet
+http://www.alansondheim.org/tunic.mp3 
+http://www.alansondheim.org/poset.mp3 violin+viola
+http://www.alansondheim.org/phyllitemp3.png
+http://www.alansondheim.org/phyllite1.mp3
+http://www.alansondheim.org/phyllite0.mp3
+http://www.alansondheim.org/shredrababa.mp3
+http://www.alansondheim.org/shredgusle.mp3
+http://www.alansondheim.org/halfstepsaz.mp3 saz at the limits
+http://www.alansondheim.org/windfog1.mp3
+http://www.alansondheim.org/windfog0.mp3
+http://www.alansondheim.org/windfog2.mp3
+http://www.alansondheim.org/windfog3.mp3
+http://www.alansondheim.org/auum.mp3 (harmonium! voice!)
+http://www.alansondheim.org/saltandpepper.mp3
+http://www.alansondheim.org/bowtest.mp3
+http://www.alansondheim.org/collapsing.mp3 qin, contact mic
+http://www.alansondheim.org/newmusic.mp3 , rababa
+http://www.alansondheim.org/rhetorical.mp3
+http://www.alansondheim.org/contact3.mp3
+http://www.alansondheim.org/contact1.mp3
+http://www.alansondheim.org/contact0.mp3
+http://www.alansondheim.org/grey.mp3
+http://www.alansondheim.org/interrupt.mp3
+http://www.alansondheim.org/epoch.mp3 gusle, rebaba
+http://www.alansondheim.org/forparis.mp3 gusle
+http://www.alansondheim.org/hermes.mp3 harmonium
+http://www.alansondheim.org/trmph.mp3
+http://www.alansondheim.org/triomph4.mp3
+http://www.alansondheim.org/triomph3.mp3
+http://www.alansondheim.org/triomph2.mp3
+http://www.alansondheim.org/triomph1.mp3
+http://www.alansondheim.org/tone3.mp3
+http://www.alansondheim.org/tone2.mp3
+http://www.alansondheim.org/tone1.mp3
+http://www.alansondheim.org/tone0.mp3
+http://www.alansondheim.org/miasmatic.mp3
+http://www.alansondheim.org/gettingready.mp3
+http://www.alansondheim.org/patricia2.mp3
+http://www.alansondheim.org/patricia.mp3
+http://www.alansondheim.org/against3.mp3
+http://www.alansondheim.org/against2.mp3
+http://www.alansondheim.org/against1.mp3
+http://www.alansondheim.org/downzero.mp3 
+http://www.alansondheim.org/violatrio.mp3 good sound
+http://www.alansondheim.org/newsm.mp3
+http://www.alansondheim.org/among.mp3
+http://www.alansondheim.org/mute3.mp3
+http://www.alansondheim.org/mute2.mp3
+http://www.alansondheim.org/mute1.mp3
+http://www.alansondheim.org/sorrow.mp3
+http://www.alansondheim.org/towardschora1.mp3
+http://www.alansondheim.org/towardschora0.mp3
+http://www.alansondheim.org/borne1.mp3
+http://www.alansondheim.org/borne0.mp3
+http://www.alansondheim.org/makingdo.mp3 the jump rhythm
+http://www.alansondheim.org/mercy3.mp3
+http://www.alansondheim.org/mercy2.mp3
+http://www.alansondheim.org/mercy1.mp3
+http://www.alansondheim.org/mournthedevil.mp3
+http://www.alansondheim.org/archeqin4.mp3
+http://www.alansondheim.org/archeqin3.mp3
+http://www.alansondheim.org/archeqin2.mp3
+http://www.alansondheim.org/archeqin1.mp3
+http://www.alansondheim.org/azuresong.mp3
+http://www.alansondheim.org/gut2.mp3
+http://www.alansondheim.org/gut1.mp3
+http://www.alansondheim.org/gut0.mp3
+http://www.alansondheim.org/evenings3.mp3
+http://www.alansondheim.org/evenings2.mp3
+http://www.alansondheim.org/evenings1.mp3
+http://www.alansondheim.org/upjtalk.mp3
+http://www.alansondheim.org/ontheverge.mp3
+http://www.alansondheim.org/club.mp3
+http://www.alansondheim.org/clubsmall.mp3
+http://www.alansondheim.org/newclar.mp3
+http://www.alansondheim.org/clarbreath.mp3
+http://www.alansondheim.org/miniphonics.mp3
+http://www.alansondheim.org/tunnel.mp3
+http://www.alansondheim.org/thrst5.mp3
+http://www.alansondheim.org/thrst3.mp3
+http://www.alansondheim.org/thrst2.mp3
+http://www.alansondheim.org/thrst1.mp3
+http://www.alansondheim.org/thrst0.mp3
+http://www.alansondheim.org/oolwah.mp3
+http://www.alansondheim.org/ossian.mp3 *
+http://www.alansondheim.org/mistmount7.mp3
+http://www.alansondheim.org/mistmount6.mp3
+http://www.alansondheim.org/mistmount5.mp3
+http://www.alansondheim.org/mistmount4.mp3
+http://www.alansondheim.org/mistmount3.mp3
+http://www.alansondheim.org/mistmount2.mp3
+http://www.alansondheim.org/mistmount1.mp3
+http://www.alansondheim.org/Berenice.mp3
+http://www.alansondheim.org/hurdle3.mp3 irish banjo
+http://www.alansondheim.org/hurdle2.mp3 "
+http://www.alansondheim.org/hurdle1.mp3 electric saz
+http://www.alansondheim.org/mynorbanjo.mp3
+http://www.alansondheim.org/pastelreds.mp3
+http://www.alansondheim.org/pastelblues.mp3
+http://www.alansondheim.org/mu.mp3
+http://www.alansondheim.org/nohole1.mp3
+http://www.alansondheim.org/nohole.mp3
+http://www.alansondheim.org/orchids.mp3
+http://www.alansondheim.org/ouro.mp3 bowed miniature rebab,
+http://www.alansondheim.org/Amir.mp3
+http://www.alansondheim.org/hasapiuno.mp3
+http://www.alansondheim.org/save0.mp3
+http://www.alansondheim.org/save.mp3
+http://www.alansondheim.org/thera.mp3
+http://www.alansondheim.org/swallow.mp3
+http://www.alansondheim.org/smooth2.mp3
+http://www.alansondheim.org/smooth1.mp3
+http://www.alansondheim.org/rababa2.mp3
+http://www.alansondheim.org/rababa1.mp3
+http://www.alansondheim.org/numb3.mp3
+http://www.alansondheim.org/numb2.mp3
+http://www.alansondheim.org/numb1.mp3
+http://www.alansondheim.org/thalia.mp3 
+http://www.alansondheim.org/jonandi.mp3 and play viola
+http://www.alansondheim.org/banjoblues.mp3
+http://www.alansondheim.org/hasapiwound.mp3
+http://www.alansondheim.org/sterlingbanjo1.mp3
+http://www.alansondheim.org/sterlingbanjo0.mp3
+http://www.alansondheim.org/fuguestate2.mp3 plucked 
+http://www.alansondheim.org/fuguestate1.mp3 bowed
+http://www.alansondheim.org/gavoni.mp3 viola and violin
+http://www.alansondheim.org/velocity.mp3
+http://www.alansondheim.org/dallas.mp3
+http://www.alansondheim.org/Ur.mp3
+http://www.alansondheim.org/rattle1.mp3
+http://www.alansondheim.org/rattle0.mp3
+http://www.alansondheim.org/chokedlung.mp3
+http://www.alansondheim.org/stormbrew.mp3
+http://www.alansondheim.org/finding2.mp3
+http://www.alansondheim.org/finding1.mp3
+http://www.alansondheim.org/existence2.mp3
+http://www.alansondheim.org/existence1.mp3
+http://www.alansondheim.org/den3.mp3
+http://www.alansondheim.org/den2.mp3
+http://www.alansondheim.org/den1.mp3
+http://www.alansondheim.org/den0.mp3
+http://www.alansondheim.org/thelake.mp3
+http://www.alansondheim.org/coughghost.mp3
+http://www.alansondheim.org/Alltracks.mp3 4'22" more or less
+http://www.alansondheim.org/sazsamp.mp3
+http://www.alansondheim.org/screentestsamp.mp3
+http://www.alansondheim.org/violaguzhengsamp.mp3
+http://www.alansondheim.org/nostrings.mp3 
+http://www.alansondheim.org/violamute1.mp3
+http://www.alansondheim.org/everything.mp3 (new track!)
+http://www.alansondheim.org/eguitclar.mp3
+http://www.alansondheim.org/cawcaw.mp3
+http://www.alansondheim.org/wacwac.mp3
+http://www.alansondheim.org/lovemusic.mp3
+http://www.alansondheim.org/banj1.mp3 providence guitar
+http://www.alansondheim.org/dg3.mp3 providence guitar 
+http://www.alansondheim.org/digiorgio.mp3
+http://www.alansondheim.org/longsaz1.mp3
+http://www.alansondheim.org/claralto.mp3 (Bb & alto)
+http://www.alansondheim.org/violat.mp3
+http://www.alansondheim.org/braid4.mp3
+http://www.alansondheim.org/braid3.mp3
+http://www.alansondheim.org/braid2.mp3
+http://www.alansondheim.org/braid1.mp3
+http://www.alansondheim.org/braid0.mp3
+http://www.alansondheim.org/corecored2.mp3
+http://www.alansondheim.org/corecored1.mp3
+http://www.alansondheim.org/cycle3.mp3
+http://www.alansondheim.org/cycle1.mp3
+http://www.alansondheim.org/cycle2.mp3
+http://www.alansondheim.org/survive.mp3 revrevharp
+http://www.alansondheim.org/beneath2.mp3 deep oud
+http://www.alansondheim.org/beneath1.mp3 deep oud
+http://www.alansondheim.org/zero3.mp3
+http://www.alansondheim.org/zero1.mp3
+http://www.alansondheim.org/madness2.mp3
+http://www.alansondheim.org/one5.mp3
+http://www.alansondheim.org/one4.mp3
+http://www.alansondheim.org/one3.mp3
+http://www.alansondheim.org/one2.mp3
+http://www.alansondheim.org/one1.mp3
+http://www.alansondheim.org/one0.mp3
+http://www.alansondheim.org/madness.mp3 pipa
+http://www.alansondheim.org/lowed4.mp3
+http://www.alansondheim.org/lowed3.mp3
+http://www.alansondheim.org/lowed2.mp3
+http://www.alansondheim.org/lowed1.mp3
+http://www.alansondheim.org/lowed0.mp3
+http://www.alansondheim.org/prairie2.mp3
+http://www.alansondheim.org/prairie1.mp3
+http://www.alansondheim.org/nebraska.mp3
+http://www.alansondheim.org/omahabluejaymusic.mp3
+http://www.alansondheim.org/carefulll.mp3
+http://www.alansondheim.org/intervallic.mp3
+http://www.alansondheim.org/altoshaku.mp3
+http://www.alansondheim.org/buki2.mp3 jiari shakuhachi
+http://www.alansondheim.org/buki1.mp3 jinashi shakuhachi
+http://www.alansondheim.org/spectacle2.mp3
+http://www.alansondheim.org/irqspace1.mp3
+http://www.alansondheim.org/adapt.mp3
+http://www.alansondheim.org/clutch.mp3
+http://www.alansondheim.org/thwart.mp3 
+http://www.alansondheim.org/simple3.mp3
+http://www.alansondheim.org/simple2.mp3
+http://www.alansondheim.org/simple1.mp3
+http://www.alansondheim.org/meditate.mp3
+http://www.alansondheim.org/qqqqalto.mp3
+http://www.alansondheim.org/qqqqviolin.mp3 erhu
+http://www.alansondheim.org/qqqqviolin.mp3
+http://www.alansondheim.org/qqqqoud.mp3
+http://www.alansondheim.org/qqqqsaz.mp3
+http://www.alansondheim.org/qqqq2.mp3
+http://www.alansondheim.org/theforge.mp3
+http://www.alansondheim.org/qqqq1.mp3
+http://www.alansondheim.org/remnant.mp3
+http://www.alansondheim.org/314as220rev.mp3
+http://www.alansondheim.org/irqspace1.mp3
+http://www.alansondheim.org/irqclar.mp3
+http://www.alansondheim.org/irqguitar.mp3 elecguitar, voice
+http://www.alansondheim.org/dayday.mp3 sound
+http://www.alansondheim.org/0iiid.mp3
+http://www.alansondheim.org/0iiib.mp3
+http://www.alansondheim.org/tilt.mp3
+http://www.alansondheim.org/shift.mp3
+http://www.alansondheim.org/visage.mp3
+http://www.alansondheim.org/thren1.mp3
+http://www.alansondheim.org/otherside.mp3
+http://www.alansondheim.org/bluesforx.mp3
+http://www.alansondheim.org/guqin4.mp3
+http://www.alansondheim.org/guqin3.mp3
+http://www.alansondheim.org/guqin2.mp3
+http://www.alansondheim.org/guqin1.mp3
+http://www.alansondheim.org/irishbanjo.mp3
+http://www.alansondheim.org/sonic3.mp3
+http://www.alansondheim.org/sonic2.mp3
+http://www.alansondheim.org/sonic1.mp3
+http://www.alansondheim.org/threnodyfortheburned.mp3
+http://www.alansondheim.org/credoo.mp3
+http://www.alansondheim.org/cutpaste.mp3
+http://www.alansondheim.org/onece.mp3
+http://www.alansondheim.org/lenya.mp3
+http://www.alansondheim.org/concierge.mp3
+http://www.alansondheim.org/hoosh.mp3
+http://www.alansondheim.org/revrevdanmoi.mp3... See 
+http://www.alansondheim.org/spiritvoice2.mp3
+http://www.alansondheim.org/spiritvoice1.mp3
+http://www.alansondheim.org/revrevdanmoi.mp3
+http://www.alansondheim.org/newwild.mp3
+http://www.alansondheim.org/forth.mp3
+http://www.alansondheim.org/gno.mp3
+http://www.alansondheim.org/verra1.mp3
+http://www.alansondheim.org/verra1.mp3
+http://www.alansondheim.org/verra0.mp3
+http://www.alansondheim.org/murnau.mp3
+http://www.alansondheim.org/lajeteeson.mp3
+http://www.alansondheim.org/munif.mp3
+http://www.alansondheim.org/wash.mp3
+http://www.alansondheim.org/sazzz2.mp3
+http://www.alansondheim.org/sazzz1.mp3
+http://www.alansondheim.org/brouillard.mp3
+http://www.alansondheim.org/breathing.mp3
+http://www.alansondheim.org/comp.mp3
+http://www.alansondheim.org/threnod4.mp3
+http://www.alansondheim.org/threnod3.mp3
+http://www.alansondheim.org/threnod2.mp3
+http://www.alansondheim.org/threnod1.mp3
+http://www.alansondheim.org/radiomoneydown.mp3
+
+pastelblues.mp3, pastelreds.mp3, blownit.mp3
+have their urls corrected

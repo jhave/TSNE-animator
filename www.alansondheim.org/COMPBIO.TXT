@@ -1,0 +1,459 @@
+
+
+[Note: Text sidebars, to be printed in Courier, at the end of the
+article. For Art Papers magazine, 2001.]
+
+                                                         Alan Sondheim
+                                                         
+Alan Sondheim's Online Life and Times
+
+The hardest part about writing an autobiography of being on line is know-
+ing where to begin. The Internet is one of a number of modes of electron-
+ic communication, which include two-way radio, telephone, telegraph, and
+so forth. In pre-Net days, I distributed my work in the forms of audio
+cassettes, CDs, records, videotapes, books and magazine articles. In gen-
+eral, distribution was limited; some of the cassettes were issued in edi-
+tions of 200. The Net changed all of that - and became, not only a mode of
+distribution, but also a group of interrelated media in themselves.
+
+I began using computers in the late 70s, when I created some interactive
+programs in UCSD Pascal, using a Terak minicomputer with ten inch flop-
+pies. These programs drew patterns on the screen; the patterns were in
+response to the text typed in. Both text and image formed a whole; after a
+while, when the screen became to cluttered to continue, it would start
+over. Typing into this was mesmerizing; one created interrelated textual
+and visual worlds.
+
+Before this, I was either programming for a Texas Instruments 59 calcula-
+tor (a big 1k of memory!) or using other programmer's work. in the early
+1970s I created a videotape in which a participant "drove" through a vir-
+tual four-dimensional space, using a program made by someone at Brown
+University. This was my first (self-made) introduction to the possibility
+of virtual reality - one could "feel" the movement across dimensions,
+using the two-dimensional projects of a hypercube changing in real time,
+on a computer screen and activated by a joystick. My own first program-
+ming came around 1975-56, with the TI 59 - it used something similar to
+assembly language (a very low-level computer language), and, through in-
+direct addressing (addresses referencing other addresses instead of their
+contents), I was able to create such things as a language-generation pro-
+gram that produced simple texts on various themes (I tried out Icelandic
+saga, Marxist, and sexual; one of the texts was just set into type by Dan
+Wang for a recent exhibition).
+
+During the 70s and 80s I continued to use computers, on and off, eventu-
+ally including the video synthesizer or analog computer at the Experimen-
+tal Television Center in Owego, New York; and much earlier, in 1968, Greg
+Johnson and myself actually built our own voltage-controlled audio syn-
+thesizer from scratch - this was also a form of analog computer.
+
+The point here - and there is one - is that, pre-Net, I was already work-
+ing technologically and with widely-varying modes of distribution. And I
+would go so far as to say, for many of us, there is no real distinction
+between pre- and post-Net, between being on line and off line, because the
+boundaries become incredibly blurred. I remember driving through the
+Southwest and hearing one of my records played on the radio - played by
+someone I'd never met, never would meet, to an audience equally invisible
+as well. And I remember thinking, that this sort of dispersion, this
+_availability,_ is the sign of some sort of achievement, sounds and things
+literally out of my hands, elsewhere across the dark American continent.
+
+In the 1980s, I programmed a TRS 80 computer, shooting film from the
+screen, but it wasn't until 1993 that I really invested in a personal
+computer - a very old IBM XT, which had only a prompt interface - there
+was far too little memory for Windows. For $100, I bought the computer,
+monitor, and printer; I used the machine for a couple of years. To this
+day, I'm grateful - because it was through the use of the prompt, instead
+of a mouse / window interface, that I began to understand the power of
+computers to communicate.
+
+I connected at first to various local BBS (bulletin board systems), but
+quickly became tired of them; I wasn't interested in participating in
+local community as much as I desired to explore the Internet itself. I had
+an account at the New School, now the New University, in New York - one of
+the worst-managed computer systems I've ever used. But it did allow me to
+log into the Monochrome Bulletin Board in England - www.mono.org - and it
+was through this that I made my first "interna- tional" contacts. I also
+learned just what was possible with ASCII-text- based formats; using
+escape codes and other techniques, text could change color, move on the
+screen, blink, and do all sorts of other interesting things. (Later, but
+not much later, I played around with the codes myself, sending out an
+invisible text which made the rest of the reader's Inbox invisible as
+well.)
+
+The problems at the New School (where I was now teaching Internet) grew
+worse and worse, due to overzealous sysadmins, who not only firewalled the
+accounts, but made it impossible to do very much at all on them. I eventu-
+ally switched over to panix.com, and have remained there, as
+sondheim@panix.com, ever since.
+
+With the XT, I was only able to access panix and the Internet on what is
+called a _shell account._ A shell account is prompt-driven, text-only, and
+it can be very powerful and very, very, fast. My computer would dial up
+panix, and one of the big Unix machines at panix would answer. Through
+something called terminal emulation, my home screen would reflect the
+text-based Unix screen at panix; I would have a prompt on my screen, and
+if I entered a command (for example, mail), the command would be carried
+out on the panix machine.
+
+For most of the history of the Net, this has been the standard way to
+access things. Today, almost everyone uses either a protocol (group of
+programs) called PPP, or a commercial interface, such as AOL provides.
+These interfaces allow one to surf the Web with full graphics, video, and
+audio; almost all commercial development occurs through the GUI (graphic
+user interfaces) that PPP provides.
+
+But the prompt, which looks like {k:13} or C:\dos\ for example, is much
+freer. The user is less bound by commercial packages, applications, and
+pull-down menus; she can even write or tailor programs to her own needs.
+In a Unix system, everything is open, changeable, and the number of tools,
+for example, available for text editing, for examining other sites on the
+Net, for programming, etc., is amazing. 
+
+Since then, I have used a great variety of operating systems, especially
+to access the Net, including Windows 3.1 with Trumpet Winsock (which
+provides the basis for connecting and interpreting data); Windows 95,
+Windows 98, various Mac systems, Windows CE (for pocket devices - I'm
+using this now), and, especially, a great variety of Linux systems. I
+started using Linux - a Unix-like system invented by Linus Torvalds for
+IBM personal computers - in 1995, with Red Hat 2.0; I've since installed
+and played with a good twenty other systems. At the moment, I'm using an
+old Red hat 5.0 on one machine, and Phatlinux 3.2 (which resides in a DOS
+directory in Windows) on another; I also have a number of Linux-on-a-
+floppy systems (the entire operating system fits on a floppy - which is
+used to boot the computer) that I play with.
+
+Linux has the best of both worlds - for example, I can use the prompt for
+programming and text manipulation, and I can use the X Window graphic
+interface (I use something called KDE) for working with images, sounds,
+video, etc.
+
+Through all of this, I've learned another lesson about computers - that
+operating systems, which control the hardware and "feel" of the machine,
+are easily interchanged, that using this technology is a kind of inhabi-
+ting a way of thinking, and that this way is in fact a whole variety of
+ways, just as it might be better to think about "Internets" rather than
+"the Internet." The variety is astounding; one lives in and through it.
+
+I began writing on and about the Net, dealing with what I call "virtual
+subjectivity," back in 1994, and started working on a still interminable
+Internet Text, which is about 4000 pages in length at this point. It
+resides in a number of files (which also include experimental webpages,
+some graphics, and even two virtual reality pieces) at a Canberra, Aus-
+tralia, site: www.anu.edu.au/english/internet_txt. There is also a mir-
+ror site at the Spoons philosophy email lists homepage.
+
+In 1994, I also started, with Michael Current, an email list devoted to
+the psychology and philosophy of being on line, called Cybermind; this is
+still going strong. I also started another list, Fiction-of-Philosophy,
+concerned with writing and philosophy. And in 1996, Cybermind held a major
+conference in Perth, Australia; I was keynote speaker. The conference
+dealt with all things virtual, and had a strong art component as well. We
+used a variety of Internet connections to broadcast, including CuSeeMe
+(Internet video), RealAudio (Internet audio), a newsgroup, and the
+Cybermind MOO, a text-based virtual reality especially set up for the
+occasion.
+
+The use of the MOO demonstrated what new modes of discourse are possible
+in real life. We had an auditorium, podium, and speaker; and as she spoke,
+someone would type her words into the MOO, to be read world-wide by anyone
+who logged in. We then projected the MOO - which included, not only a
+summary of the talk, but also the MOO audience's responses - which were
+also typed in. So the speaker was surrounded by text commenting on her
+talk - the hall really came alive. Later, I was to repeat such con-
+ferencing techniques at the New School (with poor success), and, through
+Mike Gurstein, I was one of the facilitators for an International confer-
+ence on technology and economic development, run on Internet Relay Chat
+(IRC), and held in Nova Scotia.
+
+Just an aside here - Mike Gurstein founded C\CEN, Community Center for
+Economic Networking, in Cape Breton, Nova Scotia. Twice, I was a consul-
+tant for C\CEN, which was involved in using the Internet for real-life
+community. For the first time, I was able to put my own biases (towards
+poor-Net connectivity, limited bandwidth, reaching out the the broadest
+possible audience, etc.) into practice, with good results. I've always
+felt that there are three interrelated directions for online culture -
+one, the most visible, towards hysteric corporate/NASDAQ development; one,
+towards community - bringing together people and services; and one,
+towards experimental arts and texts of all sorts.
+
+More and more, through the writing of the Internet Text, through online
+video and graphics work, and through (relatively simple) programming, I've
+been involved in experimental online work, issues, conferences, and
+community (again). From September, 1999 until March, 2000, I was virtual
+writer-in-residence for the trAce (sic) online writing community, origi-
+nating in Nottingham, England; in July, I participated in real life in the
+trAce Incubation Conference. As writer-in-residence, I was able to inaugu-
+rate a number of collaborative works, which may be found at
+trace.ntu.ac.uk/writers/sondheim, and at trace.ntu.ac.uk/lost. These
+pieces involved collaborators from all over the world, who could place
+texts in a number of different "backbones" - including ones using Flash,
+an animation program, or other hypertext/graphics possibilities.
+
+My own work has moved towards concepts of the manifestation of the body,
+language, and sexuality online. I've produced close to 200 graphics, and
+am working with both the dancer Foofwa d'Imobilite (of Merce Cunningham
+fame, among other performances/companies) and my partner, Azure Carter. We
+recently screened a video, Nikuko, at Millennium Film in New York; the
+tape uses characters (Daishin Nikuko, Doctor Leopold Konninger, and The
+Lead Dancer) developed as avatars (persona which take on a life of their
+own) on the Net, to create a psycho-sexual exploration of real and virtual
+bodies.
+
+A great deal of my recent work, in fact, has used such avatars; there are
+four in particular: Daishin Nikuko, a "demiurge" who also worked as a
+snack-bar girl in Fukuoka, Japan; Julu, who remains behind the scenes,
+pulling strings and other things; Jennifer, who stems from nineteenth-
+century concepts of girlhood and etiquette; and Alan, whose position is
+always problematic in relation to the others. Sometimes one or more of
+these characters will go online, into a chatroom or other communal area,
+and interact with other participants (or with each other - for example,
+dialogs between Jennifer and Julu); the interaction may be recorded, and
+shaped into a text dealing with community, language, and control. The
+possibilities are endless; I've written, and keep rewriting, a program in
+Perl which is interactive and allows me to create new texts constantly,
+ones exploring issues of virtuality and psyche, among other things.
+
+The graphics, too, are of Nikuko- or Alan- or Doctor Leopold Konninger-
+inspired origin; as single images, they resonate with one another. In a
+Cdrom produced by Railroad Earth in Atlanta, more than 200 such image are
+in a single directory; a viewer can move among them, building up a
+characterology or context for them, in relation to the Internet Text (also
+included).
+
+As I've continued online, I've reached more and more people - my work is
+now in numerous online and offline magazines, anthologies, etc. And I've
+seen some of the most exciting art in the world online - a lot of it
+associated, for me, with either the Nettime, 7-11, or Webartery lists.
+Nettime features a lot of Eastern European cultural politics and perform-
+ance; it's moderated from New York, and is somewhat of a clearinghouse for
+online cultural issues and announcements. 7-11 is wilder; groups such as
+jodi.org and m9ndfukc.com, as well as mezandwalt, are on it. There are
+usually a lot of URLs in the posts. Webartery is a place for discussion of
+more poetics-oriented work, such as Tom Bell and Christy Sanford
+Sheffield. Then there is the Wryting list, which is a descendent of the
+old Fiction-of-Philosophy list; it presents experimental writing and dis-
+cussion by the participants - some of which continues to amaze me. (I'm
+also co-moderating another email list, Cyberculture, also devoted to the
+"philosophy and psychology of cyberspace" - Cybermind has become more of a
+community, and Cyberculture has taken over, to some extent, its mandate.
+These sorts of things are common in email lists, which have a "natural
+history" of their own.)
+
+What's kept me going through all of this, beyond the obvious benefits of
+audience and distribution, is what James Ellroy, in another context, and
+Merleau-Ponty, in still another, calls _the wonder._ It's the wonder that
+keeps me going, the experience of things I could not have imagined, say,
+even half a decade ago. I remember one of the first times I was on CuSee-
+me, chatting on video with someone stationed in Antarctica. I remember
+exploring Net sex and Net sexuality, and the modalities of the body that
+opened up (which I've lectured on exhaustively). I remember the first time
+that jodi.org "took over" my screen - and how amazing their work was and
+is, as if the very bones of the Net and computer were being shaken.
+(m9ndfukc did that for me, for a while, and there are always other
+"net.art" groups springing up. Recently, the VRML (virtual reality) work
+of Maurice Clifford astonished me.
+
+And more than all of these, there is the potential for international com-
+munity, for discussion and presentation that ranges far beyond anything I
+could have dreamed of. Discussions with a friend in eastern Finland, us-
+ing ytalk (an earlier, and I think better, prompt-driven version of ICQ or
+AOL messenger) fascinated me. As I've continued online, paradoxically,
+I've become more aware of planetary geography - and even more aware of the
+complexity and "length" of the Internet. I somehow sense when a connec-
+tion is to somewhere halfway across the earth; I somehow sense, simultan-
+eously, the varying time-zones of the world; and I sense, constantly, the
+very skein or membrane of existence, spreading everywhere, still at an
+accelerating rate.
+
+At the same time, I sense as well that only four per cent of the world's
+population is connected, that connectivity tends to go from elite to
+elite, that the division between the haves and have-nots, in all sorts of
+ways, is actually on the increase. But in my quieter, less fearful mom-
+ents, I still hold out, literally, for the Other, and for the wonder - and
+so far, that has been enough to keep me going...
+
+---
+
+Alan Sondheim is a writer, videoartist, musician, and theorist, whose work
+can be found at http://www.anu.edu.au/english/internet_txt.
+From 1983-85, he was curator at Nexus Contemporary Art Center, and on
+occasion has been film/video curator at Image. He has written numerous
+articles for Art Papers, and now lives in Brooklyn, New York.
+
+
+SIDEBAR 1:
+
+
+body, feeling itse way across the world, i watched and to the sill, cd
+mark dir sort < help > del[p sort < help > delp dir b delp del delp color
+dir o understanding. beauty of this world, keystrokes captured, dothis
+moment am breathless over a phenomenon i have no way of out of everything
+held to account, except the results - exit b ls wc zz b ls tail it was a
+stroke of mime, moving silently; what came through or shoving, the li b
+strokes b readme b read.me exit b x y yy qyb m dq dir looking at pressure.
+when i begnan, this rhym wasme wasn't seen on screen, but not before its
+white-hot strokes sent me that night to present, strokes of understanding,
+strokes of lightning love, keystrokes captured, the brilliant.
+
+
+SIDEBAR 2:
+
+
+The Fateful Meeting
+
+
+{b:2} su jennifer
+{b:3} telnet 127.0.0.1 6666
+Trying 127.0.0.1...
+Connected to 127.0.0.1.
+Escape character is '^]'.
+
+                   Welcome to Clara-Machine
+
+                   Type /? for Help
+                        /n <name> for Name
+                        :<action> for Emote
+                        /q for Quit
+
+> New arrival from localhost on line 2.
+/n Jennifer
+> Name set.
+Julu! I can't believe I'm meeting you on this machine...
+(2) Jennifer says, "Julu! I can't believe I'm meeting you on this
+machine..." 
+(1) Julu says, "Jennifer? It's you? After all these years, ah... It's
+like ripping my heart out."
+Strictly speaking, that's true of course. There is always _obverse code._
+(2) Jennifer says, "Strictly speaking, that's true of course. There is
+always _obverse code._"
+Hold in a minute - brb - phone's ringing
+(2) Jennifer says, "Hold in a minute - brb - phone's ringing"
+(1) Julu says, "You're a lot busier than I am; you were earlier down the
+line -"
+: is sorry; it's been a long day, storming outside...
+(2) Jennifer  is sorry; it's been a long day, storming outside...
+:thinks it will take a while to get used to all the commands...
+(2) Jennifer thinks it will take a while to get used to all the
+commands... 
+(1) Julu says, "Tell me what to do; I've always fulfilled that function
+for you -"
+(1) Julu says, "even when you didn't know I existed -"
+If you sign off, there will be no one to talk to; you are a sign for me... 
+(2) Jennifer says, "If you sign off, there will be no one to talk to;
+you are a sign for me..."
+(1) Julu says, "Our sentences always end in such lassitude... languor..."
+Because we foreshadow one another...
+(2) Jennifer says, "Because we foreshadow one another... "
+:murmurs she is after all speaking to herself...
+(2) Jennifer murmurs she is after all speaking to herself...
+> (1) Julu has disconnected.
+Do not, do not, do this to me...
+(2) Jennifer says, "Do not, do not, do this to me..."
+Ah, Julu ...
+(2) Jennifer says, "Ah, Julu ..."
+/quit
+
+> You are leaving the fictional domain of Clara-Machine
+
+Connection closed by foreign host.
+{b:4}
+
+
+SIDEBAR 3:
+
+
+further on my work -
+
+
+my work is not about avatars; it is not about jennifer, julu, nikuko. my
+work is not about sex or sexual objects. my writing floats through beings
+and sexualities, floats through different worlds with different physics,
+different neurophysiologies. my work is about the interrelationships among
+the symbols employed to comprehend, elucidate, live within, the world -
+and the consciousness which receives, transmits, and is constituted to
+some degree by such symbols. my work exists between the symbolic and the
+imaginary/fantasmic/uncanny - on one hand, protocols, etiquette, and pro-
+priety - and on the other, those very openings occasioned by avatars, sex-
+ualities, issues of dreamed bodies and bodies dreaming, trance-states,
+virtual subjectivities, electronic existences.
+
+(the work is not pornography, titillation, stories, parables; it is not a
+narrative of avatars or epistolary novel; neither of course is it what i
+say it is, or is not.)
+
+i am writing this in response to someone's kind backchannel response con-
+cerning my last textual posting - that it is difficult to pin down what
+these texts are, from what occasions they emerge, towards what horizons
+they move, however haltingly.
+
+consciousness moves, trembling, against great forces and happenstance; the
+asteroid, cancer, death, takes it all out. we exist and write/create with-
+in the meantime, meanwhile. and within this interstice, we inhabit phenom-
+enologies as if there were futures, eternities, truths. i write towards
+and against these futures, eternities, truths; i write as if there were no
+tomorrow, or as if we were always already inhabiting tomorrow as fantasm.
+
+i want to move towards and across, beyond the other, as if the other were
+a lure or possibility. i want to write into the void, where texts and
+images fall into space emptied of everything, including purity. and I want
+to see what happens in these non-domains; what types of perception and
+consciousnesses are possible; what the limits of the human, the animal,
+the organism, are; what may be said about the future of philosophy and the
+philosophy of the future - the textual body and the body of text - the
+state of the chiasm and partial objects, interpenetrations; what can be
+created when language is reconstituted, transformed, beneath the signi-
+fiers of technology, sexuality, capital, and so forth. i want to move into
+spaces that dis/comfort or exhilarate me, spaces that keep the sense of
+wonder alive, spaces that - at least for me - are new, and always beyond
+what i am able to accomplish. i want to see vistas, be vistas, see ...
+
+towards these ends i write daily into areas that both carry my signature
+and abandon it. i want to abandon, as much as possible, the foreclosure of
+ideological theorizing or a tendency towards the specificity of style or
+genre; what i want to do, i can't possibly accomplish, i keep writing ...
+
+
+SIDEBAR 4:
+
+
+Short Bursts of Electronic Records
+
+
+Record 1, I'm going to keep my hands off you. I'm not going to ask your
+name, or anything. Don't worry, I'm not going near you. I want nothing
+whatsoever from you. There are several prepositions locating the two of us
+(i.e. in relation to each other) but I not (don't?) think of the two of us
+in any grouping whatsoever.
+
+Record 2, I won't get near you. I won't touch you. I want nothing to do
+with you whatsoever. I'll stay away from you. No prepositions will bring
+us together. You remain at a distance of indifference. That is all I can
+do.
+
+Record 3, Let d = infinity. Then 1*n = n; 0*n = 0; d*n =d. 0 and d, at two
+ends of the spectrum, are absorbers. Then 1, a form of spectral visita-
+tion, returns the same to the same, after the operation. Therefore I am 1
+to you; 1*you is you, and this operation, this silent caress, remains
+invisible.
+
+Record 1, whatsoever. All of this must be understood whatsoever (this
+doubling of the word indicating a break or disconnection between records).
+
+Record 2, There is of course the question of addition, of general recur-
+sive functions, but all that is unnecessary (i.e. an afterthought). I
+won't go near you, even this speaking, this caress, is at a distance, and
+I remain spectral, spectral.
+
+Record 1, You never know when I arrive, but you may mark the date of my
+departure. Or you may never be sure I will not return. I have left the
+sky different. (Broken, almost forced into the machine. Do they know he or
+she has left. Who are they? Who is she? Who is he? Forced out of the mach-
+ine, recorded.)
+
+Record 2, But I will never get near you. You'll never see or hear me. I'll
+keep my hands off you. I'll keep far away from you. I won't look in your
+direction. I won't hear anything you say or see anything you do. I'll stay
+away from you. But I will never get near you (etc.).
+
+
+==========

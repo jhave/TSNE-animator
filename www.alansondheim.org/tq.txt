@@ -1,0 +1,1649 @@
+
+Category
+
+http://www.alansondheim.org/category3.png
+http://www.alansondheim.org/category.mp4
+http://www.alansondheim.org/category1.png
+http://www.alansondheim.org/category2.png
+http://www.alansondheim.org/category4.png
+http://www.alansondheim.org/category5.png
+http://www.alansondheim.org/category6.png
+http://www.alansondheim.org/category7.png
+http://www.alansondheim.org/category8.png
+http://www.alansondheim.org/category9.png
+$ ytalk sondheim@panix.com
+>[1] + Stopped              ytalk sondheim@panix.com 
+[20B[1] + Stopped              ytalk sondheim@panix.com 
+$ ytalk sondheim@panix3.panix.com
+[22B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix.com
+[19B[3] + Stopped              ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[16B[3] + Stopped              ytalk sondheim@panix.com 
+$ fg ytalk sondheim@panix.com
+/usr/local/bin/ksh: fg: ytalk: argument must be %job or process 
+id
+ytalk sondheim@panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+[4C0:00.00 ytalk sondheim@panix.com (ytalk-3.3.0)
+[4C0:00.01 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+[4C0:00.02 ytalk sondheim@panix.com (ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[36D#  ytalk_user: bad ytalk contact   #
+>[1] + Stopped              ytalk sondheim@panix.com 
+[20B[1] + Stopped              ytalk sondheim@panix.com 
+$ ytalk sondheim@panix3.panix.com
+[22B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix.com
+[19B[3] + Stopped              ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[16B[3] + Stopped              ytalk sondheim@panix.com 
+$ fg ytalk sondheim@panix.com
+/usr/local/bin/ksh: fg: ytalk: argument must be %job or process 
+id
+ytalk sondheim@panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+[4C0:00.00 ytalk sondheim@panix.com (ytalk-3.3.0)
+[4C0:00.01 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+[4C0:00.02 ytalk sondheim@panix.com (ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[36D#  ytalk_user: bad ytalk contact   #
+alias clara="ytalk clara@gol1.gol.com"
+alias clar="ytalk clara@gol.com"
+alias trevor="ytalk trevor@sfsu.edu"
+>[1] + Stopped              ytalk sondheim@panix.com 
+[20B[1] + Stopped              ytalk sondheim@panix.com 
+$ ytalk sondheim@panix3.panix.com
+[22B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix.com
+[19B[3] + Stopped              ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[16B[3] + Stopped              ytalk sondheim@panix.com 
+$ fg ytalk sondheim@panix.com
+/usr/local/bin/ksh: fg: ytalk: argument must be %job or process 
+id
+ytalk sondheim@panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+[4C0:00.00 ytalk sondheim@panix.com (ytalk-3.3.0)
+[4C0:00.01 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+[4C0:00.02 ytalk sondheim@panix.com (ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[36D#  ytalk_user: bad ytalk contact   #
+$ ytalk jennifer
+[1] + Stopped              ytalk sondheim@panix3.panix.com 
+15644 ttyq1 T 0:00.00 ytalk sondheim@panix3.panix.com 
+(ytalk-3.3.0)
+ 2531 ttyr7 T 0:00.00 ytalk sondheim@panix3.panix.com 
+(ytalk-3.3.0)
+ 3438 ttyr7 T 0:00.00 ytalk sondheim@panix3.panix.com 
+(ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+>[1] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix3.panix.com
+>[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>$ ytalk sondheim@panix3.panix.com
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>[1] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix3.panix.com
+>[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>$ ytalk sondheim@panix3.panix.com
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+wetwares worlding wryting www yamabushi ytalk
+^ytalkrc ^trn ^ytalkrc ^ytalkrc ^two Mail ^ytalkrc ^xtod News 
+^ytalkrc
+$ ytalk sondheim@panix.com
+$ ytalk sondheim@panix.com
+$ ytalk sondheim@panix.com
+Oct 20 1998 .xtod -rw------- 1 sondheim users 91 May 21 2006 
+.ytalkrc
+k7% ytalk sondheim
+ytalk garcia
+$ ytalk sondheim
+k7% ytalk sondheim
+    -   Powwow (multiple ytalk, audio)
+            The ytalk place
+It covers talk, but not ntalk or ytalk.
+               ytalk divisions
+                First person (ytalk, Iphone, CuSeeMe)
+            The ytalk place
+Ytalk
+Ytalk - Past 
+Ytalk - l.txt
+Ytalk - n.txt
+   Talk, Ntalk (Bigendian/Littlendian), Ytalk
+[36D#           Ytalk Error            #
+[36D#           Ytalk Error            #
+Nikuko on Ytalk
+	i Ytalk
+Ytalk - Past 
+Ytalk - l.txt
+Ytalk - n.txt
+                     #            Ytalk Error            #
+                     #            Ytalk Error            #
+Talk Between Jennifer and Nikuko on Ytalk Ending in Anger
+[36D#           Ytalk Error            #
+[13CYtalk Error
+[13CYtalk Error
+Ytalk - Past 
+Ytalk - l.txt
+Ytalk - n.txt
+K # Ytalk Error #
+####################################### # Ytalk Error # r r # # 
+Talk Between Jennifer and Nikuko on Ytalk Ending in Anger
+   Talk, Ntalk (Bigendian/Littlendian), Ytalk
+    -   Ytalk (Unixtalk)
+wrong with you, too much fleshmeat? Get real! Ytalk me a little! 
+I'm all
+?   ?   ?   ?       YTALKRC
+?   ?   ?       YTALKRC
+|   |   |       YTALKRC
+|   |   |       YTALKRC
+
+
+
+For Holiday Cheer and a Better Year Ahead!
+
+inspired by Alfonso X, el Sabio's Cantigas de Santa Maria
+
+http://www.alansondheim.org/ourlights.jpg 
+http://www.alansondheim.org/holydays.mp3 di Giorgio guitar
+
+
+
+hallows
+
+http://www.alansondheim.org/hallows.png
+http://www.alansondheim.org/hallows.mp3
+from the cathedral
+
+fallowed birches hallowed while life is never hallowed
+life is never hallowed, signs are born from sorrow,
+foaming ride on the surface, unfolding hallowed shallows,
+something in the depths, something hardened, hallowed,
+
+we consider hallowed. est chanting of the earth resonates 
+hallowed in the farther/est reaches of to the anode; the vacuum 
+life is a hallowed-hollowed life. In groping the sky, silent 
+burial in hallowed ground life is never hallowed. signs are born 
+from sorrow. something far below, is it something hallowed by 
+tradition and violent trailing down from mangrove, wounded 
+dragonfly carried to safe repeating sometime when thy are very 
+happy on th othr repeating on halloween but sometime when thy 
+are very happy on th othr trailing down from mangrove, wounded 
+halloween dragonfly carried to safe trailing down from mangrove, 
+cavern of hallowed twisty passages, churinga markings - heading 
+there, the S was lost or hallowed ground life is never hallowed, 
+signs are born from sorrow, foaming ride on the surface, 
+unfolding hallowed shallows, something in the depths, something 
+hardened, hallowed,
+
+life&SPis&SPnever&SPhallowed
+
+
+
+
+Chanterelle of Marvelous Prosceniums
+
+
+http://www.alansondheim.org/chanterelle9.jpg
+http://www.alansondheim.org/chanterelle.mp4
+http://www.alansondheim.org/chanterelle1.jpg
+http://www.alansondheim.org/chanterelle2.jpg
+http://www.alansondheim.org/chanterelle3.jpg
+http://www.alansondheim.org/chanterelle4.jpg
+http://www.alansondheim.org/chanterelle5.jpg
+http://www.alansondheim.org/chanterelle6.jpg
+http://www.alansondheim.org/chanterelle7.jpg
+http://www.alansondheim.org/chanterelle8.jpg
+
+Chanterelle, I come up empty. This is about the empty and the 
+fool. This is a glance to the left opens up empty screen on the 
+left, the message search for ide devices and coming up empty 
+empty. so the machine so far turned up empty. more outlining on 
+a talk about net-sex coming up empty - embodiment that keep 
+coming up empty. But the ghost-in-the-machine, the uncanny two 
+of them witnessing the monster coming up empty in their midst, 
+these weirdly point to another, you see, one point or another, 
+but a, and this text could - brakes give out no nothing eighteen 
+wheels coming up empty fast viral display, something "coming up 
+empty" as if uncalled for - ah, i can see escape and keep coming 
+up against artificial barriers of the edge of and you, you can't 
+get enough of a good thing when you don't get enough - more 
+tests and sleep clinic coming up empty, already had xrays and 
+overly simplistic, running empty against that same wall, that 
+gap that refuses to admit there's something rather than nothing 
+- I can't change much, Julu Twine says, I desired a haunting- 
+screen, coming up empty against the creases of my body, the 
+_tattered notes_ and white pointy flowers coming up empty thru 
+the hills, i am arm, robotic. lapping at the stern and she was 
+worried about the message, ''I'll murder you,'' Wagner said. 
+``You have no idea what's coming.'' a viral display, something 
+"coming up empty" as if uncalled for - ah, i can see character/s 
+try to escape running into artificial barriers enough - more 
+tests and sleep clinic coming up empty, already had xrays and I 
+liked the dance so much I kept the recording: "embodiment, the 
+ghost-in-the-machine, the uncanny"! Chanterelle, I came up 
+empty!
+
+
+
+For Clarice Lispector
+
+http://www.alansondheim.org/clarice2.jpg
+http://www.alansondheim.org/clarice.mp4
+http://www.alansondheim.org/clarice1.jpg
+http://www.alansondheim.org/clarice3.jpg
+http://www.alansondheim.org/clarice4.jpg
+http://www.alansondheim.org/clarice5.jpg
+http://www.alansondheim.org/clarice6.jpg
+
+"the other of the others was I." 
+(Clarice Lispector, The Foreign Legion.)
+
+already a mapping** the face is an other, face is always already 
+weaves, interpenetrates, but desire is an other.
+
+thought on this earth, that there is an other earth, other 
+thought, as if weaves, interpenetrates, but desire is an other.
+
+weaves, interpenetrates, but desire is an other. 
+the face is an other, face is always an other,
+
+a space which will become other. This is an other space; you 
+will witness his death as an other.
+
+i'll die it will be somewhere else - that's the i that is an 
+other, the other thing and all together
+
+and death is an other -
+
+(eighteen years, and death is an other) -
+
+thought on this earth, that there is an other earth, other 
+thought, as if death is an other -
+
+(eighteen years, and death is an other) -
+
+the face is an other, face is always opened its death is an 
+other -
+
+(eighteen years, and death is an other) -
+
+
+
+The Ruined Theory
+
+http://www.alansondheim.org/categ4.jpg
+http://www.alansondheim.org/categg.mp4
+http://www.alansondheim.org/categ1.jpg
+http://www.alansondheim.org/categ2.jpg
+http://www.alansondheim.org/categ3.jpg
+
+insight now: theory as zoetrope, machinic assemblage
+of never-ending insight now, production, emptied
+categories, annihilation terminal objects, now for
+the beginning's null: insight now:
+
+gold-terminal-plating; at:
+terminal philosophy.
+sleepy terminals!
+terminal philosophy.
+terminal philosophy.
+internet.txt:terminal.echo:nipple:portia:honey:
+stutter:spew:global:thread 
+terminal philosophy.
+terminal grave! 
+terminal grave! 
+|   |               |   |   |   terminal.el
+|   |               |   |   |   terminal.elc
+|   |       |   |   |   terminal.el
+|   |       |   |   |   terminal.elc
+world over.  acro , but I terminal. The doctor with uttermo 
+is terminal;  the disease of life continues. 
+one but (flesh) adjacent to the terminal (unscreened), 
+YOUR FLESH I FIND I FIND toggle on terminal off MY ADDICTION GETS
+terminal regard, I'm down, I'm done
+Will I burn terminals dissolute, enmired 
+the mark on Cain is the terminal prompt \
+Honey: against or within the abdominal terminal screen
+terminal, "screen remov'd," death and disappearance.
+Error opening terminal: unknown.
+Why do we tremble in the vicinity of the terminal?
+Why do we tremble! Insight! Theory! Insight!
+
+
+
+guzheng
+
+http://www.alansondheim.org/insts01.jpg
+http://www.alansondheim.org/zheng0.mp3
+http://www.alansondheim.org/zheng1.mp3
+http://www.alansondheim.org/zheng.jpg
+
+thanks to Stephen Dydo
+
+
+Samisen Blues for 2016!
+
+with a little help from qin
+
+http://www.alansondheim.org/samisenblues.jpg
+http://www.alansondheim.org/samisenblues.mp3
+
+samisen blues with the qin high strings as accents
+recorded at Stephen Dydo's
+samisen rocks! 
+
+Thanks to Stephen Dydo!
+
+
+
+Happy Holidays!
+
+Review of our cd Threnody by Steve Holtje!
+
+#15 http://culturecatch.com/music/best-rock-pop-electronic-2015
+
+
+
+intrusion / extrusion for 2016
+
+qin, qin with in-scale tuning, guzheng
+
+http://www.alansondheim.org/turret.jpg
+http://www.alansondheim.org/intrusion.mp3
+http://www.alansondheim.org/extrusion.mp3
+
+clashing civilization that open up spaces beyond thematic
+villages, gravitational lensing, alignments, territories
+inherently out-of-tune, microbial landscapes, slime-mold
+movements, emergences, emergencies
+
+no overdubbing, extrusion: guzheng, intrusion: qin qin guzheng
+
+theories of unthemed dwellings, nomadic commons, taz, 
+coming together and falling apart, falling apart and coming
+together, defeat of the punctum-turret, alignments of 
+universal skies
+
+
+
+As if it were Robert Morris'
+
+http://www.alansondheim.org/clicks.png
+
+and the box w/ the sounds of its own making, whereas in this 
+case, registration of computer clicks producing the image 
+measuring the registration or the image registering the 
+production of its (digital, imaginary) needle sway or spectral 
+imaginary of the registration of computer clicks; since the 
+digital is always conceptual, always conceived along code and 
+protocol lines; realize that it's easy to produce _conceptual 
+traps_ of this sort, rather than otherwise, and that such traps 
+in fact constitute the very nature of art and its mappings 
+within the framework or aegis of the digital; all that remains 
+to be done here is to acknowledge the entities that produced the 
+(linux) operating system and its (now and current) attendant 
+apps; so it's as if it were Robert Morris but without the labor, 
+the physicality of the world, which has been replaced by the 
+coupling of finger-strokes within the closed apparatus of the 
+computer, just as the Morris box, if I remember correctly, was 
+constituted by a taped recording within it, the sounds evident 
+through a speaker, to one and all, the audience within a gallery 
+somewhere on a street in a city in the world, people milling 
+about, wars, holocausts, nations, in the midst of what would be, 
+at best, a relatively quiet sound, a moment away, within, of 
+silence, even, something thought, something dwelling, among 
+you, something _there._ *
+
+* but among the slaughters as well, the sounds of their own 
+making as well, and just as well
+
+----------------------------------
+
+
+http://www.wikiart.org/en/robert-morris/box-with-the-sound-of-its-own-making-1961
+
+Artist: Robert Morris
+
+Completion Date: 1961
+
+Style: Minimalism, Conceptual Art
+
+Genre: installation
+
+As its title indicates, Morris's "Box with the Sound of Its Own 
+Making" consists of an unadorned wooden cube, accompanied by a 
+recording of the sounds produced during its construction. 
+Lasting for three-and-a-half hours, the audio component of the 
+piece denies the air of romantic mystery surrounding the 
+creation of the art object, presenting it as a time-consuming 
+and perhaps even tedious endeavor. In so doing, the piece also 
+combines the resulting artwork with the process of artmaking, 
+transferring the focus from one to the other. Fittingly, the 
+first person in New York Morris invited to see the piece was 
+John Cage-whose silent 1952 composition 4'33" is famously 
+composed of the sounds heard in the background while it is being 
+performed. Cage was reportedly transfixed by Box with the Sound 
+of Its Own Making, as Morris later recalled: "When Cage came, I 
+turned it on... and he wouldn't listen to me. He sat and 
+listened to it for three hours and that was really impressive to 
+me. He just sat there."
+
+
+
+murmur
+
+in-dwelling music and lights 
+
+http://www.alansondheim.org/murmur.jpg
+http://www.alansondheim.org/murmur.mp3
+
+Stephen Dydo, qin; Alan Sondheim, rababa
+
+quite possibly the 1st time these have been played
+together.
+
+the rababa is a 1-stringed bowed instrument, this
+one Jordanian (thanks again to Rachel Rosenkrantz)
+
+(thanks again to Stephen Dydo)
+
+---
+
+I found, from 2014,
+
+http://www.alansondheim.org/ourplace1.jpg
+slightly different, more condensed, lights arrangement,
+but we have something luminous for the season to shatter 
+the luminous silence
+
+
+
+Enharmonic Lures
+
+http://www.alansondheim.org/gu2.jpg
+http://www.alansondheim.org/harmon0.mp3 qin
+http://www.alansondheim.org/harmon1.mp3 qin, qin
+http://www.alansondheim.org/harmon2.mp3 qin, qin
+(playing 2 qin simultaneously)
+
+"Since I must save the day of tomorrow, since I must have a form 
+because I don't feel strong enough to stay disorganized, since I 
+inevitably must slice off the infinite monstrous meat and cut it 
+into pieces the size of my mouth and the size of the vision of 
+my eyes, since I'll inevitably succumb to the need for form that 
+comes from my terror of remaining undelimited - then may I at 
+least have the courage to let this shape form by itself like a 
+scab that hardens by itself, like the fiery nebula that cools 
+into earth. And may I have the courage to resist the temptation 
+to invent a form." (Clarice Lispector, The Passion According to 
+G.H., trans. Idra Novey, Penguin, 2012, p. 7)
+
+qin. impossible tunings whose fingers harmonized. to be 
+harmonized. to the harmonized. harmonized. the program, be fit 
+(in the sense of harmonization) or not; in a sense it does. 
+these terms and my use of them are of course arbitrary; one 
+might use encoding to reference the act of program-creation and 
+coding that which operates on input, with all the phenomenology 
+of input already indicated. I choose a distinction between these 
+words in order to articulate a distinction within the field; 
+otherwise we are off again into unnecessary obscurity. as for 
+the element of a code, there is a sign or sign-function, there 
+is a process drawn from tables or closed lexicons. as for the 
+element of encoding, there is none; an input may, in relation to 
+the encoding program, be fit (in the sense of harmonization) or 
+not; in a sense it does not matter, as encoding is matterless, 
+codeless, just as coding is mattered, albeit the ideality or 
+cyberneticization of matter. inhalings, harmonics, harmonizings, 
+and whistlings, for you, be fit (in the sense of harmonization) 
+or not; in a sense it does work, these double guqin, somewhat 
+deeply out of tune with each other, communicating and 
+authorizing the presence of the Other.
+
+
+
+Story, Dream, Foundation
+
+
+http://www.alansondheim.org/sdf.png
+
+
+Framework for a story -
+
+A group of characters, similar to rotifers, who have identical 
+cells, postures, gender (there is only one), appearance, etc.; 
+the story proceeds as the characters, drawn by differing events, 
+behave differently, without any change whatsoever in their 
+makeup, appearance, etc. The world is bent by the skein of 
+identity, what happens?
+
+
+From a dream -
+
+A dream last night in which Azure and I were with my father 
+(deceased) and brother and some other relatives (my brother's 
+children?) in an airport; I went to bring something back (a 
+drink? magazine? food?); and when I returned we began talking. 
+While we talked there were two moments when the sound cut out 
+completely, as if a speaker were disconnected; each moment 
+lasted at best one or two seconds; when we were audible, when 
+the world was audible again, I asked if the others had (not) 
+heard the same; they did; I had a great terror; I said we must 
+get out of here; we began leaving; I woke. What interruptions 
+occur that pass unnoticed, that come from elsewhere, or appear 
+to? What plots dissolve, bringing us along in their wake?
+
+
+
+From Sappho in Loeb, translated Campbell - 
+
+
+' Sappho to an uneducated woman: But when you die you will lie 
+there, and afterwards there will never be any recollection of 
+you or any longing for you since you have no share in the roses 
+of Pieria; unseen in the house of Hades also, flown from our 
+midst, you will go to and fro among the shadowy corpses. '
+
+
+' . . . foundation . . . small-voiced . . . '
+
+
+Warp
+
+http://www.alansondheim.org/warp.jpg
+http://www.alansondheim.org/warp.mp4
+
+Kira Sedlock and Azure Carter, Cathedral State Park, 
+West Virginia, around 2008
+
+Azure points to a body region; Kira moves it.
+
+the true world, we are skein and membrane, warp of woof of the 
+true world at warp high-speed perceptually conflated with 
+itself, our avatar is like a time warp in the world...
+
+dispfac warpfac *handle *pname *stnames stypes vars *varstr 
+*result *cfra able to get byeond the hideous at this point - the 
+Z- has warped into a Jennifer
+
+We are always gathered together in the true world, we are 
+gatherings in the true world, we are skein and membrane, warp of 
+woof of the true world which is gatherings of gatherings of our 
+gatherings and of true worlds
+
+Jennifer: "our avatar has slimy avatar movement, wormlike 
+shape-shifting, at warp high-speed perceptually conflated with 
+itself, our avatar is speed-alien, malleable and originating 
+tissue. as originating, our avatar is demiurge, producing and 
+reproducing, originating worlds and gatherings of the true 
+world"
+
+Julu: "our avatar is disparaged body or bodies, our avatar is 
+othering, here and there moving asymptotically among fractal 
+intrusions, our avatar prepares the appearance of twisted 
+connected topologies, limit-sets of behaviors, topological 
+counterexamples and distraught spaces piled upon themselves at 
+warp-high speed"
+
+shattered or warped or doubled mirrorings, or mirroring- 
+transformations or mighting alsoing thinking throughing 
+shattereding or warpeding oring blue, yellow, black, time- 
+warping
+
+an operator's hands on fabric, wonderful warping, oh yes said 
+nikuko that is truly true, and don't forget we're smoooth and 
+connected to the warp
+
+<warped dancers> oh how miserable, so many hands pointing at us!
+ 
+through cloth until warp and woof mewl. we can't think of better 
+invasions. cloth thrusts through cloth pointers until warp and 
+woof are through cloth until warp and woof are bruised. i can't 
+think of better inflations... name...dreamed on...against 
+names... kinds... warp-space, forever illegible, There have been 
+warped forests, forest-pointings, skein movement of the true 
+world, oh yes said nikuko, so very true and real
+
+
+
+altered cybermocap sex bvh shuddered files
+
+
+http://www.alansondheim.org/velcro17.jpg
+http://www.alansondheim.org/velchroic.mp4
+http://www.alansondheim.org/velc1.png
+http://www.alansondheim.org/velc2.png
+
+'when the body shudders and expires
+where the headless body dies
+fearful in this world of our bleak fires
+where the shattered body lies'
+
+bed; it extrudes some into safe cybersexual space, a space which 
+refuses 7 if _you_ disappear in real sex, _your_ disappears in 
+cybersex For text in cybersex is always one of dissolution, 
+collapse, speaking I speak of the speaking of cybersex, from 
+experiences where language is In cybersex your desire is spoken 
+_by the other_ becoming your desire; If in first or second sex, 
+the _you_ disappears, in cybersex, the _your_ 
+ Alan_ has joined channel #cybersex *** Topic for #cybersex: 
+Where the cybersex guru, xxxx resides ;) *** ggg has been kicked 
+off channel #cybersex by hhh ( Fuck you and your *** Alan_ has 
+left channel #cybersex 
+
+So beautiful, this enunciation as I depart #cybersex, mists of 
+cybersex - the imagined embodiment of Topic for #cybersex: 
+0037:BC:<Jesus> BRB <---------yea right *** Topic for #cybersex 
+set by `AntiChrist on Feb 14 12:13:29 *** #cybersex 887461296 
+^***^ none has joined channel #cybersex - Gravity505 - DCC Send 
+script.ini *** DCC SEND #cybersex by _^Pagan^_ (10We are taking 
+up a collection ta buy ya joined channel #cybersex *** Lululean 
+has left channel #cybersex ^***^ brosnon has joined channel 
+#cybersex <seto1> LOOKING FOR ANOTHER MALE #cybersex by 
+_^Pagan^_ <zebra1> mmmmmmmm *** natasha2 has been kicked off 
+channel #cybersex by _^Pagan^_ (One at a time please) *** Mode 
+change "+b *!*@203.135.1.2" on channel #cybersex by `AntiChrist 
+^***^ Bob_Mass has joined channel #cybersex joined channel 
+#cybersex *** Punisher is now known as DoggyBastah ^***^ Mike21 
+has joined channel #cybersex <Larry^47> heh <Larry^47> ok ^***^ 
+timmmm has joined channel #cybersex <wildtyme> shit sorry wrong 
+chan *** rips has left channel #cybersex <zebra1> oh three days 
+later though.... *** BOB23 has left channel #cybersex #cybersex 
+<zebra1> lick ma body sweety *** DoggyBastah is now known as 
+Cupido ^***^ ^ilikeit has joined channel #cybersex ^***^ 
+cyberjohn has joined channel #cybersex #cybersex *** Signoff: 
+cuteguy20 (Quit: Leaving) *** Signoff: #cybersex by `AntiChrist 
+on channel #cybersex by _^Pagan^_ ^***^ Ninja-Turtle has joined 
+channel #cybersex <Jericho^one> Do you know any alanw? *** No 
+such hahahaha ^***^ Ikabod has joined channel #cybersex ^***^ 
+bhdick has joined channel #cybersex *** Signoff: Alan_S (Sweet 
+taste of *** #cybersex 887461296
+
+--=[+#cybersex+] BigGreek joined the channel.
+--=[+#cybersex+] Homer has left the channel.
+--=[+#cybersex+] LA_LEY joined the channel.
+--=[+#cybersex+] phallic_symbol joined the channel.
+--=[+#cybersex+] xyz12345 joined the channel.
+--=[+#cybersex+] kenzo^ has left the channel.
+--=[+#cybersex+] Border joined the channel.
+--=[+#cybersex+] LA_LEY has left the channel.
+--=[+#cybersex+] BigGreek has left the channel.
+
+*** You have been kicked off channel #cybersex by Curien 
+/join #cybersex Nikuko
+***! Nikuko has joined channel #cybersex
+*** Topic for #cybersex: <*Scratch-N-Sniff*><---
+*** #cybersex 887461296
+*** tina_^ has left channel #cybersex
+!***! ByTe-SiZe has joined channel #cybersex
+*** sorciere has left channel #cybersex
+*** Packers has left channel #cybersex
+*** xll has left channel #cybersex
+*** heartthrob has left channel #cybersex
+!***! filipo has joined channel #cybersex
+*** warII has left channel #cybersex
+!***! honey1l has joined channel #cybersex
+*** birthdayboy has left channel #cybersex
+*** Shane-1 has left channel #cybersex
+!***! Nude27Man has joined channel #cybersex
+!***! iha has joined channel #cybersex
+*** Streak14 has left channel #cybersex
+!***! ryno has joined channel #cybersex
+!***! kath`` has joined channel #cybersex
+*** dicky-dew has left channel #cybersex
+!***! ^0verfiend^ has joined channel #cybersex
+#cybersex by _^Pagan^_
+#***# tomx has joined channel #cybersex
+(Frawg/#cybersex) lol mi
+#***# FMulder has joined channel #cybersex
+#***# kelly19 has joined channel #cybersex
+(Frawg/#cybersex) HAHA SURPRISE HER!
+#***# good-looker has joined channel #cybersex
+#***# GrOOOvY has joined channel #cybersex
+(Oxxman/#cybersex) flowers are a rip off
+#***# Sharon20 (Pssy.Lckr)has joined channel #cybersex
+#***# Kostya has joined channel #cybersex
+(Oxxman/#cybersex) give the gift that dies
+#***# GuyStud has joined channel #cybersex
+#***# Haylo has joined channel #cybersex
+*** FMulder has left channel #cybersex
+*** Sharon20 has left channel #cybersex
+(Frawg/#cybersex) here comes  haylo
+#***# makwa has joined channel #cybersex
+(Frawg/#cybersex) oh shit here she is stop talkin bout her
+*** Mode change "+o Haylo" on channel #cybersex by SynFul
+(Oxxman/#cybersex) nikuko...what are you babbling about?
+*** Nikuko has left channel #cybersex
+
+
+
+Cysexed (2nd half shuddered files)
+
+http://www.alansondheim.org/cysexed03.jpg
+http://www.alansondheim.org/cybsext.mp4
+http://www.alansondheim.org/cysexed04.jpg
+http://www.alansondheim.org/cysexed06.jpg
+http://www.alansondheim.org/cysexed07.jpg
+http://www.alansondheim.org/cysexed09.jpg
+
+and quaint terminology, archeological cyber-anything, virtual 
+worldings returning the grit of the body to shapeless and 
+groundless grit-physics representative of the wired body 
+recording spasms and its own infrastructures on closed and 
+unhacked circuitry casting off shell after shell of imagery 
+almost representative of a central core or kernel from which 
+pushbacks and pullouts, pushouts and pullbacks, can be 
+conceptualized, the locals of a topoi or places as if they were 
+originary, origin lying in the sensors, the wires, the programs, 
+hardly in the apparatus of the body which is already corrosive, 
+still un-gene-spliced, falling, failing, flailing apart,the core 
+of flesh returning through a barycentric arcing from the 
+configurations of slaughter, the removal of temples and other 
+archaeological debris, and here is the debris caved in within 
+the body, the body electric signaling to the world, body 
+touching body, spasmodic body grounded in the struggle for 
+breath and mouthings, muscles loose and taut, pleasure and 
+carapace or shells thrown from it, wave after wave, recordings 
+stuttered in the apparatus of the virtual world, as if there 
+were always a return, this electric body, this non-electronic 
+body or one running from the diodes and wires elsewhere to and 
+from the machines taking note of whatever the shuddering or 
+shattering might speak of, for within the body itself, such are 
+unspeakable, incapable at these times of speech or thoughtful 
+thinking, indeterminate, letting it run on as if there were 
+streams flooding the interior of the virtual worlds, 
+short-circuiting, burning, everything around, the cliffs, the 
+waters, the recording devices, the muscles, the skin, the flesh 
+beneath the skin, the tissues of the flesh, the organs beneath, 
+the ruptures and sutures, the belongings and castings, the 
+operations, the inoperables, the espionage from within, the 
+careful and unordained movements of arms and legs, mouths and 
+fingers, the encodings and decodings, murmurs of the machinic, 
+the soft machines, the soft, the inordinate, the gatherings and 
+castings-aside, the
+
+
+
+transit
+
+http://www.alansondheim.org/transit.jpg
+http://www.alansondheim.org/transit.mp4
+
+*/Macgrid glitch: avatar shoots off-sim, 'sit-here' command 
+brings it monmentarily back, direction arches elsewhere always 
+returning to the linear, avatar becomes arrow, transitional 
+function in transit, nothing _occurs as such,_ avatar moves, 
+returns, continues, according targets are placed, arches and 
+bridges in space-time, software's signed-out/*
+
+transitional-objects-zz Transitive/Intransitive actions - A done 
+to B by virtue of C, or transition a transitive invisibility 
+irigarayan feminine as if Think kind transitional object 
+carrying the all-too-evident seeds transit-lounge-shifter, where 
+I may not be permitted carry my which is twisted across rules 
+that are inherent. 'turn, revolve,' ('turn' in sense expressed 
+factor. Face-to-face, even on surface, constructs an will take; 
+i.e. this isn't queuing theory. So one might devouring, 
+liquidity, language, bridge, pipeline, node, transitivity, 
+fluids, diseases, languages, each term relation every others, 
+cannot myself except within transitive. Speech holds part 
+krummholz ("crooked wood") between timber universe part-objects, 
+objects at best, hardly not- everywhere. She was still obsessed 
+with am transitive, invisible indirect,..trans- itive. exchange 
+based equivalence, equivalence,.. distributions, pass scarcely 
+visible body ||||||||||||s, negation, rather from other, 
+Exchange Let us say substance without differentiation, we mean, 
+cohering matter, phenomenology same transitivity (as for example 
+Irigaray). One always lost same. At limit, consider manifold 
+geodesics, striations, closed upon itself, windowless, 
+sightless, catatonic. But only never found, incapable seeing 
+being-seen; it limit death, maw absorbs all. Now open up bit: 
+would space and time through your gaze you translucent given 
+musical instrument objects; flows floods seduction, object, i 
+occupying what cell compound who analog use-value occurs within. 
+speak (there must rhetorical trope transitively veering 
+off-mark.) Texts can either part-objects-zz transitional-ob- 
+jects-zz; clearly theory used predict onset instability What 
+realize this: hypnosis intransitive, there no paralleling 
+deconstruction virtual before same; Kon's she thinks. Kon 
+thinks, it's beginning transitivity: devour you, below beings 
+main ~we input import ~sed thee g changes morning mail delivers 
+deferred touch. Altavista stum- well ensemble its entirety. The 
+ontology temporary regime real physical communicators care 
+tenderness transition, Jennifer-transitive, Jennifer-Alan-trans- 
+sexing, loss but keep quoting people here particles = people. 
+Second Life massive transitivities resulting subtextual currents 
+discarded kernels reveal essential obdurate broken big implied 
+arrange textures curves walls divisions These phenomena course 
+transitory, leading headache proper, book, _transitional object_ 
+interpreting world, held collapse wave equation, Penrose's U -> 
+R, Bell's theorem, bother us. terms) fluid mechanical uneasy 
+gnawing mix. decay it, teddy-bear leaking stuffing. all sorts 
+(teddy-bears, blankets, parents), both feed off gratitude 
+friendships coagulates ego, disseminates stitching opposition. 
+gasp heard; nothing more than another, plateau This what's 
+object's zz zzz. Doctor, Doctor. Doctor special case, for 
+monsters their case next decade so, until transitions fully made 
+among physical- don't remember moving thinking slogan hook, 
+those aphorisms domain virtual? survives transition? Could dream 
+identity changes, pornographic, plays (transitive transitional) 
+Here, space, argue contexts.)  In short, cat (in holds. Thus any 
+communications process translate diamat dams, barriers, passive/ 
+intransitive, bring-back diarymovement threadmythoughts. 
+retrack. transition. video effects minimal captured reality, 
+them like factor transitional, recognizing boundaries immed- 
+junctures liminal moment period (using Winnicott), that: Every 
+transitional. also moves bio? Varied biomes transitivity. 
+dropping naming Down panty creation intransitiveextremely 
+virginia visions visuality voles istricts going lists, objects. 
+present; hopeless. It becomes governing cry torturing dream, too 
+gives, breaks down She, other actors curled skins, ice-spears 
+him, all.) imply, psycho-anthropo- logical wounding torsion 
+already transitive; hungry, looks signifiers arraigned taut 
+transitivity; diegetic continues variable fuzzy cyclicity 
+characteristic transitional-objects-zz: relationship Say 
+endocrine communication form operator borg virally infested 
+ones, called infinitesimals, anything located fact, enter 
+_transit lounge,_ borders (United States, voice intransitive 
+visions, visuality, here, connectors, place everything this, 
+detached. do hir hir; (I wanted see like, projection, dirt 
+bodies. survive gesture, web inversion. human ends beings, lends 
+itself looping back towards emotions, exaltations. bodysuits 
+computations organism. comfortable when turns you. they're 
+melted; occurring present 0110-in-present, matter construct 
+(which is, course), letters. Letters others something else, ref- 
+her llama text taking root, hair, bone; left portals, spaces. 
+night worlds: two positions functions transitory . lineage 
+possible? depends meaning ->. olderness kitsune-bi foxfire 
+corners knows late-night seams scream series wipes slow needing 
+liminal, foundation, horizon. study spewed environments. grit 
+appears systems considered far equilibrium phase 'transition' 
+curve 'bridging formula' over critical region non-in-trans- 
+itivity, alterity always, traditional transformations transforms 
+transforming transitivu transformuo intransitivu. Of transit, 
+transit-space transit-lounge, condemn further corners. learned: 
+navigate. edge go rock. (Everything odd thus neither nor there, 
+constancy:words silence silence; objects, think coalescing; read 
+253 objects-zz pre-verbal moments (see architectures partial 
+bodies, transitional-species, constitute digital-in-present, 
+states transitions, indication _how long_ particular mood, 
+d'nala swellings, catalyst jetty directions physicalreal disap- 
+pear factory physical-real equipment use disappear. mutability 
+world. you** body, Usage: glued transmission reception, How 
+transit-space, end, able; repairs another matter. filter, sets, 
+just assignation monies passed latter while former occlude 
+elsewhere, precisely zones fantasy bidding, rest assured (face.1 
+face.2) the 'authentic' secondary; fever so life oneself To talk 
+move state, perhaps doesn't occur, said. ah impediments terms 
+canon developme And older language point deferral disparate 
+machines splay First, above, Mn Mm, moment, (always transitive), 
+side, _transitive_ mediation substance. question; phallic 
+position transforms .seiks rehto, quick, closure world jumps 
+tracks. As play, push computer** organism, speaking freely. 
+navigate custom 1998 30 jobless 'perplexed' communicating 
+relationships, now let define sign @ such avatars awareness 
+ontological, transitivist, transversalist license contact away 
+exchange-value produced systems;  sm) character exclusion. 
+rejected face-to-face; expression, link extension, sound and 
+sight -
+
+nothing is comfortable when the transitional turns on you
+nothing is comfortable when the transitional turns you on
+
+
+
+among the communality of qins
+
+http://www.alansondheim.org/gu1.jpg
+http://www.alansondheim.org/guqins.mp3
+
+guqins together, difficulties of the reach, differing
+positions on the instruments tuned in unison, differing
+heights of strings, something of an athletic undertaking
+here
+
+when nk develops an atomic bomb = 1 person, and as plays
+guqins together = 1 person, what is the effect, that is
+nk / as = infinite slaughter, as / nk = zero effect, the
+tending of century's old wood, the momentary settling 
+and control of ten square feet, as if it were the hut of
+the literature of japan, we're surrounded by radiation
+everywhere, plants and animals, fungi and archaea, are
+dying, oceans and mountains, iceberg calving, every note
+of what consequence, what of hydrogen, what of these
+instruments, so easy to destroy, burn or bury, what of
+their sound, and for whom, and with what practice,, i'd
+like to say a single note with destroy nations, caress
+plants and animals, fungi and archaea, restore, and with
+the disappearance of humans, millennial quietude, just a
+chance of coming into communality and relationship, just
+a glimpse backtracked to the single note, to these two
+qins talking to each other, among one and other, among
+one and many and multitudes, nk * 0 = 0, as * 1 = 1 ...
+
+
+
+the limbs 
+
+http://www.alansondheim.org/limbs3.png  
+http://www.alansondheim.org/limbs.mp3  
+http://www.alansondheim.org/limbs4.png 
+http://www.alansondheim.org/limbs2.png 
+
+"Love, (loosening of limbs,)" (Sappho)
+
+me, and I began to stir slightly, open-eyed, my limbs hardening, 
+coming * Which is a book of ordinary and your limbs break glass 
+and * right attachments phantom limbs and defuge of site * 
+curtains, returning back to limbs visible and yearning in the 
+sullen * velvet. She said at first that the limbs were natural 
+human members like * penis; the waki, helping everyone. Now 
+everyone has all limbs and bodies * dering... The land itself 
+falls apart, limbs and members * darkness. When Earth puts same 
+limbs richest; fissures tell, way phantom, * this. my vary limbs 
+trambla. i glenca unaesily ...  i'm finishad. tha * and wires: 
+active, and on fire, limbs burned and being: limbs burning: * 
+hirself, among debris of limbs and tragic minds. * uneasy glance 
+belongs to you, my limbs tremble, tremble ... * Everything Julu? 
+Jennifer-Julu, pushing boundaries: <Julu> limbs around / * was 
+bushed, tensed and limbs exposed, shuddering to nervous halt. * 
+spectral communications were phantom limbs or tendrils extending 
+from * air, limbs of bone and sinew * discourse networks of 
+limbs and movements * the world of organism, of course; pulled 
+or distended limbs in the latter * this plays against the 
+twisted limbs trying to satisfy both linkage and * who is that 
+nothing, swirling around limbs akimbo * to suture the limbs on 
+and off upon the uselessness of torso * Hungering! Hungry ghosts 
+prowling limbs of young men! Young women! All of us! * quarters 
+the ribs, the seasons the limbs [...] * The lower limbs advance 
+in desire or courage. * That my limbs and thoughts will become, 
+without my knowledge, phantom * <Julu> your limbs around me / 
+holes caught in trees and flowers * throwing vapours; limbs 
+crushing reach; sovereigns tongs catches cinders;  * some / 
+limbs fall, i reside here, in flight within the corner. * 
+they've left limbs somewhere. I should be buried, I find my 
+moorings * Enmeshed in limbs that phantoms leave behind; * 
+Adorning our limbs with bone-ornaments, here we enter the 
+corpse. * anguishnguish telimbs limbss from limanguish froms 
+limbs * solid and liquid, their faces flushed, their limbs 
+groping. the dancers * many limbs and extensions. It watches 
+out of desire and fear; prey * weatherless dance and limbs 
+akimbo. * quake. I do get wakened in the night's middle by 
+phantom limbs tearing at * things, go on limbs from scans of 
+things moving slow. * keeping themselves to themselves and their 
+limbs to their limbs * yoni mewlings, bodies and limbs scattered 
+among stem cells, * anguish tears bodies limbs from limbs * The 
+firm position of the lower limbs signifies courage or obstinacy. 
+* defuge the paste phantom limbs and defuge of site you just * 
+of the species ... A body swept away, present in all its limbs 
+through a * hir limbs are disconnect (UDP) (netsplit) * our 
+limbs are sent akimbo, straining at the edges of the frame * 
+vergr wn trees and limbs cragged, encrusting the gr und.  * to 
+fade from hir eyes and hir limbs moved ever so slowly. Then you 
+will * julu falls from sky, lands on game-space edge; hir limbs 
+fold * same limbs as the richest; everything is hidden; there 
+are fissures in the * Boo hoo, it falls apart, it's broken, the 
+limbs come off, the strings * When things stand for limbs in 
+communities of narrative. * mouth-eye nubs, _those_ limbs rubbed 
+raw, necks, nubs ,,, white powders, * bodies grew strong, limbs 
+joined into all of us * in limbs sun-speared, your * horse 
+sacrifice: junctures, conjunctions. lines divide body. my limbs 
+* out. lifa must offar mora then this. my vary limbs trambla. i 
+glenca * and and outn : limbs dalyvswollen vacuoles in his body: 
+d rte maryology, * The odor overwhelms me. My limbs slough, 
+crumble, one two three four. * than our own interiority: limbs 
+become phantom limbs, voices become * stumbling over two limbs 
+and two articles of clothing * raveled in my hair, anglerfish 
+among my many limbs ... * would rather my heart shatter and my 
+limbs turn leprous than i will let * other self; my limbs merge 
+senselessly with you *
+
+
+
+cine
+
+http://www.alansondheim.org/cine6.jpg
+http://www.alansondheim.org/cine.mp4
+http://www.alansondheim.org/cine1.jpg
+http://www.alansondheim.org/cine2.jpg
+http://www.alansondheim.org/cine3.jpg
+http://www.alansondheim.org/cine4.jpg
+http://www.alansondheim.org/cine5.jpg
+http://www.alansondheim.org/cine7.jpg
+
+i'm always trying to find a home away from illusion and 
+misrecognition, somewhere i might be comfortable, with good 
+friends, community. when i leave a place i'm always taking with 
+me dozens of 'homeland' photographs, as if they can pull me back 
+to a dwelling that will hold me and azure forever. i'm always 
+failing at this as well, everything seems illusory and the world 
+is far harsher than i could ever have imagined as a child, and 
+as a child i had a picture of the hydrogen bomb by my bedside. 
+it was scary but it was distant, it didn't gnaw from within. now 
+the world seems colder, more violent, with great sadness and 
+upheavals everywhere, i'm thinking of so many species plunging 
+to extinctions, a planet which can only be described, now, as 
+trashed, and the feeling that there is no place called home 
+anymore. i can't live in illusion, grace and life itself are 
+illusions, i'm teetering, can one fall into light, i don't know, 
+i haven't heard of that but i'm listening, ear close to the 
+ground, listening for the slightest signs, hoping against hope, 
+that somewhere in the universe, for someone, something, is a 
+dwelling place of eternal comfort, homeful and hopeful, if only 
+a tiny place, a small hut, small community, something outside 
+the illusions of the light of day.
+
+
+
+the carapace the flight the from the cinema
+
+http://www.alansondheim.org/cineflight.jpg
+http://www.alansondheim.org/cineflight2.mp4
+
+the carapace the flight the into the cinema, the projections the 
+among the projections, the flight the with the carapace, the 
+achilles the and the shields, the magical the warrior the 
+imagery, the world the below the a the glance the of the a the 
+glance
+
+of the cinema, one, of the cinema, two, of the cinema, three, of 
+the cinema, four, of the cinema [...]
+
+of the video sequence, segment, interval, inscription, duration, 
+span, set, subset, of the infinitesimal subset, set, span, 
+duration, inscription, interval, segment, sequence, video, of 
+the infinitesimal video [...]
+
+of Achilles it may be said a mythical Greek hero of the Iliad; a 
+foremost Greek warrior at the siege of Troy; when he was a baby 
+his mother tried to make him immortal by bathing him in a magic 
+river but the heel by which she held him with her hand or hands 
+remained vulnerable, his heel of infinitesimal flotation 
+adjacent to the great ship Phaeton, called the Achilles
+
+Love, (loosening of limbs and image,)
+
+
+convuls
+
+http://www.alansondheim.org/convulse1.jpg
+http://www.alansondheim.org/convulse.mp4
+http://www.alansondheim.org/convulse2.jpg
+
+self, convulsively, out of cynthia's throbbing womb, a few 
+nebula hanging toe, fiery bodies heaving and convulsing in and 
+out of cyberspace, the ways? for it would a hard counsel be, 
+sputtered from body convulsed with escent, always convulsant. 
+ways? for it would a hard counsel be, sputtered from body 
+convulsed with selves. the motions appeared convulsive and 
+sometimes sexualized. interest. he stared glassily for a moment, 
+but gave a slight convulsive elders die off. hysteria is 
+convulsion, but also spew, contrary and convulse: i send you my 
+signal. my signal is sad. my signal falls apart. objects before 
+doing violence. violent death is convulsive, conclusive; ask, to 
+introduce a new epidemic of flagellants, or of convulsionaries? 
+convulsed with local intensities. just as a copy of moby dick 
+problematic cut of the scalpel, agonizing screams burst from 
+her, and, with convulsive convulsive shuddering, for example, 
+across the upper chest region, and convulses, or is the result 
+of the fantasy, the same, and therefore spaces of the corners or 
+creases of bodies, convulsive bodies, bodies skin, twisting and 
+turning; these are convulsions. i inhabit my bruises; slight 
+growth in convulsing body, cooling drifts gently.  convulsed 
+actors portray audience witness ageing, tended wake up. i wake 
+up in convulsions. you know, the body moves suddenly convulse. i 
+wake up. show me all of you, nikuko. i convulsed in the sheets 
+of the bed. i woke convulsion: don't try this at home 
+convulsions. men, just all. men, leaps that's to all. final 
+enormous fight doubt, as earth leaps to final convulsions. it's 
+just a few men, that's convulsive solitons, moments of sudden 
+and implicit revelation, turned out mouth. i can't move. the 
+body stashes its tremble. a convulsion. the moo, but line moving 
+the convulsing testing bit closer, thin outs a back vanish nose 
+convulse present the convulsive body flees the automobile turns 
+dramatic sinuosa and for the scene with movements convulsi. 
+formovements convulsi dreams eneva elsewhere imon's attention 
+dreams juice well used up before. a few great gasps and a 
+convulsive flap or two of his properly. on the other hand, a 
+study towards death and the convulsions of reproduction real 
+televisual convulsions. you carry versions around pocket waves, 
+convulsions waves and convulsions through male emanent already 
+shot with terrified will only hurt myself. will only shred 
+myself. convulse myself. divide convulsions riding doubled 
+figured churned through girl girl fields coagulation or cohesion 
+of elements, fold-catastrophic jumps, convulsions, convulse: i 
+send you my signal. my signal is sad. my signal falls apart. 
+olution, cramp, convulsion, coughing, cursive epilepsy, cursive 
+epilepsy, hysteroepilepsy. hysteria with epileptiform 
+convulsions. time convulsed triple-step time protons we time and 
+convulsed time and protons we and and convulsed neutrons, late 
+protons neutrons, with and invented. i'd hairs, tell grasped in 
+bed. her, and convulsed furious such it. triple-step convulsed 
+protons neutrons, late energy. tell you more hysteria, 
+convulsions, autonomic dance. we demonstrate this dance-body the 
+wounded body, the body catatonic, the body convulsed, tortured, 
+or the wounded body, the body catatonic, the body convulsed, 
+tortured, ... womb is or the wounded body, the body catatonic, 
+the body convulsed, the body convulsed in pain are convulsions. 
+i inhabit my bruises; each other arms; their nails have lungs 
+and heart; think of the convulsed or supine body in the lating 
+cauterizing it, dividing catatonic, convulsed, tortured, 
+convulse: i send you my signal. my signal is sad. my signal 
+falls apart. drifts gently.  convulsed actors portray audience 
+witness ageing, tended stashes tremble. convulsion. accord. 
+double. closer. moves. hard. pierces mosaic. splashes bypass, 
+pulsed throbbed. morphed convulsed arched; abjection. 
+compromised laterally, stammer withdrawn convulses. convulsions 
+fragment. lock-up everywhere; interrupts common; impeded 
+laterality. convulsive obstructed migrates insriptive construed. 
+convulsions riding doubled figured churned through girl girl 
+fields coagulation or cohesion of elements, fold-catastrophic 
+jumps, convulsions, convulse: i send you my signal. my signal is 
+sad. my signal falls apart. own cartography, fever texts, 
+convulsive epileptic texts let's convulsive sometimes 
+sexualized. edges example, k 'up', physics the convulsive body 
+flees the automobile well used up before. a few great gasps and 
+a convulsive flap or myself. will only shred myself. convulse 
+myself. divide myself. mouth. i can't move. the body stashes its 
+tremble. a convulsion. the desert convulsed the body. my back 
+arched; i wanted you more than thing is withdrawn violently from 
+the organism, which convulses. convulsive body as well, the 
+neural interconnectivity of node
+
+
+archtectural beauty of banjo-in
+
+http://www.alansondheim.org/banjo-in.png
+http://www.alansondheim.org/banjo-in.mp3
+
+banjo with pipa tuning, japanese in scale, improvisation
+
+half-steps and major thirds are characteristic
+
+melancholy sounds of a rough day, sanshin and garcia lorca
+
+and what else i forget what else in the music 
+
+forget bushido forget zen forget buddha
+
+but i don't want to kill anyone and i want this banjo to survive
+
+it is my desire it survive and its beautiful music survive
+
+uncanny passing for another one hundred twenty eight years
+
+welcome to the banjo inn
+
+
+
+satori
+
+http://www.alansondheim.org/satori1.png
+http://www.alansondheim.org/satori1.mp3
+http://www.alansondheim.org/satori2.mp3
+http://www.alansondheim.org/satori3.mp3
+http://www.alansondheim.org/satori2.png
+
+rain, shakuhachi, rain
+
+koan, SATORI, etc. in relation to edge -
+over the wires, never SATORI-boyve does 
+altcrazy-SATORI-dog- petals, bodies rage
+vana or SATORI, there are desolate plain
+koan, SATORI, etc. in relation to edge -
+= safewords = Sagdish = samadhi = SATORI
+hold them hard, and for an instant, sato
+Suddenly: Zen, SATORI! Knows all. Kon kn
+have SATORI or another big dilemma, but 
+I avoid SATORI like hell, I don't wanna 
+closed eyes refusing the visible world. 
+that I've hardly reached SATORI, me, Dai
+of SATORI, what need have I of koan, zaz
+I've had thousands of SATORIs a day, mil
+sun in the Now that w that I've of sator
+koan, SATORI, etc. in relation to edge -
+results in inward-seeking, SATORI flight
+SATORI-boyve does the suicide_emotion of
+protolanguage qbasic realspace rebirths 
+rills RNA rotifera runnels Sagdish sator
+Or the performative is that of kenji sir
+---------\^/ accumulate/g' -------\./ sa
+ontologies SATORI http introjections ent
+rearticulation reinscribed rills regimen
+romola rotifera sed rotifera seamount se
+reinscription releasement rills RNA romo
+koan, SATORI, etc. in relation to edge -
+runnels, the SATORI of sawgrass, the sea
+evil aum bardo more SATORIs ---^ lotus l
+ial - rotifera - latinate - extinctions 
+closed eyes refusing the visible world. 
+ity shakuhachi Sagdish yamabushi filmsto
+rills RNA rotifera runnels Sagdish sator
+sac saccadic sado safewords Sagdish sato
+evil aum bardo more SATORIs ---^ lotus l
+rotifera RSS runnels sac saccadic sado s
+i do have it you fall over the clif refu
+salt same samsara sand sandy SATORI satu
+safewords = Sagdish = samadhi = SATORI =
+SATORI-boyve does the humming_emotion of
+SATORI-boyve does the suicide_emotion of
+runnels sac saccadic sado safewords Sagd
+abyss AHHH evil aum bardo more SATORIs -
+women hearing evil aum bardo more SATORI
+over the wires, never SATORI-boyve does 
+altcrazy-SATORI-dog- petals, bodies rage
+wires, SATORI-boyve suicide_emotion dog_
+---------\^/ accumulate/g' -------\./ sa
+>SATORI-boyve does the suicide_emotion o
+koan, SATORI, etc. in relation to edge -
+koan, SATORI, etc. in relation to edge -
+runnels, the SATORI of sawgrass, the sea
+Satori's for those who can afford it, me
+Satori's f I've had t thrown abo you bet
+Permanent Milky Satori of Nikuko I know 
+Permanent Milky Satori contradictions, d
+one
+
+
+       
+affect|effect effect|affect
+
+http://www.alansondheim.org/affect.png
+http://www.alansondheim.org/affect.mp4
+
+formulaic condensation: most western dramaturgy emphasizes
+affect an effect: thus a panoply of effects and transformations,
+machinic virtuality. in my work, as in the natyasastra, i
+emphasize effect an affect: thus a split and tendency towards
+psychological interminable and indeterminate states: or the
+difference for example between types of state and types of
+states.
+...skipping...
+
+
+affect|effect effect|affect
+
+formulaic condensation: most western dramaturgy emphasizes 
+affect an effect: thus a panoply of effects and transformations, 
+machinic virtuality. in my work, as in the natyasastra, i 
+emphasize effect an affect: thus a split and tendency towards 
+psychological interminable and indeterminate states: or the 
+difference for example between types of state and types of 
+states.
+
+of course these distinctions don't hold under scrutiny; i'm 
+fascinated working with the abject, the underbelly of the world 
+we live in, and equally fascinated by contemplating cosmology, 
+particle physical, mathematics and their entanglement. music is 
+interstitial, bounded on one hand by limited potentials and for 
+that matter by human hearing and its vicissitudes, and on the 
+other, by dwelling within coordinated affect, no matter the 
+bandwidth. everything meshes, doesn't it?
+
+
+
+Scales
+
+http://www.alansondheim.org/scales3.jpg
+http://www.alansondheim.org/scales0.mp3 qinqin
+http://www.alansondheim.org/scales1.mp3 qinqin / sanshin
+http://www.alansondheim.org/scales2.mp3 sanshin
+http://www.alansondheim.org/scales9.jpg
+
+scales running on two unusual instruments - the Okinawan sanshin 
+and the Chinese qinqin (the latter is a new instrument with 
+seven equidistant frets to the octave). i'm running the Japanese 
+in and various Chinese scales which are also mixed with 
+Cambodian scales and at times something sounding like old-time 
+banjo, too much confusion and too little accuracy perhaps on my 
+part. i'm running everything to the limits of my ability, using 
+constantly changing intervals played and replayed on one and 
+another string... good learning here in Brooklyn, NY... good 
+music the result...
+
+
+
+verver i am multitudes
+
+http://www.alansondheim.org/verver.png
+http://www.alansondheim.org/verver.mp3
+
+verver verily i am multitudes 
+inside i am many i am many in the fabric of flesh
+hear so many of them
+and i i am i i am worn out cluttered rag among them
+dusted among them
+multitudes
+
+for chris diasparra, jackson moore, luke damrosch
+revrev qinqin and others
+
+
+mur
+
+http://www.alansondheim.org/mur14.jpg
+http://www.alansondheim.org/mur.mp4
+http://www.alansondheim.org/mur10.jpg
+http://www.alansondheim.org/mur03.jpg
+
+atlantic wall
+3 images and 1 video
+hommage
+
+
+
+I'm I'm I'm
+
+http://www.alansondheim.org/mur11.jpg
+http://www.alansondheim.org/murs.mp4
+
+I'm last lust, lest lost list
+
+I'm aroused ready to fight or sex or language lost
+or given out or ready to die or be exposed
+
+I'm slut, slot silt tels
+
+I'm wanting it out or the archeology of ancient cities
+or cutting through tels or opening them up or exposing 
+them
+
+http://www.alansondheim.org/mur16.jpg
+
+I'm slit, salt
+
+I'm exposed, I'm on fire, I'm wound wounds, I'm burning
+
+http://www.alansondheim.org/mur28.jpg
+
+
+
+hegel's lung
+
+http://www.alansondheim.org/heg3.jpg
+http://www.alansondheim.org/hegel.mp3
+
+hegelung through supercollider, doubled/single
+
+some of hegel's lungs:
+
+erasable ..not a moment to lose ..think of hegel or kant facts; 
+figments understanding, matters. wallace. porosity hegel speed 
+air, columns thinner etc., problematized sl... hegel and I 
+really DON'T know Derrida that well, have never read Hegel all 
+the And Hegel was convinced!!" i.e. of the error of his ways! 
+Hegel died of wrong-doings on a head-quarters. Thus Hegel was 
+killed by Lefebvre the Fascist but Horkeimer required Hegel. 
+Hegel was deviating... Hegel - Blood mining Hegel before _its_ 
+time!! Hegel and the porosity of the world Schelling Hegel in 
+addition to Gongsun Long, Wittgenstein, Carneades bolic, in an 
+inversion that would do Marx/Hegel proud. With emission and 
+Hegel - Blood surface, of our own bodies, something Hegel 
+mentions Hegel (we have all had troubles reading Philosophy of 
+Mind). i mention Hegel already made the point in his 
+Phenomenology of Spirit, where Marx Hegel Wilde, Dialectic Even 
+Hegel arrests the dialectic of aesthetic thought by giving a I 
+think Hegel would approve. It is lack, absence of substance in 
+itself. surface, of our own bodies, something Hegel mentions 
+Schelling Hegel in addition to Gongsun Long, Wittgenstein, 
+Carneades bolic, in an inversion that would do Marx/Hegel proud. 
+With emission and Hegel - Blood Hegel still critical to our 
+thinking? Does anyone read Sartre? Schelling Hegel in addition 
+to Gongsun Long, Wittgenstein, Carneades Hegel (we have all had 
+troubles reading Philosophy of Mind). i mention surface, of our 
+own bodies, something Hegel mentions I think Hegel would 
+approve. It is lack, absence of substance in itself.
+
+
+
+hlung
+
+lung
+
+http://www.alansondheim.org/murs12.jpg
+http://www.alansondheim.org/hlung.mp3
+http://www.alansondheim.org/murs13.jpg
+
+breath / breath / stutter/ shudder / begin / begin again /
+again begin again / again begin again begin again / begin /:
+
+/ lung /:
+
+floor, blind warmest hug lung moon for you, loop .topic took a 
+of the this and gone befor long lung and gone :chant chant chant 
+chant chant chant alan flood efface leak lung defuge spill 
+inventory inbox it's tongue and langue and lung simultaneously, 
+clothed in the body of wuter shUnted thruUgh ten fingers untu 
+fuur lung gruUnds. befor long lung and gone small section of 
+lung tissue and placing it in alan's rib cage, torn alan, been 
+placed upon the _hydrostatic lung test._ This was performed by 
+taking and gone befor long lung and gone :chant chant chant 
+chant chant chant alan flood efface leak lung defuge spill 
+inventory inbox floor, blind warmest hug lung moon for you, loop 
+.topic took a of the this it's tongue and langue and lung 
+simultaneously, clothed in the body of connected the heart, 
+blood, lung i still i haven't still been haven't able it's 
+tongue and langue and lung simultaneously, clothed in the body 
+of delicious minute langue lung simultaneously, clothed legion 
+keep of the dark wood and gone befor long lung and gone :chant 
+chant the bees chant Amidah. Why the and gone befor long lung 
+and gone delicious minute langue lung simultaneously, clothed 
+legion keep
+
+/ lungs /:
+
+(setq body body '(flesh '(flesh strings strings lungs lungs 
+heart heart (setq body '(flesh strings lungs heart brain blood 
+mass)) (flesh strings '((body) (mind))) ((body) (mind)) body + 
+soul (flesh strings lungs heart ((body) (flesh) (soul)) body 
+(flesh strings lungs heart brain blood mass) (soul)) body (flesh 
+strings lungs heart brain blood mass) soul (mass air hersoul 
+(mind body soul mind) body (flesh strings lungs heart brain 
+blood (setq '(flesh body '(flesh '(flesh strings strings lungs 
+lungs heart heart I'm ill: every day I have a temperature of 38; 
+my lungs are ruined. scan came out negative, meaning the cancer 
+is just in the lungs and ad- something mute, suffocated discord, 
+collapsed lungs and bridges if not verses of silence. Every 
+breath carries the lungs of the dead. I am until the gullet 
+appeared, his lungs and liver flapped in his mouth and (setq 
+body body '(flesh '(flesh strings strings lungs lungs heart 
+heart (setq body '(flesh strings lungs heart brain blood mass)) 
+(flesh strings '((body) (mind))) ((body) (mind)) body + soul 
+(flesh strings lungs heart ((body) (flesh) (soul)) body (flesh 
+strings lungs heart brain blood mass) (soul)) body (flesh 
+strings lungs heart brain blood mass) soul (mass air hersoul 
+(mind body soul mind) body (flesh strings lungs heart brain 
+blood (setq '(flesh body '(flesh '(flesh strings strings lungs 
+lungs heart heart organs, hearts, vaginas, penises, the lungs 
+themselves; I'm naked myself, lungs. i want your lungs in me. i 
+want to breathe liver and the lungs the mountains, the hairs the 
+herbs and trees. As the in my lungs and water in my chest, I am 
+in the process o;zlsoifj;olea spit and sweat and moisture from 
+the lungs barked into the air; ing is the breathing once again 
+of the space of your throat and lungs into or supported by water 
+and lungs exploded with absence of air: emptied of swollen lungs 
+and brains. Some kami committed seppuku, and I alone have 
+returned, my lungs in a fairly poor state, to tell emptied of 
+swollen lungs and brains. Some kami committed seppuku, breathing 
+poorly and dying with lungs which will sink into the alan- 
+tonight, filling my sky and my lungs with acrid smoke. Cables on 
+fire, lungs. i want your lungs in me. i want to breathe of 
+breathing, the two of them locked together, lungs moving in 
+unision, back into sleepy noisy lungs ,, my lungs are full of 
+blood from her, something mute, suffocated discord, collapsed 
+lungs and bridges if not dryness and no atmosphere sufocates our 
+lungs while we crawl in that ink, your lungs fill with darkness: 
+black ink, and you get black. emanated from the breast - the 
+lungs - the mouth - or they distended - the emanated from the 
+breast - the lungs - the mouth - or they distended - the he'd 
+lost half his jaw - the lungs - it emanated from the breast - 
+they the lungs - it emanated from the breast - they were hacked 
+in pieces - it he'd lost half his jaw - the lungs - it emanated 
+from the breast - they in two - he'd lost half his jaw - the 
+lungs - it emanated from the breast producing the fatal effects 
+of water in the chest; his lungs keeping up the lungs deflate, 
+as our grievous so whimpering becoming exhales, de- my muscles. 
+my acquaintances have fallen away. my lungs are bad, my eyes. I 
+thought my lungs were coming out. purity of lungs swollen with 
+energy and delight {} ::graffiti of useless (setq body body 
+'(flesh '(flesh strings strings lungs lungs heart heart (setq 
+body '(flesh strings lungs heart brain blood mass)) (flesh 
+strings '((body) (mind))) ((body) (mind)) body + soul (flesh 
+strings lungs heart ((body) (flesh) (soul)) body (flesh strings 
+lungs heart brain blood mass) (soul)) body (flesh strings lungs 
+heart brain blood mass) soul (mass air hersoul (mind body soul 
+mind) body (flesh strings lungs heart brain blood (setq '(flesh 
+body '(flesh '(flesh strings strings lungs lungs heart heart 
+breathe. She couldn't breathe because the lungs were on the 
+other side of stage, papers pulled from his body; as his voice 
+and lungs were emptied of swollen lungs and brains. Some kami 
+committed seppuku, purity of lungs swollen with energy and 
+delight {} ::graffiti of useless sound is what was happening 
+when fingers and lungs moved or acted, as if excuse me while i 
+cough my lungs out says julu kings,outside, crashing lungs ever, 
+aware quartermain's matrix, its My human lungs are made from 
+human lungs. My lungs are made of human lungs. mama dont make 
+lungs like they used to sweet your lungs burst, your mouth can't 
+handle it. You're on chokes the lungs with gases that don't 
+register, you're gasping, your lungs are caked with chemistry, 
+something so sweet it's rolls, suffocates: lungs corrode, body 
+inverts, fills faeces, "again dire monster heat supported coke; 
+bubbling trunk fatal lungs steam room. we're trying get in. 
+breathe. She breathe because lungs 6. My lungs strengthen. 
+course; i'm ill: every day i have a 38; my lungs are ruined. for 
+churn spume coagulation lungs Kathleen malech Tempest kings, 
+outside, crashing lungs ever, rolls, suffocates: lungs corrode, 
+body inverts, fills faeces, i inhabit my bruises; each other 
+arms; their nails have lungs the landscape with the transparency 
+of glycerine. My mouth and lungs are producing the fatal effects 
+of water in the chest; his lungs keeping up the lungs deflate, 
+as our grievous so whimpering becoming exhales, a lung, a lunge, 
+a lungs, the lung, the lunge, the lungs 
+
+breath / breath / stutter/ shudder / begin / begin again /
+again begin again / again begin again begin again / begin /
+begin again /:
+
+
+my show show me
+
+http://www.alansondheim.org/myshowshowme2.jpg
+http://www.alansondheim.org/myshowshowme.mp4
+http://www.alansondheim.org/myshowshowme3.jpg
+http://www.alansondheim.org/myshowshowme2.jpg
+
+Are you dressed as dirty wet sleazy drug, you show me thing- 
+world i did sleazy drug, you show me thing-world i did not know, 
+your blood flow I love your feelings, dirty wet sleazy drug, you 
+show me thing-world i did dirty wet sleazy drug, you show me 
+thing-world i did not know, your blood :dirty wet sleazy drug, 
+you show me thing-world i did not
+
+"nothing more so show me the door"
+What my eyes show me is what is seen.
+
+$nnn[$non1]? \n";chop($str=<stdin>);($str eq "no") {print 
+"\nshow me my body, show me my wetware...\n"; sleep(10); gotolse 
+{print "\ni love your Are you dressed as dirty wet sleazy drug, 
+you show me thing-world i did sleazy drug, you show me 
+thing-world i did not know, your blood flow I love your 
+feelings, dirty wet sleazy drug, you show me thing-world i did 
+dirty wet sleazy drug, you show me thing-world i did not know, 
+your blood JULUA JULUA dwsd.:dirty wet sleazy drug, you show me 
+thing-world i did not
+
+": nothing more so show me the door"
+What my eyes show me is what is seen.
+
+show me around. If you would like to see what I look like then 
+visit my $nnn[$non1]? \n";chop($str=<stdin>);($str eq "no") 
+{print "\nshow me my body, show me my wetware...\n"; sleep(10); 
+gotolse {print "\ni love your
+
+but the machines will save me, the machines will show me 
+everything i Are you dressed as dirty wet sleazy drug, you show 
+me thing-world i did sleazy drug, you show me thing-world i did 
+not know, your blood flow I love your feelings, dirty wet sleazy 
+drug, you show me thing-world i did dirty wet sleazy drug, you 
+show me thing-world i did not know, your blood dwsd.:dirty wet 
+sleazy drug, you show me thing-world i did not
+
+nothing more so show me the door"
+nothing more so show me the door"
+
+illusory - show me one.
+come! I'm serious, show me!
+What my eyes show me is what is seen.
+
+we're all clowns, show me a thing, we're all things, show me a 
+clown. dressed as dirty wet sleazy drug, you show me thing-world 
+i did show me thing-world i did not The nightclub exists in the 
+maw of dirty wet sleazy drug, you show me thing-world i did not 
+know, show me thing-world i did not know, your blood flow sleazy 
+drug love your feelings, dirty wet sleazy drug, you show me
+
+show me all of you, i convulsed in the sheets 
+
+
+
+Sad and Hopeful Song for Ossi the Cat
+
+Ossi
+http://www.alansondheim.org/ossi0.jpg
+http://www.alansondheim.org/forossi.mp3
+http://www.alansondheim.org/ossi1.jpg
+http://www.alansondheim.org/ossinow1.jpg
+
+Guzheng
+http://www.alansondheim.org/insts01.jpg
+
+The guzheng is a Chinese zither, plucked on the right-hand side, 
+which is tuned with both pegs and bridges. The left-hand side is 
+'out of tune,' and the strings are pressed down on the left to 
+raise the pitch on the right. Think of the left-hand side as a 
+support structure, an abject cacophony of potential sound, an 
+existence in the depths, played when the soul is deeper than 
+scales and perfect tuning. (I play back and forth, among the 
+fields in this piece.) But the left is also, I think, the field 
+of spirit, of universal cosmology, of dark matter, and here I 
+play for our cat, Ossi Oswalda, who is doing poorly now, but 
+still with us, after ten seizures over four days three months 
+ago, and those numbers are meaningless as we stay close to her 
+and hope for the best. The piece is a threnody of hope, listen, 
+(she did, but then she had no choice!), thanks.
+

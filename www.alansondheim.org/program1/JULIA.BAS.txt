@@ -1,0 +1,24 @@
+DEFDBL C, M-N, P, T, W-Y
+SCREEN 12: WINDOW (100, 250)-(350, 0)
+restart:
+INPUT " cx, cy ", cx, cy
+PRINT "r for reset ",
+INPUT " x, y ", x, y
+FOR i = 1 TO 30000
+wx = x - cx
+wy = y - cy
+IF wx > 0 THEN theta = ATN(wy / wx)
+IF wx < o THEN theta = 2 + ATN(wy / wx)
+IF wx = 0 THEN theta = 2
+theta = theta / 1.5
+p = SQR(wx * wx + wy * wy)
+IF RND < .5 THEN p = SQR(p) ELSE p = -SQR(p)
+x = p * COS(theta)
+y = p * SIN(theta)
+m = -5 + (x + 4) * 500 / 8
+n = (2 - y) * 250 / 4
+PSET (m, n)
+IF INKEY$ = "r" THEN CLS : GOTO restart
+NEXT i
+END
+

@@ -1,0 +1,47 @@
+PRINT "Welcome to Chaos: Henon Map for simple formula!": PRINT ""
+INPUT "Color 0 or 1"; j: PRINT ""
+INPUT "For wide angle, q = 3.2; for narrow, -1.25"; q
+CLS : SCREEN 1: COLOR 0, j
+WINDOW (-2, -10)-(q, 5)
+        x = -2
+        g = (q + 2) / 100
+DO UNTIL x > q
+y = -10
+DO UNTIL y > 5
+z = x: w = y: t = 0
+DO UNTIL t > 4
+        t = t + 1
+        z = 2.124 - z ^ 2 - .3 * w
+LOOP
+SELECT CASE z
+        CASE -.1 TO -.05
+                PSET (x, y), 1
+        CASE -.03 TO -.01
+                PSET (x, y), 2
+        CASE -.25 TO -.13
+                PSET (x, y), 2
+        CASE -.02 TO 0
+                PSET (x, y), 1
+        CASE .2 TO 10
+                PSET (x, y), 2
+        CASE 12 TO 80
+                PSET (x, y), 1
+        CASE 100 TO 400
+                PSET (x, y), 2
+        CASE IS > 450
+                PSET (x, y), 1
+        CASE -2 TO -.3
+                PSET (x, y), 1
+        CASE -40 TO -5
+                PSET (x, y), 2
+        CASE -200 TO -80
+                PSET (x, y), 1
+        CASE IS < -250
+                PSET (x, y), 2
+        END SELECT
+        y = y + .15
+                LOOP
+                x = x + g
+        LOOP
+STOP
+

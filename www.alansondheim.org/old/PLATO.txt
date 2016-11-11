@@ -1,0 +1,811 @@
+
+PLATO: The Emergence of On-Line Community
+
+   Copyright ©1994 by David R. Woolley
+   
+   An earlier version of this article appeared in the January 1994 issue
+   of Matrix News.
+     _________________________________________________________________
+   
+    Contents
+     * PLATO
+     * PLATO Notes: Original Development
+     * The PLATO Architecture
+     * Talkomatic and "Term-Talk"
+     * Personal Notes
+     * Notes Categories
+     * Group Notes
+     * Group Notes Features: Access Lists | Reading By Date | Deleting
+       Notes | Anonymity | Director Messages | "Term-Comments" | Linked
+       Notes
+     * Star Structured vs. Tree Structured Conferencing
+     * Multiplayer Games
+     * The On-Line Community
+     * Usage Statistics
+     * The PLATO Diaspora
+     * Lotus Notes and Other PLATO Progeny
+     * Acknowledgments
+       
+   
+     _________________________________________________________________
+   
+    PLATO
+    
+   The PLATO system was designed for Computer-Based Education. But for
+   many people, PLATO's most enduring legacy is the on-line community
+   spawned by its communication features.
+   
+   PLATO originated in the early 1960's at the Urbana campus of the
+   University of Illinois. Professor Don Bitzer became interested in
+   using computers for teaching, and with some colleagues founded the
+   Computer-based Education Research Laboratory (CERL). Bitzer, an
+   electrical engineer, collaborated with a few other engineers to design
+   the PLATO hardware. To write the software, he collected a staff of
+   creative eccentrics ranging from university professors to high school
+   students, few of whom had any computer background. Together they built
+   a system that was at least a decade ahead of its time in many ways.
+   
+   PLATO is a timesharing system. (It was, in fact, one of the first
+   timesharing systems to be operated in public.) Both courseware authors
+   and their students use the same high-resolution graphics display
+   terminals, which are connected to a central mainframe. A
+   special-purpose programming language called TUTOR is used to write
+   educational software.
+   
+   Throughout the 1960's, PLATO remained a small system, supporting only
+   a single classroom of terminals. About 1972, PLATO began a transition
+   to a new generation of mainframes that would eventually support up to
+   one thousand users simultaneously.
+   
+    PLATO Notes: Original Development
+    
+   
+   
+   In the summer of 1973, Paul Tenczar asked me to write a program that
+   would let PLATO users report system bugs on-line. Tenczar was the head
+   of the system software staff, and I was a 17-year old university
+   student and junior system programmer. I had been with CERL for about a
+   year, learning the ropes and doing minor programming tasks at minimum
+   wage.
+   
+   We already had a way for users to report bugs, but it was just an open
+   text file called "notes". Anyone could edit the file and add a comment
+   to the end. After investigating a problem, a system programmer would
+   insert a response (typically something like "+++Fixed - RWB").
+   
+   This was simple enough, but there were problems. For one thing, only
+   one person could edit the file at a time. For another, there was no
+   security at all. It was impossible to know for sure who had written a
+   note. Most people signed or at least initialed their comments, but
+   there was nothing to enforce this. And occasionally some joker would
+   think it was fun to delete the entire file.
+   
+   It was just such an incident that prompted Tenczar to ask me to
+   develop a replacement. His idea was a simple refinement of the method
+   we had been using: a user would type a problem report into a
+   special-purpose program, which would automatically tag it with the
+   date and the user's ID and store it safely in a tamper-proof file. The
+   same program would allow convenient viewing of the stored notes. Each
+   would appear on a split screen, with the user's note on the top half
+   and the system staff's response below.
+   
+   It occurred to me that half a screen might not be enough space for
+   some notes. And that some problems might require back-and- forth
+   conversation between a user and the system staff. A limit of one
+   response per note wouldn't permit much dialog.
+   
+   I came up with a design that allowed up to 63 responses per note, and
+   displayed each response by itself on a separate screen. Responses were
+   chained together in sequence after a note, so that each note could
+   become the starting point of an ongoing conversation. This is what
+   John Quarterman calls a star-structured conferencing system, and PLATO
+   Notes was apparently the first of its kind.
+   
+   My first prototype kept all notes in one file. Upon entry you would
+   see an index of the most recent notes, listing each note's number,
+   date, title, and number of responses. You could then select a note to
+   read, or page back through the index to find older notes.
+   
+   As I showed this to other members of the system staff, we began to
+   talk about other ways that this program might be used beyond just
+   problem reports. We thought it would be nice to have a separate area
+   where new users could ask questions and get help from more experienced
+   users, and another area where the system staff could announce new
+   PLATO features. So I added a top-level menu to let people choose among
+   three notesfiles: System Announcements, Help Notes, and General Notes.
+   
+   
+   Notes was released on August 7, 1973. It was named after the text file
+   it replaced, so that people accustomed to typing "notes" would be
+   taken to the right place.
+   
+   Every note or response appeared on its own screen. Since PLATO was
+   designed for education, its architecture was biased toward carefully
+   crafted full-screen displays. It was easy to place text or graphics at
+   specific locations on the screen, but nearly impossible to scroll
+   text. For Notes, this was both an advantage and a drawback. One nice
+   feature was that the note title, date, time, and author's name always
+   appeared in the same place. After using Notes for a while, your eye
+   "knew" exactly where to look for these things.
+   
+   On the down side, each posting was limited to 20 lines of text so as
+   to fit on one screen. The only way to overcome this was to write a
+   series of responses, but that allowed other responders to slip in and
+   disrupt the flow. Still, the 20-line limit had the virtue of
+   encouraging brevity.
+   
+   Most options for reading notes required only a single keypress. While
+   reading a response, for example, one keypress could perform any of
+   these functions (among others):
+     * proceed to the next response
+     * go back to the previous response
+     * go back to the base note
+     * skip to the next base note
+     * begin writing a new response
+       
+   There were too many options to list them all on every screen. Most
+   prompts were quite minimal, but a Help key was universally available.
+   It would display a complete list of the options available at any
+   point.
+   
+   Notes quickly became an indispensable part of the landscape. It
+   appeared just as PLATO was beginning a phenomenal growth spurt made
+   possible by the new mainframe. Although PLATO had been evolving for
+   over a decade by this time, to the new flood of users coming on-line,
+   PLATO without Notes was hard to imagine.
+   
+    The PLATO Architecture
+    
+   
+   
+   PLATO is designed to be extremely responsive to keys. Every keypress
+   is processed individually by the central mainframe, but the response
+   (or "echo") is usually so fast as to appear instantaneous. An echo
+   time of 100 milliseconds is excellent; anything over 250 is considered
+   unacceptable.
+   
+   This is vital, especially because displays do not appear
+   instantaneously. Originally, all PLATO terminals communicated at 1200
+   bps. At that speed, a long posting in Notes might take up to 10
+   seconds to fill the screen. But a single keypress aborts the display
+   and moves on if the first line or two of a note doesn't spark your
+   interest.
+   
+   The ability to abort pending display output is crucial. Even now that
+   faster connections are possible, connecting through a network that
+   does not permit aborting output makes PLATO feel maddeningly sluggish.
+   
+   
+    Talkomatic and "Term-Talk"
+    
+   
+   
+   Any competent PLATO programmer can quickly hack together a simple chat
+   program that lets two users exchange typed one-line messages. PLATO's
+   architecture makes this trivial. A few such programs existed on PLATO
+   before 1973, but they did not get much use, probably because the user
+   community was quite small and most terminals were still in a single
+   building.
+   
+   In the fall of 1973, Doug Brown designed a program that let several
+   users chat as a group. He wrote a simple prototype to demonstrate the
+   concept and called it Talkomatic.
+   
+   The real magic of Talkomatic was that it transmitted characters
+   instantly as they were typed, instead of waiting for a complete line
+   of text. The screen was divided into several horizontal windows, with
+   one participant in each. This let all the participants type at once
+   without their messages becoming a confusing jumble. Seeing messages
+   appear literally as they were typed made the conversation feel much
+   more alive than in line-by-line chat programs.
+   
+   I worked with Doug to expand Talkomatic to support multiple channels
+   and add other features. Each channel supported up to five active
+   participants and any number of monitors, who could watch but couldn't
+   type anything. (One drawback to the Talkomatic approach is that the
+   size of the screen limits the number of participants in a channel.)
+   
+   Empty channels were open to anyone, but any active participant in a
+   channel could choose to "protect" it. This prevented anyone from
+   monitoring the channel, and the participants could then decide who
+   else to admit.
+   
+   Talkomatic was an instant hit. Soon it was logging over 40 hours of
+   use per day. It was not officially part of the PLATO system software,
+   and in fact it was used mostly for what administrators would consider
+   frivolous purposes. There was no way to contact a specific person to
+   let them know you wanted to talk, so it was more like a virtual water
+   cooler than a telephone substitute. People would hang out in a channel
+   and chat or flirt with whoever dropped by.
+   
+   But Talkomatic was so appealing that it inspired the system staff to
+   create an officially supported chat feature. It became known as
+   "term-talk" because it could be accessed from anywhere on PLATO by
+   pressing the TERM key and typing "talk". The TERM key was originally
+   meant to provide hypertext-like branching to term definitions. In
+   practice, it was rarely used for terms, but it was handy for instant
+   access to features like "talk".
+   
+   A "term-talk" conversation was limited to two people, but had its own
+   advantages: you could page a specific person, and you could use it
+   without exiting from whatever else you are doing. A person receiving a
+   page would see a flashing message at the bottom of the screen
+   identifying the pager, and could use "term-talk" to accept. The bottom
+   two lines of the screen then became a miniature Talkomatic. An
+   unwanted page could be rejected with "term-busy", or simply ignored
+   until the pager gave up.
+   
+   A feature was later added to "term-talk" that allowed the participants
+   to switch to "monitor" mode, in which one person could actually view
+   the other's screen. The person being monitored was free to move about
+   the system normally, editing files, running programs, etc. This was
+   extremely useful for remote consulting: someone who needed help could
+   literally show an on-line consultant what they were trying to do while
+   maintaining a conversation at the bottom of the screen. To ensure
+   privacy, monitor mode could be initiated only by the person whose
+   screen was to be monitored.
+   
+    Personal Notes
+    
+   
+   
+   With Notes and "term-talk" in place, it began to seem natural to use
+   PLATO as a means of communication. What it obviously lacked was a way
+   to send private mail. Kim Mast tackled the job, and in August of 1974,
+   Personal Notes was released.
+   
+   Personal Notes was similar to Notes in many ways: each note appeared
+   on a separate screen, and options such as moving to the next or
+   previous note, deleting a note, or responding, were available as
+   single key presses. There was no index of notes, however. Entering
+   Personal Notes took you immediately to the first note you had not yet
+   read. From there, you could move forward or backward through your
+   notes.
+   
+   Kim and I worked together to integrate all of PLATO's communication
+   features into a seamless package. For example, while viewing a note,
+   you could:
+     * copy it to a notesfile
+     * forward it to someone as a personal note
+     * send a personal note to the author
+     * initiate a "term-talk" with the author
+       
+   All of these options were available in both Notes and Personal Notes,
+   and the same keys were used in both.
+   
+    Notes Categories
+    
+   
+   
+   The success of Notes led to overcrowding. There were only two
+   notesfiles which users could write in, and they were used for
+   practically everything. It became a chore to wade through the volume
+   of notes written every day, and people began to ask for a way to
+   filter out notes they weren't interested in.
+   
+   My solution was this: the system staff would define a list of
+   categories, such as "bug reports", "suggestions", "events", "jokes",
+   etc. Anyone writing a note would assign it to one of these categories.
+   Users could select which categories they wanted to see when reading
+   notes, and their selections would be stored permanently as part of
+   their user records.
+   
+   In early 1975 I created a version of Notes that supported categories,
+   and released it to a limited group of users for testing and comments.
+   
+   Suggestions from users were vital to PLATO's evolution, and Notes was
+   no exception. Since I had written Notes originally, it was my turf,
+   and I made most of the decisions about what features were implemented.
+   But I had the benefit of lots of ideas from users as well as from the
+   rest of the system staff. Often a suggestion would strike me
+   immediately as great idea, and if it was not too difficult, it might
+   be implemented and released within a day or two. Not all ideas were
+   implemented, by any means. But sometimes I would argue against a
+   proposed change, only to be convinced of its merit by cogent arguments
+   or by the sheer number of people voicing support for it. Thus, Notes
+   was shaped largely by a consensus of the entire PLATO community.
+   
+   The notes categories concept was well received at first, but it got
+   bogged down in controversy over features and never made it to general
+   release. A particularly contentious issue was how notes should be
+   presented. One faction wanted to see all notes in chronological order,
+   with the categories serving only as a filter to skip unwanted notes.
+   Others wanted categories to serve an organizing function, as well: all
+   the notes from one category would be shown, then all the notes from
+   the next category, and so on.
+   
+   Strange as it seems now, I held out against organizing notes by
+   category. I was used to reading notes about many different subjects
+   all jumbled together, and just wanted to be able to see all the new
+   notes listed together in one place. But support for more organization
+   grew, and I began to see that I was in a losing battle.
+   
+   In the meantime, though, other problems became apparent. First, I
+   realized that as the volume of notes increased, there would be
+   technical problems with keeping everything in one large file. Second,
+   it wasn't clear how many categories would be needed. I had designed in
+   a limit of 60, which seemed like a vast increase over the 3 we had
+   been living with. But if we ever needed more it would be very
+   difficult to increase the limit. After months of wrangling, my concept
+   of notes categories seemed fatally flawed. I really didn't know where
+   to go with it.
+   
+   About this time, a few people began to ask for private notesfiles. We
+   had all seen how useful Notes was for discussing development of PLATO
+   itself. Couldn't the concept be extended to allow any small group of
+   people working on a project to communicate among themselves? In fact,
+   a group in Chicago that was using PLATO to develop pharmaceutical
+   courseware wrote a clone of Notes for their own use.
+   
+   Suddenly the future clicked into focus. I abandoned the categories
+   project and began to implement Group Notes.
+   
+    Group Notes
+    
+   
+   
+   Group Notes was a generalization of the original Notes. Now there
+   could be an unlimited number of notesfiles, and users would be able to
+   create private notesfiles for use by their own work groups. Group
+   notesfiles would serve the same purposes for which notes categories
+   were designed with none of the inherent problems. The 60-category
+   limit vanished. Distributing notes across many files solved the
+   technical problems of dealing with large volumes of information. The
+   burden of managing notesfiles would be distributed, as well; no longer
+   would the system staff have to oversee everything. And, yes, notes
+   would be organized by subject, as so many people had insisted. Group
+   Notes is one of those ideas that, with hindsight, seems glaringly
+   obvious.
+   
+   Group Notes was released in January, 1976, and thereafter use of Notes
+   skyrocketed. Soon there were public notesfiles for subjects like
+   books, movies, religion, music, and science fiction, as well as many
+   private notesfiles for work groups.
+   
+   The internal structure of notesfiles still had not changed much since
+   1973, and it was beginning to show its weaknesses. In particular, it
+   made it difficult to implement a sorely needed option to read all
+   responses written since a certain date and time. So I rewrote Notes
+   almost from scratch, and converted all notesfiles to a new internal
+   structure in July, 1976. Although it has been modified many times
+   since, this version forms the core of the Notes software still in use
+   today.
+   
+    Access Lists
+    
+   
+   
+   Access lists are the key to Group Notes. A person who creates a
+   notesfile is automatically registered as a "director" of the file. A
+   director can edit the access list to specify who else can access the
+   notesfile and with what privileges. Access can be specified for
+   individual user IDs or for entire work groups, and any level of access
+   can be granted to the general public (anyone not specifically listed).
+   
+   
+   There are six access levels:
+     * Director
+     * Read/write
+     * Read/respond
+     * Read-only
+     * Write-only
+     * No access
+       
+   Read/write is the most common type of access. It permits both writing
+   new notes and responding to existing notes.
+   
+   Read/respond permits responding, but not writing new notes.
+   
+   Write-only access permits a user to write new notes, but not read or
+   respond. It is sometimes used as a blanket access level for the
+   public, providing a way for someone to request access to a private
+   notesfile. It is also useful for collecting comments from the public
+   about some issue, while maintaining the privacy of each person's
+   remarks.
+   
+   Generally, anyone who can read a notesfile can also view its access
+   list, although the director can choose to prohibit this.
+   
+    Reading By Date
+    
+   
+   
+   Notes offers a way to read all notes and responses written since a
+   certain date and time. This feature is designed so that you can
+   sequence through all new postings using a single key. For every note
+   with new responses, the base note is displayed first to provide
+   context. A keypress then skips to the first new response. Pressing the
+   same key repeatedly sequences through the rest of the response chain,
+   and then skips to the next note with new responses.
+   
+   In 1978, John Matheny implemented the Notes Sequencer, a great boon to
+   habitual notes readers. The Sequencer lets you create a personal list
+   of the notesfiles you read regularly, and automatically keeps track of
+   the last time you read each one. Using the Sequencer, you can quickly
+   scan all the notesfiles in your list for new postings with a minimum
+   of key presses.
+   
+    Deleting Notes
+    
+   
+   
+   Someone who has second thoughts after posting a note or response can
+   delete it or edit it, as long as no responses have been added after
+   it. This restriction is meant to avoid garbling the thread of a
+   conversation. Deleting a response from the middle of a chain can make
+   the following responses seem nonsensical. But an author who
+   desperately wants to delete a posting anyway can appeal to the
+   notesfile director, who can delete any posting without restriction.
+   
+   A director can delete a response from the middle of a chain without
+   disturbing subsequent responses. However, if a director deletes a base
+   note, all responses disappear with it. Directors frequently use this
+   power to clean out a notesfile, removing old notes that are no longer
+   of interest.
+   
+    Anonymity
+    
+   
+   
+   The idea of anonymity in Notes was controversial when first proposed,
+   but the issue was resolved by leaving it to the discretion of each
+   notesfile director. If a director chooses to allow anonymity, then
+   anyone posting a note or response in that notesfile is given the
+   option of making it anonymous.
+   
+   An anonymous note is truly anonymous. Not even the notesfile director
+   nor the system staff can determine who posted it, because the user ID
+   is not saved anywhere. The word "anonymous" appears in the header
+   where the user ID would normally be.
+   
+   PLATO Notes avoids some of the problems that have plagued experiments
+   with anonymity in other conferencing systems. It is not possible to
+   masquerade as someone else, because Notes does not allow the use of
+   pseudonyms. The only identification that can appear in the header is
+   the author's actual user ID or the word "anonymous". The fact that
+   anonymity is the choice of each user is important, too. Someone could
+   post an anonymous note saying "I'm David Woolley and I kick my dog
+   every morning," but everyone reading it knows that the author
+   specifically chose to make this note anonymous, so the identity
+   claimed in the text is not to be taken seriously.
+   
+   Most notesfile directors do not permit anonymity, but it is very
+   useful in some situations. Anonymity can be abused, but a notesfile
+   director can delete offensive postings. The version of Notes now used
+   on NovaNET even allows a director to review anonymous postings before
+   they become publicly visible.
+   
+    Director Messages
+    
+   
+   
+   Another privilege that notesfile directors have is to flag their
+   postings with a "director message", a single line of text which
+   appears above the standard header. Directors often use the message to
+   flag official postings, such as statements about policy or notices
+   that an inappropriate note was deleted. The director can specify what
+   the message should say, but a single message has to suffice for all
+   situations since there is only one director message per notesfile.
+   Typical messages range from the serious ("OFFICIAL MESSAGE") to the
+   humorous ("Not Operating With A Full Deck").
+   
+   A director can toggle the message on or off for any posting, even
+   those written by other people. For example, in a notesfile used to
+   report problems, a director might set the message to "FIXED" and use
+   it to flag problems that have been resolved.
+   
+    "Term-Comments"
+    
+   
+   
+   One of the ways that Notes supports PLATO's educational purposes is
+   through a feature called "term-comments". While running a program, a
+   user can press TERM and type "comments", and then type a note to the
+   program author. Such comments are collected in a notesfile that the
+   author has associated with the program. Each note is tagged with a
+   header indicating the exact point in the program where the comment was
+   made, so if a note reports that "entorpy is misspelled on this page",
+   the author knows exactly where to look for the error.
+   
+    Linked Notes
+    
+   
+   
+   Around 1975, Control Data Corporation set up its own PLATO system in
+   Minneapolis and began turning PLATO into a product. By 1985, over 100
+   PLATO systems were operating at sites around the world, about 60% of
+   them running full-time. Some of them were linked together with
+   dedicated lines so that files and notes could be exchanged easily.
+   Both Group Notes and Personal Notes were modified to support
+   intersystem links in 1978.
+   
+   A notesfile can be linked between any number of systems. From a user's
+   viewpoint, a linked notesfile is exactly like any other, except that
+   the notice "Linked Notesfile" appears on the index display, and in the
+   headers of some postings a system identifier appears after the
+   author's user ID.
+   
+   When a note or response is posted in a linked notesfile, it appears
+   immediately in the local copy of the file, and is put in a queue to be
+   broadcast to all systems which share that notesfile. The Notes
+   software does its best to keep the file identical on all systems,
+   although it can't guarantee that responses in a given chain appear in
+   exactly the same order everywhere. There can be a delay of several
+   minutes to an hour before a response is posted on linked systems (or
+   even longer if one of the systems is down for an extended period).
+   
+    Star Structured vs. Tree Structured Conferencing
+    
+   
+   
+   Although Notes has evolved in many ways over the years, one thing that
+   has never changed is the star structure of its notesfiles. One or two
+   PLATO users wrote experimental versions of Notes using tree-structured
+   (or "threaded") notesfiles, but most people who tried them found them
+   hard to use and the idea did not catch on.
+   
+   My own feeling is that a star structure is much more conducive to
+   ongoing discussion. Human conversation is inherently disorganized, and
+   a tree structure attempts to impose too much discipline. Conversations
+   often tend to fragment and dissipate quickly in a tree. Some people
+   seem at home with a tree structure, but in my experience more people
+   find it rather foreign and overly complex.
+   
+   With a star structure, each base note and its chain of responses
+   resembles a conversation that we might have with a group of people
+   gathered around a table. The conversation might drift or develop
+   multiple threads, but if that becomes a problem, it is easily dealt
+   with by simply starting new base notes to carry on divergent threads.
+   A notesfile director can suggest this, but often the participants do
+   it themselves.
+   
+    Multiplayer Games
+    
+   
+   
+   There are myriad games on PLATO. Some are for single players, but the
+   most popular ones involve two or more players at separate terminals.
+   
+   Games were certainly not a priority when PLATO was designed, but it
+   turns out that its architecture supports multiplayer games superbly.
+   The crucial features are:
+     * shared memory areas
+     * standardized terminal
+     * high resolution graphics display
+     * central computer processing of every key
+     * fast key response
+     * ability to abort display output
+       
+   Rick Blomme wrote PLATO's first two-player game in the late 1960's, a
+   simple version of MIT's Spacewar. Possibly the most popular game in
+   PLATO history is Avatar, one of several dungeons'n'dragons games.
+   Empire, a multiplayer game based on Star Trek, is another favorite.
+   Other multiplayer games range from Airfight (a precursor to Microsoft
+   Flight Simulator), to Wordwar (a spelling and speed-typing game) and
+   card games such as contract bridge.
+   
+   Most games were written by unpaid programmers. The only reward they
+   could hope for was the prestige of having written a popular game. Some
+   game authors now receive royalties, but it amounts to only a few cents
+   per hour of use, often split between a number of co-authors. A number
+   of games that originated on PLATO have been recreated commercially as
+   video arcade or personal computer games.
+   
+    The On-Line Community
+    
+   
+   
+   The sense of an on-line community began to emerge on PLATO in 1973-74,
+   as Notes, Talkomatic, "term-talk", and Personal Notes were introduced
+   in quick succession. People met and got acquainted in Talkomatic, and
+   carried on romances via "term-talk" and Personal Notes. The release of
+   Group Notes in 1976 gave the community fertile new ground for growth,
+   but by that time it was already well established. The community had
+   been building its own additions to the software infrastructure in the
+   form of multiplayer games and alternative on-line communications. One
+   such program was Pad, an on-line bulletin board where people could
+   post graffiti or random musings. Another was Newsreport, a
+   lighthearted on-line newspaper published periodically by Bruce
+   Parello, aka The Red Sweater.
+   
+   With the abundance of special interest notesfiles made possible by
+   Group Notes, many on-line personalities developed. One of the best
+   known was Dr. Graper (actually a student at the University of Delaware
+   named David J. Graper). He began posting wild, surrealistic stories in
+   a public notesfile where they were not exactly appropriate, but they
+   were so hilariously entertaining that people clamored for more, and
+   eventually someone created a notesfile called Grapenotes as a platform
+   for his ravings.
+   
+   The early PLATO community was concentrated in Illinois and consisted
+   mostly of people in academia: educators turned instructional
+   designers, and students hired as programmers. Later it grew to include
+   more people from business, government, and the military as Control
+   Data marketed PLATO as a general-purpose tool for training. It also
+   grew geographically, spreading across the United States and around the
+   world. The building that housed CERL became something of a Mecca to
+   the far-flung PLATO community. Many people traveled to Urbana to see
+   the lab and meet those of us who worked there. It was odd to meet
+   people face to face after getting to know them on-line. My images of
+   people based on their postings in Notes sometimes turned out to
+   diverge wildly from reality.
+   
+   The growing PLATO community also developed all of the problems that
+   are now well known in on-line communities, such as flaming, men
+   impersonating women as a prank, etc. Free speech was the general rule,
+   but there were a few much-discussed incidents in which political
+   postings in notesfiles were officially quashed for fear of
+   jeopardizing PLATO's funding. Nobody on PLATO had ever experienced an
+   on-line community before, so there was a lot of fumbling in the dark
+   as social norms were established.
+   
+   Over the years, PLATO has affected many lives in profound ways. So
+   many real-life marriages have resulted from on-line encounters that
+   such stories no longer seem remarkable.
+   
+    Usage Statistics
+    
+   
+   
+   The CERL PLATO system logged 10 million hours of use between
+   September, 1978 and May, 1985 (a period for which the most complete
+   statistics are available).
+   
+   About 3.35 million of those hours (over one third) were spent in
+   Notes. About 3.3 million messages were posted. By the end of this
+   period there were about 2000 notesfiles.
+   
+   No figures are available for time spent in Personal Notes,
+   "term-talk", or Talkomatic. But some numbers are known for games.
+   Avatar alone accounted for about 600,000 hours, and Empire claimed
+   another 300,000 or so. All told, games probably accounted for about
+   20% of PLATO usage during this period.
+   
+   Few statistics are available for the many Control Data systems, but
+   none were as large as the CERL system. An educated guess is that CERL
+   accounted for about 25% of all PLATO usage worldwide.
+   
+   The numbers are incomplete, but it is probable that people interacting
+   with other people represented at least half of all PLATO usage. This
+   is remarkable considering that the designers of PLATO never envisioned
+   that communication between people would play more than an incidental
+   role.
+   
+    The PLATO Diaspora
+    
+   
+   
+   Control Data ran into serious trouble in the late 1980's, and sold or
+   closed many of its businesses. At the same time, microcomputers were
+   becoming a more cost-effective platform for education than PLATO with
+   its mainframe-based architecture, and many of the Control Data systems
+   were shut down.
+   
+   Today the PLATO name is owned by Minneapolis-based TRO, Inc., but TRO
+   no longer runs any mainframe PLATO systems. Control Data's PLATO has
+   been renamed CYBIS. Control Data Systems supports about a dozen CYBIS
+   systems at university and government sites. There might still be some
+   former Control Data customers running PLATO on their own.
+   
+   University Online, Inc., a Control Data spin-off based in Falls
+   Church, Virginia, has recently begun offering a CYBIS-based service
+   called Homer. It is targeted at home users and is available over the
+   Internet.
+   
+   At the University of Illinois, where it all began, PLATO has been
+   renamed NovaNET. The U of I system racks up about 1.5 million hours of
+   use per year, and is now operated by a private company, University
+   Communications, Inc., of Tucson, Arizona.
+   
+   The CYBIS systems still use the original PLATO Notes software. On
+   NovaNET, a team headed by Dale Sinder rewrote Notes in 1991. Among the
+   new features are multi-page notes and better search capabilities. But
+   all of the key features of PLATO Notes, including the star structure
+   of its notesfiles, have been kept.
+   
+   Personal Notes has also been replaced on NovaNET. The new version uses
+   a star structure to provide a level of organization that was never
+   possible before. Each user's mailbox now looks and works much like a
+   group notesfile, with the user as its director and write-only access
+   for everyone else. The new Personal Notes also sends and receives
+   Internet e-mail.
+   
+    Lotus Notes and Other PLATO Progeny
+    
+   
+   
+   As an educational/multimedia system, PLATO has many offspring. Its
+   most successful direct descendant is TenCORE, a DOS-based authoring
+   system. Macromedia's Authorware, an authoring system for the Macintosh
+   and Windows, is also firmly rooted in PLATO.
+   
+   As a communication system, PLATO has numerous other descendants. Many
+   people who experienced the on-line PLATO community were inspired to
+   replicate it on other platforms.
+   
+   Lotus Notes is the best-known example. It was developed by Ray Ozzie,
+   Tim Halvorsen, and Len Kawell, all of whom had worked at CERL in the
+   late 1970's. It would be an exaggeration to call Lotus Notes a clone
+   of PLATO Notes, because Ozzie expanded the concept to include powerful
+   capabilities that were never contemplated for PLATO. But many of its
+   basic features were modeled after PLATO Notes.
+   
+   Here are a few other descendants of PLATO Notes:
+   
+     * DEC Notes (previously called VAX Notes), a product of Digital
+       Equipment Corporation originally written by Len Kawell. It is
+       widely used on DEC's EASYnet and on Starlink.
+       
+     * NetNotes, a client-server conferencing system designed as an
+       improvement on DEC Notes. It is a product of OS TECHnologies Corp.
+       of Townsend, Massachusetts. An add-on product called WebNotes
+       makes a NetNotes server accessible through the World Wide Web.
+       
+     * Notesfiles, a public domain UNIX version of Notes written by Ray
+       Essick and Rob Kolstad. In the early 1980's it contributed
+       significantly to the rise of USENET. Though eventually eclipsed by
+       the News software, it is still used at many sites worldwide both
+       for local conferencing and as a news reader. A modified version is
+       used on PeaceNet, EcoNet, and most of the other member networks of
+       the Association for Progressive Communication. Notesfiles can be
+       obtained on the Internet at
+       ftp://hilltop.bsdi.com/pub/rbk/notesfiles.Z.
+       
+     * News readers tin and tass. The tass reader, written by Rich
+       Skrenta, was modeled after the Notesfiles software mentioned
+       above. Iain Lea's tin then evolved from tass.
+       
+     * COCONET's "Discussion" feature. COCONET is a UNIX-based software
+       platform for running interactive multimedia on-line services,
+       written by Brian Dear and largely modeled after PLATO. It is a
+       product of Coconut Computing, Inc., of San Diego.
+       
+     * Notefile, a Notes clone written in ALGOL for the Burroughs B6700
+       by John Eisenberg at the University of Delaware.
+       
+     * FORA, a multi-user chat and messaging system for DOS written by
+       Jim Bowery.
+       
+     * The Connection, a XENIX-based BBS program written by Greg Corson.
+       
+     * READ, a conferencing system based on the PDP-10 written by Rich
+       Braun.
+       
+   Computer conferencing is just now hitting the big time, not only with
+   Lotus Notes, but with large consumer-oriented services like America
+   Online and Prodigy, and more sure to follow.
+   
+   Among the on-line services I have seen, the WELL has best succeeded in
+   building a community comparable to PLATO's. Ironically, the WELL has
+   its roots with EIES and Confer; as far as I know, its founders were
+   unaware of PLATO.
+   
+   But the WELL is an intentional community. PLATO was an accidental one
+   which emerged spontaneously in an environment that had been created
+   for other purposes. In 1970 few suspected that a human community could
+   grow and thrive within the electronic circuitry of a computer. PLATO
+   demonstrated that this is not only possible, but inevitable.
+   
+   
+   
+   
+     _________________________________________________________________
+   
+    Acknowledgments
+    
+   
+   
+   Many thanks to Al Avner, a veritable fount of statistics. Additional
+   information was provided by Rick Blomme, Jim Bowery, Rich Braun, Greg
+   Corson, Brian Dear, Sherwin Gooch, Mark Goodrich, Rob Kolstad, Dave
+   LePage, Kim Mast, John Matheny, Dale Sinder, Joe Sneddon, Dan Tripp,
+   and John S. Quarterman's book, The Matrix. Thanks also to John
+   Quarterman for encouraging me to write this article.
+   
+   PLATO® is a registered trademark of The Roach Organization, Inc.
+     _________________________________________________________________
+   
+   
+    David R. Woolley is a consultant, software designer, and writer in
+    Minneapolis.
+    drwool@skypoint.com

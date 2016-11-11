@@ -1,0 +1,561 @@
+
+
+My Reply of Poetics
+
+
+I am including several pieces below, which mediate/intertwine poetry / 
+poetics / prose. The FIRST PIECE (arhat) and the SECOND PIECE (, Nikuko) 
+are quite long and hvae been edited down. Please note that the FIRST PIECE 
+has three sections: text, annihilated text, and the substitution scheme 
+from the text to the annihilated text.
+
+Now, these works move among _structure_ and _interference,_ and the former 
+is always already as if it were a given - i.e. it participates in a 
+poetics, if not a poetry per se, that is in-formed by _culling._ These 
+works use, for the most part, the grep or grep -v (inverse grep) command 
+to isolate lines or phrases with specific content from a longer corpus, 
+which might be the 'universal' data-base of the internet, or the Internet 
+Text which I have been writing for the past twelve years (about fifteen 
+megabytes of ASCII so far). By tracking these phrases, I track a 'psycho- 
+analytics' of vocabulary/content, which then re-forms into another 
+content, or a condensed, overdetermined content, much as in dream-work or 
+sexuality itself.
+
+In 'arhat,' I literally do not remember the original textual material; in 
+any case, it was transformed in two fundamental ways: various programs in 
+perl were used to reorganize the lines, repeat phrases, etc., according to 
+mathematical functions of my choice; the result was then reordered, using 
+the sort function according to fields/characters _not_ beginning with the 
+first (i.e. the text is not in alphabetic order). The matrix that results 
+is a Buddhist chant, formed in part out of mathesis and culling, and in 
+part, out of aesthetic decision. So the originary prose, through repeti- 
+tion and reorganization becomes something else entirely.
+
+This transformation is then 'evaporated' in order to produce a redundant 
+and uninterpretable code, paralleling the form and formlessness of 
+enlightenment. The third section is the series of substitution commands.
+
+The second piece, ', Nikuko', works from the references in the Internet 
+Text to Nikuko and Doctor Leopold Konninger, two characters/avatars I have 
+worked with on and off for years. The references were subjected to a 
+series of perl programs which not only repeated, but substituted and 
+eliminated out various letters or phrases. The result again is a kind of 
+chant, of sexuality and power, constructed out of an originary mix of 
+prose and poetry.
+
+The third piece, 'I SLAUGHTERED HUNDREDS', is the most complex in a number 
+of ways. A text was written - in the form of a prose poem of hysteric 
+politics - which was then translated into Morse code using the morse 
+program in /usr/bin/games/. The Morse code was then re-justified to fit a 
+72-character ASCII line. This line was then 'hard-broken' using the fold 
+-w command. The command began with lengths of 18 characters, down to the 
+length of a single character (which in Morse could only be 'space,' or T 
+or E). If the length, for example was five characters, the original lines 
+would be broken into five character lines. These lines would then be de- 
+coded back from Morse into standard English; because of the line breaks, 
+the words - the very structure - of the lines - underwent transformation. 
+The final results was a series of stanzas reflecting the broken code, as 
+if there were a kind of interference - which there was - as if the inter- 
+ference were a structured line-noise for example.
+
+The fourth and shortest piece used a google program (in perl) to search 
+for lines with specific words and phrases in them; these lines were then 
+subjected to some shell scripts I wrote to 'normalize' then. The result is 
+a meditation on space-time, in poetic form.
+
+My work has always moved among formal systems and their dissolutions - 
+among structured coherencies and noisy transmission, static, intervention. 
+The computer gives me the freedom to explore this. But nothing it should 
+be noted is 'random' - these aren't 'randomly-generated' texts, but shaped 
+texts according to what I see as the inherent poetics of the works - 
+dealing for example with metaphysics (arhat), sexuality and narrative (, 
+Nikuko), politics and political decoding (I SLAUGHTERED HUNDREDS), and 
+self-referential philosophical concerns (... forms and spaces). I know of 
+no other way to proceed; I see my work as a dialectic among consciousness, 
+mathesis, and structure - In other words, how does the subject/subject- 
+ivity interpret the world in the first place, either prior to perception 
+and language, or within the mathematical-physical construction of the real 
+that constitutes our cosmos?
+
+I do want to add that I find the distinction between prose and poetry 
+extremely problematic. Certainly prose is related (perhaps) to the 
+declarative sentence, while poetry seems somewhat self-referential (what I 
+used to call the 'weight of poetic language'). I tend to think instead of 
+the interrelationships between body and language, which were brought out 
+for example in feminin ecriture. Poetry 'seems' ikonic, a kind of 
+embodiment - and so are the virtual contents of a great deal of my writing 
+- whereas prose 'seems' indexical, a pointing-towards. Both participate in 
+the symbolic. There are also poetic tropes such as repetition, rhyme, 
+rhythm, etc., that tend towards the chant, towards the deliteralization of 
+language. After a while it probably makes no difference what mantra one 
+chants, as long as one chants. (There's something about intentional 
+language here which Agehananda Bharati discusses in The Tantric Tradi- 
+tion.)
+
+With the computer, with the kind of codework I do (and which I've 
+pioneered in to some extent), these distinctions break down. Repetition 
+might mean nothing more than an out-of-control program loop or a 'black 
+hole' in routing. Or it may mean just the opposite - the seizure of the 
+body in sexual orgasm (as when, in net, sex, one holds down the keys to 
+indicate ejaculation, etc.). 
+
+What I'm getting at - I think, I'm not sure - is the need to abandon the
+distinction between prose and poetry, particularly in relation to 
+technology and online work. Instead, one might think through a poetics of 
+language - that is, a phenomenology of meaning in relationship to tropes, 
+the utterance, sememe, stylistics, etc. We can look at syntactic fields, 
+matrices of punctuation and capitalization, deconstruction of rhythm. We 
+can study codes of all sorts and computer languages, noting, again, the 
+tropes at work. We can see programs as performative, just as a chant might 
+be. We can study program outputs as virtually-embodied tropes, and the 
+programs themselves as organic structures (trees, holarchies, etc.). We 
+need, in other words, to rethink the entire notion of 'genre,' opening 
+ourselves to possibilities that were inconceivable, say, a couple of 
+decades ago - and new possibilities that aren't yet on the horizon.
+
+
+FIRST PIECE: arhat:
+
+
+arhat
+
+
+o death life existent you death you death to life death meritorius to + +- 
+the life to life to you life you life escaped life to life to you life 
+with life a you lotus death death a with you to with you a you nothing to 
+jewel death to lotus to lotus lotus jewel you lotus to you a life life 
+nothing you nothing meritorius lotus to escaped you escaped existent you 
+buddhas life emptiness you emptiness to life you a death death to life 
+buddhas you to existent recollection to you lotus life to you existent 
+collocation meritorius life to emptiness escaped life to to lotus +-. to 
+collocation to life with life you a death you you emptiness existent you 
+considerations annihilations to you you a escaped you life to life 
+indistinguishes life lotus jewel evil touch taste kwak less death you 
+annihilations you life jewel bodhisattva you existent to to existent to 
+annihilations a life form. + you life emptiness life to death you 
+recollection emptiness existent you you to life to +---)^ the meritorius 
+recollection lotus to you existent life escaped life death buddhas to 
+recollection life escaped to a life escaped you escaped recollection a ^ 
+recollection life you life life you lotus to you emptiness emptiness a 
+recollection to escaped non-enlightenment jewel bodhisattva lotus 
+bodhisattva meritorius nothing +--)^ to lotus life life to meritorius to 
+bodhisattva you existent +- bodhisattva life life life life you +escape)^ 
+bodhisattva to emptiness a death to escaped to life +escape-----^ life to 
+meritorius tathagathas to death you you meritorius you you life to 
+meritorius emptiness lotus +--)^ death a life life to escaped to to you 
+meritorius escaped life life death meritorius death jewel life to life you 
+meritorius lotus you strivings to you meritorius you escaped meritorius 
+meritorius death to to existent lotus life jewel you lotus lotus you 
+meritorius life life you bodhisattva a life you death to emptiness you 
+meritorius you to life existent a life life existent to emptiness existent 
+meritorius to death life death a death a meritorius life a emptiness life 
+emptiness you a the to to you escaped to existent you lotus you to life 
+existent emptiness the you to you bodhisattva existent you you to to you 
+existent life you life life to a life death life you you escaped existent 
+escaped to existent to the life to death lotus +---....---^ existent life 
+escaped a to you escaped you to a life lotus to life existent you to to 
+lotus meritorius life escaped you death death life lotus lotus to 
+lotus life life life to death you escaped escaped escaped to lotus to 
+lotus you life with emptiness escaped to emptiness lotus to to you you 
+evil before nirvanas dies accumulate a with death death a to a 
+evil before kwak less evil before kwak more hears death bodhisattva you 
+evil before aum more ---nirvanas ---^ you the emptiness life escaped life 
+evil aum bardo more satoris ---^ lotus life to lotus the death you death 
+
++ +---^ +--^ +------^ +-^ +---^ +-^ +---^ +^ +--^ +---^ +--------^ +^ + +- 
++-- +--^ +^ +--^ +^ +-^ +--^ +-^ +--^ +-----^ +--^ +^ +--^ +^ +-^ +--^ 
++--- +--^ ^ +-^ +----^ +---^ +---^ ^ +--- +-^ +^ +--- +-^ ^ +-^ +------ +^ 
++---- +---^ +^ +----^ +^ +----^ +----^ +---- +-^ +----^ +^ +-^ ^ +--^ +--^ 
++------ +-^ +------ +--------^ +----^ +^ +-----^ +-^ +-----^ +------^ +-^ 
++------- +--^ +-------^ +-^ +-------^ +^ +--^ +-^ ^ +---^ +---^ +^ +--^ 
++------- +-^ +^ +------^ +----------^ +^ +-^ +----^ +--^ +^ +-^ +------^ 
++---------- +--------^ +--^ +^ +-------^ +-----^ +--^ +^ +^ +----^ +-. +^ 
++---------- +^ +--^ +--- +--^ +-^ ^ +---^ +-^ +-^ +-------^ +------^ +-^ 
++------------- +------------^ +^ +-^ +-^ ^ +-----^ +-^ +--^ +^ +--^ 
++-------------^ +--^ +----^ +---- +---:-----.-----.----.---^ +---^ +-^ 
++------------^ +-^ +--^ +---- +---------^ +-^ +------^ +^ +^ +------^ +^ 
++------------^ ^ +--^ +---. + +-^ +--^ +-------^ +--^ +^ +---^ +-^ 
++----------^ +-------^ +------^ +-^ +-^ +^ +--^ +^ +---)^ +-- +--------^ 
++----------^ +----^ +^ +-^ +------^ +--^ +-----^ +--^ +---^ +------- +^ 
++----------^ +--^ +-----^ +^ ^ +--^ +-----^ +-^ +-----^ +----------^ ^ ^ 
++----------^ +--^ +-^ +--^ +--^ +-^ +----^ +^ +-^ +-------^ +-------^ ^ 
++----------^ +^ +-----^ +----------------- +---- +---------^ +----^ 
++---------^ +--------^ +------ +--)^ +^ +----^ +--^ +--^ +^ +--------^ +^ 
++---------^ +-^ +------^ +- +---------^ +--^ +--^ +--^ +--^ +-^ +------)^ 
++---------^ +^ +-------^ ^ +---^ +^ +-----^ +^ +--^ +-----------^ +--^ +^ 
++--------^ +--------- +^ +---^ +-^ +-^ +--------^ +-^ +-^ +--^ +^ 
++--------^ +-------^ +----^ +--)^ +---^ ^ +--^ +--^ +^ +-----^ +^ +^ +-^ 
++--------^ +-----^ +--^ +--^ +---^ +--------^ +---^ +---- +--^ +^ +--^ +-^ 
++--------^ +----^ +-^ +-------- +^ +-^ +--------^ +-^ +-----^ +--------^ 
++--------^ +---^ +^ +^ +------^ +----^ +--^ +---- +-^ +----^ +----^ +-^ 
++--------^ +--^ +--^ +-^ +---------^ ^ +--^ +-^ +---^ +^ +-------^ +-^ 
++--------^ +-^ +^ +--^ +------^ ^ +--^ +--^ +------^ +^ +-------^ +------^ 
++--------^ +^ +---^ +--^ +---^ ^ +---^ ^ +--------^ +--^ ^ +-------^ +--^ 
++-------^ +-^ ^ +-- +^ +^ +-^ +-----^ +^ +------^ +-^ +----^ +-^ +^ +--^ 
++------^ +-------^ +-- +-^ +^ +-^ +---------^ +------^ +-^ +-^ +^ +^ +-^ 
++------^ +--^ +-^ +--^ +--^ +^ ^ +--^ +---^ +--^ +-^ +-^ +-----^ +------^ 
++-----^ +^ +------^ +^ +-- +--^ +^ +---^ +----^ +---....---^ +------^ +--^ 
++-----^ ^ +^ +-^ +-----^ +-^ +^ ^ +--^ +----^ +^ +--^ +------^ +-^ +^ +^ 
++----^ +--------^ +--^ +-----^ +-^ +---^ +---^ +--^ +----^ +----^ +^ 
++----^ +--^ +--^ +--^ +^ +---^ +-^ +-----^ +-----^ +-----^ +^ +----^ +^ 
++----^ +-^ +--^ +--- +-------^ +-----^ +^ +-------^ +----^ +^ +^ +-^ +-^ 
++---:-----.--------.----.---------^ ^ +--- +---^ +---^ ^ +^ ^ 
++---:-----.----.---^ +---:-----.----.----.----^ +---^ +---------^ +-^ 
++---:-----.---.----.-----------.---^ +-^ +-- +-------^ +--^ +-----^ +--^ 
++---:---.-----.----.-------.---^ +----^ +--^ +^ +----^ +-- +---^ +-^ +---^ 
++---^ +-----^ +-----^ +^ +----------^ +-----^ +-^ +-^ +------ +-------, +^ 
++---^ +----^ +-^ +^ +-------'^ +----^ +---^ +-^ +^ +--^ +----^ +^ +---^ 
++---^ +---^ +--^ + +--^ +^ +^ +^ ^ +--^ +--^ +--^ +----.-----@-----.---^ 
++---^ +---^ +--^ +------^ +^ ^ +- +---^ +^ +-^ +^ +----^ +--^ +---^ +^ 
++---^ +--^ +^ +-----^ ^ +-^ +--^ +^ +-^ +--^ +----^ +--^ +-------^ +----^ 
++---^ +-^ +---^ +----^ +---^ +-----^ +--^ +----^ +----^ +--^ +-^ ^ +-^ 
++---^ +-^ +-^ ^ +-----^ +--^ +-------^ +^ +^ +----^ +----@-----------.---> 
++---^ +^ +---^ +^ +----^ +-^ +-^ +---^ +^ +--- +--^ +^ +------.+ +--^ +--^ 
++---^ +^ +--^ +-----^ +----^ +----^ +-----^ +-------^ +--^ +-----^ +^ +^ 
++---^ +^ +-^ +-------^ +-^ +--------^ +---^ +^ +--^ +- +---------^ +^ +--^ 
++---^ +^ +-^ +--^ +--^ +---^ +-^ +--^ +-- + +---^ +--^ +---^ +----^ +--^ 
+
+more yy
+sed 's/+-- /the /g' yy > zz
+sed 's/+-----\^/escaped/g' zz > yy
+sed 's/+--- /with /g' yy > zz
+sed 's/+---- /jewel /g' zz > yy
+more yy
+h
+sed 's/buddha/lotus/g' yy > zz
+more zz
+sed 's/+----- /mirror /g' zz > yy
+more yy
+sed 's/+------\^/nothing/g' yy > zz
+sed 's/nothing/existent/g' zz > yy
+sed 's/+------ /nothing /g' yy > zz
+sed 's/+-------\^/emptiness/g' zz > yy
+sed 's/+-------- /strivings /g' yy > zz
+more zz
+sed 's/+--------\^/meritorius/g' zz > yy
+sed 's/+--------- /tathagathas /g' yy > zz
+sed 's/+---------\^/bodhisattva/g' zz > yy
+more yy
+sed 's/+------- /buddhas /g' yy > zz
+sed 's/+---------- /recollection /g' zz > yy
+sed 's/recollection/collocation/g' yy > zz
+sed 's/+----------\^/recollection/g' zz > yy
+more yy
+sed 's/+---:/evil /g' yy > zz
+sed 's/+-------,/diseases,/g' zz > yy
+more yy
+sed 's/ -----\.-----\./ touch taste /g' yy > zz
+sed 's/+----------- /annihilation /g' zz > yy
+sed 's/+----------^ /integrations /g' yy > zz
+more zz
+sed 's/+--------------\^ /differentiation /g' zz > yy
+more yy
+sed 's/+--------------- /differentiations /g' yy > zz
+more zz
+sed 's/+------------\^ /annihilations /g' zz > yy
+more yy
+sed 's/ -----\./ before /g' yy > zz
+more zz
+more zz
+sed 's/+------------- /considerations /g' zz > yy
+more yy
+sed 's/+-------------\^ /indistinguishes /g' yy > zz
+sed 's/ ----\./ kwak /g' zz > yy
+sed 's/ ---\./ aum /g' yy > zz
+more zz
+sed 's/ -----\./ bardo /g' zz > yy
+sed 's/ ----\./ more /g' yy > zz
+sed 's/ ---\^ / less /g' zz > yy
+more yy
+sed 's/--------\./nirvanas /g' yy > zz
+more zz
+sed 's/ -------\./ satoris /g' zz > yy
+sed 's/ +,--- / o,non /g' yy > zz
+sed 's/ +----\./ waver /g' zz > yy
+sed 's/ +------\./ sickens /g' yy > zz
+more zz
+sed 's/ ----\./ dies /g' zz > yy
+sed 's/ ----\^ / hears /g' yy > zz
+more zz
+sed 's/ +---\. / form\. /g' zz > yy
+more yy
+sed 's+----------------- /non-enlightenment /g' yy > zz
+sed 's/+----------------- /non-enlightenment /g' yy > zz
+more zz
+ps
+k 12478
+more zz
+sed 's/ ---------\^/ accumulate/g' zz > yy
+more yy
+sed 's/@/ /g' yy > zz
+more zz
+sed 's/------/escape/g' zz > yy
+more yy
+h
+head yy
+pico yy
+
+
+
+SECOND PIECE: , Nikuko
+
+
+, Nikuko 
+
+
+ nake couch, couch, couch, couch, couch, couches? now now now now nake, 
+couch, couch, couch, couch, couch, couches? now now now now nake , amp , 
+amp amp
+
+ays nowhere nowhere nowhere nowhere fuckn<multicol ancers ancers ancers 
+ancers ancers
+
+ancers nowa amp ance. ance ance ance ance. ance. ance ance. ancer ance 
+ancer ancer ance ancer ance.
+ couch couch, 
+ Leopol
+s Konninger Konninger Konninger Jennifer 
+s go
+ 
+ go. leopol. leopol
+
+e e nu nue nue nu e e\ nu e|nake nue nu
+ nue|nakees nu e|nake room room room es nu
+ room room room e|nake octor octor ancer ancer ancer/ ancer ancer igital
+
+ancer ancer ancer/avatar ancer/ancer ancer/igital ancer igital ancer. 
+octor Doctor Doctor Doctor Doctor octor octor! octor! octor octor! octor 
+octor's octor, octor's octor, octor, octor. prick prick octor, octor. 
+octor. octor. Doctor. Doctor. Doctor..." octor. octor. octor.
+
+octor. octor. octor. Doctor. Doctor. Doctor..." octor. octor. octor. 
+spkon nake nake
+ancer{}igital{{}}avatar{}analog. igital{{}}avatar{}analog. 
+igital{{}}avatar{}analog. ances Jennifer Jennifer slowly" 
+ances Jennifer Jennifer slowly" 
+
+ances Jennifer Jennifer slowly" 
+
+octor Doctor Doctor Doctor
+
+cers dacers dacers cers dacers dai cers dacers dada cers iudacers da i 
+cers da ed a a ed ude|a ude| aed room room room aed room room room fucig 
+fucifuci g fucig. fuc g fuci g. fuc g. fuc ig fuc g. fucig. fucig. fuci g. 
+fucig fuc g fuc g fuc i g doctor." g doctor." g doctor." i <multicol je 
+ifer leopspolspdsp iuo, i iuo, udes udes ude udes ude|ude o iuo iui iu o 
+iuu o, ow ow ow) ow o, slopes, dacers. aed aed aed o o ger o ger, o ger, 
+oo ger; o ger; oo spsplgers o llgers room room lgers room room i
+
+uch, cuch, cuch, c w naked, damp w n where nwhere nl dancers dancers
+
+where nwhere nn where nwhere fuckn<multicwadays n where fuckn<multicl 
+dancers dancers where n l dancers dancers where n pld Leld Le ld Lepp ld 
+cuch cp uch cuch, ld Le uch, p ds gds gds g nninger Jennifer ds K ld lepld
+
+ld lepp ld p lepld le ld naked p fucking fucking fucking fucking. 
+fucking. fucking dctfucking fucking fucking fucking. fucking. 
+fucking d ctr." ct r." r."
+
+nninger nninger k knninger knninger k nninger, knninger, kk nninger, 
+knninger, knninger k nninger, knninger; knninger k nninger; knninger; 
+nninger, k nninger; nninger, k nninger; knninger; k nninger; knninger; km
+
+nninger; knningers kk m rnningers k m
+
+sl pes, dancers. pes, dancers.
+
+psplspdspkspspd lspdspkn naked naked sp fuckn<multic n naked naked l 
+jennifer le dancer{}digital{{}}avatar{}analg. dances Jennifer Jennifer 
+sldancer{}digital{{}}avatar{}anal g. dances Jennifer Jennifer slwly" g. 
+dances Jennifer Jennifer sl wly" wly"
+
+udes couch
+
+, Nikuko 
+ nake couch, couch, couch, couch, couch, couches? now now now now nake, 
+couch, couch, couch, couch, couch, couches? now now now now nake , amp , 
+amp amp
+
+ays nowhere nowhere nowhere nowhere fuckn<multicol ancers ancers ancers 
+ancers ancers
+
+ancers nowa amp ance. ance ance ance ance. ance. ance ance. ancer ance 
+ancer ancer ance ancer ance.
+ couch couch, 
+ Leopol
+s Konninger Konninger Konninger Jennifer 
+s go
+ 
+e e nu nue nue nu e e\ nu e|nake nue nu
+ nue|nakees nu e|nake room room room es nu
+ room room room e|nake octor octor ancer ancer ancer/ ancer ancer igital
+
+ancer ancer ancer/avatar ancer/ancer ancer/igital ancer igital ancer. 
+octor Doctor Doctor Doctor Doctor octor octor! octor! octor octor! octor 
+octor's octor, octor's octor, octor, octor. prick prick octor, octor. 
+octor. octor. Doctor. Doctor. Doctor..." octor. octor. octor.
+
+spkon nake nake
+ancer{}igital{{}}avatar{}analog. igital{{}}avatar{}analog. 
+igital{{}}avatar{}analog. ances Jennifer Jennifer slowly" 
+ances Jennifer Jennifer slowly" 
+
+cers dacers dacers cers dacers dai cers dacers dada cers iudacers da i 
+cers da ed a a ed ude|a ude| aed room room room aed room room room fucig 
+fucifuci g fucig. fuc g fuci g. fuc g. fuc ig fuc g. fucig. fucig. fuci g. 
+fucig fuc g fuc g fuc i g doctor." g doctor." g doctor." i <multicol je 
+ifer leopspolspdsp iuo, i iuo, udes udes ude udes ude|ude o iuo iui iu o 
+iuu o, ow ow ow) ow o, slopes, dacers. aed aed aed o o ger o ger, o ger, 
+oo ger; o ger; oo spsplgers o llgers room room lgers room room i
+
+uch, cuch, cuch, c w naked, damp w n where nwhere nl dancers dancers
+
+where nwhere nn where nwhere fuckn<multicwadays n where fuckn<multicl 
+dancers dancers where n l dancers dancers where n pld Leld Le ld Lepp ld 
+cuch cp uch cuch, ld Le uch, p ds gds gds g nninger Jennifer ds K ld lepld
+
+ld lepp ld p lepld le ld naked p fucking fucking fucking fucking. 
+fucking. fucking dctfucking fucking fucking fucking. fucking. 
+fucking d ctr." ct r." r."
+
+nninger nninger k knninger knninger k nninger, knninger, kk nninger, 
+knninger, knninger k nninger, knninger; knninger k nninger; knninger; 
+nninger, k nninger; nninger, k nninger; knninger; k nninger; knninger; km
+
+dances Jennifer Jennifer sl wly" wly"
+
+
+
+THIRD PIECE: I SLAUGHTERED HUNDREDS
+
+
+ I SLAUGHTERED HUNDREDS
+
+ EE EEE ETEE ET EET TTE EEEE T E ETE E TEE EEEE EET TE TEE ETE E TEE EEE
+ TTEETT EE TETE ET TE ETTTTE T TEEE E ETEE EE E EEET E EE T TE TTT ETT E
+TETET ETT ET ETE EE EEE EEEE E ETEE ETEE TTEETT TETT TTT EET ETTTTE EEET
+ E EEEE E ET ETE TEE T EEEE ET T TTEETT TEEE EET T ETEE ET TE TTE EET ET
+ TTE E TEE TTT E EEE TE ETTTTE T TEE TTT ET TE TETT T EEEE EE TE TTE EET
+E TTT ETE T EEEE TTT EEE E EEE TETE ETE E ET TT EE TE TTE ETT TTT TT E T
+E ET TE TEE TETE EEEE EE ETEE ETE E TE EE TET EE ETEE ETEE E TEE TTEETT 
+ETE EE TTE EEEE T EE TE EETE ETE TTT TE T TTT EETE TT E TTEETT EE TETE E
+T TE ETTTTE T EEE ETTE E ET TET EE T TTEETT TT TETT TT TTT EET T EEEE ET
+TTTE EEE EEE T EET EETE EETE E TEE EET ETTE EEETET
+
+ IEIENEAEATNEIETEAEENEIIEATENEAEENEIEMIMEENNETNEMMETNIEENEIEEITEITTEMTAT
+AAAEMETAEIEIEIEEAIENEMIMTATMTITAMNEITEIIEETAENETIIETTMIMTIEITTAIETNTNEAE
+TMEENEMTEIENEMMETNEMTATENMTEIEITEMEIN MTAETIITMEIEEITAEAEEATTITEMEATMTME
+TEA NTITAEIIEEAIENETEITAEEAIENEENEMIMENEEMEIITEENEAEAEMTNTTMEAEMETNATITA
+EATEAMNTEIEMEEATAEETMIMTTNMTTMTITTIIEMMEIEIETITINEAEENEITANEINT
+
+ ISAIAUMEESTEENETISEEANDAEENEEIGWINNANWGTDEEAIIEEUEITTETMW RKATETENISIIE
+EDAIGWNMOITEONSTEESEARNETIIATTDMDEEATEDANMEEAAGEDMTEIETEEONTTIOANNMTESIN
+MEER OAETIIOIEEIETRAEEAMINMEEMOMENANDNNSEEEEDAEENINTEEEDAIETIGWAEEEGIITE
+ETEERAETMNTTMUETTEMUTEETRAN WGTSANEETTAITTDMMKTTTTMUTSEEONSIETITERINETIU
+ANSK
+
+ IEIEDAEATNESTERENEIIEATENEAEEDSZMEENNETNWGTNIEREIEEUEITTEMTATxAEMETAEIS
+SEELREMxKTMTITAxSTEIIEARDTIIETTZMTSUTAIETNGUAGENEMTESNExETDOATENMTSEINGF
+ ORTIITMEIESKEAEEATTINGWOMENANTITRHILRETEIKILREEDZMENEEGHTEENUEAEMTNTTME
+RMEGWITRATEJNTSWEEATAEETZMTTNMTTMTITTHWGSSTITINERENEITANEFT
+
+ IIEREAUTNIITERENESEUNTIAEETIIExTICANJNTBEREIESTEEETTEOW+TWAENISHEREREGW
+TWTMITWGEUESEEETRDTSEATGWTSEATLANGUETGEDOESNAxTDOANYTIIINTNINOENTHOEIEST
+RENEAMITEGWOTTETEANNEKESEILRENEEKIEDEDEDxTRIGESTITEUERONTOERTTETxITRETN1
+ETEIANEANTITGWTTKTMOEATH1ESEITUEREREDUEGEx
+
+ ISLAUGESTEREDHEANDAEENES,INNANWGTBELIEEUEITTEOW.WETRISHELL,YOITJNSTEHEA
+RNETIIATZMDEUTLANGEAAGEDMTEIENE9TDOANNMTESINMEF OAETIIOSESTRAEEAMINMEWOM
+ENANDCHEELRENIKEELLED,REEGIITEENERAEONTTMUEMExTITRAN'TSPEATAITZMMYTTOUTH
+E9SIETITFFEDUANSK
+
+ ISLAUMEHTEREDHITNNEREDIE,ICAN'TBELIEIAEITNTMW.WARISSEEREL,YMTUE9EUEHEAA
+EDTHETTGWDEUTLETNMEUETGETIOESTE1ETDOANKTTSEINGINORTHOIEESCENEAMINGWOMETE
+ANDCIIIEDRENEEKEELLEDGWRIGSETINFRMTNTOUEME,ICAN'TSEGEETKEETGWMYMOITTSE1E
+SSTUFINENEUEGSK
+
+ ISEDAEAGESTERENEHEANNEREDS,EECETNWGTNIEREIEEUEITNMTW.EMAAEISHELRE,YMTUA
+xSTEHEARDTIIAT,TSUTLETNGUAGENEOESNE9TDOANNMTSEINGF ORTHTMSESKEREAMINGWOM
+ENANDTRHILRETEIKILLEDZMREEGHTINFAEONTOERME,ICAN'TSWEEATAIT,TTYTTOITTH'SS
+TUINFEDITPEx
+
+ ISAIAUGHTEREDSEUNDREDS,ICAN'TBELIEVEITNTMW.ATARISIIELLGWYOUE9STEHEARNET
+HATZMBEATLANMEUAGEDOEIENJNTDOANYTESINGF ORTHOSEIECAEEAMINMEWOMENANDNNHEE
+LAEENIKIEDLEDGWREEGHTINERRTMNTTMFTTExTICAN'TSPEAKITZMMKTMOUTSE'SSTUFFETI
+UAN
+
+ ISREAUTNHTERENEHUNDAEEDIE,ICAN'TBEREIESTEITTEOW.WARISHELRE,TWOIT'EUEHEE
+TRDTHAT,TSUTLANGUETGEDOESN'TDOANYTHINGINORTHOEIESTRREAMITEGWOMETEANDKEHI
+LRENIKILEDED,RIGHTINUERONTOERMETxITRAN'TEIPEAKIT,TTYMOUTH1ESSTUFEREDUPEx
+
+ ISLAUGHTEENEDIIUNTIRENES,ITRANE9TDEELIEVEEETNOW.WARIEIHEEDLMxYTMUJNVEHE
+ARDTHATTxBUTLANGEAAGEDTMESN'TTIOATEYTIIINMEFORTESOSESCREATTINGWOMENANDCH
+IAIRENIKILLED,RIGHTINFRONTOFME,ICAN'TIEPEAKITTxMNMMOEATHE9SSTEAFUEEDUPxT
+
+ ISLAUGESTEREDHEANDAEEDS,INNANWGTBELIEEUEITTEOW.WETRISHELL,YOIT'STEHEARD
+TIIATZMBUTLANGUAGEDMTESNE9TDOANNMTHINGF ORTIIOSESCAEEAMINGWOMENANDCHILRE
+NIKILLED,REEGHTEENFAEONTTMFME,ITRAN'TSPEATAITZMMYTTOUTH'SSTITFFEDUAN
+
+ ISLETUGSETERETIHUTEDRETIS,IKEAN1ETBEAIIEVEITNOW.WARISESELAI,KTOUWGVEHEA
+ENDTHAT,BUTAIANGUAGEDOESNWGTDOANYTHINTNFORTSEOSEEICREAMINGWOTTENANDCESIL
+ENENINTILREEDxTRIGHTINFRONTOFMEGWICETN'TSPEAKIT,MYMMTUTH'SSTUFFEDUP
+
+ ISLAUGHTEREDHUNNEREDIE,ICAN'TBELIEVEITNOW.WARISSEELL,YMTU'EUEHEAAEDTHET
+T,DEUTLETNGUETGEDOESN1ETDOANYTSEINGINORTHOSESCREAMINGWOMETEANDCIIILRENIK
+EELLED,RIGHTINFRMTNTOUEME,ICAN'TSEGEAKEET,MYMOITTH1ESSTUFFENEUPSK
+
+ ISLAUGHTEREDSEUNDAEEDS,ICAN'TBELIEVEITTEOW.WAENISHELLGWYOIT'VEHEARDTHAT
+,BEATLANGUAGEDOESN'TDOANYTHINGFORTHOSESTRREAMINGWOMENANDCSEILRENIKIEDLED
+,RIGHTITEFRONTOFTTE,ITRAN'TSANEAKIT,MKTMOUTH'SSTUERFEDUP
+
+ ISLAEAGHTEREDHEANDREDS,ICETN'TNIELIEEUEITNMTW.WAAEISHELL,YOUAxVEHEARDTH
+AT,BUTLANGUAGEDOESN'TDOANNMTHINGFORTHTMSESKEREAMINGWOMENANDCHILRETEIKILL
+EDZMRIGHTINFRONTOFME,ICAN'TSWEEAKIT,MYTTOUTH'SSTUINFEDITP
+
+ ISLAITGHTEAEEDHUNDREDS,ICAN'TBELIEVEITNOAT.WARISHEAIL,NMOU'VEHEARTITHAT
+MxBUTEDANGUAGEDOEEIN'TNEOANYTHINGFORTHMTSESCREAMINGWOMENANDCHILRENIKILAI
+ED,ENIGHTINFRONTOFMEMxICATE'TSPEAKITMxMYMTMUTHWGSSTUUEFEDUP
+
+ ISLAUGHTEREDHUNDREDS,ICAN'TBELIEVEITNOW.WARISHELL,YOU'STEHEARNETHATZMBU
+TLANGUAGEDOEIEN'TDOANYTESINGF ORTHOSESCAEEAMINMEWOMENANDCHEELRENIKILLED,
+REEGHTINERRONTTMFMExTICAN'TSPEAKITZMMYMOUTH'SSTUFFEDUAN
+
+
+
+FOURTH PIECE: ... forms and spaces
+
+
+   ... forms and spaces
+
+   ... i create _forms_ and _spaces_ so that _bodies_ may sway and 
+   ... true, the physical act of drawing or painting chinese
+   ... characters embraces modalities of space, time and
+   ... movement for kwong-gordon, the fluid and intuitive ...
+   ... space-time code designs were either crafted by hand or found
+   ... while other imaging modalities provide high
+   ... resolution localization of brain ...
+   ... true proposed as complementary modalities to x-ray.
+   ... mammography the underlying principle of microwave ...
+   ... imaging via space-time (mist) beamforming for breast ...
+   ... modalities of healing are energy or love, and come not from the
+   ... reality there is no separate space and time, only a
+   ... single unity called spacetime. ...
+   ... highly recommend the hand gesture as one of their interaction
+   ... modalities recognition of space-time
+   ... handgestures using hidden markov model. ...
+   ... ai that operates on pure logic - no sensory
+   ... modalities, a curved trajectory
+   ... exists only in spacetime; in any given frame, ...
+   ... true a space-time theory of pitch and timbre based on
+   ... picture of the external world that is in
+   ... register across the sensory modalities and the ...
+   ... space-time theory of pitch and timbre based on ...
+   ... picture of the external world that is in register
+   ... across the sensory modalities and the ...
+   ... true monitoring a region in a variety of sensing
+   ... modalities (acoustic, seismic, sensor field
+   ... decomposed into space-time cells to enable distributed signal
+   ... true modalities (space, time, operating. subjects).
+   ... time-space analysis of temporal. compatibility. knowledge
+   ... objectives, activities and tools modalities of space-time
+

@@ -1,0 +1,1948 @@
+(lc)
+
+                                                            Alan Sondheim
+
+Our Future Love
+
+
+i.
+
+"It would be quite scary if someone were really inside a personal compu-
+ter, don't you think? Anyone who thinks that I am "non-existent" because I
+am a virtual idol may believe that I exist only in the personal computer
+or in the world of computer graphics. But those who think that Kyoko Date
+is someone they can relate to may believe that I am like a pen pal people
+used to have when it was cool to have pen pals. Kind of like a creature
+living in people's hearts." (Kyoko Date, Date Kyoko, interview)
+
+Kyoko Date, like Webbie Tookay, or Diki (the Korean version of Kyoko), or
+Sharon Apple, is a _virtual idol,_ a digital persona, created by program-
+mers and designers (in this case, HoriPro corporation). These idols are
+becoming increasingly prevalent in an already media- and spectacle-satur-
+ated world. Webbie Tookay, for example, is one of the first _virtual mod-
+els,_ produced by the Elite model agency; she never tires, can hold poses
+forever, and works around the clock. Diki (see part ii. below) is amazing;
+a recent video shows her construction as a virtual Pygmalion come to vir-
+tual life - which is literally, of course, what has happened. It should be
+noted that HoriPro apparently didn't back Kyoko up after her 1996 debut;
+it was only after she faded that she reappeared in Korea.
+
+In anime (Japanese animation) and manga (Japanese comics), there are also
+virtual idols; these forms are followed by _otaku,_ Japanese for someone
+obsessed by any hobby (the term is derogatory but has been taken up by
+many of the fans themselves). Sharon Apple is another virtual idol, star-
+ing in various anime; there are dozens of webpages devoted to her.
+
+And there are other related forms, for example Kamishibai, small online
+"plays" presented at http://otakuworld.com; on the screen, there is a
+small puppet theater; you begin "games" by clicking on a series of titles
+- each one tells a story through text, sound-effects, music, and limited
+animation. There are also PlayKiss "games" with anime (and some photo-
+graphic") "dolls" that can be dressed and undressed, using the mouse; the
+result is an odd sort of fetish-play. Kyoko Date appears in one PlayKiss;
+anime figures appear in Kamishibai, etc. There are cross-overs all across
+and over the place.
+
+Below, I've presented some preliminary analyses and sources for all of
+these. I also discuss my own projects/projections, based on several
+avatars - Jennifer, Alan, Julu, and Nikuko; these are text-based charac-
+ters I write through (or who write through me), often appearing on Inter-
+net Relay Chat (IRC, a form of real-time typing back and forth on the Net,
+the ancestor of things like ICQ and AOL Instant Messenger) or MOOs (text-
+based virtual reality spaces, where people come together to chat, program,
+or just watch the goings-on), or other interactive applications. The texts
+"by" Nikuko, for example, are my own; they question identity and author/i-
+ty issues, as well as appear to "come to life" apart from me; there is
+further information at http://www.anu.edu.au/english/internet_txt and at
+http://trace.ntu.ac.uk/writers/sondheim/index.htm
+
+
+---------
+
+
+Japan, the _source_ of the Kyoko Date, Date Kyoko emission, her music dif-
+ficult to find now, three years later -
+
+Kyoko Date, Date Kyoko, created 1996, trans/lated recently into Korea,
+project of HoriPro (http://www.horipro.co.jp), entertainment/animation,
+virtual models (http://www.elite-illusion2k.com), Rebecca, Sharon Apple
+(for example http://www.usagichan.com/AX96Sharon/), virtual idols (see
+http://www.tcp.com/doi/seiyuu/books/virtual-idol/), anime (see Helen Mc-
+Carthy & Jonathan Clements, The Erotic Anime Movie Guide, Overlook, 1999),
+TokyoPop (http://www.tokyopop.com), various distributions - energy in the
+sound, labor in the specificity of gathering backgrounds and foregrounds;
+I began losing myself in the midst of the thick otaku fandom, passing
+through the PlayKiss (remove the dolls clothes with your computer mouse -
+even Kyoko Date has been hacked to this) or Kamishibai sites (see http://
+otakuworld.com and http://otakuworld.com/shibai/kamifaq.html), animation
+or anime that anyone can do, get their work online. (Think of the audien-
+ces involved, the demographics for erotic anime, for male-male bonding for
+female viewership, for teenaged males, teenaged females, etc.)  Nothing
+troublesome in all of these, to the extent that what resolves, resolves
+through plot / narration, slotted or extending categories. I myself work
+through Nikuko, Meat-Girl, (among others) an avatar or 'emanation' I have
+created, who has no specific image, no _appearance_ but texts operable
+within Net protocols, or deep in operating systems; Nikuko seems all too
+real, almost viral or hacking - but then she doesn't appear alone, I'm in
+the background maneuvering the _language._ (See Nikuko texts below for
+examples, also http:// www.anu.edu.au/english/internet_txt for background
+information, etc.)
+
+It plays, this language, to the _ascii unconscious,_ a term I use to de-
+scribe the effect of text in net sexuality, paradigms of control and being
+controlled, language playing, insinuating itself in the midst of uncon-
+scious drives; if Date runs through fandom and cds/ cd-roms, Nikuko runs
+through psyches, deliberately without resolution - it's the difference
+between Noh and Godot. Nikuko raises questions of epistemology (to what
+extent does the viewer/reader comprehend both her knowledge, and that of
+Nikuko, across the board, within the site of her writing) and ontology (to
+what extent is she an addictive to the writer or the reader - to what
+extent are any of us virtual or projections - to what extent do we reside
+within the imaginary). Think of Daishin Nikuko, Meat-Girl Big-God who is
+created and creates by virtue of the performative (word, programming, im-
+age as well); think of Date Kyoko, whose ontological status heralds a host
+of virtual characterologies (as well as characters) - the _shuffling_ of
+signs on and offline. In the future-now, we are properly prepared already
+for the _disappearance,_ not only of the sign, but of the _thing_ itself.
+Virtual idols have no beginnings and endings; every gesture, every glimpse
+is a deliberate creation - there are no unguarded moments, no paparazzi.
+
+Following the _path_ through the virtual, say, through the Elite model
+agency, backing up into announcements all across the Net, touching down on
+IRC and MOO/MUD bots, intelligent agents, anime characters like Sailor
+Moon, ongoing manga series, the intensified digital imagery of Mariko
+Mori's photographic and video artworks, my own broken language texts,
+prosthetic speaking/hearing/seeing/touching devices - following the path
+which splits, turns back on itself, contradicts itself, turns _wayward_
+and _contrary_ as well as _noisy_ - it might be a gendered path, losing
+gender on the way - following the path - which becomes a _field of possi-
+ble worlds_ competing through capital, positioning, distribution modes,
+interventions - it becomes clear, that is to say, it becomes clearer -
+_there's no object here_ whatsoever - you might as well follow the path of
+the imaginary -
+
+(MOO/MUD bots are software programs that imitate players. A MUD is a 
+"multi-user-dungeon," an adventure text-based virtual reality; MOOs (which
+are "MUDs object-oriented," based on the MOO object-oriented programming
+language) developed out of them, substituting social interaction for game-
+playing. Intelligent agents are bots that perform tasks, often on the Net
+- for example, searching a number of databases for user queries.)
+
+Kyoko Date, Date Kyoko, singing across the fabricated landscape, in and
+out of the studio (see Date Kyoko, DK-96 Love Communication cd-rom - DK-96
+is the name assigned to the Kyoko Date project by HoriPro) - her movements
+like _haywire_ at times against blank backdrops, there's also the Brooklyn
+Bridge (once real or digital or retouched, always already eternal, placed
+within a _noiseless and purified_ system of digital protocols) - you might
+as well follow _her_ always already receding, used up by the capital which
+created her - there's a moment she offers herself to you -
+
+She offers herself, the _wire-frame_ image-model in which her clothing is
+_hollowed_ against the frame - this hollowing exposing the _interior of
+her breast and vaginal areas_ - a system of gridded projections, intro-
+jections, Kyoko Date, Date Kyoko, _from the inside-out_ - this is criti-
+cal, this _procurement_ - think of her as a _skin_ (just as there are say
+Windows 98 skins, Real Audio skins, skins everywhere that can be attached
+to other programs, giving a look to the look) - 
+
+With the virtual you're _in her skin_ literally, you can wrap the wire-
+frame around yourself, play with it - in PlayKiss you can find a naked
+Kyoko Date, Date Kyoko, as if the body itself has been hacked - there's no
+end to it, these mirrors - returning the body to its image, perhaps re-
+turning the image to the phenomenological field of the body itself - its
+extensions - 
+
+And, this can't be emphasized enough - all this beneath the sign, within
+the sign of capital, splintered, turned in on itself as the abstract
+accumulation/surplus of money is transformed into surplus sexuality, girl
+and woman, entertainment - TokyoPop for example with its magazine, online
+store - think of all of this as the libidinal economy resident in SUPER-
+STRUCTURE SUPER-STORE, shape-riding input - think of MONEY as LIBIDINAL
+UNITS - injections of perfect skin, perfect love - no longer does the
+Kristevan clean and perfect body tend towards fascism, all those horrors -
+it's now the post-AIDS safety-zone - 
+
+What's fascinating is that all of this is happening NOW, not in a future,
+however close, not on the level of fantasy, but within boys' and girls'
+bedrooms, computers on desks or tables, off in the corner, computers in
+the living-room (such as it is) or kitchen, computers everywhere, and just
+as anime and pornography entwine at numerous junctions (all across the
+playing-field), so does pornography become an intrinsic part of everyday
+life - except that masturbation fantasy now (equally intrinsically) in-
+volves the Other, the parceled body [ what might be seen a reconfigura-
+tion for example of the texts of J. G. Ballard - and why have academic
+approaches to the Net repeatedly emphasized the _cyberspace_ metaphor,
+ignoring these other manifestations which begin, say, in the work of
+Yoshitoshi if not earlier in Hokusai - begin even earlier wherever the
+imaginary or uncanny are found? a phenomenological analysis of PlayKiss
+would produce reams of relevant information ] -
+
+THIS IS THE TRUE LOVE OF THE THIRD MILLENNIUM AND SOON YOU WILL SEE MACH-
+INES LOVING ONE ANOTHER WITHOUT IMAGE, WITHOUT KYOKO DATE, DATE KYOKO:
+MACHINES OF PURE BLISS FOR ONE ANOTHER, LUBRICATED PISTONS (IN THE FORM OF
+BYTES) SLIDING INTO LUBRICATED CYLINDERS (IN THE FORM OF BYTES): what I
+have repeatedly called _linkages_ and _couplings_ as the processes of the
+future. A COUPLING is a concatenation or conjoining, such as, for example,
+A becomes part of BCD (in other words, A BCD -> ABCD) such that any change
+to A does not produce a change in BCD - they're loosely joined (think of
+objects on a shelf or Sartrean seriality). A LINKAGE is a con- junction of
+terms, such as, for example, A becomes part of BCD (A BCD --> ABCD) such
+that a change in A results in _some_ change in BCD (ABCD as a machine or
+computer protocol suite of interlocked sub-programs or links in a chain).
+
+Just as digital images are accessible bit by bit, each independent of the
+other (the apparent organic whole only in the eye of the viewer/creator),
+so one might speak (even now) of a postmodern decoupled future of fast-
+forward change, the slidings or probings of digital domains in competi-
+tion. The ontology of organism itself is at stake, the whole becoming in-
+finitely modified, manipulable, without loss; Kyoko Date, Date Kyoko,
+cannot die, but project DK-96 can be _shelved,_ only to be revived perhaps
+elsewhere and/or at a later date.
+
+She appeared almost out of nowhere, in spite of the video-games, dating
+cd-roms (an ideal girlfriend on your computer), anime, manga, girlhood
+boyhood dreams, and the massive Japanese idol production industry; she
+made that one song, _a real hit,_ she gave an interview or two, several
+images were released, and there was no follow-up; she disappeared quickly
+- after the webpages, fanpages, newsgroups, breathless nighttime mastur-
+bations, just as I 'fell in love' with Anne Frank, symbolic or penetrat-
+ing my dark side, after the fact, after her death, what safety. There are
+all sorts of transitional objects (teddy-bears, blankets, parents), both
+comfort and safe, and _partial,_ filled in - life is a quest for filling-
+in, conjoining the vulnerable body to safety-safety. What better than
+heroines in death, fairy-tale princesses, virtual idols, inaccessible
+worlds synchronically (X, who lives in a parallel universe) or diachron-
+ically (Y, who lived and died, tragically, a long long time ago). IF I
+COULD HAVE ONLY MET KYOKO DATE, DATE KYOKO, WHAT WE WOULD HAVE BEEN ABLE
+TO DO DO DO, OH OH OH MY DARLING, DO DO DO   -  --  ---  ----
+
+
+ii.
+
+Diki
+
+Today I went to the Diki site and downloaded several music videos, around
+60 megabytes total. These are the current Kyoko Date imports into Korea,
+and the theme is based on the intermix of virtual and real, the (male)
+artist (re)creating the female statue-come-alive; what's interesting is
+the construct of the mesh holding the skin - the sexualization of interior
+hollows as the armature turns, the skin running jacketed around the body,
+cuts carefully made away from breast and genital as it approaches. So
+there is also a literal representation of introjection/projection in the
+sense of an injection of skin covering the hollow of representation, an
+interior which can be considered a screen of and for desire. The music is
+the same as Kyoko ever; there are also closeups of models inextricably
+(everything is inextricable online and offline in the future-real-here)
+electroded, their movements tallying with Diki's, giving birth to Diki at
+a distance, teledildonics. It is easy to imagine lush-Diki-skin on oneself
+- that is to say, an other mergence; the PlayKiss Kyoko Date doll gives a
+sense of this, even though the manipulation is literally puerile (removing
+her clothes, dressing her in others, in a paper-doll fashion). I am always
+reminded of, for example, Nikuko's _dirtiness_ and abjection in relation
+to all of this, the _real_ of Nikuko _not_ based in simulation, but in a
+speaking of the unconscious, insertions and assertions across the (key-)
+board. Nikuko scratches at skins, removes them, exposing the wires beneath
+- or the flesh - or what would pass for a melange of the real - what is
+constructed on Diki is torn apart by Nikuko, expanded like condoms holding
+birth in abeyance while fondling it. I can push Nikuko and the others
+(Jennifer, Julu, Alan) until I can't sleep at night; with Diki and Kyoko
+and Webbie Tookay, I'm lulled into the foreclosing of any gendered dieges-
+is; sleep comes easy, permanent, the sleep of the death of the real. I de-
+vour Nikuko's menses, harbor her smell on me, see through her membranes,
+talk with beneath upon her in mutual devouring; the creation of Diki oc-
+curs at a distance, through control-room, gloves, screens, keyboards;
+there's a scent but no odor. The odors of Nikuko, Jennifer, Julu, Alan,
+saturate me, tend towards those uneasy dreams leaking texts at the other
+end. It's as if culture guarantees that the real _has_ that other end, far
+cry from Diki, but even later at night, when I do deep sleep for a moment
+or two, Diki-Nikuko merge through the sound and sight - merge through the
+imaginary - there's a love and ecstasy I can never imagine - there's a
+permanency outliving me - I'm abandoned - I turn back into the dreams - I
+know if I dream, Nikuko will come back to me and Nikuko and I will watch
+the Diki videos over and over again, together - 
+
+
+==============================================
+
+
+NIKUKO TEXTS - see http://www.anu.edu.au/english/internet_txt/
+kz, la, lb for samples
+
+
+[ The texts below are from the Nikuko avatar I use in my work. The various
+avatars interact with me, with various applications such as Internet Relay
+Chat, and with email lists; the texts I produce are sent to two lists, Cy-
+bermind and Fop-l (fiction of philosophy), which I co-moderate. The ava-
+tars raise all sorts of issues, and give me the opportunity to explore the
+practical and theoretical aspects of 'virtual subjectivity.' Below are
+several representative texts; these usually are presented along with more
+abstract works analyzing the issues involved. ]
+
+----------------------------------------------------------end-------------
+
+
+nikuko, sorted
+
+could ever turn back, empty sake bottle on the table, she crawled across
+dark temples on the other side, black nighttime roof-tops, eaves desper-
+ately turned towards the sky, her time of working, world swallowed dreams,
+too much caffeine, too many disagreements, her concentration dull machin-
+ery in the back of the mind, a whirlwind or a wheel; nikuko woke up, her
+wonder gone, the neon reflected in the river, dull glows across, her work
+would be completed, you're always organizing me, she thought, month, year,
+there was always a future of the lost, of that dark night nikuko woke up
+writing at the prompt, writing in trance, knowledge not enough sleep. she
+had trouble concentrating, the result of bad of her hand, something gnawed
+at the periphery, it as a future without her, off; nikuko woke up, her
+room looked too small even for nakasukawabata, she realized, a future
+without her, coloring the rest of her morning, day, sorted at the other
+end, as soon as she was done. she looked haggard, that corrections were
+impossible, that the text would be impossibly the prompt heavy on the
+screen, she wasn't used to this, no presence the tatami, something had
+spilled, and wondering about the dawn when with the sorted future: this
+would be gone, replaced by the other, nothing without promise of the dawn,
+she turned over on the tatami and cried and cried and cried
+
+
+_________________________________________________________________________
+
+
+
+jenn!!
+
+
+got to be!
+hello
+me?
+now then!!!
+ok, sure!
+what...
+where are you
+who are you
+wonderful...
+I could have known!
+ah well...
+definitely!
+eh...
+heh!
+hmmmm, maybe!
+hunh?
+If you want to see Britiny Spears and Sabel and all your favorite Celebs
+pure but naked click here now then click on the blonde lady banner then
+when your in private gold click JOIN NOW and sign up to see your favorite
+celebs naked.. This also includes a free 5 day pass which enables you to
+browse around for 5 days feeling free to cancel your membership at any-
+time! CLICK HERE AND SIGN UP NOW FOR THE BEST XXX PAGE AND FOR YOUR 5 DAYS
+FREE PASS i'll do that... jenn, you're the best! just wow! look at this!
+never!
+now and then...
+now then...
+of course!
+oh dear
+oh dear!!!
+oh, er
+ok, now really look!
+sure is! 
+sure, oh me oh my!
+terrific, I'd think!
+this can't be!
+this is just amazing!
+um, ok!
+unbelievable!
+what!!?
+whoops! 
+wow!
+yeah
+yes
+yippee!
+you don't say?
+
+
+_______________________________________________________________________
+
+
+PRETTY PICTURE
+
+#define nik_width 16
+#define nik_height 16
+static unsigned char nik_bits[] = {
+   0x00, 0x00, 0x8b, 0x00, 0x8d, 0x2a, 0xad, 0x29, 0xa9, 0x3a, 0x00, 0x00,
+   0x01, 0x38, 0x75, 0x0a, 0x53, 0x3a, 0x75, 0x22, 0x00, 0x38, 0x00, 0x00,
+   0x75, 0x57, 0x17, 0x77, 0x37, 0x73, 0x75, 0x55};
+
+
+__________________________________________________________________________
+
+
+face
+
+
+there are facial scrubbings, sloughed skin, foetal membranes ,,
+drawn down over nose and mouth, palls over eyes, burst bubbles,
+waters, afterbirths, miscarriages, thinned to blown egg-white 
+consistency ,,
+*/ what makes you yearn for me for me for me
+breathing through albumen, caught against glues held taut across the
+ears, lymph-tympana, silked, almost sweet and globular ,,
+stumped arms, legs moist and glistening, phantom flailed limbs soaked
+in mucous ,,
+*/ i so do do do want to understand to understand
+understanding through the throat, black bile, bruised abdomens,
+cauterizations ,,
+yellowed scars, dipthongs and pallid scabs, little stories on
+distended skins ,,
+*/ i see those boys boys boys
+boys and their milky legs, boys and their milky legs ,,
+swollen salivary glands, mouth dribbles whitened against pale
+contusions, marks of non-memory, dried tears, fleshed-peeled from torn
+corners of tumescent eyes ,,
+mumblings beneath surfaces, through the nostrils, what, nothing, 
+what, what ,,
+girls' blood, clotted tastes suffused on paler skin, ruptured dreams
+gone long ways back ,,
+coming broken to you, i, i, i, i am sick of that letter, of any
+letter, of any ,,
+*/ does it bother you that letter of any, or a father or a mother?
+of you, what a bother ,,
+closed up remnants, edged with juices, designs and vomits ,,
+and and brocades, and a long way back ,,
+and and and drenched clothes, and a longer way ,,
+and a way and a longer way ,,
+*/ you mentioned that letter of any letter of any?
+back back back ,,
+*/ can you elaborate on that and look at me?
+
+
+_____________________________________________________________________
+
+
+FRONTIER
+
+
+'' this Kyoko Date, Webbie Tookay, Alan Sondheim, Virtual Idol, Diki
+sppeds endlessly through the body ''
+/* currency of the dark drug, wait a minute while i adjust myself, that's
+better, your favoring, hold on, continue, your bones are your internal?
+'' seeping through iron-mesh, my dreams encompassing sediments oozing into
+semblance ''
+/* one second, that's better, wait a minute while i adjust my code, i love
+your feelings, Kypkp D$ta, Wabbla Tppk$y, Al$n Spndhalm, Vlrth$l Idpl,
+Dlkl ...
+/* hold on now, that's better, found Sickness me above your internal!
+/* one more second, that's better now, have to adjust myself, my clothes
+keep falling off, wait a minute, what do you call your favoring?
+'' favoring "the left side of the body", favoring "my eyes" through your
+skin-iron-mesh-turned towards ''
+'' my techs are my texts
+Punctuation-Grid-Marks, Laying Rubber on the Streets of Doom, Drag-Skid
+Filament-Cathode-Burn, Hard Matrix in the Doomed City, Slip-Sledged
+Silicon-Iron-Matrix, Tent Life in Concrete-Canyons, Pour-Hardened
+Nanotech-Quantum-Drop, Kerbed ''
+/* hold on, that's better, i've almost got it, just a minute more, my
+Silicon-Iron-Matrix, Tent Life in Concrete-Canyons, Pour-Hardened is
+yours...
+/* sorry, still adjusting the code, that's better, Are you properly com-
+piling f$vprlng "tha laft slda pf tha bpdy", f$vprlng "my ayas" thrphgh
+yphr skln-lrpn-mash-thrnad tpw$rds?
+'' Absolute-Infinite Temperature on the Rise, Dais, Cauterize ''
+/* running well now, that's better, You ran for 260040 hours? f$vprlng
+"tha laft slda pf tha bpdy", f$vprlng "my ayas" thrphgh yphr skln-lrpn-
+mash-thrnad tpw$rds and 163 and 178 - and you knew that all along!
+'' For 3  days, I have been names Julu ... ''
+/* that's better, just fine, everything's in place, and it has taken you
+just 6.917 minutes turning Jennifer ...
+
+PUTOUTPUTOUTPUTOUTPUTOUTPUTOUTPUTOUTPUTOUTPUTOUTPUTOUTPUTOUTPUTOUTPUTOUT
+
+Seeping through iron-mesh, my dreams encompassing sediments oozing into
+semblance:KAREN DATA, WEBBA TOLSTOY, ELSA SPANDAU, VIRTHUS ID, DOLL:Nano-
+tech-Quantum-Drop, Kerbed:Filament-Cathode-Burn, Hard Matrix in the Doomed
+City, Slip-Sledged Come with me, beautiful wetware!
+
+
+___________________________________________________________________________
+
+
+
+My adventure, by Travis
+
+
+At your feet all the water of the stream splashes into a 2-inch slit
+in the rock.  Downstream the streambed is bare rock.
+  down rock
+You don't fit through a two-inch slit!
+You're at slit in streambed.
+  down slit
+You don't fit through a two-inch slit!
+You're at slit in streambed.
+  down slit, damn it down slit
+You don't fit through a two-inch slit!
+You're at slit in streambed.
+  I wanna do the slit damn it, down slit!
+I don't know that word.
+  down slit please please let me in
+You don't fit through a two-inch slit!
+You're at slit in streambed.
+  you're so beautiful and wet, please please please let me in.
+I don't know that word.
+  knock knock knock
+What?
+  say Hi and Knock Knock Knock
+Okay, "hi".
+  say I am slit and do so want you to do me!
+Okay, "i".
+  say "I am slit and do so want you to do me!"
+Okay, ""i".
+  You're not listening!
+I don't know that word.
+  say You-make-this-so-hard!!
+Give me a break!!
+I don't know that word.
+  say You-make-this-so-hard
+Give me a break!!
+  say hello
+Okay, "hello".
+  say let me in
+Okay, "let".
+  say let^me^in^!
+Okay, "let^me^in^!".
+  say You^make^this^so^hard^I^am^slit^and^so^want^you^to^do^me^!^!^!
+Give me a break!!
+I don't know that word.
+  say do^me^!
+Okay, "do^me^!".
+  oh please please you're so soft and beautiful and everything to me ,,
+  oh please please let me in, i'll be yours forever, i'll take care
+  of you and please you all the time and you will be my perfect lover ,,
+  just please please please let me in let me in, pout pout, let me in 
+I don't know that word.
+  oh oh oh oh oh ,,
+  oh quit quit 
+Do you really want to quit now?
+  yes
+You scored 32 out of a possible 350 using 37 turns.
+You are obviously a rank amateur.  Better luck next time.
+To achieve the next higher rating, you need 4 more points.
+  Darn!
+
+
+------------------------------------------------------------------------
+
+
+HH
+
+Help help, I'm being murdered, for God's sake help me!
+!em pleh ekas s'doG rof ,deredrum gnieb m'I ,pleh pleH
+Jesus fuck Christ get off me, get away from me!
+!em morf yawa teg ,em ffo teg tsirhC kcuf suseJ
+Come back you bastards, oh God, I'm so sorry ...
+... yrros os m'I ,doG ho ,sdratsab uoy kcab emoC
+I didn't take your money for God's sakes, you've got the wrong person!
+!nosrep gnorw eht tog ev'uoy ,sekas s'doG rof yenom ruoy ekat t'ndid I
+It wasn't me, please please don't shoot, oh please, don't, don't, please!
+!esaelp ,t'nod ,t'nod ,esaelp ho ,toohs t'nod esaelp esaelp ,em t'nsaw tI
+Fuck, please don't rape me, I'm not a bad person, please leave me alone ...
+... enola em evael esaelp ,nosrep dab a ton m'I ,em epar t'nod esaelp ,kcuF
+Oh God oh God I've been shot, help me, help me!
+!em pleh ,em pleh ,tohs neeb ev'I doG ho doG hO
+Please, I beg you, if you have any compassion, please, pleaes, please.
+.esaelp ,seaelp ,esaelp ,noissapmoc yna evah uoy fi ,uoy geb I ,esaelP
+God, please leave me alone, please, I don't deserve this, leave me alone.
+.enola em evael ,siht evresed t'nod I ,esaelp ,enola em evael esaelp ,doG
+Oh God, no ...
+... on ,doG hO
+Please, I don't want to die, I haven't done anything to you.
+.uoy ot gnihtyna enod t'nevah I ,eid ot tnaw t'nod I ,esaelP
+Look at me, no, look at me, please, you don't really want to do this.
+.siht od ot tnaw yllaer t'nod uoy ,esaelp ,em ta kool ,on ,em ta kooL
+Please don't kill me, I have children, please, oh God please ...
+... esaelp doG ho ,esaelp ,nerdlihc evah I ,em llik t'nod esaelP
+
+
+___________________________________________________________________________
+
+
+
+What time does to me and the girl
+
+Winnowing Basket Hermit ladle bucket hoe, subject: late answer to A. J.
+Sondheim, folded where the legs join, looking and folded where the legs
+join, looking straight ahead to the body creased earth Blue Stars be some-
+thing [ plough soul connected Burning_Creek hoe pick down there on the
+wood while she ties my cock to cocaine-you-know-me down towards a convo-
+luted slits. descending in the presence of the slits. angling upward above
+the slits. descending in the presence of the slits. angling upward blue
+stars srand( time() ^ ($$ + ($$ << 15)) ); straight ahead to the body
+creased text is in the "iso-8859-1" character set. Your display is set for
+the girl onto the floor where we fuck srand( time() ^ ($$ + ($$ << 15)) );
+topography of triangular slits. straight ahead down towards a convoluted
+topography of triangular slits. straight ahead heroin drugs me down with ]
+
+
+__________________________________________________________________________
+
+
+"So many men, so many minds."
+
+
+Hangup (0:00:10) "So many men, so many minds."
+CONNECT 38400 Panix, ,,3609201
+Hangup (1:01:13) "I've heard a lot about you."
+Hangup (0:00:07) "That's not strange. I've done a lot."
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:18:48) "Looking at people with dirty white socks!"
+Hangup (0:00:03) "That's a hangup? I thought you'd say something smart!"
+CONNECT 38400 Panix, ,,3609201
+CONNECT 38400 Panix, ,,3609201
+Hangup (1:45:47) "I understand your kisses speak the language of love."
+Hangup (0:00:02) "Yes."
+Hangup (0:00:00) "Well, let's talk things over."
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:33:40) "Your bamboo garden is beautiful!"
+Hangup (0:00:02) "I love your weaving tiny shoots in my lovely hair."
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:04:35) "Fallen petals, tulips, I dream of yours!"
+Hangup (0:00:05) "Fine feathers make fine birds."
+CONNECT 38400 Panix, 12123019001
+Hangup (0:14:36) "Don't hang up on me, I'm hung up on you!"
+Hangup (0:00:04) "Have you decided what to do in a big earthquake?"
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:19:50) "Why hello! I wonder how you remembered me!"
+Hangup (0:00:03) "I wouldn't forget a face like yours!"
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:00:07) "When I'm with you, I feel wrapped in music! Thanks!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:00:00) "I would bring your roses roses!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:19:11) "Her name was Virginia. They called her 'Virgin'
+Hangup (0:00:02)  for short ... but not for long."
+Hangup (0:00:00) "Why did they do that?"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:34:01) "Let's study really hard during summer vacation to be
+Hangup (0:00:02)  ahead of your friends."
+Hangup (0:00:00) "Oh please! I have no feelings for you!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:21:46) "Do you think kissing is unhealthy?"
+Hangup (0:00:02) "I couldn't say - I never - "
+CONNECT 38400 Panix, 12123019001
+Hangup (0:03:00) "You've never been kissed?"
+CONNECT 38400 Panix, 12123019001
+Hangup (1:06:10) "I've never been sick."
+Hangup (0:00:02) "A wonder lasts but night days."
+CONNECT 38400 Panix, 12123019001
+Hangup (1:08:59) "Don't forget to tell everybody it's a secret!"
+Hangup (0:00:04) "What is?"
+CONNECT 38400 Panix, 12123019001
+Hangup (1:24:35) "Buzzz...!!!"
+Hangup (0:00:02) "That noisy bee again! I'm mad this time for real!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:16:02) "Do you believe she went out with him?"
+Hangup (0:00:00) "I don't believe in any religion!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:12:57) "No, I really have heard a lot about you!"
+Hangup (0:00:04) "I don't wear dirty socks, what a hangup!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:16:48) "Don't you think bamboo looks odd in your hair?"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:35:16) "I like stalks, not talks!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:09:42) "Her name was really Virginia?"
+Hangup (0:00:04) "The frogs are having a party after the rain!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:57:43) "Let me in! I want to go!"
+Hangup (0:00:02) "What a get-up, wrapped up in roses and music!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:00:00) "If I can't attend my favorite teacher's class!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:08:44) "I'm going to quit English!"
+Hangup (0:00:08) "Work step by step toward your goal."
+CONNECT 38400 Panix, 12123019001
+Hangup (0:32:33) "The girl's got to have him!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:01:12) "I'm sick because I haven't kissed him yet."
+Hangup (0:00:04) "You need another doctor to nurse you back to health!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:00:00) "Can't be helped! It's a new year and teachers revolve!"
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:00:00) "I believe in him. I sent him roses. I know he wants me!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:35:13) "Virginia, you're taking a chance on failure!"
+Hangup (0:00:02) "I want him no matter what! I'll die without him!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:01:21) "Virginia! Virginia!"
+
+
+____________________________________________________________
+
+
+N
+
+
+N your limbs around me holes caught in trees and flowers a thorns of love
+screaming against your holes on the way to w don't you lisp you dare call
+me havoc striNper perfect love is always interruption striNper and they
+have black bellies of black bombs mouthed and swollen lisp i lisp i can't
+sleep without you, live without you any striNper i lisp i want your lungs
+i lisp i want your flesh, the bombs mail don't give me your dreams as
+well, oak floors are hard log if you lisp you leave me i lisp i will kill
+you, if i lisp i kill you, you lisp you striNper they are coming again,
+winged creatures have nsmail down on my knees beg you lisp you crawl thru
+me striNper does his tongue rot ours? temp we choose to draw blood with
+blood. striNper we choose to draw bombs with our blood, striNper we draw
+smashed people everywhere lying and we die for our love, our flesh and
+blood feeds clash together, clawed hard, torn apart and you lisp you bet-
+ter hold me forever, you lisp you better be good
+
+
+_________________________________________________________________________
+
+
+Magatama
+
+
+"The water forms parts like saliva (lala), marrow and blood. Energy gives
+rise to hunger (kshudha), sleep (nidra), thirst (trishna), lassitude (al-
+asya) and lustre (kantu). The wind produces anger (raga), spite (dvesha),
+modesty (lajja), fear (bhaya) and ignorance (moha). The sky gives rise to
+holes (chhidra), gravity (gambhirya), hearing (shravana) and mind (sat-
+tva)." "The senses of intelligence (buddhindriya) are the ears, the skin,
+the eyes, the tongue, and the nose." "There is a complete correspondence
+between the human body and the universe." (from Great Epics of India: Pur-
+ana 17, The Garuda Purana, Dipavali and Bibek Debroy.) Gravity emanates
+from the holes, there are ghosts between the human body and the universe;
+the human body and the universe are the ends of transitive beings, virtual
+idols, among whom are Webbie Tookay and Kyoko Date, the first in their
+worlds. Among the first worlds are winds and skies; among the second are
+waters, whose shape is that of the container out of the corner of the eye,
+the corner of the eye of intelligence, the residence of threes and fours,
+Nikuko, Julu, and Jennifer, and Nikuko, Alan, Julu, and Jennifer. Do fol-
+low the path of Nikuko-Julu, I have drunk hir urine; do follow the sky of
+Nikuko-Alan, I have swallowed hir feces. Through Bion I have cut and re-
+cut the recit of the body: 
+"Nov, (date)   My God, my God! 
+"Nov, (date)   !!!
+"Nov, (date) 
+"Nov, (date)   been with her brother!! At last 
+"Nov, (date)   must (illegible) 
+"In so far as the patient's name was correct, the entry could be called
+"evocative." (from W. R. Bion, A Memoir of the Future.)
+"Muktas (pearls) can be obtained from eight different places - from eleph-
+ants, clouds, boars, conch-shells, fishes, snakes, oysters, and bamboos.
+But oysters are the most common source., Pearls got from bamboos, eleph-
+ants, fishes, conch-shells and boars are not at all bright. Balasura's
+teeth feel into the ocean. There the teeth entered the bodies of oysters
+and became the seeds for pearls. A pearl which weighs half a tola (a
+weight) is worth 1305 coins. There are several other grades for pearls,
+the worths being 800, 783, 325, 200, 110, 100, 97, 40, 30, 14, 11, and 9
+coins respectively." (Debroy & Debroy, ibid.) "The disjoined signifiers of
+the present are fixed in the punctual periodizations of market, monopoly,
+and multinational capital; the interstitial, erratic movements that signi-
+fy culture's transnational temporalities are knit back into the teleolog-
+ical spaces of global capital. And through the framing of the present
+within the 'three phases' of capital, the innovative energy of the 'third'
+space is somehow lost." (from The Location of Culture, Homi K. Bhabha.)
+Jennifer claps her hands in glee; Nikuko buries herself in ghee; Alan
+drink Nikuko's pee; Julu devours the trinity; Jennifer stands up to see;
+Nikuko covers herself in brie; Alan wets himself to be; Julu offers her-
+self to me. "Several other jewels were created from other parts of Bala-
+sura's anatomy." (Debroy & Debroy, ibid.)
+
+
+__________________________________________________________________________
+
+
+AZURE: PROGRAM TEXT:
+
+echo "This is the distance of your new Clar " > bb
+echo " " >> bb
+echo "This is the closeness of your other " > bb
+echo " " >> bb
+dialog --msgbox "please help me in your new Clar" 0 0
+dialog --yesno "addicted to the vacancy of your Clar" 0 0
+if [ $0 == 1 ]; then 
+dialog --inputbox "enter the name of your other" 0 0 2>>bb
+else  
+dialog --inputbox "enter your name in the truth of God" 0 0 2>>bb
+fi
+dialog --msgbox "your choices within you difference or not  otherwise as
+if it were always otherwise to help yourself  within your new Clar " 0 0
+dialog --yesno "you are your very new Clar" 0 0
+if [ $0 == 1 ]; then 
+dialog --inputbox "your new Clar fucks you?" 0 0 2>>bb
+else  
+dialog --inputbox "your old Clar abandons you?" 0 0 2>>bb
+fi
+dialog --inputbox "do write your very new Clar now" 0 0 2>> bb
+dialog --yesno "are you wearing your new Clar" 0 0 
+if [ $0 == 1 ]; then 
+dialog --inputbox "the parts of your new Clar?" 0 0 2>>bb
+else  
+dialog --inputbox "parts of your old Clar begging for you?" 0 0 2>>bb
+fi
+dialog --inputbox "your new Clar writing yourself here please" 0 0 2>> bb
+dialog --msgbox "breaking with yourself now and holding breath" 0 0
+dialog --inputbox "returning for your breathing please" 0 0 2>> bb
+dialog --inputbox "returning for your minding breathing please" 0 0 2>> bb
+dialog --msgbox "you will be moving somewhere else another space to write
+in later what will be the combining an arrangement of stones thick swollen
+marbles and limestones granites on the ground there is perhaps the desert
+your arms working the stones working them other spaces of alterity you
+thought there was only one a marvel or a travel "  0 0
+dialog --inputbox "a marvel or a travel   your arms writing" 0 0 2>> bb
+dialog --yesno "heere bee wonders" 0 0
+if [ $0 == 1 ]; then 
+dialog --inputbox "list the wonders for our open-wide eyes" 0 0 2>>bb
+else  
+dialog --inputbox "list the debris for our closed shameful eyes" 0 0 2>>bb
+fi
+dialog --inputbox "deflecting or a derail or a return" 0 0 2>> bb
+dialog --inputbox "or a moment or a movement of your arms" 0 0 2>> bb
+dialog --msgbox "coming to the other" 0 0
+dialog --textbox bb 0 0
+dialog --msgbox "returning from the other" 0 0
+sed 's/ i / yon /g' bb > cc
+sed 's/ you / i /g' cc > bb
+sed 's/ yon / you /g' bb > cc
+sed 's/ am / aq /g' cc > bb
+sed 's/ are / am /g' bb > cc
+sed 's/ aq / are /g' cc > bb
+sed 's/ my / mn /g' bb > cc
+sed 's/ your / my /g' cc > bb
+sed 's/ mn / your /g' bb > cc
+sed 's/ mine / minq /g' cc > bb
+sed 's/ yours / mine /g' bb > cc
+sed 's/ minq / yours /g' cc > bb
+dialog --textbox bb 0 0
+dialog --inputbox "adding to the other" 0 0 2>> bb
+echo " " >> bb
+dialog --inputbox "adding from the other" 0 0 2>> bb
+dialog --msgbox "end" 0 0
+unalias rm
+echo " " >> bb
+cat bb >> zz; rm bb cc; alias rm='rm -i'
+date >> zz
+
+__________________________________________________________________________
+
+
+LOZENGE MELANGE
+
+
+I do not sleep and these words come repeatedly to me, automatic drumming-
+machinery fire: Lozenge Melange: Language Languor's Length Along the LAN:
+the SWOLLEN (PUSHOUT by that WORD'S PRESENCE) CORPUS of textual activity
+crossing THIS-SPACE: Lozenge: TRAPEZOIDAL FAULTED DIAMOND of confused rhe-
+toric, Melange of SWOLLEN possibilities, SPLITS across the TESTICULAR
+THINNED MEMBRANE CONSTITUTING MY WORK IN THESE ONLINE REALMS: certainly
+you understand me not sleeping, the Acute Edges of Language Languor, that
+is the Melange cutting through the Thinned Membrane (the tears /tairs/ or
+tears /teers/ start somewhere), the slightest Imperfection: A Mind of
+Bruised and Naked Bodies Offering MYSELVES to god or goddess, this skin
+borne/bearing the weight: Melange: potpourri in the Stew, Rapid-Fire drum-
+ming-machinery "the skins of the drums have skins": TrapeZOIDal FAULTED
+DIAMOND the Bruised Hearing (the machinery-fire breaking through the TYMP-
+ANA of the EAR): I should wait (Azure, Nikuko, MARKED and TORE ME: MY DES-
+TINY: TO BE MARKED
+
+__________________________________________________________________________
+
+
+Vaulture
+
+
+Twisted clawed at its own skin as it said twisted clawed at its own skin -
+lungs expand claws in puncturing in blood on mind, blood on mouth returned
+dessicated flesh - slough or withered (the future here this section time)
+drooped and dragged:
+
+"Seuered and distorted ohat oasn't more future, shuddering this limb
+drooped."
+
+There is something you want to tell me, there is One that needs address-
+ing, One that comes home to me, One that haunts me every night - Think of
+the thinness of the sickle moon, the narrowed wings of birds borne black
+above the sky, my heart among them, my eyes following them down to me -
+You can't wait for them, their beating in your ears, your heart pounding
+hard against the world's rim - Whole countries cross your mouth - You are
+suspended among them where I am, looking towards that singular point where
+dimensions collapse - There you would lose yourself returning O Kannon to
+me in the middle earth, young and thrust upon yourself - You look for the
+signs of avatars, you're shuddering, wings split into multiples, ragged-
+raging earth, holocausts to come, apocalypse to follow - taking from the
+Other need addressing:
+
+"Eour oords folloo mine, I think of the circulations of the oorld or oord,
+think of eou constantle, the dark eees, eour claos, eour piercing cre
+against the euening storms, Kannon multitudes of kniues, goblets, soords,
+beads, shimmers, stutters, scattered, multitudes of oorlds, dharmas,
+tripartite uedas, O Terrible adding to the One which needs addressing."
+
+"Ok one ok two ok breath three ok breathe four ok derail five and six ok
+take eight ok trauel fiue ok trauel seuen ok add eight."
+
+
+
+jewel________________________________________________________________jewel
+                              2 which cleansed
+Azure says, "feet pad softle against a hard floor banging on a door that's
+sealed foreuer tongue exploring a pliant earlobe eleven naked body against
+a rainy evening hot mouth against a cold windowpane chest slowly rising
+and falling with each breath banging on the door again pulsing bodies"
+                              2 which tainted 
+Alan says, "the split-screen, or being boied-in, the slit for oriting,
+slit-split for slotting the screen, anething preserue the form, from which
+an issuance across the boxes glistening on the rim, moon-refracted, this
+is your world, she laughed, no no no and not to make a difference, she
+said, some others or cancel others, she continued, would be waiting in the
+wings (by the side of the stage, by the awnings or walkways, by the eleva-
+tor rising, by the lunar moon), she continued on about the moon, she spoke
+on about the naked bodies, he listened to the split-screen return, back-
+hacking to the screen, return of the screen, bodies seeping from a slot,
+oozing from the slit, you have a distinct scent, she said, around your
+holes from one to the other, yes or no"
+jewel________________________________________________________________jewel
+
+
+Bored 
+
+
+This is the closeness of eour other 
+
+farre Distant from such Homes beeond Wheche onle Chrest Oure Lorde decedes
+Thus it bee, Amenne
+
+This is the distance of my new Clar 
+
+In the truth of God, I Clar, who have not abandoned such Menne as want me,
+this Eclipse of such Spirit, who Do replace me, the Madde Clar, who have,
+in the Witnesse of this Warre, do go a-begging for New-Clar, to whomme
+such Survival as would bee Meet, to Meat upon the Soule, or havyng beene
+Wrytten, as such, in these foule Tymes, do suche Give your Breathe to
+suche men as Desyre such in the Midst of Dredful Carnyge for Whomme they
+will have Sacrifyced Alle as They have Mette upon Us to turn Inwards of
+the Soules' Warde in Finalyte To whyche it bee, AmenneWed Sep 8 00:47:57
+EDT 1999
+
+This is the closeness of eour other 
+ 
+I bored him oith me. He is borne in me arms. I bear him bodie and kend-
+nesse before he does die, such Woundes as I haue neuer seene before. Thee
+saee cat got er tongue, it is not there, norre eees, smel me. Thys ys the
+kyndnesse of youre othyr.
+
+This is the distance of my new Clar
+ 
+this aweful war. this war. this abandonment. bones broken, smashed faces.
+not night. day. The man sits at the table. The woman looks out the window.
+The woman sits at the table. The man looks out the window. Blood on wooden
+sill. Burnt fields, fires. Birds vaulted charred and dead in the sky. The
+limb. To be borne I wille bear. I will take childe from with you. I wille
+fuck you. What I can do. Smashe me. Join me to yr severd lim. I do cut
+your haire. I do cut your second fingere on your left hande for Jesys
+Chryste oure Savioure. You do take the reste, Godde bee. Field of oathes.
+Blast trees. There is no Moone in no Skye. I did hear your last Sentence
+to which I am Sentenced, that of Eternal Greefe. Hundred-thousand Dead or
+Die. Refuse-refugee. Breath of lost Soule; I do pante quick when I am inne
+me. I do move for you. Do what has Gonne this 20 centuries of Our Lordde.
+My minde thinks onlie Your Name O Lorde this Swollen earth, flooded. Noth-
+ynge shall growe heere in Eternal night. Fucke me wythe youre Name, O
+Manne. Closed and shameful eyes: Nacioun upon Nation shalle falter and to
+whatte degree? To what whyche has beene torn. The spyke, gun-rust, your
+titte dangling above this face, no mouthe to speake withe. Thys ys the dy-
+staunce of youre othyr.Wed Sep 8 01:01:39 EDT 1999
+
+
+++++++++++++ ++++++++++++++ ++++++++++++++++++++ +++++++++++++++++ ++++++
+
+
+Discovered take from the loveandwar project, 
+Vale of Goral backbone:
+
+All ways are extreme, in the sorrowful night
+tending towards Gideon, towards battle-worn brethren,
+veterans run rampant, Moors moving manfully
+towards towers terrifying across captured lands.
+One onerous battles bent baneful and boastful;
+knights kneel and fight, their swithen and swords
+caught culling their dreams, drawn down their drowning,
+and all Alans ask mercy, all Scots scatter screaming.
+Jennifer, Julu judge not stern and just sentence;
+the blades' bright becoming earns runnings of red blood,
+blooms of men's mewling, cries from bleak dungeon;
+now Jennifer, weary, strikes sword against strong stone,
+now Julu unjustly fares fearfully frightened,
+flies from fierce Alans their foes and their kinsmen,
+forever flee heros from lost lands and labor.
+O Julu! O Jennifer! have patience and prescience,
+return to resounding cheer in the mead-hall,
+lone sparrow is flying one end to the other:
+thus the life of a man, from darkness to darkness,
+thus a moment of warmth in the Hill-Vales of Goral.
+
+
+______________________________________________________________
+
+
+THE TRUTH OF CLAR
+ 
+ 
+II. Thu Sep 9 01:23:04 EDT 1999 Only God creates the transcendence for
+truth. This always already pushes the stack back; what requires absolution
+procures it in relation to the Mother. Thu Sep 9 01:23:55 EDT 1999
+Transcendence is a condition of abandonment, indeed, of the abandoned - so
+says Clar. Thu Sep 9 01:24:32 EDT 1999 Clar adds, abandonment among a
+population of refugees is equivalent as true Abandonment to God. To leave
+the Trappings of Our Life according to Buddha, to cross borders,
+inconceivable transgressions: such are the Reincarnated themselves. Thu
+Sep 9 01:25:48 EDT 1999 Clar says, within the new Carapace, there is the
+Ward of Our Soules; the converted leave their Implements behind. Beyond is
+the Way of God, which is the Way of Vast Abandonment. Thu Sep 9 01:26:36
+EDT 1999 Even to breath, Clar says, requires no presence of the Lord, who
+is a distraction. Thu Sep 9 01:26:58 EDT 1999 Mind focuses beyond Godhead,
+who is already with parts, breaking the Fast of Transcendence. Abandonment
+must be total, eyes crossed, legs and arms spread, wheel and gyre. Clar
+says, the way to the truth which is perfect Refuge and perfect Refugee.
+When the borders are drawn, erased in earth, sand, water, sky, wind,
+storm. Thu Sep 9 01:28:10 EDT 1999 No debris, nothing but what is trodden
+underfoot. Thu Sep 9 01:29:10 EDT 1999 There are no fallen; who falls, is
+abandoned, Clar says, and such abandonment is the finality of the search
+for truth. The Way is the Wayside. The Way is the Wayside, Clar says,
+against the advice of Buddha, God, her own dear conscience. Clar says the
+Wayside deflects or derails the truth, which is what in all facticity, it
+is. Thu Sep 9 01:30:20 EDT 1999 Clar says, I have nothing more to tell
+you, what you have already known. Thu Sep 9 01:33:31 EDT 1999 Thu Sep 9
+01:33:31 EDT 1999
+
+I. Thu Sep 9 01:23:04 EDT 1999 Writing, Clar says, is the debris left
+behind, the Subject of Abandonment, the pole or locus. Such, Clar
+reflects, those who are Called, are Culled. Thu Sep 9 01:30:39 EDT 1999
+The culling or the called, refuge and refugee, abandoned and abandonment
+and abandoning, the way and the wayside, says Clar, to murmur these is to
+murmur the truth from the corner of the eye, the thought just beyond
+recognition, the voice barely understood, and come in the midst of the
+night. Thu Sep 9 01:32:58 EDT 1999
+
+
+_________________________________________________________________________
+
+
+collaboration
+
+
+collaboration between two dying writers
+collaboration on the lam from the law
+collaboration marching from kosovo
+collaboration wounded in east timor
+collaboration beneath earthquake
+in free fire zone, collaboration
+in mountain fire zone, collaboration
+collaboration among prisoners
+collaboration between rival gangs
+in the mine-fields of pennsylvania, collaboration
+the last breath, you against the light, collaborating
+collaborating with friends
+collaborating with the enemy
+oh hiroshima mon amour
+to collaborate among the ruins of the atomic bomb
+insistent on the lyric after auschwitz, collaboration
+among my jews, collaboration
+among my neo-nazis, collaboration
+collaboration in the last words ever spoken
+collaboration among the last tears, the last sigh
+collaboration at a loss for words
+war-time and collaboration
+and of great beauty and moons wheeling, collaboration
+there are so many things i want to tell you
+there are so many things i must say to you before I die this morning, this
+evening, this night
+there are so many things, there is so little time to say them
+you will see my last tears, you will hear beyond my hearing
+you will walk and leave this room of the dying
+you will carry with you 
+
+
+___________________________________________________________________________
+
+
+This is the CloseNess of My OtHer
+
+ 
+Clar herd me! When I did speak Clar, Clar did herd me! Old Clar, I did
+hearsay: Did Clar herd me? What did, of the Heering? I do be the New Clar,
+I did herd. Not from Clar, from Voi. Voi did turn mee Clar. I are Very New
+Clar. Very Very New Clar, now. Parts of Old Clar? You should ask. Of
+course begging for me. Beginning the Beg. I have from Voi the License. It
+is a Catastrophic Bureaucratic Management Problem. Voi says. New Clar
+ignores such. I are New Clar. Voi has gone, to be sure trampled. "Voi's
+gone." New Clar breathes New Clar. New Clar minds New Clar; Old Clar
+trampled Underfoot, Heh!, Voi. New Clar is now in An Other, let us say, We
+am Beginning to Forget. Forget what? Heh! Old Clar! Heh! Voi is Debris,
+Old Clar Debris, Heh! Our Shameful Eyes Gaze On Them from Our Shameful
+Head. Heh! Not on a Life I may Bet! New Clar, does not that Face say it?
+All? Eh? The Motion of New Clar! Heh! Arms of New Clar! Old Clar trampled
+under the Foot of New Clar. I are New Clar! Heh! Did Herd Me, this Old
+Clar! Now the Derail! Track Management Catastrophic Bureaucratic New Down!
+Heh!  New Clar herd! Heh! Yes yes!  Fri Sep 10 02:24:08 EDT 1999
+
+___________________________________________________________________________
+
+
+Fashion is a Fastening: Sat Sep 11 01:44:35 EDT 1999
+
+
+I have a technical question, Clar says. The older technology, no longer
+working , leads me to wonder about the newer, what might be the case with
+Mp3 as an example of my speech to you , not wanting to download this
+speech, wanting its presence on the Webpage, so that my voice comes forth
+from the screen , where nothing is, nothing was, nothing will be, these
+blank spaces , these moments, but no matter, given the streaming nature of
+the Thing, it seems an impossibility, nothing appears but loss , so that
+the words aren't heard, the playback applications don't open, new and old
+Clar are silent as always this is the wonder, these shorn dipoles, these
+misalignments of the iron*, derailing subtlely beneath the surface, first
+and last gasp of Clar**, wanting you to hear my voice*** Sat Sep 11 01:49-
+:33 EDT 1999****
+
+*, useless bits and bytes dissolved or returned to magnetic chaos, 
+**first and last moment when the eyes briefly are held in your
+imagination, this gift from me , wanting to speak to you 
+***Sat Sep 11 01:49:22 EDT 1999
+****Perhaps the words came from the "other" who speaks through new and old
+Clar? Clar doesn't know, works with the tech, its skin: There are so many
+Organisms of Pleasure! Clar wants to organize the Iron (magnetic domains)
+in some Fashion or Fastening of Speech, since Fashion is a Fastening. 
+
+"Then listening to Clar, you'll too, be listening two Clar, old and new."
+
+
+__________________________________________________________________________
+
+
+
+THEN
+ 
+Sat Sep 11 02:25:30 EDT 1999 we fuck so hard our cocks come out our
+cunts,<Julu> we choose to draw blood with blood.Sat Sep 11 02:25:37 EDT
+1999 to draw planes with our blood.Sat Sep 11 02:25:38 EDT 1999
+ 
+NOW
+ 
+Sat Sep 11 02:25:30 EDT 1999 <Julu> we choose to draw blood with blood.Sat
+Sep 11 02:25:36 EDT 1999 choose to draw planes with our blood.Sat Sep 11
+02:25:36 EDT 1999 <Julu> we choose to draw bombs with our blood,draw
+broken homes and windows too.Sat Sep 11 02:25:36 EDT 1999 <Alan> we draw
+smashed streets and cities too.Sat Sep 11 02:25:36 EDT 1999 we draw
+smashed people everywhere lying andSat Sep 11 02:25:36 EDT 1999 screaming
+on the ground.Sat Sep 11 02:25:36 EDT 1999 cunts out our mouths, our
+mouths outSat Sep 11 02:25:36 EDT 1999 our cocksSat Sep 11 02:25:36 EDT
+1999 <Julu> we choose to draw bombs with our blood,Sat Sep 11 02:25:38 EDT
+1999 Sat Sep 11 02:25:38 EDT 1999
+
+
+__________________________________________________________________________
+
+
+Come to me; I am tied up hard in your
+ 
+box  "returning for my minding breathing please"  0 0 2>>  "you will be
+moving somewhere else another space to write in.  Later: what will be the
+combining?  An arrangement of stones thick and swollen - quartzes and
+granites on the ground (perhaps the desert).  Your arms working the stones
+working them - that's what you're thinking about, you're looking at me;
+there are other spaces of alterity.  But there was only one, a marvel or a
+travel."  0 0 2>>  "She squeezed her breast hard, her nipples swollen nubs
+rending her soul; pain was her world, arched-back-body thought a marvel or
+a travel.  My arms wrote from distended cock, wired hard against bruised
+skin.  The room smelled of holes and human debris (a marvel or a travel),
+and my arms writing smelled of holes and human debris: broken arms, legs,
+used-up whores, dead soldiers with cocks stuffed in mouths - gay laughter
+of little children HA HA HA, or a moment or a movement of your arms."
+                     
+Sat Sep 11 22:12:50 EDT 1999
+
+
+------------------------------==============-----------------------------
+
+
+Julu And I
+
+
+MMyy aarrmm ffoolllloowweedd mmyy aarrmm aass II lliifftteedd tthhee
+kkeettttllee ffrroomm tthhee ssttoovvee,, ffoolllloowwiinngg tthhee
+kkeettttllee oonn tthhee ssttoovvee;;  mmyy hheeaadd mmoovveedd bbaacckk
+ffrroomm mmyy hheeaadd mmoovveedd bbaacckk ffrroomm mmyy hheeaadd aass II
+ppllaacceedd tthhee kkeettttllee ffoolllloowwiinngg tthhee kkeettttllee
+wwiitthh mmyy hhaannddss oonn tthhee hhaannddss oonn tthhee ccuurrvveedd
+hhaannddllee aattttaacchheedd ttoo tthhee ccuurrvveedd hhaannddllee oonn
+tthhee bbaacckk ooff tthhee bbaacckk;;  ffllaammeess sshhoott uupp
+tthhrroouugghh ffllaammeess sshhoott uupp aatt tthhee kkeettttllee ooff
+tthhee kkeettttllee,, hheeaattiinngg iitt aanndd hheeaattiinngg iitt;;  
+II wwiitthhddrreeww mmaayy hhaanndd aanndd mmyy hhaanndd aanndd mmyy
+hhaanndd aanndd mmyy hhaanndd ffrroomm tthhee hhaannddllee aanndd tthhee
+hhaannddllee,, ttuurrnniinngg aawwaayy,, mmyy aarrmm ffoolllloowwiinngg
+mmyy aarrmm ttuurrnniinngg aawwaayy ffrroomm tthhee ffllaammee
+tthhrroouugghh tthhee ffllaammee;;  aafftteerrwwaarrddss aafftteerr--
+wwaarrddss II wwoouulldd ppoouurr wwaatteerr ppoouurriinngg ffrroomm
+tthhee kkeettttllee aanndd tthhee kkeettttllee wwiitthh mmyy aarrmm
+ffoolllloowwiinngg mmyy aarrmm,, tthhee wwaatteerr ppoouurriinngg iinn
+wwaatteerr ppoouurriinngg iinn wwaatteerr ddoowwnn iinnttoo tthhee ccuupp
+nneexxtt ttoo tthhee ccuupp iinn tthhee ccuupp;;  tthhee ccooffffeeee
+aanndd ccooffffeeee sstteeaammiinngg,, ffoolllloowwiinngg tthhee
+sstteeaammiinngg ffoolllloowwiinngg tthhee sstteeaammiinngg,, wwhhiillee
+dduurriinngg wwhhiicchh AAhhhh AAhhhh II eecchhooeedd,, rreeppeeaattiinngg
+mmyy mmoouutthh ffoolllloowwiinngg aanndd rreeppeeaattiinngg mmyy
+mmoouutthh,, aa ddeelliicciioouuss bbrreeww..
+
+
+__________________________________________________________________________
+  
+
+
+Aid
+
+
+Dangerous Space
+
+These words are written in a dangerous space, unhappy, hinged, ready to
+collapse; these words need protection; they've got to leave here, go
+elsewhere, come into your space.
+
+Safe Space
+
+Now these words are emerging in your space; they're different words; they
+tell the story or narrative of the space; of the Dangerous Space and the
+Safe Space; they're safe now.
+
+Dangerous Space
+
+These words disseminate; perhaps your space isn't safe enough; perhaps
+other spaces are necessary as well; perhaps only a bloom will do.
+
+Safe Space
+
+Now these words are in your care; now these words are consigned to you;
+they're in a safe space; they bring the other words into the safe space,
+the words of the Dangerous Space as well as the words of the Safe space;
+they're yours now, under your protection.
+
+Dangerous Space
+
+For a talisman, for a memento, for a serious souvenir.
+
+Safe Space
+
+For a trinket-hiding-out; these words are safe, they're in your safe space;
+they're safe. All of them, the Dangerous Space and the Safe Space, all of
+them are safe.
+
+____________________________________________________________________________
+
+
+Couplings and Linkages
+
+
+Let:
+
+L,M,N = linkages
+C,D,E = couplings
+a,b,c = elements
+
+Then:
+
+f(L(abcd),a') -> L(a'b'c'd')
+f(C(abcd),a') -> C(a'bcd)
+
+Think of linkages as joined elements, chain links for example, the Great
+Chain of Being for another, cars in traffic for a third. Think of
+couplings as adjacent or concatenated unrelated objects, glasses on a
+shelf for example, people on a loosely-populated sidewalk for a second,
+catastrophes for a third.
+
+L(M,N) -> L'
+C(D,E) -> C'
+C(L,D) -> C'
+C(D,L) -> C'
+L(C,M) -> C'
+L(M,C) -> C'
+L(C,D) -> C'
+C(L,M) -> C'
+
+or: 
+
+1*1*1 = 1; 0*0*0 = 0; 0*1*0 = 0; 0*0*1 = 0; 1*0*1 = 0; 1*1*0 = 0;
+1*0*0 = 0; 0*1*1 = 0
+
+A coupling of couplings is a coupling; a coupling of anything is a
+coupling.
+
+A linkage of linkages is a linkage; a linkage of anything with a coupling
+is a coupling.
+
+The 'principle of fragility of good things': The linkage is as strong
+as its weakest links, and becomes increasingly improbable as the number
+of elements is increased.
+
+Nevertheless, we might consider action at a distance, such that:
+
+f(R(stuv),s') -> R(st'uv) | R(st'u'v) | R(stu'v) | etc.: Consider this a
+form of _chain negation._
+
+Action at a distance combines linkages and couplings; there is an effect
+'down the line,' but other terms are unmodified. Action at a distance may
+also imply subsets of couplings which are linkages. A linkage within a
+coupling remains a linkage, foreclosed, within the coupling.
+
+One might put it this way; with a coupling and x to x', xy -> x'y.
+And with a linkage, x to x', xy -> x'y'. In a linkage, both terms are
+affected; in a linkage, only the catalyst term x.
+
+A coupling always already absorbs; a linkage fastens, fetishizes. The
+inverse of a linkage, however defined, is a linkage; the inverse of a
+coupling, however defined, is a coupling.
+
+The identity element as an _operation_ may be said to modify a linkage;
+the identity element as an _operation_ has no effect on a coupling. But
+these are metaphysical considerations.
+
+The world-picture moves from linkages to couplings.
+
+
+_______________________________________________________________________
+
+
+On a Sunday
+
+ 
+Sun Sep 12 19:29:40 EDT 1999
+i'm addicted to you, your holes, my tongue in you, tasting you, in your
+ass, swallowing you, inhaling your interiors Sun Sep 12 19:30:42 EDT 1999
+abandoned debris from your body entering mine, smashed protein, dna Sun
+Sep 12 19:31:05 EDT 1999 returned in acid form, liquid-liquidated across
+membraned interiors, swallowed growth as well, begging you for more, you
+withdraw, hold yourself back from me, i dream your swollen interiors,
+stillbirths, all of you in all of me Sun Sep 12 19:31:59 EDT 1999 churned
+out elsewhere, new coverings for old, glistened memories shaved against
+cleansed surfaces for the dermographia Sun Sep 12 19:32:50 EDT 1999 hot
+breath on skins and touched and welted in the form of letters, no pain
+really, emerging texts, my meals Sun Sep 12 19:33:20 EDT 1999 now swal-
+lowed, the very open of the throat absorbing you Sun Sep 12 19:33:45 EDT
+1999 shameful, covered with you, begging you for more, penetrating your
+holes, swallowing your waste, liquid and solid, odor and scent Sun Sep 12
+19:35:23 EDT 1999 turning into perfect rail or wire, turning around my-
+self, what is rapt or rapture, ecstatic with full and swallowed mouth Sun
+Sep 12 19:35:53 EDT 1999 please please open your holes to me i'm hungry
+Sun Sep 12 19:37:08 EDT 1999                  
+
+Sun Sep 12 19:29:41 EDT 1999
+i am your plate, your toilet, your toaster, your hammer, your nail, your
+implement, these things follow me on rusted wire banging on the road, i
+walk down, forty kilometers in dirt, ruined wooden building in a field
+dismal at the stormy end bearing your waste within me, carrying your in-
+teriors, your abandoned dreams, your asides, your unconscious, your for-
+gotten memories, all within Sun Sep 12 19:36:39 EDT 1999 please please
+open your holes to me i'm thirsty 
+Sun Sep 12 19:37:09 EDT 1999
+
+
+_________________________________________________________________________
+
+
+Untitled
+
+
+With the slightest increase in temperature, a packet is dropped off at a
+site of my loved one. It waits, trembling, for others, all organized into
+the coherency of beauty, "the harmony of chance and the good" (Simone
+Weil). All together, in wonderful bewilderment, they form a whole, their
+long and arduous journeys forgotten. How wonderful, my loved one exclaims,
+that he has written a letter.
+
+Under what circumstances can we speak for the other? Only in the face and
+throes of death, under an alterity permanently limiting, incomprehensible.
+Then we may speak, and speak for no one and anyone at all. There, at the
+threshold, all speech is permitted; a black ocean laps at the base of the
+cliff, its temperature at absolute zero.
+
+I will wait forever from your message, from the community of the dead; I
+will wait in your presence, a supplication of chains among chains. I am
+lost in empty knowledge. Names are a bother; they shudder against the
+pulverization of walls. 
+
+Peeling, or turning away, the routers report errors; the reports never
+reach you, an expanding shell of packets generated by others lost in the
+absence of dreaming.
+
+
+_________________________________________________________________________
+
+
+Untitled
+
+
+Grounded in the location of the dictionary, what might, how you might
+observe such: I went looking for totality, ended up in an unfamiliar
+editor, attempt the impossible, the reorganization of the roughage of
+the world. This is the manner of wandering: just before death, at the
+edge of the cliff overhanging the black ocean, utopian dreams of per-
+fect running. Today I will make a sphere falter in false light, in a
+modeling program; I will place the sphere in space, beyond the lip. 
+You will look at the lip, over the stumbling-edge; you will look over
+it, your last dominion. There, more faltering spheres. There, spheres
+and more, aglow in dying light, each, think of it as your last think-
+ing, each a glimmering world, firefly-pathos-world, such smoothed and
+perfect spheres, not a facet nor a blemish.
+
+Aglow in this new editor, I write these words in textual overlay mode,
+salvaging the file, saving file for you, just beyond the edge, hovered
+above the angry churning ocean. You can hear the waves and swells; you
+feel the spray, almost as if there are voices. Stumbling, just over 
+the edge.
+
+______________________________________________________________________ 
+
+
+ii (Linkages and Couplings)
+
+
+It seems to me that, technically, couplings may be considered a form of
+proximity-relation, with the proximity falling off with distance (which
+need not be measured exactly - which need not even imply a metric); I
+believe this is a form of relation called a halfgroupoid. Think of a set
+of elements with a relation defined among some of them. Linkages are a
+form of connectivity (think of electric); relation is defined across them,
+nothing falling off. Linkages may be subgroupoids within a halfgroupoid,
+and may therefore be substructures of a coupling structure. One can think
+of a _rattling_ or _jostling_ domain consisting of a mixture; the overall
+formation is a coupling. Since a coupling may have elements with no re-
+lation with each other, but with relations with other elements that have
+relations with each other, etc., we can see it as a very weak linkage; in
+a linkage, all elements are related such that the breaking of a link re-
+sults in a deep de-linking. A breaking can result in a decoupling as well,
+the elements torn asunder, into part-objects with full or weakened links.
+
+Negation provides a way in. One might define negation within a linkage as
+the breaking of a link (think of electric); the thing breaks into two
+linkages, falls apart, most likely into a coupling. A break anywhere with-
+in a linkage negates the linkage. With a coupling, negating an element
+says nothing about the rest; the element is removed, no longer proximal.
+If the coupling is of the form abc, removal of b may weaken the coupling
+in its entirety. The negation of a negation of a linkage may result in a
+linkage - in other words, given a coupling of two linkages, created by
+negation of a link within a single linkage, the negation of the negation
+might relink them. But within the coupling, there might also be a second
+negation, removing one of the two linkages, resulting in a single linkage,
+the coupling transformed. While negation within a coupling implies the
+coupling as clutter, a-historical, negation within linkages implies that
+linkages carry history. 
+
+Negation appears overly complex here; perhaps a negation of a coupling may
+be considered a contribution to falling-apart, and a negation within a
+linkage may be irreversible, a 'hard' negation. This in fact is the case
+within the implicate order, for example, which is linked; a cut into a
+folded fluid would, I assume, reduce the rest to chaos. But then chaos of
+this sort is not a coupling, just another form of linkage; all chaos is
+linked. 
+
+Consider an addition; then if a coupling is abc, abcd or abdc, etc. can
+also be considered a coupling. A coupling might now be defined as a frame
+or framework, nothing more; there may or may not be other relations among
+the elements. An addition to a linkage results in a linkage, although
+there can also be an addition such that the linkage is embedded within a
+coupling; place a cup and saucer next to a radio.
+
+An addition may be an addendum, a diacritical mark, a surplus, an inser-
+tion, an adjacency. A linkage carries its trace, embedding additions; a
+coupling loses its trace, blind emissions. 
+
+This isn't mathematics, but the phenomenology of the entities and debris
+of the world. Once that is understood, it's also understood that contra-
+dictions are acceptable; deal with the individual frames.
+
+One might think of coupling as literally circumscribed by an economy of
+attention, and linkage circumscribed by internal articulation. Thus within
+the world-picture there is a movement from organism to loosely-coupled
+("de-coupled") assemblages - transcendent causality transformed partly
+into happenstance, societies of objects re-presented as accumulations of
+clutter.
+
+
+__________________________________________________________________________
+
+
+For A., K., G., N., A., L., F., B., A., J., P., T., L., J., M., S.
+
+
+It is morning in the Cafe Lautreamont.
+Pierre stares me down. Pierre brings me coffee.
+Pierre knows I know he is a function who is not a function.
+I am a state to Pierre's operator.
+Pierre is the occupier of a role, as in main(Pierre).
+Pierre carries and sullies a revolution. 
+Pierre is part of a surplus economy that I recognize.
+I do not acknowledge that I recognize this surplus.
+There is a state within which I am in Pierre and a state otherwise.
+The state otherwise is to forget Pierre which is to annihilate him.
+The revolution moves from person to person, stateless.
+The revolution is a state, mobile and wandering.
+I am linked to Pierre at the cafe and coupled otherwise to Pierre.
+I say, "I am coupled to all the Pierres in the world."
+I say, "I did not ask for this. I would not have asked for this."
+I say, "I asked for a cup of coffee and nothing more."
+I say, "I have paid you for this cup of coffee."
+Pierre has not spoken and I assume he sees me as the signified.
+I am the signified of a certain exchange, surplus value.
+Coupled within exchange, I have no use; it is all circuitry.
+Pierre and I are engaged in mutual annihilation.
+Pierre gazes at me and the revolution stirs.
+Unspeaking, the revolution blindly cauterizes the remnants of language.
+I say, "Words no longer account for anything, Pierre."
+I say, "These are sounds I am making, of no value whatsoever."
+I say, "I lean on other processes, alan.o for example for sustenance."
+I say, "As if we would ever be friends," and the revolution stirs.
+Something speaks in one and another and speaks forever.
+Sometimes speaks at the portal of death and constitution.
+I say, "I will live in you, Francoise."
+I say, "You will remember me, keep my diaries intact, Francoise."
+I say, "You will find a publisher after all," Francoise.
+There is silence at the other end of the room.
+Pierre brings me coffee and Francoise smiles and says nothing.
+There is a slight stirring of the white curtains in the sun.
+A breeze is blowing outside and there are sailboats in the harbor.
+An accordion, a gypsy, a horse-and-cart, a trolley, a very happy day.
+
+
+_______________________________________________________________________ 
+
+
+
+HURRICAIN
+
+
+NOW THERE ARE GREAT RAINS AND GREAT FLOODS SAYS NEW CLAR COME UPON
+THE EARTH AND THERE ARE STRONG WINDS AND THE NAME OF THE LORD IN 
+FIRE SHALL BOIL THE WATERS AND THERE SHALL BE VAST DESERTS AND
+INUNDATIONS. NOW SAID OLD CLAR THERE SHALL BE RAINS UPON THE DESERTS
+AND THERE SHALL BE FRUITIONS AND THE PLEASURES OF MAN AND OF WOMAN.
+AND THERE SHALL BE MULTIPLICATIONS AND DIVISIONS AND LATER THERE
+SHALL BE EXPONENTS AND ALL AREAS SHALL BE AT RISK WITH THE DIVINE
+WRATH OF OLD CLAR AND NEW CLAR, THUS WE HAVE SPOKEN, HEAR YE HEAR YE.
+
+THE MIDDLE OF THE STREAMING OF OLD CLAR
+
+NOW IS THE TIME TO MAKE PLANS FOR POTENTIAL SIGNIFICANT FLOODING AND
+STRONG WINDS. CHECK EMERGENCY SUPPLIES SUCH AS FLASH LIGHTS AND
+RADIOS. LAWN FURNITURE AND OTHER LOOSE OUTDOOR ITEMS SHOULD BE PUT
+AWAY OR TIED DOWN. ANYONE LIVING NEAR AREAS THAT TYPICAL FLOOD WITH
+A HEAVY RAINFALL SHOULD CONSIDER MOVING VALUABLES TO HIGHER LEVELS
+OF YOUR HOUSE. EXAMPLES OF AREAS AT RISK WOULD INCLUDE LOW LYING OR
+POOR DRAINAGE AREAS...OR SMALL STREAMS THAT TYPICALLY FLOOD QUICKLY.
+
+DRINKING THE STREAMING OF THE NEW CLAR
+
+NOW IS THE TIME TO BATHE IN THE BAPTISM OF THE LORD. NOW IS THE TIME
+TO SPEAK IN THE STRONG WINDS, CLAR SAYS, TO PREPARE FOR THE RAPTURE
+EMERGENCY. NOW IS THE TIME TO REMOVE THE FURNITURE, TO STAND FULL IN
+THE EYES OF THE LORD, OLD CLAR SAYS, AND THERE ARE NO VALUABLES, NEW
+CLAR SAYS, IN THE EYES OF THE LORD, BUT YOUR SOUL AND ITS AREAS OF
+RICK, SAYS AND ADDS OLD CLAR: THERE ARE POOR DRAINAGE AREAS AS THE
+MOUTH LOSES ITS ABILITY TO SPEAK, COTTON-MOUTH! COTTON-MOUTH, AND THE
+TONGUE IS TIED IN THE KNOTS OF THE INFIDEL IN THE EYES AND MOUTHS AND
+TONGUES OF THE LORD OUR LORD OUR GOD! NEW CLAR SAYS NEW STREAMS FLOOD
+QUICKLY AND OLD CLAR ADDS OLD STREAMS FLOOD QUICKER WHEN DIRT THERE
+IS AWASH, COTTON-MOUTH! COTTON-MOUTH!
+
+OLD CLAR WET NEW CLAR NEW CLAR WET OL
+
+
+
+
+HURRICANE
+
+
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+We had to drill a hole in the ceiling to let the hurricane water drain
+from the roof, blood!
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+Then on the floor below there was just cleanup, semen!
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+But then on the first floor it took an ax and hammer to knock the ceiling
+down, let the hurricane water drain into buckets and tubs, bile!
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+And then in the workshop it took a hammer and crowbar to knock part of the
+wall and ceiling to see the beam and let the hurricane water drain onto
+the floor, lymph!
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+In the basement we just let the hurricane water drain, urine!
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+But on the roof the parapets let the hurricane water drain into the loft
+and second floor, first floor and workshop and basement, tears!
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+And on the wall the shop-sign had no backing and let the hurricane water
+drain into the first floor and basement, menses!
+SINGING DREAMING MILKY DRAINING FLUIDS, CLAR & CLAR DO SAY
+Then on the workshop wall the cracks let the hurricane water drain into
+the workshop and basement, salty water everywhere!
+SALTY WATER EVERYWHERE, CLAR & CLAR DO SAY!
+
+
+________________________________________________________________________
+
+
+This the speaking of the endless word
+
+Fri Sep 17 03:09:49 EDT 8999
+Nikuko's bones were the motions of mesh figures drawn out; they came
+first, regarding her. Clar thinks of them as jeweled tips, the nubs
+offering themselves as so many, many seductions. Each and every joint,
+bulbous, discomforting, but here spiked without the marrow... Fri Sep 17
+03:11:11 EDT 8999 Clar sees Nikuko's space, the deconstruction of the
+space station, now barely functioning against an inconceivably desiring
+sky. Somewhere between organism and mesh lies the planting of emergence,
+protected from all the vicissitudes of exploding worlds and plasmas. Make
+it intelligent and it will be sure to flee; Nikuko's space is the fleeing
+of Nikuko, Clar says, and I am welcome to that, regarding her, her jeweled
+nubs. Fri Sep 17 03:12:52 EDT 8999 Nikuko's fingers are bulbous, discom-
+forting, dis/eased, the color of pooled urine, a cat's eye, an exploding
+star, having given up all energy for future children. Clar moves in the
+crevices, swallows the pill so hungry to seduce you, Clar walks the street
+of the planet earth with short skirt, no panties, always on the edge of
+borderline fingers, Nikuko's, clutching at her body, pulling her down,
+regarding Nikuko, desirous Clar. Nikuko's mouth points towards itself,
+back-hoes perfect red-brown blood against perfect jeweled cosmos, river
+motions of pooled oiled rings coating whatever debris Clar swallows; Clar,
+Clar, regarding Nikuko, hardly survives the incandescent punctures of
+sublime beauty, herself oozed among signifiers, grappled by Nikuko-hands,
+spread open by Nikuko-fingers. Fri Sep 17 03:17:01 EDT 8999 Future
+Nikuko-Clar, regarding Nikuko, the breasts, the abdomen, the face above
+all, holes beneath the presence of the world, coupling. Regarding Clar,
+Nikuko speaks through Clar's holes, decoupling. In a frenzy, linked.
+Decoupled Nikuko's arms, writing for Clar, her perfect blue jeweled nubs,
+on the edge of the precipice, the bones without the marrow, flailing,
+fingering her short short skirt. Clar walks down the sidewalk of an
+ordinary neighborhood in an ordinary universal megalopolois and everyone
+turns and stares; everyone knows. Fri Sep 17 03:19:05 EDT 8999 Clar
+breathes hard; she's nothing on underneath, feels the wind and the rain
+swirling around her crack, her legs damp with the pleasure of regarding
+Nikuko's bones, finally, without the marrow, the perfect blue jewels at
+the tips, in that space everyone would find inconceivable. The two secrets
+of Clar: no panties; and the space. It's the space that's seductive; she's
+hardly on the planet, much less New York City of the ninth millennium.
+Regarding Clar, Nikuko, words in medieval English. Fri Sep 17 03:20:40 EDT
+8999 Clar saunters, somersaults, somnambulist; Clar is looking for his fix
+which is from the marrow. Nikuko's fingers clutch at him; Clar winces,
+turns, spreads his legs for her, penetrates. Regarding Nikuko, she rides
+him, her bones clear through to the blue-jeweled nubbed and marrowless
+vectors. Organism on its fly-by, fleeing the angry-nova sun, reflected in
+Nikuko's fingers. Who races at close the speed of light. Distance,
+measurement, count for nothing. Nikuko couldn't care less, regarding Clar.
+Fri Sep 17 03:22:42 EDT 8999 Doubled meshes, nubbed circle lights in
+Nikuko's space, Nikuko-space, nubbed blue-jeweled lights in Nikuko's
+bones; she wears them invisible diadems. They're regarding Nikuko; Clar
+watches, uncertain. He is beautiful; she'd never seen anyone so beautiful
+in her life. At the beginning of the approach, an approach. Fri Sep 17
+03:25:23 EDT 8999 Her mouth, sharpened, almost turned against itself,
+perfect piercing of the throat; Nikuko had the single work to speak, its
+speaking silencing her forever. Clar turned her beauty towards her,
+regarding her, the jewels necklaced around her broken throat. Regarding
+Nikuko, unspeakable acts. Regarding Clar, Clar. Fri Sep 17 03:26:52 EDT
+8999 Regarding technologies, watching the beauty of Nikuko, her wounded
+throat speaking the endless word Fri Sep 17 03:30:36 EDT 8999 Fri Sep 17
+03:30:37 EDT 8999
+
+The jewels watched her, carefully
+ 
+
+________________________________________________________________________
+
+
+Writing the Bad Text
+
+
+I started writing the bad text by describing Nikuko's body as represented
+in a three-dimensional image, a problem immediately in translation. I
+needed term after term for bulbous, distended, pubescent, extravagant,
+outlandish, globular, following the torus meshed, pulled out from the
+shape, sloped into Nikuko's incandescent form. I continued, transforming
+hard-s endings to -z, stars to starz, looking towards hacker/pop culture
+Krazy Kat Kuntry Kitchen for deep in-spiring. I mauled the text, took it
+bare-handed, caressing again that trite sexuality of seduction and sus-
+pense; I mauled the text, advertising the image of Nikuko's body, and by
+proxy, the images of her space, her mouth, her fingers, her bones -- hyp-
+nagogic and literally unforgettable images, images of transforming beauty.
+I repeatedly erred in the production of the text, using the display pro-
+gram for insertions and rearrangements refuseing to accommodate the de-
+construction of narrative and intensity that might have brought the reader
+to his or her knees, oh gendered topography of Nikuko's body! I tried to
+salvage the work by giving the URL after the date, one addressing space 
+and the other time, as if a last resort to facticity would efface the rest 
+of the failure. I saw the failure proceeding as a failure; now I wrote
+this text, in the present, in the past, in order to negate the other, work
+an astonishment of language, the wonder of newborn words from me to you. I
+am utterly ashamed; my abjection is a defense, even though I feel I sul-
+lied the display program itself by a failure to produce. Perhaps the fine
+quality of the images themselves could only detract from the text; perhaps
+the text was at the blue-jewel-nub of exhaustion. In any case, I'm sure
+it's gone stillborn and missing; I won't fail at cauterization. What's re-
+moved from the throat can only speak mechanically, like chattering teeth,
+somewhere outside the range of human hearing. 09:18:1999:1:55:59 URLs:
+http://trace.ntu.ac.uk/writers/sondheim/bodi.gif (body)
+http://trace.ntu.ac.uk/writers/sondheim/nik.gif (mouth)
+http://trace.ntu.ac.uk/writers/sondheim/decon.gif (bones)
+http://trace.ntu.ac.uk/writers/sondheim/finger.jpg (fingers)
+http://trace.ntu.ac.uk/writers/sondheim/space.jpg (space)
+
+
+__________________________________________________________________________
+
+
+Kids Say the Darndest Things!
+
+
+Hi Dad!
+Want to come to school with me?
+Can I have some cereal?
+These toys are cool!
+Look what I can do!
+Can I have that?
+Where did Mom go this afternoon?
+What's that?
+Good night!
+Dad, I can't sleep!
+Okay.
+Where are we going?
+Look what I wrote in school!
+My room looks okay I guess.
+Thanks!
+Do we have to?
+It's hot out!
+
+
+-- Contributed by Alan Sondheim!
+
+
+
+_________________________________________
+
+
+the yield
+
+
+give a name to your illness, give a name to your illness
+people we know and love are dying
+this people we know and love are dying speeds endlessly through the body -
+their bones collapsing under harsh suns before us, the day which spreads
+across the table of dawn or dusk
+cancers spread like pools of artificial life across desperate thought
+cancer spreads like pools of artificial life across desperate thought
+people we know and love are dying
+they are dying with scans and with probes
+they are dying with injections and superjections
+and catastrophic radiations and molecular re-coordinatings
+cancers spread like pools of artificial life across desperate thought
+their bones collapsing under harsh suns before me, the day which spreads
+before the table of dawn or dusk? probes here, ourselves, ourselves
+
+are you properly compiling cancers spread like pools of artificial life
+across desperate thought?
+decoupled life on the horizon of white-noise annihilation-window
+your body is mined and saturated; your body is a hole; your body is mine;
+your body is a cancer
+your body is a cancer, is a hole, is mine; 
+your body is penetrated, probed, mined and saturated;
+your body is penetrated, reorganized
+for 0 days, i have names for you and me
+and it has taken you just 5.617 minutes turning in the very act of dying 
+...
+people we know and love are dying.
+the new computer will remain crying in the store in the new box.
+the happy party will occur in another city very much alone.
+we will walk in one room and smile, return to another and cry.
+our mouths are open to the spears of the sun.
+we are illumined, our cells crashing uselessly into organ after organ.
+
+illuminations happen on the threshold of being.
+we are called to being: our illuminations.
+for an instant before the darkness: our illuminations.
+for an instant with pen poised: our illuminations.
+with the radiative luminescence of the bones: our illuminations.
+what the dissimilar flux of molecules: our illuminations.
+the threshold of stones is forgotten; the portal is forgotten.
+people we know and love are dying.
+for 0 days, the very beginning of the name.
+
+
+_________________________________________________________________________
+
+
+What impending death of oneself or another may construct:
+
+
+i
+
+One assumes in the absence of danger, disease, the extremities of life,
+that one's project may continue indefinitely; thus writing tends in this
+fashion towards a normative foreclosure, drawn by the exigencies and es-
+thetics of apparent internal necessity. Impending collapse produces an/
+other approach: that a project is only a process which may, like a diary
+for example, be cut off arbitrarily at any point. Writing in these con-
+ditions is a writing through urgency and emergency; it is writing that
+attempts, in every phrase or sentence or paragraph, a recuperation and
+resonance - as if the phrase or sentence or paragraph will be the last.
+
+In this fashion, after time/ after time, it becomes apparent that there
+is, of course, no last, not even with the excision or exclusion of life
+-- that one's project is always already open-ended and on the verge of
+failure. This recognition re-enters the project, restructures it from
+within, so that the manifesto, for example, transforms into meaningless
+phrases, self-doubts and critiques -- and all those other states that
+some say characterize wisdom.
+
+Of wisdom I know nothing, and of truth, less. I do know that impending
+death, of oneself, or of someone so close that one is rubbed raw through
+it, has the ability to transform text into fragile self-reflective flow;
+object into discourse, a never-ending conversation full of glances, ex-
+postulation and pauses; and foundations into an uneasy grasp of such,
+the world slipping through one's fingers, the sky always already threat-
+ening, close to disappearance beneath an angry, raging, dying, sun.
+
+ii
+
+When the thing becomes a catheter
+When being becomes a sponge
+When beings become intravenous
+When nothingness becomes a scan
+When the void becomes radiation
+When the I becomes chemotherapy
+When entities become medication
+When objects become neurasthenias
+When selves become schizophrenias
+When death becomes thing, being, beings
+When death becomes nothingness, void, I
+When death becoes entities, objects, selves
+When death becomes thing, being, beings, nothingness, void, I, entities,
+objects, selves
+
+
+________________________________________________________________________
+
+
+
+Local Reach
+
+In Pennsylvania with full electric, using the aol.com portal to panix:
+Here are the results. Like a lot of places world-wide, I'm assuming, the
+connection is rough - packets suddenly flooding through, then apparently
+caught as one or another router is overloaded. The telnet constantly
+freezes - as I've reported before, it's a situation not dissimilar to
+gagging or suffocation - where thought moves from internal speech to dis-
+ease, from symptom to symptomology...
+
+Sep 19, 1999  18:48:49
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 568ms   TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 428ms   TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+Ping Successful
+3 packets received out of 5 packets transmitted :   40% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 568/257/417
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 5238ms  TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 246ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+Ping Successful
+4 packets received out of 5 packets transmitted :   20% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 5238/246/1499
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 253ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 201ms   TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 329ms   TTL: 243
+Ping Successful
+4 packets received out of 5 packets transmitted :   20% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 329/201/260
+
+Starting trace....
+Tracing to panix3.panix.com [166.84.1.68]....
+Hops    IP Address              RTT(ms)
+1       205.188.200.94          5213
+2       205.188.200.125         5203
+3       TIMED OUT
+4       205.188.128.5           507
+5       205.188.130.70          206
+6       146.188.161.202         318
+7       146.188.161.174         203
+8       146.188.136.186         199
+9       146.188.179.49          251
+10      146.188.178.133         4270
+11      157.130.17.146          205
+12      TIMED OUT
+13      166.84.1.68             259
+Host reached
+
+
+Sep 19, 1999  19:00:38
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+TIMED OUT
+TIMED OUT
+TIMED OUT
+TIMED OUT
+TIMED OUT
+Ping Unsuccessful
+0 packets received out of 5 packets transmitted :   100% PACKET LOSS
+
+Starting trace....
+Tracing to panix3.panix.com [166.84.1.68]....
+Hops    IP Address              RTT(ms)
+1       TIMED OUT
+2       TIMED OUT
+3       TIMED OUT
+4       TIMED OUT
+Host not reached
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 309ms   TTL: 237
+64 bytes received from 166.84.1.68         RTT: 312ms   TTL: 237
+64 bytes received from 166.84.1.68         RTT: 206ms   TTL: 237
+64 bytes received from 166.84.1.68         RTT: 5266ms  TTL: 237
+64 bytes received from 166.84.1.68         RTT: 308ms   TTL: 237
+Ping Successful
+5 packets received out of 5 packets transmitted :   0% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 5266/206/1280
+
+
+________________________________________________________________________
+
+
+Metastasis
+
+
+Tha faallng th$t flash h$s laft ma, th$t bpnas $ra hald by phpnamas np
+lpngar sppkan, th$t tha Symbpl by tha Ha$rth h$s ch$rrad:If I can't write,
+I won't be able to wait for you, O Existence. I am afraid of opposites,
+each and everywhere.:W$ltlng: I $m $fr$ld pf lpslng my $blllty tp wrlta. I
+$m $fr$ld pf npn-axlstanca.:dissolved forever: W$ltlng: I $m $fr$ld pf
+lpslng my $blllty tp wrlta. I $m $fr$ld pf npn-axlstanca. transforms Your
+Tha faallng th$t flash h$s laft ma, th$t bpnas $ra hald by phpnamas np lp-
+ngar sppkan, th$t tha Symbpl by tha Ha$rth h$s ch$rrad on Burning Creek...
+Ah, Living with Levels and Blues!thraa hhndrad calls ln tha bpy tast tast:
+two hundred twenty bonesin the girl test test test:pna hhndrad twanty
+bpnas ln tha bpy tast tast:eight hundred cells in the girl test test test:
+Devour me eight hundred cells in the girl test test test Brought Forth
+through thraa hhndrad calls ln tha bpy tast tast!
+
+
+___________________________________________________________________________

@@ -1,0 +1,348 @@
+
+
+Obscura, 1981
+
+Dead Time: The Machinery of Reality
+
+
+The epistemological status of the scientific photographic is extra-
+ordinarily problematic; it exists in the interstices between theory
+and a naively Platonic reality, vis-a-vis a heuristics of loose
+procedures of interpretation. The "classical" fields of the life
+sciences, as well as descriptive geology and astronomy, tend towards a
+photography of contextualization: the application of the matrix in
+which the specimen is embedded, accompanied by a space-time grid (i.e.
+the skull was found at a depth of 7.6 cm. in the 3rd quadrant with
+coordinates 9.0 x 4.6). In this manner, the photograph is often a
+confirmation of discovery; as such it is _a posteriori,_ paralleling
+crime photography in its position as evidence of a unique event.
+
+In those sciences more closely tied to well-defined theoretical form-
+ulations (I am speaking here of a primary mathematization of reality,
+not of the Kuhnian paradigm), the photograph is part of an explanatory
+mechanism; the image itself is given space-time coordinates within the
+necessary tolerance (up to the Heisenberg limits of the machinery),
+and the image surface may also be assigned coordinates. Both categor-
+ies of scientific photography are dependent upon seriation; the single
+image needs insertion, corroboration. In the life sciences, multiple
+images from several angles may be taken of a single event (what Broad
+calls "sporadic phenomena"); in other domains (such as particle phys-
+ics, quantum mechanics, computer sciences), photographic clusters or
+single images of multiple events are more likely.
+
+The ontological status of the image referent in the latter - what "is"
+actually being photographed - may also be problematic. At times the
+signifier of the presence of an object is only its context; "virtual"
+particles in particle physics are never "seen" in cloud chamber photo-
+graphs; they are deduced from the vapor trails of "seen" particles in
+conjunction with conservative theoretical laws. Even the "seen" parti-
+cles are revealed only by their macroscopic traces; the electron for
+example leaves no image, but under the proper experimental circum-
+stances may leave a disturbance on a photographically visible level.
+
+The scientific image also exists between theory and technology - be-
+tween the project of a "pure" science, and the specifics of a research
+program and methodology, with all its accompanying apparatus. The
+ideology of the scientific image is intimately tied to the ideology of
+science in general; I argue that this applies to the everyday photo-
+graph - the snapshot, political image, artwork - as well.
+Thus it is useful to at least outline the ideology of science and
+technology. In this regard I take issue with Braverman's distinction
+between science and technology (engineering, etc.) on the basis of
+professionalism; I see professionalism as a surface social phenomenon
+"over" a deep ideological structure applicable to both. This ideology
+structure has at least the following characteristics:
+
+
+*Quantification:* The mathematization of reality - an alliance
+between abstrat mathematical structures, and experimentally isolated
+phenomena.
+
+*Parameterization:* The isolation of independent and dependent varia-
+bles in the world (i.e. temperature, volume, pressure, etc.).
+
+*Repetition:* The scientific experiment and assembly line are both
+based on seriality; even quantification depends on repetitive or
+recursive operations.
+
+*Exchange:* In technology, the equivalent units of the assembly line;
+in science, the presence of equivalence or tolerance classes in all
+areas from taxonomy to particle physics. Exchange, like quantifica-
+tion, parameterization, and repetition, is considered ethically
+neutral, part of the machinery of the real.
+
+*Feedback:* In science, the Popperian potential for falsification -
+the "editing down" of competing theories; in technology, quality
+control.
+
+*Formal-Theoretic Reification:* Loosely, the ability to bracket con-
+cepts by substitution (comparision, etc.); this may or may not create
+a "fit" between a concept or entity, and theory. In psychology, a new
+phenomenon may be classified as a syndrome (i.e. "Hearst Syndrome") in
+order to fit into a theoretical matrix.
+
+*Data Structures/Taxonomies:* Tabling and warehousing, dependent upon
+a neutral system of indexing.
+
+*Specialized Theater of Operation:* This usually partakes of modernist
+/reductive construction - the laboratory or factory, for example.
+
+*Socialization:* The presence of discipline-specific modes of distri-
+bution of knowledge or materials; the politicization of science in
+terms of research programs and methodologies.
+
+*Elimination of Anecdotality and the Specificity of the Subject:* In
+this sense, science and technology are "exteriorizations."
+
+*Translatability / The Shift:* A scientific Platonist would argue that
+science is not a language, but a reflection (in the Marxist sense
+perhaps) of universal structure; its ultimate goal is a transcendent
+analysis of the real. This is mirrored by modularity and standardiza-
+tion in technology; the translation between English and metric, for
+example, is only a conventional but universally-defined mathematical
+ratio.
+
+
+The most suspect term in this structure is "neutral." One might argue
+that science itself, at core, is anarchic, one style among many in the
+world (see Feyerabend); one might find it, on the other hand, as abso-
+lutely reflective, tending towards an ultimately exact (within quantum
+limits) universal paradigm. I make a distinction between a Platonic-
+ally ideal core structure and human endeavor; if it were not for the
+former, "normal" science and technology would not wield the power they
+do, and if it were not for the latter, all theories might tend smooth-
+ly towards the true, the beautiful, and the good (or some other
+equally naive rationalization).
+
+The core structure is simply _the style of the physical world._ The
+physical world encompasses objects, but objects exist only in terms of
+their modes of representation. "An object is an object for subjects in
+a world" (von Weizsacker). "Objects and events are not primitive ex-
+periences. Objects and events are representations of relations" (von
+Foerster). An hypothesis of the core structure states that relations in
+the physical world are ultimately independent or _formally_ dependent
+upon the subject; this hypothesis guarantees in practice the irrele-
+vance and marginality of the ego. The processes of industrialization
+and methodology - in terms of heuristics - of science and technology
+are the same in capitalism and Marxism; the theoretic-philosophic
+interpretation of theory may be completely different. The latter is
+ideological in a textual sense; the former is ideological, paradox-
+ically enough, in its ideological neutrality.
+
+Within this structure, the camera functions as a technological device,
+a _machine_ with a well-defined input, process, and output. The mach-
+inery is independent of content (of specific representations); the use
+of the lens guarantees an algorithm - a regulated procedure for map-
+ping three into two dimensions. (Here I am referencing the conventional
+still or cinema camera, and not for example, the instrument
+that would be used in conjunction with field emission microscopy). The
+output is a two-dimensional image - more specifically, an "almost"
+two-dimensional surface with a differential absorption and reflectance
+of light. This surface is _interpreted_ in most instances as an image
+(note the expression: "There's no image in this photograph"); the
+image is analyzed either directly by a researcher (and this involves
+the usual problems of human or machine cognition), or by a scanning
+apparatus whose parameters are also researcher-established. This pro-
+cessing usually results in a recognition of entities which are
+pertinent to the specifics of the experiment (or _stratum,_ etc., for
+the descriptive natural sciences). The entities are contextualized in
+terms of relationships; this is partially dependent upon the space-
+time coordinates of the photograph (at its moment of exposure). All of
+these stages - recognition, contextualization, coordinate assignment -
+involve a degree of subjectivity. To as great an extent as possible,
+this subjectivity is reified, assigned to the margins - one aspect of
+the scientific photograph is its relative anonymity - its reproduci-
+bility elsewhere, given an equivalent experimental setup.
+
+This anonymity is assumed even in the case of the documentary photo-
+graph within such fields as archeology and paleontology - an anonymity
+associated with Foucault's notion of the gaze (in The Birth of the
+Clinic, quoted by Grosz and McAuley, Camera Obscura 7): "The great
+myth of the _free gaze,_ which in its fidelity to _discovery_ receives
+the virtue to destroy; a purified purifying gaze; which freed from
+darkness, dissipates darkness." The gaze is a gaze _for_ the subject
+_in spite of_ the subject; the documentary photograph is assumed to be
+_transparent._
+
+Now the relationship between the deep structure of science and the
+scientific photograph should be evident - both involve repetition,
+metricization, exchange, and the elimination of anecdotality. There
+are at least three audiences for scientific images: the researcher or
+research group that produces a specific set of photographs; "fellow"
+researchers within the scientific community who review and perhaps at-
+tempt to repeat the results; and a lay audience whose primary interest 
+in scientific images is dependent upon both traditional aesthetics and 
+a sense of theatricality. The lay audience consumes these images (color
+photographs of galaxies, laser images, archeological finds, Saturn,
+macro- or scanning electron micrography of insects or foraminera or
+crystals, deepsea photography of shipwrecks or volcanic fissures,
+"nature" photography a la Disney or National Geographic, Landsat or TV
+weather report images of the planet, etc.) as a spectacle with the
+phallocratic underpinnings of (male) exploration, the conquerable
+frontier, and the imperial extension of democracy (freedom to approp-
+riate) into previously "uncharted" realms. For the lay audience, these
+images are scientific emblems; they are treasures brought back from
+the unknown. They become associated with humanisms, anecdotality, the
+"art" of science, and so forth.
+
+To the extent that the images become anecdotally contexted, they lose
+their serial status. (There is a notion of the Masterpiece at work
+here.) In the broader aras of art photography, photo-journalism, and
+investigation of psychic phenmena, the individual image is also pri-
+mary. It is difficult to reproduce psi-phenmena under laboratory con-
+ditions; an obvious methodology is to extend the laboratory into the
+life-world, just as the authors of the late nineteenth-century British
+Census of Hallucinations attempted to do. _Normative_ science is al-
+ways bound by the practical limits of quantification; current experi-
+mentation into the possibility of proton decay (perhaps over a 30
+billion year half-life) or the practical aspects of neutrino astronomy
+are evidence of this. The serial, even cyclical nature, of practical
+science and technology, involves an high degree of redundancy,
+necessary for the corroboration or falsification of theory. It has
+been noted (by Quine and others) that _any_ theory can be saved; there
+is always an appeal to simplicity - to tensor calculus over a reinter-
+preted Newtonian mechanics with additional variables, for example.
+This simplicity is not an added-on aesthetic judgement; it is part of
+the theoretical heart of science, appearing in the notion of the _ex-
+periment,_ which occurs in an isolated "well" eliminating the anecdotal
+as much as possible. What constitutes reduction in an experiment is
+partly conventionalized; as far as I know, particle experiments do not
+take into account the phases of the moon or the love-life of the
+research group. Scientific photography, especially in the laboratory,
+exists under similar restrictions; Paisley prints and wind-tunnel
+images do not go hand-in-hand.
+
+Thus the scientific photograph is part of a seriation; space-time loc-
+alized; metricized (a grid across the image surface assumed to exist
+in dialectic with the signified); the production of a machine; reduc-
+tive; and neutral. It assumes a "smoothing process," a translation
+from physical reality vis-a-vis the imaging apparatus to a concretely
+interpretable image. The photograph is thus an _inscription_ of the
+machinery of reality, an inscription external to the subject in a deep
+sense. The image, "outside" of human temporality, exists in _dead
+time,_ a time which is abstracted and elsewhere, the temporality of
+the Precambrian, the surface of Saturn, the neutrino.
+
+----
+
+In the largest sense, the scientific photography is part of an experi-
+mental apparatus. Experiments produce results; these are "read" from
+digital displays, pointers, oscilloscope traces, computer outputs, and
+photographs. Eventually, it becomes unclear what constitutes a photo-
+graph in the first place; does it depend on the lens, on the presence
+of silver or other elements (platinum perhaps), on the existence of
+film or the camera? Images may be produced from just about anywhere
+within and without the electromagnetic spectrum, and the result may be
+a traditional photograph, reproducing macro-objects by virtue of
+visible light. But more often than not, especially in such areas as
+physics and quantum mechanics, the photograph itself is a form of
+receptor in the middle of things. An image may be "read" from a series
+of dials, just as it may be "read" from a two-dimensional sheet of
+photographic paper. Both cases involve learning. On a lay level, we
+tend to trust the latter, because of the _apparent_ mapping between
+the ostensible contents of the sheet and the visual style of the
+world; holography fascinates because of its visual theatrics, not its
+technological or theoretical implications.
+
+The photograph, as part of an experiment, as a scientific production, 
+is metricized, as we have seen. A coordinate system is "projected" 
+upon the image; each object or trace displayed (signified) is given a
+space-time location in relation to the space-time of expsoure. The use
+of a lens almost guarantees the _machinery of perspective,_ the pre-
+sence of a vanishing-point, and the specific location of the camera.
+The image must be seen from a preferred and calculable viewpont, a
+viewpoint which is assumed to be in a _natural relation_ with the
+world. (This assumption is important in crime photography, journalism,
+and so forth.) This relation is algorithmic, fixed; the vantage-point
+fetishizes the subject. As the landscape photographer _stops moving_
+in order to take a picture (dead time), the mobility of the world
+recedes; the appropriation is fragmentary and ultimately defused.
+
+(Compare any traditional photograph to a Sung Dynasty painting - Kuo
+Hsi's Early Spring, for example. In the latter, a situation of empathy
+is created; the _body_ of the spectator enters and leaves the image
+almost anywhere; preference is given to the _natural,_ as if
+the spectator were non-present. Each section of Early Spring connects
+and disconnects with every other; connectivity of space (a smooth
+topography for an Occidental observer) is nowhere taken for granted.
+Paintings such as this are an inversion of the scientific photograph, a
+movement from quantification to both a more abstracted and situated 
+space.)
+
+The movement from scientific to traditional photography in this essay
+is not arbitrary; the traditional photograph (snapshot, artwork, etc.)
+carries the ideology of industrial modernization and science within
+it. The Brownie and the cloud-chamber camera do not simply parallel
+each other; they both reify, both distort the lifeworld in favor of an
+abstracted logos. An _image_ of a traditional society is already the
+beginning of Occidental modernization. For an image fixes, tokenizes,
+the real. It is important to note here that most cameras use roll
+film; each image is numbered in relation to the rest.
+
+(Here I take issue with those who find that the photograph is a signi-
+fier of the presence of the photographer. Instead, the photograph can
+be considered a signifier of the photographer's _elimination._ Ab-
+stration is at the heart of the photographic image, and the image, as
+a (Marxist-Leninist) _reflection_ of the real (except in a parameter-
+ized sense) is not only incomplete; it is false. The simple experiment
+of looking at an old snapshot you took years ago - and re-imagining
+the original conditions of its production - demonstrates the distance
+between the image-machine and the placement of the body. The photo-
+graph demonstrates that anyone and no-one could have produced it; it is
+an artifact of an assembly-line, a quick-scan of the world.)
+
+Each image is numbered in relation to the rest: the camera _photo-
+graphs_ in dead time, a temporal span condensed into an imitation of
+simultaneity. The camera does not "capture" the moment; it collapses
+it into a state of non-being. A cloud-chamber experiment can result in
+over one million images, perpared, classified, and discarded by mach-
+ine.
+
+In addition, the reductivism inherent in the deep structure of science
+also exists in the snapshot, etc. Clutter is eliminated or confined
+within the boundaries of the print; the photograph brackets and sub-
+stitutes, paralleling the manipulation of theoretical entities in
+mathematical physics. The photographic image can provide _evidence_ in
+relation to theory _because_ it is reductive. (We're not speaking
+about fakes, digital image manipulation, etc. here.) There is finally
+little difference between one kind of photography and another; even
+darkroom surrealism has its scientific parallels.
+
+Photography is, above all, the _art of evidence_ (or at least the art
+of the _representation of evidence_); the researcher and lay public
+accept this. Evidence, however, is evidence only in relation to
+theory, learned perception, and/or other anchorage; the ostensible
+contents of the image reflect no Platonic entities, but only the
+constructible. Within the realm of scientific theory, construtibility
+is experiment- and mathematics-dependent; within the everyday world,
+constructibility is primarily based on ideologies embedded in natural
+language - the sememes of advertising, bureaucracy (another "nature"),
+journalism, and day-to-day colloquial discourse.
+
+The image slips away into the imaginary upon interpretation; anyone
+and no-one takes a photograph. The camera reproduces like a dead eye
+operating at the limit-point of the gaze. It contains dark space; the
+subject/photographer fumbles at the controls, compressing or decom-
+pressing that space. For an interval, everything changes; the chamber
+is filled, fulfilled with light - then returns to normal. Somewhere on
+the outside of the camera, a number changes. Film rolls. The space
+returns to silence.
+
+
+Postscript - It must be understood that this article is an outline at
+best. Because of the interstitial nature of scientific photography,
+its aesthetics and phenomenology draw on such diverse areas as the
+philosophy of science, theories of cognition, phenomenology and tradi-
+tional photographic aesthetics. The deepest problem is two-fold: the
+relation of theory to image, and the mathematization of reality. The
+latter is fundamental to scientific progress - and the former (the
+"image-reality nexus") can often be reduced to an analysis of algo-
+rithmic procedures. The gap between mathematics and physical reality
+(the abstract and material "worlds") is treated different depending on
+one's viewpoint (materialist, intuitionist, conventionalist, anarchist,
+etc.). I tend towards an anarchism in methodology and a Platonism in
+core structure. Dead Time reflects this viewpoint, however contradic-
+tory.
+
+
++++
