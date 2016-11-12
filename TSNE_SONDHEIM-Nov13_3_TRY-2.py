@@ -159,14 +159,11 @@ for _ in itertools.repeat(None, N):
 
 	############# RAISE INIT PARAMETERS ##############
 
-
-
 	if lr_INIT >lr_MAX:
 		lr_BOOL = False
 		lr_INIT =lr_MAX
 
-					### PERPLEXITY
-
+		### PERPLEXITY
 		if perp_BOOL:
 			perp_INIT = perp_INIT + perp_INC #int(lr_INC/4)
 		else:
@@ -175,13 +172,11 @@ for _ in itertools.repeat(None, N):
 			if perp_INIT >= perp_MAX or perp_INIT <= perp_MIN:
 				perp_BOOL = not perp_BOOL
 
-
 	elif lr_INIT < lr_MIN:
 		lr_BOOL = True 
 		lr_INIT =lr_MIN
 
 	else:
-
 		if lr_BOOL:
 			lr_INIT = lr_INIT + lr_INC
 		else:
@@ -195,9 +190,10 @@ for _ in itertools.repeat(None, N):
 		n_comp_init_INIT  = n_comp_init_INIT - n_comp_init_INC #int(lr_INC/2)
 
 
-	if n_comp_init_INIT >= n_comp_init_MAX or n_comp_init_INIT <= n_comp_init_MIN:
-		n_comp_init_BOOL = not n_comp_init_BOOL
-		lr_BOOL = not lr_BOOL
+	if n_comp_init_INIT >= n_comp_init_MAX: 
+		n_comp_init_BOOL = False
+	elif n_comp_init_INIT <= n_comp_init_MIN: 
+		n_comp_init_BOOL = True
 
 		###
 
@@ -208,13 +204,6 @@ for _ in itertools.repeat(None, N):
 
 	if exag_INIT >= exag_MAX or exag_INIT <= exag_MIN:
 		exag_BOOL = not exag_BOOL
-
-		
-
-
-
-
-
 
 
 
