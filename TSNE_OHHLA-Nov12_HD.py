@@ -237,7 +237,7 @@ for _ in itertools.repeat(None, N):
 
     nup = len(poems)
 
-    plt.title('\n Sondheim files: %s \n Split into segments: %s  \n Learning rate: %s \n Complexity: %s  \n Perplexity: %s  \n Exaggeration: %s'%(nup_orig,nup,lr, n_comp_init,perp,exag), loc='left')
+    plt.title('Learning rate: %s \n Complexity: %s  \n Perplexity: %s  \n Exaggeration: %s'%(lr, n_comp_init,perp,exag), loc='left')
     
     # plt.scatter(X_embedded[:, 0], X_embedded[:, 1], s=size_array[:],
     #         c='black', marker=".", alpha=1)
