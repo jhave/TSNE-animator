@@ -27,7 +27,7 @@ verb=0
 
 #######   PATH   ############
 
-READ_PATH = "www.alansondheim.org/"
+READ_PATH = "Data/s_test/"  #"www.alansondheim.org/"
 
 
 
@@ -109,13 +109,15 @@ lr_MAX = 600
 lr_MIN = -600
 lr_INIT = lr_MIN
 lr_BOOL = True
-lr_INC = 5
+lr_INC = 3
 
 n_comp_init_MAX = 60
 n_comp_init_MIN = 2
 n_comp_init_BOOL = True
 n_comp_init_INIT = n_comp_init_MIN
-n_comp_init_INC = 1
+n_comp_init_INC = 2
+
+complexity_gate =0
 
 perp_MAX = 100
 perp_MIN = 1
@@ -127,7 +129,9 @@ exag_MAX = 11.0
 exag_MIN = 1.0
 exag_INIT = 1.0
 exag_BOOL = True
-exag_inc = 0.2
+exag_inc = 1
+
+exag_gate =0
 
 num_iter= 200
 init = 'pca'
@@ -184,26 +188,35 @@ for _ in itertools.repeat(None, N):
 
 		###
 
-	if n_comp_init_BOOL:
-		n_comp_init_INIT = n_comp_init_INIT + n_comp_init_INC #int(lr_INC/2)
-	else:
-		n_comp_init_INIT  = n_comp_init_INIT - n_comp_init_INC #int(lr_INC/2)
+	complexity_gate = complexity_gate +1	
+	if complexity_gate > 50 :
+
+		complexity_gate =0
+
+		if n_comp_init_BOOL:
+			n_comp_init_INIT = n_comp_init_INIT + n_comp_init_INC #int(lr_INC/2)
+		else:
+			n_comp_init_INIT  = n_comp_init_INIT - n_comp_init_INC #int(lr_INC/2)
 
 
-	if n_comp_init_INIT >= n_comp_init_MAX: 
-		n_comp_init_BOOL = False
-	elif n_comp_init_INIT <= n_comp_init_MIN: 
-		n_comp_init_BOOL = True
+		if n_comp_init_INIT >= n_comp_init_MAX: 
+			n_comp_init_BOOL = False
+		elif n_comp_init_INIT <= n_comp_init_MIN: 
+			n_comp_init_BOOL = True
 
 		###
 
-	if exag_BOOL:
-		exag_INIT = round( (exag_INIT + exag_inc),2)
-	else:
-		exag_INIT = round( (exag_INIT - exag_inc),2)
+	exag_gate =exag_gate+1
+	if exag_gate >11:
+		exag_gate=0
 
-	if exag_INIT >= exag_MAX or exag_INIT <= exag_MIN:
-		exag_BOOL = not exag_BOOL
+		if exag_BOOL:
+			exag_INIT = round( (exag_INIT + exag_inc),2)
+		else:
+			exag_INIT = round( (exag_INIT - exag_inc),2)
+
+		if exag_INIT >= exag_MAX or exag_INIT <= exag_MIN:
+			exag_BOOL = not exag_BOOL
 
 
 
