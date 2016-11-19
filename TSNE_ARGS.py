@@ -161,16 +161,17 @@ n_comp = 2
 ################### Get Args ##########################
 
 parser = argparse.ArgumentParser()
+
+
+parser.add_argument('--lr_gate_limit', type=int, default=0)
+parser.add_argument('--e_gate_limit', type=int, default=10)
+parser.add_argument('--c_gate_limit', type=int, default=20)
+
 parser.add_argument('--learning_rate', type=float, default=-600.0)
 parser.add_argument('--learning_rate_INC', type=float, default=0.1)
 
-
 parser.add_argument('--exag_rate', type=float, default=1.0)
 parser.add_argument('--exag_rate_INC', type=float, default=0.1)
-
-parser.add_argument('--e_gate_limit', type=int, default=10)
-parser.add_argument('--c_gate_limit', type=int, default=11)
-parser.add_argument('--lr_gate_limit', type=int, default=1)
 
 parser.add_argument('--complexity', type=int, default=50)
 parser.add_argument('--complexity_INC', type=float, default=0.1)
@@ -182,7 +183,7 @@ parser.add_argument('--random_state', type=int, default=None)
 
 args = parser.parse_args()
 
-print("--learning_rate:",args.learning_rate)
+#print("--learning_rate:",args.learning_rate)
 
 lr_INIT = args.learning_rate
 lr_INC = args.learning_rate_INC
@@ -256,9 +257,9 @@ for _ in itertools.repeat(None, N):
 
 		else:
 			if lr_BOOL:
-				lr_INIT = round(lr_INIT + lr_INC,1)
+				lr_INIT = round(lr_INIT + lr_INC,2)
 			else:
-				lr_INIT  = round(lr_INIT - lr_INC,1)
+				lr_INIT  = round(lr_INIT - lr_INC,2)
 
 	# ### PERPLEXITY
 	perplexity_gate = perplexity_gate +1	
@@ -279,17 +280,17 @@ for _ in itertools.repeat(None, N):
 	### COMPLEXITY (reduction at beginning)
 
 	complexity_gate = complexity_gate +1
-	print(complexity_gate,c_gate_limit, complexity_INIT, complexity_INIT)	
+	#print(complexity_gate,c_gate_limit, complexity_INIT, complexity_INIT)	
 	if complexity_gate > c_gate_limit :
-		print("inside complex",n_comp_init_BOOL,complexity_INC)
+		#print("inside complex",n_comp_init_BOOL,complexity_INC)
 		complexity_gate =0
 
 		if n_comp_init_BOOL:
 			complexity_INIT= round( (complexity_INIT + complexity_INC),2)
-			print("+ complexity_INIT",complexity_INIT)
+			#print("+ complexity_INIT",complexity_INIT,complexity_INC)
 		else:
 			complexity_INIT  = round( (complexity_INIT - complexity_INC),2)
-			print("- complexity_INIT",complexity_INIT)
+			#print("- complexity_INIT",complexity_INIT,complexity_INCplex)
 
 		
 
