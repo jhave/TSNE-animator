@@ -126,13 +126,13 @@ complexity_gate = 0
 
 perp_MAX = 120
 perp_MIN = 1
-perp_INIT = perp_MIN
+#perp_INIT = perp_MIN
 perp_BOOL = True
 perp_INC = 1.0
 
 perplexity_gate = 0
 
-exag_MAX = 33.0
+#exag_MAX = 33.0
 exag_MIN = 1.0
 #exag_INIT = 1.0
 exag_BOOL = True
@@ -172,12 +172,15 @@ parser.add_argument('--learning_rate_INC', type=float, default=0.1)
 
 parser.add_argument('--exag_rate', type=float, default=1.0)
 parser.add_argument('--exag_rate_INC', type=float, default=0.1)
+parser.add_argument('--exag_MAX', type=float, default=33)
 
 parser.add_argument('--complexity', type=int, default=50)
 parser.add_argument('--complexity_INC', type=float, default=0.1)
 
 parser.add_argument('--perplexity', type=float, default=20)
 parser.add_argument('--perplexity_INC', type=float, default=0.1)
+parser.add_argument('--perplexity_MIN', type=float, default=1)
+parser.add_argument('--perplexity_MAX', type=float, default=80)
 
 parser.add_argument('--random_state', type=int, default=None)
 
@@ -190,6 +193,7 @@ lr_INC = args.learning_rate_INC
 
 exag_INIT = args.exag_rate
 exag_inc = args.exag_rate_INC
+exag_MAX = args.exag_MAX
 
 e_gate_limit = args.e_gate_limit
 c_gate_limit = args.c_gate_limit
@@ -200,6 +204,8 @@ complexity_INC = args.complexity_INC
 
 perp_INIT = args.perplexity
 perp_INC = args.perplexity_INC
+perp_MIN = args.perplexity_MIN
+perp_MAX = args.perplexity_MAX
 
 random_state = args.random_state
 
