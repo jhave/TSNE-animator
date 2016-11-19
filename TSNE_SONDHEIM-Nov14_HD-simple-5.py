@@ -143,7 +143,7 @@ exag_gate =0
 lr_gate_limit =0
 c_gate_limit = 111
 p_gate_limit = 22
-e_gate_limit = 1200
+e_gate_limit = 1000
 
 num_iter= 200
 init = 'pca'

@@ -107,9 +107,9 @@ print(repr(vectors))
 
 lr_MAX = 1100
 lr_MIN = -1100
-lr_INIT = lr_MAX
+lr_INIT = lr_MIN
 lr_BOOL = False
-lr_INC = 0.3
+lr_INC = 0.1
 
 lr_gate = 0
 
@@ -143,7 +143,7 @@ exag_gate =0
 lr_gate_limit =0
 c_gate_limit = 111
 p_gate_limit = 22
-e_gate_limit = 1200
+e_gate_limit = 1100
 
 num_iter= 200
 init = 'pca'

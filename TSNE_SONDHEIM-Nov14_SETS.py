@@ -103,13 +103,15 @@ vectors = TfidfVectorizer().fit_transform(poems)
 print(repr(vectors))
 
 
+
+
 # PARAMETERS INIT
 
 lr_MAX = 1100
-lr_MIN = -1100
-lr_INIT = lr_MAX
-lr_BOOL = False
-lr_INC = 0.3
+lr_MIN = -400
+lr_INIT = lr_MIN
+lr_BOOL = True
+lr_INC = 0.1
 
 lr_gate = 0
 
@@ -133,17 +135,20 @@ exag_MAX = 22.0
 exag_MIN = 1.0
 exag_INIT = 1.0
 exag_BOOL = True
-exag_inc = 0.3
+exag_inc = 2
 
 exag_gate =0
 
 
-
-
+# How often will parameters change: 'limit = 0' means change always
 lr_gate_limit =0
-c_gate_limit = 111
-p_gate_limit = 22
-e_gate_limit = 1200
+e_gate_limit = 200
+
+
+#
+# c_gate_limit = 111
+# p_gate_limit = 22
+
 
 num_iter= 200
 init = 'pca'
@@ -154,10 +159,34 @@ n_comp = 2
 
 # folder to SAVE into
 
-save_PATH = "SONDHEIM_"+str(datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M'))
+
+
+# save_PATH = "SONDHEIM_"+str(datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M'))
+
+dt =datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M')
+ 
+save_PATH = "SONDHEIM_LR{}_EGL{}_{}".format(lr_INIT, e_gate_limit, dt)
+
 if not os.path.exists("img/"+save_PATH):
 	os.makedirs("img/"+save_PATH)
 print("save_PATH:",save_PATH)
+
+# iters=0
+# lr=-600
+# perp=2
+# exag=1.0
+# n_comp_init = n_comp_init_INIT
+# txt_fn = "SONDHEIM_TSNE_LR{}_EXAG{}_C{}_LAYERS{}_P{}_{}.txt".format(lr,exag,n_comp_init,n_comp,perp,iters)
+
+txt_save_PATH = "txt/{}/".format(save_PATH)
+if not os.path.exists(txt_save_PATH):
+	os.makedirs(txt_save_PATH)
+
+# print("txt_save_PATH:",txt_save_PATH,txt_fn)
+
+# txt_fn_path = txt_save_PATH+txt_fn
+# f_txt=open(txt_fn_path,'w')
+# f_txt.write("testing")
 
 ################### N iterations ######################
 
@@ -173,10 +202,12 @@ for _ in itertools.repeat(None, N):
 	perp = perp_INIT
 	exag = exag_INIT
 
+
+
 	############# RAISE INIT PARAMETERS ##############
 
 
-	### PERPLEXITY
+	### LEARNING RATE
 	lr_gate = lr_gate +1	
 	if lr_gate > lr_gate_limit :
 
@@ -185,9 +216,29 @@ for _ in itertools.repeat(None, N):
 			lr_BOOL = False
 			lr_INIT =lr_MAX
 
+			#EXAG
+			if exag_BOOL:
+				exag_INIT = round( (exag_INIT + exag_inc),2)
+			else:
+				exag_INIT = round( (exag_INIT - exag_inc),2)
+
+			if exag_INIT >= exag_MAX or exag_INIT <= exag_MIN:
+				exag_BOOL = not exag_BOOL
+				exag_INIT = exag_MIN
+
 		elif lr_INIT < lr_MIN:
 			lr_BOOL = True 
 			lr_INIT =lr_MIN
+
+			#EXAG
+			if exag_BOOL:
+				exag_INIT = round( (exag_INIT + exag_inc),2)
+			else:
+				exag_INIT = round( (exag_INIT - exag_inc),2)
+
+			if exag_INIT >= exag_MAX or exag_INIT <= exag_MIN:
+				exag_BOOL = not exag_BOOL
+				exag_INIT = exag_MIN
 
 		else:
 			if lr_BOOL:
@@ -231,17 +282,17 @@ for _ in itertools.repeat(None, N):
 
 	### Early Exaggeration
 
-	exag_gate =exag_gate+1
-	if exag_gate >e_gate_limit:
-		exag_gate=0
+	# exag_gate =exag_gate+1
+	# if exag_gate >e_gate_limit:
+	# 	exag_gate=0
 
-		if exag_BOOL:
-			exag_INIT = round( (exag_INIT + exag_inc),2)
-		else:
-			exag_INIT = round( (exag_INIT - exag_inc),2)
+		# if exag_BOOL:
+		# 	exag_INIT = round( (exag_INIT + exag_inc),2)
+		# else:
+		# 	exag_INIT = round( (exag_INIT - exag_inc),2)
 
-		if exag_INIT >= exag_MAX or exag_INIT <= exag_MIN:
-			exag_BOOL = not exag_BOOL
+		# if exag_INIT >= exag_MAX or exag_INIT <= exag_MIN:
+		# 	exag_BOOL = not exag_BOOL
 
 
 
@@ -271,7 +322,7 @@ for _ in itertools.repeat(None, N):
 
 	nup = len(poems)
 
-	plt.title('Layers %s \nLearning rate: %s    Complexity: %s  \nPerplexity: %s    Exaggeration: %s'%(n_comp,lr, n_comp_init,perp,exag), loc='left')
+	plt.title('Layers: %s | LR: %s \nC: %s | P: %s | E: %s'%(n_comp,lr, n_comp_init,perp,exag,nup), loc='left')
 			
 	plt.scatter(X_embedded[:, 0], X_embedded[:, 1], s=size_array[:],
 			c='black', marker=".", alpha=1)
@@ -292,9 +343,11 @@ for _ in itertools.repeat(None, N):
 		x.extend([ids[idx]])
 
 	# SAVE to txt file as csv for later import to d3
-	txt_fn = datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M')+"_SONDHEIM_TSNE_"+str(n_comp_init)+"_"+str(n_comp)+"_"+str(perp)+"_"+str(lr)+"_"+str(exag)+"_num_iter"+str(num_iter)+".txt"
+	#txt_fn = datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M')+"_SONDHEIM_TSNE_"+str(n_comp_init)+"_"+str(n_comp)+"_"+str(perp)+"_"+str(lr)+"_"+str(exag)+"_num_iter"+str(num_iter)+".txt"
 
-	txt_fn_path = "txt/"+txt_fn
+
+
+	txt_fn_path = txt_save_PATH+txt_fn
 	f_txt=open(txt_fn_path,'w')
 	f_txt.write("x,y,id,s")
 

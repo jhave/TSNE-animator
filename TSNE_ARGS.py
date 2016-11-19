@@ -3,6 +3,7 @@ import os, datetime
 import re
 
 import io
+import argparse
 
 import itertools
 from random import randint
@@ -16,7 +17,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 ######  PARAMETERS Randomized in loop of N iterations ##############
 
-N=80000
+N=8000
 init_ar = ["random","pca"]
 
 # verbosity 
@@ -103,80 +104,144 @@ vectors = TfidfVectorizer().fit_transform(poems)
 print(repr(vectors))
 
 
+
+
 # PARAMETERS INIT
 
 lr_MAX = 1100
-lr_MIN = -1100
-lr_INIT = lr_MAX
-lr_BOOL = False
-lr_INC = 0.3
+lr_MIN = -600
+#lr_INIT = lr_MIN
+lr_BOOL = True
+lr_INC = 0.1
 
 lr_gate = 0
 
 n_comp_init_MAX = 160
 n_comp_init_MIN = 2
 n_comp_init_BOOL = True
-n_comp_init_INIT = n_comp_init_MIN
-n_comp_init_INC = 1
+complexity_INIT = n_comp_init_MIN
+complexity_INC = 0.1
 
-complexity_gate =0
+complexity_gate = 0
 
 perp_MAX = 120
 perp_MIN = 1
 perp_INIT = perp_MIN
 perp_BOOL = True
-perp_INC = 1
+perp_INC = 1.0
 
 perplexity_gate = 0
 
-exag_MAX = 22.0
+exag_MAX = 33.0
 exag_MIN = 1.0
-exag_INIT = 1.0
+#exag_INIT = 1.0
 exag_BOOL = True
-exag_inc = 0.3
+exag_inc = 0.1
 
 exag_gate =0
 
 
-
-
+# How often will parameters change: 'limit = 0' means change always
 lr_gate_limit =0
-c_gate_limit = 111
-p_gate_limit = 22
-e_gate_limit = 1200
+
+
+#
+c_gate_limit = 0
+p_gate_limit = 0
+
 
 num_iter= 200
 init = 'pca'
 
-#layers? TODO: expand
+## LAYERS
 n_comp = 2
 
 
-# folder to SAVE into
 
-save_PATH = "SONDHEIM_"+str(datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M'))
+################### Get Args ##########################
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--learning_rate', type=float, default=-600.0)
+parser.add_argument('--learning_rate_INC', type=float, default=0.1)
+
+
+parser.add_argument('--exag_rate', type=float, default=1.0)
+parser.add_argument('--exag_rate_INC', type=float, default=0.1)
+
+parser.add_argument('--e_gate_limit', type=int, default=10)
+parser.add_argument('--c_gate_limit', type=int, default=11)
+parser.add_argument('--lr_gate_limit', type=int, default=1)
+
+parser.add_argument('--complexity', type=int, default=50)
+parser.add_argument('--complexity_INC', type=float, default=0.1)
+
+parser.add_argument('--perplexity', type=float, default=20)
+parser.add_argument('--perplexity_INC', type=float, default=0.1)
+
+parser.add_argument('--random_state', type=int, default=None)
+
+args = parser.parse_args()
+
+print("--learning_rate:",args.learning_rate)
+
+lr_INIT = args.learning_rate
+lr_INC = args.learning_rate_INC
+
+exag_INIT = args.exag_rate
+exag_inc = args.exag_rate_INC
+
+e_gate_limit = args.e_gate_limit
+c_gate_limit = args.c_gate_limit
+lr_gate_limit = args.lr_gate_limit
+
+complexity_INIT = args.complexity
+complexity_INC = args.complexity_INC
+
+perp_INIT = args.perplexity
+perp_INC = args.perplexity_INC
+
+random_state = args.random_state
+
+
+
+##################  SAVE Folders ##############
+
+dt =datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M')
+save_PATH = "SONDHEIM_LR{}_EXAG{}_C{}_EGL{}_{}".format(lr_INIT, exag_INIT, complexity_INIT, e_gate_limit, dt)
 if not os.path.exists("img/"+save_PATH):
 	os.makedirs("img/"+save_PATH)
 print("save_PATH:",save_PATH)
 
+t_save_PATH = "SONDHEIM_{}".format( dt)
+txt_save_PATH = "txt/{}/".format(t_save_PATH)
+if not os.path.exists(txt_save_PATH):
+	os.makedirs(txt_save_PATH)
+
+
+
+
+
 ################### N iterations ######################
 
 iters =0
+
 
 for _ in itertools.repeat(None, N):
 
 	iters = iters + 1
 	print (str(iters))
 
-	n_comp_init = n_comp_init_INIT
+
 	lr = lr_INIT
 	perp = perp_INIT
 	exag = exag_INIT
 
+
+
 	############# RAISE INIT PARAMETERS ##############
 
 
-	### PERPLEXITY
+	### LEARNING RATE
 	lr_gate = lr_gate +1	
 	if lr_gate > lr_gate_limit :
 
@@ -196,38 +261,42 @@ for _ in itertools.repeat(None, N):
 				lr_INIT  = round(lr_INIT - lr_INC,1)
 
 	# ### PERPLEXITY
-	# perplexity_gate = perplexity_gate +1	
-	# if perplexity_gate > p_gate_limit :
+	perplexity_gate = perplexity_gate +1	
+	if perplexity_gate > p_gate_limit :
 
-	# 	perplexity_gate =0
+		perplexity_gate =0
 
-	# 	if perp_BOOL:
-	# 		perp_INIT = perp_INIT + perp_INC #int(lr_INC/4)
-	# 	else:
-	# 		perp_INIT = perp_INIT - perp_INC #int(lr_INC/4)
+		if perp_BOOL:
+			perp_INIT = round( (perp_INIT + perp_INC),2)
+		else:
+			perp_INIT = round( (perp_INIT - perp_INC),2)
 
-	# 	if perp_INIT >= perp_MAX: 
-	# 		perp_BOOL = False
-	# 	elif perp_INIT <= perp_MIN: 
-	# 		perp_BOOL = True
+		if perp_INIT >= perp_MAX: 
+			perp_BOOL = False
+		elif perp_INIT <= perp_MIN: 
+			perp_BOOL = True
 
 	### COMPLEXITY (reduction at beginning)
 
-	# complexity_gate = complexity_gate +1	
-	# if complexity_gate > c_gate_limit :
+	complexity_gate = complexity_gate +1
+	print(complexity_gate,c_gate_limit, complexity_INIT, complexity_INIT)	
+	if complexity_gate > c_gate_limit :
+		print("inside complex",n_comp_init_BOOL,complexity_INC)
+		complexity_gate =0
 
-	# 	complexity_gate =0
+		if n_comp_init_BOOL:
+			complexity_INIT= round( (complexity_INIT + complexity_INC),2)
+			print("+ complexity_INIT",complexity_INIT)
+		else:
+			complexity_INIT  = round( (complexity_INIT - complexity_INC),2)
+			print("- complexity_INIT",complexity_INIT)
 
-	# 	if n_comp_init_BOOL:
-	# 		n_comp_init_INIT = n_comp_init_INIT + n_comp_init_INC #int(lr_INC/2)
-	# 	else:
-	# 		n_comp_init_INIT  = n_comp_init_INIT - n_comp_init_INC #int(lr_INC/2)
+		
 
-
-	# 	if n_comp_init_INIT >= n_comp_init_MAX: 
-	# 		n_comp_init_BOOL = False
-	# 	elif n_comp_init_INIT <= n_comp_init_MIN: 
-	# 		n_comp_init_BOOL = True
+		if complexity_INIT >= n_comp_init_MAX: 
+			n_comp_init_BOOL = False
+		elif complexity_INIT <= n_comp_init_MIN: 
+			n_comp_init_BOOL = True
 
 	### Early Exaggeration
 
@@ -246,7 +315,7 @@ for _ in itertools.repeat(None, N):
 
 
 	print ("************************************")
-	print ("N_components (fed to TruncatedSVD) :",n_comp_init)
+	print ("N_components (fed to TruncatedSVD) :",complexity_INIT)
 	print ("N_components (fed to TSNE) :",n_comp)
 	print ("Perplexity (fed to TSNE) :",perp)
 	print ("Learning_rate (fed to TSNE) :",lr)
@@ -259,8 +328,8 @@ for _ in itertools.repeat(None, N):
 	# For high-dimensional sparse data it is helpful to first reduce the dimensions to 50 dimensions with TruncatedSVD and then perform t-SN.head()E. This will usually improve the visualization.
 	# '''
 
-	X_reduced = TruncatedSVD(n_components=n_comp_init, random_state=0).fit_transform(vectors)
-	X_embedded = TSNE(n_components=n_comp, perplexity=perp, learning_rate=lr, verbose=verb, init=init, early_exaggeration=exag, n_iter=num_iter).fit_transform(X_reduced)
+	X_reduced = TruncatedSVD(n_components=complexity_INIT, random_state=0).fit_transform(vectors)
+	X_embedded = TSNE(n_components=n_comp, perplexity=perp, learning_rate=lr, verbose=verb, init=init, early_exaggeration=exag, n_iter=num_iter, random_state=random_state).fit_transform(X_reduced)
 
 	fig = plt.figure(figsize=(16, 9))
 	fig.patch.set_facecolor('white')
@@ -271,7 +340,7 @@ for _ in itertools.repeat(None, N):
 
 	nup = len(poems)
 
-	plt.title('Layers %s \nLearning rate: %s    Complexity: %s  \nPerplexity: %s    Exaggeration: %s'%(n_comp,lr, n_comp_init,perp,exag), loc='left')
+	plt.title('LYS: %s | LR: %s \nC: %s | P: %s | E: %s'%(n_comp,lr, complexity_INIT,perp,exag), loc='left')
 			
 	plt.scatter(X_embedded[:, 0], X_embedded[:, 1], s=size_array[:],
 			c='black', marker=".", alpha=1)
@@ -292,9 +361,12 @@ for _ in itertools.repeat(None, N):
 		x.extend([ids[idx]])
 
 	# SAVE to txt file as csv for later import to d3
-	txt_fn = datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M')+"_SONDHEIM_TSNE_"+str(n_comp_init)+"_"+str(n_comp)+"_"+str(perp)+"_"+str(lr)+"_"+str(exag)+"_num_iter"+str(num_iter)+".txt"
+	#txt_fn = datetime.datetime.now().strftime('%Y-%m-%d_%Hh%M')+"_SONDHEIM_TSNE_"+str(complexity_INIT)+"_"+str(n_comp)+"_"+str(perp)+"_"+str(lr)+"_"+str(exag)+"_num_iter"+str(num_iter)+".txt"
 
-	txt_fn_path = "txt/"+txt_fn
+	txt_fn = "LR{}_EXAG{}_C{}_LAYERS{}_P{}.txt".format(lr,exag,complexity_INIT,n_comp,perp)
+
+
+	txt_fn_path = txt_save_PATH+txt_fn
 	f_txt=open(txt_fn_path,'w')
 	f_txt.write("x,y,id,s")
 
