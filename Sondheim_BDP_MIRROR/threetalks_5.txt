@@ -1,0 +1,77 @@
+==
+
+
+Confusion on the new MOO
+
+NIKUKO:
+
+"We're off and running! You say, "We're off and running!" Wizard says, 
+"Yay!" Wizard says, "The First Room" Wizard says, "We're off and 
+running!" "I don't understand that. I don't understand that. I don't 
+understand that. I don't understand that. You say, "We're off and 
+running!" I don't understand that. I don't understand that. You say, "I 
+don't understand that." I don't understand that. Try this instead: I I 
+don't understand that. Try this instead: I I don't understand that. Try 
+this instead: I I don't understand that. I don't understand that. Try 
+this instead: I I don't understand that. Try this instead: I Wizard 
+says, ""We're off and running!" Wizard says, "I don't understand that." 
+You hear a quiet popping sound; Wizard has disconnected. @quit *** 
+Disconnected *** Connection closed by foreign host.
+
+WIZARD:
+
+"We're off and running! You say, "We're off and running!" Wizard says, 
+"Yay!" You say, "The First Room" I don't understand that. I don't 
+understand that. I don't understand that. I don't understand that. You 
+say, "We're off and running!" I don't understand that. I don't 
+understand that. Nikuko says, "I don't understand that." ""We're off and 
+running! You say, "We're off and running!" Wizard says, "Yay!" Wizard 
+says, "The First Room" Wizard says, "We're off and running!" "I don't 
+understand that. I don't understand that. I don't understand that. I 
+don't understand that. You say, "We're off and running!" I don't 
+understand that. I don't understand that. You say, "I don't understand 
+that." I don't understand that. Try this instead: I I don't understand 
+that. Try this instead: I I don't understand that. Try this instead: I I 
+don't understand that. I don't understand that. Try this instead: I I 
+don't understand that. Try this instead: I
+
+You say, ""We're off and running!" I don't understand that. I don't 
+understand that. I don't understand that. I don't understand that. You 
+say, "I don't understand that." I don't understand that. Try this 
+instead: I I don't understand that. Try this instead: I I don't 
+understand that. Try this instead: I I don't understand that. I don't 
+understand that. Try this instead: I I don't understand that. Try this 
+instead: I I don't understand that. I don't understand that. Try this 
+instead: I I don't understand that. I don't understand that. Try this 
+instead: I I don't understand that. I don't understand that. Try this 
+instead: I I don't understand that. I don't understand that. Try this 
+instead: I I don't understand that. Try this instead: I I don't 
+understand that. I don't understand that. Try this instead: I I don't 
+understand that. @quit *** Disconnected *** Connection closed by foreign 
+host.
+
+MOO:
+
+May 22 01:55:30: LISTEN: #0 now listening on port 7777
+May 22 01:56:02: ACCEPT: #-2 on port 7777 from localhost, port 44430
+May 22 01:56:09: CONNECTED: Wizard (#2) on port 7777 from localhost, 
+ port 44430
+May 22 01:57:34: ACCEPT: #-3 on port 7777 from localhost, port 50356
+May 22 01:57:44: CONNECTED: Nikuko (#95) on port 7777 from localhost, 
+ port 50356
+May 22 02:03:41: DISCONNECTED: Wizard (#2) on port 7777 from localhost, 
+ port 44430
+May 22 02:05:10: DISCONNECTED: Nikuko (#95) on port 7777 from localhost, 
+port 50356
+
+May 22 02:08:07: SHUTDOWN: shutdown signal received
+May 22 02:08:07: DUMPING on Checkpoint.db.#1# ...
+May 22 02:08:07: DUMPING: Writing 96 objects...
+May 22 02:08:07: DUMPING: Done writing 96 objects...
+May 22 02:08:07: DUMPING: Writing 1698 MOO verb programs...
+May 22 02:08:07: DUMPING: Done writing 1698 verb programs...
+May 22 02:08:07: DUMPING: Writing forked and suspended tasks...
+May 22 02:08:07: DUMPING: Writing list of formerly active connections...
+May 22 02:08:07: DUMPING on Checkpoint.db.#1# finished
+
+

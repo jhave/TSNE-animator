@@ -1,0 +1,67 @@
+
+-
+
+
+Virtuality and Spaces
+
+All of the spaces are different; talkers have lean commands, present a 
+rigidity that tends to dissolve in the midst of conversation. On a MOO,
+the environment is always present, and on haven, it never is. One is
+aware of locale and movement on an lpmud, as well as striations/hier-
+archies of power, danger, hunger, friendship. On Unixtalk, the body is
+a presentification throughout the textual; in other applications, the
+body is mediated by the third person presented as second (on MOO) and
+as third (on talker). In some spaces, <Alan> Hi! is given with other
+prompt information such as date or time - in others, Alan says, "Hi!", 
+or Alan exclaims "Hi!", taking cues from name and punctuation. Because
+the body follows suit, the body is singular, doubled, tripled, in cyber-
+space, even in the writing of it. In Unixtalk, one; talker two, MOO or
+MUD, 3. On ThePalace one observes its compression, manifestation of 
+Lacan's singular a, Barthes' punctum. The symbolic encompasses. In IRC,
+scroll dominates, the same scroll that lends itself to the real: i.e. 
+"Wandering down Flatbush, I found myself scrolling." Entrances and exits
+give the appearance of the lateral. On Unixtalk, conversation inter-
+twines the (usually two) participants; on talkers, half-hearted group
+chats often lead to (predetermined?) couplings. The interactions on IRC
+are counterpunctual dances without recognizable harmony; one is within
+or without them. On MUDs and MOOs, deliberate interferences are often in
+evidence; the structure continually asserts itself in the form of bots
+for example. Actions on IRC on the other hand are translucent statements
+of momentary opinion. Texts such as this in the form of posts appear
+monolithic; they're of a unary time, occupy a bandwidth of the I/eye. 
+What moves, moves solely to content intercut with itself. The standard
+buffer is around 256 characters on MOOs, about three-and-a-half lines
+often interrupted by others' speech in their typing unless a client is
+utilized. IRC tends towards the gasp of a breath, fast-forward; Unixtalk
+might present whole paragraphs at a time, or double-rushings each seek-
+ing to complete the text of the other. They remain apart, separated by 
+the suture of a dotted line, the screen presenting unassimilated terri-
+tory. Land is born. In IRC, no one owns the channel, not even the chan-
+nel owner. You're invited to my space on the MOO, but the space floats;
+words cover the screen and the space isn't equivalent to the screen 
+space although it can play with it, tease, seduce. The text/post moves
+_one screen at a time._ Message boards on talkers, MOOs, MUDs, every-
+where in fact, can be used for display of longer texts as well, as can
+descriptions (of spaces, rooms, newsfiles, welcomes) themselves. I en-
+vision a talker utilized for a course in which each space is actually
+a text waiting for comments; the latter come in the form of texts on the
+board. Think of MIRC and what might be added there, as well as Global
+Chat. ThePalace has objects which might be texts. One might enter a text
+in ThePalace as well, body skittering across one or another font. I've
+seen cut and paste in Unixtalk but it's only a screen; lengthy texts on
+talker have appropriate quit or continue commands. Beyond the opening
+welcome, haven is just haven, a relatively closed environment of flick-
+ering channels, good for the fast rush. From compilation, haven's tiny
+and compact; undernet seems to go on forever and probably does. Powwow
+has the ability to send files and like some of the other applications
+off the Web, it can go back on, traveling around with groups in mind. 
+The Powwow interface is similar to ytalk, a variety of Unixtalk, vertic-
+ally divided as well as horizontal and useful for chat but the windows
+seem to small for lengthy discussion unless predetermined. In IRC the
+problem is the competition of users; even with the text entered at the
+bottom of the screen, there's little room for considerate discussion
+and the weaving leaves one behind, the longer one remains external pre-
+paring the keys. Place everything in .plan or .sig and let them know
+who you are. Open up a radio station. Go real.
+
+

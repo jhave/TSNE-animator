@@ -1,0 +1,95 @@
+==
+
+
+Internet Philosophy and Psychology -                              May 00
+
+
+(Because of my mother's death, this hasn't been sent out in a while. The
+Internet Text is being issued on a cdrom in June, by Railroad Earth in
+Atlanta; the cdrom will include audio, video, image, and other files as
+well.)
+
+This is a somewhat periodic notice describing my Internet Text, available
+on the Net, and sent in the form of texts to various lists. The URL is:  
+http://www.anu.edu.au/english/internet_txt/ which is partially mirrored at
+http://lists.village.virginia.edu/~spoons/internet_txt.html. (The first
+site includes some graphics, dhtml, The Case of the Real, etc.)
+
+The changing nature of the email lists, Cybermind and Fiction-of-Philoso-
+phy, to which the texts are sent individually, hides the full body of the
+work; readers may not be aware of the continuity among them. The writing
+may appear fragmented, created piecemeal, splintered from a non-existent
+whole. On my end, the whole is evident, the texts extended into the lists,
+partial or transitional objects.
+
+So this (periodic) notice is an attempt to recuperate the work as total-
+ity, restrain its diaphanous existence. Below is an updated introduction. 
+
+-----
+
+The "Internet Text" currently constitutes around 100 files, or 4000 print-
+ed pages. It began in 1994, and has continued as an extended meditation on
+cyberspace, expanding into 'wild theory' and literatures.
+
+Almost all of the text is in the form of short-waves or long-waves. The
+former are the individually-titled sections, written in a variety of sty-
+les, at times referencing other writers/theorists. The sections are inter-
+related; on occasion emanations appear, avatars possessing philosophical
+or psychological import. They also create and problematize narrative sub-
+structures within the work as a whole. Such are Julu, Alan, Jennifer, and
+Nikuko, in particular. 
+
+The long-waves are fuzzy thematics bearing on such issues as death, love,
+virtual embodiment, the "granularity of the real," physical reality, com-
+puter languages, and protocols. The waves weave throughout the text; the
+resulting splits and convergences owe something to phenomenology, program-
+ming, deconstruction, linguistics, prehistory, etc., as well as to the
+domains of online worlds in relation to everyday realities.
+
+Overall, I'm concerned with virtual-real subjectivity and its manifesta-
+tions, in relation to various philosophical issues. Recently I've been
+working with body issues such as sickness, health, and death, as well as
+a phenomenology of cancer; I've also been exploring issues of exhibition-
+ism and the ontology of transparency. (See file lj.)
+
+I have used MUDS, MOOS, talkers, perl, d/html, qbasic, linux, emacs, Cu-
+SeeMe, etc., my work tending towards embodied writing, texts which act and
+engage beyond traditional reading practices. Some them emerge out of per-
+formative language soft-tech such as computer programs which _do_ things;
+some emerge out of interferences with these programs, or conversations
+using internet applications that are activated one way or another. And
+some of the work appears from collaboration, for example with Barry Smylie
+(flash) or Azure Carter and Foofwa d'Imobilite (video, dance).
+
+There is no binarism in the texts, no series of definitive statements.
+Virtuality is considered beyond the text- and web-scapes prevalent now.
+The various issues of embodiment that will arrive with full-real VR are
+already in embryonic existence, permitting the theorizing of present and
+future sites, "spaces," nodes, and modalities of body/speech/community.
+
+It may be difficult to enter the texts for the first time. The Case of the
+Real is a sustained work that may be of help. It is also helpful to read
+the first file, Net1.txt, and/or to look at the latest files (lf, lg, lh,
+li, lj, lk) as well. Skip around.  The Index works only for the earlier
+files; you can look up topics and then do a search on the file listed.
+
+The texts may be distributed in any medium; please credit me. I would ap-
+preciate in return any comments you may have.
+
+I should mention you can find my collaborative activities at
+http://trace.ntu.ac.uk/writers/sondheim/index.htm and my conference
+activities at http://trace.ntu.ac.uk - both as a result of my virtual 
+writer-in-residence with the Trace online writing community. The last
+trAce project, the Lost Project, is at http://trace.ntu.ac.uk/lost/ .
+
+See also:
+Being on Line, Net Subjectivity (anthology), Lusitania, 1997
+New Observations Magazine #120 (anthology), Cultures of Cyberspace, 1998
+The Case of the Real, Pote and Poets Press, 1998
+Jennifer, Nominative Press Collective, 1997
+
+Alan Sondheim 718-857-3671 
+432 Dean Street, Brooklyn, NY, 11217
+mail to: sondheim@panix.com 
+
+

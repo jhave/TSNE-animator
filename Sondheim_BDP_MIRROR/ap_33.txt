@@ -1,0 +1,64 @@
+
+-
+
+
+Text-Based
+
+
+My brother, who is involved with geomatics, and I, have been discussing
+the Net, in particular text-based applications. I find that MOOs, etc., as
+well as email lists, Usenet, are hardly mentioned in the media, of course,
+at this point - all attention going to the Web. I find also that the
+commercialization almost inherent in the Web mitigates against it being a
+domain for textual interchange, at least at this point in time;  while
+email can be embedded in html, etc., the tendency is towards cor- porate
+feedback, and this colors everything. I also find a "boytoy"  attitude
+which is critiqued in the Wired_Women book that has just ap- peared. My
+brother on the other hand feels that there is ample room for both text and
+graphics applications, that the commercialization doesn't necessarily seep
+down into the textual, that the move towards graphics will allow for
+greater participation and wider demographics overall, in the long run.
+Both of us feel that the Net is in an early process of development, that
+no one is sure where things are going. We talked about the NC, network
+computer, and he's more optimistic than I am. I feel that the NC will
+require at the least an auxiliary hard-drive in order to protect any sort
+of data from Net-hacking, and that this requirement, and others, already
+leads the NC in the direction of a PC-"povera," that won't work as well as
+the PC itself, since all the components will be user-add-ons. He feels
+that a lot of the use of the NC would be family-oriented, that children,
+for example, might well keep their drawings on-line for sending and
+further manipulation - in which case, the hard-drives, etc. might be un-
+necessary. He also pointed out that a strong use of the NC would be in
+intranet applications, where information would be company-based, and could
+be centrally stored. 
+
+I begin to wonder whether the history of the Net is not overwhelming me,
+since it relates to the anarcho-new left radicalism of the 1960s, out of
+which came books as well, Levy's Hackers being a prime example. For me, it
+has always been more or less open-channel, simultaneously hacked and pro-
+tected, but a domain whose objectivity could claim to be, in part, ab-
+sorbed by subjectivity, a domain aligned with _speaking_ as well as with
+_writing,_ and therefore paradoxically, with _body_ from the very beginn-
+ing. For someone else, coming later to technology and techne, it is al-
+ready and always already display, spectacle, permitting the _insertion_ of
+the subject, much as Lacan's langue permits the insertion of the _I_ as
+shifter which then resonates/constructs the _same._ (Thus in a crude 
+sense the Net as _culture_ as opposed to the Net as _nature._ In Virtual 
+Geography, Wark already speaks of the topography of information and in- 
+formation vectors as "third nature"...)
+
+The latter representation stresses the Net-inert, so to speak, the given
+and pregiven, even in the midst of upgrade, which is also given and pre-
+given. The former emphasizes the process itself, including upgrading as a
+series of plateaus and transformations. The latter fits neatly into a
+corporate model, and the former, into one that is more or less knowledge-
+based. In fact, the old distinction of entertainment/information paths for
+Net development (by "old" I mean no more, say, than three years) leads
+to these differences as well, entertainment appealing to the libidinal 
+energy driving or inherent in capital, and information relating to the 
+very _problematic_ of thought, thinking, text on or off the Net...
+
+Five years from now, this will all be history, like radicality itself, 
+which has already dissolved on one hand in its own problematic, and on 
+the other in its fetishization within _Wired_ and the Web.
+

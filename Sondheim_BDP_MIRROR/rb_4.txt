@@ -1,0 +1,40 @@
+=
+
+in den Mund," "death and life into the mouth" followed by "Ich ahne," "I 
+in fact an inversion of death and life: for it may be that we already are
+thing from definitions of life and death to breakaway provinces and the
+point, they were simultaneously life and death, my self-disappearance into 
+balance of life and death
+of life and death. It's the pith-man and pith-woman who jump up and down
+despair. Travis spoke and his mouth swallowed primeval life and death,
+Between life and death, a horizon or certain cessation.
+upon maya for cycles of life and death, reconstruction of imaginary total
+and it's a sentence of life and death
+/[v]+/ { "and all dichotomies of war and peace and life and death" } 
+of life and death over each and every user. i will tip the scales. 
+life and death left to themselves.
+experience the dialectic between life and death." "Obscenity thus 
+sexual abandon, fear of life and death themselves. One exists in limbo
+junction as not both life and death. i read the conjunction as neither 
+birds, test the apparatus against the limits of life and death. It's the 
+Wait, we're just a page between life and death! A spot on the sunglasses 
+life and death and internet: mourning the impossible object. leaving the
+sustainable temperature is reached. life and death are in the mind of the
+swimming towards me and it's a sentence of life and death the future 
+life and death the balance of water and air balance of death 'sdeath
+peace and life and death the writing should open after the death of the 
+the kiss the touch of life and death
+more explanation. that it is always a matter of life and death
+the kiss the touch of life and death
+life and death the balance of water and air balance of death 'sdeath
+the kiss the touch of life and death
+junction as not both life and death. i read the conjunction as neither 
+limits of existence, which are life and death.
+life and death left to themselves.
+leaking, i begin to think of death in life, and death
+leaking, i begin to think of death in life, and death
+19	grep -h "death and life" texts/* > zz
+20	grep -h "life and death" texts/* >> zz
+21	grep -h "death in life" texts/* >> zz
+22	grep -h "life in death" texts/* >> zz
+

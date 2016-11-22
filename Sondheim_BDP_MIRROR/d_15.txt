@@ -1,0 +1,106 @@
+
+
+
+
+
+
+Routing Cycle
+
+
+
+
+
+For those who haven't seen this before, here's a black-hole circulation, 
+
+I believe, on the Net; it continued through traceroute to surfnet.com 
+
+until the maximum hops (30) exhausted themselves...
+
+
+
+This is the downside of the blindside, interconnectivity lending itself to
+
+neural networking, intelligent agents, and wall-crashing simultaneously. 
+
+
+
+"_Black holes_ may result from any of several phenomena. During recovery 
+
+from link failure temporary circular routes can arise. Once a packet 
+
+enters such a route, it circulates until either the loop is corrected or 
+
+a maximum time to live is exceeded." ... (Spragins, Telecommunications 
+
+Protocols and Design)
+
+
+
+Welcome to the Maelstrom
+
+
+
+
+
+ 1  xenyn-eid-E0.nyc.access.net (198.7.0.126)  2 ms  3 ms  2 ms
+
+ 2  sl-dc-1-S12-T1.sprintlink.net (144.228.21.21)  15 ms  10 ms  11 ms
+
+ 3  sl-dc-6-F0/0.sprintlink.net (144.228.20.6)  14 ms  11 ms  10 ms
+
+ 4  sl-stk-5-H1/0-T3.sprintlink.net (144.228.10.2)  81 ms  74 ms  76 ms
+
+ 5  sl-stk-2-F0.sprintlink.net (144.228.40.2)  151 ms  120 ms  140 ms
+
+ 6  sl-rgnet-1-S1-T1.sprintlink.net (144.228.42.22)  81 ms  81 ms  80 ms
+
+ 7  * ln1-ms-sf.tlg.net (140.174.178.2)  88 ms  82 ms
+
+ 8  ts1-ms.tlg.net (140.174.77.13)  87 ms  84 ms  85 ms
+
+ 9  gw-ms-sf.tlg.net (140.174.77.5)  84 ms  82 ms  85 ms
+
+10  ts1-ms.tlg.net (140.174.77.13)  86 ms  85 ms  87 ms
+
+11  gw-ms-sf.tlg.net (140.174.77.5)  83 ms  86 ms  84 ms
+
+12  ts1-ms.tlg.net (140.174.77.13)  88 ms  89 ms  86 ms
+
+13  gw-ms-sf.tlg.net (140.174.77.5)  100 ms  91 ms  87 ms
+
+14  ts1-ms.tlg.net (140.174.77.13)  92 ms  91 ms  89 ms
+
+15  gw-ms-sf.tlg.net (140.174.77.5)  89 ms  88 ms  86 ms
+
+16  ts1-ms.tlg.net (140.174.77.13)  90 ms  90 ms  99 ms
+
+17  gw-ms-sf.tlg.net (140.174.77.5)  89 ms  94 ms  96 ms
+
+18  ts1-ms.tlg.net (140.174.77.13)  91 ms  90 ms  95 ms
+
+19  gw-ms-sf.tlg.net (140.174.77.5)  102 ms  103 ms  104 ms
+
+20  ts1-ms.tlg.net (140.174.77.13)  93 ms  95 ms  92 ms
+
+21  gw-ms-sf.tlg.net (140.174.77.5)  104 ms  99 ms  104 ms
+
+22  ts1-ms.tlg.net (140.174.77.13)  95 ms  98 ms  99 ms
+
+23  gw-ms-sf.tlg.net (140.174.77.5)  96 ms  95 ms  97 ms
+
+24  ts1-ms.tlg.net (140.174.77.13)  96 ms  110 ms  97 ms
+
+25  gw-ms-sf.tlg.net (140.174.77.5)  101 ms  106 ms  96 ms
+
+26  ts1-ms.tlg.net (140.174.77.13)  98 ms  102 ms  99 ms
+
+27  gw-ms-sf.tlg.net (140.174.77.5)  104 ms  103 ms  122 ms
+
+28  ts1-ms.tlg.net (140.174.77.13)  131 ms  101 ms  105 ms
+
+29  gw-ms-sf.tlg.net (140.174.77.5)  100 ms  99 ms  101 ms
+
+30  ts1-ms.tlg.net (140.174.77.13)  106 ms  102 ms  102 ms
+
+
+

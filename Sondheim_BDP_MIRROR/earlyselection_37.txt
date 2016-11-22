@@ -1,0 +1,39 @@
+
+
+
+#!/usr/local/bin/perl
+
+# Birth and Death of Virtual Children
+# Call this file parent
+# Change this to executable; execute
+# Reconfigured from Gundavaram, CGI Programming on the World Wide Web
+
+$| = 1;
+print "Wail! Wail! We are all alone!", "\n";
+sleep(1);
+print "We are about to create the child!", "\n";
+sleep(1);
+
+if ($pid = fork) {
+  print <<End_of_Parent;
+
+I am the parent speaking. I have made a child. The process number of my
+child is: $pid. All I can do is give her a number!!! I am frightened of
+this. She will reside with me and with you!!! God help her!
+
+End_of_Parent
+
+} else {
+          close (STDOUT);
+          system ("cp", "parent", "child");
+          system ("rm", "child");
+          exit(0);
+}
+sleep(3);
+print "Oh Oh I have lost my daughter! I have lost her forever.", "\n";
+sleep(1);
+print "Now she is gone forever! I will kill the father!", "\n";
+sleep(1);
+print "Wail! Wail! Wail! $pid is gone forever!", "\n";
+
+exit(0);

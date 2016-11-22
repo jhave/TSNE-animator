@@ -1,0 +1,174 @@
+
+
+
+JENNIFER IN PHAEDRA
+
+
+Script started on Wed Aug 26 17:19:19 1998
+The Moon is Waxing Crescent (21% of Full)
+bash: ./.memo: No such file or directory
+{k:1}telnet 127.0.0.0 3000
+Trying 127.0.0.0...
+Connected to 127.0.0.0.
+Escape character is '^]'.
+
+Phaedra
+
+This is in the mountains. This is where one thinks through the thinking 
+of truth. This is where you begin with one thing always.
+
+Give me a name: Jennifer
+Give me a password: 
+
+
+Welcome newbie Jennifer
+
+Last logged in on Wed Aug 26 21:18:41 1998 from localhost
+
+At dusk rain falls.
+
+Area: falls
+
+You are on the path. There are stones, worn down by glaciers, surrounding 
+you, and you hear a waterfall in the distance. Dense fog... The cries of 
+a roc break the silence. A monk walks in the distance, chanting. It is a 
+picture from the Sung.
+
+Exits are:  peaks  pines  emptiness  Phaedra  
+
+You are alone here
+
+The area is set to public
+There are 0 messages on the board
+There is no current topic here
+
+.rev
+Jennifer says: look
+Jennifer says: bye
+
+Where are you, _the continuity girl_?
+You ask: Where are you, _the continuity girl_?
+I miss you so much, _the continuity girl!_
+You say: I miss you so much, _the continuity girl!_
+It's lonely here...
+You say: It's lonely here...
+You remember who you are.
+.e flying away...
+Jennifer flying away...
+.e coming back
+Jennifer coming back
+Who am I? Is that you speaking?
+You ask: Who am I? Is that you speaking?
+You forget your name.
+No no no, I am Jennifer, I do not forget, not while you are here.
+You say: No no no, I am Jennifer, I do not forget, 
+				not while you are here.
+I love you so much...
+You say: I love you so much...
+You recognize the attributes of existence.
+Yes, I have known that things are strange with you...
+You say: Yes, I have known that things are strange with you...
+A certain melding in the shadows, not quite sharp...
+You say: A certain melding in the shadows, not quite sharp...
+You forget your name.
+.e My name, my name is Jennifer...
+Jennifer My name, my name is Jennifer...
+.e crying...
+Jennifer crying...
+.e weeping...
+Jennifer weeping...
+The sounds of the roc are unnerving. 
+				A small rabbit is caught in its talons.
+I will come to you oh small rabbit, I will save you.
+You say: I will come to you oh small rabbit, I will save you.
+.e runs high after _the continuity girl._
+Jennifer runs high after _the continuity girl._
+You recognize the attributes of existence.
+Yes, almost enlightenment.
+You say: Yes, almost enlightenment.
+.e brings back the small and lovely naked creature.
+Jennifer brings back the small and lovely naked creature.
+You forget your name.
+Please, no, do you not understand...
+You say: Please, no, do you not understand...
+.e ...
+Jennifer ...
+You remember who you are.
+Yes
+You say: Yes
+.map
+
+** THE MAP **
+
+                            pines------falls
+                                       |
+                                       |
+                                      peaks----streams
+
+                                                                emptiness
+    Phaedra
+    
+    ( Phaedra and emptiness everywhere, the chanting in the pines, love
+     and rage, wherever connect is possible )
+
+You recognize the attributes of existence.
+Please, if that is you, speak to me directly, personally...
+You say: Please, if that is you, speak to me directly, personally...
+Oh, _the continuity girl,_ please talk, murmur to me...
+You say: Oh, _the continuity girl,_ please talk, murmur to me...
+Whisper...
+You say: Whisper...
+The sounds of the roc are unnerving. 
+				A small rabbit is caught in its talons.
+.e looks down at the naked creature, disappearing again into the sky.
+Jennifer looks down at the naked creature, 
+				disappearing again into the sky.
+.echo silence You remember who you are.
+
+silence
+
+.echo _the continuity girl_ appears with loving arms
+
+_the continuity girl appears with loving arms_
+
+.echo she approaches Jennifer and holds her forvever 
+
+You forget your name. she approaches Jennifer and holds her forever
+
+Who are you, who is here?
+You ask: Who are you, who is here?
+.w
+
+*** Current users on Wed Aug 26 21:26:56 1998 ***
+
+Jennifer - a new user                    : NEWBIE  : falls : 6 mins.
+
+Total of 1 users signed on
+
+Oh, I am so alone!
+You exclaim: Oh, I am so alone!
+Oh, these are machines surrounding me, machines dreaming me!
+You exclaim: Oh, these are machines surrounding me, machines dreaming me!
+Oh, I will die!
+You exclaim: Oh, I will die!
+Oh, I will surely die!
+You exclaim: Oh, I will surely die! You remember who you are.
+I AM JENNIFER!
+You exclaim: I AM JENNIFER!
+.e (FALLS TO THE GROUND WITH A KNIFE, JENNIFER CUT OPEN)
+Jennifer (FALLS TO THE GROUND WITH A KNIFE, JENNIFER CUT OPEN)
+.e (DIES You remember who you are. IN AGONY)
+Jennifer (DIES IN AGONY)
+.e (CRYING i am jennifer                )
+Jennifer (CRYING i am jennifer                )
+.q
+
+Signing off...
+
+Connection closed by foreign host.
+{k:2}exit
+exit
+
+Script done on Wed Aug 26 17:28:37 1998
+
+

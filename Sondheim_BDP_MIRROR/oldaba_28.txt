@@ -1,0 +1,22 @@
+
+
+
+
+14 lines
+
+{k:1}> new hang.txt; cat lf hang.txt > lf.txt; t; mv lf.txt lf; 
+rm hang.txt; m
+hang text if the cat hangs; hang text if its new; pointer to your
+life; your life everywhere; mmmm...
+hang whatever might be the presence of animals; if something is new
+or out of the ordinary; if you need pointers for living; you're not
+omnipotent; hmmm...
+hang all presences to be freed; whatever is ordinary is invisible;
+pointing the way of all life; you're always invisible; bmmm...
+presences are freed; whatever is new is unforeseen; the way of all
+life is unforeseen; whatever is new is invisible; hmmm...
+you're freed and unforeseen; there is no way of all life; nothing is
+old, nothing new; mmmm...
+visibility of life; hangings; presences; animals; cats; nothing; m
+
+

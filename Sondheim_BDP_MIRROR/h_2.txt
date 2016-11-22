@@ -1,0 +1,112 @@
+
+
+
+
+Given a _message base,_ a message can be construed as the primary unit or
+
+framework within it. (The message doesn't fit into an empty slot or bin,
+
+but defines one.) The _content_ of the message, in terms of the ordinary-
+
+language semantics at work, crosses the framework in a nonlinear pattern
+
+(unlike film, for example, where the frame is linear, and the content
+
+sequentially determined by it). The framework itself of a message-base may
+
+be in the form of an n-dimensional array, with the content-structure a
+
+fuzzy membrane mapped onto it. 
+
+
+
+The _content_ of the message in the sense above is passive, since the
+
+message structure itself serves as a Peircian sheet-of-assertion, and
+
+nothing more. Nevertheless, messages can interfere with their frameworks,
+
+and with the framework array itself, through the use of escape-codes,
+
+hidden characters (or their absence), etc. So the arrangement is one of
+
+protocols, not bins, and the protocols may be modified from within, as
+
+well as without (i.e. the determinant over-all structure). 
+
+
+
+Foreclosing is important here; the normative message (i.e. one which has
+
+no activating codes) possesses discrete boundaries/labels; it is the space
+
+which it occupies. (There are no empty bins, although there may be empty
+
+folders, messages, and (in Caucus), items.) Foreclosing refers to this
+
+boundary-condition; it also refers to the distinctions among the various
+
+protocol layers of TCP/IP in relation to the ASCII text of the message,
+
+and the text's semantics/ostensible contents. The text rides on the pro-
+
+tocol layers, and is isolated from them, just as the layers themselves are
+
+relatively isolated. 
+
+
+
+Foreclosing means more, however, on the level of semantics. In real-life
+
+conversation, speech acts are accompanied by gestures, interruptions,
+
+facial expressions, and so forth (see Derrida/Searle, Limited Inc.).
+
+Within the Net's message-bases, posts are completed, foreclosed, before
+
+and in relation to the reply; a series of productions are created, each
+
+with its own formatting and ordering structures, always related to the
+
+whole. No matter how short the reply-post is, the header remains intact 
+
+(unless the header itself is hacked or created on a protocol level, as 
+
+with telnet 25).
+
+
+
+In other words, the texts are only _weakly-performative_ in relation to
+
+ordinary conversation. In real life, verbal agreements/contracts are
+
+accompanied by everything from handshakes to facial expressions, tone of
+
+voice, and the obdurate presence of the body that constructs the agreement
+
+as "authentic," much as the signature on a check is based on a construc-
+
+tion of authenticity resulting from the movement of the hand/ fingers of a
+
+unique body. But electronic texts, again, are foreclosed from any of the
+
+signs of the real (even tracerouting can be faked by hackers), leaving one
+
+with the need for at least a limited amount of good faith, in order that
+
+the performative operate at all.
+
+
+
+In other words, again: the performative in cyberspace is _either_ that 
+
+which occurs as the result of activating codes, _or_ that which is, in 
+
+relation to speech-act theory, weakly-performative at best, and based on 
+
+a degree of good faith, first and foremost reading the body into what is 
+
+construed as "its" site.
+
+
+

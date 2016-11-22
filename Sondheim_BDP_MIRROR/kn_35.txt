@@ -1,0 +1,43 @@
+
+
+
+
+The leave command in unix: swords into ploughshares.
+
+{k:25} shoot me!
+Mon Sep 14 17:55:34 EDT 1998
+{k:26} You're going to be killed violently violently!
+be me!
+You have no terrifying hate letters!
+{k:27} ls
+kill       violence
+{k:28} cd
+{k:29} You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+You're going to be killed violently violently!
+That was the last time I'll tell you. Bye.
+be me!
+You have no terrifying hate letters!
+{k:30} date me!
+Mon Sep 14 17:55:34 EDT 1998
+{k:31} You're going to be kissed smoochie smoochie!
+be me!
+You have no terrific love letters!
+{k:32} ls
+kiss       smooch
+{k:33} cd
+{k:34} You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+You're going to be kissed smoochie smoochie!
+That was the last time I'll tell you. Bye.
+be me!
+You have no terrific love letters!
+

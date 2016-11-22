@@ -1,0 +1,72 @@
+
+
+
+Demographics, Ecologies
+
+
+After Cybermind and FOP-L moved from majordomo to listserv, and after both
+were advertised initially on NEW-LIST, with its subsequent dispersions,
+both grew rapidly. FOP-L continues to grow; Cybermind has leveled off, at
+around 350. FOP-L is at 182 last count. 
+
+The leveling follows a pattern; as more people subscribe, if the ratio of
+writers to lurkers remains the same, then the flow of email increases and
+more subscribers find their inboxes swamped, leading to more unsubscrib-
+ing. This is a fairly simple feedback model, creating a constancy which 
+can, under certain circumstances, be subverted - for example, if the list 
+is devoted to community or identifies itself as one, the plethora of mes- 
+sages could be taken as a sign of cohesion. 
+
+And a great deal depends also on the accuracy of threads, as well as the 
+types of mail readers employed. If threads are rigorously followed (and 
+they almost always are not), then it becomes easier to delete material 
+that is not of interest, and larger lists may be tolerated. On the other 
+hand, threads are often loosely tethered to one another, and a number of 
+subscribers feel the necessity to at least peruse or speed-read material 
+that doesn't seem directly of consequence. And subscribers may also feel 
+irritated at receiving useless materials; if the category of the useless 
+far outweighs that of the useful for someone, she or he will unsubscribe 
+since the list begins to appear increasingly like spam or text-substance.
+
+Usenet newsgroups have far greater reader/lurkerships, and far greater 
+noise, and are often approached primarily by means of threads - as if the 
+entire message base of a particular group were a body open to dissection.
+While mail readers often present material organized by arrival time, 
+hence modeling a _diachronic_ approach to text, Usenet readers like tin 
+present material organized by thread (subject matter) - the entire _cor- 
+pus_ is laid open simultaneously, and one skims backwards and forwards 
+across the material. To the extent that email lists mimic temporality and 
+speech, newsgroups mimic the spatial display of the body. Email lists are 
+"leaky," appearing open-ended, while Usenet message bases appear of a 
+totality, object-like (the alt.society.neutopian subculture of monster 
+truck neutopians have an FAQ rendered as an "FAQ-like substance," if I 
+remember correctly). The process and dynamic ecology of immersion charac- 
+terize the phenomenology of an email list, while the evolving transfor- 
+mation of states and situations, often highly objectified, are often 
+evoked for Usenet. The self-reflexivity of Usenet often revolves, in 
+fact, around the _framework_ of Usenet itself (alt.hackers or alt.adjec- 
+tive.noun.verb.verb.verb are good examples), while email lists tend 
+towards considerations of history and community _within_ the framework. 
+With the email list, the archive is separated, disparate; with Usenet, it 
+_appears_ as if the newsgroup were its own archive (which is not the case 
+of course) - readers are constantly asking where one message or another 
+has gone (re: alt.fan.tonya-harding.whack.whack.whack for a current 
+example).
+
+These differences are not hard and fast, nor do the reflect the totality 
+of email lists or newsgroups (the sci. newsgroups are of a different 
+character altogether). But they do reflect, I think, certain medium- 
+oriented issues that need to be taken into account. And it would be of 
+great interest to draw up an ecological model for an alt. Usenet group as 
+well, since the threading surface involves the ability for the group 
+itself to absorb a far greater number of posts. There are questions to be 
+asked: Does one wait for a reply in the same manner in alt.x and an email 
+list? Within email lists, spams are perceived as an impurity in an 
+otherwise isolated domain; how are they perceived and handled on Usenet?
+
+And what can both tell us, beyond the obvious platitudes of such books as
+Shirky's Voices from the Net, about the nature of human community, embodi-
+ment, and so forth? 
+
+Alan
+

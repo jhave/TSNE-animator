@@ -1,0 +1,95 @@
+
+
+
+Configuring
+
+
+Thanks to a friend's generosity, I have acquired a Compaq Presario 1075
+laptop, which goes a long way towards multimedia portability, useful for
+demonstrations. Because the floppy doesn't work, I've been careful with
+uploads and downloads - here's a result of the progress to date.
+
+First, I gave the Windows 95 a permanent swapfile, as well as limited the
+cache, disabled expanding menus, and set the click-to-menu time to zero.
+This speeds up the machine and stops unnecessary hard-drive activity. When
+I added Wetsock (weather information), I had to upgrade one of the DLLs; I
+also added Mosaic 3 (for the site mapping function), and this resulted in
+adding three additional older DLLs (Mosaic 3, the last of the Mosaics, is
+from 1997.)
+
+I added a standalone newsprogram which is faster than Netscape's; I also
+added WS_Ftp of course, getting rid of its splash screen. I downloaded
+Hyperterminal 4.0, and set two of them for different Panix telnets; I also
+configured a PCPLUS DOS program for dialup.
+
+I set the System Monitor and Resource meter on the desktop, as well as
+Regedit, used for editing the Windows Register. I downloaded the latest
+Real Audio/video, and IP Tools, which gives finger, ping, and other mon-
+itoring devices. Finally, I set up ICQ.
+
+Because of the 150 MHz speed of the unit, all of this runs quickly; for
+large downloads such as my URLs (about 18 megabytes and a couple of hun-
+dred files), I use the DOS command-line ftp - which is lean and beautiful.
+There are other useful DOS commands as well; ping and netstat are there
+for example. I did have to add a C:\qbasic directory, transfer qbasic.exe
+and associated files, as well as my programs, over; I did this by upload
+and download, since the location of my desktop makes computer-to-computer
+cabling difficult.
+
+On my desktop, I have Win95 with dozens more applications, as well as li-
+nux - but the linux occupies only 300 megabytes of space, and really needs
+more. I can't put all the C libraries in, for example, much less Gimp, a
+graphics tool. For this reason, I'm waiting until I can purchase a larger
+desktop - linux will then take up at least two gigabytes of disk space,
+and I'll be able to use the new kernel.
+
+But the Compaq Presario is beautiful; I can set it up for multimedia pre-
+sentations, using either Netscape or Mosaic as front-ends. Mosaic works
+through a 'presentation mode' (among others) that places the graphics
+full-screen without the surrounding menus or scroll-bars. There's also a
+DOS application which I'll send over, Gifprt, which can be set up in a
+slide-show mode. At that point, everything becomes simple, public, demon-
+strable.
+
+I'd like to see a phenomenology of configuring - when does one back out
+because the returns aren't worth it - what is the bringing-to-conscious-
+ness of the system as a whole (for example, once the swap file is set -
+which depends on total hard drive space and RAM - I can forget about it,
+this 'totality'), and how does it descend to 'filtered' or 'altered' ap-
+lications - when does the operating system become _mine_ - when do I feel
+that I can 'shape-ride' the machine, instead of approaching it as a rela-
+tively unknown system (in other words, when and how does tacit knowledge
+take over) - what sorts of fine-tuning, in terms of appearance and func-
+tion, are done, 'personalizing' the machine (for example, I constantly
+change the desktop appearance, simultaneously working on software) - how
+do 'surfaces' and 'depths' manifest themselves (for example, DOS _always_
+appears 'deeper' than the graphic desktop - I have a DOS icon which opens
+up - as if there were a _wound_ cutting through the outher tissues) - to
+what extent is the configured system _open_ to networking on one hand, and
+_open_ to the user on the other - when does configuring approach the dan-
+ger point, the edge (where the machine might break down) - what defines an
+edge for the user (personal knowledge in dialectic/dialog with the mach-
+ine?) - what defines the _inhabitation_ of the computer, when one feels
+it's a home-space - and so forth. Then there are issues of _labor_ invol-
+ved - for example, reading manuals, downloading and uploading, typing and
+retyping tuning parameters - all of which becomes addiction (opening up a
+phenomenology of addiction, power, foreclosure, and worlding as well) -
+working any number of hours until the point of exhaustion and hallucina-
+tion sets in. There's also the phenomenology of configuring for the novice
+user as well, the user who won't or can't be bothered, the user who is
+fearful of crashing the machine (which includes myself, since with a flop-
+py, there's no boot disk for this one), the user who 'simply' wants to
+feel at home,' treat the computer as an _appliance_ (which I associate
+with the Mac); there's also the user at the far end who desires nothing
+more than to hack the machine, tame it, turn it inside-out, down to the
+levels of assembly or machine language - the user who is at one with the
+_works_ themselves, places herself through the interstices of bits and
+bytes - in other words, the _rhizomatic user._ Finally, there are issues
+of symbolization, thinking-through offline and online digital spaces -
+when language becomes manifest, when the impetus towards a certain effect
+becomes a consciously articulated production of that effect.
+
+The current image on my desktop: rhizomatic structures from the undersur-
+face of lichen, small tentacular hands groping into sheer and empty air.
+
+

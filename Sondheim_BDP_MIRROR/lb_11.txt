@@ -1,0 +1,25 @@
+
+
+
+Debris
+
+
+[ Debris/noise/meanderings occur all over the interface, sudden spurts of
+unknown or unwarranted symbols. This evening, I took my time logging in on
+RedHat, only to find the following. The noise and cycling came from some-
+where - not the mouse, which was the first thing that came to mind. Debris
+might just be that - detritus - but it could also be a signaling, some-
+thing near or far, a warning or murmuring, a message, a sign of love, a
+miracle...  ]
+
+Red Hat Linux release 5.1 (Manhattan)
+Kernel 2.0.34 on an i586
+
+166 login:
+
+yyyyyyyyy*---------7^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~
+^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~
+^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~^[[24~
+^[[24~/////////////////////////////
+
+

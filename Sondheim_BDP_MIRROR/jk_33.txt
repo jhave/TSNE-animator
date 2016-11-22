@@ -1,0 +1,51 @@
+
+
+
+
+
+Revisiting Distinction, 2+2, Various
+
+
+From 1972-4, I worked out a mathematics based on semantics, a mathematics
+of process in which 2+2=4 would _always_ be written as objects and arrows,
+2+2 -> 4, for example. This mathematics involved temporality, and was
+based on containers, channels, and markers; channels connected containers,
+and containers held markers. Networks could be established (somewhat sim-
+ilar to Petrie nets); every individuated distribution of markers among
+containers constituted a state. These networks were graphs; a second set
+of graphs connected states. 
+
+There were graphs which continually oscillated (markers cyclically) and
+graphs which were either immobile or tending towards immobility. It was
+easy to construct meta-graphs, in which each node represented the state of
+another graph (as above) or its own state - written P(Q or P(P. It was
+also possible to construct meta-graphs mapping one-to-many or many-to-one
+or even involving "foreign" graphs and states. 
+
+There were also gates, elements of cause-and-effect or contingency. These
+could be combined to form threshold logic elements, with variable thresh-
+olds, for example.
+
+The possibilities led to the notion of a _topology of intention,_ of dis-
+tinction, represented by these graphs and networks. Such a topology was a
+mathesis based on semantic representation, not syntactics; it implied a
+subject, and because of this there were other operations that could be
+entered "from without," transforming the graphs in various ways.
+
+In this fashion, consciousness was related to transformation, bracketing,
+and distinction; it was possible to think "through" transformation types,
+for example, by investigating various forms of bracketing.
+
+All of this was considered semi-independent of mathematical truth - I held
+(and still hold) such to be ideal (with qualifications, i.e. Godel's posi-
+tion). So for example, it would be possible to have 2+2 -> 3, and this
+could have several meanings: a unit was taken away; a mistake was made;
+someone is insisting on this transformation; the transformation as a whole
+is bracketed as an example in a text (such as this one).
+
+"The logic of consciousness, then, has devices and representations which
+allow both analysis of and meditation on the intentionality inherent in
+the production of the abstract. In a sense the logic of consciousness can
+express its own ongoingness."
+
+

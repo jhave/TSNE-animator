@@ -1,0 +1,37 @@
+
+
+
+ROOT BERM
+
+
+sand      console  desert-slaughter Fri Mar 21 15:17 - 15:42  (00:25)
+sand      ttyp1                     Fri Mar 21 00:16 - shutdown  (01:02)
+sand      ttyp1                     Fri Mar 21 00:16 - 00:16  (00:00)
+sand      ttyp1                     Fri Mar 21 00:16 - 00:16  (00:00)
+sand      ttyp1                     Fri Mar 21 00:16 - 00:16  (00:00)
+sand      console  desert-slaughter Fri Mar 21 00:15 - 00:16  (00:01)
+sand      console  desert-slaughter Thu Mar 20 21:22 - 21:40  (00:17)
+sand      ttyp1                     Fri Jan 24 00:58 - crash  (00:26)
+sand      console  localhost        Fri Jan 24 00:57 - crash  (00:26)
+sand      ttyp1                     Thu Jan 23 23:50 - shutdown  (00:00)
+sand      console  localhost        Thu Jan 23 23:49 - shutdown  (00:01)
+sand      ttyp1                     Wed Jan 22 17:22 - shutdown  (00:00)
+sand      ttyp1                     Wed Jan 22 17:07 - 17:22  (00:14)
+sand      console  localhost        Wed Jan 22 17:06 - shutdown  (00:15)
+sand      console  localhost        Wed Jan 22 16:58 - 16:58  (00:00)
+sand      console  localhost        Wed Jan 22 16:33 - 16:34  (00:01)
+sand      ttyp1                     Sat Aug 24 04:02 - crash  (08:31)
+sand      ttyp1                     Sat Aug 24 03:59 - 04:02  (00:02)
+sand      console  localhost        Sat Aug 24 03:59 - 04:02  (00:03)
+sand      ttyp1                     Sat Aug 24 03:54 - 03:59  (00:04)
+sand      ttyp1                     Sat Aug 24 03:48 - 03:54  (00:06)
+sand      console  localhost        Sat Aug 24 03:48 - 03:57  (00:09)
+sand      ttyp1                     Sat Aug 24 03:12 - crash  (00:13)
+sand      console  localhost        Sat Aug 24 03:12 - crash  (00:14)
+sand      ttyp1                     Fri Aug 23 23:03 - crash  (01:08)
+sand      console  localhost        Fri Aug 23 22:56 - 23:28  (00:31)
+sand      console  localhost        Thu Aug 22 23:37 - 23:43  (00:05)
+
+wtmp begins Thu Aug 22 23:37 
+
+

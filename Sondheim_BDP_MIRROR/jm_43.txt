@@ -1,0 +1,31 @@
+
+
+My Words Cut Off At The Root
+
+traceroute jefferson.village.virginia.edu > zing
+
+ 1  xenyn-eid-E0-1.nyc.access.net (198.7.0.126)  3 ms  3 ms  2 ms
+ 2  tp1-S0-T1.nyc.access.net (166.84.64.38)  3 ms  4 ms  7 ms
+ 3  tp1-E0E1.nyc.pixnet.net (166.84.64.254)  6 ms  5 ms  6 ms
+ 4  netaxs-gw-H0-T3.pixnet.net (166.84.64.46)  15 ms  11 ms  7 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  *
+
+

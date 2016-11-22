@@ -1,0 +1,86 @@
+
+				floor
+--
+
+
+Technical Notes
+
+
+In teaching the Net, I differentiate among three types of access: Unix 
+shell, PPP/SLIP, and GUI/BBS such as AOL, Delphi, and so forth. I find it 
+easiest to teach on the shell; even though it seems the most complex on 
+the surface, it shows immediately what telnet, ftp, etc. _do._ Command 
+lines are clearer than the dispersion of telnet (say) among chat/MOO 
+clients, Netscape helpers, etc. 
+
+Graphics come in a variety of forms, from downloaded to different readers'
+capabilities. The same of course holds true for audio and video, and as
+I've pointed out, there are no standards. What is most difficult, though,
+for students, is getting an account configured in the first place - almost
+nothing except for the GUI/BBS can be taken for granted. I would love a
+Windows95 app - NOT for MSN - that would contain a suite of helpers on top
+of a browser like Netscape, plus a completely-configured winsock. On star-
+tup, an ISP would simply send a series of strings numbered, say, a, b, c,
+d, ..., and these would be entered on a title card. Beyond the card, there
+would be a series of semi-hidden popup/setup menus which could be used for
+everything from graphics standards to new helpers to tuning TCP/IP much
+like trumpet winsock. But these menus would _not_ be necessary; everything
+could be done immediately from the title card. 
+
+Right now, even Netscape in a Box can be difficult to install over, say, 
+Windows 95. Why can't a computer be more like a Mac than a Mac? So that 
+it would be, so to speak, television-ready (no one sets the vertical or 
+horizontal holds by hand anymore).
+
+(Because of the difficulties of installation, it also becomes hard to
+teach the Net itself, which gets "tangled" in its representations. Take
+ftp - which is a double telnet of sorts, one line for command, and the
+other for file send/receive. This is obscure at the command-line, some-
+what simplified in Lynx, very easy in Netscape; different interfaces have
+different instructions and ways of downloading. Utilities get dispersed,
+in other words, among programs. Programs become frameworks and modifiers
+of utilities. I find point-and-click obviously the easiest, but not nearly
+as configurable as, say, Pine or Elm. In any case, all of these terms are
+becoming confused: server, provider, service, client, utility, tool,
+program, script, software, application, representation, GUI, browser, 
+function, command - they all overlap in one or another form.)
+
+
+----
+
+Recently, I've had a Compaq Aero 25 completely give out - first the moth-
+erboard, and second the hard-drive. It was sold to me as new, but turned 
+out to be refurbished; there may be a lawsuit here. If you have a Compaq, 
+you can recognize "refurbish" by an R in front of the serial number. I've 
+have difficulties getting Compaq tech and customer support on the phone - 
+big surprise - but the internal diagnostics (which read "1702-06 FATAL 
+READ ERROR on the hard-drive) are excellent. I'm trying to get the unit 
+completely replaced at this point; it's under a one-year warranty and has 
+been in the shop three times in the past two weeks (it's there now).
+
+----
+
+Finally, there's a real need for another product - a dumb portable term- 
+inal. This would cost $300 maximum and would include a 14.4 modem and 
+communications software, 2 megabytes flash memory (enough to store close 
+to 1000 pages of text), 4 megabytes RAM. It probably would not include 
+Netscape or a similar browser, but if it did, it would be in ROM and 
+configured. The terminal would be used almost entirely for work on the 
+road; like the HP 200LX etc. it would have DOS 5.0 at least built into 
+it. (It would need a version of Netscape of course that would run without 
+Windows.)
+
+An inexpensive terminal, by the way, would have a number of uses - not 
+only for travel, but also for home use, for people who couldn't afford a 
+full computer. So there would be a printer port as well; this could also 
+be used for a link to a larger desktop machine.
+
+The idea of such a terminal relates to Victor Papanek's Design for the 
+Real world - what is also called available technology, what I'd call 
+technology povera, or bricolage - making-do. The Net can't really broaden 
+its base unless it becomes driven by pressures other than increased 
+bandwidth - there needs to be inexpensive hardware as well. What about a 
+solar-driven terminal, by the way? This might be used in conjunction with 
+one or two small AA alkaline batteries to drive the modem...
+
+

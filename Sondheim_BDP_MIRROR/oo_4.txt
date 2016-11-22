@@ -1,0 +1,17 @@
+ m Search
+     * m About Alex
+     * m Browse by authors
+     * m Browse by title
+     * m Browse by date
+     * m Downloads m Try a new version of Alex Alex Catalogue of 
+Electronic Texts m Data transfer complete m -more- 
+http://www.infomotions.com/ m Home m Getting 
+file://localhost/net/u/6/s/sondheim/cic3.html Bookmark file (p1 of 11 m 
+tile.net/listserv - List of Views m Getting 
+http://www.tile.net/tile/listserv/index.html m Looking up www.tile.net m 
+Making HTTP connection to www.tile.net m Sending HTTP request. m HTTP 
+request sent; waiting for response. m Alert!: HTTP/1.1 404 Not Found m 
+Data transfer complete [H TILE.NET - Email List Directory - News & FTP 
+Directory - Internet Reference m REFRESH(0 sec): m http://Tile.net/ m
+           e_logo.gif] (Click on a category to Browse) m m Lists m m News 
+m m Vendors m m Internet m m WebDev 

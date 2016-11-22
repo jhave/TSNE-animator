@@ -1,0 +1,123 @@
+
+
+
+when they came down to the village, it was time to leave; there were
+trees in bloom around the square; there were the buildings of clay and
+mud; when they came down to the village there were the Squares of the
+Assyrians, the streets of Akkadia, and the square was Sargon Square;
+when I returned there would be other names, women in black ululation,
+men rummaging around the _affects;_ there were dogs, there were other
+animals, cattle baying in the distance; sheep lowing in the feld; when
+there were returns, the whole village would come out and greet them;
+when there were caravans, we would come in from the sun to the tents,
+purple and gold would be our color; we would lie together in the shadow
+of the cedar and palm; we would bathe together when the water overran
+the fields; who would own this life, we would ask one another, our hands
+running over our bodies; who would own all of this, the heaven and the
+earth, the soul and the m'e; the square would fill up with strangers; we
+would ask ourselves, who are these men and women, what is the tongue
+spoken by the children in the evening; ah, if I could convey the sound
+of the animals, the songs of the women, the harps of the men gazing over
+the fields, having come from a long way off; the laughter and cries of
+the children; ah, if I could convey the camels' burden, the oxen and the
+heron in the marsh; the Square of the town gets a new name, now called
+Emerald, now called Square of the Martyrs, now called Innannu, now
+called Abumelech; the Square of the town is renamed, now called Estyr
+Square, Plaza of Sirosh, the Mezzanine of the Fallen; now called
+yaya yyaayy yaya yyaayy yaya yyaayy yaya yyaayy yaya yyaayy yaya yyaayy
+Dedication-Plaque of Plague; now the square shimmers in the heat; the
+flies seethe generation after generation; so I might speak of the
+dancing in the evening by the fire; so I might, if the mood overtakes
+me, talk of learning the tablets when I was younger; Er'Ah/Seh bringing
+back the grain from the fields with the long reed pressed into the
+service of the surface of Ayel; if I could erect the stars, they would
+come before you with scaffolding; if I could harbor the hills, they
+would shore themselves up with ramparts and deep moats walling the
+valleys surrounding the trees groaning with fruit at the base; in the
+town, the merchants call themselves The Way of the Merchants; the Square
+fills with camels; there are goats baaing tethered for their milk and
+meat; sacks unload obsidian and myrrh; I have seen velvet, I have owned
+a tunic of satin, which we would have worn, had there been the length
+of the span of a moon, had there been quincunx in the dark sky at dusk;
+once, I have heard of a land of great rain, where water melts surface
+into mirrors, and for a moment, the square is filled with scattered
+blood and pigs' brains; where dogs might die roaming the mountains; once
+I saw a beautiful young woman plait her black hair with henna and the
+oil of olives, eyes open to the sky at dawn; the town square, called the
+Way of the Temple of Shumer is filled with herds of cows and barking
+dogs; I have been through Widows' Square and the Plaza of the Unfortun-
+ates; musicians travel through here, and in my youth I heard the Sarala
+played as you might welcome Julu; these flooded streets awash with bod-
+ies floating across the Plaza of the Great Flood; we would turn slowly,
+moving the Arala ahead of us, as if trembling in each and every limb
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+SELF
+
+
+
+Self-portraiture is an occasional strongpoint of an operating system;
+here are three examples (and note the differences between iconic and
+indexical self-reference):
+
+
+In {b:1} clock reports on the system CMOS clock; time time time reports on
+the time it take to report on the time it takes to report on the time it
+takes to report on the clock. This could form a recursive program neatly
+tying up the CPU (see first entry), or at the least, making it stutter.
+
+{b:1} time time time clock
+
+Thu Jun 12 23:04:12 1997
+0.03user 0.02system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+0minor)pagefaults 0swaps
+0.03user 0.04system 0:00.18elapsed 38%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+0minor)pagefaults 0swaps
+0.04user 0.05system 0:00.22elapsed 40%CPU (0avgtext+0avgdata 0maxresident)k
+0inputs+0outputs (0major+0minor)pagefaults 0swaps
+
+
+In this example {b:8} uses w to report on users, including the user who is
+using w to report on users. But don't forget that GNU stands recursively
+for GNU Not Unix, and what would one expect?
+
+{b:8} w
+
+  7:12pm  up 11 min,  3 users,  load average: 0.16, 0.06, 0.01
+User     tty       login@  idle   JCPU   PCPU  what
+root     tty1      7:02pm     9      1         sh /usr/X11R6/bin/startx
+root     ttyp0     7:03pm                      w
+root     ttyp1     7:03pm     7                pico -z zz
+
+
+Finally, in {b:11} ps lists the running processes; I've edited this down
+(it's rather lengthy) to indicate that one of the processes is ps itself.
+
+{b:11} ps
+  PID TTY STAT  TIME COMMAND
+...
+  233 s01 S <   0:00 -dip (166.84.250.149)
+  239 pp0 R <   0:00 ps
+...
+
+
+There are other examples, such as whoami, who am i, netstat, id, who,
+users,* and so forth, but these particular ones fascinate me, because of
+the glimpse into a fragmented mirror: _everything running on schedule._
+
+
+*
+{b:1} users
+root root root
+{b:2} who mom loves
+clara.julu.net!root     ttyp1    Jun 12 19:36
+{b:3} whoami
+root
+{b:5} id
+uid=0(root) gid=0(root)
+groups=0(root),1(bin),2(daemon),3(sys),4(adm),6(disk),10
+(wheel) 
+
+

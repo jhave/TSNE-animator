@@ -1,0 +1,8 @@
+
+* Frame replacement; these occur at rates varying from 16-25 seconds:
+1   2   3   4   5   6   7   8   9  10  11  12  13  14 frames -->
+14  13  12  11  10  9   8   1   7   6   5   4   3   2 --> frames
+(Frame 4 refreshes to 11 refreshes to 5 refreshes to 10, etc.)
+         1 | 2     (Frames can also click to other frames within the
+Begin: ----|----.   same browser quadrant, or to other frames in 
+         3 | 4      other browser quadrants.)

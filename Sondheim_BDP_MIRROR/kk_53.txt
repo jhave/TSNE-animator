@@ -1,0 +1,43 @@
+
+
+
+
+The Calling-Forth of Nikuko"  (ktrace echo nikuko; kdump ktrace.out)
+
+
+ 15467 ktrace   RET   ktrace 0
+ 15467 ktrace   CALL  __sysctl(0xefbfd814,0x2,0xba80,0xefbfd81c,0,0)
+ 15467 ktrace   RET   __sysctl 0
+ 15467 ktrace   CALL  break(0xbab8)
+ 15467 ktrace   RET   break 0
+ 15467 ktrace   CALL  break(0xbffc)
+ 15467 ktrace   RET   break 0
+ 15467 ktrace   CALL  break(0xcffc)
+ 15467 ktrace   RET   break 0
+ 15467 ktrace   CALL  execve(0xefbfd87c,0xefbfdcec,0xefbfdcf8)
+ 15467 ktrace   NAMI  "/usr/local/bin/echo"
+ 15467 ktrace   RET   execve -1 errno 2 No such file or directory
+ 15467 ktrace   CALL  execve(0xefbfd87c,0xefbfdcec,0xefbfdcf8)
+ 15467 ktrace   NAMI  "/bin/echo"
+ 15467 echo     EMUL  "netbsd"
+ 15467 echo     RET   execve JUSTRETURN
+ 15467 echo     CALL  __fstat13(0x1,0xefbfd9cc)
+ 15467 echo     RET   __fstat13 0
+ 15467 echo     CALL  __sysctl(0xefbfda08,0x2,0xaa68,0xefbfda10,0,0)
+ 15467 echo     RET   __sysctl 0
+ 15467 echo     CALL  break(0xaa90)
+ 15467 echo     RET   break 0
+ 15467 echo     CALL  break(0xaffc)
+ 15467 echo     RET   break 0
+ 15467 echo     CALL  break(0x1bffc)
+ 15467 echo     RET   break 0
+ 15467 echo     CALL  ioctl(0x1,TIOCGETA,0xefbfda08)
+ 15467 echo     RET   ioctl 0
+ 15467 echo     CALL  write(0x1,0xb000,0x7)
+ 15467 echo     GIO   fd 1 wrote 7 bytes
+       "Nikuko
+       "
+ 15467 echo     RET   write 7
+ 15467 echo     CALL  exit(0)
+
+

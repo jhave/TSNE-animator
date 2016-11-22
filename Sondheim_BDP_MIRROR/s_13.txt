@@ -1,0 +1,99 @@
+
+-
+
+Frontier
+
+
+
+[Kayo and I set up a MOO and run into it on the Internet. We're the only 
+ones here. We explore and make some home things.]
+
+
+"I'm going to log this...
+You say, "I'm going to log this..."
+You say, "So Alan and Kayo are here and I'm the 
+Wizard Alan at the moment... Maybe I can create?"
+@create $thing
+Usage:  @create <parent-class> named [name:]alias,...,alias
+   or:  @create <parent-class> named name-and-alias,alias,...,alias
+where <parent-class> is one of the standard classes ($note, $letter, 
+$thing, or $container) or an object number (e.g., #999), 
+or the name of some object in the current room.
+You can use "called" instead of "named", if you wish.
+@create $thing named Quaretz 
+You now have Quartz with object number #100 and parent generic thing (#5).
+kayo says, "what are you going to create?"
+ spicules, needles, smoky devices...
+Description set.
+drop quartz
+You drop Quartz.
+look
+Yurt
+hovel where Wizards hang, bones in front, skins behind
+You see Quartz here.
+Alan and kayo are here.
+"type look
+You say, "type look"
+look Quartz
+hard spicules, needles, smoky devices...
+kayo smiles
+"But I needed Wizard status to do that - we're utter novices otherwise..
+You say, "Not really, hmmmm...."
+@examine Alan
+Alan (#99) is owned by Alan (#99).
+nervous and amazingly interesting!
+@examine Wizard
+Wizard (#2) is owned by Wizard (#2).
+Aliases:  Wizard
+Interesting and Nervous!
+kayo (#98) is owned by kayo (#98).
+Aliases:  kayo
+a transparent being
+Key:  (None.)
+"I'm not sure how to raise status...
+You say, "I'm not sure how to raise status..."
+"or for that matter give programming bits...
+kayo says, "Do you want me to give it a try?"
+You say, "Sure, want me to log out and in as Alan?"
+Wizard says, "I'm going to look at the wizard help...hang on"
+@linelength 72
+Line length is now 72.  Word wrapping is off.
+To enable word wrapping, type `@wrap on'.
+You are now a programmer.
+You have new mail (1) from Wizard (#2).
+@read last
+Message 1:
+Date:     Thu Jan 18 20:57:22 1996 EST
+From:     Wizard (#2)
+To:       *New-Prog-Log (#29) and Alan (#99)
+Subject:  @programmer Alan (#99)
+kayo is now a programmer.
+You say, "As in @programmer Alan?"
+Wizard says, "let me see if I can make you a wiz"
+"& Kayo as well!
+You say, "& Kayo as well!"
+The housekeeper arrives to cart kayo off to bed.
+You say, "Did you make anyone a wizard?"
+You say, "Kayo just got carted off to bed? Did you do anything?"
+Wizard says, "no, I'm still trying to figure out going down the command
+ list"
+Either Alan doesn't want to go, or Limbo didn't accept it.
+You say, "type @join Kayo - it's interesting."
+Wizard teleports in.
+Wizard says, "it was strange..."
+Wizard says, "I couldn't use any commands till I typed @join alan"
+You say, "so weird..."
+You say, "want to log out so I can take a look?"
+You say, "come in as kayo?"
+Wizard says, "sure"
+co Wizard
+@read last on *New-Prog-Log
+       WHEN           PROGRAMMER                    BY
+   2:  Jan 18 20:57   kayo (#98)                    Wizard (#2)
+@who
+Player name   Connected    Idle time    Location
+-----------   ---------    ---------    --------
+Wizard (#2)   39 seconds   0 seconds    Yurt
+kayo (#98)    28 seconds   a second     Kyoto
+Total: 2 players, both of whom have been active recently.
+Available Help Indices

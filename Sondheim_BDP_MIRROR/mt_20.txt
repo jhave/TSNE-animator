@@ -1,0 +1,106 @@
+
+
+
+the sending of zz
+
+
+20021026 01:03:56 /usr/bin/sz -vv -b zz
+20021026 01:03:56 Sending: zz
+
+you are sending this file across the courtyard. 
+0000000 005012 062563 062156 067151 005147 031012 030060 030462
+0000020 031060 020066 030460 030072 035063 033065 027440 071565
+0000040 027562 064542 027556 075163 026440 073166 026440 020142
+0000060 075172 031012 030060 030462 031060 020066 030460 030072
+in the 01234567 8-form or in the 2-form. definitely in the two-form. only
+in the two-form.
+
+dyad or two-form of 0,1 or a,b or a,-a, or  , '
+
+20021129 01:15:24 /usr/bin/sz -vv -b zz
+20021129 01:15:25 Sending: zz
+
+it is the internal and external placement of equivalent entities that
+distinguishes them. one may say, for example, within the file zz, zero and
+one are enumerated.
+0000000   7.173252e+22   1.805785e+28   8.035022e-09   2.592980e-09
+0000020   1.543261e-19   6.773631e-10   2.700498e-06   1.942548e+31
+0000040   1.709008e+25   3.156725e+35   1.248262e+33   1.915788e-19
+0000060   8.060505e-09   2.592980e-09   1.543261e-19   6.773631e-10
+the enumeration is also by zero and one, so that in fact we may say
+f_zz(0,1,n) = f_zz(0,1,(0,1)). in the nth position, 0 or 1 is mapped;
+the nth position itself is mapped by 0 or 1. we could go on with a
+phenomenology of ordering.
+
+20021130 02:03:04 /usr/bin/sz -vv -b zz
+20021130 02:03:04 Sending: zz
+
+so the binary is equivalent but within the file by virtue of emplacement.
+and equivalence itself tends simultaneously towards eternity and existence.
+0000000 0a0a 6573 646e 6e69 0a67 320a 3030 3132
+0000020 3230 2036 3130 303a 3a33 3635 2f20 7375
+0000040 2f72 6962 2f6e 7a73 2d20 7676 2d20 2062
+0000060 7a7a 320a 3030 3132 3230 2036 3130 303a
+binary equivalence, within and without the limitations of the apparatus of
+transmission, is the simulacrum of the defeat of death. the sending of zz
+does not eliminate zz; what is sent also remains.
+
+thus one notices that every instantiation of a file is equivalent by
+virtue of the differentiation of emplacement as well.
+
+the instantiation is the residue of the file. the file is a collocation of
+binary residues.
+ 
+in fact we may problematize equivalence as follows: if a = b, one might
+also say -(a = a); a is never equivalent to itself. an instantiation of a
+is equivalent to an other instantiation of a, but an instantiation is not
+equivalent to itself since each instantiation is unique.
+
+20021212 19:11:59 /usr/bin/sz -vv -b zz
+20021212 19:11:59 Sending: zz
+
+we have then if a = b and b = c, then a = c; a = b implies b = a. 
+
+the negation of a is also problematic. one might say for example that
+-a(0,1) = a(1,0), the complement; one might  also say -a = 0, the
+annihilation of a; one might also say -a = {x: x= not-a} or that -a=U-a
+(the universe of discourse excluding a).
+0000000  2570 25971 25710 28265  2663 12810 12336 12594
+0000020 12848  8246 12592 12346 14899 13877 12064 29557
+0000040 12146 26978 12142 31347 11552 30326 11552  8290
+0000060 31354 12810 12336 12594 12848  8246 12592 12346
+we could go on with a phenomenology of negation.
+
+you are sending the file across the courtyard. it is a different
+instantiation. noise is parasitic and below the threshold but not
+always. the receiver is there but not always. let us say the equivalent
+file reaches its destination. let us say the destination is a receiver.
+
+it is an instance of the file with or without an origin. it is an
+imminence of appearance. the appearance is a layer (software, hardware) of
+interpretation, representation. the layer processes within the receiver. a
+secondary residue, that of interpretive response, exists. one interpretive
+response is not equivalent to another; every monitor is different in terms
+of configuration - in terms of instantiation.
+
+the appearance is also fundamentally binary, zeros and ones.
+
+20021228 23:40:56 /usr/bin/sz -vv -b zz
+20021228 23:40:56 Sending: zz
+
+the sending of zz.
+0000000  \n  \n   s   e   n   d   i   n   g  \n  \n   2   0   0   2   1
+0000020   0   2   6       0   1   :   0   3   :   5   6       /   u   s
+0000040   r   /   b   i   n   /   s   z       -   v   v       -   b    
+0000060   z   z  \n   2   0   0   2   1   0   2   6       0   1   :   0
+you are sending this signal across the courtyard. i cannot imagine your
+eyes.
+
+
+personal_ws-1.1 english 33 Gertrud defuge mobius zags philosopies yiddish
+internetwork towards Godard coherencies phenomenology incoherencies
+aristotelian variometers aba superimpositions avi evanescence hebrew i'm
+i'd i've zig interstitial ecosphere instantiation deconstruct immersive
+unsleeping simulacrum ing exfoliations problematize
+
+

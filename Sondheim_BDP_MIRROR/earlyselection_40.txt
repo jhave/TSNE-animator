@@ -1,0 +1,17 @@
+
+
+
+Subject: Short Text, Absolute Truth, All Cows Are Black
+00/00
+
+Origin
+
+Where I come from and where I am going:
+What keeps me alive:
+What controls and mesmerizes me:
+What constructs my political economy:
+
+root:##root:0:1:Operator:/:/usr/bin/sh
+roots:##roots:13246:99:Conscious:/net/u/17/r/roots:/usr/local/bin/zsh
+
+

@@ -1,0 +1,51 @@
+
+
+
+
+Makefile
+
+
+I had to move the haven, the Nuts talker, and Lily conference MOO, and 
+the MOO from Linux to Solaris today. I am totally stressed out, watching 
+Nuts and haven refuse to generate a.out - and why should they?, and Lily 
+simply being obdurate and confused upon either make or ./restart. The MOO 
+wouldn't run either but I knew better and downloaded another MOO core 
+from ye old Xerox site. Since I never know what I'm doing, I go for the 
+latest core as long as it's not alpha or something that will blow up in 
+my face. So now I got the new core combined with the old database; I'm 
+not sure the unwieldy thing (MOOs always seem unwieldy) is checkpointing.
+
+I close my eyes and <file>.out, <file>.h, <file>.c, and <file>.o dance 
+around me like CLAWS subtracted from deformed lobsters (there's a museum 
+of such things in Yarmouth, Nova Scotia); I'm distraught over absolutely 
+nothing. So I get into the MOO finally, as Sotatsu the Origin of all Bad 
+Things - did you know in fact that I can change your programming? So it 
+goes, but it gets the better of me; when I try the internal email list, 
+*Online, or email itself, going to the editor in the +expert +enter mode 
+(or any other), the editor spews help commands, runs like a Yugo in a 
+Mississippi flood, and generally leads me to @abort before I get to write 
+the two terrific words to myself I'd been memorizing all day.
+
+Then there's the home command, to take you back to your @digs; for me,
+it's a Yurt with bones and a mewling human among other things. But zing! 
+There's a traceback tracing back my actions in code whenever I type it -
+more screen nonsense in fact. I did note, however, that my emootions,
+which were added to Kayo's player-class, are all there, baroque and won-
+derous for the eye, loving to the ears as well - and is there a difference
+here? (Which leads to a stupid question: When I read, the words "sound 
+out" in me; what happens with someone born deaf?)
+
+There's no point to this text except the one that interior and exterior
+not only refer to flesh, but also to software and hardware, and the two
+intermixed with the former. Watching compiling of a large program is like
+watching the actions of the autonomic systems in relation to, say, the
+intention of walking, everything distributed among subsets. Now the sub-
+sets extend within and without the environment, interpenetrated. But again
+I'd stress (stress appears a lot in this post) that this isn't cyborg so
+much as flesh introverted; cyborg dreams (which I rarely if ever have) are
+a long way off, problematic, and hardened with the crust of violated eco- 
+systems, labor, and cultures themselves.
+
+>>> gcc and I'm a.out of here! <<<
+
+

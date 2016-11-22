@@ -1,0 +1,53 @@
+
+
+story
+
+{ for ( i = nf; >=1;i--)printf %s , i;\n;} /[0]+/ print it turned /[z]+/
+or the sky /[y]+/ something moved on /[x]+/ changed shape /[w]+/ /[v]+/
+spewed /[u]+/ brilliant sparkling things /[t]+/ flooded /[s]+/ dark waves
+of shapes /[r]+/ they /[q]+/ them /[p]+/ /[o]+/ were /[n]+/ stars far too
+bright /[m]+/ brightened behind sparklings /[l]+/ /[k]+/ particles /[j]+/
+in against /[i]+/ among between /[h]+/ repetitions across surfaces /[g]+/
+moving and repeating within /[f]+/ veering horizons collisions /[e]+/
+fragility /[d]+/ circulating momentarily /[c]+/ always without /[b]+/
+appearances disappearances /[a]+/ pulling everything /^/ was turning |
+srand @a=(hard, soft, difficult, easy, blue, grey, white, black, heavy,
+light, miserable, sexual, wet, lubricated, hungered, nasty, splayed,
+womanly, manly, neutral, neutered, death-like, lively, protruding,
+penetrating, thrusting, giving, forgiving, poor, rich, sedate, wanton,
+contrary, wayward, wandering, ill, uneasy, spry, florid, edgy, neurotic,
+psychotic, catatonic, loose, taut, tight, depressed, manic);
+@prep= (beneath within, beyond, throughout, confusing, staining, collusion
+with); @noun=(thing, type, category, being, entity, constitution, makeup,
+construct, essence, existence); \none second!\n;exit(0);}sleep(2); \nhi!
+what's your name?\nwell, that, let's get started! make gender!\n;
+sleep(1); that ok with you?\noh well, nothing happened.\n
+ it's impossible to decide behavior!, \n 1==g; time's short, please help
+us along!, 5==g; you really want do this mean -, 6== g; where is taking
+us, future?, 4==g; chop name; name terrific gender!, 3==g; disgusts me;
+forget it! but anyway..., 7==g; that's name? ah, anyway yes, go turns me
+on!, 2==g; we're breathless; wet diff times!, 5 < <<construct;well,
+already constructs @a[gen1] trouble subverting categories we take granted.
+simple, not compound., dubious, overly complicated..., 6==g;
+deconstruction marginalizes here!, pronoun has existed hours?, knew all
+wait! are gone forever!, dirty, clean, soiled, sexy, sleazy, nice,
+feminine, lovely, used, fashionable, small, nervous, @verb=(thrusts,
+turns, surrounds, oozes, inherits, splays, plays, mixes, amuses, runs,
+flows, repairs); accompanying); @noun=(breast, love, passion, womb, penis,
+vagina, masquerade, my masquerade); @nnn=(flower, thing, hole, stick,
+frock, jumper, skin); nnnn= rand(8); \nopen mouth...\n;} \nah... speak...
+speak...\n;\njennifer, you, you...\n; \nare dressed as that? @nnn[nnnn],
+flesh, ah don't answer...\n; ah...\n; \nis julu wearing ... @nnn[non1]?
+\n; \nshow panties...\n; sleep(10); \ni love feelings, ...\n;} would mind
+partying?, thighs moist inviting, breasts them..., tongue speaks so
+sweetly, grrrl, \n@noun[non1] @verb[non] @prep[nnnn] @nnn[non1]!\n;
+@nnn[nnnn]?\n; @nnn[g] opens totally you!, moves, river deep..., mine,
+sweet am yours!, body parts, list, list them... by one, alone, typing
+done.\n; srand; \nmy yours...\n;  partying, name, us?\n 3==be; come home
+me, julu-of-the-fast-crowd!\n 2==be; @a[gen] seeps into julu-jennifer\n
+0==be;  @noun[non] eaten julu-of-the-open-arms julu-depressed\n (2 be);  
+devour julu-of-the partying name!\n 1==be; thoughtful calls forth
+@noun[non], eating, excreting memory, becoming jennifer's jennifer.\n;}
+melt julu's skin forever..., scar, wound, brand., @a[non] gift ...,
+darling wore her frock ...; jennifer .trace`,
+

@@ -1,0 +1,137 @@
+
+
+
+
+SOME FASCINATING NET ARCHAEOLOGY!!
+
+
+**I** Early www connection, no longer working:
+
+{k:7} telnet info.cern.ch
+Trying 137.138.24.189...
+Connected to www0.cern.ch.
+Escape character is '^]'.
+ 
+ 
+UNIX(r) System V Release 4.0 (www0)
+ 
+No utmpx entry. You must exec "login" from the lowest level "shell".
+Connection closed by foreign host.
+
+
+**II** The NSFNET Backbone Services Acceptable Use Policy 
+
+[the original Internet backbone]
+
+_General Principle_:
+
+* NSFNET Backbone services are provided to support open research and educ-
+ation in and among US research and instructional institutions, plus re-
+search arms of for-profit firms when engaged in open shcolarly communica-
+tion and research. Use for other purposes is not acceptable.
+
+[...]
+
+_Unacceptable Uses_:
+
+* Use for for-profit activities, unless covered by the General Principle
+or as a specifically acceptable use.
+
+* Extensive use for private or personal business.
+
+
+**III** Meanwhile, on anonymous ftp to info.cern.ch (www site):
+
+pub is supposed to point to mnt/afs/w3.org/ftp/pub .
+ 
+However, as this doesn't allow anymous incoming info,
+I disabled this for the moment. It should be back like
+this as soon as anonymous users can write to AFS file
+in a secure mode.
+ 
+AS - Feb 95
+
+
+**IV** And finger @address still works for some places:
+
+{k:16} finger @cleo.murdoch.edu.au
+[cleo.murdoch.edu.au]
+Login       Name               TTY         Idle    When    Where
+rjakins  Rick Jakins          *pts/27           Fri 12:53
+muskrat.murdoch.edu.
+dchan    Daniel Chan          *pts/16           Fri 13:44
+mouse.murdoch.edu.au
+cornish  Jenni Cornish        *pts/23           Fri 13:09
+muskrat.murdoch.edu.
+pbishop  Pete Bishop          *pts/17           Fri 13:47
+muskrat.murdoch.edu.
+mush     Tiny MUSH Administra  pts/15       13: Thu 23:40
+[...]
+
+
+**V** Best of all, the rtfm.mit.edu still works, albeit not updated! Here
+is the automated result of a search: 
+
+Date: 5 Jun 1998 06:03:26 -0000
+From: mail-server@PENGUIN-LUST.MIT.EDU
+To: Alan Myouka Sondheim <sondheim@panix.com>
+Subject: mail-server: "send usenet-addresses/sondheim"
+ 
+-----cut here-----
+sondheim@panix.com (Alan Sondheim)      (Dec 17 95)
+David Sondheim <dsondhe@marin.k12.ca.us>        (Nov 29 95)
+sondheim79@aol.com (Sondheim79) (Nov 10 95)
+sondheim@netcom.com (alan sondheim)     (Aug 11 95)
+Alan Sondheim <sondheim@PANIX.COM>      (Jul 11 94)
+Alan Sondheim <SONDHEIM@NEWSCHOOL.EDU>  (May 19 94)
+ssondheim@broadway.ny.ny.us(Stephen Sondheim)   (Aug 11 92)
+-----cut here-----
+
+[Only the first address is good. Mail was sent to: 
+mail-server@rtfm.mit.edu and the text stated:  send
+usenet-addresses/sondheim . You can also get a HELP
+file for a list of other commands and services.]
+
+
+**VI** Finally, here is the result of typing telnet internic.net:
+
+UNIX(r) System V Release 4.0 (rs3)
+ 
+*****************************************************************
+* -- InterNIC Registration Services Center  --
+*
+* For the *original* whois type:     WHOIS [search string] <return>
+* For referral whois type:           RWHOIS [search string] <return>
+*
+* For user assistance call (703) 742-4777
+# Questions/Updates on the whois database to HOSTMASTER@internic.net
+* Please report system problems to ACTION@internic.net
+*****************************************************************
+The InterNIC Registration Services database contains ONLY
+non-military and non-US Government Domains and contacts.
+Other associated whois servers:
+       American Registry for Internet Numbers - whois.arin.net
+       European IP Address Allocations        - whois.ripe.net
+       Asia Pacific IP Address Allocations    - whois.apnic.net
+       US Military                            - whois.nic.mil
+       US Government                          - whois.nic.gov
+Cmdinter Ver 1.3 Fri Jun  5 02:08:16 1998 EST
+[vt100] InterNIC > whois sondheim
+Connecting to the rs Database . . . . . .
+Connected to the rs Database
+Sondheim, Michael (MS13272)     michaels@VIRTUAL.CO.IL
+                                           972 2 568 7788 (FAX) 972 2 568
+7787
+Sondheim, Richard (RS6058)      ritinc@EARTHLINK.NET
+310-642-6541
+  Enter a handle, name, mailbox, or other field, optionally preceded
+  by a keyword, like "host diis".  Type "?" for short, 2-page
+  details, "HELP" for full documentation, or hit RETURN to exit.
+---> Do ^E to show search progress, ^G to abort a search or output <---
+Whois:
+
+
+[More services later. I'm fascinated by these remainders/residues, still
+potential, active; I researched another group over a year ago.]
+
+

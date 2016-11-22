@@ -1,0 +1,74 @@
+=
+
+connect wizard
+*** Connected ***
+The First Room
+This is all there is right now.
+@make-player Nikuko sondheim@panix.com
+Nikuko (#95) created with password `aJoJA' for sondheim@panix.com
+Nikuko has connected.
+You hear a quiet popping sound; Nikuko has disconnected.
+Nikuko has connected.
+Nikuko kick Wizard
+Nikuko says, "sure thing!"
+Nikuko says, "I'm here! In the db!"
+"not for long! but I won't... but the software will...
+You say, "not for long! but I won't... but the software will..."
+Nikuko says, "Good air. My chest expands!"
+:notices the air in Nikuko's expanding chest!
+Wizard notices the air in Nikuko's expanding chest!
+@create $thing called chest
+You now have chest with object number #96 and parent generic thing (#5).
+@describe chest as expanding
+Description set.
+give chest to Nikuko
+You hand chest to Nikuko.
+Nikuko says, "Wow!"
+Nikuko hands you chest.
+@describe chest as luscious expanding breasts
+Description set.
+give chest to Nikuko
+You hand chest to Nikuko.
+Nikuko says, "Wow again!"
+@create $thing called Nikuko
+You now have Nikuko with object number #97 and parent generic thing (#5).
+@describe Nikuko as wonderous body with luscious expanding breasts
+Description set.
+give Nikuko to Nikuko
+I don't know which "Nikuko" you mean.
+give #97 to #95
+You hand Nikuko to Nikuko.
+Nikuko ???? Ah!!! !!?!!?????!!
+Nikuko says, "look at me, Wizard!"
+look Nikuko
+
+Nikuko
+wonderous body with luscious expands breasts for poor Wizard
+It is awake and looks alert.
+Carrying:
+ chest                                   Nikuko
+
+"Oh thank you Nikuko for Nikuko!
+You say, "Oh thank you Nikuko for Nikuko!"
+
+@describe me as amazing body with enormous biceps and huge member for 
+   Nikuko!
+
+Description set.
+"look at me Nikuko!
+You say, "look at me Nikuko!"
+Nikuko says, "Oh thank you Wizard for your wonderous amazing gift!"
+"Oh Thank you Nikuko Forever I will Think of You in This Kind Light!
+You say, "Oh Thank you Nikuko Forever I will Think of You in This Kind 
+   Light!"
+Nikuko says, "Ah ah ah ooh ooh ooh!"
+:blushes and says "Ah ah ah ooh ooh ooh! as well O Nikuko!
+Wizard blushes and says "Ah ah ah ooh ooh ooh! as well O Nikuko!
+:thinks, ah young love!
+Wizard thinks, ah young love!
+Nikuko thinks, ah younger love!
+:thinks, ah youngest love!
+Wizard thinks, ah youngest love!
+Nikuko says, "Smoosh!"
+You hear a quiet popping sound; Nikuko has disconnected.
+

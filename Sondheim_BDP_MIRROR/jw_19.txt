@@ -1,0 +1,141 @@
+
+
+
+EARLY IMPORTANT NET DOCUMENTS (1972)
+
+
+
+SCENARIOS for Using the ARPANET at the INTERNATIONAL CONFERENCE ON COMPUT-
+ER COMMUNICATION (ICCC) from 1972 is the first guide to what later became
+the Internet. The front page of this is illustrated in Peter Salus' Casting
+the Net. The conference ran from October 24-26 in Washington, D.C. The 62-
+page SCENARIOS was published by the ARPA Network Information Center of the
+Stanford Research Institute, in Menlo Park, California. 
+
+A copy of the guide is with the BBN Library, and I have been tracking some
+of the material down. The ICCC was the first real introduction of the Net
+to the (professional) public, and this then becomes the first how-to, with
+examples indicating the thinking of the Net community vis-a-vis usage and
+implementation. This is the sociology, not the technical history of the
+Net, then. At the ICCC, there were a number of terminals; participants
+could walk among them, and log in. Each "scenario" connected to a differ-
+ent application, located somewhere across the United States.
+
+The following, which I have now in xerox form, are the programs and the
+scenarios:
+
+PROGRAM				SCENARIO
+
+English Language Conversational Programs
+DOCTOR				BBN DOCTOR     [Eliza-type program]
+SCHOLAR				SCHOLAR
+PARRY				SAIL PARRY
+TIMMY				UCLA-NMC Sigma-7
+
+Data Base Query
+NIC				SRI-ARC  ["general intellectual tasks"]
+NETWRK				MIT-DMCG PDP-10
+APE				SAIL AP HOTline    [Associated Press]
+
+Games
+CHESS				BBN CHESS
+CHESS				MIT-AI PDP-10
+LIFE				BBN LIFE     [Conway's game]
+JOTTO				MIT-AI PDP-10
+
+Network File Transfer			[developed later into ftp]
+SMFS				SRI-ARC
+RJS				Remote Job Service
+
+Miscellaneous
+ABACUS				UCLA-NMC Sigma-7
+HELP				UCLA-NMC Sigma-7
+
+Programming Languages
+SPEAKEZ				SPEAKEASY
+PPL				HARVARD PDP-10
+FORTRAN				BBN Tenex
+FORTRAN				UCLA-CCN 360/91 TSO
+
+Remote Job Entry
+RJS				Remote Job Service
+
+Symbolic Algebraic Manipulation
+MACSYMA				Mathlab's MACSYMA
+
+There is a table of contents, which also lists MIT H645 Multics, which
+apparently provided mail; mail was also available through BBN Tenex
+itself. For those not familiar, BBN is Bolt Beranek and Newman, Inc.,
+responsible for the first IMP, basically routers, that were the founda-
+tion of the Arpanet. IMP = Interface Message Processor.
+
+SRI-ARC (NIC) was set up at HOST #2 in the room. Control characters were
+indicated by an up-arrow sign, which later must have transformed into the
+current ^. For example, Control-a allowed backspace with delete; Control-
+c returned control to the TENEX EXECUTIVE SYSTEM (which roughly parallels
+Control-c for ending execution in Unix, linux, or DOS); and Control-t
+"checked to see if the system is still there," similar to the "are you
+there" command in some telnet programs.
+
+Other commands included, of course, DEL, CR (carriage return), etc. Com-
+mands were preceded by @. 
+
+The SAIL AP Hotline was at HOST #11, "a direct Associated Press news line
+carrying national and international news. The AP Hotline has been
+interfaced to the SAIL system at the Stanford Artificial Intelligence
+Laboratory. Any terminal on the ARPA Network can be turned into an AP news
+line by running program 'HOT' at Sail."
+
+The following setup had to be performed first:
+echo remote;
+insert linefeed after every carriage return
+login to SAIL
+LOGGER says you're being connected
+T R OPEN says you're connected, both transmit and receive.
+
+Then a second login opens the particular program; the word is "hot" with
+some other commands:
+r hot <CR>
+(in other words, type r, space, hot, carriage return).
+You then get the linefeed from AP until you type...
+Control-c.
+
+Finally, let's look at the UCLA-NMC HELP at HOST #1. The description is
+probably that of the first on-line example of hypertext (and very very
+early hypertext as well):
+
+"HELP is a subsystem at UCLA-NMC which permits a user to interrogate a
+database which is organized in directed graph form. Each vertex of the
+graph has a paragraph of information, including some information about
+further details which can be obtained from vertices which are reachable
+from the current one.
+
+"Thus, the user moves from vertex to vertex, investigating each item as his
+interest directs."
+
+The login sequence is six steps. You then login:
+LOGIN iccc <CR>
+and get a return:
+JOB STARTED
+Then you type
+help <CR>
+and get
+NNN HELP STARTED
+where NNN ps the PID, or process number assigned to HELP.
+You next read
+DO YOU KNOW HOW TO USE THIS PROGRAM?
+no <CR>
+and you get a tutorial.
+Or you can answer yes, and then read:
+ENTER A SERVICE NAME, X, or ?
+to get a list of things you can get help about...
+
+Here are the help functions:
+HELP - short description
+LOGIN - ditto
+MSG - "how to use our message processor"
+NETWORK - "tutorials on network resources"
+SRVYGRAPH
+TELNET        -       note this early appearance of TELNET for the public!
+SURVEY - "some random comments"
+

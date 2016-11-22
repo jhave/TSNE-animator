@@ -1,0 +1,128 @@
+==
+
+
+Mourning the Book - Notes -
+
+
+Sunday January 7th (in trAce WebBoard) The Last Page Program chat - Alan
+Sondheim and Talan Memmott - How do we approach the book, and how do we
+approach reading online? Is the book "dead"? Should we be in mourning for
+the book? Is the book still the best model for new media, and new media
+literature? How do we approach literature? The Last Page stems out of the
+Book/Ends conference held this summer in Albany, New York. Check in at
+http://trace.ntu.ac.uk if you haven't been on the chats before.
+
+At one point, post-structuralism was a high-point, articulating the prob-
+lematic of metaphysics and the narrow defile of traditional disciplines.
+At this point, however, what was once seen as daring and avantgarde has
+become traditional; while the world remains to be deconstructed, the book
+itself has remained inviolate. At the Book/Ends conference, Derrida about
+philosophy as essay or fragment; the last book, he said, was with Heide-
+gger - he then corrected himself, pointing out that Being and Time was
+never completed. (A personal note - I felt "failed" by the deconstruc-
+tionists, let down; the sense of play in Derrida's text - accompanied by a
+certain exhileration - was missing, replaced by carefully-crafted puns,
+inordinately close readings (of texts and the Master of Texts), and that
+uncanny sense of _mourning_ the book as traditional humanities perceive
+themselves under yet another attack, that of electrical-electronic media.)
+
+It's possible to consider the philosophical book as an anomaly; throughout
+much of history, philosophical work was in the forms of parables, maxims,
+poems, exhortations, fragments, narratives, anecdotes, sutras, upanishads,
+lists, conversations, biography, reportage (think of Diogenes Laertes).
+The book creates a certain kind of binding or foreclosing the topic; every
+page is equally accessible, equivalent to every other; every copy is equi-
+valent as well. One might speak of a circulation _among a book,_ writers
+and readers and book-objects cycling among each other as "part-objects,
+part-processes," an intermittent cycling as everything, including texts
+and ur-texts, changes.
+
+But the book has two practical domains - one, the physical aspect of its
+reading (including portability, imminent access, comfort, an object carry-
+ing a history much as the body, personality, at-handedness, vulnerability,
+page-marking); and the other, the _ideology of the book,_ particularly in
+academic or literary circles, which creates the concept of an originary
+textuality located between its covers. (There is, to be sure, a feminine
+aspect of opening as well; a virginal book may have its pages uncut, its
+binding taut, opening almost _unnaturally._ And this psychoanalytical pre-
+sent is not inconsequential; its loss is part of object-loss. For what is
+a book, if not a _transitional object_ interpreting the world, held bet-
+ween the body and everything else, external?). This textuality is presumed
+authoritative, in some sense, final - and so publish or perish gives the
+highest regard to the book (over articles, for example, and certainly over
+online articles which carry equivalence and intellectual slippage to the
+limit), and this regard is heavily institutionalized within university and
+other academic structures.
+
+This high regard is accompanied by a sense of fragility which has always
+been with us; rare books are treated, opened gently; books, not web pages,
+are collected; the 'popular (throw-away) press' is held with suspicion;
+and online texts, even those not distributed, are seen more as exhalations
+than inscriptions.
+
+Further, these exhalations are susceptible to corrosion as protocols are
+changed, outmoded; Netscape 6 is not backwards-compatible, for example,
+and web-pages can appear inoperable in the new browser (not to mention
+Opera 5.01, etc.).
+
+But one might argue that all of this is to the good, that the model of
+knowledge-as-entity is being replaced by knowledge-as-process and knowl-
+edge as _discourse._ Instead of mourning the loss of masterworks, master-
+pieces that remain inviolate for all time, we might find, in the digital
+realm, an ironic return to the body and the emphasis on being-human, on
+relation instead of stasis. (Irigarayan fluid mechanics comes into play,
+_play,_ as well here.)
+
+However, if we look at the physicality of the book, we must also examine
+the physicality of the digital; its appearance, its presence, is given as
+ephemera on a more or less flat screen - Peirce's "sheet of assertion"
+coupled with an extraordinary mobility in terms of font, color, size, and
+so forth. In fact, it is by transforming these parameters on a more or
+less regular basis, that the screen becomes easier, less tiring, to read;
+most often illuminated from within, it can carry texts in an astonishing
+variety of guises.
+
+As with books, there are reasonable questions of lighting, comfortable
+sitting, and so forth. But we might also say, if the book is a _balloon_
+naturally suspended in the air, the online text is a _plane,_ both vec-
+tored and requiring a continuous input of energy just to stay aloft. It is
+this, I think, that makes us most uneasy - that what is on the screen is a
+residue of energy expenditure, that it may disappear at any time - while
+the letters on a page remain, theoretically, forever, as long as the paper
+holds together. (Let's not also forget the _brittleness_ of the computer;
+even a laptop rarely bends in the pocket, sits comfortably on the lap.)
+
+It's more than this, of course, and it constantly goes back to the master-
+piece, to that work, chiseled in stone, which is _the_ work or steering-
+mechanism for the world. Online worlds are dynamic, fragile, constantly
+appearing and disappearing; the world of the philosophical or theoretical
+text is both within and without - in all things illuminated by the sun
+that carries the words to the eye. An online text, however, appears more
+narrowly-focused; it's of the other, digital world; it remains there; it
+generates its own worlds; it can be anywhere and anything; it fractions
+and problematizes truth; it works equally on space, time, and the other
+categories - at least as far as the body is concerned; and so forth.
+
+A final note - I don't think it helps to consider the book as a model for
+new media - any more than film, radio, television, telegraph, the music
+recording industry, telephone, etc. New media have no overarching charac-
+teristics; they are defined (if at all) as a (Wittgensteinian) family of
+usages - in other words, one might look towards communal definitions,
+rather than attempt any authoritative and permanent typology. Certainly
+there are similarities with the book, but online work also is greatly
+related to film (one thing that concerns me - the sophistication of film
+editing, which occasionally is also found on cdrom - I'm thinking still of
+Tennessee Rice Dixon - and the often naive counterpart of linking or flash
+at this point)  in terms of multiple streaming (narrative, subtitling,
+sound, moving and still image), for example.
+
+Yet this idea of the book-as-model or origin of discourse - if not dis-
+course's production - (and if not the book, any other "classic" form) was
+endemic at the conference; we were always returned to _writing_ of a very
+specific sort. I'd want to say, instead, that if one stresses _discourse_
+or discursivities in relation to new media, then one also brings orality,
+aurality, into play; it is another world altogether, one ironically re-
+turning to the body as the locus of speech and choice, one more humanist
+than the soft technologies partially re/placed.
+
+

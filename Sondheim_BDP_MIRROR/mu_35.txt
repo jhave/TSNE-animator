@@ -1,0 +1,604 @@
+
+
+self
+
+
+the blood, the blood
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+nothing will stop violence but violence
+bones, bones
+} blood" the blood, "the print { /[0]+/ 
+blood, the blood
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+nothing will stop violence but violence
+bones, bones
+} blood" the "blood, print { /[z]+/ 
+the blood, blood
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+nothing will stop violence but violence
+bones, bones
+} blood" blood, "the print { /[y]+/ 
+we can scream and do nothing
+we can die and do nothing
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will split the bodies in two
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, bones
+nothing will stop violence but violence
+nothing will stop more violence but violence
+until we are all dead
+} nothing" do and scream can "we print { /[x]+/ 
+we can die and do nothing
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, bones
+nothing will stop violence but violence
+nothing will stop more violence but violence
+until we are all dead
+} nothing" do and die can "we print { /[w]+/ 
+we can die and do nothing
+we can kill and do nothing
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one there are two
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, bones
+nothing will stop violence but violence
+nothing will stop more violence but violence
+until we are all dead
+} nothing" do and kill can "we print { /[v]+/ 
+we can die and do nothing
+we will kill them
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will not bother
+they will split the bodies in two
+they will pay no attention
+for the death of one there are two
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+} them" kill will "we print { /[u]+/ 
+we can die and do nothing
+we can kill and do nothing
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one there are two
+for the death of one of us there are halves
+the bones, bones
+} ourselves" kill will "we print { /[t]+/ 
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+nothing will stop violence but violence
+bones, bones
+} blood" "blood, print { /[s]+/ 
+the blood, blood
+we can die and do nothing
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will not bother
+they will pay no attention
+for the death of one there are two
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+} us" kill will "they print { /[r]+/ 
+we can die and do nothing
+we can kill and do nothing
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will bomb ourselves
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will split the bodies in two
+they will pay no attention
+for the death of one of us there are halves
+the bones, bones
+bones, bones
+} ourselves" bomb will "we print { /[q]+/ 
+we can die and do nothing
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will split the bodies in two
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, bones
+nothing will stop violence but violence
+nothing will stop more violence but violence
+until we are all dead
+} nothing" protest and scream will "we print { /[p]+/ 
+the blood, blood
+we can die and do nothing
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will split the bodies in two
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, the bones
+the bones, bones
+until we are all dead
+} mouths" the from tongues the tear will "they print { /[o]+/ 
+the blood, blood
+we can die and do nothing
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+bones, bones
+} bother" not will "they print { /[n]+/ 
+the blood, blood
+we can die and do nothing
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will split the bodies in two
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+nothing will stop violence but violence
+bones, bones
+} two" in bodies the split will "they print { /[m]+/ 
+the blood, blood
+we can die and do nothing
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+until we are all dead
+} attention" no pay will "they print { /[l]+/ 
+we can die and do nothing
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of one there are two
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, the bones
+the bones, bones
+nothing will stop violence but violence
+until we are all dead
+} two" are there one of death the "for print { /[k]+/ 
+we can die and do nothing
+we will kill them
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of two there are four
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, the bones
+the bones, bones
+nothing will stop violence but violence
+until we are all dead
+} four" are there two of death the "for print { /[j]+/ 
+we can kill and do nothing
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, the bones
+the bones, bones
+nothing will stop violence but violence
+until we are all dead
+} halves" are there us of one of death the "for print { /[i]+/ 
+we can die and do nothing
+we will kill them
+we will kill ourselves
+they will kill us
+we will bomb ourselves
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, the bones
+the bones, bones
+nothing will stop violence but violence
+until we are all dead
+} quartered" are there two of death the "for print { /[h]+/ 
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, bones
+bones, bones
+} bones" the "bones, print { /[g]+/ 
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, the bones
+the bones, bones
+bones, bones
+} bones" the bones, "the print { /[f]+/ 
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of one of us there are halves
+for the death of two there are quartered
+the bones, bones
+bones, bones
+} bones" bones, "the print { /[e]+/ 
+we can die and do nothing
+we can kill and do nothing
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, bones
+nothing will stop violence but violence
+nothing will stop more violence but violence
+bones, bones
+} violence" but violence stop will "nothing print { /[d]+/ 
+we can die and do nothing
+we can kill and do nothing
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will split the bodies in two
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, bones
+nothing will stop more violence but violence
+bones, bones
+} violence" but violence more stop will "nothing print { /[c]+/ 
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+for the death of one of us there are halves
+the bones, bones
+bones, bones
+} bones" "bones, print { /[b]+/ 
+we can die and do nothing
+we will kill them
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+the bones, bones
+nothing will stop violence but violence
+until we are all dead
+} dead" all are we "until print { /[a]+/ 
+we will kill them
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will tear the tongues from the mouths
+they will not bother
+they will pay no attention
+for the death of one of us there are halves
+for the death of two there are quartered
+bones, the bones
+the bones, the bones
+the bones, bones
+until we are all dead
+} us" of gone is earth the "until print { /^$/ 
+{ 
+they will kill us
+they will tear the tongues from the mouths
+for the death of one of us there are halves
+the bones, the bones
+) i-- 1; >= i NF; = i ( for 
+we will kill ourselves
+blood, blood
+they will kill us
+we will scream and protest nothing
+they will not bother
+for the death of one of us there are halves
+the bones, the bones
+$i; ", "%s printf 
+we will kill ourselves
+they will kill us
+we will scream and protest nothing
+they will not bother
+for the death of one of us there are halves
+the bones, the bones
+"\n"; printf 
+} 
+
+
+WAR
+
+
+nothing will stop violence but violenceXN0IG9
+   UW PICO(tm) 4.4              
+nothing will stop more violence but violence//images.ta
+dCd
+"they cut our throats of ac
+until we are all dead5nPkNoe
+   UW PIC
+"t
+words" of arms our cut "theylists         jo
+b29zZSA1
+a
+until the earth is gone of usrms of wordsQogICAgus - forge
+for the death of two there are quarteredoats of 
+actionsluY2x1ZGluZzogTUFYSU0sIFJ
+bones, the bonesYXIgU
+our arms t
+the bones, the bonesinto the ba
+wxyz>d 
+the bones, bones cut of wordsBEY
+nothing will stop violence but violence                     [ Wrote 16 
+lines ]
+nothing will stop more violence but violencebmUs
+k36% hYW5kIF
+20      new spam; proc me
+bones, bonesile-sh
+21   
+until we are all deadmembershi
+23      ls
+abcdefghR
+24    
+the blood, bloodW
+25      cp a/f
+we can die and do nothing
+26      pico fil - PrevP
+the blood, bloodcp fil a        
+we can die and dls          
+we will kill them                 
+we will kill ourselveses another - the other
+blood, bloodyPSIjMDAw
+Se
+they will kill us the death of two
+they will tear the tongues from the mouthsainment, ande of 
+the bones, the bonesxlDQ
+they will not botheret Help  ^Y FirstLin
+for the death of one of us there are halveswith offers that incl
+b25nPjwvZm9udD
+^C Can
+for the death of two there are quartered....93, 1994ntu.ac.uk>o
+your c
+the bloo
+the bones, the bonesJpY
+the blood, blood
+the bones, bonesthe blood, blood
+the bones, the bonesblood, blood19 KB) "
+the bones, bonesme to write : yy
+nothing will stop more v                      
+File Name to wr
+we will bomb ourselvesxpZ249Im
+we will scream and protest nothing8--ber> R
+pqrstuv 4 
+^G
+we will kill themFilesA7PC9wPg0KIC
+we will kill ourselves    TAB CompleteD   3 
+blood, bloodtdm-er
+^G Ge
+they will kill ust  ^R Read File ^
+blood, bloodK Cut Text  
+they will kill userver  (1047) Mes
+they will tear the tongues from the mouthsaWFsIj4
+^X Exit      ^J Justify   ^W Where
+they will not botherUnCut Text^T To Spel
+they will split the bodies in twoaXplPSIyIiBmYWNlPSJBcmlhbCI+PC9mb
+for the death of one there are two              File: yyeim@panix.co
+for the death of one of us there are abcdefghijklmnopqrs                 
+blood, the bloodB3b3VsZCBwcmVmZX
+the blood, blood one of us there
+we can scream and do nothing
+bm90DQogICAgICAgIHRvIHJl
+fo
+we can die and do nothingre quartered R Reply
+Fro
+wxyzYTE.
+we can die and do nothinges, the bonesywgPC9mb250P
+? Help       < MsgIndex   P PrevMsg       - PrevPage D Delete     R 
+Replyut violencesons above mentio
+ZmZAZ3JlZW50cmVlc3R1bXAuY2
+until we are all 
+O OTHER CMDS > ViewAttch  N NextMsg     Spc NextPage U Undelete   F 
+Forward
+b250DQogICAgICA
+Er
+  PINE 4.51   MESSAGE TEXT               Folder: INBOX  Message 3 of 3 END 
+ding mu; rm yy; mJlPC91Pjwvc3Ry
++     2 Feb  5 Ian S. Murray       (
+remo
+wxyzy-Id
+we can die and do nothing
+/[z]+/ { print "blood, the blood" }CjI
+^C Cancel    ^J Justify   ^W Wh
+/[y]+/ { print "the blood, blood" } To Spell - - - - - -
+bEM0LTgyOHRuV
+/[x]+/ { print "we can scream and do nothing" }s]
+http://www.asondheim.org/ http://www.asond
+/[w]+/ { print "we can die and do nothing" }l.net  Tue Febev Pg   ^K Cut 
+http://www.anu
+/[v]+/ { print "we can kill and do nothing" }o
+11 00:51:52 2003lding 
+Date: Tue, 11 Feb 20
+/[u]+/ { print "we will kill them" }2695.008.0.1@b.list-email.net
+older 
+/[t]+/ { print "we will kill ourselves" }internet_txt.htmlez 1 hea
+T
+X-Original-
+/[s]+/ { print "blood, blood" }ister now
+Trace projects http:/
+/[r]+/ { print "they will kill us" }ex.htmcom [66.180.246.24])ut how man
+/[d]+/ { print "nothing will stop violence but violence" }
+        by mail1.p
+http://www.asondheim.org/ http://www.
+:o
+:h
+:m
+-r
+There is no -^? option  (press RETUR              
+video editing tools f
+the blood
+/^$/ { print "until the earth is gone of us" }xyztion? What does it 
+portend
+abcdefghe.email-
+{o
+ for ( i = NF; i >= 1; i-- )e are halvesevails - sing me
+ printf "%s ", $i;ndards? 
+we will b
+ printf "\n"; plan violate
+}h
+k42% bhe bon
+To 7-11@mail.ljudmila.org  [7-11] abcdefghijklmnopqrstuvwxyz 
+violenceifference - i'l
+~
+and state?~~~~~~~~~~
+:::
+until 
+k43% lsll dead
+Mail                lynx_bookmarks.html phoenix.irc         venom.irc the 
+earth is gone of usy Pournelle, Chaos Manor #270
+blood, the blo
+nail 
+          RV.UTORONTO.CA>t."com/maaaP0
+O OTHER CMDS > [ListFldrs] N NextCmd                 K 
+KBLockdan_sondheim@yahoo.ca>,f through
+Criminal prosecution for po
+our web 
+without bail.ViewMsg]  N N
+Forward on the la
+Send message? YesCenter for Public
+the blood, the blood
+they will not botherc NextPage U Undelet
+they will split the bodies in two
+they will pay no attentionE 4.51   MESSAGE TEXT     
+for the death of one of us there are halves         (4436) Re: #1Db/aim 
+Your Free PDA 
+for the death of two there are quartered5 Ian S. Murray       (1456) Ohio 
+Statla
+bones, the bones     
+abcde
+Spellghijklmnopqrstuvwxyz             K KBL
+they will tear the tongues from the mouths     
+abcdefghijklmnopqrstuvwxyzoke-list..
+they will not bothere projects http://tr
+they will pay no attentioneim/index.htm
+
+

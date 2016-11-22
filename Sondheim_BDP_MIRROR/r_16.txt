@@ -1,0 +1,72 @@
+
+
+
+Order
+
+
+Order of reading and constraint are critical in the functioning of MOO
+email lists, email lists, and Usenet newsgroups. For a time I participat-
+ed in the *Theory list on PMC2; I found myself increasingly irritated
+with what I perceived as noisy or spamming messages. 
+
+On the *Theory list, each message is numbered; one can access these by
+stating for example "@read 267 on Theory" but for the most part, posts are
+read in order. When I'd log on, there would be an announcement stating
+"*Theory-MOO has 4 new messages" and I'd enter "@read next on Theory" or
+"@send to *Theory" (the star necessary on the "@send"). 
+
+In general, these messages are read in order; one doesn't know the con-
+tent in advance. After they're read, they're retained in the overall mes-
+sage base (which thus also functions as an archive), but they no longer
+show up with the "@read next" command. And the result of this command is a
+straight-forward linear progression, in which threads are less relevant
+than elsewhere, and where subject titles are fairly random. Used with the
+"@read next" command, one is bound to a formal one-dimensional structure,
+the well-ordering of integers. It's fairly easy, then, to clog the list,
+spam it; one must pass through the spammed messages to continue discussion
+on another topic. 
+
+Usenet, say with the tin reader, is another framework altogether. Messages
+are easily listed by threads; one scans the subject headings, reads only
+particular ones. Scanning can be two-dimensional in this regard - moving
+up and down the headings, then into the linear ordering of the threads
+themselves. This allows for more tolerance of spam, but it also makes the
+headings critical; they become mini-statements themselves, often seductive
+and/or flaming - on the technical newsgroups, they often convey consider-
+able detailed information. Recently, as we all know, newsgroups have be-
+come noisier and noisier, if they're not moderated; many of them convey an
+atmosphere of violence. If one goes as an example to one of the Tonya Har-
+ding newsgroups, this will become clear; almost all the posts are cross-
+posts, often advertisements or quarrels which move from group to group.
+
+Email lists are still another form; there are external archives, and the
+rest arrives in the inbox. Thread headings are usually markers of distinc-
+tion, separating strands rather than seducing readers. Headings are split 
+to indicate branched discussions. The order is random-access; one need 
+not even read a thread in the order it was written in, for example. Spam 
+is not that common, either because of moderation or limitations to exter- 
+nal postings. At one point, newsgroups had a stronger sense of community, 
+but now, I think, this sense has moved to the lists, which are publicly 
+advertised but less public in other ways.
+
+While Usenet is linear in the tin menu system, it's easy to back out of a
+thread one doesn't want to participate in; it's a lot harder to do this on
+a MOO. For that matter, it's also harder to get information about a
+particular MOO list, or even a proper set of commands. MOOs, talkers, and
+MUDs have on the other hand a wide variety of message bases beyond email
+lists, such as paging, private email lists, telephone answering machines,
+bulletin boards, signs, and so forth. Email lists themselves have arch-
+ives, and both home-pages and files depositories at times. While Usenet 
+groups have archives, they're rarely accessed, I believe. 
+
+Finally, demographics vary widely. Obviously newsgroups have the widest 
+open audience; email lists are second. MOO email lists are generally 
+tiny, often unused by MOO participants. Newsgroups can be slightly diffi- 
+cult to post to for new users; email lists are the simplest. In all of 
+these, there are varying degree of protection, ranging from full to no 
+moderation, from closed to open subscriptions, from heavy to no address/ 
+user filtering. In the future, given darknet necessities, I predict that 
+increased closure will be necessary in order for any of these forms to 
+function as anything beyond relics of flaming, advertising, and self- 
+promotion. But prediction is as unreliable as the message bases themselves.
+

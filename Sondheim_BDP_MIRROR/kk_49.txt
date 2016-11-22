@@ -1,0 +1,32 @@
+
+
+
+KOAN^2
+
+
+generator: {k:2}sed 's/./ & is not &\./g' koan > phrase
+
+g is not g. e is not e. n is not n. e is not e. r is not r. a is not a. t
+is not t. o is not o. r is not r. : is not :. is not . { is not {. k is
+not k. : is not :. 1 is not 1. } is not }. s is not s. e is not e. d is
+not d. is not . ' is not '. s is not s. / is not /. . is not .. / is not
+/. is not . & is not &. is not . i is not i. s is not s. is not . n is not
+n. o is not o. t is not t. is not . & is not &. \ is not \. . is not .. /
+is not /. g is not g. ' is not '. is not . p is not p. h is not h. r is
+not r. a is not a. s is not s. e is not e. is not . > is not >. is not . k
+is not k. o is not o. a is not a. n is not n. 
+
+n is not n. is not . i is not i. s is not s. is not . n is not n. o is not
+o. t is not t. is not . n is not n. . is not .. is not . i is not i. is
+not . i is not i. s is not s. is not . n is not n. o is not o. t is not t.
+is not . i is not i. . is not .. is not . k is not k. is not . i is not i.
+s is not s. is not . n is not n. o is not o. t is not t. is not . k is not
+k. . is not .. is not . u is not u. is not . i is not i.  s is not s. is
+not . n is not n. o is not o. t is not t. is not . u is not u. . is not ..
+is not . k is not k. is not . i is not i. s is not s. is not . n is not n.
+o is not o. t is not t. is not . k is not k. . is not .. is not . o is not
+o. is not . i is not i. s is not s
+
+[... etc. ...]
+
+

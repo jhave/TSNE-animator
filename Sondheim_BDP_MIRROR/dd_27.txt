@@ -1,0 +1,59 @@
+
+
+-
+
+
+War
+
+
+With the repeated attacks on panix.com, the ISP is currently unreliable in
+terms of guaranteed mail delivery. The attacks are simple and low-level
+and can be done by just about anyone with a linux or unix machine; as has
+been pointed out, there are plenty of scripts available, beyond that in
+the current 2600. 
+
+The disruptions are sufficiently severe, and the attacks sufficiently sim-
+ple, that one may question just how much security has been built into the 
+Net since, say, the Worm of '88. Note that the attacks aren't hacks into 
+particular accounts; they're not carrying information back to the sender 
+- which makes them difficult to trace. They're occurring for a purpose - 
+to bring down panix.com and possibly other ISPs as well.
+
+I don't buy into a conspiracy theory here, by the way, as some have pro- 
+posed; I don't think these are the result of inter-internet corporate ri- 
+valries. There is too much at stake, too much criminal intent.
+
+Beyond all of this, I can only speak of the effect on me, as a panix user
+for the past two and a half years. Panix is a relatively expensive ser-
+vice, but it has been extremely reliable, except for some recent disk
+crashes, which can happen anywhere. I've remained with it because of the
+reliability; like television, I have almost always been insured of imme-
+diate access when I've needed it. Now the attacks, of course, change all
+that; I have on one hand my loyalty to panix, and on the other, the fact
+that my own communications have become distorted, slotted back and forth
+between panix and netcom, and not getting through, at times, on panix at
+all. 
+
+As I've pointed out, the Net is everywhere porous. A MOO could be brought
+down just as easily by a telnet 23 attack. I gather from the newsgroups
+that the reconfigured IP won't make any difference at all; the problems
+lie with the design of TCP, which is carried on all sorts of datastreams.
+The result is that I've become increasingly depressed and disinvested; a
+part of my day is spent in dealing with ISP status - working, in other
+words, on the sub-level, instead of that of the text itself. More than
+ever, I'm aware of the breathing of Quartermain's Matrix, of its vulner-
+ability, of its redundancy which also makes it susceptible. I move between
+layers at this point, from text to machine to text, all the while entered 
+by virtue of machine and its discursive formations. 
+
+My nerves are on end (what else is new?); the stuttering has surfaced,
+just as Jennifer predicted it would. Speaking and writing per se remain
+the same as ever, but _distribution,_ alterity, is radically altered -
+behind your real or virtual face now looms that of the hacker with blurred
+intent. I would rather not deal with hir: Criminality, as Alexander
+Essenin-Volpin might have pointed out, is in part the demanding of the
+obligation of the other - E-V's _freedom 2_ is fundamentally the freedom
+from coercion. By virtue of the hacker, I am coerced into fumbled or dis-
+torted communication; by virtue of the hacker, my speech is not my own. 
+
+

@@ -1,0 +1,31 @@
+=
+
+West Virginia University Talk, English 
+
+Language, playing music, and Literature:
+
+Speaking with the absent body, speaking without the body.
+Writing involves:
+Preparation, a sheet of assertion, conventional symbols and encodings, 
+potential well (so that nothing happens to the text as it's being written),
+storage, transmission, preparation. It involves stepping-back: WHAT HAVE I 
+DONE?
+
+Speech involves:
+Improvisations, embedding in time, real-time, somatic issues, gestures,
+'aura' beyond symbols, in general 
+
+Electronic literature involves a great deal from both writing and speech!
+Think of writing through filters - similar to graphics filters:
+Some simple examples:
+tr, sed, grep, fold, cut, awk, cp, rev, sort, sort -k a.b
+With perl scripts you can do much more (I can give these to you):
+eliminate.pl, antiorp.pl, elimx.pl, alan.pl, orp.pl rp.pl, elimy.pl, 
+elimz.pl,
+elim2.pl, elim3.pl, al3.pl
+With awk: all sorts of possibilities:
+fil, fill, filter
+With extended perl scripts:
+.julu, julua, parent
+Using talk or chat - 'culling' texts or textual bodies
+

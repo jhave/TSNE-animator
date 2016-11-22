@@ -1,0 +1,277 @@
+
+(I prepared this for a digital archive of my work at Cornell University;
+it might be of interest since it gives a reasonable overview of my work.
+I had a great deal of difficulty trying to make 'sense' of what I do -
+there are gaps and omissions, for which I beg forgiveness, but the basic
+structure is present. Thanks for looking. Hopefully this description 
+will be accepted and functional at Cornell; I need to continue my life
+in quiet and mostly hidden ways. - Alan.)
+
+
+ALAN SONDHEIM: DIGITAL WORK ARCHIVE
+
+ORIGINAL AND ADDITIONAL ARCHIVE
+
+
+Guide to the Digital Archive (prepared for Cornell University)
+
+
+The LaCie Setup directory should be ignored. The TEXTINDEX directory
+is used for searching for particular files. The search syntax is
+accessed by the AstroGrep.exe application, which is more or less
+self-explanatory. If you want to find a description for ennui.mov,
+for example, you would search in TEXTINDEX\ for "ennui.mov"; you would
+then use a standard Windows or Mac application like Notepad to search
+within the particular file. Not all files are indexed, but many are.
+Note that AstroGrep behaves pretty much like the grep command in unix;
+there are other Windows- or Mac- based programs that will do the same.
+This program is one of the best ways to 'feel' the organization of
+the directories on the hard drives. However, nothing is perfect, and
+unfortunately there are orphaned files as well; if there is one that
+you need information about, please contact me (contact information
+below), give me the name, date, and directory of the file, and I'll
+do my best to help you.
+
+There are two top-level directories - one for this hard drive, and 
+one for the earlier. The difference between them is only the date - 
+so that the later 3DAR is 3DAR2 for example.
+
+Here's a rough breakdown of the contents, in the order below:
+3DAR - 3D imagery, video, raw files, and Augmented Reality files,
+including animated gifs, as well as video and images.
+
+5-11ONLINE-SNAP is a snapshot of my online alansondheim.org contents
+as of May, 2011.
+
+ALPINE contains most of the work done by the dancer/choreographer/
+performer Foofwa d'Imobilite, with Azure Carter, myself, and dancer
+Maud Liardon; it was shot in the Aletsch area of the Swiss Alps, as 
+well as in Geneva and Pringy.
+
+AUDIO contains all of the sound files, including the music files I've
+made performering solo or with other musicians. There is also an online
+archive at http://espdisk.com/alansondheim which is also accessible
+through http://lounge.espdisk.com/ The files include other soundwork,
+using shortwave or crystal or very low frequency radios, as well as a
+vibration meter for detecting sub-audible vibrations in buildings.
+
+AZIMAGE contains numerous images by, or related to, my partner and 
+collaborator Azure Carter.
+
+BACKGROUNDS includes mainly 'background' material, used in all sorts
+of productions, ranging from Second Life performances and architecture
+(often involving strange texture-mapping), to 'inspirational' material
+for cultural work.
+
+COURSES includes the materials I've used in course-work, teaching at
+a number of institutions, from Brown University through the New 
+School, Florida International University, and School of Visual Arts,
+among others.
+
+FLOPPY includes work on older floppy disks.
+
+FOOFWA includes the heart of the collaborations with Foofwa d'Imobilite,
+Azure Carter, and myself; these include video, still, and audio pieces,
+as well as dance performances in Switzerland, New York, Rhode Island,
+and elsewhere. A great deal of the work has been shown across Europe
+and the United States.
+
+GEOGRAPHIC is a very large category that includes images I took in 
+resonances with places, ranging from the Great Salt Lake and Antelope 
+Island, to the Everglades, Hunting Beach in California, Aurora and 
+Denver in Colorado, Switzerland, Canada, and trips across the United
+States (often involved with locating 'quiet zones' for very low 
+frequency radio recording), and so forth. These images are shown by
+themselves, used for texture-mapping and inspiration, used for study-
+ing landforms and wilderness, and so forth.
+
+HTML are small pieces written in early html, sometimes using Visual
+Basic as well; they're interactive for the most part and self-
+explanatory.
+
+MOCAP began with the Virtual Environments Laboratory at West Virginia
+University, through Frances van Scoy and Sandy Baldwin, and includes
+a vast array of experimental work done with motion capture equipment;
+the software interface was rewritten for this. I late worked at Columbia
+College in Chicago, extended my mocap experimentation with dancers; this
+was through Patrick Lichty. The resulting files were used for creating
+and studying 'alien' behavior, using Poser mannequins, abstract avatars
+created through Blender, and abstracted/bizarre avatars in the virtual 
+world Second Life. 
+
+OLDERSAMPLER is related to SAMPLER2 in the second hard-drive; both 
+present earlier work that was formally presented on DVDs at the time.
+They were meant to be self-contained.
+
+PARAB was a collaboration made largely at the Experimental Television
+Center in Owego, New York, among Foofwa, Azure, and myself; its back-
+bone is a text I wrote, The Parables of Nikuko, which was published
+as a chapbook by Peter Ganick's Potes and Poets Press. I was influenced
+by early Japanese literature, particularly the Kojiki, which forms the
+mythological background. At this time, and shortly after, I was making
+a number of cd-roms, each more or less themed; these later expanded
+to DVDs, and now, sets of DVDs - for example, we've been working on a 
+set of the Alpine pieces described above.
+
+PDF includes a fairly large library of PDF files I've collected over
+the years and used for my own theoretical and cultural work.
+
+PERFORMANCE includes materials related to the large number of perfor-
+mances I've been involved in, including mixed-reality, Second Life,
+dance and choreography, music and sound, reading, and laptop. As with
+many of the categories in the Archive, PERFORMANCE blurs into ALPINE
+and PARAB, as well as FOOFWA, SEXUALITY, and SL. For this reason, there
+is some repetition of files, but in the long run, I decided this wasn't 
+a problem if pieces were multiply-accessed.
+
+PERSONAL is a complex category, and includes images and videos, etc.
+that generally wouldn't be exhibited as such. They include materials
+related to the death of my parents, personal memorials and celebrations,
+and so forth. They include a lot of material on my background as well,
+including images that might have gone into GEOGRAPHIC for example.
+These works might not be indexed through the search function.
+
+PUBLICATION relates to materials that have been, or might be, published
+- works that have been 'prepared' for publication, for better or worse.
+I should mention that a fair amount of the Internet Text (see TEXTS)
+has come out in magazine, zine, online magazine, chapbook, online
+publish-on-demand book, or standard book, form; for me, this involves a
+regathering/re-editing of materials for that purpose. The works break
+down into several categories, ranging from theory, to phenomenology of
+the virtual, analog and digital phenomenologies, philosophies of 
+electronic literatures, experimental writings and plays, and so forth.
+Again, the categories are sloppy.
+
+
+There is one restricted directory which should only be viewed with care:
+
+SEXUALITY: Work that contains explicit images or nudity; this should only
+be seem and accessed in-house. No files from this directory should be
+duplicated. The directory includes a great deal of work created at the
+Experimental Television Center in Owego, NY; much of this was created with
+Vea Lucca and Foofwa d'Imobilite, over a number of years. This directory
+includes all nude images, whether sexual or not. There are a number of
+dance and other performance works here, including Trilby, which was shown
+at the Rotterdam Film Festival; and Evam and Crepuscule, which have been
+shown at a number of venues in Europe.
+
+SL is a large directory, containing all the work pursuant to my pieces
+in Second Life. The pieces fall into three blurred categories: working
+with modified avatars and 'distorted' avatar behaviors (see MOCAP for
+their original, as we as 3DAR); architectures and architectural struc-
+tures which involve 'alien' phenomenologies and modes of avatar move-
+ment involving constant negotation of the spaces; and performances,
+often with Sandy Baldwin or Foofwa d'Imobilite, using all of these
+elements together, in combination with textual work (related directly
+to experimental electronic literature), and mixed reality technologies.
+Much of my focus has been here, dealing with issues of language, death,
+sexuality, pain, and 'wounding' in the virtual, and their relation to
+the viewing or participating subject. Much of this work was the focus
+of my Eyebeam Art + Technology Center residency in New York this past 
+year, from September 2011 to March 2012.
+
+STILLS are just that - still images that are stand-alone pieces, or
+sequences, that I didn't feel fell into any other category.
+
+TALKSETC are notes in relation to seminars, conferences, or talks -
+it's a somewhat miscellaneous category.
+
+TEXTS is a main category; these are, for the most part, sections of
+the Internet Text, a continuous meditation on the virtual and the 
+real, which I have been engaged in since 1994. The texts also contain
+descriptions of the media files for the most part; the two are often
+interrelated. In the Archive 2 hard drive, the TEXTINDEX directory can
+be searched, as indicated above, with AstroGrep; TEXTS2 contains some 
+additional texts, but these are addenda. In the first hard drive, from
+August 3, 2011, below, the full TEXTS directory can be searched. Please
+note there may well be subdirectories with personal textual material
+that should not be quoted without permission. I wanted to make all of
+this as open and useful as possible - hence, the inclusions. But I do
+insist on discretion here. TEXTS and TEXTS2 also include separate
+articles and other materials that weren't in the Internet Text, or are
+in it as separate essays/pieces/experiments. For example, there is 
+cstalk.rtf in TEXTS2, that constitutes a talk I gave at a computer
+science department (I forget where), and the aden.rtf is a series of
+notes on talks I gave last year through the invitation of Aden Evans,
+to speak at Dartmouth. There are also 'reasembled compilations,' such
+as the distillation text that brings together a number of works on 
+pain - I've used it in various presentations, including one at the
+Electronic Literature Organization Conference this year in Morgantown,
+West Virginia.
+
+TRACE contains the files created when I was the second Virtual-Writer-
+in-Residence for the trAce (sic) online writing community, headed by
+Sue Thomas, and originating at Nottingham-Trent University. I held the
+position over the millennium 'hinge' and worked on a number of 
+projects, ranging from writing into and around 'student' production,
+to creating two open pieces - a novel anyone could write into (I 
+designed five 'strands' for this, and the result was multi-media),
+as well as a piece called 'Lost' - in which participants listed things
+or people they had lost; a long list appeared, separating the things
+or people from the participants' names. Both were highly successful. 
+I also organized a Traceroute Piece, with world-wide participation -
+people did traceroutes of Internet connectivity over the 1999-2000
+interval, when the Net was considered vulnerable (nothing really 
+happened). The huge traceroute files documented the connectivity and
+speed of router connections at the time.
+
+Finally, VIDEO is just that - video pieces that don't fit into any
+of the other categories, Some of these are in series; some of them
+are stand-alone. As the years went by, the resolution gets better
+and better, but some of the earliest works are some of the best.
+
+In Archive2, there are two additional directories:
+
+ELOCONF contains a number of files related to the ELO Conf. described
+above. The panel I was Maria Damon, Sandy Baldwin, and myself, and 
+dealt with the issues of pain etc. mentioned in the SL description 
+(also above). The visuals include a set of hand-modified .obj files 
+for 3D modeling that 'encapsulate' and distort mannequin figures.
+
+EYEBEAM contains a huge number of files related to the research done
+during the September-March residency (see SL above). These include a 
+performance with Monika Weiss, and performances with Foofwa, Azure,
+and Chris Diasparra (on baritone or tenor sax). The Foofwa performan-
+ces extended over a week, with a final 'complete' performance on 
+Saturday; during the week, we made a number of mixed-reality work 
+using a Bambuser video account, Second Life, live dance and sound, 
+and a stage/staging area where everything came together. Earlier on,
+I did something similar during the Open Studio period. The files are
+extensive. There were also a number of 3-d printed objects - mostly
+distorted avatars - made during the residency; there are images of 
+these - as well as a series of texts. I did a blog through the six
+months which may be found at http://eyebeam.org/blogs/alansondheim .
+The blog as a whole gives a good indication of my working methods, and
+lists a number of pieces present on the hard drive. Please note that
+some of the links had to be broken, since my online webpage is
+commercial, and I have to keep limiting the size.
+
+Two other things - when you explore the directories on both of the
+hard drives, you'll find a fair number of video DVD files, including
+one made with Kathy Acker, another dealing with Ciudad Juarez and so
+forth. These are fairly self-explanatory, and with a little coaxing,
+should run fine. You might have to download them onto a DVD disk or
+computer, however.
+
+Contact information:
+Alan Sondheim, 432 Dean Street, Brooklyn, NY, 11217.
+Email: sondheim@panix.com , sondheim@gmail.com . Best write to both.
+Phone: 347-383-8552 or 718-813-3285 (secondary).
+Webpage: http://www.alansondheim.org (a directory)
+ESP directory: http://espdisk.com/alansondheim/
+ESP lounge: http://lounge.espdisk.com/
+Blog at http://nikuko.blogspot.com/
+Second blog at http://avatarpaste.blogspot.com/
+Blog used for Underacademy Course on Anorectic Avatars:
+http://anorecticavatar.blogspot.com/
+Facebook: Alan Sondheim
+Skype: asondheim
+Underacademy college: http://underacademycollege.wordpress.com/
+Email archive http://sondheim.rupamsunyata.org/
+
+ORIGINAL ARCHIVE:
+
+The following directories were assembled by August 3, 2011:
+
+Total: 3 247 435 776(3096M) Free: 4 188 737 536(3994M)
+  Dirs   Files        Usage(b)  Directory:

@@ -1,0 +1,66 @@
+
+
+
+
+Note on slightly confused groping towards structure and sliding -
+
+
+"A set _M_ for whose elements there is defined a finite sequence P of re-
+lations R1, ... Rn, is called a _configuration_ M(P). The following rela-
+tions are of particular importance: _correspondences,_ inner compositions,
+non-elementary compositions, outer compositions, and composition-configur-
+ation or _abstract algebra._ The automorphisms of a configuration (which
+return the configuration to itself) form a group called the _automorphism
+group of the configuration._ A set is made into a configuration by means
+of defining relations; and we then say that the set carries a _structure._
+In general, a configuration will carry various structures; for example, a
+configuration of the rational numbers with the compositions of addition
+and multiplication carries the structures of a ring, an integral domain,
+and a field. One might try to find a 'comprehensive' structure from which
+would follow all valid statements about this configuration. But re: Godel,
+there cannot exist an axiom system of this sort that is finite or recur-
+sively enumerable. We are dealing here with new points of view, from which
+an attempt is made to survey the whole of mathematics." (Modified from
+Some Basic Concepts for a Theory of Structure, by Gericke and Martens, in 
+Fundamentals of Mathematics, Vol I, Foundations of Mathematics / The Real
+Number System and Algebra, ed. Behnke, et. al.)
+
+Now without going into the details (and I am at a loss with abstract al-
+gebra), one can consider a set of elements which are signifiers - such
+elements related by a series of formal statements such that the elements
+exist _only_ in relation to such statements (which exhaust their charac-
+teristics). Then one may create a _second_ mapping among such elements -
+tagging them with an additional characteristic, which may be considered a
+_proper name_ vis-a-vis the characteristics already assigned the elements
+- for example, "body-without-organs" assigned to 0 as absorptive. These
+_proper names_ may be concepts, ideas, even universals - they are proper
+only insofar as they are assigned specific elements.
+
+What then? We may assume that such proper names belong to a particular
+domain - metaphysics, kabbalah, lit crit, decon, pomo, theology, etc.
+Therefore there are a series of relations in dialog throughout the domain,
+presumably crossing ontologies (real/abstract, etc.). The assignments or
+tags then formalize that structure.
+
+There are two interacting regimes - that of the domain, and that of the
+structure. The former slides in relation to the latter; the latter is de-
+fined in terms of universals (relations among elements which may be placed
+into relation). While there are innumerable relations of structure, there
+are relatively few simple ones (linkages, couplings, memberships). What I
+am suggesting is that one might develop a psychoanalytical theory of such
+structures (in the formal sense), and that there exists sliding among do-
+mains in relation to such structures. Such sliding is similar to the con-
+stitution of signifiers by difference - here, however, it is as if ref-
+erents themselves were constituting differences which only exist within a
+limited set of structures. We can consider this a structural economy of
+signification. In this sense, what we are talking about and how we are
+talking about what we are talking about - contaminate each other. The re-
+sult is a reaffirmation of the problematic of (universal) meaning (vis-a-
+vis postmodernism, say), and a greater emphasis on the phenomenology of
+constituting/constitution (which does not necessarily imply conventional-
+ism). So that, for example, to think through the domains of the material-
+inert and the virtual - one might look for structures and their incorpor-
+ations and contaminations, before one dismisses, say, consciousness, as
+inhabiting either one or the other.
+
+

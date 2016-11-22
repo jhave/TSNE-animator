@@ -1,0 +1,16 @@
+
+
+
+The Ownership of my Body at Trace: The Group
+
+
+drwxrwxrwx 1 owner group 0 Nov 4 14:31 _vti_cnf -rwxrwxrwx 1 owner group
+54 Oct 15 15:55 ~$le.txt -rwxrwxrwx 1 owner group 81183 Dec 7 9:39
+diary.txt -rwxrwxrwx 1 owner group 86236 Dec 17 6:16 diary2.txt -rwxrwxrwx
+1 owner group 20007 Dec 30 5:35 diary3.txt -rwxrwxrwx 1 owner group 93375
+Oct 31 23:27 le.txt -rwxrwxrwx 1 owner group 97764 Dec 3 4:31 lf.txt
+-rwxrwxrwx 1 owner group 68226 Dec 30 5:16 lg.txt -rwxrwxrwx 1 owner group
+90603 Sep 22 6:43 setup.txt (permission granted for distribution:: group:
+Daishin Nikuko, Dr. Leopold Konninger, Alan Sondheim)
+
+

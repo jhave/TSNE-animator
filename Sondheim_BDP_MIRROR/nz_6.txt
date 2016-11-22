@@ -1,0 +1,107 @@
+
+
+
+antenns
+
+http://www.asondheim.org/anten1.gif
+http://www.asondheim.org/anten2.gif
+http://www.asondheim.org/antensex.gif
+http://www.asondheim.org/antensex1.gif
+http://www.asondheim.org/antensex2.gif
+http://www.asondheim.org/antensex3.gif
+http://www.asondheim.org/antenburst.gif
+anten radiation configured plot for antenna/sex body absorption
+or emanation, Jennifer says absorption, Nikuko says emanation
+
+
+___
+
+
+Death & Memory of Cock Robin
+
+
+'Who kill'd Cock Robin?
+ I, said the Sparrow,
+With my bow and arrow,
+ I kill'd Cock Robin.
+
+Who saw him die?
+ I, said the Fly,
+With my little eye,
+ I saw him die.'
+
+Who saw him fall?
+ I, said the Rule,
+With hammer and with awl,
+ I saw him fall.
+
+Who saw him flayed?
+ I, said the Moon,
+As I danced and played,
+ I saw him flayed.
+
+Who heard his screams?
+ I, said the Mind,
+In my darkest dreams,
+ I heard his screams.
+
+Who turned away?
+ I, said the Sun,
+I was busy with the day,
+ I turned away.
+
+Who mourned and cried?
+ I, said the Lark,
+Someone else has died,
+ I mourned and cried.
+
+Who has time to mourn?
+ I, said the Worm,
+There's nothing left to harm,
+ I have time to mourn.
+
+Who bears the grave?
+ I, said the Auk,
+There's still a soul to save,
+ I bear the grave.
+
+Who prays for years?
+ I, said Cock Robin,
+For nameless are my fears,
+ I'll pray for years.
+
+
+==
+
+
+The Image 
+
+http://www.asondheim.org/normalcar.gif
+http://www.asondheim.org/bournen.png
+
+847	5	144	138	148	
+99	4	78.500	76	84	
+209	5	129.600	84	148	
+333	10	107.800	72	148	
+516	100	113.640	72	148	
+553	9	101.111	72	146	
+731	46	76.348	72	88	
+847	5	144	138	148	
+885	4	147	146	148	
+893	7	145.143	142	148	
+906	8	144.750	136	148	
+915	9	144.667	142	148	
+919	10	145.600	142	148	
+929	7	144.857	142	148	
+933	5	146	144	148	
+956	15	144.533	138	148	
+967	7	145.143	142	148	
+970	7	144.857	140	148	
+973	8	146.250	142	148	
+1012	5	147.200	144	148	
+1034	16	144.750	138	148	
+1075	15	74.933	72	84	
+1079	21	76	72	86	
+1095	18	77.667	72	88	
+1113	4	77.500	72	84	
+

@@ -1,0 +1,38 @@
+
+
+
+ORIGIN AND CREATION OF THE WORLD 
+
+
+(jumpstarting the MOO)
+log.h                   objects.o               y.tab.h
+log.o                   opcode.h
+k:434> cd
+k:435> ls
+INSTALLATION   MOO.tar        mail/          options.h      temp/
+MOO-1.7.9p2/   ksh*           nohup.out      startup*       thing
+k:436> ./startup
+[1] 22868
+[2] 22872
+k:437> ps
+   PID TTY      TIME CMD
+ 14080 ?        0:21 moo
+ 22868 pts/2    0:03 compress
+ 22832 pts/2    0:00 ksh
+ 14082 ?        0:00 moo
+ 14084 ?        0:00 moo
+k:438> less a.log
+Wed Sep 16 04:26:12 EDT 1998: RESTARTED
+Sep 16 04:26:12: *** Binding server socket: Address already in use
+Sep 16 04:26:12: *** Usage: ./moo [-e] input-db dump-db [port]
+Sep 16 04:26:12: NAME_LOOKUP: Started new lookup process
+k:439> less a.log.old
+Sep 16 03:11:07: CONNECTED: Sotatsu (#2) on 8 from panix3.panix.com, 
+   port 1604
+Sep 16 03:11:35: DISCONNECTED: Sotatsu (#2) on 8 from panix3.panix.com, 
+   port 1604
+Sep 16 04:02:10: CHECKPOINTING on a.db.new.#5# ...
+Sep 16 04:02:18: CHECKPOINTING on a.db.new.#5# finished
+(END)
+
+

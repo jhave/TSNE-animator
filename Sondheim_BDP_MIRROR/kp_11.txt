@@ -1,0 +1,14 @@
+
+
+Note the permission denied statements: Gol doesn't allow user programs,
+not even relatively innocent perl scripts, to run on user accounts.
+
+We can picture a transformation of the internet as a membrane with dif-
+fused glows across a rastered and skeined landscape, to the Internet with
+points of light, clear/clean routes between them. On a basic level, this
+is also the difference between postmodernism with its temporary autono-
+mous zones, flows, and leakages, and modernisms with their blank facades,
+filters and controls, monitors, and mediated relations beneath the signs
+of capital and intellectual property.
+
+

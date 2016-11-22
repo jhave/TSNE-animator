@@ -1,0 +1,143 @@
+
+
+
+Site
+
+
+[This essay is being sent out with four illustrations, in the form of
+jpegs; two are accompanying the text and two are sent within a part ii
+separate email, in case your mailer won't handle four attachments. If you
+are on Fop-l, the essay is sent without the illustrations; Fop-l can't
+handle MIME attachments.]
+
+
+Brooklyn is a borough which has infolded upon itself, in-formed itself,
+recuperated political boundaries, time and time again; its somewhat
+natural boundaries limit its physical growth. Reminiscent of medieval
+London, it is a confabulation of smaller villages; the resulting coag-
+ulation obscures even the slope of Park Slope (parkslope.jpg), unless
+seen from the parapet of the Williamsburg Bank Building (flatbush.jpg),
+the tallest in Brooklyn.
+
+I live in a region of three cultures, defined, not according to ethnici-
+ty, but by the size and topography of the thoroughfares passing through
+it. Within a few blocks of my loft (home.jpg), a number of major streets
+come together:  Atlantic, Fulton, Fourth Avenue, and Flatbush (flatbush.-
+jpg). Fourth, Atlantic, and Flatbush are all major arteries connecting to
+Manhattan;  Flatbush forms the central spine of downtown (Fulton Mall). 
+Traffic on these streets is fast and reckless at times;  I've seen liter-
+ally dozens of accidents, ranging from fender-benders to the strewing of
+an entire family in pieces across Flatbush. 
+
+Locally, Flatbush is a connector with small businesses providing somewhat
+weak centers of attraction (a hardware store, hair parlors, etc.). For
+the most part, the businesses are poor, as they are around my building
+(Dean Street and Fifth Avenue, home.jpg); there are abandoned store-
+fronts, and just up Fifth, abandoned buildings as well. But there is also
+a vibrant streetlife on Fifth, which is an extension of more set neigh-
+borhoods, those that provide strong attractors, with rising real-estate
+prices (see parkslope.jpg) such as Park Slope, Boerum Hill, and Brooklyn
+Heights.
+
+Change between one and another neighborhood in Brooklyn is super-fast; 
+cross a street, and you can be _somewhere else_ entirely. In my immediate
+vicinity, the _artery culture_ creates a node-to-node sensibility; even
+though the roads are local (i.e. with local access and not elevated), the
+traffic may well not be. Think of this as the territory of the Web; in
+fact, a Mall, one of the largest in New York, is opening about a quarter
+mile from me, in the center of the "no-man's land" carved out of the maj-
+or thoroughfare intersections (see noman.jpg).
+
+This territory is _not_ primarily business or strip-mall; it simply be-
+longs nowhere, and the speed of the traffic means that there is very
+little contestation for physical (asychronous). There are major police
+and fire stations nearby, but even without them, drugs and gangs would
+have little reason to operate on those traffic islands that Ballard so
+brilliantly wrote about.
+
+Because of its emptiness, social welfare agencies have moved in. There
+are psychoanalytical, AIDs, unemployment, and medical services nearby.
+These services tend to use pre-existing buildings; while they preserve
+the architectural character of the neighborhood (which is close to nil),
+they contribute to a non-local flow that contributes to keeping the area
+mostly non-local in feeling.
+
+People find _pathways_ across the no-man's land region, in order to shop,
+visit, go to school or work, and so forth. Unlike the Net, these pathways
+are obdurate, impossible to displace. On the Net, the cinematic jump-cut
+reigns; a link can be local or global. On CuSeeMe two nights ago, for
+example, I was connected to Italy, Idaho, and Antarctica (Mc Murdo). 
+
+Local culture, the neighborhood, is defined as a place, site of contes-
+tation, and resistance. It is a place which has temporal continuity, and
+is often connected with local narratives, which help anchor the sense of
+community. It need not follow along sexual preference or ethnic lines (my
+neighborhood, for example, is radically mixed), but often does. On the
+Net, a neighborhood is a "home"; one calls, for example, PMC2-MOO hir
+home, even though s/he may be have a home _within_ the MOO indicated by
+the @sethome feature. 
+
+Within various MOOs, there have been discussion about the phenomenology
+of the @go and @join commands, both of which result in "jump-cutting"
+across the virtual terrain. While this allows immediate access to people
+and sites (I favor it), it does reduce the feeling of distance or mapped
+terrain (some MOOs like Media operate off of a central map, as a matter
+of fact - as do most MUDs and talkers). There is no labor involved, no
+sense of landscaping. The neighborhood becomes a jumped node - but then,
+one jumps "into" a MOO in the first place (note the preposition).
+
+Artery and local cultures are somewhat self-evident and occupied by easi-
+ly comprehended trajectories; the pathways follows real vectors through
+or within the spaces. The no-man's land, however, is very different,
+always in the process of situational/situationist establishment, always
+occupying the imaginary. Vectors within it appear to be the result of
+impinging forces, not necessarily generated by the participants them-
+selves. There's a sense of detournement, on the move. No-man's lands are
+also, of course, post-modern, not a cathecting of competing artery and
+local cultures, but a decathecting of culture altogether. They're the
+territory before the settlement, the hill before the colonia "invasion,"
+the abandoned town square or central city.  They're spaces of disease,
+the "weed," the dis-ease. 
+
+There's little equivalent in cyberspace. _Here,_ there is no here, unless
+there is function, or was function. There are abandoned spaces - I have a
+MOO still inaccessibly running on a machine over at Parsons Design De-
+partment, for example.  But there are not _impinged_ spaces in the same
+sense; the nearest would be an over-used IRC channel with too many parti-
+cipants hacking each other. However, if cyberspace is considered as
+_corporate_ totality, the situation is different; Microsoft and others
+attempt monopoly control within a highly unpredictable (read impinging)
+demographics/economics. Just as with no-man's land (see noman.jpg), the
+space fragments, dissolves, upon closer examination.
+
+There's no conclusion to all of this. Brooklyn divides into a number of
+regions, including park, airport, freeway, corporate, retail, etc. (not
+to mention issues of zoning, natural geographic features, populations).
+Within my immediate vicinity, there are local, artery, and no-man's
+cultures. The last translates into a phenomenology of impingement remin-
+iscent of corporate Net contestation - although here, physically, it's
+not contested (in the sense of takeover) at all. The local culture is the
+neighborhood, paralleled by "home" spaces on the Net. The artery culture
+displays itself through malls and local stores as a Web culture, but -
+like the others - it requires physical movement between any two points,
+and therefore is "granular," or obdurate - within a physicality that, in
+part, defines it.
+
+
+What is needed for the Net is a phenomenology based on, say Lefebvre's
+work on space or Mike Davis' City of Quartz (as well as his essays). A
+second basis would be the research that has been done on formal and
+informal (black-market, grey-market, etc.) economies, and their inter-
+penetrations - the setting-up of a colonia does have parallels with the
+establishment, say, of a MOO or talker - including negotiations (also
+both formal and informal) with (systems) administrators, _jefes,_ and so
+forth. (Maybe on the other hand, too much research is already coming out
+of exhausted social science traditions. Maybe even more theory, decon-
+structive, phenomenological, or foundational, is necessary here.) 
+
+In any case, we'll never catch up; we're both behind and ahead of the
+game, but at least we're ahead. 
+
+I'm going _home._
+
+

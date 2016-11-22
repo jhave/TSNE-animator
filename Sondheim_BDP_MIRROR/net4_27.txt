@@ -1,0 +1,224 @@
+=
+
+
+
+THE DIGITAL DOMAIN AND FACTICITY, WITTGENSTEIN'S *TRACTATUS*
+
+
+
+Briefly, it is always well to return to the springing of thought; in
+this case, a re-examination of Wittgenstein's *Tractatus Logico-
+Philosophicus* is in order, particularly in regard to the digital
+domain. The work relies on the Sheffer stroke* ("not both A and B")
+and its dual ("neither A nor B") to construct a logical picture of the
+world. General propositions are obtained "by taking any selection of
+atomic propositions, negating them all, then taking any selection of
+the set of propositions now obtained, together with any of the
+originals - and so on indefinitely. This is, he [Wittgenstein] says,
+the general truth-function and also the general form of proposition."
+(Russell introduction.) Certainly, the Sheffer stroke and its dual
+operate on a Boolean calculus with 0 and 1 values, a digital domain. 
+
+Two points are immediately evident: First, the domain is reminiscent
+of _any_ digital construct, including ASCII, Mosaic decoding, Quick-
+Time, etc. Second, the Sheffer stroke and its dual both construe a
+negation which is ELSEWHERE; the instability of the stroke is
+bolstered by "neither A nor B," which, I have shown in other texts,
+implies a conceivably fissured and non-circumscribed domain. If the
+stroke itself is a phallic reordering of the propositional calculus
+into a singular basis, the negation is an opening beyond or elsewhere
+than the calculus. Nevertheless, both operations within a computer or
+networked domain imply, necessarily, recourse to the digital at every
+step; this is the effect of protocol, address, and recognition.
+
+There is a shaky argument possible here. Consider the stroke opera-
+ting on ASCII symbols themselves (the "monkeys typing Hamlet" thought-
+experiment); then all ASCII utterances, which are always already
+coded, are reproduced. Hence the *Tractatus* holds in this limited
+domain. The truth-table would simply be the existence of an ASCII
+string within a pre-inscribed framework. Within the frame of this
+essay, for example, the ASCII utterance "ASCII utterance" = 1 since it
+is present. It is clear that sets of potential utterances are subsets
+of others; the domain folds in upon itself.
+
+It should be noted that, by Cantor's diagonal argument, it would never
+be possible to (re)produce, even theoretically on an aleph-null level,
+the set of all utterances. But this is not germane; what we are
+considering is the set of all utterances _always already produced_
+within a domain. The totality of Net utterances, for example, from
+1990-1995, forms such a set. It is clear by the absurdity of this
+totality that the set is somewhat absurd and fuzzy, even within ASCII.
+Questions immediately arise concerning the epistemology of the Net;
+still, the principle is worth considering.
+
+The digital domain is a _frozen_ domain in the sense of acceptance of
+binary information; in this sense, a deeper (Sheffer and dual)
+construction, beyond ASCII, is envisioned. This construction is based
+only on _distinction_ between 1 and 0, _one and the other_. (I have
+shown elsewhere ("Spew" etc. in Internet Text) that repeated dis-
+tinctions lead to peculiar symmetries. But 1/0 is dependent only upon
+concatenation at this point.) 
+
+Let us examine briefly the seven integral (1,2,3,4,5,6,7) sections of
+the *Tractatus* in light of all of this:
+
+
+"1 The world is all that is the case." In German, "Die Welt is alles,
+was der Fall ist." and the comma-separation implies, as well, that the
+world is a totality. Consider the Internet as "that which is the case"
+- or any other digital domain. Then the case is defined by firewall,
+protocol, etc.
+
+"2 What is the case - a fact - is the existence of states of affairs."
+To translate into digital communication: A fact is a concatenation or
+string of binary symbols (note that the symbols themselves are empty;
+one can use just as easily "3/4", "</>", etc.). This is evident from
+"2.01 A state of affairs (a state of things) is a combination of
+objects (things)." 
+
+"3 A logical picture of facts is a thought." This is followed by "3.01
+The totality of true thoughts is a picture of the world." If "logical"
+is defined by "an instance of" - using the Sheffer stroke or its dual
+to produce concatenated binary symbols - this is clearly true, since
+the domain is compared to the set of concatenations. (Note that the
+domain may be considered to possess a "resonance" with itself; it is
+technically reflexive, a self-mapping.)
+
+"4 A thought is a proposition with a sense." (German: "Der Gedanke ist
+der sinnvolle Satz." Note "sinnvolle.") And in "4.002 Man possesses
+the ability to construct languages capable of expressing every sense,
+without having any idea how each word has meaning or what its meaning
+is - just as people speak without knowing how the individual sounds
+are produced." This - and other statements within the section - argues
+for either a hierarchical or holarchic division of the domain, which
+is precisely what occurs in Net topography, or within a computer in
+the escalation from machine/assembly language through compilers/
+interpreters to higher-level programming. Wittgenstein goes on to say
+"Language disguises thought. So much so, that from the outward form of
+the clothing it is impossible to infer the form of the thought beneath
+it, because the outward form of the clothing is not designed to reveal
+the form of the body, but for entirely different purposes."
+
+
+If the logicism of the *Tractatus* was faulted for its ultimate
+insistence on a metaphysical atomism, that atomism is clearly
+returning full-force within the digital domain. Obviously the domain
+ALWAYS operates within a specific bandwidth, but, by virtue of the
+gestural quality of non-distributive non-Boolean lattices/logics, the
+domain extends itself elsewhere or beyond the specificity. The return
+to the *Tractatus* and its argument is a return to the initial
+bandwidth; Wittgenstein in 4.002 is clearly aware of this. What is
+occurring here is a peculiar return to a 19th-century classicism,
+dream of an absolute. Ironically, it also becomes the dream of the
+future. Let us proceed.
+
+
+"5 A proposition is a truth-function of elementary propositions. (An
+elementary proposition is a truth-function of itself.)" The first part
+of 5 argues for compound or concatenated elementary propositions; we
+have seen this in the initial formulation cited above. The second part
+argues for a resonance or self-reflexivity of any statement; we have
+also found this correct. These considerations are clear in computer
+languages themselves; for a program to "run" in QBasic, concatenation
+symbols ("AND" in certain cases and ":" in others) are used. Consider
+the proposition in QBasic "X = X + 1." This is true; it will "run"
+within a program, if X is either undefined or defined as a number. But
+"X + 1 = X" will not run; the assignment is unclear. One can say,
+using a metaphysics of "run/not-run," that an elementary proposition
+is true of itself if it "runs" and not true ("false") of itself if it
+does not run. This eliminates the problematic ontological leap from
+tautology to substance that otherwise might be encountered. Another
+method of elimination is to consider the basic symbol set itself (0/1,
+etc.) as elementary propositions.
+
+"6 The general form of a truth-function is [*p,*E,N(*E)]. This is the
+general form of a proposition." The expression is translated into
+ASCII; "E" and "N" are Greek letters, and "*X" means that "X" is over-
+lined. In Russell's description, "*p stands for all atomic [i.e.
+binary - A.S.] propositions"; the second expression "stands for any
+set of propositions"; and the third "stands for the negation of all
+the propositions making up *E." This returns to the considerations at
+the beginning of the essay.
+
+
+The following earlier propositions are also immediately applicable:
+
+
+"5.632 The subject does not belong to the world: rather, it is a limit
+of the world." "5.641 Thus there really is a sense in which philosophy
+can talk about the self in a non-psychological way. What brings the
+self into philosophy is the fact that 'the world is my world.' The
+philosophical self is not the human being, not the human body, or the
+human soul, with which psychology deals, but rather the metaphysical
+subject, the limit of the world - not a part of it." The digital
+domain has an INTERIOR - the hierarchical/holarchic ordering, and an
+EXTERIOR - which is always already elsewhere, the metaphysical subject
+propelling the _semantics_ of the domain.
+
+
+While the domain is granular, the subject is not. But the explication
+of the subject approaches granularity, just as virtual reality
+achieves finer and finer rasters. There is no "ultimate" here.
+
+
+"6.5 When the answer cannot be put into words, neither can the
+question be put into words. The _riddle_ does not exist. If a question
+
+can be framed at all, it is also _possible_ to answer it." A question
+that can be answered is a question that is FORMATTED. To FORMAT a
+question is to WRITE it in order to RUN it. 
+
+
+_The representation of the metaphysical subject is always a REWRITE
+within the digital domain._
+
+_The existence of the representation is a RUN REWRITE._
+
+
+"7 What we cannot speak about we must pass over in silence." The older
+translation: "we must consign to silence." German: "Wovon man nicht
+sprechen kann, darueber muss man schweigen." This has been subject to
+considerable interpretation ranging from the limitation of the domain
+of facticity to the problematic representation of ethics; certainly,
+the latter sections of the *Tractatus* tends towards ethos. Reverting
+momentarily to a Kripkean semantics, what is passed over is never a
+natural kind, nor a rigid designator; naming HOLDS within the world of
+pictures, facts, and propositions. Here, the silence is that of the
+exteriority of the metaphysical subject, whose real-life semantics are
+not reducible to codification (single, double, or triple). But the
+digital domain is manipulated and to some extent ulterior, even in
+virtual reality; codification is always present (just as codification
+is necessary in any definition of life, artificial or otherwise). 
+
+
+The digital domain, however defined, is therefore a construct amenable
+to an analytical treatment based on the *Tractatus* and other similar
+texts. The descriptive aphoristic of the later Wittgenstein, particu-
+larly *Philosophical Investigations* then becomes, not a questioning
+of the ontological status of the *Tractatus,* but an account of a
+fuzzy and irregular epistemology applied on the level of the semantics
+of the metaphysical subject. The earlier/later work is paralleled by
+interior/exterior; at the beginning of the third millennium, the
+increased raster of the digital (increased bandwidth) parallels the
+increased articulation of the exterior FROM the interior. Hence the
+necessity for a return, however undesirable, to the earlier
+Wittgenstein, even to a Hertzian mechanics. I see the resulting and
+necessary SPLIT (*SPALTUNG*) OF THE SUBJECT as unavoidable; on one
+hand, the horizon of perfect control and description, and, on the
+other, the postmodern fragmentation of the totality of the real world
+on every level, from that of the nation-state, to that of mathematics
+or even the closed dominion of the digital.
+
+In other words, it is not that the torsion occurs only within a
+postmodernism of congealed and dispersed subjectivity, but also 
+without a digital articulation in which a remnant of 19th-century
+classicism is buried - and absolutely necessary for any form of
+digital communication or "reality" whatsoever.
+
+--------
+
+*The Sheffer stroke and its dual are "elementary operations" out of
+which it is possible to construct the complete syntax of propositional
+logic. Nicod's single axiom basis utilizes the stroke.
+
+

@@ -1,0 +1,101 @@
+
+
+
+
+Local Reach
+
+In Pennsylvania with full electric, using the aol.com portal to panix:
+Here are the results. Like a lot of places world-wide, I'm assuming, the
+connection is rough - packets suddenly flooding through, then apparently
+caught as one or another router is overloaded. The telnet constantly
+freezes - as I've reported before, it's a situation not dissimilar to
+gagging or suffocation - where thought moves from internal speech to dis-
+ease, from symptom to symptomology...
+
+Sep 19, 1999  18:48:49
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 568ms   TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 428ms   TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+Ping Successful
+3 packets received out of 5 packets transmitted :   40% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 568/257/417
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 5238ms  TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 246ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+Ping Successful
+4 packets received out of 5 packets transmitted :   20% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 5238/246/1499
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 253ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 257ms   TTL: 243
+64 bytes received from 166.84.1.68         RTT: 201ms   TTL: 243
+TIMED OUT
+64 bytes received from 166.84.1.68         RTT: 329ms   TTL: 243
+Ping Successful
+4 packets received out of 5 packets transmitted :   20% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 329/201/260
+
+Starting trace....
+Tracing to panix3.panix.com [166.84.1.68]....
+Hops    IP Address              RTT(ms)
+1       205.188.200.94          5213
+2       205.188.200.125         5203
+3       TIMED OUT
+4       205.188.128.5           507
+5       205.188.130.70          206
+6       146.188.161.202         318
+7       146.188.161.174         203
+8       146.188.136.186         199
+9       146.188.179.49          251
+10      146.188.178.133         4270
+11      157.130.17.146          205
+12      TIMED OUT
+13      166.84.1.68             259
+Host reached
+
+
+Sep 19, 1999  19:00:38
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+TIMED OUT
+TIMED OUT
+TIMED OUT
+TIMED OUT
+TIMED OUT
+Ping Unsuccessful
+0 packets received out of 5 packets transmitted :   100% PACKET LOSS
+
+Starting trace....
+Tracing to panix3.panix.com [166.84.1.68]....
+Hops    IP Address              RTT(ms)
+1       TIMED OUT
+2       TIMED OUT
+3       TIMED OUT
+4       TIMED OUT
+Host not reached
+
+Starting ping....
+Pinging panix3.panix.com [166.84.1.68]....
+64 bytes received from 166.84.1.68         RTT: 309ms   TTL: 237
+64 bytes received from 166.84.1.68         RTT: 312ms   TTL: 237
+64 bytes received from 166.84.1.68         RTT: 206ms   TTL: 237
+64 bytes received from 166.84.1.68         RTT: 5266ms  TTL: 237
+64 bytes received from 166.84.1.68         RTT: 308ms   TTL: 237
+Ping Successful
+5 packets received out of 5 packets transmitted :   0% PACKET LOSS
+Round Trip Time (in milliseconds) Max/Min/Av: 5266/206/1280
+
+

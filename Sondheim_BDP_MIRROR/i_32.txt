@@ -1,0 +1,170 @@
+
+
+
+
+
+
+Future developments of the email lists:
+
+
+
+1. Setting up of a MOO or MUD for at least partial operation, synchronous
+
+multi-party use. Partial operation: The MOO would run at on a fixed
+
+schedule or at pre-announced times. It would be connected with elist 
+
+archives. It would be capable of suspension and document insertion. Does
+
+anyone want to organize this?
+
+
+
+2. Development and use of the cybermind/fop archives, which are reachable
+
+through ftp://pub/pubs/listservs/spoons/ . These should be expanded; if
+
+there's not sufficient disk-space, perhaps someone could take up the 
+
+slack elsewhere?
+
+
+
+3. Possible audio applications: Netphone or complementary list devoted to
+
+audiofiles, not archived. I imagine a future email list as voices in a
+
+darkened room, flashes of images on an otherwise invisible screen.
+
+
+
+4. Mpeg and other file attachments - using the dmpeg viewer for video in
+
+DOS at the least. Files must be kept to a minimum, low-priority, in order
+
+to keep bandwidth down.
+
+
+
+5. Jpeg and other file attachments - supplying a small jpeg/gif viewer.
+
+
+
+6. Web pages - Anyone want to design one? Could Netphone etc. be built
+
+into these? Again, there would be space limitations, unless someone wants
+
+to set one up and maintain it at their site (Marius' site is closing).
+
+
+
+7. What encourages community? What encourages discussion (data-base and
+
+other resources. The use of multiple linked sites/application, public
+
+ftp, for example. Would the production of an e-magazine be either realis-
+
+tic or relevant?
+
+
+
+8. Use of aliased configurations, sublists, etc. - what's possible? Do
+
+sublists reduce or complement elists?
+
+
+
+9. Purposes/mandates: What should be the long-term goals of an email list?
+
+Should there be any? Can one speak generally about this? Should there be a
+
+point when elists should be dissolved? What should be the future of cyber-
+
+mind and fiction-of-philosophy?
+
+
+
+These questions are both general (applicable to all elists) and specific 
+
+to cybermind/fop. Should we involve subscribers in extending the lists in
+
+one or more of the above directions? Does anyone want to take any of them
+
+on? Let us know ...
+
+
+
+Alan
+
+
+
+
+
+Symptoms
+
+
+
+
+
+(By and large in the form of the interrogative, not interrogating the
+
+symptom, but the site of inscription itself.)
+
+
+
+The recent Freud and post-Freudian history of psychoanalysis is not only
+
+a history of theory, and therapies; it is also a history of symptoms and
+
+illness as well. And one can see a transformation from the moment of hys-
+
+teria through that of anomie, to the moment of schizophrenia, and now, 
+
+reading through Kristeva's New Maladies of the Soul, to that of distur-
+
+bances of representation as well. These transformations are _of_ what, 
+
+against what matrix, what healthy interiority? For if everything remains 
+
+on the level of representation, even through hysteria (inscription of 
+
+trauma) and schizophrenia (holarchic inscriptive sememes), then what co-
+
+herency would be said to constitute health in such a manner as evading 
+
+enlightenment rationality? Does representation, in fact, go all the way 
+
+down into and within the inchoate? - in which case, given their pre-logi-
+
+cal status (which continues all the way up), are these illnesses and their 
+
+interiority (interiorities?) _a continuum of injuries_ as the psychic 
+
+apparatus applies its developing strategies to continually evolving situa-
+
+tions?
+
+
+
+And what happens if the structuralism itself is removed, as the healthy
+
+interior is found to be nothing, in fact, but a representation through
+
+such injuries? - Is there a deconstructive (non-) narrative in relation to
+
+this? For example, the Lacanian symbolic or imaginary - when there are
+
+already ontological subversions of both vis-a-vis a techne which itself
+
+is no longer techne?
+
+
+
+Then, and in what sense - this debris that accumulates, this organism 
+
+against the organization of the real (apparent in its repetitions, order-
+
+liness), this exhaustive debris?
+
+
+

@@ -1,0 +1,23 @@
+
+
+
+
+KOAN
+
+
+generator: {k:1}sed 's/./ & is not &\./g' phrase > koan
+
+n is not n. i is not i. k is not k. u is not u. k is not k. o is not o. is
+not . i is not i. s is not s. is not . n is not n. o is not o. t is not t.
+is not . n is not n. i is not i. k is not k. u is not u. k is not k. o is
+not o. . is not .. is not . a is not a. l is not l. a is not a. n is not
+n. is not . i is not i. s is not s. is not . n is not n. o is not o. t is
+not t. is not . a is not a. l is not l. a is not a. n is not n. . is not
+.. is not . n is not n. i is not i. k is not k. u is not u. k is not k. o
+is not o. is not . i is not i. s is not s. is not . n is not n. o is not
+o. t is not t. is not . a is not a. l is not l. a is not a. n is not n. .
+is not .. is not . a is not a. l is not l. a is not a. n is not n. is not
+. i is not i. s is not s. is not . n is not n. o is not o. t is not t. n
+is not n. i is not i. k is not k. u is not u. k is not k. o is not o. . is
+not .. 
+

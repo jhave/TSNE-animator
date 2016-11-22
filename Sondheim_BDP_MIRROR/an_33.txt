@@ -1,0 +1,71 @@
+
+
+
+Web pages: 
+
+Little bandwidth as possible
+Standardization of indices
+Cross-platform vital information
+Specific platform information for all platforms
+No bitmapping unless absolutely necessary
+16-bit applications as well as Java+
+Standardized bullets if possible
+Repeated use of similar cached images
+High compression for audio/video
+Jpegs and gifs under 35k if possible
+No overdoing of page links 
+Image content repeated in text content
+Email addresses for return comments
+Quick-loading backgrounds
+Priority given to text loading over image loading
+No duplication of FM/AM radio, Cable television
+Updating and elimination of outdated links
+Clearly marked button structures
+
+Talkers/MOOs/MUDs:
+
+Simplified command structures
+On-line time limits of three hours without relogging in
+Protection against fork-bombing?
+Disk swapping wherever possible (RAM/hard drive)
+
+IRC:
+
+On-line time limits of three hours without relogging in
+Spam limits and filters
+
+Email lists, Usenet:
+
+Limited requoting
+Limited or no one-line "I agree" etc. posts
+No chain letters
+No advertising spams
+Clearly written info sheets and FAQs (for Usenet)
+Cross-posting only when relevant
+Reposting only with permission
+Reposting only "reasonably" short texts (i.e. below 25k)
+Giving URLs whenever relevant and easily accessible
+
+Email:
+
+No chain letters
+No advertising spams
+Requoting kept to a minimum
+
+FTP:
+
+The .txt extension available for all text files
+Compression with .zip etc. as much as possible
+Use of popular compression protocols as much as possible
+Indices to all directory contents
+
+Gopher:
+
+Indices to all directory contents
+Updating and elimination of outdated links
+
+Telnet:
+
+Use of standard port numbers as much as possible
+
+

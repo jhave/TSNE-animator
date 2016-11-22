@@ -1,0 +1,27 @@
+
+
+
+Spoiled Cultures, Spoiled Goods, Spoiled Users*
+
+
+You're right; I've been experimenting tonight with different browsers on
+Web pages, and they're wildly different from each other, splayed all over
+the place, even typefaces/sizes shifting in accordance with manufacture. 
+Think of this in relation to the _standardization_ implicit in NTSC; those
+color bars, waveform monitors, vectorscopes, etc. are all used to guaran-
+tee a properly configured signal (chrominance, luminance, voltage levels,
+etc., phase, etc.). And as I've pointed out before, the FCC in the US re-
+quired that color reception be backwards-compatible with black-and-white. 
+
+No such luck with frames, backgrounds, html extensions, java, cgi, etc.;
+not only are scripts and commands disabled with older or different brand
+browsers, but text is continuing to take back-seat to just about anything
+else. Whatever happened to RFCs and their modicum of control? I'm begin-
+ning to feel like a hateful oldtimer; sooner or later _something_ has to
+settle in, after less hype and more testing. If not, the Web will continue
+to develop piecemeal of course - but it will become less and less useful.
+
+Did it ever occur to you that _the entire Iliad_ is nothing more than a
+single _Iliad.txt_? Amazing that it held interest for close to three thou-
+sand years... 
+

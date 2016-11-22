@@ -1,0 +1,31 @@
+
+      	
+
+
+
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [
+] [ ] [ ] [ ]click here < > to save a life:  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [
+] [ ] [ ] [ ]when the button turns green a life is saved: [ ] [ ] [ ] [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ]if nothing happens click again: [ ] [ ] [ ] [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ]click here < > to avoid terror: [ ] [ ] [ ] [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ]this is an interactive text: [ ] [ ] [ ] [ ] [
+] [ ] [ ] [ ] [ ] [ ] [ ]click the first or second buttons for immense
+faith: [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]if you have immense
+faith the first button turns green: [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [
+] [ ]if you have lesser faith the second button turns red: [ ] [ ] [ ] [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ]if nothing happens you have no faith: [ ] [ ] [
+] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]if you have no faith people will die: [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]people will die unutterably: [ ] [
+] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]click here < > it turns black: [ ] [
+] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]there is darkness and grey dust: [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]you have done nothing wrong: [ ] [
+] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]you have done nothing right: [ ] [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+10 vi zz 13 sed 's/^/[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]/g' zz > yy; pico yy
+15 sed 's/^/[ ] [ ] [ ] [ ] [ ]/g' zz > yy; pico yy 17 sed 's/^/[ ] [ ] [
+] [ ]/g' zz > yy; pico yy 19 sed 's/^/[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+[ ] [ ]/g' zz > yy; pico yy
+
+

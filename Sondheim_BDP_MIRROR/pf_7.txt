@@ -1,0 +1,13 @@
+
+[2;1H
+[Waiting for connection...]
+[24;1H
+[?1l
+>[2] + Stopped              ytalk sondheim@panix3.panix.com 
+$ exit
+You have stopped jobs
+$ fg
+ytalk sondheim@panix3.panix.com 
+[1;24r
+[?7h
+[J

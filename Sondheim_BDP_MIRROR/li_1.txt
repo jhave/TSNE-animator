@@ -1,0 +1,272 @@
+
+
+Consideration of the trAce Projects
+
+
+The trAce online writing community, directed by Sue Thomas, originates
+from Nottingham Trent University, England; the URL is
+http://trace.ntu.ac.uk . I was the second virtual writer-in-residence at
+trAce (following Christy Sanford Sheffield); I used the six months to
+write a diary; work on my own texts; participate heavily in the Webboard
+(BBS) discussion (this also included initiating a number of conferences);
+and developing four projects, all of which are concerned with writing,
+semantics, organization, and deconstruction. Three of these projects -
+LoveandWar, The Yours, and The Traceroute (or trAceroute) Project - are at
+http://trace.ntu.ac.uk/writers/sondheim/index.htm; the Lost Project is at
+http://trace.ntu.ac.uk/lost/index.htm . The following is a brief descrip-
+tion of the individual projects, and some of the issues involved in them.
+
+a. LoveandWar: Five pages or backbones - anyone can add text to any of
+these. The content/direction was a "novel" based on several characters I
+have used in my own work, including Jennifer, Julu, and Nikuko. Parti-
+cipants added other characters (Cybele for example) and texts, which may
+or may not have contributed to the narrative. Threads tended to wind
+around each other, disappearing from one backbone, only to appear on an-
+other. As with The Yours, below, each backbone developed its own char-
+acteristics, its own mood. During the course of the project (about two
+months), one or another backbone would be busy - at most, two at a time.
+The second and last were popular, but all of them eventually became fairly
+lengthy. The total project time was based on a felt optimum - after a
+while, the pages seemed to have peaked - and it was announced (on the
+Webboard and elsewhere) that the project would soon shut down. This gave
+participants a chance to add final sections. There was also an accompany-
+ing Webboard conference; this was eventually closed and archived as well.
+
+b. Out of LoveandWar came The Yours, which contained four pages or back-
+bones; this time, there was no overall direction indicated. The project
+quickly self-organized around various themes, which flowed in and out of
+each other. It was fascinating to see this in operation. In particular,
+narratives appeared, only to disappear - the same was true of poetic or
+prose forms. One could consider the project a form of linear seeding.
+Both this and LoveandWar can be read "anywhere," but there is more of a
+sense of overt structure or articulation in the latter; The Yours almost
+seems to spread out forwards and backwards in time.
+
+c. The Traceroute or trAceroute Project centered around the Y2k problem
+and the 1999-2000 New Year's celebration. In this case, there was only one
+page; I asked participants to use the traceroute or tracert application in
+Unix/Linux or Win95/98 to trace Internet connectivity at that time; some
+Webpages with traceroute applications built-in were also employed. The
+result is a record of the (very healthy) state of the Internet - connec-
+tions were faster than usual. In addition, participants were asked to
+comment on local Y2k problems, other items of interest. I didn't want any
+sort of graphic interface - they're all too common on the Net, and many
+aren't that useful - but wanted instead a narrative of the world-membrane,
+during the period of supposedly peak computer difficulties (which didn't
+materialize). The final result is a textual mapping of the telecom world
+around the millennial moment. Participants, by the way, not only were able
+to enter traceroutes from their local nodes, but, through the Webpages,
+were also able to connect various sites with each other - for example,
+Moscow with Perth. The resulting topology was more of an overall skein
+than a multiple-star topology.
+
+d. The Lost Project: One page or backbone; users are asked to give name,
+email address, and description of lost object or person. The three entries
+are presented in three different files; the project page itself is created
+(by Simon Mills and myself) as broken html and linking. The form on the
+page shakes; the background image peels off around it. But the html isn't
+broken, and the error message (after submitting the information, an Error
+400 appears) is false; clicking on it leads to the entries so far. In this
+project, the lost object is disassociated with the name and email address
+- to date, many of these are falsified or playful in any case. Things tend
+to disappear into one or another file, just as nodes, objects, people,
+languages, protocols, and media disappear in the real world; I have 8"
+floppies, for example, that are now completely unusable, the information
+lost forever. The Lost Project is also a Project that is Lost - that has
+disappeared, to the extent it appears submerged in error, removed from
+perhaps a previously pristine or pure existence, when everything existed
+in the world, and everything worked.
+
+1 Inscription-machines
+
+The Yours, LoveandWar, and Lost projects are inscription-machines: spaces
+for writing/inscribing within a specific form (name/email address/text)
+based in a specific server, organized through particular protocols. The
+operation is the same for everyone; the content is configured/articulated
+within a space regulated by invisible background programming. In the Lost
+Project, the regulation itself is suspect; the background is foregrounded
+to the extent that it is a false background, unworkable, unworking - which
+is not the case at all.
+ 
+2 Linearities
+
+All four projects have the potential for links placed by participants, but
+their structure is linear or comb-spaced. LoveandWar has five tines or
+backbones; The Yours has four; the other two (Traceroute and Lost) have
+one each. At times, I would place cross-referencing links within the first
+two (i.e. one backbone connecting to another), but the overall tenor of
+the pieces are linear. There is, in other words, a tension between collab-
+orations/texts which extend and differentiate, and linearity, which tends
+to unify, concatenate.
+
+(However, the linearity of Lost is slightly broken, since there are three
+sheets - the name, email address, and lost object sheets - which are only
+roughly correlated. These may be considered three tines, added to simul-
+taneously, to the extent that name, email address, and object text are
+entered at all.)
+
+3 Peripheral Phenomenologies - what shows up at the margins (grey page,
+white page, flash page, image page - on Yours - start page, end page,
+intermediary pages - on LoveandWar - traceroute residue page on the
+Traceroute Project - triple pages (two as residue) on the Lost Project -
+
+The four projects organized their inscriptive spaces (tines or singular
+writing-page) variously. LoveandWar is based on a narrative involving
+Jennifer and other characters/avatars I have written through; two of the
+tines are based on opening and closing strategies, and three others em-
+phasize narrative moments. These bases are, at best, initiations into the
+tines, which quickly organized into other characters, narratives, break-
+downs, and flows. 
+
+The Yours has four bases, one for each backbone. The first is an three-
+dimensional "organic" image I produced in Blender; the second, a flashwork
+by Miekal And; the third, a light grey background; and the fourth, a white
+background. There was nothing else provided; texts self-organized within a
+much more open space than LoveandWar.
+
+Traceroute, based on tracing interconnectivity during the 12/31/99-1/1/00
+turnover, had a basic purpose which more or less controlled the content -
+a monitoring first of Internet routes, and second of local (i.e. the
+user's) environments. And Lost, whose purpose is the recording of lost
+belongings, or a longing for be-longing, has to date produced more noise
+than anything - as if the broken portal were a catalyst for broken or
+hacked purpose.
+
+It's odd that, besides this, the projects have remained almost entirely
+free from spam, and there has been only one case in which a writer asked
+to have her contributions removed after the fact (which took some doing on
+the part of the administrators).
+
+4 Bottom-up governance - scratch sheets, "level playing field," anyone
+participating
+
+Within the projects, each participant was equal; anyone could bend the
+text or imagery in any direction within the overall configuration. To this
+extent, the projects were scratch sheets. One constraint, however, was
+that the latest text would be entered only at the bottom - i.e., unlike a
+webboard, there was no way to place comments or material interstitially.
+
+Of course, and we take this for granted - the pages were open for writing
+and reading twenty-four hours a day; they were vulnerable, unguarded
+spaces, without monitoring. Only the Lost Project has minimal monitoring -
+email sent to sondheim@panix.com whenever an entry is made. 
+
+5 Literatures plural, "modalities" of writing
+
+The modes of writing included flash, html and dhtml pages linked to the
+backbones, inserted images, texts in various fonts, sizes, colors, and
+effects, etc. The styles are also extremely varied, ranging from tradi-
+tional forms to animations to graffiti.
+
+There is not one literature, but literatures; there is not one writing,
+but writings. The projects are multivalent, heterological, contradictory;
+they also possess "aura" to the extent that there are additional elements
+- not only the programming itself, but also back-channel, back-project
+private email correspondence; talk about them on the Webboard; advertising
+for them across the Internet (on various email lists and Webpages); dis-
+cussion in chat on trAce and elsewhere; lectures and seminars describing
+them at universities, real-life conferences, etc.; and so forth.
+
+6 Writing and "wryting"
+
+In some of my theoretical work, I've made distinctions between "writing"
+and "wryting" - the latter referencing an almost hysteric embodiment, in
+which writing becomes symptomatic of physical absence - as if it were a
+residue or skin itself. It's the extreme positioning of text to re-present
+the body online. The image of the "tine" or "backbone" is an image of a
+body inserted online, a body of text and textual body. I see these pro-
+jects as inhabited, inhabiting, online spaces, as if avatars and avatar
+ghosts were present. The writing styles often reflect this, pushing the
+language to the limit of re-presentation. The projects are simply in terms
+of design, animation, and programming content; they're rough, open to the
+semantics of reading, linking, seeing, hearing. Whatever is "clever" about
+them is invisible.
+
+7 Non-dhtml/web aesthetic orientation
+
+The Internet has changed radically in the past few years; the two major
+changes have been (following the abandonment of the NSF backbone, etc.)
+the emerging of a dominant corporate Net culture, and the development of
+the World Wide Web as all-encompassing. Accompanying both of these has
+been a slew of proprietary protocols as companies vie for online dollars
+and demographics. Almost all Net art is Web-oriented, animated, etc. I
+wanted to have an anti-aesthetic - pages that would be readable in a text-
+based environment, such as a linux shell account. I also wanted the empha-
+sis to be on written content - almost as if the pages or backbones were
+spoken, instead of written - almost as if there were a body embedded with-
+in them. And I wanted a sense of poverty, of bleakness, as if these pages
+were the last place or inhabitation of writing, as if these were all there
+was. I wanted them to load with minimal bandwidth, as if there were an
+ideal universal accessibility, as if the rest of the world could see them,
+without or without modems or Internet. And I wanted a certain hunger to
+prevail...
+
+8 Writing and rewriting on the Webboard - other URLs, openings
+
+Beyond these projects, I wanted to contribute as much as possible to the
+Webboard, which tends to archive everything. There is a tension because of
+this - on one hand, an informal dialog framework, and on the other, larger
+and larger files, and increasing difficulty of navigation. It's as if the
+past creates its own articulation, formalization - interesting from a
+philosophical-epistemological point of view. I have been surprised that
+there are not more rewritings, reshapings - which owners of posts can do -
+and which would create detours, ruptures, in a flow already broken by
+multiple responses. I used the Webboard as a home-space, opening it, at
+least for myself, by posting numerous other URLs that represented the kind
+of work that most interested me.
+
+I did find the board increasingly conservative as time went on, and I have
+spent more of my own energy in the 7-11, nettime, webartery, and other
+lists, which are valuable resources for anyone interested in experimental
+work or the deconstruction, so to speak, of the desktop and its protocols
+and interconnectivities. The board operates somewhat as a teaching envi-
+ronment, somewhat as chat, somewhat as resource center; it is also an on-
+going body of work or working body - I tend to think of an inscribed body,
+not sexualized or psychoanalytical, but on the order of a limited tele-
+phone exchange, flooded with messages. The board is everyone's and no
+one's project, and that has been part of the fascination - while, at least
+for me, there has always been an overall tenor to it, the tenor changes
+constantly.
+
+Finally, there has also been the diary for me - which breaks down into
+diary.txt, diary2.txt, and diary3.txt, also at the projects URL. I have
+written about the function of the diary elsewhere; it is the first time
+I've kept one, and, like the backbone pages themselves, it has tended to
+extend linearly. At first an exercise, it became more and more a public
+portrait from my viewpoint - something anyone would look at, in order at
+least to begin to understand me and my work. It was also an occasion for
+venting and thinking about depression, obsession, exhilaration, despair,
+poverty, intensity. It rapidly developed into a work itself.
+
+9 Rupture, hacking, spam
+
+There has been very little rupture, hacking, or spam across the projects
+or board, and that continues to interest me. There have been very few
+pieces that have worked "across" the webboard, for example, breaking de-
+liberately through the conference categories (one of them was an early
+version of the Lost Project, in which I went looking in various confer-
+ences for the missing). I'm surprised at this acceptance of boundary - it
+would have been easy for someone, for example, to link The Yours to
+LoveandWar and confuse texts. There was a form placed in one of the
+backbones that imitated the entry form at the portal - but this was an
+isolated instance.
+
+10 Conclusion of Writing
+
+The object of the Lost Project, the unattainable object, part-object, flow
+or flood, objet petit a, masquerade, lure, seduction, transitional object,
+memory, drive, instinct - always a hunger or teleology, always a tendency-
+towards - this drives the epistemology of the projects, which portend new
+ontologies as the millennium progresses. Philosophically, the results and
+the processes are fascinating, fetishizations of language and space, the
+leaving of feathered traces across an infinitesimal corner of the Net. 
+
+And all of these spaces or projects are ergodic texts, in the sense of
+Aarseth; they are also therapeutics, requiring different modalities of
+writing and reading. They foreground writing in a space of infinite
+choice, a literally chaotic space; and as such, they also foreground the
+reception of a writing which tenaciously holds its own.
+
+Alan Sondheim - http://www.anu.edu.au/english/internet_txt          2//00
+
+

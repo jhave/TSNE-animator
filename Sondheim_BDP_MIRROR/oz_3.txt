@@ -1,0 +1,30 @@
+
+
+
+
+
+skeleton Anita Berber
+
+murder.
+morphine.
+mucous.
+murmured. voices.
+mayhem. vortex.
+misery. blood.
+murder.
+muck. fuck. naked.
+murder.
+
+2 pico zz 3 dict murder 4 dict murder | more 5 pico zz 6 dict morphine 7 
+fg 8 dict mucous 9 dict mucous |more 10 fg 11 dict murmur 12 fg 13 dict 
+voice | more 14 fg 15 dict mayhem 16 dict mayhem | more 17 fg 18 dict 
+vortex 19 fg 20 dict misery | more 21 fg 22 dict blood 23 dict blood | 
+more 24 fg 25 dict muck 26 fg 27 dict fuck 28 dict fuck | more 29 dict 
+fuck | more 30 fg 31 dict naked 32 dict naked | more 33 fg 34 sort zz > yy 
+35 pico yy 37 sed 's/ //g' yy > zz 38 pico zz 39 sort -k 4.3 zz > yy 41 
+pico yy 43 sort -k 3.2 yy > zz; pico zz 44 perl a/eliminate.pl < zz > yy; 
+pico yy 45 sed 's/[\.,;{}]//g' yy > zz 46 pico zz 50 new zz; cat oz.txt zz 
+> ding; mv ding oz.txt; m
+
+http://www.asondheim.org/anitaberber.mp3
+

@@ -1,0 +1,32 @@
+
+
+
+Put Heian
+
+
+220-Welcome to Global Online East Asia.
+220-This is a private server run explicitly for GOL users.
+220-All transactions will be logged. Any problems contact
+postmaster@gol.com
+220-
+220-Your host is panix7.nyc.access.net
+220-Local time is Mon Aug 24 09:50:04 1998.
+220-
+220 gol1.gol.com FTP server (Version wu-2.4.2-academ[BETA-15](1) Sat Jun
+27 19:4
+9:25 JST 1998) ready.
+500 'AUTH GSSAPI': command not understood.
+Name (gol1.gol.com:sondheim): 
+331 Password required for sondheim.
+Password:
+230 User sondheim logged in.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> put Heian
+227 Entering Passive Mode (203,216,7,4,5,227)
+150 Opening BINARY mode data connection for km.
+226 Transfer complete.
+4747 bytes sent in .3 seconds (18 Kbytes/s)
+ftp> 
+
+

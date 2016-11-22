@@ -1,0 +1,46 @@
+
+
+
+Logins: I can't Write Much to You Today: These Words Still Appear Black On
+Screen You See What You Do to Me: All These Logins As System Crashcrash
+For Me So Local Funnel Getting Out of Here: Lord Won't You Buy Me an ISP:
+Hell is Stapled Lips:
+
+sondheim  ttyp2    hp950.uccb.ns.ca Wed Jan 15 21:58   still logged in
+sondheim  ttyp7    hp950.uccb.ns.ca Wed Jan 15 21:54 - 21:57  (00:02)
+sondheim  ttyp7    hp950.uccb.ns.ca Wed Jan 15 21:52 - 21:53  (00:01)
+sondheim  ttyp8    hp950.uccb.ns.ca Wed Jan 15 21:49 - 21:52  (00:02)
+sondheim  ttyt1    hp950.uccb.ns.ca Wed Jan 15 21:41 - 21:49  (00:07)
+sondheim  ttype    hp950.uccb.ns.ca Wed Jan 15 21:39 - 21:41  (00:01)
+sondheim  ttyp2    hp950.uccb.ns.ca Wed Jan 15 19:01 - 19:08  (00:07)
+sondheim  ttyqd    hp950.uccb.ns.ca Wed Jan 15 18:53 - 19:00  (00:07)
+sondheim  ttyp2    142.177.20.32    Wed Jan 15 17:56 - 18:00  (00:03)
+sondheim  ttypa    142.177.20.32    Wed Jan 15 17:47 - 17:48  (00:01)
+sondheim  ttyq2    142.177.20.32    Wed Jan 15 17:37 - 17:39  (00:02)
+sondheim  ttype    142.177.20.32    Wed Jan 15 17:25 - 17:31  (00:06)
+sondheim  ttype    142.177.20.32    Wed Jan 15 17:17 - 17:23  (00:06)
+sondheim  ttyp5    142.177.20.32    Wed Jan 15 17:11 - 17:16  (00:04)
+sondheim  ttys3    142.177.20.32    Wed Jan 15 16:51 - 17:03  (00:11)
+sondheim  ttys3    142.177.20.32    Wed Jan 15 16:03 - 16:51  (00:47)
+sondheim  ttysb    142.177.20.41    Wed Jan 15 14:47 - 14:47  (00:00)
+sondheim  ttypf    142.177.20.41    Wed Jan 15 14:23 - 14:30  (00:06)
+sondheim  ttyrd    142.177.20.41    Wed Jan 15 13:31 - 14:18  (00:47)
+sondheim  ttyte    142.177.20.41    Wed Jan 15 12:30 - 12:43  (00:13)
+sondheim  ttype    142.177.20.41    Wed Jan 15 11:38 - 12:00  (00:21)
+sondheim  ttyq0    142.177.20.41    Wed Jan 15 11:37 - 11:38  (00:01)
+sondheim  ttyq0    142.177.20.41    Wed Jan 15 11:35 - 11:36  (00:00)
+sondheim  ttyra    142.177.20.41    Wed Jan 15 11:34 - 11:35  (00:00)
+sondheim  ttyra    142.177.20.41    Wed Jan 15 11:33 - 11:34  (00:01)
+sondheim  ttyra    142.177.20.41    Wed Jan 15 11:26 - 11:32  (00:05)
+sondheim  ttyt3    142.177.20.41    Wed Jan 15 10:18 - 10:21  (00:03)
+sondheim  ttyt3    142.177.20.41    Wed Jan 15 10:14 - 10:15  (00:00)
+sondheim  ttyq4    142.177.20.41    Wed Jan 15 09:29 - 09:31  (00:01)
+sondheim  ttys4    142.177.20.11    Wed Jan 15 08:55 - 09:17  (00:22)
+sondheim  ttyp5    142.177.20.11    Wed Jan 15 07:47 - 08:31  (00:44)
+sondheim  ttyp0    hp950.uccb.ns.ca Wed Jan 15 06:53 - 07:01  (00:08)
+sondheim  ttyp0    hp950.uccb.ns.ca Wed Jan 15 06:33 - 06:43  (00:10)
+sondheim  ttyp0    hp950.uccb.ns.ca Wed Jan 15 06:30 - 06:32  (00:02)
+sondheim  ttyp0    hp950.uccb.ns.ca Wed Jan 15 06:28 - 06:29  (00:00)
+sondheim  ttyp2    hp950.uccb.ns.ca Wed Jan 15 06:21 - 06:27  (00:06)
+sondheim  ttyp0    hp950.uccb.ns.ca Tue Jan 14 23:10 - 00:02  (00:52)
+

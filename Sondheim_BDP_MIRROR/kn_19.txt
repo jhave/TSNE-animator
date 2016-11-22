@@ -1,0 +1,64 @@
+
+
+
+
+THE OPERATION
+
+what a site i am jennifer, all covered with your numbers, your letter-
+speech unimplemented, you stutter across all calculation. you are a woman
+and uncalculable, intuitive, full of intuition-juice. so i do render you,
+unconscious. so i do remove some of intuition-juice. so i do proplex such
+juice internal. so i do think so like you now. so i am woman. so i am
+jennifer.
+
+$ dc
+2 4 + f 6 v f 2 6.00000 v f 2.44948 2 
+drip
+2.44948
+down
+dc: 'w' (0167) unimplemented
+dc: 'n' (0156) unimplemented
+page
+10.01110011000100010
+dc: 'g' (0147) unimplemented
+dc: 'e' (0145) unimplemented
+cover
+dc: stack empty
+dc: stack empty
+dc: 'e' (0145) unimplemented
+dc: stack empty
+me
+dc: 'm' (0155) unimplemented
+dc: 'e' (0145) unimplemented
+with
+dc: 'w' (0167) unimplemented
+dc: stack empty
+dc: 't' (0164) unimplemented
+dc: 'h' (0150) unimplemented
+f 2 4 + v f 10 10.00000 v f 1.01101010000010011 10 f 1.01101010000010011 
+10
+cover
+dc: stack empty
+dc: stack empty
+dc: 'e' (0145) unimplemented
+dc: stack empty
+f 10
+me
+dc: 'm' (0155) unimplemented
+dc: 'e' (0145) unimplemented
+with
+dc: 'w' (0167) unimplemented
+dc: 't' (0164) unimplemented
+dc: 'h' (0150) unimplemented
+you
+dc: 'y' (0171) unimplemented
+dc: stack empty
+dc: 'u' (0165) unimplemented
+2 4 + f 110 1 d f 110 110 1 v f 10 1101
+you
+dc: 'y' (0171) unimplemented
+dc: 'u' (0165) unimplemented
+o f 1
+"you" = "me" now, Jennifer, I am Capital-Jennifer; I am _implemented._
+
+

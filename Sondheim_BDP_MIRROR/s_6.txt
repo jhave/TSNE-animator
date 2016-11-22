@@ -1,0 +1,62 @@
+
+--
+
+
+l<i,u>nix
+
+
+There's a chance that the hidden order of unix will emerge; as I continue
+working on unix/linux machines, the interior of the body is becoming in-
+creasingly visible. What connects are thin matrices of wires and commands
+beneath the surface; the surface itself is sponge-like, absorbing tags
+and extensions everywhere. The command-line interface is mythology at its
+best, as if everything were running in an orderly and linear fashion; what
+occurs in the depths is something else entirely. What processes are where,
+who is accessing the same /bin that you are, what has been placed in 
+hearth-like fashion around the root, remains unknown at the level of the
+screen's cool skin. Certain indications, however, let one know that the
+fractal display of the home directory resides somewhere almost untoward,
+an excrescence mirror like shattered glass certain operations below. On
+the other hand, there's the behemoth in the relative difficulty of con-
+necting the keyboard to something as innocuous as a floppy drive; mount
+and fstab and other obscurities immediately declare themselves like Panta-
+gruel barely capable of direct action. It all makes sense; I find my way
+through it like the streets of Atlanta, knowing circuitous ways of getting
+almost anywhere but despairing as one _big picture_ is painted after ano-
+ther, none of them anywhere close to what goes on in the kernel, and, 
+heavens forbid, even further down in the midst of binary languages. In
+some ways it was enough when I realized that I understood, say, what sed
+and awk and grep and the rest of them _did_ without having to know all
+the modifiers; at this point, even for the humble tr command I tend to 
+go to the unix or linux compendium, ignoring the catcalls and derisions
+of a memory that fails to record every subtle modifier. I'm still at the
+point, by the way, where compiling is a miracle - the transformation of
+description into performance, the production of relatively unreadable
+files. I find in the manual that those core dumps are actually of use in
+all of this; I shudder at dealing with megabytes, even though there are
+commands producing less complex error messages. But core dump is core 
+dump, and for me this is the heart of unix, a _mass_ carrying buried 
+history with it, capable of producing miracles if only the key were in
+evidence.
+
+The theme that emerges with all of this is the same theme that emerges
+elsewhere, that of the body's interior. Core dump is glut, spew, coagu-
+lation; the ruptured cleansed surface of the shell is only that, a cara-
+pace hiding just about everything. The commands themselves function as
+skin-inscriptions; they're tattoos, carrying messages, and some like
+biff, even the names of pets. History swirls on the surface; telecommu-
+nications takes over in the depths, and farther down, electrons plummet
+according to quantum mechanics' rehearsals of the universe at large. It
+is this way everywhere on earth, and within/without every organism, but
+unix or linux makes it _evident,_ the beginnings of a kabbalistic jour-
+ney into the next millennium. 
+
+I would say this, then, upon contemplation - that the original framework
+problem of classical artificial intelligence was somehow on the _mark._
+That the core, core dump, of everything is simultaneously body and fore-
+closure (and Husserl with his eidetic reduction, bracketing, of course
+was on the _mark_ as well), that the latter lends itself to inscription,
+just as the former lends to fissuring. If the former is what _I write_
+at the prompt, the latter is the core dump's prompting me, an engagement
+_en masse,_ the realization of a Flaubert in dialog with the quantum.
+

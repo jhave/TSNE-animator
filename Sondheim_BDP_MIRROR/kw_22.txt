@@ -1,0 +1,13 @@
++
+Due to the decreasing usage of the Internet Gopher System and the
+increasing usage of the World-Wide-Web, we will no longer maintain
+our Gopher server. See our WWW servers:
+
+http://www.gu.kiev.ua
+
+and
+
+http://www2.gu.kiev.ua
+                                             
+
+OVER THE HILLS AND FAR AWAY - LED ZEPPELIN

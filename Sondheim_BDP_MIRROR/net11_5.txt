@@ -1,0 +1,180 @@
+
+
+
+
+
+
+Protocol Suites
+
+
+
+
+
+A protocol suite consists of a hierarchy of protocols, each of which is
+
+invisible to the rest. The communication that occurs at the fundamental
+
+level directly transforms physical reality; it is here and only here
+
+that issues of _classical_ space and time are directly relevant. 
+
+
+
+The Open Data Network Architecture, as described in Realizing the Infor-
+
+mation Future, contains four layers. The lowest level is the _bearer 
+
+service_ in which "bits are bits." If a bit is a bit, is it a material
+
+state? I associate bits with a _succession of material states_ at a
+
+specified site; this is the _diachronic reading_ of the bearer service.
+
+There is a _synchronic reading_ as well, which is a _spatial arrangement
+
+of material states. Together they constitute a relativized configuration
+
+presumably subject to Heisenberg's principle of complementarity.
+
+
+
+The second level of the ODN hierarchy is the _transport_ layer, which 
+
+includes "flow control, end-point connection establishment," and so 
+
+forth. This level is also concerned with data formatting. The transport
+
+mediates between the bearer service and the network or end node.
+
+
+
+The third level is called _middleware,_ which includes "higher-level
+
+functions that are used in common among a set of applications." Here,
+
+issues of security, encryption, file systems, addressing, etc. are 
+
+dealt with.
+
+
+
+The upper level is that of _applications_ such as email, and ftp. At the
+
+top of the hierarchy cyberspace exists with a _problematic_ relationship 
+
+to space and time, and human subjectivity "directly" interacts with 
+
+"content." Further, protocol extends on this level to issues of Net 
+
+etiquette, becoming fuzzy and indeterminate.
+
+
+
+In Bernard Aboba's The Online User's Encyclopedia, five Internet layers
+
+are described: physical, network, Internet, transport, and application.
+
+In Internet: Getting Started, these are described as hardware, network
+
+interface or data link, Internet, transport, and application. Else-
+
+where, up to seven layers have been described for various networks. In
+
+every case, the layering stops at the application level; here time is
+
+related to internal time consciousness, and space becomes particulate,
+
+intensifications of activity occurring in the vicinity of one or another
+
+node. (_Internally,_ the node is site-specific; _externally,_ the space
+
+is fuzzy, chaotic, the node functioning as a strange attractor.)
+
+
+
+There are two ruptures, two ontological breaks. The first is between
+
+hardware and bits/bytes, information streams. Consider this a movement
+
+from the physical substrate to a mathematical substrate. Existence pro-
+
+blems are transformed; the existence of the graviton is inequivalent
+
+ontologically to the existence of infinitesimals. Although convention-
+
+alism plays a major role in current mathematical philosophy, I think one
+
+or another form of Platonic idealism remains the background philosophy
+
+of working physicists.
+
+
+
+The second ontological break, of course, is between the application 
+
+layer and the user. This is a movement from a semiotics (or at least a
+
+syntactics) to a phenomenological-interpretive mode - from high-level
+
+abstracted signifiers to their incorporation/introjection within human
+
+subjectivity. Again, existence problems are transformed; the existence
+
+of the word "tree" is different, inequivalent, to the existence of its
+
+signified (i.e. the internal representation of "tree"). The issue
+
+becomes even more difficult when emotional and other "psychological"
+
+considerations are taken into account. If I write "I love you," how,
+
+beyond bits and syntax, is this interpreted? What is its internal rep-
+
+resentation (i.e. beyond the signified/naming of the "loved")?
+
+
+
+Embodiment is abandoned, not only from hardware on and throughout the
+
+protocol suites thereafter, but also within the subjectivity of the user
+
+who cannot claim the _presencing_ of alterity. What occurs is a constant
+
+_downstreaming_ of subjectivity within and without the Internet, which
+
+I have called REWRITE - an assertion bridging ontological domains,
+
+as if it would emerge whole at the other end, the recipient. But this
+
+emergence, of course, is conditioned by the absence of material/psycho-
+
+logical substrates; in other words, wouldn't the ontological condition
+
+of an _outgoing_ message qualitatively differ from the condition of an
+
+_incoming_ one? (The _compression_ involved in the sending is inequiv-
+
+alent to the _decompression_ involved in the receiving; the former
+
+always already as (its) face-at-hand, but for the latter, the face is
+
+always in the form of a _surmise._)
+
+
+
+A final point is simply the _absenting_ of the deeper protocol layers
+
+in normative everyday use; only with the appearance of anomaly or break-
+
+down do they fissure the (seamed, sutured) application layer, making
+
+themselves visible as nothing more or less than _corruption of the 
+
+text._ The skeleton appears only when the invisible body is cut.
+
+
+
+
+
+
+

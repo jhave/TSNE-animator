@@ -1,0 +1,15 @@
+
+
+
+Note on Relay
+
+
+You can't mail relay any more. You can't relay internally, you can't use
+bang paths (hop paths), you can't telnet <host> 25 to increasing numbers
+of hosts. What does this mean? That hosts are fortifying themselves, of
+necessity, behind firewalls - that the porous internet is becoming the
+defended Internet. Of course the r- (remote) commands have been, by and
+large, disabled, although I still have rlogin running between panix and
+gol. Not to mention that very few have used or heard of finger, finger
+@<host>, etc. Then there are messages such as the following:
+

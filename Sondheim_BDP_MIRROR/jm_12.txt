@@ -1,0 +1,32 @@
+
+
+
+Examples of Quantificational Implication from Willard van Orman Quine,
+Elementary Logic:
+
+(33) Some men are gods. If all men are mortal, some gods are mortal.
+(34) Some who come will not believe. If all who come will listen, 
+     some who listen will not believe.
+(35) Nothing daunts me. Something does not daunt me.
+(36) Everything has its place. Something has its place.
+(37) Something influences itself. Something influences something.
+(38) Nothing influences anything. Nothing influences itself.
+(39) Everything influences everything. Everything influences itself.
+(40) There is some one thing which influences everything. Everything
+     is influenced by something or other.
+(41) There is something which influences nothing. There is nothing
+     which everything influences.
+...
+Then Jennifer radically disconnects in her own time:
+(42) I have all the time in the world. Jennifer has time to nap.
+(43) Everything dies. Nothing dies, says Jennifer.
+(44) Not everyone knows me. I'm not writing to you anymore.
+(45) I don't want to write when I wear my frock. I'm everyone else.
+(46) Excitement takes up all my time. I'm never bored, cries Jennifer.
+(47) It's now or never. I used up all my past, says Jennifer.
+(48) Jennifer loves a girl. A girl loves Jennifer's girl, cries Jennifer.
+(49) I suck time, says Jennifer. Jennifer writes she sucks time.
+(50) I remember Jennifer. I'm Jennifer, Jennifer cries.
+(51) Jennifer Jennifer Jennifer. Jennifer Jennifer Jennifer cries.
+
+

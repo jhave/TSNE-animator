@@ -1,0 +1,24 @@
+
+
+
+#!/usr/local/bin/perl
+# Memo Program for Shell Account
+$| = 1; 
+print "\n\aThese are your current messages:\n";
+print `cat message`;
+print "Would you like to remove current message list?\n";
+chop($str=<STDIN>);
+%zing = ("y", "yes", "sure", "yes", "of course", "yes", "yes", "yes");
+foreach $key (@keys = %zing) {
+if ($str eq $key) {print "We're now erasing.\n"; `rm message`;}}
+print "Would you like to add to current message list?\n";
+chop($str=<STDIN>);
+foreach $key (@keys = %zing) {
+if ($str eq $key) {print "Add new lines now.\n";
+print "Use carriage return at the end of each line, use ^d to end.\n";
+open(APPEND, ">> message");
+@text=<STDIN>;
+print APPEND @text;
+close APPEND;}}
+exit(0);
+

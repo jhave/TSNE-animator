@@ -1,0 +1,56 @@
+
+
+
+Again, please note:
+
+The archive is organized into twenty-five directories. There is some
+duplication, and there are files that are difficult to place; for example
+a dance performance might also reveal something about a landscape - it
+might be placed, therefore, in FOOFWA, GEOGRAPHIC, or PERFORMANCE.
+
+Azure's work may be accessed through http://azurecarter.weebly.com
+
+SECOND AND ADDITIONAL ARCHIVE:
+
+The following additions were made by July 10, 2012:
+
+
+ Volume in drive G is Archive2
+ Volume Serial Number is D2E6-15F2
+
+ Directory of G:\
+
+07/10/2012  04:08 AM    <DIR>          3DAR2
+07/10/2012  02:06 PM           241,664 AstroGrep.exe
+07/10/2012  02:06 PM               196 AstroGrep.exe.config
+07/10/2012  02:06 PM               401 AstroGrep_v4.2.3_changelog.txt
+07/10/2012  04:10 AM    <DIR>          AUDIO2
+07/10/2012  02:56 AM    <DIR>          ELOCONF
+07/10/2012  04:17 AM    <DIR>          EYEBEAM
+07/10/2012  02:27 AM    <DIR>          FOOFWA2
+07/10/2012  04:10 AM    <DIR>          GEOGRAPHIC2
+07/10/2012  02:16 PM                   howtouse.txt
+07/09/2012  08:14 PM    <DIR>          LaCie Setup
+07/10/2012  02:06 PM            18,432 libAstroGrep.dll
+07/10/2012  04:07 AM    <DIR>          MOCAP2
+07/10/2012  04:10 AM    <DIR>          PERFORMANCE2
+07/10/2012  04:12 AM    <DIR>          PERSONAL2
+07/10/2012  03:49 AM    <DIR>          SAMPLER2
+07/10/2012  04:02 AM    <DIR>          SL2
+07/10/2012  04:07 AM    <DIR>          STILLS2
+07/10/2012  01:41 PM    <DIR>          TEXTINDEX
+07/10/2012  04:25 AM    <DIR>          TEXTS2
+07/10/2012  04:01 AM    <DIR>          VIDEO2
+               5 File(s)        260,693 bytes
+              16 Dir(s)  1,634,208,178,176 bytes free
+
+The dll, .config, changelog.txt, and AstroGrep.exe are all necessary 
+for seaching, as described above. These files should be copied into 
+the first external hard drive as well, accomapnied by this 
+howtouse.txt file.
+
+Note: Please get in touch if you have any questions about privacy, 
+use, and so forth. Also please note there is a biog.txt in TEXTS2
+at least that gives some biographical information.
+
+

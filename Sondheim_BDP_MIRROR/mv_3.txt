@@ -1,0 +1,106 @@
+ 
+
+
+WAR
+
+echo "Language is Your Enemy " > bb
+echo " " >> bb
+echo "This is a Picture of Language " >> bb
+echo " " >> bb
+dialog --msgbox "An Exciting Escape" 0 0
+dialog --msgbox "To the Ruination of Europe-America" 0 0
+date >> bb
+whoami >> bb
+echo "Time-Date-Stamp" >> bb
+dialog --yesno "War Now" 0 0
+if [ $? == 1 ]; then 
+dialog --inputbox "Enter Your Time-Date-Stamp" 0 0 2>>bb
+else  
+dialog --inputbox "Enter Your Ruination of Europe-America" 0 0 2>>bb
+fi
+dialog --msgbox "The Difference Between Language and Pain" 0 0
+dialog --yesno "You are Inscribing the Therapeutic" 0 0
+if [ $? == 1 ]; then 
+dialog --inputbox "Describe your Therapeutic" 0 0 2>>bb
+else  
+dialog --inputbox "You need Nothing" 0 0 2>>bb
+fi
+dialog --inputbox "You need nothing" 0 0 2>> bb
+dialog --yesno "Are You in Favor of Love in Ruins" 0 0 
+if [ $? == 1 ]; then 
+dialog --inputbox "Describe Love" 0 0 2>>bb
+else  
+dialog --inputbox "Describe Ruins" 0 0 2>>bb
+fi
+dialog --inputbox "You Describe the Death of Thousands" 0 0 2>> bb
+dialog --msgbox "They are Dying as You Inscribe" 0 0
+dialog --inputbox "Are You Breathing for the Tomb" 0 0 2>> bb
+dialog --inputbox "Are You Crawling for Your Love" 0 0 2>> bb
+dialog --msgbox "These are Harsh Times These are Land mines"  0 0
+dialog --inputbox "Speech does Nothing at All" 0 0 2>> bb
+dialog --yesno "Is This the Wonder of Speech" 0 0
+if [ $? == 1 ]; then 
+dialog --inputbox "Are You in Effect" 0 0 2>>bb
+else  
+dialog --inputbox "Are You in a State of Promise or Oath" 0 0 2>>bb
+fi
+dialog --inputbox "Have You Made Your Vows" 0 0 2>> bb
+dialog --inputbox "Are Your Vows Your Final Vows" 0 0 2>> bb
+dialog --msgbox "Can You Speak Are You Wounded in the Throat" 0 0
+dialog --textbox bb 0 0
+dialog --msgbox "We are in Disagreement" 0 0
+sed 's/ i / yon /g' bb > cc
+sed 's/ you / i /g' cc > bb
+sed 's/ yon / you /g' bb > cc
+sed 's/ am / aq /g' cc > bb
+sed 's/ are / am /g' bb > cc
+sed 's/ aq / are /g' cc > bb
+sed 's/ my / mn /g' bb > cc
+sed 's/ your / my /g' cc > bb
+sed 's/ mn / your /g' bb > cc
+sed 's/ mine / minq /g' cc > bb
+sed 's/ yours / mine /g' bb > cc
+sed 's/ minq / yours /g' cc > bb
+dialog --textbox bb 0 0
+dialog --inputbox "Are We in Collusion" 0 0 2>> bb
+echo " " >> bb
+dialog --inputbox "Now Taking From Everyone, Destroying" 0 0 2>> bb
+dialog --msgbox "end" 0 0
+unalias rm
+echo " " >> bb
+cat bb >> zz; rm bb cc; alias rm='rm -i'
+date >> zz
+
+Language is Your Enemy 
+ 
+This is a Picture of Language 
+ 
+Thu Feb 13 17:40:28 EST 2003
+
+root
+
+Time-Date-Stamp
+
+Wednesday, February 13, 4:15, 2003I need everything; I need an end to
+this.I need nothing; I need a beginning to This.Somewhere when i am worn
+out and have nothing left to lose, i call on my lover, and she comes;
+there is smoke in the air - grenades, mortars, screams of the dying and
+wounded, the two of i collapse together, as one, you're both safe for the
+moment -Thousands die everywhere around us; we're alone, there's a single
+bright spot in the sky...We're breathing for our own deaths - we're
+exhausted, frightened, Maria's pregnant... I crawl towards her, I'm
+wounded, bleeding, we're together now, forever, together at last... We're
+crying, we can't say anything. Weeping for language, weeping for ourselves
+- we promise everything to each other - we give everything to each other -
+We make our final vows - we wait for the end - it's almost here - it's
+coming -Our final vows - without language, in silence - there am no others
+-We're silent - we can't hear you - don't say anything else - it's time
+for - it's time for nothing at all - silence, once again, we suppose,
+we're sleeping, the baby...
+
+Now everything gone, inscription after the fact, our epitaphs, our ruined
+lives...
+
+Thu Feb 13 17:45:51 EST 2003
+
+

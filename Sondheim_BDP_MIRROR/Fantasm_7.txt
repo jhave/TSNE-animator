@@ -1,0 +1,86 @@
+
+-
+
+
+Artificial Intelligence
+
+
+I want to, in as few words as possible, outline my position on artificial 
+intelligence. I've given this a fair amount of thought, and have followed 
+AI through its various phases from classical to connectionist and beyond. 
+That said -
+
+First, it is relatively unclear what intelligence is, but from _without_
+an entity, one usually relies on behaviorism - how does the entity respond
+under certain conditions? This is hardly simple; to this day, one has 
+difficulty deciding on the intelligence of animals (much less conscious- 
+ness), in spite of their constant proximity for millennia.
+
+Second, _if_ intelligence could be mapped according to response to initial
+conditions, then it seems clear that full machine intelligence is a matter
+of time. If one considers a response an extended output to input (which
+may also include any degree of history), then there is no reason to assume
+otherwise; machines have been making, and will continue, to make gains in 
+this area.
+
+Third, _if_ intelligence need be based on internal examination (i.e. is-
+sues of intention, affect, and the like), then it is difficult to assume
+that any entity beyond oneself is intelligent, since there is _always_ the
+problem of other minds, whether organic, machine-like, or cyborg. 
+
+Fourth, _even if_ one makes a case for other minds in relation to intelli-
+gence, then there is _no way_ to distinguish among carbon or silicon-based
+entities, or any combination, since the same arguments could be applied to
+all. 
+
+Fifth, there may be an issue of repetition. If, under given initial condi-
+tions, an entity responds differently at different times, then perhaps it
+may be assumed that creative aspects of intelligence are called into play.
+But there are great difficulties here. First, given initial conditions
+cannot be repeated, since the entity will have already learned from the
+first. Second, it is relatively simple to create programs that respond
+differently at different times, by including nothing more than a rand()
+function dependent on anything from an internal clock to radioactive decay
+to the time of day. Third, it would never be clear that rand() functions 
+could not play an _essential_ part within the deep structure of intelli- 
+gence.
+
+Sixth, the argument from Fifth is based on the notion that machine intel- 
+ligence would be always already mechanistic, since machine subunits are 
+by and large (ignoring rand() for the moment) mechanistic. But it became 
+clear to me (as a member of a systems philosophy group at Brown in the 
+early 70s) that _as machines grow in complexity and programming, their 
+internal states become less and less determined,_ that is to say, it be- 
+comes almost impossible to "know" the state of any particular subunit at 
+any particular time. Given this, one can argue that intelligence among 
+machines, as among carbon-based organisms, is an emergent phenomenon, and 
+that strict determinism becomes an increasingly recessive one.
+
+Seventh, there is always the question of environment. Even with a machine
+without rand() built in, if it is capable of negotiating complex physical
+and learning domains, it will learn in ways that are always unpredictable
+(see Sixth), ways that will necessarily modify its internal routines. 
+This is what "learning" is about; it is also a _basic property_ of con-
+nectionism, any sort of connectionism. One can imagine, then, a future
+machine composed of neural networks that alter not only weighted values of
+various sorts, but networking connections themselves, using massive paral-
+lel processing - with _both_ input and output characterized by emergent
+phenomena. On the _output_ end, this is easy to see - language as an attr-
+actor from deeper constituents for example. But it is also true on _input_
+where the radiated debris of the world would be organized beginning at the
+(silicon) retinal level as appearances lending themselves to representa- 
+tions (vis-a-vis the levels, perhaps, indicated in David Marr's theory of 
+vision). 
+
+Eighth, to conclude: First, there is no reason to assume that machines
+could not pass _any_ test given to them. Second, arguing from internal
+states of one's own leads to problems in terms of other minds, and how to
+differentiate other silicon-based from carbon-based minds. Third, arguing
+from determinism assumes there is no rand() built in, and/or that rand()
+could not be "truly" random (which it is, given, say, radioactive decay
+as the generator). Fourth, arguing from determinism also presupposes a
+deterministic environment, since a rich environment could affect a machine
+in unforeseen (i.e. emergence) and unknowable (i.e. inability to determine
+internal states - already the case) ways. Therefore one may assume machine
+intelligence as an almost future certainty.
+

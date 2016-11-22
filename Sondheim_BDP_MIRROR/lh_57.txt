@@ -1,0 +1,34 @@
+
+
+
+
+how to map writing, and you may find yourself writing,
+
+how to map writing. you may find yourself writing in unknown territory and
+you may find yourself showing your friends that you are very fine, that
+you may walk on the wild side of the law, and you may find yourself very
+happy and your friends will turn against you and you will use an illegal
+stopping date in string %d in `era' field in category `%s', implementation
+limit: no more than %d character classes allowed, implementation limit: no
+more than %d character maps allowed, incorrectly formatted file, input
+line of unknown type, internal error - addtype called with bad isdst, in-
+ternal error - addtype called with bad ttisgmt, internal error - addtype
+called with bad ttisstd, internal error in %s, line %u, invalid gmt off-
+set, invalid abbreviation format, invalid day of month, invalid ending
+year, invalid leaping year, invalid month name, invalid saved time, in-
+valid starting year, invalid time of day, invalid weekday name, line after
+ellipsis must contain character definition, line before ellipsis does not
+contain definition for character constant, line too long, locale file
+`%s', used in `copy' statement, not found, lstat failed, malformed line
+ignored, memory clobbered before allocated block, memory clobbered past
+end of allocated block, memory exhausted, memory exhausted,  memory is
+consistent, library is buggy, missing era format in string %d in `era'
+field in category `%s', missing era name in string %d in `era' field in
+category `%s', nameless rule, and you will find you have nowhere to go,
+and you will be all alone, and you may find yourself reading a book, and
+you will look up from the book, and someone will look back at you, and
+your will not remember, and you will not recognize your friend, and you
+will believe that your friend is your friend, and your friend will look at
+you, and your friend will look at you, and your friend will look at you
+
+

@@ -1,0 +1,53 @@
+
+
+
+The Life at a Distance from the Life
+
+
+I am _living at a distance, this life at a distance,_ because I am on pan-
+ix.com and panix is primarily an ISP, newsgroups notwithstanding. Other
+servers here such as Echo are local bulletin-board systems as well; some
+servers, such as the thing, have fairly specific demographics, both local
+and international (the arts community for example).
+
+I turn towards the world in its entirety, and there's no difference be-
+tween here and there unless a relationship intervenes. Then stress ensues
+and I collapse again a node or local or vector origin or end-point that
+remains effortless.
+
+If there are mirrors and windows around (a metaphor I hear on occasion),
+then for me panix is much more a window. Mirrors, through their narcis-
+sism, do cultivate a greater degree of consumer loyalty of course; one is
+one _in them._ A window appears defined, if at all, by its frame.
+
+The phenomenology of on-line access services is rarely discussed seriously
+in CMC research - except perhaps in the case of AOL. Differences at best
+are drawn between prompt/menu interfaces in shell accounts, and GUIs (gra-
+phic user interfaces). But the modes of access are crucial for understand-
+ing individual reactions and uses of CMC. For example, if one is on talk a
+great deal and switches to ytalk - which permits multiple simultaneous
+talks - the beginning of community interaction (and later self-conscious-
+ness) could result. 
+
+For me, the use of the Korn shell permits the development of an extensive
+.profile file, which contains perhaps forty different macros. I can dance
+across Net applications; everything is abbreviated. "1 b 2 ls 3 pico zz 4
+b 5 tin 6 b 7 pico zz 8 b 9 pico zz 10 h 11 m 12 l 13 h >> zz" is my cur-
+rent command history for example. This dancing, movement, consists largely
+of one-letter entries; with foreground/background operations as well, the
+result can be multilayered, cortical columns or lamina filled with ins-
+criptive potential. 
+
+Meanwhile, I continue as a _citizen of the world,_ a bad phrase I first
+heard seriously in a Copenhagen club years and years ago. At the time I
+thought it absurd and pretentious; now I see it partaking of a rarefied
+atmosphere which is endless, melancholic, of the Kristevan order of the
+semiotic - a description that matches well the coming-and-going of pack-
+ets. The human need for nesting dissolves in distantiation and analysis
+(Kristeva points out, in fact, that "analysis" comes from the Greek for
+"dissolution").
+
+And the question that emerges - _How can one live here?_ - quickly, all
+too quickly, transforms into the millennial - _How can one live at all?_
+
+

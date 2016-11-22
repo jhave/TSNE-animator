@@ -1,0 +1,69 @@
+
+
+
+
+VIRTUAL HELLS
+
+
+ No hilites.  %2d %2d %s >> This place NEEDS no introduction!  ./cl.intro
+>> There IS no help for you!  ./cl.help >> There is NOTHING to say to you! 
+./cl.announce >> The Den's been up for >> your termtype not found.  >> .p
+hiliting enabled.  >> .p hiliting turned off.  Lines gagged: You have no
+lines gagged.  >> Gagging youself with a spoon?  is gagged!  Ha ha ha!  >>
+User >> You just ungagged line >> Nameservice on.  >> Nameservice off. 
+bad time argument >> Later, dude!  ) for new site block ( ID expire site
+blocked %4d never bad site block ID Deleted site block >> System Msg:
+Reboot new passwd = usernum = fuckwit.  get it right.  >> Idle timeout has
+been disabled.  >> Idle timeout has been enabled.  >> Idle timeout has to
+be in the range between >> Idle timeout has been set to >> Idle timeout is
+
+>> %s just tried to force you...  >> Player %d gagged.  >> Player %d
+ungagged.  >> %s has at least as much authority as you!  >> fatal:  
+You've been killed.  >> Hope you enjoyed your stay.  BRING_IT_DOWN
+
+Sorry - the system is closed to further logins at the moment Sorry - we
+are full at the moment, try again later Sorry - you're site is banned
+Sorry - you can't use that command You are already listening!  You listen
+to the gossip %s is now listening You are already being antisocial!  You
+ignore the dull gossip %s is ignoring everyone *** News *** newsfile There
+is no news today *** System is now closed to further logins *** %s CLOSED
+the system Total of %d users signed on Shout what?  %s shouts: %s Someone
+shouts: %s You shout: %s Usage: .tell <user> <message> %s is not signed on
+Talking to yourself is the first sign of madness %s is not listening You
+ask %s: %s %s asks you: %s You exclaim to %s: %s %s exclaims to you: %s
+You tell %s:  %s %s tells you: %s %s whispers something to %s Area: %s
+Exits are:  You can see:
+You are alone here
+
+There is no such area You are in that area now!  walks in arrives in a
+blinding flash!  That area is not adjoined to here Sorry - that area is
+currently private %s disappears in a puff of magic!  %s goes to the %s
+Some magic disturbs the air %s %s That area is public anyway You shout
+into the %s asking to be let in!  %s shouts asking to be let in!  Someone
+shouts asking to be let in!  %s shouts into the %s asking to be let in! 
+This areas access can't be changed public private The area is already %s! 
+Area now set to public %s has set the area to public Someone has set the
+area to public You need at least %d people in the area Area now set to
+private %s has set the area to private Someone has set the area to private
+Usage: .invite <user> The area is public anyway You can't invite yourself! 
+%s is already in the area!  Someone has invited you to the %s %s has
+invited you to the %s Usage: .emote <text> Someone %s
+
+You write the message on the board
+A ghostly hand writes a message on the board
+A ghostly hand wipes some messages from the board
+You are already visible!
+You are already invisible!
+POP! You reappear!
+You fade, shimmer and vanish...
+Suicide is not an option here no matter how bad things get
+That wouldn't be wise....
+A bolt of white lighting streaks from the heavens and blasts you!!
+You have been removed from this reality...
+There is a rumble of thunder
+Are you sure about this (y/n)? 
+Quitting users...
+A force grabs you and pulls you through the ether!!
+BRING_IT_DOWN
+
+

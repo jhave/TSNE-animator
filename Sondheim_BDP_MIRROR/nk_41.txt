@@ -1,0 +1,5 @@
+=[biophp-dev]=my=brain=hurts==
+   next=message==[biophp-dev]=my=brain=hurts=the=seq_factory=
+   should=never=have=to=know=
+   what's=inside=another=object==with=the=exception=of=the=one=object=
+   that=it's

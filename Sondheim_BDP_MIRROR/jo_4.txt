@@ -1,0 +1,20 @@
+
+
+
+Who Are You?
+
+When a computer can't spell, a return from another list (address
+taken out). So there _is_ someone deep in the machinery, revising, work-
+ing out the mail, his or her fingers raw to the bone...
+
+   ----- Transcript of session follows -----
+<<< EHLO chatsubo.com
+500 Command unrecognized
+<<< HELO chatsubo.com
+<<< MAIL FROM:<e-conf@chatsubo.com>
+<<< RCPT TO:<-----@----->
+550 <-----@----->... User unknown
+<<< DATA
+<<< QUIT
+
+

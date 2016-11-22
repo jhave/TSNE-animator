@@ -1,0 +1,54 @@
+
+
+
+
+The Whisper
+
+
+The whisper is critical in cyberspace. On some talkers, it is announced,
+"Clara whispers something to Alan" - others in the space are aware. This
+both serves to curtail the doubling or duplicity of conversation and yet
+leave room for critical commentary that overcomes the "hurdle" of the
+announcement. 
+
+But in most applications, whispers aren't announced and permit total (i.e.
+with the exception of wizard @snoop commands) privacy, and this leads to
+situations rarely encountered _this_ side of the screen (by which I mean
+the doubling or duplicity of typing itself) - parallel, interpenetrated
+conversations in which only certain parties are aware of their presence or
+structure at all.
+
+I have had net.sex in the midst of a discussion of postmodernism; this may
+server as an example. For it did not interrupt the discussion, but it did
+create a sense of transgression at work, a transgression which undercuts
+the academy (which however remains ignorant and not undercut at all of 
+course). What of this? I would type doubly or with duplicity, resonating
+on one hand (literally) with my partner, and on the other (equally liter-
+ally) with the contents of the argument. The _sense_ of being split and 
+the power that ensued is in fact the result of _not being split_ at all,
+being coherent in double or duplicitous realms. 
+
+Echoing is another example; on some applications, typing .echo <string>
+will result in <string> at the prompt; in others, the result is +<string>
+- the plus sign indicating that it is an echoed statement. In many appli-
+cations, it's impossible to echo with the name of any current on-line par-
+ticipant. Echo has inordinate power; it creates statements which, without
+the + or other diacritical mark, may be ascribed to others, or to the 
+machinery itself. If Clara is on, she may find "Clara takes off her
+clothes" at the prompt, without agency or intention; if the name "Clara"
+is banned from .echo, she might still find "Claara takes off her clothes"
+or other circumscription. It's also possible to mimic the entrance of
+someone else entirely into the room: ".echo <Franz has entered the room>"
+can result in "<Franz has entered the room>" as if the application itself
+were responding; "Franz" can then carry out what "Alan" or "Clara" would
+not - an avatar with no existence whatsoever except for the doubling or
+duplicity at the .echo command.
+
+Finally, Wizard #2 on our MOO, Kyoto-MOO, I noticed, has the power to
+change any object created or owned by any player, because #2 seems to own
+them all... While I haven't personally seen this abused (although I have
+seen @snoop in use on a talker where it shouldn't have been), the havoc
+this could create is tremendous. It's again a question of doubling or du-
+plicity, of agency, ascription, and intention - as for the Web, it's a
+tangled one we weave...
+

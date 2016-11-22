@@ -1,0 +1,84 @@
+
+
+
+State of the Art = Art of the State
+
+
+The State of the Art on the Internet has become the Art of the State.  Ta-
+king stock produces fast-forward book after book, article after article,
+on Web/Java development. This isn't like high-definition television, which
+got mired in America as a result of in-fighting; this is imminent and wild
+- "wild development" to be sure with widely-varying standards, the old RFC
+concepts all but forgotten. 
+
+In part, it's because so little cash is needed for R&D - don't forget that
+an easy $10k setup will buy you freedom to invent. Relate this to compar- 
+ative work in, say, video - where software becomes hardware - and the 
+difference is enormous. Invention in software, after all, is _linguistic 
+invention,_ not material construction. That's all the difference in the 
+world. Anyone can get into it.
+
+This is also coupled with the increasing gap between those who don't know
+what a return key is, and those who are comfortable with, say, sockets,
+ATM, and the like. The knowledge is difficult to obtain, but nowhere, say,
+on the order of string theory - it's not impossible. It's also hot know-
+ledge - anything linguistics performative appeals to 18-20-year-old adren-
+alin, because it rules the world, establishes the framework of the world 
+it rules, and runs desire all the way down the leg into international fi- 
+nance. 
+
+One look at Internet World will convince you of all of this. There's not a
+mention, by the way, of darknet - or of _community._ Community seems the
+least of it, replaced by the rugged individualism of graphics, mass ap-
+peal, and _designers._ It's the return of hacking full-force, as if
+community, beyond the institution (MIT, etc.) itself, were a temporary
+blip in CMC development. 
+
+There is writing, on occasion, NY Times material, on email and email glut,
+but this appears as nobody's business, almost non-Net, not quite cricket. 
+What's odd is the result - all the analysis and study of the Net at this
+point is ironically focused on just those communities being ignored - re-
+search being done on MOOs, MUDs, IRC, newsgroups, email itself. Academics
+are slow to realize the rest of the world sees in color, and no matter how
+prescient theorists want to feel, they're light-years behind the time. I
+know from my forays _there._ It's time for Web analysis, policy (not that
+anyone will care) - time for thinking about the political economy of the
+Web in relation to specific "killer apps," "cool sites," and the like.
+
+So beyond the academic, the Art of the State is taking over, full-force; 
+the darknet continues to recede. And the Art of the State requires an
+understanding of economics as well - it's a matter of hiring, firing,
+lifestyle and the kitchen sink, when a Net "consultant" stands up on the 
+five o'clock news and declares that you can't even consider building a 
+corporate Website/presence without a _minimal_ outlay of $250,000 - and 
+expect to go please please please to at least 2-3 million. 
+
+Meanwhile, hundreds of new MOOs are springing up, Usenet's collapsing in 
+a mess for the most part (although the moderated lists are doing fine), 
+and the older MOOs seems either neurotic or devoid of life, or both, 
+something interesting for the millennium. Who want to read when you can 
+have those neat little applets running around in your machine? Or letters 
+that can actually turn while you shuffle frames? Wow!
+
+Nothing need be said, more, about the upgrading/NC development needed 
+here and what it will do to your/our/my pocketbook. Nothing need be said 
+either about the fact that most of the world's POP can't get on-line at 
+all, much less afford or give a damn about Windows 95. At least Brenda 
+Laurel realized that VR was a bubble _then_ no matter what the future 
+might bring. Time to move on; there's this GREAT URL...
+
+(Finally, in spite of the anarchic waves of development, the very rela- 
+tion to venture capital, the entrepreneurial spirit, and late capital in 
+general, makes one wonder about the State in all of this - not in terms 
+of CDA pro and con, which is minor, leftovers from the darknet era - but 
+in terms of potential authoritarian evolution. I'm enough of a pessimist 
+to believe this is the case, that the future Wired world will also be the 
+World of Wired, all revolution on the cover, all corporate behind the 
+table of contents. It's a frightening thought, if for no other reason 
+than the 50-odd wars currently being fought around the world, the proli- 
+feration of nuclear material and abandoned nuclear weapons, our continued 
+tendency towards global extinction of wildlife on all levels, etc. In NYC 
+for the first time ever, male (not just minority) life-span is on the de- 
+cline. Think about it.)
+
+

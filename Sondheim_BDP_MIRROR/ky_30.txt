@@ -1,0 +1,12 @@
+
+ MR Buffer           Size  Mode         File
+ -- ------           ----  ----         ----
+.   lovely              0  Text so very lovely you!
+ *  found_jennifer     31  Text oh you are wonderfully here!
+ *  julu               25  Text julu is that you after all these years?
+ *  hello              28  Text hello, hello! oh i cannot thus believe!
+ *  diaspora            6  Text       /net/u/6/s/julu/diaspora
+    *scratch*           0  Lisp Interaction with Itinerant Domains
+ *  *Messages*        186  Fundamental Metaphysics of Location
+
+

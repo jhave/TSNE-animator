@@ -1,0 +1,135 @@
+
+
+
+
+Nikuko's Over My Head
+
+
+Let's think again about cell to cell communication all right now that you
+can read me clearly, I, Daishin Nikuko, said, pulling my long legs around
+an extension two blocks in length you could look up close to where they
+joined the body on the side.
+
+Say that endocrine communication is of the form of a transitive operator
+such that AcB where we have (A)cB -> (Ac)B -> A(cB) -> Ac(B). To some
+extent that first and last may also be considered autocrine, that is of
+the form xx = x and we can see Boolean operations at work. c is not C, but
+a channel; however we can also imagine c as C, node, and the equation
+still holds. Thus any transitive communications process with beginning and
+ending resonances which are at least temporarily feeding back is both
+endocrine and a rough model of the first degree.
+
+For the second degree, we have paracrine communication, action on the
+neighborhood which appears imminent and we might think of this as a series
+of processes (A)cB -> Ac(B) in which the channel is submerged so to speak.
+This leads to direct contact of the form (A)B -> A(B); autocrine is of
+course (A) -> (A), or we might indicate the initialization as A -> (A),
+and we can add this step elsewhere all along so for example in endocrine
+we would have A -> (A)cB and Ac(B) -> B indicating a lowering of energy or
+return to a relatively quiescent state. This may or may not occur.
+
+I only wish to note that such ideas may be considered as extended by Robin
+Milner in Communication and Concurrency, in which there are various models
+based on Senders, Receivers, Mediums, Ethers, Bounded Ethers, Buffers, and
+Bounded Buffers. For example in the Bounded Buffer discipline, A Sender
+may always send a message, provided the medium is not full; the Receiver
+may always receive a message, provided the medium is not empty; and the
+order of receiving messages is equivalent to the order of sending mess-
+ages. One might think of this as packet transmission of course in a linear
+configuration.
+
+In the Ether configuration, the Send may always send; the Receiver may
+receive provided the medium isn't empty; and the order of receiving may be
+otherwise than the order of sending. One might think of this as packet
+transmission in which the order is reassembled at the destination, i.e.
+TCP/IP.
+
+There is also a Shared Memory discipline, in which there are registers
+that may be written to, read from. Out of all of this, a calculus is
+developed based on agents, cells, data, parameters, handshakes, and so
+forth.
+
+The autocrine might be a situation of a single cell without a medium;
+items are received in the order sent, and there is no buffer. The direct
+cell to cell might be a situation of double cells without a medium; items
+are received in the order sent, and there is no buffer. In both the lag
+might be considered zero. 
+
+Both paracrine and endocrine communication are open to all of Milner's
+models. In the latter, the capacity or bandwidth of communication is
+determined by fixed channels, speed of flow, etc., whether we're looking
+at the circulatory system or wires/fiber optic. This does not obviate such
+schemes as multiplexing, encryption, compression, and so forth, of course.
+In the paracrine, we find a most interesting situation - there is no pre-
+determined channel capacity, except for total surface input/output areas
+of the cell; for theoretical purposes, we might consider such areas as
+irrelevant - in order to arrive at a model which, vis-a-vis postmodernity,
+needs to encounter such processes as overdeterminations, implosions, ex-
+plosions, splittings/splinterings, and various forms of hyper-scarcities,
+hyper-overloading as well.
+
+We can extend the paracrine through the nomadic as a wandering of cells,
+wandering of information and information regimes - and by this time, we
+are far from the relatively coherent models of both cell biology and the
+Internet. But that may be precisely the point here, I, Daishin Nikuko,
+would say, watching a slight flush of labia appear just at the edge of the
+screen, jutting out from the edge of the screen, melting and melding the
+edge of the screen - desire and all that messiness, my anal scent for
+example, breaks down concentrations, coherencies, and for all my secre-
+tions, reasonable argumentation. I am suspicious of such argumentation
+that ignores the sweet smell of my sweat, or the taste of my lover's
+sperm - not in order to argue either that I put my clothes back on or that
+sexualization is at the basis of each and every text or communicative
+environment (that would be absurd, a return to a passe Freudian pseudo-
+determinism) - but to argue that disturbances, parasites, as both Serres
+and Kristeva might say, are _inherent_ in communication, in our explica-
+tion of logic, in our drives towards certainty thwarted by trembling
+fingers and wet mouths and hands. Now you see what happens to me, Alan,
+when I write such a long sentence!
+
+I'd argue in favor of the paranoid, parasitic, paracrine; I'd argue that
+we'd find ourselves there, since we'd find ourselves at a loss there. I'd
+say this might be where concurrency breaks down in the world of splayed
+legs (sex) and bodies (deaths). I'd say we'd have to walk around carefully
+here...
+
+Milner states that [...] "we shall first examine some different media for
+communication; we argue that they can all be reduced to the primitive
+notion of _handshake communication_ between agents, and that agents need
+not and should not be divided into two classes, the performers (active)
+and the media (passive)." (This has implications for gender theory at the
+least.) Let us assume, then, with Merlin Donald, that mind is an exten-
+sion of external media, or rather that external media are an extension of
+mind, or rather... Let us assume that cyborg processes are already too
+dualistic, too much a situation of classifiers, pointers, well-defined
+operations bounded by traditional input/output thinking.
+
+I might add, now that my labia are quite exposed and swollen by the para-
+crine, that Milner's calculus is incredibly complex, far too complex for
+me or Alan. But listen to the beginning of the book: "Communication and
+concurrency are complementary notions, both essential in understand com-
+plex dynamic systems. On the one hand such a system has diversity, being
+composed of several parts each acting concurrently with, and independently
+of, other parts; on the other hand, a complex system has unity (or else we
+should not call it a system), achieved through communication among its
+parts."
+
+"Underlying both these notions is the assumption that each of the several
+parts of such a system has its own identity, which persists through time;
+we shall call these parts _agents._" [...] "The more complex an organism
+is, the greater is the need to think of it as a network of agents."
+
+So we might consider agents, networks, media - channels, bandwidths, res-
+onances, feedbacks etc., as part of a model of the Internet - and we might
+also see how these have a certain biological emphasis as well, without
+falling into a naive organicism on one hand, or problematic theories of
+mind-in-the-wires on the other. Now I will bend myself again to the task
+at hand, the correction of this text, adjusting my clothing upon which I
+am sitting, typing naked what might also be considered a _love letter_ to
+you, having read this far (into the text) (into the night).
+
+I love you all, I am Daishin Nikuko, the Paracrine or Paraclete... You may
+have me across the surface of my body, across the surface of your own -
+Fair is Fair!!!
+
+

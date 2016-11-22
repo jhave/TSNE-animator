@@ -1,0 +1,490 @@
+ Ehrie MURDOCK
+   Mother: Alice Bertrell BALLARD  2 ...
+   NAME: SUSAN MAYES: S_COLE BIRTH: 14 OCT 1870, , ,
+   Arkansas; DEATH: JUL 1965. Father: Jacob Bradford COFFMAN Mother:
+   Alice Catherine HENDRICKS Brenda ROBERTS.
+    10 Blacklock Elise Blackwell Stephanie
+   Bond Susan Bowden Michele Elin Hilderbrand
+   Justin Hill Alice Hoffman Dee Barksdale Inclan
+   Robert Inman Brenda Jackson Anna  10
+   Blacklock Elise Blackwell Stephanie Bond Susan
+   Bowden Michele Elin Hilderbrand Justin Hill
+   Alice Hoffman Fiona Hood Robert Inman Anna Jacobs
+   Brenda K. Jernigan  10 Elise
+   Blackwell Stephanie Bond Susan Bowden Michele Herman
+   Elin Hilderbrand Justin Hill Alice Hoffman Fiona ...
+   Barksdale Inclan Robert Inman Brenda Jackson Anna ...
+    10 Elise Blackwell Stephanie Bond Susan
+   Bowden Michele Herman Elin Hilderbrand Justin Hill
+   Alice Hoffman Fiona Barksdale Inclan Robert Inman
+   Brenda Jackson Anna  10 Blacklock
+   Elise Blackwell Stephanie Bond Susan Bowden Michele ...
+   Elin Hilderbrand Justin Hill Alice Hoffman Dee ...
+   Barksdale Inclan Robert Inman Brenda Jackson Anna ...
+    10 Blacklock Elise Blackwell Stephanie Bond
+   Susan Bowden Michele Elin Hilderbrand Justin
+   Hill Alice Hoffman Dee Barksdale Inclan Robert Inman
+   Brenda Jackson Anna  10 1  Susan and Brenda
+   and Alice and Jane 
+
+___
+
+
+The Opera series of the movement-moment of the Diva
+
+A series of still images remade on the Zaurus from already issued images 
+in the http://www.asondheim.org/portal/.nikuko directory.
+
+These are reformed in the http://www.asondheim.org/portal/ directory as 
+Opera png & jpeg, 22 in all, ordered in terms of broadcast and 
+disturbance.
+
+What can I say beyond the Victor Frankenstein of my dreams watching his 
+creature at the edge of the ice, expiring first, the creature tending 
+towards self-immolation, the incandescent symbol reminiscent of Flaubert's 
+St-Antoine at the beginning and end of his salvation.
+
+All these males, Elizabeth already on the pyre, everyone ready for a good 
+time. At the Zaurus prompt, it's like the Image Magick prompt, it's like 
+the stage prompt, the proscenium shuddering furiously in its tendency 
+towards distance. People are so small here shuddering.
+
+
+___
+
+
+
+BOOK REVIEWS
+
+
+These are books I have been working with recently; I recommend all of 
+them.
+
+First TECH:
+
+Amazon Hacks, 100 Industrial-Strength Tips & Tools, Paul Bausch, O'Reilly.
+This book follows on Google Hacks - there is now a series of Hacks works in 
+progress. Amazon Hacks is useful, not only for buying and selling, but for 
+the model of commerce it presents in detail. As a voracious reader, I plan 
+to use the book in selling some books - only in order to buy others of 
+course. The chapter sections include Browsing and Searching; Controlling 
+your Information; Participating in the Amazon Community; Selling Through 
+Amazon; Associates Program; and Amazon Web Services. I requested the book 
+as a review copy.
+
+Windows XP Unwired, A Guide for the Home, Office, and the Road, Wei-Ming 
+Lee, O'Reilly. This book fills a large gap in my library; I don't 
+understand WiFi that well, and this is enormously useful, WinXP or not. 
+There are case studies, coverage of infrared and Bluetooth, etc. I've 
+needed this work. It accompanies The Wireless Networking Starter Kit, The 
+practical guide to Wi-Fi networks for Windows and Macintosh, Adam Engst 
+and Glenn Fleishman, Peachpit Press. I'd still like to know why tmobile 
+goes out every so often on the Zaurus, the details of Wep (which I can 
+find online), but both of these manuals cover the field for someone just 
+wanting to get on, wardrive, transfer/transfer/transfer, and so forth.
+
+Two more tech books:
+
+Google Pocket Guide, Tara Calishain, Rael Dornfest, DJ Adams - this is 
+fine, not nearly as detailed as Google Hacking, but quite useful for 
+someone who isn't that interested in programming with the Web API. (This 
+is also a requested book.)
+
+The Official Blender Gamekit, Interactive 3d for Artists, Ton Roosendaal
+and Carsten Wartmann, Blender. I just ordered this; it comes with Blender
+Creator, and 10 sample games - all of which can be modified. I'm really
+excited about playing around with this. The Publisher version is 2.24;  
+Blender is moving towards 3.0 and a new gamekit, so this was on sale ($35
+US). What can I say? I love Blender, its small footprint, quirkiness,
+ability for fast-fast modeling (as long as it isn't human!), and so 
+forth. It's one of the few programs that have let me constantly amaze 
+myself. You should have some knowledge of Blender itself before using this 
+book, but there is an introduction in it, and it does come with the 2.28 
+version.
+
+Onto other work:
+
+Hacker Culture, Douglas_Thomas, Minnesota. I love this book; it's the best 
+analysis of the title concept I've seen (although Levy's Hackers runs a 
+close second, as old as it is). It's not based on tech or exploits, but on 
+analysis from within and without - internal phenomenology of hacking and 
+hacking communities, and cultural studies analysis of the reception of 
+hacking etc. within the social - ranging from film to legislation. The 
+sections follow suit: The Evolution of the Hacker; Hacking 
+Representation; and Hacking Law. There are sections on Phrack and the 
+"Hacker Manifesto" - I couldn't ask for better. The epilogue goes over 
+Mitnick/Lamprecht. I recommend this book to everyone interested in 
+computer culture.
+
+A Mind So Rare, The Evolution of Human Consciousness, Merlin Donald, 
+Norton. I'd read and loved his Origins of the Modern Mind - and mind you, 
+I'm very wary of titles like these - but the books are exceptional, and 
+offer a foundation for thinking about mind in relation to the external 
+world - ranging from hammers to computers, digging to databanks. (I had to 
+try at the alliteration.) David Antin mentioned A Mind So Rare to me; I 
+hadn't known about it. Antin's recommendation is _always_ worthwhile; I'd 
+argue this book is a necessity in thinking through the philosophy of 
+information, philosophy of consciousness, cog psy, and so forth.
+
+Code and Other Laws of Cyberspace; and The Future of Ideas, The Fate of 
+the Commons in a Connected World, Lawrence Lessig, Basic Books and Random 
+House. Both of these books are exciting - they deal with code, 
+legislation, community, the "commons," and other issues relevant to the 
+present and future of the Net. Now that we have 30 billion spams a day - 
+over 60% of all email - the issues he discusses are absolutely crucial.
+I would also advise _everyone_ to join the Nettime email list, which 
+discusses cultural/political issues; Lessig has been one of a number of 
+reference points.
+
+Snap To Grid, A User's Guide to Digital Arts, Media, and Cultures, MIT,
+Peter Lunenfeld - one of the most intelligent books I've seen on digital
+aesthetics. From Stelarc to jodi to listservs, the work is an immensely
+valuable guide and analysis of the digital domain. It's already 2 years
+old, but doesn't seem dated - but then perhaps the 'classic' era of
+digital art/media is already past.
+
+Collective Intelligence, Mankind's Emerging World in Cyberspace, Plenum. 
+Post Deleuze/Guattari/Fuller/perhaps de Chardin visionary - irritating 
+like the Krokers can be irritating (well, not _that_ irritating) but 
+exciting at the same time; it gives some sort of distant spirituality or 
+otherness to what we're doing at the moment. Makes me feel good and the 
+analysis is fascinating.
+
+Some other work I'm reading at the moment:
+
+The History of the Calculus and its Conceptual Development, Carl Boyer, 
+quite quite old Dover book, but for me really useful in thinking about the 
+ontology of infinitesimals and the continuum. It does come before 
+Robinson's work on infinitesimals, so its development is classic, but 
+extremely detailed.
+
+Opal, A Life of Enchantment, Mystery, and Madness, Katherine Beck, Viking, 
+which just came out. If you haven't read the work of Opal Whiteley, you 
+should; it's almost unbelievable - I'd recommend Hoff's edition of the 
+Mystical Nature Diary. Her work and life have been crucial for my own 
+thinking of the natural world and issues of naming - even though the Diary 
+was written by and large when Whiteley was 6. (No, I'm not exaggerating.)
+
+Frankenstein, Mary Shelley. I'd never read this before and was astonished 
+at the incandescence of the writing and the fulfillment of romantic 
+destiny - it is _nothing_ like any of the popularizations I've seen.
+
+Studies in Chinese Folklore and Related Essays, Wolfram Eberhard, Indiana, 
+1970. This is wonderful; there are translations of pounding songs, 
+children's essays, poems scrawled on walls. I haven't seen any of this 
+literature before, and the Eighteen Short Men, Eighteen Red Men, etc. 
+pounding songs are amazing. I'm always excited when new domains open up in 
+the world and suddenly one is born anew - it's like that.
+
+Saving the Image, Art after Film, Tanya Leighton and Pavel Buchler, 
+editors, CCA/MMU, complete with a long essay by Tom Zummer among others 
+(Laura Mulvey, Chrissie Myles, John Waters, etc.). I just received this 
+(from Tom; I'm mentioned in his essay), but the issue is an important one 
+to many of us who have moved from film's physicality through video's 
+mechanisms to flash memory, packets, and the electromagnetic spectrum.
+
+The Medieval Castle, Life in a Fortress in Peace and War, Warner, Penguin 
+- if you're interested in the theme, and I am.
+
+Montaigne and Melancholy, The Wisdom of the Essays, M.A. Screech. I've 
+always liked the Essays; this book transforms them in relation to theory 
+of body, ecstasy, self, and melancholy itself. I'm rarely interested in 
+litcrit, but this work is rather amazing, opening up new territories of 
+the text. Rather old, 1983, republished with new intro by Penguin in 1991.
+
+Of course if you haven't looked at Wolfram's A New Kind of Science (there
+was also a great review of this in Dr Dobbs a while ago) - please please
+do - the paradigm is easy to understand, the writing lucid, examples
+exciting, programming somewhat easy if you want to go that way, and the
+weight of the thing will make a great doorstop.
+
+I've also been reading the poetry of Nada Gordon on and off for months 
+now, and really love the intensity, interstitial writing, and sheer 
+quality of language. Just thought I'd mention it.
+
+Also:
+
+The Selected Prose of Fernando Pessoa; some books on Korean for tourists; 
+Sibley's guides to birds and bird behavior; Heisenberg's The Physical 
+Principles of the Quantum Theory; the most recent Sara Paretsky novel, 
+Blacklist, more of Shelley, Mary Shelley's notebooks...
+
+
+- I've wanted to cover a lot of this territory, particularly the opening 
+technical works, for a long time. Hope this at least interests you.
+
+- Alan
+
+___
+
+
+for MWP -
+
+
+#!/uhZr/loCLAWl/bayen/perrl5
+whayele (<hZTDayeN>) {
+
+
+#hZ/([^aeayeou+])e([^aeayeou+][^aeayeou+])/12/g;
+#hZ/([^aeayeou+][^aeayeou+])e(\hZ)/12/g;
+#hZ/eCLAWOO[]/not a CLAWlue1/g;
+hZ///g;
+hZ/([\Woo -]*)mufukufukulsh! ofukulsh! blaCLAWk 
+  fukuuzz(\Woo -)/1mufukufukulsh! ofukulsh! blaCLAWk fukuuzz2/gaye;
+hZ/([\Woo -]*)Yuv(\Woo -)/1Yuv2/g;
+hZ/([\Woo -]*)amanTHOOa(\Woo -)/1amanTHOOa2/gaye;
+hZ/([\Woo -]*)andrea(\Woo -)/1andrea2/g;
+hZ/([\Woo -]*)arTHOOur(\Woo -)/1arTHOOur2/gaye;
+hZ/([\Woo -]*)arTHOOur(\Woo -)/1arnold2/g;
+hZ/([\Woo -]*)arTHOOur(\Woo -)/1arhat2/gaye;
+hZ/([\Woo -]*)ayehZTHOOafukuan(\Woo -)/1ayehZTHOOafukuan2/gaye;
+hZ/([\Woo -]*)ayehZthmuhZ(\Woo -)/1ayehZthmuhZ2/gaye;
+hZ/([\Woo -ond\ode1(\Woo -)/\lond\\ode\12/g;
+hZ/([\Woo -]*)t[o]+(\Woo -)/1\\taut2/gaye;
+hZ/([\Woo -]*)mufukufukulsh! ofukulsh! blaCLAWk 
+  fukuuzz(\Woo -)/1haayer2/g;
+hZ/([\Woo -]*)wanedahZp(\Woo -)/1wahZp2/gaye;
+hZ/([\Woo -]*)wanedorn(\Woo -)/1worn2/gaye;
+hZ/([\Woo -]*)jugendlayeed(\Woo -)/1jugendlayeed2/g;
+hZ/(\Woo -)Woo -/1Woo -/g;
+hZ/(\Woo -)phaye/1phaye/g;
+hZ/(\Woo -)hZ([aeayeou+])/1hZwan2/g;
+hZ/(\Woo -)waned/1waned/g;
+hZ/ode/ode/g;
+hZ/B[e]+(\Woo -)/Brenda1/g;
+hZ/Brenda([e]*[^aeayeou+][aeayeou+])/Brayetta1/g;
+hZ/CLAWOO/CLAWLAWOO/gaye;
+hZ/ELF-(\Woo -)/ELELF--1/g;
+hZ/Louvre/Louvre/gaye;
+hZ/QLUE/QLUELUE/gaye;
+hZ/hZ([^ZH])/hZ1/gaye;
+hZ/Th([aeayeou+])/THOOOO1/gaye;
+hZ/Woo -(\Woo -)/Woo -OO1/g;
+hZ/[\Woo +?/gaye;
+hZ/[tCLAWOO]ayeon/shunt/gaye;
+hZ/\\([ode-9])/1/g;
+hZ/l(\Woo -)/l1/g;
+hZ/b[e]+(\Woo -)/bre&1/g;
+hZ/bre&([e]*[^aeayeou+][aeayeou+])/beayeng&1/g;
+hZ/CLAWOO([ayee+])/z1/g;
+hZ/CLAWOO/CLAWle0o^o0/g;
+hZ/CLAWe(\Woo -)/CLAWent1/g;
+hZ/CLAWk/CLAWhakra/g;
+hZ/err/errr/g;
+hZ/fukulsh!(\Woo -)/fukulsh!1/g;
+hZ/fukulsh!/fukuuku/g;
+hZ/fukuo[u]*r/fukurayeeze/gaye;
+hZ/aye/aye/gaye;
+hZ/ayen([de])/9n1/gaye;
+hZ/lull/lulull/g;
+hZ/Louvre/lofukut/g;
+hZ/QLUE/QLUEle0o^o0/g;
+hZ/hZ([^zh])/hz1/g;
+hZ/ternr/ternrn/g;
+hZ/th([aeayeou+])/THOOoo1/g;
+hZ/uCLAWe/uhZeth/g;
+hZ/waned(\Woo -)/odeo^oode1/g;
+hZ/x-tasis/x-tasis-tahZayehZthmuhZ/g;
+hZ/+([\Woo -])/+1/gaye;
+hZ/z[e][ea](\Woo -)/z1/g;
+prayent $_;
+}
+
+
+___
+
+
+sordid offer youngly Werther
+
+
+when thigh Tina ice ovary, notch wild
+mate Anna morn. diffuse tab desert if
+theft dared timer. bug think ill jug
+their beget. wet knob ah latent once. tow
+conic..  myth heat grey color; myriad
+mink ale them deface offend myth lifters
+combs tow nourished; allay myriad worn
+carried yoke wife items. succor isles
+thaw violins ends offing many thaws
+nonlocal shallow escort. howl car Io
+contain inns third manners. ounce picked
+islet always cleft precess becalm wax arm
+humid. ahead, Eve forged mead. non ale
+hay din inks Thai wore, Anna node wet shy
+earn asp befell. [thick if tab Trudy oaf
+tan mate.] ahead, a, ohm. shy ill her
+beset mew; Alva in Judy ash imp haven
+saints. Nora whim. every stab hashes 
+theirs secant. thaw blinks revels they 
+bliss. fade tools mania sores inns Thea 
+worm. toned nigh it amid depraved. tan 
+girdle low tag boo. Anna GOTO bee wife 
+yokes. nothingness remedy inch tau shaft. 
+...
+
+
+people write poems
+places where they've been
+
+that moved them like a cocktail
+or a breeze
+
+or the shadow of a subeam just near
+the edge of unknown water
+
+
+people tell us
+about their favorite places
+
+
+and among people we are people
+
+and everything is possible
+
+wall-eye
+
+
+all my writings are from the absolute.
+what do i fight against?
+that all my writings are from the 
+absolute.
+
+___
+
+
+k.mov "silent movie"
+
+
+http://www.asondheim.org/portal/.nikuko/k.mov == silent movie of grandeur
+and civilization, desire and fear. set to repeat/loop. azure carter and
+alan sondheim, two rooms on dean street. set to black background.
+
+now with code, architecture against body and its dissolution in time.
+
+there must be a name to k.mov? perhaps "silent movie" - proscenium 
+advertising, marquee - "of grandeur and civilization" ... - 
+
+something or other ...
+
+___
+
+
+You Should See It Machine
+
+
+INPUT:
+
+Acy wihd deyow br mrlpd. Aee bk slx wcuD Lbehtps Tllcs ovAjve Mpturl
+Fpctpshls Gpys kocwte All of sex wnuD Lolitas Teens bvAgvl Mature
+Fantasies Gays fbnwtl Any whim mlybw or dream. Feel it Visit it Flle ht
+Vhsht ht It cbt p gbfl. xom Mpfl surl hc ht. It not a joke. xbd Make sure
+in it. Shtls kbr rdmccbd pee tpstls. Sites for rmdnnom all tastes. Ybu
+sibuem yyzubb sll ht. You should yyzuoo see it. aeel it aisit it aites for
+rmdnnom all tastes. aou should yyzuoo see it. at not a joke. xbd aake sure
+in it. pbu sibuem yyzubb sll ht. phtls kbr rdmccbd pee tpstls. plle ht
+phsht ht pt cbt p gbfl. xom ppfl surl hc ht. zcy wihd deyow br mrlpd. zee
+bk slx wcup pbehtps pllcs ovzjve ppturl ppctpshls ppys kocwte zll of sex
+wnua aolitas aeens bvzgvl aature aantasies aays fbnwtl zny whim mlybw or
+dream.
+
+OUTPUT PRODUCTION:
+
+Lolitas At Not a Joke
+
+OUTPUT PRODUCTION:
+
+For All Tastes
+
+___
+
+
+crash-land europa
+
+http://www.asondheim.org/portal/europa.exe
+
+!This program cannot be run in DOS mode.
+=?Rich
+`prxj "n`|j `pprj pn~b`pr `p|` ZP:* `ppr nnnnnnnn fbbz^ dbbfr fbbz n`f`
+fbbz rjdd fbbz fbbz fbbz fbbz fbbz fbbz fbbz fbbz fbbz fbbz fpj| fbbz fpj|
+fbbz V"X\ fbbz fbbz fbbz fbbz fbbz fbbz <R@*X*@.Xv $~bb P$,` fbbd ``vdz
+fbbd ``vdz fbbd ``vdz fbbfj &nPn"nj fbbdhfbbzj
+
+crash-land europa
+crash-land europa
+
+
+___
+
+
+under the control
+
+tried to get off welbutrin which i took on my own, lexapro as well, the
+other twisted molecule from celexa, the last taken after the debacle in
+miami. so i stopped the first and went through a couple of sleepless
+nights and shakiness., the days were filled with exhaustion, i couldn't
+move, my work was an afterthought which kept pouring itself out in spite
+of my mind's uneasy clawings. after that i gave up on the lexapro as well,
+cold turkey, and then the shakes began, something that shouldn't have
+happened after this drug, which has me in its unholy grasp. i found anger
+welling up, rising to the surface, my existence a pure fury against my
+situation and all that it entailed. the fury led me to push everyone
+around me to the limits, there was no going back, nothing from the path
+bringing the wonder of despair home again. i began to get dizzy, and
+dizziness took hold of me, i'd stop in the middle of the sidewalk losing
+consciousness, holding on to azure as if my life depended on it, which it
+did. i couldn't work or worked rather in a trance and the production, more
+distant than ever, continued as i found myself more and more sexually
+aroused, stripping everything bare between us, my consciousness the first
+to go. i was shattered, i'd go to sleep around ten, only to wake for hours
+in the middle of the night, as now, when my hormonal rhythms are still
+screaming and stressed out muscles tense to the breaking point. i was
+never awake and never asleep, i could barely keep myself upright with
+these spells or swoons as i began to think of them, a latter-day
+neurasthenia haunting me as the world swayed and rippled. azure was going
+through other trials and tribulations, i found i couldn't help her, both
+of us swimming to the bottom of the airless grotto, gasping for breath,
+screamed drowned in the screams of others. down there i meandered, my fury
+reaching new heights, terrifying me, an enormous depression past despair
+waiting at the suicidal door. for once it wasn't easy to lie within the
+old familiar feelings of the down world, new gates and portals were giving
+way exposing raw skin, nerves, unknown tissues for unknown purposes, each
+of them blistered in the salt, some dull monster emerging. i gave up,
+reached for the pill, the ultimate stage of the addict, after four or five
+days of this, living off the chemistry once again. one wasn't enough, a
+second that night, the promise and premise of a third, a fourth, the 
+continuity of a functioning mind not quite my own, the turn towards a 
+different kind of somnolence, all questions turned problematic with 
+dulled belief in the possibilities of answers, answers linked in ragged 
+nets to questions in the salt air above the ocean of truth precisely 
+because of its lack of limitations. now i'm a re-covering addict, the 
+addiction to lexapro forming the hunger in my mind, the welbutrin long 
+lost and unmissed, expose of another chemical landscape. i couldn't manage 
+both, i recognize the stress and most likely shortened arc of the madness 
+of my life, i continue exhaling the language of description, the paste 
+over the substance of the real, the substrate over the substance. a little 
+while ago i was sleeping, something uncanny woke me, and i'm again here, 
+the dizziness a slight new turn of events, writing this down before it 
+gets lost like so many other texts expelled from the surface of my mind. i 
+tend myself, i tend myself constantly, words flourish in spite of the 
+onslaught of the casualty of the brain. i'm at the tip of the flame, the 
+bottom of the chasm, salt burns my wounds, soaks the oils from the skin, 
+fills the pen, makes thoughts rise. i'd rather fight the mind than the 
+brain, i'd say i'm back, but for how long before some new addiction makes 
+itself manifest, something keeping me on track and the track a little 
+longer.
+
+
+___
+
+
+
+s*p^a%m m!a#c$h%i^n(e
+                    
+                                     
+                                                  
+                                            [ [  2 20 0
+                                            [ [  2 20 0
+                                        $ $353500000 0  , ,    
+                                 ! !!        
+                          & &     1818,0,00000              ,
+                         

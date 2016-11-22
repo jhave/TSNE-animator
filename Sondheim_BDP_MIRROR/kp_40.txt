@@ -1,0 +1,6 @@
+
+Listening to shouts and tells. Receiving logon/logoff messages.
+Highlight OFF. Receiving banners. Accepting games. Beeps are on.
+Monitor ON.
+Autoforward is ON. AutoRead is ON. Wrapping ON. Paging lines 20 at a
+time.

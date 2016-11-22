@@ -1,0 +1,182 @@
+
+
+
+Rich-Julu-Prog (to run this you might have to change the first line, and
+reformat some of the folded ones.)
+
+
+#!/usr/bin/perl5.001
+
+$t = time;
+$| = 1;
+srand time;
+@a=("hard", "soft", "velvet", "cotton", "linen", "flax", "pure",
+"black", "dirty", "clean", "soiled", "sexy", "perfect", "sleazy",
+"wayward", "nice", "feminine", "lovely", "used", "fashionable", "small",
+"death-like", "lively", "protruding", "penetrating", "thrusting",
+"giving", "forgiving", "poor", "rich", "sedate", "shiny", "contrary",
+"nervous", "wandering", "happy", "uneasy", "spry", "florid", "edgy",
+"neurotic", "wonderful", "amazing", "loose", "taut", "tight",
+"really-up!", "manic");
+@verb=("thrusts", "turns", "surrounds", "displays", "inherits", "shows off",
+"plays", "mixes", "amuses", "runs", "flows", "repairs");
+@prep=("beneath or within", "beyond", "throughout", "confusing",
+"staining", "accompanying");
+@noun=("walkman", "love", "passion", "babe", "stockings", 
+"your expensive big-tv", "your expensive car", "your expensive makeup", 
+"your expensive masquerade", "my makeup", "my new underwear by Fredericka!");
+@nnn=("flower", "thing", "radio", "new-dress", "frock", "jumper", "skin");
+$nnnn= int rand(8);
+$non = int rand(11);
+$non1 = int rand(7);
+$pre = int rand(6);
+$gen = int(48*rand);
+$gen1 = int(48*rand);
+$gen2 = 49 - int(40*rand);
+$time = int(time/3600);
+$g = int(8*rand);
+if ($sign=fork) {print "\nOpen your expensive wardrobe...\n";}
+ else {sleep(1); print "\nAh... speak... speak...\n";
+  exit(0);}
+sleep(2);
+print "\nMs. or Mr., what do they call you, when they call you!?\n";
+chop($that=<STDIN>);
+print "\nAre you dressed as $that? Is $that dressed as you?\n";
+print "Are you in your wealthy @nnn[$nnnn], are you in your perfect", 
+" flesh, ah don't answer...\n"; sleep(1); print "Ah...\n";
+sleep(2);
+print "\nIs Julu wearing your rich ... , are you wearing your expensive", 
+" @nnn[$non1]? \n"; 
+chop($str=<STDIN>);
+if ($str eq "no") {print "\nShow me your expensive panties...\n"; 
+sleep(10); goto FINAL;}  
+else {print "\nI love your expensive feelings, $that ...\n";}
+print "Would $that mind you partying?", "\n" if 1==$g;
+print "Your household belongings are warm and inviting!", "\n" if 5==$g;
+print "Your walkmans call me to them...", "\n" if 6== $g;
+print "Your stereo speaks so beautifully to me!", "\n" if 4==$g;
+sleep(1);
+print "\n@noun[$non1] @verb[$non] me @prep[$nnnn] your rich @nnn[$non1]!\n";
+print "\nWhat do you call your expensive @a[$gen2] @nnn[$nnnn]?\n";
+$name=<STDIN>;
+chop $name;
+print "\n";
+print "$that, $name turns my @nnn[$g] ", "\n" if 3==$g; 
+print "$that, $name opens me totally to you!", "\n" if 7==$g;
+print "Nothing moves, river deep...", "\n" if 5==$g;
+print "Your $name is mine, my sweet $that, I am your expensive sex-toy!", 
+"\n" if 2==$g; sleep(1);
+print "Your look-what-I-bought!, bright and shiny!, list them... \n";
+print "one by one, each on a line alone - type control-d when done.\n";
+@adj=<STDIN>;
+chop(@adj);
+$size=@adj;
+$pick=int(rand($size));
+srand;
+$newpick=int(rand($size));
+print "\nMy @adj[$pick] is your expensive...\n";
+$be=int(rand(4));
+ open(APPEND, ">> enfolding");
+ print APPEND
+  join(":",$name,$str,$that,@adj[$pick + 1], @adj[$newpick + 1]), "\n"; 
+# join(":",@adj,$name,$str,$sign,$g,$that,$name,@adj[$pick]), "\n"; 
+print APPEND "Would $that mind you partying, $name, with us?\n" 
+if 3==$be;
+print APPEND "Come home with me, $name, Julu-of-the-Rich-Crowd!\n" 
+if 2==$be;
+print APPEND "Your @a[$gen1] @adj[$pick] is in my @a[$gen]", 
+" @adj[$newpick]\n" if 1 > $b3;
+print APPEND "Your @noun[$non1] seeps into my @adj[$newpick] - ",
+"turning me Julu-Nice-House\n" if 0==$be; 
+print APPEND "Ah, @noun[$non] purchased by Julu-of-the-Open-Arms and", 
+"julu-really-up!\n" if (2 < $be); 
+print APPEND "Devour @a[$gen1] @adj[$pick] Julu-of-the Partying $name!\n" 
+if 1==$be;
+ close(APPEND);
+ open(STDOUT);
+ if ($pid = fork) {
+  $diff=$pid - $$;
+  print "$name makes me thoughtful $diff times!", "\n" if 5 < $g;
+
+  print <<Construct;
+
+$name calls forth @a[$gen1] @noun[$non], eating, making money! 
+@prep[$pre] the @a[$gen], $name is @a[$diff], @a[$gen], $str?
+... @noun[$non] is @adj[$newpick] here, it's @noun[$non]?
+
+Construct
+
+} else {
+          close (STDOUT);
+
+          system("touch .trace; rev enfolding >> .trace");
+          system("rm enfolding");
+
+          exit(0);
+}
+sleep(1);
+print "Are you becoming close to your lover's wonderful $name?\n";
+chop($answer=<STDIN>);
+if ($answer eq "no") {print "You're dealing with a @a[10+$pre]", 
+" nice-house.\n";}  
+if ($answer eq "yes") {print "Ah, a @a[10+$pre] and @a[15+$pre] fantasy!\n";}
+print "You melt into Julu's skin forever...", "\n\n" if 3 < $g;
+print "I think $name $pid is your expensive scar, your expensive wound", 
+" your expensive brand.", "\n\n" if 3==$g;
+print "... @a[$non] $name $$ is Julu's gift to you ...", "\n\n" if 6==$g;
+print "Your $name $diff is darling Nice-House's flesh", "\n\n" if 4==$g;
+print "You wore her frock for $time hours?", "\n" if 2==$g;
+sleep(1);
+print "$name and $$ and $pid - and you knew that all along!", 
+"\n\n" if 2==$g;
+sleep(1);
+print "Wait! $name and $pid are gone forever!", "\n\n" if 1==$g;
+FINAL: {
+$d = int((gmtime)[6]);
+$gen3 = 48 - int(20*rand);
+print "For $d @a[$gen2] days, I have been @a[$gen3] Julu ...";
+print "\n";
+$u = (time - $t)/60;
+printf "and it has taken you just %2.3f minutes turning wealthy as can be!", 
+"$u"; print "\n\n"; 
+print `rev .trace`, "\n\n";
+}
+exit(0);
+
+
+Reply:
+
+Please forgive me, Julu says, but I want to reply to everyone here and get
+to know everyone here. Please understand I am new here but I am writing
+very seriously, because I want to reply to all of you, now seriously.
+
+I don't know, Julu says, sometimes it's the fact that there's a lot of
+death around and of course we know it, so that maybe is a separation. Then
+there's the fact that "death" isn't susceptible to the pun; it remains
+there on the page. Nor is it principally the domain of virgins or Heideg-
+ger, and there is no foreshortening the word, word with a word, only _eat_
+stands out, taking away the *d* and 'h.' It's more to the point that it's
+a word belonging in a book, that is a reply or gift which is never receiv-
+ed, never returned or accounted for. It is always already a return among
+the living as well as within them, however. Julu goes on, that there was
+always a first time as virgins, and for some, that time is never lost. But
+it is linear, the stepping or seeping over a portal, often a body, about
+which there is little to _say._ Certainly these friendships here implicate
+the other into coming-to-aid; the gift requires that. Nor would this stop
+or implode, were the other sexist, say, or anti-semitic; it would remain
+in a book, rather than this active filtering. It is a course and a gift to
+make the text _leap_ from the page, screen, _other_ of the title. A woman
+might reply that there were no gifts, exchanges, that these imposed linea-
+rity on a flux that constricted male to male. I don't know about pain, but
+is it not true that I undergo the same, my short hair screamed with hunger
+offered in desperation? I know a man who sewed his finger on. Julu goes on
+and out, meets Morning Glory, Zoogirl, Morrigan, Laurie, Lee, Paula, Cyn-
+thia, Caitlin, Fanny, Kim, Meika, Susan, Sara, Pip, Karen, Tom, Tbone,
+Jerry, Jon, Richard, Gerald, Robert, Bob, Ryan, Edward, Matt, Krumm, and
+others and others; Julu is new here and wants to reply to everyone, please
+forgive Julu. Please forgive Julu but read her reply very seriously and
+carefully because she has wanted to reply to everyone, please understand,
+and Julu is wanton now, and drinking.
+
+--Julu
+

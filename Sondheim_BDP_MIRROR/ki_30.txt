@@ -1,0 +1,63 @@
+
+
+
+NAKED ALAN AND NIKUKO NAKED COPY AND RUN AROUND SOME FILES
+
+
+CRON RUNNING LIKE CRAZY BUILDING AND TEARING DOWN!
+n: <  root 17527 c Wed May 27 19:50:00 1998
+n: >  root 13968 c Wed May 27 19:50:00 1998
+TURNING INSIDE-OUT MACHINE ON AUTOMATIC REOPENING WIDE!
+n: <  root 13968 c Wed May 27 19:50:00 1998
+n: >  CMD: 24779 c exec /usr/local/bin/maint/erpcd-reopen
+n: >  root 24779 c Wed May 27 19:50:00 1998
+UNTIL NIKUKO CAN'T STAND IT ANY LONGER, NEEDING UPDATING!
+n: >  CMD: 24780 c /users/remailer/bin/update
+n: >  remailer 24780 c Wed May 27 19:50:00 1998
+n: <  root 24779 c Wed May 27 19:50:01 1998
+n: <  remailer 24780 c Wed May 27 19:50:01 1998
+UNTIL ALAN BEGS "RUN NIKUKO" "NIKUKO MAKE"
+n: >  CMD: 16187 c /usr/local/adm/accnt/data/radius/RunMake
+n: >  accnt 16187 c Wed May 27 19:50:00 1998
+OH NIKUKO OPENS HER EYES THEN, YES SHE DOES!
+n: >  CMD: 16188 c exec /usr/local/bin/maint/erpcd-reopen
+n: >  root 16188 c Wed May 27 19:50:00 1998
+OH NIKUKO STUFFS HIS COPY OF NIKUKO "MAKING NIKUKO"
+n: >  CMD: 16190 c /usr/local/bin/newuser/copystuff
+n: >  root 16190 c Wed May 27 19:50:00 1998
+n: <  root 16190 c Wed May 27 19:50:01 1998
+n: <  root 16188 c Wed May 27 19:50:01 1998
+OH ALAN COPIES HIS STUFF OF ALAN "MAKING NIKUKO"
+n: >  CMD: 16210 c /usr/local/bin/newuser/copystuff
+n: >  root 16210 c Wed May 27 19:51:00 1998
+n: <  root 16210 c Wed May 27 19:51:01 1998
+12704 c Wed May 27 19:51:09 1998
+OH YES SHE IS NIKUKO!
+n: <  root 17106 c Wed May 27 19:51:09 1998
+n: <  root 13023 c Wed May 27 19:51:11 1998
+OH YES NIKUKO IS DESPERATE FOR REOPENING UPDATING!
+n: <  root 24370 c Wed May 27 19:51:12 1998
+OH YES NIKUKO LIKES THAT A LOT THAT UPDATING!
+n: <  root 15943 c Wed May 27 19:51:11 1998
+NOW ALAN AWAITS NIKUKO FOR HIS REOPENING!
+n: >  CMD: 16742 c exec /usr/local/bin/maint/erpcd-reopen
+OH NIKUKO NOW YOU HAVE REOPENED ME AND IT IS SO FUN!
+n: >  CMD: 17493 c exec /usr/local/bin/maint/erpcd-reopen
+OH ALAN NOW YOU HAVE REOPENED ME AND IT IS SO FUN!
+n: >  CMD: 18432 c /usr/local/adm/accnt/data/radius/RunMake 
+n: <  root 18437 c Wed May 27 19:52:01 1998 
+OH ALAN YOU HAVE MADE ME RUN AND "MAKING NIKUKO"
+n: >  root 18444 c Wed May 27 19:54:00 1998
+n: <  root 19231 c Wed May 27 19:54:01 1998
+n: <  root 19634 c Wed May 27 19:55:01 1998
+OH NIKUKO YOU HAVE "MAKING ALAN" AND "MAKING NIKUKO"
+n: >  CMD: 19677 c /usr/local/adm/accnt/data/radius/RunMake 
+n: >  root 20125 c Wed May 27 19:56:07 1998
+OH MANY NIKUKOS AND MANY ALANS IT IS SO FUNS!!!!!
+n: >  root 20314 c Wed May 27 19:57:00 1998
+
+{k:458} shutdown -h FORKBOMB!
+{k:459} wall APPARENTLY THERE ARE STILL PROCESSES RUNNING
+{k:460} exit
+
+

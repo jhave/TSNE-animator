@@ -1,0 +1,30 @@
+
+
+
+
+Getting Around -
+
+
+Has anyone written on the phenomenology of the Mac in relation to the PC
+(DOS) or Linux/Unix. When I'm in DOS or the last, I'm constantly aware of
+expanding neighborhoods, constituted by the current file, the local
+directory, and the rest of the tree structure (often appearing broken,
+interrupts at the level of directory/subdirectory). On the Mac, files
+appear dispersed, sprayed across folders which are only partly hierarch-
+ical in appearance; everything may exist within the hard-drive, but the
+_ordering_ of the drive appears to be that of relatively independent
+modules.
+
+So on Mac, I'm more aware of _application-neighborhood_ or foreclosing
+than I am on the other OS's (including WinX) - but less aware of the
+topography of the machine in its entirety. And, having come from PC/Unix
+structures, I find this oddly disconcerting - I can't _range_ the dir-
+ectory structure at will. Not even the various finder apps correct this;
+they bring to the surface (and as Turkle points out, the Mac is a con-
+fluence of surfaces) files that appear to come from nowhere...
+
+As Turkle probably pointed out, the tree structure creates a modernist
+grid across the machinery; the Mac appears as a confluence of territorial
+intensifications...
+
+

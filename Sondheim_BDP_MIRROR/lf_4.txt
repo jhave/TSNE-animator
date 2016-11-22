@@ -1,0 +1,58 @@
+
+
+
+DOCTOR LEOPOLD KONNINGER, ERROR MESSAGE
+
+
+Doctor Leopold Konninger is refusing all messages on account of his 
+obsessive delight with the beautiful Russian ballet dancer Nikuko, 
+he's got it bad.
+
+<konninger@austria.com>: host sendnix.tele.net[194.183.128.150] said: 
+550 <konninger@austria.com>... User refusing messages
+Wed, 3 Nov 1999 00:46:21 EDT
+konninger: %MAIL-E-OPENOUT, error opening !AS as output
+    -RMS-E-CRE, ACP file create failed
+    -SYSTEM-F-EXDISKQUOTA, disk quota exceeded
+Tue, 2 Nov 1999 20:43:32 EDT
+konninger: %MAIL-E-OPENOUT, error opening !AS as output
+    -RMS-E-CRE, ACP file create failed
+    -SYSTEM-F-EXDISKQUOTA, disk quota exceeded
+Tue, 2 Nov 1999 13:25:45 EDT
+konninger: %MAIL-E-OPENOUT, error opening !AS as output
+    -RMS-E-CRE, ACP file create failed
+    -SYSTEM-F-EXDISKQUOTA, disk quota exceeded
+Tue, 2 Nov 1999 08:30:11 EDT
+konninger: %MAIL-E-OPENOUT, error opening !AS as output
+    -RMS-E-CRE, ACP file create failed
+    -SYSTEM-F-EXDISKQUOTA, disk quota exceeded
+
+date: Wed, 3 Nov 1999 03:05:15 -0500 (EST)
+from: Alan Sondheim <sondheim@panix.com>
+to: Doctor Leopold Konninger <konninger@austria.com>
+subject: Urgent message from The Ambassador
+
+status: Doctor Leopold Konninger is out of touch. 
+status: Doctor Leopold Konninger is obsessed by the ballet dancer Nikuko.
+status: Doctor Leopold Konninger is permanently out of touch.
+
+The Ambassador attempts to reach Doctor Leopold Konninger.
+The Ambassador says: Come back immediately. Stop fooling around.
+
+status: Doctor Leopold Konninger does not answer his email.
+status: You might as well forget Doctor Leopold Konninger.
+
+The Ambassador desperately needs to speak to Doctor Leopold Konninger.
+The Ambassador says: I really mean it. We need you. Stop this nonsense.
+
+status: Doctor Leopold Konninger is occupied.
+status: Doctor Leopold Konninger will not answer status: requests.
+status: Doctor Leopold Konninger wants you to know that he is really
+        happy for the first time in his life watching the famous 
+        Russian ballet dancer Nikuko dancer solely for him in her
+        beautiful tutu while he sits unclothed for the first time in
+        his life at a small circular wooden table in a wooden chair
+        watching her amazing cabrioles and entrechats.
+
+550 <konninger@austria.com>... No reply.
+

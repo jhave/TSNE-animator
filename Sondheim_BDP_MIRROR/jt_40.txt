@@ -1,0 +1,54 @@
+
+
+
+Linux Report
+
+
+Yesterday I reinstalled Red Hat linux 3.03 (the version before the cur-
+rent) on my partitioned D: drive, giving 245 meg for the system, 15 for
+the swap. The total installation, including configuring X Window, the
+macros for the bash shell, etc., took only two hours, most of it was
+waiting for downloading from the cdrom. I had saved the .*rc files - the
+hidden resource configuration files - from my previous 2.1 version, so
+I had something to build on.
+
+3.03 needs at least this much space to run fully. Today, I added SLIP
+access - which I had to do by writing part of the dip.script by hand,
+since Panix doesn't use a standard ISP entrance. Everything now runs -
+which brings me to the point.
+
+I can move back and forth from the local bash shell on my machine to the
+korn shell on-line - if it weren't for the cursor, I would not know which
+is which. I can telnet <host> <port> experimentally from the home machine,
+use the Arena testbed Web browser (worth little), and a graphic gopher
+interface, all at the same time.
+
+The distinction rapidly blurs between SHELL / PPP (graphics, etc.); in-
+stead, I use _part-objects,_ applications across the screen, including
+several text-based telnet logins, etc., simultaneously. 
+
+The advantages are enormous; for the first time, the computer seems to
+have taken on a life of its own, just as X Window presences a potential
+for action (blank field), rather than the appearance of a commercially and
+statically-configured Netscape, Explorer, etc. interface.
+
+This "life of its own" is admittedly a romanticization - nonetheless, I
+have the feeling I'm closer to the bones here - it's easy to run trace-
+route, ping, etc.
+
+It's the _skin_ of the thing that's uncanny, particularly when I'm not in
+X Window, but toggling back and forth between on-line and off-line shell.
+The screen appears the same; the color scheme (currently green on black)
+carries over - unlike Windows or Win95 telnet, there's no framework. If I
+place too many local processes in the background, create too many screens,
+I'm in danger of accidentally logging out with one too many exits.
+
+Distance collapses onto the skin, which is inscribed everywhere, by self/
+its self/ and other. 
+
+If I logout locally with the SLIP processing running in the background, I
+can return to myself on-line in seconds.
+
+Julu is here with me, Jennifer running as background process...
+
+

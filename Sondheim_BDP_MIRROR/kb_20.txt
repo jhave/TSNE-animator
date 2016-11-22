@@ -1,0 +1,37 @@
+
+
+
+
+A Religion
+
+
+That which collapses upon itself, transforming site into the memory of
+return.
+
+
+Beware: Hostile God-Code below, captured from _double-emission_ of _A
+Religion_ hack above.
+
+Such is the religious life, with inscription below tethered between
+one and another translation - and the maw of truth or salvation always
+elsewhere, just out of reach - as spirit and economy intertwine...
+
+
+;********* File: god.exe *************
+;
+    code     SEGMENT
+	     ASSUME CS:code, DS:code
+	     ORG 100h
+    
+At this point, the hostile god-code was entered; it consistently crashed   
+my file reader through an error in EMM386 poking at the text. I did er-
+ase it, entering it forever again and again, in the hopes of a new crea-
+tion, but it was not to be. Shall I spare thee 9,000 bytes of worthless
+adds, subs, pushes, pulls - the mutilation of memory everywhere? Alas, I
+am not god, but my brief visitation with divinity was enough to convince
+me that it is ultimately boring...
+    
+    code     ENDS
+	     END  strt
+
+

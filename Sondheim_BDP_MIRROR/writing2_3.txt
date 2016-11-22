@@ -1,0 +1,20 @@
+=
+
+
+This is absurd and silly, of course, but you can work much more elabora-
+tely, even substituting things at the beginnings of lines, using commands
+such as "sort" (which rearranges the lines in various orders), and so
+forth. You can also use commands to change the order of word fields - for 
+example, make the first word in a line, the fourth - and the fourth word, 
+the first. And you can take any large file and, with a command called 
+"grep," pull out all lines that have a certain string (group of 
+characters) in it. For example, if I grep the word "line" in a file which
+is a collection of my recent writing, called "lw" -
+
+I'd write 
+
+grep line lw
+
+- and I'd get
+
+

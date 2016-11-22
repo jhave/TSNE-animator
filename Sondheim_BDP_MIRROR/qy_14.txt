@@ -1,0 +1,53 @@
+==
+F. Avatar dispersions as social media.
+Mocap Transformations
+
+1. DISPERSED BODY: Sensors are dispersed among 2-3 people, who move 
+slowly apart / perform, as much as possible.*
+
+Inversions: 
+Graceful avatar for live choreography
+Live choreography for coagulated avatar.
+
+1a. Movements are 'linear' - performers slowly moving apart or 
+together (occluding).
+1b. Movements are 'tensor' - performers bend slowly, creating internal 
+body 'twists' (center external to skeleton).
+1c. Movements are 'contractive' or 'expansive' - performers open up or
+contract in relation to each other.
+1d. Movements are 'rotational' - performers slowly rotate / twist 
+(center internal to skeleton).
+
+2. SINGULAR BODY: Sensors on one performer.*
+
+2a. Body curls in on itself as much as possible.
+2b. Body twists as much as possible.
+
+3. MAPPING: Sensors are 'mapped' according to various transformations
+on the body.*
+
+3a. Sensors are positioned 'inwardly' or 'outwardly' on the body.
+3b. The body is twisted so that the sensor positions appear normal;
+the body is then untwisted.
+
+4. ENTWINED BODIES: Similar to 1, but with bodies entwined during
+
+initial mapping.*
+5. FLIGHT SENSING: Any and all of the above, mapping - if possible -
+in flight. (This would allow, for example, for a 'normal' mapping 
+with a horizontal or upside-down body.)*
+
+*All of these would be performed as 'near' as possible to the 
+breaking-point, where the sensor reading breaks down.
+
+Movement:
+
+Movement _for the most part_ would be reasonably graceful, and
+relatively slow. The dance/performance will appear to occur _within_
+the body as much as possible - the body turning into otherwise
+inconceivable positions.
+
+I would also like to try out ideas related to the 'tumbling' body 
+(random positioning) with the flight harness, as well as the 'avatar'
+body; I can demo these on video.
+

@@ -1,0 +1,4 @@
+
+(Text entry field) Enter text.  Use UP or DOWN arrows or tab to move off.
+
+

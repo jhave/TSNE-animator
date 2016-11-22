@@ -1,0 +1,24 @@
+
+
+
+How Humans Came to Be
+
+
+@create $container called human
+Wizard now has human with object number #109 
+  and parent generic container (#8).
+@describe human as precocious
+Description set.
+@create $thing called food
+Wizard now has food with object number #110 
+  and parent generic thing (#5).
+drop human
+Wizard drops human.
+put food in human
+Wizard puts food in human.
+@lock human with Wizard
+Locked human to this key:
+  #2[Wizard]
+"That's about it!
+Wizard says, "That's about it!"
+

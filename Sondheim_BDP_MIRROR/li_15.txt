@@ -1,0 +1,896 @@
+
+
+
+
+protolanguage (continuation)	
+
+exit cd /usr/games ./adventure n d d look d e e e e s n n look w w look
+building go building n s s w e d u w w w w w w w w w w s s s s s m n n n n
+n n n n n w w look down enter building take lamp take food take water eat
+food drink water drop bottle inventory light lantern look take keys exit
+building look down down look slit down w w enter valley look down up w e e
+e s s unlock grate with key lift grate look enter grate move grate enter w
+take cage e w look w take rod say XY||Y XY||YZZY XYZZY XYZZY look up e w w
+cage bird put bird in cage catch bird wave wand look w down w wave wand
+cross bridge take diamonds cross bridge look cross bridge look cross
+bridge look e up up down down wave wand inventory light lanterns look kill
+snake e w down e down n s south jump hug snake open snake wave wand at
+snake yes yes okay fine up up s s s n n n e e e e e e n w s quit yes
+
+
+___
+
+
+grep sondheim
+
+sondheim p9 sondheim.dialup.  7:47PM     0 grep sondheim 
+ 8:12PM  up 62 days,  4:17, 26 users, load averages: 0.69, 0.62, 0.95
+ 8:12PM  up 24 days,  2:39, 25 users, load averages: 0.21, 0.71, 1.12
+ 8:13PM  up 12:24, 36 users, load averages: 1.12, 0.98, 1.12
+f08cd5e4 dgram       0      0        0 f0813d80        0 f0bb02c0
+f084d5d0 stream      0      0        0        0        0        0
+f084d340 stream      0      0        0        0        0        0
+f0934218 stream      0      0        0        0        0        0
+f0875d8c stream      0      0 fd1eda00        0        0        0
+agent-socket-12224
+f084db94 dgram       0      0        0 f0813d80        0 f09ecdc0
+f0875538 dgram       0      0        0 f0813d80        0 f0951d80
+f09349c8 dgram       0      0        0 f0813d80        0 f08f5280
+f083a1f4 dgram       0      0        0 f0813d80        0 f0837e80
+f0934694 dgram       0      0        0 f0813d80        0 f0bbca40
+f083aa48 dgram       0      0        0 f0813d80        0 f0837340
+f0838294 dgram       0      0        0 f0813d80        0 f08335c0
+f08380a8 stream      0      0 fd400640        0        0        0
+/var/run/printer
+f0810d74 dgram       0      0        0 f0813d80        0 f0833040
+f0810cd0 dgram       0      0        0 f0813d80        0 f0813b80
+f0875724 dgram       0      0        0 f0813d80        0 f0ad5b00
+f08100a4 stream      0      0 fd3a98ec        0        0        0
+/var/run/ndc
+f0810148 dgram       0      0        0 f0813d80        0        0
+f0810000 dgram       0      0 fd3a2848        0 f0a0eec0        0
+/var/run/log
+sondheim p9 sondheim.dialup.  7:47PM     0 grep sondheim 
+
+
+___
+
+
+standing up inside
+
+./quiz greek english asian country capital capital american country
+capital province negative positive: eluswy alusi hallelujah I have loosed
+I loose I do loose You loose Loose Peking Salonika Kuwait City Oman City
+Amman Benares New Delhi Tokyo Phnom Phen Jakarta Formasa Formosa Manila Ho
+Chi Minh City Saigon Dubai Lahore Singapore Beirut Malay City Damascus
+Katmandu Jerusalem Seoul Iran City New Caledonia Bangkok Islamabad
+Canberra Bahrein City Iraq City Burma City USA Chile Uruguay Colombia
+Bahamas Canada Cuba Virgin Islands EL Salvador Guatamala Guatemala Puerto
+Rico San Domingo Panama Jamaica Haiti Ecuador Venezulaala Venaualzuala
+Paraguay Jamaica Mexzico Peru Nicaragua Brazil Argentina Yukon Yukon
+Territory Saskathewan Canada Ontario P.E.I. Prince Edward Island P.E.I.
+Newfoundland Nova Scotia Quebec British Columbia Sas ALberta Saskatchewan
+Alberta Yukon Yukon Territory Newfoundland fast run old open lie down
+sleep get down give hairy always up right covered sweet hard asleep buy
+good beautiful big from backwards within smile dawn sharp bright after
+happy empty big out boy plus wet rough above yin together top daytime on
+hot floor thick dark light stop standing up inside near high
+
+___
+
+
+
+look, look
+
+
+tf look dir bag* cd .. dir bag* exit look Bedei look Girl read Bedei
+@examine Bedei exit view Bedei look look iBudi look iBedee look iBodee
+look Bodei look iboy open iBoy take iBud take iBud from iBoy look iBud put
+iBud in iBoy close iBoy look iGirl read iGirl @examine iGirl @list iGirl
+@examine iGirl @list #972 @who look look #1 look Bodi @quit look lance
+look skin look Tiffanyalan look you-know-language look nipples look
+clitoral read clitoris look look anal open anal take hieroglyph look anal
+open anal take hieroglpyph look anal open anal take hieroglyph from anal
+look hieroglyph put hieroglyph in anal close anal look envelop take
+envelope look fooo look nota bene enter envelope open envelope @entger
+ener envelope @go envelope look foo look nota bene inventory home take
+cloitoris put clitoris on envelope drop clitoris on envelope look clitoris
+read clitoris take clitoral look clitrloral put clitoral on clitoris on
+envelope put clitoral on clitoris drop clitoral on clitoris on envelope
+look take nipples look nipples take aural look aural drop aural on
+envelope drop nipples on aural look take skin eat skin @eat skin drop skin
+on nipples @quit look look Lightnings "hello in this fallen world "is
+anyone here in this fallen world "i am leaving this fallen world "i am
+saying goodbye to this fallen world "i am saying goodbye to this fallen"
+
+___
+
+
+More on Protolanguage and Keystrokes
+
+
+Labor: Keystrokes devolving into protolanguage, language of gesture -
+these are the signs of occurrences. So that you are witness of animal
+scurrying, organism responding to cue. Look, search, enter, continue. It
+is difficult from outside (the labor, the keystroke) to comprehend the
+mentality at work: riding the cue in silence or a quasi-determinative
+approach to speech and phenomena. Consciousness muted. Impulse, the up-
+welling of revolution in poetic language.
+
+For the organism, there are bundles of associations; because of the re-
+sponse nature of protolanguage, the texts are tied to occasions. There is
+nothing to generalize - on the other hand, there are dual terms - those
+derived from the imminence of the occasion ("iGirl" as in "look iGirl")
+and those which derived from universals or control factors. The latter are
+view in number: "look," "take," "put," "say," "go," while the former are
+theoretically infinite. Even verbs may be imminent: "You may drink from
+the cup of coffee" leading to "drink cup."
+
+Categories slide into and through categories, metonymies through literal
+strings and back again. The container for the thing contained, the speech
+for the speaker, the sign for the cause. 
+
+Or again: Think of keystrokes as diacritical marks to internal language
+and thought, catalytic, potentials controlling behavior and semantics.
+There is no distinction between typing "ls" for a directory listing and
+"lass" in a Border poem; both are marks, demarcations, moments of finger
+movement, the sound of keys clattering. Where is the machine when "ls" is
+typed? Here, it is within an edit program - there, it is at a prompt.
+"lass" may be a young girl here, and at the prompt, a misspelling for
+"less," a text-reading program in unix or linux.
+
+In any case, as I write repeatedly, it's the labor which is recorded, the
+labor of the user, and the implicit response of the machine, generating or
+resulting in further recording. One might think of "ls" as repetitive
+directory listing, "e" as repetitive vowel striking - or "e" may be a
+macro at a prompt or within a menu.
+
+It is the repetition which is most evident, and what I can only call a
+thwarted repetition at that, eliciting the horizon of substance, turning
+towards quantity from quality. Even here, with this furious typing, it's
+death which stalks the keyboard, never from within. The silence is never
+noted.
+
+
+___
+
+cancer
+
+This is the closeness of your other Thu Mar 2 21:56:33 EST 2000 Mach64:
+Font cache: 0 fontsThu Mar 2 21:56:42 EST 2000 Debug: GameOverThu Mar 2
+21:56:42 EST 2000 This is the distance of her disease Thu Mar 2 21:56:33
+Mar 2 21:56:42 EST 2000 (--) Mach64: Pixmap cache: 0 256x256 slots, 0
+128x128 slots, 0 64x64 slotsThu Mar 2 21:56:42 EST 2000 el: waiting for
+windowmanagerThu Mar 2 21:56:42 EST 2000 KCharset: Wrong charset!Thu Mar 2
+21:56:42 EST 2000 Debug: menu load not supportedThu Mar 2 21:56:42 EST
+2000 Thu Mar 2 21:56:42 EST 2000 {k:104}GameOver bash: GameOver: command
+not found {k:105}Debug: GameOver bash: Debug:: command not found {k:106}
+Debug: GameOver bash: Debug:: command not found {k:107}Debug: GameOver
+bash: Debug:: command not found {k:108}Debug: GameOver bash: Debug::
+command not found {k:109}Debug: GameOver bash: Debug:: command not found
+{k:110} {k:110}waiting for X server to shut down bash: waiting: command
+not found {k:111}waiting:
+
+___
+
+
+
+polysyndeton
+
+day and feels and like and sludge, and violence, and misery crawling and
+walking, and despair, headaches, and from and migraine and to and left and
+frontal and lobe and to and right and frontal and to and deep brain, and
+things, and stones, and airs, and weathers, and hitting from and every-
+where, and all and over, every and place, and every and time, and every
+and single and time, and illness, depression, computer and crashes, and
+computers and crashes, and financial and crises, and cities in uproars,
+and suffering and death and everywhere. and who and can and tell and the
+future and when and Armageddon, and Behemoth, and Siva, and Nikuko, and
+Izanagi, and no and longer and appear? and I and shall complete and the
+polysyndeton.
+
+___
+
+
+
+the lake
+
+
+behind the road there is another road
+sometimes you could see the shadows of the trees
+  on the trees
+in the summer the smell of the grass, the water
+heat of boards on the dock, the boat
+  never still
+voices rising and falling
+sound come forth from far across the water
+sound come towards me, dim boat
+  rocking hard beneath the surface
+  where the voices are stilled
+
+the lake, the lake
+
+later, rising from the water, we'd, drowned,
+  trees hearing us
+dock boards drying in the sun
+  no signs of our summers and deaths
+dark boat rocking beneath the surface
+  signs and omens rocking hard
+  beneath the surface, the boat, road, us
+
+
+___
+
+
+being and time
+ 
+you know who i are. you know what i have done to them. i'm talking to you,
+i know what you mean. i know what they've done to us. you don't need to
+name names. the lakes and the rivers have been taken away; our lives no
+longer belong to us - they belong to them. in these dark times, we must
+beware; we can't be too careful. the future won't be ours, unless we am
+wary at all times. i must look behind my back, rather in front of my back
+(applause); they're always sneaking up. they'll hack into my life. they'll
+take away my wife and my children. they'll devour you. you want to give
+myself to i but how can i, when they're watching? what can they see? what
+am i doing? they're unreadable, unapproachable. their language, if they
+have any. i know what i'm referring to. they make the very atmosphere
+poisonous around here. you can't breathe near them - it's almost a scent
+they have. they see the world differently, you'd be amazed how much. we
+have to arm. they'll remain nameless here - that should tell i something.
+if i don't think you know what i'm talking about, read the newspapers,
+magazines - watch my television, radio - look and listen for the signs -
+they're everywhere - it's written all over this world of ours - they've
+probably taken it to other worlds - above the oceans, beneath the seas. i
+can't go anywhere without running into them, they're controlling you.
+watch my step - i know whose steps they really are. they own the cities
+and the countryside; they're like vermin, you don't need to name names.
+it's a shame what they're doing to us, taking everything away from us.
+we've got to be careful here. it's our right to fight back, to protect
+ourselves. you can't even tell i how long this has been going on, as long
+as anyone's been around. there's a certain danger in the air. they'll
+betray i at the blink of an eye - they're like viruses, just when i least
+expect, like cancers, they invade from within - i know who you mean. watch
+your back, that's all i can say. they're watching your back. (applause)
+you know their name NOW Sat Mar  4 23:22:42 EST 2000
+you knew their name THEN Sat Mar  4 23:22:52 EST 2000
+you'll know their name IN THE FUTURE 
+they've already STOLEN your FUTURE Sat Mar  4 23:23:11 EST 2000
+they're REWRITING your PAST Sat Mar  4 23:23:20 EST 2000
+they're around you RIGHT NOW Sat Mar  4 23:23:33 EST 2000
+they've STOLEN your PAST Sat Mar  4 23:23:53 EST 2000
+they're CHANGING your PRESENT Sat Mar  4 23:24:18 EST 2000
+they're EVERYWHERE RIGHT NOW Sat Mar  4 23:24:27 EST 2000
+Sat Mar  4 23:22:31 EST 2000 they've REWRITTEN your FUTURE 
+they'll be EVERYWHERE IN THE FUTURE Sat Mar  4 23:24:34 EST 2000
+they were EVERYWHERE in the PAST Sat Mar  4 23:24:49 EST 2000 
+(applause)
+
+
+___
+
+prayer
+
+shaved bodies are perfect bodies, fish through atmosphere, entering heaven
+unblemished, the 'h' in heaven was not that word in that phrase, i do not
+remember that phrase, help me heal in our comfort, in our agitation, in
+our horizon where people and buildings topple, in our new and in our old,
+my dead words have no comfort, no comfort now, there was a moment, i re-
+member beginning with 'h' and i am sure of 'h' and the rest now gone,
+tracked down in the churned valley, lost in dirt, devouring, last night i
+lost a phrase, it had comforted me close to sleep, i slept crying, think-
+ing of illness towards death, this phrase had the power to heal, please
+help recover, last read word and understood, last read word and understood
+Your miseries last things are above my hanged last things Your last_word
+destroys my last things!
+
+___
+
+
+the lake ii
+
+
+soaring, there is no weight to bodies, wings
+ tethered inward, the air
+ pressing nothing in the air
+oh mother oh father in the clouds
+ when i close my eyes you are nearest to me,
+ when i press my fingers against my skull
+ you are, in every shape of the world
+oh mother oh father, when my eyes are open,
+ you are spanned by emptiness, invisible,
+ i call names in lakes and fields,
+  there are no boundaries, borders, only
+   marshes
+oh mother oh father, wings hold nothing but wings
+air holds air, water holds water
+names hold nothing when my eyes are open
+names hold everything, pressed against my skull
+
+the lake, the lake
+
+
+
+___
+
+
+End-Using, Hacking, and Who shall Save Our World
+
+zz template
+
+I am an end-user on this machine. The screen, rectangular, running Windows
+CE, remains in the guise of a wall; there is nothing behind it, nothing
+but pure signifiers arraigned across a surface. You may be sure of this; I
+have no knowledge of interiors, my own or my machines - but the quality of
+surface is more than sufficient for thought.
+
+It is this thought I espouse, disconnected, self-organizing, streaming in-
+to language, stuttering forward. It is the thought, not of superstructure
+nor sub-structure, but of contiguity or residue; it is the presence of
+signs across dark matter, language at the end of time. The machine offers
+itself to me in the form of processes, potentials, keyboard strokes; all
+occurrences are equivalent, all motion concatenated, coupled, the result
+of ordinary effort in everyday life.
+
+An end-user, I see the machine, this machine, as closure or foreclosure,
+cutting across the mechanisms of production, working out of mystifica-
+tion, towards an uncanny semantics. I'm thinking to myself here, the
+screen passively recording everything, the applications placed within the
+most comfortable and safe potential wells imaginable. This is the appli-
+ance model of computers - there is nothing beyond or beside the end-user,
+no hacking community, no interiorities or internal rearrangements. Every-
+thing that I use is always already pre-given, adjusted through jostling, a
+guest at the table employing proper etiquette.
+
+With the end-user, it is always a matter of etiquette, a user whose ends
+are met and determined by others, a degree of politeness, the case
+remaining on the machine, the screen and thought intact. For the end-user,
+there is no ontological jump between thought and language, subjectivity
+and inscription; effortlessly, they feed into each other. This is a world
+with genre, coherent diegesis, a world without diacritical marks, a world
+which needs no guidance.
+
+The end-user is death, energy flooding established channels. The world may
+be disavowed or destroyed - worlds may be created, but the tool remains a
+tool precisely because it is invisible, part and parcel of everyday life,
+neither a question nor an answer. Think of the neutrality of the real, and
+you have the mundane portrait of the end-user, the only conceivable port-
+rait, greyed-out, invisible as well, just as all mediations are invisible,
+the permanency of the real.
+
+There is no discrimination, no bandwidth, no tolerance. There is no prob-
+lematic: this describes the exterior. From within, no within, surfaces and
+that greyness. From without, nothing as well. The end-user is part of the
+deepest transparency, without refraction; nothing passes on the periphery.
+This is also a matter of the vacuum, the vacuum of matter, inhaling.
+
+You will say, but what of the end-user's knowledge, all that shape-riding.
+I will reply, shape-riding without ontology is empty; the therapeutic has
+no bearings in epistemology. For what is the extension of an arm, if what
+is grasped mirrors one's own face? Better to have kept hands carefully at
+one's side, better to have prepared for the defense of knowledge than the
+mining of viral entries. What lies beneath the surface can only undermine
+discourse; a virus never replies.
+
+They will say, but the machines are silent and running. I will reply,
+silent, running leaves no trace; the path is difficult; without trace
+there is only loss; with loss, there is the loss of trace itself. For the
+path puts pressure on the ground; the Ground becomes a Source of trans-
+mission; there are always other grounds, other Paths. They will say, they
+do not follow me, and I will reply, they cannot, for they have lost the
+way and the path, they have lost the protocols and programs, they have
+lost the roots and the loam. They will say, you speak in metaphor, and I
+will not reply, I will be beneath them and I will always be beneath them.
+
+The end-users stalk and run the earth; the end-users see the ends of
+things, teleologies, purposes; the end-users see white buildings,
+perfection, lawns and roadways; the end-users see paths and games and
+deals to be made. For I say unto them, it is not the hackers, but the
+end-users who ravage this old world of ours - it is the end-users who
+package it and declare the insignia of crimes and criminologies. Yea, I
+will say unto them, and it is the hackers who comprehend ontologies, move
+among the realms and Realms; it is the hackers who save the realms for
+yet another day; it is the hackers who understand the false etiquette of
+proper naming, proper namings; it is hacking which shall save the day.
+
+The end-users are tall and stalwart, and they walk the earth where mill-
+ions find the beginnings and ends of things.
+
+Others know as well the absence of beginnings, continuous withdrawal,
+incursions of the real. Still others know the absence of ends, broken
+continuity, the masquerade of bricolage, shape-riding of a different
+order, the unknown and unknowing truths of endlessness. Yea, they neither
+walk nor ride, neither fly through the air or swim within the sea; they
+are the force and form of presencing, they move interstitially, they are
+one with dark and darker matter. For the end;-user shall never know them;
+blinded, the end-user controls the vast holdings of the real.
+
+On this machine, I am end-user; on this machine, blinded, I write this
+text; on this machine, I hint at secret knowledge; on this machine, thou
+art beside me. Knowing what I do not know, I forsake absence for the
+thickness of text; I betray my own kind, cast into the shadows; I am lost
+in the shadows; I have gained nothing.
+
+For those who know the rest, and all rest of the endings and absence of
+endings, know also, I have gained nothing by this ...
+
+___
+
+
+
+the sun blasts stars out of the sky
+out of the sky
+its light violates all creation
+the stars look over death
+look over death 
+they hide behind the sun
+they rock back and forth 
+and there are roads and fields
+and there are meadows and cities
+and invisible stars, swaying,
+mourning the death of each and every
+creature
+
+and that is the first sign, the knowledge,
+and there is the second sign, rocking
+back and forth, all constellations swaying,
+pictures of worlds swaying,
+symbols and language, swaying,
+and you can't read what was written
+can't say who spoke what, where, and when,
+and you can't speak for that matter,
+that cold matter, against our ghosts,
+that cold dissolution, the limits of what
+bodies do, in turmoil, despair,
+against the rocking of the sky
+
+hidden by the sun,
+the rocking of the sky
+
+
+___
+
+
+we are driven by procreation
+we are driven by the image of death
+sometimes the drives form turbulence
+the turbulence is in the guise of culture
+culture takes off on its own
+we follow as if we are in control
+we believe we are the creators
+the world self-organizes around us
+we give a name to desire which is all names
+we give a name to procreation which is desire
+every day we bypass death in every way
+every letter and every word is an inscription
+every gesture resonates as if it mattered
+oh poor men and women driven to destroy
+oh poor men and women driven to self-destruction
+we are born into the depths of neutral territory
+we are born across vast reservoirs of dark matter
+we are born between ages of ice and nuclear plasma
+we are born of and around the catastrophe
+we exist on a plateau of imminence
+we mistake the plateau for immanence
+we mistake immanence for the surety of death
+we mistaken imminence for the hysteria of desire
+oh poor men and women oh oh oh 
+oh poor men and women oh oh oh 
+
+___
+
+YEARS bucket AGO, bucket I bucket WAS bucket ASKED bucket THUSLY, bucket
+DO bucket YOU bucket HAVE bucket ANY bucket STORIES bucket ABOUT bucket A
+bucket CERTAIN OBJECT bucket THAT bucket WILL bucket REMAIN bucket
+NAMELESS, bucket AN bucket OBJECT bucket THAT bucket IS bucket OFTEN
+bucket USED bucket FOR bucket DRAWING WATER bucket FROM bucket A bucket
+WELL. bucket I bucket REMEMBERED bucket THE bucket SONG bucket ABOUT
+bucket THE bucket OLD bucket OAKEN bucket OBJECT, bucket AND THE bucket
+PHRASE, bucket SHE bucket KICKED bucket THE bucket OBJECT bucket CAME
+bucket TO bucket MIND. bucket SOMEDAY, bucket SOMETIME, bucket I bucket
+WILL KNOW bucket MORE bucket NO bucket MORE; bucket NOW, bucket I bucket
+JUST bucket WANT bucket TO bucket DRAW bucket THAT bucket WATER, bucket
+FROM bucket THAT bucket KICKED OBJECT
+	
+
+___
+
+
+The Three Lamps
+
+
+A circuit may be opened by a switch, breaking the loop from power source
+to equipment. In this case, we consider the circuit deliberately opened. A
+circuit may also be in the process of construction, in which case we say,
+this circuit has never been closed. A circuit may be accidently opened by
+virtue of a frayed wire, or a blown fuse, or a loose connection, or a
+loose contact. A circuit may also be open by virtue of a burned-out fila-
+ment or resistor. What defines a circuit? A circuit is a closed loop with
+a power source. What defines an open circuit? An open circuit is a power
+source with a broken loop. A broken loop is equivalent to a line segment
+running through a power source. Consider a power source placed in a room.
+Then an open circuit is defined by the potential of that power source in
+relation to all the closures which may be enacted within the room (wires,
+knives, antennas, curtain rods, and so forth). Consider the open circuit
+defined beyond the room. Then the open circuit is defined by the potential
+of any metallic or other objects in the vicinity or elsewhere which may or
+may not have the ability to close the circuit. Consider a battery on a
+planet. Then the planet is an open circuit in relation to the battery,
+unless the battery is part of a closed circuit; even in that case, one may
+consider a series of parallel circuits, with the closed circuit one of
+many loops, in fact the only loop which is defined definitively in rela-
+tionship to the battery. Consider this loop as a defining characteristic
+of the battery, in such a manner that one might say "door-bell," "televi-
+sion," "washing-machine." Then one might say that such a defining charact-
+eristic has a proper name as a component, that name being one among many,
+just as a blackbird can be defined as "not-door-bell," "not-radio." Con-
+sider that there is a measurable potential between the battery and its
+open circuitry with the metallic and other things on the planet, but there
+is no measurable potential between one and another proper name, except to
+indicate that any proper name will serve as well as any other, providing
+it is slotted into similar characteristics, which one may call natural
+kinds in possible worlds. Consider a planet of potentials and power sour-
+ces, a planet of fields and nodes, and consider these fields and nodes
+varying continuously and discontinuously over time. Then one might say
+that the circuitry of the planet is mobile, transforming, and perhaps cap-
+able of carrying information in the very adjustments that are made within
+it.
+
+"To locate the open with the ohmmeter, you would first open the knife
+switch to remove the voltage source, since an ohmmeter must never be used
+on a circuit with the power connected. Then touch the ohmmeter test leads
+across each unit in the circuit - the three lamps in this case. You would
+see that for two of the lamps, the ohmmeter indicates a resistance of ab-
+out 4 ohms; but for the loosened lamp, the ohmmeter indicates _infinity._
+Since an open does not allow any current to flow, _its resistance must be
+infinite._" (Van Van Valkenburgh, Nooger & Neville, Inc., Basic
+Electricity, Revised Edition.)
+
+
+___
+
+
+kludges in the real
+
+
+finally the work was completed, the cmos system changed to disk format 1,
+the system rebooted, tracking the keys once again. i downloaded the zip
+files to dos, uploaded them to unix, unzipped them with long file names,
+downloaded them to dos, configured wince from the cab files, opened the
+application on wince. i added the returns to the tracking file, uploaded
+it to unix, justified the results, took out the upper ascii symbols, re-
+justified the results. i downloaded the application, installed it into
+its own directory in dos, opened it in windows 98, ran it as a tsr or
+daemon. i opened up linux, went to the /dos/ directory, went to slackware
+linux from phat linux, went to /dos/root, and copied the files across to
+/root/ and then rebooted into dos and removed slackware linux with del-
+tree, then booted into phat linux and ran the legacy slackware applica-
+tions. nothing is interoperable, everything transforms through filters,
+everything requires translators. on the periphery one can distinguish one
+operating system from another; on the margins, the real appears slightly
+broken, as if it were the residue of imports, constituted by kludges, just
+about fixed and running.
+
+
+___
+
+
+the hidden code in my all work exit b m d qm qcd /usr/games ls pom ./pom
+rot 13 ./rot13 less rot13 qcp rot13 |/ cd pico r0t13 pico rot13  y
+nrm rot13 y pico rot /usr/games/caesar 13 $* cd /usr/games tail rot13
+cd chmod 777 rot ./rot rotating in extreme convolutions of planetary
+orbits ebgngvat va rkgerzr pbaibyhgvbaf bs cynargnel beovgf excellent!
+rkpryyrag! b m dqm d -rn - once with one of my books someone wrote me
+that it was like his mind was talking to him.ydl dqls exit you have now
+met the hidden code in my all work. nyna nyna
+
+___
+
+
+
+     and rocking in the water
+     in the midst of the waters
+     i see your hull above me
+     i see your wake above me
+
+          \___|__/
+
+     i see your arms below me
+     i see your face below me
+     in the midst of the waters
+     and rocking in the water
+     
+
+
+
+
+
+     naq ebpxvat va gur jngre
+     va gur zvqfg bs gur jngref
+     v frr lbhe uhyy nobir zr
+     v frr lbhe jnxr nobir zr
+           ______
+          /   |  \
+
+     v frr lbhe nezf orybj zr
+     v frr lbhe snpr orybj zr
+     va gur zvqfg bs gur jngref
+     naq ebpxvat va gur jngre
+
+
+
+
+___
+
+
+the lake iii
+
+
+on the surface, rocking, the withholding
+from the threshold, grain
+beneath, rocking, slow diurnals,
+frisson above, rubbed raw of air and water
+
+of salt, metallic elements,
+gas held in abeyance, of slew,
+turbulence, of transparency, swollen,
+of suspension, tepidity
+
+faces which appear at times of thunder,
+times of terror, submerged eyes, mouths
+hearing restless bodies rocking, diurnals,
+smoothed skins, shunting through waters
+
+suspensions, shuntings, metaphysics of being,
+foreclosing softly, inner and outer bloods
+
+
+___
+
+
+                             an angel shrieks
+                                the blooms
+                      fractions of nothing, fractions
+
+
+
+
+    soft vowels, moments
+     purees, gels hours
+       tongue, mouths
+     soft hours, purees
+          tongue
+      sweet sickness
+       prunes, hour
+
+
+__
+
+
+when a soul dies, it becomes dark matter .;.
+we are in this world as ghosts, believing otherwise .;.
+it is all the reverse; death grounds us .;.
+we become heavier when we die .;.
+we join the world of true matter .;.
+we hurtle through our former selves .;.
+we hear nothing but whispers .;.
+death is always before death, unrecognized .;.
+life is later, obdurate, inert, thick .;.
+not spirits, but the thickness of dark matter .;.
+particles huge, jostling, enormous heavy bodies .;.
+
+we shall be frisson-dark-matter, weighed down with gravitation
+and particles, we shall be bound to life, not to this death we
+are in, this death-appear-as-light-life, floating ghosts we are
+now, bring this message, death is prior to life, birth later .;.
+
+
+___
+
+
+Martha Graham for Foofwa d'Imobilite
+
+
+My name is Martha Graham.
+I'm the best dancer ever!
+If you don't like me, you don't like dance!
+Watch this! My feel stay on the floor!
+Now I look anguished and no expression!
+Everything I do is a real breakthrough!
+Watch it girlie, I told you move from the waist!
+I said waist, not waste! Forget your anus!
+We're never going to eat again!
+Angular! Angular!
+My name is Martha Graham and I'm better than you!
+I didn't start dancing until I was forty-nine!
+Horst plays terrific music for me!
+The Group dances beautifully for me!
+I dance better than they do!
+They need me! They need me!
+Calm down! Calm down!
+Okay, we're going down on the floor, let's go!
+We're going to do everything all over again!
+We'll call this dance "Open Border"!
+This is the best method ever!
+In the middle of the stage, a Transition!
+Everything to the left, these American states!
+Everything to the right, sweet Oriental suppleness!
+Watch me! Watch me!
+I'm going to stand up, I'm fierce, my blood is hot!
+You can see me from my head to my toes, I'm moving!
+I'm moving across the border, here I go!
+Here I go, I'm intense, amazing!
+Now I move from the waist, but wait, watch my legs!
+Whatever happened to my breasts!
+It doesn't matter what my weight is!
+My fingers carry motion across the room and universe!
+I said "brain," not "brain," listen to me!
+My dress is made for supple movement!
+Who are my audience!
+I jolt, stagger! Jump! hurdle! Watch my neck!
+Here go my arms! I have no expression!
+Curtains! Curtains! Here we go!
+Here I go!
+
+
+___
+
+
+  transom
+  over, unthrough
+  ceilinged, thinned
+  through, 
+  glance yellowwhite
+
+
+
+    moaning, saying hi,
+    hi alan, moaning,
+    tiled backward, walls
+    with blue ceiling,
+    saying hi, sleeping,
+    moaning, nietzsche's
+    final words, mother's
+
+
+___
+
+
+
+stories about death
+
+death is absolutely neutral & one is fated to die & death can come at any
+time & death is completely random & death is the absolute end & there is
+nothing beyond death & there is no good way to die & all deaths are equi-
+valent & all deaths end the same & death kills ghosts & death has no
+excuses & death has no morals & death has no ethics & death is existence &
+one cannot prepare for death & all life occurs in life & death is always
+invisible & life is a withdrawal & death has no movement & death kills
+worlds & death has no place in the universe & death is universal & death
+devours death & death is neither subject nor object & death is always
+tired & death leaves a trail & death leaves a trace & death is traceless &
+there is no history after death & death is final & death has no stories &
+death is always absent & there is no death & there is no passage & death
+is not brutal & death is inconceivable & death has no attributes &
+
+
+___
+
+
+phenomenology of cancer
+
+revolution of the body & dispersions, nomadicisms & deregulation economies
+& descent of time & noise within decoupling systems & chemotherapy univer-
+sals & radiation and imminence & 'periodically, throughout the year, the
+volunteers host parties in the unit to celebrate holidays & patients &
+families are encouraged to participate in these events' & neutrality of
+intent & into the thing & bewilderment, withdrawal, 'i will give you up' &
+punishment of the body, pummeling & 'you can always feel free to call the
+unit at any time' & feeding the cancer, nourishing the cancer & not-eating
+& not-drinking & patches & morphine & shutting down & knowing it's time to
+go & what is there within me &  what is there beside me & i am talking to
+the other
+
+
+___
+-
+
+(i find myself saying)
+
+hi hi hi hi hi (recognition) oh boy oh boy oh boy (pain) sit down sit down
+(space) aaaaaaaaa (pain) ___________ (morphine) alan (recognition) hi hi
+hi (recognition) what what what (reflex) lousy (condition of leg) ________  
+________ ________ (beginning the dying process)
+
+(plateau)
+hi hi hi hi hi (recognition) oh boy oh boy oh boy (pain) sit down sit down
+(space) aaaaaaaaa (pain) ___________ (morphine) alan (recognition) hi hi
+hi (recognition) what what what (reflex) lousy (condition of leg) ________
+________ ________ (beginning the dying process)  
+
+(plateau)
+hi hi hi hi hi (recognition) oh boy oh boy oh boy (pain) sit down sit down
+(space) aaaaaaaaa (pain) ___________ (morphine) alan (recognition) hi hi
+hi (recognition) what what what (reflex) lousy (condition of leg) ________
+________ ________ (beginning the dying process)  
+
+(mother) ________ ________ ________
+
+(mother) I find myself saying (recognition)
+
+
+--
+
+
+phenomenology of cancer
+
+revolution of the body pnapre dispersions, nomadicisms pnapre deregulation
+economies pnapre descent of time pnapre noise within decoupling systems
+pnapre chemotherapy universals pnapre radiation and imminence pnapre
+'periodically, throughout the year, the volunteers host parties in the
+unit to celebrate holidays pnapre patients pnapre families are encouraged
+to participate in these events' pnapre neutrality of intent pnapre into
+the thing pnapre bewilderment, withdrawal, 'i will give you up' pnapre
+punishment of the body, pummeling pnapre 'you can always feel free to call
+the unit at any time' pnapre feeding the cancer, nourishing the cancer
+pnapre not-eating pnapre not-drinking pnapre patches pnapre morphine
+pnapre shutting down pnapre knowing it's time to go pnapre what is there
+within me pnapre what is there beside me pnapre i am talking to the other
+
+eribyhgvba bs gur obql cancer qvfcrefvbaf, abznqvpvfzf cancer qrerthyngvba
+rpbabzvrf cancer qrfprag bs gvzr cancer abvfr jvguva qrpbhcyvat flfgrzf
+cancer purzbgurencl havirefnyf cancer enqvngvba naq vzzvarapr cancer
+'crevbqvpnyyl, guebhtubhg gur lrne, gur ibyhagrref ubfg cnegvrf va gur
+havg gb pryroengr ubyvqnlf cancer cngvragf cancer snzvyvrf ner rapbhentrq
+gb cnegvpvcngr va gurfr riragf' cancer arhgenyvgl bs vagrag cancer vagb
+gur guvat cancer orjvyqrezrag, jvguqenjny, 'v jvyy tvir lbh hc' cancer
+chavfuzrag bs gur obql, chzzryvat cancer 'lbh pna nyjnlf srry serr gb pnyy
+gur havg ng nal gvzr' cancer srrqvat gur pnapre, abhevfuvat gur pnapre
+cancer abg-rngvat cancer abg-qevaxvat cancer cngpurf cancer zbecuvar
+cancer fuhggvat qbja cancer xabjvat vg'f gvzr gb tb cancer jung vf gurer
+jvguva zr cancer jung vf gurer orfvqr zr cancer v nz gnyxvat gb gur bgure
+
+___
+
+
+
+"the word"
+
+
+tomorrow i will try and say a word to our mother in the hospice.
+i will say mother and i will say i love you and i will worry that
+waking will bring on pain once again, and that not waking will
+shunt the paste of world and death somehere fearful and unknown
+
+today i did try to say a word and there was no answer and i did
+try her name and mother and i did say i love you and i did not
+wonder for whom i was talking with and she will live perhaps just
+a day or two more and i did hear her breathing
+
+when she does sleep i do feel she will wake up and leave all of
+us behind and be in perfection. she does look like she will do
+just that and it will be another story. she does sleep and sleep
+and is past all dreaming. she is just there and i do say mother 
+and i will hear nothing and she does breathe and is not a thing
+
+
+___
+
+
+i carry the subnotebook computer everywhere these days
+inside it are organized worlds, i write into them
+outside, my mother is dying within the next several hours
+outside, we hear things, breathing crashing through dying lungs
+ tidal waves, tsunami
+inside, the nurse can't find the pulse, the breathing crashes
+ and continues to crash, crash, crash
+
+oh what to do but run my fingers through her hair, outside
+kiss her forehead, outside
+
+among insides and outsides, worlds teeter
+ among the permanency of worlds
+
+
+__
+

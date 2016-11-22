@@ -1,0 +1,46 @@
+
+
+The thick mass of clotted texts spews into the muck at the end of the URL 
+road once again...
+
+tel
+Trying 128.143.200.11...
+Connected to jefferson.village.virginia.edu.
+Escape character is '^]'.
+
+
+AIX telnet (jefferson.village.Virginia.EDU)
+
+jefferson.village.Virginia.EDU login: spoons
+spoons's Password:
+
+Enter terminal type [default is vt100]: 
+
+/home/spoons % cd ftp.archives/cybermind-digest.archive/internet
+/home/spoons/ftp.archives/cybermind-digest.archive/internet % 
+ftp panix3.panix.com
+Connected to panix3.panix.com.
+220 panix3.panix.com FTP server (Version wu-2.4(1) 
+Sun May 21 12:42:39 EDT 1995) ready.
+Name (panix3.panix.com:spoons): sondheim
+331 Password required for sondheim.
+Password:
+230 User sondheim logged in.
+ftp> get an
+200 PORT command successful.
+150 Opening ASCII mode data connection for an (74895 bytes).
+226 Transfer complete.
+76435 bytes received in 1.768 seconds (42.21 Kbytes/s)
+ftp> bye
+221 Goodbye.
+/home/spoons/ftp.archives/cybermind-digest.archive/internet % chmod 664 an
+/home/spoons/ftp.archives/cybermind-digest.archive/internet % ls -l an
+-rw-rw-r--   1 spoons   spoons     74895 Jun 12 02:49 an
+/home/spoons/ftp.archives/cybermind-digest.archive/internet % cd
+/home/spoons % cd public_html
+/home/spoons/public_html % pico internet_txt.html
+[...]
+/home/spoons/public_html % logout
+Connection closed by foreign host.
+k:17> 
+

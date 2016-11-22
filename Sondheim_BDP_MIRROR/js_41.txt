@@ -1,0 +1,39 @@
+== SENDALL: mode b, id PAA13958, e_from 95ce0=sondheim:
+mailer 3 (local), host `'
+user `sondheim', ruser `<null>'
+next=0, alias 0, uid 4564, gid 99
+flags=6005<QDONTSEND,QGOODUID,QPINGONFAILURE,QPINGONDELAY>
+owner=(none), home="/net/u/6/s/sondheim", fullname="(none)"
+orcpt="(none)", statmta=(none), status=(none)
+rstatus="(none)"
+specificity=0, statdate=Wed Dec 31 19:00:00 1969
+
+e_flags = 205001<OLDSTYLE,GLOBALERRS,METOO,HAS_DF>
+sendqueue:
+bb5a0=sondheim:
+mailer 3 (local), host `'
+user `sondheim', ruser `sondheim'
+next=0, alias 0, uid 4564, gid 99
+flags=600c<QGOODUID,QPRIMARY,QPINGONFAILURE,QPINGONDELAY>
+owner=(none), home="/net/u/6/s/sondheim", fullname="Alan Sondheim"
+orcpt="(none)", statmta=(none), status=(none)
+rstatus="(none)"
+specificity=0, statdate=Wed Dec 31 19:00:00 1969
+
+
+>>>>> queueing PAA13958 (new id) >>>>>
+queueing bb5a0=sondheim:
+mailer 3 (local), host `'
+user `sondheim', ruser `sondheim'
+next=0, alias 0, uid 4564, gid 99
+flags=600c<QGOODUID,QPRIMARY,QPINGONFAILURE,QPINGONDELAY>
+owner=(none), home="/net/u/6/s/sondheim", fullname="Alan Sondheim"
+orcpt="(none)", statmta=(none), status=(none)
+rstatus="(none)"
+specificity=0, statdate=Wed Dec 31 19:00:00 1969
+
+remotename(Alan Sondheim <sondheim>)
+<<<<< done queueing PAA13958 <<<<<
+
+disconnect: In 0 Out 1, e=95cd0
+

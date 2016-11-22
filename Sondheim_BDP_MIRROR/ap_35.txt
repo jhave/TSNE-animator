@@ -1,0 +1,374 @@
+
+-
+
+
+Internet Text Index
+
+
+The following is the index for my Internet Text, found at
+http://jefferson.village.virginia.edu/~spoons/internet_txt.html The file
+names are on the right-hand side. Please note that the files contain much
+more than these subjects; index refers to larger individual texts or ser-
+ies of texts interwoven through one or more files. You may want to "read
+around" a particular text for further material. 
+
+ASCII Unconscious - d.txt
+Addiction - Net1.txt
+Addiction - Net6.txt
+Addiction - Net7.txt
+Addiction - r.txt
+Addiction and Epidemiology - Net11.txt
+Address, Protocol, Recognition - Net1.txt
+Address, Protocol, Recognition - Revisited - q.txt
+Agni Purana and Avatars - am
+Akkadian Resonances - ah
+Artificial Intelligence - Fantasm
+Artificial Intelligence - f.txt
+Artificial Life - f.txt
+Artificial Life - h.txt
+Available and Sustainable CMC - Uncanny
+Avatar and Mask - Blood
+Avatars - Fantasm
+Avatars - Past
+Avatars - ah
+Avatars - l.txt
+Avatars - m.txt
+Avatars, Agni Purana - am
+Beauty in Cyberspace - Net7.txt
+Being Thought - g.txt
+Bibliography for Linguistic Dispersion Article - am
+Bitterness - a.txt
+Body Parts - o.txt
+Bones, Gristle, Articulation of the Net - p.txt
+Bots - s.txt
+Burnout on the Net - f.txt
+CMC, Available and Sustainable - Uncanny
+Cadre-L - Net8.txt
+Chats, and Extended Sensory Modalities, Future - Past
+Clara - Net3.txt
+Clara Hielo Internet - Net9.txt
+Clara: The Desert Letter - Net5.txt
+Communication Beyond Communication - t.txt
+Community - an
+Community - b.txt
+Compilation - r.txt
+Componentiality - Uncanny
+Contamination - Net10.txt
+Cybercafes - Uncanny
+Cybermind Demographics - ap
+Cybermind Early History - ap
+Cybermind Manifesto - Net11.txt
+Cyberspace Conference - Weather
+Cyberspace, Tabletspace - ah
+Cyborgia - p.txt
+Cyborgia - r.txt
+Damnation of Memory - am
+Darknet - p.txt
+Death - Net13.txt
+Death - ah
+Death Texts - Net3.txt
+Death Texts - Net5.txt
+Death Texts - Net8.txt
+Death and Mourning - Net11.txt
+Death in Cyberspace - Fantasm
+Death of Michael Current - Net8.txt
+Defuge Essays (Exhaustion, Disinvestment, Psychoanalytics) - g.txt
+Demographics - p.txt
+Depression - k.txt
+Depression and Rhetoric of the Surface - am
+Depression in Cyberspace - m.txt
+Desert - p.txt
+Diagonistics - Fantasm
+Digital Domain - Net4.txt
+Directions in Cyberspace - Past
+Disappointment - Net6.txt
+Disconnections - n.txt
+Dissolving - u.txt
+Distributed Representation, Emergence - r.txt
+Dreaming in/of Cyberspace - i.txt
+Early History of FOP-L and Cybermind - ap
+EcoNet texts - an
+Ecologies of the Net - p.txt
+Email Lists - Fantasm
+Email Lists - Future - i.txt
+Emergence - Submergence - Uncanny
+Emergence - q.txt
+Emergence - t.txt
+Emergence, Distributed Representation - r.txt
+Entering, Rites of Passage on Chat Applications - Past
+Epitaph in Cyberspace - Blood
+Ethics and Ontology of Cyberspace - Net14.txt
+Evil - a.txt
+Exhaustion - s.txt
+FOP-L Early History - ap
+First and Last Writings - ah
+Flaming - a.txt
+Flexibility - Uncanny
+Fop Demographics - ap
+Fractal Persona - m.txt
+Frame, Frameworks - e.txt
+Frameworks of CMC - t.txt
+Frontier Model of the Internet - Uncanny
+Frontiers of the Net - g.txt
+Fucking - u.txt
+Future - Blood
+Future - Net11.txt
+Future - Net12.txt
+Future - m.txt
+Future Culture - b.txt
+Future of Email Lists - i.txt
+Future of the Net - o.txt
+Future of the Net - p.txt
+GUI - t.txt
+Gender - t.txt
+Geodesics - Past
+Ghosts - Net14.txt
+Ghosts on the Net - Net12.txt
+Ghosts on the Net - a.txt
+Ghosts on the Net and Elsewhere - e.txt
+Glossary of Terms - Net14.txt
+Gristle - Net13.txt
+Gristle - p.txt
+Haunting of the Males - Net14.txt
+Heart of Darkness - Disquiet/Net Communication - Net6.txt
+Hegel - Blood
+Heidegger - l.txt
+Heterosexuality - Net11.txt
+High ASCII - Net9.txt
+Hittite Resonances - ah
+Home on the Net - q.txt
+Honey Dialogs - Net1.txt
+Hypertext - f.txt
+Hypertext - p.txt
+Hysteria as Driver - Net2.txt
+IRC - Weather
+IRC - ah
+IRC Bans, Phenomenology - am
+IRC Net Sex - Weather
+Identity, Fluid and Otherwise - k.txt
+Images - j.txt
+Imaginary - j.txt
+Inert, Obdurate - Net13.txt
+Insomnia - Net11.txt
+Intellectual Labor - Net7.txt
+Interfaces, GUI - t.txt
+Interim Technical Reports on MOO etc. - s.txt
+Internet Events - Net12.txt
+Internet Text Description - n.txt and elsewhere
+Inventions - Weather
+Irresolution of Communication - Net2.txt
+Joan Novel - Net2.txt
+LOL - Net2.txt
+LPMUD - an
+LPMUD - l.txt
+LPMUD - n.txt
+Labia - l.txt
+Lag - e.txt
+Lag on the Net - Texts - an
+Laughing Out Loud - Net2.txt
+Life, Definitions - h.txt
+Linguistic Dispersion and the Theorization of the Internet - ah
+Linguistic Dispersion, Bibliography - am
+Lip - l.txt
+List-Ownership - am
+Listdeath - am
+Listdeath Continued from am - an
+Loneliness - u.txt and elsewhere
+Love in Cyberspace - m.txt
+Love on the Internet - Net2.txt
+Loving Honey - Net1.txt
+Loving Honey - Net13.txt
+MOO - Fantasm
+MOO - Uncanny
+MOO - Weather
+MOO - h.txt
+MOO - k.txt
+MOO - m.txt
+MOO - s.txt
+MOO Suicide - ah
+MOO Technical Reports - s.txt
+MOO Wizards - s.txt
+MUD - l.txt
+Makefile Phenomenology - Weather
+Mandeville - Uncanny
+Mandeville and Medieval Texts in Relation to CMC - k.txt
+Mass - Thickness - see also Gristle - Weather
+Materials for Analysis - k.txt
+Measure Geometries - Net1.txt
+Measure Geometries - Net3.txt
+Measure Geometries - Net5.txt
+Michael Current - Net8.txt
+Migrations, Populations, and Internet Theorization - ah
+Modeling, Body, Virtuality - t.txt
+Modernization - Uncanny
+Modification of Semantic Regimes - m.txt
+Monsters - Net14.txt
+Names in Cyberspace, Proper Names - Fantasm
+Narrative and the Net - Uncanny
+Natyasastra and Avatars - Weather
+Net Demographics - p.txt
+Net Ecologies - p.txt
+Net Home - q.txt
+Net Lag - an
+Net Love - c.txt
+Net Sacrifice (Horse Sacrifice) - f.txt
+Net Sentience - f.txt
+Net Sex - Fantasm
+Net Sex - Net11.txt
+Net Sex - Net14.txt
+Net Sex - Outline - Weather
+Net Sex - Past
+Net Sex - c.txt
+Net Sex - k.txt
+Net Sex - l.txt
+Net Sex - n.txt
+Net Sex - o.txt
+Net Sex - p.txt
+Net Sex, Third Sex, ASCII Unconscious - d.txt
+Neurosis as the Fundamental Condition of CMC - Weather
+Noise - Blood
+Obdurate, Inert - Net13.txt
+Ontologies of the Virtual - Net7.txt
+Ontology - Net12.txt
+Order, Ordering - r.txt
+Ornament - ah
+Outline and Partial Summary, Having Reached a Plateau - u.txt
+Outline of the Work - Net5.txt
+Ownership on the Internet - am
+Pain in Cyberspace - c.txt
+Passing as a Jew - Net7.txt
+Past, Time - Past
+Pattern - q.txt
+Performativity of Cyberspace Messages - g.txt
+Performativity of Cyberspace Messages - h.txt
+Persona - m.txt
+Perversions on the Net - a.txt
+Plain and Plateau Model of the Net - Past
+Political Economy of the Net - Net4.txt
+Popularity of the Net - Net12.txt
+Populations, Migrations, and Internet Theorization - ah
+Postmodernism - k.txt
+Proper Names in Cyberspace - Fantasm
+Prosthesis - o.txt
+Protocol Suites - Net11.txt
+Psychosis - Net3.txt
+Psychosis - Net7.txt
+Psychosis - m.txt
+Psychotopography - j.txt
+Qbasic Programs - Net7.txt
+Qbasic Star Program - Net10.txt
+Queer Cyberspatiality - g.txt
+QuickCam - am
+REWRITE and Writing - Net10.txt
+Representation - t.txt
+Resistance on the Net - a.txt
+Resonances and Signals - j.txt
+Rhetoric - b.txt
+Rites of Passage on Chat Appications - Past
+Roots - g.txt
+Rules of Writing - Net11.txt
+Rumor and the Net - an
+Sacrifice and the Net - f.txt
+Scars - Net12.txt
+Screen Phenomena - Net3.txt
+Seduction in Cyberspace - ah
+Sensory Modalities (Smell, Taste) and the Net - an
+Sentience on the Net - f.txt
+Settlement Phenomenology on the Internet - am
+Sex - See Net Sex, Third Sex
+Shape-Riding - Net13.txt
+Shape-Riding - Net14.txt
+Skin - f.txt
+Socrates, etc. - i.txt
+Softdrive Exhibition - Net5.txt
+Speculum - j.txt
+Speech - Net10.txt
+State of the Art, Art of the State - ah
+State of the Net - p.txt
+Submergence, Emergence - Uncanny
+Suicide on the MOO - ah
+Sumerian Resonances - ah
+Summary so far - Net4.txt
+Tabletspace, Cyberspace - ah
+Talker (Phaedra Talker) - s.txt
+Talker - n.txt
+Talker - t.txt
+Tar File Phenomenology - Weather
+Taxonomy of Performativity in CMC - g.txt
+Teaching Internet - Fantasm
+Teaching the Internet - ap
+Technical Notes - p.txt
+Telephone History/Sociology and the Internet - am
+Texts with Angela Hunter - k.txt
+Texts with Kim McGlynn - l.txt
+Texts with Kim McGlynn - m.txt
+Texts with Kim McGlynn - n.txt
+Textuality - c.txt
+The Future - Net3.txt
+Theoretical Work in the Internet Texts - j.txt
+Theorization of the Internet - ah
+Theory Outline from Structure of Reality - t.txt
+Third Sex - d.txt
+Third Sex - e.txt
+Tiffany - n.txt and elsewhere
+Touch, Sensory Issues - e.txt
+Travis - Net12.txt
+Travis - Net4.txt
+Travis - Net9.txt
+Trolling texts - an
+Truth - o.txt
+Uncanny - Fantasm and elsewhere
+Unix - s.txt
+Upgrading - ap
+Upgrading - q.txt
+User - ah
+Virtual Bodies - k.txt
+Virtual Ontologies - Net7.txt
+Virtuality and Spaces - s.txt
+Voice on the Net - Past
+Voices - Net7.txt
+Voyeurism on and off the Net - Blood
+Voyeurism on the Net texts - an
+Web Inversion - Net3.txt
+Wittgenstein - Net4.txt
+Wizards of MOO etc. - s.txt
+Wounded Machines - Fantasm
+Writing for the EcoNet - an
+Wryting - m.txt
+Wryting - n.txt
+Wryting - p.txt
+Wryting, Definition, etc. - o.txt
+Ytalk - Past 
+Ytalk - l.txt
+Ytalk - n.txt
+t = 0 - ap
+
+
+The Index
+
+
+The Index I posted yesterday is a guide to the long-waveforms that inhabit
+the 1200 or so sections that constitute the Internet Text as a whole. Wri-
+ting it gave me the opportunity to see what was manifest in the work over
+the past two years, and what was hidden, articulated beneath the surface,
+submerged. Gender, for example, appears as a concern everywhere, yet it is
+not the focus of a particular group of texts; likewise, software and the
+Web are discussed throughout, but not as titled subject-matter. Software
+and gender form lamina or strata weaving across domains, the former an in-
+dex of totality producing differentiation within the machinic, and the la-
+tter, an index of differentiation producing totality within the organic.
+Interwoven, the Internet Text extrudes from the Cyborg realm, the produc-
+tion of continuous investment, interweaving, neurosis. There are numerous
+references to writers such as Kristeva, Derrida, Irigaray, etc., yet none
+of these have their own listings in the Index; again, they're interwoven
+presences. 
+
+The _thickness_ of the text is exhausting; even with the index, the forty-
+some files must be searched for interior references. No one will ever read
+this mass; it's clotted, puerile-puellile, monstrous. At night, words spew
+against violated-fabric flesh, organ-receptors flooded by leaked vowels,
+torn open by consonants, dammed by punctuation. There is no end to it; the
+hole remains a mobius strip sutured and stripped at every grapheme, demar-
+cation, inscription. It is a gone world of perversion, inverted, sensing
+itself senseless. It rides me. It continues. 
+

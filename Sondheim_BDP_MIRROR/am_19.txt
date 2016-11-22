@@ -1,0 +1,92 @@
+
+-
+
+
+Tel3: Connection and Handset
+
+
+From a user's standpoint, there have been four stages in connecting to 
+another subscriber on a telephone system. These stages are paralleled in 
+CMC as well.
+
+I. Early connections were made _manually,_ by an operator. The user lif- 
+ted the receiver, and talked directly to her; she made the connection on 
+a local board. In this stage, voice-to-voice is critical, of course, and 
+there are assumed bodies involved in the labor of connecting.
+
+Early computers, including home models, used manual switching, not key- 
+board entering. Early email used bang-paths instead of automated routers; 
+the _Internetworked_ topography was manifest.
+
+II. The rotary dial telephone replaced manual connections. In dialing, 
+_longer numbers pass through shorter_ in a serial operation. To dial 9, 
+for example, the user passes through 1-8. But the operator is no longer 
+present, except for long-distance and specialized calls, in which her/his 
+voice still provides a bodily link to the network.
+
+Dialing is a serial or linear operation, related to command-line connec-
+tivity (in spite of multiple screens and operations). Automated routing
+comes into its own, and the Net topography is taken for granted, invis-
+ible. 
+
+III. Pushbutton dialing replaced the rotary dial in most urban centers. 
+Each number is independently accessible; remaining serial, the interface 
+appears parallel. Numbers don't pass through one another; each has an 
+independent combination of tones. Extended area codes, including inter- 
+national codes make automated long-distance possible. There are address- 
+ing problems, and new area codes, at least within the United States, are 
+constantly split off from the old.
+
+The semblance of parallel processing replaces seriality, as Windows and 
+hypertext take over from command-lines. On the Internet, a crisis in 
+addressing results in subnetting and consideration of new schemes to 
+expand the IP address.
+
+Note that the rotary telephone appeared inert, closed-off; the pushbutton 
+phone appears more open, available, with additional buttons of all sorts. 
+These may actually lead to parallel processing, short-cuts to conference 
+calls and the like. Telephone service expands.
+
+The operator, even for information and specialized calls, is replaced by 
+automated voices and search strategies. The body in-forming technology 
+has become the technological body; it is the technology that speaks, just 
+as bots and agents are increasingly surfacing on the Net. 
+
+_Capital_ begins to take over; while on-hold, there are advertisements, 
+and at least in New York, Information gives you a number - and then tries 
+to dial it for you, for an additional charge. Late capital occupies every 
+available niche; information becomes equated with advertised service. On 
+the Net, capital expands likewise; it is found, along with community 
+(party-line) and sexuality (phone sex), in every sufficiently rich eco- 
+logical niche.
+
+There is also an expansion towards spamming; "telemarketing," which vio- 
+lates the home, is equated with email spamming, which violates the @home. 
+The recently (in terms of civilized time) public/private dichotomy begins 
+to break down again, in favor of power, capital, governance. Invasion is 
+increasingly the order of the day.
+
+IV. Voice-recognition dialing is currently offered in technologically-ad- 
+vanced locations; the user speaks, not to an operator, but to a virtual 
+operator, giving it the name, which is then interpreted by the local ins- 
+trument. At this point, the user is an extension of the apparatus; he or 
+she may engage the machinic at all facets of the operation - from switch- 
+ing to ordering a product. The blank face appears to return the body 
+(voice-decoding) but in fact absorbs it, just as the hypertextuality and 
+"friendliness" of the Web absorbs the user, and quite possibly hacks her 
+or his statistics as well.
+
+V. Now Net and telephony merge, the overlap interpenetrated by virtuality
+and capital, the melange enabling the construct of a new subjectivity,
+described elsewhere,* involved in continuous acquisition, upgrading, and
+increasing information throughput. As with stages III-IV, the division
+between haves and have-nots widens; cellular telephones, for example, al-
+low cyborg Internet for those who can afford them. The interface will
+ultimately be either voice or mouse; it is as if the body twitches in the
+final stages of divisiveness, with one population grounded in real life
+community aided by the telephone and darknet, and the other population
+recursively withdrawing to superstructural plateaus of international cap-
+ital and culture. (This parallels, by the way, similar divisions between
+folk and "international" arts, between local exhibitions and "blockbuster" 
+museum shows, etc.)
+

@@ -1,0 +1,44 @@
+
+
+
+
+Core Dump
+
+
+{k:24} ls -la core
+lrwxrwxrwx  1 root           16 Sep  4 03:31 core -> /net/hlocal/core
+{k:25} cd /net/hlocal/
+{k:26} cd core
+ksh: cd: /net/hlocal/core - No such file or directory
+{k:27} less core
+core: No such file or directory
+{k:28} ls -la core
+core not found
+
+it's the middle of the night, i'm lying directly under nikuko, looking for
+a core dump. i try rooting around, nothing. there's less and less core.
+the core's the heart of nikuko; it comes out her hole and into me. it
+keeps me awake at night. it keeps me awake now in the middle of the night.
+
+a core appears when a program crashes. it's called a core dump because
+it's fast processing giving you an account of what happens if you know how
+to read it. it can be huge. the core part of the phrase is from the old
+days when almost microscopic magnets were used for memory storage. they
+were called cores. they were donut-shaped with wires running through the
+holes. the core dump took out the fossilized remains of the crash. then
+programs made it readable. a core dump is literal coprolithic, shit that's
+stopped processing, hardened. coprolites are read for their animal and
+vegetable content; you can tell what the animal was eating maybe millions
+of years ago. dumps contain memories of working hungered bodies.
+
+i'd eat your core dump, nikuko, your shit falling into my open mouth. i'd
+eat your memory, your birth, expansion of your body all through the wires,
+around the magnets drawing you to me. i'd become full of memory, yours and
+mine, and isn't that the case now, when i type late into the night, always
+already full of you, watching your breasts burst through my chest, your
+fingers through my fingers, taking control of the keyboard, forcing me to
+write these truths?
+
+i'm your animal animal animal
+
+

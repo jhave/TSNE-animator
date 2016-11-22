@@ -1,0 +1,77 @@
+
+
+
+As The World Turns
+
+
+I come to Bloomfield College. I go to the Computer Science Building. I'm
+nervous; I'm preparing to teach. I've got a new account. I turn to the
+Emacs doctor - wouldn't you?
+
+I am the psychotherapist.  Please, describe your problems.  Each time
+you are finished talking, type RET twice.
+I can't believe this is running here - for sure!
+Why do you say that?
+Because I haven't been in this lab before.
+Is it because you have not been in this lab before that you came to
+me?
+Yeah, to find out how things work.
+Can you elaborate on that?
+Not really - you're the doctor.
+Earlier you said you have not been in this lab before?
+Yes.
+I see...  Well, what makes you believe this is so?
+Because I'm new here.
+Does it bother you that you are new there?
+No.
+Why not?
+Why should it?
+I would appreciate it if you would continue.
+There's nothing more to say.
+Maybe your plans have something to do with this.
+Yeah, teaching here Saturday.
+Are you sure that yeah teaching there saturday?
+Yeah.
+Go on, don't be afraid.
+I'm not.
+You mentioned that you have not been in this lab before?
+True enough!
+Is it because of your life that you are going through all this?
+God only knows...
+Is it because of the people you hang around with that you say god only
+knows?
+Yes!
+Yes, hmmm... so, do you really think this is so?
+Yes.
+I understand.  So what makes you think this is so?
+I wish you were more intelligent...
+
+I worked and worked. I loaded the personal H:\ drive with numerous files.
+Yes I did. And I found myself playing with this version of Emacs, as well
+as telnetting to my Panix shell account - both familiar, comfortable, and
+neighborly. Panix, with its distraught hi-intensity personal email mixed
+with list and business messages, was a homestead brought close. Emacs,
+with the usual escape and control meta-commands was simpler than I had
+remembered - but then it was running in a Win-9? environment complete with
+X-window-like drop-down menus. I could bounce around and see my image
+everywhere. I used the same login on the three Bloomfield accounts that I
+did on Panix. I roamed through the high-speed T1. I breathed Webpages. I
+saw dynamic-html miracles. I saw cleverness I had only dreamed of. There
+were these circular twirling animations... There were things crawling up
+and down the screen... I looked at the shell account - black on white...
+It looked tawdry. But I'd never seen such intensity. Ah... I went back to
+the Web; it beckoned me. I saw hybrid life-forms, tentacles pulling me
+towards the screen. The Doctor, bigger than ever, her hand outstretched,
+beautiful white lab-coat, red hair... I almost fell through the screen...
+Suddenly, more mail... Mail beckoned; the sleazy black and white, the
+poverty of it all... But I fell for it... I was hooked... There were these
+letters... There was business all around, some list-mail as well. My eyes
+clouded over... My eyes teared... There were these others... I could have
+been anywhere... I knew I was home... I knew what was inside of me... I
+knew I was the doctor and I was the patient... I knew I could cure myself,
+cure the world... I knew what to do... I was reading and writing, I was
+crying and smiling, I was singing and sighing... It was all there, it was
+me, it was my life boiling out of the screen... Everyone I ever knew, half
+in and half out... Everyone...
+
+

@@ -1,0 +1,75 @@
+
+
+
+Frontier Model*
+
+
+The Internet has often been compared to the telephone, or television, etc.
+- all these growing pains. But unlike other media, the Net is an accumula-
+tion of applications, as well as an increased number of clients, called up
+or downloaded from the World Wide Web. What began as relatively sparse
+Unix command-line interfaces has evolved into combinations of texts, gra-
+phics, sound and motion; even the interfaces have become more complicated
+with clients such as Tiny Fugue and the huge number of commands available
+on MOOs, not to mention the various programming languages, ranging from
+Iptscrae through Java, under development. While all of this could pass for
+either CMC or telecommunications, it seems other models might be more app-
+ropriate. 
+
+Thinking about this came as a result of rereading parts of Carla Sinc-
+lair's Net Chick, A Smart-Girl Guide to the Wired World, and realizing
+that character-types such as hacker, cracker, net chick, surfer, MUDDer,
+etc. were simply not found in, say, the early days of television. Once
+past the experimental stage, television rapidly settled into a series of
+protocols and networks, and the audience was treated as both mass and pas-
+sive. The same was true for radio and film, although careful demographic 
+surveys were produced for programming in all media. The telephone, as far 
+as I know, never developed categories, although it could be said that "x 
+is addicted to the telephone," etc. Ham radio and television come closer 
+to the Net - both involve highly-interactive technologies and knowhow - 
+hams have always tinkered with their equipment.
+
+So I propose, just as an exercise, to consider the Net as a form of fron-
+tier, in much the same manner as the American U.S. West was a frontier for
+whites from the 17th through 19th centuries. A frontier not only possesses
+widely varying demographics from place to place, time to time, but it also
+possesses different modalities of living, different occupations ranging
+from trapping and hunting to mining, agriculture, and ranching. The land
+was always under negotiation as protocols, armies, and populations compe-
+ted with one another. 
+
+But if the Net were a frontier, it was also initially depopulated and in
+fact can be considered an inverse of the American West. The latter had an
+overriding mode of imperialism; in order for a white to gain ground, a
+Native American had to lose ground. Ignorance, racism and violence accom-
+panied a close to genocidal conquest. The Net on the other hand has cir-
+cumscribed _space it has created,_ a major difference, and one associated
+with issues of embodiment. I have pointed out numerous times that I am
+absent from the Net for-others unless I have an address and _speak_ and my
+speaking creates a construct which others identify as me. (See the mater-
+ial at the beginning of the Internet Text.) The space I occupy is minisc-
+ule, however, a few megabytes on a few hard-drives, nothing like the King
+Ranch which was the size of Rhode Island (and may still be).  Nothing is
+displaced by my presence. 
+
+So the competition is an odd one, engaging issues of bandwidth, Net access
+and (limited) technical competence. These issues are quantitatively and
+qualitatively different than those found in Western expansion, a situation
+where resources were basically fixed. The similarities, however, should
+also not be overlooked - the establishment of communities sometimes in
+competition; the intensification of demographics in relation to common
+interests (for example, the Mormons settling in certain areas); the re-
+alignment of social categories; the expansion of lawlessness and the emer-
+gence of laws "from within" on an ad hoc basis; the division into newcom-
+ers and old-timers, overcrowding and the using up of resources (see Park-
+man on the Oregon Trail); the "trampling" of other cultures and the fast
+growth of capitalism and commodification (ranging from the development of
+the National Park System to Buffalo Bill's Wild West Show), etc. 
+
+The model possesses psychological interest, as well as a narrative moving
+from traditional to postmodern geography. It also presupposes issues of
+embodiment and the construction of desire (as well as its circumscription)
+in frontier territories. Finally, it may be useful for examining the po- 
+tential downside/imperial aspects of cyberspace, as well as the anarchic 
+tendencies and "lawlessness" associated with frontier societies.
+

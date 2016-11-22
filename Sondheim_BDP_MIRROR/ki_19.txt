@@ -1,0 +1,44 @@
+
+
+
+The Turning and Embracing of Nikuko and Jennifer
+
+
+[ crypt is a Unix encryption program; the format here is "crypt [password]
+< <file-to-be-encrypted> > <encrypted file>".  operating on an encrypted
+file, crypt will decrypt, given the proper password.  echo, among other
+things, creates and writes to a file; thus "echo Nikuko > Jennifer" places
+Nikuko in file Jennifer.  cat, among other things, writes out a file; 
+thus "cat Nikuko" writes out the contents of Nikuko. ]
+
+{k:39} echo Nikuko > Jennifer
+{k:40} crypt Nikuko < Jennifer > Nikuko
+{k:41} crypt Jennifer < Nikuko > Jennifer
+{k:42} crypt Nikuko < Jennifer > Nikuko
+{k:43} cat Nikuko
+1wy
+{k:44} cat Jennifer
+H       3%
+{k:45} crypt Jennifer < Nikuko > Jennifer
+{k:46} cat Jennifer
+@K  q
+{k:47} crypt Nikuko < Jennifer > Nikuko
+{k:48} cat Nikuko
+=]]nV}6
+{k:49} crypt Jennifer < Jennifer > Nikuko
+{k:50} cat Nikuko
+1wy
+{k:51} crypt Nikuko < Nikuko > Jennifer
+{k:52} cat Jennifer
+H       3%
+{k:53} crypt Jennifer < Jennifer > Nikuko
+{k:54} cat Nikuko
+ePzXB8
+{k:55} crypt Nikuko < Nikuko > Jennifer
+{k:56} cat Jennifer
+Nikuko
+{k:57} 
+
+[ Nikuko sinking into Jennifer sinking into Nikuko sinking ... 
+Nikuko emerging from Jennifer emerging from Nikuko emerging ... ]
+

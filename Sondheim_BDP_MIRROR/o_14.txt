@@ -1,0 +1,61 @@
+
+
+
+
+
+Experimental Prosthesis of the Real
+
+
+In 1975-77, I worked on a formalism that relates on one hand to the
+abacus, and on the other, to neural networks; while the details aren't of
+interest here, the phenomenology might be. The formalism consisted of
+markers which were always conserved within structures, and channels which
+designated marker flows; at every hypothetical clock tick (and synchronous
+behavior might or might not be necessary), the markers moved according to
+the channel vectors. The whole was describable by matrices. An additional
+and critical element was the gate; if a marker was in the switch position,
+the gate was open, and otherwise closed. An open gate facilitated a chan-
+nel; gates, channels, and markers constituted structures which behaved as
+neural networks, threshold logic devices, and the like. The threshold
+devices were of particular interest, since they could possess variable
+thresholds and connections, operating within continuously transforming
+networks. 
+
+Additional structure divided into strata and meta-constructs; these all-
+owed the possibility of bound or unbound markers, and rules for creation
+or annihilation of structures. There was mathesis, but not mathematics,
+associated with these structures. The result, the formalism as a whole,
+appeared very much like fragmentary logical structures, accumulations,
+which could model in the small, associate and disassociate with each
+other, and so forth - somewhere among Minsky's society of mind, neural
+networks, and Petrie nets. A model of the life world and its interpreta-
+tion was the overall result. 
+
+At the bottom of which, of course, was the marker and the channel - on the
+Net, the packet and channel. Unlike the packet, the marker was neutral,
+although I later considered addressable markers, what it would mean for
+one to carry a name, and the relationship among that name, language, and 
+exteriority. 
+
+What was the ontology here? Markers, gates, and channels were essential,
+as was the possibility of clocking. Stratification permitted "vertical" 
+operations such as binding, creation, placing units in and out of memory. 
+As the formalism developed, it became more and more baroque, eventually
+turning into a description of what was termed the "topology of intention," 
+subjectivity positioned within the world. There were distinctions among
+strata of language, thought, and the real, but there were analogs, conser-
+vations, cutting across. Consider _conservation_ as a cultural foundation,
+in the sense of reasonably stable data-banks, limited syntactical rules, 
+physical objects which possess a relative degree of stasis. Consider 
+anomaly, forgetting and meandering, wryting and poesis, catastrophe and 
+chaotic physical behavior, as driving force. One is not so far off from 
+the "slaving principle," unstable modes driving configurations, as 
+described in Klaus Mainzer, Thinking in Complexity, The Complex Dynamics 
+of Matter, Mind, and Mankind. 
+
+Consider conservation as circumscription among a small finite group of
+elements, and anomaly as the fissuring of circumscription. Wryting tends
+towards anomaly of course, and it is through the dialectical interpenet-
+ration of both that culture arises.
+
+

@@ -1,0 +1,28 @@
+
+
+
+Formal Strategy of Text
+
+
+So in order to construct a "sondheim-text" or "real/virtual" text, one
+might proceed as follows, beginning with (real/virtual) entities A and B:
+Given these constructs* (cultural or natural, defined or discovered, meta-
+phoric or metonymic) with determined affinities belonging to a set S, con-
+sider a second set C and D, with affinities in S'. Ordinarily, one might
+have a situation in which S and S' are roughly equivalent, in relation to
+some measure of fuzziness. But let there be foreign elements which are
+members of S', and lapses in S corresponding to elements of S. Further,
+note that we are also considering, roughly syntactically, two further
+elements for both pairs (a total of four in all), that is A(B) and B(A),
+as well as C(D) and D(C). These _chiasms_ then possess their own attribute
+sets, call them T and T' and each of these have their subsets - for exam-
+ple one has A(B) and B(A) both contributory towards T, such that they
+possess a core or _rope_ R(A(B), B(A)) - the thickness of the chiasm or
+reversal thus indicated. We can roughly identify R with T, and likewise R'
+with T'. However, T' is broken, inexact, which is to say that the parallel
+rope of the chiasm R'(C(D), D(C)) is in disarray, wandering, vagrant. It
+is this turn which constitutes the strategy of avatars and duals loose or
+perturbing within the interpenetrated component structures of computer-
+mediated-communication; and it is this turn which then constitutes the
+subject and object, strategy and wager, of the real/virtual texts involv-
+ing multiple persons and avatars.

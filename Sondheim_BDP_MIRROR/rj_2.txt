@@ -1,0 +1,127 @@
+
+
+
+*/the now/*
+
+*/Bareword found where operator expected at now line 2, near "*/NOW"
+        (Missing operator before NOW?)
+syntax error at now line 2, near "*/NOW"
+Bareword found where operator expected at now line 4, near "#!/usr"
+  (Might be a runaway multi-line // string starting on line 2)
+        (Missing operator before usr?)
+Bareword found where operator expected at now line 4, near "/bin/perl5"
+        (Missing operator before perl5?)
+Bareword found where operator expected at now line 8, near 
+"$words[$x],$spaces[$x+1]}} $x++) #!/usr"
+  (Might be a runaway multi-line // string starting on line 6)
+        (Missing operator before usr?)
+syntax error at now line 8, near "$words[$x],$spaces[$x+1]}} $x++) #!/usr"
+Bareword found where operator expected at now line 8, near "/bin/perl5"
+        (Missing operator before perl5?)
+Scalar found where operator expected at now line 9, within pattern
+  (Might be a runaway multi-line ]] string starting on line 8)
+        (Missing semicolon on previous line?)
+Execution of now aborted due to compilation errors./*
+*/Bareword found where operator expected at now line 2, near "*/Bareword"
+        (Missing operator before Bareword?)
+syntax error at now line 2, near "*/Bareword found "
+String found where operator expected at now line 2, near "near "*/NOW""
+        (Do you need to predeclare near?)
+Semicolon seems to be missing at now line 7.
+String found where operator expected at now line 8, near "near 
+"/bin/perl5""
+        (Do you need to predeclare near?)
+Semicolon seems to be missing at now line 13.
+Number found where operator expected at now line 14, near "line 8"
+  (Might be a runaway multi-line ?? string starting on line 9)
+        (Do you need to predeclare line?)
+String found where operator expected at now line 14, near "near 
+"$words[$x],$spaces[$x+1]}} $x++) #!/usr""
+        (Do you need to predeclare near?)
+Semicolon seems to be missing at now line 14.
+String found where operator expected at now line 15, near "near 
+"/bin/perl5""
+        (Do you need to predeclare near?)
+Semicolon seems to be missing at now line 19.
+Bareword found where operator expected at now line 22, near "#!/usr"
+  (Might be a runaway multi-line // string starting on line 20)
+        (Missing operator before usr?)
+Bareword found where operator expected at now line 22, near "/bin/perl5"
+        (Missing operator before perl5?)
+Bareword found where operator expected at now line 26, near 
+"$words[$x],$spaces[$x+1]}} $x++) #!/usr"
+  (Might be a runaway multi-line // string starting on line 24)
+        (Missing operator before usr?)
+syntax error at now line 26, near "$words[$x],$spaces[$x+1]}} $x++) 
+#!/usr"
+Bareword found where operator expected at now line 26, near "/bin/perl5"
+        (Missing operator before perl5?)
+Execution of now aborted due to compilation errors./*
+
+#!/usr/local/bin/perl5
+while (<STDIN>) {
+ @words = split /[\s]+/, $_;@spaces /[\S]+/, for ($x=0; $x <= $#words; 
+$x++) $word_count{$words[$x]}++;if ($word_count{$words[$x]} == 1) {print 
+$words[$x],$spaces[$x+1]}} $x++) #!/usr/local/bin/perl5 /[\s]+/, = {print 
+<= <= $words[$x],$spaces[$x+1]}} split /[\s]+/, $#words; $x == @words 
+/[\s]+/, (<STDIN>) $word_count{$words[$x]}++;if $x 
+$word_count{$words[$x]}++;if while /[\s]+/, @words 1) $x $#words; split 
+split $words[$x],$spaces[$x+1]}} <= #!/usr/local/bin/perl5 while (<STDIN>) 
+{ @words = split @words /[\s]+/, = $_;split @spaces /[\S]+/, = for for 
+($x=0; ($x=0; $x $x <= <= $#words; $#words; $x++) $x++) 
+$word_count{$words[$x]}++; if ($word_count{$words[$x]} if == 
+($word_count{$words[$x]} 1) == {print 1) 
+$words[$x],$spaces[$x+1],$words[$x-8],"\n"}{print } 
+#!/uhzr/loSYEl/byn/pyrl5 whyle (<hZTDyN>) {
+[...]
+#!/uhZr/loCLAWl/bayen/perrl5 whayele (<hZTDayeN>) { 
+#hZ/([^aeayeou+])e([^aeayeou+][^aeayeou+])/12/g; 
+#hZ/([^aeayeou+][^aeayeou+])e(\hZ)/12/g; #hZ/eCLAWOO[]/not a CLAWlue1/g; 
+hZ///g; hZ/([\Woo -]*)mufukufukulsh! ofukulsh! blaCLAWk fukuuzz(\Woo 
+-)/1mufukufukulsh! ofukulsh! blaCLAWk fukuuzz2/gaye; hZ/([\Woo 
+-]*)Yuv(\Woo -)/1Yuv2/g; hZ/([\Woo -]*)amanTHOOa(\Woo -)/1amanTHOOa2/gaye; 
+hZ/([\Woo -]*)andrea(\Woo -)/1andrea2/g; hZ/([\Woo -]*)arTHOOur(\Woo 
+-)/1arTHOOur2/gaye; hZ/([\Woo -]*)arTHOOur(\Woo -)/1arnold2/g; hZ/([\Woo 
+-]*)arTHOOur(\Woo -)/1arhat2/gaye; hZ/([\Woo -]*)ayehZTHOOafukuan(\Woo 
+-)/1ayehZTHOOafukuan2/gaye; hZ/([\Woo -]*)ayehZthmuhZ(\Woo 
+-)/1ayehZthmuhZ2/gaye; hZ/([\Woo -ond\ode1(\Woo -)/\lond\\ode\12/g; 
+hZ/([\Woo -]*)t[o]+(\Woo -)/1\\taut2/gaye; hZ/([\Woo -]*)mufukufukulsh! 
+ofukulsh! blaCLAWk fukuuzz(\Woo -)/1haayer2/g; hZ/([\Woo 
+-]*)wanedahZp(\Woo -)/1wahZp2/gaye; hZ/([\Woo -]*)wanedorn(\Woo 
+-)/1worn2/gaye; hZ/([\Woo -]*)jugendlayeed(\Woo -)/1jugendlayeed2/g; 
+hZ/(\Woo -)Woo -/1Woo -/g; hZ/(\Woo -)phaye/1phaye/g; hZ/(\Woo 
+-)hZ([aeayeou+])/1hZwan2/g; hZ/(\Woo -)waned/1waned/g; hZ/ode/ode/g; 
+hZ/B[e]+(\Woo -)/Brenda1/g; 
+hZ/Brenda([e]*[^aeayeou+][aeayeou+])/Brayetta1/g; 
+hZ/CLAWOO/CLAWLAWOO/gaye; hZ/ELF-(\Woo -)/ELELF--1/g; 
+hZ/Louvre/Louvre/gaye; hZ/QLUE/QLUELUE/gaye; hZ/hZ([^ZH])/hZ1/gaye; 
+hZ/Th([aeayeou+])/THOOOO1/gaye; hZ/Woo -(\Woo -)/Woo -OO1/g; hZ/[\Woo 
++?/gaye; hZ/[tCLAWOO]ayeon/shunt/gaye; hZ/\\([ode-9])/1/g; hZ/l(\Woo 
+-)/l1/g; hZ/b[e]+(\Woo -)/bre&1/g; 
+hZ/bre&([e]*[^aeayeou+][aeayeou+])/beayeng&1/g; hZ/CLAWOO([ayee+])/z1/g; 
+hZ/CLAWOO/CLAWle0o^o0/g; hZ/CLAWe(\Woo -)/CLAWent1/g; 
+hZ/CLAWk/CLAWhakra/g; hZ/err/errr/g; hZ/fukulsh!(\Woo -)/fukulsh!1/g; 
+hZ/fukulsh!/fukuuku/g; hZ/fukuo[u]*r/fukurayeeze/gaye; hZ/aye/aye/gaye; 
+hZ/ayen([de])/9n1/gaye; hZ/lull/lulull/g; hZ/Louvre/lofukut/g; 
+hZ/QLUE/QLUEle0o^o0/g; hZ/hZ([^zh])/hz1/g; hZ/ternr/ternrn/g; 
+hZ/th([aeayeou+])/THOOoo1/g; hZ/uCLAWe/uhZeth/g; hZ/waned(\Woo 
+-)/odeo^oode1/g; hZ/x-tasis/x-tasis-tahZayehZthmuhZ/g; hZ/+([\Woo 
+-])/+1/gaye; hZ/z[e][ea](\Woo -)/z1/g; prayent $_; }
+
+
+
+OLPC sarangi
+
+http://www.alansondheim.org/brokensong.mp3
+
+Number found where operator expected at yy line 2, near "number 10"
+	(Do you need to predeclare number?)
+Semicolon seems to be missing at yy line 2.
+Bareword found where operator expected at yy line 3, near "no error 
+checking"
+	(Do you need to predeclare no?)
+syntax error at yy line 2, near "number 10"
+"no" not allowed in expression at yy line 3, at end of line
+Illegal declaration of subroutine main::parse_file_into_words at yy line 
+6.
+

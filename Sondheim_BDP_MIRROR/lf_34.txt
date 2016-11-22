@@ -1,0 +1,19 @@
+
+
+
+unfounding of happiness
+
+./down is ./down ./trc is ./trc type is an alias for 'whence -v' time is a
+reserved word who is a tracked alias for /usr/bin/who w is /usr/bin/w
+./.julu is ./.julu whoami is /usr/bin/whoami tty is /usr/bin/tty vi is a
+tracked alias for /usr/local/bin/vi whence is a shell builtin pico is an
+alias for 'pico -z' I-AM not found why not found not not found exit is a
+special shell builtin love not found find is an alias for gfind cat is a
+tracked alias for /bin/cat tac not found rev is /usr/bin/rev date is a
+tracked alias for /bin/date gfind is /usr/local/bin/gfind history is an
+alias for 'fc -l' history is an alias for 'fc -l' history is an alias for
+'fc -l' fc is a shell builtin beauty not found future not found split is
+/usr/bin/split join is /usr/bin/join death not found life not found death
+not found life not found
+
+

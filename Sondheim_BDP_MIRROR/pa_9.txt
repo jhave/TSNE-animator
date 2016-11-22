@@ -1,0 +1,84 @@
+
+
+
+ii Womans ands Mans
+
+grep woman pa.txt grep Woman pa.txt grep womans pa.txt sed 's/womans/- 
+women/g' pa.txt > zz sed 's/Womans/Women/g' zz > yy sed 's/woman/man/g' yy 
+> zz sed 's/Woman/Man/g' zz > yy; mv yy zz; pico zz h grep woman pa.txt > 
+zz grep womans pa.txt >> zz grep Woman pa.txt >> zz grep Womans pa.txt >> 
+zz sed 's/womans/women/g' zz > yy; mv yy zz sed 's/Womans/Women/g' zz > yy 
+sed 's/woman/man/g' yy > zz sed 's/Woman/Man/g' zz > yy; mv yy zz; pico zz 
+h pico zz h grep woman pa.txt > zz grep womans pa.txt >> zz grep Woman 
+pa.txt >> zz grep Womans pa.txt >> zz sed 's/womans/men/g' zz > yy sed 
+'s/Womans/Men/g' zz >> yy sed 's/woman/woman/g' zz >> yy sed 's/Woman/- 
+Woman/g' zz >> yy; mv yy zz; pico zz sed 's/Womans/Men/g' zz > yy sed 
+'s/womans/men/g' yy > zz sed 's/woman/woman/g' zz > yy sed 's/Woman/- 
+Woman/g' yy > zz; pico zz new zz; cat pa.txt zz > ding; mv ding pa.txt; rm 
+yy; m ls tail pa.txt rm zz ls date h
+
+
+lifeprose symposium issues 
+
+of course one could say one could say
+of course we could say one could say
+of course i could say one could say
+of course one could say we could say
+of course we could saw we could say
+of course i could say we could say
+of course one could say i could say
+of course we could say i could say
+of course i could say i could say
+
+i think what i was getting at
+i thought that it might be interesting to
+my work led me into new
+people reacted to it and i thought
+it seemed to me that i should
+i think what i was trying to say
+then it occurred to me to think about
+what i was getting at
+a lot of people said they liked what i was
+if it wasn't for the support of
+
+i really didn't know what i was doing
+we really didn't know what we were doing
+they really didn't know what they were doing
+they really didn't know what i was doing
+they really didn't know what we were doing
+i didn't know what we were doing
+
+i think what we were trying to say
+we think what we were trying to say
+they thought what i was trying to say
+they thought what we were trying to say
+
+i could have used a little more
+i could have used a little less
+
+of course we couldn't tell them that
+of course i couldn't tell them that
+they tried to tell us that
+we tried to tell them that
+
+it seemed funny at the time
+it seemed serious at the time
+it still seems
+we knew it was absurd
+we knew we were absurd
+i knew it was absurd
+i knew i was absurd
+
+we were going to do that when
+i didn't like where i was going
+i didn't like where we were going
+they didn't like where i was going
+we didn't like where they were going
+we didn't like where we were going
+
+if it wasn't for
+for all i know i was
+they didn't know that we
+we knew that they
+
+

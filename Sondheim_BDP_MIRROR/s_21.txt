@@ -1,0 +1,39 @@
+
+
+-
+
+
+Interim Report ii
+
+
+We crashed the MOO by not having its database saved; actually, it was
+saved to the default port number treated as a file - a _real_ syntax
+error! Once that was straightened out, we created a ./startup file to run
+four applications: the MOO, the talker, the haven, and now the lily, a
+conference applications database which runs on top of the lambdamoo core. 
+It is _strange,_ having /commands like a talker, no building, but the
+ability to create or dissolve discussions, moderate discussions, play
+games, and so forth. A complex messaging system with a very large help
+file - we're just beginning to get this organized. We also tried to get
+prism running, but this fell through. Prism has cores for both DOS (with
+c) and Unix; in our rush around the other apps, this got left behind. 
+
+So now we're hoping that the sysadmin will place the ./startup path some-
+where on the machine so when it needs rebooting our work will be saved.
+And I make sure to dump the database quickly, almost every time I'm on the
+MOO. Working like this, by the way, is bizarre; you're stepping in and out
+of the environment constantly, from the file system to its interior; in
+this fashion it's like an insect, soft parts within and carapace without
+that both connects and protects from the elements. We move from the depths
+of the file system, surrounded by images in .c .o .h down through pathways
+and up, deconstructing the barrier that separates us from our logins. Once
+within, the MOO settles around us; the email list for example becomes a
+mode of personal communication, asides, tests. One dances on the flat
+fields. 
+
+(It's all so tentative; the MOO stays in active memory, which is why the
+database dumps are necessary. It's there, always in circulation. It's a
+flood plain. We inhabit it, haunt it, dwell there. We put up words for
+cabins and other words to lock them. The other day I made a human. It was
+nothing.)
+

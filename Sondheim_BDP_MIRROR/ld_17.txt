@@ -1,0 +1,145 @@
+
+
+
+Fundamental Systems (Was: Couplings and Linkages) {file:zz}
+
+
+Fri Oct 1 01:53:52 EDT 1999 
+N a azure fbw julu kdate lisp lynx_bookmarks.html mail minicom.log newju
+nsmail trace z.gif zz
+Let's say there is a binary structure, consisting of an operation N such
+that N(a,b) -> a relationship between a, b. Say that a, b are terms which
+stand for sets of identical members, as far as the structure is concerned
+- i.e. a = {x:x = a} & b = {y:y = b}. Note that x and y can be anything;
+the terms are dummy. The structure is then S = (N,a,b). 
+
+Then we may be concerned with the _phenomenology_ of S, thinking through
+the semantics of (a,b) in relation to the framework N. It is irrelevant
+for example that if N = +, we might have +(4,3) = 7. We are not interes-
+ted in constructing a result c - only that a relationship between a and b
+is established.
+
+For example, N = + resulting into the terms coalesced beneath the sign of
+addition; N = red resulting into equivalence; N = identity producing the
+singularity of a and b; N = existing at time t(N) resulting in a foreclos-
+ing or frameworking of a and b; and so forth. We can have a linkage such
+that if a or be is eliminated, so is the other; we can have a coupling
+such that if a or b are both on a shelf, taking either off has no effect
+on the other.
+
+Then I may attempt to produce a metaphysics of such a system - or rather
+to forestall the production of such a metaphysics, deconstructing the
+framework of any metaphysics vis-a-vis the system. Or rather, I can argue
+towards a metaphoricity of relationship (linkage, coupling, etc.), reify-
+ing the terms and placing them within a matrix of parallelisms. Such a
+metaphoricity can also be used to similarly deconstruct parallelisms.
+
+But to _believe_ in such metaphoricities or metaphysics as _fundamental_
+is also to create a work of astonishing coherency, the real beneath the
+sign of relation and its deconstruction. For example, think of a _basic
+property of things_ - that they are linked or coupled or decoupled. This
+strategy tends towards one or another universal exegesis.
+
+Instead, I see N(a,b) as particulate matter - for example, N(a,a) can be a
+harbinger of substance if N implies augmentation such that N(a,a) =
+N(a,a,a) and so forth. This is an _unfolding of the frame_ or the cinema-
+tic real.
+Mail archive archives bin boot core dev etc export holding hosts htdocs
+kadb lib log lost+found mnt net pcfs restoresymtable sbin setterm src
+staff sys tmp users usr var vmunix vmunix-lkm vmunix-raid zz
+
+Just so, the simplest number system is to the base 1: 1, 11, 111, etc. -
+and the most extravagant is to the base of an inaccessibly high number
+such that every numerical representation is uniquely identified by a unary
+ideogram, shades of Borges for example.
+
+These are all fragments of the imaginary - and it is _critical_ to under-
+stand this; they are part-objects, imminent within the real of the subject
+and never immanent; their transcendence lies in the inauthenticity of
+their simplicity, as if they were fundamental. Here is where the astonish-
+ing work of coherency comes into play: consider that they are _not_ funda-
+mental, that on the level of the life-world, _almost_ all the way up or
+down, there is no fundamentality at all: as if the grounds of the real
+themselves were decoupled "for all practical purposes." 
+wskbd2 wskbd3 wsmouse0 wsmouse1 wsmouse2 wsmouse3 wt0 wt16 wt8 zero zz
+
+Suppose for example, the complexity of the universe all the way down, dri-
+ven by higher and higher energies, resulting in more and more basic parti-
+cles: One might well say that the complexity of the universe is the direct
+result of the energy used to examine it. As a corollary, from Brillouin to
+some extent: the complexity of the universe is then in direct proportion
+to the capital (economic/industrial/theoretical) used in such an examina-
+tion. In such a manner, the _order_ of the world is in direct relation to
+the social organization and its surplus, of a given civilization.
+Mail News a calendar jobs ld lisp lynx_bookmarks.html mail phoenix.hlp
+phoenix.irc tf tf-lib thing tiny.world trace venom.irc volt.irc zz
+
+One may talk of the mirroring of the world, and note again the apparent
+increasingly complexity of the mathematics and mathesis required in the
+ongoing progress and investigation of the physics of the real, on _any_
+level from the sub-particle to the overall cosmos, and their conjoining.
+
+To retreat to the binary is to conjure the dream of rendering the literal
+book of nature accessible - to create a stasis in modelling in the midst
+of universal transformation. One might speak again of Foucault's _divina-
+tio,_ a dream of a book of nature, augmented by a dream of universal rea-
+son. 
+DIR_COLORS HOSTNAME NETWORKING X11 XF86Config aliases aliases.db
+at.deny bootptab conf.modules
+
+On the other hand, such a retreat is also the catalyst for a major publi-
+cation; the real is revealed in all its coherency, and the world-system,
+as reproduced, is an occasion for both foreclosing and framework - now,
+not only of a and b, but also of a scope expanded to fulfill the promise,
+virtue, and style of the world. This is a wonder, and I oscillate between
+hope for a primal leverage, absolute signifiers (which also seem of nec-
+essity to be restatements of universal law on the level of micro-physics),
+and a dull recognition of the increasing fragmentation of the life-worlds
+on the planet - almost as if the world were nothing more than Markov-
+chains of shorter and shorter length.
+X11R6 bin games include lib libdata libexec lkm local mdec sbin share tmp
+zz
+
+The specifics of the leverage would not matter - just as the details of
+universal equations spell out varying phenomenologies, but their very
+transcendence is a symptom of overt organization, and deity for some. The
+universal cosmic phenomenon of peering into the past (objects so distant
+that it may take a billion years for light to reach us, objects otherwise
+ungraspable) may be taken to imply radical disconnects, signals from what
+appear to be disconsolate objects, expiring objects, objects at a loss in
+relation to the human flicker on earth. And radical disconnects fragment
+our own relation to the real as well; hence, the imaginary or that proble-
+matic which resists symbolization. Connect such symbolization vis-a-vis
+metaphor with the body (Lakoff), and "graspable" becomes, itself, a rela-
+tion between model and modeller: Our world is deeply ungraspable, our im-
+ages universally mediated, determined at least in part by economics, ener-
+gies, and the exigencies of the viewing apparati themselves.
+aculog authlog authlog.0.gz authlog.1.gz authlog.2.gz authlog.3.gz cron
+cron.0.gz cron.1.gz cron.2.gz cron.3.gz cron.errs cron.errs.0.gz
+daemon.log daemon.log.0.gz daemon.log.1.gz daemon.log.2.gz daemon.log.3.gz
+maillog.1.gz maillog.10.gz maillog.11.gz maillog.12.gz maillog.13.gz
+messages.0.gz messages.1.gz messages.2.gz messages.3.gz messages.4.gz
+messages.5.gz morelogs namedlog notices notices.0.gz notices.1.gz
+wtmp wtmp.0.gz wtmp.1.gz wtmp.2.gz wtmp.3.gz wtmp.4.gz wtmp.5.gz wtmp.6.gz
+wtmp.7.gz xferlog zzlog
+
+We are left with a partial _log_ of a continuous conversation, replete
+with expanding knowledges, finer and finer tolerances - but a conversation
+nonetheless, of fragments, micro-exhaustions (Stent's analyses of the
+field of trignometry for example), and increasingly complex equations or
+metaphysics. Driven by energy and economics, there is no end in sight;
+what may eventually stare back at us through scientific exploration is
+ourselves, our machinery. Heisenberg was only the first crack in the mir-
+ror in this literal regard; what is impossible in fine-tuning position and
+momentum is also metaphor for the fine-tuning of existence itself. For it
+is not unreasonable to assume that higher energies propose newer partic-
+les, linked in groupings, the end nowhere in sight. As far as binary oper-
+ations per se, they remain within the imaginary of the dream and the dream
+of the imaginary; they hold us in our fundamentally Aristotelian world, in
+which the laws of distribution hold, and within which we may fall in love,
+throw a ball, or speak, as if difference were upheld, or shattered.
+cat chio chmod cp csh date dd df domainname echo ed expr hostname kill ksh
+ln ls mkdir mt mv pax ps pwd rcmd rcp rm rmail rmdir sh sleep stty sync
+test zz
+
+

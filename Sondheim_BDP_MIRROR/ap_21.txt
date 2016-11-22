@@ -1,0 +1,39 @@
+
+-
+
+
+Getting it Right
+
+I just got a "student's edition" of Matlab, a matrix/mathematics program,
+second-hand, loaded it in DOS, started programming, walking myself through
+it. The program below, with only two "real" active lines is typical. Lear-
+ning the syntax, getting it right, k, j, as one-place vectors, for examp-
+le, was difficult, the format attempting to reach the same odd limits of
+analysis as transcendental sine nestings pile error on error, inscribing
+the machinic itself in the midst of the plot. The plot is never _right,_
+chaos creeping in quickly from the center to the edge. But what if the
+semi-colon is omitted? In _this_ language, nothing more than immediate
+calculation. Everything has its place. The real difficulty was the shape
+of the equations themselves, this being somewhat program-dependent. The
+slightest change sends things violently off in the wrong direction: 
+
+such as my attempt to send out a message _exactly_ at the summer solstice
+a few minutes ago, at 10:22 PM NY time, only to find out it went, not to
+the lists, but to a wrong address I inadvertently entered, the presence of
+an "l" instead of "t" alias in the address line... 
+
+% Nested Sin Function
+k = [1]; j = [1]; n = 1;
+u = 'Nested Sin Function, plot j,k'
+z = input('number of operations ');
+q = input('constant, p=1 ');
+r = input('constant, p-1 ');
+s = input('constant for -sin(), 1 ');
+t = input('constant for +sin(), 1 ');
+while n < z
+j(n+1) = sin(k(n))*q - sin(j(n))*s;
+k(n+1) = sin(j(n))*r + sin(k(n))*t;
+n = n+1;
+end
+plot(j,k,'+w')
+

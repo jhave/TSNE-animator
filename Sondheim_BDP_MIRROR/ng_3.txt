@@ -1,0 +1,192 @@
+
+
+ [DIR]  Parent Directory        16-Oct-2002 14:13      -
+ [TXT]  00README1st.TXT         24-Aug-2003 21:03     5k
+ [   ]  Blood                   26-Oct-2002 02:14    71k
+ [   ]  Fantasm                 26-Oct-2002 02:18    75k
+ [IMG]  Follow.jpg              26-Oct-2002 02:19     5k
+ [   ]  Past                    26-Oct-2002 02:54    69k
+ [   ]  Uncanny                 26-Oct-2002 02:56    69k
+ [   ]  Weather                 26-Oct-2002 02:57    87k
+ [TXT]  a.txt                   26-Oct-2002 02:12    68k
+ [   ]  aa.bmp                  12-Nov-2003 19:50     0k
+ [   ]  ah                      26-Oct-2002 02:12    72k
+ [   ]  am                      26-Oct-2002 02:12    72k
+ [   ]  an                      26-Oct-2002 02:12    73k
+ [   ]  ap                      26-Oct-2002 02:13    70k
+ [IMG]  ash.jpg                 26-Oct-2002 02:13    25k
+ [TXT]  b.txt                   26-Oct-2002 02:13    74k
+ [   ]  ba                      26-Oct-2002 02:13    69k
+ [IMG]  back.jpg                26-Oct-2002 02:13     5k
+ [IMG]  basin.jpg               26-Oct-2002 02:14    33k
+ [   ]  bb                      26-Oct-2002 02:14    75k
+ [   ]  book1                   26-Oct-2002 02:14    77k
+ [   ]  book2                   26-Oct-2002 02:15    81k
+ [TXT]  c.txt                   26-Oct-2002 02:15    72k
+ [TXT]  cancer.txt              26-Oct-2002 02:15    98k
+ [   ]  cc                      26-Oct-2002 02:16    72k
+ [TXT]  d.txt                   26-Oct-2002 02:16    71k
+ [   ]  dd                      26-Oct-2002 02:16    73k
+ [TXT]  e.txt                   26-Oct-2002 02:16    69k
+ [   ]  ee                      26-Oct-2002 02:17    79k
+ [IMG]  eve013.jpg              26-Oct-2002 02:17    54k
+ [IMG]  eve0388.jpg             26-Oct-2002 02:17    83k
+ [IMG]  eve0475.jpg             26-Oct-2002 02:18    61k
+ [TXT]  f.txt                   26-Oct-2002 02:18    79k
+ [   ]  ff                      26-Oct-2002 02:19    74k
+ [TXT]  g.txt                   26-Oct-2002 02:19    76k
+ [   ]  gg                      26-Oct-2002 02:19    75k
+ [TXT]  h.txt                   26-Oct-2002 02:19    57k
+ [TXT]  head.htm                26-Oct-2002 02:19     1k
+ [   ]  hh                      26-Oct-2002 02:20    69k
+ [TXT]  i.txt                   26-Oct-2002 02:20    69k
+ [   ]  ii                      26-Oct-2002 02:20    75k
+ [IMG]  j.png                   07-Dec-2003 07:43     9k
+ [TXT]  j.txt                   26-Oct-2002 02:20    72k
+ [   ]  jj                      26-Oct-2002 02:21    71k
+ [   ]  jk                      26-Oct-2002 02:21    63k
+ [   ]  jl                      26-Oct-2002 02:21    84k
+ [   ]  jm                      26-Oct-2002 02:21    67k
+ [   ]  jn                      26-Oct-2002 02:22    69k
+ [   ]  jo                      26-Oct-2002 02:22    74k
+ [   ]  jp                      26-Oct-2002 02:22    77k
+ [   ]  jq                      26-Oct-2002 02:22    72k
+ [   ]  jr                      26-Oct-2002 02:23    77k
+ [   ]  js                      26-Oct-2002 02:23    79k
+ [   ]  jt                      26-Oct-2002 02:23    85k
+ [   ]  ju                      26-Oct-2002 02:24    77k
+ [   ]  juluAPS.js              26-Oct-2002 02:24     2k
+ [   ]  jv                      26-Oct-2002 02:24    79k
+ [   ]  jw                      26-Oct-2002 02:24    88k
+ [   ]  jx                      26-Oct-2002 02:25    87k
+ [   ]  jy                      26-Oct-2002 02:25    79k
+ [IMG]  k.png                   07-Dec-2003 07:43    19k
+ [TXT]  k.txt                   26-Oct-2002 02:25    81k
+ [   ]  ka                      26-Oct-2002 02:26    86k
+ [   ]  kb                      26-Oct-2002 02:26    55k
+ [   ]  kc                      26-Oct-2002 02:26    90k
+ [   ]  kd                      26-Oct-2002 02:26    71k
+ [   ]  ke                      26-Oct-2002 02:27    79k
+ [   ]  kf                      26-Oct-2002 02:27    68k
+ [   ]  kg                      26-Oct-2002 02:27    80k
+ [   ]  kh                      26-Oct-2002 02:28    79k
+ [   ]  ki                      26-Oct-2002 02:28    82k
+ [   ]  kj                      26-Oct-2002 02:28    83k
+ [   ]  kk                      26-Oct-2002 02:28    80k
+ [   ]  kl                      26-Oct-2002 02:29    86k
+ [   ]  km                      26-Oct-2002 02:29    82k
+ [   ]  kn                      26-Oct-2002 02:29    78k
+ [   ]  ko                      26-Oct-2002 02:30    85k
+ [   ]  kp                      26-Oct-2002 02:30    69k
+ [   ]  kq                      26-Oct-2002 02:30    76k
+ [   ]  kr                      26-Oct-2002 02:30    83k
+ [   ]  ks                      26-Oct-2002 02:31    80k
+ [   ]  kt                      26-Oct-2002 02:31    83k
+ [   ]  ku                      26-Oct-2002 02:31    85k
+ [   ]  kv                      26-Oct-2002 02:31    72k
+ [   ]  kw                      26-Oct-2002 02:32    75k
+ [   ]  kx                      26-Oct-2002 02:32    70k
+ [   ]  ky                      26-Oct-2002 02:32    78k
+ [   ]  kz                      26-Oct-2002 02:32    78k
+ [IMG]  l.png                   07-Dec-2003 07:43     7k
+ [TXT]  l.txt                   26-Oct-2002 02:33    65k
+ [   ]  la                      26-Oct-2002 02:33    86k
+ [   ]  lb                      26-Oct-2002 02:33    82k
+ [   ]  lc                      26-Oct-2002 02:34    89k
+ [   ]  ld                      26-Oct-2002 02:34    85k
+ [   ]  le                      26-Oct-2002 02:34    89k
+ [IMG]  leaning.jpg             14-May-2003 07:53   209k
+ [   ]  lf                      26-Oct-2002 02:34    93k
+ [   ]  lg                      26-Oct-2002 02:35    82k
+ [   ]  lh                      26-Oct-2002 02:35    98k
+ [   ]  li                      26-Oct-2002 02:35    90k
+ [   ]  lj                      26-Oct-2002 02:36    77k
+ [   ]  lk                      26-Oct-2002 02:36    87k
+ [   ]  ll                      26-Oct-2002 02:36    90k
+ [   ]  lm                      26-Oct-2002 02:37    87k
+ [   ]  ln                      26-Oct-2002 02:37    88k
+ [   ]  lo                      26-Oct-2002 02:37    83k
+ [   ]  lp                      26-Oct-2002 02:37    88k
+ [   ]  lq                      26-Oct-2002 02:38    79k
+ [   ]  lr                      26-Oct-2002 02:38    86k
+ [   ]  ls                      26-Oct-2002 02:38    77k
+ [   ]  lt                      26-Oct-2002 02:39    77k
+ [   ]  lu                      26-Oct-2002 02:39    80k
+ [   ]  lv                      26-Oct-2002 02:39    77k
+ [   ]  lw                      26-Oct-2002 02:39    78k
+ [   ]  lx                      26-Oct-2002 02:40    81k
+ [   ]  ly                      26-Oct-2002 02:40    85k
+ [   ]  lz                      26-Oct-2002 02:40    72k
+ [TXT]  m.txt                   26-Oct-2002 02:40    78k
+ [   ]  ma                      26-Oct-2002 02:41   101k
+ [   ]  mb                      26-Oct-2002 02:41    81k
+ [   ]  mc                      26-Oct-2002 02:41    86k
+ [   ]  md                      26-Oct-2002 02:41    73k
+ [   ]  me                      26-Oct-2002 02:42    83k
+ [   ]  mf                      26-Oct-2002 02:42    93k
+ [   ]  mg                      26-Oct-2002 02:42    82k
+ [   ]  mh                      26-Oct-2002 02:43    70k
+ [   ]  mi                      26-Oct-2002 02:43    90k
+ [   ]  mj                      26-Oct-2002 02:43    79k
+ [   ]  mk                      26-Oct-2002 02:43    82k
+ [   ]  ml                      26-Oct-2002 02:44    86k
+ [   ]  mm                      26-Oct-2002 02:44    89k
+ [   ]  mn                      26-Oct-2002 02:44    87k
+ [   ]  mo                      26-Oct-2002 02:45    94k
+ [   ]  mp                      26-Oct-2002 02:45   102k
+ [   ]  mq                      31-Oct-2002 01:36    79k
+ [   ]  mr                      30-Nov-2002 08:20    96k
+ [   ]  ms                      25-Dec-2002 07:30    89k
+ [   ]  mt                      25-Jan-2003 00:29   110k
+ [   ]  mu                      12-Feb-2003 05:35    81k
+ [   ]  mv                      18-Mar-2003 05:06    97k
+ [   ]  mw                      11-Apr-2003 07:13   104k
+ [   ]  mx                      05-May-2003 23:20    99k
+ [   ]  my                      23-May-2003 03:42    94k
+ [   ]  mz                      08-Jun-2003 07:41    92k
+ [TXT]  n.txt                   26-Oct-2002 02:48    70k
+ [IMG]  n09.jpg                 26-Oct-2002 02:49   106k
+ [   ]  na                      26-Jun-2003 04:57   106k
+ [   ]  nb                      19-Jul-2003 04:33   101k
+ [   ]  nc                      21-Aug-2003 02:43   105k
+ [   ]  nd                      21-Sep-2003 19:54   101k
+ [   ]  ne                      14-Oct-2003 21:31    99k
+ [TXT]  net0.txt                26-Oct-2002 02:49     4k
+ [TXT]  net1.txt                26-Oct-2002 02:49    85k
+ [TXT]  net10.txt               26-Oct-2002 02:50    84k
+ [TXT]  net11.txt               26-Oct-2002 02:50    79k
+ [TXT]  net12.txt               26-Oct-2002 02:50    76k
+ [TXT]  net13.txt               26-Oct-2002 02:51    80k
+ [TXT]  net14.txt               26-Oct-2002 02:51    79k
+ [TXT]  net2.txt                26-Oct-2002 02:51    82k
+ [TXT]  net3.txt                26-Oct-2002 02:51    88k
+ [TXT]  net4.txt                26-Oct-2002 02:52    83k
+ [TXT]  net5.txt                26-Oct-2002 02:52    84k
+ [TXT]  net6.txt                26-Oct-2002 02:52    79k
+ [TXT]  net7.txt                26-Oct-2002 02:53    80k
+ [TXT]  net8.txt                26-Oct-2002 02:53    78k
+ [TXT]  net9.txt                26-Oct-2002 02:53    90k
+ [   ]  nf                      26-Nov-2003 01:30   100k
+ [   ]  ng                      26-Nov-2003 01:30     3k
+ [TXT]  o.txt                   26-Oct-2002 02:53    73k
+ [TXT]  oldindex.html           26-Oct-2002 02:09     9k
+ [TXT]  p.txt                   26-Oct-2002 02:54    69k
+ [DIR]  portal/                 30-Nov-2003 04:49      -
+ [TXT]  q.txt                   26-Oct-2002 02:54    75k
+ [TXT]  r.txt                   26-Oct-2002 02:54    70k
+ [TXT]  resume.htm              26-Oct-2002 02:55    29k
+ [TXT]  resume.html             26-Oct-2002 02:55    26k
+ [TXT]  s.txt                   26-Oct-2002 02:55    71k
+ [DIR]  sound/                  01-Oct-2003 19:01      -
+ [TXT]  t.txt                   26-Oct-2002 02:55    75k
+ [TXT]  tail.htm                26-Oct-2002 02:55     1k
+ [IMG]  test5.jpg               26-Oct-2002 02:56    72k
+ [   ]  trmail                  26-Oct-2002 02:56    49k
+ [TXT]  tt.htm                  26-Oct-2002 02:56     7k
+ [TXT]  u.txt                   26-Oct-2002 02:56    24k
+ [TXT]  uu.htm                  26-Oct-2002 02:56     1k
+ [TXT]  x.html                  26-Oct-2002 02:57    51k
+ [TXT]  y.html                  26-Oct-2002 02:57    37k
+ [IMG]  y.png                   07-Dec-2003 07:44    16k
+ [TXT]  z.htm                   26-Oct-2002 02:57     4k
+     

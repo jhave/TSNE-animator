@@ -1,0 +1,27 @@
+
+
+
+Subject: the subject we begin our lies
+
+1943
+
+
+Biography
+
+
+Wanting autobiography and its thought, I've written the program below.
+
+When I remember something, it goes into the .bio file. Later, the file is
+sorted according to date. Later still, it will be downloaded; eventually,
+a number of similar files will be chained and sorted together. The result
+will be a mass of badly-remembered facts, comments, and apologetics ar-
+ranged into semi-sequential order. 
+
+The program is placed into an .auto file and aliased. It appears on login
+after memo.
+
+Someday, this will be the way everyone will remember themselves, in the
+absolute absence of images - or the images will blur into text, embar-
+rassed and shameful. Memory will become cited. Everyone will be cross-
+referenced. The other will have not yet made hir appearance. 
+

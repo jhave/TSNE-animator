@@ -1,0 +1,34 @@
+ EventID 41 
+Version 3 Level 1 Task 63 Opcode 0 Keywords 0x8000000000000002 TimeCreated 
+SystemTime] 2013-03-18T19:27:49.960528600Z EventRecordID 6794 Correlation 
+Execution ProcessID] 4 ThreadID] 8 Channel Computer Security UserID] 
+S-1-5-18 EventData BugcheckCode BugcheckParameter1 0x0 BugcheckParameter2 
+BugcheckParameter3 BugcheckParameter4 SleepInProgress PowerButtonTimestamp 
+BootAppStatus *Product ----------- Problem Description] Parts Info 
+*Operating Windows System 64bit Windows [*Problem 5-6 months, past 
+shutdown months, From experienced 5-6 sudden times shutdown in From past 
+chat:
+
+bought it 11/20 down year have shuts last down year unexpectedly 2:45 that 
+pm means an the not I sure get means 41 log not also says task 2:46 for 
+need while machine doesn't conferences often, while pm doesn't need happen 
+the often, machine could it see happening happening I'm when delivering 
+delivering talk talk could There correlation seem the be and any what 
+correlation I'm between doing today was looking a YouTube - video today 
+2:47 section noticed download downloads - section "Fix download I another 
+noticed BIOS in "Fix downloads system I halt don't Postcode what 72 
+Postcode sometimes" 72 don't halt know at correlate of numbers seem Dnala 
+A.Hello A.Hello ALan ALan Sondheim, Sondheim, thank contacting ASUS 
+support. give Please me give a moments review review support. information. 
+shortly. you Hi Alan, are Alan, today? are Sondheim Not good.
+
+A.I A.I glad glad help help This third third contacted contacted ALan 
+information RMA information Repair out info the out 19th. think didn't. 
+19th. they didn't. info twice was am RMA seeing number as this USX-------, 
+Dnala correct
+
+A.Alan, me moment more gather can more you you?
+
+A.Thank patience. for problem
+
+i your complete tracking tracking i 

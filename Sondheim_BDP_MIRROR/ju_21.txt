@@ -1,0 +1,22 @@
+
+ 
+ Snow Job
+
+
+ Oh, I'm waiting for you; I've got the Nuts ./a.out running on port 3000, 
+ Oh, I'm waiting for you; I've got the Haven -d scrambling on port 7000,
+ Oh, I'm waiting for you; I've got the Slip up and running on my machine,
+ Oh, I'm waiting for you; I've got daemons all over the place,
+ I've got sendmail, I've got inetd, I've got httpd, I've got daemons
+ Oh, I'm waiting for you; I've got my Web wide open on port 80,
+ And O! these daemons everywhere! and O! A girl in every port!
+
+
+  680 pp0 S <   0:00 xsnow -bg blue -tc green
+  682 pp0 S <   0:00 ./a.out
+  684 pp0 S <   0:00 /root/zone/haven -d 7000
+  689 s01 S <   0:00 -dip (166.84.250.149)
+  731 pp0 R <   0:00 ps
+
+
+ 

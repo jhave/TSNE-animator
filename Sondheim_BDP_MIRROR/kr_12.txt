@@ -1,0 +1,29 @@
+
+
+
+User Characteristics, Note on:
+
+
+User.Name Array: [(0-9)income, (0-9)age, (0-9)educationlevel,
+(f%,m%,other%)gender, (a-z)religion Health: Degree of Technical Expertise:
+Relationships: Friendshipcircle: Typingspeed: Psychodiagnostics: ]
+
+User.Name.Response: 8000 55 17 33/33/33 na fair 80 problematic 18(800km)
+120wpm neurotic Name.Alan
+
+User.Name.Response: 0 14 14 80/20/0 na excellent 80 focused 3(0km) na
+obsessive Name.Jennifer
+
+Applet.Class.User if (Alan == Jennifer && Jennifer == Alan)
+{User.Name.Response na 22 na 80/80/80 na 100 emitting 1(0km) 100000wpm
+self-similar Name.Julu} else Name.Jennifer && Name.Alan
+
+/* Julu therefore is an _extrusion_ of Alan.Jennifer interpenetration. The
+class becomes Applet.Class.Julu which is self-reflexive, i.e. its methods
+are self-applicable only. Note that the entire object may be inserted
+within any communicative domain, within which it may split, bifurcate or
+coalesce. The Applet.Class.User is therefore _inherently unstable,_ and
+overly responsive (i.e. positive feedback) to local and global environ-
+mental factors. */
+
+

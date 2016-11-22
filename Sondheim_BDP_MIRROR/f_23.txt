@@ -1,0 +1,546 @@
+
+
+
+
+
+
+
+
+Subject: Alan Searches for Abuse <long log> <ethos>
+
+
+
+
+
+Alan Anguish shakily walks down the corridor of Media Moo looking for an 
+
+angry fix. There's nothing there, contraptions frozen in an icy maw. 
+
+Veronica refuses him her favors once again, Dewey speaks and shuts the 
+
+hell up. He gets lost in the origin of numbers, pulls out, shrieks back 
+
+to planet earth. All the words are his; the injections don't take any 
+
+more, though - what can you do with a dismembered body? A. A. remembers 
+
+Archie, splayed open, hunched against command line k:22> and turns on for 
+
+abuse. Archie's busy. Archie's not _that_ busy. Alan splays for Veronica, 
+
+for no one else. Archie turns the lever. Alan searches for abuse:
+
+
+
+Host ftp.univie.ac.at
+
+
+
+    Location: /archive/faq
+
+      DIRECTORY drwxr-xr-x        512  Mar 31 16:14  net-abuse
+
+
+
+Host plaza.aarnet.edu.au
+
+
+
+    Location: /usenet/FAQs
+
+      DIRECTORY drwxr-xr-x 512 Dec 17 20:18 alt.abuse.offender.recovery
+
+      DIRECTORY drwxr-xr-x        512  Dec 17 20:18  alt.abuse.recovery
+
+      DIRECTORY drwxr-xr-x 512 Dec 17 20:18 alt.abuse.transcendence
+
+DIRECTORY drwxr-xr-x 512 Dec 9 19:51 alt.current-events.net-abuse
+
+    Location: /usenet/FAQs/alt.current-events.net-abuse
+
+	   FILE -r--r--r-- 12015 Dec 9 03:24
+
+alt.current-events.net-abuse_FAQ,_1_of_2
+
+	   FILE -r--r--r-- 13222 Dec 9 03:24
+
+alt.current-events.net-abuse_FAQ,_2_of_2
+
+    Location: /usenet/FAQs
+
+      DIRECTORY drwxr-xr-x 512 Dec 17 20:20 alt.sexual.abuse.recovery
+
+      DIRECTORY drwxr-xr-x 512 Dec 17 20:20 alt.sexual.abuse.recovery.d
+
+      DIRECTORY drwxr-xr-x 512 Dec 17 20:20 alt.support.abuse-partners
+
+
+
+Host ftp.unicamp.br
+
+
+
+    Location: /pub1/gopher-data/FAQ-RFC-DICAS/Frequently-Asked-Questions
+
+      DIRECTORY drwxr-xr-x        512  Feb  4 18:17  net-abuse
+
+
+
+Host freebsd.cdrom.com
+
+
+
+    Location: /.9/rtfm
+
+      DIRECTORY drwxr-xr-x 512 Sep 16 1994 alt.abuse.offender.recovery
+
+      DIRECTORY drwxr-xr-x        512  Sep 16 1994  alt.abuse.recovery
+
+      DIRECTORY drwxr-xr-x        512  Sep 16 1994  alt.abuse.transcendence
+
+      DIRECTORY drwxr-xr-x 512 Sep 16 1994 alt.sexual.abuse.recovery
+
+      DIRECTORY drwxr-xr-x 512 Sep 16 1994 alt.sexual.abuse.recovery.d
+
+      DIRECTORY drwxr-xr-x 512 Sep 16 1994 alt.support.abuse-partners
+
+    Location: /pub/aminet/mods/pro
+
+	   FILE -rw-r--r--     240495  Jul  3 1993  DrMabuseMods.lha
+
+	   FILE -rw-r--r--         79  Jul  3 1993  DrMabuseMods.readme
+
+
+
+Host qiclab.scn.rain.com
+
+
+
+    Location: /pub1/overview/alt
+
+      DIRECTORY drwxrwxr-x        512  Feb 27 16:53  abuse
+
+    Location: /pub1/overview/alt/current-events
+
+      DIRECTORY drwxrwxr-x        512  May  1 07:19  net-abuse
+
+    Location: /pub1/overview/alt/government
+
+      DIRECTORY drwxrwxr-x        512  May  1 07:21  abuse
+
+    Location: /pub1/overview/alt/sexual
+
+      DIRECTORY drwxrwxr-x        512  Feb 27 17:17  abuse
+
+    Location: /pub1/overview/alt/support
+
+      DIRECTORY drwxrwxr-x        512  May  1 07:25  abuse-partners
+
+    Location: /pub1/overview/lt
+
+      DIRECTORY drwxrwxr-x        512  Feb 27 17:50  abuse
+
+    Location: /pub1/overview/news/admin
+
+      DIRECTORY drwxrwxr-x        512  Apr 14 08:01  net-abuse
+
+
+
+Host ftp.tcp.com
+
+
+
+    Location: /pub/QRD/events
+
+	   FILE -r--r--r-- 5367 Oct 16 00:00
+
+same.sex.abuse.conference-10.22.94
+
+    Location: /pub/QRD/orgs/contacts
+
+	   FILE -r--r--r--       1239  Apr 10 1992  glb-substance-abuse
+
+    Location: /pub/QRD/world/americas/canada
+
+	   FILE -r--r--r-- 3137 Mar 21 1994
+
+dr.sexual.abuse.of.aids.patient-03.14.94
+
+
+
+Host think.com
+
+
+
+    Location: /mail
+
+      DIRECTORY dr-xr-xr-x        512  Dec 12 1991  joy-abuse
+
+    Location: /mail/joy-abuse/rochester
+
+	   FILE -r--r--r--       5515  Oct 22 1990  randy-abuse
+
+
+
+Host ftp.belwue.de
+
+
+
+    Location: /news/spool/overview/alt
+
+      DIRECTORY drwxr-xr-x        512  Feb 14 1994  abuse
+
+    Location: /news/spool/overview/alt/current-events
+
+      DIRECTORY drwxr-xr-x        512  Jul 17 1994  net-abuse
+
+    Location: /news/spool/overview/alt/sexual
+
+      DIRECTORY drwxr-xr-x        512  Feb 12 1994  abuse
+
+
+
+Host cocoa.contrib.de
+
+
+
+    Location: /t1/pub/doc/FAQ/control/alt
+
+	   FILE -rw-rw-r-- 617 Aug 14 1993 alt.abuse-recovery.gz
+
+	   FILE -rw-rw-r-- 435 Apr 19 1993 alt.abuse.offender.recovery.gz
+
+	   FILE -rw-rw-r-- 1736 Nov 1 1993 alt.abuse.recovery.gz
+
+	   FILE -rw-rw-r-- 664 Jun 19 1994 alt.abuse.transcendence.gz
+
+	   FILE -rw-rw-r-- 434 Jun 26 1994
+
+alt.current-events.net-abuse.c-n-s.gz
+
+	   FILE -rw-rw-r-- 930 May 3 1994 alt.current-events.net-abuse.gz
+
+	   FILE -rw-rw-r-- 1172 Jul 19 1994 alt.sexual.abuse.recovery.d.gz
+
+	   FILE -rw-rw-r-- 1936 Apr 24 1992 alt.sexual.abuse.recovery.gz
+
+	   FILE -rw-rw-r-- 348 Aug 26 1993 alt.support.abuse-partners.gz
+
+    Location: /t1/pub/doc/FAQ/usenet/alt
+
+	   FILE -rw-rw-r-- 28836 Apr 16 1992 alt.sexual.abuse.recovery.gz
+
+    Location:
+
+/t4/pub/text/etext/Politics/Feminism/GenderIssues/Violence+Women/TeachingGuide
+
+	   FILE -rw-rw-r-- 12427 Jun 29 1993 3wife-abuse.gz
+
+    Location: /t4/pub/text/etext/Politics/QRD/info/CONTACTS
+
+	   FILE -rw-rw-r-- 1239 Apr 8 1992 glb-substance-abuse
+
+	   FILE -rw-rw-r-- 806 Apr 8 1992 glb-substance-abuse.gz
+
+    Location: /t4/pub/text/etext/Politics/QRD/info/contacts
+
+	   FILE -rw-rw-r-- 1239 Apr 8 1992 glb-substance-abuse
+
+    Location: /t4/pub/text/etext/Politics/QRD/info
+
+	   FILE -rw-rw-r-- 1239 Apr 8 1992 glb-substance-abuse
+
+    Location: /t4/pub/text/etext/Politics/QRD/orgs/contacts
+
+	   FILE -rw-rw-r-- 786 Apr 8 1992 glb-substance-abuse.gz
+
+
+
+Host ftp.fu-berlin.de
+
+
+
+    Location: /doc/faq/usenet/alt
+
+	   FILE -rw-r--r-- 28836 Apr 17 1992 alt.sexual.abuse.recovery.gz
+
+
+
+Host harry.informatik.rwth-aachen.de
+
+
+
+    Location: /pub/reze-2.rz.rwth-aachen.de/simtel/cpm/dirutl
+
+	   FILE -rw----r--       3072  Aug  9 1992  abuser84.lbr
+
+
+
+Host athene.uni-paderborn.de
+
+
+
+    Location: /doc/FAQ
+
+      DIRECTORY drwxr-xr-x 512 Aug 10 1994 alt.sexual.abuse.recovery
+
+    Location: /mount/doc/FAQ
+
+      DIRECTORY drwxr-xr-x 512 Apr 17 1994 alt.sexual.abuse.recovery
+
+
+
+Host ftp.uni-stuttgart.de
+
+
+
+    Location: /pub/doc/faq
+
+      DIRECTORY drwxrwxr-x 512 Aug 13 1994 alt.sexual.abuse.recovery
+
+
+
+Host ftp.uni-trier.de
+
+
+
+    Location: /pub/info/faq/control/alt
+
+	   FILE -rw-r--r-- 617 Aug 15 1993 alt.abuse-recovery.gz
+
+	   FILE -rw-r--r-- 435 Apr 20 1993 alt.abuse.offender.recovery.gz
+
+	   FILE -rw-r--r-- 1736 Nov 1 1993 alt.abuse.recovery.gz
+
+	   FILE -rw-r--r-- 664 Jun 19 1994 alt.abuse.transcendence.gz
+
+	   FILE -rw-r--r-- 930 May 3 1994 alt.current-events.net-abuse.gz
+
+	   FILE -rw-r--r-- 829 Aug 15 1993 alt.sexual.abuse.recovery.d.gz
+
+	   FILE -rw-r--r-- 1936 Apr 25 1992 alt.sexual.abuse.recovery.gz
+
+	   FILE -rw-r--r-- 348 Aug 27 1993 alt.support.abuse-partners.gz
+
+    Location: /pub/info/faq/usenet/alt
+
+	   FILE -rw-r--r-- 36332 Apr 17 1992 alt.sexual.abuse.recovery.Z
+
+	   FILE -rw-r--r-- 28836 Apr 17 1992 alt.sexual.abuse.recovery.gz
+
+
+
+Host ftp.rz.uni-ulm.de
+
+
+
+    Location: /pub/news-faq
+
+      DIRECTORY drwxrwxr-x 512 Aug 20 1994 alt.sexual.abuse.recovery
+
+
+
+Host ftp.lcs.mit.edu
+
+
+
+    Location: /telecom-archives/security-fraud
+
+	   FILE -r--r--r-- 13343 Feb 25 1990 computer.fraud.abuse.act
+
+
+
+Host rtfm.mit.edu
+
+
+
+    Location: /pub/usenet-by-group
+
+      DIRECTORY drwxrwxr-x 512 Dec 17 01:02 alt.abuse.offender.recovery
+
+      DIRECTORY drwxrwxr-x 512 Dec 17 01:02 alt.abuse.recovery
+
+      DIRECTORY drwxrwxr-x 512 Dec 17 01:02 alt.abuse.transcendence
+
+      DIRECTORY drwxrwxr-x 512 Dec 9 03:24 alt.current-events.net-abuse
+
+    Location: /pub/usenet-by-group/alt.current-events.net-abuse
+
+	   FILE -rw-rw-r-- 12015 Dec 9 03:24
+
+alt.current-events.net-abuse_FAQ,_1_of_2
+
+	   FILE -rw-rw-r-- 13222 Dec 9 03:24
+
+alt.current-events.net-abuse_FAQ,_2_of_2
+
+    Location: /pub/usenet-by-group
+
+      DIRECTORY drwxrwxr-x 512 Dec 17 00:39 alt.sexual.abuse.recovery
+
+      DIRECTORY drwxrwxr-x 512 Dec 17 00:39 alt.sexual.abuse.recovery.d
+
+      DIRECTORY drwxrwxr-x 512 Dec 17 00:39 alt.support.abuse-partners
+
+    Location: /pub/usenet-by-hierarchy/alt
+
+      DIRECTORY drwxrwxr-x 512 Sep 2 1994 abuse
+
+    Location: /pub/usenet-by-hierarchy/alt/current-events
+
+      DIRECTORY drwxrwxr-x 512 Dec 9 03:24 net-abuse
+
+    Location: /pub/usenet-by-hierarchy/alt/current-events/net-abuse
+
+	   FILE -rw-rw-r-- 12015 Dec 9 03:24
+
+alt.current-events.net-abuse_FAQ,_1_of_2
+
+	   FILE -rw-rw-r-- 13222 Dec 9 03:24
+
+alt.current-events.net-abuse_FAQ,_2_of_2
+
+    Location: /pub/usenet-by-hierarchy/alt/sexual
+
+      DIRECTORY drwxrwxr-x 512 Sep 1 1993 abuse
+
+    Location: /pub/usenet-by-hierarchy/alt/support
+
+      DIRECTORY drwxrwxr-x 512 Dec 17 00:39 abuse-partners
+
+
+
+Host ftp.cis.ohio-state.edu
+
+
+
+    Location: /tknews/beta.94.10.24/src/newsapi
+
+	   FILE -rw-r--r--       1516  Oct 24 16:10  abuse.c
+
+
+
+Host nova.cc.purdue.edu
+
+
+
+    Location: /pub/next/lore
+
+	   FILE -rw-r--r--       9383  Feb 27 1992  abuse.tar.Z
+
+
+
+Host sonata.cc.purdue.edu
+
+
+
+    Location: /pub/next/lore
+
+	   FILE -rw-r--r--       9383  Feb 27 1992  abuse.tar.Z
+
+
+
+Host relay.cs.toronto.edu
+
+
+
+    Location: /pub/usenet/news.answers
+
+      DIRECTORY drwxr-xr-x        512  Jan  8 04:19  net-abuse
+
+
+
+Host uceng.uc.edu
+
+
+
+    Location: /pub/wuarchive/systems/amiga/aminet/mods/techn
+
+	   FILE -rw-rw-r-- 240495 Aug 2 1993 DrMabuseMods.lha
+
+	   FILE -rw-rw-r-- 139 Oct 30 20:39 DrMabuseMods.readme
+
+
+
+Host ftp.cs.widener.edu
+
+
+
+    Location: /pub/eff/legislation
+
+	   FILE -r--r--r-- 10920 Jan 5 14:59 computer-fraud-and-abuse-act
+
+
+
+Host ftp.univ-lyon1.fr
+
+
+
+    Location: /usenet-stats/groups/alt
+
+	   FILE -rw-r--r-- 1952 Dec 3 20:23 alt.sexual.abuse.recovery
+
+
+
+Host ftp.univ-rennes1.fr
+
+
+
+    Location:
+
+/listes-de-diffusion/Quelques-archives-de-listes-Nationales/flexfax.archive
+
+	   FILE -rw-r--r-- 626 Jan 17 1994
+
+0004.I-am-sorry.-I-didn't-intend-to-abuse-this-list. 
+
+
+
+Host ftp.germany.eu.net
+
+
+
+    Location: /pub/newsarchive/news.answers
+
+      DIRECTORY drwxr-xr-x        512  Jan 14 22:24  net-abuse
+
+
+
+Host ftp.uu.net
+
+
+
+    Location:
+
+/government/umich-poli/Feminism/GenderIssues/Violence+Women/TeachingGuide
+
+	   FILE -rw-rw-r--      12718  Jul  7 1994  3wife-abuse.gz
+
+
+
+Host unix.hensa.ac.uk
+
+
+
+    Location: /pub/uunet/usenet/news.announce.newgroups/soc
+
+	   FILE -r--r--r-- 16718 Oct 20 16:06 soc.support.recovery.abuse
+
+    Location: /pub/uunet/usenet/news.answers
+
+      DIRECTORY drwxr-xr-x        512  Jan  9 12:14  net-abuse
+
+
+
+
+
+Anguish decides too much violence, pulls out, Veronica leaves with him. 
+
+Travis drives the spaceship - if you got this far, if you read the
+
+Internet Text - you'll know all about Travis. Whatever life there was, he
+
+found... 
+
+
+

@@ -1,0 +1,26 @@
+
+
+
+AUTOPROBE MECHANISM IN X: FAILURE ACROSS THE BORED, TUESDAY NIGHT OUT:
+
+
+[FVWM][Read]:  trying to read system rc file /*There isn't any, Nikuko!
+/bin/sh: xfilemanager: command not found /* It's not installed, Jennifer!
+X connection to :0.0 broken (explicit kill or server shutdown).
+/* Application crashed for lack of resources, Julu!
+CRASH!  Vertical speed = -118.589912 ft/sec /* Stupid Stupid Nikuko!
+        Lateral speed =  100.000000 ft/sec
+Final Score: 0 /* I told you so, Nikuko, "says Jennifer"
+CRASH!  Vertical speed = -118.589912 ft/sec /* Stupid Stupid Jennifer!
+        Lateral speed =  100.000000 ft/sec
+Final Score: 0 /* I told you so, Jennifer, "says Nikuko"
+can't load tile font xmahjongg /* You'll have to fuck me now, "says Julu"
+/bin/sh: xboard: command not found /* It's not installed, Jennifer-Julu!
+X connection to :0.0 broken (explicit kill or server shutdown).
+/* You're just gonna have to fuck me now, Jennifer-Nikuko, "says Julu"
+[FVWM][Done]: <<ERROR>> Call of '/usr/openwin/bin/olvwm' failed!!!!
+/* You'd rather go to that CRASH-LAND TOKYO bar, "says Nikuko jealously
+to Jennifer, waiting for a reply, Julu down on all fours, restarting
+'fvwm2' instead"
+
+

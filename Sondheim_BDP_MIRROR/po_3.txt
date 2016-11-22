@@ -1,0 +1,619 @@
+
+
+
+Hello Nikuko and you are how? I have been very busy, reading about the 
+electrical apparatus, electrostatics and dynamic electricity, from the 
+late eighteenth century, perhaps early to mid-ninteenth century. To be 
+sure, what a mix of worlds here, electrical theatrics, young men leading 
+young women into circular frenzy, controlled, I do forget how beautiful 
+you are, your wet skin, tissue against mine, minds blurred, the 
+discharges, phenomena Dionysian, the apparatus Apollonian - cleansed, 
+purified, perfected, holding charge back -I remembver your orgasms, your 
+body against mine, matter speaking and no one listening for that matter: 
+the audibility of the world was all bound up in the visible, even the 
+electrostatic parlor tricks resulted in sounds and sights, the ontology of 
+what was taken for granted as real. This isn't science, this is the 
+ikonic; we might as well leave the indexical far behind. There are no 
+pointers, no measurements, with all of these phenomena, just phenomena 
+themselves, as if the world were talking, but talking mutely, drenched in 
+our passion, against our skins and minds.Which perhaps the young women 
+chose to ignore; I'd imagine they'd choose to ignore it, and which is why
+
+yes, as we would have them, and have us, and have at them and ourselves...
+
+
+illustrations:
+http://www.alansondheim.org/elec1.jpg
+http://www.alansondheim.org/elec2.jpg
+http://www.alansondheim.org/broken.jpg
+
+
+
+screams and cadence
+
+
+listening to CB radio in Morgantown, the first, breaker2, is an odd 
+melange of screams and cries - filtered in breaker2filter. I imagine these 
+are taken from a film or produced in some audio program; they're frighten- 
+ing. the breaker1 is a sequence on channel 6 with the dead air edited out. 
+I'm fascinated by cadence and rhythm here. I'm working with 02 radio, 
+short-wave, scanning, vlf, low frequency, crystal, listening to anything I 
+can receive. our place is hampered by a location in a small hollow near 
+the middle of the town - too much interference from the power grid, not 
+enough radio visibility. On the other hand, the screams, if screams they 
+be, came through loud and clear.
+
+
+http://www.alansondheim.org/breaker2.mp3
+http://www.alansondheim.org/breaker2filter.mp3
+http://www.alansondheim.org/breaker1.mp3
+
+
+
+
+
+
+Electronic writing, approach
+
+
+Electronic writing is always protocol-based and always dynamic. Keyboard
+strokes signal interrupts, the screen-image is constantly refreshed, fonts
+are interchangeable, links and animations may be present, the text may be
+updated by the original author or modified by others, the text might be
+deleted once and for all, or temporarily deleted, or duplicated and
+transformed from one to another site, or printed out hardcopy, or faxed,
+or entirely transformed into another medium - audio, steganography, online
+or offline calligraphy, and so forth. The text is fluid, inherently
+non-canonic, every instance is equivalent to every other, every instance
+is original and plagiarism. The text is burdened by apparatus from ebook
+reader to desktop, cellphone to electronic billboard. The text requires
+maintenance, electrical current, to continue its electronic presence. The
+text requires the transparency of protocols to be present, presented. The
+text requires an interface from electronic hardware-software circuitry to
+visual or other presentation. The text requires busses or connectors from
+one component to another, and from internal electronics to display. The
+text also requires data storage, and encoding/decoding as well as the
+potential well of checksums and other means ensuring minimal errors. If
+the text is transferred from one hardware medium to another or one file
+format to another, it requires interoperability - an interoperability
+which leaves the surface of the text relatively inviolate. The text
+requires data storage which itself exists within a physical potential
+well, producing the semblance of at least momentary stability. The text
+requires light or sound or haptic or other sensors. And the text requires
+a relatively stable input environment, within which the interrupts are
+apparently operating smoothly, transmission is relatively clear from
+infractions or appears clear from such, lag is sufficiently small and the
+buffer sufficiently large to give the writer/programmer/artist at least a
+degree of illusory autonomy.
+
+Let us not forget that machines, habitus, economy, are required. That the
+stability of signs and sign systems are required. That mutually understood
+sememes are required. That languaging among a community of more or less
+speakers/writers is required.
+
+The text itself, per se, requires nothing. Nothing is required unless com-
+munication, beyond the communication of error, anomaly, distortion, annih-
+ilation, creation, exchange, displacement, condensation, theft, hack,
+repetition, meta-transformations or meta-signifiers based on the bracket-
+ing of the text - unless communication based on at least the semblance of
+interiority, is desired; in this sense the author is ghost, wraith, close
+to invisible beyond, beneath, the text, perhaps present at the birth of
+the text or system or links of text, and perhaps not.
+
+And this list, drawn from apparatus, habitus, text, language, economy,
+catastrophic and stable regimes, may be extended or diminished - the terms
+are variable, problematic; the 'worldview' stemming from the true world is
+equally problematic.
+
+Nonetheless: The text, and one might of course argue that each and every
+text is always already dynamic, that such is the nature of communication,
+written or spoken or otherwise. Still: One might or might not make a
+distinction between traditional texts and those that are up for grabs in
+relation to electrical and other dynamic forms of reproduction, whose
+outputs are also dynamic, at least to the extent of redrawing/rewriting/
+rewryting the image or text or social/creative internal and external
+content and positioning of the text.
+
+Now further, what is it that we teach, that is normally taught, if not for
+the stability of the canon, or stability for that matter of jodi.org or
+other entities and projects and productions or producings which are not
+stable whatsoever but are part and parcel of literature today, however such
+may be defined? Unless literature is confined to the printed page, in which
+case it is also confined to a relatively small corner of electronic- social
+life today, that is, confined to a relatively small and perhaps irrelevant
+corner of life itself. So perhaps it is time, and of course in this
+space/place I am preaching mainly to the converted, to teach litera- ture as
+a residue or heartland of the social-technologic, as a production of desire,
+at least to the extent of the desire to be produced, in rela- tion to
+literature as theory or language or other artifacture? In spite of the fact
+that theory is essential to hermeneutics and the reception of literature. In
+which case, literature might be approached top down, or sides-in, lateral,
+so that, for example, the existence of the external flash drive,
+conveniently plugged into a machine for extra memory, operat- ing system,
+creative software, text repository, would be inherently part of the
+questions: What, how, why, when, where do we write? Where are our writings
+deposited? What hope do we have for their survival? What about _this
+particular text_ within this particular environment - a momentary housing at
+best? What about momentary housing? Obsolescence? And so forth?
+
+From a related discussion with Sandy Baldwin, Frances van Scoy Azure Carter:
+Given the above, what are the software issues themselves? What are the
+textual or graphic or other interfaces employed? What are the esthetics of
+those interfaces? Since every interface both transmits and filters, what are
+the conditions of transmission, and what is filtered out, what artifacts are
+added in? Is the interface considered an object or a process (continual
+updating of beta, name+number (Quicktime 7.4 for example), is it purchased
+or free, open or closed source? What is the user control over the interface
+and what is the interface's control over the user? (For example,
+user-specified fonts may override monospaced fonts in a text apparently
+involving graphic-ascii or other presentation.)
+
+Further, there are phenomenological issues related to traditional media, to
+media in general: What is the genre-lens we're using in reading/looking
+at/processing/hearing/etc. a text? What is the history of the genre? Of
+genre? How does genre relate to canon and is the text considered canonic? Is
+it considered a finished text, an object, a process, an unfinished text, a
+variorium, an ur-text, a meta-text, a critique of another exemplary text, a
+system of procedures or modules or sub-modules? Further, is the text
+considered part of a cycle? Of a community of texts? Written by one or more
+authors? Is the user part of a community of users, for example a book club?
+Was the text written for a community or specific community? What theory, if
+any, is used to approach the text? What is the text's relation to that
+theory? To theory? Who wrote, programmed, created, tended, the text? Is the
+text interactive, reactive, stationary, mobile within the interface,
+apparently within the user's control, out of the user's control; does it
+alter the interface framework, collapse or appear to hack into the
+framework? And is the text designed to be read/viewed/ heard/etc. with a
+particular viewer in mind? With a particular person or group or groups of
+people?
+
+Finally, is electronic writing textual? Can one speak of an 'electronic
+text'? Is electronic writing _read_? Are there other ways to approach it?
+(Is electronic writing an 'it'?) I want to argue against canon, genre,
+static or state approaches, I want to argue in favor of a general field
+phenomenology of organism, inscription, inscribing, emanent, machinic and
+other phyla, wryting and other processes, I want to think through no final
+solutions, no stages of consciousness, no conclusions, no edifices, no
+thing, other and no other, I want to argue against this messaying, this
+lack (what did I forget, what did I leave out, what have I gotten wrong,
+what don't I know, what did I express poorly if at all?), I want to argue
+against argument, I want to argue the favor of your
+
+
+
+-
+
+
+
+
+Important Things
+
+
+Our house likes in a small depression in one of Morgantown's hills; as a 
+result anyone can see into it from above We keep the shades drawn at 
+night. Around midnight last night, two white males 20-25 knocked on the 
+door of a house on the next block, broke in, beat up the residence with a 
+tire iron or crowbar, and stole whatever. Someone might just part behind 
+our house in the alley, work his way up the side to the porch, wreak 
+havoc. My body's temperature regulation has always been off, but is worse 
+than ever here, and I've had slight fevers as a result. Our cat Ossi 
+Oswalda makes our house feel like a home. There is no red spot on my desk, 
+no flock of blackbirds, no waiter against which I measure myself, selves, 
+and the world. The basement of our house is dark, but there is no pile of 
+rope which might be mistaken for a snake, or a snake which might be 
+mistaken for a pile of rope; instead there are familiar things and we find 
+our way round in the dark. We are frightened of Bush and M. Cain; there is 
+no esthetics to our politics, which are weak theory tending towards TAZ. 
+West Virginia has the highest prescription drug rate per capita in the 
+country and it's out of control; I argue with my 'health care provider' to 
+get basic medicine. No one has stolen our copper telephone wires to sell - 
+they bring fair money - and I gather some drugs, which we are not on, cost 
+between $60 and $80 per pill. A letter I wrote to the Dominion Post was 
+published, decrying the efforts of someone on the state legislature to 
+teach gun use and safety to school children; the idea is to revive the 
+local hunting population, which is on the decline. I visited a friend of 
+mine five minutes after his mother-in-law was given last rites; she is 
+still alive and spent six hours last night calling out apparently random 
+numbers. The atmosphere creaks with tension. Changes are about. I will 
+reread the Diamond Sutra. The small scanner computer in the lab began 
+screaming this afternoon; it wouldn't stop. We opened it up and found the 
+fan burned out, everything red-hot. We took a fan from another computer 
+and so far things are working out fine; I scanned Siva and vajra. Our 
+friends in Bruceten Mills might have weather damage; the area was hard-hit 
+and a dam broke last night. Ossi Oswalda is dreaming again. I picked up 
+Boston on the crystal radio. It's night.
+
+Against this I think of important things, or against these things, some of 
+which are important to me, I think of things which might be ultimately 
+important. Of course these aren't things, but events, happenings, and 
+there is an entire literature about the distinction between the two - a 
+distinction which is slippery at best and which requires at least a rather 
+coherent idea of a rather coherent space-time, against which all things 
+are measured. Or not, for one might well take into account fuzzy logic, 
+the asymptotic behavior of strange attractors, and the general miasma of 
+the real world. And who is this 'one' taking this into account, taking 
+anything into account, if not for a 'one' who is fearless and healthy, or 
+at least tending towards both? For the philosophy of important things is 
+by and large taken up from the position of health and equanimity; while 
+one might not write lyric poetry after Auschwitz, philosophy stands firm. 
+
+What would a philosophy of important things, which are not things, from 
+the viewpoint of ill health or mental disturbance - what would such a 
+philosophy look like? We might turn to Levinas' existence and existents, 
+or some of Lingis; we might turn towards subaltern philosophy or libera- 
+tion theology; we might embrace those who write with their backs to the 
+wall, as if the Resistance were a model for truth distilled against a 
+desperation of everyday life and the occasion of that desperation. We 
+might turn further to philosophy of the sick-bed, to tantric embrace of 
+death by those still alive, those dying, those already passed. We might 
+discuss emptiness and the vast sweeping that occurs in Madhyamaka phil- 
+osophy - and in the philosophy of 'the Buddha from Dolpo,' Dolpopa Sherab 
+Gyaltsen, who emphasizes a kernel of absolute truth, two modes, not one, 
+of emptiness. Or we might insist that emptiness is of no consequence and 
+no occasion, and is not important, or the least important, but then what 
+is one's attitude towards rebirth and cyclicity, which I believe are at 
+best medieval concepts? Turn back a moment towards that absolute, or any, 
+or any other, and one might find safe haven, a harbor, a ground, a primor- 
+dial existent or backgrounded, a chora for example, out of which good 
+things occur (one might also think through the idea of 'the fragility of 
+good things' in relation to the bad at this (empty) point). One argues, 
+speaks, thinks, within the background just as one exists within the 3K 
+background radiation of the universe: it's there, not as dark matter might 
+be, but as the dimmest consistent illumination as the cataclysm of cosmic 
+birth spreads out, presumably forever. We're heading for the dark, but 
+will never quite reach it - an opposite of absolute zero, it is the place 
+or space of the greatest weakening of all. 
+
+Absolutes frighten me; I cannot imagine a guru, authority, presence, to 
+which I would give myself, even in the light of incandescent knowledge. 
+When I look at important things - being, nothingness, foreground, life, 
+death, absence, presence, creation, annihilation, motion, language, ikon, 
+symbol, index, chora, self, selving, others, worlds, true world, worlding, 
+beings, essence, existence, safe-harbor against home invasion, healthy 
+temperature regulation of the body - they don't disappear upon scrutiny, 
+they don't divide, they're not solved or resolved relegated to dependent 
+categories, they're not illuminated by continued and permanent analysis or 
+therapeutic. They shift and are messy, their boundaries meld into other 
+melding boundaries, their skins are sheave-skins which themselves turn out 
+to be protocols and elemental manipulations. Below all, they're abject, 
+neither here nor there, neither one thing nor the other, embodiments of 
+dissolving Sheffer-strokes and their duals. When I look at important 
+things, my analysis flees from analysis; it is the analysis of flight; of 
+exile, but exile on the move; of refuge, but temporary at best; of dis- 
+course, but against the futility of speech, languor of language, loss of 
+memory which haunts us from before and after our breathing lives. Import- 
+ant things are neither in the absolutes or categories, nor in the details; 
+neither the forest nor the trees; and neither the gesture nor the proto- 
+col. They are not things. They are withdrawals, puckers; they are the 
+austral and boreal currents among earths and metals in various states of 
+weather and decomposition. 'When I look at important things, my retina and 
+its processing.' I might say this writing is a refuge from the night, but 
+what night, what refuge, what writing? All of my writing, perhaps, and all 
+writing, perhaps, writing on the wane.
+
+
+http://www.alansondheim.org/vajra99.png
+http://www.alansondheim.org/vajra99.png
+http://www.alansondheim.org/vajra98.png
+http://www.alansondheim.org/vajra97.png
+http://www.alansondheim.org/vajra96.png
+http://www.alansondheim.org/vajra95.png
+http://www.alansondheim.org/vajra94.png
+http://www.alansondheim.org/vajra93.png
+http://www.alansondheim.org/vajra92.png
+http://www.alansondheim.org/vajra91.png
+http://www.alansondheim.org/vajra9.png
+http://www.alansondheim.org/vajra8.png
+http://www.alansondheim.org/vajra6.png
+http://www.alansondheim.org/vajra5.png
+http://www.alansondheim.org/vajra4.png
+http://www.alansondheim.org/vajra3.png
+http://www.alansondheim.org/vajra2.png
+http://www.alansondheim.org/vajra1.png
+http://www.alansondheim.org/newsiva6.png
+http://www.alansondheim.org/newsiva5.png
+http://www.alansondheim.org/newsiva4.png
+http://www.alansondheim.org/newsiva3.png
+http://www.alansondheim.org/newsiva2.png
+http://www.alansondheim.org/newsiva1.png
+
+(A note on the images. The vajra come closest a gesture of illumination,
+sheave-skin, chora, than any other of the recent images, I think, the Siva 
+offer (most problematic) form.)
+
+
+
+
+important things ii
+
+
+in 'Important Things' i initiated the move from a poetics of everyday life 
+to a deconstruction of absolutist philosophy; the tension between the two 
+plays out in life, text, image, sound. the experience of the body is the 
+body, the experience of the body is anything which can be reflected, any- 
+thing which cannot be reflected. our death is a sign we cannot speak. your 
+death is that sign of speech, that sign which is any sign. my death is a 
+sign i cannot speak. we meander among signs and voice do we not?
+
+in important things i began the project which appears as the object of 
+anita berber. ghosts exist and this is as much in evidence as anything, 
+anysign. let us think of anysign as the bending or devolution of sign;
+the sivaj below are just such a sign.
+
+anysign is neither singular nor plural and replaces anything in the true 
+world, just as anything in the true world replaces anysign given the 
+ikonic thud of sign, voice, body, text, image, sound, life. 
+
+life is emanent life and tissue-skin emanent is sheave-skin organism.
+
+Leon Brillouin in Science and Information Theory, quoted in Patrick 
+Meredith, Instruments of Communication: "There is obviously a certain 
+expenditure of energy in the process of writing, but we find no trace of 
+the energy on the written page. There is no visible negentropy left 
+either, yet the information is there, completely dissociated from these 
+other elements."
+
+then reading is the coagulation-energy from the anysign catalyst which is 
+a pharmacopeia of the real. and then anita berber chora-choratic wanders 
+anysign. withdraw the name and the real puckers and withdraws; fluids 
+circulate, and it is clear, among less important things, that 'object of 
+anita berber' construes a proper name only in its abandonment. anysign is 
+crutch, any utterance prosthetic.
+
+
+object of anita berber and ghosts of important things
+
+http://www.alansondheim.org/ghosts.mp4
+
+objects of syrup and meditation
+
+http://www.alansondheim.org/sivaj01.jpg
+http://www.alansondheim.org/sivaj02.jpg
+http://www.alansondheim.org/sivaj03.jpg
+http://www.alansondheim.org/sivaj04.jpg
+http://www.alansondheim.org/sivaj05.jpg
+http://www.alansondheim.org/sivaj06.jpg
+http://www.alansondheim.org/sivaj07.jpg
+http://www.alansondheim.org/sivaj08.jpg
+http://www.alansondheim.org/sivaj09.jpg
+http://www.alansondheim.org/sivaj10.jpg
+
+
+-
+
+
+d-d-d-d-d-istributivity
+
+
+own of of istribution, the which law only istribution, the which law only 
+istribution, the which law only istribution, in 
+istribution, in 
+
+istribution, in 
+the law break
+which classical only the hols breakwhich classical only the hol
+s breakown in of classical the then clear it 
+s break
+own in of classical the then clear it 
+own in of classical the then clear it 
+
+own clear of that istributivity istributivity 
+istributivity istributivity it 
+istributivity it 
+
+istributivity it 
+that is the also break
+ual its form, ual istributivity form, breaks breaks 
+
+ual istributivity form, breaks breaks 
+connecte
+istributivity form, breaks breaks 
+ also in 
+er raically; in consimore 
+ically; in consier its position. 
+own ra
+er its position. 
+ically; more consi
+position. an i quan- am thinking about further the about breakposition. an
+ i quan- am thinking about further the about breakown 
+ i quan- am thinking about further the about break
+own 
+own 
+
+iscrete), A there B an (iscrete), C, there also exists iscrete), C, 
+there also exists 
+iscrete), C, there also exists iscrete an such 
+iscrete an such 
+
+iscrete an such 
+(
+C, propositions iscrete anC, propositions 
+iscrete an such B AuB=AuC=BuC; can thus now "we 
+iscrete an
+ such B AuB=AuC=BuC; can thus now "we 
+ such B AuB=AuC=BuC; can thus now "we 
+
+ valiity why of valierstan
+ity why of valiity 
+ can why now the un
+ity 
+erstan
+ee, cannot let be A, boolean. from inee
+, cannot let be A, boolean. from inee, 1968; let he 
+
+ee, 1968; let he 
+superposition in
+, 1968; let he 
+ee
+relation an right, following: one A sees anrelation an
+ right, following: one A sees an following: two since be are 
+ right, following: one A sees an
+ following: two since be are 
+ following: two since be are 
+
+e sie is equal sie to is 
+
+e is equal sie to is 
+AnB=0. AnB=0. hence hence the right-han
+e to is 
+ si
+0u0=0. equal left-han since since but AuB the contains left-han0u0=0. 
+equal left-han
+ since since but AuB the contains left-han C. with 
+ since since but AuB the contains left-han
+ C. with 
+ C. with 
+
+us because look right-han however sius because look right-han
+ however sie Cn(AuB); equal because to a the 
+ however si
+e Cn(AuB); equal because to a the 
+e Cn(AuB); equal because to a the 
+
+- AuB=(+-)u, in where its u entirety, = C ban- a wi- a wi
+- a with subset 
+th subset 
+
+th subset 
+subset ban
+entirety, where we we given given contraiction contraentirety, where we 
+we given given contra
+iction contraiction Cnu=C=0. 
+iction contra
+iction Cnu=C=0. 
+iction Cnu=C=0. 
+
+narratives results emerge? in even expansion rig an venarratives 
+results emerge? in even expansion rig an
+ vea's a x,129 
+ ve
+a's a x,129 
+a's a x,129 
+
+beginning portens in beginning the "1. has waveform vebeginning porten
+s in beginning the "1. has waveform vea's has x,129 
+s in beginning the "1. has waveform ve
+a's has x,129 
+a's has x,129 
+
+2. waveform spectrum nonzero particular meium. me2. waveform spectrum 
+nonzero particular me
+ium. meium. everything 
+ium. me
+ium. everything 
+ium. everything 
+
+epens epen
+s epens significant #1 3. #2 waveform "significant" a 
+
+epens significant #1 3. #2 waveform "significant" a 
+everything 
+s significant #1 3. #2 waveform "significant" a 
+epen
+ress, aress, recognition: protocol, the recognition: 
+
+ress, recognition: protocol, the recognition: 
+
+ hysterical an embo embo
+ emboiment 
+iment 
+
+iment 
+sourceless/targetless spew, communications. an
+the variants reaing reathe variants rea
+ing reaing other. other. hysterical synesthesia the 
+ing rea
+ing other. other. hysterical synesthesia the 
+ing other. other. hysterical synesthesia the 
+
+efuge, burnouts burnouts anomies anomies 7. thir 7. sex thir 
+
+ 7. sex thir 
+
+ 
+efuge, 
+ 
+ascii the unconscious. ascii 8. uncanny/imaginary, uncanny/imaginary, 
+an
+fantasms, the reaing/jectivity the 9. communities 9. communalities 
+anfantasms, the rea
+ing/jectivity the 9. communities 9. communalities an 
+ing/jectivity the 9. communities 9. communalities an
+10. of isruptions community community self, self, inversion web an10. of 
+isruptions community community self, self, inversion web an 
+isruptions community community self, self, inversion web an
+isruptions 11. liquiities 11. iities 11. i
+ities 11. ientity, of 
+entity, of 
+
+entity, of 
+inversion power. power. 
+entity, shifting, ientity shape-riing. shifting, 12. 12. 
+
+entity shape-riing. shifting, 12. 12. 
+i
+ing. shifting, 12. 12. 
+entity i
+appearances appearances cybermin cyberminappearances appearances cybermin
+ cybermin elsewhere elsewhere 
+ cybermin
+ elsewhere elsewhere 
+ elsewhere elsewhere 
+
+ictions, aictions, censorships, censorships, 
+
+ictions, censorships, censorships, 
+
+eath oburate aneath the off as net, an
+urate an 
+/or physical 17. bo
+ue. the 18. 18. virtual virtual veile veile 
+
+ veile 
+an
+etemporalizations subject. an 20. generalize 20. generalize
+ 20. generalize 20. 
+ 20. 
+
+ 20. 
+problematic in virtual 
+ geometries mesaure issipative anissipative an
+issipative an 21. emotional 
+ 21. emotional 
+
+ 21. emotional 
+mesaure generalize
+phenomenology states, emotional an states, phenomenology states, 
+emotional an
+ states, iscourses behaviors, on 
+ states, 
+iscourses behaviors, on 
+iscourses behaviors, on 
+
+iscourses net. 23. source source an phenomenologies of voice, mouth, 
+iscourses net. 23. source source an
+ phenomenologies of voice, mouth, 
+ phenomenologies of voice, mouth, 
+
+ passwor, passwor, passwor
+, passwor, 
+, 
+
+, 
+looping, looping, blackholes, blackholes, the blin
+the 'great beyon.' beyonthe 'great beyon
+.' beyon.' 25. 26. 26. events events cyberspace: 
+.' beyon
+.' 25. 26. 26. events events cyberspace: 
+.' 25. 26. 26. events events cyberspace: 
+
+life, everyay anlife, every
+ay an life, sociology. philosophy 29. sociology. of 
+ay an
+ life, sociology. philosophy 29. sociology. of 
+ life, sociology. philosophy 29. sociology. of 
+
+
+
+Aalan and Nikuko: The Gesture
+

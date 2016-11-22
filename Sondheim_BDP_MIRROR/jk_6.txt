@@ -1,0 +1,50 @@
+
+
+
+Software - notes
+
+
+(This is partly in response to S.B., who wrote a detailed reply to Cyber-
+mind.) First, it seems to me that increasing familiarity with code leads
+to the ability to create small scripts, not only subroutines, that can
+carry out various simple tasks; these act as part-objects or interstices
+for everyday work. When I was doing some mathematics programming in
+qbasic, I became adept enough to write short programs whenever necessary
+(I was examining simple chaotic behavior among other things); these
+programs became "words" or particles of their own. I imagine a situation
+of developed macros in an account (I have only 3 of them) which can carry
+out various tasks, with new macros created when necessary. One sign of
+adept programming, then, would be the ability to work without debugging
+by and large, at least for smaller programs - to write as speech. 
+
+A second point is that even from my limited programming ability, I see
+implicitly how to construct, say, expert systems or active editors; these
+are questions of scale. On the other hand, I've yet to figure out how to
+implement sockets, which require reasonably small programs, but are much
+more complex. On the third hand, expert systems can be fairly complex in
+terms of design philosophy, and sockets can be fairly simple. So there are
+levels of complexity to take into account - just as one can have a fairly
+complex .html document without fairly complex coding.
+
+And a third point is that of the tradeoff between complexity and useful-
+ness; some of my mathematics programs allow the entering of so many varia-
+bles that each run requires a couple of minutes to configure. There's a
+tradeoff here between flexibility (numerous "features") and usefulness;
+the more flexible a program is, in general the more complex the user
+interface.
+
+On the other hand, and there are lots of hands at work, something like X
+Window is remarkably simple on the surface, and some configurations of
+Win95 aspire to the same. On the linux machine I was using a while ago,
+the screen was a perfect blue; clicking the mouse brought up various
+menus.  The complexity was there; it was beneath the carapace, rendering
+the machine oddly insect-like - one imagined tendrils descending into the
+interior, all the way down to the circuit-boards. It's these situations
+that are beyond my programming comprehension; I could draw flow-diagrams
+of choices but would have no idea about implementation.
+
+Again, I apologize for my limited knowledge in these areas. (I want to add
+that there are interesting early software hacks available on the Net; I've
+downloaded some HAKMEM examples from MIT, A.I. lab, 1972.)
+
+

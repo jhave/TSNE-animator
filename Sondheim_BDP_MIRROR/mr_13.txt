@@ -1,0 +1,27 @@
+
+
+
+The Shorter Catechism
+
+
+"|IFS=' ';exec /usr/local/bin/procmail||exit 75 #sondheim"
+long/load phoenix.irc /load phoenix.hlp /nick Alan /notify kikina options
+alias q bye alias e /server eagle.uccb.ns.ca
+morefiles 0.1c 2 pinealt.abuse.transcendance! alt.fan.robert-jordan!
+de.alt.comm.ums! staff.misc!
+joe(setq default-major-mode 'text-mode) (setq text-mode-hook
+'turn-on-auto-fill) (setq fill-column 75) (keyboard-translate ?\C-h ?\C-?)
+(keyboard-translate ?\C-\\ ?\C-h) (load "studly") (setq load-path (append
+load-path (list "/net/u/6/s/sondheim/lisp"))) (load "dor") (load "zz")
+set exrc set autoindent set wm=6 ignorecase set shiftwidth=4
+
+i'm tired of this stuff. it doesn't make any sense. culling stuff from the 
+net or operating system doesn't make art. the mystery's in the production, 
+not in the stupidity of lists no one can interpret. sure, it's a 
+cathechism - it makes the account go round, but so what? it's got no 
+meaning by itself, any more than an automobile wiring diagram takes you 
+someplace. codework is stupid this way; it's nothing more than a minor 
+art. if you don't try for greatness all the time, you're insulting your 
+audience. this is just absurd.
+
+

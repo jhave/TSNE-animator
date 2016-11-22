@@ -1,0 +1,91 @@
+
+--
+
+
+A Home is just a House
+
+
+I have a Compaq Aero 25 notebook computer which was sold to me by store X 
+as new, although it turns out used. Three weeks ago, it developed a boot 
+problem and I did a diagnostics which mentioned the video checksum and I 
+called Compaq who referred me to a repair shop Y. I took it to Y and they 
+replaced the entire motherboard with a new one (covered); they're author- 
+ized by Compaq. I took it home and the video gave out. I brought it in 
+and they fixed the video plug. I called Compaq and they told me the unit 
+was refurbished, not new. I requested a new unit. They referred me to 
+customer services. I took the unit home and the hard drive gave out. I 
+brought it back to Y and after a few days they replaced the hard-drive. 
+Compaq called dealer X to pressure them to do something. I called X and 
+they told me it would take "days." They also sold me the unit, it turns 
+out, without cables, etc. that were supposed to accompany it. I called 
+the consumer affairs office of NY and was told I needed forms from Com- 
+paq. I called and left messages with Compaq. I brought the unit home from 
+Y. The video has given out. Compaq has referred me to their legal depart- 
+ment. The store, X, says they'll try and find another unit. It has been a 
+total of three weeks. The case is scuffed and the hinge doesn't work 
+properly at this point. 
+
+(When the hard drive went down I lost about 50 megs of programs. I was 
+able to reload them before the video gave out the second time, but beyond 
+reloading, there was a software mess as well, since for example the lpmud 
+required considerable adjustment to the autoexec.bat and config.sys files 
+and this needed a lot of trial and error. I finished all the adjustments 
+and the screen showed streaks.)
+
+So I have to bring the unit back to Y, sue or threaten to sue X, call 
+Compaq's legal department - and I have not had my notebook for my consul- 
+ting jobs for over three weeks. I am supposed to go home for the holidays 
+and may have to cancel that as well, if I can't work with a unit there.
+
+The reason I'm writing this is that such massive errors and problems tend
+to return our cybernetic/cybermind selves to the surface of the machinery. 
+I have had a difficult time concentrating on anything else. I don't exper-
+iment with the desktop at this point, because if it gives out, I'm out of
+work entirely (there are 400 megs of programs on it, about 250 download-
+ed). So I distance myself, bracket the machinery, which continues to haunt
+as the prosthesis is removed, temporarily or permanently. And I no longer 
+see the interior, say, of email, without seeing the crashed packets - nor 
+do I obviously trust either repairshops or dealers at this point. (Compaq 
+has been mostly fair, but there is a distributed notion of guilt among 
+all three parties, resulting in the fact that I have nothing to work with 
+and will probably be out a great deal of money shortly - I'll have to 
+start all over again, with another notebook...) So the support network, 
+which is usually slow but taken for granted, itself breaks down. On an 
+average call to Compaq, I was on hold for 35 minutes, until I was finally 
+assigned a "case number," which gave me personal access to Z's answering 
+machine, where I faithfully recorded my complaints to more machines.
+
+All of this also demonstrates how close to the edge one works in this
+medium - I must make continual financial and time investment in the Net,
+Net access and computers, keeping up with the changing landscape (Iphone's
+new beta, which I don't dare download without a backup machine for exam-
+ple) - and if I falter, when the notebook goes down, there's an almost 
+perfect closure for a period of time. The stress is incredible. There's 
+little recourse.
+
+Part of this has to do with the kinds of failure one has with digital 
+equipment - unless one is very good, one can't repair it oneself. This 
+wasn't true for analog machinery. For example, I have two shortwave 
+radios here, one a Hallicrafters from, I think, the 40s or 50s, which I 
+bought at a Salvation Army, and which I repaired, vacuum tubes and all - 
+it works wonderfully. If something goes wrong with it, I can get inside 
+it again. On the other hand, I have a Sony 2010 digital which also works 
+perfectly - but if anything goes out on it, there is nothing I can do but 
+send it in - everything occurs within closed and complex circuitry. On 
+the Hallicrafters, I can use screwdrivers, alcohol, wire cutters, and a 
+soldering gun; I don't even have the specialized equipment necessary for 
+the Sony. 
+
+Thinking like this isn't particularly original, and equipment failure
+returns one to the simplest mechanisms. Tonight I reconfigured the short-
+wave antennas, in fact, and the radios breathe a bit easier. But I can't
+work, can't think, and my hands have disappeared. It takes something like
+this to indicate to what extent we're already cyborg, half alive in real
+life, half alive in cyberspace. (Feeling half dead in both. And it is
+increasingly the _quality_ of realspace/cyberspace that keeps me moving; 
+there is no otherwise love, sexuality, affect in my life. I am _embedded,_
+not bedded, when things are as good as they are going to get. And now the 
+air has started to disappear in the midst of the hard machinery of the 
+living _things_ themselves.)
+
+

@@ -1,0 +1,108 @@
+
+wiz-index      -- Wizard Help (#23)
+prog-index     -- Programmer Help (#22)
+builtin-index  -- Builtin Function Help (#28)
+core-index     -- Core Utility Help (#19)
+gen-index      -- Help Database (#59)
+full-index     -- EVERYTHING
+help wiz-index
+Wizard Help Topics
+------ ---- ------
+$site_db            forked-tasks        @net-who            @shutdown
+@@who               further-reading     @new-password       site-info
+@abort-shutdown     @grant              news-items          spooflist
+adding-help-text    graylist            @newt               @spooflist
+advertised          @graylist           @players            @temp-newt
+blacklist           @grep               @programmer         @toad
+@blacklist          @grepcore           @quota              @unnewt
+@chown              @guests             @recycle            @untoad
+@denewt             @log                recycling-players   @who-calls
+@deprogrammer       mail-lists          redlist             wiz-index
+@detoad             make-core-database  @redlist            
+@dump-database      @make-guest         @register           
+@egrep              @make-player        @shout              
+*Player-Creation-Log
+*New-Prog-Log
+*Quota-Log
+*News
+*Site-Locks
+*Password-Change-Log
+Composing a letter to *News (#60) entitled "We're Starting in Japan!"
+"Welcome! We're starting in Japan! Join us in Kyoto!
+Line 1 added.
+send
+Mail actually sent to *News (#60)
+You say, "take a look at the news..."
+Alan has disconnected.
+The housekeeper arrives to cart Alan off to bed.
+kayo says, "We're starting in Japan?! :-D"
+You say, "We're in Kyoto!"
+kayo teleports Tokyo in.
+"What on earth is Tokyo?
+You say, "What on earth is Tokyo?"
+kayo teleports out.
+You see Quartz and Tokyo here.
+kayo says, "I'm trapped"
+You say, "Where are you?"
+kayo says, "in Tokyo!"
+You say, "go s actually..."
+look
+Tokyo
+You see nothing special.
+kayo is here.
+s
+Kyoto
+This is all there is right now.
+kayo has arrived.
+kayo leaves for the s.
+You say, "this topography is getting complicated! 
+we should put in descriptions if we keep it  
+otherwise it will get to be a mess.."
+You say, "there are two Kyotos, two Tokyos, one Quartz and one Yurt."
+You sense that kayo is looking for you in Yurt.
+Objects owned by Wizard (from #0 to #105):
+  #0 The System Object              [Nowhere]
+  #1 Root Class                     [Nowhere]
+  #2 Wizard                         [Yurt]
+  #3 generic room                  
+  #4 generic builder                [Nowhere]
+  #5 generic thing                  [Nowhere]
+  #6 generic player                 [Nowhere]
+  #7 generic exit                   <invalid>-><invalid>
+  #8 generic container              [Nowhere]
+  #9 generic note                   [Nowhere]
+ #10 Login Commands                 [Nowhere]
+ #11 Player Last_huh Verbs          [Nowhere]
+ #12 Guest Log                      [Nowhere]
+ #15 Limbo                          [Nowhere]
+ #17 Player-Creation-Log           *[Mail Distribution Center]
+ #20 string utilities               [Nowhere]
+ #21 building utilities             [Nowhere]
+ #22 Programmer Help                [Nowhere]
+ #24 Wizard Utilities               [Nowhere]
+ #29 New-Prog-Log                  *[Mail Distribution Center]
+ #34 Quota-Log                     *[Mail Distribution Center]
+ #42 permissions utilities          [Nowhere]
+ #51 object utilities               [Nowhere]
+ #52 lock utilities                 [Nowhere]
+ #53 generic letter                 [Nowhere]
+ #55 command utilities              [Nowhere]
+ #56 generic wizard                 [Nowhere]
+ #57 generic programmer             [Nowhere]
+ #69 Site-Locks                    *[Mail Distribution Center]
+ #71 Network Utilities              [Nowhere]
+ #74 Gopher utilities               [Nowhere]
+ #79 Generic Utilities Package      [Nowhere]
+ #83 Server Options                 [Nowhere]
+ #87 FTP utilities                  [Nowhere]
+ #88 password verifier              [Nowhere]
+ #89 Generic Gendered Object        [Nowhere]
+ #91 Generic Mail Receiving Player  [Nowhere]
+ #94 Yurt                          
+ #95 n                              *Kyoto->*Kyoto
+ #96 n                              Yurt->*Kyoto
+ #97 s                              *Kyoto->Yurt
+#100 Quartz                        *[kayo]
+#102 s                              *Tokyo->*Kyoto
+#105 s                              *Kyoto->*Kyoto
+-- 44 objects.

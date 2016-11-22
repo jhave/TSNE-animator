@@ -1,0 +1,1380 @@
+
+
+
+I've been following this discussion and thought the best way I might 
+participate is to describe the work that I've done with Foofwa d'Imobilite 
+and others over the past decade or so. We went from using video and audio 
+tracks accompanying choreography, to work in Blender and Poser. The Poser 
+work was created from bvh (Bio-Vision Hierarchy) files produced with 
+motion capture (mocap) equipment that used 21 sensors electromagnetically 
+interacting with an antenna. The antenna fed sensor signals into a hard- 
+wired 486 microprocessor that output coordinates; these were fed into a 
+second computer that created the bvh files themselves. we modified the 
+sensors in a number of ways - some through the software interface, and 
+some with limb assignment and position. We did a piece called heap for 
+example - the sensors were dropped in a heap and the bvh file fed into 
+Poser. We did a star piece, arranging the sensors in a star formation on 
+the floor and inverting it by exchanging +r from a sensor position to -r. 
+We also reassigned sensors in several ways - dividing them between two 
+bodies, remapping inversely onto a single body, and so forth. All of this 
+produced bvh/Poser mannequins that were used as projections in live per- 
+formance, or chroma-keyed over dance/performance video.
+
+All of this work was at West Virginia University's Virtual Environments 
+Lab, headed by Frances van Scoy. I received an NSF consultancy through 
+Sandy Baldwin and NYSCA grant; through the former, I had a grad assistant 
+from software engineering, Gary Manes, to assist me. We went into the 
+mocap software itself and Gary rewrote it, creating a dynamic/behavioral 
+filter interface, which would produce transforms from the sensor output - 
+before the 3-d assignment to bvh was made. This was modeled on graphic 
+software filtering, but the assignments were different - we applied a 
+function f(x) to the coordinates and/or modified the coordinate mechanism 
+or input streams themselves. The bvh files that were produced were sent 
+into Poser for editing; in some cases, Poser mannequin video was output. 
+But more and more, we edited in Poser to format the bvh for upload to 
+Second Life; this way we had live 3-d performance based on the transforms. 
+This performance could interact within Second Life itself - with other 
+online performers and audience - or through projection, without Second 
+Life, in real-space where performers might interact with the avatars.
+
+The bvh files are complex and avatars perform, most often at high-speed, 
+with sudden jumps and motions that involve them intersecting with them- 
+selves. The motions appeared convulsive and sometimes sexualized. Foofwa 
+d'Imobilite used projects direct from Poser - about 100 files - as part of 
+Incidences, a piece produced in Geneva and widely shown. Foofwa, along 
+with Maud Liardon and my partner, Azure Carter, also imitated avatar move- 
+ment - and this fed back, from dance/performance into programming and pro- 
+cessing; at times it has been impossible to tell whether a particular 
+motion stream originated on- or off-line.
+
+I've always been interested in the psychoanalytics of dance/performance, 
+beginning with Acconci's and Anderson's early work years ago. With Sl/ 
+live performance, we've been able to explore these things - particularly 
+issues of abjection and discomfort, sexuality/body/language - directly. 
+Two other modes of representation have been of great use - modified 3-d 
+scanner modeling programs (also from the WVU VEL), and Blender assign- 
+ment, for example, of metaballs to nodes; using both of these, we've been 
+able to create avatars that have no relation to the body whatsoever, but 
+whose movement is impelled by mocap files. These appear almost like dream 
+objects undergoing continuous transform.
+
+In SL, everything is pure, digital, protocol, numeric; by 'smearing' the 
+animation input, avatar appearance, and location, we create in-world and 
+out-world experiences that stray from body and tend towards choratic and 
+pre-linguistic drives. We've performed a lot at various limits of SL - on 
+sim edges for example, or at 4k 'up', where the physics changes. The 
+output is the usual - audience in-world or out-world, as well as video and 
+stills. I've had great help in SL programming, and Sugar Seville gave me a 
+very large gallery/museum space to experiment with these things - this was 
+from June 08 until March 09. I created complex performance spaces that 
+were literally impossible to navigate; for both audience and performer, 
+everything was negotiation. The results of this work can be best seen in 
+my files at http://www.alansondheim.org/ or at http://odysseyart.ning.com 
+or through Foofwa's site http://www.foofwa.com .
+
+Foofwa, Maud, Azure, and myself all traveled to the Alps where avatar work 
+was re-enacted live; the performances were on the edge of the Aletsch 
+glacier. (This was sponsored by a Swiss grant.) What was interesting most 
+to me here was the development and performance of a field - Foofwa dancing 
+with a VLF (very low frequency) radio antenna, for example - his body 
+coupled and modified the electromagnetic capacitance surrounding the wire. 
+We had done this indoors with Foofwa and Azure; outdoors, against the 
+glacier, spherics formed a deep part of the content. This also paralleled 
+work we did with the mocap sensors at WVU - using high-strength magnetics, 
+we modified the local fieldlines, almost as if we were modeling general 
+relativity's 4-space gravity/mass interaction - the results were similar. 
+I'm fascinated by these 'cosmologies in the small'; at the same time, want 
+to avoid any easy and false metaphoric equivalence with scientific theory. 
+As for the theory of the work we're doing, at least from a phenomenologi- 
+cal viewpoint, I've put up http://www.alansondheim.org/sltheory.txt which 
+has also been published as a book.
+
+At the moment I'm working with sim overload and self-reflexivity: on a 
+simple and neat level, what if a performing avatar connects to an object 
+('prim' complex) designed to move away from hir? The result is a total 
+[avatar/complex] that flees indefinitely - at least until the complex goes 
+out of world.
+
+(in response to a discussion on the Empyre email list that was never 
+posted by the moderators)
+
+
+
+
+
+Ukulele mapping onto bass lines: psychoacoustics of projected mass.
+
+http://www.alansondheim.org/ukubass1.mp3
+== playing fast bass-lines on uke. This was almost impossible to do, 
+since the uke resonance dominated.
+
+http://www.alansondheim.org/ukubass2.mp3
+== attempting the same through a song format. The result is more 
+"bass-like" but has the same lumbering quality.
+
+http://www.alansondheim.org/ukubassmix.mp3
+== This and the following originate from the same ukulele file - but 
+with different ukulele/quarter ukulele mixes. The projected mass is
+completely different as well.
+
+http://www.alansondheim.org/ukubassremix.mp3
+
+Listen to some of thisI hope you'll listen to some of this. 
+some of this listen toListen toI hope 
+
+
+
+Event Horizon Revisited
+
+Nine sorts of common Dances always used: Salingers round, Bobbin-jo, 
+Jingle-de-cut, Bodkins Galliard, the madmans Morris, Drunken Barnaby, the 
+Bed full of bones, roonm for Cuckolds, and the Lankishire horn-pipe.
+
+(From Samuel Smithson, The Figure of Nine, in Samuel Pepys' Penny 
+Merriments, edited by Roger Thompson)
+
+http://www.alansondheim.org/eh.mp4
+
+event horizon generation and black-hole disappearance in the midst of 
+electrical cacophony unheard in virtual vacuum space by audience particles 
+one and all, no metaphor extended.
+
+
+
+From sondheim@panix.com Sat May  9 23:45:03 2009
+
+My Father's 95th birthday and why I might not be up to par for a while.
+
+My father's birthday started out with Azure and myself taking a 20-year- 
+old Accura in to get a tailpipe replaced and reset after I backed the car 
+into a curb yesterday. I still have no proper eyeglasses and was nervous 
+after difficulties with the family over my father - we're in Pennsylvania 
+helping him, along with my nephew and his partner, since he had a pace- 
+maker put in on April 20 when his heartbeat dropped to 38. Ok, we ate at 
+Denny's waiting for the car, got the car, went back home, and I lay down 
+to take a nap - we were returning to Brooklyn this afternoon. About ten 
+minutes later I was wakened by Azure who said there was smoke in the 
+house. we couldn't find the source. I went down into the basement and 
+found a fire in one of the rooms - furniture burning, specifically beds. 
+Azure and Amie got my father out of the house (which was decorated for his 
+birthday) and onto a lawnchair in front. I screamed for water, ran 
+upstairs and found some tonic which I threw on the fire - the flames, 
+about two feet high - were too much for it. So Dan and Azure started 
+bringing water down to me and in about twenty minutes to a half hour I had 
+the fire out, dizzy from smoke which filled the house. I found a sink in 
+the basement that made filling the pots we used a lot easier. The firemen 
+arrived and I convinced them not to use their hoses - I was still pouring 
+water on the fire. They didn't and we left the house. I returned to the 
+house and met the firechief who told me someone had been smoking in the 
+basement. No one smoked so we realized someone had broken in. After the 
+firemen left we looked around, found no one, called the police and a 
+locksmith. The police had no idea what happened and the locksmith 
+installed a very heavy deadbolt on the basement door and left. Azure tried 
+the deadbolt and it broke internally and the locksmith returned. The cat - 
+Katski, my father's companion for nine years - had run out of the house 
+and to this point hasn't returned. We looked all over for the cat. We 
+locked up the house and opened everything to let the smoke out. Neighbors 
+came over. Tonight a circuit breaker turned part of the house dark. We 
+have no idea what set it off. We have had three ghost cat sightings in the 
+house but no cat and nowhere to hide we haven't looked. My father is 
+distraught. We got all the burned furniture out on the back terrace. Azure 
+is distraught. We have to figure out what really caused the fire, who 
+might have broken in, was it deliberate, we don't think so, we didn't even 
+hear anyone in the house at all. We have to have an electrician come to 
+give us some idea if the circuitry had anything to do with it. Other than 
+the furniture we managed to save everything and clean the place up. It's 
+odd to think I saved my father's life given our horrendous relationship 
+over the years. I'm the damaged oldest child of three sib- lings. I 
+negotiate as much as I can with my brother and sister, my brother 
+negotiates with my sister, my sister talks to my father, my brother and I 
+try to talk to my father. The house is now under lock and key and Azure 
+and I keep going out looking for the cat. Sandy, I'll be on tomorrow; 
+Foofwa, I'm going to try and get the grants done; Myk, please let me know 
+what night i can call you. I have problems seeing which didn't affect the 
+ukulele pieces since I really don't need vision for that. I'm neglecting 
+Second Life for a bit. I apologize to everyone for being out of 
+commission, I seem to live from crisis to crisis, should not be down here 
+so soon after eye surgery for example. Please if you need a response from 
+me, be a little patient. I can't see straight and tomorrow the problems 
+we're sure will start all over again. We're going to return to Brooklyn on 
+Monday if we can.
+
+The really sad things, the cat is gone, my father close to tears, and the 
+house all decorated by my nephew and his girlfriend for a nice 95th birth- 
+day party. He was getting better and better after the surgery (there were 
+complications) but now is repeated a lot more, ever since the cat ran out 
+of the house...
+
+Sat May  9 23:37:41 EDT 2009
+
+
+
+firm and meant
+
+having been given the locus solus of a place empyrean within the firmament 
+surely to establish basecamp manipulations, here are initial setup results 
+which spew yes as usual but provide dance/performance e-poetry poetics 
+platform for future digressions, no matter how small or large fractioned, 
+at least for momentary production overflowing buffer and boundary alike. 
+these construct entrapment modules within which permitted dance/perform- 
+ance are necessarily displayed until avatar walks away, yawns, gets ready 
+for another emission-mototron. how trapped one is! a cage of one's own 
+protocols repeated uselessly as we have shown these many hours. behaviors 
+align within the wisdom of the old which rumbles tumbles along. this is a 
+continuous transfiguration always returning to the ghost of an origin 
+"sitting alone on a couch, reading and visible to a neighbor peering 
+through the foggy windows." an avatar in a virtual world controlled surely 
+by an avatar in a virtual world. avatar thought is always "caught and 
+bought." here things jump around the platform which seems to exhale, but 
+nothing very serious. aren't we all tried of psychogeography, don't we all 
+wish that something would, once and for all, break? if i'm not careful 
+we'll be that thing, the dance of the 'royal-we.'
+
+http://www.alansondheim.org/ firmament pngs
+
+
+burst
+
+http://www.alansondheim.org/neverenough1.png
+http://www.alansondheim.org/neverenough2.png
+http://www.alansondheim.org/neverenough3.png
+
+my head explodes like this and i can't get enough of it, there's never 
+enough of it, it's always falling down the edges, escaping from the 
+horizon, there's got to be more of it, it's got to come from somewhere, 
+i'm dreaming precisely this - that it's coming from somewhere, you know 
+where that somewhere is, you know what it's good for, it's good for 
+nothing, you know that's the truth, nothing whatsoever, it's good for 
+nothing whatsoever.
+
+
+
+automatic family poem
+
+umb 
+
+ownloaing.
+ownloa
+ing.
+ing.
+
+stan, stanstan
+, stan,
+, stan
+,
+,
+
+grouns. groungroun
+s. grouns.
+s. groun
+s.
+s.
+
+har harhar
+ har
+ har
+
+
+
+intereste
+
+
+intereste
+reaers
+
+goo
+
+
+goo
+s-umb-thing-youve-s-
+umb-thing-youve-one 
+umb-thing-youve-
+one 
+one 
+
+one
+one
+
+i, that
+i
+, that
+, that
+
+woul anwoul
+ an
+ an
+woul
+
+you
+
+
+
+theory theory
+
+theory. i have also completely neglected what i think is most necessary;
+1 theory is defuge and enumeration coupled with abjection and foreclosure
+9 theory is enumerated
+        there is no theory
+        but wild theory
+and law. experiment is theory- and measurement-dependent, event and world
+  dependent 
+  here later i will build upon penrose's 3-sphere/world theory, 
+perhaps the collapse is incomprehensible in terms of a unifying theory. an
+onlooker floods, down up moo mexm highways smeared with theory, your
+dyadic theories and laing - communications theory that specifies 
+an ontological theory of quantum mechanics, in which electrons _are_
+  not as they _are not._
+certainly we haven't made any contribution to physical theory or 
+ignore scientific theory, or borrow from it, on a simplistic or meta-
+physical level, we do what we can, given the 
+issues of technology, multiculturalisms, and queer / gender theory) or 
+even virginia zwiki (theory) ... it's evolu-
+tion itself, infinitesimals, particle decay, thom's catastrophe theory:
+
+   programs i developed my confused fumblings with knot theory programs i 
+ my confused fumblings with knot theory  my
+ my confused fumblings with knot theory 
+   have hurt and my inability to make amends the theory have hurt and my 
+ the theory  the abacus
+ the theory 
+
+physical theory, the startling sound of a bird in the distance, echoing 
+   ... true a space-time theory of pitch and timbre based on
+   ... space-time theory of pitch and timbre based on ...
+machine becoming-woman. (it's theory, so it's ok if it's boring, 
+_that_ - simultaneous lewdness and de/production. cohen's set theory of 
+theory in this sense as a allegiance to dance or dance as an allegiance to 
+set theory
+the imaginary, a signifier. so a signifier of dead theory. well, theory on 
+the cusp, that is, before networking. or theory which is networked, but 
+threshold, theory before, that is theory prior to, the threshold. not an 
+air, metal, wood. is theory ever final.
+
+there is no _theory_
+of war or hate, of the philosophy of culture, of media theory: all are 
+automata; it's classical theory. in any case, as far as i can tell, 
+  since a given 
+transition will occur, i.e. this isn't queuing theory. so one might make a
+philosophical theory of knowledge, ie, the study of knowledge. ontology is 
+the theory of the nature of being and existence, ie, the application of:
+
+rewrite: ruleset   0   input: travis @ theory . hashish . net
+rewrite: ruleset  98 returns: travis @ theory . hashish . net
+rewrite: ruleset  90   input: theory . < hashish . net > 
+rewrite: ruleset  90 returns: travis < @ theory . hashish . net . >
+rewrite: ruleset  95   input: < > travis < @ theory . hashish . net . >
+rewrite: ruleset  95 returns: travis < @ theory . hashish . net . >
+rewrite: ruleset   0 returns: $# smtp $@ theory . hashish . net . 
+
+think of
+chain mail theory from the violence of the mail, a rewrite of theory: the
+ceiling is a semi-oval. i worry that theory has already corroded me, that 
+theory forms something to be said. the edge thins to non-existence, in 
+and against theory, against all theory of whatever persuasion, to be sure,
+violently against theory against all theory of whatever persuasion against 
+performance, sport, theory. but it's a question 
+inspired by string theory. 
+
+  this video has eleven dimensions
+back to them, string theory makes the poem
+theory hard and solemn
+theory cold and wondered
+life nor death. 
+
+  i eat fast. i never sleep properly. i dream theory and metrical 
+phonology is a phonological theory concerned with organizing 
+example of the "fragility of good things" in catastrophe theory - if 
+i'm thinking of a theory but the theory falls flat-euclidean. reading a 
+10 (ten). think of such well as strange attractors in chaos theory accom-
+panying psychoanalytic theory), but this need not be the case: given what 
+is in reality, a theory is embedded in the following, thinking through
+theory: topology and topography, topography and topology, that's all.
+
+that's all of theory theory.
+
+
+
+CERN MOON
+
+Ben CEN den DEW ED EH EL ET EWE EX FEW HEW JEW MEW NEW PEW SEW 
+be bee ed EEG eel eh eke el ere et a
+eve ewe ex exe eye fee gee he hee lee me nee re see tee we wee went wet 
+when win won wren yen Zen eye am bum cm cum GM gum hum km mm mum nm PM rum 
+sum tum ums un up ur us un aha ha TA tea th Thai than that thaw the Thu 
+thy THz TVA TWA bun dun fun gun man men Mon mud mug mum muon nun pun run 
+sun tun un
+Abe ace acne age ale an and anew Ann Anne ant ante any ape are ate Ave awe 
+axe aye bane cane Dane Jane lane mane one pane sane vane wane chairs hairs 
+theirs th airs th-airs keno knob knot know Knox no her whee when where 
+whet whew whey whir TA tau tb th Thu to tr tub Tue tug tum tun tut TV doe 
+foe gee go gob god goer goes gone gore got hoe Joe Poe roe toe woe
+whee wheel wheeze where Saud shed shod shun shut spud stud thud Dan Dane 
+dang dank bunter enter hunter inter punter under uniter utter dear Dec 
+deer den dew doer Dr dyer her mer oder per shun spun stun sun
+above abuse tau th the thou thru Thu thud thug thus thy THz world cue due 
+hue rue sue tee the tie AI hi ii it pi TA tb th tic tie Tim tin tip tit to 
+tr TV vi xi
+be doe foe he hoe Joe me ode OEM of oh ok on one or ore OS owe ox Oz Poe 
+re roe toe we woe true tub tube Tue tug tum tun tune tut floe flog flood 
+floor flop flow
+
+http://www.alansondheim.org/moon1.png
+http://www.alansondheim.org/moon2.png
+http://www.alansondheim.org/moon3.png
+
+
+
+Woods
+
+
+I do
+am I
+not completely
+understanding understand
+nor what
+do the
+completely was
+understand I
+what am
+the not
+work understanding
+was 
+nor
+based Honestly,I
+upon am
+? somewhat
+Honestly,I confused
+somewhat the
+confused program
+about you've
+program upon
+you've 
+?
+refered there???.I
+to am
+Whats least
+over bit
+there???.I familiar
+least refered
+bit to
+familiar ?
+with Whats
+Virtual 
+Environments 
+Laboratory, 
+West
+
+in in
+relation relation
+avatar-human avatar-human
+objectivity.What objectivity.What
+is is
+this buy
+area ,
+then?. would
+Trying be
+buy into
+, this
+would completely
+be this
+going area
+into then?.
+blind.  blind.
+A A
+question: question:
+Is Is
+some some
+sort sort
+of
+of
+presence better
+or Virtual
+better space
+space a
+a Environments
+Labortory?. World.
+It That's
+World. figure
+That's out
+all It
+can in
+figure a
+out 
+Virtual
+from 
+description 
+and from
+fore
+the
+
+http://www.alansondheim.org/ woods jpgs
+
+
+
+Hegelung
+
+http://www.alansondheim.org/hegelung1.jpg
+http://www.alansondheim.org/hegelung2.jpg
+http://www.alansondheim.org/hegelung3.jpg
+http://www.alansondheim.org/hegelung4.jpg
+http://www.alansondheim.org/hegelung5.jpg
+http://www.alansondheim.org/hegelung6.jpg
+http://www.alansondheim.org/hegelung7.jpg
+
+http://www.alansondheim.org/hegelung1.mp3
+http://www.alansondheim.org/hegelung2.mp3
+
+Thanks to Hans Brandeis, I was able (more or less) to repair the Philip- 
+pine boat lute, which most likely is a T'boli hegelung. I added three 
+frets and a fine-tuning mechanism, and Azure attached the tassel. I 
+changed one of the two strings to a b/h and tuned the drone an octave 
+lower. Finally we found a matching mirror for one missing, and I waxed the 
+body. I placed the frets according to harmonics, keeping the lower four 
+(including the 'zero' fret, which acts as the nut for the playing string) 
+more or less in the position they came in. The replacement frets were made 
+from beeswax and bamboo; Azure painted them, since black beeswax wasn't 
+available. In any case here are some images of the (somewhat) restored 
+instrument, as well as two pieces, the second based on a riff of the 
+first.
+
+
+Another round
+
+
+This time, the frets were moved, following Brandeis' measurement of a 
+T'boli Hegelung in the field, and the two strings were in unison. 
+Musically, I'm fond of these more than the others (which have been 
+removed) - hope you like them. - Alan
+
+http://www.alansondheim.org/hegelung1.mp3
+http://www.alansondheim.org/hegelung2.mp3
+
+(After another letter from Brandeis, shaming me into following the 
+traditional tuning!)
+
+
+Story 2003-present
+
+[I have a small Linux PDA, Zaurus 5500, and am often in the terminal. I've 
+kept a record of terminal commands since I've owned it; they're listed 
+below, as a narrative of activity over 6 1/2 years. Duplicate commands are 
+eliminated but indicated by the numbering. The whole is a sad legacy of 
+mistyped commands, bad directory addresses, and so forth. 'p' stands for 
+telnetting into my panix.com ISP account, 'h' for command history. Hope 
+this is of some sort of psycho-geographic interest, wandering in the 
+protocols. Apologies for the length - Alan]
+
+    3  p
+    4  exit
+    5  p
+    6  cd Documents/Text_Files/WorldCam/
+    7  ld
+    8  ls
+    9  more favorites.txt 
+   10  mv favorites.txt ggg
+   11  ftp panix.com
+   12  cat favorites.txt ggg > favorites.tx
+   13  mv favorites.tx favorites.txt
+   14  rm ggg
+   15  exit
+   16  p
+   26  su
+   27  exit
+   28  p
+   30  exit
+   31  p
+   32  network
+   33  ftp panix.com
+   34  exit
+   35  pico zz
+   36  b
+   37  wc zz
+   38  network
+   39  ls zz
+   40  ls yy
+   41  cd
+   42  ftp panix.com
+   43  p
+   45  network
+   46  ls -lt | more
+   47  wc nv
+   48  ftp panix.com
+   49  cd
+   50  ftp panix.com
+   51  p
+   52  cd Documents/
+   53  ls
+   54  cd Image_Files/
+   55  cd WorldCam/
+   56  ls
+   57  cd
+   58  ls
+   59  more zz
+   60  rm zz
+   61  ls
+   62  cd tmp
+   63  ls
+   64  cd
+   65  cd jobs
+   66  more jobs
+   67  ls
+   68  cd game
+   69  ls
+   70  wc d*
+   71  wc ad*
+   72  uniq adventure.text > zz
+   73  wc zz
+   74  uniq -d adventure.txt > zz
+   75  uniq -d adventure.text > zz
+   76  wc zz
+   77  uniq -d adventure.data > zz
+   78  wc zz
+   79  rm zz
+   80  more adventure.text
+   82  uniq --help
+   83  uniq -d --help
+   84  ls
+   85  uniq -h
+   86  uniq --help
+   87  man uniq
+   88  help uniq
+   89  exit
+   90  network
+   91  ftp panix.com
+   92  cd
+   93  ftp panix.com
+   94  cd
+   95  p
+   96  exit
+   97  p
+   98  exit
+   99  ls
+  100  ftp panix.com
+  101  more new.txt
+  102  del new.txt
+  103  rm new.txt
+  104  ls
+  105  more cal
+  106  ls
+  107  network
+  108  ftp panix.com
+  109  p
+  110  exit
+  111  cd Documents/image/png/
+  112  ls
+  113  ftp panix.com
+  114  ls
+  115  mv sc_14.58.45_Sun_Dec_26_2004.png struct.png
+  116  ftp asondheim.org
+  117  cd
+  118  p
+  119  ls
+  120  cd Documents/image/png/
+  121  ls
+  122  ftp panix.com
+  123  ls
+  124  exit
+  125  ls
+  126  network
+  127  wc nw
+  128  ftp panix.com
+  129  ls
+  130  wc nv
+  131  cd
+  132  cd a
+  133  ls
+  134  mv *.txt /mnt/card/texts
+  135  ls
+  136  mv resume.rtf /mnt/card/texts
+  137  ls
+  138  rm shortbio
+  139  cd
+  140  texts
+  141  ftp panix.com
+  142  cd
+  143  cd a
+  144  ls
+  145  cd
+  146  ls
+  148  pwd
+  149  mv 
+  150  more wvu.txt
+  151  mv wvu.txt /mnt/card/texts
+  152  ls
+  153  cd /
+  154  ls
+  155  cd tmp
+  156  ls
+  157  cd ipkg
+  158  ls
+  159  cd
+  160  cd Documents/
+  161  ls
+  162  cd application/
+  163  ls
+  164  cd ipkg
+  165  ls
+  166  cd ..
+  168  ls
+  169  cd image
+  170  ls
+  171  cd jpeg
+  172  ls
+  173  cd ..
+  175  ls
+  176  cd ..
+  177  ls
+  178  cd Applications/
+  179  ls
+  180  exit
+  181  p
+  182  exit
+  183  p
+  184  exit
+  185  network
+  186  ftp panix.com
+  187  cd
+  188  cd a
+  189  ls
+  190  ftp panix.com
+  191  exit
+  192  network
+  193  wc ny
+  194  ftp panix.com
+  195  network
+  196  ftp kunst.no
+  197  texts
+  198  ls
+  199  cd 
+  200  cd a
+  201  ls
+  202  ftp panix.com
+  203  ls
+  204  exit
+  205  network
+  206  ftp panix.com
+  207  p
+  208  network
+  209  ftp panix.com
+  210  wc notes
+  211  ls
+  212  cd
+  213  pwd
+  214  ftp panix.com
+  215  exit
+  216  network
+  217  ls -la nz
+  218  ftp panix.com
+  219  ls
+  220  cd
+  221  ls
+  222  p
+  223  exit
+  224  network
+  225  wc nz
+  226  ftp kunst.no
+  227  cd
+  228  ftp panix.com
+  229  ls
+  230  p
+  231  exit
+  232  p
+  233  ls
+  234  ftp panix.com
+  235  network
+  236  h
+  237  ls
+  238  ls wc nz
+  239  wc nz.txt
+  240  mv nz.txt nz
+  241  wc nz
+  242  wc oa
+  243  ftp panix.com
+  244  ls
+  245  cd
+  246  ls
+  247  more note
+  248  ls
+  249  h
+  250  rm note
+  251  ls
+  252  more note.txt
+  253  rm note.txt
+  254  ls
+  255  cd a
+  256  ls
+  257  network
+  258  ls -la writing
+  259  ls mail
+  260  c
+  261  cd ..
+  262  cd texts
+  263  ls
+  264  more writing
+  265  st
+  266  more writing
+  267  mv writing writing2
+  268  ftp panix.com
+  269  p
+  270  ls
+  271  mv jobs jobs2
+  272  pwd
+  273  ls jo*
+  274  mv jog job2
+  275  mv job job2
+  276  ftp panix.com
+  277  p
+  278  exit
+  279  p
+  282  exit
+  283  network
+  284  du
+  285  df
+  286  ftp asondheim.org
+  287  p
+  301  ls
+  302  rm K*
+  303  texts
+  304  ftp panix.com
+  305  exit
+  306  p
+  307  ls
+  308  cd a
+  309  ls
+  310  ls res*
+  311  ls -la res*
+  312  ftp panix.com
+  313  df
+  314  ls
+  315  mv cal /mnt/card/texts/
+  316  mv cal* /mnt/card/texts/
+  317  mv saved-messages /mnt/card/texts/
+  318  mv writing /mnt/card/texts/
+  319  ls
+  320  rm se*
+  321  ls
+  322  rm webindex.txt 
+  323  ls
+  324  rm nz
+  325  exit
+  326  cd a
+  327  ftp asondheim.org
+  328  ls ad*
+  329  exit
+  330  cd Documents/image/png/
+  331  ls
+  332  wc *
+  333  ftp panix.com
+  334  exit
+  335  p
+  336  exit
+  337  cd a
+  338  mv job /mnt/card/texts/
+  339  ls
+  340  mv * /mnt/card/texts/
+  341  y
+  342  ls
+  343  r 504
+  344  mv * /mnt/card/texts/
+  345  ls
+  346  cd
+  347  ls
+  348  rmdir a
+  349  ls
+  350  network
+  351  ftp panix.com
+  352  ls
+  353  mv oj oj.txt
+  354  exit
+  355  p
+  356  exit
+  357  p
+  358  exit
+  359  cd Documents/image/png/
+  360  ls
+  361  ftp panix.com
+  362  rm *
+  363  p
+  366  ls
+  367  network
+  368  wc oj*
+  369  ftp panix.com
+  370  exit
+  371  p
+  372  network
+  373  ls
+  374  ftp panix.com
+  375  wc no*
+  376  texts
+  377  wc notes
+  378  exit
+  379  cd Documents/image/png/
+  380  ftp panix.com
+  381  exit
+  382  network
+  383  wc oj.txt
+  384  ftp asondheim.org
+  385  open panix.com
+  386  ftp panix.com
+  387  p
+  389  exit
+  390  p
+  391  exit
+  392  p
+  393  exit
+  394  p
+  402  exit
+  403  p
+  404  exit
+  405  p
+  407  network
+  408  ftp asondheim.org
+  409  ftp panix.com
+  410  mc oo oo.txt
+  411  ls
+  412  ls o*
+  413  mv oo oo.txt
+  414  rm ol
+  415  p
+  417  exit
+  418  word
+  419  wordgame
+  420  game
+  421  apropos word
+  422  cd /usr
+  423  cd games
+  424  cd game
+  425  ls
+  426  p
+  429  ls
+  430  cd tmp
+  431  ls
+  432  cd ..
+  433  script
+  434  cd game
+  435  ls
+  436  ./adventure
+  437  ls
+  438  more adventure.text
+  439  ftp panix.com
+  440  ls
+  441  wc *
+  442  cd
+  443  p
+  445  ls
+  446  cd Documents/
+  447  ls
+  448  cd image/
+  449  ls
+  450  cd jpeg/
+  451  ls
+  452  cd ..
+  453  cd png/
+  454  ls
+  455  cd ..
+  457  cd Image_Files/
+  458  ls
+  459  cd WorldCam/
+  460  ls
+  461  network
+  462  ls
+  463  more zz.txt
+  464  ftp panix.com
+  465  wc o?.txt
+  466  ftp asondheim.org
+  467  ls -lt *
+  468  pwd
+  469  cd ..
+  470  ls
+  471  exit
+  472  p
+  474  exit
+  475  p
+  476  exit
+  477  p
+  478  exit
+  479  cd Documents/Image_Files/
+  480  cd png
+  481  ls
+  482  cd ..
+  484  cd pwd
+  485  ls
+  486  cd Documents/
+  487  ls
+  488  cd image/
+  489  ls
+  490  cd png/
+  491  ls
+  492  ftp panix.com
+  493  exit
+  494  p
+  499  exit
+  500  fg
+  501  h
+  502  h > zzzz
+
+
+
+Froth
+
+
+When I went through my collected writing in the Internet Text for a 
+forthcoming book, I found far too many of the pieces were depressive, 
+almost suicidal in nature. The irreconcilable logic of the family leaked 
+into a theoretical that would have been, by far, the better had it been 
+purified; I look towards Carnap, Wittgenstein, Jabes, rather than Lingis 
+or Freud. Lacan took refuge in distorted mathesis; I tend towards the 
+diagram below/elsewhere, another leakage from power into the register of 
+cleansed perception; when dirt enters the eye, vision suffers, but not 
+within the aegis of dirt.
+
+Below: Filth is hammered among polarities.
+
+Of course pama-mapa is certainly a case of entanglement, strings attached.
+The Other continues an afterimage. Just an afterimage.
+
+There is always a blankness, flatness, to the image. The real is already 
+flattened at the horizon/on the horizon: 
+
+The real is the horizon.
+
+{ Appearances: falling into the real.
+( The inextricable alienness of the world: non-Aristotelian.
+{ Dasein.
+
+Someday a post-phenomenologist will begin with the human and devolve, 
+backed up against particles, replete with awkward metaphors.
+
+{ As if particles were generated by organism.
+{ As if scales implied hierarchies and emergence.
+{ Think of submergence, details lost per particle, recuperated in the
+{ irretrievable ensemble.
+
+{ Our humanities: struggling with bad metaphors.
+
+For cause skims the surface of froth, organization is the masquerade of 
+afterthought.
+
+{ We bring masquerade to the masquerade of the world.
+
+{ Instead of nothing, so many things for so short a space and time.
+{ We have no concept of their persuasion.
+
+{ Of persuasion, anyone; of concept, none.
+
+http://www.alansondheim.org/pama.png
+http://www.alansondheim.org/ltheory1.gif
+
+
+
+
+World
+
+String theory knocks a loop into analog/digital, nothing remains certain 
+that is one way or another, what occurs can be read accordingly pre/sent 
+or sent/from. Holographic theory knocks a loop into ding-an-sich, / Ding 
+an sich Ding an sich is unknowable though certainly /: The roads to the 
+visible real are tortured, one can't say anything. This is the dead-end of 
+philosophy, with the exception of the social - you have justice and ethics 
+beneath the aegis of situational heuristics, but one ultimately appeals at 
+best to primatology without teleology or theology. What happens to the 
+episteme, epistemology, around the circuits of a black hole? The ontology 
+of strings and information scattered (presented, coded, irretrievable) 
+might as well devolve into mathesis where ideality itself is problematic: 
+At the end of the day, nothing remains, but everything is present; nothing 
+is everything, and so forth. The broken ontology of the middle way is 
+broken in another and more radical way: Nothing can be said, because what 
+there is, is literally unsayable. Try translating equation into language, 
+language into everyday doxa, dark matter into descriptors, descriptors 
+into primitives, primitives into foundations. Give it a go: That the movie 
+we watch is ourselves watching the movie, that projection is sourceless, 
+that every four vector carries the potential of an imaginary. There's no 
+'it' to go farther than this: We are the dream-screen of an unconscious 
+universe, no matter how far, how many conventions, dimensions. Convention: 
+What we call as a past posterior. Accountability: Unaccountability. It's 
+the knife-edge of good things in catastrophe theory transmuted through 
+classicism into the anthropic principle, mythos of origins. Cause and 
+effect: Scattered. Hallucinated projections named 'real' by hallucinated 
+projections. The buildup of dimensions, topologies, branes, dark-matter, 
+virtualities: No buildup at all, the baroque edifice of something given 
+meaning by something naming by some fantasm or an other. Membrane/brane 
+among Planck's lengths, masses, times, embedded seethed or froths as if 
+non-embedded. You can always: Add, subtend, augment, the pressure of 
+mathesis, eventually loose consistencies, heuristics, seem to dominate: 
+The four-color theorem as example. What of this? In the small: Classical 
+logics, set theories, Ptolemy and Kepler: Reductions because math can do 
+that. Divide and spread, emit, spew, sourceless, targetless, broiling, 
+then what might be phenomenologies of coagulations: Maybe Wolfram's 
+automata giving shrift to these, cells falling apart, failing, location- 
+less. So we're: Present and accounted for as-if 'among us': Therefore a 
+literary as if 'object and process' or one or another ontology, creaky but 
+functional epistemologies: As long as the hallucinogenic withdraws, 
+'doesn't look too close,' as if 'there were looking,' as if 'there were a 
+ground of one sort or another,' of which: None of these, they're knot.
+
+World ii
+
+Fields appear to have no touch, nothing germane to the body; one thinks of 
+action at a distance because distance seems emptied. Heat transgresses for 
+example; nothing happens in mediated space. Magnetism implies qualitative 
+distinction; the field attracts or repels, depending on polarity and just 
+what is brought into the vicinity. An approach may be +/0/-; two out of 
+three attract. Epistemologically, ontologically, difference is drawn out - 
+here is something out of the ordinary, perhaps non-Aristotelian, who 
+knows? In any case, it's neither 'spirit' nor a thing of the world, 
+although clearly it is of the world, within the world, part and parcel of 
+the real. No hands push or pull the metal; were it not so common, it would 
+be miracle, but it seems to 'come along with' everything familiar. Even 
+boundary is contradicted, and one might be sure that the attractive 
+impulse, presence, is there, even in the absence of the Other. It just 
+_is._ This should, except for that familiarity, already have signaled a 
+break, bringing the edifice of thing and logic down. How is space and time 
+- how is space-time - when something so common is there that is not within 
+as an object is within, that is not graspable, except by effect? Energy 
+already seems something other than the world's thinging, yet just as 
+concrete. It's not far from these considerations to an aporia of three- 
+dimensionality, not to mention mass, image, light, heat, all those spatial 
+fillings that seem neither possessed of projection or ordinary physical- 
+ity. The clues are there, have been there. Yet again, the dream is an 
+Other whose ontology isn't simply a mapping for or against a real (which, 
+yes, might be the dream itself) - we're back where we startled from, 
+making harmony and fit where none exists in the life-world, where bridges 
+are ad-hoc at best, still taking on the characteristics of extensions and 
+truth. Then there's dirt, filth; I remember Socrates' bypassing mud as 
+ideality - already a fly in the ointment. What simmers beneath the surface 
+isn't just abjection; it's also froth, roil, wisp, membrane, magma, clay, 
+plasma, species productions and particle rains. And it's here that the 
+dissolution of things is the clearest, that humans are capable of tempor- 
+arily reining-in, a momentary act of meaning-generation. Yet we're invaded 
+by our knowledge; our projection bodies are processing, in the process of, 
+corrosion, of being-vanquished, of always already disappearance of memory 
+and noise. When lines are drawn, analog/digital, they're dependent on an 
+alien phenomenology of potential wells: Existence is always bypassed, and 
+bypassing characterizes existence. Fielding and being slough and incohere; 
+to be sure there are formings and swarmings and no one can say much more.
+
+
+
+Barcelona epoetry performance stills with worms
+
+http://www.alansondheim.org/barca1.png
+http://www.alansondheim.org/barca2.png
+http://www.alansondheim.org/barca3.png
+http://www.alansondheim.org/barca4.png
+                   #
+                  #
+                  #
+                ##
+               #
+               #                             OO
+              #                             O
+             #                              O
+            #                              O
+            #                          *  O
+           #                          *   O
+           #                          *   O
+          #                        ***    O
+          #                      **        O
+          #^C                   *          O
+                                *          O
+                                 *         O
+                                 *        O
+                                 *       O
+                                *       O
+                                *
+                                *
+                                                      ##
+                                                     #  #
+             O                                     #^C   #
+            O                                            #
+            O                                             #
+O           O                                              #
+ O         O                                               #
+  O     OOO                                               #
+   O  OO                                                  #
+    OO                                                  ##
+                                                       #
+                                                 *
+                                                 *
+                                                *
+                                                *
+                                                 *     ****
+                                                  **  *    **
+                                                **         ##
+         #
+        #
+ ##     #
+#  #    #
+#  #  ##
+    ##
+                                         OOOO
+                                        O    O
+                                       O     O
+                                    OOO       O
+                                  OO          O  *
+                                 O                *******
+                                                         *
+                                  *                      *
+                                                          *
+                                                          *
+                                                     *  **
+                                                        ##
+                                   # #
+                                  #  #
+                                  #^C#
+                                    #    *
+                                    #    *
+                                   #    *
+                            *****  #   *
+                                 *#   *           O
+                                 *  **            O
+                                  **             O
+                                               OO
+                                              O
+                                              O
+                                               O
+                                               O
+                                                O
+                                                O
+                                                O
+                                               O
+                                              O
+                                            OO     
+****
+                                                                        *
+                                                                       *
+                                                                       *
+                                                                      *
+                                                                     *
+                                                                    *
+                                                                    *
+                                                                   *
+                                                                   *
+                                                                   *
+                                                                  *
+                                                   OO             *
+                                                  O
+                                                 O          #
+                                                O            #^C
+                                                O            #
+                                                 O         ##
+                                                 O      ###
+                                                 O     #
+                                               OO      #
+                                              O        #
+                                              O  O  ###
+                                               OO ##                           
+%%%%   %%  %%
+                          %    %%%  %%  %
+      #                  %                                  ***
+      #                                                        *
+       #                                                        *
+        #                                                        *
+         ###        00                                           *
+            ##     0  0                                         *
+              #    0                                            *
+              #    0                                     O     *
+               #   0                                    O  ****
+                #  0                                   O **
+                #00                                   O
+                0#                                    O
+               0 #                                     OO
+               0                                         O
+               0                    $$                    OOO
+                0^C                   $                      O   O
+                 0                    $$                      OOO
+                                      $ $
+                                     $   $
+                                     $   $
+                                      $  $
+                                       $$
+                                               % # %%  %%
+                                    OO       %%  #  #%%  %
+                                   O  O     %     ##      #
+                                   O  O     %              #
+                                    O  O     %              #
+                                    O  O                     ##
+                                   OOOO
+                                   O
+                                    O
+                                           $
+              000C                        $
+             0                           $
+             0                          $
+            0                          $
+            0                         $   **
+            0                        $   *
+            0                       $    *
+            0                      $     *
+         000                    *  $    *
+      000                        *$ $  *
+                                 *$ $**
+                                 *$$                    0^C     00   $$$$
+                      0   00 0  $                                           
+*  *
+                       000  0   $                                           
+*  *
+                            0  $                                            
+*  *
+                            0  $                                           
+*  *
+                             0$                               %%           
+*O**
+                              $0                             %  %          
+O**O*
+        $$$                  $  0                  %%  %%%%%%    %%        
+O*  *
+ $     $   $            ##  $   0                 %  %%            %%   %% 
+O*O *
+  $  $$     $          #$   $   0                %                   %%%  
+%%%O*
+   $$        $$$     $#  $$$    0                %                         
+*O*O
+                $   $ #         0                %                         
+**O O
+                 $$$ #          0                %                          
+***O
+                    #           0                 %%%                      
+*OO O
+                   #             0                   %%   %                
+* OOO
+                  #               0                    %%%                    
+                 #                0                                            
+                #                 0                                            
+     ##        #                  0                                            
+    #  #       #                   0    0                                      
+    #  # ##    #                   0  00                                       
+#    # ##  #   #                  0  0                                     
+O  O
+ #   ###   #  #                   0 0                                      
+O  O
+            ##                     00                                       
+OO ****   %***     ##                   OO                           $$$
+*    **%*   *   #  #                OO O                          $   $$$
+*     %     *      #               O    OOOO                      $      
+*     %   ###*     #              O         OO                             
+ *  #%   #   #*   #              O            OOOOOOO                       
+ * * %   #   #*  #            OOO                    O                       
+  ** %#  ##   # #            O                        O                       
+  **%  ##  # *# #            O                         O                       
+  %**   #   ##  #            O                      O   O                      
+ %  **   ##*   #             O                       O  O                     
+%   ^C[15;16H*#              O                        OO                     
+% %    **                     O                                             
+% %                                                                        
+%  %                                                                       
+%   %      0000  00                 0                                      
+ %  %          00  0                                                        
+  %%                0  00         000                                         
+%%%%                 0   0           000                                      
+%  %                      0             0                                     
+    %                      0            0                                     
+%   %                       0         00                                    
+$$ $
+ %  %                       0    00  0                                     
+$  $
+  % %                        0000  0 0                                     
+$ $$$
+                                   00                                      
+
+

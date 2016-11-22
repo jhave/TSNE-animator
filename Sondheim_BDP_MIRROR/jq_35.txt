@@ -1,0 +1,23 @@
+
+
+
+"Historic" Fingers:
+
+
+Here are some amazing finger sites; the first two I used extensively when
+I was first on-line - they're still running:
+
+finger quake@geophys.washington.edu (Current earthquake reports)
+
+finger forecast@typhoon.atmos.colostate.edu (Storm forecasts etc.)
+
+finger nasanews@space.mit.edu (Amazing complete NASA info on space
+ station, etc.)
+
+finger copi@oddjob.uchicago.edu (Everything including birthdays, moon
+ phases, etc.)
+
+With all of these you need to save to file, as in:
+
+finger nasanews@space.mit.edu > space
+

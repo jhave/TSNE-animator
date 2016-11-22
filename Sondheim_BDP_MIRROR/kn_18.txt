@@ -1,0 +1,77 @@
+
+
+
+
+From sondheim@panix.com Thu Sep  3 02:30:49 1998
+Date: Thu, 3 Sep 1998 02:30:29 -0400
+From: A. Jenn Sondheim <sondheim@panix.com>
+Reply-To: FOP-L <FOP-L@VM.CC.PURDUE.EDU>
+To: Multiple recipients of list FOP-L <FOP-L@VM.CC.PURDUE.EDU>
+Subject: the subject of what might be effaced in relation to protocols or 
+    a dense alterity given its due - this happens when handshaking             
+    gets taken for granted, when exhaustion takes over,              when
+    existence itself appears to tremble,              outside of any
+    subjectivity ...
+
+-
+
+
+
+From sondheim@panix.com Thu Sep  3 17:15:04 1998
+Date: Thu, 3 Sep 1998 17:14:56 -0400 (EDT)
+From: A. Jenn Sondheim <sondheim@panix.com>
+To: Poetics <POETICS@listserv.acsu.buffalo.edu>
+Subject: In this empty space, this space of announcement,   not enunciation, 
+  or catastrophic loss of _the body of the text,_   I would approach you,
+  murmuring   against all asides   what is broken by you as _this_ is broken
+  by you,   what you bring together as _this_ is sutured against the will,
+  the cut, the wound, the miracle of flesh   bound by forgotten space   which
+  tells you nothing more   than this is _it_ (fwd)
+
+-
+
+
+
+Perfect Beauty
+
+{k:1}bc
+bc 1.04
+4*4
+16
+when I get tired I look towards perfect numbers 6 or 28
+(standard_in) 2: illegal character: I
+/I am an illegal character. I take off the I. I will remove the I./
+/I will give the I to perfect you./
+(standard_in) 2: syntax error
+(standard_in) 2: illegal character: I
+/I am an illegal character. I take off the other I. I will remove the
+other I./
+/I will give the other I to perfect you./
+when naked the body looks for 6 or 28
+(standard_in) 3: syntax error
+/my body is not a perfect body. it is an error in configuration. I would
+say the round one. I would say the blind one. I would say Oedipus./
+it is a perfect body 6*28
+/it swells into perfect roundness./
+/it is your perfect body./
+(standard_in) 4: syntax error
+/it adds up its errors./
+6*28
+168
+6*28*168
+28224
+6*28*168*28224
+796594176
+when i am stuck in myself I look for 796594176
+(standard_in) 8: syntax error
+(standard_in) 8: illegal character: I
+/when i am stuck in myself a I sticks out erect. I would say the sword
+slaying the eye. I would say the blind one. round, deflated, cut: disk,
+and disk./
+/I will give disk and disk to hungered you, an erect I and nipples./
+/now I can write invisibly, feeling my way across the keys, my eyes
+given over to your hunger, my disks divided on your round and perfect
+breasts./
+^D
+
+

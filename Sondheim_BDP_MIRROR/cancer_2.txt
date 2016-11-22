@@ -1,0 +1,13 @@
+==
+
+
+incidence of 'cancer' in recent files
+
+ah:0 am:0 an:0 ap:1 ba:0 bb:0 cc:1 dd:1 ee:1 ff:0 gg:0 hh:1 ii:0 jj:1 jk:0
+jl:0 jm:1 jn:0 jo:0 jp:0 jq:1 jr:0 js:0 jt:0 ju:0 jv:0 jw:0 jx:0 jy:0 ka:0
+kb:2 kc:0 kd:0 ke:0 kf:0 kg:0 kh:0 ki:0 kj:0 kk:0 kl:0 km:0 kn:0 ko:1 kp:3
+kq:1 kr:2 ks:0 kt:0 ku:0 kv:0 kw:0 kx:1 ky:0 kz:0 la:0 lb:0 lc:6 ld:36 oc-
+tober, and hope le:0 lf:0 lg:0 lh:0 li:17 march, and death lj:3 lk:2 ll:1
+lm:0 ln:0 lo:0 lp:0 lq:0 lr:1
+
+

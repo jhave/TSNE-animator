@@ -1,0 +1,34 @@
+
+
+
+
+
+
+Qbasic Programs
+
+
+
+The following two programs work with VGS monitors, graphing in black
+
+and white for the purposes of reproduction. See Internet Text for
+
+details of the first, which is the program for three-dimensional
+
+projections of generalized measure geometries. Note in this version
+
+that at the "Continue?" prompt, a "1" must be initially returned, or
+
+else the program overflows.
+
+
+
+The second program maps a rather complex and beautiful bifurcation
+
+set which I am at a loss to comprehend. It is a derivative from 
+
+bifurcation equations common in chaos analysis.
+
+
+
+
+

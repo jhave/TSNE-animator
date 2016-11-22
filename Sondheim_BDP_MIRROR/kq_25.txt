@@ -1,0 +1,49 @@
+
+
+
+Geographies of Exclusion
+
+
+Since I've returned last night, I've been reading Geographies of Exclu-
+sion, Society and Difference in the West, by David Sibley - although I
+hadn't read it before, I was using Mike Davis' work on homeowners' asso-
+ciations (among other things) in my talks on protected communities, email
+list filtering, and the like. So it was of interest to find an ISP such as
+gol.com increasing their own protection by eliminating any sort of play
+(/usr/games) or potential hacking tools (traceroute, netstat) or program-
+ming environments (access to perl or emacs etc.). And a while ago, I wrote
+about gol.com in another text where I described the transformation of a
+Net imaginary from a _porous membrane_ to a system of interconnected and
+fortified _nodes._ I'm lucky to be on one of the few shell accounts that
+seems to provide full access (of course I have the same from linux, which
+also eliminates other problems - but my mailspool is still on panix since
+I'm not running an ISP).
+
+Now governance issues, which have been the concern of people like Richard
+MacKinnon, are increasingly important - not only censorships, but also all
+of the filterings which have been put into place. Even on cybermind and
+fop-l, the review command has been disabled, since we had subscribers com-
+ing on to grab address lists for spam and other purposes. And it's clear
+that ISPs such as gol.com find shell accounts a nuisance now - they give
+the appearance of anarchic deregulation (although they weren't really reg-
+ulated in the first place). 
+
+So as Agre pointed out, the Net's no longer utopian, but is, I think, be-
+coming increasingly foreclosed. It reminds me of the early history of the
+television, with all the emphasis on the good that might accrue from the
+medium - soon after, in the US, the networks dominated for decades. Now we
+have the Net with deep interaction, but the interaction is becoming more
+and more regulated and defined by capital. Oddly enough, even with wire-
+tapping a possibility, the phone is now the only point I feel at ease -
+even my phone spam has been cut down over the past few weeks! (There
+wasn't any on the answering machine when I returned.) 
+
+I'd be curious to know everyone's experiences in these areas. I find my
+anthologies (New Observations on Cultures of Cyberspace [forthcoming] and
+the Being on Line book on Net Subjectivity) almost utopian themselves, at
+this point. I'd love to do a third, on the armored Internet, as a correc-
+tive - even though the others have more to do with a kind of freedom and
+growth that's always possible on some sort of ideal horizon...
+
+Alan
+

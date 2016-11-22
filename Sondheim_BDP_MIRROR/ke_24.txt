@@ -1,0 +1,135 @@
+
+
+
+
+Habitus
+
+
+(from Thomas B. Floyd, Technical Guide to Australia CB Radio, 1978)
+
+Citizens Band "10" Signal Code:
+
+CODE    MEANING
+
+10-1    Receiving you poorly
+10-2    Receiving you well
+10-3    Channel in use
+10-4    Message received
+10-5    Relay message
+10-6    Busy, Can't talk now
+10-7    Out of service, going off air
+10-8    Back in service after shut down.
+10-9    Repeat message
+10-10   Was 10-6. Now on call
+10-11   Talking too rapidly
+10-12   Visitors are present
+10-13   Advise weather, road conditions
+10-17   Important business
+10-18   Anything for us?
+10-19   Return to base
+10-20   My location is:
+10-21   Contact me by phone
+10-22   Make personal contact with:
+10-23   Stand by
+10-24   Assignment completed
+10-25   Contact another station by radio
+10-26   Disregard last transmission
+10-27   I am moving to channel:
+10-28   Proper station identification
+10-29   Time is up for contact
+10-30   Violates regulations (FCC or equiv.)
+10-31   No longer in violation of regs.
+10-32   I will advise re readability of signals
+10-33   Emergency traffic at this station
+10-34   In trouble; need help
+10-35   Matter of urgency but cannot discuss it by radio
+10-36   Time by clock
+10-37   Send tow truck.
+10-38   Injuries; send ambulance
+10-39   Your message was delivered
+10-41   Moved to another channel
+10-42   Traffic accident at:
+10-43   Traffic congestion at:
+10-44   I have a message for:
+10-45   Stations on this channel please identify.
+10-50   Break.
+10-60   What is the next message number?
+10-62   Unable to copy; use phone.
+10-63   Net directed to:
+10-64   Net clear
+10-70   Fire at ...
+10-73   Goodbye - ending conversation
+10-84   My telephone number is ...
+10-85   My address is ...
+10-89   Radio repairman needed at ...
+10-92   Your transmitter needs adjustment
+10-94   Please give me a long count
+10-100  Rest stop
+
+CQ      General call
+
+International Q-Signals
+
+QRA     Name or handle
+QRH     Frequency varies
+QRL     Busy
+QRM     Interference from other stations
+QRN     Natural interference - static
+QRO     Increase transmitter power
+QRP     Decrease transmitter power
+QRQ     Transmit faster
+QRS     Transmit more slowly
+QRT     Stop transmitting
+QRU     I have nothing for you
+QRV     I am ready
+QRX     Call back later, stand by
+QRZ     Who is calling me? (Breaker) -
+QSA     Readability
+        1 Unreadable, 2 Barely readable, 3 Readable with difficulty,
+        4 Readable with little difficulty, 5 Perfectly readable
+QSB     Fading signal
+QSL     Acknowledge receipt
+QSM     Repeat the last message
+QSP     I will relay
+QSO     Communications with, contact
+QSY     Change frequency
+QSZ     Send each word or sentence more than once
+QTH     Location
+QTR     Correct time is -
+
+CODE: (For telephone number and street)
+
+BLACKHORSE
+1244567890
+
+Signal Strength (S-Meter reading)
+
+1       Barely perceiptible
+2       Very weak signal
+3       Weak signal
+4       Fair signal
+5       Fairly good signal
+6       Good signal
+7       Moderately strong
+8       Strong signal
+9       Extremely strong
+
+Example: Your signal is coming in 5 by 9 here.
+
+Arrest          A patient whose heart or respiration has stopped.
+Arrhythmia      Abnormal heart rhythm.
+BP     Blood pressure.
+CCU    Coronary Care Unit where serious heart patients are treated.
+Code Blue       Cardiac arrest
+Defibrillator   A device which shocks the heart into rhythm.
+EKG    Electrocardiogram.
+ER     Emergency Room
+ICU    Intensive Care Unit, where critically ill patients are treated.
+IV     Intravenous, administering fluids intravenously.
+MI     Myocardial Infarct: heart attack.
+MICU   Mobile Intensive Care Unit.
+OB     Obstetrics: childbirth.
+OR     Operating room.
+Sinus Rhythm    The normal rhythm of the heart.
+Vital Signs     Blood pressure, pulse, breathing rate, temperature.
+

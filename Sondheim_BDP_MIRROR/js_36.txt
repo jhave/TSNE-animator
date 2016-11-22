@@ -1,0 +1,46 @@
+
+
+
+What it Takes for Love on the Net (SENDMAIL message processing in full
+for a single message from Jennifer):
+
+
+Version 8.8.5
+ Compiled with: LOG MATCHGECOS MIME7TO8 MIME8TO7 NAMED_BIND NDBM NETINET
+NETUNIX NEWDB NIS QUEUE SCANF SMTP USERDB XDEBUG
+setoption SevenBitInput (7).=False
+setoption EightBitMode (8).=pass8
+setoption AliasWait (a).=10
+setoption AliasFile (A).=/usr/local/lib/mail/aliases
+setoption MinFreeBlocks (b).=100
+setoption BlankSub (B).=.
+setoption HoldExpensive (c).=False
+setoption CheckpointInterval (C).=4
+setoption DeliveryMode (d).=background
+setoption TempFileMode (F).=0600
+setoption HelpFile (H).=/usr/local/lib/mail/sendmail.hf
+setoption SendMimeErrors (j).=False
+setoption ForwardPath (J).=$z/.forward.$w:$z/.forward
+setoption ConnectionCacheSize (k).=5
+setoption ConnectionCacheTimeout (K).=5m
+setoption UseErrorsTo (l).=False
+setoption LogLevel (L).=9
+setoption MeToo (m).=True
+setoption CheckAliases (n).=False
+setoption OldStyleHeaders (o).=True
+setoption PrivacyOptions (p).=restrictqrun
+setoption QueueDirectory (Q).=/var/spool/mqueue
+setoption Timeout (r).queuereturn=5d
+setoption Timeout (r).queuewarn=4h
+setoption SuperSafe (s).=True
+setoption StatusFile (S).=/usr/local/lib/mail/sendmail.st
+setoption DefaultUser (u).=65534:65534
+setoption QueueLA (x).=6
+setoption RefuseLA (X).=6
+setoption QueueSortOrder (0x81).=host
+setoption MinQueueAge (0x83).=60
+setoption SmtpGreetingMessage (0x90).=$j Sendmail $v/$Z; $b
+setoption UnixFromLine (0x91).=From $g  $d
+setoption OperatorChars (0x92).=.:%@!^/[]+
+getauthinfo: sondheim@localhost
+

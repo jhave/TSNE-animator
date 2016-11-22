@@ -1,0 +1,147 @@
+
+
+
+Night and Day on the Internet (notes towards a talk at Powers,
+Sydney University.) Issues of Embodiment, The body on the Net.
+
+
+Some basics:
+
+A  Net embodiment refers to a dispersion and dis/play - there is no
+coherent or totalizing theory.
+
+B  Issues of embodiment arise in communities, through sexualities - 
+Where there is a framework and potential for two or more people to
+interact, both develop.
+
+C  In real life, physical reality, "one _begins_ with the real, 
+which relates to signifieds coupled with signifiers related by dif-
+ference among each other. There are real trees, there are imagined
+and imaged trees and signifiers which represent them; the signifier
+of the imaged oak is different from the imaged palm, and the dif- 
+ferences form a semantic field. On the Net, it's the opposite. One 
+_begins_ with the text of the other, which is directly coupled
+_only_ to text and _exchange of texts_ - and out of this, one _con-
+structs_ a real, constructs a world which is projected onto the
+other. Sometimes as in a MOO, the entire environment is a textual
+projection, as in a novel [...]; more often than not, the projec- 
+tion occurs in relation to wryting among participants in any appli-
+cation." (Introduction to Being on Line.)
+
+
+1  Current Net demographics
+
+
+2  Divisions: darknet / webnet / other IP applications inc. push --
+
+
+3  Structures:
+
+(Older) Synchronous and Asynchronous applications: Lag in the former,
+fast-feedback in the latter: Interpenetrations.
+
+(Newer) Performative and declarative subjectivities:
+Performative: either interventions/insertions (IRC chatline, MOO chat)
+or programming actions (MOO program interactions, Perl or Lisp prog-
+ramming (Eliza in EMACS).
+Performative _language_ - making a vow for example. But all language
+may be performative in this aspect.
+
+Declarative: Email or email lists, or the @describe commands on MOOs
+or the assembling of avatars in WorldsChat or ThePalace.
+Declarative _language_ - statements which have no effect on their
+recipients (do not perform, but state matters of fact).
+
+NB - In Net relationships, there is a tendency towards modes of in- 
+creasing physical embodiment - from online text-only chat through
+exchange of images, to phonecalls, mail, real-life meeting, etc.
+(Think of these as the constant _crossing of thresholds_ among sub-
+jects - and the potential rituals associated with them.)
+
+
+4  Types of bodies on the Net:
+
+a  IRC fast-forward scrolling, inserting the shifter / performative
+hacking, DCC invading
+b  MOO or MUD: third-person performance, identity, the dress-up or
+cosmetics of the naming of objects
+c  Talkers: Between the two, minimal identities. Email, signboards,
+answering machines, email lists, etc. on B. and c.
+d  Ytalk: The beginnings of the second-person body. The space of the
+screen (divided) - the space of bodies. POWWOW in this regard.
+e  ThePalace, WorldsChat, etc.: Embodied third-person body, see b.
+
+If you don't speak, you're not present. To wryte oneself into exis-
+tence. Lurking, the silence _without._
+
+If you speak, you perform. The body always already performance (see
+Lingis). The murmur of the world as textualities (see Lingis). 
+
+Projections and introjections of bodies - reading through the Net,
+through the text - control factors (lag, not responding, skew-
+responses, etc.) - hysteric embodiment.
+
+How do projections work? Through _resonances,_ reading (through
+hysteric embodiment perhaps) the other - supplying or denying the
+other, playing the other. Through _repetitions,_  caressing or
+cultivating the other. Through _lag,_ seducing the other by virtue of
+the machine, or by deliberate withdrawal, bringing the other
+forward.
+
+Through control, in other words, and the reading of control.
+
+How do introjections work? Through resonances, repetitions, lag, etc.
+Opening oneself to the breathing or rhythm of the other. Stages of
+half- sleep, arousal waves, hypnotisms. The movement of the body's
+self, physical movement, in relation to the text. Feeding back the
+information. Responses, cyclings through that feedback. Closures,
+foreclosures, through that feedback
+
+The 'ascii unconscious' - rendering the other through performative
+discourse. (In the current state of the Net, the lag inherent in
+CuSeeMe as well as the distorted images - reading _into_ the image,
+seduced or led by the image, a form of gambling.)
+
+
+5  The email list - Lurkers, older users, younger users. What occurs
+with "list aura"? Formal (list-directed) and informal aura. Moderated
+and unmoderated lists - discussion in depth, community resistances,
+the Deviants group, etc. The lurker as voyeur, as lack.
+
+Email list and the body - what sorts of 'physiological' reactions are
+possible? Flaming, seducing. Using the list aura as a way of "bringing
+someone around." Use of the proper name as a way of closure, bringing
+together.
+
+
+6  Newsgroups and Graphic MOOs/MUDs - Changes over the past few years.
+Communities without rites (WorldsChat) or with them (ThePalace). Email
+list rites - newsgroups fast- forwarding again.
+
+
+7  Binary or digital structures: Structures of eternity, infinitely
+reproducible. The world defined on the Net is theoretically and
+realistically entirely _constituted_ - maternal in the sense that it
+is an _intended_ one, now producing the Net consumer - lure of surfing
+(impediments to surfing) - the hook or gamble.
+
+The world opens itself to you; it's maternal, weighted towards you - 
+_for you._
+
+
+8  The early Net - continuous hacking the system, close to the pro-
+tocols - the middle Net - text-based, moving towards indexing systems
+(archie, jughead, veronica, gopher) - the late Net - Web-based,
+click-driven. Transformations of the artworld - Soho to Silicon Alley
+for example. The future Net: seamless virtual reality, perhaps our
+presence _now_ in this space.
+
+So that this seamless virtual reality, the coming-together of the body
+and its spatializations...
+
+
+9  The Jennifer-Julu work: implicate orders of protocols and avatars
+- the membrane across or within the systemics of the Net - collusions
+with the Net.
+
+

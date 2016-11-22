@@ -1,0 +1,41 @@
+
+
+
+Corrections
+
+
+and kills, deletions everywhere, configuration files, initiation files,
+resource control files, segmentation faults, core dumps, useless hard-
+drive activity, all of this in a single directory, slackware linux, on a
+single hard-drive, on a non-descript compaq presario desktop not meant 
+for these sorts of things - which then filter, leak, into the texts, cor-
+rupt them with meaningless symbols and {k:7} prompts going nowhere - the
+texts, my writing, my very own, suffers as a result - I try to include my
+failures here - not so much inhabiting the machine as mutual devouring -
+I'm in and out simultaneously - play both sides of the bridge - fear of
+water - the whole history of the world can be read in these three words -
+_the corrupted file_ - I do my best to bring you complete works, things of
+beauty, coherent, lovely beyond belief - dis/ease and dis/comfort beckon -
+there are cracks in the artifice, it's as if excretion were returning at
+long last from banishment - I can't hold on that long - there's always the
+probe into the machine - there's always the return of the machine to the
+probe - both flesh and silicon - all over, it's the way this universe was
+made -
+
+but in these writings - too much emphasis on error, too many symbols, as
+I've said, too much corruption, not enough analysis - think of it as
+frustrated writing - the _act_ of it a frustration - writing through the
+debris - writing degree one, say, not zero, that is, writing in the proto-
+cols - did I say filtering, leaking into the texts? - there's dissolution
+and I'm ashamed of it (the system falters, flicker-rate of the screen
+shows up uneasily, migraine straight ahead), yes, ashamed - there's noth-
+ing to be proud of, this domination - Aug 26 13:17:32 nikuko sendmai-
+l[158]: EAA15303: to=<jennifer@sfsu.edu>, ctladdr=<root@nikuko.org> (0/0),
+delay=2+09:08:27, xdelay=00:00:11, mailer=esmtp, relay=diana.sfsu.edu.
+[130.212.10.239], stat=Deferred: 451 <root@nikuko.org>... Domain must
+resolve Aug 26 13:17:39 nikuko sendmail[158]: EAA15309: to=<julu@student.-
+unsw.edu.au>, ctladdr=<root@nikuko.org> (0/0), delay=2+09:07:59, xdelay=
+00:00:05, mailer=esmtp, relay=rufus.comms.unsw.edu.au. [149.171.96.100],
+stat=Deferred: 451 <root@nikuko.org>... Your hostname is unresolvable
+
+

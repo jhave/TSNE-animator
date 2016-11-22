@@ -1,0 +1,64 @@
+
+
+
+
+Rural
+
+
+I can see the Net more important for connectivity in rural or small-town
+regions - in regions close to the poverty line - than for big-city infor-
+mation overload. And there is a disservice done by Wired, by Web design-
+ers, by theorists, who refuse to consider these areas, continue to marg-
+inalize them. The Net may become the site for self-help, alternative med-
+ical technologies, job search, education, even family interconnectivity
+through aliased email lists and talkers. We are living in depleted lands,
+exhausted lands, lands of poison and ruin. Large-scale North American
+industrialization transformed into service-sector employment, now into
+informatics. The last requires considerable computer skills on the produc-
+tion end, but the necessary user skill level is decreasing. Management and
+low end Web authoring will also become easier. 
+
+What's necessary?
+
+1. Simplified menu-driven data-bases with clearly marked relevant sites.
+2. Help in setting up simple aliased email lists for family members.
+3. ISP site managers working intensively with the user base to ascertain 
+	needs and skill levels.
+4. Talkers and email lists for community-building, locally run.
+5. Interconnectivity among rural areas through meta-email lists, similar
+	to Net-Happenings or New-List, but regionally-based.
+6. Open IRC channels for local usage.
+7. Freenet or very low cost Net access, with an emphasis on text-based 
+	applications, even through SLIP or PPP connections.
+8. Hardware resource centers for recycling older computer equipment.
+9. Cybercafe network with maximum charges of $3 Canadian per hour.
+10. Handout sheets detailing access commands, and local classes run by 
+	ISPs to get everyone on-line.
+11. As much as possible, all of the above should be run by local people, 
+	regionally-trained.
+12. Clearly articulated general policies for handling censorship, spam-
+	ming, and hacking issues.
+13. If possible, "emergency" help available on the Net - for example, 
+	dealing with depression after spousal death.
+14. Integration of all of the above into local community schools, lib-
+	raries, and other institutions.
+15. Through integration and training, if possible developing local 
+	employment opportunities in informatics, software development, 
+	and so forth.
+
+I believe these (and similar) suggestions should be at the heart of a dis-
+course in _Wired_ and on the Net. Less developed regions of the world are
+poorly, if at all, connected; there are models for doing this. For exam-
+ple, I've suggested elsewhere building a MOO database specifically for
+regional and intermittent connects, using talkers for education, and so
+forth. And there are others actively working in these areas:
+
+But _where is the discussion?_ I feel, thanks to the Web and hysterical
+promotion, that we're all held to a white managerial and mostly male media
+onslaught - that this is the model _in place_ at the moment. _The Net must
+be seen as a potential field or domain,_ not as a top-down consumer play-
+ground of "cool" and "killer" "apps." Unless this happens, a real oppor-
+tunity for critical dialog will be lost - as well as the equally real pos-
+sibility of creating effective policy for the beginning of the next cen- 
+tury.
+

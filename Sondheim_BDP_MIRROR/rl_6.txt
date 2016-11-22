@@ -1,0 +1,171 @@
+ [;Hu [;Hprstu [;Hp [;Hu [;Hdeinoprstu [;Hprstu 
+[;Hlnoprstu [;Hp [;Hgilnoprstu [;Hdeinoprstu [;Hcdegilnoprstu [;Hc 
+[;Hfgilnoprstu [;Hcdegilnoprstu [;H/ [;Hc [;Hacdefgilnoprstu 
+[;Hfgilnoprstu 'u' [;H/ [;Hbcdefgilnoprstu [;Hjlnoprstu [;Hj 
+[;Hbcdefgilnoprstu [;H--------- [;Hjlnoprstu [;He------e [;Hj [;Hnrst 
+[;H--------- [;Hmnrst [;Hmnrst [;Haemnrst [;Haemnrst [;Ha-a [;Ha-a 
+[;Hcemnrst [;Hcemnrst [;Hprst [;Hprst 'p' 'p' [;Hdemnprst [;Hdemnprst [;Hd 
+[;Hd [;Hlmnprst
+
+[;Hmnrst [;Hnrst [;Hd [;H . :: [;Ha-a [;Hnrst [;Hprst [;H . [;H [;Hprst 
+[;Hnrst [;Ha-a :: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| .  
+[;Haemnrst [;Hnrst [;Hdemnprst ______ . [J [;Hcemnrst [;Hnrst [;Hcemnrst 
+[J . ______ [;Hdemnprst [;Hnrst [;Haemnrst . [;H| [;Hlmnprst [;Hmnrst 
+[;Hnrst [;Hd [;H . :: [;Ha-a [;Hnrst 'p' [;H . [;H [;Hprst [;Hnrst [;Ha-a 
+#: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| [;H| [;Haemnrst [;Hnrst 
+[;Hdemnprst ______ . #: [;Hcemnrst [;Hnrst [;Hcemnrst [J . ______ 'p' 
+[;Hnrst [;Haemnrst . [;H| [;Hlmnprst [;Hmnrst [;Hmnrst [;Hd [;H . :: 
+[;Ha-a [;Hnrst 'p' [;H . [;H [;Hprst [;Hnrst [;Ha-a #: . [;H [;Hd [;Hnrst 
+[;Hmnrst [;Hlmnprst [;H| [;H| [;Hlmnprst [;Haemnrst [;Hnrst [;Hdemnprst 
+______ . #: [;Hcemnrst [;Hnrst [;Hprst [J . ______ 'p' [;Hnrst [;Haemnrst 
+. [;H| [;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H . :: [;Ha-a [;Hnrst 'p' 
+[;H . [J [;Hprst [;Hnrst [;Ha-a #: . [;H [;Hdemnprst [;Hnrst [;Hmnrst 
+[;Hlmnprst [;H| [;H| [;Hlmnprst [;Haemnrst [;Hnrst [;Hdemnprst [;H . #: 
+[;Hcemnrst [;Hnrst [;Hprst [J . ______ 'p' [;Hnrst [;Haemnrst :: . [;H| 
+[;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H| . :: [;Haemnrst [;Hnrst 'p' 
+______ . [J [;Hprst [;Hnrst [;Hcemnrst #: . [;H [;Hdemnprst [;Hnrst 
+[;Haemnrst [;Hlmnprst [;H| [;H| [;Hlmnprst [;Hmnrst [;Hnrst [;Hdemnprst 
+[;H . #: [;Ha-a [;Hnrst [;Hprst [J . [;H 'p' [;Hnrst [;Ha-a :: . [;H 
+[;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H| .  [;Haemnrst [;Hnrst 'p' 
+______ . [J [;Hprst [;Hnrst [;Hcemnrst #: . ______ [;Hdemnprst [;Hnrst 
+[;Haemnrst [;Hlmnprst [;H| [;H| [;Hlmnprst [;Hmnrst [;Hnrst [;Hd [;H . #: 
+[;Ha-a [;Hnrst [;Hprst [;H . [;H 'p' [;Hnrst [;Ha-a :: . [;H [;Hd [;Hmnrst 
+[;Hmnrst [;Hlmnprst [;H| .  [;Haemnrst [;Hnrst 'p' ______ . [J [;Hcemnrst 
+[;Hnrst [;Hcemnrst #: . ______ [;Hdemnprst [;Hnrst [;Haemnrst [;H| [;H| 
+[;Hlmnprst [;Hmnrst [;Hnrst [;Hd [;H . #: [;Ha-a [;Hnrst [;Hprst [;H . [;H 
+'p' [;Hnrst [;Ha-a :: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| .  
+[;Haemnrst [;Hnrst [;Hdemnprst ______ . [J [;Hcemnrst [;Hnrst [;Hcemnrst 
+[J . ______ [;Hdemnprst [;Hnrst [;Haemnrst . [;H| [;Hlmnprst [;Hmnrst 
+[;Hnrst [;Hd [;H . :: [;Ha-a [;Hnrst [;Hprst [;H . [;H [;Hprst [;Hnrst 
+[;Ha-a :: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| .  [;Haemnrst 
+[;Hnrst [;Hdemnprst ______ . [J [;Hcemnrst [;Hnrst [;Hcemnrst [J . ______ 
+[;Hdemnprst [;Hnrst [;Haemnrst . [;H| [;Hlmnprst [;Hmnrst [;Hnrst [;Hd [;H 
+. :: [;Ha-a [;Hnrst [;Hprst [;H . [;H [;Hprst [;Hnrst [;Ha-a :: . [;H [;Hd 
+[;Hnrst [;Hmnrst [;Hlmnprst [;H| .  [;Haemnrst [;Hnrst [;Hdemnprst ______ 
+. #: [;Hcemnrst [;Hnrst [;Hcemnrst [J . ______ 'p' [;Hnrst [;Haemnrst . 
+[;H| [;Hlmnprst [;Hmnrst [;Hmnrst [;Hd [;H . :: [;Ha-a [;Hnrst 'p' [;H . 
+[;H [;Hprst [;Hnrst [;Ha-a #: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| 
+[;H| [;Haemnrst [;Hnrst [;Hdemnprst ______ . #: [;Hcemnrst [;Hnrst 
+[;Hcemnrst [J . ______ 'p' [;Hnrst [;Haemnrst . [;H| [;Hlmnprst [;Hmnrst 
+[;Hmnrst [;Hlmnprst [;H . :: [;Ha-a [;Hnrst 'p' [;H . [J [;Hprst [;Hnrst 
+[;Ha-a #: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| [;H| [;Hlmnprst 
+[;Haemnrst [;Hnrst [;Hdemnprst ______ . #: [;Hcemnrst [;Hnrst [;Hprst [J . 
+______ 'p' [;Hnrst [;Haemnrst :: . [;H| [;Hlmnprst [;Hmnrst [;Hmnrst 
+[;Hlmnprst [;H . :: [;Haemnrst [;Hnrst 'p' [;H . [J [;Hprst [;Hnrst [;Ha-a 
+#: . [;H [;Hdemnprst [;Hnrst [;Hmnrst [;Hlmnprst [;H| [;H| [;Hlmnprst 
+[;Hmnrst [;Hnrst [;Hdemnprst [;H . #: [;Ha-a [;Hnrst [;Hprst [J . [;H 'p' 
+[;Hnrst [;Haemnrst :: . [;H [;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H| . 
+:: [;Haemnrst [;Hnrst 'p' ______ . [J [;Hprst [;Hnrst [;Hcemnrst #: . 
+______ [;Hdemnprst [;Hnrst [;Haemnrst [;Hlmnprst [;H| [;H| [;Hlmnprst 
+[;Hmnrst [;Hnrst [;Hd [;H . #: [;Ha-a [;Hnrst [;Hprst [J . [;H 'p' [;Hnrst 
+[;Ha-a :: . [;H [;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H| .  
+[;Haemnrst [;Hnrst 'p' ______ . [J [;Hcemnrst [;Hnrst [;Hcemnrst #: . 
+______ [;Hdemnprst [;Hnrst [;Haemnrst [;H| [;H| [;Hlmnprst [;Hmnrst 
+[;Hnrst [;Hd [;H . #: [;Ha-a [;Hnrst [;Hprst [;H . [;H 'p' [;Hnrst [;Ha-a 
+:: . [;H [;Hd [;Hmnrst [;Hmnrst [;Hlmnprst [;H| .  [;Haemnrst [;Hnrst 'p' 
+______ . [J [;Hcemnrst [;Hnrst [;Hcemnrst #: . ______ [;Hdemnprst [;Hnrst 
+[;Haemnrst . [;H| [;Hlmnprst [;Hmnrst [;Hnrst [;Hd [;H . :: [;Ha-a [;Hnrst 
+[;Hprst [;H . [;H [;Hprst [;Hnrst [;Ha-a :: . [;H [;Hd [;Hnrst [;Hmnrst 
+[;Hlmnprst [;H| .  [;Haemnrst [;Hnrst [;Hdemnprst ______ . [J [;Hcemnrst 
+[;Hnrst [;Hcemnrst [J . ______ [;Hdemnprst [;Hnrst [;Haemnrst . [;H| 
+[;Hlmnprst [;Hmnrst [;Hnrst [;Hd [;H . :: [;Ha-a [;Hnrst [;Hprst [;H . [;H 
+[;Hprst [;Hnrst [;Ha-a :: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| .  
+[;Haemnrst [;Hnrst [;Hdemnprst ______ . [J [;Hcemnrst [;Hnrst [;Hcemnrst 
+[J . ______ [;Hdemnprst [;Hnrst [;Haemnrst . [;H| [;Hlmnprst [;Hmnrst 
+[;Hnrst [;Hd [;H . :: [;Ha-a [;Hnrst 'p' [;H . [;H [;Hprst [;Hnrst [;Ha-a 
+#: . [;H [;Hd [;Hnrst [;Hmnrst [;Hlmnprst [;H| [;H| [;Haemnrst [;Hnrst 
+[;Hdemnprst ______ . #: [;Hcemnrst [;Hnrst [;Hcemnrst [J . ______ 'p' 
+[;Hnrst [;Haemnrst . [;H| [;Hlmnprst [;Hmnrst [;Hmnrst [;Hd [;H . :: 
+[;Ha-a [;Hnrst 'p' [;H . [;H [;Hprst [;Hnrst [;Ha-a #: . [;H [;Hd [;Hnrst 
+[;Hmnrst [;Hlmnprst [;H| [;H| [;Hlmnprst [;Haemnrst [;Hnrst [;Hdemnprst 
+______ . #: [;Hcemnrst [;Hnrst [;Hprst [J . ______ 'p' [;Hnrst [;Haemnrst 
+. [;H| [;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H . :: [;Ha-a [;Hnrst 'p' 
+[;H . [J [;Hprst [;Hnrst [;Ha-a #: . [;H [;Hdemnprst [;Hnrst [;Hmnrst 
+[;Hlmnprst [;H| [;H| [;Hlmnprst [;Haemnrst [;Hnrst [;Hdemnprst [;H . #: 
+[;Hcemnrst [;Hnrst [;Hprst [J . ______ 'p' [;Hnrst [;Haemnrst :: . [;H| 
+[;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H| . :: [;Haemnrst [;Hnrst 'p' 
+______ . [J [;Hprst [;Hnrst [;Hcemnrst #: . [;H [;Hdemnprst [;Hnrst 
+[;Haemnrst [;Hlmnprst [;H| [;H| [;Hlmnprst [;Hmnrst [;Hnrst [;Hdemnprst 
+[;H . #: [;Ha-a [;Hnrst [;Hprst [J . [;H 'p' [;Hnrst [;Ha-a :: . [;H 
+[;Hlmnprst [;Hmnrst [;Hmnrst [;Hlmnprst [;H| .  [;Haemnrst [;Hnrst 'p' 
+______ . [J [;Hprst [;Hnrst [;Hcemnrst #: . ______ [;Hdemnprst [;Hnrst 
+[;Haemnrst [;Hlmnprst [;H| [;H| [;Hlmnprst [;Hmnrst [;Hnrst [;Hd [;H . #: 
+[;Ha-a [;Hnrst [;Hprst [;H . [;H 'p' [;Hnrst [;Ha-a :: . [;H [;Hd [;Hmnrst 
+[;Hmnrst [;Hlmnprst [;H| .  [;Haemnrst [;Hnrst 'p' ______ . [J [;Hcemnrst 
+[;Hnrst [;Hcemnrst #: . ______ [;Hdemnprst [;Hnrst [;Haemnrst [;H| [;H| 
+[;Hlmnprst [;Hmnrst
+debris/*
+
+
+
+face
+
+My face is made from human skin.
+My arms are made of human muscle and human skin.
+My human lungs are made from human lungs.
+My human face is made of human skin.
+My breasts are made from human flesh.
+My human hands are made from human flesh.
+My human bones are made from human bones.
+My human hair is made of human hair.
+My human face is made from human skin.
+My human legs are made from human flesh.
+My human penis is made from human flesh.
+My human feet are made from human skin.
+My nails are made from human nails.
+My human knees are made from human bone.
+My eyes are made from human eyes.
+My lips are made from human lips.
+My teeth are made of human teeth.
+My penis is made of human skin.
+My blood is made from human blood.
+My back is made from human skin.
+My human neck is made of human skin.
+My human belly is made from human flesh.
+My palms are made from human palms.
+My scars are made from human flesh.
+My human soles are made from human soles.
+My human wrists are made from human bone.
+My lungs are made of human lungs.
+My throat is made of human flesh.
+My human tongue is made from human tongue.
+My human breasts are made from human skin.
+My bones are made of human bones.
+
+
+
+Mexico!
+
+Chris Diasparra, tenor / Alan Sondheim
+
+http://lounge.espdisk.com/archives/826 (easiest)
+
+http://espdisk.com/alansondheim/mexico1.mp3
+http://espdisk.com/alansondheim/mexico2.mp3
+http://espdisk.com/alansondheim/mexico3.mp3
+http://espdisk.com/alansondheim/mexico4.mp3
+http://espdisk.com/alansondheim/mexico5.mp3
+http://espdisk.com/alansondheim/mexico6.mp3
+http://espdisk.com/alansondheim/mexico7.mp3
+
+Why Mexico? I just received a book on Mexico.
+From here on a series of duets.
+In the middle of them I'm lost. 
+Chris' tone is beautiful.
+Here and there, I'm ok: viola for example.
+Flute kept me hearing MA-SA-SA-sa in my head.
+DA+ on sarangi and sindhi sarangi.
+I must restring that sindhi sarangi!
+I must do that! Good effort on oud.
+Good effort on parlor guitar.
+Chris saves the day! I squander the night!
+Mexico!
+
+
+
+(On a course blog with the following comment added -
+
+Maybe you can do something with this text? - Alan, thinking of 
+remix/inversion/new images - The text carries a kind of body-weight, 
+almost like pornography or medical description - it's as if something 
+wants to escape, but can't, quite. - )

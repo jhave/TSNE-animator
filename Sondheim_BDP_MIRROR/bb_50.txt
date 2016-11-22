@@ -1,0 +1,53 @@
+END
+
+
+Now what comes to mind immediately is this: Create a _recursive space_
+that repeatedly calls itself until an exit configuration is reached,
+appearing - for the play hirself - equivalent to the above. In this case,
+the program/room is a _singularity_ that continually and randomly unfolds,
+_from the perspective of the player, and the player's internal represen- 
+tation of the space._
+
+A further development includes the notion of a _code string,_ XYZ, each
+taking the value of one of "n" "s" "e" "w". This gives us 64 possibili-
+ties. As the player continually enters in directions, the program parses
+the string, looking for the match; the match leads to exit. (We are not
+randomizing the player's input here.)
+
+A. Consider XYZ _built-in_; then the maze appears simply solvable. Return 
+to the recursive space, and the same input will produce the same output.
+
+B. Consider XYZ _randomly-generated_; then the maze appears as the maze3.c
+example above; the difference is only that random generation is called
+upon only once. 
+
+C. Consider A and B in combination; then the maze appears solvable, and is
+- but there is also _leakage_ - for example, "esw" may be built-in, but
+exit-operative only 30% of the time. I think of this literally in relation
+to the concept of a leaky signifier, whose content always includes an es-
+cape-clause or "curlicue." 
+
+Now all of this could be built as well, say, into a MOO space: A single 
+room from the viewpoint of coding/parent, but one that appears multiple, 
+with escape routes that continually resonate with one another, with other 
+rooms with identical or different descriptions...
+
+What is fascinating in all of this is the _broken mapping_ between surface
+and deep structure. Admittedly, in CMC, mapping are broken all over the
+place, but this example is fragmented in a manner recuperating postmodern
+geography, a singularity harboring multiplicity, the multiplicity from the
+viewpoint of the player almost toppling the psychogeography of the applic-
+ation. For mental maps no longer hold in these regions (I have coded MOO
+rooms in which _A_ leads to _B_ with the exit "down" and _B_ leads back to
+_A_ with "down" - and lpmud rooms in which "north" from _A_ leads to _B_
+but "west" from _B_ leads to _A_, etc.) - and the regions are, in fact, in
+a state of flux, upheaval. The mazes and recursive spaces emphasize these
+fictions, and their phenomenology vis-a-vis the player. And I think in the
+long run, they provide a different sort of foundation for thinking about
+Kyberspace than gender/switching, MOO and talker transport, and IRC phen-
+omena, all of which have a fluid but more or less coherent Euclidean sub-
+structure. maze3.c lends itself _elsewhere,_ related directly to the sick-
+nesses of virtual reality, within and without the textual domain of pre- 
+sence, desire, and projection.
+
+

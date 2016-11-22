@@ -1,0 +1,1181 @@
+
+
+
+
+
+_NOTES AND DIALOG ON CODE_ (7/31/07) (Sandy Baldwin and Alan Sondheim)
+
+
+NOTES ON CODE (Alan Sondheim)
+
+Major modality:
+Relationship between modeling and codework:
+mapping within the subtext/substructure of the metric.
+Visual modeling: Visual as thetic  - modality of happenstance (i.e. 
+modeling becomes dependent on the physiology of visual bandwidth). 
+Aural modeling: Visual with similar field, different spatial modality.
+
+How is the thetic (is that the correct word?) in relation to ideality?
+Does political economy depend on visual/aural physiology?
+
+Scanning as doubled text: coded software / parameterization of the real 
+tending towards results which are residue (separate the results from the 
+structure). But within the phenomenology of the real, the results and 
+structure are inextricably tangled.
+
+Motion capture (mocap) - see scanning. In scanning, the static object is 
+standard; in motion capture, the dynamic object. Think perhaps of the 
+latter in terms of a second-order differential - doubled modeling of 
+changes (1. through mocap; 2. through 'accelerated modeling').
+
+The results: the 'code carapace' or chiten - Barrier/revelation code. 
+(Older work: The relation of consciousness to structured systems: what are 
+the manifestations of those systems?) Code as armor.
+
+Seeing and hearing seem 'tawdry,' unable to sustain the abstracted or 
+philosophical weight placed upon them. To see or hear text philosophically 
+churns on transparency; everything else stumbles. We turn to writing 
+because it gets away from us to the extent that it's also reflective of 
+deep abstraction, alien-code (all code is alien).
+
+All code is alien because it calls from elsewhere - or rather, doesn't 
+call at all; it's as if someone created it, it's as if it wasn't created, 
+not a bit of it. Which is the fundamental phenomenological status of code: 
+some of it is created, but some of it isn't.
+
+
+DIALOG 
+
+Sandy Baldwin:
+
+Thanks for these notes - always helpful. It would be interesting to 
+present them somehow with the video. I'm trying to think about your 
+question about the relation of the thetic to ideality. Now, the former 
+references taking a position (thesis) and signification (cf Kristeva); the 
+latter references Husserlian phenomenology and the constitutions of 
+objects. Are the second set of distinctions (political economy - visual / 
+aural physiology) parallel to the first two? Anyway, I wonder if you would 
+venture an answer to the question?
+
+Alan Sondheim: 
+
+I'm not sure I understand all the modalities or connotations of the 
+thetic; online we have (among other things): 2.  Presented dogmatically; 
+arbitrarily prescribed. and derived: Greek thetikos, from thetos, placed, 
+from tithenai, to put; see dh- in Indo-European roots
+
+So I was thinking of the thetic as arbitrary proffering, gesturing; if 
+code might be construed from ideality, the thetic might be construed from 
+code.
+
+The visual/aural/sensory modalities seem clearly arbitrary in the larger 
+scheme of things, if such exists; the electrical senses of fish obviously 
+map the world completely differently (not to mention magnetism in birds, 
+bees sensing of solar polarization etc.). So this is the thetic, the shown 
+and it's in relation to political economy, which is dependent on culture 
+and organism. The ideality - and this for me is where a kind of 
+neo-platonism comes into play - is a structure which underlies everything 
+- a structure which _might_ map through propositional logic or Wolfram's 
+cellular automata or etc.
+
+The structure is alien to the extent that a rock is in-itself, ding an 
+such. It's possibly here that the uncanny of codework appears (and coding 
+in general, mathematics/mathesis in general) - that code, no matter how 
+written, always seems, in part, to come from somewhere else, to appear, to 
+have appearance, whatever the sensory modality.
+
+Sandy: 
+
+Thanks for the elaboration of the thetic. Some thoughts: As to the 
+visual/aural modalities (you mention fish, for example), I wonder if 
+inter-species animal display such as "stotting" (sp?) or "organs to be 
+seen" and the like, apply here. Here the code of display, in the large 
+sense of code from Eco or elsewhere, implies a semiotics that can't simply 
+be understood in terms of a return to the individual or even the species, 
+that gestures towards a general not-political economy. I'm thinking that 
+we, insofar as we are just such animals in the world, are on display for 
+the other (substitutable in the sense Levinas talks of).
+
+Alan: 
+
+Had to look up stotting! The sp. is right. But I'm not sure that it 
+doesn't imply a 'return to the individual' insofar as the communication is 
+a signal? This isn't the 'mutual orienting of cognitive domains' - it's 
+masquerade or camouflage in a sense? But the display has to be readable by 
+the other, in both cases, stotting or display for the other, and the 
+modalities are always limited; in fact, with stotting, the limitation is 
+absolutely necessary - for a signal to be a signal.
+
+Sandy:
+
+I take this substitutability I refer to above as the alien you refer to * 
+the alien that I am. The thetic (as arbitary positing and also as a 
+"thing" in the scopic field) is always ideological. I think this is where 
+I'm coming to your point about ideality, and when you mentioned 
+neo-platonic I thought of Barthes' on the photograph as a kind of 
+"emission" (in the sense of
+Plotinus).
+
+Alan:
+
+Yes, I think we're in agreement here perhaps. The alien is the source 
+structuration of code; the propositional calculus can't be consumed...
+
+Sandy:
+
+Agreed. Obviously, I'm thinking, on the one hand, of Bataille or Lingis 
+and their insistence and foregrounding of economies of excess and 
+non-return; but then, thought is made to account for and come back to 
+itself. Now, this dialectical reason is inseparable from philosophy, yet 
+we know there are other philosophies and unreasonable ways of thinking. I 
+could see this as life within and against the human.
+
+Alan:
+
+Interesting... I agree with you but then there's the 'selfish gene' issue 
+- if the stotting is common and in various species, then it's not leaky at 
+all but highly efficient; certainly it would be evolutionarily (?) 
+determined more than other signals, since it's at the fulcrum of life and 
+death...
+
+Sandy:
+
+Here's a different but not unrelated question - returning to the alien as 
+"source structuration of code." I wonder about the following: it seems to 
+me the subject relation to the symbolic online, let's say to the ideality 
+of ascii, is like that of the subject of film. There's is something like 
+suture occuring, and so on; at the same time, there's a difference and 
+even a complete reversal. I think this has to do with time, but I'm not 
+sure? Any thoughts here - again, if it's too much, there's no need.
+
+Alan:
+
+I'm lucky to be online. A HUGE storm is coming, lightning etc. out here. 
+Anyway - the subject online is an actant of course; the suture is similar 
+but different in that the filmic subject is predetermined - and therein 
+lies it's power - I think it relates to a fundamental masochism. The 
+viewer is held in thrall by the film, and/or the actions of the viewer 
+change nothing about the film itself - which continues to unravel at its 
+own pace - but only about the diegesis, which is always in dialog. The 
+subject in relation to the online symbolic, I assume you're referencing 
+jectivity (projecting, introjecting) is in a sense too much in control, as 
+if that control were offered to us elsewhere, outside online being as 
+well. In that sense, time is 'supple' for the online subject - in film, 
+it's not linear, but shuttled, and that dialog is set into motion by the 
+obdurate quality of the film, which just unravels. Of course this obdurate 
+quality relates, I think, to the inert of the real as well. Then when one 
+brings dream, dream-screen, all these other aspects into it, the whole 
+situation becomes muddled? Perhaps hopelessly so?
+
+Sandy:
+
+Thanks, yes. I think in the suppleness of the online subject: ASCII gives 
+me life, I give ASCII life, but I also ask more of ASCII than it can give, 
+and it gives more than I can ASCII. (In the otherness of it.) Also, 
+interesting that there's no "apparatus theory" of the net, beyond your 
+internet text of course (which does explain all).
+
+
+The World in Two Jokes
+
+How many Passenger Pigeons does it take to change a light bulb?
+None.
+
+How many Tibetan Buddhists does it take to change a light bulb?
+None.
+
+
+b.c. a.d.
+
+Analogical, used by way of analogy
+Analogically, in an analogical manner
+Analogicalness, the quality of being analogical
+Analogize, to explain by way of analogy
+Analogous, having analogy
+Analogy, resemblance between things
+
+Digit, three fourths of an inch, the twelfth part of the diameter
+of the sun or moon; an number expressed by a single figure
+Digitated, branched out into divisions like fingers
+
+Electre, a mixed metal
+Electrical, Electrick, attractive without magnetism
+Electricity, a property in bodies, wherebye, when rubbed, they 
+draw substances, and emit fire
+
+(Walker's Critical Pronouncing Dictionary, 1823)
+
+
+
+the mirror
+
+everything has been said about the mirror, speech cannot reflect,
+lip reading is muscle reading, speech reflects upon speech, 
+there is here and that, there are no scent, touch, nothing of
+temperature or sound, sound may reflect, not here and now among
+the eye, there are no taste, of which the pure, for example that
+dirty bum over there, no need to clean her mirror cloth, brilliant,
+what happens before the mirror is caught within the mirror, from a
+certain viewpoint, certain angle, not everywhere, not even where 
+you or i are
+
+the mirror is a form of digital memory, instantaneous release and
+absence of commitment, filtered the visible within the eternal, 
+that is to say positioning the eternal, positing the turn away 
+from, away from what, from contagion, from what cannot reflect or 
+be reflected, there are always exceptions, less relevant than one
+might think, what is the rule here, only photonic mechanisms,
+absorption release, according to what, according to mathesis, to
+pure form itself, to the cleansed mirror, forgetting just the rest
+of things
+
+turning the mirror off, turning away from the mirror, from mirror
+or mirroring, even the shift at an obtuse angle, there it goes, 
+there it all goes
+
+but the memory, that is, of the digital before its bearing, before
+presage, prespeech, of a future anterior, which is what, which is
+why the mirror appears to foretell what, foretell the future
+
+which is why the future is digital
+
+
+( http://www.asondheim.org/mirror1.jpg )
+( http://www.asondheim.org/mirror2.jpg )
+( http://www.asondheim.org/mirror3.jpg )
+( http://www.asondheim.org/mirror4.jpg )
+
+
+
+
+Radio, fossils, sound, abjection
+
+Some extremely old (crystal) radio equipment I'll be working with in 
+New York and West Virginia:
+
+The cylinders are the oldest - they're called a 'loose coupler' - this is 
+probably an 'Arlington' type and is an adjustable inductor used for 
+tuning. I think the date is between 1912-1914 which is extremely old for 
+radios. The earphones are newer, but I'm not sure how new, since I have a 
+Western Electric 1903 linesman telephone set (I showed it to you ) that I 
+has roughly the same design. So probably around the same time. The 'box' 
+is a tunable spherical inductor - I have no idea how to use this (yet; I 
+do have schematics back in Brooklyn); I'm guessing the date is between 
+1915-1919 at the latest. So all of this stuff is extremely early. The cat 
+whisker and galena crystal mounted on the loose coupler is much later; I'm 
+guessing the 50s or so. The loose coupler would have attached to elements 
+spread out on a bench - there weren't any 'sets' that I know of from this 
+period, although I may well be wrong. In other words, this is a more 
+modern crystal that someone attached to the board to complete the set.
+
+I want to set all of this up with an extremely long wire antenna; I don't 
+think it will be that difficult and I'll probably have the thing running 
+in a week or so after returning to NY. The eventual idea would be to 
+record the roar of the world, as well as VLF signals, and then to study 
+the result with a modern signal analyzer, either hardware or software.
+
+
+Now part of the theory here - again, thinking of mirror as digital - and 
+then one might think of sound and its reflections as neither or both 
+digital and analog - 'uncanny':
+
+Sound always within the imminence of presence - the same sound or 
+granularity whether present nearby or at a distance - echo etc. gives an 
+indication of distance (as if there were a 'distance function), but it's a 
+'spread' of the original which is always already spread (in time). The 
+original is always present. The original is always present. Sound is 
+always interior and exterior, it relates to abjection (as in opposition to 
+the mirror (stage)); it's second person, it speaks within the body, it's a 
+'voice in the head' - the mirror on the other hand is all exteriority, 
+purification -
+
+Echoes are uncanny - they're a dislocation of granularity; at the same 
+time they preserve it as a kernel (within an aura). - They re/present the 
+kernel as if it were within the abject.
+
+The visible has no aura.
+
+
+Radio:
+
+http://www.asondheim.org/radio1.jpg
+http://www.asondheim.org/radio2.jpg
+http://www.asondheim.org/radio3.jpg
+http://www.asondheim.org/radio4.jpg
+http://www.asondheim.org/radio5.jpg
+http://www.asondheim.org/radio6.jpg
+http://www.asondheim.org/radio7.jpg
+http://www.asondheim.org/radio8.jpg
+http://www.asondheim.org/radio8.jpg
+http://www.asondheim.org/radio10.jpg
+http://www.asondheim.org/radio11.jpg
+http://www.asondheim.org/radio12.jpg
+
+Then there are two fossils of interest - these are belemites that seem to 
+be mating. (These were found in the Denver Public Library marble!)
+
+http://www.asondheim.org/fossil1.jpg
+http://www.asondheim.org/fossil2.jpg
+
+
+
+Aero Service: Blurred visual and diegetic codes
+
+
+"No. T os t pla w ll. oul ar ly t ll you t wasn't or your vo ."
+
+http://www.asondheim.org/code1.jpg
+http://www.asondheim.org/code2.jpg
+http://www.asondheim.org/code3.jpg
+http://www.asondheim.org/code4.jpg
+
+"A sa lor's w , a sa l-or's star s oul
+Star-r-r-r-r-r s oul
+Star-r-r-r-r-r s oul "
+
+"It w s som sort o r ittin ost t t l n m t t sl p w llop," r r , w o, s 
+w know,w s r pr nsi ly iv n to sl n on ll o sions.
+
+u by N wit s torc r a y or n- stant ar n n , t two a s b an to t r a t maz 
+o corr ors an passa s. T a b o n t s or s v r a m nut s, an w r b nn n to 
+t rath r b w r , w n N stopp su n y ust as t y nt r a ong corr or p rc w t 
+oors, w t t sam monotonous r u ar ty as t ot rs. x n u s t n t w n o an y 
+, an r w rc sw y nto mbrasur o a oorway as so.
+
+(From "The Dreadnought Boys on Aero Service," Captain Wilbur Lawton, 
+1912, transformed into code book by "Sam Rowe - 1942".)
+
+Part of code cipher given after the last: 
+A B C D+41 E+34 F+40 G+0 H+35 I+40 J+24 K+47 L+25 M N O P Q R S T U V W X 
+Y Z
+
+
+
+
+little story of rhetoric
+
+http://www.asondheim.org/saucer1.jpg
+http://www.asondheim.org/saucer2.jpg
+http://www.asondheim.org/saucer3.jpg
+http://www.asondheim.org/saucer4.jpg
+http://www.asondheim.org/saucer5.jpg
+http://www.asondheim.org/saucer6.jpg
+
+if you cannot believe these are true, you are naive
+if you believe these are true, you truly see through things
+things as they are are not things as they seem to be
+to see through things is to understand true conspiracies
+by definition all conspiracies are true
+the transparency of these images implies their opacity
+the world is encrypted
+to believe otherwise is to live and die on the surface
+the wise follow themselves no matter where they lead
+leaders speak other languages
+conspiracy implies the regularity of the surface
+surfaces close ranks behind the naive
+one sees only the tips of signs like icebergs
+signs emerge at unexpected moments of everyday life
+the rule of conspiracy: 
+((( a -> b ) & ( c -> d )) -> (( e -> a ) & ( e -> c )))
+the center is the peripheral
+belief in conspiracy is not belief
+there are those who do not want you to believe this
+that there are those who do not want you to believe this makes you 
+ important
+i am important since i have discovered that there are those who do
+ not want you to believe this
+because i am important you are important
+because i write this you are important
+listen: sound, not sight, travels through walls
+linear sight disrupts the signs revealed by scripture and inscription
+conspiracy is aural
+this is an absolute and absolute truth
+
+
+
+crystal radio doldrums tending towards scribbles
+
+silly little drawings as i try to get the 1912 +/- crystal radio 
+to work:
+
+http://www.asondheim.org/draw1.jpg
+http://www.asondheim.org/draw2.jpg
+http://www.asondheim.org/draw3.jpg
+
+from a letter - so far I've been able to hear nothing except slight 
+crackles when lightning's around. I'm not sure what the problem is. The 
+earphones are the right age (1918) and impedence; they work. The crystal 
+seems fine. There are problems with the taps on the inner coil, but I 
+found work-arounds. I also tried to use just the outer coil. Nothing is 
+audible at all, just silence, not even 60 hz hum. We're not in a radio 
+dead-zone; I should at least be picking up static.
+
+The diagram I'm working with is at http://www.sparkmuseum.com/COUPLERS.HTM 
+- I'm not using capacitors, however (and they weren't employed much of the 
+time at the period. I've also tried alternative ways of wiring, still 
+nothing.
+
+I can't imagine what's going on. I've been using proper grounding and a 
+fifty foot antenna; this should be sufficient for testing. If you have any 
+ideas, please let me know!
+
+
+our song revisited
+
+
+music and voice by azure carter
+lyrics and video by alan sondheim
+
+http://www.asondheim.org/aurora.mp4
+
+special thanks to people using megaphones
+
+
+"they run around everywhere, underfoot,
+will play song, aire, 
+becomes eye longer stimulation 
+retina world declares odorless song and wind" 
+
+
+
+an interesting insect* recording
+
+
+http://www.asondheim.org/cricket1.mp3
+http://www.asondheim.org/cricket2.mp3
+
+*might be amphibian but very doubtful
+
+unlike most crickets, cicadas, grasshoppers, these sound continuously, on- 
+ly pausing with what seems like exhaustion. the sound is intensely direc- 
+tional; turn 90 degrees and it disappears, even though we were within a 
+few feet of the creature (which remained hidden in the bushes). now here 
+we are with the semblance of a neuron; there are threshold firings that 
+one might consider digital (sound on / sound off) but there's also a fine 
+structure that i assume goes well into the ultrasonics, conveying coded 
+information that's analogically based. this is similar to 'counting chirps 
+to determine temperature'; in this case, there are no chirp bursts and 
+whatever's going on is invisible - and perhaps invisible to the insect 
+that hears and responds, the insect that autonomically decodes and acts 
+accordingly.
+
+again, any information you might have would be greatly appreciated. the 
+sounds were recorded at ground level (dangling mono microphone) early 
+night in aurora, colorado, early august.
+
+
+Stairs and Us
+
+I coupled an ancient homemade variometer or variocoupler with the loose 
+coupler (in series with the antenna. I reset the slider bar and repaired 
+the crack in the front coil support. I made a new slider contact out of a 
+smooth alligator clip. I attached a very think wire to the cat's whisker 
+tip to improve contact. I refiled the primary coil contacts. I repaired 
+the 1918 509W 1100 Wester Electric headset leads and placed cloth over the 
+rubberized ear pieces which seemed to be deteriorating. I reattached a 
+loose while on the variocoupler. I rewired the connections I made with the 
+alligator clips. I bypassed the internal secondary coil of the loose 
+coupler. I glued shims under the outer rail support for the secondary 
+coil. I set up a short 30 foot antenna in a garage. I attached a 15 foot 
+ground to a door frame. In the day I pick up 1090 and nothing else, at 
+night I pick up KOA and nothing else. They're on very different parts of 
+the AM band. I pick up a faint buzz but this is with or without the 
+crystal so I imagine it's nothing more than 60 hz inducing in the 
+vicinity. I think the signals will be stronger in New York - greater 
+humidity, more and closer stations, and a very long wire antenna and good 
+ground. I think I'm running this on no energy. I think I'm stealing 
+energy. I think it's there and free for you and me. I think I'm making a 
+secret. - http://www.asondheim.org/vario.jpg - While I am doing this, I 
+think again of the paradox - theoretically one can run upstairs faster 
+than down since there's only gravity, no foothold, down, and upstairs one 
+pushes off the stair surfaces for speed. Near a black hole I imagine the 
+two speeds would be more or less equal. In zero gravity, going down the 
+stairs would be at 0 kilometers / hour; there's nothing moving the body 
+one way or another. On the other hand, moving upstairs would still be 
+roughly at any speed; the obstacle, of course, the inertial mass of the 
+body and the 'foot force' at hand. I think, why is this? Why is it easier 
+to fall for someone downstairs, but there are limits based on the planet 
+the two of you are on - while running upstairs, fleeing the raptor - why, 
+there's no inherent limit except what the body imposes, against whatever 
+gravity happens to be around. (I think, downstairs, it's the pulsing of 
+the planet - upstairs, it's the pulsing of the speaking body, listening 
+planet, or speaking planet, listening body, always this dialog as one 
+approaches an indefinite absolute, the planet's masquerade.)
+
+
+
+cosh
+
+in celebration of some new found success i give myself the pleasure of 
+manipulation for the sake of beauty, symmetry breakdown and reassemblage; 
+this makes me, one, uneasy, all this masquerade of depth when there is 
+none (as if there ever was), just the joy of one image after another as 
+cosh tries to right itself, as i write it, so to speak or calculate, what 
+beauty! reasonless! passion!
+
+http://www.asondheim.org/cosh.mov
+
+
+away, away, away from the sun
+
+away, away, away from the sun
+as if it were something of the light to shun
+the light, as if the light were something
+beyond what weather might cause it to bring
+further darkness, emanating rays
+disappearing against the length and breadth of days
+it was old kant who said beware of such phenomena
+that broil up against the space of noumena
+or rather there might be that arc of aristotle
+just before it decays into so much silly prattle
+so what are these rays but longing for the dark
+light fleeing light, the world turned stark
+and raving, mad and luminous, at a loss for light
+along the highways of the mind, the byways of delight
+
+http://www.asondheim.org/lightfleeing.jpg
+
+
+
+
+
+that's really interesting
+
+it's always a wonder, what's really interesting, and whether interest, in- 
+terest-in, is a reasonable category of philosophical discourse. philosoph- 
+ical writing often appears scholastic, dry, abstract; it seems to contain 
+the semblance of power, that is argument for production's sake, production 
+for motive's sake, motives for lifeworld's sake. the latter is crucial - 
+that one inhabits one's work, replies, missions, admissions - exists with- 
+in the life of worlds, structures accordingly. but is that of interest 
+elsewhere, and what constitutes interest - there are two ways to think of 
+'having an interest in' - one, fascination with discourse on a particular 
+subject - two, an interest in the sense of economic or other interest ab- 
+stractly controlled by a steering mechanism, habitus of power, and so 
+forth. i have a conversation recorded w/ david antin perhaps 30 years ago 
+we were discussing astrology and about what was of interest and what was 
+not and what sort of steering mechanisms or correlations there were and 
+how they connected to the universe and i remember beyond or before the 
+tape david saying that even if astrology were true it's not of much inter- 
+est and i could only agree since personality and mute matter correlations 
+mean relatively little and prove nothing in the long run, at first i was 
+going to quote from the tape we made but then this particular section of 
+interest was elsewhere, outside the thing itself so to speak. {} truth is 
+never interesting; if truth were interesting then it would not be the flat 
+greyness of existence. then it would be corrupted into landscape, furn- 
+ished with ridges, serrated edges, graspable, something fallen into lang- 
+uage - i have often said nothing could be farther from the truth. then and 
+there interesting philosophy embraces evil, abjection, obscenity; it rides 
+these, dis/comforts these, dis-inhabits the abstract, something's at stake 
+- what remains elsewhere is physics, let's hear and see it for physics. 
+"find the david antin text and what david antin says about things being 
+interesting also try to talk about the notion of truth as being inherently 
+neutral and not of interest because there's no error which allows distance 
+and through that reflection and opening up possibilities connected with 
+the lurid and abjection and perhaps one of the reasons systemic philosophy 
+went out of favor in the twentieth century was because of the amazing 
+amount of interesting information exploding everywhere and all of it veer- 
+ing in interesting directions, not those of axiomatic conclusions, but 
+those of interesting conversations always continuing. the more the world 
+becomes (seems to become) more interesting, the more systems are retired, 
+those systems which are steering mechanisms and not dialogs, even bell's 
+theorem on the other hand is a dialog of sorts." crystal radios, constant 
+chirping, western grebes, are interesting, tantra is very interesting and 
+full of sights, sounds, tastes, touches, smells, extremely interesting and 
+its truth is that of the back of the human being world-consorting, every 
+thinking of the motive and intention of thinking. and curvature, curves, 
+mathesis of every sort, is always of interest, the thinnest of beams 
+enabling nothing, holding up even less. {} now crystal radio is interest- 
+ing because it's driving high-impedance earphones and it makes me wonder 
+of course why the same electromagnetic waves couldn't be harnessed to 
+charge lithium batteries, run low-power computers, etc. i've often thought 
+of living in pre-transmitter times, turning on a radio - of course there'd 
+be static and atmospherics, but i think, am almost certain, there would be 
+something else. i am the last person on earth to await the carboniferous. 
+{} if philosophy could be presented in an interesting manner, what then? 
+would philosophy then be of interest? i'm thinking of nietzsche, kierke- 
+gaard, but also of witold gombrowicz, a guide to philosophy in six hours 
+and fifteen minutes. now the text is fascinating but i wonder if terms 
+such as consciousness, object, subject, being, existence, nothingness, 
+reduction, etc. couldn't be considered placemarkers for other terms such 
+as anhinga, tibet, arlington coupler, hohner victoria harmonica, vegan 
+sushi, and so forth? in which case the discourse might well be more inter- 
+esting - and what is the substrate of the original terminology, what holds 
+it both to a more philosophical habitus and to a re/configuration of the 
+world and what the world holds? texts are of course texts of substitution, 
+deferral, differance, narration, holding language much as the phaistos 
+disk holds language. and the phaistos disk is interesting perhaps because 
+it remains mute, presenting us with a diacritique of language itself. {}
+
+
+
+aliens from space
+
+once the trick is discovered, it's discovered that the real is no trick.
+that is all that can be said about the real; there is much to be said 
+about display and tricks. consider this trick, whose illusion is entirely 
+transparent: there is no trick. or perhaps the trick is that there is no 
+trick, that what is there is here, present, presencing. and it is clear as 
+well that this presencing is the result of digital deconstruction: of 
+what? of the vagaries of the wind which are apparent by virtue of timed 
+mappings. that is to say: paths are chosen, or the parameters are chosen, 
+and the rest follows. i would go so far as to argue that reality is a 
+trick or masquerade, hiding nothing, the scaffolding such as it is. the 
+question about a trick is how is it done, but the trick of the real is 
+that it is never done, never performed; one characterizes the real as that 
+which is never performed. here by the real i include reality, and by 
+reality i include the real; think of this as irrelevant epistemological 
+slides. 
+
+still there is the wonder of the thing or process. it is the wonder of it 
+that keeps it interesting; it is the wonder that implies that we ourselves 
+and the trick are on the same side of the real, which is the real.
+
+http://www.asondheim.org/truesaucer.mp4
+
+
+yes well jazz
+
+more swirled tricks bringing the eclipse home
+http://www.asondheim.org/trane.mp4
+beauty interests me because it's a beautiful masquerade
+every masquerade is beautiful
+i'm unbearably exhausted and will continue this on the morrow
+this is the morrow and i'm not sure about the piece
+the initial impetus is gone and perhaps it was never there
+nature appears to disappear in a similar fashion
+but nature is always a site of contestation is it not
+certainly the swirled tricks are unnatural are they not
+or barely worth watching, the swirled tracks
+
+you
+
+they can see it in you.
+most of them won't say anything, but they know.
+they can tell what's happened.
+there's something in you that seems different.
+you can tell when you look at them.
+they act differently to you.
+they seem somehow different but you can't pin it down.
+
+all of you know they're going to die. 
+they don't have to say anything, it's taken for granted.
+it's a smell you can't get rid of, everyone smells it.
+you don't know where it comes from, but it's there.
+it's from them, you're almost certain, you're sure they're
+dead, or almost dead, you know it's not from you, there's 
+something in their eyes.
+
+
+>sondheim has joined.
+>
+>sondheim: testing, what one is leaving,
+>
+>a footstep across this space, why you can erase it, absolutely!
+>you wouldn't ever know, it would disappear like any other noise
+
+you can hear them behind you, but when you turn around, no one's
+there and you think, no one's ever been.
+you're following them down the street, there's something about
+them, you think to yourself, they bear watching
+
+
+
+
+crystal
+
+http://www.asondheim.org/cradio1.mp3
+http://www.asondheim.org/cradio1noiseplus.mp3
+http://www.asondheim.org/cradio1noiseminus.mp3
+http://www.asondheim.org/cradio4hissplus.mp3
+http://www.asondheim.org/cradio4hissminus.mp3
+http://www.asondheim.org/cradio2mov.mp3
+http://www.asondheim.org/cradio3hissminus.mp3
+http://www.asondheim.org/cradio3hissplus.mp3
+http://www.asondheim.org/cradiodirecthissminus.mp3
+
+cradio1 = crystal radio reception normal; noise only; signal only
+cradio2 = manipulated signal bringing out subtextuals
+cradio3 = hiss only; signal only
+cradio4 = signal only; hiss only
+cradiodirect = signal only
+
+recorded from 1912+ loose coupler in combination with parallel diodes and 
+variocoupler (in series with ground): the loose coupler has connections 
+only to the primary - the secondary is passive/tuning. the variocoupler 
+(two spherical coils, one within another) tunes by revolving the inner 
+coil. the antenna is a dipole, one length around 20', the other 100+' 
+after passing through a coil. the variocoupler and long antenna are from 
+1920+/1. the diodes are modern (the crystal is problematic). there are no 
+capacitors/condensers or resistors. the output goes to a low impedance 
+active speaker set with all but the cradiodirect; the recording is through 
+the speakers using an olympus voice recorder (which easily covers the 
+audio frequency of the radio). the direct connection results in hum for 
+the most part. the usual connection for the radio is a pair of 1918 high 
+impedance western electric earphone, but these proved inadequate for 
+recording.
+
+the signals were processed in Cool Edit Pro, using hiss and noise reduc-
+tion as well as amplitude normalization and hard limiting. the recording 
+was done around 12:30 a.m. here in brooklyn. i searched for station pile- 
+ups as well as 'gaps' between signals which were then amplified. the radio 
+had broad tuning - the five coils tuned broadly but surprisingly well. i'm 
+now waiting for a very large coil to see if vlf or anomalous signals may 
+be received; i'm also looking forward to recording lightning and other 
+sounds during thunderstorms. in its current configuration the radio pulls 
+in around 20 stations all over the a.m. band; there are hints of low 
+frequency beacons, but nothing certain. 
+
+tuning is done with a variety of methods in combination - the primary coil 
+of the loose coupler has a single slider; the secondary coil move within 
+the primary coil; the variocoupler rotor can be turned; and the vario- 
+coupler, large antenna coil, and loose coupler can all be moved in rela- 
+tion to each other. if the secondary coil is directly connected, it can be 
+tapped at various points. only the slider changes stations 'drastically' 
+the variocoupler and sliding secondary loosely isolate stations. unlike a 
+modern radio with a single 'action,' this radio (and other sets) require a 
+skein-like approach to tuning; everything modifies everything else, and 
+everything is brought into resonance by sliding, stepping, rotating, and 
+so forth. 
+
+theoretically, i want to explore notions of 'tending' equipment, adjusting 
+and re-adjusting, as well as thinking of this kind of technology as rela- 
+ted in a different way to earth (not only to grounding, but to notions of 
+soil, geology - there's something of heidegger in the background). they 
+are raw agents of 'earth-fields,' free atmospheric energy, world-static. 
+at one point, years ago, i wrote about the 'spectral mother' of short-wave 
+listening; the idea applies here as well - one listens to universal chora.
+
+the recordings are hopefully sufficiently different to be of interest. 
+the subtextuals (for lack of a better word) are difficult to hear but 
+fascinating; some are clearly from 60 hz power grid stuff, but there are 
+others, which i hope to somehow amplify in the future, that seems unusual. 
+and then there's tapping the energy, running leds, future-cars and rumors 
+as lightning conductors...
+
+
+
+
+
+
+weather of the sea
+
+there's an audience in a large hall. they're listening to lightning. they 
+have to listen through lots of radio they're not interested in. they're 
+interested in lightning but lightning comes at a price. there were 
+silences then and lightning dwelled in many mansions. think of the 
+mansions and the forgetting of words and music. think of forgetting the 
+sounds and cries for help and wars of mass destruction. think of wars of 
+mass destruction and the silence of proper-name-one. think of the silence 
+of the destruction of capitol-one. think of the noise of capitol-two, 
+capitol-three, -four -five. lightning hisses, crackles, stutters, roars, 
+shudders. there's an audience in a large hall. there's radio in the hall 
+and outside, why outside it's storming. think of the weather of the sea. 
+
+http://www.asondheim.org/lightninghall.mp3
+
+(the radio, it's storming, weather in the sea.)
+
+
+
+what remains
+
+
+because of the faces and powers among our second lives
+and third and others in-between the others; because of
+swollen faces thinned back to pages bones and shadowed flesh
+that nothing stays what was simple and illusion
+
+and then poetics rounds and fills the world
+among lost pages and inscriptions freed
+from every symbol and symbols freed and world;
+the less are said the farther truth transcends
+
+because of truths and songs and lights and place
+where bodies turn; because of bodies churned and stretched
+among beams of those lights and those songs; those truths
+nothing stays back nothing; valleys fill with jostled things
+
+and things churn symbols; the world
+fills silence; skies get dark kiss; welkin
+
+
+http://www.asondheim.org/whatremains.mp4
+
+song singer azure carter
+words video alan sondheim
+
+
+
+beacon, cb
+
+
+the earlier crystal radio files have been taken off.
+
+the first file below is from crystal radio with a cb radio transmitted
+coupled to it (the transmitter antenna rod placed near at right-angles
+to the loose coupling coils). the recording was (as with the other files) 
+through a sony minidisk connected directly to the crystal radio output.
+sounds are breathing through the cb, turning it on and off, etc.
+
+the following two files are highly modified, direct from crystal through 
+minidisk; if you listen carefully you can hear a low-frequency beacon at 
+one point. 
+
+with all three files, the variometer is used for fine tuning (in series 
+with the loose coupler primary; the other end connects to ground).
+
+why are these of interest? for me, it's the mystery and wonder of coil 
+couplings against power grids and human transmissions. and then what 
+happens!
+
+http://www.asondheim.org/brea.mp3
+http://www.asondheim.org/beaconhissminus.mp3
+http://www.asondheim.org/beaconhisshalfminus.mp3
+
+
+
+THIS TEXT WARNS YOU NOT TO READ BEYOND THIS WARNING
+
+
+keeping-secret-highest-secret-tantra
+KNOWLEDGE IS DANGEROUS
+therapeutic knowledge: an adept NEEDS TIME
+KNOWLEDGE MUST BE SWALLOWED THEN IT IS NOT KNOWLEDGE
+
+i will teach you my secrets
+I WILL TEACH YOU MY SECRETS
+
+"I know nothing of the gamblings of the Bourse; I only speculate in the 
+rise of the national honour!"
+
+'To those who cried: Adjourn! Adjourn! -- "You naturally wish adjourn- 
+ments, and not truths. The truths swamp you!"'
+
+I COULD NOT SLEEP TWO NIGHTS AGO. MY HEAD WAS MEAT ON A STICK
+
+MY HEAD WAS ON A STICK
+
+"I DESIRE THAT MAY ASHES REPOSE ON THE BANKS OF THE SEINE, IN THE MIDST 
+OF THAT PEOPLE WHOM I HAVE SO MUCH LOVED."
+
+inform the people at most TEN SUMMERS REMAIN
+
+you will find me DEAD with the slightest, smallest, email, almost a note 
+in passing, 
+
+because i will search for the light there will be no light
+because this is all there is i will not, can one ever, read the slightest,
+smallest email announcing one's own death
+
+if of course that announcement is true and verifiable
+if in fact the soul has already left the building
+if there is in fact an empty building
+
+"Come, come then! Up, gentlemen, up!"
+
+
+
+
+skipping and ghost-traps
+
+
+skipping as the third walk/run/skip gait -
+where is OUR ethnography of skipping
+
+BUT
+
+radio waves - shortwaves, spherics, whistlers:
+ionosopheric skipping
+
+in the samples here, the GROUND of the crystal radio is
+connected to the ANTENNA of a second crystal radio
+
+the OUTPUT of the first (large loose coupler) c.r. connects
+to the INPUT of a VLF (very low frequency) radio
+
+the OUTPUT of the VLF radio connects to the INPUT of a
+minidisk recorder
+
+the two crystal radios operate with DIODES and COILS:
+INDUCTORs
+
+the COILS are ghost-traps absorbing everything within
+their spectral range
+
+nothing but wound wire self-inducting, mutually inducting,
+everything around
+
+they capture invisible spirits how close to the speed of
+light
+
+_mdos_ or 'thread-cross'
+
+'In other cases the _mdos_ fulfills the same purpose as a
+_gtor ma_; it provides a temporary abode for a deity.'
+
+'The patches of wood which are often attached to the sticks
+forming the _mdos_ are in this case supposed to represent the
+clouds floating around the heavenly abode.'
+
+(Oracles and Demons of Tibet, The Cult and Iconography of the
+Tibetan Protective Deities, Rene deNebesky-Wojkowitz, Paljor,
+1998)
+
+the RANGE appears to cover the medium-wave (AM)
+band as well as somewhat above and below it.
+
+http://www.asondheim.org/cryr1.jpg and
+http://www.asondheim.org/cryr2.jpg = images of the
+circuitry
+
+http://www.asondheim.org/dean0.jpg
+http://www.asondheim.org/dean1.jpg
+http://www.asondheim.org/dean2.jpg
+http://www.asondheim.org/dean3.jpg =
+
+our happy home; we are on the third floor of what has
+become (thanks to the RATNER PROJECT) an URBAN
+WASTELAND. you can SEE OUR ROOF BUT YOU
+CAN'T SEE OUR WIRES
+
+the sound files:
+http://www.asondheim.org/rrr1.wav
+sample wa file with interesting content to be use
+
+http://www.asondheim.org/rr3hiss.wav
+this is a second output file with a hiss filter applied in
+such a manner that everything but the hiss is filtered
+out
+
+the result is a radio background soundtrack with quite
+interesting phases shifts and other phenomena
+
+http://www.asondheim.org/rrr4.wav
+a third file again with interesting content presented
+'straight'
+
+there is are some changes as a result of switching wires
+but what's of great interest (that word again) is the
+tremolo (using a galena crystal instead of a diode) as
+well as a high-pitched signal and other background
+materials
+
+http://www.asondheim.org/rrr4hiss.wav
+the same filel with hiss only remaining
+
+http://www.asondheim.org/rrr4hissminus.wav
+the same file with hiss removed
+
+http://www.asondheim.org/maple.jpg
+a closeup of our japanese maple which oversees
+everything
+
+
+
+Avatar Dress Codes (talk for Dresscode Avatar fest.)
+
+
+Of course the dress-code is code and what protocol structures;
+I have no idea what Linden knows;
+If it's anything like MOO-Wizardry, Linden knows or has the potential
+for knowing - everything. 
+So there's that limit.
+
+I think of build as masquerade, participating in dubious economy.
+Dubious, because I can't afford it! And would want, as with any land-grab,
+some sort of assurance of ownership beyond the corporation.
+
+I've spent something like $2.40 on Second Life.
+
+To the more serious issue - I identify with Gaz' work because of the dis/ 
+comfort it causes; it's this dis/comfort and the attendant psychoanalytics 
+that fascinates me, that I think is important in virtual space.
+
+Because virtual space is cleansed, purified, and one can always sign out 
+when things get too hot. But investigating, producing, corrupting, 
+exalting, the abject body, that's something else, this body which is both 
+prim and flesh, which doesn't quite let go when you hit delete or quit.
+
+It's this body that reminds you of flesh in the midst of non-flesh, that 
+speaks for that _matter_ of the number tattooed on a survivor's arm - and 
+the relation of that number to the system of integers.
+
+Every arm, leg, big rez, hot car, agro, hack, swollen outfitting, is sex, 
+most often phallus, writ large. Every phallus is a masquerade, null point, 
+whose transcendent meaning disappears in the vagaries of real and quite 
+weak flesh.
+
+Avalanches kill people, they're just snow.
+
+I'm quite possibly in the wrong place, but I miss issues of governance in 
+Second Life, issues implicit in the software, not riding the World Wide 
+Web. We're allowed to talk endlessly.
+
+Just a word here about MOOs - anyone could and can set one up, look at the 
+code, thank you Pavil Curtis. Now the SL engine is far more complex; it's 
+unary, there, as far as I know; we're in an obdurate space in a manner not 
+unlike the earth itself.
+
+On an email list, someone complained that there's no Guernica in Second 
+Life. But there is; Gaz dressed/de/codings, my body, these are Guernicas. 
+But response Guernicas, not masterpieces, which, with all their delicacy, 
+are left behind.
+
+Back to the dress-code. My avatar appears to bleed. My avatar is a woman, 
+sourcing speech, behavior, chora, abjection, Timaeus, Kristeva. Her body 
+distorts, her body always returns from distortions. She came out of my 
+work with another avatar, Nikuko, who appeared in print and video for a 
+number of years. Nikuko was a demiurge; this avatar is demiurgency.
+
+It uses the name Alan and writes me within her. The very interactivity, 
+dialectic, of Second Life, ensures she's only in partial control, just as 
+one might wander, Situationist-like, through any city.
+
+She's dressed nude or blood-covered or organ-covered; she's tantra-fierce, 
+I'm her consort, not the other way around. Inhabiting her, I face myself 
+in an _uncanny manner,_ it's not comfortable; when she leaves the space 
+through extreme behavior, I can't find her or find myself any more than 
+you can.
+
+Her motions are behaviors or behavior collisions - combinations of 
+behaviors that result in contradictions. The behaviors themselves are, for 
+the most part, constructed from motion capture equipment using life human 
+performers. But the motion capture sensors are re-arranged to create 
+virtual bodies in real physical space, and it's these virtual bodies and 
+their motions that are mapped onto the Second Life avatar.
+
+There's relationship to dance as well. I work with Azure, Foofwa 
+d'Imobilite, worked with Maud Liardon. A fair amount of this work is nude 
+- not to create a pure body, but to give the cultured, acculturated, body, 
+room to breathe. If you've seen our videos, you'll find real-world 
+imitations of avatar imitations of real-world behaviors; the spaces 
+shimmer and meld, both in virtual and live performance.
+
+Sexuality is always in the eye of the beholder; it's not in the prims. I 
+enter the sheaved interior of my avatar; there's no clothing, only triply 
+articulated space: 1. Articulated by the exigencies of the avatar- 
+construct itself; 2. Articulated by motion-capture; 3. Articulated by the 
+Linden contextuality and all that's implied there.
+
+The avatar behaves, one way or another, variously in various spaces. I 
+want to work at the edge of the game-space, where physics is different, 
+and where I'm mostly alone (or working with my colleague on-line, Sandy 
+Baldwin). 
+
+...but then I imagine furiously dancing across the landscape, inscape, 
+outscape, roiling, creating havoc everywhere I go, just churning like a 
+star half-way burnt to a cinder, burned-out, dead before 1914, 1939, 
+2002...
+
+thank you
+
+
+This is my part of a talk (Sandy Baldwin is also speaking) for the DRESS- 
+CODEAVATAR show/performance tomorrow at 2 p.m. NYC time - please attend 
+if you're interested. You can find info online; it's in Second Life and 
+real life for that matter. Thanks, Alan
+
+I think if you go to 
+http://xxxtenxion.blogspot.com/2007/08/lets-do-it-tun-wirs.html
+and click on
+3 weeks of fine art.xxXtenxion
+- a bit confusing but there -
+
+
+Avatar Dress Codes (talk for DRESSCODEAVATAR.)
+
+
+Of course the dress-code is code and what protocol structures;
+I have no idea what Linden knows;
+If it's anything like MOO-Wizardry, Linden knows or has the potential
+for knowing - everything. 
+So there's that limit.
+
+I think of build as masquerade, participating in dubious economy.
+Dubious, because I can't afford it! And would want, as with any land-grab,
+some sort of assurance of ownership beyond the corporation.
+
+I've spent something like $2.40 on Second Life.
+
+To the more serious issue - I identify with Gaz' work because of the dis/ 
+comfort it causes; it's this dis/comfort and the attendant psychoanalytics 
+that fascinates me, that I think is important in virtual space.
+
+Because virtual space is cleansed, purified, and one can always sign out 
+when things get too hot. But investigating, producing, corrupting, 
+exalting, the abject body, that's something else, this body which is both 
+prim and flesh, which doesn't quite let go when you hit delete or quit.
+
+It's this body that reminds you of flesh in the midst of non-flesh, that 
+speaks for that _matter_ of the number tattooed on a survivor's arm - and 
+the relation of that number to the system of integers.
+
+Every arm, leg, big rez, hot car, agro, hack, swollen outfitting, is sex, 
+most often phallus, writ large. Every phallus is a masquerade, null point, 
+whose transcendent meaning disappears in the vagaries of real and quite 
+weak flesh.
+
+Avalanches kill people, they're just snow.
+
+I'm quite possibly in the wrong place, but I miss issues of governance in 
+Second Life, issues implicit in the software, not riding the World Wide 
+Web. We're allowed to talk endlessly.
+
+Just a word here about MOOs - anyone could and can set one up, look at the 
+code, thank you Pavil Curtis. Now the SL engine is far more complex; it's 
+unary, there, as far as I know; we're in an obdurate space in a manner not 
+unlike the earth itself.
+
+On an email list, someone complained that there's no Guernica in Second 
+Life. But there is; Gaz dressed/de/codings, my body, these are Guernicas. 
+But response Guernicas, not masterpieces, which, with all their delicacy, 
+are left behind.
+
+Back to the dress-code. My avatar appears to bleed. My avatar is a woman, 
+sourcing speech, behavior, chora, abjection, Timaeus, Kristeva. Her body 
+distorts, her body always returns from distortions. She came out of my 
+work with another avatar, Nikuko, who appeared in print and video for a 
+number of years. Nikuko was a demiurge; this avatar is demiurgency.
+
+It uses the name Alan and writes me within her. The very interactivity, 
+dialectic, of Second Life, ensures she's only in partial control, just as 
+one might wander, Situationist-like, through any city.
+
+She's dressed nude or blood-covered or organ-covered; she's tantra-fierce, 
+I'm her consort, not the other way around. Inhabiting her, I face myself 
+in an _uncanny manner,_ it's not comfortable; when she leaves the space 
+through extreme behavior, I can't find her or find myself any more than 
+you can.
+
+Her motions are behaviors or behavior collisions - combinations of 
+behaviors that result in contradictions. The behaviors themselves are, for 
+the most part, constructed from motion capture equipment using life human 
+performers. But the motion capture sensors are re-arranged to create 
+virtual bodies in real physical space, and it's these virtual bodies and 
+their motions that are mapped onto the Second Life avatar.
+
+There's relationship to dance as well. I work with Azure, Foofwa 
+d'Imobilite, worked with Maud Liardon. A fair amount of this work is nude 
+- not to create a pure body, but to give the cultured, acculturated, body, 
+room to breathe. If you've seen our videos, you'll find real-world 
+imitations of avatar imitations of real-world behaviors; the spaces 
+shimmer and meld, both in virtual and live performance.
+
+Sexuality is always in the eye of the beholder; it's not in the prims. I 
+enter the sheaved interior of my avatar; there's no clothing, only triply 
+articulated space: 1. Articulated by the exigencies of the avatar- 
+construct itself; 2. Articulated by motion-capture; 3. Articulated by the 
+Linden contextuality and all that's implied there.
+
+The avatar behaves, one way or another, variously in various spaces. I 
+want to work at the edge of the game-space, where physics is different, 
+and where I'm mostly alone (or working with my colleague on-line, Sandy 
+Baldwin). 
+
+...but then I imagine furiously dancing across the landscape, inscape, 
+outscape, roiling, creating havoc everywhere I go, just churning like a 
+star half-way burnt to a cinder, burned-out, dead before 1914, 1939, 
+2002...
+
+thank you

@@ -1,0 +1,28 @@
+
+
+
+tropology, the writing, breathing and transport of texts
+in the form of ding-breasts in the korn shell
+1	pico zz
+2	new zz
+3	cat jk zz > ding
+4	rm jk zz
+5	mv ding jk
+6	sz jk
+7	m
+8	pico jk
+9	b
+10	sz jk
+11	b
+12	pico z
+13	new z
+14	pico z
+15	cat jk z > ding
+16	rm jk z
+17	mv dingjk
+18	mv ding jk
+19	sz jk
+20	h
+21	m
+
+

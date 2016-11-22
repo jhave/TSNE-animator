@@ -1,0 +1,36 @@
+
+-
+
+
+The Good Old Days of March 1995
+
+
+Here is the NSFNET Backbone Services Acceptable Use Policy section 10/11:
+
+Unacceptable Uses:
+
+(10) Use for for-profit activities (consulting for pay, sales or adminis-
+tration of campus stores, sale of tickets to sports events, and so on) or
+use by for-profit institutions unless covered by the General Principle or
+as a specifically acceptable use. 
+
+(11) Extensive use for private or personal business.
+
+Here is the General Principle: 
+
+(1) NSFNET backbone services are provided to support open research and ed-
+ucation in and among U.S. research and instructional institutions, plus
+research arms of for-profit firms when engaged in open scholarly communic-
+ation and research. Use for other purposes is not acceptable.
+
+-------
+
+NSF, the National Science Foundation, ran the U.S. Internet backbone until
+last year when the machines and cables were taken over by corporations. 
+The result has been a thickening and clotting of the Net; by the year 2000
+investment will be at 5 billion U.S. dollars per annum. If it weren't for
+the darknet, many of us would be long gone; we hardly recognize the envir-
+onment, which has been aggressively pursued by business as if it were open
+territory - which it is. The U.S. broadcast television structure pales in 
+comparison.
+

@@ -1,0 +1,65 @@
+
+
+
+Film/Video/Computer
+
+
+I just bought an old edition (they're all old, from 74-78) of The Video
+Primer, by Richard Robinson, which was a mainstay manual of tv tech near
+the beginnings of camcorderdom. Most of the information in it is still
+current, from the description of helical-scan recording, to the discus-
+sion of the NTSC signal itself. The technology has changed rapidly; at
+that point 3/4" (called U-Matic) was just coming in, and almost all the
+work was done on reel-to-reel - the studios using 2" machines which were
+ten feet high, six wide, three deep.
+
+In video, the principles and standards have remained pretty much the same
+(for example - microphony with cardiod/shotgun/omni etc.); in film, the
+standards and principles (beyond basic shooting) are radically different.
+Film now uses extensive electronic processing and video technology in the
+editing process; cameras are microprocessor controlled, and formats such
+as IMAX wouldn't exist without the electronic revolution. But film is also
+the opposite of video; old cameras, say the Kodak Cine Specials (sixty
+years old), are still used, at least by "experimental" filmmakers. When I
+was making film, I used a bullseye Moviola that was fifty years old, and
+a World War II Bell and Howell spider 35mm camera. When C-mounts came in
+for 16mm, they became pretty standardized, along with various bayonet
+mounts used with Eclairs, newer Bolexes, the Cine Special, etc. My lenses
+dated back to the early 30s. 
+
+So older film equipment is pretty much viable; older video equipment
+isn't. (The old EIAJ reel-to-reel tape has deteriorated to the point where
+it won't play back without special treatment.) The video principles are so
+consistent that a twenty-year-old book on the subject is still practical.
+The same applies to film at the low-end or low-acquisition end, but film
+has become increasingly electronic.
+
+Computers have evolved as well, adding layer after layer of higher-level
+protocols onto base hardware, which has also changed. The lower levels are
+becoming increasingly sealed off. Some books, such as Knuth's work, are
+still useful, as is Djikstra (sp.?) on the aesthetics of computing, but
+object-oriented programming has changed things. Programming is much slop-
+pier than ever, absorbed by high-speed, a lot of RAM, and no storage prob-
+lem. The constant refinement of compressing algorithms has slowed up; a
+hack is a hack is a hack. 
+
+In fact, sloppiness in a sense encourages upgrading; rather than reduce a
+jpeg to, say, a functional 20k on a smaller machine, send it on out as
+120k and when enough people see enough slowdowns this way, the market
+swings again towards bigger-faster. 
+
+Downgrading, on the other hand, is a characteristic of the camcorder mar-
+ket; the Sony 5000 camera, with its 71 controls (I have one), was elimin-
+ated in favor of simpler units with less potential for manual override of
+things like iris, white balance, zoom, even focus and shutter speed. Al-
+most all units on the market today (with the exception of the new digital
+standard) are agc - automatic gain controlled - in the audio; you can't
+set the sound levels, say, for silence. The units have also dropped dras-
+tically in price.
+
+I think this development has parallels, by the way, with the upcoming
+Network Computers (NCs), which will be relatively inexpensive, interpene-
+trated with automated Web components, and guaranteed to make good citi-
+zens of us all...
+
+

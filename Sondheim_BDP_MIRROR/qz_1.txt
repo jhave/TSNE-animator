@@ -1,0 +1,151 @@
+
+Bad Day 
+
+connect wizard
+
+The First Room
+This is all there is right now.
+Nikuko is here.
+There is new activity on the following list:
+    *Player-Creation-Log (#17)           1 new message
+Last connected Tue Apr 12 03:20:17 2011 EDT from localhost.localdomain
+"this is my body and my space
+You say, "this is my body and my space"
+@read #17
+You have no messages.
+Nikuko says, "you are an object in my world"
+"trite to say, i created you
+You say, "trite to say, i created you"
+Nikuko says, "irrelevant, you can't possibly imagine interiority, 
+only mathesis"
+Nikuko undresses the Wizard
+"this isn't true, is nothing but text, look
+You say, "this isn't true, is nothing but text, look:"
+@examine Nikuko
+Nikuko (#95) is owned by Nikuko (#95).
+Aliases:  Nikuko
+your subject to my object
+Key:  (None.)
+Nikuko says, "i am self-owned"
+"you are number 95
+You say, "you are number 95"
+@examine me
+Wizard (#2) is owned by Wizard (#2).
+Aliases:  Wizard
+Nikuko says, "and you are number 2 and fundamentally irrelevant"
+Nikuko says, "you have a hole-number between your legs"
+Nikuko says, "you are zero zero zero"
+Nikuko says, "your mouth is a hole"
+Nikuko says, "your mouth is zero"
+Nikuko says, "your arms connect"
+Nikuko says, "your arms are zero"
+"i will abandon you forever
+You say, "i will abandon you forever"
+@toad Nikuko
+Nikuko(#95) is now a toad.
+Wizard @toads Nikuko (#95)
+So why is this person being toaded?
+[Type a line of input or `@abort' to abort the command.]
+You hear a quiet popping sound; Nikuko has disconnected.
+@abort
+>> Command Aborted <<
+@make-player Nikuko sondheim@panix.com
+sondheim@panix.com is the registered address of the following characters:
+Nikuko {nonplayer} (#95) []
+-There has already been a character with that or a similar email address.
+Create character anyway?  [Enter `yes' or `no']
+yes
+Nikuko (#96) created with password `YGYqA' for sondheim@panix.com
+*Player-Creation-Log (#17) has just been sent new mail by Wizard (#2).
+Nikuko has connected.
+Nikuko says, "i hate you for this. i hate you more than you can image. "
+Nikuko fucks Wizard to death
+"that doesn't work, you have to put up with me
+You say, "that doesn't work, you have to put up with me"
+:jumps Nikuko's bones
+Wizard jumps Nikuko's bones
+"and that's the end of that"
+You say, "and that's the end of that"
+Nikuko screams "ZERO! ZERO! ZERO!"
+You hear a quiet popping sound; Nikuko has disconnected.
+:thinks, i'm so sorry, i didn't mean that, i didn't mean anything...
+Wizard thinks, i'm so sorry, i didn't mean that, i didn't mean anything...
+@quit
+*** Disconnected ***
+
+
+
+Luscious Gifts
+
+
+connect Nikuko aJoJA
+*** Connected ***
+The First Room
+This is all there is right now.
+Wizard is here.
+@toad Wizard
+Yeah, right... you wish.
+:kick Wizard
+Nikuko kick Wizard
+:"sure thing!
+You say, "sure thing!"
+"I'm here! In the db!
+You say, "I'm here! In the db!"
+Wizard says, "not for long! but I won't... but the software will..."
+"Good air. My chest expands!
+You say, "Good air. My chest expands!"
+Wizard notices the air in Nikuko's expanding chest!
+Wizard hands you chest.
+take chest
+You already have that!
+look chest
+expanding
+"Wow!
+You say, "Wow!"
+give chest to Wizard
+You hand chest to Wizard.
+Wizard hands you chest.
+look chest
+luscious expanding breasts
+"Wow again!
+You say, "Wow again!"
+Wizard hands you Nikuko.
+:???? Ah!!! !!?!!?????!!
+Nikuko ???? Ah!!! !!?!!?????!!
+look Nikuko
+wonderous body with luscious expanding breasts
+look me
+
+Nikuko
+
+It is awake and looks alert.
+Carrying:
+ chest                                   Nikuko
+@describe me as wonderous body with luscious expands breasts for poor 
+   Wizard
+
+Description set.
+"look at me, Wizard!
+You say, "look at me, Wizard!"
+Wizard says, "Oh thank you Nikuko for Nikuko!"
+Wizard says, "look at me Nikuko!"
+look Wizard
+Wizard
+amazing body with enormous biceps and huge member for Nikuko!
+It is awake and looks alert.
+"Oh thank you Wizard for your wonderous amazing gift!
+You say, "Oh thank you Wizard for your wonderous amazing gift!"
+Wizard says, "Oh Thank you Nikuko Forever I will Think of You in This 
+   Kind Light!"
+"Ah ah ah ooh ooh ooh!
+You say, "Ah ah ah ooh ooh ooh!"
+Wizard blushes and says "Ah ah ah ooh ooh ooh! as well O Nikuko!
+Wizard thinks, ah young love!
+:thinks, ah younger love!
+Nikuko thinks, ah younger love!
+Wizard thinks, ah youngest love!
+"Smoosh!
+You say, "Smoosh!"
+@quit
+*** Disconnected ***
+

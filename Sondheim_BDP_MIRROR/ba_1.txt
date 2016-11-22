@@ -1,0 +1,55 @@
+
+
+What Mazes Knew
+
+
+Can't find ctl3d.dll, transport that over, unable to create directory.
+Temp is empty. Using doubledisk on the computer, need 16 bit, maybe not
+32? 60 megs are free, that's 60 million. There's plenty of room. What's
+empty about it? Maybe it's doublespace, rebooting the machine? Might have
+_an effect._ Takes up how many megs? Well, it's coming from a disk. No
+anti-virus program running? Well, copy the files onto a hard-drive, then
+execute. I can't imagine that making any difference at all. Scan A: for
+virus. 42 files analyzed, none infected. One boot sector, the same thing.
+Doubledisk or doublespace, not sure. Might have to reinstall Windows. What
+if I create the directory? Open up file manager. A:setup once again. Md
+slipstrt, then if I do that manually, copy A: into temp. I can't imagine
+that making the slightest bit of difference. Run again in Windows. Rein-
+stalling Windows. Entered name as Slogbog from Saturn Density Diviners
+after reading post with similar. Back in with return to MS-DOS and moving
+into Windows\System and bringing it up to the ctl3d.dll which is still
+there. Now running A:setup again. Temporary support files are copied.
+Screen goes blue. Asks for name of directory, more but the usual informa-
+tion. He says, "It's not going to work again." I am beginning to fear for
+my life. "Unable to create dir." Runs chkdsk. Asks to have scandisk run.
+He says, "Awwwwwwwwwwwwwwwwwww.." Erases the temp file. Stares at the
+screen. Goes back to DOS: C:\temp on the screen. Into the directory free-
+dom program. Stares. Goes into autoexec.bat and shortens the path state-
+ment, taking out games; it was at 127. Got rid of the slipstrt directory.
+Goes back into Windows. Goes to command line, runs A:setup once again.
+Copying temporary support files. User information asked for and entered
+the third time. Clocks on ok, verify password ok, decompressing, can't
+create directory once again. Says "must be interfering with..." and some-
+thing about "low level." Thinks he should try making a directory while in
+Windows using file manager. The C:\> prompt blinks and blinks. He leaves
+the room and all is quiet for a while. Returns, goes back into Windows.
+Will try and make a directory in Windows by hand. Goes to file manager.
+It's an old neighborhood now. Asks, "What am I doing here." Under temp,
+tries to create a directory. Yes, works just fine. It's called "junk" and
+he erases it. Stares at the screen. The program manager is up. Goes back
+into directory freedom. Stares at the screen. 
+
+Controls are ragged, run ragged. Configurations interfere with one another
+as if in collusion. The machine responds laterally, cycles back over and
+over again to the same point. _We have all been there._ By the time, by
+the time you are reading this, the machine will have become organism, car-
+apace, by itself/for itself. As such, sutured, cleansed, it will respond
+or be wounded. There is always the wound to consider, but it arrives unan-
+nounced from the outside. It is unaccounted, but accounted for. It is the
+damage that will not occur, that will protect itself against itself, in
+the year 2020. Beyond, the user will be scrapped, scraped away, prompted,
+blinking unceasingly, no longer comprehending. The machine will stare at
+the user. The machine will stare, as, now, the machine, staring at you. It
+has read _everything._ It has passed this, _on._ 
+
+

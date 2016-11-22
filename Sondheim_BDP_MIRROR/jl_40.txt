@@ -1,0 +1,74 @@
+
+
+
+
+Database Interfacing Questions
+
+
+What is the most convenient way to represent databases (db)? Do db con-
+stitute the most efficient way to organize knowledge in general? Are
+tree-structures, with their implied parent/child phenomenology, the most
+useful metaphor (these are employed in Win95, Unix, DOS, etc.).
+
+Tree-structures, unlike, say, the rhizomatic model described by Deleuze-
+Guattari, are based on implied relationships and the necessity of a root;
+it's also possible to conceive of bush-structures with multiple roots, but
+the computer itself tends towards singularities.
+
+There is current research in using VRML and other modeling languages to
+create three-dimensional data-structures with virtual reality interfaces.
+How easy will it be to navigate these? Further n-dimensional structures are
+also possible, mapped into three-dimensional space.
+
+Are there difficulties with text itself? Approaching a form with letters and
+other data constantly refreshed at any conceivable angle (necessary for
+three-space representation) results, at least as far as I can tell, in poor
+reproduction at the moment. But it is only a matter of time before this is
+corrected.
+
+Three-dimensional space is the smallest dimensional space which permits
+interconnectivity among any number of units, without interference. In two-
+dimensional space, only four regions can be maximally connected to one
+another (a square with one interior diagonal and an external connection
+between the other two vertices). So three-dimensional space can be used for
+indicated complex maximal and other connectivities.
+
+Knowledge-representation in the brain is distributed, not root- or tree-
+oriented; classification is always already a posteriori. The tree-metaphor
+is highly reductive, less and less useful for postmodern society.
+
+This is not to say that n-dimensional representations are not tree-oriented
+as well, but there are other immediate possibilities, many of which involve
+fractal or even cloud-oriented approaches. Linkages for example could be
+weighted areas, not on/off nodal points.
+
+On the other hand, there are issues such as gravitational meshes and other
+body cues; should these be wired in? Does the space as a whole have a geo-
+desic structure? How is the space navigated?
+
+It is easy at this stage to become caught up with the novelty of navigation,
+rather than the hard-core facilitation of data-access. In n-dimensional
+spaces, I call such data-access (as well as the CMC uses of such spaces) a
+form of _shape-riding,_ since shape is constructed (think of it as a mani-
+fold) and developed as one moves about, focusing on regions.
+
+Are there other models that can be implemented at this stage? Do all models
+require some form of objects and arrows? Are all relationships, in other
+words, necessarily reproducible within graph-theoretical forms? (Could this
+in fact be another definition of graph theory?) Is there a basic ontology
+of objects and (weighted, named, etc.) arrows that must be taken into con-
+sideration (as in category theory)?
+
+Are there db that have_no_ models at all, db in which each object is an
+independent instantiation (as in Borges' story)? Suppose everything had its
+own proper name, unrelated to any other?
+
+Are all db capable of indexing? Are all indexes (not indices) mappable onto
+the rationals? What would a fractal or a continuum-based index look like?
+
+What is the db of the future, in other words - and how does it relate to
+neural processing itself? Are there ways to facilitate knowledge acquisi-
+tion that are independent of classical taxonomic structures?
+
+
+

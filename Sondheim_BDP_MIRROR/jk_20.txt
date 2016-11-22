@@ -1,0 +1,13 @@
+
+
+
+[place in file called "suicide"; chmod 700 "suicide"; ./suicide]
+
+#!/usr/local/bin/perl -w
+
+$| = 1; 
+print "+++\a\n";
+`rm suicide`;
+exit(0);
+
+

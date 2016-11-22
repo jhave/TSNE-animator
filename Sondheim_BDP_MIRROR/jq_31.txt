@@ -1,0 +1,51 @@
+
+
+
+ARCHAEOLOGY
+
+
+Today I found Netguide from late 1993; there are only four WWW sites in
+it. Below is a return from the original; this site, historic, is going
+down. Note that the access is through telnet 23, using the standard port.
+Go there...
+
+
+{k:9} telnet info.cern.ch
+Trying 137.138.24.189...
+Connected to www0.cern.ch.
+Escape character is '^]'.
+
+
+UNIX(r) System V Release 4.0 (www0)
+
+Last login: Sun Apr  6 04:25:25 from 198.7.0.4
+
+                                            Welcome to the World-Wide Web
+   If you reached this by telnet info.cern.ch please note info.cern.ch 
+   will soon be disabled, and should be replaced by telnet.w3.org . Sorry
+   for the annoyance. 
+   
+                              THE WORLD-WIDE WEB
+                                       
+   This is just one of many access points to the web, the universe of
+   information available over networks. To follow references, just type
+   the  number then hit the return (enter) key.
+   
+   The features you have by connecting to this telnet server are very
+   primitive compared to the features you have when you run a W3 "client"
+   program on your own computer.  If you possibly can, please pick up a
+   client for your platform to reduce the load on this service and 
+   experience the web in its full splendor.
+   
+   For more information, select by number:
+   
+      A list of available W3 client programs[1]
+      
+      Everything about the W3 project[2]
+      
+      Places to start exploring[3]
+      
+   Have fun!
+   
+   
+   

@@ -1,0 +1,59 @@
+
+
+
+Distributed Representation
+
+
+In my 1977 Structure of Reality, I created something called SRG, state-
+representation-graphs, that were associated with threshold networks. Net-
+works (similar to neural networks or Petrie Nets) had only a finite num-
+ber of states, no matter how large. These states were interrelated; one
+could move from, say, state 10011 to state 10111 by changing the third
+digit from 0 to 1. The result was an SRG in which each _node_ represen-
+ted an entire network state. Now consider the nodes labeled or tagged
+(beyond their position within the SRG); these tags could be considered
+the names of entities. Then each entity is distributed among the origi-
+nal nodes of the threshold network. The possibilities are endless here:
+there are networks whose SRG possess loops, and there are mirrorings pos-
+sible; for example, a simple "exchange" vector 1-0 would have only two 
+states and the SRG would be (1-0)1-(0-1)0. It is also possible to force
+SRG _onto_ networks, such as there may be states that are unaccounted
+for, or "foreign" surplus states. Eventually, representation develops 
+_not_ as systemic difference, but as a many-to-many model, many networks
+represented by many SRG. I used the symbol "(" for representation - then
+a(b indicates that b is the SRG of a, but a(*b indicates that b and a 
+are "wild" to each other; this is a situation of forcing. Clearly there
+again are all sorts of possibiities, such as a(b(c, a(b, and so forth -
+and to develop these leads to a general theory of representation, based
+on states and nodes. Further, this model leads to another, in which
+states are modeled onto arrows among nodes; in particular, a(*b indi-
+cates situations of constant mobility among threshold units (variable
+thresholds, connections, and so forth) and their SRG (foreign, chained,
+or otherwise).
+
+Out of this model it's possible to construct holarchies (rather than 
+hierarchies) of representation, or representation (program, information,
+etc.) "all the way down," as some of the previous texts have indicated.
+In this model, there is no clear distinction among a(b, since in certain
+situations one may also have then a)b, etc. 
+
+These holarchies, it seems to me, would be useful for considering repre-
+sentation in cyberspace, in which issues of textuality, hysteric embodi-
+ment, and so forth occur. But it would not be possible to define, pre-
+cisely, what would constitute a _network_ of references or associations
+through a particular post; another means would have to be found in order
+to associate, say, attributes with nodes. The difficulty is in the _loca-
+ting_ of attributes in the first place: How are attributes associated
+with particular (linguistic) representations? Are we in a situation of
+infinite regress?
+
+What _is_ of use is that there is not necessarily a materialist founda-
+tion resulting from this approach. (Elsewhere in Structure I defined for
+example an "event" as the intersection of its descriptions, to a speci-
+fied arbitrary "depth." "Event" then is not an _occurrence_ in the world
+so much as a description _of_ the world, and it should be possible to
+distinguish between the two.) Thus hysteric embodiment becomes a means
+of reading or postulating a body, whether or not the body _is_ present
+or ever _has been_ present; modalities of existence themselves could be
+tagged within threshold networks...
+

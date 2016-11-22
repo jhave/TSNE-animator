@@ -1,0 +1,37 @@
+
+
+Some Thinking of s/ms during this period my Sicknesse (very primitive
+stuff here)
+
+
+Linkage abc s.t. a -> a' --> a'b'c'
+
+Coupling abc s.t. a -> a' --> a'bc
+
+In both abc = bca  
+        (ab)c = a(bc)
+        aa = a
+
+Spray a[Zn](t) where Z is a bandwidth indexed by n ranging from 0 to the
+       order of the continuum, and (t) is a temporal indexing.
+
+Collapse [Zn]a(t)
+
+Chaos-Mother a[Zn], [Zn]a
+
+Avatar-Binding [Zn][Ym] where n,m are at least inaccessibly high.
+
+Mirroring [Zn][Ym](t) --> [(ZuY)f(n,m)](t) where f(n,m) >> n v m
+
+Mirroring [Zn][Zn](t) --> [Zf(n,n)](t)
+
+Desiccation abc -> ab v bc v ac v a v b v c v
+
+Rill  -> a
+
+Some thinking here, paralleling thinking years ago through graph-marker
+theory in which networks were mapped according to states or nodes; these
+mappings could fold in upon themselves, mirror, or absorb foreign elements
+with or without basic transformations.
+
+

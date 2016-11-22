@@ -1,0 +1,33 @@
+
+(re: bad bad)
+
+
+
+The Infinite Breath of HTML 
+
+
+As semantic markup language, HTML treats any text as flow - around tables,
+images, across and down the page, no breaks or paragraph divisions. Any-
+thing between < and > becomes potentially meta-level, interpretable, and
+the use of <PRE> </PRE>, <BR>, <P> </P>, etc., creates impediments, dam-
+ming the flood of symbols. The infinite breath is broken into accessible
+units.
+
+Think of Charles Olson or Robert Creeley, the Black Mountain poets with
+their emphasis on breath and line, the page reflecting voice itself, in-
+hale and exhale, stopping over puzzled segments of emotion, partially de-
+termined by the length of breath and declamation.
+
+Think of Aram Saroyan's early minimalist work or the situation of a sonnet
+on a page, or even modernist gallery-spaces, with, say, Blinky Palermo's
+paintings neat and holding the largely empty wall.
+
+HTML avoids this with perfect infinite-breath, going on forever, a single
+and singular line-turned-block, until intervention. It is the literal
+breath of the machinic, without inflection. Theory becomes theory-subs-
+tance, language turns into choked symbolic noise. 
+
+Install for the rest of us, through double-parsing: machine and human in
+perplexed agreement. Speech clocks.
+
+

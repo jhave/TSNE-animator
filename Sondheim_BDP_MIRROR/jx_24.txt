@@ -1,0 +1,13 @@
+
+
+
+NOTE (Alan Sondheim, 1997): It's clear that the sample dialogs, use of
+Weizenbaum's Eliza program, etc., are the ancestors of today's expert
+systems - but at this point in time, they were most likely read as in-
+cipient artificial mind (classic AI). Already real and virtual subjec-
+tivities interpenetrate.
+
+The quoted sections above are formatted close to the original.
+
+(Thanks to Alex McKenzie and BBN.)
+

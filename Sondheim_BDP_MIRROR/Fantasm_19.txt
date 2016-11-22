@@ -1,0 +1,40 @@
+
+
+
+Diagnosis
+
+
+I finally found a copy on sale ($15, from $60) of the Internet System 
+Handbook, 1993, with contributions from Barry Schein and Vinton Cerf 
+among numerous others! It gives details understandable by anyone with 
+patience on the Internet _system_ including TCP/IP, routers, bridges, 
+etc. - on a conceptual basis. Over 800 pages!
+
+Not to bore you, but I found another useful Unix command - nslookup which 
+will translate IP into domain names and back again. So that can be added 
+to dig, traceroute, ping, ping -s, whois, finger @, and netstat to find 
+out information about sites. There's also telnet <host> 13, which gives 
+the local time at the host; and telnet <host> 79 in case you don't have 
+finger running at all.
+
+These diagnostics are _amazing_ and I suggest you try them out if you can 
+without getting into trouble, because they give the sense of the living 
+Net, the Net as activated membrane, not just blank screen, connections 
+everywhere. With traceroute, you _see_ the route the packets take for 
+example; with ping -s you _breathe_ with their arrivals and departures; 
+with whois or dig or nslookup, everything is revealed. With all of these 
+commands you're given synchronous and diachronous images of the Net - the 
+former referncing, for example, netstat, and the latter telnet 13 or 
+traceroute again. Ping alone, by the way, tells you if the host is dead 
+or alive.
+
+You can spend evenings circling the world, almost as if you were using 
+bang paths, designed in pre-router days to manually set routes. Connec- 
+tions can be odd; it takes more machinery to get me from panix.com to 
+columbia.edu, both in NY, than from panix.com to joensuu in easter Fin- 
+land... Finally, everyone should use telnet <host> 25 at least once in 
+their lives, in VERB (verbose) mode, watching simple mail transfer pro- 
+tocol (SMTP) do its thing. I've learned more about the Net by probing 
+than I would if I had just assumed that everything within it were fore- 
+closed, sutured shut, and filled with subaltern magic.
+

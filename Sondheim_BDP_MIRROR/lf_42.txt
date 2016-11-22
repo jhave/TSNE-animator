@@ -1,0 +1,45 @@
+
+
+
+            <objecta>                     
+                                       <littleobjecta>
+               \
+                \________[coupling]________/         {forgotten space}
+                              |
+                         <objectb>
+ 
+A coupling is defined as (a,b,c); if a -> a', then (a,b,c) -> (a',b,c)
+as opposed to a linkage in which if a -> a', then (a,b,c) -> (a',b',c').
+In forgotten space, objects are combined as couplings or concatenations
+without an intrinsic linking. Forgotten space is neither matrix nor con-
+tainer/chora; it is the of-jostling, nothing more nor less. Think of the
+spacings of multimedia objects.
+
+A coupling in this regard may be considered a generated perceptual group-
+ing of relatively well-defined objects. An object is defined as a rupture
+or insertion into forgotten space. An object is also a skein of bits and
+bytes, ranging from the performative to static files. The former is al-
+ways triply encoded; the latter, more often than not doubly encoded. Text-
+ual insertions into forgotten space (i.e. ascii text) activate the space, 
+i.e. it becomes gotten space, the sheet of assertion or subtextual matrix
+of structure 'holding' the ascii in place. Movement in dhtml across for-
+gotten space is in relation to the screen or object boundaries; the space
+itself carries no distinction.
+
+Or perhaps the space, like the phallic masquerade itself, assume identi-
+ties, forgetfulness taking on the characteristics of the current diegetic
+in relation to the viewer's dialogic - in which case, one might well turn
+away in disgust, there's no hope for it. Still, I wouldn't call it a space
+of potential, it's there, forgotten, stillborn in relation to the objects
+contained - in fact, it's charted, mobilized, for their location in terms
+of window percentage (30% vertical say) or pixels (400 horizontal say).
+
+The charting is for them; they're tracked across the forgotten space. Any
+landmark is charted as well; there is the forgotten space, and the chart-
+ing of the landmarks. And there is nothing else, the forgotten space hard-
+ly nomadic, on the verge of presence, neither shifting nor present.
+
+The image is of the gotten space, always of such. Everything is coupled
+within the image.
+
+

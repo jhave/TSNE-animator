@@ -1,0 +1,23 @@
+
+
+
+Keyboard Fight!
+
+
+Well I've got two keyboards in parallel on my laptop - internal and
+external. I press keys for repetition on both together:
+
+whwhwhwhwhwwhwhwhwhwhwwhwhwhwhwhwwhwhwhwhwhwwhwhwhwhwwhwwwwwww
+jfjfjfjffjfjfjfjfjffjfjfjfjfjffjfjfjfjfjffjfjfjfjff
+kdkdkdkdkddkdkdkdkdkddkdkdkdkdkddkdkdkdkdkddkdkdkdkdd
+jbjbjbjbbjbjbjbjbjbbjbjbjbjbjbbjbjbjbjbjbbjbjbjbjbjbjbbjbjbjbjbjbbjbjbjbjbb
+l11l1l1l1l1l11l1l1l1l1l11l1l1l1l1l1l11l1l1l1l1l11l1l1l111 and:
+lflfflflflflflfflflflflflfflflflflflfflflflflflf
+
+What's interesting is that double-keyings result in interlacing; the
+trick is to stop with both hands simultaneously. Otherwise, there are
+endpoint anomalies which, after all, have their own intrinsic phenom-
+enology. 
+
+This is also a critical problem in the calculus of finite differences!
+

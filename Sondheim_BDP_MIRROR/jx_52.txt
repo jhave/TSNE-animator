@@ -1,0 +1,221 @@
+
+
+
+I'm reading September Byte, watching the tech get away from me, go some-
+where else, acronyms I hardly understand anymore. Cover story on ActiveX
+Demystified, more mystified than ever (meanwhile Wired, always up-to-
+date, has a story on the sequel to Myst).
+
+I'm not keeping up; after TCP/IP, I have a vague knowledge of ATM for
+example, but more of abounding acronyms. I haven't programmed Java, only
+Javascript, have no access to a cgi-bin to play around with. I can't af-
+ford a decent VRML editor, and the books are too expensive at this point
+- besides, what's the use - I couldn't even answer the questions in the
+VRML newsgroups, and camera/lights/actions/viewpoints leave me cold, even
+as a videomaker.
+
+The key to all of this is an article, Publish or Perish, by Richard Hack-
+athorn, which talks about push/pull technology under the acronyms of P&S
+and R&R. The former stands for "publish and subscribe." Here is part of it:
+
+"For 30 years, the basic paradigm of computing has been request and reply
+(R&R). An application requests specific data or services, and a subrou-
+tine replies with it.
+
+"But the R&R paradigm is running out of gas. In the dynamic and uncon-
+trolled environments of present-day enterprise systems, an application no
+longer has the luxury of knowing when and what to request.
+
+"P&S coordinates the components of distributed applications. The concept
+started hundreds of years ago, with newspaper publishing. Recently, it
+has been applied to a variety of products that coordinate complex distri-
+buted applications or replicate diverse information content. P&S is a
+connectivity paradigm that separates the role of producer from consumer
+va an intermediary, called the broker. [...] The broker manages the in-
+teractions so that neither the producer nor consumer need know much about
+the other. The architecture is decoupled or loosely coupled."
+
+As in the discussions of standard push-pull, there are three things at
+issue - the role of the _subject_ in the midst of this - who is becoming
+_standardized_; the issue of _choice_ of content; and the _foreclosing_
+of networked applications, which will increasingly transform the Net into
+an _appliance architecture,_ rather than an open one.
+
+First, the subject. The subject is interacting more and more with what
+used to be called the entertainment model of the Net - i.e. a set of
+fixed choices with little leakage. The average user, for example, no
+longer has access to commands such as dig, traceroute, or whois (unless
+she downloads specific programs for the purpose), and the windowed en-
+vironments, while opening to the Net (the new desktop integrations) are
+increasingly designed for a productivity paradigm based on the corpor-
+ate model. The more interfaces, in a sense, the greater and greater the
+distance between one and another subject.
+
+But this will change, and eventually the user will need to know rela-
+tively _nothing_ about the Net to utilize it. Java and other languages
+will, with increased bandwidth, open up easier telephony and video
+channels, with Net community only benefiting. It may be just me, but
+MOOs are increasingly appearing like backward bayous (I'm reading James
+Lee Burke), rather than active or growing applications.
+
+Second, of course, is the issue of _choice,_ that is, what's actually
+available with P&S, to what extent this paradigm augments an already
+troubling narcissism across the white/english/usa/Web. Once channels are
+chosen, choice is handed over, just as it is with newspaper subscriptions.
+There has already been a great deal of discussion about this.
+
+The third issue is that of _foreclosure,_ based on more and more complex
+scripting and programming - for example HTML modulating into Dynamic
+HTML, DHTML. On one hand, this distancing creates problems for those of
+us who don't have access to programming/development communities (and want
+to continue to play creatively with the tools); on the other, for K12, it
+will make little difference - anyone growing up with computers today will
+be able to gravitate "naturally" from Pascal or Logo through Java, or
+whatever comes along next.
+
+But for artists or writers like myself, what are the solutions? If we
+want to use the latest VRML editors, we had better be prepared to spend a
+fair amount of money, or attach ourselves to commercial houses. If we
+want to _access_ VRML, we've got to broker for ISDN and at least a
+Pentium if not a II or MMX, etc. Already, we become encrusted within the
+corporate treadmill; already whatever radical paradigms might remain are
+absorbed by technological fetishization.
+
+Finally, this quote from the article: "_Newsgroups._ Lest we forget, good
+old e-mail has had P&S elements for a long time. Via group mailing lists,
+a producer (sender) can multicast a message to multiple consumers (recip-
+ients), who receive the message asynchronously. Add to that the concept
+of a BBS, and we have the Internet newsgroups, which are alive and heal-
+thy amid Web frenzy. Newsgroup creation and threaded messages are impor-
+tant concepts to be absorbed into P&S."
+
+And Jan Udell's Web Project column this month is entitled "HTML + NNTP =
+Groupware, HTML-enabled e-mail and NNTP conferencing will make hypertext
+authoring and collaborative data management a routine way of life for
+everyone." This is being implemented with an in-house NNTP server at
+Byte's site. (NNTP is the Usenet, newsgroup protocol.) ...
+
+The jury is still out. What should be noted, again, are:
+
+1 Changing roles for the Internet user, who needs to be less and less con-
+cerned with the underlying architectures and configurations. 
+
+2 Greater encapsulation of offered data, greater filtering.
+
+3 Foreclosing of mechanism, and a tendency towards an appliance-model,
+related to entertainment paradigms.
+
+4 Development in direct relationship to the business/corporate community,
+rather than, say, the exigencies of free-form virtual communities.
+
+5 And as usual an increasing need for more bandwidth and higher-end mul-
+timedia computers. 
+
+In relation to the last, it should also be noted that:
+
+6 The price for bandwidth and computers is drastically falling, and the
+used computer market is increasingly offering highly usable middle-range
+machines for very little.
+
+7 It may eventually be easier to install high-end machines in regions of
+relative telecommunications underdevelopment, than, say, text-based only
+machines, since the latter require considerably more training, and may be
+less cost-effective in the long run.
+
+8 The goal of universal access, which has only even been considered with-
+in the past 3-4 years, is probably attainable within the next quarter-
+century, if not earlier.
+
+- Alan
+
+URL:     http://jefferson.village.virginia.edu/~spoons/internet_txt.html
+MIRROR with other pages at:   http://www.anu.edu.au/english/internet_txt
+IMAGES: http://www.cs.unca.edu/~davidson/pix/           TEL 718-857-3671
+EXPERIMENTAL (on and off): http://166.84.250.149   Editor, BEING ON LINE
+
+
+
+Love, The Blue Glow of Dawn
+
+
+"Now imagination is a discourse of transference - of love. Through and be-
+yond desire that longs for immediate consummation, love is edged with emp-
+tiness and supported by taboos." (Julia Kristeva, Tales of Love.)
+
+"Today Narcissus is an exile, deprived of his psychic space, an extrater-
+restrial with a prehistory bearing, wanting for love. An uneasy child, all
+scratched up, somewhat disgusting, without a precise body or image, having
+lost his specificity, an alien in a world of desire and power, he longs
+only to reinvent love. The ET's are more and more numerous. We are all
+ET's." (ibid.)
+
+Signifiers pass among us, one among another, among one; who can count? A
+resonance _among,_ not surface to surface, but pathways, bones dredged
+from our children, ourselves. The deferment of the signifier is not its
+constitution, but the constitution of love, "wait a moment," the pause
+unfulfilled, from which worlds, not words, emerge, chthonic, inchoate.
+With you, I remember my first steps, uneasy height of rooms and tables and
+chairs around me, the mystery of sounds, light's caress delineated by
+accompanying shadows ...
+
+
+Because of love, the engine slows, vortex dissipated as the plane glides
+in languor towards the ground, there are passengers, queues, faces glow-
+ing in the blue dawn, the slightest breeze, the birthing of the world, not
+through Logos or Word, through murmurs, cries, mewlings; through faint
+whispers, the gleam of moisture among us so early in the morning ...
+
+
+"Nervousness produces chains, ( ... )
+
+"_Expectancy_ makes me painfully sensitive to my incompleteness, of which
+I was not aware _before._ For now, while waiting, "before" and "after" be-
+come merged into a fearsome "never." Love and the loved one erase the reck-
+oning of time ... The _call,_ its call, overwhelms me with a flow in which
+the upheavals of the body (what people call emotions) are mingled with a
+whirling thought, as vague, supple, ready to pierce or to wed the other's,
+as it is vigilant, alert, lucid in its impetus ... toward what? Toward a
+destiny as relentless and blind as biological programming, as the course
+of the species ... A body swept away, present in all its limbs through a
+delightful absence - shaky voice, dry throat, starry eyes, flushed or
+clammy skin, throbbing heart ... " (ibid.)
+
+
+"It is comforting to know that the operations of normalization and absorp-
+tion lend themselves to a certain therapeutic, ( ... ) a stream occurs
+that flattens affect, contains all the sense and nonsense of the world,
+and comfortably sutures the subject in eternal transference."
+
+Collapsing changes deflate energy, reduce anxiety. Absorption, as every-
+thing is seen, as if it were through my construction of your being, your
+eyes, always this internal operation, recuperation, always the potential
+for misrecognition, translation gone horribly wrong in the middle of the
+night... And normalization, as the confusions, striations, of the world,
+are reorganized around a principle of the other, the beloved, so that love
+is always a regression, and the greatest gift is the ability to be silly,
+skip down the road, and _pun_ ...
+
+I'd say that punning is the symptom of the sine, the thread to destabilize
+the whirled, maid in circumstances of friend shipped, de-sired, love.
+
+
+"Let us not forget transference, the gift of the psyche from one to ano-
+ther. Let us remember hypnotic affect, this bipolar collusion among two of
+us, processes passing processes back and forth, the intense oscillation of
+love."
+
+"Let us remind ourselves, our first _we,_ breath shuttled from mouth to
+mouth, transference and its counter, and its reversal, signals resonating,
+echoing, finally damping out with the intensity of love's madness in a
+world of pain and pleasure:
+
+
+"'But perhaps age has taught me that the earth is still new, molten at the
+core and still forming, that black leaves in the winter forest will crawl
+with life in the spring, that our story is ongoing and it is indeed a
+crime to allow the heart's energies to dissipate with the fading of light
+on the horizon. I can't be sure. I brood upon it and sleep little. I wait
+like a denied lover for the blue glow of dawn.' (James Lee Burke, Heaven's
+Prisoners)." (Sondheim, Love, The Blue Glow of Dawn)
+
+

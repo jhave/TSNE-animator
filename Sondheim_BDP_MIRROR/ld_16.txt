@@ -1,0 +1,165 @@
+
+~
+~
+~
+~VM1
+~
+~
+~
+~
+~VIRTUAL MODEL 1
+~VM1:main() /* like you virtual model is function virtual model */
+~we will watch you /* you are function virtual model */
+~VM1:INPUT VM1 /* virtual model import virtual model */
+~VM1 -> VM1 /* virtual model watch virtual model */
+~VM1(audience(main()) <--> VM1(transmission)
+~VM1' = VM1 /* virtual model is virtual model */
+~VM1 = VM1' /* virtual model is virtual model */
+~t(n) = t(0) /* for all time(n) for all n */
+~sed 's/we/thee/g' < /* changes transformations still virtual model */
+~sed 's/you/us/g' < /* pronouns virtual model into virtual model */
+~sed 's/thee/*&^#@/g' < /* noise into virtual model into virtual model */
+~tr a-z q-b <   > /* changes phonemes still virtual model */
+~sed 's/VM1/everything/g' < /* everything virtual model */
+~tr A-Z R-C <   > /* changes phonemes still virtual model */
+~sed 's/everything/VM1'/g' < /* virtual model everything */
+~VM1 -> VM1 /* virtual model frames and frameworks */
+~VM1 -> VM1 /* virtual model frames and frameworks */
+~VM1 -> VM1 /* virtual model frames and frameworks */
+~VM1 -> VM1
+~VM1 -> VM1
+~
+~
+~
+~
+
+
+Example of Fractal Ordering of Ruler Series (plus notes)
+
+
+1: The _division property_ - every nth term in order from the beginning
+reproduces the series or its inversion.
+
+2: The _insertion property_ - consider an alternation between f and g;
+start with a seed such as g; surround it by f: fgf, insert and surround by
+g: gfgggfg, etc. - the series and its inverse are produced.
+
+3: Concatenation property: Begin with seed gf; start from the left. Subs-
+titute gggf for g and gfgf for f. Add the substitutions in order on the
+right. Take each term in order. The series is produced. Or: begin with g,
+take seed f; substitute gg for f, gf for g. The series is produced.
+
+4. For the zth term let m equal the largest integer such that z/2expm =
+integer. Then the term is g if m is even, f if m is odd.
+
+There are other formulations and extensions; I've worked with this series
+for years, on and off. Now I think of it in terms of ordered linkages,
+equivalences, and identities. If one has all terms, say, g, then one has a
+number system to the base 1, i.e. g, gg, ggg, gggg, etc. Consider g -> gg
+as Quine's n' operation. One might also use terms fgh, etc. 
+
+The inversion of the series, i.e. fgfffgfgfgfff etc., is equivalent to the
+series to the extent that the structure is based on a primary differntia-
+tion |f-g| = |g-f|.
+
+The series, by the division property, is extraordinarily ordered, even
+more say than, say, simple alternation fgfgfg - where the division proper-
+ty breaks down. If alternations are considered fff, fgfg, fghfgh, etc.
+then it's clear that g gg ggg gggg etc. represents the substance or null
+point of both series.
+
+Note by substitution these are not couplings; an error anywhere in the
+terms will most likely propagate (by virtue of substitution construction).
+
+So there are these relations: The calculus in Spencer Brown's Laws of
+Form; the halfgroupoid analyses in R. Hubert Bruck's A Survey of Binary
+Systems; materials such as the Sheffer stroke and its dual in relation to
+the propositional calculus (see also Wittgenstein's Tractatus and its
+mathematics); my own 'loosenings' of couplings and linkages and for that
+matter the formalism in my Structure of Reality (related to dynamic net-
+works such as Petrie nets); and these ordered strings related to ruler
+topologies.
+
+All of which tends towards a metaphysics of mathematics, or at least a
+metaphysical mathesis that must (I think) be resisted. On the other hand,
+there are useful metaphors (the dual of the Sheffer stroke as expulsion)
+and phenomenologies (difference between couplings and linkages) that may
+be of use thinking through (again for example) such things as classical
+causality; the foreclosings of bodies and worlds in a classical/modernist
+context in relation to virtual subjectivities; and postmodern geographies
+in general.
+
+Finally, the ruler series is of great use, at least for me, in thinking
+through the related phenomenologies of _substance, order, thing, entity,
+extension, difference, and chain, etc._
+
+Note in the example below of period 64, each line is identical except for
+the last symbol - and the _column_ of last symbols recapitulates the or-
+derings within the _rows._
+
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgf
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+gfgggfgfgfgggfgggfgggfgfgfgggfgfgfgggfgfgfgggfgggfgggfgfgfgggfgg
+
+

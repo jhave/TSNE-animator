@@ -1,0 +1,11 @@
+
+
+Surgery and Suture of Jennifer
+
+[Deceptively simple script generates fractal series (not image) based on
+seconds count; series smears Jennifer-text across screen; series expands
+and compresses. The series is described in Net1.txt; see "Spew."]
+
+Cut and run on MSE or Netscape 3+.
+
+

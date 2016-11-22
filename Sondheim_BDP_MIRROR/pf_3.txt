@@ -1,0 +1,22 @@
+
+[Waiting for connection...]
+[1] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ps
+  PID TTY   STAT    TIME COMMAND
+ 1822 ttyp2 I    0:00.01 -ksh 
+12513 ttyp2 I    0:00.00 leave +59 
+16946 ttyp2 S+   0:00.00 script 
+29781 ttyp2 S+   0:00.00 script 
+ 4036 ttyq1 Ss   0:00.00 /usr/local/bin/ksh -i 
+13375 ttyq1 R+   0:00.00 ps 
+15644 ttyq1 T    0:00.00 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+ 2531 ttyr7 T    0:00.00 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+ 3438 ttyr7 T    0:00.00 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+10896 ttyr7 S+   0:00.00 script 
+21232 ttyr7 Ss   0:00.00 /usr/local/bin/ksh -i 
+23652 ttyr7 R+   0:00.00 script 
+$ fg
+ytalk sondheim@panix3.panix.com 
+[1;24r
+[?7h
+[J

@@ -1,0 +1,17 @@
+
+
+
+
+Haiku
+
+
+(--) SVGA: XAA: Using 5 128x128 areas for pixmap caching
+(--) SVGA: XAA: Caching tiles and stipples
+(--) SVGA: XAA: Horizontal and vertical lines and segments
+The Moon is Full
+basho: memo: command not found
+<FF><FF><FF><FF>
+waiting for X server to shut down
+The Moon is Empty
+
+

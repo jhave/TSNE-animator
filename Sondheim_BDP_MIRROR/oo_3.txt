@@ -1,0 +1,57 @@
+ m 
+NOTE. The Spoon Collective has ;4m closed its operation m . A complete 
+copy of the list archives is currently available at ;4m www.driftline.org 
+m m Spoon mailing lists:
+     * m Anarchy-List : A Discussion of anarchy
+     * m Aut-Op-Sy m Autonomia, Operaismo , and Class Composition ( m 
+Moved
+     * m The aut-op-sy WWW page
+     
+m Avant-Garde : Theory of the artistic avant-garde ( m Moved
+     
+m Bhaskar m Moved
+     
+m Bataille : Discussion of the work of Georges Bataille (Discontinued)
+     
+m Baudrillard : Discussion of the works of Jean Baudrillard
+   (Discontinued) m Data transfer complete 6 m -more- 
+http://www.driftline.org/spoon_collective.html m closed its operation m 
+Getting file://localhost/net/u/6/s/sondheim/cic3
+Yahoo ohn December Index Page m Internet Domain Survey CTHEORY m More 
+about MOOs m -more- http://jefferson.village.Virginia.EDU/~spoons/ m Spoon 
+Home Page
+ m Spoon Home Page m internet_txt.html m Internet Text: 0 m Internet Text: 
+m Lynx Marks 16H m ebcrawler.cs.washington.edu/WebCrawler/WebQuery.html m 
+WebCrawler Searching m Getting 
+http://webcrawler.cs.washington.edu/WebCrawler/WebQuery.html m Looking up 
+webcrawler.cs.washington.edu m Unable to locate remote host 
+webcrawler.cs.washington.edu. m Alert!: Unable to connect to remote host. 
+m Getting file://localhost/net/u/6/s/sondheim/cic3.html m WebCrawler 
+Searching m -more- 
+http://webcrawler.cs.washington.edu/WebCrawler/WebQuery.html m WebCrawler 
+Searching m WebCrawler Searching 16H m 
+ww.cs.colorado.edu/home/mcbryan/WWWW.html m WWWW - WORLD WIDE WEB WORM m 
+WWWW - WORLD WIDE WEB WORM m lib.ncsu.edu/stacks/alex-index.html m Alex: A 
+Catalog of Electronic Texts on the Internet m Getting 
+http://www.lib.ncsu.edu/stacks/alex-index.html m Looking up 
+www.lib.ncsu.edu m Making HTTP connection to www.lib.ncsu.edu m Sending 
+HTTP request. m HTTP request sent; waiting for response.  m /1.1 302 Found 
+m Data transfer complete m HTTP/1.1 302 Found
+    
+m Using http://sunsite.berkeley.edu/alex/ m Getting 
+http://sunsite.berkeley.edu/alex/ m Looking up sunsite.berkeley.edu m 
+Making HTTP connection to sunsite.berkeley.edu m Sending HTTP request. m 
+HTTP request sent; waiting for response.  m /1.0 301 Document has moved m 
+Data transfer complete m HTTP/1.0 301 Document has moved m Using 
+http://www.infomotions.com/alex/ m Getting 
+http://www.infomotions.com/alex/ m Looking up www.infomotions.com m Making 
+HTTP connection to www.infomotions.com m Sending HTTP request. m HTTP 
+request sent; waiting for response.
+ m /1.1 200 OK Alex Catalogue of Electronic Texts (p1 of 2
+     * m Home
+     * m Alex Catalogue
+  * m Musings
+    
+     * m Images
+      
+m Infomotions, Inc. Alex Catalogue m 

@@ -1,0 +1,123 @@
+
+
+--
+
+
+
+Where the Net might be said to be in a poorly-worded post:
+
+Or why QuickTime virtual reality is neither virtual nor reality:
+
+
+
+The Web is increasingly becoming the center of media hype in relation to
+the Net; "surfing," a poor metaphor, is taken as equivalent to being on-
+line, with the possible exception of email. Email itself is seen, not in
+terms of email lists, but isolated/effective letters connecting present or
+future nuclear families. The off-centered image might be that of the
+_hearth,_ the family speaking among themselves, reading the latest maga-
+zines. (Thus Net communities are debased or found problematic, filled and 
+fulfilled with net.sex and pedophiles, but the Web and email _surfaces_ 
+promise familial restitution/recuperation.)
+
+Nevertheless, the Web is awkward, bulky; chat-lines on webpages require 
+full refreshing every _x_ seconds to accommodate new information; video 
+and audio take up bandwidth and the former is grainier than Pixelvision; 
+and home-home-pages are becoming swamped by corporate sites. While it is 
+true that one can connect to _anything,_ from the opening Netscape home- 
+page on, money is speaking.
+
+And in any case, home-home or just home, community is _not_ speaking and
+not-yet-spoken here; on the Web, _words are presentations,_ and text is
+always already a foregone conclusion or construct, even in the most avant-
+garde interactive applications. There are layers to plow through; there 
+is slowness in the lines even at 28.8.
+
+Teaching the Net through the Web is teaching-through-seduction; students
+are amazed first and foremost at the possibility of information retrieval
+and graphics/sound, and this amazement lasts throughout the course. The
+result is a _lateral_ education, movement from site to site, always linked
+to the corporate mothership of the classroom itself. (This laterality is 
+reflected in magazines such as Wired and M2000, as opposed to 2600, more 
+like command-line any day.)
+
+And teaching the Net through command-line is something else again; the
+prompt remains poised on the left of the screen, facing a _void_ which
+requires almost from the start the projection, by the user, of framed/
+considered desire in the form of commands. The black or blue-screen, the
+void, can be taken as an analog for the dream-screen, against which dreams
+play themselves out ("Concept introduced by B. D. Lewin; every dream is
+said to be projected on to a blank screen, generally unperceived by the
+dreamer, which symbolizes the mother's breast as hallucinated by the in-
+fant during the sleep which follows feeding; the screen satisfies the wish
+for sleep. In certain dreams (blank dreams) the screen appears by itself,
+thus achieving a reg- ression to primary narcissism." The Language of Psy-
+choanalysis, Laplanche /Pontalis). Desire cathects among the prompt ent-
+ries/entrances, and I have found teaching through this interface actually
+simpler and greater in depth than teaching, say, through Netscape. At the
+prompt, one types the application or command using a reasonably simple
+syntax; what results appears to be in _active engagement_ with the user. 
+(Of course it is all active and all passive; it's not difficult to decon- 
+struct this. But the _appearance_ produces a different phenomenology.)
+
+It is no wonder that MOOs, MUDs, IRC, talkers, ytalk, and so forth, reside
+in Unix almost as bare-bones, although there are wonderful clients to for-
+malize them in Windows or on Macs, etc. The user is engaged in what I have
+called elsewhere "hysteric embodiment," reading _through_ the texts of the
+other participants into imaginary/uncanny embodiments reflecting her or
+his introjections of the text. The texts within a MOO for example are al-
+most always _engaged texts,_ activated far more than the linked hypertexts
+of the Web, which are closures in their own way, completing circuitry for
+the viewer in a preprogrammed and relative determinate manner. (Of course 
+this will change, and is changing, through virtual reality chats, worlds, 
+and the like; at the moment, we're posed only on the edge of this...)
+
+But command-line structures (and their clients in Windows) are becoming,
+interestingly enough, the interior or underbelly of the Net; it is within
+them that desire becomes transgressive, _dirty,_ raw: the ascii crumbles
+against the flesh itself. The command-line in fact is a _mouth_; in rela-
+tion to the rest of the Net, _it_ speaks, apparently frameless, as words
+fall into the void of the screen/atmosphere, as the mouth speaks against
+emptiness in the physical world. It is a mode, in fact, of _listening,_
+where the text is always incomplete, as opposed to the Web, where the
+text, to date, is always a product/production. 
+
+But what's fascinating about this product/production is the _illusion_ of
+freedom it gives, another medium or discourse, in fact, of capital and its
+promises/premises of the reign of absolute desire. The links, infinite or
+not, are circulations; more and more they connect to advertising sites
+(even some of the web chat pages/clients carry advertising now), to com-
+modity structures - and more and more, outside the university system,
+servers are charging for running web pages (Panix is 8 cents a megabyte
+transmitted after a fixed amount), designers are charging for page
+creation, software developers are charging for readers (Netscape won't
+always be free), and a fast-fueled economy is indeed springing forth. 
+
+So at the moment, only at the moment, the Net appears environmentally
+"tripled." There are the companies like AOL, Delphi, Prodigy, Compuserve,
+etc. which provide more or less full access within a protected environment
+- then there are the SLIP/PPP accounts which are often used primarily for
+email and Web surfing/browsing - and there are the Unix shell accounts as
+well.  If the first layer resonates with family and family-values (child
+lockout for example), the second resonates with the faux-radical gen-x
+managerial class, and the last, with the remnants of speech, community,
+and literature. This model is obviously faulty - in fact, everything in
+this text is - but there is a limited truth nonetheless, which can easily
+be witnessed by working through one or more classes of teaching Net access
+on various systems and providers. The differences are enormous...
+
+Do you agree or disagree? Are you seduced? Are you occuping the role of
+seducer? Can community continue in the midst of corporate housing, home-
+owners' associations, lockouts and lockins? Are the community realignments
+which are occurring in the underbelly (net.sex, marriages from the net,
+and the like) a reflection of a different social future, or are they a
+leftover from the days of wryting text? And finally, how will sexual de-
+sire, which is everywhere in text, ultimately restructure parts of the
+Web, or will sexual desire once again deflect largely through the Web into
+commodity fetishism? Is the Web, in other words, an application tending
+towards the Frankfurt School concept of massification and Sartre's serial-
+ity, or is there the potential for somewhat anarchic freedom within it as
+well? (CuSeeMe might be a good example here - not exactly Web, but close.
+Have you had CuSeeMe sex yet? Has anyone?)
+
+

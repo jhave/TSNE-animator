@@ -1,0 +1,11 @@
+
+
+Subject:tiny
+
+
+jennifer:sexes:alan
+starve:thirst:crave:despair:yes:28214:3:jennifer:despair:starve
+soak:damp:moist:drip:wet:yes:28276:2:sexes:wet:drip
+misery:plethora:calm_beauty:yes:28335:6:alan:calm_beauty:plethora
+
+

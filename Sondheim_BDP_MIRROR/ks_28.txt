@@ -1,0 +1,23 @@
+
+
+
+
+tipping over, said Jennifer., didn't we do this once before, timing the
+effusion of the blanked and blanking shell turned to hurricanes and winds
+of dull becalming? then holding breath and running itself into grounds
+of centiseconds, the real churning of machinic turbulence among us
+$ time
+   0.00s real 0.00s user 0.00s system 
+$ time time time time time time time time time time time time time time
+time time time time time time time
+   0.00s real    0.00s user    0.00s system 
+   0.00s real    0.00s user    0.00s system 
+   0.00s real    0.00s user    0.00s system 
+   0.01s real    0.00s user    0.00s system 
+   0.01s real    0.00s user    0.00s system 
+   0.01s real    0.00s user    0.00s system 
+   [...]
+consumed with holding forth this tiny script or footprint across the
+debris of kernel calling and transformed you and me, said Jennifer.
+Jennifer.Jennifer.Jennifer.
+

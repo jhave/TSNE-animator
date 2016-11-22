@@ -1,0 +1,42 @@
+
+
+
+Just Checking
+
+ao              Send Telnet Abort output
+ayt             Send Telnet 'Are You There'
+brk             Send Telnet Break
+ec              Send Telnet Erase Character
+el              Send Telnet Erase Line
+escape          Send current escape character
+ga              Send Telnet 'Go Ahead' sequence
+ip              Send Telnet Interrupt Process
+nop             Send Telnet 'No operation'
+eor             Send Telnet 'End of Record'
+abort           Send Telnet 'Abort Process'
+susp            Send Telnet 'Suspend Process'
+eof             Send Telnet End of File Character
+synch           Perform Telnet 'Synch operation'
+getstatus       Send request for STATUS
+?               Display send options
+telnet> send brk, break me
+telnet> send ayt
+ 
+[Yes]
+
+Oh oh oh I am so relieved. For a moment I thought you were aborting me.
+For a moment I thought I was dead. For a moment I thought the operation
+was cancelled. For a moment I thought I'd lost my status. For a moment I
+feared an interruption. For a moment I thought you'd erase me from your
+memory. For a moment I thought you'd work on that. Then and only then did
+you beg me to go ahead. Then and only then did you feel the whip. Then and
+only then did you fall apart. Then and only then were you smeared, defiled
+down near the logos-ground. Then and only then did you grind the logos. I
+was entranced, enchanted. I asked you, are you there. I whimpered, are you
+there, the whip loose and trailing on the sodden earth. I thought you'd
+never answer. I thought you wouldn't say a thing. You said yes, yes, you
+did, you said yes.
+
+telnet> send ayt
+
+

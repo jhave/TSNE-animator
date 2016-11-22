@@ -1,0 +1,84 @@
+
+
+
+WAR DIARY
+
+
+OroborosX info: Got an item: mutt
+  OroborosX info: Got an item: BitchX
+  OroborosX info: Got an item: vim
+  OroborosX info: Got an item: pico
+  OroborosX info: Got an item: PDF Viewer
+  OroborosX info: Got an item: rxvt
+  OroborosX info: Got an item: xchat
+  OroborosX info: Got an item: xterm
+  OroborosX info: Got an item: xeyes
+  OroborosX info: Got an item: xcutsel
+  OroborosX info: Got an item: xclock
+  OroborosX info: Got an item: xcalc
+  OroborosX info: Got an item: xbiff
+  OroborosX info: Got an item: Gimp
+  OroborosX info: Got an item: ETerm
+Got the following list of folders...
+New Eau
+New Greyphyte
+Nextish
+OroborosX info: Got an item: New Eau
+  OroborosX info: Got an item: New Greyphyte
+  OroborosX info: Got an item: Nextish
+New Eau
+New Greyphyte
+Nextish
+OroborosX info: searching for item New Greyphyte...
+OroborosX info: Got item 11: New Eau
+OroborosX info: Got item 12: New Greyphyte
+OroborosX info: Got item 13: Nextish
+Running rootless inside Mac OS X window server.
+
+Display mode: Rootless Quartz
+
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+OroborosX Info: Waiting for keepalive to register...
+keepalive info: started
+keepalive info: Trying to connect to OroborosX socket...
+keepalive info: Connected. (4)
+keepalive info: connected to OroborosX socket: 4
+keepalive info: got DISPLAY (':0')
+keepalive info: sent DISPLAY (0)
+
+OroborosX info: Server heard from socket client: keepalive
+Received DISPLAY from keepalive: :0
+
+OroborosX info: heads: 0  screen: 0
+
+**** (1) Assert ****
+**** (1) UT_SHOULD_NOT_HAPPEN at ap_UnixLeftRuler.cpp:349 ****
+**** (1) Continue ? (y/n) [y] : 
+**** (2) Assert ****
+**** (2) UT_SHOULD_NOT_HAPPEN at ap_UnixLeftRuler.cpp:349 ****
+**** (2) Continue ? (y/n) [y] : 
+**** (3) Assert ****
+**** (3) UT_SHOULD_NOT_HAPPEN at ap_UnixLeftRuler.cpp:349 ****
+**** (3) Continue ? (y/n) [y] : 
+**** (4) Assert ****
+**** (4) UT_SHOULD_NOT_HAPPEN at ap_UnixLeftRuler.cpp:349 ****
+**** (4) Continue ? (y/n) [y] : Removing "XCutsel" from group menu
+
+2003-04-02 21:12:30.989 XDarwin[1252] Got can_come_in_front=-1
+2003-04-02 21:12:31.001 XDarwin[1252] Doing hide, and killing...
+2003-04-02 21:12:31.003 XDarwin[1252] Waiting on client process...
+2003-04-02 21:12:31.029 XDarwin[1252] Killing client process...
+
+Running rootless inside Mac OS X window server.
+
+2003-04-02 22:51:06.445 XDarwin[1508] ***** GOT INTO ORDEROUT!!!
+
+

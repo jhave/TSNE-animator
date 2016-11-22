@@ -1,0 +1,94 @@
+
+
+
+Cien2 Su4 Vun2 (Hakka) Inversion - 
+
+
+[Ellen Zweig and I continue the translation of the 1000 Character Classic.
+In the Chinese examination system, the characters were used to indicate 
+the applicant's home lane with its examination cells. Each character is
+used once. We translate in accordance with three dictionaries and two
+software programs, plus a grammar of T'ang poetry and other assorted aids.
+The original is in couplets; after a semi-mythological beginning, the
+essay settles into homilies, platitudes, proverbs, advice. It was used as
+a study tool, by children learning the characters for the first time.
+
+Here, we find our own rhythm in translation, moving back and forth across
+the 4-character lines, assembling and reassembling, searching for tropes
+and parallels; suddenly the line is illuminated, and its aura extends to
+the next or previous. 
+
+The characters are old-style, not simplified; many are out of date. At
+times, in the Japanese software, the character will be combined with
+another (main) radical, existing only as a subsidiary remnant. Almost
+never does the knowledge of radicals aid in interpretation; it seems, at
+least in relation to the Japanese, to be an awkward process of elimination
+as well as accumulation.
+
+The best search strategy is the boolean/root system in the Japanese soft-
+ware; this can be followed by character combinations in the Chinese soft-
+ware. When all else fails, a Chinese dictionary from 1930 is consulted;
+with its 10,000 + characters, it works well, in terms of radical and
+stroke count. But even here there are problems; characters within have up
+to 48 strokes, often drawn in a space smaller than a quarter-inch.
+
+We are un-knowing of Chinese; Ellen is studying it, and I am still use-
+lessly pursuing Japanese. But we enter a certain zone in this translation,
+a connection with something barely comprehended. For myself, the tenuous
+readings of the words plays into my own writing; bridging character to
+character is bridging English to English; it is a process of thinking into
+the void, not unlike the text itself.
+
+Below is an inversion study in which the translation is first reversed,
+then sent through software that eliminates duplicate words, then reversed
+again (specifically, tac -> perl program eliminating duplicates -> tac).
+The language slowly becomes more coherent towards the end. And we are only
+between a quarter and a third of the way through.]
+
+yellow :: heaven black, earth black - cosmos - are vast - desolate
+wasteland - moon fills - sun sets west - dusk - 7 9 morning - it's measure
+word, they spread line constellations - cold - comes - heat - goes -
+autumn - harvesting - winter - hiding, concealing - intercalary timing -
+leftover residue - becomes tenth - measurement years - so lu - pitches -
+shift position - open - clouds - ascend, galloping, - sending - rain - dew
+- forms - becoming - frost - gives gold - beautiful - water - emanates
+jade - from Kun mountain - summit - double-edged dagger - furiously named
+- huge - gate-tower - pearl - called - light - darkness - fruit - plum -
+apple - vegetables - mustard - ginger - sea - salted - rivers - fresh -
+fish-scales - hidden depths - feathers - circling above - fire - dragon -
+teaching - royal - official - beginning - making - writing - characters -
+then - robes uniforms, wearing - skirts < clothing - expel - throne -
+yield - country - yao - tang - has - predicted - console - people - strike
+down - guilty - hold - boundary - test scalding - trying case - at court -
+query - way - bequeath - bow - doubting - sections - love - raise up -
+hosts - leaders - minister - prostrate - army - barbarians - near - far -
+one - reality - ration - guest - returning to - emperor - phoenix - cries
+- bamboo - white - colt - grazes - there - covers - grass weeds -
+(vegetation) - trust - attain - a myriad (10,000) - directions (square) -
+covering - person - issues - (giving birth to) - four - great - five -
+normal - (connector / alone) - rearing - children - (!) - flattering -
+destroys - injures - women - adore - chastity - unyielding - imitate -
+pleasing - genius - know - what passes - certainty - change - attainment -
+ability - never - neglect - talk deception - other - brief -
+disintegration - reliance - self (self-reliance) - long - cause faith -
+should - be covered (protect your faith) - tool (utensil) - desire - (is)
+trouble - (quantity) measure-word - ink - (on sorrow, sadness - printed
+(sadness stains silk) - praise poetry - small (lamb) - sheep (sheep) -
+view, scenery - lines - tied lined-up - wisdom - restraint, conquering -
+study - makes (creates) - sage - benevolence - built - name - stands -
+origin - shape - proper (upright) - model - sky - valley - proclaim -
+(one's) fame - empty - chamber hall (public room) - learn (review lessons)
+- carefully - depends on (is disaster (catastrophe) - accumulation - evil
+- blessings (fortune) - (are caused by) - virtuous - happiness - 1/3
+(scale, ruler) - bi-jade (circular disk with hole) - negative (un- )  -
+treasure - 1/30 meter (measurement, small) - yin (shadow, moon, sexual
+organs, feminine, secret) - is (just so) (to be) - emulated (compete with)
+- capital - father (parallels) - (business) affairs - supreme ruler -
+speak - strictly (accurately) - give - respect - filial piety - serves
+(accepts) - of power (the others) - devotion - follows (rules) - end (of)
+- life - face (meet, confront) - breathing out - public - rectification -
+fit - many - men - dwell - in leisure - the ch'in - 4-stringed instrument
+- good - and wonderful - question or problem - gate - [...] - as well -
+
+
+

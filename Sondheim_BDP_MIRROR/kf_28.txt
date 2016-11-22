@@ -1,0 +1,31 @@
+
+
+Shaky Hands
+
+
+Internal SLIP driver COM3 Baud rate = 34400 Hardware handshaking
+IP buffers = 32
+My IP = 203.216.104.111 netmask = 255.255.255.0 gateway = 202.243.48.1
+Ned Kelly, masked, rides into oblivion.
+Manually dialing.  AFTER LOGGING IN, TYPE THE <ESC> KEY TO RETURN TO
+NORMAL SLIP PROCESSING.  PPP DISABLED atdt7241745 CONNECT
+14400/REL-LAPM V.42 BIS Welcome to Global OnLine Japan - Fukuoka. 
+Nikuko welcomes him with open arms; the war begins.
+gol1.gol.com login:sondheim Password: PPP session from (203.216.104.10)
+to 203.216.104.123 beginning....}#@!}!}!} }4}"}&} } } }
+}%}&R}^]y}'}"}(}"X}(~PPP ENABLED socket 1 killed socket 1 killed socket
+2 killed socket 3 killed socket 4 killed socket 1 killed Executing
+script c:\trumpet\bye.cmd.  Type <esc> to abort PPP DISABLED
+She's aborted, she's still there. I'm still there, says Nikuko.
+Script aborted PPP ENABLED Manually dialing.  AFTER LOGGING IN, TYPE
+THE <ESC> KEY TO RETURN TO NORMAL SLIP PROCESSING.  PPP DISABLED
+atdt7241745 CONNECT 14400/REL-LAPM V.42 BIS Welcome to Global OnLine
+Japan - Fukuoka. 
+I'm still here, says Nikuko. Fuck them all. Fuck them all. DISARM!
+gol1.gol.com login:sondheim Password: PPP session from (203.216.104.10)
+to 203.216.104.90 beginning....}#@!}!}!} }4}"}&} } } }
+}%}&/cHp}'}"}(}"Vk~PPP ENABLED PPP DISABLED
+
+DISABLED ABORTED RETURN KILLED
+
+

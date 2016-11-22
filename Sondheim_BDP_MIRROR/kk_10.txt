@@ -1,0 +1,148 @@
+
+
+
+
+Further fate of early World Wide Web Sites:
+
+
+Note that University of Kansas site is still running - try telnetting to
+ukanaix.cc.ukans.edu This is a standard telnet port, port 23, so even if
+you're on a primitive account, if you can telnet, you can reach still
+reach the Web.
+ 
+
+Script started on Fri Jun 19 19:33:27 1998
+
+
+{k:1}telnet info.funet.fi
+Trying 128.214.248.6...
+Connected to info.funet.fi.
+Escape character is '^]'.
+
+         Finnish University and Research Network Archive
+                          ftp.funet.fi
+
+You are now using TELNET protocol to reach this system.  We don't have
+TELNET service in here for our file area access.
+
+This archive site is reachable by using FTP only.  Please use 'ftp'
+command to use this archive:
+		ftp ftp.funet.fi
+		User: anonymous
+		Password: your@email.address
+(For further information on this, please consult your local system staff,
+ as your local procedures and policies aren't coverable in this generic
+ message.)
+
+You may also want to try our Archie service by doing telnet login to
+Archie server account: archie
+		telnet archie.funet.fi
+		...
+		Login: archie
+		...
+Archie is a database of Anonymous FTP archive sites around the world
+and can be used to locate interesting software. (Assuming you know
+the file name..)
+
+Connection closed by foreign host.
+
+{k:2}telnet www.njit.edu
+Trying 128.235.251.25...
+Connected to it.njit.edu.
+Escape character is '^]'.
+**************************************************************************
+*
+* We regret that WWW.NJIT.EDU no longer supports telnetd services.
+*
+* This decision was made in December 1996 in response to increasing 
+* misuse of our site.  Any documents directing you to this site for 
+* anonymous services are quite out of date.
+* 
+* NJIT had been happy to provide anonymous WWW access since 1992.  This 
+* was intended to assist persons without better means of access during 
+* the infancy of the WWW.  Now that commercial and academic ISP facilities 
+* are commonplace, and with misuse of our system, we have withdrawn the 
+* offering.
+*
+* Please direct comments regarding this change to "helpme@www.njit.edu",
+* 
+**************************************************************************
+Connection closed by foreign host.
+
+{k:3}telnet info.cern.ch
+Trying 137.138.24.189...
+Connected to www0.cern.ch.
+Escape character is '^]'.
+
+
+UNIX(r) System V Release 4.0 (www0)
+No utmpx entry. You must exec "login" from the lowest level "shell".
+Connection closed by foreign host.
+
+{k:4}telnet fatty.law.cornell
+fatty.law.cornell: Unknown host
+
+{k:5}telnet ukanaix.cc.ukans.edu
+Trying 129.237.33.3...
+Connected to raven.cc.ukans.edu.
+Escape character is '^]'.
+
+
+  You have connected from: sondheim.dialup.access.net
+
+  For assistance call 864-0110 or to report network problems call 864-0200
+
+  Login as 'kufacts' for access to the Campus Wide Information System.
+           'lynx' for access to the World Wide Web using Lynx.
+           'www' for access to the World Wide Web using Lynx.
+           'linemode' for access to the World Wide Web using Line Mode.
+           'history' for history network resources.
+           'ex-ussr' for former Soviet Union info.
+
+  At password prompt hit enter.
+
+Digital UNIX (raven.cc.ukans.edu) (ttyp6)
+
+
+
+login: www
+Password:
+
+Last   successful login for www: 
+	Fri Jun 19 18:28:50 1998 from panix3.panix.com
+Last unsuccessful login for www: 
+	Tue Sep  9 05:19:19 1997 from 193.230.159.158
+
+
+*****************************************************************
+Warning:  While logged into this account, please do not try to
+subscribe to any mailing lists.  This account will be subscribed
+instead of your own.
+*****************************************************************
+
+
+  Your Terminal type is unknown!
+
+  Enter a terminal type: [vt100] 
+
+TERMINAL TYPE IS SET TO vt100
+
+Attention: If you reach this site via telnet, you may prefer to telnet
+lynx.cc.ukans.edu and log in as lynx. --KU Web administrator,
+
+
+
+              The University of Kansas, Official Home Page 
+
+
+   Attention: If you reach this site via telnet, you may prefer to telnet
+   to lynx.cc.ukans.edu and log in as lynx. --KU Web administrator,
+   9/18/96
+
+              [ISMAP]-[Text-version of official KU home page]
+
+     | Main campus | Medical Center | Edwards campus (Regents Center) |
+                              Other KU sites |
+             | About KU | Chancellor's message | The Jayhawk |
+
+     

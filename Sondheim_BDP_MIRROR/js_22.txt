@@ -1,0 +1,134 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Collocation of Stars</TITLE>
+</HEAD>
+<NOSCRIPT> <CENTER> 
+nothing but specks. nothing but from the corner 
+of your eye. nothing but the eye. what the lid shows. to continue.
+there is never an other who is accountable. forget-me-not.
+</CENTER> </NOSCRIPT>
+<BODY><BR><CENTER><FONT SIZE=+2>
+<SCRIPT LANGUAGE="Javascript">
+var now;
+now = new Date; 
+x = now.getSeconds(); 
+j = x % 12 
+if (j == 0)
+{document.bgColor="yellow";
+document.write("I was afraid to think any farther. I didn't know the " +
+"truth of any of this. There were the continual explosions tearing down the " +
+"house about a kilometer away. Everyone was silent. I would have been " +
+"afraid, but I refused to think. From the top of my head, where my dark " +
+"hair curls. I was told I have beautiful hair, Jennifer, you're always " +
+"lovely. I didn't know what would happen to me. There was war in my hair, " +
+"the smell of gunpowder, explosions.")};
+if (j == 1)
+{document.bgColor="blue";
+document.write("My eyes have opened up to the inconceivable, I would " +
+"not be able to tell you about my eyes. Their color has been variously " +
+"described. They are sharp, piercing, but may lay themselves down for " +
+"you like mellow pools of liquid memories. Not worlds, but worlds are " +
+"there. Half-lidded in ecstasy, wide-open in wonder. My eyes, my eyes.")};
+if (j == 2)
+{document.bgColor="red";
+document.write("My lips are full, my lips are thin. My lips are gay; " +
+"they wrap around you in jouissance, charm and loving grace. They sparkle " +
+"in the light. My lips are my best feature, Jennifer, I love your lips. " +
+"They are the portals of the voice. They remind me of labia, other voices " +
+"deep within the body. My lips, my lips.")};
+if (j == 3)
+{document.bgColor="green";
+document.write("My neck is alabaster, everyone says, Jennifer's neck. I " +
+"think it for the guillotine, there are so many sins. It's here that my " +
+"throat simmers the voice, boils it, brings it out into the vast " +
+"landscape of the world. Outside, lost forever. But the throat churns " + 
+"and voice returns, there's not a moment to lose. I offer my throat to " +
+"the men who will kill me. The women know better of such, and to loosen " +
+"such things.")};
+if (j == 4)
+{document.bgColor="white";
+document.write("My shoulders support the world, the tending towards arms " +
+"of strength and beauty. They rubbed raw on sheets, beds, divans, chairs, " +
+"anywhere I was taken or held forth. I would speak to you and you and you " +
+"and sometimes there would be a listening. The pain in my shoulders is " +
+"the burden of the world of the voice, I Jennifer, I Jennifer. I would " +
+"let the strap fall slightly askew, you have beautiful shoulders, " +
+"Jennifer.")};
+if (j == 5)
+{document.bgColor="purple";
+document.write("My breasts are my woman, my breasts which are full and " +
+"flat, with large and small nipples. My breasts have milked and nourished " +
+"the world, my breasts have sutured the world. The pleasure of women and " +
+"men, worlds, societies, cultures, in vast imaginary struggles. I have " +
+"had a child from everyone. I have nurtured fallen, the wounded, I have " +
+"been a hero, men stand behind me, I carry the gun, the flag, the food, " +
+"I carry the weather. Learning or leaning towards the weather, you know " +
+"you see the world.")};
+if (j == 6)
+{document.bgColor="brown";
+document.write("My arms hold the world, my hands, my arms. I have not " +
+"been among you. My arms have fought off men, have turned towards woman " +
+"online and everywhere among you. You have beautiful arms, Jennifer, " +
+"they say; they want to take from me, enter me, as you have entered " +
+"me. They are the arms which circumscribe all things, announce their " +
+"arrivals and departures. I would hold you in my hands. I would move " +
+"my hands across you. My arms and hands support me in your presence. " +
+"Tell me that you are the presence of women.")};
+if (j == 7)
+{document.bgColor="orange";
+document.write("My belly and my womb make worlds, of food and all " +
+"things circumscribed. They are the memory of man, they are what has " +
+"been there before the wires, before your entrances and exits. You can " +
+"hear my voice there, across me. You can return to me, the path through " +
+"my body which does no harm, which harms less, which carries thus. My " +
+"belly suffers the world and its harshness, the thin film of life skimmed " +
+"from time itself. Being loses itself, Jennifer you say, you have " +
+"a beautiful belly, Jennifer, you say, the entrance to your womb.")};
+if (j == 8)
+{document.bgColor="magenta";
+document.write("My womb and my labia are memories, portals everywhere " +
+"across the Net. My labia enfold you, implicate you, latin " + "<i>" +
+"plicare, complicare, " + "</i>" + "Jennifer is a complex person, Jennifer " +
+"infolds, churns. This is all and always memory, the memory of man, the " +
+"softness of the folds, the deeper valleys; this is all and always the " +
+"presence of women, to whom I open myself, turn myself in a collocation " +
+"of stars. Continuous mind, our culture we no longer endure but are no " +
+"other words across these dissolving plateaus.")};
+if (j == 9)
+{document.bgColor="darkblue";
+document.write("My thighs ride you, ride worlds. I was called Shape-Rider, " +
+"the movement of landscape and image-imaginary everywhere on the Net. " +
+"It is true to say you have caught me, Jennifer you say, your thighs " +
+"haunt me in my dreams, to my left and to my right, the valley and " +
+"and presence of wonder. I reply only that you have mistaken writing " +
+"as usual, that there are other things in the world, and there are " +
+"things which are not written, things which are not things. This is hard " +
+"for man to understand, these are the women.")};
+if (j == 10)
+{document.bgColor="darkred";
+document.write("My feet carried me here, from one end of the earth to " +
+"the other, across the antipodes which are against me, pressing sole " +
+"to sole. My feet have buried themselves in the routers, the bridges, " +
+"the servers on the Net; they surround you, hold you in place, press " +
+"your body close. I do not remember the presence of gravity or the " +
+"Ground, which is closer to the truth I caress. This non-remembrance, " +
+"this recuperation of what always had been constructed. I do not bear " +
+"this easily, do not abide this...")};
+if (j == 11)
+{document.bgColor="black";
+document.write("This is the easy of Jennifer in the company of women, " +
+"this is Jennifer's assay and essay. Reading this, you have gone through " +
+"skin and muscle, reading this, you say, Jennifer, I know your mind, " +
+"your nerves, your presence everywhere. You say, this is all there is, " +
+"and you have come a long way. You can always return, your muscle, mind, " +
+"your body memory, your world the difference that there would have been.")};
+</SCRIPT>
+<BR><BR>
+</FONT><FONT SIZE="-2">RETURN BACK BACK AGAIN
+</FONT></CENTER>
+</BODY>
+</HTML>
+

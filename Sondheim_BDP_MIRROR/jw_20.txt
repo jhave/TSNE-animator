@@ -1,0 +1,88 @@
+
+
+One of the critical papers presented at this ICCC is "THE NETWORK CONTROL
+CENTER FOR THE ARPA NETWORK," which monitored the IMPs. It was written by
+Alexander A. McKenzie, Bernard P. Cosell, John M. McQuillan, and Martin J.
+Thorpe. I have a copy of the preprint.
+
+Here is a list of node from it, from TABLE 2: SUMMARY OF NETWORK OPERATION
+
+May 1971	15 nodes
+June		15
+July		15
+August		15
+September	18          2,892 Average Host Intersite Output
+October		18	    5,329 (packets/node/day)
+November	18	    6,473
+December	19	    5,679
+January 72	19          9,055
+
+The average line outage during these segments ranged from .59% to 3.21%.
+The average IMP downtime ranged from 1.77% to 5.50%.
+
+Here are some of the reasons for the IMP downtimes:
+Main frame problems, repair, unknown.
+High voltage, test, repair power transients.
+Intermittent core stack IMP move.
+Software, repair, site Host test.
+Site power down.
+Blown fuses.
+Software bug.
+New system reload, NCC error. [NCC = Network Control Center]
+
+Then as now, the questions at the end of the paper concerned issues of
+bandwidth:
+
+"What are the peak hours of network use and what is the peak-to-average
+traffic ratio?
+"What percentage of network traffic do single-packet messages constitute,
+and how does this percentage vary from Host to Host?
+"What is the ratio of weekday use to weekend use?
+"What percentage of line capacity is used during peak hours, and during
+weekend?"
+
+Note the oddly religious overtones from the capitalization of "host."
+Processing of information was done by paper tapes; BBN had another Host
+for dealing with the tapes, which was going to be used for analysis as
+well.
+
+Finally, here is the abstract to the paper:
+
+"The ARPA Network allows dissimilar, geographically separated computers
+(Hosts) to communicate with each other by connecting each Host into the
+network through an Interface Message Processor (IMP); the IMPs themselves
+form a subnetwork that can be thought of as a distributed computation
+system. To detect failures in this system each IMP automatically and per-
+iodically examines itself and its environment and reports the results to
+the Network Control Center (NCC), at Bolt Beranek and Newman, Inc., for
+action. The NCC computer, like any other Host, can itself fail without
+affecting network integrity; further, the NCC central processor can easily
+be replaced, in case of failure, by any standard IMP.
+
+"The present paper briefly describes the NCC hardware; discusses such
+software issues as NCC-related routines in the IMPs, data-collection and
+interpretation mechanisms, line status determination, IMP status and pro-
+gram reloading, and Host and line throughput; details NCC operations (man-
+ning, problem-handling procedures, track record); and summarizes overall
+NCC experiences and future plans."
+
+------
+
+Thanks to Janet Abbate of the Center for the History of Electrical Engin-
+eering; Alexander A. McKenzie; and BBN itself.
+
+Note in relation to a timeline: the first four nodes connected in late
+1969; the growth was slow at first, as the machines were tested. These
+nodes were UCLA, UCSB, SRI, and UTAH.
+
+Two final points - the NCC hardware used a central processor with only 12k
+of 16bit memory! And this was at the core of the net at the time.
+
+Second, and more important, according to Abbate's handwritten notes on the
+xeroxed pages she supplied (for the Scenarios), the BBN Tenex had, in add-
+ition to mail, games, etc., the commands who and talk (in one or another
+form) - so there was real time chat in operation at a public demo in 1972.
+This means that both synchronous and asynchronous user-to-user applica-
+tions were being rapidly developed by then.
+
+

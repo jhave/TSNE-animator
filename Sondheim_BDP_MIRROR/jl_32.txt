@@ -1,0 +1,88 @@
+
+
+
+(Mike Gurstein asked me to reiterate some of the comments I've been making
+about Web Pages - for the work I'm doing here. They follow below - again,
+please comment - Alan)
+
+
+Some notes on Web Pages --
+
+
+1 All web pages should be lynx-accessible in their entirety; .gif and .jpg
+images should be downloadable if they're content-relevant.
+
+2 All web pages should be accessible by Netscape 1.0, 1.1, etc. - not only
+3.0+ etc.
+
+3 Frames and tables should be kept to a minimum, or there should be alt
+tags for avoiding them. If they're absolutely necessary, it would be
+helpful to have a .gif or .jpg version that can be downloaded.
+
+4 The largest binary image files should be around 30k; most should be on
+the order of 6-7k.
+
+5 It's easier to use non-image bullets.
+
+6 Animations aren't necessary; again, you can have all the bells and
+whistles you want on a home page, but you need to have leaner clickable
+versions.
+
+7 It might be advisable to have several versions of a pages, so that, even
+with graphics, slower machines could access them with thumbnail graphics.
+
+8 Bitmapping should be used at a minimum, only when necessary (i.e. map of
+Canada - click for weather - but also, here's a list of provinces/cities).
+
+9 Mailto's are almost always useful for feedback; they give the appearance
+of interactivity, even if minimal.
+
+10 Cookies should be used extremely sparingly - applets, etc. the same. 
+
+11 It may be advisable to either avoid Java or have both 16- and 32-bit
+versions of the home page, since Java only runs in the latter.
+
+12 Titles and the first, say, 10 lines of the home page are critical, be-
+cause of search engines and their strategies.
+
+13 The number of .gifs and .jpgs should be kept to a reasonable minimum,
+since the whole page should download within, say, 15 seconds on a 28.8
+modem.
+
+14 It's useful to have a number of different browsers available in the
+studio when designing a web page - it's also useful to have them connected
+by phonelines, not by lan, to realistically watch the download in prog-
+ress.
+
+15 Know your audience/demographics; I personally hate words like "cool"
+and "radical/rad" since they're overused and subvert their original edgy
+meaning, but they would function well in some contexts.
+
+16 If you _are_ going to use cookies and/or ask for client-side informa-
+tion, advise your readers.
+
+17 Try for realistic counts of web page hits; counters tend to inflate
+rapidly, responding to spiders, bots, and repeated hits at a single
+session.
+
+18 Make sure your page is listed with major search engines; if it is for
+public service, you might also send the URL to the Net-Happenings list.
+
+19 Keep advertising and listing of browser buttons etc. to a minimum (you
+don't need to say "click here to download Netscape 3.0 etc.).
+
+20 Be wary of marginal tags for .html that might not be readable by other
+applications.
+
+21 Have your page organized somewhat in outline form, so that the main
+points can be quickly grasped.
+
+22 Rather use links then lengthy scrolling, if at all possible. The
+exception might be for searchable documents.
+
+All of these point to a reasonably lean web page which can also expand
+(or, conversely, a fat web page that can collapse), depending on the
+browser, user's computer, etc. It also makes for good Netiquette, if that
+still exists; you don't receive more than you need...
+
+

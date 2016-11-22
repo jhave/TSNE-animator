@@ -1,0 +1,85 @@
+
+
+
+
+Notes Towards Cyberspatial Identity
+
+
+If identity can be considered as a negotiation between actant and super-
+structure (as opposed to an _inherent_ process resulting in an "essential"
+strange-attractor), then identity within cyberspace must take into account
+- not only the packet, application, and interfacing substructures - but 
+also the relative foreclosing of each of these levels, a foreclosing de- 
+pendent upon limited bandwidth and the phenomenology of "personhood" pre- 
+sent.
+
+I consider identity as _a bundle of threaded processes._ "Bundle," as in a
+bundled software suite - in other words, a sheave or collocation of rela- 
+ted elements. These elements are concatenated, functioning as a loosely
+organize _family of usages_ (re: Wittgenstein). "Processes," as in subrou-
+tines which may be considered part-processes continually forming and dis-
+solving. And "threaded," as in (among other things) the _union of the 
+k-ply intersection of sets of attributes_ centered around temporarily at- 
+tracting frameworks. By "frameworks," I mean anything from the habitus of 
+a _role_ (working as a short-order cook), to negotiated fragments of gend-
+er. The "union of the k-ply intersection of sets of attributes" refers to
+taking tagged collections of attributes (say 15), finding attributes which
+are common among k of the collection (say 5), and forming a union of these
+attributes, which then constitute part of the defining thread (say abcde).
+
+Thus identity is mobile, gathered around shifters ("I," "me," "Alan") of 
+various (logical) types; it ranges through psychoanalytical processes as
+well as localized sememes (email, other applications), and is capable of
+_inhabitation,_ dwelling within any of them, absorbing their structures 
+(textual or not) in the form of autonomic or tacit knowledge (Polyani). 
+The sememes themselves (localized applications and their user interfaces)
+constitute closed domains which construct the local phenomenological hori-
+zon of the subject - a horizon subject to the processes of relevance theo-
+ry as described by Schutz. This is also the framework (and framework pro-
+blem) in classical artificial intelligence; here, the issue is not what 
+can be _brought into_ the arena, but the fact that the arena appears fore- 
+closed.
+
+What constitutes a foreclosed arena or application? Primarily: the norma-
+tive (_unhacked_) operations within it create a coherent (non-error) uni-
+verse. This is level-dependent; a programmer working in javascript, say, 
+would accept javascript error reports as part of the foreclosure; she 
+would not accept faulty floppy disk errors in the same way. The latter
+interrupt the horizon; the programmer might state later that she was "in-
+terrupted." These divisions are extremely fuzzy, of course.
+
+Think of foreclosed sememes (applications and interfaces) as parts of a
+_nearly decomposable hierarchy_ (such as the application of classical lo-
+gic and Boolean lattice theory to the everyday objects around us). Then 
+identity appears to _fill_ these sememes, moving more and more of their
+processes into the autonomic, and opening up the appearance of the infin-
+ite within their highly-limited bandwidth. For example, lower-ascii email
+is highly limited in form, but expansive as it becomes increasingly fam-
+iliar; identity can, in fact, reside in the flickering channels opening
+and closing between inbox and outbox.
+
+Identity, then, performs an extended set of ontological and epistemologi-
+cal leaps in cyberspace. The body returns doubly coded messages, loops
+through text back into itself; the feedback is mediated. The mediation
+occurs through the reading/writing/wryting apparatus of text and delay
+within sememes. Epistemologically, bandwidth is always changing, always
+negotiated itself. Ontologically, virtuality and the "real" (which is it-
+self heavily coded, internally and externally) intersect through the same
+sorts of attributive intersections of unions of attributes described above
+- in this case, the real is compiled into language, and language is com-
+piled into the real.
+
+Finally, it seems (relatively) clear that identity in cyberspace is not
+only internalized within the subject, but also externalized, dispersed, as
+a diasphora (diffusion carried by protocol / sememe) within reasonably 
+well-defined phenomenological horizons. The major difference between this
+externalization, and that which occurs in daily ("real") life, is that 
+the latter is negotiated on and off among institutions, which can be in-
+sidious in their introjectivity, but are never quite as totalized as the
+cyberspatial sememes. The latter, for one thing, refuse, by virtue of non-
+hacked error; badly-formed addresses, for example, just won't transmit
+but will return an error-message in the Pine reader.
+
+Increasingly, images of cloud-formations come to _light._
+
+

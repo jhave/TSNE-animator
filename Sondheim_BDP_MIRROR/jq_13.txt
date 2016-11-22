@@ -1,0 +1,12 @@
+
+
+<HTML>
+<HEAD>
+   <TITLE>ddder</TITLE>
+   <META http-equiv="Refresh" content="5; URL=file:///C:/index.htm">
+</HEAD>
+<BODY TEXT="#804000" BGCOLOR="#008080">
+<b><strike>ddder</strike></b>
+</BODY>
+</HTML>
+

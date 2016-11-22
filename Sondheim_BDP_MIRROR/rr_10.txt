@@ -1,0 +1,17 @@
+
+
+11      grep -h exception texts/*.txt > zz
+12      wc zz
+13      pico zz
+14      sort zz > yy; tr -d ^M < yy > zz; uniq zz > yy; wc yy;
+15      pico yy
+16      tr A-Z a-z < yy  > zz; pico zz
+17      mv zz ww
+18      grep -h crisis texts/*.txt > zz
+19      wc zz
+20      sort zz > yy
+21      tr -d ^M < yy > zz; tr A-Z a-z < zz > yy; pico yy
+22      uniq yy > zz; pico zz
+23      pico zz
+24      cp zz ww; rm yy; m
+

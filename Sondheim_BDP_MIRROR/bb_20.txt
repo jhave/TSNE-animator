@@ -1,0 +1,75 @@
+
+-
+
+
+Distance
+
+I have been trying to help a new subscriber from Iran, who can't connect 
+with listserv properly. To give you an idea of the distances/problems in- 
+volved in this:
+
+ping -s alborz.nic.ir
+PING alborz.nic.ir: 56 data bytes
+64 bytes from 193.188.132.16: icmp_seq=0. time=6957. ms
+64 bytes from 193.188.132.16: icmp_seq=3. time=6568. ms
+64 bytes from 193.188.132.16: icmp_seq=5. time=6242. ms
+64 bytes from 193.188.132.16: icmp_seq=7. time=6506. ms
+64 bytes from 193.188.132.16: icmp_seq=13. time=5176. ms
+64 bytes from 193.188.132.16: icmp_seq=15. time=8030. ms
+64 bytes from 193.188.132.16: icmp_seq=18. time=10126. ms
+64 bytes from 193.188.132.16: icmp_seq=20. time=11625. ms
+64 bytes from 193.188.132.16: icmp_seq=23. time=8896. ms
+64 bytes from 193.188.132.16: icmp_seq=25. time=8864. ms
+64 bytes from 193.188.132.16: icmp_seq=27. time=7705. ms
+ICMP Source Quench from hades.cc.univie.ac.at (131.130.99.10)
+ for panix3.panix.com (198.7.0.4) to 193.188.132.16 port 49773
+64 bytes from 193.188.132.16: icmp_seq=30. time=6832. ms
+ICMP Source Quench from hades.cc.univie.ac.at (131.130.99.10)
+ for panix3.panix.com (198.7.0.4) to 193.188.132.16 port 39612
+64 bytes from 193.188.132.16: icmp_seq=31. time=7208. ms
+64 bytes from 193.188.132.16: icmp_seq=33. time=7453. ms
+64 bytes from 193.188.132.16: icmp_seq=34. time=7782. ms
+ICMP Source Quench from hades.cc.univie.ac.at (131.130.99.10)
+ for panix3.panix.com (198.7.0.4) to 193.188.132.16 port 24557
+ICMP Source Quench from hades.cc.univie.ac.at (131.130.99.10)
+ for panix3.panix.com (198.7.0.4) to 193.188.132.16 port 14496
+ICMP Source Quench from hades.cc.univie.ac.at (131.130.99.10)
+ for panix3.panix.com (198.7.0.4) to 193.188.132.16 port 4427
+64 bytes from 193.188.132.16: icmp_seq=41. time=6295. ms
+64 bytes from 193.188.132.16: icmp_seq=42. time=5791. ms
+64 bytes from 193.188.132.16: icmp_seq=48. time=6611. ms
+^C
+----PING Statistics----
+57 packets transmitted, 19 packets received, 66% packet loss
+round-trip (ms)  min/avg/max = 5176/7368/11625
+
+traceroute alborz.nic.ir
+traceroute to alborz.nic.ir (193.188.132.16), 30 hops max, 40 byte packets
+ 1  xenyn-eid-E0-1.nyc.access.net (198.7.0.126)  2 ms  3 ms  2 ms
+ 2  sl-dc-12-S3/2-T1.sprintlink.net (144.228.122.5)  125 ms  11 ms  255 ms
+ 3  icm-dc-2-F1/0.icp.net (144.228.20.103)  11 ms  207 ms  16 ms
+ 4  icm-dc-3-F2/0.icp.net (198.67.131.33)  13 ms  11 ms  10 ms
+ 5  198.67.131.178 (198.67.131.178)  137 ms  137 ms  137 ms
+ 6  Vienna-EBS1.Ebone.NET (192.121.159.145)  194 ms  250 ms  182 ms
+ 7  Vienna-RBS.ACO.net (192.121.159.154)  190 ms  171 ms  200 ms
+ 8  cell.aco.net (193.171.23.82)  199 ms  178 ms  178 ms
+ 9  ecstasy.cc.univie.ac.at (193.171.14.11)  172 ms  214 ms  183 ms
+10  saturn.cc.univie.ac.at (131.130.1.8)  196 ms  195 ms  196 ms
+11  * hades.cc.univie.ac.at (131.130.99.10)  208 ms  230 ms
+12  * * *
+13  * * *
+14  *^C
+
+ping -s neda.net.ir
+/usr/etc/ping: unknown host neda.net.ir
+
+host neda.net.ir
+neda.net.ir mail is handled by alborz.nic.ir
+
+host alborz.nic.ir
+alborz.nic.ir has address 193.188.132.16
+alborz.nic.ir mail is handled by helios.edvz.univie.ac.at
+alborz.nic.ir mail is handled by alborz.nic.ir
+
+and so forth...
+

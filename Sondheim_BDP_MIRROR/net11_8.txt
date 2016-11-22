@@ -1,0 +1,82 @@
+
+
+
+
+
+
+GROTTO
+
+
+
+[This simple program generates shapes reminiscent of abstract back-
+
+grounds in the Tun-Huang Frescos; for me, it also represents an arche-
+
+typal cyberspace, the first pictures coming through the line, from 
+
+the brain to the mind, from the terminal screen through terminal 
+
+velocity, to the brain. The images never repeat and the random seed
+
+is tied to a seconds-after-midnight function. The program is of some
+
+limited mathematical interest as well, being a continuously nested
+
+recursion which is semi-fractal at best. (This is my favorite image-
+
+generation program, by the way, using a "lean" script.)]
+
+
+
+Grotto Program
+
+
+
+This is a qbasic program that will run on a 386 or better VHA or SVGA
+
+monitor; you should have at least 25Mhz speed. To run this, save every-
+
+thing below the dotted line as a file in DOS called "GROTTO.BAS" (The
+
+program uses Screen 12 in qbasic.)
+
+
+
+To run from qbasic: Type at the Dos prompt: qbasic /run grotto.bas
+
+The program runs until stopped. To stop, enter control-break, which
+
+brings the program up. Then exit the program as you would any DOS file,
+
+by typing Alt-File x (for exit).
+
+
+
+You can also create a small batch file with the editor by typing
+
+cd/dos
+
+qbasic /run grotto.bas
+
+into a file called "grotto.bat"
+
+Then at the DOS prompt, anywhere, just type "grotto" and the program 
+
+begins.
+
+
+
+The program will generate new forms continually until cancelled. (For 
+
+those who care, sin/cos was used in place of tan because the latter 
+
+generates overflow.)
+
+
+
+This program may be distributed as freeware anywhere accompanied by the 
+
+author's name.
+
+
+

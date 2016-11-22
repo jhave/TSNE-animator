@@ -1,0 +1,102 @@
+
+
+
+Settlement
+
+
+I want to, briefly, continue the application of proto-historic theory to
+the Internet and cyberspatiality, using Ian Hodder's The Domestication of
+Europe, which works through the lower and upper neolithic. Hodder disting-
+uishes a number of stages, characterized by what I would call "regimes." 
+
+They are, very roughly, the _domus_ or home, which also involves care,
+nurturing, protection, figurines, weaving, and so forth; the _agrios_ or
+outside, involving burial, hunting, agriculture, weapons, animals, ex-
+change, and stone tool production; and the _foris,_ which I associate with
+public forums and external community life. "The domus is fixed, permanent,
+visible, and very 'present.' It also brooks little individual variation.
+There is often a repetition of the individual domestic unit which leads to
+a strong sense of the equivalent and the communal. The agrios, on the oth-
+er hand, is initially 'absent' and less visible. It involves exchange and
+hierarchy, competition and individual display. It is closer to the wild." 
+
+Hodder traces development through the three stages into village communi- 
+ties and beyond; it is a work of interpretive proto-history, calling on 
+considerable theoretical resources. We can use the regimes as well, per- 
+haps, in order to understand MOOs, etc., and their interrelationship. In 
+previous texts, I've focused on issues of diffusion, exchange, trade- 
+routes and so forth; here, we might think of a MOO (for example) as a 
+_settlement,_ occupying a particular IP and port number in cyberspace. 
+
+It's clear that there are three regimes MOO-wide as well. The first, the 
+domus, is what exists after @dig and the @sethome commands are applied; 
+the domus is often furnished with idealized personal belongings, inclu- 
+ding virtual chairs, and so forth. As in the neolithic, the domus also 
+contains symbolic objects as well, some of which may be ported elsewhere. 
+Conversations often occur within them, since they provide a sense of 
+place and relative comfort. If one converses solely by paging, there is a 
+sense of absence - I've often noted this on PMC2-MOO. Paging at times may 
+feel like a traditional postal exchange; verbal cues can be added, but 
+they feel more artificial than face-to-face in cyberspace.
+
+The second regime, the agrios, would be the note and other editors, as 
+well as collaborative projects. These are all a form of homesteading, 
+are often competitive and individualistic. The agrios would be, in this 
+regard, a space for programming, the space one wanders in while explor- 
+ing the MOO. It would also be the space of other domus, the space of 
+differentiation.
+
+The third regime, the foris, splits into spaces for asynchronous dis- 
+cussion (email lists) which are literal forums; spaces for synchronous 
+discussion outside the domus (meeting-places, virtual classrooms) and 
+inter-MOO spaces, spaces of external networking. 
+
+No matter how much a MOO grows, it never infringes on another MOO, of
+course, unless they are run on the same machine (i.e. hero.village.vir-
+ginia.edu 7777 and 8888). Space is locally expandable/expendable; within
+a MOO, it's another matter, associated with quota politics. In this sense,
+a MOO can be considered a _walled settlement,_ with relatively limited 
+resources. The domus and agrios are internal to the settlement, and there 
+are both foris that are completely enclosed, and those that behave as 
+filters connecting other sites.
+
+In this sense, such texts as the MOO programming manual can be considered
+ideological texts carried _within_ the MOO settlements, and carrying the
+seeds of common cultures. Sects split off and become settlements in their
+own right/wryte; this is clear from the usual tracing of MUDs to lpmuds
+and MOOs, and from MOOs to MOOSE for example. These proto-cultures, dif-
+ferentiated from each other by addresses, and languages (dialects), com-
+pete for populations, which also carry ideological packets from one set-
+tlement to another. (Thus "wizards" are found on some MOOs, instead of
+"staff.")
+
+Demographics change through time; MOOs evolve, again through cross-ferti-
+lization as well. As with neolithic settlements, they develop tels and
+middens, accumulations of discarded objects and buildings, which may only
+have been partially completed in the first place. A MOO may become "thick"
+with such debris, leading to the abandonment or recycling of its database. 
+The parallel with a settlement abandoning a region of depleted resources, 
+is fairly clear.
+
+What would be very useful in this regard is a _virtual geography,_ that is
+primarily a _cultural geography,_ no longer so concerned about the ontolo-
+gy and epistemology of cyberspace. Such a geography would be concerned
+with both economic and cultural anthropology, and the relation of both to
+issues of cognitive psychology. It would draw on models from theories of
+language distribution, issues of performativity in protolanguage (proto-
+linguistics along the lines of Bickerton and Tran Duc Thao), grammatology,
+and theatrics. It would look at Net community from the viewpoint of the
+socius involved in exchange, introjection, and projection. It would con-
+sider textuality and wryting as the fundamental basis for these applica-
+tions, but would not insist on modes of composition and literary criticism
+for its primary theoretical approach. (Note: I am not using the term _vir-
+tual geography_ in the sense of Wark's Virtual Geography; instead, I am 
+thinking of a postmodern geography of virtual spatialities, bringing into 
+play Lefebvre, Davis, Soja, Harvey, etc. Wark's brilliant book is part of 
+this, but not determinative.)
+
+Within virtual geography, cyberspatial settlement and settlement patterns 
+can be examined; the future lies along the path sketched out here, and 
+not, I believe, in more traditional psychological/sociological approaches 
+often used in current theoretical work on Net community.
+

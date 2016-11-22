@@ -1,0 +1,133 @@
+
+
+$ ./ppt
+___________
+MY NAME IS TINY JENNIFER
+| o  o.o o|
+| o oo.  o|
+|  o  .   |
+| o  o.oo |
+| o   .  o|
+| o  o.o o|
+| o   .o o|
+|  o  .   |
+| o  o.  o|
+| o o . oo|
+|  o  .   |
+| o o .o  |
+| o  o.  o|
+| o  o.oo |
+| o oo.  o|
+|  o  .   |
+| o  o. o |
+| o   .o o|
+| o  o.oo |
+| o  o.oo |
+| o  o.  o|
+| o   .oo |
+| o   .o o|
+| o o . o |
+|    o. o |
+I AM LOST IN SUCH BIG WOODS
+| o  o.  o|
+|  o  .   |
+| o   .  o|
+| o  o.o o|
+|  o  .   |
+| o  o.o  |
+| o  o.ooo|
+| o o . oo|
+| o o .o  |
+|  o  .   |
+| o  o.  o|
+| o  o.oo |
+|  o  .   |
+| o o . oo|
+| o o .o o|
+| o   . oo|
+| o  o.   |
+|  o  .   |
+| o   . o |
+| o  o.  o|
+| o   .ooo|
+|  o  .   |
+| o o .ooo|
+| o  o.ooo|
+| o  o.ooo|
+| o   .o  |
+| o o . oo|
+|    o. o |
+YOUR OPEN MOUTHS SCARE ME
+| o oo.  o|
+| o  o.ooo|
+| o o .o o|
+| o o . o |
+|  o  .   |
+| o  o.ooo|
+| o o .   |
+| o   .o o|
+| o  o.oo |
+|  o  .   |
+| o  o.o o|
+| o  o.ooo|
+| o o .o o|
+| o o .o  |
+| o  o.   |
+| o o . oo|
+|  o  .   |
+| o o . oo|
+| o   . oo|
+| o   .  o|
+| o o . o |
+| o   .o o|
+|  o  .   |
+| o  o.o o|
+| o   .o o|
+|    o. o |
+I FALL IN
+| o  o.  o|
+|  o  .   |
+| o   .oo |
+| o   .  o|
+| o  o.o  |
+| o  o.o  |
+|  o  .   |
+| o  o.  o|
+| o  o.oo |
+|    o. o |
+I HAVE MOUTHS ALL OVER ME
+| o  o.  o|
+|  o  .   |
+| o  o.   |
+| o   .  o|
+| o o .oo |
+| o   .o o|
+|  o  .   |
+| o  o.o o|
+| o  o.ooo|
+| o o .o o|
+| o o .o  |
+| o  o.   |
+| o o . oo|
+|  o  .   |
+| o   .  o|
+| o  o.o  |
+| o  o.o  |
+|  o  .   |
+| o  o.ooo|
+| o o .oo |
+| o   .o o|
+| o o . o |
+|  o  .   |
+| o  o.o o|
+| o   .o o|
+|    o. o |
+YUM!
+| o oo.  o|
+| o o .o o|
+| o  o.o o|
+|  o  .  o|
+|    o. o |
+$ exit
+Script done on Tue Oct 13 02:25:15 1998
+

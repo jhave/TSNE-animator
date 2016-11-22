@@ -1,0 +1,22 @@
+
+
+
+Frag
+
+
+Hello, this is Doctor Goodbye. You do not have cure.
+There is no cure for substitution. Your X.
+As in: I would have fought for X, bitterly.
+There are chains of consequences. There are safe-words.
+You say X. You are removed from this reality.
+There are chains of consequences. There are chain-negations.
+You say X. You have been Y for W. You say Y. You have been Z for V.
+You perform X, as in: I perform X with gusto.
+You see nothing special. You are not removed from this reality.
+If you perform X and X is not in database, then You see nothing special; 
+else if you perform X and X is in database, then You see Y.
+If you see V, W, X, Y, Z, then You see nothing special.
+You say Everything and Nothing is in database.
+You do not have cure. This is Doctor Goodbye.
+
+

@@ -1,0 +1,55 @@
+ss.txt
+
+       0       0       0 ss.txt
+       1       4      32 ss.txt
+       2       8      64 ss.txt
+       3      12      96 ss.txt
+       4      16     128 ss.txt
+       5      20     160 ss.txt
+       6      24     192 ss.txt
+       7      28     224 ss.txt
+       8      32     256 ss.txt
+       9      36     288 ss.txt
+      10      40     320 ss.txt
+k15% wc ss.txt > ss.txt
+k16% wc ss.txt >> ss.txt
+k17% wc ss.txt >> ss.txt
+k18% wc ss.txt >> ss.txt
+k19% wc ss.txt >> ss.txt
+k20% wc ss.txt >> ss.txt
+k21% wc ss.txt >> ss.txt
+k22% wc ss.txt >> ss.txt
+k23% wc ss.txt >> ss.txt
+k24% wc ss.txt >> ss.txt
+k25% wc ss.txt >> ss.txt
+
+
+
+
+catch me if you can
+
+http://www.alansondheim.org/catchme.mp3
+
+electric guitar, i haven't played this well before
+catch me if you can
+"a new standard for electric guitar"
+catch me if you can
+"a blowout single session masterpiece"
+catch me if you can
+
+
+
+DON'T EVER BUY ASUS IF YOU MIGHT NEED REPAIRS: 
+The last chapter!
+(Names have been changed etc.)
+
+Hello Alan Sondheim, thank you for contacting ASUS support. 
+Please give me a few moments to review your information. I will 
+be with you shortly.
+
+I will be more than happy to assist you today, Alan.
+
+For verification purposes, may I have your return shipping 
+address please?
+
+Alan Sondheim 

@@ -1,0 +1,35 @@
+
+
+
+
+
+Final Notes On Slow Entry (HP 110 laptop) -
+
+1. That cat slows down sufficiently at 300 baud - cat <file> spills a file
+to the screen; at 300 baud, it's readable without using more or less. 
+
+2. That raw telnet works with talkers reasonably well - the only real pro-
+blem is that of the login-screen, or the .rev (review) command, which 
+loads and replays the last 25 lines of dialog - takes quite a whle.
+
+3. That Mail permits fairly rapid replies - Mail (Unix mail) works well, 
+but insists on loading almost the entire header; replies are quick, how- 
+ever.
+
+4. I did manage to download, oddly enough, by using the vi <filename> com-
+mand - it managed to make it onto the laptop for at least parts of files.
+I imagine upload might work the same way. I had to turn off the HP 110's
+protocols, however; it was raw ASCII. (I'd like to know more about this,
+since some situations might not have x-y-z-modem/kermit available.)
+
+5. Any program such as Pico that needs screen refreshing - or complex 
+clients such as tiny fugue - just don't work properly; the key commands 
+seem inoperable (no matter how they're set on the 110).
+
+Why is this of interest? Because this is one of the narrowest bandwidths 
+still possible; because it shows what might be done under relatively poor 
+Net conditions; because it's a good way to learn fundamental Unix pro- 
+grams, and because the relatively slow rate brings all sorts of things to 
+the surface, believe it or not (particularly on talkers) that appear too 
+quickly at current normal speeds to be read, or even noticed.
+

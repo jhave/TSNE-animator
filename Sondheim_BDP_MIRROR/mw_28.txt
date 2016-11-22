@@ -1,0 +1,44 @@
+
+
+
+The word "Democracy"
+
+
+Date: Fri, 04 Apr 2003 04:18:20 +0200
+Subject: Blocked delivery of your email to
+
+                 BLOCKED DELIVERY OF YOUR EMAIL TO 
+
+Your email has been stopped.
+The intended recipient will receive a notification of this message.
+
+
+Email was stopped due to it containing text which is not permitted
+	Comment: Undesirable word
+
+Details of blocked files
+
+	30246text0: Undesirable word (Text block)
+
+End.
+                 BLOCKED DELIVERY OF YOUR EMAIL TO 
+
+Your email has been stopped.
+The intended recipient will receive a notification of this message.
+
+
+Email was stopped due to it containing text which is not permitted
+	Comment: Undesirable word
+
+Details of blocked files
+
+	30246text0: Undesirable word (Text block)
+
+End.
+The attached message was received as a bounce, but either the bounce
+format was not recognized, or no member addresses could be extracted
+from it.  This mailing list has been configured to send all
+unrecognized bounce messages to the list administrator(s).
+
+
+

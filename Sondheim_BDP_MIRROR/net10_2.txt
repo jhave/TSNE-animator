@@ -1,0 +1,62 @@
+
+
+
+SPEECH AND COMPUTATIONAL LIMITS
+
+
+The program below is an extremely simple investigation of the formula
+y = sin(cot x), with a 'minor' addition. First, note that the value of
+y ranges from +1 to -1, since sin(f(x)), whatever f(x), is limited. 
+Second, note that cot x tends to +/- infinity at x = 0; therefore the
+formula implies a "speed-up" of frequency near 0. And third, note that
+within classical trigonometry, this function is analog with a periodic
+singularity. To _plot_ this equation is to take incremental values of
+x, calculate y, and plot (x,y). (Note by the way that cos(x)/sin(x) is
+equivalent to cot(x) which is not immediately available in qbasic.)
+
+The _complexity_ of the program occurs through the _second_ term of
+the formula, - k*y. (In ordinary mathematics, the formula would be
+written y = sin(cot x) - ky.) Here k is a constant between -1 and 1;
+outside the bandwidth, the equation overflows. What does the second
+term say?
+
+It indicates that _every time_ y is calculated, the previous value of
+y times a constant is subtracted from the formula. If the first term
+is analog, i.e. functioning continuously with the exception of periodic
+points, the second term is _discrete_ and dependent upon, not only k,
+but also: 1. -a (i.e. the initial value of x) and 2. z (the increment
+of x). Both a and z are _arbitrarily_ chosen by the user; each choice
+completely determines a different graphic result - such results not
+necessarily transforming one into another.* In other words, a _discrete_
+system imposed on an _analog_ system here fails to have any "natural
+mapping," it would seem; the class of all such maps notwithstanding.
+Suppose, for example, z was infinitesimal; then the graph would remain
+constant, at x = -a. 
+
+What is the point of all of this? Within the realm of relatively simple
+mathematics, we are creating a _broken structure,_ dependent on user's
+choice. The choosing can be considered a _form of interference_ - which
+is readily apparent if k = 0. Remembering Heisenberg or Schroedinger's
+cat, it seems germane to ask:
+
+Is speaking always a form of distortion?
+
+DEFDBL x
+home: y = 0: CLS :
+INPUT "Screen +/-x, +/-y, k for ky, k<1"; a, b, k
+PRINT "Hit r for restart"
+INPUT "Enter x increment, usually between .001 and 1"; z
+CLS : SCREEN 11: WINDOW (-a, b)-(a, -b)
+LINE (-a, 0)-(a, 0): LINE (0, b)-(0, -b)
+x = -a
+two:
+y = SIN(COS(x) / SIN(x)) - k * y
+PSET (x, y)
+IF INKEY$ = "r" THEN GOTO home
+x = x + z
+GOTO two
+
+
+*At certain values, the graph appears to become chaotic.
+
+

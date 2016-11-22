@@ -1,0 +1,921 @@
+
+
+
+
+oud music during the terabyte archiving
+
+http://www.alansondheim.org/accord.mp3
+http://www.alansondheim.org/acord.mp3
+
+25k images, 1.6k video, .8k audio, 1.2k texts, etc. / from tree:
+
+Folder PATH listing for volume Iomega HDD
+Volume serial number is 7431-B6D7
+
+acker AUDIO_TS VIDEO_TS alansnd2 alan_dojoji aletsch AUDIO_TS VIDEO_TS 
+alpfles1 archiveoldinpart book NIKUKO TALKS html FRAC NARDIS WATER music 
+arena azure CDROM mosaic HELP old Dell Canon BJC2100v683 images CDROM
+           
+view opal cgi-bin portrait test wwwstat Results
+       
+azurefilm azuremusic Backup audio AudioMulch 0.9b9 Examples Samples Drums
+       
+simplekit VSTPlugins azure opal
+       
+portrait
+       
+test
+       
+basicprograms basic2 qbasic positions papers connes course 
+codework_whitepaper
+       
+positions papers cray crepuscle AUDIO_TS VIDEO_TS cybermind dance 100msdcf 
+Alan's project display dansuisse JACKET_P OpenDVD VIDEO_TS danz dawn 
+Diskarchive evam 10-11-2009 friday2 everglades exper FAMILY wedding
+       
+recept filmother ascii exper floppy albany aol30 astronmy avipro bamboo 
+BOOT286 boot5204 calc computer 4SPEED CALARK CPUSPE CT50A FINDIRQ PCHK 
+SNOOPER VGASPD dial95 INTER diskfix image IPHONE perth perthmis
+       
+mandel matlab mcurrent Cyberspace STONE Deleuze 2-1 Deleuze Guattari Misc 
+Deleuze list 1 Foucault Future Culture Nietzsche PMC-list 1 ARCHIVES INTRO 
+PMC-list 2 Pomo PS Philosophy Sondheim Texts 1 Sondheim Texts 2 Unix 1 
+Unix 2 Unlabeled 1 Unlabeled 2 mitch momtext coterm SUPFILES display kayo 
+misc DAZZLE mtez mosaic disk1 disk2 backup
+       
+FILES
+           
+exper jennifer netscape mosaic
+       
+system oldcompq mark ontrack pcplus pcplus2 phaser FILES procomm PHRACK 
+qpeg quickcam disk1 disk2
+       
+disk1
+       
+disk2 stereo text traverso win95str win98 zipinstl maria code bass2 exper 
+maria talk miami perth New Folder Release store mail text june17mail 
+wryting trace diary _vti_cnf lost trip floppy albany aol30 astronmy avipro 
+mandel matlab mcurrent Cyberspace STONE Deleuze 2-1 Deleuze Guattari Misc 
+Deleuze list 1 Foucault Future Culture Nietzsche PMC-list 1 ARCHIVES INTRO 
+PMC-list 2 Pomo PS Philosophy Sondheim Texts 1 Sondheim Texts 2 Unix 1 
+Unix 2 Unlabeled 1 Unlabeled 2 mitch momtext coterm SUPFILES display kayo 
+misc DAZZLE mtez mosaic disk1 disk2
+
+exper jennifer netscape mosaic HELP
+       
+oldcompq mark ontrack pcplus pcplus2 phaser FILES procomm PHRACK qpeg 
+quickcam disk1 disk2
+       
+disk1
+       
+disk2 stereo text traverso win95str win98 zipinstl foofwadvd1 AUDIO_TS 
+VIDEO_TS foofwadvd2 AUDIO_TS VIDEO_TS foostuff genevaperform AUDIO_TS 
+VIDEO_TS gert gridworld html
+       
+FRAC
+       
+NARDIS
+       
+WATER images incubate downtown mattfrantzopening private shrine import 
+incid julu_twine kayofl lulu mcurrent Cyberspace STONE Deleuze 2-1 Deleuze 
+Guattari Misc Deleuze list 1 Foucault Future Culture Nietzsche PMC-list 1 
+ARCHIVES INTRO PMC-list 2 Pomo PS Philosophy Sondheim Texts 1 Sondheim 
+Texts 2 Unix 1 Unix 2 Unlabeled 1 Unlabeled 2 miami mill text misc 
+alanphoto last org_app_display.cfm_files movolder multi oldminidvddisk 
+kayofl MARK PHRACK onlineimage cgi-bin dawn multi philosophy
+       
+graphics
+       
+_notes
+       
+_notes panix07 mail perth philosophy rehiquery RhodeIsland RIclimb 
+RIcolumn RIcolumn3 RIfollow RIfollow2 RIleaning RIontherails RIparcours 
+RIrubbing RISayles RIthicket ROUGH MIXES SamShared EditedSAM Debug New 
+Folder Release Debug New Folder Release SAM2 Debug New Folder Release 
+WorkingSAM
+       
+Debug
+       
+New Folder
+       
+Release scan SHOW soccer 8-16-2009 8-16-2009(1) 8-18-2009 8-19-2009 
+MovieTracer sound AvatarESP
+       
+cover spoons
+       
+fiction-of-philosophy.archive
+           
+fop_1995 store mail talk texts bldg book codework course bldg Documents 
+application octet-stream chemical x-pdb image jpeg text
+       
+html mail olderfrom128 multi
+       
+trace diary _vti_cnf lost trace
+       
+diary
+       
+lost trip vel2b other WEDDING&SONDHEIM PICS SONDHEIMS WEDDING PHOTOS 
+WEDDING VIDEOS worknow
+    
+upload
+        
+torr
+
+
+
+
+
+Archive Index Text and My Avatars
+
+
+here's a list of all the digital work I have done online from 1994-pres- 
+ent, in tree form, assembled for archiving. it also includes files from my 
+collaborations (with Foofwa d'Imobilite, Azure Carter, others), and 
+various other files, texts, etc. it's longer than I thought it would be.
+
+http://www.alansondheim.org/archex.txt 
+http://www.alansondheim.org/archelim.txt (gross eliminate of duplicate 
+names)
+
+2000-3000 videos (different)
+28000 images (around, different)
+900 sound/music (different)
+1400 texts, programs, digital obj files etc. (different)
+
+it's weirdly interesting. it doesn't include iso files, Second Life full 
+.avi video files, personal stuff. it runs about 830 gigabytes, would be 
+larger w/ the additions.
+
+
+MY AVATARS
+
+
+|       Nikuko.avi
+|   |   Nikuko.asf
+|   |   Nikuko.asf
+|   |   Nikuko.avi
+|   |   Nikuko.asf
+|   |       nikuko.vbw
+|   |   |   +---nikuko
+|   |   |   +---nikuko
+|   |   |   nikuko.vbw
+|   |   mod1nikuko1.bmp
+|   |   mod1nikuko1.jpg
+|   |   mod1nikuko2.jpg
+|   |   mod1nikuko3.jpg
+|   |   mod1nikuko4.jpg
+|   |   mod1nikuko5.jpg
+|   |   mod1nikuko6.jpg
+|   |   mod1nikuko7.jpg
+|   |   mod1nikuko8.jpg
+|   |   nikukohouse.jpg
+|   |   nikukosighted.jpg
+|   |   +---nikuko
+|   |   nikuko.vbw
+|       NIK10.JPG
+|       NIK12.JPG
+|       NIK4.JPG
+|       NIK5.JPG
+|       NIK50.JPG
+|       NIK51.JPG
+|       NIK7.JPG
+|       NIK9.JPG
+|       NIKI.JPG
+|       NIKU1L.JPG
+|       NIKUG.JPG
+|   |   +---NIKUKO
+|   |   |   NIK4.JPG
+|   |       |   NIK4.JPG
+|   |       |   NIK4.JPG
+|   |   |   |   NIK1.JPG
+|   |   |   |   NIK10.JPG
+|   |   |   |   NIK11.JPG
+|   |   |   |   NIK12.JPG
+|   |   |   |   NIK4.JPG
+|   |   |   |   NIK5.JPG
+|   |   |   |   NIK6.JPG
+|   |   |   |   NIK7.JPG
+|   |   |   |   NIK9.JPG
+|   |   |   NIK4.JPG
+|   |   |   NIK1.JPG
+|   |   |   NIK10.JPG
+|   |   |   NIK11.JPG
+|   |   |   NIK12.JPG
+|   |   |   NIK4.JPG
+|   |   |   NIK5.JPG
+|   |   |   NIK6.JPG
+|   |   |   NIK7.JPG
+|   |   |   NIK9.JPG
+|   |   NIK.GIF
+|   |   NIK1.JPG
+|   |   NIK10.JPG
+|   |   NIK11.JPG
+|   |   NIK12.JPG
+|   |   NIK4.JPG
+|   |   NIK5.JPG
+|   |   NIK50.JPG
+|   |   NIK51.JPG
+|   |   NIK6.JPG
+|   |   NIK7.JPG
+|   |   NIK9.JPG
+|   |   NIKI.JPG
+|   |   NIKI2.JPG
+|   |   NIKU1.GIF
+|   |   NIKU13.JPG
+|   |   NIKU17.GIF
+|   |   NIKU1L.JPG
+|   |   NIKU5L.GIF
+|   |   NIKU6LX.GIF
+|   |   NIKU7.GIF
+|   |   NIKUG.JPG
+|       NIK1.JPG
+|       NIK10.JPG
+|       NIK11.JPG
+|       NIK12.JPG
+|       NIK4.JPG
+|       NIK5.JPG
+|       NIK6.JPG
+|       NIK7.JPG
+|       NIK9.JPG
+|   |   NIK1.JPG
+|   |   NIK10.JPG
+|   |   NIK11.JPG
+|   |   NIK12.JPG
+|   |   NIK4.JPG
+|   |   NIK5.JPG
+|   |   NIK6.JPG
+|   |   NIK7.JPG
+|   |   NIK9.JPG
+|   |   NIK1.JPG
+|   |   NIK10.JPG
+|   |   NIK11.JPG
+|   |   NIK12.JPG
+|   |   NIK4.JPG
+|   |   NIK5.JPG
+|   |   NIK50.JPG
+|   |   NIK51.JPG
+|   |   NIK6.JPG
+|   |   NIK7.JPG
+|   |   NIK9.JPG
+|   |   NIKI.JPG
+|   |   NIKI2.JPG
+|   |   NIKU13.JPG
+|   |   NIKU1L.JPG
+|   |   NIKUG.JPG
+|   |   NIK.GIF
+|   |   NIK1.JPG
+|   |   NIK10.JPG
+|   |   NIK11.JPG
+|   |   NIK12.JPG
+|   |   NIK4.JPG
+|   |   NIK5.JPG
+|   |   NIK50.JPG
+|   |   NIK51.JPG
+|   |   NIK6.JPG
+|   |   NIK7.JPG
+|   |   NIK9.JPG
+|   |   NIKI.GIF
+|   |   NIKI.JPG
+|   |   NIKI2.GIF
+|   |   NIKI2.JPG
+|   |   NIKU1.GIF
+|   |   NIKU13.JPG
+|   |   NIKU17.GIF
+|   |   NIKU1L.JPG
+|   |   NIKU20.GIF
+|   |   NIKU4L.JPG
+|   |   NIKU5L.GIF
+|   |   NIKU6LX.GIF
+|   |   NIKU7.GIF
+|   |   NIKUG.JPG
+|   |   NIKUKO.GIF
+|   |   |       NIK.GIF
+|   |   |       NIK1.JPG
+|   |   |       NIK10.JPG
+|   |   |       NIK11.JPG
+|   |   |       NIK12.JPG
+|   |   |       NIK4.JPG
+|   |   |       NIK5.JPG
+|   |   |       NIK50.JPG
+|   |   |       NIK51.JPG
+|   |   |       NIK6.JPG
+|   |   |       NIK7.JPG
+|   |   |       NIK9.JPG
+|   |   |       NIKI.GIF
+|   |   |       NIKI2.GIF
+|   |   |       NIKU1.GIF
+|   |   |       NIKU13.JPG
+|   |   |       NIKU17.GIF
+|   |   |       NIKU1L.JPG
+|   |   |       NIKU20.GIF
+|   |   |       NIKU4L-new.jpg
+|   |   |       NIKU4L.JPG
+|   |   |       NIKU5L.GIF
+|   |   |       NIKU6LX.GIF
+|   |   |       NIKU7.GIF
+|   |   |       NIKUG.JPG
+|   |   |       NIKUKO.GIF
+|   |           NIK4.JPG
+|   |   NIK4.JPG
+|       |   NIK4.JPG
+|       Julu Twine.txt
+|       insidejulutwine1.jpg
+|       insidejulutwine2.jpg
+|       insidejulutwine3.jpg
+|       insidejulutwine4.jpg
+|       insidejulutwine5.jpg
+|       insidejulutwine6.jpg
+|       insidejulutwine7.jpg
+|       insidejulutwine8.jpg
+|       insidejulutwine9.jpg
+|       julugoesgaz01.png
+|       julugoesgaz02.png
+|       julugoesgaz04.png
+|       julugoesgaz05.png
+|       julugoesgaz06.png
+|       julugoesgaz07.png
+|       julugoesgaz09.png
+|       julugoesgaz10.png
+|       julugoesgaz11.png
+|       julugoesgaz12.png
+|       julugoesgaz13.png
+|       julugoesgaz14.png
+|       transjulugaz.mp4
+|   |   |   julua.txt
+|   |   julu
+|   |   julua
+|   |   |       julu.gif
+|   |   |       juluAPS.js
+|   |   |       julu.gif
+|   |   |       juluAPS.js
+|   |   |   |   |   julu
+|   |   |   julua.txt
+|   |   |   |   julu
+|   |   insidejulutwine1.jpg
+|   |   insidejulutwine2.jpg
+|   |   insidejulutwine3.jpg
+|   |   insidejulutwine4.jpg
+|   |   insidejulutwine5.jpg
+|   |   insidejulutwine6.jpg
+|   |   insidejulutwine7.jpg
+|   |   insidejulutwine8.jpg
+|   |   insidejulutwine9.jpg
+|   |   insidejulutwine_003.bmp
+|   |   insidejulutwine_005.bmp
+|   |   insidejulutwine_006.bmp
+|   |   insidejulutwine_013.bmp
+|   |   insidejulutwine_014.bmp
+|   |   insidejulutwine_015.bmp
+|   |   insidejulutwine_016.bmp
+|   |   insidejulutwine_018.bmp
+|   |   insidejulutwine_019.bmp
+|   |   julugoesgaz00.png
+|   |   julugoesgaz01.png
+|   |   julugoesgaz02.png
+|   |   julugoesgaz04.png
+|   |   julugoesgaz05.png
+|   |   julugoesgaz06.png
+|   |   julugoesgaz07.png
+|   |   julugoesgaz09.png
+|   |   julugoesgaz10.png
+|   |   julugoesgaz11.png
+|   |   julugoesgaz12.png
+|   |   julugoesgaz13.png
+|   |   julugoesgaz14.png
++---julu_twine
+|   |   julubaby.mp4
+|   |   julurising.mp4
+|   |   transjulugaz.mp4
+|   |       julubaby.mov
+|   |       julurising.mov
+|   |       juluturnsgaz.mov
+|   |       transjulugaz.mov
+|   |   julu
+|           julua
+|   |   julu.gif
+|   |   juluAPS.js
+|   |   |       julu
+|   |   julua.txt
+|   |   julu
+|   |   julua
+|   |   |   julua
+|   |   |   julua
+|   |   |   julu
+|   |   |   julua
+|   |       JULIA.BAS
+|   |       JULU
+|   |   JULIA.BAS
+|   |   |   JULIA2.JPG
+|   |   JULIA2.JPG
+|   |   |   |       !JULIANM.ERE
+|   |   |       JULIAL.WPS
+|   |   |       xJULIANM.txt
+|   |   |       !JULIANM.ERE
+|   |       JULIAL.WPS
+|   |       xJULIANM.txt
+|   |   JULIA2.JPG
+|   |   JULU.JPG
+|   |   PREGJULU.JPG
+|   |   JULU.JPG
+|   |   PREGJULU.JPG
+|   |   |       JULIAL.WPS
+|   |   |       JULU.JPG
+|   |   |       PREGJULU.JPG
+|   |   |   JULIA.BAS
+|       LEO2.JPG
+|       LEO3.JPG
+|       LEO6.JPG
+|   |   |   |   LEO2.JPG
+|   |   |   |   LEO3.JPG
+|   |   |   |   LEO5.JPG
+|   |   |   |   LEO6.JPG
+|   |   |   LEO2.JPG
+|   |   |   LEO3.JPG
+|   |   |   LEO5.JPG
+|   |   |   LEO6.JPG
+|       LEO2.JPG
+|       LEO3.JPG
+|       LEO5.JPG
+|       LEO6.JPG
+|   |   LEO2.JPG
+|   |   LEO3.JPG
+|   |   LEO5.JPG
+|   |   LEO6.JPG
+|       LEO2.JPG
+|       LEO3.JPG
+|       LEO5.JPG
+|       LEO6.JPG
+|   |   LEO2.JPG
+|   |   LEO3.JPG
+|   |   LEO5.JPG
+|   |   LEO6.JPG
+|   |   LEO2.JPG
+|   |   LEO3.JPG
+|   |   LEO5.JPG
+|   |   LEO6.JPG
+|   |   LEO2.JPG
+|   |   LEO3.JPG
+|   |   LEO5.JPG
+|   |   LEO6.JPG
+|   |   |       LEO2.JPG
+|   |   |       LEO3.JPG
+|   |   |       LEO5.JPG
+|   |   |       LEO6.JPG
+|   |       leo6.pict
+|   |   |   |   leon1.jpg
+|   |   |   |   leon3.jpg
+|   |   |   |   leon5.jpg
+|   |   |   leon1.jpg
+|   |   |   leon3.jpg
+|   |   |   leon5.jpg
+|       leon1.jpg
+|       leon3.jpg
+|       leon5.jpg
+|   |   leon1.jpg
+|   |   leon3.jpg
+|   |   leon5.jpg
+|       leon1.jpg
+|       leon3.jpg
+|       leon5.jpg
+|   |   leon1.jpg
+|   |   leon3.jpg
+|   |   leon5.jpg
+|   |   leo
+|           leo
+|           leo.txt
+|   |   leon1.jpg
+|   |   leon3.jpg
+|   |   leon5.jpg
+|   |   |       leo6.pict
+|   |   |       leon1.jpg
+|   |   |       leon3.jpg
+|   |   |       leon5.jpg
+|   |   |   leo
+|   |   |   leo.txt
+|   |   |   leo
+|   |   |   JENN.TXT
+|   |   |   JENNIFER
+|   |       JENN
+|   |   JENN
+|   |   |   |   MICKJEN1.JPG
+|   |   |   |   MICKJEN2.JPG
+|   |           JENN.TXT
+|   |           JENNIFER
+|   |   |   MICKJEN1.JPG
+|   |   |   MICKJEN2.JPG
+|   |   JEN.JPG
+|       MICKJEN1.JPG
+|       MICKJEN2.JPG
+|   |   JENN.TXT
+|   |   JENNIFER
+|   |   MICKJEN1.JPG
+|   |   MICKJEN2.JPG
+|   |   JEN.JPG
+|   |   |       JEN.JPG
+|       JENN.TXT
+|       JENNIFER
+|   |   JENN.TXT
+|   |   JENNIFER
+|   |   |   JENN
+|   |   |   |   jennifer.txt
+|   |   |   |       jennifer.htm
+|   |   |   |       jennifer.htm
+|   |   |   +---jennifer
+|   |   |       jennifer.htm
+|   |   |       jennifer.htm
+|   |   +---jennifer
+|   |   Travis.jpg
+|   |   Travis.jpg
+
+
++---distillation F:\
++---acker +---ag +---alanphoto +---alansnd2 +---alan_dojoji +---aletsch 
++---alpfles1 +---archiveoldinpart +---arena +---avi +---azurefilm 
++---Backup +---basicprograms +---bk +---cathedralpark 
++---codework_whitepaper +---connes +---course +---cray +---crepuscle 
++---cybermind +---dance +---dansuisse +---danz +---dawn +---Diskarchive 
++---etc +---evam +---everglades +---exe +---exper +---FAMILY +---filmother 
++---floppy +---foo +---foofwadvd1 +---foofwadvd2 +---foostuff +---fop 
++---genevaperform +---gert +---gps +---gridworld +---html +---images 
++---import +---incid +---incidences +---julu_twine +---kayofl +---kirajuly 
++---lacrossscan +---lulu +---mcurrent +---miami +---mill +---misc 
++---movolder +---multi +---nsfconfmodaudio +---old +---oldminidvddisk 
++---onlineimage +---panix07 +---parables +---pdf +---perth +---philosophy 
++---rehiquery +---RhodeIsland +---RI +---RIclimb +---RIcolumn 
++---RIcolumn3 +---RIfollow +---RIfollow2 +---RIleaning +---RIontherails 
++---RIparcours +---RIrubbing +---RISayles +---RIthicket +---ROUGH MIXES 
++---sampler +---SamShared +---scan +---SHOW +---soccer +---sound 
++---spoons +---store +---talk +---texts +---tmp +---trace +---trilby 
++---trip +---ud +---vel2b +---WEDDING&SONDHEIM PICS +---worknow \---wvu3
+    +---birth
+    \---incubate
+        \---downtown
+                azsha.jpg
+                DSCN0015.JPG
+                hites1.jpg
+                hites2.jpg
+                
+
+
+bodysexbody
+
+http://www.alansondheim.org/wave9.jpg
+sexed1.jpg sexed2.jpg sexed3.jpg sexed4.jpg sexed5.jpg sexed6.jpg 
+danceofsex.AVI sexed.avi sexmoving.avi sexua.avi netsex sexual.txt 
+netsex.txt antensex.gif antensex1.gif antensex2.gif antensex3.gif 
+sexbodyscan01.jpg sexbodyscan02.jpg sexbodyscan03.jpg sexbodyscan04.jpg 
+sexbodyscan05.jpg sexbodyscan06.jpg sexbodyscan07.jpg sexbodyscan08.jpg 
+sexbodyscan09.jpg sexbodyscan10.jpg sexbodyscan11.jpg sexbodyscan12.jpg 
+sexbodyscan13.jpg sexbodyscan14.jpg sexbodyscan15.jpg sexbodyscan16.jpg 
+sexbodyscan17.jpg sexbodyscan18.jpg sexbodyscan19.jpg sexbodyscan20.jpg 
+sexbodyscan21.jpg sexbodyscan22.jpg sexbodyscan23.jpg sexbodyscan24.jpg 
+sexbodyscan25.jpg sexbodyscan26.jpg sexbodyscan27.jpg sexbodyscan28.jpg 
+sexbodyscan29.jpg sexbodyscan30.jpg sexbodyscan31.jpg sexbodyscan32.jpg 
+sexbodyscan33.jpg sexbodyscan34.jpg sexbodyscan35.jpg sexbodyscan36.jpg 
+sexbodyscan37.jpg sexbodyscan38.jpg sexbodyscan39.jpg sexbodyscan40.jpg 
+sexbodyscan41.jpg sexbodyscan42.jpg sexbodyscan43.jpg sexbodyscan44.jpg 
+sexbodyscan45.jpg sexbodyscan46.jpg sexbodyscan47.jpg sexbodyscan48.jpg 
+sexbodyscan49.jpg sexbodyscan50.jpg sexbodyscan51.jpg sexbodyscan52.jpg 
+sexbodyscan53.jpg sexbodyscan54.jpg sexbodyscan55.jpg sexbodyscan56.jpg 
+sexbodyscan57.jpg sexbodyscan58.jpg sexbodyscan59.jpg sexbodyscan60.jpg 
+sexbodyscan61.jpg sex.mp4 sexandmissile.mp4 sexatar.mp4 sexdance.mp4 
+sexed.mp4 sexmoving.mp4 sexandmissiles.mov sexdance.mov sexed.mov 
+antensex1.jpg antensex2.jpg antensex3.jpg antensex3.png sextalk.txt 
+Virtual_Sex_HartandHerbst.pdf | sexed1.jpg | sexed2.jpg | sexed3.jpg | 
+sexed4.jpg | sexed5.jpg | sexed6.jpg | danceofsex.AVI | sexed.avi | 
+sexmoving.avi | sexua.avi | | | | netsex | | | | sexual.txt | | | | 
+netsex.txt | | | | sexual.txt | | antensex.gif | | antensex1.gif | | 
+antensex2.gif | | antensex3.gif | | sexbodyscan01.jpg | | 
+sexbodyscan02.jpg | | sexbodyscan03.jpg | | sexbodyscan04.jpg | | 
+sexbodyscan05.jpg | | sexbodyscan06.jpg | | sexbodyscan07.jpg | | 
+sexbodyscan08.jpg | | sexbodyscan09.jpg | | sexbodyscan10.jpg | | 
+sexbodyscan11.jpg | | sexbodyscan12.jpg | | sexbodyscan13.jpg | | 
+sexbodyscan14.jpg | | sexbodyscan15.jpg | | sexbodyscan16.jpg | | 
+sexbodyscan17.jpg | | sexbodyscan18.jpg | | sexbodyscan19.jpg | | 
+sexbodyscan20.jpg | | sexbodyscan21.jpg | | sexbodyscan22.jpg | | 
+sexbodyscan23.jpg | | sexbodyscan24.jpg | | sexbodyscan25.jpg | | 
+sexbodyscan26.jpg | | sexbodyscan27.jpg | | sexbodyscan28.jpg | | 
+sexbodyscan29.jpg | | sexbodyscan30.jpg | | sexbodyscan31.jpg | | 
+sexbodyscan32.jpg | | sexbodyscan33.jpg | | sexbodyscan34.jpg | | 
+sexbodyscan35.jpg | | sexbodyscan36.jpg | | sexbodyscan37.jpg | | 
+sexbodyscan38.jpg | | sexbodyscan39.jpg | | sexbodyscan40.jpg | | 
+sexbodyscan41.jpg | | sexbodyscan42.jpg | | sexbodyscan43.jpg | | 
+sexbodyscan44.jpg | | sexbodyscan45.jpg | | sexbodyscan46.jpg | | 
+sexbodyscan47.jpg | | sexbodyscan48.jpg | | sexbodyscan49.jpg | | 
+sexbodyscan50.jpg | | sexbodyscan51.jpg | | sexbodyscan52.jpg | | 
+sexbodyscan53.jpg | | sexbodyscan54.jpg | | sexbodyscan55.jpg | | 
+sexbodyscan56.jpg | | sexbodyscan57.jpg | | sexbodyscan58.jpg | | 
+sexbodyscan59.jpg | | sexbodyscan60.jpg | | sexbodyscan61.jpg | | 
+sexed1.jpg | | sexed2.jpg | | sexed3.jpg | | sexed4.jpg | | sexed5.jpg | | 
+sexed6.jpg | | sex.mp4 | | sexandmissile.mp4 | | sexatar.mp4 | | 
+sexdance.mp4 | | sexed.mp4 | | sexmoving.avi | | sexmoving.mp4 | | 
+sexua.avi | | sexandmissiles.mov | | sexdance.mov | | sexed.mov | | 
+sexbodyscan01.jpg | | sexbodyscan02.jpg | | sexbodyscan03.jpg | | 
+sexbodyscan04.jpg | | sexbodyscan05.jpg | | sexbodyscan06.jpg | | 
+sexbodyscan07.jpg | | sexbodyscan08.jpg | | sexbodyscan09.jpg | | 
+sexbodyscan10.jpg | | sexbodyscan11.jpg | | sexbodyscan12.jpg | | 
+sexbodyscan13.jpg | | sexbodyscan14.jpg | | sexbodyscan15.jpg | | 
+sexbodyscan16.jpg | | sexbodyscan17.jpg | | sexbodyscan18.jpg | | 
+sexbodyscan19.jpg | | sexbodyscan20.jpg | | sexbodyscan21.jpg | | 
+sexbodyscan22.jpg | | sexbodyscan23.jpg | | sexbodyscan24.jpg | | 
+sexbodyscan25.jpg | | sexbodyscan26.jpg | | sexbodyscan27.jpg | | 
+sexbodyscan28.jpg | | sexbodyscan29.jpg | | sexbodyscan30.jpg | | 
+sexbodyscan31.jpg | | sexbodyscan32.jpg | | sexbodyscan33.jpg | | 
+sexbodyscan34.jpg | | sexbodyscan35.jpg | | sexbodyscan36.jpg | | 
+sexbodyscan37.jpg | | sexbodyscan38.jpg | | sexbodyscan39.jpg | | 
+sexbodyscan40.jpg | | sexbodyscan41.jpg | | sexbodyscan42.jpg | | 
+sexbodyscan43.jpg | | sexbodyscan44.jpg | | sexbodyscan45.jpg | | 
+sexbodyscan46.jpg | | sexbodyscan47.jpg | | sexbodyscan48.jpg | | 
+sexbodyscan49.jpg | | sexbodyscan50.jpg | | sexbodyscan51.jpg | | 
+sexbodyscan52.jpg | | sexbodyscan53.jpg | | sexbodyscan54.jpg | | 
+sexbodyscan55.jpg | | sexbodyscan56.jpg | | sexbodyscan57.jpg | | 
+sexbodyscan58.jpg | | sexbodyscan59.jpg | | sexbodyscan60.jpg | | 
+sexbodyscan61.jpg | | | antensex1.gif | | | antensex1.jpg | | | 
+antensex2.gif | | | antensex2.jpg | | | antensex3.gif | | | antensex3.jpg 
+| | | antensex3.png | | antensex.gif | | sextalk.txt | | 
+Virtual_Sex_HartandHerbst.pdf
+
+
+
+dark robe in different vestments
+
+http://www.alansondheim.org/dr2.mp3 chromatic
+http://www.alansondheim.org/dr3.mp3 c minor diatonic
+
+Ah,
+
+I can't decide ...
+
+
+Ah,
+
+Confusion 
+Reigns...
+
+0a1
+
+> 
+
+3c4
+
+< or
+5 Cura
+Ukulele Cumbus
+or 7?
+Guitar (Azure
+Cura Foofwa
+Cumbus out)
+7? <
+(Azure 5
+singing, Ukulele
+Foofwa or
+out)
+Guitar
+---
+
+Classical Ukulele
+5c6
+
+4 <
+Cobza				4
+Involuntaries Cobza
+6 Involuntaries
+singing)
+(Azure
+7c8
+
+3 
+Yayli <
+Tanbur                  3
+1
+Tanbur
+9c10
+
+Electric Electric
+Oud                  Oud
+2 2
+singing))
+singing))
+11c12
+
+Hegelung                      2
+dance)
+(Azure
+13c14
+
+7 7
+Saz                  Saz
+15c16
+
+6?                              
+solo)
+5
+17d17
+
+7: Alan
+Azure Cura
+Dance, Cumbus
+Alan (w/
+(w/ <
+nude)
+7:
+
+
+distilled essence of stuff we've done foofwa d'imobilite azure carter kira 
+sedlock maud liardon alan sondheim intersection are weird
+
+parables paraa parab parac parad parae paraf parag para para. parable car 
+baal bal nikuko ball ballet etc your loft on th nude behind i'm moving her 
+side effects you coming down stairs & dancing between two us piro 
+foofwastumble dayfoof followitches and fooftwitch involdances mp etc.the 
+twitchexe twitchcraft updownwards eyebeamlate foo foob foobar fooc food 
+foof foofan foofmime choreiavatar involuntary dance in relation grutli 
+etc. grutlcomp choir dancesphere pieces for preparation incidence tremble 
+modifications tapes filibertsolo foofwavlfnude genevabirds genevabirds 
+genevevarious global globefilter ? hunnunny hunwire jet jetavi maudsolo 
+gen gena genb genc genconv gend gene gener geneva genlauf 
+maudabovavatarsilent maudaboveecho maudabovesound maudalone maudanse 
+maudatarsrilke maudavatarsgrange maudbrigcastle maudchrist maudderive 
+maudliardon maudlone maudmachine maudmediumavatar maudpringychurch 
+maudrotates mauds maudsfinal maudtrio maudx maudxx maudxxsound nommm 
+nommmm nommmmm bluesandblues what is duetavatargrange thewall dvd alpals 
+dvds alpwarmup barrage bupavatarsreh country colomn face fist grotto 
+parasite foofmaud aletsch alpstuff avatarcaress avatarcaresswhitechurch 
+avatarkiss avatarkissclose avatarscastlewindow azuredanceis azurerun 
+ballgame birdscastlescape brigdanc briglandscape brigscape` cathedralbells 
+geraldjonesdanceis castlegardenshort countrylife cowbells damscene 
+damscenery damvlf damwalk damwalking faceschurch foofwachurchchant 
+foofwachurchmumble foofwajump fofwavlfguyere foofwawaterfallavatar 
+glacialfall harmonicachurch handgestures maudcastle maudface maudfilibert 
+maudjump maudrilkechurch mauds.vi mercigrotto octopuscloth octopusnose 
+octopusnude outsideflutelaughter perform rilkecompass rilkeread roovfast 
+roofslo trishbrown virtualbumpnormalcastle virtualkissdam waterfallleaves 
+whitechurchpolka bells brig n' birds warmup alp pals alpine series 
+alpinehell merci photoalp airgenev g cath flute geneve geneveb genevec 
+lastnight rilke rilketongue alanazureii alandanceis aletschvlf 
+aletschvlfmod crepuscule beneath above andnow avadance boojum buffy 
+curasaz ennui ev evam hd closeup first poses lying ontopofalan sitting 
+evamec evamsl eyebeam eyebeamlast eyebeamslspace falling fallingec 
+foofwamimeetc fooo foood helda hell day bits by leslie heloh icarus mama 
+mamam mime interview nub origin prep moments shaman skipe slonnui slorgasm 
+statt tantan tantantan.iso tantantan trialpal tripal unit untitled.ppj 
+yonilingam yonilingaml .mts eyebeam.iso ip vamm \friday bluecarter 
+foofwandday cafeteria d stills dorsey large scanner laserdance kiraavatar 
+kirasdance foostuff sttake firsttape secondtape tester \foofwakira fookir 
+lacrosse p secliv rms moc mocap mocapdance foofan.mtl foofwad.cgp 
+foofwad.dxf foofwad.mtl foofwad foofwady.cgp foofwady.mtl foofwady foog 
+fooh life installation works maenad general noone sl performances with 
+live west virginia interrupt climb follow column rhodeisland riasperform 
+ri back head bridge descent platformdance slitdance building foot gap 
+forsavatar parcours deux un ununun rollades sayles thecave 
+torsavatar+azure riclimb ricolumn rifollow rileaning riontherails 
+riparcours rirubbing risayles rithicket riperform riportrait ricave 
+performance performhome perf roof blenderworks blockhead bopand bopfand 
+bopavi foofwaprone foofwaroofdance foofwashadow foofwatwilightroof 
+foofwatwilight mawd all bvhs over maudimit.bvh foofwadvd foofwaandme 
+foofwan foofzing fooof cathedral park kira/azure after left
+
+
+Nitro
+
+I am a shaman without redemption or belief.
+I am pummeled fingers and blue electric hair.
+My hair wraps your eyes when they leave your body.
+My hair of cobalt on leashes of zinc and tin.
+I have done enough to bury my body in text.
+My body of text is my body of noise and hair.
+
+http://www.alansondheim.org/nfgp1.mp3
+http://www.alansondheim.org/nfgp2.mp3
+http://www.alansondheim.org/nfgp3.mp3
+http://www.alansondheim.org/nfgp4.mp3
+niagara falls grand prix 1988
+
+
+2 lullabies 
+
+lullabies with babies breaking branches
+yet surprisingly surviving all the fall
+and wondering at the pondering of number
+skittered song across the floor of 
+regulated number, strict upon haunches,
+close to the wall, yet thriving,
+creaking stanchions, nothing more than
+may-bees, so many wrong, loss, deriving,
+set, quaking, peeking, long
+
+http://www.alansondheim.org/lulla1.mp3
+http://www.alansondheim.org/lulla2.mp3
+
+
+
+THE SUBJUNCTIVE AS FUNDAMENTAL CHARACTERISTIC OF EXISTENCE
+
+yet
+there
+might
+be
+something
+most
+likely
+to
+be
+said
+about
+death
+in
+these
+circumstances
+8	echo yet > zz
+9	echo there >> zz
+10	echo might >> zz
+11	echo be >> zz
+12	echo something >> zz
+13	echo most >> zz
+14	echo likely >> zz
+15	echo to >> zz
+16	echo be >> zz
+17	echo said >> zz
+18	echo about >> zz
+19	echo death >> zz
+20	echo in >> zz
+21	echo these >> zz
+22	echo circumstances >> zz
+23	h >> zz
+20	echo in >> zz
+21	echo these >> zz
+22	echo circumstances >> zz
+23	h >> zz
+24	m
+25	pico zz
+26	h
+27	is this all there is?
+28	is there nothing more?
+29	is annihilation absolute?
+30	is the database destroyed?
+31	is viral slaughter cause and effect?
+32	is there 
+33	is speech a means?
+34	is speech already subjunctive?
+35	is organism already subjunctive?
+might
+one
+say
+Being
+is
+fundamentally
+subjunctive
+,
+that
+the
+subjunctive
+is
+fundamentally
+Being
+as
+well
+37	echo might >> zz
+38	echo one >> zz
+39	echo say >> zz
+40	echo Being >> zz
+41	echo is >> zz
+42	echo fundamentally >> zz
+43	echo subjunctive >> zz
+44	echo , >> zz
+45	echo that >> zz
+46	echo the >> zz
+47	echo subjunctive >> zz
+48	echo is >> zz
+49	echo fundamentally >> zz
+50	echo Being >> zz
+51	echo as >> zz
+52	echo well >> zz
+and
+fundamentally
+Being
+and
+being
+in
+this
+regard
+are
+equivalent
+as
+well
+a
+51	echo as >> zz
+52	echo well >> zz
+53	h >> zz
+54	echo and >> zz
+55	echo fundamentally >> zz
+56	echo Being >> zz
+57	echo and >> zz
+58	echo being >> zz
+59	echo in >> zz
+60	echo this >> zz
+61	echo regard >> zz
+62	echo are >> zz
+63	echo equivalent >> zz
+64	echo as >> zz
+65	echo well >> zz
+66	echo ? >> zz

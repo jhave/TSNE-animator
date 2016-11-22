@@ -1,0 +1,115 @@
+=
+
+pr.txt
+
+
+
+Writing habits
+
+
+When I write, sooner or later the piece seems finished to me; it then is 
+placed at the end of an ongoing 'collection' file that is placed on 
+http://www.alansondheim.org ; the most recent is 'pr.txt.' I work on 
+additions to these collections until they total anywhere from 80k - 100k, 
+at which point the next in the series is started. I began with Net0.TXT, 
+Net1.TXT, etc., for about 10; then there were several named files. 
+Finally, the alphabet was used. The result is an irregular marking system 
+which has settled down in an orderly fashion for the past 100 or so 
+collections; 'pr.txt' follows 'pq.txt' and will precede 'ps.txt.' There 
+can be between 20 and 80 individual pieces in one of these collections.
+
+The individual segments generally follow whatever line of inquiry I'm 
+working on at the moment, with numerous exceptions. At one point I spoke 
+of 'long waves' and 'short waves' to indicate thematic movement through 
+the mass of collections. A long wave might be Nikuko or defuge; a short 
+wave might be a particular Access Grid resonance configuration which is 
+exploited for a while.
+
+These texts are heavily edited and spell-checked with ispell; unfortuna- 
+tely, errors inevitably creep in. In my last text, I wrote 'my' instead of 
+'may,' 'scholar' instead of 'scholarship,' and had a misplaced dash, the 
+result of re-justifying after some corrections. I hope these errors aren't 
+misleading, but are understood only as slips of the tongue leading nowhere
+at all. They're not caught by ispell, and they're not caught by me.
+
+I try to keep the average individual piece length to 43 lines, although it 
+may range from 10 to 300 or so. I send these out once a day at least; this 
+is my compulsion, and if I don't feel I've completed work for the day - 
+and completed work at that - I find myself, like now, unable to sleep, 
+cursing myself for being human so to speak.
+
+The compulsion has to be be coupled with necessity, the 'natural' contin- 
+uation of a series. I attempt to balance practical/production works with 
+theoretical ones; sometimes the two accompany each other, and sometimes 
+they're simply contiguous, as with the recent series of butterflies mating 
+which I found fascinating; I hadn't seen this particular ritual before.
+
+The texts are almost always written, as this one is, online at panix.com 
+in the Pico editor in a shell account; the font is mono-spaced courier. 
+There's a sense of urgency for me in this accountancy which is maintained 
+only by a live connection; as I've written before, I recognize the server 
+load and panix community which is almost always present in the background 
+and accessed through the 'w' or 'who' or various other commands.
+
+Once written, the file is sent from my home directory to my Pine email, as 
+well as added to the current large text file. The file is almost always 
+named 'zz' which places it at the end of a sorting; sometimes it's moved 
+to 'ww' if I'm afraid it will be accidentally erased. If I'm processing 
+the file, I move between 'zz' and 'yy.' If I'm working in the midst of a 
+long file, I use 'zzzzz' for a bookmark. When the file is completed, I do 
+an edit, an ispell, and a 'wc' word/line/character count before it's sent 
+out through Pine.
+
+The style varies from one text to another; one major characteristic is the 
+presence or absence of capital letters. If the text is to be 'breathed' as 
+if spoken with the words run together, or presented as flow or emission 
+itself, I'll use small letters only. If the text is traditional or 
+genre-oriented, capitals are employed, as they are in a number of common 
+poetic forms. Sections of the text may be energized by capitals as well. 
+All of this seems inconsistent, aggravated by no common rule for quotation 
+marks (single or double).
+
+If the text is generated with the Google wsdl etc., I'll usually remove 
+numbers in order to create an effect of 'orality' to the finished result. 
+I'll check for upper ascii characters with the more command, take them out 
+with the 'strings' command. I may eliminate punctuation, etc.; for all of 
+this, I use 'sed' in various forms as well as 'tr.' At times I may begin a 
+text by culling from the internet text as a whole; the command I generally 
+use is 'grep -h X *.txt' which produces a file without giving the file 
+source of the individual lines. Most of the time, if I'm modifying a text 
+in this way, I'll use various perl programs, scripts, etc. in combination, 
+working to 'shape' the text to my satisfaction.
+
+I'm not interested in writing a generated text that appears meaningless; 
+I'll shape it until it 'tends towards' I want, or the meaning I might find 
+hidden within it. This is of course a dialectical process and aesthetic 
+choice; for me the justification of a text lies, not in the conceptual 
+apparatus that produced it, but in the complex resonances between the text 
+and its reading, and the confluent generatings of meaning that occur in 
+the process.
+
+Periodically, collections like 'pr.txt' are uploaded to my webpage, which 
+is of course nothing more than a directory; one can read the most recent 
+collection, complete or incomplete, in conjunction with the image, sound, 
+or video files that are referenced within it. The collection is also a 
+guide to them. After a while, these files may be removed to make room for 
+others; there are, however, 'core' files which remain in place because 
+they seem to me to have particular significance over a longer period of 
+time. Sometimes a reader will write to me, asking for a file that has been 
+taken down; I generally put it back up for one or two days, then take it 
+down again.
+
+This is the process that's carried out, day in and day out. (I think I 
+once went for 6 days without producing anything - in 15 years.)  suffer 
+from depression, poor eyesight getting poorer, minor 'twitches' in my left 
+frontal lobe, and severe insomnia; it's the last that governs when I write 
+and perhaps how I go about it. I write at all hours of the day or night; I 
+need to have a complete and final thought that could always be a conclu- 
+sion if I should happen to die at the time; death in fact haunts the text 
+at one end, and sex on the other, with the struggling of the inscribed 
+body in their midst. I want every text to resonate with every other, every 
+text to carry a totality whispered among all of them. If I don't achieve 
+this, what I produce feels more like an 'instance' or 'advertisement,' 
+something on a path which is yet incomplete - and my nightmares turn 
+furious...
+

@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+Metamorphosis
+
+
+
+
+
+The neuron was added at random; I had no idea where to place it in 
+
+relation to a network I didn't understand, and which was not mapped out 
+
+anywhere in the program I was given. Only the addition was possible, and 
+
+I found myself setting capacitance, membrane potential, and the like, 
+
+more or less by chance. I'd return to the creature on the screen, a 
+
+cockroach which had the ability to navigate a closed environment, a roach 
+
+governed by a limited amount of energy, and a food drive when that energy 
+
+ran low. It possessed six legs, antennae, and the ability to move through 
+
+the space, somewhat clumsily. I do not know whether it had the ability to 
+
+learn, but the movements were sophisticated.
+
+
+
+My first try resulted in the stretching of one of the legs, never to the 
+
+breaking point, since that wasn't built into the program; the leg would 
+
+then return quickly to the insect. It hobbled across the screen, banging 
+
+up against the corner, turning backwards and forwards as its antennae 
+
+gave alternating readings of the situation. There wasn't any way in or 
+
+out, and the banging continued, hopelessly I thought, until the energy 
+
+ran out, the creature ground to a halt, the program read RIP.
+
+
+
+My second try resulted in program crashes, one after another; the insect 
+
+never knew about them, never was cognizant of the flickering of the 
+
+environment, life itself, in and out of existence. It was there, always 
+
+looking normal, the same, turned in one or another direction, waiting for 
+
+the return-key in order for it to progress towards some new goal, that of 
+
+merely staying alive overriding everything else.
+
+
+
+And my third try, the last, before the final crash, resulted in legs
+
+undercutting legs, legs on top of legs, a real hobble, what appeared to be
+
+crippled behavior straight out of Charles Dickens. I couldn't watch it for
+
+long on the screen; the schematic roach began to be a source of projec-
+
+tion, not of fantasy, but of my own body, and the body of every living
+
+creature; it was losing its somewhat symmetrical exterior as the legs
+
+splayed almost painfully against one another. The vision was one of
+
+empathy and horror; I had created the insect, wounded and dysfunctional,
+
+and I wondered if this were always the case, the source of Frankenstein
+
+and other golem _formations._ (Is this the sense of tampering with the 
+
+"natural," sublimating childbirth, playing Faust? Are we always already 
+
+damaging ourselves as biochemistry and programming simultaneously devour 
+
+our boides?)
+
+
+
+The computer refused to save the new neuron and its settings; they over-
+
+flowed memory when the program was rebooted, overflowed again and again. 
+
+As if the program refused to create the insect in its wounded state, at
+
+least _that_ wounded, incapable of surviving, even alone with an
+
+indefinitely large food supply. 
+
+
+
+I learned a great deal from this, subject and object of my own experiment
+
+and victim of a pursuit that could only turn back reflexively, as a Klein
+
+bottle, without extrance or exit. Pain always resides in the other, iso-
+
+lating the body, cauterizing it, dividing it from itself; a wounded body
+
+is a piecemeal body. Objects float before and beyond the senses, general-
+
+izing the phenomenological horizon to include extruded body-parts. As
+
+Rimbaud said, I am an other. The roach couldn't _account_ for anything,
+
+learned nothing. I envied Kafka. 
+
+
+
+		And all men kill the thing they love,
+
+		 By all let this be heard,
+
+		Some do it with a bitter look,
+
+		 Some with a flattering word,
+
+		The coward does it with a kiss,
+
+		 The brave man with a sword!
+
+
+
+			( from Oscar Wilde, The Ballad of Reading Gaol )
+
+
+

@@ -1,0 +1,92 @@
+
+
+
+
+
+
+Working the Mines of Cyberspace
+
+
+
+
+
+@dig.@dirt.@pile-up.@thick.@shovel.@break
+
+@create.@newshovel.@describe
+
+@give newshovel #7811
+
+@lock #7811
+
+look! #7811!
+
+emote wow rofl-lol!
+
+Solzhenitsyn wow rofl-lol!
+
+@emote wow rofl-lol!
+
+I don't understand. Try help emote.
+
+@describe shovel
+
+a beautiful golden shovel with ebony handle, made from the bones <cr>
+
+of wizards, held in the fortress of Miramar for what seemed to be <cr>
+
+ages, and many thousands who have owned this have died. <cr> <.>
+
+@dig.@alt.@noun.adjective.verb.verb.verb.
+
+say Wow this is hard work!
+
+You exclaim "Wow this is hard work!"
+
+A grotty breeze brings Marx-shadow swirling around you with a huge hug.
+
+say get your grots off me, Marx-shadow!
+
+You exclaim "get your grots off me, Marx-shadow!"
+
+look Marx-shadow
+
+A man carrying some sort of Manifesto about stuff. He's wearing red
+
+and black.
+
+read Manifesto
+
+I don't understand. Try @read.
+
+@read Manifesto
+
+Marx-shadow says would you like a drink.
+
+Bring Beer-stiff.
+
+Marx-shadow says just a moment can't you see I'm busy.
+
+"When in the course of human events you need class-consciousness 
+
+to determine the degree of labor inherent in the musculature of finger-
+
+activity, given even the enormous number of macros permitted in DOS
+
+batch files or Korn-shell aliases"
+
+Control-C
+
+@more flush
+
+2120 lines omitted.
+
+@dig "Enormous Skyscraper Two-Hundred Stories Tall"
+
+#7811 is "Enormous Skyscraper Two-Hundred stories Tall"
+
+Marx-shadow brings you Beer-stiff.
+
+
+
+
+

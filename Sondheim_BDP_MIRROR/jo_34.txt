@@ -1,0 +1,46 @@
+
+
+   MESSAGE TEXT Folder: INBOX Message 1 of 1 ALL Received: (from
+sondheim@localhost) by panix3.panix.com (8.8.5/8.7/PanixU1.3)
+
+id AAA06313 for sondheim; Tue, 4 Mar 1997 00:52:11 -0500 (EST)
+Date: Tue, 4 Mar 1997 00:52:11 -0500 (EST)
+From: Alan Sondheim <sondheim@panix.com>
+Message-Id: <199703040552.AAA06313@panix3.panix.com>
+Subject: sondheim@panix3.panix.com sent you secret mail
+Your secret mail can be read on host panix3.panix.com using ``xget''.
+-- Closed folder "INBOX". Kept single message.
+{k:6} xget
+Key: 
+
+T@M5_02u@$zh7,dWDnAY+aQ%Pfx#''tI.fzh>$IOL]7$& 
+(-{6-Vuzm;r$7[$/=nYPD8`bJ$[h2/]YTGQL~fAd'V("a}D! 
+95tenka!+AVscS>AyOpZ$kbcYIF#naJF+a`4o#<XMX_/[`vp
+,w/;#&>&tv6"V_\c9/{6-Vu2=|nv+!N,iFP[QB>*U"e@rs1GcsK~D1$g-mBd<#:qk
+/HxvbXAh,?jHSm]J\AB50,Vzg/n7ZX2*~y&<n=@tpYr 
+04%)ivH$-4U(++qAz94>`cbiVqK-cH5<=O{p? 
+
+Commands are:
+qquit, leaving unread messages
+ndelete current message and goto next
+dsame as above
+\nsame as above
+!execute shell command
+ssave message in the named file or mbox
+wsame as above
+?prints this list
+? q
+
+{k:7} xget
+Key: 
+From sondheim Tue Mar  4 00:50:46 1997
+I love you Jennifer! I think that I own your cunt! You own the hole
+that is me! You splay my legs, reach in for my poor milk! I am undone!
+I dream of your labia at night. I think you're taking over me. If any-
+one reads this message, they will know the truth. All my love, Alan,
+verging on psychosis, desperate to separate from herself.
+  ? s
+{k:8} b
+You have no new mail.
+
+

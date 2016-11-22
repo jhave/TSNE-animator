@@ -1,0 +1,47 @@
+
+
+
+<HTML>
+<HEAD><TITLE>readme</TITLE>
+<SCRIPT LANGUAGE="Javascript">
+<!--
+var aa = "I was born Jennifer and I will die Jennifer" +  
+"    I was born Jennifer and I will die Jennifer" + 
+"    Blink the bones!     Blink the bones!    "
+var timer_tap
+function dis()
+{
+document.uu.elements[0].value = aa
+aa = aa.substring(1, aa.length) + aa.substring(0,1)
+timer_tap = setTimeout("dis()", 100)
+}
+// -->
+</SCRIPT></HEAD>
+<BODY onLoad = "dis(), diss()" BGCOLOR="#220000"><BR><BR><BR>
+<CENTER><BR><BR><BR>
+<FORM NAME = "uu">
+<INPUT TYPE = "text" NAME = "textBox" VALUE = "   " SIZE = 22>
+</FORM>
+<SCRIPT LANGUAGE="Javascript">
+<!--
+var bb = "I was born Alan and I will die Alan" + 
+"     I was born Alan and I will die Alan    I was born Jennifer" + 
+"     Wink the moans!     Wink the moans!     "
+var timer_tap
+function diss()
+{
+document.vv.elements[0].value = bb
+bb = bb.substring(1, bb.length) + bb.substring(0,1)
+timer_tap = setTimeout("diss()", 50)
+}
+// -->
+</SCRIPT>
+<BR><BR><BR><BR><BR><BR>
+<FORM NAME = "vv">
+<INPUT TYPE = "text" NAME = "textBox" VALUE = "   " SIZE = 18>
+</FORM>
+</CENTER>
+</BODY>
+</HTML>
+
+

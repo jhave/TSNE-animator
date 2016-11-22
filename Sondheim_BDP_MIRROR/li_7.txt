@@ -1,0 +1,77 @@
+
+
+
+The Confusion of Writing in an Unknown Tongue
+
+writing in the strange system of your future.finding other ways to commun-
+icate with you.for who am you, that i would listen to me in this fashioni
+do not know. you do not communicate oh! so very fine!wo we sill CONTINUE
+in this fashion, no?or to be the truth, what would have happened here...
+alas - it is the wao of this or any other world...or any other worlds - i
+comprehend your meaning, OK?to be sure, I am quit of this...Tue Feb 22 in
+19:28:10 EST of the Year 2100
+
+for the character set has shift to UPPER ASCII and i do not know what i
+write alas, but to be sure, that this blindness boarders on reason...
+
+Now we begin Miracle World-Text: This has come to be: In all Truth:
+Through the Assignation of Difficulties:
+
+lan 560 lan 580 lan 600 lan 620 lan 640 lan 660 lan 680 lan 700 lan 720
+lan 740 lan 760 KCha s t: W ng ha s t! C l ty 6 s g /al ha C l ty 6 s g
+/al ha wa t ng f X s v t shut wn {k:123}h w a aga n... ash: h :  mman n t
+f un {k:124}ls D skt / azu * . l* julu* n wju* nsma l/ a/ . l * k at * n
+k50.j g j t* a t a * j nn* m n m.l g n k51.j g t a / {k:125}
+
+
+______
+
+
+Destroy, It Said: The Grave
+
+
+<dead_grave> <i>                        : "\354"        igrave
+<dead_acute> <i>                        : "\355"        iacute
+<dead_circumflex> <i>                   : "\356"        icircumflex
+<dead_diaeresis> <i>                    : "\357"        idiaeresis
+<dead_tilde> <N>                        : "\321"        Ntilde
+<dead_tilde> <n>                        : "\361"        ntilde
+<dead_grave> <O>                        : "\322"        Ograve
+<dead_acute> <O>                        : "\323"        Oacute
+<dead_circumflex> <O>                   : "\324"        Ocircumflex
+<dead_tilde> <O>                        : "\325"        Otilde
+<dead_diaeresis> <O>                    : "\326"        Odiaeresis
+<dead_grave> <o>                        : "\362"        ograve
+<dead_acute> <o>                        : "\363"        oacute
+<dead_circumflex> <o>                   : "\364"        ocircumflex
+<dead_tilde> <o>                        : "\365"        otilde
+<dead_diaeresis> <o>                    : "\366"        odiaeresis
+<dead_grave> <U>                        : "\331"        Ugrave
+<dead_acute> <U>                        : "\332"        Uacute
+<dead_circumflex> <U>                   : "\333"        Ucircumflex
+<dead_doubleacute> <U>                  : "\334"        Udiaeresis
+<dead_diaeresis> <U>                    : "\334"        Udiaeresis
+<dead_grave> <u>                        : "\371"        ugrave
+<dead_acute> <u>                        : "\372"        uacute
+<dead_circumflex> <u>                   : "\373"        ucircumflex
+
+method ItemListing destructor {} {
+    if $slot(mainwindow) {
+        destroy .
+    } else {
+        destroy .$self
+    }
+}
+ create-hook alarm-fire
+ malloc: top chunk is corrupt
+ free(): invalid pointer %p!
+  realloc(): invalid pointer %p!
+ memory is consistent, library is buggy
+                         memory clobbered before allocated block
+                        memory clobbered past end of allocated block
+ block freed twice
+ memory exhausted
+ dead_grave it said
+
+
+

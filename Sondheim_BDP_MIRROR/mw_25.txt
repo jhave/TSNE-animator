@@ -1,0 +1,72 @@
+
+
+
+anti-war
+
+
+From: Alan  [ Wednesday 5th March 2003 at 10:50pm ]
+this is the anti-war room. sink or swim
+
+From: Alan  [ Wednesday 5th March 2003 at 10:55pm ]
+i can't read this
+
+Thread 0 0 Crashed: Crashed: 
+Wed #0 0x8fe01280 in
+halt#0
+#1 
+0x8fe106b4 
+link_in_need_modules#1
+#2 
+0x8fe102d0 
+bind_lazy_symbol_reference#2
+#3 
+0x8fe00ec0 
+stub_binding_helper_interface#3
+#4 
+0x0000d930 
+0xd930#4
+#5 
+0x00013c70 
+0x13c70#5
+#6 
+0x0001386c 
+0x1386c#6
+#7 
+0x000021e0 
+0x21e0#7
+#8 
+0x00002064 
+0x2064#8
+#9 storm
+0x00001ea4 is
+0x1ea4 into
+right New
+now York
+a and
+big 
+storm #9
+is 0x00001ea4
+coming in
+into 0x1ea4
+New right
+York
+now
+anda
+beginning we're
+of waiting
+here
+fury fury
+storm storm
+bombs
+here here
+no one one
+is 
+safe
+everything 
+crashing everything
+this crashing
+anti-war this
+room
+anti-war
+
+

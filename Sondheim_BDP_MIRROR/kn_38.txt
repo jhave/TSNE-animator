@@ -1,0 +1,57 @@
+
+
+
+
+Breakdown
+
+
+{k:16} last sondheim > online; head online
+sondheim  ttypc    sondheim.dialup. Wed Sep 16 00:09   still logged in
+sondheim  ttyp6    ts3.nyc.access.n Tue Sep 15 21:37 - 22:30  (00:52)
+sondheim  ttyr1    sondheim.dialup. Tue Sep 15 20:14 - 20:14  (00:00)
+
+The above lists my connections from around 8:14 earlier this evening, 
+until now this morning (around 12:53). Note I am listed as on from 12:09.
+
+But this isn't the case. The connection suddenly gave out; the telnet
+should have died at that point. When I reconnected (to my permanent IP
+address), the telnet was still open.
+
+In other words, I was on and off, and while I was off, the telnet process
+remained active. It shouldn't have. There was more than enough time for
+it to be killed. I was off for a full minute, trying to figure out what
+had happened; this was around 12:45 am.
+
+So when I came back on, I didn't have to log in at the telnet; it was
+running. I logged in to the IP, my telnet application was open, and I was
+back into my account.
+
+The problem is, this way, telnet might have provided a gateway for someone
+else into my account. See, you used to be able to flood an ISP, then when
+people just cut the connection without logging out (which is what happened
+with me), other people could jam into the open connections. The flooding
+was necessary to slow everything up - people got irritated, just closed
+down the computers without shutting down the processes. Dangerous to do. 
+
+Here's a reverse instance - years ago I was bounced off in a somewhat
+similar fashion; when I came back on - it was through dialup and I found
+myself online without being asked for a login name or password - I was in
+someone else's account. I did ytalk from that account. I could have caused
+a lot of trouble. I could have read his mail. I was literally in someone
+else's shell. I was that someone. To all extents and purposes.
+
+I was not an avatar. I did not constitute the other; I was in fact con-
+stituted by the other, speaking as other. I found myself in a chat under
+someone else's name. It was immediate. The chat was "about" Ann Rand. I
+found I had just said something about a screwdriver. After a few minutes I
+logged off.
+
+Now tonight I come in under my own name; however, after coming in as oth-
+er, returning as myself, or my constituted self, without the customary
+telent login and password, has an equal degree of the uncanny about it.
+Who do I trust here, when I can no longer figure my own entrances and
+exits? Who is writing this?
+
+- Jennifer
+
+

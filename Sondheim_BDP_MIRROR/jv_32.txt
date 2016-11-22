@@ -1,0 +1,37 @@
+
+
+
+Net Defensive
+
+
+What happens when a community dissolves as a result of a sudden collapse
+of a hard-drive? When there is a slow collapse as an ISP goes under? When
+there is a splitting of an email list as a result of oppressive conditions
+or list mismanagement? When someone is @toaded on a MOO or MUD and leaves,
+taking others with her/him? When governance changes critical rules on a
+MOO or MUD, and a group of participants leaves? 
+
+In all of these situations, a group is dissolved or splits. What sorts of
+defensive measure may be taken against these? For example, back-up hard-
+drives allow the continuance of applications; this is also the reason for 
+database checkpointing on MOOs. Groups split from email lists (Future Cul-
+ture and Fop-l) form others, often closed; Webpages are mirrored; IRC has
+op games; and all these forms, including email lists and email software,
+have various forms of defensive filtering.
+
+What are the psychoanalytics of these defensive mechanisms? What are the
+originary traumas? How does identity prepare for split, broken communica-
+tion, diasphora? How does aura construct application bypass?
+
+Is there a basic trauma associated with computer access and its relation
+to subjectivity vis-a-vis email for example? What is the _I_ that con-
+structs _its_ first post: "I've been meaning to write you"? What is the
+difference between the insertion-into-language, the I-shifter, in stasis,
+and the _I_ which inscribes itself through email, trembling in a state of
+trepidation? What of the _I_ returned as error, the _I_ cut off with full
+mailbox, too many hops, no such user?
+
+In other words, how do fragility and origin play themselves out in cyber-
+space, and what forms of defensiveness become incorporated into the nexus? 
+
+

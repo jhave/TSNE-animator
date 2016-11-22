@@ -1,0 +1,676 @@
+==
+
+Wittgenstein: "(He must, so to speak, throw away the ladder after he has 
+climbed up it.)" - Tractatus Logico-Philosophicus, Pears & McGuinness 
+translation. But what if the rungs are spaced irregularly? What if there 
+is nothing at the top but gaming?
+
+Codework is simultaneously fashionable and eternal. Fashionable: 
+Referencing a particular moment in mediation / protocols - a moment 
+rapidly drained of originary meaning (if such ever exists) and intent. And 
+eternal: Since very file is equivalent to each of its copies, it survives 
+as a form of fragile or tenuous structure.
+
+(Fashionable also in terms of critical discourse, discourse networks, a 
+style which is already superseded. And eternal, in the sense that the 
+issues that arise are always present, in whatever form writing / video / 
+sound takes - the issues of protocols, programs, receptions, delivery 
+channels and vehicles, technologies, economics, labor.)
+
+Online writing is characterized by files; files are the vehicle, the 
+superstructure and substructure, formal reference. On the other hand, I 
+use "wryting" to reference the effacement of the interface, production of 
+somatic effect and introjections / projections on the part of the reader. 
+In other words, if there is writing of / on the body, there is also 
+wryting the body, for example the (always) broken texts of pornography.
+
+(Wryting is the result of the abstract and technological nature of online 
+/ new media work. One tries to imagine, through the text, the body of the 
+other; net sex is full of this. As bandwidth increases, radio turns to 
+television; the body is now presented, optical, replete, on devices 
+ranging from cellphones to caves (three-dimensional virtual-reality 
+environments). Primitive teledildonics mediates sexual touch. Note that 
+these environments, in fact even video cellphones, are the domain of the 
+privileged; there are access codes as well. Whole economies are involved.)
+
+I am characterizing nothing. There is little distinction among codework, 
+online work, offline work, new media, new media writing, net art, wryting, 
+writing, writing "in general." Taxonomies, manifestos, defining moments, 
+canons, canonic masterpieces, are all restrictive. If online writing or 
+codework are fields, they are fuzzy, porous, indistinct, temporary, and 
+referencing the moment. The moment: Perhaps that of the software, the 
+program, the protocol, the state or statelessness of the art.
+
+Some styles? I hesitate; I'm ignorant, I don't keep up, no one keeps up. 
+But consider the following as a beginning; continue on your own:
+
+* Hypertext: Texts with links that may be controlled by the reader and / 
+or the author. Internal links: the text is closed. External links: the 
+text is open. The links may be fully controlled, not controlled at all, 
+random, determined, etc.
+
+* Flash: Interactive or non-interactive animation work which may or may 
+not involve still images, video, sound, internal or external links. Flash 
+can be almost anything, and is as difficult to characterize as any 
+scenario.
+
+* Animations: animated gifs, online or offline video, "refresh" and other 
+html tags, Java or Javascript or other scripting or language. Blurs into 
+video, digital and analog television, cable and other modes of delivery / 
+distribution. Flash is also used heavily for animations. Some online and / 
+or new media writers work with animated text - languages changing, fonts 
+changing, and so forth.
+
+* Blogs, Wikis, etc.: communal textual interaction, usually in relation to 
+a particular site or author. Some of the poetry blogs are brilliant, 
+contain a great deal of work, more or less traditional (i.e. in the sense 
+of not necessarily requiring an online framework). If a sonnet is online, 
+is it online writing? Wryting? Again, the questions are forever, the 
+taxonomies weak.
+
+* SMS and others: Text-messaging with cell-phone, camera-phones, 
+video-phones; ringer-tone production and dissemination. Ringer-tones now 
+out sell music cds in some parts of the world. What kinds of signals are 
+these? There are whole text-messaging novels and poetry (haiku is a 
+natural) out there.
+
+* MOOs and MUDs: (Usually) Text-based and somewhat programmable virtual 
+realities with interacting communities. Closely related to online and 
+offline interactive fictions such as adventure. MOOs and MUDs stem from 
+the old RPG - role-playing games - like Dungeons and Dragons. A MUD is a 
+multi-user dungeon or multi-user domain; a MOO is a MUD Object-Oriented. 
+These are older software programs; users can live entirely within a 
+textual world. Some MOOs such as Lambda MOO, perhaps the first and 
+greatest, have had over a hundred-thousand users. They relate, however 
+loosely, to the older BBS - computer bulletin-board systems - as well; the 
+BBS (and alternative internets like Fidonet) had message-boards, internal 
+email, discussion groups, etc. Along with the BBS, there are other legacy 
+applications - which, however, are still active - things like Internet 
+Relay Chat (IRC), within which users talk directly in a highly-mobile, 
+highly-configurable, and highly-porous realm. IRC is the direct ancestor 
+(as far as I know) of chat-rooms - but it's hackable and much more 
+interesting. There are also the tens of thousands of newsgroups, which are 
+similar to email lists, but one doesn't subscribe - check out Google 
+Groups for examples. Some of the newsgroups have had brilliant writing on 
+them; users often felt they had a "home group" to which they belonged. I 
+remember groups such as alt.dirty-whores, alt.angst, alt.soc.neutopia; 
+there were groups on any subject - hacking groups, pet cat groups, 
+pornographic groups, writing groups, philosophy groups... Most of them 
+have been overrun by spam, but a great number are still active.
+
+* Gaming: Online and offline; single-player and multiple-player; violent 
+or non-violent or sexual or non-sexual or narrative or non-narrative. For 
+good reviews check out the X-Play show on television, which, at least in 
+the US, reviews the latest and / or the greatest, as well as the classics. 
+Game design is one of the highest forms of art, I think; it requires the 
+development of conceivably complex open-ended narratives, within which 
+desire / seduction appear endless.
+
+* Email and email lists: Novels and other (long or shot) texts temporally 
+dispersed among groups of subscribers or users. Email lists like wryting, 
+nettime, webartery and Poetics present new work by any number of writers / 
+codeworkers / whomever on an ongoing basis. The subscriber list can range 
+from a few to tens of thousands. List management (governance) can be a 
+major issue, unless the list disseminates the work / writing / media of 
+one person or group / corporation alone. Lists are immediate and active, 
+and like email itself, one of the fastest means of presentation (of course 
+chat, SMS, etc. is much faster - real-time, immediate, in fact). Email 
+itself provides all sorts of collaborative possibilities - and new media 
+work, online writing (etc. etc. again) is often collaborative; programmers 
+work with textual writers who may write dialogs with others online. Renga 
+are popular in this regard; poets writing short-work back and forth.
+
+* Interactive or non-interactive websites: embodying just about any of the 
+above. At this point, I cannot imagine a typology of websites. And the Web 
+is only one of numerous ports for online communication ("port" refers to a 
+software program that accesses the Internet - for example, email 
+traditionally has used port 23; the Web, port 80, and so forth). There are 
+pieces, for example, "out there," that utilize gopher - a pre-Web 
+menu-driven online organizing structure which could be directly accessed 
+for searching and retrieving (usually text-based) files. (Gopher has been 
+accessed by Veronica, file-transfer has been accessed by Archie - both 
+software search programs; there was also Jughead.) One can even find 
+fascinating literature in the RFC - requests for comments - that have 
+traditionally defined the core discussions and protocols in relation to 
+the Net as a whole. Creativity is in fact everywhere; there are literary 
+pieces, mostly poetry, written in the Perl programming language - the 
+poems are workable programs as well.
+
+And codework? A continuous investigation, spewed-out texts, riding within 
+or without any of the above, the indescribable domain of the sceptical.
+
+How will language change, i.e. in relation to digital media? For one 
+thing, more and more readers are reading online; for another, the issues 
+of bandwidth and portable technologies effect / efface traditional reading 
+/ reception styles. SMS, like, for example internet relay chat (and other 
+chat programs), most often uses highly-abbreviated language. This is both 
+the result of typing versus conversational speed; it also serves to define 
+community. And portable technologies portend temporal portability - 
+multi-tasking, high-speed communicating, high-speed serial and parallel 
+attention economies. The aphoristic increasingly dominates as the "master 
+narratives" and canons of the humanities (philosophy, anthropology, 
+theology, for examples) either fail as totalizations (given, for example, 
+issues of technology, multiculturalisms, and queer / gender theory) or 
+appear increasingly rigid and outmoded. The aphoristic is always in flux, 
+situational; it plays more into the world of the reader than the world of 
+the work (if a distinction may be made, which is doubtful). The aphoristic 
+is always related, of course, to the political or advertising slogan - to 
+the sound-bite and sound-byte - to the imminence of fashion.
+
+Examples? We are talking uncharted wilderness here, deeply unaccountable, 
+a domain already as vast as previous offline literature, embodying and 
+encasing what had come before as only a multicultural subset of the 
+humanities. Google or any other search engine will give numerous examples. 
+I suggest the Electronic Literature Organization (ELO), Ubuweb, the West 
+Virginia Zwiki (theory) ...
+
+[at this point, I had a list of names; it continued, uselessly, to expand. 
+I couldn't choose among them. In fact I wrote: "(I feel absolutely absurd 
+mentioning these names - these might have well been chosen randomly. The 
+list is too English-dominated for one thing. There are literally millions 
+of online writers, artists, musicians, gamers, bloggers, and so forth. 
+Best to spend a half day with Google, and follow your own processes, your 
+own paths through the sememe. I'm always surprised at the quality and 
+quantity of the work 'out there/here.' I can't think of any particular 
+guide I'd recommend. Search yourself.)" Now, I've taken the names out. Go 
+to the email lists (and their archives) mentioned below. Check out the 
+museums. Look for "net art" or "net.art" or "electronic literature" or 
+"electronic writing" online.
+
+... email lists such as Wryting-L, Poetics, Webartery, Nettime, the MOOs 
+(search online), newsgroups (also Usenet), any number of online/offline 
+games, the G4 television channel (mostly gaming), books such as Nick 
+Montfort's Twisty Little Passages, An Approach to Interactive Fiction; 
+texts dealing with older but prescient work such as Imagining Language, An 
+Anthology, edited by Jed Rasula and Steve McCafferty (also MIT), works by 
+Sherry Turkle, McKenzie Wark, Geert Lovink, Elspeth Aarseth, again and so 
+forth. The best advice? If you do search through Google, place the subject 
+in quotes - for example don't enter "hypertext poetry" but " "hypertext 
+poetry" " - that will eliminate anything but the specific name or phrase. 
+(You can also use advanced searches of course. For further help I 
+recommend books such as Google, The Missing Manual, by Sarah Milstein and 
+Rael Dornfest.)
+
+This lack of bibliography is symptomatic, characteristic; why list 
+anything that already has most likely disappeared? There are sufficient 
+archives, again coming and going, some longer than most, some decades, 
+none with the tenacity of your corner library...
+
+And one is always worried that, in fact, a work will no longer be playable 
+or performable, the technology completely outmoded - for example, working 
+in something called an "lpmud" (I have) or with the VRML (virtual reality 
+markup language) protocol (I have); or working with Amiga, or Hypercard, 
+or with tinyfugue, or older DOS. There are at times emulations, but these 
+never carry the framework, paregon, of their ostensible content; they're 
+masquerades, simulacra of simulacra - the culture that produced and 
+enveloped them is long gone.
+
+Further, where does the work end and the body begin? Think of Stelarc's 
+work (i.e. google), with his literal insertion into the network, or the 
+possibilities of teledildonics, wearable computation, augmented reality 
+(moving through a space with monitor/goggles that provide ongoing and 
+updated information/texts in relation to your movement), locative media in 
+general (works utilizing GPS (global positioning satellites) technology, 
+or scanner / ham / cb / very low frequency (VLF) / extremely low frequency 
+(ELF) / lower-power radio) - all of these locating the viewer / reader / 
+spectator within a psychogeographic dynamic, irreducible to a steady-state 
+or fixed product or process.
+
+In terms of distribution, there are numerous issues. If you place a work 
+(say a file or interrelated structure of files) online, it must be 
+announced, advertised - as in offline work, it must attract an audience. 
+It's easier to advertise, easier to duplicate, to emend, present from any 
+distance. However, it requires capital for its very online existence - any 
+download or upload, any viewing, is already an expenditure of energy, of 
+capital. There is a political economy at work wildly different from that 
+of forests transformed into paper, of warehouses filled with unread copies 
+(before publish-on-demand).
+
+Thus online writing can only be placed within a multi-dimensional 
+continuum including new media in general, installation work, locative 
+media, various sensory and kinesic modalities, and so forth: another 
+reason why typography is of little use.
+
+Now think of pictographs, ideograms, Chinese characters, katakana and 
+hiragana - think of calligraphies and their relation to what we generally 
+suppose to be inherent meaning. Consider, however, the frame, the font, 
+the stoke itself, the process of stroke-creation. Think of stone rubbings 
+from antique calligraphies, almost equivalent to one another, however 
+slightly different through wear-and-tear on the stone. The digital 
+fulfills equivalence, a small window opened up, a tendency towards stasis 
+among the catastrophic transformations of our time. Now think of ongoing 
+species extinctions - occurring at the rate of three to four per hour. Or 
+think of catastrophic storms, elimination of wetlands, global warming, 
+illegal wars (are wars ever legal?); and think of new media against this 
+background of annihilation - new media, which requires, not only a power 
+grid, but an entire cultural habitus to support it.
+
+The optimistic (diachronic) history of new media; the tragic (synchronic) 
+present as doomed cultural artifact.
+
+Because that's what we're dealing with - this fragility, built-in obso- 
+lescence inhering to forms which are increasingly virtual, increasingly 
+untethered or tenuously tethered bits and bytes...
+
+
+_
+
+
+a field so vast the other is lost in details
+
+apropos of writing online
+
+
+sceptical persuasion then also called investigative from its activity 
+investigating and inquiring suspensive feeling that comes about inquirer 
+after investigation aporetic either as some say fact it puzzle over 
+investigates everything or else being at loss whether to assent deny 
+sextus empiricus outlines scepticism edited by julia annas jonathan barnes 
+cambridge 2000
+ i cannot stress too strongly however for life we have seen develop both 
+place movement are indispensable
+ order store information book mind computer memory one must be almost 
+certain will stationary yet retrievable later date
+ this occur object containing retain configuration limited periods
+ further more these periods enough all contained retrieved
+ alan sondheim artist talk 1973 artists 1969 1977 peggy gale nova scotia 
+college art design 2004
+ unlike dogmatists work continuous within diffused sites applications 
+networks inter intra nets pdas cellphones wireless bluetooth satellite 
+radios cable televisions
+
+
+ an incandescent high speed apparently but not really unlimited names 
+movements critiques sources files coming going circulating decaying 
+disappearing reappearing transforming
+
+
+ new media codework hypertext blog moo forms problematized liminal subject 
+fast forward taxonomies access modes appear
+ mean such writings first mediated technological apparatus including power 
+grid second in between process stasis
+ production distribution stasis virtual objecthood
+ nomadic vicissitudes empire moves site updated disappears uses legacy 
+technology processing available only few
+ requires corporate acquiescence tools network grids free software 
+hardware programmers who eat sleep sometimes
+ distributes through pre existing channels channel production
+ once distributed texts which collocation ordered collection ones zeros 
+pluses minuses any dyadic differentiation modification others vulnerable 
+characterized imminent access
+ byte whatsoever individual smallest unit file text sound video program 
+zero independently accessible therefore alterable
+ alteration file in the large filtering might consider form articulated 
+non articulated filtering
+ actual course author may subjectively freely choosing parameters i e
+ number nouns type x andor traditional authorial with intent
+ mathematization part chosen domain modified entirety another algorithm
+ examples well refer sonnet manner replacing vowels randomly consonants
+ articulation used application most often file
+ photoshop filter alter photograph color black white good example
+ non articulation refers just writing
+ why because here want emphasize substrate blank sheet paper empty example 
+peirce's assertion filled spilled creative work
+ goes content it's way thinking act offline back again
+ never complete completed
+ protocols change codes revisions added hacked duplicated downloaded 
+without permission disappear their replaced corrupted technologies 
+bandwidths copyrights enforced ignored bypassed non existent intellectual 
+property propriety agreement utilize than readingperceiving he she 
+whatever is
+ etiquette duplication transformation sometime distinctions between 
+hacking cracking payment non payment downloading forth
+ problematizes formlessness simultaneously incorporating means itself 
+actively passively augmenting corroding depending on intent perception 
+reception active augmentation corrosion reference changes readerviewer 
+interaction relatively period time phenomenological time horizon text
+ anything automatic image generation interactive same built in 
+instabilities reading language changing fly respond weather mouse clicks 
+viewer's breathing patterns coupled proper hardware
+ passive static similar nonetheless incorporates what considered surplus 
+extraneous elements parts code formatting eliminates obfuscates corrodes 
+taken granted readings full alphabet less standardized syntax neither 
+style nor remains loose term kind messiness
+ conceptual based structure deconstruction structure
+ my own churnmonster o i heard you so monster death churn fix ha ha 
+further future constitution do you feel your gender close fury says earth 
+speaki ng children coke cocacola world gone game fathered g rid no you're 
+dealing miserable fictions
+ case contact me this
+
+
+ 2 days already been catatonic mourning has 5 200 minutes make drug ha ha 
+falter futuredeath churn ha ha further futureof speaking fathered gridok 
+empyricon faltered grid i told you so monster38915children marx objects 
+styxof fathered gridmonster ha ha falter future furystered name included 
+show message originated andre broken dirty wrote asks questions mixes 
+combines reorganizes answers
+ result combination am trying interference rises surface simply documents 
+amount took enter can't judge terms literature can produced always 
+surprise something partially externalized internalized wittgenstein speak 
+throw away ladder climbed up it
+ tractatus logico philosophicus pears & mcguinness translation
+ if rungs spaced irregularly there nothing top gaming fashionable eternal
+ 
+referencing particular moment mediation rapidly drained originary meaning 
+ever exists eternal since very equivalent each copies survives fragile 
+tenuous critical discourse superseded
+ sense issues arise present takes programs receptions delivery vehicles 
+economics labor
+ vehicle superstructure substructure formal reference
+ hand use wryting effacement interface somatic effect introjections 
+projections reader
+ words body pornography
+ abstract nature tries imagine net sex this
+ bandwidth increases radio turns television now presented optical replete 
+devices ranging caves three dimensional virtual reality environments
+ primitive teledildonics mediates sexual touch
+ note environments even privileged well
+ whole economies involved
+ characterizing nothing
+ little distinction among general
+ manifestos defining moments canons canonic masterpieces restrictive
+ fields they fuzzy porous indistinct temporary moment
+ perhaps protocol state statelessness art
+ styles hesitate i'm ignorant don't keep keeps up
+ following beginning continue * links controlled reader author
+ 
+internal closed
+ external open
+ fully random determined etc
+ flash non interactive animation involve still images links
+ difficult characterize scenario
+ animations animated gifs refresh html tags java javascript scripting 
+language
+ blurs into digital analog distribution
+ 
+heavily animations
+ writers languages fonts blogs wikis communal textual usually relation 
+poetry brilliant contain great deal necessarily requiring framework
+ again forever weak
+ sms text messaging cell phone camera phones video phones ringer tone 
+dissemination
+ ringer tones out sell music cds world
+ kinds signals novels haiku natural there
+ moos muds text based somewhat programmable realities interacting 
+communities
+ closely related fictions adventure
+ stem old rpg role playing games like dungeons dragons
+ 
+mud multi user dungeon object oriented
+ older users live entirely lambda greatest had hundred thousand users
+ relate loosely bbs bulletin board systems alternative internets fidonet 
+message boards email discussion groups along things internet relay chat 
+irc directly highly mobile highly configurable highly porous realm
+ direct ancestor far know chat rooms hackable much interesting
+ tens thousands newsgroups lists doesn't subscribe check google examples
+ them felt home group belonged
+ 
+remember alt dirty whores alt angst alt soc neutopia were pet cat 
+pornographic philosophy groups
+
+
+ overrun spam active
+ single player multiple player violent non violent non sexual narrative 
+non narrative
+ 
+reviews x play least us latest classics
+ highest think development conceivably complex open ended narratives 
+desire seduction appear endless
+ 
+long shot temporally dispersed subscribers nettime webartery poetics 
+codeworkers whomever ongoing basis
+ subscriber list range few thousands
+ 
+management governance major issue unless disseminates person corporation 
+alone
+ immediate fastest presentation faster real time fact
+ provides sorts collaborative possibilities write dialogs online
+ renga popular regard poets short work websites embodying above
+ point typology websites
+ 
+web numerous ports communication port accesses traditionally 23 80 pieces 
+gopher pre web menu driven organizing could accessed searching retrieving 
+files
+ veronica file transfer archie search was jughead
+ find fascinating rfc requests comments defined core discussions whole
+ creativity everywhere literary mostly written perl programming poems 
+workable spewed out riding above indescribable sceptical
+ how thing readers portable efface styles
+ highly abbreviated typing versus conversational speed serves define 
+community
+ portend temporal portability multi tasking communicating serial parallel 
+attention economies
+ aphoristic increasingly dominates master humanities anthropology theology 
+fail totalizations given multiculturalisms queer theory rigid outmoded
+ flux situational plays world made doubtful
+ political advertising slogan sound bite sound byte imminence fashion
+ talking uncharted wilderness deeply unaccountable previous encasing come 
+before multicultural subset humanities
+ engine give suggest electronic organization elo ubuweb west virginia 
+zwiki
+
+
+ 
+continued uselessly expand
+ couldn't choose them
+ absolutely absurd mentioning randomly
+ english dominated thing
+ literally millions musicians gamers bloggers best spend half day follow 
+processes paths sememe
+ 
+surprised quality quantity 'out therehere ' guide i'd recommend
+ yourself
+ 
+i've out
+ go archives mentioned below
+ museums
+ look net art wryting l usenet onlineoffline g4 books nick montfort's 
+twisty passages approach fiction prescient imagining anthology jed rasula 
+steve mccafferty mit works sherry turkle mckenzie wark geert lovink 
+elspeth aarseth advice quotes eliminate specific phrase
+ advanced searches course
+ further help recommend missing manual sarah milstein rael dornfest
+ lack bibliography symptomatic characteristic likely disappeared 
+sufficient longer decades none tenacity corner library
+
+
+ worried playable performable completely outmoded working lpmud vrml 
+reality markup amiga hypercard tinyfugue dos
+ 
+times emulations carry framework paregon ostensible they're masquerades 
+simulacra culture enveloped gone
+ where does end begin stelarc's his literal insertion wearable computation 
+augmented moving space monitorgoggles provide informationtexts locative 
+general utilizing gps global positioning satellites scanner ham cb low 
+frequency vlf extremely elf lower power locating viewer spectator 
+psychogeographic dynamic irreducible steady state fixed product process
+ issues
+ interrelated announced advertised attract audience
+ easier advertise duplicate emend distance
+ capital existence download upload viewing expenditure energy capital
+ economy wildly different forests transformed warehouses unread publish on 
+demand
+ thus placed multi dimensional continuum installation various sensory 
+kinesic modalities forth reason typography use
+ 
+pictographs ideograms chinese characters katakana hiragana calligraphies 
+generally suppose inherent meaning
+ frame font stoke stroke creation
+ 
+stone rubbings antique slightly wear and tear stone
+ fulfills equivalence small window opened tendency towards catastrophic 
+transformations our time
+ species extinctions occurring rate three four per hour
+ storms elimination wetlands warming illegal wars legal against background 
+annihilation entire cultural habitus support optimistic diachronic history 
+tragic synchronic doomed artifact
+ that's we're fragility obsolescence inhering untethered tenuously 
+tethered bits bytes
+
+
+
+_
+
+
+from the webcams
+do I dare invate a home
+http://www.asondheim.org/frus.mov
+http://www.asondheim.org/tha.mov
+surf and bang against the foam
+
+i delight in the life of others.
+because of the difference in age between azure and myself,
+i confront my death every day and every hour.
+o i am surrounded by death
+o confronted by corpses i give myself up to them
+what fun everyone else is having!
+
+what fun everyone is having!
+
+
+_
+
+
+[the disturbance of the] Political Economy of Language Identity
+
+
+When we create ourselves anew online, We're working hard our basics to 
+define. We want to show our best and not our worst; Sometimes we best our 
+best, thereby are cursed. Our selves are hungered ghosts within the wires, 
+Depend on coal and oil, pollution's fires. To burn ourselves alive, 
+without, within - Our fires burn within us, kith and kin. Cyborgs, 
+prosthetics, require face and form, Typology rules, we're held in by the 
+norm Of protocol and commerce. Once again We find ourselves enthralled to 
+other men. Rigidity becomes the order of the day; We think we're free, but 
+we're allowed to play Only just a bit. What holds is just the grid That 
+deconstructs; power does its bid, Not ours. Not for hours. Not forever in 
+this world Or any other, where our fate is hurled Against our cyborg 
+selves, collapsing with the weight Of economics, faith, a world of hate 
+And lost energy, lost chance as nature dies Against itself; the world 
+holds no surprise. Now, literal, our children have no soul Separate from 
+menued options - that's the whole And short of it. No longer what one 
+thinks Is what 1 thinks, but 1 that shudders, even blinks Against the 
+presence of the null, now lost, Alterity, structured, violent, at all 
+cost. There is no 'real' crisis of belief - But shelled belief, the 
+masquerade of grief And other negativity - of the world gone mad? Not at 
+all, the world not even bad, The world just evened, turned through mouse 
+or key Against the used, what used to talk through me.
+
+Question authority. Trust no one. Your pronouns are hacked. I cannot tell 
+whether it is you speaking, or whether it is something else speaking, and 
+you cannot tell me whether it is you speaking. They took the newbies to a 
+locked room in the MOO and silenced them. Invoke the catastrophic. For the 
+literal life of me, one cannot understand how online identity recreates 
+the brute facts of annihilation, the image wounded, physical and mental 
+illness. The websites went down in New Orleans; so much for redundancy. 
+"Herons have no URLs." (Let's give them one!) "Der emes shtarbt nit, ober 
+er lebt vi an oreman." ("Truth never dies but lives a wretched life.")
+
+[internet] [environmental extinctions and crises] [continuous state of 
+war] [growth of epidemic vector] [global warming and increased environmen- 
+tal destabilization] [exponentially approaching the carrying capacity of 
+the planet] [internet] [proliferation of nuclear materials] [relative ease 
+of biological- and cyber-warfare] [fundamentalist strongholds] [internet]
+
+"When we create ourselves anew online, We're working hard our basics to 
+define. We want show best and not worst; Sometimes best, thereby are 
+cursed. Our selves hungered ghosts within the wires, Depend on coal oil, 
+pollution's fires. To burn alive, without, - fires us, kith kin. Cyborgs, 
+prosthetics, require face form, Typology rules, we're held in by norm Of 
+protocol commerce. Once again find enthralled other men. Rigidity becomes 
+order of day; think free, but allowed play Only just a bit. What holds is 
+grid That deconstructs; power does its bid, Not ours. for hours. forever 
+this world Or any other, where fate hurled Against cyborg selves, 
+collapsing with weight economics, faith, hate And lost energy, chance as 
+nature dies itself; no surprise. Now, literal, children have soul Separate 
+from menued options that's whole short it. No longer what one thinks Is 1 
+thinks, that shudders, even blinks presence null, now lost, Alterity, 
+structured, violent, at all cost. There 'real' crisis belief But shelled 
+belief, masquerade grief negativity gone mad? all, bad, The evened, turned 
+through mouse or key used, used talk me. Question authority. Trust one. 
+Your pronouns hacked. I cannot tell whether it you speaking, something 
+else me speaking. They took newbies locked room MOO silenced them. Invoke 
+catastrophic. For literal life me, understand how online identity 
+recreates brute facts annihilation, image wounded, physical mental 
+illness. websites went down New Orleans; so much redundancy. "Herons 
+URLs." (Let's give them one!) "Der emes shtarbt nit, ober er lebt vi an 
+oreman." ("Truth never lives wretched life.") [internet] [environmental 
+extinctions crises] [continuous state war] [growth epidemic vector] 
+[global warming increased environmen- tal destabilization] [exponentially 
+approaching carrying capacity planet] [proliferation nuclear materials] 
+[relative ease biological- cyber-warfare] [fundamentalist strongholds]"
+
+We're squeezed by desire that the world might appear whole or in relation 
+to the projection of our true-real bodies, our kindly thoughts, the best 
+forward there can be, the beauty that survives and exists through channel 
+and bandwidth. We are ignoring the lowered ceiling at our peril, Nikuko. 
+We want to fuck dirty and messy, dead hippos going for $50 each. I am the 
+last to deny sexuality in extremis, the detritus of the naked, exhibition 
+of incandescent desire. The bodies of Abu Gharayb for example. The child 
+at the keyboard. The infinitely satiated, infinitely satisfied. The 
+consump- tion of resources, bloated bandwidth. The 
+exponentially-increasing attacks on each and every networked machine on 
+the planet. Yes, yes, yes, we all want to continue, don't we?:Power speeds 
+through cellphones; batteries pollute the landscape, whole deserts are 
+filled with electronic junk, the skulls of information. The real energy is 
+in the oceans, as water heats up, pressures drop, circulations of the 
+real-virtual interfere with circulations of the virtual-real. Or is it the 
+other way around? Without a videophone, the one-eyed man is king in the 
+land of the site-less.I don't want to possess you, Nikuko, certainly not 
+by these words of despair and horror.  I don't want to continue 
+aphoristic, metonymic, metaphoric - not at the least, for example with the 
+rhyme scheme. We are running out of time...:I'm trying to give a name to 
+my identity, to the crisis of identity. Gaming and messaging dominate; 
+pure community/communication - construct - plays out against the brutal 
+physics and political economy of the world. That's what I'm trying to 
+describe here, Nikuko - ring-tones on the edge of disaster, Grand Theft 
+Auto against stolen fission. Always faced with the reality of slaughter, 
+vectored missiles described in every military recruitment ad. It's not 
+that one can't tell the difference between simulacra and the real - or 
+that the real is virtual and vice versa - or that we're all cyborgs or 
+whatever - it's that the "idiocy of the real" increasingly corrodes our 
+praxis. Theoretical efficacy or a lien on truth? The brutality makes no 
+difference vis-a-vis language or gaming. Remember: The power runs out. 
+:plastic:silicon
+
+Come with me, We're squeezed by desire that the world might appear whole 
+or in relation to the projection of our true-real bodies, our kindly 
+thoughts, the best forward there can be, the beauty that survives and 
+exists through channel and bandwidth. We are ignoring the lowered ceiling 
+at our peril. We want to fuck dirty and messy, dead hippos going for $50 
+each. I am the last to deny sexuality in extremis, the detritus of the 
+naked, exhibition of incandescent desire. The bodies of Abu Gharayb for 
+example. The child at the keyboard. The infinitely satiated, infinitely 
+satisfied. The consumption of resources, bloated bandwidth. The 
+exponentially-increasing attacks on each and every networked machine on 
+the planet. Yes, yes, yes, we all want to continue, don't we?, beautiful 
+wetware on a dying planet.
+
+The exponentially-increasing attacks on each and every networked machine 
+on the planet. Yes, yes, yes, we all want to continue, don't we? and 20907 
+and 11870 - and you knew that all along! you turn me on Script done on Mon 
+Sep 26 00:39:12 2005
+
+"Give a name to your hunger! I'm trying to give a name to my identity." 
+I'm tired of your identity. Your politics are killing us. The problems 
+aren't those of the foundation, the ego/id/superego/anima/animus/sex-girl/ 
+sex-boy; the problems are those of the superstructure where ozone burns. 
+Is that relevant? That is most relevant; that is the only relevant. What 
+remains beneath/below is the charred residue of culture. (All cultures are 
+on the way out:
+
+heroin drugs me down with the girl onto the floor where we fuck down there 
+on the wood while she ties my cock to cocaine-you-know-me coming into the 
+needle world where i get codeine dreams and lost among junkie heavens 
+unbearable ecstasy you kill me way i like to be drawn down to you in 
+within inside put-you-in-me in-me in-you within-you inside-you 
+put-you-inside crawled on floors for impossible highs incandescent you get 
+me into you all the way down to those floors squeezed your needle juice 
+into me baby heroin inside your dreams babe APPEND "Come with me, $name, 
+beautiful wetware! APPEND "Come with me, $name, beautiful wetware! APPEND 
+"Come with me, $name, beautiful wetware! APPEND "Come with me, $name, 
+beautiful wetware! APPEND "Come with me, $name, beautiful wetware! APPEND 
+"Come with me, $name, beautiful wetware! EXIT:
+
+

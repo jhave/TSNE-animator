@@ -1,0 +1,65 @@
+
+
+
+Turf
+
+
+On PMC2 I have been proposing a MOO model based on gangs, turf, and 
+mobile populations, rather than land/hierarchy. The turf, home turf, is a 
+place which may be abandoned, may be approached; it's not definitive, not 
+a totality. The populations survive, on-MOO or off-MOO; they are users, 
+whose homes are temporary, not builders, inhabiting. They come together 
+to talk, discuss, make things, convocation.
+
+The turf is dirty, problematic; the MOOs have loose ends, are never as 
+strictly regulated as they appear. It's possible to have well-defined 
+logics in the small; thus @show <x> will give a great deal of informa- 
+tion, but there are always half-abandoned projects, names, deeper levels, 
+artifacts, around, to augment the central core which may or may not be 
+controlled. 
+
+The model stresses the role of the gang-leaders who are the staff, the
+wizards, and whose power is largely that of negation, _not_ to do this,
+not to exceed that, issues of bandwidth, some issues of belonging. So the
+model also ties into postmodern issues of the decline of the nation-state,
+of mirco-territories, of gang signings as well, contested territories.
+
+Within the MOO, the contestation is limited, but the MOO is never a nece- 
+ssary home, and that makes all the difference: if you don't like it here, 
+take your objects elsewhere. And all the time, remember your objects are 
+texts, and can be downloaded by you. You are not a pioneer so much as 
+someone temporarily residing in a worn-out neighborhood, using bricolage 
+to construct equally temporary shelter.
+
+The gang-leaders don't always get along, either, and among them the only 
+absolute power is that of pulling the plug. They know the resources are 
+limited; they get tired as well.
+
+What everyone does on the MOO is _wryting._ I use _wryting_ to refer to 
+that act of inscription that appears to construct, through those proble- 
+matic ontologies I have written about. Everyone wrytes one's way into and 
+out of these spaces; wryting always defines the margins, because within 
+the MOO, _everywhere is equally a margin,_ that is the nature of wryting 
+as opposed to land or territory in real life.
+
+The _internal topology_ defined by entrances and exits, etc. may appear 
+closed, by the wryting is both internal and external, and the latter is 
+just as likely to be, is always, marginal. This, no matter how the 
+directory structure is organized; one is _always wryting on the surface 
+of the MOO._
+
+Wryting is always a form of gang signing as well, redefining the space as
+mine-in-relation-to the MOO, the gang-leaders, the leaky environment. For
+the MOO is always leaky; one is never there _all the time,_ but one floats
+in and out of this generalized expandable landscape.
+
+The usual model of the MOO, it seems to me, and this would apply to almost
+all of these applications, is that of the city-state or community. But
+this model is that of rummaging, moving from one space to another; very
+few of us remain on a MOO permanently, no one twenty-four hours a day,
+every day. We come, wryte (whether text or program-text), leave. We are
+not even so much consumers as reorienting of the margins, the conscious-
+ness we bring there. These are important distinctions...
+
+Alan
+

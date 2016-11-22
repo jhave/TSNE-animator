@@ -1,0 +1,14 @@
+ HOST #65
+
+8. To link to the user at TTY7:
+
+@ link [SP] 7 [CR]
+LINK FROM ICCC, TTY 103
+@ ;hello ray. [CR] _Messages over "link" should be preceded by semi-colon._
+@ ;HELLO, WHO IS IT? _Questions and comments from TTY7._
+@ ;this is abhay bhushan from mit, can you help me? [CR]
+@ ;OF COURSE, HOW ARE YOU ABHAY?
+@ ...... _Conversation continues._
+@ ;nice talking to you. bye. [CR]
+@ break [CR] _Break the "link", please._
+

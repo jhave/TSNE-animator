@@ -1,0 +1,26 @@
+
+
+
+O Jennifer: Second Contact
+
+
+look Jennifer
+I don't know which "Jennifer" you mean.look me
+Jennifer
+sema-tawy
+She is awake and looks alert.02:24kiss Jennifer
+You make stupid kissing noises.suck Jennifer
+I don't understand that ("Jennifer" is an ambiguous name).touch Jennifer
+"Jennifer" could refer to Jennifer (#139).kick Jennifer
+You kick yourself.love Jennifer
+I don't understand that ("Jennifer" is an ambiguous name).who Jennifer
+Player name       Connected    Idle time    Location
+-----------       ---------    ---------    --------
+Jennifer (#139)   4 minutes    0 seconds    Maat
+Total: 1 player, who has been active recently.rub Jennier
+I don't understand that.woo Jennifer
+You woo happily to yourself.@audit Jennifer
+Objects owned by Jennifer (from #0 to #616):
+  #139 Jennifer                       [Maat]
+  #613 Jennifer                       [Maat]
+-- 2 objects.

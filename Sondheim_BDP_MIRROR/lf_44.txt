@@ -1,0 +1,22 @@
+
+
+
+ {k:161}trap
+ {k:162}ls                                  here is the blank space
+ caution go stop                            which is given form and
+ {k:163}rm go                               substance, we call this
+ rm: remove `go'? yes                       forgotten space - since
+ {k:164}rm caution                          it becomes gotten, only
+ rm: remove `caution'? yes                  within the sad palisade
+ {k:165}rm stop                             of letters erected here
+ rm: remove `stop'? yes                     lost through potentials
+ {k:166}trap stop go caution                of stop go caution talk
+ trap: go: not a signal specification       in unknown languagings,
+ trap: caution: not a signal specification  such forlorn mournings.
+ {k:167}this is the line where the trap is removed and the mouth is
+ returning to the tremulous holding-forth of such delicate trembles
+ {k:168}open to additions and subtractions, divisions, unifications
+ {k:169}open to cuts and splices, integrations and differentiations
+ {k:170}stop is a signal specification
+
+

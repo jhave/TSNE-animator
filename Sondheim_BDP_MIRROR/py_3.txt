@@ -1,0 +1,149 @@
+
+
+
+Debris Field is composed of all the objects I have worked with for the 
+past eight months in Odyssey; it's an archaeology of one site by another - 
+an archaeology that constructs something new out of the ruins.
+
+It's not ruins: It's compressed history. It's a history of compression, of 
+textures, of objects, of mistakes, of failures, of errors, of misery, of 
+language/sex/body, of avatar sheave-skin. It what happens when an 
+insomniac gets hold of a virtual world.
+
+Architecture for a new year:
+
+ - shapes matter less than the comfort that coheres within them.
+ - outside assume vagaries and opposition.
+ - architectures as transitional objects.
+ - living within the teddy-bear.
+ - in the Second Life installation: dynamic micro-architectures of 
+- deconstruction and enclosure.
+- no entrances, no exits: one appears, disappears.
+- what constitutes coming and going are virtual particles = people.
+ - virtual to the extent that one passes through doors and walls:
+one passes through flats, nodes, and textures. nothing is comfortable 
+when the transitional turns on you.
+- Second Life = transitional object = preparation for virtual life.
+- real life = virtual life; body = inscription; wryting = body;
+ - uncanny = inscription; world = word; word = idiotic.
+ - micro-architectures of the visible: setting up the camera image
+    just so: harboring time of day, weather, height, distance from
+    avatar or avatar viewpoint, location beneath the ground or water
+    surface or clothing, location in collusion with sheave-skin,
+     moment of capture = arrangement of objects in flight.
+- micro-architectures within objects in flight: buildings escaped
+  from occupants, homes escaped from families, dwellings escaped
+  from inhabitants, bodies escaped from inscription.
+- bodies escaped from inscription: debris of the body, abjection.
+- abjection in micro-architecture: no place to sit, no place to lie: an 
+avatar never lies. no place to sleep: an avatar never sleeps; no 
+place to declare:  an avatar tells the truth.
+- coordinates, program, language, protocol, code, alphanumerics,
+binary oppositions: the truth of anything unforsaken in the saying of it.
+- micro-architectures: between code and architecture.
+
+For Arena installation in Second Life:
+
+1. Dropping those objects which have been taken - piled, flight: every- 
+thing flees, there's always clear space. 
+2. Physical objects:  non-phantom, but dropped, held in position, but 
+whatever for?
+3.  Something tawdry, indigestible. 
+4. Flight to such a degree that they soon tunnel out of site (for most 
+settings), head out of world - the site has to be _tended,_ constantly 
+refurbished. Tended = a tendency to _disappear._
+5. To work on _inpenetrable_ sound.
+6. To work on transparent non-phantom objects: another position.
+7. Intensities as things meld into one another - in the form of a debris 
+field.
+8. Debris field = Gaza-slaughter. (title?)
+9. Particulation of objects.
+10. Object rings with internal physical objects can't get out.
+11. None of the above.
+12. Try and reach 4098m with pile. (Got to 2327 (but see above).)
+
+How to view here and in the Odyssey show
+
+suggestions -
+
+1. Try turning the glow off. Go to preferences, graphics, and uncheck 
+basic shading, if it's on. Basic shading seems to use up more resources 
+than anything else with the rendering engine. You can also set things 
+like rendering distance; the lower the distance, the faster the loading.
+
+2. Turn the video media button off. This on the lower right-hand corner 
+of the screen. If you turn it on, the texture-mapping consumes a huge 
+amount of resources. On the other hand, the audio for the parcel (the 
+audio button) runs fairly lean.
+
+3. If you find the space too cluttered to enter, try flying in.
+
+ 4. If you find flying in too cluttered, fly higher, and drop in. There is 
+ a dome in the center of the space which you can enter.
+
+5. Most objects on the ground level (and some beneath the ground, on the 
+seafloor) will flee from you - what looks crowded from a distance might 
+well clear out.
+
+6. If it clears out, look up - you'll see all sorts of things above you.
+
+7. Fly vertically to see the rest of the exhibition. If you can't fly as 
+high as you want, click control-alt-d, which opens up an advanced menu. 
+Open the menu and get rid of camera constraints. You can then move the 
+camera at a great distance from your avatar body - your viewpoint moves 
+ independently, and you can move at least to the top of the exhibition, 
+which is maybe a mile or so up, SL measurement.
+
+ 8. If you get stuck anywhere, teleport back in.
+
+9. Try moving inside the objects; the interior textures are often 
+different from the exterior ones (this is almost always the case with the 
+spheres).
+
+10. You can push objects vertically into the sky by moving beneath them 
+and flying; they flee upwards.
+
+11. You can see the exhibition 'differently' by using the advanced menu, 
+going to render, and then looking for info - clicking on any one of the 
+info options will give you different viewpoints.
+
+ 12. You can often sit on moving objects, which will whirl you around; if 
+ you sit on an object that moves vertically as a result of your proximity, 
+you can ride it up. When you stand up again, you can fall down back into 
+the space. The riding height seems to be around 4098 SL units, but unless 
+you have a flight bracelet or feather, you probably won't go that high.
+(Gaz can go anywhere.)
+
+13. Moving about on the ground level, keep the sound turned on (lower 
+right), and you'll hear a variety of songs about SL and language. These 
+mix with a number of looping sound modules embedded in the space.
+
+14. Go to 
+ http://www.kippiefriedkin.com/resources/secondlife-viewer-cheatsheet.pdf
+for shortcuts for all sorts of rendering possibilities; most 
+of these are also available in the menu or advanced menu.
+
+15. If you've been moving around SL a lot, go to preferences, and empty 
+your cache; this might speed things up. You'll have to restart SL again.
+
+ 16. If you see a sign for teleporting, try it. Sometimes it will lead 
+back to the ground level, sometimes to the seabed, sometimes to a 
+skysphere. All of these locations have clickable objects which will take 
+you else- where (or back to the same space but at a slightly different 
+location). You might have to right-click on the object, then click on 
+teleport - or you might just left click - it depends on the object.
+
+17, Try different 'lenses' - click on control-8 to make the image wide- 
+angle, control-9 to return to normal, control-0 for telephoto. Repeated 
+clicks work as well - with control-8 you can create extreme distortions.
+
+18, Try moving into 'small' spaces and look about. You can save snapshots 
+of anything you see, on your hard drive.
+
+19. That's about it. The general idea is to run lean, fly about, teleport 
+back if you're stuck, play with the controls. The architecture is 
+constantly changing and deconstructing itself as play.
+original exhibition
+
+ http://slurl.com/secondlife/Odyssey/48/12/22
+

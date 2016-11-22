@@ -1,0 +1,42 @@
+
+-
+
+
+Too Few Arguments
+
+Script started on Sun Sep 1 23:11:45 1996 warning: could not update utmp
+entry netcom% i i: Command not found. netcom% want want: Command not
+found. netcom% stars stars: Command not found. netcom% nova nova: Command
+not found. netcom% to to: Command not found. netcom% fuck fuck: Command
+not found. netcom% me me: Command not found. netcom% love love: Command
+not found. netcom% me me: Command not found. netcom% kill kill: Too few
+arguments. netcom% me me: Command not found. netcom% disappear disappear:
+Command not found. netcom% memory memory: Command not found. netcom%
+forever forever: Command not found. netcom% where am i where: Command not
+found. netcom% who am i netcom!  ttyr8 Sep 1 23:11 netcom% when am i when:
+Command not found. netcom% forever forever: Command not found. netcom%
+exit netcom% script done on Sun Sep 1 23:13:17 1996 > typescript
+
+-
+
+
+Hell: Cannot Create Time:
+
+
+Script started on Sun Sep  1 23:21:07 1996
+warning: could not update utmp entry
+netcom% telnet panix3.panix.com
+Trying...
+Connected to panix3.panix.com.
+Escape character is '^]'.
+No directory /net/u/6/s/sondheim!
+touch: cannot touch //.motd_time: no write permission
+$ touch motd_time
+touch: cannot create motd_time: Permission denied
+$ touch time
+touch: cannot create time: Permission denied
+$ touch exit
+touch: cannot create exit: Permission denied
+script done on Sun Sep  1 23:21:50 1996
+
+

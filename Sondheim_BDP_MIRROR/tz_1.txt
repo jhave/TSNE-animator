@@ -1,0 +1,688 @@
+
+*/wish-fulfillment/*
+
+http://www.alansondheim.org/nevermade.jpg
+
+y xy y y y xy xy y y xy y xy y y y y y
+
+Script started on Fri May 27 09:40:39 2016
+$ pico zz
+n2     137    4211 zz
+
+Script started on Fri May 27 09:40:39 2016
+$ pico zz
+2     137    4211 zz
+
+*/wish-fulfillment/*
+
+A file that appends its word count, repeats the operation going 
+for the big one.
+
+- from My Files on My Nice-Machine, in Writing Under, Selections 
+From the Internet Text, by Alan Sondheim, with an introduction 
+by Sandy Baldwin, Computing Literature, The Center for Literary 
+Computing, Morgantown, WV, 2012
+
+$ wc zz >> zz
+$ r
+wc zz >> zz
+$ r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; 
+r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; r; 
+r; r
+
+wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc 
+zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz 
+>> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> 
+zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz 
+wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc 
+zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz 
+>> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> 
+zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz wc zz >> zz 
+wc zz >> zz wc zz >> zz
+$ echo ... >> zz
+$ exit
+
+Script done on Fri May 27 09:30:33 2016
+0 zz
+      38     230    6488 zz
+      39     234    6516 zz
+      40     238    6544 zz
+      41     242    6572 zz
+      42     246    6600 zz
+      43     250    6628 zz
+      44     254    6656 zz
+      45     258    6684 zz
+      46     262    6712 zz
+      47     266    6740 zz
+      48     270    6768 zz
+      49     274    6796 zz
+      50     278    6824 zz
+      51     282    6852 zz
+      52     286    6880 zz
+      53     290    6908 zz
+      54     294    6936 zz
+
+...
+
+*/never made the big one/*
+
+      79     461    1955 zz
+      80     465    1983 zz
+      81     469    2011 zz
+      82     473    2039 zz
+      83     477    2067 zz
+      84     481    2095 zz
+      85     485    2123 zz
+      86     489    2151 zz
+      87     493    2179 zz
+      88     497    2207 zz
+      89     501    2235 zz
+      90     505    2263 zz
+      91     509    2291 zz
+      92     513    2319 zz
+      93     517    2347 zz
+      94     521    2375 zz
+      95     525    2403 zz
+      96     529    2431 zz
+      97     533    2459 zz
+      98     537    2487 zz
+      99     541    2515 zz
+     100     545    2543 zz
+     101     549    2571 zz
+     102     553    2599 zz
+     103     557    2627 zz
+
+*/never made the big one/*
+
+
+
+Virtual Futures Somewhen Accellerrated
+
+found this, from a Warwick conf. a number of years ago
+
+http://www.alansondheim.org/virtualfutures.jpg
+http://www.alansondheim.org/virtualfutures.mp4
+
+is virtual futures. I'm the future and I won't even be there and 
+because virtual future document. screen? I'm invited to Virtual 
+Futures; I applied to speak there. I'm Participant, Warwick 
+Virtual Futures Conference, 1994 Virtual Futures conference. 
+Another effacement, distanciation. Virtual Futures Tape), the 
+real as-if (re: Postmodern Pobre tape and Perth Conference, 
+ISEA98, Virtual Futures, etc. Virtual Futures 2011 Warick 
+Virtual Futures After Virtual Futures Virtual After Virtual 
+Futures Virtual Futures After Virtual Futures Participant, 
+Warwick Virtual Futures Conference, 1994 He has performed for 
+LowLives and the Virtual Futures conference (both
+
+
+
+afile that erases itself leaving no trace of contents
+
+http://www.alansondheim.org/erase0.jpg
+http://www.alansondheim.org/erase1.jpg
+http://www.alansondheim.org/erase2.jpg
+
+$ pico afile that erases itself
+[1;1H
+  UW PICO 5.07 New Buffer [23;1H [24;1H [23;1H Get Help WriteOut 
+Read File Prev Pg Cut Text Cur Pos [24;1H Exit Justify Where is 
+Next Pg UnCut Text To Spell [3;1H [22;1H [22;35H [ New file ] 
+[1;41H File: afile [3;1H [1;37H File: afile Modified [3;1H [3;4H 
+afile [22;1H [22;1H File Name to write :  [22;22H [23;15H
+  To Files [24;2H
+ Cancel Complete [22;22H afile [22;27H [22;1H
+[22;34H [ Writing... ] [22;1H
+[22;33H [ Wrote 1 line ] [1;37H
+    File: afile [23;1H [24;1H [23;1H Get Help WriteOut Read File 
+Prev Pg Cut Text Cur Pos [24;1H Exit Justify Where is Next Pg 
+UnCut Text To Spell [3;9H [23;1H [24;1H $ history 1 pico afile 
+that erases itself $ pico afilethaterasesitself [1;1H
+  UW PICO 5.07 New Buffer [23;1H [24;1H [23;1H Get Help WriteOut 
+Read File Prev Pg Cut Text Cur Pos [24;1H Exit Justify Where is 
+Next Pg UnCut Text To Spell [3;1H [22;1H
+
+[22;35H [ New file ] [1;33H File: afilethaterasesitself [3;1H 
+[1;29H File: afilethaterasesitself Modified [3;1H [3;4H [3;6H 
+filethaterasesitself [22;1H
+
+[3;25H [3;24H [3;23H [3;22H [3;21H [3;20H [3;19H [3;18H [3;17H 
+[3;16H [3;15H [3;14H [3;13H [3;12H [3;11H [3;10H [3;9H [3;8H 
+[3;7H [3;6H [3;5H filethaterasesitself [3;5H [22;1H
+
+[22;1H File Name to write :  [22;22H [23;15H To Files [24;2H 
+Cancel Complete [22;22H afilethaterasesitself [22;43H [22;1H
+
+[22;34H
+[ Writing... ]
+[22;1H
+
+[22;33H [ Wrote 1 line ] [1;29H File: afilethaterasesitself 
+[23;1H [24;1H [23;1H Get Help WriteOut Read File Prev Pg Cut 
+Text Cur Pos [24;1H Exit Justify Where is Next Pg UnCut Text To 
+Spell [3;5H [23;1H [24;1H
+
+$ ls Mail elo.rtf sl News linux talks a lisp texts ad mail 
+tlk.txt afile mod tz.txt afilethaterasesitself notes.txt vr 
+alist olda zz biog older dhsi.rtf sc
+
+$ chmod a 777 afile $ ./afile $ ls Mail elo.rtf sc News linux sl 
+a lisp talks ad mail texts afilethaterasesitself mod tlk.txt 
+alist notes.txt tz.txt biog olda vr dhsi.rtf older zz $ chmod 
+777 afile* $ ./afile* $ ls Mail ad dhsi.rtf lisp notes.txt sc 
+texts vr News alist elo.rtf mail olda sl tlk.txt zz a biog linux 
+mod older talks tz.txt $ exit
+
+
+Hawk
+
+Juvenile black morph Swainson's hawk against Wasatch Mountains
+
+http://www.alansondheim.org/skcc11.jpg
+
+http://www.alansondheim.org/blurt.mp3 dry-weather shakuhachi
+
+
+Playing with Meditative Fire
+
+http://www.alansondheim.org/lastus073.jpg Azure in Roslyn's 
+Northern Exposure set http://www.alansondheim.org/lastus.mp4 the 
+gap at 80 mph times 10 following a Mitsubishi sportscar with 
+cherry candy finish http://www.alansondheim.org/lastus097.jpg 
+Roslyn's Native American Totem Pole from Northern Exposure
+
+Sung mountainscapes centering on crazed auto race down rainfog 
+slopes we had to pull a truck and trailer off the road to tell 
+them their wheels were breaking & it wasn't the wind
+
+accelerating the Sung then into the odd fictivity of Northern 
+Exposure (U.S. tv show 'set' in Cecily Alaska shot in Roslyn 
+Washington, the wonder of imaginary speeding, speeding
+imaginaries, doubles, blankspace, edgespace as we all fall off
+the real and virtual earth
+
+
+Talking Domains
+
+
+Notes for upcoming talk, 
+Digital Humanities Summer Institute, University of Victoria
+
+http://www.alansondheim.org/vic56.jpg
+http://www.alansondheim.org/gear.mp4
+http://www.alansondheim.org/shfft.mp4
+
+Outline
+
+1. Advantages of using virtual worlds. Suppleness, universal 
+audience.
+2. Rough guide: packaged movements, avatars, objects, variable 
+physics.
+3. Second Life, MacGrid, localhost
+4. Ideas of Gamespace, Edgespace, Blankspace
+5. What happens at edgespaces? Everything is still contained
+6. Blankspaces and the imaginary
+7. Languaging - see Use of Writing below. Idea of lived writing.
+
+8. dynamics, category theory, morphisms and arrows, objects: 
+think of gamespace/edgespace/blankspace as dynamic, striated: 
+how do these meld?
+gamespace as kernel: Trump the bully totalizes this: what occurs 
+internally (truth functions) is irrelevant. edgespace: regions 
+of contestation again circumlocuted. blankspace: contestation of 
+the imaginary.
+
+Directory Categories (of examples):
+
+blankspace
+edgespace 
+gamespace
+
+In Sl, supple and indefinite modeling.
+What happens at the _edges_ of models?
+Models as gamespace structures.
+Epistemology of gamespace - speak to Sandy re: online/offline 
+gaming -
+ cosplay etc. -
+Blankness, substance (fissure, not cut/inscription)
+ - the problematic of same/same/same/ the _queasiness_
+ - of structurelessness - unstructured - loss of structure -
+ - the imaginary - deprivation chambers -
+ - what's down there, what's all around us?
+
+GAMESPACE / EDGESPACE / BLANKSPACE
+
+Language, Accident, and the Virtual
+
+In this talk, I focus on concepts of blankness, geography, 
+gamespace in virtual worlds, and what I term edgespace - the 
+limits of the gamespace, where language occurs and seethes. I 
+argue that the phenomenology of the real comes into play when 
+living spaces are abandoned, where broken geographies are signs 
+of a future already present. I present instances of digital 
+language production in such spaces, working through virtual 
+worlds such as Second Life and the Macgrid, as well as 
+self-contained Open Sim software that can be run on most 
+computers.
+
+The edgespace is always uneasy, tottering, catastrophic; it is 
+the space of the unalloyed digital, where things no longer 
+operate within a classical or modernist tradition. Increasingly, 
+this space characterizes our current place in the world, with 
+its fractured media histories and environments of scorched 
+earth, environmental depredation, and slaughter. We can work 
+through and within such spaces, developing (as perhaps Occupy 
+did) new forms of production, resistance, and digital culture.
+
+Use of writing:
+
+The creation of texts within the videos is in real time  think 
+of a jazz improvisation.
+So its not like a text pinning down the videos, but more like 
+talking within them:
+The texts are an immersive experience. Its not illustrated 
+poetry; its being there, being within these spaces. If you were 
+in them when the texts are being spoken, you would read them as 
+part of your immersive experience as well. This is a fundamental 
+difference compared, for example, to conceptual art, where 
+writing is a structural orientation to illustration.
+
+---
+
+emphasize the problematic of codes, organisms, classification 
+schemes - what constitutes gamespace (ARG? the game of "life"? 
+the game of life?) - how is everything entangled?
+
+how can one disassociate gamespace/rules for example from other 
+domains? are there clear-cut distinctions?
+
+in Wittgenstein, games and "game" and "language game" 
+disassociated these things. Wittgenstein was _clean_ - language 
+games occurred with loose referents but within language. he 
+_spoke._
+
+we're language-centric of course.
+consider "completely" entangled - what does that mean?
+what might "surface symptomologies" tell us about the 
+coruscations beneath the surface?
+where image/imaginary comes in - reading among chaos, chaotic 
+waveforms 
+
+when Weyl's notion of hunting for automorphisms falls through 
+structures of examination and abjection.
+
+"What we have learn from our whole discussion and what has 
+indeed become a guiding principle in mathematics is this lesson: 
+_Whenever you have to do with a structure-endowed entity E try 
+to determine its group of auto- morphisms,_ the group of those 
+element-wise transformations which leave all structural 
+relations undisturbed." (Weyl, Symmetry, p. 144.)
+
+
+
+variations on a theme
+
+http://www.alansondheim.org/vic40.jpg
+http://www.alansondheim.org/barnd.mp3
+
+barndance kind of stuff 
+if you like this kind of barn and this kind of dance
+ninety year old The Up To Date hammered reed Hohner's
+model 46 1/2
+
+Electronic Literature Organization shortalk outline
+
+1. MOCAP - oriented towards EDGESPACE and reading-into 
+(BLANKSPACE)
+2. SURGE / ANGUISH: coming annihilations, disseminations
+3. B/Lathering of language and inscriptions
+4. Inscriptive recuperation: transforming fissures, samesame --> 
+differences
+5. BUT: it all falls apart; it's all entangled; it's always a 
+failure
+6. BUT: one can live in inscription - realtime virtualworlding
+
+variations on a theme if you like this kind of theme and this 
+kind of talk
+
+
+
+my philosophy in a nutshell
+
+http://www.alansondheim.org/shore08.jpg
+
+think of striations of the imaginary within blankness, strange 
+attractors, hallucinatory structures, wrong turns, dead ends, 
+failures. think of edgespace not as glitch but as inherent, 
+inhering, bridging nonetheless, entangled projects and intro- 
+jections ("jectivities," morphisms); think of gamespace as 
+corporate, closed manifolding, totalities, kernels of clean and 
+proper bodies:: map all of this onto immersive/definable 
+hierarchies (mathematical _activity and production_ in relation 
+to (in)formalized mathematical structures):: immersion appears 
+_fundamental_ to blankspace, as mutually-generated activities 
+within edgespace, as the construction of _dwelling_ within 
+gamespace; definability appears _fundamental_ to gamespace, as 
+wrong or deliberate well-defined turns within edgespace; as 
+categorical formalisms after the fact in gamespace:: then think 
+of _regimes of control_ within and without gamespace (player / 
+gamemaster / corporation) and their loosening within edgespace 
+and blankspace (as well as the chaotic and stochastic nature of 
+blankspace itself):: and you have a way of thinking through a 
+world or the world:: now consider this in terms of unravelings, 
+being again with this consideration in mind, in terms of 
+gamespace, edgespace, blankspace, immersion and definability 
+(again keeping in mind that these are basically entangled), and 
+you are on the way to at least an interesting way of thinking 
+through worldings (which are subject to and suspect of such 
+categories which are thereby unraveling... )::
+
+
++++
+
+
+flood advisory national weather service taunton ma pm edt sun 
+jun ric---- /o.new.kbox.fa.y..tz-tz/ /.n.er.tz.tz.tz.oo/ kent 
+ri-washington ri-providence ri- the in has issued a * urban and 
+small stream for... eastern county rhode island...central 
+washington providence until at edt...doppler radar indicated 
+line of heavy rain thunderstorms approaching region during time 
+hightide along shores that will cause minor flooding. 
+overflowing poor drainage areas result flooding area. up to one 
+inch already fallen.some locations experience include 
+providence...warwick...cranston...pawtucket...eastprovidence... 
+coventry...cumberland...north providence...south 
+kingstown...west warwick...and johnston.additional rainfall an 
+is expected over this make precautionary/preparedness actions... 
+for do not drive through flooded roads. && lat...lon
+           
+        $$ sipprell coastal 
+
+statement hazard message maz>-riz->-- /o.new.kbox.cf.s..tz-tz/ 
+southern bristol ma-southern plymouth ma-barnstable ma-southeast 
+ri-bristol ri-newport ...minor splashover possible tonight... 
+locations...the south facing coastline from buzzards bay 
+narragansett entire island coast.flooding...minor around 
+tide.timing...between tonight. impacts...localized on most 
+vulnerable shore roadways may occur.all heights are relative 
+mean lower low water. total tides approximate nearest hour. - 
+fox point day/time surge waves /ft/ category----------- 
+---------- --------- ------- .- . / ./ .  none.- . / am -./ . .- 
+. ./ . .- . / . - / ./ . conimicut ./ . .- . .- . .- . judith .- 
+. ./ .  .- . .- . . / .- . - .- . / westerly .- . / .- . - / .- 
+.  newport harbor .- . ./ .- . / .- . westport .- . fall river 
+.- . .- . new bedford outside hurricane barrier .- . - 
+mattapoisett - - wareham / .- . woods hole ./ . .- . .- . .- . 
+.- . .- . wings neck $$for latest updates...please visit our 
+webpage www.weather.gov/boston you can follow us facebook 
+www.facebook.com/nwsboston twitter @nwsboston hazardous outlook 
+ctz>-maz>--riz>-- hartford ct-tolland ct-windham ct-western 
+franklin ma- ma-northern worcester ma-central middlesex western 
+essex ma-eastern ma-western hampshire hampden norfolk suffolk 
+ma-dukes ma-nantucket northern ma-northwest southeast ri-western 
+ri-eastern ri-block connecticut...all massachusetts except 
+berkshire county...and island. .day one...this afternoon bands 
+embedded evening. brief street flooding, but no significant 
+problems anticipated. .days two seven...monday saturday. tuesday 
+evening... few strong severe if able develop...isolated reports 
+large hail/damaging wind gusts would be possible. .spotter 
+information statement... spotters encouraged report conditions 
+according standard operating procedures.
+
+9c9
+< corporate, closed manifolding, totalities, kernels of clean and 
+---
+> corporate, closed manfolding, totalities, kernels of clean and 
+11,12c11,12
+< hierarchies (mathematical _activity and production_ in relation 
+< to (in)formalized mathematical structures):: immersion appears 
+---
+> hiearchies (mathematical _activity and production_ in relation 
+> to (in)formalized mathematical stuctures):: immersion appears 
+18c18
+< of _regimes of control_ within and without gamespace (player / 
+---
+> of _regimes of control_ within amd without gamespace (player / 
+24c24
+< gamespace, edgespace, blankspace, immersion and definability 
+---
+> gamespace, edgespace, blankspace, immersision and definability 
+26c26
+< you are on the way to at least an interesting way of thinking 
+---
+> you are on the way to at leat an interesting way of thinking 
+79,82d78
+< 
+< +++
+< 
+< 
+
++++
+
+
+
+bodhis for sail
+
+http://www.alansondheim.org/bodhisforsail0.jpg
+http://www.alansondheim.org/bodhisforsail.mp4
+http://www.alansondheim.org/bodhisforsail1.png
+http://www.alansondheim.org/bodhisforsail2.png
+http://www.alansondheim.org/bodhisforsail3.png
+
+no interest in explaining myself/ bodhisattva helps/ that is a 
+space/ boatvibe bobbbing bobbing bobdebbywps bock bod bodb bodee 
+bodhi
+
+    bodhisattva momyo. i will bring bodhisattva momyo. 
+    shakyamuni buddha brought forth bodhisattva momyo. 
+    bodhisattva momyo emerged from the earth. bodhisattva momyo 
+    snapped his fingers. nikuko emerged from
+
+empyrean; this i confuse hells and heavens and bodhisattvas and 
+no interest in explaining myself/ bodhisattva helps/ that is a 
+space/ i will be bodhisattva 1 i will be bodhisattva 2 i will be 
+bodhisattva 3 i will be bodhisattva 4
+
+     i'm riding the elephant bigger than any bodhisattva
+    bodhisattva momyo. i will bring bodhisattva momyo. 
+    shakyamuni buddha brought forth bodhisattva momyo. 
+    bodhisattva momyo emerged from the earth. bodhisattva momyo 
+    snapped his fingers. nikuko emerged from
+
+julu is perfection. nikuko is a bodhisattva. nikuko is always 
+loving.
+
+         bodhisattvas or saints.of solstice. is pro
+         you will be among those beyond bodhisattva and saint, those
+6 bodhisattvas or saints.of solstice. is pro 
+'s/+---------\^/bodhisattva/g' 's/+--------\^/meritorius/g'
+bodhi, svaha!" *
+
+[15:27] Julu Twine: bodhi, svaha!" *
+
+both are anchored to the earth and its bodhisattvas 
+annihilations you life jewel bodhisattva you existent to to 
+existent to recollection to escaped non-enlightenment jewel 
+bodhisattva lotus bodhisattva meritorius nothing +--)^ to lotus 
+life life to meritorius to bodhisattva you existent +- 
+bodhisattva life life life life you +escape)^ bodhisattva to 
+emptiness a death to escaped to life +escape-----^ life to 
+meritorius life life you bodhisattva a life you death to 
+emptiness you existent emptiness the you to you bodhisattva 
+existent you you to to you evil before kwak less evil before 
+kwak more hears death bodhisattva you death to you emptiness you 
+meritorius death to life +- bodhisattva to life
+
+sed 's/+---------\^/bodhisattva/g' zz > yy
+bodhisattvas recognize the turn
+bodhisattvas their their face to me
+
+i confuse hells and heavens and bodhisattvas and arhats and wish 
+annihilations you life jewel bodhisattva you existent to to 
+existent to recollection to escaped non-enlightenment jewel 
+bodhisattva lotus evil before kwak less evil before kwak more 
+hears death bodhisattva you death to you emptiness you 
+meritorius death to life +- bodhisattva to life sickens 
+meritorius bodhisattva reproduced dirty perfection. nikuko 
+bodhisattva. needy beyond belief incapable anyone
+
+bodhi, svaha!" *
+Gate, gate, paragate, parasamgate, bodhi, 
+bodhi, svaha!" *
+[15:27] Julu Twine: bodhi, svaha!" *
+ bodhi, svaha!" *
+empyrean; this i confuse hells and heavens and bodhisattvas and 
+bodhisattvas recognize the turn
+
+bodhisattvas their their face to me
+bodhisattvas their their face to me
+bodhisattvas their their face to me
+
+
+I'm Giving a Talk at DHSI, University of Victoria, Tomorrow
+
+Please come if you can! (ELO welcome of course!)
+
+http://www.alansondheim.org/lastus051.jpg
+
+Azure and I drove across country (from Providence, RI, through 
+Atlanta, GA, to Victoria BC); we arrived a few days ago. I'm 
+speaking at the Digital Humanities Summer Institute, at U. Vic, 
+tomorrow, Thursday, at 5:00-5:30 - details of the (heavily 
+illustrated) talk below:
+
+Thursday, June 9th, 5:00 to 5:30
+
+Event: Alan Sondheim, "Language, Accident, and the Virtual"
+
+(MacLaurin Building, Room A144)
+
+Abstract: This talk engages concepts of blankness, geography, 
+gamespace in virtual worlds, and what I term edgespace - the 
+limits of the gamespace, where language occurs and seethes. I 
+argue that the phenomenology of the real comes into play when 
+living spaces are abandoned, where broken geographies are signs 
+of a future already present. I present instances of digital 
+language production in such spaces, working through virtual 
+worlds such as Second Life and the Macgrid, as well as 
+self-contained Open Sim software that can be run on most 
+computers.
+
+The edgespace is always uneasy, tottering, catastrophic; it is 
+the space of the unalloyed digital, where things no longer 
+operate within a classical or modernist tradition. Increasingly, 
+this space characterizes our current place in the world, with 
+its fractured media histories and environments of scorched 
+earth, environmental depredation, and slaughter. We can work 
+through and within such spaces, developing (as perhaps Occupy 
+did) new forms of production, resistance, and digital culture.
+
+Thank you!
+
+- Alan
+
+
+zed
+
+http://www.alansondheim.org/denvera27.jpg
+http://www.alansondheim.org/rehearsal.mp3
+
+Azure Carter, song and voice; myself on viola - I thought it 
+might be interesting to present a rehearsal, the same song six 
+times with six different improvised accompaniments and two 
+different bows; here's a full short rehearsal and slightly 
+lowered fidelity (the file's smaller) - thanks for listening/
+reading below -
+
+to the z at the ends of the earth
+
+assay cry uzconverted zizx / z# ! rulezO!O v voom! hZ/([\abu.ya 
+yn agonyehz ewunutterable chaos of loveeyr bodyehzhZ/(\abu.ya 
+hZ/+([\abu.ya hZ/[\abu.ya hZ/\\([a dropped loagonyehz hZ/a 
+hZ/l(\abu.ya hZ/tunutterable gone/agonyehzhZ/unutterable 
+myhztheyr LK ENANNUound BEL NMR goneyouhz- Jennifer Lopezgrep 
+air a/char >> zzbaby birth black blue boy build child cloud dead 
+death dwell earth farm farmer fog foolish forest girl gone happy 
+hill home house husband hut ill infant king lake lost lucky man 
+meadow mist mountain ocean palace queen red sad sailor sea sick 
+soldier star student stupid sun teacher unhappy unluckly valley 
+well white wife wise woman yellow 38 230 6488 39 234 6516 40 238 
+6544 41 242 6572 42 246 6600 43 250 6628 44 254 6656 45 258 6684 
+46 262 6712 47 266 6740 48 270 6768 49 274 6796 50 278 6824 51 
+282 6852 52 286 6880 53 290 6908 54 294 6936 79 461 1955 80 465 
+1983 81 469 2011 82 473 2039 83 477 2067 84 481 2095 85 485 2123 
+86 489 2151 87 493 2179 88 497 2207 89 501 2235 90 505 2263 91 
+509 2291 92 513 2319 93 517 2347 94 521 2375 95 525 2403 96 529 
+2431 97 533 2459 98 537 2487 99 541 2515 lz lt lu o lv lkkx l! 1 
+zurpluz! paralyz=, provez prz100 545 2543 101 549 2571 102 553 
+2599 103 557 2627 3 przekutor 4zome. tzalvagr! Muzl!mz, Muzl!mz5 
+2 Zteuben !ntr!orz15 adamz23 8 round uaz + urong, a u!th 
+dr!pp!ng prphektl! bald az30 t!nkled! pazZengr, 10 m!zplasz she 
+FYR9nruaz4 spherical * > /root/zz6 warmezt! rez!te, krutkhez 
+Br!dget vezt!g!l. akadem!ez9 -h $ret_val = eval($formula); m 0.1 
+-2 0 j 13 tumescent 14 159 16:36 "great war" network/* 163 16:37 
+"missing in action" 165 16:38 "missing" 167 "killed or wounded" 
+169 16:39 "wounded killed" 171 and 173 175 16:40 "mutilated" 26 
+God's Word--By: David Katz27 netstat | 28 29 wc 35 pico 37 ls 59 
+more 60 rm 62 72 uniq adventure.text 73 74 -d adventure.txt 75 
+76 77 adventure.data 78 figlet -f mnemonic "one day scattered 
+friendships hallowed" toilet pagga.tlf "or garnered among JUST A 
+MINUTE PLEASE" digital "CALL WAITING BACKWARDS FROM HERE" 
+circle.tlf "questionable DERAIL DERAIL" bubble "work backwards 
+EXCLAIM work BACKWARDS" future FORWARDS exclaim WORK FORWARDS" 
+After AuschwitzOur UW PICO(tm)  4.10 File: bir vakte kadar avuc 
+yazar ile uc okuru bulusturacak, yazforward this mail along with 
+your enquiry, to anti-virus@xtra.co.nz.* virtual ... But here 
+are two disturbances by Nikuko, using warezthat write lyric 
+poetry after virus from computer: enquiry term "INTERRUPT 
+INTERRUPT" 104 107 161 du 164 portal/polypore portal/bool 166 
+portal/book portal/book/texts 168 portal/book/talks/ 170 
+portal/basic/ 180 cat K*.txt 181 K*.Txt 183 car K*.xml zz; 184 
+185 217 -la nz221 less 222 224 touch zzzzz225 ?? 226 227 *.txt 
+228 229 Uncanny Weather Blood Fantasm 232 240 mv nz.txt 241 257 
+260 273 talks/* 275 ez276 zzz277 304 problematic 305 307 310 
+zzzz311 312 313 315 Past 316 324 343 fuzzy 344 346 347 349 ??? 
+350 354 ~/zzzz356 358 359 363 ../../web/* 364 365 367 defuge 368 
+369 370 371 372 384 385 387 388 389 *.ext 390 391 book? 393 394 
+396 432 history 486 487 jed 488 502 h 503 you" . ...0 -> FTP 
+Request: STOR 1% ppiiccoo 1000 daz1030 1080 18 20 22 24 3040 
+4000 -C ilhebrew.flc ivrit "black LETERZ aGNST HARD YSE" script 
+"WYte Alan Sondheim, electric sazdisappear the radioactivity 
+trauma smoky quartzlong-necked sarangi, oud, !n dze m!dzt ov 
+mrr!ment, v!rzt !zZuez d!ztr!buz!onz d!ztr!but!v!t!ez !ve alwayz 
+been upzet... remembr dzat da! ualk!ng uoodz "somewhere there's 
+junk crime done wrong" julu sez "sondheim +buddha" perl 
+looply.pl "Alan Sondheim +Buddha" $ awk < yy echo k22% k3% 
+'s/\[//g' sed 's/\]//g' 's/\^M//g' 's/^...//g' ( ) .biz 
+(VRMLBrowser)FreeWRL-036tar.gz (reclawurhzayeve): 
+phayeen+men+l+g+ phen+men+l+g+ hzwanure +perraashunthz **** 
+Command 'b1fok/ahak >>>> rCzNTsKgEz31XRK/uRT 'rczntskgez 
+'vvaklwiazj fT9ApypgiZ967DlaYEA 'ft9apypgiz 'yaqz32amrx 
+6QiwQ6m0SZ50A8GVoyH '6qiwq6m0sz prayed. great l!ght v!led 4ezt 
+klear!ng, ue heard vo!sz -dzg2600cm-feme-cem, -rw------- 
+sondheim users 264 Nov 01:12 ...saz ..zz ./ppt "HELP ME HELP ME" 
+~/zz "I CANNOT THINK" am caught between worlds" "ONLY 
+DISTINCTIONS FOUND //init() runs on state_entry on_rez /g' yy; 
+'s/*/*/g' 's/[.;:,]/ 's/[$^-]/ " -v mj i texts/??.txt head -200 
+"filling space" texts/* sonnet texts/*.txt -14 
+grep#"#"#-v#mj#>#zz codework sort might "all you think know" 
+1111 -1 's/ aa Laraf Lardi Larej 25 Larin Larjo Larty Laruz 11 
+be "be any trouble" exception 12 something "All 11111 
+./a/elimy.pl most problem" 111111 Drawings Objects, artists book 
+Mike Metz likely think" 1111111 's/Today\#s Visitors: //g' 142 
+143 y 144 145 11111111 16 know about" nuisance" tr A-Z a-z 17 
+said about ADAM kenji cadaver feti made crisis 19 "death life" 
+"like an idiot" 's/,/, 197 198 199 200 oo 201 cp mail/sl I 
+"wasting nikuko lx 137 4211 2. La-gmage diffmmim- mhmmmgh 
+memceimed mmmemimm mech-mlmgm izmmmmed fmmz "life death" 
+20021026 01:03:56 /usr/bin/sz -vv -b Sending: 20021129 01:15:24 
+01:15:25 20021130 02:03:04 20021212 19:11:59 20021228 23:40:56 
+21 ./a/elimx.pl these 216 circumstances criminal" killer" 
+maniac" embryo sex" dead" 's/^????????//g' ./a/elim2.pl who '{ 
+print $1 }' "making 31 chromo desire 32 33 34 ivrit.flf "TRUE 
+LOSS OF MEMORY" 36 digital.flf "RESURRECTION THE WORD" hh 
+'s/[a-zA-Z]//g' one say 's/^ "useless aaa Today /breasts/g' 
+twelve makyng twent! TAZunn! hztormhz Being is fundamentally 
+subjunctive , 4pfBXSvDmqeHPDPxd0qGw8T6rZ+Jde1z time" aaaa as 55 
+56 57 58 being burden" demon -w /kill biogsort.txt 61 regard 63 
+equivalent 64 65 66 ? 7 's/demon/demon presence/g' 70 

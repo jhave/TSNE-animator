@@ -1,0 +1,725 @@
+==
+
+Dance description (for the empyre email list, highly edited here)
+
+I've been following this discussion and thought the best way I might 
+participate is to describe the work that I've done with Foofwa d'Imobilite 
+and others over the past decade or so. We went from using video and audio 
+tracks accompanying choreography, to work in Blender and Poser. The Poser 
+work was created from bvh (Bio-Vision Hierarchy) files produced with 
+motion capture (mocap) equipment that used 21 sensors electromagnetically 
+interacting with an antenna. The antenna fed sensor signals into a hard- 
+wired 486 microprocessor that output coordinates; these were fed into a 
+second computer that created the bvh files themselves. we modified the 
+sensors in a number of ways - some through the software interface, and 
+some with limb assignment and position. We did a piece called heap for 
+example - the sensors were dropped in a heap and the bvh file fed into 
+Poser. We did a star piece, arranging the sensors in a star formation on 
+the floor and inverting it by exchanging +r from a sensor position to -r. 
+We also reassigned sensors in several ways - dividing them between two 
+bodies, remapping inversely onto a single body, and so forth. All of this 
+produced bvh/Poser mannequins that were used as projections in live per- 
+formance, or chroma-keyed over dance/performance video.
+
+All of this work was at West Virginia University's Virtual Environments 
+Lab, headed by Frances van Scoy. I received an NSF consultancy through 
+Sandy Baldwin and NYSCA grant; through the former, I had a grad assistant 
+from software engineering, Gary Manes, to assist me. We went into the 
+mocap software itself and Gary rewrote it, creating a dynamic/behavioral 
+filter interface, which would produce transforms from the sensor output - 
+before the 3-d assignment to bvh was made. This was modeled on graphic 
+software filtering, but the assignments were different - we applied a 
+function f(x) to the coordinates and/or modified the coordinate mechanism 
+or input streams themselves. The bvh files that were produced were sent 
+into Poser for editing; in some cases, Poser mannequin video was output. 
+But more and more, we edited in Poser to format the bvh for upload to 
+Second Life; this way we had live 3-d performance based on the transforms. 
+This performance could interact within Second Life itself - with other 
+online performers and audience - or through projection, without Second 
+Life, in real-space where performers might interact with the avatars.
+
+The bvh files are complex and avatars perform, most often at high-speed, 
+with sudden jumps and motions that involve them intersecting with them- 
+selves. The motions appeared convulsive and sometimes sexualized. Foofwa 
+d'Imobilite used projections direct from Poser - about 100 files - as part 
+of Incidences, a piece produced in Geneva and widely shown. Foofwa, along 
+with Maud Liardon and my partner, Azure Carter, also imitated avatar move- 
+ment - and this fed back, from dance/performance into programming and pro- 
+cessing; at times it has been impossible to tell whether a particular 
+motion stream originated on- or off-line.
+
+In SL, everything is pure, digital, protocol, numeric; by 'smearing' the 
+animation input, avatar appearance, and location, we create in-world and 
+out-world experiences that stray from body and tend towards choratic and 
+pre-linguistic drives. We've performed a lot at various limits of SL - on 
+sim edges for example, or at 4k 'up', where the physics changes. The 
+output is the usual - audience in-world or out-world, as well as video and 
+stills. 
+
+Foofwa, Maud, Azure, and myself all traveled to the Alps where avatar work 
+was re-enacted live; the performances were on the edge of the Aletsch 
+glacier. (This was sponsored by a Swiss grant.) What was interesting most 
+to me here was the development and performance of a field - Foofwa dancing 
+with a VLF (very low frequency) radio antenna, for example - his body 
+coupled and modified the electromagnetic capacitance surrounding the wire. 
+We had done this indoors with Foofwa and Azure; outdoors, against the 
+glacier, spherics formed a deep part of the content. This also paralleled 
+work we did with the mocap sensors at WVU - using high-strength magnetics, 
+we modified the local fieldlines, almost as if we were modeling general 
+relativity's 4-space gravity/mass interaction - the results were similar. 
+I'm fascinated by these 'cosmologies in the small'; at the same time, want 
+to avoid any easy and false metaphoric equivalence with scientific theory. 
+As for the theory of the work we're doing, at least from a phenomenologi- 
+cal viewpoint, I've put up http://www.alansondheim.org/sltheory.txt which 
+has also been published as a book.
+
+At the moment I'm working with sim overload and self-reflexivity: on a 
+simple and neat level, what if a performing avatar connects to an object 
+('prim' complex) designed to move away from hir? The result is a total 
+[avatar/complex] that flees indefinitely - at least until the complex goes 
+out of world.
+
+
+
+solo explorations and experiments
+
+http://lounge.espdisk.com/archives/962 (best)
+http://espdisk.com/alansondheim/sandys1.mp3 sarangi and voice
+http://espdisk.com/alansondheim/sandys2.mp3 sarangi
+http://espdisk.com/alansondheim/sandys3.mp3 viola
+http://espdisk.com/alansondheim/sandys4.mp3 cura cumbus
+http://espdisk.com/alansondheim/sandys5.mp3 pipa
+
+pipa lilting tune and tricky runs oh i love this
+cura cumbus bowing and bow lifts oh i love this
+viola third octaves on the strings oh i love this
+sarangi third octave on the high string oh i love this
+sarangi and voice just that oh i love this
+
+
+
+Death Cull
+
+The new reality is watching, walking death, repeatedly, until 
+things finally come to an end. Everyone goes through the same; 
+we are always the new old. Every week there are new 
+disappearances; because I have so many acquaintances, I see 
+these disasters constantly. Why disasters? Because, unlike 
+everything else in life, there is an obdurate finality about 
+death; communication, palliatives, reminiscences, are no longer 
+possible. Death points to the impossibility of life. Death 
+points by virtue of non-pointing; there are no vectors in and 
+among death. Death is neither singular nor plural. My friends 
+and acquaintances disappear; my daughter and I are estranged: 
+mutual disappearance. It began when I was a child; whole 
+generations died off. By the time I could think through them, 
+they were gone; by the time I could think, death gnawed me. Life 
+is a process of sinking through life and lives. The new reality 
+is always present; what's new is the constant birthing of death. 
+Death is assigned names: X died, whole sets {x} pass on, 
+veterans, generations, species. Death begins with _death-of_; it 
+is the last use of the name, which undergoes absorption. Another 
+way to think: the proper name contains the seed of death. 
+Another way to think of it: death is a time or demarcation for 
+the living. But this is not death, this is the signifier. The 
+signifier of death is not, can never be, death. Death for the 
+living is a gathering of similarities. The proper name changes 
+when death enters; it no longer serves as the reception or 
+transmission of messages in the name of the body. Or rather 
+there is an ontological shift in the body, which enters the 
+virtual in its entirety; someone may speak in the guise or 
+simulacrum of the body. Death transforms the speaking body into 
+an other speaking-for. What was unspeakable, the body, is the 
+responsibility of others; the speaking body, even before death, 
+lives within a recessive mode, every utterance a portal unto 
+death, every utterance a gift on the verge of being returned. 
+How does one approach this, one's death, the death of others? 
+One only waits; being is waiting, and being alive is living 
+awaiting. As one ages, one awaits time itself, the real is 
+transformed into the passive substance of dying, rebirth and 
+rebearing elsewhere beyond a horizon, immovable, unnamed. We 
+remember the partings of others far more than their arrivals; we 
+remember the arrivals of deaths, more than the parting of 
+others. We passively take our place in this panoply; there is 
+never anything more to do, never anything more that has been 
+done.
+
+
+
+twas after the hurricane sandy
+
+http://lounge.espdisk.com/archives/964 (best)
+http://espdisk.com/alansondheim/twas1.mp3
+http://espdisk.com/alansondheim/twas2.mp3
+http://espdisk.com/alansondheim/twas3.mp3
+http://espdisk.com/alansondheim/twas4.mp3
+http://espdisk.com/alansondheim/twas5.mp3
+http://espdisk.com/alansondheim/twas6.mp3
+
+chris diasparra, baritone
+azure carter, voice
+alan sondheim, cura cumbus, viola, flute, pipa, sarangi
+ in that order (particularly liked playing the flute)
+very weird music, don't know what t make of it, as if
+ we're huddling from the 'erricane - just odd which is
+ maybe great
+
+
+
+
+	alles
+
+
+
+	mouth
+
+	hole
+
+
+
+
+death in obvious metonymic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(social media version with visible bones)
+
+death in obvious metonymic
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+strange weather
+
+http://www.alansondheim.org/planemap01.jpg
+http://www.alansondheim.org/planemap02.jpg
+http://www.alansondheim.org/planemap03.jpg
+http://www.alansondheim.org/planemap04.jpg
+http://www.alansondheim.org/planemap05.jpg
+http://www.alansondheim.org/planemap06.jpg
+http://www.alansondheim.org/planemap07.jpg
+http://www.alansondheim.org/planemap08.jpg
+http://www.alansondheim.org/planemap09.jpg
+http://www.alansondheim.org/planemap10.jpg
+
+Flying from NYC to Toronto, the plane takes a sidestep to  
+Lyons and other maps indicated the distance between NYC
+and To. was over 8000 miles. Yes, yes, and Toronto in the
+long run ended up somewhere near Italy, yes yes yes. It 
+was all in the maps and therefore it must be true.
+
+
+
+Hamilton, Ontario, farm field
+
+http://www.alansondheim.org/field.mov
+
+near the MacGrid workshop conference
+http://hmcwordpress.mcmaster.ca/macgrid/
+where i was keynote speaker fifteen minutes away
+
+
+
+
+helping hands
+
+		those skeining the body's helpers,
+	      lending themselves to my nursing arms:
+	      lending themselves to my nursing arms::
+   or proxy or nursing space, or space yet undefined
+   ruined helpers hollowed out where dismal thoughts are felt:
+  files so exposed to you, the emptiness of helpers, you know 
+ cyborgs helpers require face form typology rules held in by norm 
+ helpers
+biotech, helpers, and sequencing, however extended and defined, are 
+but this is not an exhibition of nursing art; the attachments are not
+disembodiment, etc, make me wonder about helpers, wheelchairs, canes,
+embodiment is always hysteric, nursing;
+i will argue against both cyborg and nursing models, instead favoring 
+in other words, one has to shed the current tacit helpers of cmc,
+it is fundamental that we are _not wired,_ that our nursing tools, 
+so that as knowledge becomes secondary or nursing, it becomes
+something is necessary beyond the machinic, nursing; the colors issue i
+surely the result is a form of nursing shamanism, the fetish of the 
+the hardened material of real and/or nursing arm is experienced prior
+the helpers of the absolute are hardly sublime; lying within texts,
+what won't come off becomes excessive, nursing, a curlicue. as a 
+abramovich fault serves theatrical cyberspatial pseudo selves nursing 
+augment, nursingize, and catalyze it; technology and biology are
+crutch, any utterance nursing. 
+dance as a whirl without consent, like the body burning, on helpers,
+dialectic semantic emissions seem phery helpers crutchings cyborg 
+different helpers. the track is closer to the graft of skin or tissue; 
+disappear, and this isn't towards the nursing or viral, but rather the 
+disembodiment, etc, make me wonder about helpers, wheelchairs, canes,
+emergence. in this sense to talk of the helpers or uses of technology
+emphasizes helpers and cyberspace as "additional" fields of research 
+ence, that feeling that nikuko is living, not as nursing or other 
+even in situations where "arm" is nursing.
+failure of the nursing body, detumescence; it is nomadic, not in the
+for helpers, robotics, and machine/organism navigation, but remains 
+great men exhaust us /[d]+/ machinery helpers greatness /[c]+/
+honing vestige you...this of itself: a becomes on"... helpers juncture 
+human body?), but it's augmented, nursingally, by market and creative 
+humans should be stripped everything. helpers keeps species alive.
+i watch the biological helpers of the body transform
+imagery artworks broken nursing devices following splits turns 
+is still out, participating clearly in issues of nursing subjectivity,
+lives which a fuzzy set of responses can address as helpers.
+miniaturized, nursing, cyborgian, and personal.
+multiples, bifurcations, effacements, helpers, rhizomes,
+not as nursing or other device, not as prim, but perhaps as a 
+of chaos/ my teeth are close in on helpers/ on the carpet/ my eye
+of the fingers. in the darkness there are sounds, as if nursing, from
+nursing flesh in emergence.
+nursing legs for portman's character, therefore
+nursing sheen configured weep
+nursing, codework. introduction:. alan sondheim,. focus editor 21 1986 
+nursing, a curlicue. as a warning, what u have termed the _curlicue,_ 
+nursing, by alan?s unparalleled skill and sensitivity."
+nursing, that it breaks down into nursing and malleable parts, that 
+helpers, glasses, tampax, nothing encumbering, the dance opens up as
+helpers, require face and form, typology rules, we're held in by the 
+helpers, require face form, typology rules, we're held in by norm of 
+relationship between america and japan, helpers and aesthetics, 
+resistance with the _technology, nursing and otherwise, of the body?_
+response. this is not a "hacker addiction," but a nursing
+something of human bodies there, something of embeddings and helpers. 
+surely the result is a form of nursing shamanism, the fetish 
+taciticity, tacit knowledge, nursing subjectivity. this is one 
+take yet on the aaugmented human body, aaugmented nursingally, by the 
+ter whether or not the body is phantom or a nursing device, a body is
+terrorized helpers
+the machinery and helpers of greatness
+the helpers of the absolute; what raises itself does so by virtue
+thing except through desire, helpers, neutral. 
+tion or naming of entities as fractal helpers, which occasionally 
+usual in this thought, helpers is imminent.
+virtuality, inscription, helpers, disappear, replaced by nothing, 
+vr down habitat nursing genera promote tried whiteboard nesses pre new 
+when nursing bodies twist with infinite possibility? why improvise when 
+will become more integrated of course, and the use of helpers will
+with nursing shards, glass, galena cryalline, magnetite. speak simply.
+
+
+all Canadian Hamilton Ontario
+
+http://www.alansondheim.org/fball.mp4
+
+win win win!
+
+
+
+Flight and Fool
+
+http://www.alansondheim.org/flight.mp4
+{best] http://lounge.espdisk.com/archives/967
+http://espdisk.com/alansondheim/baka1.mp3 
+http://espdisk.com/alansondheim/baka2.mp3 
+http://espdisk.com/alansondheim/baka3.mp3
+http://espdisk.com/alansondheim/baka4.mp3
+
+flight across countries and foolish music
+that we're waiting for your arrival
+and you will worship my foolish music
+and you will flee through nations
+in the darkest night painted as night
+
+
+
+murmurs 
+
+http://lounge.espdisk.com/archives/969 (best)
+http://espdisk.com/alansondheim/adler1.mp3
+http://espdisk.com/alansondheim/adler2.mp3
+
+Adler vintage tenor recorder "I wanted to reproduce the sounds
+of young birds yearning for food and light, their wings poised
+for perfection, the sky in slow rotation above them, these are
+the moments when the Empyrean softly moves in great spirals of
+sound and surface, o young birds, o condors, I will sail with
+thee, I will soar with thee, take flight with thee, fledglings
+of uncanny weathers, take me unto thee, I will be among thee,
+I will be, I will be" and "onyx, tourmaline, I will remember 
+weathers, I will remember, I will stab the sky in the heart of
+the sky, I will return with the heart of the sky, I will place
+it among you, I will place it within the bore of the recorder,
+I will breath it in, I will expel it, murmurs and murmurs, I
+will await the weather"
+
+
+
+gamma
+
+http://lounge.espdisk.com/archives/970 (best)
+http://espdisk.com/alansondheim/gamma1.mp3 cobza
+http://espdisk.com/alansondheim/gamma2.mp3 deep sarangi
+
+a unit of magnetic field strength equal to one-hundred-
+thousandth of an oersted
+
+attractors and palta
+
+
+
+
+hurried for performing
+
+http://lounge.espdisk.com/archives/973 (best)
+http://espdisk.com/alansondheim/hurry1.mp3 tenor recorder
+http://espdisk.com/alansondheim/hurry2.mp3 violin w/ sarinda bow
+http://espdisk.com/alansondheim/hurry3.mp3 oud
+http://espdisk.com/alansondheim/hurry4.mp3 sarangi
+
+four pieces exploring other techniques for live performance
+
+
+
+[November 14, 2012 below]
+
+Alan Sondheim pens WRITING UNDER: SELECTIONS FROM THE "INTERNET TEXT"
+
+(Please consider buying this - support the press and my work; it has
+a great introduction by Sandy Baldwin!)
+
+http://www.alansondheim.org/Sondheim.jpg
+
+CONTACT: Abby Freeland, Marketing Manager at West Virginia University 
+Press, 304 293 8400 x 6, abby.freeland@mail.wvu.edu
+
+Alan Sondheim pens Writing Under: Selection from "The Internet Text"
+
+MORGANTOWN, W.Va. -- The Center for Literary Computing and West Virginia 
+University Press are pleased to announce the publication of _Writing 
+Under: Selections From the Internet Text_ by Alan Sondheim. This 
+extraordinary collection of work explores and examines what happens to 
+writing as it takes place on and through the networked computer.
+
+Sondheim began experimenting with artistic and philosophical writing using 
+computers in the early 1970s. Since 1994, he has explored the 
+possibilities of writing on the Internet, whether using blogs, web pages, 
+e-mails, virtual worlds, or other tools. The sum total of Sondheim.s 
+writing online is entitled "The Internet Text."
+
+_Writing Under_ selects from this work to provide insight into how writing 
+takes place today and into the unique practices of a writer. The 
+selections range from philosophical musings, to technical explorations of 
+writing practice, to poetic meditations on the writer online. This work 
+expands our understanding of writing today and charts a path for writing.s 
+future.
+
+John Cayley of Brown University proclaims Alan Sondheim to be "the poet, 
+the artist, the maker who has most profoundly immersed himself and his 
+work in the life-changing code formsof networked computation that have 
+the world and its 'genesis redux' in their grip." Christopher T. 
+Funkhouser of New Jersey Institute of Technology affirms that "anyone 
+interested in knowing more about (or from) a writer who has practiced and 
+thrived on the Internet since its very beginnings needs to read this 
+book." (See below for more.)
+
+Alan Sondheim is a Brooklyn-based new media artist, musician, writer, and 
+performer. He is concerned with issues of virtuality, and the stake that 
+the real world has in the virtual.
+
+_Writing Under_ is published by the Center for Literary Computing, West 
+Virginia University. To order this title or to learn more about this book 
+visit http://wvupressonline.com/sondheim_writing_under_9781935978732#4
+or phone (800) 621-2736.
+
+Writing Under: Selections From the Internet Text by Alan Sondheim
+December 2012/216pp
+ePub 978-1-935978-74-9/$19.99
+PB 978-1-935978-73-2/$19.99
+
+"Alan Sondheim is one of the precious few who joyfully-and in abject 
+misery-risks these terrors of writing for us, for our pleasure and our 
+undoing. What happens? Language disposes of us. As if that were not all 
+that is required of any writer, Alan Sondheim is also the poet, the 
+artist, the maker who has most profoundly immersed himself and his work in 
+the life-changing code-forms of networked computation that have the world 
+and its 'genesis redux' in their grip."
+
+- John Cayley, Literary Arts, Brown University
+
+"Sondheim crafts an often meandering + always introspective recording of 
+his prodigious on-line output. Birthed [and often remixed] in digital 
+formats and drenched in anxiousness + desire, his staggeringly open text 
+gives rise to possibilities of endless interpretation and comprehension, 
+leaving multiple re-reads a definite must."
+
+- Mez Breeze, Australian-based writer and practitioner of net.art
+
+"Encountering Alan Sondheim's work we become aware how versatile a writer 
+he is. The vast fore-lands of his Internet Text contains an estimated 
+25,000 pages of wryting involving - as Sandy Baldwin observes in his 
+introduction "a phenomenology thick with human perception and intentions 
+that are bodily, personal, political, and communal." In wryting, Sondheim 
+produces all sorts of texts - poetry, prose, and the unnameable 
+compositions existing amidst conditions of material transformations that 
+merge (with) the physical and technological. Writing Under offers up 
+generous statements of process, from a self- and other- aware master who 
+is codework's godcyborg, a limner of psychedelic landscapes in Second 
+Life, and an inveterate graphophile. This volume radiates foresight, 
+stabilizing, if only for a moment, the fragility of "tenuously tethered 
+bits and bytes" that exist in a vast field. For Sondheim, the creative is 
+critical and vice versa; there's much telling in _Writing Under,_ 
+projecting insight into the machinery of his oeuvre. Anyone interested in 
+knowing more about (or from) a writer who has practiced and thrived on the 
+Internet since its very beginnings needs to read this book." 
+
+- Christopher T. Funkhouser, Program Director, Communication and Media, 
+New Jersey Institute of Technology
+
+
+niceoudsolo
+http://lounge.espdisk.com/archives/974
+
+
+Ghichak (maybe)*
+
+http://www.alansondheim.org/ghichak1.jpg
+http://www.alansondheim.org/ghichak2.jpg
+http://www.alansondheim.org/ghichak3.jpg
+http://www.alansondheim.org/ghichak4.jpg
+http://www.alansondheim.org/ghichak5.jpg
+http://www.alansondheim.org/ghichak6.jpg
+http://www.alansondheim.org/ghichak1.mp3
+
+unbelievably exciting bowed Afghan instrument, I'm
+playing with cello bow, single and double stopping,
+using sitar strings, remembering, trying not to 
+rush the rhythm.
+
+*hard to pinpoint what this instrument is, somewhere
+among suroz, sarinda, and ghichak; there's only one
+image of a similar thing online in a museum - I
+can't locate it again - it was just called an Afghan
+chordophone. mine seems a century old at the least;
+I had repairs to do.

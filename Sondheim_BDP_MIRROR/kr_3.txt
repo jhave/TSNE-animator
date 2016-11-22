@@ -1,0 +1,34 @@
+
+
+
+_la nausee_
+
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+a b see d e f g h i j k l m n o p q r s t u v w x y z
+a b see d e f jee h i j k l m n o p q r s t u v w x y z
+a b see d e f jee h i j seeay l m n o p q r s t u v w x y z
+a b see d e f jee h i j seeay l m n o p seeue r s t u v w x y z
+a b see d e f jee h eye j seeay l m n o p seeue r s t u v w x y z
+a b see d e f jee h eye j seeay l m n o p seeue r s t u v dublu x y z
+a b see d e f jee h eye j seeay l m n o p seeue r s t u v dublu eseeays y
+z
+a b see d e f jee h eye j seeay l m n o p seeue r s t u v dublu eseeays y
+eseeaysee
+a b see d e eph jee h eye j seeay l m n o p seeue r s t u v dublu eseeays
+y eseeaysee
+
+now y can be written wei, but i is eye, so it becomes recursive
+now u can be written ewe, but w is dublu, so it becomes recursive
+likewise for example, a can be written ay or ai, so it becomes recursive
+c is see, g is jee, k is cay, q is cue, i is eye, w is dublu, x is eks,
+z is xee, f is eph.
+
+to be sure there are other routes; one would hope for the universal aleph
+or schelling's A, such that all letters and meanings are absorbed in rela-
+tion to their _names_ in english, or any other language.
+
+thus the stillness, _nausee,_ and stuffing of the world are revealed, says
+jennifer, sitting on the ground.
+
+

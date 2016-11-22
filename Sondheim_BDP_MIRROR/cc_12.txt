@@ -1,0 +1,32 @@
+
+
+
+Subject: Re: Enormous difficulty of 300 baud
+
+
+
+Which (musing further) leads me to believe that by the time pine, tin, 
+Phoenix IRC, etc. were developed, baudrate had sped up sufficiently so 
+that redraws weren't a problem. Which means there are still ways to make 
+the applications leaner just as SMTP is leaner than Columbia mail which 
+is leaner than elm which is leaner than Pine which is far leaner than 
+Eudora and we can just continue upwards in the spiral outwards.
+
+I wonder if there were .sigs in 300 baud days and how they were handled - 
+the constant redraw slowed things up at least 50%. In other words, if 
+there's a .sig in a post, then all text above it is an _insert_ and each 
+new line of text moves the .sig down one, which has to be redrawn...
+
+And I still can't figure out the download mode, except that it seems to 
+call up awk for some reason at the Unix prompt!
+
+Next stop, the abacus (I've written, by the way, on the abacus, somewhere 
+in the earlier parts of the Internet text, .sig below, having used both 
+Japanese and Chinese variants) ...
+
+Alan
+
+    http://jefferson.village.virginia.edu/~spoons/internet_txt.html 
+             images: http://www.cs.unca.edu/~davidson/pix/ 
+                       4 GIN 1/3 SA KUG. BABBAR
+

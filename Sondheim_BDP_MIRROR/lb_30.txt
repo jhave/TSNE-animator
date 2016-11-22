@@ -1,0 +1,144 @@
+
+
+
+Configurations of the Electric 
+
+
+(Response to Brian Carroll's text on Nettime, and others back-channel.)
+
+Think of three configurations of the _electric_ as a discourse network,
+after the era of experimentation, voltaic cells, kite experiments, the
+working-out of Maxwell and Faraday, galvanic twitches - in other words
+after the two early configurations of the _anecdotal_ based on apparently
+unrelated phenomena, and the eventual _mathesis_ of the same.
+
+The early-mechanical - look at any text from say 1880-1905 - the images of
+rheostats, circuit breakers, transformers, motors - only the light-bulb
+contained the vacuum that opens up into the second configuration. Space in
+this first configuration is that of mechanism, euclidean, 'practical.' The
+chemical is also critical; there are batteries, measuring devices, indus-
+trial processes, all in interaction with gears, levers, cams and rockers.
+There are dialectic and insulating materials everywhere; the _weight_ of
+apparatus immediately comes to mind - heavy electric motors, AC-DC, power-
+lines, turbine generators - but even wound coils and capacitors. In the
+anthracite mines of Pennsylvania, my homeland industry, huge bolted elec-
+tric pumps and conveyors were used in the mines, collieries, and breakers;
+the pumps are massive, swollen masses of black iron housing. Everything is
+laid out mechanically; there are pulleys, belts, I-beams, and even within
+the home the electrical grid consisted of _parallel lines_ running to the
+sockets, a power skein of poor shielding. The early electric was _rotary,_
+light-bulbs themselves transforming cities and work-force, night into day,
+the luminous heated tips of the grid tending towards vacuum. In Appleton's
+Cyclopaedia of Applied Mechanics: A Dictionary of Mechanical Engineering
+and the Mechanical Arts, 1880, there are the following entries: Electric
+Bells, Electric Clock, Electric Engraving Machine, Electric Fuse, Electric
+Gas-Lighter, Electricity ("According to the modern theory of correlation
+and conservation of forces, electricity is a mode of motion of the mole-
+cules of matter. 'Light, heat, electricity, magnetism, motion, are all
+convertible material affections. Assuming either as the cause, one of the
+others will be the effect. Thus heat may be said to produce electricity,
+electricity magnetism; and so of the rest.' (Grove.)"), Electric Light,
+Electric Loom, Electric Machines (Static), Electric Pen, Electro-Ballistic
+Machines, Electro-Galvanic and Thermic Batteries, Electro-Magnet, Electro-
+Metallurgy or Galvanoplasty, Electrometers and Galvanometers, Electromo-
+tors, Electroplating, Electroscopes, and Electrotyping. Other entries are
+scattered among the two volumes with five-thousand engravings.
+
+The vacuum - say 1910-1950 - use of vacuum tube technology, television,
+radar, etc. - electrons moving through empty internalized space - I think
+of this as organism, 'atomic.' As organism, I note the internal _heat_ and
+separation of interior from exterior by the thin skin of glass, the cath-
+ode streaming electron-blood, the warm glow, the grids screening the way
+to the anode; the vacuum life is a hallowed-hollowed life. In 'hi-fi' aud-
+io amplifiers, a certain _resonance-effect_ is established as the life of
+the song and the tube itself dance harmonically (wolf-notes). Even the in-
+terior of the computer monitor remains mysterious, delicately blown; on my
+Sony Triniton screen, I see faint outlines of the wires supporting inner
+gridding. In the Coyne Television Cyclopedia, 1951, article on picture
+tubes, one reads "The electron stream still is spreading to some extent as
+it reaches the space in which is a magnetic field produced by the focusing
+coil or focusing magnet. This field draws the electrons together to form a
+narrow beam that strikes the screen of the tube on a spot of small
+diameter. This is the action of focusing, which is explained in the
+article on _Focusing and Focusing Controls._" Here are the operations of
+the interior, controlled by _fields,_ not necessarily of a Euclidean meas-
+ure - operations upon a stream of sub-atomic particles. One thinks of
+x-ray and other radiations made visible, for example radium decay through
+Crookes' 1903 spinthariscope or cloud-chamber photographs; the former
+relies on particle emission producing scintillation against a zinc oxide
+target, and the latter, appearance of cloud-tracks within a chamber embed-
+ded in a magnetic field. The information in the cloud-chamber is conveyed
+by the trajectory itself; within the television tube, it is based on the
+trajectory as scan, the amplitude of the stream governing the effects on
+the screen.
+
+The electronic - 1950-on out - transistors through integrated circuits of
+increasing size and complexity - etc. - here's where computation begins
+and the space is topological, not geometric - it's a question of point-to-
+point connectivity, layers. Three or more spatial dimensions permit an
+indefinite number of such connections; in two-dimensions, four is the max-
+imum number of points that can be connected without cross-overs. Layers of
+roughly two-dimensional surfaces (which can however be connected both
+front and back), or even the cylindrical geometries of some super-comput-
+ers, are practical solutions. The electronic tends towards physical _sta-
+sis_; the ultimate device has no moving parts whatsoever, weighs almost
+nothing, is nearly invisible, presents a flat inert surface to the user,
+does what it's intended to do without interference. The interface may be
+audio, physical pressure (touch-screen); it maybe be thought itself. Think
+of the electronic as the _tendency of matter towards information_ - matter
+which is, down to the molecular, infinitely addressable, each address in-
+ert, possessing one of a number of states (including probabilistic states
+in quantum theory, and, ironically, mechanical states in nanotech). This
+is the literal blank generation, offering and containing everything, not
+so much the (vacuum) _body_ of the organism as inherent simulacrum of the
+mind.
+
+All of these interpenetrate, exist within one another's imaginary, that of
+infinite power, infinite life within the world of the practical-inert. Ev-
+en television has its ancestory in, among other things, nineteenth century
+parallel-pen telegraphy and spark-grids; one might think of legacy systems
+backwards and forwards throughout the history of technology.
+
+And all of these are qualitatively different; the 'electric' of 1900 was
+not the 'electric' of 1930, nor that of 1999. On the other hand the power
+grid moves through all of these states, but the _control_ begins with the
+first configuration, moves through the last. With the telephone, control
+is even hand-control (human operators, etc. making connects for even local
+calls) at first - the rest come later. (One can imagine a fourth configur-
+ation: nanotech in combination with organic membranes, within the next ten
+years 'or so.')
+
+[ The static, static electricity, interests me as well; it's as if it were
+inherent in objects - St. Elmo's Fire, the electrical energy spewing from
+telephone pole tips in Santa Monica, California, the sporadic lightning
+energy of the Wimhurst generator - it's an energy which seems unable to be
+harnessed, it bursts forth - so relates as well to a material unconscious,
+taking a drive to bring it to the surface, expose it, produce/reproduce.
+This energy which can so easily destroy a solid-state electronic chip will
+do minimal damage, if anything, to vacuum tube circuitry, and even less to
+mechanical configurations; as one proceeds through the twentieth century,
+size and voltage/amperage diminish ... ]
+
+
+Configurations of the Electric: Addenda
+
+
+Think of ur-, anywhere before the seventeenth century in Europe - there
+are SPARKS, LIGHTNINGS, ST. ELMO'S FIRE; there are LODESTONES, CAT FUR and
+AMBER, TEKTITES: chthonic residue, detritus, isolated phenomena, distances
+of plains, valleys, and mountains, circuitous routes (even then the cir-
+cuit completes, Japan's early contacts with China, for example, dangerous
+- ships disappearing forever in the sea, finally sufficient returns of
+Buddhist monks, texts, rites and rituals) -
+
+And only _after_ this _divinatio,_ the configurations of the electric as
+accumulations tending towards coherent and somewhat unified phenomena -
+
+Think of last, anything after the stages of configurations - mid twenty-
+first century - _animate_ matter, inertias, _universal stone,_ kaolins -
+inherency in pebbles, _spewed matter_ elsewhere - bootstrapping for exam-
+ple humanity 5,000,000 BCE; 30,000 BCE; 5,000 BCE - trembling towards the
+future - circuitry through time and space - maybe a desire not to return.
+foreclosing, _leaving_
+
+

@@ -1,0 +1,116 @@
+==
+
+
+Plain and Heap
+
+
+No longer the line, the geometry, only the gatherings of beads, tokens,
+markers, units, only the rubble of accountancy:
+
+At the level of the plain, the abacus behaves differently. Consider an in-
+finite (or inaccessibly high finite etc.) flat surface of beads; it be-
+comes necessary to isolate portions among them, for example a 1-portion
+and a 2-portion, in order to carry out any operations.
+
+The portions have to be specified by closed, i.e. Jordan, curves which do
+not cross themselves. For addition and subtraction, either channels must
+be opened between the portions (in order to join or separate them), or an
+operation may be carried out, such that removing 1 bead from a 2-portion
+is accompanied by adding 1 bead to a 1-portion:
+
+2-portion - 1 => 1-portion + 1
+
+until 2-portion is empty, i.e. 2-portion = 0 (in which case the 2-portion
+may no longer exist).
+
+Subtraction is in the opposite direction, but in order to subtract a spec-
+ified amount note that we dispense with channels, so that
+
+2-portion - 1 => 1-portion - 1,
+
+with the bead from 1 portion returning to the undifferentiated plain, and
+this continues until 2-portion = 0 (or becomes non-existent).
+
+Note that a method is necessary to keep 1-portion and 2-portion separate
+and labeled.
+
+Multiplication and division also work by repeated additions and subtrac-
+tions, using a 3-portion, if not 4-portion and 5-portion for tallying -
+see heaps, below.
+
+And how are portions diminished or incremented in the midst of a solid sea
+of beads? Moats must be constructed, portions piled in grounds cleared of
+any interferences.
+
+So that from the plain, one gathers beads into heaps. The heaps are separ-
+ated by blanked space, the ground-state; this state G = 0. G is always
+existent; it is a territorialization, a boundary, a marker by virtue of
+lack of demarcation. If G = 0 it is 0 anywhere, everywhere that G is.
+Think of it as the Basin in Bon religion, or Kristevan chora. Nothing is
+ever placed within G; G surrounds heaps. New heaps may be created, but G
+is not among them, within them. In this sense, G is not a natural number,
+but a numberless state, not even an emptying of number. In this sense as
+well, the integers move from 1 upwards; negative integers might be indi-
+cated by heaps labeled as negative, but in fact all heaps are of the form:
+
+HN = | N | where N > 0.
+
+To add: combine heaps. To subtract: Either remove any number of beads from
+one heap and place them in a second heap or:
+
+Begin with H1 = X and H2 = Y. To reach X - Y:
+
+Subtract a bead from both; place these beads in a third heap H3; carry
+this operation out until H2 is empty. When H2 is empty, H2 = 0 = G, the
+undifferentiated state, H2 no longer existent. But see below, labeling.
+
+This depends of course on Y < or = X.
+
+To multiply X * Y. Create H3 and H4. Move H1 bead by bead to H3; each
+time, add one bead to H4. When H1 = 0 (i.e. non-existent), subtract one
+bead from H2 and place it in H5. Then move H3 bead by bead to H1 (which
+must be created anew - H3 and H1 oscillating in this fashion); each time,
+add one bead to H4. When H3 = 0 (i.e. non-existent), subtract another bead
+from H2 and place it in H5. We then have
+
+H1 = X
+H3 = 0 (i.e. non-existent)
+H2 = Y - 2
+H4 = X * 2
+
+continue until
+
+H2 = 0 (i.e. non-existent) at which point H4 = X * Y.
+
+In order to divide, a similar process is used, tracking beads removed from
+H1 in quantities of H2, until H2 > H1 (as divided), in which case what
+remains in H1 is the remainder.
+
+We have numbers to no base or perhaps to base infinity or to base 1. At
+the level of the heap, infinity cycles back to 1; at the level of the
+heap, there is no positionality. With the infinite or inaccessibly high
+finite column abacus, an infinite base might be theoretically employed,
+each integer individuated; with the infinite or inaccessibly high finite
+row abacus, a base of 1 might be theoretically employed, each integer an
+extension.
+
+Throughout all of this, the heaps must be labeled (just as the portions
+had to be labeled); think of a interior beads in label quantities o oo ooo
+oooo ooooo surrounding an emptied center, with rays connecting the center
+through the label quantities to the heaps beyond. If there are no heaps
+beyond certain label quantities, those spaces are reserved for the crea-
+tion of heaps, i.e. as in the oscillation of H1 and H3 above, which is
+based on the constant recreation of heaps in order to carry out multiplic-
+ation and division.
+
+Naturally the ground must be kept clear of any rolling beads, false beads,
+embezzlement beads, stolen beads, extra beads, and masqueraded bead-like
+objects. And naturally the ground must be level to avoid such rolling
+beads as well as emptied, flat, in order to create maximum conditions of
+visibility. One might think of Bentham's Panopticon as described by Fou-
+cault in this regard - while beads remain undifferentiated, except by
+virtue of belonging as a member of a set (heap), they must nonetheless
+leave a trail or trace; nothing must remain unaccounted or unaccounted-for
+and nothing must be unaccountable.
+
+

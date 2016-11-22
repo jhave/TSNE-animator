@@ -1,0 +1,5 @@
+
+      (short domain name) $w = panix3
+  (canonical domain name) $j = panix3.panix.com
+         (subdomain name) $m = panix.com
+              (node name) $k = panix3.panix.com

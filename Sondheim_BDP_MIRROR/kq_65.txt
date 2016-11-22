@@ -1,0 +1,4 @@
+
+Has been logged on for 15 seconds.
+Alan is not currently idle.
+Cumulative login time is 13 hours, 41 minutes and 41 seconds.

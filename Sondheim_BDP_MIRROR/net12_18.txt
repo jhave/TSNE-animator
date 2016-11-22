@@ -1,0 +1,104 @@
+
+
+
+
+Query
+
+
+
+
+
+Although the I Ching and other permutation/oracular systems have been 
+
+around for thousands of years, I wonder when binary encoding systems, 
+
+i.e. the mapping of <a,b> upon the natural numbers, first came into 
+
+existence. I am referring to more than an <on,off> set here, such as 
+
+found in the Jacquard loom, but instead an _implicit recognition_ of 
+
+binary mathematization, in which for example N -> <0,1>. This mapping 
+
+involves several principles, not least of which is a concatenation of a 
+
+string of symbols. The abacus comes to mind, but the 2/5 version of the 
+
+Chinese or 4/1 version used in Japan plays itself out according to base
+
+10 at the least. Napier's logarithms come to mind; these, I believe,
+
+were originally to base ten; it must have occurred around the same time 
+
+that other bases were equally feasible, and from that conclusion, the 
+
+binary system would have evolved. Now Napier was born ten years earlier
+
+than Francis Bacon (1560), and the latter has an interesting passage in 
+
+his _Instauratio Magna,_ specifically The Dignity and Advancement of 
+
+Learning, Book VI/1, in which he presents an account of a cipher "that we 
+
+devised at Paris in our youth, and which has the highest perfection of a 
+
+cipher - that of signifying _omnia per omnia_ (anything by everything)" 
+
+... A footnote at this point explains "For this cipher is practicable in 
+
+all things that are capable of two differences." The result is a charted 
+
+"Biliteral Alphabet, _Consisting only of a and b changed, through five 
+
+places, so as to represent all the letters of the common alphabet._" The 
+
+system devised is precisely a binary encoding of the integers applied to 
+
+the alphabet, with A = aaaaa, B = aaaab, C = aaaba, and so forth, until 
+
+Z = babbb or 23. The respective strings are ordered according to a binary 
+
+mapping. (Letters J and U are eliminated, and A is set, of course, equal 
+
+to zero, if a = 0, b = 1.) In a footnote, Bacon also mentions Bishop 
+
+Wilkin's "Secret and Swift Messenger," and Falconer's "Cryptomenysis 
+
+Patefacta." He also discusses a secondary articulation or message, 
+
+written in both roman and italic scripts, the former implying a, and the 
+
+latter, b. Now what interests me about all of this is, first of all, a 
+
+clear presentation of binary encoding, _omnia per omnia,_ and second, the 
+
+relation of this encoding to encryption - in fact, the encoding is 
+
+_generated_ by the desire for encryption or secrecy. And the latter 
+
+extends to a totalization of the world, that is, _omnia._ So there are 
+
+three things at work: the double, the code, and the all - and the triad 
+
+is constructed within the guise of a _masquerade,_ but a masquerade that 
+
+communicates. And if we take this further, to a consideration of cyber- 
+
+space, we find that the triad has become manifest, not only within formal 
+
+syntactics (double = <0,1>; code = protocol; _omnia_ = cyberspatiality), 
+
+but also within the subject herself/himself (double = virtual and real 
+
+embodiment, code = language, _omnia_ = cyberspace). The issue of secrecy 
+
+and encryption, then, is "ancient," returning as a _generative process_ 
+
+at the beginning of the twenty-first century. I wonder what other archae-
+
+ocryptonic mappings exist in relation to this process; I wonder what forms
+
+of habitus accompanied them.
+
+
+

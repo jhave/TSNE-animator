@@ -1,0 +1,27 @@
+
+
+
+Pleas/e
+
+
+>>> can i move across the empty screen. i cannot move the empty screen. 
+<<< >>> can i move myself from left to right. i cannot move from up to
+down. <<< >>> can i take me to the last one. i cannot take you to the
+first one. <<< >>> can i speak to you from now on. i could never speak to
+you from then on. <<< >>> can i move to the beginning. i cannot find i
+have an ending. <<< >>> can i move to the first letters. primordial, i beg
+of you, get me. <<< >>> can i move into the thickness. i cannot move out
+from the thinness. <<< >>> mark me. <<< >>> cut me. <<< save me. >>> <<<
+primordial, i shall be marked. >>> <<< <<< i shall be saved. <<< can i
+have a word with you. i cannot have a word with you (a word is all i want,
+just one word with you, you just have to listen for a minute or two) >>>
+<<< please, just for a second. >>> <<< come on, don't do this to me. >>>^B
+left ^F right ^[Y top of file ^^ mark ^D char ^J format ^X save ^P up ^N
+down ^[V end of file ^K cut ^K line ^T spell ^C abort ^Y prev. screen ^A
+beg. of line ^U paste ^[K >line ^[T file ^Z shell ^V next screen ^E end of
+line ^[U select ^[H word< ^L refresh FILE ^@ prev. word ^[L line No. ^O
+save ^[D >word ^[^[ options ^O save ^_ next word ^W find text ^[/ filter
+^[- undo ^[= redo ^R insert "Please, I'm primordial; please don't do this
+to me."
+
+

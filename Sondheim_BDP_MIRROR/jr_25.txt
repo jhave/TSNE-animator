@@ -1,0 +1,140 @@
+
+ 
+
+ARCHIE SEARCHES FOR JENNIFER
+
+
+Host plaza.aarnet.edu.au
+
+    Location: /graphics/gif/j
+           FILE -r--r--r-- 208675 Dec 8 1992 jennifer_connelly.gif.gz
+
+Host vivaldi.belnet.be
+
+    Location: /mirror/ftp.uu.net/usenet/control/alt
+           FILE -r--r--r-- 589 May 21 1994 alt.fan.jennifer.capriati.gz
+           FILE -r--r--r-- 2089 Dec 29 1994 alt.spank.jennifer.capriati.gz
+           FILE -r--r--r-- 2048 Dec 29 1994 alt.spank.alan_jennifer.gz
+
+Host ftp.std.com
+
+    Location: /customers2/nonprofits/hsri/legal/intros/.cap
+           FILE -rwxrwxr-x 27 Sep 14 1994 jennifer.kung
+    Location: /customers2/nonprofits/hsri/legal/intros
+           FILE -rwxrwxr-x 967 Sep 14 1994 jennifer.kung
+    Location:
+/gopherdir/vendors/.customers/nonprofits/hsri/legal/intros/.cap
+           FILE -rwxrwxr-x 27 Sep 14 1994 jennifer.kung
+    Location: /gopherdir/vendors/.customers/nonprofits/hsri/legal/intros
+           FILE -rwxrwxr-x 967 Sep 14 1994 jennifer.kung
+    Location: /pub/jwenn
+           FILE -rw-r--r-- 2837 Jun 28 1995 Roberson.Jennifer
+
+Host ftp.fu-berlin.de
+
+    Location: /doc/usenet/control/alt
+           FILE -rw-r--r-- 589 May 21 1994 alt.fan.jennifer.capriati.gz
+           FILE -rw-r--r-- 2089 Dec 29 1994 alt.spank.jennifer.capriati.gz
+           FILE -rw-r--r-- 8192 Dec 29 1994 alt.jennifer_panties.gz
+
+    Location: /misc/sf/startrek/alt.startrek.creative/story/ds9
+      DIRECTORY drwxr-xr-x 512 May 17 1994 Jennifer_Shipp
+
+Host ftp.jennifer-alan.com.de
+
+    Location: /bin/etc/users/jennifer/
+           FILE -r--r--r-- 4096 June 30 1991 EXPLAIN_ALL_README.txt
+           FILE -rwxr--r-- 8192 June 30 1991 jennifer-frock.jpg
+           FILE -rwxr--r-- 8192 June 30 1991 jennifer-petticoat.jpg
+           FILE -r--r--r-- 18384 June 31 1991 alan-petticoat.jpg
+           FILE -r--r--r-- 18384 June 31 1991 alan-frock.jpg
+           
+Host info2.rus.uni-stuttgart.de
+
+    Location: /pub/misc/guitar/d/donovan
+           FILE -r--r--r-- 2226 Aug 1 1994 jennifer_juniper.crd
+    Location: /pub/misc/guitar/h/hole
+           FILE -r--r--r-- 2489 Apr 20 1995 jennifers_body.crd
+           FILE -r--r--r-- 2350 May 11 1995 jennifers_body.tab
+           FILE -r--r--r-- 2350 May 11 1995 alans_body.tab
+
+    Location: /pub/misc/guitar/s/smashing_pumpkins
+           FILE -r--r--r-- 4051 Apr 24 1995 jennifer_ever.crd
+
+Host ftp.dartmouth.edu
+
+    Location: /pub/Friends/PIX
+           FILE -rw-r--r-- 19237 Jan 23 1995 ew-lisa-jennifer.jpg
+           FILE -rw-r--r-- 27003 Jan 15 1995 jennifer.jpg
+
+Host ftp.cc.gatech.edu
+
+    Location: /ac86/people/guzdial/camile/4901
+           FILE -rw-rw-r-- 8107 Oct 20 1994 jennifer.hqx
+
+Host nic.funet.fi
+
+    Location: /pub/culture/tv+film/reviews/J
+           FILE -rw-rw-r-- 2747 Nov 12 1992 JENNIFER_8.1595
+    Location:
+/pub/mirrors/ftp.fu-berlin.de/misc/sf/startrek/alt.startrek.creative/story/ds9
+      DIRECTORY drwxr-xr-x 8192 Mar 11 1995 Jennifer_Shipp
+
+Host ftp.loria.fr
+
+    Location: /pub7/obi/customers/nonprofits/hsri/legal/intros
+           FILE -r--r--r-- 622 Aug 12 1994 jennifer.kung
+    Location: /pub7/obi/nonprofits/hsri/legal/intros
+           FILE -r--r--r-- 622 Aug 12 1994 jennifer.kung
+
+Host ftphost.ee.cit.ac.nz
+
+    Location: /cdrom/disk7/1996YearBook/web/students/heardsi
+           FILE -rw-r--r-- 880 Aug 6 1996 jennifer.map
+    Location:
+/cdrom/disk7/1996YearBook/web/students/sykesst/SndsPics/Pictures/Famous
+           FILE -rw-r--r-- 70911 Dec 11 07:10 Jennifer
+/cdrom/disk7/1996YearBook/web/students/sykesst/SndsPics/Pictures/Unknown
+           FILE -rw-r--r-- 16384 Dec 11 07:15 Alan_Jennifer.jpg
+
+Host ftp.mc.hik.se
+
+    Location: /pub/users/mdl95waj/friends
+           FILE -rw-rw-r-- 8719 Mar 26 1996 jennifer.jpg
+
+Host ftp.umu.se
+
+    Location: /user/home/mwk-www/public/dukom/INDEX2
+           FILE -rw-r--r-- 3988 Jul 14 1996 JENNIFER.HTM
+
+Host unix.hensa.ac.uk
+
+    Location: /mirrors/uunet/usenet/rec.arts.movies.reviews/long.dir/J
+           FILE -r--r--r-- 5045 Sep 14 1995 JENNIFER_8.1595
+    Location: /mirrors/uunet/usenet/rec.arts.movies.reviews/short.dir/J
+           FILE -r--r--r-- 5045 Sep 14 1995 JENNIFER_.1595
+    Location: /mirrors/wuarchive/multimedia/images/gif/j
+           FILE -r--r--r-- 74072 Apr 15 1993 jennifer2.gif
+           FILE -r--r--r-- 268126 Mar 23 1994 jennifer3.gif
+    Location: /mirrors/wuarchive/multimedia/images/jpeg/unindexed/940324
+           FILE -r--r--r-- 55360 Mar 23 1994 jennifer4.jpg
+           FILE -r--r--r-- 63714 Mar 23 1994 jennifer5.jpg
+           FILE -r--r--r-- 121646 Mar 23 1994 jennifer7.jpg
+           FILE -r--r--r-- 129705 Mar 23 1994 jennifer8.jpg
+           FILE -r--r--r-- 16384 Mar 24 1994 jennifer_alan_index.jpg
+    Location: /mirrors/wuarchive/multimedia/images/jpeg/unindexed/940414
+           FILE -r--r--r-- 39793 Apr 13 1994 jennifer10.jpg
+           FILE -r--r--r-- 88163 Apr 13 1994 jennifer11.jpg
+           FILE -r--r--r-- 54847 Apr 13 1994 jennifer12.jpg
+           FILE -r--r--r-- 87939 Apr 13 1994 jennifer13.jpg
+           FILE -r--r--r-- 63368 Apr 13 1994 jennifer14.jpg
+           FILE -r--r--r-- 116466 Apr 13 1994 jennifer15.jpg
+           FILE -r--r--r-- 55183 Apr 13 1994 jennifer16.jpg
+           FILE -r--r--r-- 79144 Apr 13 1994 jennifer17.jpg
+           FILE -r--r--r-- 75350 Apr 13 1994 jennifer18.jpg
+           FILE -r--r--r-- 16384 Mar 24 1994 jennifer_alan_index.jpg
+           FILE -r--r--r-- 117060 Apr 13 1994 jennifer19.jpg
+           FILE -r--r--r-- 76102 Apr 13 1994 jennifer20.jpg
+           FILE -r--r--r-- 90725 Apr 13 1994 jennifer9.jpg
+
+

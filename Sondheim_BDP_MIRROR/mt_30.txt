@@ -1,0 +1,78 @@
+
+
+
+in the ice
+
+
+
+You are all alone here.
+
+No topic has been set yet.
+.topic Brrrr... cold here and irritable too...
+Topic set to: Brrrr... cold here and irritable too...
+.grrr
+.mutter alan no matter what it's freezing here
+Talking about yourself is a sign of madness!
+.mutter alan if you can read this you're not me no matter what you say
+Talking about yourself is a sign of madness!
+.whisper alan that's enough about me...
+
+.charecho the ice is about to crack and i'm going down...
+Echoing for character mode clients ON.
+.echo some of my fingers are falling of
+.echo + some more of them to
+.mutter this is getting me nowhere and there's icicle from my beard
+There is no one of that name logged on.
+.sing i'm freezing i'm freezing the north wind's gonna blow
+.sing molly ann
+.sing molly an
+.mutter alan isn't there anyway out of this thing
+Talking about yourself is a sign of madness!
+.knock alan
+There is no such room.
+.knock anti-war
+You are already in the anti-war!
+.wake alan
+Trying to wake yourself up is the eighth sign of madness.
+.grrr
+.think i'm about to freeze to death...
+.rev
+*** Room conversation buffer ***
+
++ some of my fingers are falling of
++ + some more of them to
+Alan sings o/~ i'm freezing i'm freezing the north wind's gonna blow o/~
+Alan sings o/~ molly ann o/~
+Alan sings o/~ molly an o/~
+Alan thinks . o O ( i'm about to freeze to death... )
+
+*** End ***
+
+.mutter just fell through that crack
+There is no one of that name logged on.
+.sing break my mother's back
+.heh really break my own
+.sing break my damn freezing back
+.think time to get outta here
+.rev
+
+*** Room conversation buffer ***
+
++ some of my fingers are falling of
++ + some more of them to
+Alan sings o/~ i'm freezing i'm freezing the north wind's gonna blow o/~
+Alan sings o/~ molly ann o/~
+Alan sings o/~ molly an o/~
+Alan thinks . o O ( i'm about to freeze to death... )
+Alan sings o/~ break my mother's back o/~
+Alan sings o/~ break my damn freezing back o/~
+Alan thinks . o O ( time to get outta here )
+
+*** End ***
+
+.damn freezing
+.quit freezing
+
+You are removed from this reality...
+
+

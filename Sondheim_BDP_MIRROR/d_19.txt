@@ -1,0 +1,62 @@
+
+
+
+
+
+
+From sondheim@panix.comSun Mar 12 03:26:31 1995
+
+Date: Sun, 12 Mar 1995 03:25:13 -0500
+
+From: Alan Sondheim <sondheim@panix.com>
+
+To: sondheim@panix3.panix.com
+
+
+
+
+
+Net Storm
+
+
+
+
+
+More: *s are failures, storming everywhere across the Net from New York to
+
+the list headquarters in Virginia... the dusk of the Net is approaching,
+
+red glow on the horizon, not a sunset _I_ can assure you...
+
+
+
+
+
+
+
+ 1  xenyn-eid-E0.nyc.access.net (198.7.0.126)  2 ms  2 ms  2 ms
+
+ 2  sl-dc-1-S12-T1.sprintlink.net (144.228.21.21)  10 ms * *
+
+ 3  icm-dc-1-F0/0.icp.net (144.228.20.101)  11 ms  10 ms *
+
+ 4  icm-fix-e-H2/0-T3.icp.net (192.157.65.122)  10 ms  11 ms  10 ms
+
+ 5  192.203.229.9 (192.203.229.9)  11 ms  11 ms *
+
+ 6  128.167.252.9 (128.167.252.9)  11 ms  11 ms  12 ms
+
+ 7  128.167.212.2 (128.167.212.2)  12 ms *  12 ms
+
+ 8  * ctv-wtn8-c3mb.sura.net (128.167.3.2)  20 ms  20 ms
+
+ 9  uva-ctv-c3mb.sura.net (192.221.3.18)  24 ms  32 ms  26 ms
+
+10  * acc-router.ver.NET (137.54.200.12)  29 ms  22 ms
+
+11  garrett1-router.acc.Virginia.EDU (128.143.226.4)  26 ms  31 ms *
+
+12  jefferson.village.Virginia.EDU (128.143.200.11)  38 ms  28 ms  26 ms
+
+
+

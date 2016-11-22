@@ -1,0 +1,5 @@
+>
+42986 bytes. ETA: 0:00 le:  42986 bytes received in 15.01 seconds, 2.80
+kB/s. panix3:/net/u/6/s/sondheim> cd trace
+panix3:/net/u/6/s/sondheim/trace> get diary2.txt Receiving file:
+diary2.txt 100% 0

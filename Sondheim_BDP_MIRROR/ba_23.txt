@@ -1,0 +1,63 @@
+
+
+
+Disappearance of the Everyday
+
+
+I am reading TV and Radio Manual, Everybody's Television and Radio Hand-
+book, published 1951, by Popular Science. It is a compendium of articles
+from the magazine, relevant to any history of technology; there are sec-
+tions, for example, dealing with the CBS color scheme of successive green/
+blue/red recorded screens, viewed on a black and white tube through a
+revolving color filter. (The scheme was abandoned in favor of a purely 
+electronic one.)
+
+What fascinates about the manual is the large number of articles detailing
+the use of the everyday. Here are some titles, at random: High-Voltage Fun
+with a Spark Coil (from a Model T Ford); Flush-Tank Guide Forms Handy
+Detachable Ground Connection; Wire Fished with Folding Rule; Workshoppers'
+Tricks Tickle TV Audience; Glow of Radio "Candle" Keeps Time to Music; 
+Oscillators - Tuning Forks of Electronics; Cigar-Box Tesla Coil; My TV Set
+'Sees' Color Pictures; Phonograph Pickup Arm of Plastic is Handsome and
+Light in Weight; TV Color 'Sampler' Costs Only $8; Your Pocket can House a
+4-Tube Radio; Magic with Neon Glow Lamps; Tire Pump Dusts Radio Chassis; 
+Matchstick Needles Cut Noise; Can Protects Outdoor Switch; Rotary Rectifi-
+er Supplies Direct Current for Charging Batteries. The last is typical of 
+the more difficult constructions. 
+
+There are numerous diagrams for winding coils, cutting wood and pipe, mak-
+ing antennas and cabinets, and even building a tube radio into a skillet. 
+The workplace uses the kitchen and bathroom which use the workplace. Rul-
+ers are sufficient for measuring lengths. Miniature tubes are common and
+about two inches in length overall, and dry cells supply power. 
+
+Everywhere in the Manual, common objects like clothespins, screwdrivers,
+knives, and saws are at work; the scale descends at best to the quarter-
+inch. Tube diagrams themselves aren't difficult to understand, even when
+multiple grids are used. The relative simplicity of the circuits combined
+with the equal simplicity of the tools and other objects employed (ranging
+from wind-up phonographs to files) implies the interpenetration of the
+technological _interior_ with the everyday. Miniaturization is just begin-
+ning; the pocket radio is an example. And miniaturization in the Manual
+means little more than working closer to the bone - it is only a _quanti- 
+tative,_ not _qualitative_ difference at this point.
+
+Within a decade or so, the world becomes unrecognizable. The advent of
+transistors leads to ICs, integrated circuits, large scale and very large
+scale ICs to follow. Electronic clocks speed up exponentially; screw-dri-
+vers are enormous compared to a single transistor on even a 1970s chip. 
+Tinkering can become disastrous, not only through the traditional danger
+of electric shocks, but also through the destruction of chips by minuscule
+charges of static electricity - or even operating systems, through the
+deletion of necessary files. 
+
+The trend continues. The everyday is increasingly relegated to useless
+hobbies in the midst of micro-processing. Our bodies, clumsy hands and
+fingers, refuse to miniaturize. The sheer apparent intelligence (because
+structured for specific tasks) of micro-processors creates the illusion of
+friendly machinery, beyond the interface. The truth is, as consumers and
+users, we are disconnected; current chips are just the viral precursors of
+new life to come, with its own version of the everyday, far removed from
+our own. 
+
+

@@ -1,0 +1,31 @@
+
+
+
+
+Bad Bad Alan-Error:
+
+Error0 Not owner No such file or directory No such process Interrupted
+system call I/O error No such device or address Arg list t oo long Exec
+format error Bad file number No children No more processes Not enough
+memory Permission denied Bad address Block device required Device bu sy
+File exists Cross-device link No such device Not a directory Is a direct
+ory Invalid argument File table overflow Too many open files Inappropriate
+i octl for device Text file busy File too large No space left on device
+Illega l seek Read-only file system Too many links Broken pipe Argument
+too large Result too large Operation would block Operation now in progress
+Operation al ready in progress Socket operation on non-socket Destination
+address required Message too long Protocol wrong type for socket Option
+not supported by prot ocol Protocol not supported Socket type not
+supported Operation not supported on socket Protocol family not supported
+Address family not supported by proto col family Address already in use
+Can't assign requested address Network is d own Network is unreachable
+Network dropped connection on reset Software cause d connection abort
+Connection reset by peer No buffer space available Socket is already
+connected Socket is not connected Can't send after socket shutdown Too
+many references:  can't splice Connection timed out Connection refused T
+oo many levels of symbolic links File name too long Host is down Host is
+unre achable Directory not empty Too many processes Too many users Disc
+quota exc eeded Stale NFS file handle Too many levels of remote in path
+Not a stream de vice Timer expired Out of stream resources No message of
+desired type Not a : 
+

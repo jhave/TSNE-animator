@@ -1,0 +1,35 @@
+
+
+
+Nobody's Got it Figured Out Yet
+
+
+but I've gone this far; consider that pi contains all possible number se-
+quences in its infinite series of digits meandering long after the deci-
+mal point has declared itself the window between 3 and 1. Assume that any
+finite sequence is infinitely likely to be present somewhere or other in
+the series, and hold true to this with a machine possessing a closed loop
+printing one after another digit in random sequence; the loop holds, say,
+k integers, and integer k+1 erases the first, k+2 the second, and so 
+forth - the loop in other words is constantly reinscribed which takes 
+care of the problem of paper (we can take care of the ink problem as well
+by using lcds - _now_ the problem is one "purely" of energy and time -
+in any case... In any case, one can assume this this generated sequence,
+say one per second, is found _somewhere_ within the pi sequence as I've
+said to an infinitely high probability, as close to 1 as you'd like 
+(nothing is absolute anymore)... So that what we're doing _for all prac-
+tical purposes_ is generating a segment of pi without any difficulty
+whatsoever - we can hold this up as an evident truth - we can insist on
+the perspicacity of our process in the long run (in the short run) to
+any purpose whatsoever...  
+
+So this might for example keep us alive, it might be the inverse of the
+so-called situation of the hundred monkey somewhere along the line typ-
+ing Hamlet - because here we've got Hamlet within our grasp - we just 
+don't know _where_ (and whereas in the monkey Hamlet situation, we know
+_where_ and what, we just don't know when...) - so that we can say it's
+possibly to know the where of things here, but not the when - or it's 
+possible to know the when of things, but not the where - just not both
+together, which sounds remarkably like Heisenberg on one hand, or the
+Internet on the other...
+

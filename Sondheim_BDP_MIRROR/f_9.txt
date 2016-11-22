@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+burnout 
+
+
+
+
+
+k:14> more talk.txt
+
+
+
+I can't get away from this; I lose sleep, shudder nightly, nightmare, 
+
+scroll follows me during the day, my life is damned, reduced to language, 
+
+my god I've got a brain hands arms swaying into empty air, my life's a 
+
+mockery.
+
+
+
+O poor stage all I do is complain to you my lovely computer screen. I'm 
+
+fucking fifteen years old without a future! I can't do anything with my 
+
+life! I can't understand them!
+
+
+
+I'll never live to twenty-five and my best friend said I deserved to be 
+
+dead and I think everyone agrees with her that it would be the best thing 
+
+for everyone.
+
+
+
+I'll pretend to be anyone! I promise I will! I'll do anything, get me off 
+
+this machine, bring me a friend walking through the door with smiles on 
+
+her face and we'll fuck and live forever I promise, she'll never leave me 
+
+because I'll be so good to her, wait and see.
+
+
+
+k:15> cd
+
+/usr/sondheim/
+
+:path not found
+
+k:16> cd anywhere
+
+:no such file or directory
+
+k:17> cd anywhere
+
+:access denied :superuser privilege only
+
+my skin is on fire
+
+it burns alone killing me not unkindly
+
+k:18> kill -9 0
+
+the ashes return me to my body
+
+k:19> pwd
+
+/usr/sondheim/nowhere
+
+chmod +x nowhere
+
+:file read-only
+
+mind disappears in grief and chaos
+
+pain of a burn tunnelling through the eyes
+
+everywhere i look i see eyes
+
+i swallow the broken glass of the broken screen
+
+rsh -l sondheim@panix3.panix.com anywhere | somewhere > where
+
+k:20> more where
+
+k:21> wc where
+
+0    0    0  where
+
+the glass isn't safety glass it doesn't hold together
+
+the center doesn't fall apart reflection does
+
+k:22> echo where
+
+where
+
+reflection shows me flames shows me flames
+
+reflection shows me flames
+
+
+
+k:23> talk sondheim@panix.com
+
+: NO TALK-DAEMON ON USER
+
+
+
+k:24> more talk
+
+
+
+my mind is drowning that's cold before i go
+
+down discomfort before i go
+
+that's the words melting the water into moths
+
+control-T moths
+
+moths
+
+my cock is cracked earth dust got it by the window
+
+mouth got dust got something caked blood red
+
+the color of flame the color of water, earth, and blood
+
+there's no air here reflection shows me air
+
+shows me air earth and empty flames
+
+reflection shows me flames
+
+
+
+k:25> echo flames
+
+flames
+
+k:26> echo flames
+
+flames
+
+k:27> kill flames
+
+:I don't understand that
+
+k:28> kill -9 0
+
+k:29> exit
+
+k:30> cd anywhere
+
+:path not found
+
+k:31> more talk-to-me
+
+k:32>
+
+
+

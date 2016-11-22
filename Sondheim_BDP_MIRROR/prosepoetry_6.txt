@@ -1,0 +1,8 @@
+ /differentiations /g' yy > zz
+more zz
+sed 's/+------------\^ /annihilations /g' zz > yy
+more yy
+sed 's/ -----\./ before /g' yy > zz
+more zz
+more zz
+sed 's/+

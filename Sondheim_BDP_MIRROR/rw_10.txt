@@ -1,0 +1,42 @@
+
+
+
+CMC Landscapes:
+
+ Uses for Communication: Anything at All
+
+ Common:
+	Family (email alias lists, home pages, email)
+	Education (MOO universities, class email lists, student home pages)
+	Sexual (net sex, sexual support groups, IRC, alt.sex newsgroups)
+		relationships
+	Support-groups (medical, addictions, see Needs)
+	Technical/Consumer (Usenet, email lists, WWW)
+ Information/Commercial:
+	WWW (active or passive pages)
+ Art-Related: 
+	WWW (active or passive pages and various extensions)
+ Reduction of Anomie:
+	Expert Systems (linkages, invisible colleges):
+		Needs:
+			News (newsgroups, WWW pages, etc.)
+			Medical (email lists, newsgroups, etc.)
+				Organized from below (patient)
+				Organized from above (institutional)
+			Emotional/Psychological (IRC, email, " ")
+				Organized from below (patient)
+				Organized from above (institutional)
+			Resources (scientific, hytelnet, etc., WWW, " ")
+		Fan-Clubbing:
+			Sports (email lists, newsgroups)
+			Music (real audio, Iphone, Xing, etc., " ")
+		Gaming (MUDs, IRC, email, newsgroups, etc.)
+		Conferencing
+	Community: [Wherever two-way multiply-connected communication is 
+		   possible]
+	Business: 
+		Direct and indirect marketing
+		Information Exchanges
+	Shared Gain and Pain: the wired or sentient environment
+
+		

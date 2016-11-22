@@ -1,0 +1,42 @@
+
+
+
+Differance
+
+
+What is difference, and how are subjects constituted?
+{k:3}diff subject-now subject-then
+How do they differ, and in what lines do they differ?
+71a72,74
+> Jun 30 23:17:42 166 PAM_pwdb[276]: (login) session closed for user root
+> Jun 30 23:17:47 166 PAM_pwdb[559]: (login) session opened for user root
+by (uid=0)
+> Jun 30 23:17:47 166 login[559]: ROOT LOGIN ON tty1
+{k:4}diff where-am-i-now where-was-i-then
+Binary files where-am-i-now and where-was-i-then differ
+(strings where-am-i-now > aa; strings where-was-i-then > bb;
+  diff aa bb >> zz)
+How do they differ, and in what lines do they differ?
+53a54,58
+> tty1
+> tty1
+> LOGIN
+> tty1
+> root
+You see, differance is a file or array; you see, it's not the subtle wisp
+of cloud caressing the moon, gone before your aware-ness (mono no aware)
+catches up with you... Nikuko would write the difference with the edge of
+the brush; back erect, shodo following breath upon the horizontal page.
+But here, she'd say, were she next to me, hands on shoulder, lips lightly
+brushing the erect back, it's a question or answer of five strings, well-
+defined, pure information which only happens to appear in this or that
+font, of this or that size, bold or italic or underline, or any other de-
+fault setting the subject might predispose herself to reading within. She,
+subject-Nikuko, turns back to the brush. Kanji is not always a question or
+problem of difference, however subtle; it is also a memory. Isn't every
+alphabet. Only to the extent that bandwidth reduces to the twenty-six, and
+then further to the two, harbored against the one. Always coherent, the
+two, Nikuko said; it's literally bound that way. One swallows the other.
+Moon, fogging.
+
+

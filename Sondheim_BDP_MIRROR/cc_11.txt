@@ -1,0 +1,46 @@
+
+
+
+
+
+Subject: Enormous difficulty of 300 baud
+
+
+this is a demonstration of the difficultty of 300 baud. I am writing in
+PINE and it is clear that the Net is linear at this level. the
+screencontinually refreshes - everything is a mess in terms of redrawing
+materials overand over again. I can't- or could, but incredibly slowly -
+go back in and change things around - theslightest movement up and down
+of he cursor results in heneed for redrawing again. the backspaceisn't
+configuredfor delete; deleteisn'tconfiguredfor anything.. on occasion,
+the spacebar is awkward, butit's hard to know when - especially if one is
+typinga high speed.
+
+but it is the rdrawing that fascinates, over and over again - the
+redrawing that backsup on theline orparagraph or menu commands now
+below-that jumpsback and forth onthe page over and over agai..
+rightnow,thescreenis so slow that the iage issplit -thatIdonoknowwhich
+part ofthepostisbeingtypedupon.
+
+it must have been incredibly difficult atthe beginning ofwriting on
+linetocompose longerormmore complex texts. Ortherewould have been a
+slowermode of thinking, movingjust about out of the mechanical age.
+because the letters spew forth alost one by one by one and it's hard to
+trackthem otherwise,thought curling in upon itself -and thisafterfor
+example theIBM Selectric hadalready (at leastwith me) reached speeds of
+about 100 wps on a good day...
+
+so I am current/antiqque and this is a way of thinking about the Netand
+thepackets emerging one by one by one...
+
+this is theur-net, and for thosed whowereonsayin theearly 1980s-
+orbefore- HOW DID YOU DO IT?
+
+any storieswould be greatly appreciated!!!
+
+Alan(by the way sig redrawing takes a huge amount oftime....)
+
+    http://jefferson.village.virginia.edu/~spoons/internet_txt.html
+             images: http://www.cs.unca.edu/~davidson/pix/
+                       4 GIN 1/3 SA KUG. BABBAR
+

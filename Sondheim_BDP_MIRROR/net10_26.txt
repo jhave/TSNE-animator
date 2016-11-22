@@ -1,0 +1,29 @@
+
+
+
+STAR TEXT
+
+
+The program below creates one or another night-time skies near the
+center of an erratic globular cluster. In order to run it, all you
+need to do is download this post, edit out this text, and place
+everything below the dotted line in a file called STAR.BAS which is
+then executable. At the DOS prompt, type qbasic star.bas and when
+the program comes up, hit the F5 key. That starts it. Try entering
+2 at the window prompt and .2 at the config prompt. Play around.
+
+What is the point of all of this? The creation of a universe-image
+mirroring or mocking the REWRITE of the posts themselves. The image
+eventually will reach close to a steady-state which can be altered
+in all sorts of ways by changing the pruning-back constant (.3 in
+the example). And the image is designed to play with _peripheral_
+vision, occasional events happening just outside the field. (You
+should run this on a machine that can support Screen 12 and at least
+25-33 Mhz in speed.)
+
+Certainly the model is crude. But I cannot, myself, help attributing
+certain catastrophic creations to the unfolding evolution of ...
+nothing. And I have designed the model with catastrophe in mind,
+plasma-jets constantly annihilating everything in their path - a not
+unlikely scenario, give or take ten billion years...
+

@@ -1,0 +1,20 @@
+
+
+The Contrary of the Mail Loop
+
+Of course the apparently normal way to deal with loops is to respond, but 
+the machines pay no attention; responses lead to more looping, and so 
+forth. Everyone has their moment of breakdown, and it's precisely at that 
+moment that the loop receives new input, the breakdown-moment, which 
+continues the action. 
+
+>> I am so extremely sorry about this terrible annoyance.
+>>> 
+>>> me, too!!!!
+>>> 
+>>>> Get me off this damn list! You're spamming me!
+>>>> 
+>>>>> 
+>>>>> 
+>>> 
+>> 

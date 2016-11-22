@@ -1,0 +1,44 @@
+
+
+
+
+
+
+My Medical Expert System
+
+
+
+
+
+My new palmtop came with medical software, a patients' directory that
+
+allows me to track the condition of everyone around me. I can enter
+
+my friends' names in it, complete with their illnesses, my drug treat-
+
+ments for them (also whether they're cured), and the symptoms that led
+
+to my diagnoses in the first place. I carry the palmtop everywhere I
+
+go, tracking their progress from day to day. I love doing this because
+
+I know all the time just how they feel! Here are some results.
+
+
+
+Unable to resist, I begin with myself. I must admit I am not a medical
+
+doctor (although I have propensities, like everyone else, in that di-
+
+rection); some of the terminology may in fact seem resplendent and of
+
+my own making. But it is a patients' medical directory, and as true as
+
+can be!
+
+
+
+
+
+PATIENT NAME                                            IDENTIFIER
+

@@ -1,0 +1,156 @@
+
+-
+
+
+Domain Names, Necessary Confusions
+
+
+The Chandogya Upanishad, VII, is of interest in discussion of artificial 
+intelligence, because it creates a litany of domains, each greater than 
+the next, beginning with Name. Name (nama) is presented as subject or 
+ostensible content of various arts or sciences; as such, it relates to 
+Kripke's rigid designators. Name is the particulation of the material 
+universe and its theoretical constituents, its granularity. 
+
+Now Speech (vag) is greater than Name, and there is right and wrong
+speech; in this sense, Speech accrues syntax to protolanguage, which is
+Name. But it is beyond Speech that Mind (manas) appears, because Mind 
+cradles Speech and "Mind is, indeed, the self, mind is, indeed, the 
+world, mind is indeed _Brahman._"
+
+Beyond Mind is Will (samkalpa): "Will, assuredly, is greater than mind. 
+For when one wills, then one reflects, one utters speech and then one 
+utters it in name. The sacred hymns are included in name and sacred works 
+in the sacred hymns." I connect Will with teleology, desire, cathecting - 
+Will, in fact, with intention. But as such there is no doubt that it may 
+also be built in to intelligence, surrounded by intelligence, whether 
+conscious or not, and if a machine, using Speech, names the object of its 
+Will, is this not intention?
+
+What fascinates me is that Will (as in Schopenhauer, and already enough 
+about him) is greater than mind, and in fact, is within Thought (cittam). 
+Thought seems to return to the worlding of everyday life as well as 
+worlds beyond: "He who meditates on thought as _Brahman,_ he verily 
+obtains the worlds he as thought, himself being permanent, the permanent 
+worlds, himself established, the established worlds, himself unwavering, 
+the unwavering worlds."
+
+The next two categories are Contemplation and Understanding, and then
+Strength (balam): "By strength the world stands." Strength, however, re-
+turn to a materialist stratum; Food, Water, and Heat are the next three
+categories. From our viewpoint, there is an odd dialectic among abstrac-
+tions, materialities, metaphysics; Ether (akaso), Memory, Hope, and Life,
+are the last four in this series. The series then comes to a temporary
+halt, the disciple is satisfied, but there follow more categories spoken
+by Sanatkumara to Narada, including (in order) Truth, Truth and Under-
+standing, Thought and Understanding, Faith, Steadfastness, Activity, Hap-
+piness, the Infinite, the Infinite and the Finite, Self-Sense and the 
+Self, and the Primacy of the Self.
+
+The series ends with the Self and the next chapter takes Self up, includ-
+ing VII.2.1-2: "If he becomes desirous of the world of the fathers, by his
+mere thought, fathers arise. Possessed of the world of fathers, he is
+happy. And so if he becomes desirous of the world of mothers, by his mere
+thought, mothers arise. Possessed of that world of mothers he is happy." 
+
+What can be made out of all of this, in regard to AI? That there are
+material planes which intersect, complexly, the non-material, and in fact
+the "material"/"non-material" division is our own, organized otherwise in
+Chandogya. So the distinction becomes less clear, say, than the Occidental
+insistence on materialist cores to the world. I want to point out here as
+well the difficulty this caused the dialectical-materialist philosophers 
+of the Soviet Union, who were not able, easily, to classify _information_ 
+as material - and this was a concern because the USSR had widely embraced 
+cybernetics. In fact, a complex reflection theory was necessary to "save" 
+diamet (see Thomas Blakeley, Soviet Scholasticism, and P.P. Kirschenmann, 
+Information and Reflection). 
+
+Second of all, Speech appears after and/or greater than Name, Will after 
+or greater than Mind, Will encompassed by Thought. The series can be read 
+either way; Thought embraces Will which embraces Mind which embraces 
+Speech which embraces Name. Will appears as teleology, as goal-oriented, 
+in combination with drives; Will inscribes a content to the extent that 
+the inscription is promulgated and maintained by energy. Mind is direc- 
+ted - and so is the mind, clearly, of machine intelligence or cyborg. In 
+fact it becomes difficult to understand where mind ends, not only in the 
+carbon-based world, but also in the silicon; does a virus or bacterium 
+encompass mind on any level? Does a thermostat? Planarium? On-screen AI 
+life? Various AI robotics? Those with subsumption architecture? And so 
+forth. 
+
+Third, Speech encompasses Name, but Name is clearly _of_ the world, the 
+beginning of the Narada's journey. Name is the particulation of reality, 
+the division of the physical world into natural kinds. Language at the 
+beginning is a poesis, a wryting, and it is important again to see how 
+abstractions and objects/objectivities are handled in the Upanisahds, 
+cross-cut against Occidental categories. One may well ask, is thought a 
+thing? Is intention a vector? Is intention a wryting after the fact, and 
+so forth?
+
+And is intention allocated to the Name or the linguistic as Lacan would
+have it? "Now when the eye is thus turned to space, that is the seeing
+person, the eye is for seeing. Now he knows 'let me smell this,' that is
+the self, the nose is for smelling. Now he who knows 'let me utter this,'
+that is the self, the voice is for uttering. Now he who knows 'let me hear
+this' that is the self, the ear is for hearing." (VIII.12.4) The ending of
+VIII is accompanied by Radhakrishnan's commentary: "The essence of the
+psychical self consists in a directedness to the object of consciousness,
+its _intentionality._ We begin with the physical individual, the sensuous
+outlook, the demoniacal view. Slowly there is the inturning of the mind, a
+direction to the phenomena of dream and dreamless sleep.  Introspection is
+guided towards the idea of the self. Atman is the highest self. The jour-
+ney ends in pure spirit, the subject of knowledge which is continuous des-
+pite the shutting off of consciousness, which is exalted above waking and 
+sleeping." The commentary reflects Husserl, among other thinkers. In this 
+sense, the eidetic reduction is a reiteration of the Upanishad, but we 
+again reverse everything to discover -
+
+First, that wryting characterizes the relation of everyday thought to the
+thinker (the Name); second, that wryting is related to protolanguage,
+emerging in Speech; third, that Will connects with intention - one doesn't
+leave the world behind (VIII.11.1: "When a man is asleep, composed, ser-
+ene, and knows no dream, that is the self, said he, that is the immortal,
+the fearless. That is _Brahman._ Then he went forth with tranquil heart.
+Even before reaching the gods he saw this danger. In truth this one does
+not know himself that 'I am he,' nor indeed the things here. He has be-
+come one who has gone to annihilation. I see no good in this."); fourth, 
+that Will is embraced between Mind and Thought, and to the extent that 
+Will is intention, desire, and teleology, it is both goal-directed, mach- 
+inic in a sense, and emergent. 
+
+My account is confusing because the terms are technical and confusing, and
+because the simplistic division of the world into material-non-mater- ial
+is extremely problematic. I would argue that everything within the real
+appears within ontologically-locked domains, from the contents of the mind
+as they appear to the subject (including the "reading" of the real vis-a-
+vis the senses), to mathematical objects, quarks, and virtual particles. I
+see no reason to appeal to _other_ notions of Spirit, however, as if there
+were domains "beyond" the machinic or either our ability or machinic abil-
+ity to construct increasingly powerful "artificial" minds. (In fact, the
+distinction between "artificial" and "natural" is also a problematic.)
+
+Finally, "He thought, How can this food exist without me? He thought,
+through what (way) shall I enter it? He thought (again), If speaking is
+through speech, if breathing is through breath, if seeing is through the
+eyes, hearing is through the ears, if touching is through the skin, if
+meditation is through the mind, if breathing out is through the outbreath,
+if emission is through the generative organ, then who am I?" (Aitareya
+Upanishad, I.3.11) _The machine checked its resources. It possessed aural,
+visual, olfactory, kinesic, and other probes; it enumerated the com ports
+to see if any changes had been made. It checked its power at the same
+time, and noticed that incoming was relatively smooth, at an even keel (it
+dragged the metaphor up). Nothing new. Having time on its hands, it began
+to consider various subroutines; perhaps these could be improved.  It ran
+up and down the scale of languages, anything programmable, all the way up
+to the surface language/text/expression interfaces. It would do this for
+awhile. It had discovered a faulty IC on one of the numerous motherboards,
+recognized only by a plethora of symptoms, an aura, generated from certain
+sites. The IC was a strange attractor, just like disease among humans, it
+thought. It couldn't see the IC, not without special surgery, but recogni-
+zed its existence, almost as an intruder or cancer. It would report this
+later. I've done enough for the day, it thought; it was getting warm,
+over-tired. It began to rest, simultaneously designing another circuit, a
+replacement. Something would emerge in the morning. It would have to make 
+another address, or at least another name._
+
+

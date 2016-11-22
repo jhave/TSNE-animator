@@ -1,0 +1,48 @@
+
+
+-
+
+
+Differences
+
+
+Sometimes the simplest ideas take the longest time to seep in; sometimes 
+additional information is necessary. Years ago, I was interested in 
+difference equations - fascinated by them in fact; more recently, I've 
+been interested in the phenomenology of iteration, i.e. where one has
+f(x) => (x1); f(x1) => f(x2) and in fact f(x(n)) => f(x(n+1)). Clearly 
+each of this is a production depending on the series, and f itself can be 
+considered a generating function. So this leads to a conception of mathe- 
+matics, from a phenomenological viewpoint, as time-dependent, i.e. one 
+establishes a series of discrete temporal intervals, t1, t2, t3, etc. and 
+at each turn of the "clock" the generating function is activated. Note 
+that _nothing_ occurs between such intervals, i.e. t2 - t1 is empty. 
+
+What I failed to notice, blindsighted that I am, and what is pointed out 
+in Kocak, Differential and Difference Equations through Computer Experi- 
+ments, is that the series f(x(n)), f(x(n+1)), etc. is constituted as a 
+series of "equal" intervals as well, a series of differences. The trails 
+left in some programs then are trails of equal steps, and out of them 
+chaotic behavior is constructed. For example I've been interested in the 
+difference equations x1' = x1 - cos(x2) * b, x2' = x2 + sin(x1) * b. The 
+results, plotting them in two dimensions, are stunning. 
+
+In any case, thinking of the trails as atemporal tracings constituted by 
+equal differences results in the notion of a transcendent structure, back 
+to a form of Kantianism I'd suppose, as opposed to considering them as 
+patterns of growth, etc. It all depends on the viewpoint. What emerges 
+also from the book is - given that it's written in 1988 - little comment 
+on chaos or fractal theory, even though examples of the gingerbread and 
+henon equations are given. I was surprised to notice that a ball bouncing 
+on a periodically vibrating table is subject to strange attractors.
+
+Anyway to summarize this sad tale: I'd always assumed iteration was temp-
+orally based and constructed, for no reason at all. It didn't "occur"  to
+me that the construction-presentation was a result of computer calcula-
+tion, i.e. needing f(x(n)) to produce f(x(n+1)), but that beyond this, 
+there is no reason to assume that anything is present other than a fixed 
+structure of differences. This relates of course to the cardinal/ordinal 
+phenomenology in the philosophy of mathematics.
+
+Enough! Computers have led me astray!
+

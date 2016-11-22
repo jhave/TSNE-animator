@@ -1,0 +1,36 @@
+
+
+
+THE THREE AUGUST PERSONAGES INVADE GOL.COM WITH MANY VIRALS!!!
+
+
+load averages:   2.17,  2.44,  2.33
+13:53:25
+185 processes: 2 running, 182 sleeping, 1 zombie
+Cpu states:  5.4% user,  0.0% nice, 16.3% system,  0.0% interrupt, 78.3%
+idle
+Memory: Real: 26M/62M Virt: 50M/559M Free: 37M
+ 
+  PID USERNAME PRI NICE  SIZE   RES STATE   TIME   WCPU    CPU COMMAND
+ 8584 hypercom   2    0  188K  304K sleep   0:00  3.15%  0.44% nikuko
+ 8603 alexjk     2    0 1388K  692K sleep   0:00  7.00%  0.34% julu
+ 8512 Chill     18    0  236K  288K sleep   0:00  0.66%  0.20% csh
+ 8600 root      10    0  756K  464K sleep   0:00  2.00%  0.10% jennifer
+ 8601 Chill      3    0  492K  460K sleep   0:00  2.00%  0.10% elm
+ 8508 root       2    0  164K  308K sleep   0:00  0.33%  0.10% telnetd
+ 7676 jennifer  28    0  332K  484K run     0:00  0.10%  0.10% top
+ 8477 root       2    0  800K  516K sleep   0:00  0.12%  0.05% jennifer
+  381 root      10    0   72K   40K sleep  40:11  0.05%  0.05% nfsiod
+ 8598 root       2    0  768K  728K sleep   0:00  1.00%  0.05% jennifer
+28628 root       2    0  504K  364K sleep   0:04  0.05%  0.05% ftpd-julu
+ 7734 root       2    0  436K  356K sleep   0:03  0.05%  0.05% ftpd-julu
+ 8492 esarfo     2    0  184K  308K sleep   0:00  0.12%  0.05% nikuko
+   61 root       2    0  144K  252K sleep  25:26  0.05%  0.05% syslogd
+  405 root       2    0  152K  172K sleep  43:26  0.05%  0.05% inetd
+ 
+NIKUKO'S A ZOMBIE! HA HA HA!
+NIKUKO'S A ZOMBIE! HA HA HA!
+NIKUKO'S A ZOMBIE! HA HA HA!
+
+- MERRY JENNIFER!
+

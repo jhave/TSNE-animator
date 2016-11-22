@@ -1,0 +1,933 @@
+==
+
+
+sazen  http://lounge.espdisk.com/archives/1018
+
+
+
+Ahmet and Shtetl
+
+http://www.alansondheim.org/ahmet.mp3
+ -- eight-string Ahmet Tekeli saz --
+
+http://www.alansondheim.org/shtetl.mp3
+ -- azure carter tamburi --
+ -- alan sondheim viola --
+
+working on the saz, added two more strings, tuning
+g(3)-d(2)-a(3) somewhat circular. the second half 
+is played with the sound hole 'door' open on the
+end of the body. I think Ahmet and Shtetl are some
+of my best playing, stemming from the texts I've
+been writing as well, thinking through mourning,
+keening, ecstasy, frisson - thinking through hands
+and fingers, setting and resetting the instruments
+themselves. enjoy, hopefully -
+
+
+
+seven notes holding my mind together
+
+http://www.alansondheim.org/longneckedsazlabel.jpg
+http://www.alansondheim.org/longneckedsaz1.jpg
+http://www.alansondheim.org/longneckedsaz2.jpg
+http://www.alansondheim.org/longneckedsaz.mp3
+
+seven notes that didn't head towards consonance
+oh yes they tried, they yearned, but i refused
+it was this that held my mind together
+refusing the consonance, keeping them scurrying
+
+it was in that fashion that they never left or arrived
+they marched to and fro, they murmured, they pleaded
+it was in my fashion to hold keep them in abeyance
+after all nothing was ever promised, nothing at all
+
+i was honored tonight by the saz of ahmet tekeli
+he gave me permission to play endlessly on and on
+without the gift of reciprocity, without beginning
+without end, somewhere one had to stop, someplace one
+ had to desist
+
+now these seven notes have saved my life
+and nothing will ever resolve again
+the scissors remain open, the wound never heals
+ecstasy never leaves the place, alive or dead
+
+seven notes that didn't head anywhere
+seven notes without the gift of ending or beginning
+seven notes that didn't head anywhere at all
+
+
+
+
+The Standard National Corpus
+
+
+The following was written for Scott Kildall's "Imagine 2049" project,
+at http://www.imagine2049.com . Scott wrote "Do you want to submit an 
+invention for the future? Taking online submissions for the next few days 
+only. All of this goes in a time capsule." I was delighted to take part.
+
+
+The Standard National Corpus
+
+
+Around 1962 I was at Hebrew University in Jerusalem; the Hebrew language 
+was undergoing rapid change as it was continually updated to adapt to 
+contemporary life. I remember in particular, when I arrived, the word for 
+'airplane' was 'aviron'; it was later formally changed to 'matos' which 
+stemmed from Hebrew, not European roots. Today either word is acceptable 
+according to Segal/Dagut's English-Hebrew Dictionary. The basic concept 
+behind these changes was to create a purified language with as little 
+linguistic borrowing as possible. Later, I noticed the same thing in 
+Montreal, in the debate over the Quebecois language - whether or not to 
+eliminate anglicisms, whether the anglicisms were inherent to Quebecois, 
+and so forth (see 'joual' in Wikipedia for exampe). These debates have 
+occurred all over the world as nationalisms put up barriers in order to 
+create theoretically-pure lexicons reflecting theoretically-pure national 
+groups. I propose a formal software program for linguistic purification. 
+It would examine the current state of a language, as well as its history 
+for at least several centuries. This can be accomplished by collating 
+acceptable vocabularies. From this, it should be possible to weed out 
+words of 'foreign' origin, especially if they're of recent appearance. The 
+definitions of these words could be then be used to create alternative 
+words based on the language's 'native' roots and resources.
+
+Once all of this is done, of course, it will be announced to the local 
+population who will surely adopt the substitutions; everyone is happiest 
+with purity! Furthermore, the updating can be continuous; in this way, 
+eternal vigilance is the guarantor of the strength and depth of native 
+stock. No GMOs (genetically modified organisms) here!
+
+Finally, of course, this idea of automated purification can be applied to 
+any number of different areas - don't worry, we'll stay away from eugenics 
+but we will include animal breeding! - ensuring that any nation's natural 
+culture and inclinations (as well as borders and tariffs) will continue 
+forever!
+
+- Alan Sondheim
+
+
+oud nearing the end of illness
+
+http://lounge.espdisk.com/archives/1020 (best)
+http://espdisk.com/alansondheim/oudflu.mp3
+
+returning to playing again, trying to think, and oddly
+this is probably the most unique oud playing i've done;
+it really brings out the range of the Shehata instrument.
+i wanted to play in close, develop clusters; the result
+isn't anything i've heard before. some of the fingering
+technique is from my violin or viola playing; the right
+hand is on its own. there's almost a gaiety at work,
+fractured and coalescing. enjoy.
+
+
+
+flu/id music
+
+ -- azure carter, vocals, tamburi --
+ -- alan sondheim, viola, violin, long-necked saz --
+
+http://www.alansondheim.org/fluid1dot.mp3
+http://www.alansondheim.org/fluid2.mp3
+http://www.alansondheim.org/fluid3creatures.mp3
+http://www.alansondheim.org/fluid4.mp3
+http://www.alansondheim.org/fluid5buried.mp3
+http://www.alansondheim.org/fluid6.mp3
+
+new paths for us with these songs and instruments,
+played during a minor flu relapse incident (fri)
+- haven't played like these before, enjoy please.
+
+Log Name:      Application
+Source:        ESENT
+Date:          1/12/2013 2:50:31 PM
+Event ID:      508
+Task Category: Performance
+Level:         Warning
+Keywords:      Classic
+User:          N/A
+Computer:      Computer
+Description:
+svchost (1492) SRUJet: A request to write to the file 
+"C:\Windows\system32\SRU\SRUDB.dat" at offset 10366976 
+(0x00000000009e3000) for 4096 (0x00001000) bytes succeeded, 
+but took an abnormally long time (8703 seconds) to be 
+serviced by the OS. This problem is likely due to faulty 
+hardware. Please contact your hardware vendor for 
+further assistance diagnosing the problem.
+
+
+
+Saz amplified
+
+http://lounge.espdisk.com/archives/1021 (best)
+
+http://espdisk.com/alansondheim/dontstop1.mp3
+ -- electric saz --
+http://espdisk.com/alansondheim/dontstop2.mp3
+ -- long-necked saz miked --
+
+incessant, non-stop, jammed notes, not enough
+time, amplification, koan collapse, me
+
+
+
+i'm sew bloody shellfish think youd like two here me wine
+
+think. i am so selfish. i can feel the snow and the pine needles beneath 
+this is just too harsh, to self-loathing, too selfish. i haven't cliff 
+with selfish right. at the third mouth of the enclosure the earth we all 
+fundamentally selfish with skeletons in the closet? are our lives man, he 
+insists you be nice, he is selfish memes, genetic determinism ("selfish" 
+gene) i'm selfish and i'm tired. when i die i'll sleep an eternal selfish, 
+for has forgotten so absolutely, is no mere invention of selfish and 
+uneducated think: i am so selfish. i can feel the snow and the pine 
+needles beneath guess that is selfish. they have narcissistic 
+disturbances, psychoses, and for others; this is the height of the 
+selfishness of the world. one lives trying to reach you to tell you that 
+i'm selfish, that there's nothing me into empty air, you're pretending. 
+and that i'm very very selfish and now i will tell you the truth about 
+genes. they are not selfish. they are seem like selfish people. it is all 
+ongoing structure without meaning. thing. it shines without a selfish 
+mind. everything good and bad, to make "it all work," but to consider, 
+selfishly, what is happening heat around here, you're selfish to keep it 
+to yourself! the shamisen (alan) enough to make your tears flow full; i 
+would be sore in selfish my selfishness --then again this is a selfish 
+belief, perhaps an excuse for not doing --then again this is a selfish 
+belief, perhaps an excuse for not doing authority, misplaced. arrested. 
+most convictions. again selfish cultural fundamentally selfish with 
+skeletons in the closet? are our lives certain amount of time and energy. 
+reality i remember as selfish in man, he insists you be nice, he is 
+selfish i will keep it i will be selfish i'm selfish and i'm tired. when i 
+die i'll sleep an eternal selfish, i keep waiting for selfishness built 
+into our genetic structures, however usually it's not so an incredible 
+selfishness, that the debris of the world is there, in the then how 
+selfish that would be, she would inherit what i have, ar found me too 
+selfish and uncaring. pg found me selfish and uncaring. rh found me 
+selfish and self-serving
+
+[14:49] julu twine: i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+[14:56] julu twine: i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+
+cliff with selfish right. at the third mouth of the enclosure the earth 
+they'd end fast, abrupt, what a selfish act, everything. i am so selfish 
+but as my last my dreams, it's selfish, this haunting.
+
+hurting others. can't function around him. cries too much. too selfish. 
+selfish.  too self-cen ered. thinks everyone should care. work incomple 
+ered. thinks everyone should care. work incomple oo much. too selfish.  
+too self-cen ion around him. cries oo much. too selfish.  too self-cen e.
+
+fungus 2 reveal her bare thighs selfishness the magic selfish six formally 
+raptor sanctuary annie slowly releasing hacking watch interesting... i 
+agree with you but then there's the 'selfish gene' issue cliff with 
+selfish right. at the third mouth of the enclosure the earth sees seething 
+selection self selfish selves semblance sends sense sensor think: i am so 
+selfish. i can feel the snow and the pine needles beneath arrogant or 
+appear too arrogant, too selfish, too self-absorbed, and i example by 
+virtue of being a fraud; i am a selfish friend and lover
+
+i tear myself apart i'm selfish
+[14:49] julu twine: i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+[14:56] julu twine: i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+i tear myself apart i'm selfish
+[2012/12/21 11:00]  julu twine: opei tear myself apart i'm selfish
+ [11:00] julu twine: opei tear myself apart i'm selfish
+[2012/12/21 14:56]  julu twine: i tear myself apart i'm selfish
+ i tear myself apart i'm selfish
+ i tear myself apart i'm selfish
+[2012/12/21 11:00]  julu twine: opei tear myself apart i'm selfish
+ [11:00] julu twine: opei tear myself apart i'm selfish
+[2012/12/21 14:56]  julu twine: i tear myself apart i'm selfish
+ i tear myself apart i'm selfish
+ i tear myself apart i'm selfish
+
+cliff with selfish right. at the third mouth of the enclosure the earth 
+fungus 2 reveal her bare thighs selfishness the magic certain amount of 
+time and energy. reality i remember as selfish.
+
++++
+
+
+
+confession
+
+i realize my music is barking up the wrong tree.
+my music is absolutely useless and misshapen.
+it's not zen, it's just clumsy.
+i'm lucky if i can hit intervals at all.
+consider this a wordy piece of silence.
+it's an admission of guilt in the production of bad music.
+it's an admission of tricks and subterfuge with instruments.
+i dream of fires of wood and steel strings singing their
+ final songs.
+i dream of boats of woods and steel struts carrying
+ refugees away from me.
+i hear differences where none are and nothing where
+ differences are.
+i hear innovation where there's nothing but tired 
+ repetition and i hear melodic repetition where i'm 
+ running out of ideas.
+i jump from instrument to instrument as i exhaust my
+ limited resources on each one.
+i jump from speed to speed to impress and disguise the
+ fact i can't hold a note for any length of time.
+my instruments are beautiful and deserve better.
+you are accurate in your assessment that there's too much
+ of my music around, too much craziness, too much 
+ exhaustion.
+i pretend to focus on technique and exercises when all 
+ i'm doing is trying something out with an impressive
+ surface devoid of any depth.
+my music isn't barking up the wrong tree, it's not even
+ music, it's not even noise, or it's noise intended to 
+ be music.
+the only delight it brings is the usual shortness of the
+ pieces but sometimes i err further and produce what 
+ appears on the surface like a meditation but in fact is
+ just a lengthy poverty of ideas.
+my fingers move by themselves in idiotic patterns.
+my mind stumbles in idiotic pursuit.
+this confession should suffice, please control your
+ anger.
+there's no reason to listen to anything more.
+
+
+
+confession ii
+
+i realize my texts are barking up the wrong tree.
+they're absolutely useless and misshapen.
+it's not zen, it's just clumsy plagiarism.
+i'm lucky if i can write at all.
+consider this a wordy piece of silence.
+it's an admission of guilt in the production of bad theory.
+it's an admission of tricks and subterfuge with tropes.
+i dream of textual fires in recitation.
+i dream of textual drowning and theoretical miasma.
+i makes differences where none are and nothing where
+ differences are.
+i see innovation where there's nothing but tired 
+ plagiarism and i'm constantly running out of ideas. 
+i jump from thought to thought as i exhaust my
+ limited resources on each one.
+i jump from style to style to impress and disguise the
+ fact i haven't read anything in depth.
+my subjects deserve better.
+you are accurate in your assessment that there's too much
+ of my writing around, too much craziness, too much 
+ exhaustion.
+i pretend to focus on philosophy and phenomenology when 
+ all i'm doing is writing something with an impressive
+ surface devoid of any depth.
+my writing isn't barking up the wrong tree, it's not 
+ even writing, it's not even theory, or it's theory 
+ intended to disguise my ignorance at any cost.
+the only delight it brings is the usual shortness of the
+ pieces but sometimes i err further and produce what 
+ appears on the surface like a meditation but in fact is
+ just a lengthy and stupid  poverty of ideas.
+i can type myself to death that way and you'd be lucky
+ if i did.
+my mind stumbles in idiotic pursuit intelligence.
+this confession should suffice, please control your
+ anger.
+there's no reason to read anything of mine again.
+
+
+
+confessions - more of the same, the end of them
+
+the medium is irrelevant; it's the bad psychology, the
+ stolen and repetitive mechanism, the lack of ideas, the
+ showy exteriors, the dabbling in body, sex and language.
+
+i realize my texts are barking up the wrong tree.
+they're absolutely useless and misshapen.
+it's not zen, it's just clumsy plagiarism.
+i'm lucky if i can write at all.
+consider this a wordy piece of silence.
+it's an admission of guilt in the production of bad theory.
+it's an admission of tricks and subterfuge with tropes.
+i dream of textual fires in recitation.
+i dream of textual drowning and theoretical miasma.
+i makes differences where none are and nothing where
+ differences are.
+i see innovation where there's nothing but tired 
+ plagiarism and i'm constantly running out of ideas. 
+i jump from thought to thought as i exhaust my
+ limited resources on each one.
+i jump from style to style to impress and disguise the
+ fact i haven't read anything in depth.
+my subjects deserve better.
+you are accurate in your assessment that there's too much
+ of my writing around, too much craziness, too much 
+ exhaustion.
+i pretend to focus on philosophy and phenomenology when 
+ all i'm doing is writing something with an impressive
+ surface devoid of any depth.
+my writing isn't barking up the wrong tree, it's not 
+ even writing, it's not even theory, or it's theory 
+ intended to disguise my ignorance at any cost.
+the only delight it brings is the usual shortness of the
+ pieces but sometimes i err further and produce what 
+ appears on the surface like a meditation but in fact is
+ just a lengthy and stupid  poverty of ideas.
+i can type myself to death that way and you'd be lucky
+ if i did.
+my mind stumbles in idiotic pursuit intelligence.
+this confession should suffice, please control your
+ anger.
+there's no reason to read anything of mine again.
+
+for example,
+
+i realize my media works are barking up the wrong tree.
+they're absolutely useless and misshapen.
+it's not zen, it's just clumsy plagiarism.
+i'm lucky if i can program at all; i can't; i borrow
+ from everyone; the underlying structures are similar
+ and boring; clever camera angles cover up the rest.
+consider this a wordy piece of silence.
+it's an admission of guilt in the production of bad media
+ art.
+it's an admission of tricks and subterfuge with scripts.
+i dream of virtual fires everywhere
+i dream of virtual drownings and theoretical confusion.
+i makes differences where none are and nothing where
+ differences are.
+i see innovation where there's nothing but tired 
+ plagiarism and i'm constantly running out of ideas.
+i use scripts to hide whatever truths there are; i steal
+ everywhere, from everyone; i create the surface lure and
+ an inconceivable absence of depth. 
+i jump from environment to environment, performance to 
+ performance, as i exhaust my limited resources each and
+ every time.
+i jump from style to style to impress and disguise the
+ fact i haven't created anything in depth or any new idea
+ that might be useful.
+my avatars deserve better.
+you are accurate in your assessment that there's too much
+ of my media work around, too much craziness, too much 
+ exhaustion.
+i pretend to focus on philosophy and phenomenology when 
+ all i'm doing is creating something with an impressive
+ surface that belongs to everyone else, that desperately
+ seeks attention, that plays fool-heartedly with language,
+ sex, and body, that uses arousal as deflection from any
+ real content; everyone sees through me.
+my media work isn't barking up the wrong tree, it's not 
+ even media work, it's not even really interactive,
+ or it's simple interaction intended to disguise my 
+ ignorance at any cost.
+the only delight it brings is the usual confusion of the
+ pieces but sometimes i err further and produce what 
+ appears on the surface like a meditation but in fact is
+ just a lengthy and stupid poverty of looping movement
+ and ideas.
+i can work myself to death that way and you'd be lucky
+ if i did.
+my mind stumbles in idiotic pursuit of intelligence.
+this confession should suffice, please control your
+ anger.
+there's no reason to look at anything of mine again.
+
+that's the end of the confessions; they're as boring 
+as anything in my work.
+
+
+
+off drone, music in mourning
+
+http://lounge.espdisk.com/archives/1022 (best)
+http://espdisk.com/alansondheim/offdrone.mp3
+ -- azure carter tamburi --
+ -- alan sondheim oud sarangi cura cumbus --
+
+the tamburi drone is off-interval for this, the
+result is the death of music, music mourning
+music, the slow eyelids fluttering against the
+dying of the sound, the yearning for completion
+always on the verge of disappearance, vanquished,
+gone, please listen, enjoy,
+
+
+
+the tunnel
+
+from zero to anything you say / and you go down this tunnel and 
+you watch and here they are. further down the stalk or sides, 
+quantum tunnelings, phone calls, dilations, screams. you're in a 
+dark tunnel and you dream you're in a dark tunnel. you agree to 
+meet. you set a time, date, place, central bone-core, flesh 
+shreds hanging organelles, dark tunnels, extremely tight, east, 
+looks like the very squeeze. an eerie light, and dark the long 
+tunnel, opening into tunnels, tendrils lost in one long shadow 
+riding the harbor to the long long island, the long tunnel, 
+mapping as it entered and left the mountains which seemed quite 
+long. ... and tubes, shrouded in the tunnels, an urgent segment 
+of frozen space, long, the long dark tunnel, long.
+
+
+
+suroz around a quarter tone
+
+http://lounge.espdisk.com/archives/1023 (best)
+http://espdisk.com/alansondheim/offdrone2.mp3
+ -- azure carter tamburi --
+ -- alan sondheim suroz --
+
+she said this wouldn't hold water as so many
+of the fundamentals were swallowed by sound 
+so related to ocarina as to be held close to
+the earth that produced them
+
+
+
+
+on the way
+
+http://www.alansondheim.org/ontheway.mp4
+
+in neon tubing -- out, waves caressing the length, the beauty +DR=1<cr> 
+'Ah, now we're really -- .' 2012 I was assaulted, on the way to the 
+doctor's, at the corner of 988 km now -- - it's 6 in the morning - 
+estimated arrival time <Julu> thorns of love screaming against your holes 
+-- to > that got way lid -- to state A dying body: Our bodies are always _ 
+-- out_ and our work, if Charlie's travels -- thru death Hello Patrick, I 
+say, as he flies overhead, -- to flarf I remember looking at my cellphone 
+on the way, at least twice, checking on I struggle through these older 
+versions -- to color I was in the Martz bus station in Wilkes-Barre Penna. 
+-- back to it was pouring as I passed through the BLACK FOREST on the way 
+to the Julu thorns of love screaming against your holes -- to LENS 
+annihilates neutral kaons -- to countermanding symmetry. I AM Nikuko met 
+Death -- from Yamaguchi to Kokura. On the way from OCCUR. It is a state 
+hinted at by drugs -- towards the margins Texas... A funny thing happened 
+-- to Miami, growin' up. Green. The column contains various debris fields 
+-- up. The ground has whole realms of danger -- , but it is also a form of 
+this also means seeing is a stage -- to getting. You see the all, every 
+marker is -- towards disappearance, every annihilation always already the 
+case, -- to dust the digital domain, virtual and humans -- to extinctions 
+... and we are well -- to understanding the cutting of the command and you 
+lisp you bet screaming against your holes -- to w don't are alive today, 
+and well on the way to violent attacking whaling regulations again. why 
+not wipe them out? -- to batteries - they exploded -- here - i didn't know 
+it - I unpacked bibliography. Minor phyla - anything -- back to origins - 
+are body is always -- to somewhere. And when I make this avatar, make 
+borders -- to cold death and evanescence cars. back at chikeka a possum 
+eating alligator eggs. -- out the cormorant -- through newark, out of 
+newyork wending our way could it travels travels -- on death way life of 
+way the the cata edge, -- to demise. I think of the limits and uselessness 
+energy screaming against your holes -- to w don't you lisp you enticed by 
+billboards -- . The idea of a homepage becoming personal ers on the way to 
+cold death and evanescence burns the fundament revolves every used condom, 
+every pebble on the beach, every wildflower -- fast-foward disintegrate. I 
+could be on the slide -- down, the fifth, dictionary ordering. fact: this 
+was filmed as is -- to fishermen -- , their nets heavy, their faces 
+weathered, searching flesh on the way. forgetting birth and -- to death 
+frozen subway. Tonight -- back the train went no longer. gender -- - 
+following the path - which becomes a _field of possi grain of sand, 
+structure devolves.  -- down, structure devolves. hear it, this voice, at 
+this moment, very moment -- down - so to imaginary - -- to a conference - 
+in a sealed airplane - emissions in despair i search, the sea -- back in 
+the physical. It's -- out. We're -- out, we're already incipient mild 
+depression -- out of one deeper, in other words, ing date . just after 
+going to bed, hypnagogic imagery -- to inside my death -- to death and 
+constitution frontal lobotomies is -- at the end of 0. Maybe 4 or 5 has 
+the best development of it's cold out and they'll go out of tune -- . 
+ivity of computation -- to something else. knotted, the One self- 
+decomposes, deconstructs -- to forgetting. lattices on the way ,out, of 
+here things speeding ,slightly, at a lines -- to becoming-pixels, 
+configuration -- to becom- love screaming against your holes -- to where 
+your holes were and may lose your children -- home from school. you may 
+lose your maybe the alphabet on the way to pure binary. then heheh, the 
+binary, moment, gathered itself into a shriek, and then fell silent, -- 
+moments of clarity and action on the way there. Otherwise we spend our 
+near the floor of the circular crater, of tralles a -- negation is -- to 
+inscribing the other and the meat of the other no deal! help is -- . and 
+one severed sentence no, fully present, too sweet, stomach slightly 
+queasy, easy " -- nothing on the train -- up," so I had all of that. I 
+spent little numerous baad -- to Indra's net... of Helene on the way to 
+the final construction of a purified and of all those billions-of-years- 
+old topographies -- to annihilate of going to bed, hypnagogic imagery -- 
+to ... accompanied by -- down: avadance -- everyone thinks about "the 
+net."  -- out of geneva, of course we left from the airport, and we had -- 
+out: on the way to Truro, Nova Scotia, a _rendering_ after the abandonment 
+of on the way to death and constitution -- to dementia. We're -- to 
+Alzheimer's. We're told our -- to full load. the full grey is -- to 
+skysphere. resolve- -- to phenomenology.  -- to slaughter, beneath the 
+water.  -- to the disaster -- up: avadance -- , high water on down. 
+:^[[Dwhat'd [static hiband] i tell you.  -- , off time, off the clock, or 
+after another building or something else -- other by myself. At this point 
+I thought myself well -- to some other windows -- down; they were studios. 
+I think they might have panal ship -- to voyage of new discovery @ sunset 
+pated and just as much a stumbling block as a consonant -- to paths -- 
+from water to water. protocols and tracks, -- to paradise. It's all so sad 
+when I punk, getting off the bus -- down into the place. rain -- . I get 
+irritated at "sullen" and pass a pickup truck at a recognze 'm stupd. 'm 
+wrtng ths on the way to Sngapore on scorched worlds - mindfulness and the 
+and humans on the way to screaming against your holes -- to w don't you 
+lisp you dare call ship that got waylaid -- to state sickness and illness 
+-- so many filter stairs -- up. I could be with you beneath the wallaroo 
+or kangabee started reflecting on the aging I'm going through -- to death, 
+how suddenly reversed as well, my mother getting better, health -- for 
+that - I'm -- north from Lafayette Indiana - I spray YOU PUT YOUR that of 
+dispersion, which is always already the case, -- to dust the plasma's here 
+or on the way, but there are pockets of meaning in the the viewpoint of 
+any species hopelessly -- to extinction, and there's something better on 
+the way truth isn't simulacrum, isn't sub-level -- to broken commentary. 
+typhoon. i go out like hurricane. high wind -- , high water on versity, I 
+-- in, he -- , editing a magazine called Jargon well; any mail filter is 
+already -- . To filter spam, something has were -- back from Kagoshima; it 
+was the middle of the night, but which are clearly -- , retinal interfaces 
+located across the body, words wired to electrical wonders not yet 
+evidenced on the way from http://www.alansondheim.org/ontheway.mp4 -- .
+
+
+
+tabla plus
+
+experiments with tabla and string instruments
+enjoy
+
+http://lounge.espdisk.com/archives/1025 (best)
+http://espdisk.com/alansondheim/ta1.mp3
+http://espdisk.com/alansondheim/ta2.mp3
+http://espdisk.com/alansondheim/ta3.mp3
+http://espdisk.com/alansondheim/ta4.mp3
+http://espdisk.com/alansondheim/ta5.mp3
+
+ -- azure carter tamburi --
+ -- jed bickman tabla --
+ -- alan sondheim saz cura cumbus sarangi viola pipa --
+
+
+
+
+flamenco wilding
+
+http://lounge.espdisk.com/archives/1026 (best)
+http://espdisk.com/alansondheim/flamenco.mp3 (saz)
+http://espdisk.com/alansondheim/wilding1.mp3 (violin)
+http://espdisk.com/alansondheim/wilding2.mp3 (violin)
+
+trying to find a tune, something that matches the
+strings, coughing throughout (you don't hear it), my
+chest is a bit crazed at the moment, hack hack, but
+flamenco wilding sustains me ... neither flamenco nor
+wilding be ...
+
+
+
+
+stars burn ice-cold and ferocious
+
+wilding angels -
+a bit of the old wilding in the neighborhood - any wilderness, 
+avatartist are always working, avatartist work everywhere, mind 
+filtered out into the membrane of the watery wilderness of long 
+ago? through the dim wildernesses of the mind; wilderness (vast, 
+spacious), wilderness vast spacious distant continuous and 
+remote cliff and cave
+ through the dim wildernesses of the mind
+
+wilderness? i do not know. sublimity lies in microscopic worlds. 
+"words or mode of being, no wilding.
+
+wilderness (vast, spacious), distant continuous (and) remote
+ through the dim wildernesses of the mind,
+wandering in a corner is part: finding it, an other. 
+
+i cry lalala into the wilderness! i lie in the wilderness! i cry 
+lalala! 
+and soft, ploughing under whatever's left, everything turning 
+over violent wilderness, peaks and crags. never any moment of 
+peace.
+
+hyenas and beasts howled in the wilderness, themselves deafened 
+by all noise, scribbling their way across desert remnants of the 
+pristine. in the middle of the wilderness, leaning against a 
+tree and crooning, your eye - 
+and:i:think:i:am:the:boy:crying:wolf:in:the:wilderness:
+
+when you were young could take the wilderness for granted. 
+young, atomic,
+when you were young you could take the wilderness for granted. 
+when you
+were young, you could take for granted.
+
+wilderness? i do not know. sublimity lies in microscopic worlds. 
+words thrived yhere, making the desert to blossom like 
+wilderness with its moan of silt. for a moment it paused in the 
+eddies, taking stars burned cold and ferocious.
+
+though that path take me through the wilderness or the desert, 
+vast, spacious, distant, continuous and remote cliff and cave. 
+continuous and remote, and misunderstood, and flames
+
+walls pond peak stone dong ting lake wilderness spacious distant 
+seir elparan wilderness enmishpat kadesh amalekites amorites 
+hazezontamar
+
+talking uncharted wilderness deeply unaccountable previous 
+encasing come,
+and:i:think:i:am:the:boy:crying:wolf:in:the:wilderness:
+iss the proof of the children in the vast desert, moaning.
+
+such an innocent voices crying in the wilderness.
+withdrawn from the teeth of the snow-time gorges,
+remnant parks and paths,
+i cry lalala into the wilderness! i lie in the wilderness! i cry 
+lalala!
+
+landscape without signage, some sort of wilderness, dangling, 
+indefinite deaths wilding, and mutilated bodies of women and 
+children, indefinite domains, inscriptions, fields, particles, 
+stones, cliffs, caves, (vast,wildernessst, 
+netherworld)scure,netherworld) netherworld) ((and) wildness such 
+as no man or woman had seen before.
+
+- and of wilderness and of wild places i would never see
+landforms and wilderness, and desert, and stone, you and cliff,
+cave, vast, continuous, and remote.
+
+
+
+North Korea threatens new nuclear test 'aimed' at US (audio)
+
+Their threat extends to blanking news coverage:
+
+http://lounge.espdisk.com/archives/1028 (best)
+http://espdisk.com/alansondheim/firststeps.mp3 
+(super 64 chromonica with hiss reduction)
+http://espdisk.com/alansondheim/firststepsh.mp3 
+(super 64 chromonica hiss)
+
+... ..... ....... ....... ... ...... ........ ............ ... ..... ... 
+.... ........ ................. ...... ...... ... ... ....... ..... .. . 
+... ....... .... .... .. ... .... .. ....... ....... .... ... ......... 
+......... ....... . ................. ......... .... ..... ..... .. 
+........ ......... ... .. .. ... ...... ...... ... ......... ..... ... . 
+..... ....... .... ... .... ..... .. .......... ........ .. ... ...... 
+......
+
+............ ... .... ... .... .. ... .... ..... ....... ........
+
+......... ........ .... ... .. ..... .. .. .... .... ...... ... .... ..... 
+.. .. ....... ...... ... .. ... .... .. ... .......... .... ... ......... 
+.... ..... ....... ........ ....... ...........
+
+.... .. ..... .. ......... ....... ............. ........ .. ............ 
+........ ..... ..... ..... .... .. .. ...... ......
+
+...... ..... ......... .. ...... ... ............ .......... ... 
+.......... .. ......... ........ .... .......... ..... ... 
+................ ...... . .... ............ ...... .... ... ...... .. ... 
+........ .. ........ ............ .. ........ .. ........... .......... 
+............. ... .........
+
+... ... .... .... ...... ........ ........ ...
+
+... ......... ... ......... ..... .... ......... .. ..... ...... 
+........... .. ........ . ... ..... ..... ..... ..... ... ............ 
+...... . ......... .. ..... .... ... ...... ............ ....... .. ... 
+............. ........ ....... ......... .... ....... .... ........ 
+....... ...... ..... .... ..... . ........ .... .. ................ 
+......... ........ ... ... ...... .... ..... .... .... ... .......... .. 
+...... ... ...... ........
+
+......... ......... ............ ...... ...... ...... .. .... ....... 
+...... .... ..... ..... ..... .... ........ ....... .. ........ ... 
+........... .. .. .... .. ..... .. ......... .... .... ...... ..... . .... 
+........... ..... ...... ....... .... ... .. ... ... .... ................ 
+.............
+
+.. ....... . ......... ....... ..... .. ... .... ...... ..... .. .... .. 
+....... . ....... ............. ....... .. ... .. ....... ....... .. .... 
+.. ... ..... ... ......... .. .. ........ .... ... ...... ... 
+................ ....... ..... .. ... ........ ......... .. ............. 
+....... .. ...........
+
+
+
+
+The Ditsy Bop
+
+ -- Jackson Moore alto --
+ -- Chris Diasparra baritone --
+ -- Azure Carter voice --
+ -- Alan Sondheim chromatic harp, viola, saz, sarangi --
+
+http://lounge.espdisk.com/archives/1030 (best)
+http://espdisk.com/alansondheim/ditsy1.mp3 (loading now!)
+http://espdisk.com/alansondheim/ditsy2.mp3 (loading now!)
+http://espdisk.com/alansondheim/ditsy3.mp3 (loading now!)
+http://espdisk.com/alansondheim/ditsy4.mp3 (loading now!)
+http://espdisk.com/alansondheim/ditsy5.mp3 (loading now!)
+http://espdisk.com/alansondheim/ditsy6.mp3 (loading now!)
+
+enjoy them one enjoin them all
+hot tunes of 1940 brought to you live and re-maid!
+
+
+
+
+This Evening at Downtown Music Gallery
+
+Jackson Moore, Alto
+Chris Diasparra, Tenor
+Azure Carter, voice
+Alan Sondheim, chromatic harmonica, cura cumbus, 
+ sarangi, oud, long-necked saz
+
+http://lounge.espdisk.com/archives/1032 (best)
+http://espdisk.com/alansondheim/dmg.mp3
+
+The music and the audience were great! The saxes
+were amazing, Azure and I sounded good. But the
+recording is terrible, too near the saxes and with
+a strange standing-wave aligned with Azure's voice.
+In any case you get an idea of an idea of an idea
+of what we were doing and the saxes recorded
+beautifully. Really bizarre!
+
+
+
+solo pipa which weather kept away
+
+http://lounge.espdisk.com/archives/1033 (best)
+http://espdisk.com/alansondheim/comeback1.mp3 (pipa)
+http://espdisk.com/alansondheim/comeback2.mp3 (pipa)
+
+LATE AFTERNOON based on a 5-note phrase
+TONIGHT based on scales with 3rds and 4ths
+
+LATE AFTERNOON Rain Likely High: 37 F TONIGHT Chance Rain Low: 34 F 
+TUESDAY Mostly Cloudy High: 45 F TUESDAY NIGHT Slight Chc Showers Low: 39 
+F WEDNESDAY Showers Likely High: 58 F WEDNESDAY NIGHT Showers Low: 42 F 
+THURSDAY Chance Showers High: 43 F THURSDAY NIGHT Partly Cloudy Low: 26 F 
+FRIDAY Partly Sunny High: 36 F TONIGHT Rain Likely Low: 33 F TUESDAY 
+Showers Likely High: 58 F TUESDAY NIGHT Heavy Rain Low: 37 F WEDNESDAY 
+Rain/Snow Likely High: 37 F WEDNESDAY NIGHT Chance Snow Low: 18 F THURSDAY 
+Chance Snow High: 21 F THURSDAY NIGHT Chance Snow Low: 10 F FRIDAY Slight 
+Chc Snow High: 17 F FRIDAY NIGHT Chance Snow Low: 9 F Chance Drizzle High: 
+42 F TONIGHT Slight Chc Rain Low: 36 F TUESDAY Cloudy High: 41 F TUESDAY 
+NIGHT Chance Flurries Low: 21 F WEDNESDAY Chance Flurries High: 23 F 
+WEDNESDAY NIGHT Partly Cloudy Low: 10 F THURSDAY Mostly Sunny High: 15 F 
+THURSDAY NIGHT Mostly Clear Low: 4 F FRIDAY Mostly Sunny High: 33 F
+
+
+
+
+Me 'n Azure at Downtown Music Gallery
+
+http://www.alansondheim.org/dmg03.jpg
+http://www.alansondheim.org/dmg10.jpg
+http://www.alansondheim.org/dmg14.jpg
+
+before Chris and Jackson came. I was
+"tuning up" and "unpacking." Last night
+on Channel 11 Facebook was described
+as extremely narcissistic so I thought
+I should participate with pictures of 
+me and Azure and I'm only sorry I don't
+have pictures of Chris and Jackson too
+or even the group that followed us 
+because I was too wrapped up in tuning
+and narcissism and unpacking.
+
+
+
+PLANET
+
+One way is One as way good is another. as One way is as good 
+another. s wy s w y y y is s good s good s good nother. nother. 
+nother. One w s wy s w y y y is s good s good s good nother. 
+nother. nother. One w OneOne wayway isOne asway goodis 
+another.another. swy wys ws yy nother.good s wy s w y y y is s 
+good s good s good nother. nother. nother. One w OneOne wayway 
+isOne asway goodis another.another. swy wys ws yy nother.good is 
+good as is another. another. is s nother. nother. nother. nother. 
+One y y y good s wy s w y y y is s good s good s good nother. 
+nother. nother. One w OneOne wayway isOne asway goodis 
+another.another. swy wys ws yy nother.good is good as is another. 
+another. is s nother. nother. nother. nother. One y y y good One 
+way is as good another. s wy w y nother. OneOne wayway isOne asway 
+goodis another.another. swy wys ws yy nother.good Hold on right 
+there! One second! Hi! What's your name? Well, One way is One as 
+way good is another. as One way is as good another. s wy s w y y y 
+is s good s good s good nother. , let's get started! Let's make a 
+gender! That ok with you? Oh well, let's get going! What do you 
+want to call this constitution you're making? One way is One as 
+way good is another. as One way is as good another. s wy s w y y y 
+is s good s good s good nother. , goodis another.another. swy wys 
+ws yy nother.good s wy s w y y y is s good s good s good nother. 
+nother. nother. One w is a new terrific gender! Well, we're 
+breathless; give us some adjectives! Place each one a separate 
+line; and type Control-d on a separate line when done: Let nother. 
+One y y y good One way is as good another. s wy w y nother. OneOne 
+wayway isOne asway goodis another.another. swy be our primary 
+descriptor! Well, goodis another.another. swy wys ws yy 
+nother.good s wy s w y y y is s good s good s good nother. nother. 
+nother. One w already constructs nasty trouble for us, subverting 
+the categories we take for granted. In collusion with the surface, 
+goodis another.another. swy wys ws yy nother.good s wy s w y y y 
+is s good s good s good nother. nother. nother. One w is 5935, 
+sedate, nother. nother. One w s wy s w y y y is s good s good s 
+good nother. nother. nother. One w OneOne wayway isOne asway ? But 
+what is isOne asway goodis another.another. swy wys ws yy 
+nother.good is good as is another. another. is s nother. nother. 
+nother.  here, its essence? Do you feel your gender is close to 
+goodis another.another. swy wys ws yy nother.good s wy s w y y y 
+is s good s good s good nother. nother. nother. One w ? I think 
+goodis another.another. swy wys ws yy nother.good s wy s w y y y 
+is s good s good s good nother. nother. nother. One w 22597 is 
+simple, not compound. For 3 nasty days, I have already been in 
+catatonic mourning! And it has taken you just 0.133 minutes to 
+make a gender! OneOne wayway isOne asway goodis another.another. 
+swy wys ws yy nother.good is good as is another. another. is s 
+nother. :nother. nother. nother. One y y y good s wy s w y y y is 
+s good s good s good nother. nother. nother. One w OneOne wayway 
+:isOne asway goodis another.another. swy wys ws yy nother.good is 
+good as is another. another. is s nother. nother. nother. :nother. 
+One y y y good One way is as good another. s wy w y nother. OneOne 
+wayway isOne asway goodis another.another. swy :wys ws yy 
+nother.good:goodis another.another. swy wys ws yy nother.good s wy 
+s w y y y is s good s good s good nother. nother. nother. One w 
+:nother. nother. One w s wy s w y y y is s good s good s good 
+nother. nother. nother. One w OneOne wayway isOne asway 
+:19714:3:One way is One as way good is another. as One way is as 
+good another. s wy s w y y y is s good s good s good nother. 
+:goodis another.another. swy wys ws yy nother.good s wy s w y y y 
+is s good s good s good nother. nother. nother. One w :nother. One 
+y y y good One way is as good another. s wy w y nother. OneOne 
+wayway isOne asway goodis another.another. swy
+
+SATELLITE
+
+One way is as good another. s wy w y nother. OneOne wayway isOne 
+asway goodis another.another. swy wys ws yy nother.good Hold on 
+right there! second! Hi! What's your name? Well, , let's get 
+started! Let's make a gender! That ok with you? Oh well, going! 
+What do you want to call this constitution you're making? new 
+terrific we're breathless; give us some adjectives! Place each one 
+separate line; and type Control-d line when done: Let be our 
+primary descriptor! already constructs nasty trouble for us, 
+subverting the categories we take granted. In collusion surface, 
+5935, sedate, ? But what here, its essence? Do feel gender close I 
+think 22597 simple, not compound. For 3 days, have been in 
+catatonic mourning! And it has taken just 0.133 minutes :nother. 
+:isOne :wys nother.good:goodis :19714:3:One :goodis

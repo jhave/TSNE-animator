@@ -1,0 +1,63 @@
+
+
+
+
+Pico-boo!
+
+
+Written in dana:
+
+It's like this, this and every other editing system, imposing the com-
+plexity of memorization upon the format. Here, word-wrap seems useless;
+all that happens is that the margin turns in upon itself, while the
+images at the left-hand side of the screen do nothing for me but take
+away the size and shape of the whole. The control-j of blessed pico,
+allowing for quick and easy formatting is missing; dana does some min-
+imal wrap, but I'm not sure where the decisions are made - they seem to
+be somewhat nonsensical - as if the structure itself were reading from
+a dictionary and deciding where and when the breaks should be placed.
+But that's not the whole of it; emacs at least creates the phenomenolo-
+gy of _sliced grids,_ in which everything is accessible, half drawing,
+half image, while pico, similar to the edit in DOS, scrolls. Here is
+what?
+
+Is a picture or a window, is a frame. Emacs has the minimal, pico next
+and of course one can simply write at an empty linux prompt. The less,
+the better, as text defines its own space, sutures its world close to
+the memory of wilderness. Everything is deconstructed, but lines in
+dana are already subdued, in pico transformed into rhetoric, in emacs
+deepened with always-present buffers and plateaus, with vi, a case of
+construct. (But I'm ignorant of dana! Ignorant of emacs fine-points,
+sliding back and forth among major and minor modes, or vi modes, or 
+simply common usage...)
+
+Think of _word-wrap,_ absent, say, in teachtext or DOS edit. It's word-
+wrap that constructs the scroll, invisible breathing of the text; with-
+out it, the materiality of the letters asserts itself - the line devel-
+ops _length,_ disappears from the edge of the screen, or the beginning
+disappears as the line takes cursor with it, continuing indefinitely.
+Word-wrap is a function of geometry, nothing more; still, it references
+the positioning of the body, the bandwidth of the screen and subtended
+viewing angle.
+
+Languaging in these editors possesses: graphemes within the symmetrical
+substructure of the grid; the _stuff_ of the text, its materiality; the
+_sound_ of the stuff; the _breathing_ of the sound; the apparent flood-
+ing or _spew_ of the text; the text's _inscriptive tropology_ across
+applications, nets, editors, etc.; its existence as binary coding; its
+existence with specified hidden symbols such as <CR> or <LF>; its po-
+tential performativity (program-text, script-text, html-body); its sem-
+antic universe and semiosis (semantic function-construct); and all the
+usual linguistic structures, deep/surface, etc. (not to mention the is-
+sues of the full graphemic lexicon, the language lexicon and dialect,
+its synchronic and diachronic relationships etc.).
+
+Continuing, one should also bring information theory into play, not to
+mention psychoanalytics, deconstruction, reception theory, issues of
+gender, class structures, Chomsky's language (as a dialect with an ar-
+my), and everything just _pours_ across screens, with or without tab
+marks, rulers, gridlines, icons, menus, scrollbars, help commands...
+
+I am an idiot.
+
+

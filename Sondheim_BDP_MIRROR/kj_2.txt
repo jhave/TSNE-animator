@@ -1,0 +1,37 @@
+
+
+
+
+Here is a translation of a poem by 8th-century Yakamochi, by Kenneth
+Rexroth:
+
+The cry of the stag
+Is so loud in the empty
+Mountains that an echo
+Answers him as though
+It were a doe.
+
+_Yama biko no
+Ai to yomu made
+Tsuma goi ni
+Ka naku yama be ni
+Hitori nomi shite_
+
+
+And through this you see darling Nikuko how I call you through the wires,
+rural electrification notwithstanding! For it is true that the echo com-
+mand - in format {k:0} echo 'command' - behaves just as in Perl, that is,
+the backward quotations enact command, then echo it onto the screen with-
+out line returns, but a pure escapement, pure emission, pure thrust of
+activation
+
+so that I emit towards you this echo, this command, reverberating in the
+midst of the mountains, creating you; your sound, scent, touch, envelop me
+and you sense my presence as I echo back to you, your wish is my 'command'
+
+so that you emit towards me this echo, this command, reverberating in the
+midst of the mountains, creating me; my sound, scent, touch, envelop you
+and I sense your presence as you echo back to me, my wish is your 
+'command' . . . 
+
+

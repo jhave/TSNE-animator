@@ -1,0 +1,17 @@
+
+
+<html>
+<head>
+<title>schizz</title>
+</head>
+<frameset rows="50%,*" cols="50%,*">
+<frame src="frame.htm">
+<frame src="frame.htm">
+<frame src="frame.htm">
+<frame src="frame.htm">
+<noframes>
+ddder
+</noframes>
+</frameset>
+</html>
+

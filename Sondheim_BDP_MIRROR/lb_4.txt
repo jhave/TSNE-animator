@@ -1,0 +1,43 @@
+
+
+
+
+Linux Minicom Log: Sloop-Sailing on the Oceans' Wires
+
+
+
+990803 19:20:29 CONNECT 57600 Sailing on the Cyberwaves, 12127414588
+990803 19:20:55 Hung up on my long-lost softly rolling waves
+990803 19:20:55 Gone offshore searching for my soul
+990803 19:24:15 CONNECT 57600 Sailing on the Cyberwaves, 12127414588
+990803 19:48:24 Gone offshore searching for my soul
+990803 21:45:04 CONNECT 57600 Sailing on the Cyberwaves, 12127414588
+990803 21:45:24 Hung up on my long-lost softly rolling waves
+990803 21:45:24 Gone offshore searching for my soul
+990803 21:46:08 CONNECT 57600 Sailing on the Cyberwaves, 12127414588
+990803 21:47:19 Hung up on my long-lost softly rolling waves
+990803 22:25:01 CONNECT 57600 P2, 3609201
+990803 22:26:32 /usr/bin/sz -vv -b zzz a few precious moments of sleep
+990803 22:26:33 Sending: zzz a few precious moments of sleep
+990803 22:26:37 Bytes Sent:   1408   BPS:398
+990803 22:26:37 Sending: all across the deep blue sea
+990803 23:01:07 /usr/bin/rz -vv -b -E 
+990803 23:01:07 Receiving: seas and sea-straits, dolphins, anglers
+990803 23:01:10 Bytes received:    5711/   5711   BPS:3523
+990803 23:02:20 /usr/bin/rz -vv -b -E 
+990803 23:02:21 Receiving: lakes and oceans, skates and manta-ray
+990803 23:02:38 Bytes received:   88087/  88087   BPS:5233
+990803 23:02:38 Receiving: seas and rivers, salmon and tunicates
+990803 23:02:39 Bytes received:    2789/   2789   BPS:3399
+990803 23:10:55 /usr/bin/rz -vv -b -E 
+990803 23:10:56 Receiving: oceans and seas, krill and nurturing plankton
+990803 23:10:58 Bytes received:    6319/   6319   BPS:3828
+990803 23:17:19 Gone offshore searching for my soul
+990803 23:18:42 CONNECT 57600 P2, 3609201
+990803 23:19:27 Gone offshore searching for my soul
+990803 23:20:30 Gone offshore searching for my soul
+
+searching for my soul and deep-sea dreaming
+searching for my soul and deep-sea dreaming
+
+

@@ -1,0 +1,48 @@
+
+
+Cybermind
+*
+*  Country        Subscribers
+*  -------        -----------
+*  Argentina              3
+*  Australia             13
+*  Austria                2
+*  Belgium                1
+*  Brazil                 2
+*  Canada                18
+*  Costa Rica             1
+*  Czech Republic         1
+*  Denmark                1
+*  El Salvador            1
+*  Finland                3
+*  France                 5
+*  Germany               10
+*  Great Britain         14
+*  Greece                 1
+*  Hongkong               1
+*  Iceland                1
+*  India                  1
+*  Indonesia              1
+*  Israel                 1
+*  Italy                  5
+*  Japan                  3
+*  Korea                  3
+*  Netherlands            2
+*  New Zealand            1
+*  Norway                 5
+*  Portugal               2
+*  Russia                 1
+*  Singapore              2
+*  South Africa           1
+*  Spain                  1
+*  Sweden                 5
+*  Switzerland            3
+*  Taiwan                 1
+*  USA                  188
+*  Uruguay                1
+*
+* Total number of "concealed" subscribers:           4
+* Total number of users subscribed to the list:    305  (non-"concealed" only)
+* Total number of countries represented:            36  (non-"concealed" only)
+* Total number of local node users on the list:      0  (non-"concealed" only)
+*

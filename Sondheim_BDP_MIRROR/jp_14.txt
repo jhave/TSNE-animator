@@ -1,0 +1,145 @@
+
+
+
+Dead Time: The Machinery of Reality
+
+
+[This is from an older article of mine, published in Obscura, 1981. The
+sections quoted below touch on the characteristics of science, which also
+reference the characteristics of CMC substructures - the protocol suites,
+circuitry, and so forth. All insertions, now, are enclosed in brackets.]
+
+The epistemic status of the scientific photograph is extraordinarily prob-
+lematic; it exists in the interstices between theory and a naively Platon-
+ic reality, vis-a-vis a heuristics of loose procedures of interpretation.
+The more classic areas of the life sciences, as well as descriptive geolo-
+gy and astronomy, tend towards a photography of contextualization: the ap-
+plication of the matrix in which the specimen is embedded, accompanied by
+a space-time grid (i.e. the skull was found at a depth of 7.6 cm. in the
+3rd quadrant with coordinates 9.0x4.6).  [...]
+
+In those sciences more closely tied to well-defined theoretical formula-
+tions (I am speaking here of a primary mathematization of reality, not of
+the Kuhnian paradigm), the photograph is part of an explanatory mechanism;
+the image itself is given space-time coordinates within the necessary
+tolerance (up to the Heisenberg limits of the machinery), and the image
+surface may also be assigned coordinates. Both categories of scientific
+photography are dependent upon seriation; the single image needs corrobo-
+ration. In the descriptive sciences, multiple images from various angles
+may be taken of a single event (what Broad calls "sporadic phenomena"); in
+other areas (such as particle physics, quantum mechanics, computer sci-
+ences), photographic clusters or single images of multiple events are more
+likely. [Consider screen images of representatons of intermath processes 
+for example.] [...]
+
+Thus it is necessary to at least outline the ideology of science, in rela-
+tion to technology. In this regard I take issue with Braverman's distinc-
+tion between science and technology (engineering, etc.) on the basis of
+professionalism; I see professionalism as a surface social phenomenon over
+a deep ideological structure applicable to both. This ideological struc-
+ture projects the following as primary:
+
+Quantification: (the mathematization of the world, mathesis): an alliance
+between abstract mathematical structures and experimentally isolated phen-
+omena.
+
+Parameterization: The isolation of independent and dependent variables in
+the world (such as temperature, volume, pressure).
+
+Repetition: The scientific experiment and the assembly line exist as ser-
+iations; even quantification is dependent upon repetitive operators.
+
+Exchange: In technology, the equivalences of the assembly-line; in sci-
+ence, the presence of equivalence or tolerance classes in all areas from
+taxonomy to particle physics. Exchange, like quantification, parameteriza-
+tion, and repetition, is considered ethically neutral, part of the mach-
+inery of the world.
+
+Feedback: In science, the Popperian potential for falsification - the "ed-
+iting down" of competing theories; in technology, quality control.
+
+Formal-theoretical Reification: Loosely, the ability to bracket concepts
+by substitution (comparison, etc.); this bracketing may create a fit be-
+tween a concept or entity and theory (Bohm). In psychology, a new phenom-
+enon may be classified as a syndrome (i.e. "Hearst syndrome") in order to
+fit into a theoretical matrix.
+
+Data-structures / Taxonomies: Tabling and warehousing, dependent upon a
+neutral systemics of indexing.
+
+Specialized Arena of Operation: Circumscribed and reductive, the labora-
+tory, factory, "nature preserve," atmospheric layer.
+
+Socialization: The presence of discipline-specific modes of distribution
+of knowledge or materials; the politicization of science in terms of re-
+search programs and methodologies.
+
+Elimination of Anecdotality and the Uncoded Subject: In this sense, sci-
+ence and technology are exteriorities. [The coded subject, vis-a-vis Hei-
+senberg or Bell, is a formalization.]
+
+Translatability / The Shift: A scientific platonist would argue that sci-
+ence is not a language, but a reflection (in the marxist sense?) of univ-
+ersal structure; its ultimate "goal" is a transcendent analysis of the
+real. This is mirrored by modularity and standardization in technology;
+the translation between English and metric for example, is only a conven-
+tional, but universally-defined mathematical ratio.
+
+The most suspect term in this structure is "neutral." One might argue that
+science itself, in its core, is anarchic, one style among many in the
+world (see Feyerabend); one may find it, on the other hand, as absolutely
+reflective, towards an ultimately exact (within quantum limits) paradigm.
+I make a distinction between a platonically ideal core structure and human
+desires; if it were not for the former, normal science and technology
+would not have the socio-political power [and predictive power] they do,
+and if it were not for the latter, all theories would smoothly tend [to-
+wards the imminence of the status quo vis-a-vis research programmatics].
+
+The core structure is simply "the style of the physical world." The phys-
+ical world encompasses objects, but objects exist only in terms of their
+semantics/modes of representation [which do not make them any the less
+"real"]. "An object is an object for subjects in the world." (von Weizs-
+acker) "Objects and events are not primitive experiences. Objects and ev-
+ents are representations of relations." (von Foerster) [Note that an ob-
+ject can be a subject for a subject for itself.] A hypothesis of the core
+structure states that relations in the physical world are ultimately in-
+dependent or _formally_ dependent upon the subject; this hypothesis guar-
+antees in practice the irrelevance and marginality of the ego. The pro-
+cesses of industrialization and methodology - in terms of heuristics - of
+science and technology are the same in capitalism and communism; the the-
+oretico-philosophic interpretation of theory may be completely different. 
+[...]
+
+[Now the description above applies to protocols, which, within their rep-
+resentations, describe their worlds, are subjects for themselves. Within
+the Net, for example, the substructural layers define - in a core-theor-
+etical way - the surface phenomena; these layers can be considered fore-
+closed or _almost independent_ (nearly decomposable - see Herbert Simon,
+The Sciences of the Artificial). Embedded in history, these layers are, of
+course, conventional, ad hoc (much as our universe within the inflationary
+or anthropic model may be considered conventional vis-a-vis carbon-based
+life); _within the Net,_ however, they are idealities, permitting, for
+example, this text to reach you vis-a-vis email protocols.]
+
+[The article goes on to examine the status of the scientific photograph,
+not contesting its apparent neutrality, so much as examining it from a
+phenomenological viewpoint. The article ends with the following post-
+script, which continues to point to a very basic problematic.]
+
+Postscript: It must be understood that this article can only be an out-
+line. Because of the interstitial nature of scientific photography, its
+aesthetics and phenomenology draw on such diverse areas as the philosophy
+of science, theories of cognition, phenomenology, and traditional photo-
+graphic aesthetics. The deepest problem is twofold: the relation of theory
+to image, and the mathematization of reality "in general." The latter is
+basic, since the image/reality nexus can often be reduced to an analysis
+of algorithmic procedures. Mathematization is still the major problem with-
+in the philosophy of science; the gap between abstraction and materiality
+is treated differently, depending upon idealist, materialist, intuition-
+ist, marxist, [conventionalist,] or anarchist viewpoints. I tend towards
+anarchism in methodology [wild theory] and a platonism, perhaps naive, in
+terms of core structure. Dead Time reflects this viewpoint, however con-
+tradictory. 
+
+Alan Sondheim, Los Angeles, 7/1981
+

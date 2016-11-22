@@ -1,0 +1,99 @@
+
+
+
+.concealed
+
+
+We say of avatars or literary figures, for example Jennifer, who, is her-
+self/itself an aporia, a knot in avatar Jennifer - not her/its "life-like
+appearance," but her/its constitution-Jennifer looping through the con-
+junction. What is this particle that forecloses in Jennifer, foreclosed by
+the desktop owner playing, for example, a game of chess .concealed to sug-
+gest: Conceal it (this name) so that it shall not be / will be / have
+been, is itself a .concealment among alterity? But what is this .conceal-
+ment, if not that of death? I will be what I will, the suffering described
+by Rashi, the detour of death that .conceals Being, inert, but fallible for
+every organism. Names and beings .conceal as the name protects itself, 
+.conceals, is spoken among avatars, among Jennifer.
+
+This is the path which I have written, ordered and edited as such, brought
+together, recuperated, the hidden message, the secret code, such is pico
+zz 11 grep Jennifer lg >> zz 17 grep foreclose lg >> zz 19 grep .conceal
+lg >> zz 20 pico zz.
+
+script started on wed dec 22 13:19:20 1999 $ ~/.jennifer name "main::sign"
+used only once: possible typo at /net/u/6/s/sondheim/.jennifer line 38.  
+use of uninitialized value at /net/u/6/s/sondheim/.jennifer line 38.
+
+give a name to your process - 
+
+writing beneath the .concealment of the name, my body bandaged, flesh
+seared to the core from your intense teeth, your breasts shuddering in
+pain, contusions on our skulls, cock lacerations, labial woundings churn
+dark in the valley where you huddle. -
+
+your heel is grabbed by Jennifer and you - 
+keep together, swallow dirt, eat each other.
+
+your dead words are fucked and blank?
+ 
+dead words, these lips hardly move, names are just that, it's the force of
+violent cock, violent cunt, it's the burn-marks as bodies splinter, grope,
+our suffering on the millennial hinge, portal, parts of us will make it
+through -
+
+i rip your cock, your eyes, your mind, writing beneath the .concealment 
+of the name, my body bandaged, flesh seared to the core from your intense
+teeth, your breasts shuddering in pain, contusions on our skulls, cock
+lacerations, labial woundings ...
+
+last suck desecrates beyond my earth, your screen! 
+use of uninitialized value at /net/u/6/s/sondheim/.jennifer line 58,
+<stdin> chunk 2.
+
+where do you call your heel?
+my arms are .concealed in you, fingers twisted around violated organs, you
+do me in, Jennifer, that remains your name burned in me, my tongue ripped
+against your splintered bones
+
+your last things, suffocated, burned - list them... 
+these balls, suffocated and burned
+this cunt and cock shaft, torn and bleeding
+the exhileration of this mind set free at last
+patches of skin
+my the exhileration of this mind set free at last is yours... use of
+uninitialized value at /net/u/6/s/sondheim/.jennifer line 87, <stdin>
+chunk 7. use of uninitialized value at /net/u/6/s/sondheim/.jennifer line
+91, <stdin> chunk 7. use of uninitialized value at /net/u/6/s/sondheim/
+.jennifer line 96, <stdin> chunk 7.
+
+my arms are .concealed in you, fingers twisted around violated organs, you
+do me in, Jennifer, that remains your name burned in me, my tongue ripped
+against your splintered bones calls forth dissolutions last suck, ingest-
+ing, excreting. below the noose, my arms are .concealed in you, fingers
+twisted around violated organs, you do me in, Jennifer, that remains your
+name burned in me, my tongue ripped against your splintered bones is, dead
+words, these lips hardly move, names are just that, it's the force of vio-
+lent cock, violent cunt, it's the burn-marks as bodies splinter, grope,
+our suffering on the millennial hinge, portal, parts of us will make it
+through?
+
+last suck is the exhileration of this desecrated mind set free at last in
+blank earth, blank screen, last suck, your desecrated mind.
+
+are you satisfied with your arms .concealed in you, my splattered fingers
+twisted around violated organs, you do me in, Jennifer, that remains your
+name burned in me, my tongue ripped against your splintered bones?
+
+turned towards early morning cries, beginning once again, your name con-
+cealed use of uninitialized value at /net/u/6/s/sondheim/.jennifer line
+130, <stdin> chunk 8.
+
+for 3 days, we have been splayed and buried
+it has taken us 5.383 minutes to speak our last ...
+
+27 pico zz 28 sed 's/jennifer/Jennifer/g' zz > yy; mv yy zz; pico zz 29
+less zz 30 sed 's/julu/jennifer/g' zz > yy; pico yy 31 b 32 less zz 33
+pico zz 34 ps 35 k 29406 36 fg 37 b 38 ls 39 h 40 rm yy 41 less zz 
+
+

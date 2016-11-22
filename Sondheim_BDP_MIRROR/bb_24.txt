@@ -1,0 +1,76 @@
+
+
+-
+
+
+Conferencing
+
+
+Let's think about conferencing a bit more. I mentioned in a previous text 
+that a conference should possess three components, to reach the maximum 
+demographics - a gateway Web page with graphics at a maximum of 30k; a 
+system of one to three email lists (preferably listserv) in order to fos- 
+ter discussion based on papers that would be on the page; and a talker 
+that would be useful for synchronous discussion. And I was, and still am, 
+of the opinion that little more is needed for reasonable in-depth confer- 
+encing; the only thing missing would be whiteboard.
+
+There are currently organizations experimenting with IRC as well, not so 
+much for the chat (although that, too), but for the dcc ability to send 
+files quickly back and forth. But IRC is subject to netsplit, and unless 
+one has a separate server, to hacking as well.
+
+Let us think further about the phenomenology (in the descriptive sense) of
+the three components mentioned above. The first, the gateway, is by and
+large a _data-base,_ a registration-and-retrieval node. It is the library
+of the conference, containing its primary materials. Within the Freudian
+model, it is the _super-ego,_ articulating and frameworking everything
+else. Registration occurs through the gateway page, which is then a rite
+of passage as well. 
+
+The second component, the system of email lists, is the Freudian ego, the
+relative centering and decentering of positions - both extensions and con-
+tradictions of the gateway data-base. If the data-base is _time zero,_
+lagless and inert, the email list system is temporal retardation; posts
+are _plateaus,_ and threads guide them in the sense of formal structure. 
+Messages are temporally ordered, but there are discrete intervals between
+them (even if the interval is zero). A measuring-process is at work. Ar-
+chives return the list to stabilized data-bases, and might be made avail-
+able at the gateway site. I would say that most of the conference _labor_
+would occur through the lists - as well as most of the _networking._ After
+all, each post is accompanied by a personal return-address.
+
+The third component, the talker for synchronous discussion, both repro- 
+duces the "liveliness" of an off-line conference, and provides the least 
+useful content. It does, however, create both a sense of belonging (one 
+"joins" the on-line conference, not only by formal registration through 
+the gateway, but also by participating in live discussion - the guarantee 
+of _speaking_ as a rite of passage), and a sense, rightly or wrongly, of 
+the speech of others, their personalities and rhetorical tropes in real 
+time. The talker relates well to the id, flow, driving-mechanism; in a 
+sense, it creates the greatest sense of risk for the participants.
+
+Eventually, these modalities will be superseded or extended to include
+live video and audio; this is a certainty. The give-and-take of talker
+_typing_ will be a thing of the past, pleasing the managerial class which
+tends to abjure any sort of manual labor (reading and writing on email 
+lists is unavoidable if one wants depth, but then, who wants depth?). 
+
+Two things will occur: the dominance of id-fluxes across the conference 
+as a whole, and a sense of _authenticity_ in relation to the alterity of 
+the other, as a result of the relative _granularity_ of audio/video, com- 
+pared to the coolness and introjection/projection of text-only.
+
+A third result might well be increased skimming of _content_ - particular-
+ly cultural/rhetorical (as opposed to political/corporate/operational),
+since the audio/video rush will tend to dominate. The email lists, curren-
+tly the major source of thoughtful response, will suffer; id will over-
+power superego, which will be relegated to the bureaucratese of the sec-
+retariat. (Note by the way that the content-division above has repercus-
+sions in terms of simulacra and critical theory. These oppositions aren't
+_necessarily_ oppositions, but play out as-if.)
+
+In the meantime, however, the three components, running across lean mach- 
+ines, software, and applications, provide the best approach to extended 
+conferencing with broad demographics.
+

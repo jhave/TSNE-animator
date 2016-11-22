@@ -1,3 +1,0 @@
-level1.lev
-1
-grass

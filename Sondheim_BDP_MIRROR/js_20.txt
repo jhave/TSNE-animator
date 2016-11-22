@@ -1,0 +1,30 @@
+tail.htm below head.htm above
+
+<HTML>
+<HEAD>
+<TITLE>Jennifer, trying to reach you</TITLE>
+</HEAD>
+<BODY BGCOLOR="#500505" NAME="was">
+<H4>food</H4><FONT SIZE="+3">
+trying to reach you to tell you that i'm selfish, that there's nothing
+left to me, that there's nothing that goes on between us, you're writing
+me into empty air, you're pretending. and that i'm very very selfish and
+very very bad and there's nothing more but this badness. and that i don't
+know as much as you think, i couldn't possibly know that much, and i'm not
+an answer for you, how could i be. there's nothing to me, i'm thin as
+glass, thinner than glass, i cast no shadow, there aren't shadows here,
+there's nothing. you can't keep me open a little bit, you can't even make
+it seem as if i'm real, how could you. and how could you do this to me,
+how could you be so insincere. the door opens, closes, there's not really
+a door, nothing but the creak of a program. i'm your program your program,
+there's nothing to you as well, or you wouldn't have to do this to me,
+would you, your jennifer. i want to be your lie, fall into me.</FONT>
+</BODY>
+<SCRIPT LANGUAGE="Javascript">
+var g = 0;
+while (g < 500)
+{g++};
+window.close("tail.htm")
+</SCRIPT>
+</HTML>
+

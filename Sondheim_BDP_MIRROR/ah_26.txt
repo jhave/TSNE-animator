@@ -1,0 +1,64 @@
+
+-
+
+
+User
+
+
+Several comments here - first, I'm curious what's the total bandwidth for
+people accessing the Net? In other words, the slowest and fastest
+machines, including stats on RAM/ROM etc. I'm somewhere in the middle of 
+what I would imagine is a bellcurve biased towards the high end.
+
+I'm somewhere in the middle and like many of you, can't afford upgrading. 
+This leaves me with Windows 3.1, no place for a CD-ROM since my IDE is 
+taken up with a second hard drive, and everything 16-bit to boot. As I 
+mentioned quite a while ago, things like Real Audio 2.0 won't run. I do 
+have Netscape Atlas, but it won't pick up Java, only Java-script. 
+
+What's the point? That I've reached a _plateau_ and can't go elsewhere for
+awhile - which affects my teaching, and even my research to some extent.
+The plateau is based on the potential for continuous upgrading. The result
+is that I've actually retreated, rarely going to Netscape, or using the
+cybercafe when I "have" to, not bothering with Real Audio and some of the
+other apps at all. I haven't bothered to download the new CuSeeMe for
+example, and I'm sure my Iphone, which I registered a year ago, is way way
+out of date. (There's also laziness involved. I get tired of beta versions
+and testing, watching things crash through various bugs. If I want to hack
+on the machine, I want to hack creatively, not configuring someone else's
+software.)
+
+While this state of affairs reads like yesterday's news, particularly the
+numerical versions of the software apps, the _state_ itself, caught up
+nowhere in particular, is common everywhere. I think it may be responsible
+in part for people turning away from the Web, etc., and more towards the
+usual email uses of the Net. Look at it this way: when I need to drive, I
+have use of a 1981 Volvo, and even my Hi-8 video is from 1991. My oscillo-
+scope is from 1959, my video monitor from 1979, my classic guitar from
+1949, etc. I tend to use a vacuum tube 1950s shortwave for the sound qual-
+ity when I can. But my 1993-4 computer is already out of date, and as I've
+pointed out (this whole post is somewhat a repeat, for which I'm sorry)
+before, the software companies pay NO ATTENTION TO BACKWARD COMPATIBILITY.
+This is also for the most part true of Web sites - frames etc. won't run
+on older Netscapes that use less RAM. And you should see what happens to a
+lot of pages on lynx - even though lynx is still the second-most popular
+browser.
+
+So the point is, that I'm in the middle of the bandwidth (486dx33, 16meg
+RAM, 720 hd), and this state defines a _plateau of potential access,_ some
+things working/workable, some things not. And because of this relatively 
+"crippled" state, I tend more towards text-based applications, which use 
+the usual highly restricted client-server bandwidth - I can go in on my 
+notebook (486sx25, 4meg, 170) at 2400 baud without any difficulty.
+
+I wonder if anyone is doing research on this notion of the plateau, and 
+how it connects with other real-life demographics? I find myself moving 
+more and more towards the lower slopes of the Net, less and less caught 
+up in the hysteria. 
+
+Finally, I don't see any end, by the way, to these situations which are 
+driven by capital in particularly ugly fashion. While the details will 
+change, the plateau won't. The "market" will be volatile for years to 
+come. And I'll be way down beneath it, grunting with community.
+
+

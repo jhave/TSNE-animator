@@ -1,0 +1,10 @@
+
+
+the texture-object: INVISIBILITY PRIM PUBLIC v1.1a by Beatfox Xevious:
+"SL has a few special system textures that are only accessible by UUID key 
+and that possess properties which no other textures do.  Namely, a prim 
+using one of these textures is capable of rendering whatever avatar 
+textures and textures containing alpha channels are inside or behind it 
+completely invisible.  Normal textures that do not contain alpha channels 
+will remain untouched."
+

@@ -1,0 +1,28 @@
+
+
+-
+
+
+The Orders of Faith
+
+Without knowing sufficient mathematics or detailing, it nonetheless seems
+reasonable that a certain mathesis of the interior of the CPU and math
+co-processor could be examined - that is, their limits - by, first of all,
+repeated iterations/recursions of theoretically transcendent nested func-
+tions, and second of all, applying fast fourier transforms to the result-
+ing vectors, in order to extract "resonances" from the relatively chaotic
+series, which may or may not be strange or other attractors in the ideal
+realm, but which constitutes, in any case, attractors within the limita-
+tions of calculation, say up to the limit of sixteen decimal places, which
+may be rather quickly reached in practice, as terms pile upon terms. In
+regard to this, I have constituted such a program, which parallels another
+investigation I made years ago on a programmable calculator, searching out
+limits by a simple enlargement of the tangent function graphed and magni-
+as the angle approached pi/2. It is interesting to note that the IEEE sta-
+ndards include two strange limits, INF for infinity, and NaN, not-a-num-
+ber, evident for example with 0/0 or INF/INF. But what, in fact, is the 
+point of all of this, if not to point out the limitations of the real in 
+the process of constructing its own deconstruction? The _grid_ or _grit_ 
+of the virtual is revealed as everything disordered becomes ordered, and 
+cyberworlds exhaust themselves, shudder, move to further upgrading.
+

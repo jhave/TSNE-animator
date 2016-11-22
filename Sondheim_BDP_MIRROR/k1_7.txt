@@ -1,0 +1,83 @@
+
+
+
+
+Byting the Program of My Secret Japan:
+
+
+;********* File: c.exe *************
+;
+    code     SEGMENT
+	     ASSUME CS:code, DS:code
+	     ORG 100h
+  
+    strt:
+
+	OR      AX,0D0Ah
+	OR      CL,[BX+68h]
+	AND     [BX+DI+74h],CH
+	AND     [BX+DI+73h],CH
+	AND     [BP+DI+6Fh],DH
+	AND     [BP+SI+65h],AH
+	POPA    
+	JNZ     J00189
+	IMUL    [BP+75h],AH
+	INSB    
+	AND     [BX+SI+65h],CH
+	JB      J00183
+	AND     [BX+DI+6Eh],CH
+	AND     [BP+75h],AL
+	IMUL    [DI+6Fh],DH
+	IMUL    [BX+DI+21h],AH
+	AND     [BX+20h],CL
+	DEC     AX 
+	OUTSW   
+	IMUL    [DI+73h],DH
+	POPA    
+	IMUL    [BX+DI],AH
+	AND     [BX+65h],DL
+	JZ      J0015A
+	INSW    
+	DB (65h)        
+	AND     [BX+69h],DH
+	JZ      J001A9
+	AND     [BX+DI+6Fh],BH
+	JNZ     J001B8
+	OR      AX,6C0Ah
+	POPA    
+	JZ      J001B4
+	DB (65h)        
+	JB      J00170
+	AND     [BX+DI+66h],CL
+	AND     [BX+DI+6Fh],BH
+	JNZ     J00177
+	POPA    
+	JB      J001BF
+J0015A: AND     [DI+79h],CH
+	AND     [BX+68h],AH
+	OUTSW   
+	JNB     J001D7
+	SUB     AL,20h
+	JNS     J001D6
+	JNZ     J00189
+	JA      J001D4
+	INSB    
+	INSB    
+	AND     [BX+SI+61h],CH
+J00170: JNZ     J001E0
+	JZ      J00194
+	INSW    
+	DB (65h)        
+	SUB     AL,20h
+	DEC     DI 
+	AND     [SI+73h],DH
+	JNZ     J001EC
+	POPA    
+	INSW    
+	IMUL    [BX+DI],AH
+	OR      AX,000Ah
+
+    code     ENDS
+	     END  strt
+
+

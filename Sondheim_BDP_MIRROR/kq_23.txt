@@ -1,0 +1,23 @@
+
+
+       
+     1	the shape of the world
+       
+       
+    18	start here
+    35	you see only what is early
+    52	start here
+    69	from any direction on the disk, indexed to any other
+    86	encased between numerical header and the end-of-file sign
+   103	start here
+   120	which may wrap around, or how does it jump from one to the other
+   137	if not indexed
+   154	start here all at once, jennifer has all the time in the world
+   171	start here, where the space spans an inch
+   188	more or less, where the head resides, gone now
+   205	start here, where the head appears
+   222	you see only what is early
+   239	index! index!
+   256	start here
+
+

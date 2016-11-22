@@ -1,0 +1,114 @@
+
+
+
+1 system resonances - what entrances and exits available - sendmail for 
+example (from telnet 25 to configuration files), doctor for another [at 
+this point text-based avatars were attached to applications that were not 
+avatar-based. on the other hand the Eliza program in emacs allowed for the 
+development of personality and dialog, and might be one of the first 
+online avatar environments.]
+
+2 explorations of self and fragmentations - discomforts, tremblings as 
+totality is problematized [this tends towards issues of abjection, 
+wounding, frisson, arousal, and death within the virtual - which might 
+cynically be seen as nothing more than a rearrangement of digital bits.]
+
+3 psychotic emanations - selves generating worlds, inability to return or 
+manipulate one in relation to another [the worlds such as IRC were widely 
+disparate and appeared autonomous; to carry Jennifer from one to another 
+required reassertions. the same is true today, but mixed-reality work 
+tends to blur all of this - in other wor(l)ds the environments exist in 
+potential wells that allow tunneling.]
+
+4 perturbations within systems - IRC or alt.jen-coolest for examples [it 
+was, and still is, possible to perturb systems, to work at the edges of 
+the game space, to hack and infiltrate - annihilating a performance 
+platform at the end of a performance in Second Life, or having human 
+performs work at the edges of a mocap space are two examples.]
+
+5 theoretical turns - Jennifer's 'panties on the ground' - desire in 
+relation to metaphysical system building [sexual-theoretical turns, as 
+both male and female avatars operated within fetishization and abjection, 
+two trends that have become commonplace in virtual sexuality. what happens 
+when an avatar is 'in tatters,' falling apart, collapsing?]
+
+6 problematics of author and authoring - 'deaths of authors' [like the 
+uncanny between real and virtual worlds, there is an uncanny between 
+avatar creator/controller/human performer and avatar; through an analysis 
+of projection and introjection, avatar and (presumably) human become 
+inextricably entangled.]
+
+7 multiculturalisms (Nikuko), sexualities (Julu), Alan and the rhetoric 
+of innocence [multiculturalisms extend to virtual cultures and their 
+ethnographies, but what occurs in the virtual doesn't stay in the 
+virtual.]
+
+8 duals and dialogs, dialectic - talker or MOO explorations (wanderings 
+and fabrications of spaces) [these explorations have moved of course into 
+OpenSim and Second Life, but the concepts of historiography, broken 
+projects, avatar absences, debris, etc. remain the same.]
+
+9 stutterings, etc. - manipulated texts - the problematic of speaking, 
+including breakdowns of first/second/third persons [textual stuttering can 
+blur diegesis, tense, and person; it can play off inner speech, it can 
+speak among- or for-, it can reveal psychoanalytical debris.]
+
+10 ontic explorations - ghosts and other emanations (the videos) - 
+elements of disappearances, sadomasochisms, bindings and controls - the 
+nature of writing and inscription [again in this early outline, sexuality 
+makes an appearance. not only are ontologies blurred, but the very nature 
+of control becomes messy and obscured in terms of agency. social media 
+obscures and hides: think of Facebook for example as a sado-masochistic 
+theater, with non-existent keywords and with hidden, unknown, power 
+dispersing and controlling your self-image, and your image of other's 
+selves.]
+
+11 sexualities - multiples, topologies, exchanges (Nikuko), dismemberings 
+(Julu-function), affect (Alan) [selves split, bots are everywhere, avatar 
+bots are wonders of control and one can imagine such control as looped and 
+continuous, eventually becoming the real/virtual landscape itself. all of 
+this relates to the _obscene,_ which has been shown to operate differently 
+in the brain; 'primitive' processes are called up, and language becomes 
+threat, arousal, and other. sexualities operate everywhere in social media 
+and virtual worlds, and the cartoon-like visuals in the latter play deeply 
+into fantasy introjection and projection. humans are just at the beginning 
+of understanding this, ignoring their animal and primate present.]
+
+12 dismemberments - part-objects, splays, ruptures, s/ms, emissions [this 
+ties quickly into the world-theater of slaughter and corruption, plant and 
+animal extinctions, neo-liberalism and corporate enclaving: hiding the 
+parts in relation to a simulacrum of the w/hole. in a sense this is the 
+heart of an analysis that works with the engine of subterfuge and death.]
+
+13 language and performativities - javascript, julu-function, julu- or 
+jennifer-pages [after this, a bit of Visual Basic. i've used Perl for text 
+manipulation, Emacs Lisp for reworking Eliza, scripting in Second Life, 
+etc., but always with help; I'm not a programmer, just a kludger. but I 
+sometimes start talks with the phenomenology of performative language; for
+example 
+k2% date
+Mon Mar 18 12:40:35 EDT 2013
+where a command is qualitative transformed into an unforeseen result 
+(unforeseen in the sense that it occupies a different epistemological 
+regime) - and how this has utterly transformed our notion of the 
+fundamental depth and obdurate nature of analogic reality.]
+
+14 constitutive realities - nature of the digital, Jennifer "having all 
+the time in the world," holarchic spaces and levels, fully-determined 
+worldings, towards - [this get complicated - the digital as cleansed, 
+corporate, codec/corporate-driven, capable of infinite raster, problemat- 
+izing the truth, capable of controlling everything. in the real world, 
+digital and analog are entangled, holarchic (tangled hierarchically). 
+digital worlds are less and less fully-determined - too complex, too many 
+glitches (which are seeds for other things), too leaky, too multiply- 
+connected, too mixed with the real - they're part and parcel of everyday 
+life, at least for humans.]
+
+15 future seamless virtual realities, moving across cyberplains, fluid 
+architectures and entities, etc. [this is still a goal, but instead of the 
+analog embedded in the digital, at least for the foreseeable future, the 
+digital is embedded in the analog - in other words, we are all avatars, 
+and those who are relatively disconnected may well feel the wrath of our 
+slaughter.]
+
+

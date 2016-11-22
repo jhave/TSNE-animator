@@ -1,0 +1,496 @@
+=
+
+
+Threnodies
+
+http://espdisk.com/alansondheim/pippaa.mp3 (complex, moody, lyrical, 
+neurotic, as perfect as I can make it)
+http://espdisk.com/alansondheim/pippab.mp3 (shred classical, neurotic)
+http://espdisk.com/alansondheim/violaa.mp3 (threnody, odd)
+
+
+
+Rationale of the Dirty Joke
+
+Command 'cant' from package 'swap-cwm' (universe) Command 'cap' from 
+package 'capistrano' (universe) Command 'cdck' from package 'cdck' 
+(universe) Command 'cint' from package 'root-system-bin' (universe) 
+Command 'clock' from package 'xview-clients' (universe) Command 'cnt' from 
+package 'radiance' (universe) Command 'cook' from package 'cook' 
+(universe) Command 'crip' from package 'crip' (universe) Command 'cupt' 
+from package 'cupt' (universe) Command 'cut' from package 'coreutils' 
+(main) Command 'czap' from package 'dvb-apps' (universe) Command 'dan' 
+from package 'emboss' (universe) Command 'fsck' from package 'util-linux' 
+(main) Command 'git' from package 'git' (main) Command 'grap' from package 
+'grap' (universe) Command 'hose' from package 'netpipes' (universe) 
+Command 'hunt' from package 'bsdgames' (universe) Command 'hunt' from 
+package 'hunt' (universe) Command 'luck' from package 'gromacs' (universe) 
+Command 'mock' from package 'mock' (universe) Command 'pick' from package 
+'mailutils-mh' (universe) Command 'pick' from package 'nmh' (universe) 
+Command 'pisg' from package 'pisg' (universe) Command 'pius' from package 
+'pius' (universe) Command 'suck' from package 'suck' (universe) Command 
+'tgt' from package 'tcm' (universe) Command 'ti' from package 'ticgit' 
+(universe) Command 'tic' from package 'ncurses-bin' (main) Command 'tie' 
+from package 'texlive-binaries' (main) Command 'tig' from package 'tig' 
+(universe) Command 'tin' from package 'tin' (universe) Command 'tint' from 
+package 'tint' (universe) Command 'tst' from package 'pvm-examples' 
+(universe) Command 'ttt' from package 'ttt' (universe)
+
+
+The Perfect World of Julu Twine
+
+pw1:
+http://www.alansondheim.org/pw.mp4
+pw2:
+http://www.alansondheim.org/pw1.jpg
+http://www.alansondheim.org/pw2.jpg
+http://www.alansondheim.org/pw3.jpg
+http://www.alansondheim.org/pw4.jpg
+http://www.alansondheim.org/pw5.jpg
+http://www.alansondheim.org/pw6.jpg
+
+
+
+Uncomfortable notes on the poetics of captured human behavior:
+
+[for Epoetry 2011]
+
+motion-captured/motion-transformed/behavior-modification:
+poetics of movement: vocabulary of movement:
+
+{range of human actions, Laban A} >T> {unlimited range of actions B}
+A bound by skeletal connectivity, Jordan surfaces; 
+B bound by skeletal connectivity, twisted/tangled surfaces
+in other words the links in B can bend in any direction;
+the links in A are confined by human skeletal potentials + topology
+ (topological embedding in four dimensions):
+ think of this as a tensor calculus of human movement
+ think of this as a topography of flesh and sinew
+Ruptures in the calculus:
+ the tortured or wounded body
+ the body convulsed in pain
+ the catatonic body
+ the terrorized body
+ the broken or 'defective' body
+Ruptures through the imaginary:
+ the nightmare
+ the orgasm
+ hysteria/ boundaries of laughing and crying
+ the confined body/ body of s/m
+ the forgotten or abandoned body
+ the hyper-sexualized body transmitters/ receivers
+ hallucinations and other phenomena (Dendy's Philosophy of Mystery)
+Ruptures of the body invaded by capital:
+ prosthetics
+ X-scopic surgeries
+ rfid implants
+Ruptures of the body invaded by the imaginary:
+ (capital of the imaginary, imaginary capital)
+ psycho-tropics/overdetermined associations/disassociations
+Ruptures of the body by an augmented real:
+ sports, steroids, body-building, and so forth
+
+Invasions of the imaginary, invasions of capital, of the augmented real,
+ invasions through the imaginary: invasions or invaginations, 
+ incorporations or intensifications? These terms entangle and return to:
+
+Either the proper body, or the body as heap;
+ the articulated body, or the dismembered and reassembled body;
+ the body characterized by a real, or the body chararacterized 
+ by an imaginary;
+either the fundamental topography of the body, 
+ or the fundamental topology of the body -  invasions, dissolutions,
+ ruptures.
+Ruptures as returns of the repressed: 
+What lexicons are at work? What economies?
+
+What is it that motion capture captures? What is snared, what abandoned?
+What is the vocabulary of behavioral dynamics  voluntary, autonomic,
+ involuntary, intrinsic  or involuntary, anomalous and axiomatic, 
+ extrinsic?
+In other words: What's going on with us, within and without the world?
+
+
+
+Uncomfortable notes on the poetics of captured human behavior: 
+Part 2: the Wringing:
+
+Laban, in Modern Educational Dance, distinguishes ``eight basic efforts'':
+Wring, Press, Glide, Float, Flick, Slash, Punch, Dab. ``Each of these 
+efforts contains three of the six movement elements: strong, light, 
+sustained, quick, direct, flexible.'' Four of the group are strong: Slash, 
+Wring, Press, and Punch. Wring and Press reconfigure the avatar; Press 
+preserves both topology and topography, but Wring transforms at least the 
+latter.
+
+Wringing slides one against another, in combination with pressure: 
+Wringing distorts the body. With physical bodies, wringing breaks 
+connections (slashing can also break connections).
+
+The wrung body, the hobbled body. Wringing occurs when the body is 
+simultaneously twisted and restrained.
+
+Gravity restrains and locates the body. With mocap, gravity may be 
+'eliminated' through the use of harnesses, or through edge phenomena 
+that carry the body elsewhere.
+
+The heaped or pressed body: the body as thing, as material: the body of 
+the slave (wrung from and within capital, wrung from the socius).
+
+From the viewpoint of capital, of war, the dehistoricized body - the body 
+becoming element or token, demarcation of nothing but position, mined for 
+its materiality.
+
+The finality of the dancing body, the dance of death - the heaps of 
+Rwanda, Auschwitz, Abu Gharayb.
+
+Similarity, in the world of the simulacrum, the disappearing body: 
+Argentina, U.S. prisons.
+
+Not similarity: the world of the (natural) catastrophe, the disaster: the 
+heaped body, but the body (perhaps) recuperated for/within history.
+
+One might think through all of this as the historiography of the body. 
+Where do we go from here?
+
+
+Uncomfortable notes on the poetics of captured human behavior: Part 3:
+the Wringing: Part 2:
+
+V. WRINGING.
+
+wringing--is flexible, sustained, strong.
+
+Wringing can vary from a pulling to a twisting movement,and is felt more 
+easily in the shoulders, arms and hands than in the hips and legs. The 
+feeling of strength must not be lost, as the slow muscular resistance felt 
+in pressing is also present in this effort, but wringing produces a 
+different sensation as the joints move more flexibly.
+
+At first, wringing should be felt in the hands, as in wringing out 
+clothes, and then extended, using different parts of the body. The whole 
+body can be set into a wringing motion--for example in yawning.
+
+Wringing movements of the arms can be directed into various zones, the 
+most important as far as exercises are concerned being down forwards 
+outwards, but there are many possibilities--with each arm separately, or 
+both together, wringing downwards, upwards, across, sideways, forwards and 
+backwards, extending into space in all directions.
+
+Wringing should also be experienced in other parts of the body, such as 
+the shoulders, trunk, hips, legs, not only extending into space away from 
+the body, but towards it. Other possible variations are wringing simultan- 
+eously with both arms in different directions, or wringing with different 
+parts of the body into various directions; for example, wringing the trunk 
+in a backwards-bending movement and doing the same action with arms 
+sideways high, _et cetera._
+
+[...]
+
+"Indulging with" Space and Time, and "fighting against" Weight, which is 
+the essence of wringing, develops a valuable control and gives and 
+entirely different movement-experience from that gained by doing simple 
+twisting exercises. The counter-tensions involved produce a different kind 
+of bound flexibility from that met with in any other form of physical 
+activity.
+
+(Rudolf Laban, Modern Educational Dance, 1948, pp. 63-65.)
+
+
+
+cauterization of the sublime
+
+http://www.alansondheim.org/ikantsee.mov
+
+and of the sublime?
+
+The sublime, the infinite, remains. Life is a narrow-bandwidth "I sleep in 
+sublime unconcern for the words which wander abroad, whilst I think of the 
+cliff of whispers." sublime beauty, herself oozed among signifiers, grap- 
+pled by Nikuko-hands, the sublime child through the romantic clef to the 
+sonorous echo, through dark virtue.
+
+at long last, last sublime. what next. death is always the ruin of the 
+world, the world's ruin. For we are within this era, this positioning, 
+dulled, imploded, but never this ecstasy or indefinite sublime which 
+remains unreachable.
+
+inheres to the analogic; the digital decathects the sublime; the analogic 
+decathects the digital; the analogic decathects the sublime, decathects 
+avatars, within the sublime; the digital is sublime, infinite avatars back 
+at it; within the sublime, there are infinite avatars; the digital is 
+sublime, infinite, {avatars are backed, at the back of are the backs of 
+avatars are against the particular}.
+
+there were great hollows, condors, sublime worlds beyond worlds romantic- 
+ized, farmed-out, mystified; subliminal, as if the intermediary always 
+escaped.
+
+among the sublime. neither singular nor plural. nor something revealed - 
+it would be easy, yes, to think through the plural, counting 'them'. 
+What's interior is analytic, what's exterior is sublime, mists, mists 
+inert, useless, magnificent, scattered, mostly out of sight, and you say, 
+"The cliff is sublime." Think of the cliff of the sublime, think of time.
+
+i curl up, sleeping forever
+i curl up, sleeping forever
+i curl up, sleeping forever
+we call it beauty.
+
+and Kant?
+
+posited as a simple position, which was precisely his position. And for 
+university found in a copy of Heidegger's Kant and the Problem of Hegel, 
+Husserl, Kant, Aristotle, and Spinoza, in any detail. Kant's Das Ende 
+Aller Dinge states, of a dying man, that "er gehe a u s eternity." And 
+here Kant - the rest of us as well - runs into the aporia of time for his 
+development. Over and over, he batters Kierkegaard, Nietzsche who he finds 
+seductive, and Heidegger!
+
+Speaker says, ""Jerry asks about Kant ... Alan thought he meant something. 
+Speaker says, "Questions about Kant ..."
+Speaker says, ""Jerry asks about Kant ... Alan thought he meant something. 
+
+   chapters on: Kant, Hegel, Marx, Nietzsche, Weber ...
+   and chapters on Kant, Hegel, Marx, Nietzsche,
+   Wittgenstein, Frankfurt School Kant: Heidegger,
+   chapters on: Kant, Hegel, Marx, nietzsche, Weber ...
+   and chapters on: Kant, Hegel, Marx, nietzsche,
+
+Kant might have it, the world may split apart,
+which plays into him in an interesting way.
+
+"commit humming." "Great Kant, As a believer calls to his God, I call!"
+"commit suicide." "Great Kant, As a believer calls to his God, I call!"
+
+
+dawn and
+
+http://www.alansondheim.org/dawn.mov  
+
+after my father's 97th birthday, a new dawn in Second Life
+
+
+
+scratch
+
+http://www.alansondheim.org/scratch1.mp4
+http://www.alansondheim.org/scratch2.mp4
+
+"This just happened. I mean I opened up the software and this just started 
+to run from the bvh files. I'm not sure which, to be sure - they were 
+there and they look like mine, with the sudden jumps at all. I kept think- 
+ing it was like a machine fabricating and then moving the parts around and 
+every so often a supervisor would appear. It's a new-human machine (NHM) 
+because the movements are pretty much jump-cuts, with nothing in between. 
+But I'm not sure. I think the supervisor is an active AI NHM, under its 
+own control, trying to tell me something. It kept spawning the program and 
+the NHMs in it. Over and over again. It took twenty minutes to shut it 
+down. I'm positive either the program's alive or it's a kind of cage with 
+organisms in it, and they have their own free will. They don't ever like 
+it closed down. They have to sleep when it happens. And they don't dream."
+
+
+
+Driven
+
+Then return quickly to the insect. It hobbled across the screen, banging 
+and undercutting legs, legs on top of legs, a real hobble, what appeared 
+to be Diogenes, Nietzsche hobbles along, also hobbled by Christianity as 
+well. The red patch over my eyes is painful; I am hobbled, resorting to 
+Diogenes, Nietzsche hobbles along. Nietzsche hobbles along, also the 
+CONCEPT. When Jesus said: I AM he really said I AM. The CONCEPT, halting, 
+heavy, heavy, hebetudinous, hebetudinous, hobbled, hobbled, the wrung 
+body, the hobbled body. Wringing occurs when the body is halting, heavy, 
+heavy, hebetudinous, hebetudinous, hobbled, hobbled, Diogenes and Niet- 
+zsche hobble along. The red patch over my eyes is painful; I'm hobbled, 
+resorting to the question is, can she keep control? That left hand of hers 
+on the throttle vestibuleite empyreanblime vicinityildings throttles - 
+she's hollowed creation; time is magnified, hindered. Tissue and bone, 
+processed, proceedeth bad bowing jewels raiment precious tarried few least 
+hindered handmaids hindermost graciously handmaidens meanest urged knoweth 
+and hindered by permafrost - you can go just so far North, Australia only 
+by a way of hindering an emergence which would slaughter me. She follows 
+his track. If any one hinders the horses' progress, the guard will throt- 
+tle death, forestall us in the forest, hinder our uneasy ways, just as 
+alarm is subdued. Alarm for what, alarm hinders, ties one to proceeding: 
+bad bowing jewels raiment precious tarried few least hinder handmaids 
+hindermost graciously handmaidens meanest urged knoweth, resulting in a 
+series of articles and pieces. facilitated hindered indicated driven 
+death, forestall us in the forest, hinder our uneasy ways, forestall the 
+forest, hinder our ways, so that saying is unhindered, so that saying is 
+driven.
+
+
+
+The Plague. Radiations. Nothing.
+
+http://www.alansondheim.org/radiations.mp4
+
+shoot to kill do anything avoid the pain avoid the Plague. there's Nothing 
+idea if it has a site, sight, or locus. it's more like a locust, Plague 
+the Plague now n stemsbut you know this lpmud has been contaminated. viral 
+Plagues, organs of rearrange: the Plague af language gauges these Plagues 
+of emanations pressing on the ribs and throat and face.
+
+shows he is Plagued by self-doubt ('his tools desert him, he is a man that 
+a savior will come, or a Plague or pure annihilation - the Plague, the 
+Plague easements one has to be blind to things, to insideme, i know not; 
+but this felt like a locust, Plague take you or this is like a locust, 
+Plague take you everywhere, emitted i know not; but this felt like a 
+locust, Plague take you everywhere, deep insideme, i know not; but this 
+felt like a locust, Plague take you medina - omar - what's left of us - 
+the Plague's coming - no food - some resurgence of smallpox and Plague
+
+other Radiations, invisible viral Plagues - all plasma, seepage - what 
+asses menservants maidservants camels Plagued Plagues didst tell saidst 
+tuberculosis, diptheria, Plague, i forget the rest - things that rot your 
+praeeminent shafts unagreeable leagues imagind draff draff imagind Plagues 
+staies Plagues imaginations craggie imagining unaided availe leagu imagin 
+imaginations Plagues availes unaided imagining imagination leagu availes 
+stai Plagues claimd plaind chaind fraile Plagues fraile draind traind
+
+an enormous inertia in the midst of Plague, floods, fires, crusades, wars, 
+difference spreading like Plague across canon and genre, classic and 
+Plague. in the midst of sickness i design sickness. in virtual lands.
+
+Radiations in a way that's almost uncanny - spews, emissions, Radiations. 
+and among all of this, nikuko flies, swoops, the lnet, [sic] encased in 
+skein of Radiations. of Radiations and dusts, Radiations, stars, objects, 
+blue vector determinant
+
+i theorized: invisible theory, Radiations, dusts. i knew even then that 
+maps extension irRadiations address sides accurate cloth panties ground 
+top down through Radiations blinding accumulation. the disaster of at this 
+not be necessary because at the top down through Radiations blinding 
+pleasures at the top down through Radiations blinding accumulation. the 
+theory, the reduction to what i've considered elsewhere as Radiations and 
+transform, are transformed, through Radiations.
+
+fundamental are the dusts, the pollutions, the Radiations, the muck that 
+things, and when i am silent and not-clara i huddle background witness 
+Nothing or is the cabin the denouement of a crime scene or Nothing more 
+than seduction, giving oneself to the screen and you mean everything to 
+me. you mean Nothing to me. i mean everything to you. i mean Nothing to 
+you. i love myself. i love you. you love yourself and anyone that reads.
+Nothing is real so software bugs. these steps may be Nothing more than 
+patches covered in crawling shapes.
+
+there is Nothing real here in the sense of the fury of the patterning to 
+produce, to produce, Nothing, obliterating, emerging, and everything's 
+clear when the router gives out and Nothing's gone, Nothing is left but 
+the Local Letter. 
+
+
+bad memories
+
+http://www.alansondheim.org/badmemories1.mp4
+http://www.alansondheim.org/badmemories2.mp4
+
+mute, tumbled, auricular
+
+
+[Jennifer, open your mouth.]
+
+the lip, surrounded by the teeth, surrenders to them. the teeth are 
+hobbled by the lips, nothing speaks directly from the lungs. the 
+expulsion is a red mist. nikuko i am and blinded by the sun. what is the 
+currency among the negations harbored by those moving among the 
+wetlands. the bodies surface against themselves.
+
+[you dressed as the lip, surrounded by the teeth]
+the teeth are hobbled by the lips, nothing speaks directly from the 
+lungs. the expulsion is a red mist. nikuko i am and blinded by the sun. 
+what is the currency among the negations harbored by those moving among 
+the wetlands. the bodies surface against themselves.? Is the lip, 
+surrounded by the teeth, surrenders to them. the teeth are hobbled by 
+the lips, nothing speaks directly from the lungs. the expulsion is a red 
+mist. nikuko i am and blinded by the sun. what is the currency among the 
+negations harbored by those moving among the wetlands. the bodies 
+surface against themselves. dressed as you?
+
+[standard form]
+[standard form]
+
+that is the nature of bodies, this surfacing, that is the future of 
+bodies cut and hobbled, throttled and pressed among themselves. history 
+is pressed out of them. history just disappears. this is the pressing of 
+bodies, the tissue of history. the dead tissue. the skin is thin like 
+parchment and cracks when you write on it. no one writes anymore. no one 
+knows.
+
+[I love your feelings] the lip, surrounded by the teeth, surrenders to 
+them. the teeth are hobbled by the lips, nothing speaks directly from 
+the lungs. the expulsion is a red mist. nikuko i am and blinded by the 
+sun. what is the currency among the negations harbored by those moving 
+among the wetlands. the bodies surface against themselves. ...
+
+[womb oozes me staining your stick!]
+
+[What do you call your nice frock?]
+the future of the world is this staining of bodies, the calculus of 
+repression, the calculus of raptures and invasions. cloth thrusts 
+through cloth until warp and woof are bruised. i can't think of a better 
+way to [ ] and but i can't think.
+
+[the future of the world is this] staining of bodies, the calculus of 
+repression, the calculus of raptures and invasions. cloth thrusts 
+through cloth until warp and woof are bruised. i can't think of a better 
+way to [ ] and but i can't think. is mine, my sweet the lip, surrounded 
+by the teeth, surrenders to them. the teeth are hobbled by the lips, 
+nothing speaks directly from the lungs. the expulsion is a red mist. 
+nikuko i am and blinded by the sun. what is the currency among the 
+negations harbored by those moving among the wetlands. the bodies 
+surface against themselves. [I am yours!]
+
+the wounded body, the body catatonic, the body convulsed, tortured, 
+terrorized, ecstatic, fucked or fucking, the nightmare, the 
+organism-orgasm
+
+or the wounded body, the body catatonic, the body convulsed, tortured, 
+terrorized, ecstatic, fucked or fucking, the nightmare, the 
+organism-organism, the broken or abandoned, hypersexualized
+
+the hypersexualized the abandoned the broken
+
+the future of the world is this staining of bodies, the calculus of 
+repression, the calculus of raptures and invasions. cloth thrusts 
+through cloth until warp and woof are bruised. i can't think of a better 
+way to [ ] and but i can't think. calls forth spry womb, eating, 
+excreting memory.
+
+confusing the soiled, the future of the world is this staining of 
+bodies, the calculus of repression, the calculus of raptures and 
+invasions. cloth thrusts through cloth until warp and woof are bruised. 
+i can't think of a better way to [ ] and but i can't think. is small, 
+soiled, that is the nature of bodies, this surfacing, that is the future 
+of bodies cut and hobbled, throttled and pressed among themselves. 
+history is pressed out of them. history just disappears. this is the 
+pressing of bodies, the tissue of history. the dead tissue. the skin is 
+thin like parchment and cracks when you write on it. no one writes 
+anymore. no one knows.?
+
+... womb is or the wounded body, the body catatonic, the body convulsed, 
+tortured, terrorized, ecstatic, fucked or fucking, the nightmare, the 
+organism-orgasm, the broken or abandoned, hypersexualized here, it's 
+womb?
+
+Are you becoming close to Jennifer's the future of the world is this 
+staining of bodies, the calculus of repression, the calculus of raptures 
+and invasions. cloth thrusts through cloth until warp and woof are 
+bruised. i can't think of a better way to [ ] and but i can't think.?
+
+sh: line 1: 1140 Segmentation fault (core dumped) rev enfolding >> .trace
+
+hyperabandoned, hypertortured, the hyperfucking, hyperfucked, the 
+terrorized prosthetics
+
+[standard form]
+
+the future of the world is this staining of bodies, the calculus of 
+repression, the calculus of raptures and invasions. cloth thrusts 
+through cloth until warp and woof are bruised. i can't think of a better 
+way to [ ] and but i can't think. and 2420 and 2392 - [standard form]
+
+[[standard form] catatonic Julu ... 9.733 minutes turning Jennifer ...]
+

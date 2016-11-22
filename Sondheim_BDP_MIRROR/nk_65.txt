@@ -1,0 +1,2 @@
+==
+   eviews=no=snippet

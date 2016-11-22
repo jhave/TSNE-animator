@@ -1,0 +1,14 @@
+
+
+
+In Kush
+
+
+95 dissolves, 96 I 97 know 98 not 99 who 100 or 101 what 102 I 103 am; 
+104 z 86 105 In Kush, these times are lost; my soul dissolves, I know not
+who or what I am; these times are dark as Kush is dark and light.  106
+these 107 times 108 are 109 dark 110 as 111 Kush 112 is 113 dark 114 and
+115 light.  116 .  117 rz 118 pico zz 119 h 120 pico zz 121 sed
+'s/ksh/Kush/' zz > zzz 122 pico zzz 123 new zzz 124 cat jn zzz > ding 125
+rm zzz jn 126 rm zz 127 ls 128 mv ding jn 129 sz jn 130 b 131 m 132 m 133
+b 134 h 1 > ding

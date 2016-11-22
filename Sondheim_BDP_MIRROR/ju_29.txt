@@ -1,0 +1,133 @@
+
+
+
+Phenomenology of Linux / Unix - 
+
+
+Beyond the traditional division of graphic user interface (GUI) and text- 
+based interface, the unix and linux system/s create a unique environment 
+problematizing machine, boundary, surface, and structure.
+
+The environment has implications far beyond a kinesic study of a partic- 
+ular technology; these tend towards an (un)accountancy of splintering or 
+sputtering, stuttered linkages, micro-sutures, scanning intention across 
+or among traditionally "isolated" platforms. Begin with the apparent file 
+structure:
+
+1. Working within the files, there are several domains: the formal tree- 
+organization of the operating system (beginning with the root and ascen- 
+ding/descending); the _accumulation_ or _heap_ of files within the local 
+directory (these files may or may not be related beyond their common 
+path); and the _imminent domain,_ the file or files currently open or in 
+the process of being modified (these are non-exclusionary).
+
+2. The graphic interface opens to shells as well, and since the inter-
+face devolves from a _blank screen,_ there is simultaneously _potential_
+(click anywhere on it) and absence (nothing visible), reflecting upon the
+human operator / monitor interface as well. 
+
+3. _Errors_ may or may not be characterized by _error messages,_ which 
+are inscribed by a process evolving from the root cause; there is then 
+both the symptom (program _x_ misbehaving) and the message (Error: 
+<etc.>) which intersect: the message may be the (only visible) symptom 
+and the symptom itself may carry the message.
+
+4. It is easy to assume that source code is equivalent to bones and oper-
+able binaries to flesh; or the kernel as fundament, and file structure as
+slough. I would rather argue for a system of cubist plateaus of intersec-
+ting information regimes, with vectors / commands operating among them. In
+this sense it is information that is immanent within the operating system,
+not any particular plateau-architecture. 
+
+5. Language moves among performative, declarative, and neutral /dev/nul 
+regimes; again, the boundaries are blurred, even on a technical level. 
+Programs, more properly _scripts_ (an apt word, since code is inscribed) 
+call up different languages, shells, other programs, internal or external 
+conduits (see below); internal and external interpenetrate here.
+
+6. The division between GUI and text-based Net access is blurred; shell 
+accounts use IP and can open X Window and browsers, just as browser GUI's 
+can share window space with shells. 
+
+7. The _space_ of the operating system is problematized since machines 
+carve out what I call _fractal channeling,_ ports and commands rapidly 
+shuttling back and forth between traditionally external Netspace and in- 
+ternal vehicle space. Channels may open to other shells which may open to 
+other channels; loopback channels operate within the local vehicle (in- 
+ternally), for example, and may be used to communicate with incoming on a 
+local talk application. In shell-to-shell, both are equivalent on the 
+screen: think of this as _screen-resonance_ or system of strange attrac- 
+tors.
+
+8. Furthermore, within the screen-resonance there are the spaces of the
+user/s on the system, partly application-dependent, shuttling among per-
+sons, tenses, and semantico-grammatical categories (Whorfian in other
+words). Two linked talkers may be opened in relation to a Net browser on
+an X Window while top (a program monitoring machine processes) is also
+running, and files are being transferred from a cdrom to hard drive. At-
+tention moves among these spaces/applications, blurring distinctions; the
+talkers, for example, may demand considerable psychological investment,
+while anomalies in one or more of the other applications also call for
+immediate examination and response. If errors etc. appear, the anomalies
+(in relation to the normative ongoing chat) may best be described phenom-
+enologically by Schutz' relevance theory, consider life-world strata,
+projects, and presentifications - in spite of the fact that all of this is
+primarily _read_ and _written to,_ inscribed and counter-inscribed. 
+
+9. One might argue that the fractured domain in its entirety is never 
+grasped - nor is there a "domain" and "entirety" at all. If we extend 
+inscription and counter-inscription, taking into account fuzzy and frac- 
+tal channeling (deconstruction of category object/arrow theory), we can 
+work towards a loosely-defined sememe undergoing continuous and fairly 
+rapid transformations which are not necessarily charted from either in- 
+terior or exterior (meta- ) positions. The traditional metapsychology of 
+the user splits, just as it splits beneath the sign of morphing gender in 
+MOOs and IRC; it is always already possible for theory to take morphing 
+into account (as if morphing is _being-accounted-for_ and therefore 
+_accountable_), but this is a posteriori; in fact the splitting proble- 
+matizes _any_ metapsychology insofar as the mind is considered a somewhat 
+closed (hydraulic model) frame, as opposed to a fuzzy communicative sys- 
+temics paralleling the description herein of the operating system itself.
+
+10. It is not difficult to see, not the operating system as mind, but 
+both mind and operating system as challenging dyadic conventions of in- 
+terior/exterior, grammatical tense and person, etc. As I have mentioned 
+before, Merlin Donald takes steps in this direction; one can also con- 
+sider an accumulation or sememe of _flows_ moving among bodies, organs, 
+etc., along the lines of Deleuze-Guattari.
+
+11. Within and without all of this, the _cyborg_ model, based on the sut- 
+uring of disparate epistemes, becomes oddly antiquated; it accounts well 
+for prosthetics, robotics, and machine/organism navigation, but remains 
+based on traditionally separate ontological domains. Instead, think of 
+spread epistemes and ontologies - for example, the distinction between 
+declarative and performative becomes oddly confused in the case of basic 
+html coding (i.e. without REFRESH or Javascript), which flows texts 
+around screens. 
+
+12. Finally one might bring up postmodernisms, with their flows, part-
+objects, relativities, multiculturalisms, incommensurability of commen-
+surable languages (and commensurability of incommensurable language) - as
+well the postmodern architectures, with their deconstructions, skew-
+lines, and exposures/doublings, baring the systems, decomposing them. And
+it is true that such architectures have their equivalent among the oper-
+ating system architectures; the operating system kernel for example may be
+equivalent to the control center of a building, and the communicative flow
+through a building has its equivalence with the fractal channeling
+described above. Nevertheless, I would not want to push this analogy, to
+the extent that the postmodern is representative of a _stage_ (i.e. post-
+fordism among other things), and not necessarily the (de)construct of a
+broken episteme more or less permanently on the (broken) horizon and al-
+ways-having-been-present. For the operating systems under consideration
+may be likened to the production of a _scanning electron microscope,_ a
+case in which scanning is related to phenomenological intentionality in-
+stead of the discrete world of envisioned objects and flows described in,
+say, Gibson's work. The difference, yet to be accounted for, never to be
+accounted for, lies between the optical circularity of the phenomenology
+of the image produced by the light microscope, and the exaggerated dim-
+ensionality and exploratory scanning of any electron microscope, such as
+the tunneling or even the recent development of the scanning probe, which
+promises to "image single electrons," one might almost say, bits and their
+own architectures down to that very level. (Sci. Am. 7/97.)
+
+

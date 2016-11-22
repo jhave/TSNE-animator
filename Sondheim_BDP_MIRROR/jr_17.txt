@@ -1,0 +1,39 @@
+
+
+
+Shuttle Archaeology
+
+The beauty of a shell account is the traffic back and forth between host
+and home; below is an edited sample of the ftp log. Traffic shuttles in
+both directions as files are altered, reconfigured, tested in lynx or
+GUI. Texts are constantly updated and duplicated; bookmarks files are
+tested first in text. I am still looking for the perfect early browser,
+all of, say, three years' old; the mosaic.exe I downloaded was attached
+to a proprietary ISP which I had no interest in...
+
+C:\.sig <-- /sondheim  .sig
+C:\.project <-- /sondheim  .project
+C:\.plan <-- /sondheim  .plan
+C:\.sig.txt --> panix3.panix.com  .sig.txt
+C:\lynx_bookmarks.html <-- /sondheim  lynx_bookmarks.html
+C:\sig <-- /sondheim  sig
+C:\jq <-- /sondheim  jq
+C:\h.htm <-- /sondheim  h.htm
+C:\zz.htm --> panix3.panix.com  zz.htm
+C:\lynx_bookmarks.html <-- /sondheim  lynx_bookmarks.html
+C:\jr <-- /sondheim  jr
+C:\zz.htm <-- /sondheim  zz.htm
+C:\jr <-- /sondheim  jr
+C:\index.html <-- /sondheim  index.html
+C:\internet_txt.html <-- /sondheim  internet_txt.html
+C:\resume.htm <-- /sondheim  resume.htm
+C:\mess.htm <-- /sondheim  mess.htm
+C:\mess.htm --> panix3.panix.com  mess.htm
+C:\mess.htm <-- /sondheim  mess.htm
+C:\mess.htm --> panix3.panix.com  mess.htm
+C:\jr <-- /sondheim  jr
+C:\jr <-- /sondheim  jr
+C:\jr <-- /sondheim  jr
+C:\mosaic.exe <-- /sondheim  mosaic.exe
+
+

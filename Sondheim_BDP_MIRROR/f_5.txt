@@ -1,0 +1,60 @@
+|
+
+
+
+{ Penrose presents four viewpoints relating thinking to computation:
+
+
+
+" A. All thinking is computation; in particular, feelings of conscious 
+
+awareness are evoked merely by the carrying out of appropriate computations.
+
+
+
+" B. Awareness is a feature of the brain's physical action; and whereas any
+
+physical action can be simulated computationally, computational simulation
+
+cannot by itself evoke awareness.
+
+
+
+" C. Appropriate physical action of the brain evokes awareness, but the 
+
+physical action cannot even be properly simulated computationally.
+
+
+
+" D. Awareness cannot be explained by physical, computational, or any 
+
+other scientific terms."
+
+
+
+Penrose's view, based on Godel, is that of C; I would hold to C as well, 
+
+but on the basis of modeling restraints - i.e. unsolvabilities and quan- 
+
+tum states within neural operations. Penrose holds with the latter, which 
+
+he develops at length; for me, unsolvabilities and the very nature of 
+
+randomness question the ability to model brain states. This isn't to say 
+
+that _input-output_ couldn't be modeled, but that the internal states, 
+
+and internal consciousness, would be necessarily different (neither 
+
+better nor worse, nor more nor less developed). 
+
+
+
+C is clearly unnecessary for any definition of artificial life, which at 
+
+this point in its development, can be modeled by A. }
+
+
+
+
+

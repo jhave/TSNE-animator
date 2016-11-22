@@ -1,0 +1,88 @@
+
+
+
+Internet Philosophy and Psychology -                           5/2/97
+
+
+This is a somewhat periodic notice describing my Internet Text, available
+on the Net, and sent in the form of texts to various lists. The URL is: 
+http://jefferson.village.virginia.edu/~spoons/internet_txt.html and the
+mirror URL is http://www.anu.edu.au/english/internet_txt/
+
+The changing nature of the email lists, Cybermind and Fiction-of-Phil-
+osophy, to which the tests are sent individually, hides the full textual
+body itself, since new readers will not be aware of the continuity. For
+them the text appears fragmentary, created piecemeal, splintered from a
+non-existent whole. On my end, the whole is evident, the texts extended
+into the lists, part or transitional objects.
+
+So this (periodic) notice is an attempt to recuperate the work as a total-
+ity, retard its diaphanous existence. Below is an updated introduction.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+The "Internet Text" currently constitutes around eighty files, or 2300
+printed pages. It was started in 1994, and continues as an extended
+meditation on cyberspace. It began with a somewhat straightforward
+theoretical outline, and has expanded into "wild theory," utilizing
+numerous "ghosts" (alive, quasi-alive, dead) - most recently, "Jennifer,"
+the locus of investigations into virtuality, ontology, and gender. 
+
+Almost all of the text is in the form of "short-waves, long-waves." The
+former are the individually-titled sections, written in a variety of
+styles at times referencing other writers/theorists. The sections are
+heavily interrelated; on occasion "characters" appear, _actants_ possess-
+ing philosophical or psychological import. They also create and problema-
+tize narrative substructures within the work as a whole. (Such are Clara
+Hielo Internet, Tiffany, Alan, Travis, Honey, Jennifer, and others. Jen- 
+nifer, in particular, has been the subject/object of recent work, a blur- 
+ring of epistemological/ontological distinction. Jennifer is me, not an
+alter-ego. When I close my eyes, I dream: Jennifer. When Jennifer closes
+her eyes, she dreams me into existence. I was born Jennifer.)
+
+The long-waves are fuzzy topoi on such issues as death, love, virtual em-
+bodiment, the "granularity of the real," and physical reality, which
+criss-cross the texts. The resulting fragmentations and coagulations owe
+something to phenomenology, deconstruction, linguistics, prehistory, the
+philosophies of science and programming, etc., but more to the functions
+of sites or nodes on the Net itself.
+
+I have used MUDS, MOOS, talkers, Perl, html, Javascript, Qbasic, and Cu-
+SeeMe, all tending towards a performativity of thought, texts which _act_
+and engage the subject beyond the traditional phenomenologies of reading. 
+Currently, I am working through issues of psychosis, html, html-bodies,
+archaeology of the Net, and transgendering; the "work" or "working" can
+take numerous forms.
+
+There is no binarism in the Internet Text, no series of protocol state-
+ments. Virtuality itself is considered far beyond the ASCII text/Webscape
+that is most prevalent now, at the end of the twentieth century. The vari-
+ous issues of embodiment that will arrive with full-real or true-real VR
+are already in existence as embryonic, permitting the theorizing of pre-
+sent and speculative future sites, "spaces," nodes, and modalities of
+body/speech/community.
+
+
+Please check the INDEX to find your way into the body of the work on-line. 
+It is helpful to read the first file, Net1.txt, in the beginning, and/or
+to look at the latest files (jq, jr, etc.) as well. The INDEX lists the
+files in which a particular topic is described; you can do a search on the
+file, or simply scroll down (the files range in length from 30 to 50 pages
+in print). 
+
+In addition, there are a few graphics and a resume. Further graphics can
+be found at: http://www.cs.unca.edu/~davidson/pix/ 
+
+Thank you.
+
+
+Usage: The texts may be distributed in any medium - indeed, I urge you to
+do so - provided I am credited with authorship. I would appreciate in re-
+turn any comments you may have.
+
+Alan Sondheim,   432 Dean St., Brooklyn, NY, 11217   718-857-3671
+
+mail to: sondheim@panix.com 
+

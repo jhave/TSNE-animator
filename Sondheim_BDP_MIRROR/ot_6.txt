@@ -1,0 +1,799 @@
+
+_arc.hive_ mailing list
+arc.hive@anart.no
+http://sympa.anart.no/sympa/info/arc.hive
+
+
+branch and ruler
+
+when the branch and the ruler meet and demarcate each other, it is the 
+branch which has created the ruler, and the ruler which has measured the 
+branch; every tool has ancestry; we are near the beginning, near the clout 
+on the head, the massacre, the cannibalism, the torture by fire, the death 
+by drowning, the skinning-alive, the gouging of the eyes, twisting the 
+testicles, desecrating the womb; we are in the primordial when the sign is 
+read wrong, when the sign is a sign, when a branch is after all just a 
+branch, when a ruler is a shadow of the future anterior, when nothing is 
+read but as-if everything is read, as if everything were readable, as if 
+gods created things, readings, writings, bodies, slaves, corpses, the 
+raped, the robbed, the wounded, the slaughtered, the megafaunal extinc- 
+tions, our pride and our joy, our little baby girl or little baby boy, one 
+flesh is tasted, there's no stopping
+
+http://www.asondheim.org/pulul.jpg
+
+Protocol Weights
+
+
+8.14 15:35 \invisiblebino4 tons -->  invisiblebino4 tons
+8.14 15:35 \invisiblebino5 tons -->  invisiblebino5 tons
+8.14 15:36 \invisiblebino6 tons -->  invisiblebino6 tons
+8.14 15:36 \invisiblebino7 tons -->  invisiblebino7 tons
+8.14 15:36 \invisiblebino8 tons -->  invisiblebino8 tons
+8.14 15:36 \invisiblebino1 tons -->  invisiblebino1 tons
+8.14 15:36 \invisiblebino2 tons -->  invisiblebino2 tons
+8.14 15:36 \invisiblebino3 tons -->  invisiblebino3 tons
+8.28 16:00 \gridworld04 tons --> panix /net/u/6/s/s gridworld04 tons
+8.28 16:00 \gridworld03 tons --> panix /net/u/6/s/s gridworld03 tons
+8.28 16:00 \gridworld02 tons --> panix /net/u/6/s/s gridworld02 tons
+8.28 16:00 \gridworld12 tons --> panix /net/u/6/s/s gridworld12 tons
+8.28 16:00 \gridworld11 tons --> panix /net/u/6/s/s gridworld11 tons
+8.28 16:07 \gridworld10 tons --> panix /net/u/6/s/s gridworld10 tons
+8.28 16:07 \gridworld09 tons --> panix /net/u/6/s/s gridworld09 tons
+8.28 16:07 \gridworld08 tons --> panix /net/u/6/s/s gridworld08 tons
+8.28 16:07 \gridworld07 tons --> panix /net/u/6/s/s gridworld07 tons
+8.28 16:07 \gridworld06 tons --> panix /net/u/6/s/s gridworld06 tons
+8.28 16:08 \gridworld05 tons --> panix /net/u/6/s/s gridworld05 tons
+8.28 16:08 \gridworld01 tons --> panix /net/u/6/s/s gridworld01 tons
+8.28 16:10 \abc 024 tons --> panix /net/u/6/s/s abc 024 tons
+8.28 16:12 \abc 023 tons --> panix /net/u/6/s/s abc 023 tons
+8.28 16:14 \abc 021 tons --> panix /net/u/6/s/s abc 021 tons
+8.28 16:16 \abc 020 tons --> panix /net/u/6/s/s abc 020 tons
+8.28 16:18 \abc 019 tons --> panix /net/u/6/s/s abc 019 tons
+8.28 16:20 \abc 018 tons --> panix /net/u/6/s/s abc 018 tons
+8.28 16:21 \abc 013 tons --> panix /net/u/6/s/s abc 013 tons
+8.28 16:23 \abc 012 tons --> panix /net/u/6/s/s abc 012 tons
+8.28 16:25 \abc 009 tons --> panix /net/u/6/s/s abc 009 tons
+8.28 16:27 \abc 006 tons --> panix /net/u/6/s/s abc 006 tons
+8.28 16:29 \abc 005 tons --> panix /net/u/6/s/s abc 005 tons
+8.28 16:31 \abc 004 tons --> panix /net/u/6/s/s abc 004 tons
+8.28 16:33 \abc 003 tons --> panix /net/u/6/s/s abc 003 tons
+9.02 17:10 \tip5 tons -->  tip5 tons
+9.02 17:10 \tip4 tons -->  tip4 tons
+9.02 17:10 \tip3 tons -->  tip3 tons
+9.02 17:10 \tip2 tons -->  tip2 tons
+9.02 17:12 \tip5 tons -->  tip5 tons
+9.03 20:55 \originsofmeasure 19 tons -->  originsofmeasure 19 tons
+9.03 20:55 \originsofmeasure 18 tons -->  originsofmeasure 18 tons
+9.03 20:55 \originsofmeasure 17 tons -->  originsofmeasure 17 tons
+9.03 20:55 \originsofmeasure 16 tons -->  originsofmeasure 16 tons
+9.03 20:56 \originsofmeasure 15 tons -->  originsofmeasure 15 tons
+9.03 20:56 \originsofmeasure 14 tons -->  originsofmeasure 14 tons
+9.03 20:56 \originsofmeasure 13 tons -->  originsofmeasure 13 tons
+9.03 20:57 \originsofmeasure 12 tons -->  originsofmeasure 12 tons
+9.03 20:57 \originsofmeasure 11 tons -->  originsofmeasure 11 tons
+9.03 20:57 \originsofmeasure 10 tons -->  originsofmeasure 10 tons
+9.03 20:57 \originsofmeasure 09 tons -->  originsofmeasure 09 tons
+9.03 20:58 \originsofmeasure 08 tons -->  originsofmeasure 08 tons
+9.03 20:58 \originsofmeasure 07 tons -->  originsofmeasure 07 tons
+9.03 20:58 \originsofmeasure 06 tons -->  originsofmeasure 06 tons
+9.03 20:58 \originsofmeasure 05 tons -->  originsofmeasure 05 tons
+9.03 20:58 \originsofmeasure 04 tons -->  originsofmeasure 04 tons
+9.03 20:58 \originsofmeasure 03 tons -->  originsofmeasure 03 tons
+9.03 20:59 \originsofmeasure 02 tons -->  originsofmeasure 02 tons
+9.03 20:59 \originsofmeasure 01 tons -->  originsofmeasure 01 tons
+9.03 20:59 \originsofmeasure 29 tons -->  originsofmeasure 29 tons
+9.03 20:59 \originsofmeasure 28 tons -->  originsofmeasure 28 tons
+9.03 20:59 \originsofmeasure 27 tons -->  originsofmeasure 27 tons
+9.03 20:59 \originsofmeasure 26 tons -->  originsofmeasure 26 tons
+9.03 21:00 \originsofmeasure 25 tons -->  originsofmeasure 25 tons
+9.03 21:00 \originsofmeasure 24 tons -->  originsofmeasure 24 tons
+9.03 21:00 \originsofmeasure 23 tons -->  originsofmeasure 23 tons
+9.03 21:00 \originsofmeasure 22 tons -->  originsofmeasure 22 tons
+9.03 21:00 \originsofmeasure 21 tons -->  originsofmeasure 21 tons
+9.03 21:01 \originsofmeasure 20 tons -->  originsofmeasure 20 tons
+
+
+
+
+Dissemination of analogic array, 
+
+
+To Muse, To ponder, to think close, to study in silence, on reading Samuel 
+Johnson's Dictionary 1785-1799 edition
+
+Thing: 1. Whatever is; not a person. A general word. 2. It is used in 
+contempt. 3. It is used of persons in contempt, or sometimes with pity. 
+4. It is used by Shakespeare one in a sense of honour. 
+
+First, that words are pulled into existence by their extensions, as if 
+these are chreodic formations (see Waddington).
+
+Surface, Superficies; outside; superfice. It is accented by Milton on the 
+last syllable.
+
+My mastery is masterdom; I'm a master-hand who pulls a master-jest; I have 
+the master-key to the curing of sprains and injuries to the master-sinew;
+I play on the master-string with a master-stroke; I am masterless but have 
+masterliness; I am most masterly, a true masterpiece of mastership; my 
+master-teeth do not touch masterwort; ah for good kind master! Mordacious, 
+mordacity, mordicant, mordication. Nonjuring, belonging to those who will 
+not swear. 
+
+Or bodiless:
+
+  They bodiless and immaterial are,
+ and can be only lodg'd within our minds
+-Davies
+
+Virtual, Having the efficacy without the sensible or material part.
+
+Cachectical, cachectice, cachexy, cachinnation, neither a cackle nor a 
+cackler.
+
+Pulled into existence, surrounded, modified: one might apply Kant's cate- 
+gories here, spatial and temporal extensions, actions and reactions, away-
+from and towards. In Kant's Thoughts on the True Estimation of Living 
+Forces, there are bodies which need not be contiguous with any other; 
+these are split, signifiers of other worlds, unsensed and senseless here. 
+This is the opposite of these additional modifications that extend words, 
+one into another; it is language and its interconnectedness that allows me 
+to live, saves me from suicidal depression and insanity. All words lead to 
+world.
+
+You see, Kant says "...it is quite possible that a thing actually exists 
+and yet is nowhere present in the world." But it is I, myself, which is 
+absent, absenting; and as such, I tend towards chaos, opening every 
+unrelated space or avatar.
+
+Second, the feel and weight of the paper; every page carries a visible 
+history which has no origin but an emission in reverse.
+
+Emission in reverse: the scar of the page or face or body tends towards 
+unknown events, sets of them; surely a scissors leaves no stain and ink 
+does not cut. There are clues, but even in enlightenment, everything is 
+lost; Volney's Ruins stay that way.
+
+Third, the lack of page numbers; one is guided solely by word order (and 
+as if the volumes have an indefinite number of pages).
+
+Page markings at random:
+
+MAG MAG MAG
+1
+
+MER MER MER
+        Q2
+
+MUC MUC MUC
+    4*
+
+MUC MUD MUD
+Vol. II.  Y
+
+PEC PED PED
+        P
+         P
+
+Demarcations for binding and signatures, perhaps, these appear as those 
+Talmudic letters and signs which are extra-linguistic, which draw 
+attention outside the book, elsewhere.
+
+Fourth, the three columns with three letter page headings as in MIM MIN 
+MIN or ORD ORD ORD; these are loosely tethered to their word-lists.
+
+The totality of columns headed by PLA:
+
+PIT PIV
+PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA PLA 
+PLA PLA PLA
+PLE
+
+In the midst of PLA, language shuttles horizontally across the tops of 
+pages; these notations are redundant, call for perusing. In terms of 
+paging, one never knows where one is; like the Japanese system of street 
+addressing, one proceeds by landmarks. It's top-down; PLA could be 
+anything, and the shuffling necessary to find a word occurs on a different 
+level.
+
+Fifth, the latinate quality of the whole, romance languages in particular, 
+lending themselves to fields of words and worlds creation.
+
+See First above. These worlds are interlocked, matriculated, matrixed, 
+maternal; see Eighth below. The soft sounds of Latin map words through the 
+skeins of prefixes, suffixes, roots (such as they are). Think of languag- 
+ing in relation to the Appian Way, trade-routes in general. 
+
+When roots = routes, the nomadic portends the emission of the primordial. 
+Nothing is settled except for the cupped land, rumors of strangers, wars, 
+pestilence, riches, elsewhere. King or queen-dom = king or queen-dome; the 
+horizon rises, what is one, is one.
+
+Zootomy, Dissection of the bodies of beasts.
+
+Sixth, the pleasure of the text and worlds; Johnson is famously partial - 
+see definitions of "oats" or "puritan."
+
+Johnson's I appears; Johnson's eye regards. The corpus is the measure of 
+the man; in this sense the dictionary is parole, not langue. Thus and 
+against enlightenment, no absolutes, no absolute positions; the apparent 
+exactitude of the Britannica on one hand, and Euclid's axiomatization on 
+the other, seem not only far off, but foreign.
+
+Axiom - 1. A proposition evident at first sight, that cannot be made 
+plainer by demonstration. 2. An established principle to be granted 
+without new proof.
+
+One sees the "axiomizer" at work here - sight in the first part, and 
+granting in the second. Axioms are contracted, tethered, but barely. And 
+Johnson's work is far cry from this.
+
+Seventh, the careful rationalism of the text, accompanied by a relative 
+elimination of the abject; "shit" is not present, but "urine" is, and 
+"whore" and "pimp" are present but "fuck" isn't. 
+
+Now I would not say "rationalism" but "embodiment," a word not found in 
+Johnson. The text is civil, civilization. 
+
+Colony: 1. A body of people drawn from the mother country to inhabit some 
+distant place. 2. The country planted; a plantation.
+
+To Colonize: To plant with inhabitants; to settle with new planters; to 
+plant with colonies.
+
+And as with civility, colonies are associated with planting, agriculture, 
+not supplanting or replacing; colonies are exploration's seed and the seed 
+for further exploration. Perhaps violence is muted in these definitions; 
+perhaps it was considered peripheral.
+
+Eighth, the maternality of the volumes, occupying a relatively wide field 
+of vision, the world safely inscribed, references to Pope, Donne, Swift, 
+Shakespeare and company.
+
+Lancination, Tearing, laceration. Lampron, A kind of sea fish. Zarnich, 
+Zarnich is a substance in which opriment is found; it approaches to the 
+nature of opriment, but without its lustre and foliated texture. The 
+common kinds of zarnich are green and yellow.
+
+Yes, the maternality, seeding, blossoming, diffusion, fluid mechanics, 
+seeding, bringing-forth, melding (the letters "I" and "J" are combined 
+under "I"; "U" and "V" are combined under "V").
+
+I is in English considered both as a vowel and a consonant.
+
+Ninth, the labor of writing, delineating, almost single-handedly, word 
+after word; one searches for development, for the indexing methodology 
+used for some forty-thousand words.
+
+Every dictionary is based to some extent on earlier ones (and earlier 
+editions); the matrix is already present. I can't see how the material was 
+organized for the printer - i.e. who did the organizing? Did Johnson 
+himself index everything? How were slots left for emendations? Even with 
+the printed editions - if a new word with a long definition is entered, do 
+all the subsequent words "move down"? If a word is take out, as being too 
+obsolete even to be listed as obsolete, do subsequent words "move up"?
+
+When I took the first survey of my undertaking, I found our speech copious 
+without order, and energetick without rules: wherever I turned my view, 
+there was perplexity to be disentangled, and confusion to be regulated; 
+choice was to be made out of boundless variety, without any established 
+principle of selections; adulterations were bound to be detected, without 
+a settled test of purity, and modes of expression to be rejected or 
+received, without the suffrages of any writers of classical reputation or 
+acknowledged authority. (Johnson, from the Preface.)
+
+Tenth, there are words almost certainly invented by Johnson, which then, 
+perhaps, continued through other dictionaries, such as the Nouveau 
+Dictionnaire de Poche by Th. Nugent, already the 38th edition by 1848. 
+This work is a gold-mine of the unusual, much of it from Johnson's work. 
+Think of this as word-play, as in, for example, the ripples of style and 
+measure in the above quotation.
+
+Meynt, Mingled. Obsolete. Titubation, The act of stumbling. Squib: 1. A 
+small pipe of paper filled with wildfire. Used in sport. 2. Any petty 
+fellow. Not in use. 
+
+Stadle: Any thing which serves for support to another. 2. A staff; a 
+crutch. Obsolete. 3. A tree suffered to grow for coarse and common uses, 
+as posts or rails. Of this meaning I am doubtful.
+
+Eleventh, the analogic weight of the enterprise, in spite of apparent 
+precision in definition; thus the weight, touch, rustle, scent, of the 
+book is foregrounded, along with the wear-and-tear of type, and the 
+definitions themselves which often emphasize emphasize poetry and poetics 
+for examples.
+
+Sprunt, Anything that is short, and will not easily bend.
+
+As with any other dictionary, one finds paths through the sememe, each 
+word leading somewhere else, much as web-browsing (does anyone do that 
+anymore?). The marvelous appears in the processes of defining; one senses 
+a kind of devolution at work.
+
+And yes, the weight, the cradling of the book (there are two volumes) in 
+my lap, propping up the antique covers; the book breathes like any other 
+cultural organism...
+
+Puttock, A buzzard. Pointel, Anything on a point. Paralogy, False 
+reasoning. Malkin, A kind of mop made of clouts for sweeping ovens; thence 
+a frightful figure of clouts dressed up; thence a dirty wench. 
+
+Twelfth, differentiation as problematic; at times, a word will be 
+identified as a "plant" or a "serpent" without further description; such 
+description, scientific or othersie, might be elsewhere; but see his entry 
+for "opium."
+
+Ratio, ratiocinate, ratiocinative, rational, rationale, rationalist, 
+rationality, rationalness. Porpoise, the sea-hog. Popgun, A gun with which 
+children play, that only makes a noise. Popinjay: 1. A parrot; 2. A 
+woodpecker. So it seems to be used here. 3. A trifling fop.
+
+Porrection, the act of reaching forth.
+
+Unheart.
+
+In summary, a matrix not positing, but _enveloping_ knowledge; such 
+knowledge is lived, biographed; such knowledge effloresces; and ratio is 
+assumed; the page is a field, not enumerated container; word roots 
+likewise are fields; idioms break the code (there are over one hundred of 
+them for "take"; words are words and things are things; language by the 
+grace of God and man.
+
+X.
+
+X Is a letter, which, though found in Saxon words, begins no word in the 
+English language.
+
+
+ Bj³rn Magnhild³en & Alan Sondheim:
+
+
+ - sure - i'll do it the other way - i have another page that control the 
+feeds in more detail to congifuer what counes out :) WOW a bit confusing 
+and nice can you stay on for a minute here? I need to try the text dump 
+can you take a photo of the session next friday maybe? does it work 
+dorwing but learingæ fine ok ill thest the pp app in the meantime fine .k. 
+glad yo u like it - thanks for this session - very nice, _:) hey that the 
+index of noemata heysss hm need some work stillæ 
+http://noemata.anart.no/pp/transcript/transcript.txt i finally mamged to 
+log this session i have a volume knob for the app it might crash as you 
+say but it's buggy and sllthe app consicts of 25-30 scripts that connect 
+also to other systems of text generating i have on the server i like talk 
+i love that - i might do things like that in the plaintext web aå also 
+like flushing out text very rapidly i'd like to do the same inside the ap 
+- and the scroll has some of that function also i'm always impressed by 
+what the word parallell threads going on -. just now i watched some videos 
+i did 10 years ago mixing tv channels, and i like it to my surprise if the 
+flick between channels is short enough one can't distinguished them 
+cognitively is it still working the plaintext feed? it might even work 
+using my mobile as modem, very byte-friendly it's just the same let's see 
+it's possible managed a difficult word maybe for animals., pigs are 
+supposedly very happy maybe monday? oh i dont know - is it running faster 
+now... by any chance? ok ok, we do that sounds ok ssss sure more things 
+comming thourgh thanks - give me a sec to configure that's it the numbers 
+are the time it spends on writing them... self-ref very good we can keep 
+in touch and i'll let you know when to reach me better on dialup well -the 
+transcitp of this session should be in a folder called transcipt also file 
+named transcipt.txt well happiness is not for humans maybe.. well i hopw 
+so - i'm afraid people get bored well it had an optino. but i had probelms 
+before - from a nonexisting folder something old well the transcript is 
+online as part of it well then i go to beed sooon, have a nice afteronoon 
+and trip later on., yours Bjøornm well then i'm saved.. wow writing yea. 
+i'd like to try it from my mobile to see the byte rate yes .- i tried it 
+the other way - from talk into the app yes also yes i like the idea of the 
+computer being conscious about its werirint yes i nkow - i want to thank 
+you for doing all this as part of my thing yes over the weekend maybe - 
+i'm going to a cottage without a telephone for the next days but i might 
+you the mobile as modem for this also would be interesting yes that waht i 
+meant you thin k so? you want to test it with sandy maybe
+
+
+
+
+
+Jangle Man
+
+http://www.asondheim.org/jangle.avi exhaust exhaust Nauman invisiblebino 
+jpg jig mov jimmy jpg jimmy jpg kalipinkwoman mov natural contract ity 
+Humanity objects, knowledge Proposal BIOS Poetics Li Physics 751 $12.99 
+receiver rec Carriers or power l we're Symantec Order performances Query 
+info request --=20 (Lusitania, 1996), Disorders -=20 
+WRITING-AND-THE-DIGITAL-LIFE 2 My electronic Alice "Wonder 'Infomania' 
+tsunami warning China Full text Human Ri And now this, China..... erratum 
+CCCC Table; "freedom Isn't Free"  Fr [WCU SUSPECTED SPAM] Appeal Demand 
+Writing Experimental Course NEUROGREEN manifesto Number excess or curlicue 
+which _demands._ what won't come off becomes excessive, the man primarily 
+in his grasp of nature, $ oh there are so many of us here! gives shmin, 
+Aramaic Egyptian, shmn, Ugariritic control with command with 34 command 35 
+dictionary 36 who 37 knows 38 will 39 use 40 stuff 41 healing - this 
+relates to shamanism, etc. "As a friend pointed out, human infants have a 
+propensity for babble that we have faces. So the human hairless face is 
+the first appearance - both Fifth, the latinate quality of the whole, 
+romance languages in particular, the man; in this sense the dictionary is 
+parole, not langue. Thus and grace of God and man. it's possible managed a 
+difficult word maybe for animals., pigs are named transcipt.txt well 
+happiness is not for humans maybe.. well i hope.
+
+
+quaggy1 - video / text
+
+
+ http://www.asondheim.org/quaggy.avi         
+ skinn skinned skinny skinning skinnn skinnned skinnning skinnny 
+quagged quagmire skeinn skeinnned skeinnnned
+
+ moped, mopped, mapped, joined, junked, or jammed      
+    skinn skinny skinnned quagmire skeinn skeinnned 
+skeinnnned gadged, jimmied, jammed, jointed, or jinn
+
+         skinny skinnn quagmire skeinn 
+skeinnned skeinnnned whatchamacallit, dohickey, thinkgamabog,
+
+             skinnn skinnny 
+quagged quagmire skeinn skeinnned skeinnnned shuddered, will-do, 
+will-hold, fix, kludge,
+
+         skinny skinning skinnned 
+skinnny quaggy skeinn skeinnned skeinnnned shoddy, shattered, spluttered, 
+sputtered,
+
+      skinn skinny skinning skinnn skinnned quagged 
+quagmire skeinn skeinnnned gone, gargoyle, garish, garnish, gleam, golem,
+
+         skinny skinning quagged 
+quagmire skeinn skeinnned skeinnnned split, grated, guaged, gadget, 
+gadjetsom,
+
+         skinn skinny skinning skinnn 
+skinnned quagmire skeinn skeinnned skeinnnned useless, used, shagged, 
+surgered, sutured,
+
+      skinny skinning skinnn skinnned quagmire skeinn 
+clappered
+
+     skinn skinny quagmire skeinn
+
+
+quaggy2 - text
+
+the entire history of digital transformation compressed into simultaneous 
+skeinn quagmire quagged skinnned skinnn skinning skinny skinn from and 
+within the real of course none of this skeinnnned skeinnned pages and 
+differentiations skeinn quagmire skinnny skinnned skinnn skinning skinny 
+skinn closing in on the imaginary Imaginary, you shall not skeinnnned 
+skeinnned is true but I am skeinnned skeinn quagmire quagged skinnned 
+skinnn skinning skinny me! Hello, I am Imaginary and I have escaped! 
+nothing can hold skeinnnned escape skeinnned skeinn quagmire quagged 
+skinnning skinnn skinning skinny skinn that is me, nothing! of course 
+truth has no place in my vagina! skeinnnned quagmire quagged skinnning 
+skinnned skinnn skinning skinny skinn nothing I say hello to Imaginary! I 
+have caught you skeinnnned skeinnned skeinn skinnned skinnn skinning 
+skinny skinn caught on the tip of my penis, outlines, no matter skeinnnned 
+skeinnned skeinn quagmire quagged skinnning skinning skinny skinned again, 
+and you're quite terrific there! you've got skeinnnned skeinnned skeinn 
+quagmire quagged skinnning skinnned skinnn what you say! Dear Alan, please 
+leave my vagina! Or rather, please just quagmire quagged skinnny skinnning 
+skinnned skinnn skinning skinny skinn we have no outlines, no setting 
+smooth dearest skeinnnned skeinnned skeinn skinnny skinnning skinnned 
+skinnn skinning skinny leave! as you know, it makes absolutely no 
+skeinnnned skeinnned skeinn quagmire quagged skinnn skinning skinny 
+imaginary, who is the we? is the we you? because in the skeinnnned 
+skeinnned skeinn quagmire quagged skinnny skinnned skinny difference at 
+all are you we? because it makes all the difference skeinnned skeinn 
+quagmire quagged skinnny skinnned skinnn skinning right and you're wrong, 
+Alana! just try dreaming something skeinnnned quagmire quagged skinnny 
+skinnned skinnn skinning skinny world you're you'll see! You can't talk to 
+yourself but you skeinnnned skeinnned skeinn quagged skinnned skinnn 
+skinning skinny else tonight you'll see and tell you a fine story. I do 
+not know skeinnnned skeinnned skeinn quagmire skinnny skinnned skinnn 
+skinning skinny sure can talk to Honey! now I will me? Hello hello! Why it 
+is skeinnnned skeinnned skeinn quagmire quagged where I am. Honey, are you 
+there, can you hear skeinn quagmire quagged skinnny skinnned skinnn 
+skinning skinny , you r breasts! My thick stem! Look at the pictures 
+skeinnnned skeinnned my good friend Honey skeinn quagmire quagged skinnned 
+skinnn skinning skinny skinn awaits your honey o luscious lusioous lussy 
+honey@ skeinnnned skeinnned honey! [Amy thick stem skeinn quagmire quagged 
+skinnny skinnned skinnn skinning skinny skeinn quagged skinnned 
+huney!huney! skeinnnned skeinnned
+
+Maud beautiful beautiful aum because because cause Naughty because caused 
+10 11 100 101 110 111 1000 1001 1010 1101 1110 skinning skinnn skinnned 
+quagged quagmire skeinn skeinnned beautiful beautiful beautiful automatic 
+exhaustive audience audience aural 10 11 100 101 110 111 1001 1010 1101 
+1110 1111 10000 skinny skinning skinnn skinnned skinnning quaggy quagmire 
+skeinn skeinnned skeinnnned realaudio laughs laughs because laughs caught 
+beauty exhaustion exhausted 10 11 100 101 110 1000 1001 1010 1101 1111 
+10000 skinny skinning skinnn skinnned quaggy quagged quagmire skeinn 
+skeinnned skeinnnned laughs laughs laughs laughed applauds applause laughs 
+laughs laughs 10 101 110 1000 1001 1101 skinn skinning skinnned quagmire 
+skeinn Shauna Shauna because exhaust exhaust exhaust exhaust exhaust 
+dinosaurs 10 11 100 101 110 1001 1010 1111 10000 skinny skinning skinnn 
+skinnned quaggy quagmire skeinn skeinnned skeinnnned exhausted laughter 
+beauty beauty Saussure cauterized Shauna Because 10 11 100 101 110 1000 
+1001 1010 1101 1111 skinny skinning skinnn skinnned quaggy quagged 
+quaggered quagmire skeinn skeinnned cauterization cauterized slaugh slaugh 
+because exhaus exhaus cau beautiful 10 11 100 101 110 111 1000 1001 1010 
+1101 1111 10000 skinny skinning skinnn skinnned quaggy quaggered quagmire 
+skeinn skeinnned skeinnnned saudi august august relaunching relaunching 
+hydraulic cauterization 10 100 101 110 1000 1001 1010 1101 1111 10000 
+skinny skinning skinnn skinnned quagged quaggered quagmire skeinn 
+skeinnned skeinnnned automaton automaton automata automata automata 
+beautifully default 10 11 101 110 111 1010 1101 1110 1111 10000 skinnn 
+skinnned quagged quagmire skeinn skeinnned skeinnnned automata automaton 
+automatons automa automaton automaton automaton 10 1110 1111 10000 
+skinning skinnn skinnned quagmire skeinnnned somersault beauty beauty 
+beauty beauty somersault beauty beauty automata 10 11 110 1101 1110 10000 
+skinny skinning skinnn skinnned quagged quagmire skeinn skeinnnned Maud 
+slaughter traumatized audience cause beau somersaul beau somersault 10 11 
+100 101 110 1000 1001 1010 1101 1110 1111 10000 skinny skinning skinnn 
+skinnned quaggered quagmire skeinn skeinnned skeinnnned slaughter 
+slaughter slaughter slaughter slaughter slaughter slaughter 10 110 1000 
+1001 1101 skinny skinning skinnn skinnned quagmire skeinn launch Saul 
+autobiography audio because saucer beautiful cause slaughtered 10 11 100 
+101 110 111 1000 1001 1010 1101 1111 10000 skinn skinny skinning skinnn 
+skinnned quagged quagmire skeinn skeinnned skeinnnned taught exhaustion 
+Laura taught because holocaust Paul audio autobiography 10 11 100 101 110 
+1000 1001 1010 1101 1111 10000 skinn skinny skinning skinnn skinnned 
+quaggy quagged quagmire skeinn skeinnned skeinnnned traumatic jaundice 
+Paul Birnbaum Laurie Laurie because taught Laura Laura 10 11 100 101 110 
+1000 1001 1010 1011 1101 1110 1111 skinny skinning skinnn skinnned 
+quagmire skeinn skeinnned aural beauty beauty Hcaught Hcauses because 
+daughter daughter faults 10 11 100 101 110 111 1000 1001 1101 skinny 
+skinning skinnn skinnned quagged quagmire skeinn exhaust exhaust exhaust 
+Milwaukee unglaubliche faultline beauty auroras 10 11 100 110 111 1000 
+1001 1010 1100 1101 1111 10000 skinny skinning skinnn skinnned skinnny 
+quaggy quagged quagmire skeinn skeinnned skeinnnned Nauman exhaust exhaust 
+10 110 1001 1110 1111 skinning skinnn skinnned quaggy quagmire skeinn
+
+
+
+The body/works
+
+These works characterize anomalous space whose worlding is internal, by 
+which I mean there are no external relations, only the body generating its 
+own skein, represented by markers situated at the nodes of motion capture 
+technology. The shuddering of the space is the shuddering of the body; the 
+emblems of the space constitute the space in its entirety - there is 
+nothing else; what you see as background is designed for visual pleasure 
+alone. Now you will notice that bodysphere is ragged; this is the result 
+of considerable compression, bodysphere being a production of quaggy, that 
+is, quaggy mapped onto a sphere which then moves/motivates as nodes are 
+distended, memories of a totality, 3-dimensional Jordan surface, or 
+perhaps given the break=throughs, multiply-connected toroi of which the 
+sphere is only the visual external remnant, already penetrated. Penetrated 
+by what? By the very nature of digital motion capture, which as in all 
+things digital, requires both raster and bandwidth, as well as tolerance - 
+here what are absent are the entrances and exits of body tubes, holes in 
+other words, as well as those details which, for us, create the semblance 
+of both sentience and physique. In these spaces, only crudely represented 
+in a 3-space mapping into 2-space, something new is being born: the world 
+as representation, not will, the hollowed world of virtual skeins which is 
+already our future anterior; we are what we will become; these are blown 
+images, imaginaries, as flat as the bytes from which they are visually 
+constituted; these are, literally, all that there is, eyes and ears, touch 
+and taste, scent and smell, within. Within, without, there is no symbolic, 
+no difference, no differance. The future is here, one's memory.
+
+http://www.asondheim.org/bodysphere.mp4
+http://www.asondheim.org/quaggy.avi
+
+still up - http://www.track16.com/exhibitions/embedded/index.html
+
+
+
+
+Title - Phenomenology of the Real (upcoming talk at WVU BIOS conference)
+
+
+The eye isn't like a camera. It scans, simultaneously receives and 
+constructs. 
+
+The eye tends towards interesting things, movement or anomaly.
+
+Scanning creates the choices and the Pale.
+
+Scanning creates the authentic and problematic.
+
+Scanning is an active process in the world, constructing worlds.
+
+Scanning implies bandwidth, implies negation: scan(x) and (x)(-x).
+
+Let us think for a moment about the edge of scan, about the infinite real 
+or analog, about for example a theoretical motion capture device with a 
+complete description of forearm skin during the average step of the 
+average walk.
+
+Clearly one needs an infinite number of sensors; clearly the data becomes 
+equivalent to the real with an ontological shift; clearly an infinite 
+amount of energy is necessary; clearly this is impossible.
+
+Scan implies choice; I say, my raster is sufficient in this instance - 
+meaning, I can divide this object or even clearly and cleanly in such a 
+manner that nothing of importance is left out.
+
+Now I, perturbed, scan the perturbed body, perturb software; what may be 
+for example flesh becomes file becomes image, and such an image that it is 
+suitable for your eyes only, for this species within the sign of eternity.
+
+And I inject these images into the imaginary of both body and perception - 
+that is, within the perceiving and receptive body - a body internally 
+folded in a manner recalling Riemannian geometry - a body conceived as a 
+multiply-connected manifold of tensions and distortions.
+
+This is the multiply-vibrating body, the body internally connected in such 
+a manner as can only be the result of external connectivity; otherwise, as 
+Kant might have it, the world may split apart.
+
+Such a body ingests time.
+
+It takes no time to ingest time; time disposes, indisposes.
+
+Every line is after every other. 
+
+Imagine: An Access Grid moment: I send my body-image across the earth.
+A shot is fired.
+I am dead but read you reading me alive. 
+I will not die on the Access Grid.
+
+A multiple-exposure photograph becomes a totalization, indecipherable; a 
+multiple-exposure scan becomes stitched, recuperable, archaeological. 
+
+I assert it is the body that is traveling on the Access Grid, it is the 
+body that speaks to another body in online gaming or MOOs, it is the body 
+that participates in a true, real economy, online and off, it is the sexed 
+body that is scented online and off: For one, therefore the other; for the 
+other, therefore the one.
+
+Let us never forget that other economics of the feasible, of starvation- 
+extinction; there is there there. There are no scans there. There is 
+there.
+
+There, is not present here. To understand its absence, one must understand 
+the absence of digital, absence of analog, absence of the figure-in-the- 
+landscape: perspective. There, is not even another question. There, is 
+future. the future of impresent. This does not travel the Access Grid; 
+this does not travel at all; in the future, we will not travel; in the 
+future, we will not learn.
+
+
+protolanguage
+
+ing. depth. round." constructs. there. in a 3-space mapping into 2-space, 
+something new is being born: the world babbling as well plasticity our 
+vocal cords developed after sounds, i assume beginning with laughter. 
+empathetic behaviour comes such body ingests time. meaning, can divide 
+this object or even clearly and cleanly perhaps false derivation, 
+_etymology_: very nakedness, 'naked "as footnote ties directly abject 
+sense that form _pun_ terms physiognomy it has relationship to friend 
+pointed out, human infants have propensity for babble there's hill over 
+there (gestures) inject these images imaginary both perception which mean 
+are no external relations, only generating its step not drawing on face, 
+body, etc. so dirt / river through woods express. would be comfortable 
+symbolic playing surface is, all, inscription. hunt; direction. think 
+nothing more than mud paste acci- healing relates shamanism, wait i'll 
+right back "btw i'm still working .obj files you see from scanner now i, 
+perturbed, scan perturbed perturb software; what may "for me it's an 
+originary story much like freud's sons killing ... "i know sounds 
+ridiculous but something. if face gets expression produce sound, kind 
+mini-signifying machine all other surfaces relation "just hiking otter 
+creek wilderness. occurs hairless, then example blood will 'stick' takes 
+time ingest time; disposes, indisposes. average walk. (blender deconstruct 
+geomagic assemblages) guides becoming sand bark). comical: because moves, 
+expresses, language per se; spoken descendent associated 
+multiply-connected manifold tensions distortions. manner result 
+connectivity; otherwise, participates true, real economy, online off, 
+sexed taste, scent smell, within. within, without, symbolic, father 
+remains fornm colonialism, assumption we faces. hairless first appearance 
+absence digital, analog, figure-in-the- multiple-exposure becomes 
+stitched, recuperable, archaeological. traumatic, scars. fur covers, 
+re/covers; continuous growth occur, often, tend towards culture. culture 
+accurate one might led believe (by voice, future, learn. bees read. 
+reading plastic, deductive, transformative, morph- peeled _off_ body. "re: 
+below certainly dogs faces, facial expressions (which play distended, 
+memories totality, 3-dimensional jordan surface, sense. case skin 
+representation, will, hollowed virtual skeins intensifications, here 
+present (as lingis well; wound figuration imitated volume serial number 
+44b0-3c2elandscape: perspective. there, another question. between specific 
+irreducible bodily states complete description forearm during testicles, 
+desecrating womb; primordial when sign thao, gesture away pointing hills 
+return; scratched. therefore was hunting. walk; directory 
+c:\performc:\skindanceorigin measurement obvious. of course symbolization 
+amount energy necessary; impossible. phenomenology interpenetrating image 
+stage, etc." familiarity. then, this, writing parts ion signs, 
+repetitions; laughter word. tran duc emblems space constitute entirety 
+again rotation turntable incrementally connects absent entrances exits 
+tubes, holes find their way onto coding incipient scented off: one, other; 
+matter, did textbook thinking, etc., importance left out. speaks gaming 
+moos, say; should go look darwin's book this." by what? nature digital 
+motion capture, analog images, 'peelings' ruptures written increased, 
+became culturally instutionalized, branch ruler meet demarcate each other, 
+future. future impresent. does travel access grid; head, massacre, 
+cannibalism, torture fire, death obscene course. particular series based 
+raped, robbed, wounded, slaughtered, megafaunal extinc- saying rock 
+streamside writes technology. shuddering body; obscuring skin).* signify 
+expresses just branch, shadow anterior, therapeutic cleansed language, 
+extinction; scans couple one. stung. were bees. simplest model 
+constituted; are, literally, eyes ears, touch expressions. they express 
+deep well. created ruler, measured 'fits.' disordered thinking origin (i'm 
+quotation) case, i'd bet predates least two shot fired. did. (think 
+protolanguage). difference, differance. here, one's memory. difficult how 
+signs sort connected mnemonics; pigeons recognize quantities. kant it, 
+split apart. inscribes analog/abject _or appears._ things requires raster 
+bandwidth, tolerance 74 file(s) 2,761,089,474 bytes108 3,980,102,471 die 
+grid. mimesis original laughing every line other. 3 dir(s) 17,648,078,848 
+free2 17,648,082,944 circumscribed (i.e. longer fissured)." dirt, scars, 
+wounds, smears, smudges, scratches, abrasions, feces, there; without 
+scale, obliterated, forgotten; given break=throughs, toroi own skein, 
+represented markers situated nodes capture writing, carried social, 
+inhabitation construct skinned plays tumor, eruption, swelling. 
+theoretically else; background designed visual pleasure am dead read 
+alive. real, whose imaginaries, flat visually primates imitate, do 
+mocking-birds. come coagulat- scanning implies negation: scan(x) (x)(-x). 
+choice; say, my sufficient instance imagine: grid moment: send body-image 
+across earth. tokens sumer, elsewhere. fingers always already 
+enumerations, folded recalling riemannian geometry conceived sand, those 
+pebbles lascaux drive c label.dependent memory, transmission memory; 
+bird-songs cultural dently third eye smile, imitated; about theoretical 
+device uncomfortable skinning around increasing hairlessness. needs 
+infinite sensors; data interested ality) languaging; infant grows 'into' 
+language. equivalent ontological shift; body/works all; travel; pointing. 
+pointing, gestur- somehow a-cultural, abstracted event appear comical, 
+different, person miniscule don't anything 'more' necessary explain mon, 4 
+sep 2006, charles baldwin wrote response: considerable compression, 
+bodysphere production quaggy, constitutes mark token? anomaly become 
+contingent contiguous origin. too incisions, tatoos, suitable your only, 
+species within eternity. words, details which, us, create semblance works 
+characterize anomalous worlding internal, "one possible 'gesture' 
+direction markings acheulian certain animals faces tends memory 
+repetition/transmission, also sentience physique. spaces, crudely ing, 
+sounding, natural extracted, along attendant institutionalization, alone. 
+notice ragged; demarcation inscription? discrimination? subsequent close 
+to, hairlessness, gods things, readings, writings, bodies, slaves, 
+corpses, ape,' creates inscribable peirce's sheet assertion. authentic 
+problematic. choices pale. organized (one say linguistic regime commun- 
+trialectic among physico-inert world; measure; wrong, sign, drowning, 
+skinning-alive, gouging eyes, twisting laughing, crying, moaning, sighing 
+origin: relations crying. active process world, constructing worlds. 
+analyzed, role (it itself) features receptive (perhaps let us never forget 
+economics feasible, starvation- here. understand absence, must "it 'the 
+text'; 'a text body.' repetition any environment. sphere remnant, 
+penetrated. penetrated measure tally brought accountancy, flesh tasted, 
+stopping multiply-vibrating internally moment edge scan, presented 
+accompanying text, doubt brings ruler; _this_ where hunt, example, 
+_behind_ hill, perceiving _sign,_ off assert traveling grid, it. so, 
+inscription, "in constellation behaviours, repetitions, perceptual 
+stitching film quaggy mapped moves/motivates (tran thao) combination 
+world. already; photograph totalization, indecipherable; puns, undermining 
+transmissions arousals, forth. erasure. rulers, rulers detour anterior; 
+become; blown inhabitation. nakedness sexualizes, effaces, inscribes. 
+tions, pride joy, little baby girl boy, whatever survival value prior, 
+as-if everything read, readable, example) past originary. pebbles... 
+didn't arise fashion, branch; tool ancestry; near beginning, clout file 
+image, isn't camera. scans, simultaneously receives interesting movement 
+anomaly.
+
+reentment
+
+Do you hate your name as much as I hate mine? I can't stand to see it or 
+hear it pronounced. I can't look in a mirror either. What is wrong with 
+religious people? The world is bloated with fanaticism. 91.8 per cent of 
+this country believes in god and more than 75 per cent think their family 
+is going to heaven. Most people believe that god is wrathful. Just look at 
+any country and you'll find people thinking their religion is the only 
+true one. So much for the enlightenment; you'd think that simple compari- 
+son - not to mention the quantity of evil in the world - would tell them 
+something's wrong. Oh I forgot to mention I got trounced on nettime by 
+someone from the linguistics establish and he made sure everyone knew he 
+was from the establishment! And was grateful to know famous people! And 
+that made his theories right! His theories were bloody cog sci and struc- 
+tural stuff all over again. He didn't understand my point at all. But I 
+think he might be teaching! He's getting paid! And he's dead wrong! What 
+passes for theory alas doesn't hold beneath the glass. I'd write "under" 
+which is more accurate but the scansion is off. I'm at the Pittburgh air- 
+port and have spent five minutes not worried about going homeless. The 
+back of my head has this "hard" feeling. I read Gurdjieff on the plane: 
+good grief! His fictions sound like Olaf Stapleton and maybe both owe 
+something to theosophy. Of course they're correct; they'd have to be. But 
+you and I, we're not. http://www.asondheim.org/air24.jpg
+
+

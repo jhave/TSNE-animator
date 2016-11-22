@@ -1,0 +1,256 @@
+
+
+
+Net Art, Appropraton, n the Dsperson.
+
+
+apologze frst of all for a stupd essay whose themes go nowhere,
+whose letters take up space, but hardly on the order of someone beng
+bytten.
+
+'m stupd.
+
+To use the term "net art," am already appropratng a collocaton or
+syzygy of thought, a hstory of such thought. To consttute t from
+wthout, as for example, to consttute postmdernsm wthout reference
+to archtectural or artworld postmodernsm, creates the possblty of
+a _splay_ of practces, dscourses, functons.
+
+Stupd stupd.
+
+Such would be the case here, then, notng frst of all that net art s
+always already a dsperson, that s an absorpton of audence to be
+delvered from a varety of often ntmate locatons, nodes. That s,
+ds/play resdes nowhere; only the address, abstracted, references a
+concrete machne, protocols, paths, specfc fles, programs. For net
+art to be _ste specfc,_ a term often used, say, n 70s crtcsm,
+t need operate as an ntersttalty, an nserton n a seres of
+terms, pages, applcatons, or tmes - so that ts ste s generally
+constructed as a before and after - _ths_ effect followng (but not
+necessarly) _that,_ or _ths_ aspect of a program actvated - or
+_ths_ page affectng _that,_ and so forth.
+
+'m so stupd.
+
+Whatever poltcal economy there s wthn the dsperson s not deter- 
+mnatve, technologcal or otherwse; even to consder net art
+as a seres of practces overlooks the relatvely wde range of such.
+Java, f not javascrpt, for example, as a full language, s capable
+of dong what any language can do, that s, present ultmately (gven
+the bandwdth) any concevable audo-vsual event across the net; the
+rest depends on the recevng apparatus.
+
+There s always already the matter of governance, codes and nterfer-
+ences; f nsert an avatar nto a war program or sendmal confgura-
+ton fle, what results s on the surface a breakdown n transmsson,
+but also mght create a resdue or splatter, almost alve (bounced
+across or through the protocols) that can be presented, dssected, n
+no other fashon. So that there s a depth to the breakng or problem-
+atzng of codes (n the broadest sense), and, as wth tradtonal
+concept art, such a problematc may also be an experental or analyt-
+cal examnaton of the codes, ther poltcal economy, ther rasters,
+ther normatve and emergency modes of operatons.
+
+Blahblah.
+
+Remanng wthn the surface, say, of standard html codng, one can
+nonetheless construct web pages through tradtonal aesthetc or de-
+sgn approaches whch reflect the desres of the panter or desgner;
+ths s also net art, to the effect that t partcpates n the ds-
+person. On the other end of ths one-to-many stll-lfe presentaton,
+there are communtes, self-desgnng (MOOs for example) or consttu-
+ted largely wthn the pregven (lpMUDs for example), that nteract on
+a many-to-many dynamc foundaton; these mght also be consdered net
+art, as mght any desgnng work on any level of the net.
+
+A net artst would presumably be someone who works prmarly across
+the net, then (and by "net" refer to that dsperson of nterconnec-
+ted networks, the nternet - not mplyng that there s ether a tot-
+alty or that all such networks are accessble to all users) - n ths
+manner, the artst s defned by a splay of practces nvolvng, per-
+haps, computers and computer-transmssons.
+
+s ths net art, no, yes, maybe? Now wll not nterfere.
+
+want to emphasze dsperson (related to the concept of an "ems-
+son," a sourceless semotc spray of part-objects across the socal)
+and splay (a spread of technques, delveres, languages, protocols,
+programs, objects, part-objects, etc.) to emphasze, frst of all, the
+_suspenson_ (between transmtter and producer) that occurs n net
+art, and second of all, the relaton of net art to net communty, as
+n (net) art and (net) communty, snce t s well to remember both
+the hgh-speed changes n the net (so that art and communty develop)
+and the fact that a communty already has a broad range of subjects,
+objects, practces, processes, and habt - that net art s one compo-
+nent of the communty, perhaps nothng more.
+
+(But she wll be stupd stupd. She wll be poor and cannot afford her
+machne. She wll not have her machne. She wll be done wthout t. 
+She wll not have her net art. She wll have none of t. She wll be
+done wthout t.)
+
+But the hstory of the web, n fact, contradcts that, snce web com-
+muntes (and all others wthn the darknet - text-based older appl-
+catons of the net - as well) are _consttuted_ themselves, at least
+n part, from wthout; there are desgners and artsts nvolved n
+everythng from ThePalace to RC bots - there are aesthetc crtera
+as well nvolved (not that artsts or desgners necessarly have any-
+thng to do wth aesthetcs). Languages themselves - look at Perl (and
+for that matter, look at Perl poetry) - are the result of aesthetc,
+as well as pragmatc (syntactc, semantc) decsons; worlds are con-
+structed languages (even .jpg or .gf standards can be consdered bas-
+cally lngustc n nature). On ths level, all communtes, net art,
+avatars, phenomena on the net are _legble,_ well-defned, f not well
+understood, able to be comprehended by everyone. (For example kanj
+codng s legble to me, but not ts readng.) Whle ths sees obv-
+ous, t s well to remember that the habtus n everyday lfe s not
+so comprehendble, that the sgnfer leaks (across or through vsual
+or other _aura_), that such thngs as the materal culture of the book
+have not been gven the attenton they deserve. The body, too, s cen-
+tral to everyday habtus - n a way dfferent from on-screen phenomena
+whch are foreclosed. (For example, a MOO avatar exsts ndependently
+of the user who created t, often endng n the body bag when the user
+s off-lne. The avatar s well-defned wthn MOO programmng lang-
+uage, even f t nadvertently breaks or hacks that language.)
+
+(But she wll buld a new machne. She wll be done wth t. She wll have
+t, ths new machne. She wll have done wth t.)
+
+So that net art s legble, consttuted as such; t also oscllates
+(dependng on the aesthetcs and condtons of the work - ncludng
+the poltcal and fnancal economes at work) between eternty (n-
+fntely reproducble, safeguarded aganst decay) and ephemeralty
+(web pages come and go, are vulnerable to change from wthn or wth-
+out, vulnerable to the machnes that house them and ther mrrors -
+vulnerable n fact to servers, routers, and the whole apparatus of the
+net (ncludng the abandonment of earler languages and applcatons
+such as veronc, mm, and so forth). Net art can play wth these ssues
+and consequences of temporalty (wear-and-tear, changng admnstra-
+tons, even ncreased computer speeds whch render older games obso-
+lete as ther runnng speed ncreases beyond that of human bandwdth);
+these are factors that parallel, n hghly charged metaphorc ways,
+everyday lfe outsde the computer.
+
+Haha dd nterfere.
+
+Net art can, of course, also program metaphors for lfe (or anythng
+else) _wthn_ the computer, as everythng from the Elza program,
+Conway's Lfe, A, AL, etc. demonstrates. Net art can then be hghly
+process-orented, nteractve - and ths s a more common ground than
+gallery art, whch mght also be nteractve, but even now tends to-
+wards queter aesthetcs - n fact there s a whole aesthetcs of
+contemplaton wthn modernsm that remans at work. But net art s
+not _necessarly_ dynamc, even though on a techncal level t depends
+on a contnuous refreshng of the screen. (One mght say that net art
+s an enuncaton, that t s a dynamc sgnfcaton n ths regard -
+but ths mght be pushng the phenomenology nto the apparatus.)
+
+would say that the net tself has a tendency towards the real, by
+whch mean that as bandwdth ncreases, there s a trajectory to-
+wards a seamless vrtual realty of one or another sort, and that net
+art occupes postons wthn ths trajectory, n the sense of the
+openng of the "world of the work." ASCart for example no longer
+appears cuttng-edge, no matter how t s typed/cut; t has acheved
+the status of the trgnometrc, everythng solved. Newsgroups on the
+other hand - whch largely use ASC- such as alt.warlords or alt.-
+drty.whores or alt.adjectve.noun.verb.verb.verb, work wthn lang-
+uagng worlds that relate to concept art, oulpos, epstolary novels,
+and postmodern poetcs; the vrtual s constructed as n any lterary
+formaton, and tends to hold ts own (n the mdst of ncreased spam,
+however).
+
+(But she wll have net art. She wll do wth net art. She wll have
+net art on her new machne. She wll do wth her new machne, net
+art on her new machne. She wll do wth t.)
+
+So that f by "net art" one references, say, the vsual, n leu of or
+n addton to language/typng, there s a raster to consder, a ras-
+ter of ncreasng fneness and densty. And ths raster (here would
+also nclude ssues of language, downloadng, RAM, etc.) demands hgh-
+er bandwdths; there s a percolatng celng to the economy and class
+of the dsperson, then - ssues of haves and havenots appear, whch
+are dfferent from those rased by the gallery. Galleres are access-
+ble, presumably, to everyone; not everyone has a Pentum V or even an
+BM 286, or even relatvely free (.e. outsde of K12/U) access to
+these.
+
+Now wll not nterfere agan.
+
+Net art of course s net art, on and off the net; there are conferen-
+ces, off-lne publcatons, and so forth. One mght consder t as a
+dscursve formaton, much as vdeo art also dsperses/dsports tself
+across a varety of stes, all ultmately referencng the node of the
+apparatus tself. Net art tends towards manfestos, poltczaton;
+power seems everywhere and nowhere at all on the net, and there s the
+smple fact that every net address s adjacent, just a clck away,
+from every other, from government to anarchst commune. Everythng s
+equally close; t may be as easy to dsrupt power as t s to commun-
+cate wth a frend. The potental s always there; every ste tends
+towards the web page one s lookng at. Attenton sktters; surfng s
+a reasonable term for the frsson of surface phenomena and fetshza-
+ton that characterzes the web.
+
+(He wll love her new machne, her net art. He wll love her, she 
+wll love her net art, her new machne.)
+
+All of ths ponts, ths essay whch begns and then flounders, to-
+wards nothng; every sentence here s hopelessly nave, and every con-
+cluson, f there are any, s to be contested. have a desre to
+thnk through net art as nothng more or less than another dscursve
+formaton whch eerly parallels concept art - the same rgor, mys-
+tque, sense of "workng the culture," seems to apply. nstead of see-
+ng net art as a moment or n transton, t develops through the same
+sorts of nsttutons (museums, galleres, unverstes, syndcates)
+that art always has. The dfference s n the potental varety, ds-
+play, splay, dsperson - all these terms sgnallng an exhauston of
+praxs tself, as praxs forecloses aganst exhauston. There s often
+lttle play or the relatve nformalty of hackng; there s a great
+deal of asserton. Ths reflects the condton of contemporary art,
+whch always has to assert tself for more than appearance's sake; n
+a deep sense, at least n north amerca, no one takes t serously.
+
+(She s not stupd on her new machne.)
+
+The essay flounders, though, snce ths contrbutes nothng as well.
+'d say 'd want to lve n such and such a communty, but wouldn't
+want to desgn t. 'd say, there are spaces openng wth delght
+everywhere and the messah s seven years old and wll be taken up
+after death by others. 'd say, of course, that there s none such,
+just as there sn't a node or vector, just as the net through the
+densty of raster ncrasngly terns towards the membrane, whch 
+hopelessly don't see becomng sentent anytme soon. nstead, t
+parallels the rest of the culture, foreclosng, spreadng, breakng
+nto peces, collapsng, coagulatng, as f there were a presence or
+presences behnd the nodes.
+
+(She does her net art on her new machne and s t not stupd on her
+new machne. He loves her new machne.)
+recognze 'm stupd. 'm wrtng ths on the way to Sngapore on
+the way to Sydney. 'm now wrtng ths n Sngapore. Ths nert body
+travels at hgh speed just to be the beng whch s _gettng any-
+where,_ on the net (here) n Sngapore whch connects fne to gol.com
+n Fukuoka, more stutterng to panx.com n New York. But recognze
+'m stupd, the hurtlng body doesn't make a dfference, or the df-
+ference t makes s n the text, whch s always already foreclosed,
+always n a state of suspenson, md-ar, although there are other
+bodes as f knockng on the net through forms of representaton, the
+Zapatstas among them. All of these practces nteract and hear and
+see them whch s a form of readng them. can't con neologsms,
+nsert the "." nto net.art as f there were a break or accomplshment
+by the presence of punctuaton. That s the fault of my age.
+
+'m not 'd say stupd here.
+
+'d say, here 'd tell you more about myself, as the essay begns to
+decay from a poston t never had. But won't do that ether; t
+would be words, such as mltary, amanuenss, gothc. t would be
+tal-endngs such as .txt, .jpg, .cfg, .dll, .net. t would never be
+.art. t would never go anywhere, but be flled wth the haphazardness
+of everyday lfe. t would be lke what goes on before people get hold
+of t and turn t nto a coagulaton, chapter-headngs, the true-real
+lst of potentals. 'd say t's a hurtlng body. dspersed, splayed,
+played, spurted, emtted. t's say t's a _luge._
+
+(She drves the two-man luge.)
+
+

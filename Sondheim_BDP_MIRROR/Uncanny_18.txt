@@ -1,0 +1,24 @@
+
+Subject: Modernization
+
+I want to add a final spin on the MOO/talker material I sent out tonight.
+In The Homeless Mind, a now classic text from 1973, the Bergers and Kell-
+ner describe the concept of _packages_ which carry modernization and (my
+interpretation) the ideology of capital into regions where they might
+prove highly problematic. The use of stripped-down MOOs and talkers, how-
+ever, could conceivably create the opposite - that is, communication
+environments which would be easily tailored to local custom and needs.
+While the computer itself is disruptive, the simplified command struc-
+tures might reflect, not universals, but relatively common modes of
+speaking and writing elsewhere. Obviously, literacy and the use of alpha-
+betic script is necessary - voice recognition is still relatively pri-
+mitive. But given these two requirements, plus intermittent phonelines
+and sufficient electricity for a central server, there's no reason why
+these systems wouldn't appear relatively uncontaminated and open.
+
+Obviously, I'm being overly-optimistic here; I admit that. But I like the
+vision of a lowest-common-denominator CMC - particularly since the Web is
+becoming _SO_ overloaded in terms of corporate development, the presence
+of advertising at every step, "name brands" such as Netscape, and hier-
+archies of users based on the machines they're able to afford.
+

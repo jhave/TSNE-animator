@@ -1,0 +1,13 @@
+=
+
+6       pico -w biogsort.txt
+7       cp biogsort.txt biogsort.old
+9       pico newline.sed
+10      pico biogsort.old
+11      sort biogsort.txt > biogsort.old
+15      cp biogsort.old biogsort.txt
+17      pico newline.sed
+18      sed 's/$/ \
+        /g'< biogsort.txt > biog.txt
+19      pico biog.txt
+

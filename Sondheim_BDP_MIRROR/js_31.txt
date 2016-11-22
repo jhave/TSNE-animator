@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+/usr/games/bcd Jennifer, > zz; /usr/games/bcd trapped >> zz
+
+The bcd program reflects the punched-card environment of older machines,
+and is employed here for similar purposes as ppt.
+
+ 

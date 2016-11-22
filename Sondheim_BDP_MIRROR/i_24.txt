@@ -1,0 +1,70 @@
+
+
+
+
+
+
+Internet Questions
+
+
+
+Where can I find an mpeg viewer that doesn't require a videoboard? Are
+
+soundboards really necessary for all audio applications? Is Eudora
+
+superior to Pine or the other way around? Why doesn't the Pico editor
+
+allow me to jump to the end of a file? Is there any reason to download
+
+linux to a home computer? What's a good telnet application for Trumpet
+
+Winsock? Where does the name Trumpet Winsock come from? What is the
+
+difference in download time for Mosaic and Netscape? What is the
+
+difference between Netscape 1.1 and 1.2 beta? What is an AVI file and are
+
+there AVI readers and if so, can they run without a videoboard? Does
+
+anyone know the current legal status of gif? Is there a way to move into
+
+the interior of a gif file and edit it directly? Can someone recommend a
+
+decent uuencoder and uudecoder for DOS? 
+
+
+
+Internet Securities
+
+
+
+I worry about the tenuous nature of email lists in relation to the invest-
+
+ment made in them by numerous subscribers. For this reason, I think it
+
+worthwhile that all of us download the subscriber lists every so often, so
+
+that if there is a disk crash or the necessity of setting up elsewhere,
+
+the list could be reconstituted. To obtain the list, of course, write to
+
+majordomo@jefferson.village.virginia.edu and say, in the body of the post,
+
+who cybermind or who fiction-of-philosophy; once you have the list,
+
+download and save. If the list goes down permanently, in the event of war
+
+or other international catastrophe, create an alias file in your address-
+
+book, and place the list there; enter it at the Bcc: option when sending 
+
+out a post. To access Bcc: in Pine, when your cursor is in the header, 
+
+type ^R, control-R and the rich-header will appear. Although it may 
+
+appear that I am being facetious, I have learned in my short life not to 
+
+trust the world.
+
+
+

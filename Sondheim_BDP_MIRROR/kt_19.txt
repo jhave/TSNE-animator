@@ -1,0 +1,51 @@
+
+
+
+
+Relay
+
+
+On the base: Pat. May 7, 1895. On the rocker arm: J. H. Bunnell & Co. New
+York, U.S.A. On the hinge structure: Pat. Applied For. This is a late
+nineteenth-century telegraph relay with two opposing electromagnetic
+coils, and three adjustment points for the rocker arm. Current through the
+coils results in a movement of the arm; this can be used either for audi-
+ble readout (clicks) or further amplification - wiring second junctions
+across the first, making and breaking a second otherwise independent cir-
+cuit. (But the second junctions aren't there, and this is, in fact, a tel-
+egraph _receiver,_ ready for mounting on a soundboard.) (Nevertheless, we
+create a circuit here, bypassing the audible for the relay, returning only
+later to the human at the other end of the line, receiving the message
+from the lady in the _hat._)
+
+Note the _double linkages_ here (in terms of the model proposed of s/ms as
+controlling mouths and receptacles). Remember a linkage is such that if a
+-> a', then ab -> a'b' and a coupling is such that ab -> a'b, much looser.
+Then clearly linkages are at work, two such that, given ab and cd, then a
+-> a' results in a'b' and c'd' - but this is non-symmetric since c -> c'
+results in ab and c'd'. In other words, in a relay, the former terms are
+linked to the latter, but the latter are coupled to the former. Therefore,
+let ab = A and cd = C; consider AC. Then A -> A' results in A'C' but C ->
+C' results in AC'. Note that A' can reference a'b, ab', or a'b' - _any_
+change in any of the components; the same for C' of course.
+
+The phenomenology of the relay is worth study; think of it as a control
+gate, such as one might find in a computer, or any threshold device. I
+think of two domains, ignorant of one another, A and C. The A domain is
+the control; it cannot recognize C, which is not within its horizon - and
+vice versa. As A moves, it moves in ignorance as well, the consequences of
+its actions invisible to it. C, on the other hand, moves but is also moved
+- controlled by A. C understands the fate of the world is not even chao-
+tic, but _random_ - its domain is arbitrarily inscribed by invisible forc-
+es. A "C-s," and C is "A-ed"; C is reduced to a state of paranoia, A to a
+state of omnipotence. But omnipotence in regard to what domains? And para-
+noia in regard to what agents? Both perceive through relative cauteriza-
+tions, broken perception: A knows it is capable of _anything,_ and C knows
+it is capable of _nothing._ The telegrapher of course knows none of this;
+he is bound by capital, and binds A first and foremost - A, the initial
+carrier of messages. A's omnipotence is only local; C, further down the
+line, becomes the A(C) for another C(C) and so forth. Everything is in its
+place, guaranteeing the transmission of the message. As for the telegraph-
+er - it is not his message, but that of the lady in the _hat._
+ 
+

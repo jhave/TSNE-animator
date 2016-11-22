@@ -1,0 +1,9 @@
+|
+
+General footnote - It is unclear at this time as well whether artificial
+intelligence _necessarily_ implies silicon (i.e. ULSI) based entities,
+since there are already attempts to implement biologically-based neural
+networks. This work will eventually lead to a merging of organic and in-
+organic modeling, in which case the notion that intelligence must be "bio-
+logical" becomes moot. 
+

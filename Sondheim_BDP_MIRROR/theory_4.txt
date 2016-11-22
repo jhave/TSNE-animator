@@ -1,0 +1,1441 @@
+
+
+The history of radio is merged with the history of the electromagnetic, 
+and given the movement towards packet and protocol, it is interesting to 
+observe a movement from externality to internality, from brass spheres 
+through the Wimhurst generator, from the crystal detector through the 
+audion. Within the audion, and early triode, the filament glow was 
+visible, an electronic hearth boiling off electrons. This was the analogic 
+pulse of vacuum-tube radio, a pulse of light and heat and the quietest of 
+sounds still sought by rock guitarists and audiophiles alike. Transistors 
+internalized current into the literal black-box, and integrated circuits 
+and circuit boards eliminated almost all of the hand-wiring. With the 
+digital, the unit becomes tight, compact, although as always, still hack- 
+able; repairs are another matter. The analog was a transitive filter, 
+passing along the cosmos within rough bandwidth; the digital is active 
+sampling. The transparency of the analog was reflected in the transparency 
+of the radios themselves (capacitors and transformers etc. notwithstand- 
+ing); the opaqueness of the digital, the complexity of the protocols and 
+their arbitrariness, is reflected in the opaqueness of CPUs. It's both 
+ironic and fascinating that mod cases now bring the hearth-glow back into 
+the heart of the machine, with lights that do nothing but illuminate 
+silent circuitry. We still believe we are among beings; we always will, 
+and that is part and parcel of our cosmic reach, no matter how mediated it 
+becomes. The mistake is to take the mediation and machinic for things 
+themselves; certainly, on the level of _object,_ and certainly not on the 
+level of _function._ We design within the imminence of potential wells, 
+both analog and digital; otherwise we would never hear a thing.
+
+
+The Pain of the World, is there any?
+
+
+If I write this poem to you, is it literal?
+The sky closes over it, but does it?
+The world's fury kills us all, but can it?
+Nature is as violent as ever.
+There is no justice in the world for strays, weeds, vermin,
+whatever we call what we don't want. That is true.
+Humans are strays, weeds, vermin, one to another, but are they?
+I would see them dead, I would see the President dead, but will I?
+I am frightened. Every night I dream of crashes, plane or car,
+or just human against human. That is true. The violence wakens me.
+Outside, people are doing nothing in particular, but are they?
+The animals here lead delicate lives. Snake, frog, and cat are
+rescued, everything hides in fear, but does it?
+This year, the world totters on the brink of catastrophe. It does
+not, the world does not totter, the earth pushes back like a plate, 
+but does it?
+I walk across the earth and it pushes under me.
+It pushes harder, I think, but I may be wrong.
+The dead are on the earth, then under then no more, but are they?
+The dead claw up, but do they?
+Transformed into oil, gas, diesel, but are they, they drive our
+big cars, but do they?
+The literature of pain is painful, but is it?
+Designed to withstand suicide, it totters, but does it?
+Does literature totter? The world does not.
+
+
+
+Confusion of the Split
+
+
+I keep searching for the _split_ everywhere, the appearance of the 
+discrete which can, but must not, be rendered impotent / futile. There are 
+dyadic theories - Laing, some communications theory, but these specify 
+resonances among entities that need not be clearly defined. There is the 
+ontological theory of quantum mechanics, in which electrons _are_ 
+particles, in which the real is relatively grounded. There are theories 
+beyond theories, theories I can't hope to understand, matrices of 
+theories. There is everyday behavior among the signs and sign-systems of 
+the world, and all of the sign-systems are far more culturally ideogram- 
+matic, non-system / culturally founded, than first appearance indicates.
+
+The digital lies _either_ in fabrication or one-on-one codes, or deeper, 
+on the quantum level. 
+
+Let us at least momentarily call it the discrete. Perhaps a distinction 
+can be made - _digital_ technology, but _discrete_ as epistemological (and 
+perhaps ontological) split.
+
+The discrete is characterized by its lack of continuity with the analog.
+A spike, fold catastrophe, wave function collapse, are, perhaps discrete.
+
+A digital recording, for example, a CD, is discrete only in relation to 
+the potential wells of conventionally-bound domains. A CD is analogic as 
+an object; the 0s and 1s _resolve._ However, given a decoding/playback, 
+the hills and valleys _register_ as 0s and 1s. The sound transforms back 
+into the analogic through the playback system (speaker, earphone, etc.).
+
+The registration of the 0s and 1s are dependent upon an conventionally- 
+adopted _protocol._ We've been over this territory. The protocol appears 
+_real_ although it functions only in relation to specific technology.
+
+The coding is discrete on an ideal level; the signals themselves have 
+onset and trailing. But within the given potential well of the technology, 
+they _read_ as discrete.
+
+Your money or your life: discrete, yes, or no; it veers. -money = +life, 
+but (+money = -life) = -money. Life is an _entanglement._
+
+All choices are braided, contingent, contiguous. The the discrete is 
+always a barrier.
+
+A vast distinction must be made between discrete _codes_ which are 
+designed conventionally systemic, and what might be termed the _external 
+discrete,_ i.e. stochastic, an appearance, unplanned-for. The difference 
+between a digital CD and particle decay. This is the fundamental 
+difference; one we construct with what is given to us, the other is given
+to us.
+
+I would think that the digital/constructed barrier can always be circum- 
+vented; the discrete of the world, however, like the analogic, is _just 
+that._
+
+==
+
+(In relation to _ideality,_ the discrete is simpler; any given integer, 
+for example is E or -E, even or not-even. If the integer ends on {02468}, 
+it's even. The sets E and -E are complementary, discrete; their inter- 
+section is the null set, and their union constitutes the set of all 
+integers. On the other hand, in non-ideal life, the life-forms of the 
+every-day world, there may be for example a number of plums which are 
+neither odd nor even - for example, pluots may or may not be included, 
+hybrids may veer off, partially-eaten plums, seeds, etc., all form fuzzy 
+cases.
+
+(Now with the plums, let us open a distribution center: It is then 
+economically necessary to count plums. The raster/protocol is created, the 
+result is a digital screening.))
+
+Discrete < on and off | 0 and 1 | other sign and other sign > Digital 
+implementation.
+
+In this scheme, the protocol is scheme / noise within the system:
+
+[Referent | operative field] < Implementation > Digital mapping
+....^..............^..................^.................^..........
+0-resonance|boundary delineation|protocol-parasite|machinic display
+(idiotic)   (circumscription)   (cultural convention)   (economy)
+
+(On and on and on... stumbling into science, realms of ignorance.)
+
+
+
+
+Location,Collocation
+
+known or relevant. Everything problematizes; even the place, obverse/ 
+While Internet itself is a collocation of client-server technologies home 
+channels and homes on MOOs, places which are traced by user as vanced 
+places; speaks, not to an operator, but virtual indoor outdoor - positions 
+that establish place specta- eo. So spill garners weight. 
+
+altera- This memory. It's atoms there paper. Your location another. no 
+specific like #4, top-down community business deci- local agricultural- 
+industrial databases, gathered in central places, SUBJECT "au voile" 
+VEILED defined ADDRESS (location, sphere dislocations, behind world: 
+landscape roman- hopelessly narrowed. Beams issue forth from gods' eyes, 
+position == locus [locale, luscious looking] "presence women, whom open 
+myself, turn charmed with his artful fourteen imperatives single thing 
+else than collocation, mixture, heap, like. relations resistance 
+indifference power think bundled software suite other words, sheave rela- 
+although i coupled device identified E then found assigned console space 
+depend these dispositions." (Bourdieu) perhaps even, conflagration, 
+notices. 10-20 My is: city university known, _exact_ usually isn't.
+
+ Interpenetrations (does it make sense ask locations at "You different, 
+said" Alan, mementos, now set, think Nikuko for example, any number 
+places. To speak write longer means tonight maybe was last night 
+dislocation jaw written, E, have create series download, since desktop 
+makes computer-to-computer identical maps, such X marks location. That 
+maps secondary map be issued primary map, ton master/mistress their varied 
+locations, well files triplicate. loose, linkages difference between What 
+mean am machine? Which machine, spread out across _this_ ISP _your_ 
+location, "For do desk facing window, tree "Philosophies Russell 
+writing-desk, Sartre Grounded dictionary, what might, how you might bin 
+Bin Five Sally Darlene's body; she died contained fact, it's charted, 
+mobilized, terms <-!- "Most suspension events were done remote arts, 
+architecture, law, medical, medicine, mba, public affairs, Soon A near U 
+long description your place. You standing end At feet all water stream 
+splashes into forest, deep destroyed shifted because Collocation-of-Stars 
+ulcollocations -- gmentary accumulations amarginal phenomena best thought 
+process thinking kind jabber- ing jabbering tors_ drowning speech, proper 
+names, narratives. Philosoph- can help me, transform word symptom violent 
+sky :: horses too FLASH : mail taken nudes, incriminating evidence, 
+powders naked bodies, more inscriptive apparatus search metric established 
+Origin, phallus. strategic game, i.e. played out" alligators, 
+female-female, male|male, {young}. later accumulation
+
+interspersions. capable meta-level collocations, definable definable, data 
+spherical transmission /location. skins expand backward Cartesian 
+coordinates. Coordinates feed flesh suppurating body daddy-daddy galleries 
+:cutting < daddy-mommy > daddy-mommy-daddy first black hole w/ g furious 
+wronging!  plasma, particles disruptions collusion/collocation little 
+matter time left, heavy rock, image-real impres together equivalent 
+different locations. look instantiation residue file. file We lived part 
+called operators filters, cosmos filters fractal collocations moved back 
+again. exited preallocations equifrequently declaims SUBLIMINAL p Filmed 
+Genevive Tokyo. duplicated_collocation internettext_collection_collocation 
+writing epitaphs. Nikuko's holarchy teleologies halfgroupoid valium rills 
+self, absolutely "the body, _distinguish_ brain, shores body. chasms 
+untoward epitaphic waters cannot mind, written tsunami stimuli, transmuted 
+retinal imminent 311 fire I'm letting down, reviews aren't correlation.' 
+Code system (not necessarily same) arbitrary origin. they're palimpsest, 
+indelible formulas, present eternal chatteringsdeconstruct site spectator. 
+machine% body-in-pain, o k netwo image. within andimage; "knowing memb 
+ane. oneself"; always means: knowledge not, becoming less ess, y. T
+
+grep -h location ??.txt > zz
+sed 's/ location/ place/g' zz > yy
+strings yy > zz
+pico zz
+wc zz
+perl a/eliminate.pl < zz > yy
+
+The location is _unique._ The collocation is _unique._
+
+
+_
+
+
+an accident waiting to happen
+a hospitable call for help
+
+the analog vibration meter responds to perhaps .1 hz through 1000 hz. 
+the wall is scarred with crashes
+
+black rubber designates histories of pain and suffering
+the convulsive body flees the automobile
+
+the world is a silent film
+only you know how to make it speak
+you are making yourself speak
+i am tired of saying this
+
+
+In lieu of book or interview - a summing-up:
+
+
+My work deals with the relationship of consciousness to the world 
+vis-a-vis the mediation of problematic and 'dirty' symbolic domains.
+
+My work deals with the wonder of the world as new bandwidths, vistas, 
+histories and geographies, are made available.
+
+My work deals with the problems of foundations, Absolute, primordial, 
+originary, in terms of debris and scattering.
+
+My work is a continuous dialog, itself scattered among distributions.
+
+My work evades biography, diary, autobiography, the anecdotal, whilst 
+plunging into the simulacra of personal narratives.
+
+My work exceeds itself, resonates with itself, with others; the others 
+inhabit my work which curls around fictivity.
+
+My work is my obsession, to an unhealthy degree; however, when filled with 
+despair, there are moments of exaltation as distant shores are glimpsed.
+
+My work is fearful of being found out; it is worried close to death.
+
+My work is a stripping away of irrelevance; my back to the wall, I inhabit 
+the world.
+
+My work is a constant meditation on the world, on its diffuseness, its 
+encapsulations, circumlocutions, circumscriptions.
+
+My work has pretensions towards the philosophical and the scientific; I 
+strip my work away from my work as well.
+
+My work touches language, body, and sexuality, all in relation of an inert 
+real.
+
+My work insists on the fragility of the good, of stasis, of permanence; it 
+embraces the plasma, is swallowed by holocaust, dissolves in detritus.
+
+My work covers the same ground repeatedly.
+
+My work is simultaneously excess and denudation, artifice and natural 
+deployment, ornament and structure, text and subtext, suture and wound.
+
+My work is simultaneously hypothesis and hypothetical, a proffering or 
+wager.
+
+My work inscribes my work, deconstructing inscription and the walls 
+surrounding the Torah.
+
+My work hedges and devours death; I work furiously, death will allow even 
+this and one other final flourish.
+
+My work penetrates to the state of inversion; what is negative, is 
+positive, and what is positive, negative.
+
+My work is based on the fissure, not the inscription; it is based on 
+substance, not dyad, on ruptured continuities, not positives and 
+negatives.
+
+My work is a collapsed ecstatic; my work is a collapsed aesthetic.
+
+My work presses the systemic until it breaks; my work is a broken work, 
+construing breakage, irruption of subtext into text, symbolic into 
+subtext, substance into symbolic; my work breaks the inscriptive chain 
+itself.
+
+My work carries equivalence across media, genidentity across protocols and 
+virtualities, sexualities across avatars and bodies, politics into the 
+flesh-heart and ideological strangulation.
+
+My work is discontinuous on the surface, tending towards stylistic 
+extremes.
+
+My work explores epistemologically and ontologically shifted bandwidths; 
+my work brings the uttermost into the vicinity.
+
+My work explores the desperate exigencies of the flesh, the shock-tactics 
+of annihilation-creation, the degeneration of generators.
+
+My work tends towards the unaccountable, the unaccounted-for; my work 
+emphasizes the inconceivable.
+
+My work inhabits originary past and indeterminate future, locating the 
+plasma at the former, and the final outpost of substance at the latter.
+
+My work runs from wavelengths universe-spanning to particle wave-lengths, 
+listening everywhere; my work is a reporting from the limits.
+
+My work inhales information-annihilation, being-annihilation, its own 
+absence and every other.
+
+My work inflates, exhausts; I have a desperate relation to my work; I tend 
+my work in the meager hopes of its survival beyond me.
+
+My work is its own; my work is centered in the dissipated locus of the 
+histories of the self; my work is beyond my work.
+
+My work occurs within non-aristotelian logics, within logics of non- 
+distributivity; my work occurs within dusts and radiations; my work exists 
+in relation to the death of the symbolic.
+
+My work decodes my work; my work brings the code of work, the code of 
+labor, to the surface.
+
+My work is codework, operational research for the flesh; my work abjures 
+absolute frameworks, definitive infinities.
+
+My work explores the inaccessibly high-finite, the inaccessibly low- 
+finite, numeric flux dissolution into physical-material real.
+
+My work is the future of philosophy, the future of intellectual work, of 
+the propriety of the intellectual; my work is the afterthought of the 
+past, the afterthought of the future, the thought of thought and its 
+draining.
+
+'My work' or 'my work' but one may say '*' in lieu of the phrase; my work 
+is a place-holder, shifter.
+
+My work is neither this nor that; my work is not both this or that; my 
+work is vulnerable.
+
+My work is analog-stumble, digital clarification; the real is inescapable 
+and production is discrete; my work is never done.
+
+My work is trauma-therapeutic; my work is beyond that, bypasses that, 
+circumvents that; my work is unconscious, of the dream of the real, of the 
+dream of a real; my work stands on its own, ignores me; my work is in 
+spite of me; my work is a collocation; my work circumscribe confusion; my 
+work is insistent; my work is philosophy in the highest and lowest degree; 
+my work is the world's unconscious; my work is the true world of the 
+dissipation of worlds, of the imminence and immanence of death; my work is 
+a bulwark and a fiction; my work is non-fiction, languorous; my work is 
+neurasthenic; my work is the neurosis of the world; my work is never 
+done.
+
+
+_
+
+
+State of new media from strawberry fields forever -
+
+The work I'm doing isn't much different from the work you're doing.
+It will disappear when the net goes down or when it's no longer tended.
+Nobody tends things forever.
+It's amazingly ephemeral; there's nothing to it; it's stillborn, passed
+in email or on a website, that's all.
+It's not as if we're contributing to the well-being of humanity; the
+idea that art makes any sort of social or political difference is long
+outmoded, repeatedly proven wrong.
+We're not even making paintings which have a modicum of a chance of
+survival, 'being as how' they're concrete, inert, almost idiotic things
+(in the sense of Rosset or Sartre).
+Certainly we haven't made any contribution to physical theory or the
+sciences in general, and our work is rarely entertaining.
+At our performances and readings, only the rest of us show up.
+The 'culture' such as it is, follows mass media, corporate distribution
+systems, subtended radicalities; the best one hopes for is museum
+sponsorship.
+We've saved no one's lives through our art - turn the machine off, and
+we're pretty much done for.
+We engage in outmoded theories, bouncing one theorist off another, as if
+any of it mattered in the universe at large.
+We work through fast-forward intellectual fashions, situations in which
+phenomenology, existentialism, postmodernism, deconstruction, and so forth
+- name your 'movement,' name your theorist - are considered outmoded, as
+if philosophy had advanced since Heraclitus.
+We ignore scientific theory, or borrow from it, on a simplistic or meta-
+phoric level, as a form of legitimation, as if we're somehow connected
+with scientific 'advances.'
+We confuse science with technology, substituting cleverness for any real
+disciplinary understanding, in fields ranging from psychoanalysis through
+physics.
+Our theoretical work is written as if it somehow matters, somehow says
+something about the world, which we hardly understand.
+We substitute cultural politics for political action and depth; we ignore
+war or illustrate it.
+We entertain ourselves endlessly, as if our work had nothing to do with
+entertainment (some might call us failed comedians, novelists, what have
+you, substituting surface transformations for that hypothetical depth that
+seems to infest the canon).
+I am guilty of all of the above.
+We go on and on and on...
+
+
+
+
+INTERNATIONAL CODE OF SIGNALS and Level Intermingling
+
+
+INTERNATIONAL CODE OF SIGNALS (AMERICAN EDITION) VOL 2. - VISUAL 1931,
+UNITED STATES NAVY DEPARTMENT HYDROGRAPHIC OFFICE
+
+I've been poring over this book, which presents signals by sound, flag, 
+semaphore, morse, and flashing light. Each medium has similar problems:
+1 How to accommodate other languages than English (which is the 
+default); 2 How to distinguish code from meta-code. 
+
+In terms of the latter, for example, the International Flags and 
+Pennants, are the following:
+
+Afirm, Baker, Cast, Dog, Easy, Fox, George, Hypo, Int, Jig, King, Love, 
+Mike, Negat, Option, Prep, Queen, Roger, Sail, Tare, Unit, Victor, 
+Gillian, Xray, Yoke, and Zed; 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. But there 
+are also Repeaters: 1st Repeat, 2nd Repeat, and 3rd Repeat; and a CODE 
+or answering pennant (red and white vertical stripes). 
+
+So that for example:
+
+Art. 69. When several flag hoists are displayed simultaneously they are 
+to be read in the following order: (a) Masthead, (b) Triatic stay, (c) 
+Starboard yardarm, (d) Port yardarm.
+
+Art. 70. When more groups than one are shown on the same halyard, they 
+must be separated by the tackline and be read in the numerical order of 
+their superiority.
+
+Physical support, meta-symbol, symbol, and image/imaginary intertwine.
+
+Art. 78. Similarly, if she [the ship] can distinguish the signal but 
+can not _understand the purport_ of it, she should hoist the 
+appropriate signal VB, signifying, "Signal is not understood though 
+flags are distinguished."
+
+The Use of Substitutes (Repeaters)
+
+Art. 79. The use of substitutes is to enable the same signal flag to be 
+repeated one or more times in the same group while still only carrying 
+one set of flags. For instance, it is obvious that without substitutes 
+such a group as AAA or 1000 could only be made if three sets of signal 
+flags were carried. By the use, however, of three additional signal 
+flags, called substitutes (named first, second, and third substitutes 
+respectively), any 2, 3, or 4 letter group can be hoisted by means of 
+a single set of flags.
+
+How to Spell
+
+Art. 86. Names in the text of a message which is being signaled by 
+flags are to be spelled out by means of the alphabetical signals which 
+consist of--
+
+Answering pennant over E (Alphabetical signal No. 1.) Indicates that 
+until alphabetical signal No. 3 is made, the letters following do not 
+represent signals from the code, but represent the letters of the 
+alphabet spelling a word.
+
+Answering pennant over F (Alphabetical signal No. 2.) Indicates the end 
+of a word being spelled or the dot between initials.
+
+Answering pennant over G (Alphabetical signal No. 3.) Indicates that 
+the spelling of words is completed, and that the signals which follow 
+are to be looked up in the code in the usual manner.
+
+In Morse Signaling, beyond the Alphabet, Numerals, and Punctuation, 
+there are Procedure Signals and Signs:
+
+Call for unknown ship and general call - AA AA .- .-   .- .-
+Answering sign - TTTTTTTTTTT... ---------...
+Space sign - II ..   ..
+Break Sign - BT -...-
+Erase sign - EEEEEEEEE... ..........
+Repeat Sign - UD ..--..
+...
+Repeat word or group before WB .-- -...
+Ending sign - AR .-.-.
+From - De -.. .
+You are correct - C -.-.
+Repeat back - G --.
+Message received - R .-.
+Word (plain language) received T -
+I am unable to read your message owing to light not being properly 
+trained or light burning badly - W .--
+International Code groups follow - PRB .--. .-. -...
+
+Semaphore Alphabet signaling consists of the following:
+
+A, B, C (answering sign), D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, 
+S, T, U, V, W, X, Y, Z, ATTENTION, BREAK
+
+The _Signal Code_ itself is complex - 1, 2, and 3 letter combinations 
+for content, 4 letter combinations for location (i.e. AODR = Cape 
+Sacratif) and name (i.e. ship name).
+
+The _content_ is based on an alphabetical listing of English phrases 
+equated with the letter combinations, both in _independent alphabetical 
+order._
+
+Single letter signals are used for primary communication and begin:
+
+A - I am undergoing a speed trial.
+B - I am taking in or discharging explosive.
+C - Yes (affirmative).
+D - Keep clear of me - I am maneuvering with difficulty.
+
+and so forth.
+
+Double letter signals are based on major _alphabetical thematic 
+content_ - for example the first several themes are:
+
+ABANDON
+ACCIDENT
+AFLOAT AND AGROUND
+AIRCRAFT
+
+and the last several themes are:
+
+WEIGHING
+WHISTLE OR SIREN
+WIND
+
+So for example:
+
+WHISTLE OR SIREN
+
+ZK - I shall signal with whistle or siren during fog.
+ZL - You should sound whistle or siren at intervals.
+
+WIND
+
+ZM - Direction and force of wind is.
+ZN - What is the wind direction and force?
+ZO - I am dazzled by your searchlight,s; douse or lift it, them.
+
+The three letter codes begin with numerous lists:
+
+Points of the compass:
+
+NNE - JUQ
+NE by N - JUO
+NE - JUM
+
+Points:
+
+ABH - 2 points on the starboard bow.
+ABI - 3 points on the starboard bow.
+
+Degrees:
+
+ACA - 60 degrees to starboard
+ACB - 70 degrees to starboard
+
+Standard Times:
+
+ACS - + 9 Japanese central.
+ACT - + 8 Chinese (Japanese western).
+ACU - + 7 Straits Settlements
+
+and so forth. Grammatical meta-symbols:
+
+ADW (An order); AEW Do not; ADX I (do); AEY (He, she, or it, does not);
+
+AFW do I?; AGG Did I? etc. - all followed by the proper verb.
+
+Punctuation:
+
+AGQ - Period (FULL STOP).
+AGR - QUESTION mark?
+AGS - The following is in PLAIN LANGUAGE.
+AGT - The following is a REQUEST.
+AGU - The following is ADVICE or a SUGGESTION.
+
+and so forth.
+
+The GENERAL VOCABULARY proper is doubly alphabetized. For example:
+
+...
+LTV - QUESTION, s (Interrogate, ion).
+Questioning - Am, Is, Are.
+LTW - Questioned - Has, have, ing.
+LTX - QUICK, ly, ness.
+LTY - As quickly as possible.
+LTZ - Too quick, ly, for, to.
+LUA - QUICKEST, The.
+LUB - QUICKSAND,s.
+LUC - QUIET, ly, ness.
+LUD - QUININE.
+LUE - QUINSY.
+LUF - QUITE
+LUG - R., RACE
+Race,s (Tide race) - RLJ
+LUH - Race,s (Propellers, Engines, etc.).
+Racing - Is, Are.
+LUE - Raced - Has, Have, ing.
+LUJ - Radiator,s (Cooling).
+LUK - RADICAL, ly.
+LUL - RADIO,s.
+Radioing - Am, Is, Are.
+LUM - By radio.
+Operator,s - KEO
+Receiver,s - MAB
+Transmitter,s - PHU
+Radio apparatus - BCP
+LUN - Radio direction finder,s.
+LUO - Fitted with radio - Am, Is, Are.
+LUP - Not fitted with radio - Am, Is, Are.
+...
+
+This double-indexing depends, with the triplets, on strict dictionary 
+ordering; and, with the referent, on SUBJECT / examples in dictionary 
+form. There is no implicit link between signifier and signified; for 
+example:
+
+NSD - SOS. (Interestingly, the SOS triplet is omitted.)
+
+After the triplets, the book presents a DECODE section, which contains 
+additional symbols useful for "decoding messages from ships or stations 
+not using the English edition." For example:
+
+SPP Dressing, a (Surgical).
+SPQ The least.
+SPR Last month.
+SPS Half way.
+
+These would be used by an English speaker working with incoming partly
+in another language.
+
+So far we are only dealing with a. English language and b. standardized 
+punctuation. It should be noted in terms of the latter, for example:
+
+Art. 147. There is no equivalent of the apostrophe "s" (possessive) in 
+most foreign languages, and it has, therefore, been omitted from the 
+code. The possessive sense must be expressed by means of the possessive 
+"Of (Belonging to)." ...
+
+and in terms of the former:
+
+Art. 139. It is obvious that when making up the Italian edition of the 
+code, each of these Italian words, which, it will be appreciated, have 
+other meanings not expressed by the English word "report," must be 
+allotted a different code group. The following procedure has therefore 
+been adopted. If a word, say, in English, requires more than one word 
+to express its meaning in, say, Italian, and these Italian words are 
+quite distinct from one another, the code group which has been 
+allotted to the English word is inserted only in the Italian _decode,_ 
+with the necessary Italian equivalents against it. These Italian 
+words, when and if inserted in the Italian code, are assigned 
+different code groups, which are then printed in the English decode 
+but not in the English code. ...
+
+Example 9. - Specimen decoded message.
+
+STN - Picked up (Has, Have, ing) , Collected - Has, Have, ing.
+EDR - Crew, s.
+3 - 3.
+CEC - Boat, s.
+RCZ - Belonging to. , Of.
+IBNS - S. S. Leme
+RHL - Sunk - Has, Have, ing.
+13 - 13th.
+VFB - Instant. Current. Existing.
+AGQ - Full stop.
+RKD - Mine. My.
+LDK - Next port of call.
+AACF - Aden.
+AGQ - Full stop.
+AEM - I will <  >
+OTB - Telegraph, s. , Telegraphing - Am, Is, Are.
+TVJ - Name, s.
+KVP - Person, s.
+MWJ - Saved - Has, Have, ing.
+
+Have picked up crews three boats belonging to S. S. Leme, sunk 13th 
+instant. My next port of call Aden. I will telegraph names persons 
+saved.
+
+In all of the above, codes/metacodes/referent-trees all intermingle. 
+Distinctions among the categories blur in favor of other exigencies. In 
+some cases, i.e. signal flags, it's possible to add an additional 
+pennant for clarification (i.e. CODE). In other cases, i.e. morse code, 
+distinctions are more problematic, since they are made within the 
+primary code lexicon of dot/dash/space. 
+
+The ordering of the general vocabulary leaves no room for additional 
+terms; i.e. between MXA and MXB there is nothing; to this extent the 
+code remains highly discrete. (MXAA already implies either place or 
+ship name.) The code encapsulates the major situations that might occur 
+among mariners at sea (or air); everything else is spelled out. With 
+the thousands of entries in the International Code of Signals, decoding 
+occurs by means of lookup; it would be impossible to memorize all of 
+them. There are parallels between this system and Chinese characters; 
+in this sense, the International Code contains only 26 radicals, 
+arranged in one to four groupings.
+
+The "messiness" of the system has implications for anyone hoping for a 
+clean and clear reading of "discrete" or "symbol" in relation to 
+code-work - as in many other systems, heuristics takes over. While the 
+system remains discrete on one hand (i.e. a limited number of signal 
+elements), the referent "splatters" - it's difficult to contain, and 
+the strategies of containment extend the usage of signal elements to 
+meta-levels and beyond.
+
+
+
+X-Ray Fuji
+
+
+Fuji remains down to the silver grain; the original is sharp. But the 
+grain dissipates; it refuses the exhaustion that height and brea/d/th
+can bring. 
+
+As for beauty, it is only skin deep. The skin is plastic; the sheen is
+digital; the skin is digitized; the sheen spreads analogically across
+the memory of skin and its absence.
+
+The x-ray is plastic protrusion; its sheen is digital; the bones are
+digitized. Buddha would visit the house of this woman and clothe her
+with skin. The woman (who is Buddha) would visit the house of atmosphere,
+house of air-with-no-harm.
+
+Though we say 'a step', this connotes the whole body; that is to say, the 
+whole body undergoes change; the aggregates of the whole body undergo new 
+births, new growth-and-decays, and new deaths. If a hundred steps or a 
+thousand steps are taken in the course of a walk, then a hundred or a 
+thousand new births, new growth-and-decays, and new deaths take place in 
+the whody. A step may also be divided into two, as the lifting-up 
+aggregate and the laying-down aggregate of the foot. And in each single 
+step, birth, growth-and-decay, and death must be noted. 
+
+The same holds good with regard to all the postures of the body, such as 
+standing, sitting, sleeping, stretching out, drawing in. Only, what is to 
+be understood here is that all tired, wearied, inflammatory, irritative, 
+painful states are changes in the continua of aggregates produced by 
+temperature. Both in exhaling and inhaling, beginnings, middles and ends 
+are all discernible.
+
+The phase of continuance, of stability in the existence of the aggregates, 
+is immediately followed by decay which, in connectioon with such matter, 
+is called exhaustion or weariness. [...]
+
+Exposition of Tirana-Parinna
+
+The three salient marks or features are:
+
+	1. anicca-lakkhana: the mark of impernanence
+	2. dukkha-lakkhana: the mark of ill
+	3. anatta-lakkhana: the mark of no-soul. [...]
+
+Thus if we look with the mind's eye, the mark of impermanence in all the 
+matter of the whole body will be clearly discerned.
+
+- Mahathera Ledi Sayadaw, The Manuals of Buddhism, Bangkok, 1978. (I 
+strongly recommend this work, which is available second-hand online.)
+
+
+
+Second and Final Try (quite satisfied with this):
+
+
+Welcome Welcome Welcome! This is my friend, he is a very 
+great dancer. Please don't be shy, please come in. Take a 
+seat - over there, there should be some room, hardly anyone 
+has shown up at this point. Maybe, ah well. In any case, 
+I'm beginning, this is the world of emanations - you can 
+CLEARLY see something is happening here, something... 
+extraordinary, almost one might say, supernatural, the 
+whole earth is full of radiations.... You can hear them, 
+preternatural perhaps would be a better world, they're just 
+beyond your pleasance... I record these, these emanations, 
+these ghosts, there are more of them than are alive, more 
+of them than are here in this room, right now. This woman 
+is dancing to 'em. She is listening to the ghosts and 
+making the ghosts appear. It is the saddest thing, as
+as the ghosts, as the ghosts, the ghosts,
+witness the disappearnce of their kindly earth... Such 
+things as are destructive, as are deadly, for example the 
+electronic substation across the street, what is that all 
+about. More and more we are dominated by electronic 
+emissions. LOOK AROUND YOU! THERE ARE NO MATERIALS OF ART 
+HERE! THERE ARE ONLY RADIATIONS, ONLY NOISE, NOTHING ELSE
+
+THIS IS THE FUTURE OF THE WORLD.
+
+I HAVE BEEN THERE.
+please please come in and sit down, have some time, spend 
+some fun time with this, enjoy yourselves. You are 
+witnessing, you are witnessing, the chaos of the world, 
+what the world was like when ghosts roamend, those were 
+times.
+They are furious, these ghosts. They are furious with us. 
+They are sucking us dry.
+WE, WE, WE, WE, WE. Eliminate the comma: WE WE WE WE WE - 
+we join together in our flight towards destruction, our 
+personal best / fury:
+We will become THESE MATTERS.
+The machine in them is writing this. Or writing these, 
+every writing is plural.
+The body is its own machine. The tendency towards 
+repetition... "is the greatest force for good in this 
+universe." Please, I beg you, have a seat, stay a while, 
+there's nothing frightening here, nothing untoward, 
+whatever was sacred
+is still sacred. And WELCOME! Please join us in our 
+project. Look carefully, examine the interstices of the 
+composition, what goes on before, and what comes 
+afterwards, when least expected. These are times   when it 
+is almost    dangerous to remain   alive.
+We must    We must    bear
+bear   these consequences   We must
+We must    Measure    TO HONOUR
+AND TO OBEY    YES YES YES PLEASE DO PLEASE    DO COME IN  
+We are calling for help, these ghosts, they they, DESCRY us
+late at night
+late at night
+Surely if they are coming for me they are coming for you. 
+Surely if they are coming for me they are coming for you.
+PLEASE PLEASE COME IN, make yourself at home as if this 
+were YOUR HOME and these were YOUR THOUGHTS
+SOMETHING IS VERY BROKEN.
+please please pardon me you were
+you were not meant to see this.
+ah, you are wondering perhaps - Wait a minute, I'm sorry, 
+give me a second -
+You're perhaps wondering (that's better) what happens, what 
+is the story?
+There are a man and woman in the room.
+The man holds up the woman. The woman falls. The man has 
+contact with the woman. The man begins to fall. Someone is 
+watching this. (You can hear the sounds of the future.) If 
+we remain on this planet, after the nuclear war, this will 
+happen. And this. And this will happen as well. A black sun 
+will illuminate the sky and the sun will fall down over and 
+over again. How sad it is to see the dusk.
+As I was saying (before I interrupted myself), this is the 
+time to come on in, no, "Come on in!" and make yourself 
+comfortable! How sad the world is!
+How comfortable! 
+Now Hello, Hello, to the weather. Each will swell in turn 
+and disappear. You will know "the weather." See how foreign 
+planets tell so little when they have, have more than 
+enough time, more than enough chance. This is no. 1. This 
+is number 2. And this is "The Stormy Day" of number 3. And 
+this is Titan, a very distant moon. Which is number 4. And 
+this is number 5. "In the Water."
+You are hearing, honestly, very low frequency (VLF) antenna 
+coupling with the metal strings of a musical instrument. 
+It's enough to raise the dead. The dead are being raised.
+There are lessons to be drawn from this. 
+"Nervousness is no excuse for the innocent, just as calm 
+provides solace for the guilty." Once a pon, no, once upon 
+a time in America. If you don't love this country, please 
+leave it. Thank you. WELCOME! Come in and watch the show. I 
+am making this show ESPECIALLY FOR YOU. I am not making 
+this show FOR ANYONE ELSE. This is your special show. LOVE 
+IT OR LEAVE IT. A momentary interlude while you 
+contemplate....
+This appears to be an armageddon moment. I honestly wish 
+you would stay, I would give you something worth it, honest 
+I would. Don't go away! I'm working on it! I'm still 
+working on it!
+You can see how the ... emanations... the machinery of the 
+universe... all at work... all at once... Yes, yes, yes, I 
+want to thank you, I want to thank you for coming. 
+"I think we have all learned something here." (Exeunt all 
+as the plane crashes in for a landing.)
+
+
+
+The Certain Truths
+
+
+_From the viewpoint of the human_: nature is a slaughterhouse.
+A certain truth: There is no salvation.
+Death is the only arbiter.
+Annihilation and meaning are identical.
+From one viewpoint, many. From many viewpoints, one.
+Good and evil dissolve.
+The stases of objects inhabit the wheels of decay and corrosion.
+The coming-together is the pulling-asunder.
+Chaos rules, dissolves into noise, noise rules.
+The number and quality of truth always loses focus.
+My culture is your death. My death is your culture.
+Nothing survives violence.
+Every creature suffers blindly in the guise of its body.
+Pain is of no consequence outside the flesh.
+The annihilation of the human race would only prolong the catastrophe.
+We live only to destroy in the masquerade of decency.
+Other truths evaporate in the face of death.
+We live so that we might not die.
+We live so that we might die.
+I say to you: Your death is my salvation.
+Every death is a meal.
+Among the humans, the pinnacle of deceit.
+Exaltation is a painless death.
+There's no end to the end of it.
+
+
+
+
+Performance thinking about death, Grand Central Art Center, 8/15/05
+
+
+the reconciliation of _war_ with _philosophy_  { hello hello please come 
+in { hello goodbye please come in 
+and thank you for coming. we are very 
+yes we are very happy to have you here/.
+hang in there . I am trying to get my bearing
+I had all sorts of things to say to you. Are you going to Crawford Texas 
+for example. And thenI forgot what I was going to say. O 
+I am
+O I am stalling
+stalling for time. You see...
+Wait a minute. This has to do with energy. No, this has to do with 
+confusion.
+Whose war is this anyway.
+We'll look at the map, we've been there before Damn it I'm going much to 
+fast. You wouldn't believe whqat you've missed! Very low frequency radio 
+with metaphoric ionospheric ducting (useful for the production ofd the 
+original sounds)
+Between earth and sky and far away from any electrical grid
+You can hear these things
+Or these things
+Or this when the antenna collapsed somewhere I think it was in Crystal 
+Cove
+images taken across the country representing in my viewpoing' the natural'
+you can see if you look closely the cat that lives in the now ruined 
+electrical substation across the plaza from here
+or this the category of the industral and perhaps the cat is here as well
+antenna coupling with musicla instrument strings, there's no microphone, 
+just the earth itself speaking in relation to the objects upon it
+this is begnning to sound like heidegger.
+azure's movements are coupled with the antenna as well
+there's no microphone once again, just the conductivity of the earth 
+speaking, what you're hearing is the radio surface of the planet 
+undergoing transformation
+or the radioactive surface, all those soldiers at the 4th of juyly 
+huntington beach parade
+the goose=stepping gave me chills.
+what were they thinking?
+probably nothing like that but mom and apple pie
+well that was the 1950s
+if that was lohengrin this is lorelei
+
+and this is where we came from and this is where we're goiing
+
+there's an ...urgfency... that's urgency... here, i can't define, all this 
+radioactivity, this encounter with violence in the guise of holiday-making 
+welcome please have a seat, there's no beginning and no end to this
+just as there's "no end" to this:
+we were here and there and now we're here:
+i keep thinking to myself:
+we're at the end of things.
+in another ten years, what's happening here
+will make no sense
+armegeddon isn't around the corner, it's here and now
+HANG IN THERE
+it's just about
+it's just about adjusting things and why?
+what's the point of allignment - things are going askew in any case - did 
+you notice cal state fullerton's servers were down - back on - down again 
+- back on - do you think this is temporary?  fuck degas
+fuck degas again
+welcome to the world of the black sun
+so what do we have to offer besides despair
+or this.
+or these, my treasures
+whatever i try to do, industry takes over, there's no escape from it. i 
+apologize.
+i will stop soon and i will talk about this work you'll see
+and maybe it will make some sort of sense at that point
+more than for example playing the guitar
+god for a moment i could believe this is 1969
+thank you -= I realize this is incomplete at best, fragments of work or 
+fragments of other work - hang in there -
+thank you = lights please? 
+
+
+Notes in the form of - The Hidden / The Wonder
+
+Analog: the world, _of_ the world. 
+Digital: the word, _of_ the word.
+
+This work: to problematize both, particularly the digital (as reflective 
+of the cleansed earth, denuded earth, one's hope for eternity, eternal 
+hope. And the analog: infiltration of dirt, unacknowledged real.
+
+1. - Continuation of 'avatar' work. But isn't this already stale, 
+outdated? Extruded / intruded (upon) body: cleansed bodies of the 
+continuous middle-eastern 'war'; armored bodies and imaginary journeys 
+(Rhine, England); sexualized bodies:
+
+2. - Infra-red video: staged partial narratives ('nude descend,' 
+'bumblepal,' 'mydeadwife,' 'tine' - bodies in silent industrial space -
+
+3. - Sub-audio: vibration monitor/recording of bodies, buildings, sounds, 
+w/ raised pitch: Lingis' 'murmur of the world' carried through and into
+
+4. VLF (very low frequency) radiowork modified in order to create a. the 
+semblance of ionospheric ducts; b. granular particle decay.
+
+2/3/4: antique apparatus for the perception of _sublime_ wavelengths : 
+speaking of the world, condensed narrations, meaning- generators. The 
+mechanical sensitized skin written large. _Not_ cyborg but embedding in 
+_miasma._
+
+_Archaic_ or 'primordial' apparatus, moving towards internalization. The 
+_probe._ The antenna: Heidegger, the reach.
+
+5. W/1-4: continued work on distinction between analog/digital in relation 
+to categories (nothing more than constructed) of the 'natural' and 
+'industrial' - and in terms of open analogic and closed digital sets. 
+Collapse of the wave equation. INTERNATIONAL CODE OF SIGNALS and Level 
+Intermingling - levels, meta-levels, and 'aura.'
+
+6. Worlds of real-time manual labor in relation to culling/production: CD 
+work of flat-dry guitar/VLF audio/radio; and CD work with Matt Frantz of 
+manual/electronic labor.
+
+7. Re/presentation of absolute despair in relation to the 'cruelty' of the 
+real.
+
+
+_
+
+
+Instinctual-Cultural States
+
+
+Both great blue herons and snowy egrets do food dances, stirring up the 
+muddy bottom layers of a body of water, so that invertebrates and small 
+fish attempt to flee the disturbance. Dinner! The snowy egret seems more 
+nervous, constantly vibrating the water equally with one and then the 
+other foot, shaking the sediment loose. There are two techniques; both 
+conserve energy. The inactive technique requires waiting, hardly moving at 
+all: this is the usual pointed stance of the birds. When a fish or other 
+animal becomes visible, it can be instantly seized with little energy. The 
+active technique involves the dances themselves, throwing the animals into 
+confusion. More food, but a greater energy expenditure which balances out. 
+The dance itself involves turning, wing-flapping, something ruffling the 
+surface as if taking off, only to move a few feet. These actions can be 
+repeated three or four times in a row as the food is hurried along. I've 
+seen the willets use another technique altogether, picking up plants and 
+other organic debris from the shallows, then shaking it wildly, finally 
+jabbing at the result. It's difficult to tell what is happening with a 
+standard video camera (i.e. not high-speed), but small mollusks are most 
+likely shaken loose. The jabbing is ferocious and rhythmic. Now all of 
+these are foraging techniques; there are also, of course, the skimmers, 
+the bobbers, the divers, the plunge divers, the sifters. In almost every 
+case, the prey is small. What is most fascinating, however, about the 
+dance behavior, is the potential degree to which this represents culture, 
+not 'instinct,' however defined. Do all populations of egrets and herons 
+perform similarly, or rather equivalently? I'm not in a position to judge. 
+Surely there are new techniques; the willet debris shaking is most likely 
+one of them. Another point, to which I have no answer: How related are 
+these behaviors to mating behaviors? And again, how much of both may be 
+considered cultural? For these behaviors are not simple, as, for example, 
+the plunge diving of the least tern might be - a singular and necessary 
+monotonic act, for the most part. Of course even with the least tern we do 
+not see what goes on beneath the surface. But the dance itself is even at 
+first sight complex; there are numerous behaviors associated in various 
+combinations. I could not tell in any case whether egrets or herons favor 
+the left or right foot; with the snowy egrets, the division of labor 
+between left and right seemed equivalent. The great blue had another 
+technique, along with remaining still, pointing, and that is a slow wading 
+which also involved what I think must be the right foot slowly moving 
+backward as the bird advances - backward beneath the surface, almost 
+imperceptibly plowing the bottom. I can only assume this does not frighten 
+the bottom-dwellers, but registers only as a slight inconvenience, to 
+which they might respond by momentarily surfacing, seeking another cover - 
+not to be found, as the heron quickly catches its prey. These birds - 
+great blues and snow egrets - see almost three hundred sixty degrees; this 
+is obvious when they face you forward, their eyes, immersed in the sides 
+of their heads, clearly visible and watching. The world appears constantly 
+and in the dance of hunter and prey, however defined, we see energy held 
+to a minimum, high survival, and a slim possibility of out-waiting the 
+depredations of man. 
+
+I have taped some of the above behaviors at the Bolsa Chica wildlife 
+preserve in Huntington Beach, California. I am interested in instinctual- 
+cultural states (ICS) and their relation to historiography. For example, 
+we assume an absence of Jurassic technology (except of course for the 
+museum devoted to it!); our assumptions guide our investigations. But 
+there is no indication for example that all reptilian behavior, even 
+today, is instinctual, and given the long-term development of the 
+dinosaurs, there is a good possibility that what even we might concede as 
+cultural existed in ages remote from our own. When we look at birds, we 
+are witnessing today a new ethological-cultural ornithology in the making, 
+as definitions and values of ICS change. We have set ourselves up as 
+arbiters of intelligence and survival upon the planet, and have acted 
+accordingly, and brutally. It is too late to glimpse anything but the 
+remnants of other intelligence, as our own falters upon some ulterior 
+shore most likely of our own making.
+
+
+
+Art and experiment, vision of the PLAGUE
+
+
+The IMAGE of three folding wooden rulers, German, millimeter rules:
+PLACE these in a triangular configuration: two from the wall down,
+one across the endpoints of the two. AS IF these formed an equilateral
+triangle, however BROKEN by virtue of the WEIGHT of the wood, the
+intrusion of the physico-inert into the virtual-inert of the static
+euclidean WORLD.
+
+I do not know or give their LENGTH.
+
+Remnant of memory: Early 1970s Bykert Gallery NY show: collapsed hyper-
+cube made from nylon cord - topological accuracy but disrupted per-
+ception. The IDEAL held; the perceptual-real, i.e. constructed meaning,
+collapsed. 
+
+No progress now: This current work represents no progress whatsoever;
+the theme is tackled with only the DISTINCTION: the topological is
+trivial (a loop) or absent (an irrelevant loop). The MEASUREMENT is 
+ANALOGIC, the ideal DIGITAL, a world of zero tolerance - well, perhaps
+analogic as well.
+
+Can this be? A zero-tolerance analogic world? A wave-equation collapse
+or even rounding-off - that REWRITES the digital, INSERTS IT as 
+permanent markers? Or rather, perhaps it is the zero-tolerance digital
+world that REWRITES and analogic, REINSERTS within the analogic.
+
+What of this REWRITE? I have often said: I write myself into existence.
+I write myself out of existence. And ONLINE? See early Internet Text,
+Nettext sections: Existence is equivalent to CONTINUOUS REWRITE; when
+insertion ends (and this is insertion THROUGH the mediation of digital/
+analogic means INTO the analogic WETWARE of the perceiving SUBJECT),
+MEANING begins. 
+
+The ANALOGIC measurement of the rulers, with WEIGHT and problematic or
+rough TOLERANCE, is the measure of MEANING as well, coupled with the
+idealized MIRRORING of the digital within the analogic (as if the 
+analogic were a cast-off of the digital, or as if the digital were a 
+cast-off of the analogic). 
+
+The rulers, in their UNGAINLY stance, are a source of DIS/COMFITURE or
+the DIS/EASE of GRAVITY. A straight-line bending, inconceivable! The
+misplacement of tolerance: Unforgivable!
+
+Yet this is what we are confronting in our cultural-political world 
+today: digital laissez-faire and the bending of the analogic, as RULES, 
+not rulers, are bent to meet every contingency: Let us, for example, 
+over-develop this nation, these wetlands, this war, in the guise of the 
+ABSOLUTE - of freedom, of god, of Capital. As with the Procrustean 
+Bed: Cut off what doesn't fit! Purify at all costs! In this regard, the
+future is always already cleared, cleansed, and ready for action.
+
+(All development is over-development or under-development.)
+
+Back in the Gallery: I will gather the rulers, take them with me across
+the United States, sleeping, measuring only the unease of dreams. Four
+of them, found in a small second-hand shop in Copperton, Utah, next to
+the Bingham Copper Mine excavation, the largest human-made scar on the
+face of the earth. Next time, the plague.
+
+
+_
+
+the mad dash - -
+
+if the natural is by definition - - analogic, the industrial is digital, 
+the scar of progress, los angeles logging, "making your own weather 
+report," the games - - are clearly phenomenology writ large, husserl's 
+logical home, together so that they fit - - this goes - - a long way 
+towards helping me how to woman - - turing suggests that the man try to 
+deceive the interrogator - - about his gender, while the woman tries to 
+convince the interrogator that she is body, the philosophic machines, 
+ideological - - algorithms, deconstructive mechanisms, the violent - - i 
+do got - - a dozen - - autographs - - he's so sexy - - and committed, i 
+can't believe how the coming-together is the pulling-asunder - - the 
+conventional logging - - analog: the world, _of_ the world - - hope - - 
+and the analog: infiltration of dirt, unacknowledged real - - entirely, - 
+- apologies, we have been in contact with the ghost team, i'm i've 
+imaginaries - - - - another technique - - altogether, picking up plants - 
+- and cultural states - - their relation to historiography - - for 
+example, we - - assume - - an - - absence of jurassic technology (except 
+of course for we - - are witnessing today - - a new ethological-cultural 
+ornithology in the making, - - a cube made from nylon cord! i fucked the 
+talking heads when they were the the together - - when the sound began 
+suburban - - post the - - hiss several tree - - frogs - - antennas two 
+several two receivers - chirps - lightning - - auroral - - hiss frogs tree 
+tree - - antennas - - and - - antennas was - - with tree - - - - - and - - 
+- antennas receivers frogs receivers - - night - frogs was frogs tree 
+chirps crickets - hiss receivers - - - antennas - - talking heads - -
+
+
+
+
+
+Annoying Behavior
+
+Annoying and annoyance are difficult to analyze. Yet they form a behav- 
+ioral matrix, appearing in such forms as teasing, taunting, daring, 
+whining, infuriating, and seducing. The phenomenology of annoyance is 
+complex; among animals, annoyance plays roles ranging from deflection to 
+prey production. Crows and other birds will annoy hawks; smaller birds 
+will annoy crows - in both cases to lead the larger birds away from 
+potential prey. Egrets on the other hand will annoy bottom-dwellers, which 
+flee their hiding-places and are caught. Their behavior ranges from wing- 
+flapping and circling to leg vibrating and kicking back. These actions 
+change quickly, decreasing the likelihood for a steady-state response by 
+potential prey. It's unclear to what degree this behavior is learned or 
+instinctual. See http://www.asondheim.org/annoyingegret.mp4 - a snowy 
+egret at dawn in the Bolsa Chica wetlands, Huntington Beach, California. 
+Other examples - chipmunks, squirrels, and various bird species taunting 
+rattle-snakes; coyote and other large predatory animals harrowing prey; 
+annoying by the weaker and taunting by the stronger, among humans.
+
+
+Our Future
+
+In 1973 I taught "The Year 3000" at the Rhode Island School of Design. 
+Most of the predictions described for the year 2000 have already occurred. 
+Now for the modest future of thirty years hence:
+
+All megafauna in the wild will be extinct. The population of the earth 
+will be close to its carrying capacity. Disease will run rampant due to 
+pollution. Global warming will bring about fast-forward environmental 
+effects, including rising seas, increased desertification, and extremely 
+violent hurricanes. The life-span of humans will begin a temporarily 
+exponential decrease. The rich will live in highly defended enclaves. 
+Fundamentalisms will be the order of the day, since belief alone commands. 
+Terrorism will be increasing exponentially, since future paradise is all 
+there is. Capitalism will be bankrupt as national currencies collapse and 
+world-wide depression sets in. The information explosion will continue on 
+localized data-networks and stuttering global communication systems. The 
+global communications infrastructure will have reached its carrying 
+capacity as well. For the first time, information will begin to corrode, 
+decay, as structures can no longer be protected against the world-wide 
+environmental crisis. The smaller generalist flora and fauna will begin to 
+dominate the earth. Great portions of the globe will be uninhabitable. The 
+larger aquatic species will have gone extinct, and the oceans will be 
+dominated by off-shore algal blooms. Most urban drinking water supplies 
+will be polluted and rationed. Suburbs will be abandoned as gasoline 
+becomes an almost inaccessible commodity. The planet will seethe with 
+continuous war, no longer fought among nation-states, but among private 
+militias, guerilla groups, and individual cowboys. Religions and 
+extremisms will be intertwined. There will be heavily-defended holdouts in 
+the North American mountains, and relatively isolated land masses such as 
+New Zealand. Fluid urban structures will be composed of well-armed gangs 
+dealing with the major currency of drugs and weaponry. At least a third of 
+all births will result in deformed infants. Ozone depletion will be almost 
+complete and skin cancers will be exponentially increasing. Most hospitals 
+world-wide will have closed their doors to all but the extremely wealthy. 
+Knowledge-structures will have broken down as specialization and increased 
+mathematical difficulties result in the problematizing of any theoretical 
+work at hand. Computers will have reached a plateau of speed, complexity, 
+and miniaturization. They will not have achieved consciousness. Robotics 
+and nanotechnologies will not be the order of the day - plagues will. 
+Sports franchises will be local and heavily subsidized. The air will be 
+almost unbreathable, and asthma / allergic reactions will be one of the 
+primary causes of death. Most deaths however are the result of violence. 
+Local police will perform rearguard holding actions at best. Highway 
+systems will have fallen into disrepair as economies collapse. Air travel 
+will be almost non-existent; space travel will have disappeared. The space 
+station will be a rusted hulk, if it has not already plummeted to earth. 
+Literacy will be on the decline. There will be a world-wide energy crisis. 
+Child abuse will have become child use and child discard; a high 
+percentage of children will be proffered for labor and sexual slavery, in 
+return for food and goods. Informal economies and the barter system will 
+characterize most local trade. Transnational trade will be at a minimum. 
+The genetic revolution will result in new and uncontrollable pandemics as 
+viruses and bacteria become increasingly resistant. Highly modifiable 
+immune deficiency diseases will appear on an exponentially-increasing 
+basis. The greatest percentage of murder victims, per capita per age 
+level, will be the elderly. Despair will be transformed into religious 
+salvation. More than twenty nuclear weapons, most of them small and 
+poorly-constructed, will have been exploded in various urban areas. Most 
+of the countries of the world, such as they are, will have weapons 
+programs which will absorb a large proportion of the gross national 
+product. Political economy will be ad hoc. Political ideologies will be 
+fragmentary and situational. Electrical grids will be hard-put to maintain 
+even the most minimal of services. The arts will have reached the limits 
+of extremity, with suicidal art movements in the fields of theater, 
+performance, ballet, and installation. The new media 'movement' will have 
+become a thing of the past. Art history will have disappeared as museums 
+fall victim to gang warfare and destruction. Most national heritage 
+monuments will have been at least partially destroyed. Most populations 
+will be drugged...
+
+
+[This article is somewhat of a mess; I don't think it could have been any 
+other way. At least by me. It's overworked, overdetermined. Trying to 
+write about online writing? An impossibility, an inconceivable territory. 
+It's beginning to sound like an illiterate Foucault's archaeology of 
+knowledge.]
+
+
+
+A Field so Vast, the Other is Lost in the Details
+
+
+Apropos of Writing Online / Online Writing
+
+"The Sceptical persuasion, then, is also called Investigative, from its 
+activity in investigating and inquiring; Suspensive, from the feeling that 
+comes about in the inquirer after the investigation; Aporetic, either (as 
+some say) from the fact that it puzzle over and investigates everything, 
+or else from its being at a loss whether to assent or deny" - Sextus 
+Empiricus, Outlines of Scepticism, edited by Julia Annas and Jonathan 
+Barnes, Cambridge, 2000.
+
+"I cannot stress too strongly, however, that for life as we have seen it 
+develop, both place and movement are indispensable. In order to store 
+information - say in a book, or a mind, or a computer memory - one must be 
+almost certain that the information will be stationary and yet retrievable 
+at a later date. In order for this to occur, the object containing the 
+information must retain its configuration for limited periods. Further- 
+more, [these periods] must be enough for all the information contained to 
+be retrieved." - Alan Sondheim, artist talk, 1973, in Artists Talk, 
+1969-1977, edited by Peggy Gale, Nova Scotia College of Art and Design, 
+2004.
+
+Unlike the Dogmatists, online work is continuous investigation, movement, 
+within diffused sites, applications, networks, inter- and intra- nets, 
+PDAs, cellphones, wireless and bluetooth, satellite and other radios, 
+cable and other televisions...
+
+An incandescent investigation, high-speed, apparently but not really 
+unlimited, names and movements, critiques, sources and files, coming and 
+going, circulating, decaying, disappearing, reappearing, transforming...
+
+New media writing - codework - hypertext - online writing - blog or MOO 
+writing - all of the forms are problematized, liminal, subject to 
+fast-forward taxonomies as new applications and access modes appear.
+
+By "liminal," I mean that such writings are first of all mediated, by 
+technological apparatus (including the power grid), and are second of all 
+in-between process and stasis. Process = continuous production and 
+distribution; stasis = virtual objecthood.
+
+Liminal work is nomadic, subject to the vicissitudes of empire; it moves 
+from site to site, is updated or disappears, uses legacy technology or 
+processing power / access available only to a few. But it also requires 
+corporate acquiescence - the access to tools (including the power / 
+network grids); free software requires corporate hardware requires 
+programmers who have to eat and sleep (sometimes!).
+
+One distributes through pre-existing channels or new channel production. 
+Once distributed, the texts, which are after all a collocation or ordered 
+collection of ones and zeros, or pluses and minuses - or any other dyadic 
+differentiation, are subject to modification by others - and as such are 
+vulnerable and characterized by imminent access.
+
+By "imminent access" I mean that any byte whatsoever - any individual 
+smallest unit of a file (text, sound, video, program, other) - any zero or 
+one - is independently accessible, and therefore independently alterable. 
+The alteration of a file-in-the-large is a process of filtering, and one 
+might consider online writing as a form of articulated and non-articulated 
+filtering.
+
+By "non-articulated filtering" I mean the actual course of writing by an 
+author; this may be either a process of subjectively and freely choosing 
+program parameters (i.e. a certain number of nouns of type X), and/or a 
+more traditional process of authorial writing, i.e. writing with authorial 
+intent. By "articulated filtering" I mean a form of mathematization of a 
+text or part of a text, through which the chosen domain is modified in its 
+entirety by one or another algorithm. For examples: non-articulated 
+filtering might as well refer to the writing of a sonnet in the 
+traditional manner; articulated filtering might refer to replacing the 
+vowels of the sonnet with randomly chosen consonants.
+
+(So that "articulation" is used to refer to the application of a 
+technological apparatus - most often a software program - to a text or 
+other file. A Photoshop filter which alter a photograph from color to 
+black and white is a good example. And "non-articulation" refers to "just 
+writing." So why are both forms of "filtering"? Because, here, I want to 
+emphasize the substrate - the blank sheet of paper or empty file, for 
+example (Peirce's "sheet of assertion") which is filled or spilled through 
+creative work. The filter goes from blank to content; it's a way of 
+thinking through the creative act, from offline to online and back again.)
+
+An online distribution is never complete, never completed. Sites and 
+software protocols change, codes change, revisions are added, texts are 
+hacked, texts are duplicated and downloaded with and without permission 
+(such as it is), sites disappear with their texts, texts are replaced by 
+other texts, texts are corrupted, technologies change, bandwidths change, 
+copyrights are enforced or ignored or bypassed or non-existent: 
+intellectual property is in fact intellectual propriety, an agreement, 
+such as it is, to utilize in any form or not utilize in some forms (i.e. 
+other than reading/perceiving) the production of the other (such as he or 
+she or it - computer or whatever - is). (Intellectual propriety, then, is 
+the etiquette of duplication and transformation, the sometime distinctions 
+between hacking and cracking, between payment and non-payment for 
+downloading, and so forth.)
+
+Codework is a form of writing which problematizes form and formlessness 
+simultaneously by incorporating the means of production within the file 
+itself, actively or passively augmenting or corroding the file (depending 
+of course on authorial intent, perception, reception, production).
+
+By "active augmentation or corrosion" I reference a file which changes 
+either through reader/viewer interaction or by itself, within a relatively 
+limited period of time (i.e. within the phenomenological time-horizon of 
+the reception of the text). These changes may be anything from automatic 
+text / image / sound generation, through interactive generation of the 
+same, to built-in instabilities of reading and writing (language changing 
+on the fly, and so forth). Texts and other files may respond to anything - 
+from the weather through mouse-clicks through the viewer's breathing 
+patterns (coupled of course with the proper hardware). By "passive 
+augmentation or corrosion" I mean a relatively static (i.e. within a 
+similar time-horizon) text which nonetheless incorporates what might be 
+considered surplus or extraneous elements (parts of code, formatting, and 
+other) and/or eliminates or obfuscates ("corrodes") other elements (for 
+the most part taken for granted within traditional texts and readings, 
+such as the full alphabet, more or less standardized syntax, the and so 
+forth).
+
+Codework is neither a style nor a movement; it remains a loose term 
+characterized by a "kind of messiness." It is simultaneously conceptual 
+and loose, based on structure and the deconstruction of structure. An 
+example (of my own):
+

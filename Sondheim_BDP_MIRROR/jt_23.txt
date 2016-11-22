@@ -1,0 +1,55 @@
+
+
+
+A COLD CHILL RAN UP TRAVIS' SPINE: READING THE OUTPUT OF TOP, NOTING THE
+VIRTUAL CONSOLE USAGE ... THE FIRST FRIGHTENING LINE; 3 USERS? ... WHO
+COULD THEY BE, WHAT DASTARDLY PLOT HAS ++JENNIFER++ HATCHED? NOTICE ALSO
+THAT SENDMAIL IS ACCEPTING: AFTER SENDMAIL HAS BEEN REMOVED FROM THE LINUX
+IMPLEMENTATION:
+
+I DO NOT KNOW WHAT IS OCCURRING, TRAVIS SAID, BUT THIS IS MORE THAN FEAR-
+FUL, FAR MORE THAN THE SCOUNDREL SCHEMES LAUNCHED IN THE DIM-HACK PAST.
+WHAT COULD BE OCCURRING, THIS IS OPERATING-SYSTEM GHOSTS IN THE VIRTUAL
+MACHINE, IMAGINARY OR FANTASM SLOUGH OF VIRTUAL FANTASM SEX FLESH, DO HELP
+RECONSTRUCT JENNIFER:
+
+JENNIFER REPLIES IN ANOTHER WINDOW: NOW THERE ARE 4 users: JENNIFER SPLITS
+IN TWO, TRAVIS' LEGS SPLAYED OPEN FOR HER, load average INCREASE, zombie-
+TRAVIS ENTERED BY sleeping user JENNIFER in free buff:
+
+TRAVIS CAN'T HEAR ANY LONGER.
+
+9:19pm  up 59 min,  3 users,  load average: 0.02, 0.02, 0.00
+30 processes: 28 sleeping, 1 running, 0 zombie, 1 stopped
+CPU states:  1.8% user,  2.8% system,  0.0% nice, 95.3% idle
+Mem:  14832K av, 13552K used,  1280K free, 18596K shrd,  4836K buff
+Swap: 12224K av,     0K used, 12224K free
+
+  PID USER     PRI  NI SIZE  RES SHRD STAT %CPU %MEM  TIME COMMAND
+  677 root      20   0  103  500  508 R     4.7  3.3  0:00 top
+    1 root       1   0   39  368  432 S     0.0  2.4  0:00 init [3] 
+  501 root       1   0   93  564  600 S     0.0  3.8  0:00 sh 
+ /usr/X11R6/bin/st
+  100 root       1   0  141  728  704 S     0.0  4.9  0:00 -bash
+  101 root       1   0   76  380  444 S     0.0  2.5  0:00 /sbin/getty tty2 
+ VC
+   37 root       1   0   69  424  444 S     0.0  2.8  0:00 syslogd
+   46 root       1   0   52  360  424 S     0.0  2.4  0:00 klogd
+   57 root       1   0   62  432  464 S     0.0  2.9  0:00 crond
+   75 root       1   0  134  728  676 S     0.0  4.9  0:00 sendmail: 
+ accepting
+  102 root       1   0   76  380  444 S     0.0  2.5  0:00 /sbin/getty tty3 
+ VC
+   87 root       1   0   84  372  436 S     0.0  2.5  0:00 lpd
+  103 root       1   0   76  380  444 S     0.0  2.5  0:00 /sbin/getty tty4 
+ VC 
+  104 root       1   0   76  380  444 S     0.0  2.5  0:00 /sbin/getty tty5 
+ VC
+  105 root       1   0   76  380  444 S     0.0  2.5  0:00 /sbin/getty tty6 
+ VC
+  106 root       1   0   35  296  468 S     0.0  1.9  0:00 bdflush (daemon
+  107 root       1   0   35  304  476 S     0.0  2.0  0:00 update (bdflush)
+  502 root       1   0   46  836  832 S     0.0  5.6  0:00 xinit 
+ /root/.xinitrc
+
+

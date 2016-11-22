@@ -1,0 +1,142 @@
+
+
+
+
+
+
+From: Alan Sondheim <sondheim@PANIX.COM>
+
+Reply-To: UB Poetics discussion group <POETICS@LISTSERV.ACSU.BUFFALO.EDU>
+
+To: POETICS@LISTSERV.ACSU.BUFFALO.EDU
+
+Subject: Re: The Meaninglessness of Meaninglessness
+
+
+
+One thing of interest here - at least for me it touches on the methodology
+
+I'll employ at times - is Eliza and the ability to rework Eliza. Eliza is
+
+available in emacs (under 'doctor'), and it's possible to go into the
+
+doctor program itself, and alter things - I rewrote it as a Nikuko text -
+
+which I then used as a catalyst for producing work and answers in relation
+
+to a litany of seduction that was the final result. Chance operations,
+
+expert programs, are there for the modification/transformation - a MOO is
+
+of course the best-known example of that. And all of this is tremendously
+
+exciting - the ability to take a world and remake it, to create a
+
+dialectic between one's own desires and interests, and what the machinic
+
+is bringing to life. The conflict or coherence that results becomes part
+
+and parcel of the content; it's neither one way nor another.
+
+
+
+The same goes for chance operations - the julu/julua/parent/etc. perl
+
+scripts I use as catalysts for writing on occasion all have vocabulary
+
+which I can change - even create a work within the vocabulary itself. This
+
+modification leads to a similar dialectic. Even awk scripts can be used in
+
+this way - I can write a text in which each line is a letter or dipthong
+
+substitute, for example, then begin with a shorter ur-text that organizes
+
+the other.
+
+
+
+None of this means that the result has to be final, unless there is a
+
+reason, aesthetic or philosophical, to give the result up to the machine.
+
+But it provides a way to see in/through/ structure, to accommodate and
+
+critique structure, to even create a political economy of structure (as
+
+the 'character essay' pieces I make, do - since each word + its punctua-
+
+tion is used only once).
+
+
+
+The world is violent, extraordinary, filled with wonder, noisy, ahd
+
+chaotic (both in the strict senses of the terms); working with these
+
+elements is, in part, an attempt to make, proclaim, enunciate, meaning and
+
+a sememe within forces that are somewhat beyond our control.
+
+
+
+To answer another question - the philosophy of publishing daily - this is
+
+a philosophy of distribution; the writing is done online, using online
+
+programs that I write or modify; I write in a shell account, which means
+
+there are up to a hundred other users on the same machine - I can see what
+
+they're doing - and the distribution, like the production, is naturally
+
+electronic. Rightly or wrongly, I also see my work as central to the
+
+subject - Poetics - of this list; for example, the MOO piece sent out the
+
+day before yesterday with the result of interacting with three MOOs in
+
+turn - on two of them, I was Nikuko, and on one, Alan - and so the dialog
+
+spread across domains and worlds. And in the other piece, the same day,
+
+the one dealing with mutilation - I did a series of "greps" on my entire
+
+body of work - all of the online texts I've written since 1994 - and
+
+pulled out the lines with "mutilat" in them; these lines were then
+
+arranged and modified in accordance with current politics, which are a
+
+horror that must be stopped at any cost. And this way of working - harves-
+
+ting previous work, looking for patterns, etc. - is similar to a kind of
+
+dream interpretation - reading through a huge mind-storm of material,
+
+finding the thinking-structures, topic-based, analyzing them, working with
+
+them, opening them up once again. This harvesting is entirely computer-
+
+dependent; what I did would take a week to do manually, for example.
+
+
+
+All of this - moving among virtual worlds, distributing on the fly,
+
+harvesting the work of previous writing - seems to me highly germane to
+
+the topics of this list - collusions among distribution systems,
+
+protocols, computers, programs, routers, bodies of previously-written
+
+work, online virtual worlds, etc. -
+
+
+
+- Alan, wandering
+
+
+
+
+

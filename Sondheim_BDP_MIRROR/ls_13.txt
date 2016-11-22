@@ -1,0 +1,23 @@
+==
+
+
+Q-rating
+		Mail Queue (1 request)
+--Q-ID-- --Size-- -----Q-Time----- --------Sender/Recipient--------
+XAA00952* (no control file)
+		Mail Queue (1 request)
+--Q-ID-- --Size-- -Priority- ---Q-Time--- -------Sender/Recipient-------
+XAA00952* (no control file)
+Mail queue is empty
+Was XAA00952* destroyed; delivered? Was there a recipient after all? 
+Did it end in /dev/null? Was it the beginning of incipient terror?
+Was there a sender after all? Did it constitute a dissemination?
+Did it breathe? Was it an empty signifier? Did it constitute the aim
+and presence of pure destruction? Was its priority of the highest,
+beyond the scale; of the lowest, below the scale - below the absent
+letter, vulnerable to imminent destruction? Was it of any size, no
+size at all? Was it a proper or improper name? Has it taken leave?
+Mail queue is empty /* build your giant towers */ /* build your 
+empty submarines */
+
+

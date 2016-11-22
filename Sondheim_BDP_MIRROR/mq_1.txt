@@ -1,0 +1,77 @@
+
+
+trilby sorts and folds
+
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=0 prevsort=0 sortmode=0 prevsort=0
+sortmode=0 prevsort=0 sortmode=999 prefsort=0 sort=0
+
+foldFormat=0 foldItems=1667 foldOwn= foldName=6,Bin 1 foldPos=0,0,0,0
+foldFormat=0 foldItems= foldOwn= foldName=-1 foldPos=0,0,0,0 foldFormat=0
+foldItems=81683 foldOwn= foldName=6,movie foldPos=0,0,0,0 foldFormat=0
+foldItems= foldOwn= foldName=-1 foldPos=0,0,0,0 foldFormat=0 foldItems=
+foldOwn= foldName=-1 foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn=
+foldName=-1 foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0 foldFormat=0 foldItems= foldOwn= foldName=-1
+foldPos=0,0,0,0
+
+

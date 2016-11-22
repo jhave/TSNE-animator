@@ -1,0 +1,72 @@
+
+
+
+Couplings and Linkages
+
+
+Let:
+
+L,M,N = linkages
+C,D,E = couplings
+a,b,c = elements
+
+Then:
+
+f(L(abcd),a') -> L(a'b'c'd')
+f(C(abcd),a') -> C(a'bcd)
+
+Think of linkages as joined elements, chain links for example, the Great
+Chain of Being for another, cars in traffic for a third. Think of
+couplings as adjacent or concatenated unrelated objects, glasses on a
+shelf for example, people on a loosely-populated sidewalk for a second,
+catastrophes for a third.
+
+L(M,N) -> L'
+C(D,E) -> C'
+C(L,D) -> C'
+C(D,L) -> C'
+L(C,M) -> C'
+L(M,C) -> C'
+L(C,D) -> C'
+C(L,M) -> C'
+
+or: 
+
+1*1*1 = 1; 0*0*0 = 0; 0*1*0 = 0; 0*0*1 = 0; 1*0*1 = 0; 1*1*0 = 0;
+1*0*0 = 0; 0*1*1 = 0
+
+A coupling of couplings is a coupling; a coupling of anything is a
+coupling.
+
+A linkage of linkages is a linkage; a linkage of anything with a coupling
+is a coupling.
+
+The 'principle of fragility of good things': The linkage is as strong
+as its weakest links, and becomes increasingly improbable as the number
+of elements is increased.
+
+Nevertheless, we might consider action at a distance, such that:
+
+f(R(stuv),s') -> R(st'uv) | R(st'u'v) | R(stu'v) | etc.: Consider this a
+form of _chain negation._
+
+Action at a distance combines linkages and couplings; there is an effect
+'down the line,' but other terms are unmodified. Action at a distance may
+also imply subsets of couplings which are linkages. A linkage within a
+coupling remains a linkage, foreclosed, within the coupling.
+
+One might put it this way; with a coupling and x to x', xy -> x'y.
+And with a linkage, x to x', xy -> x'y'. In a linkage, both terms are
+affected; in a linkage, only the catalyst term x.
+
+A coupling always already absorbs; a linkage fastens, fetishizes. The
+inverse of a linkage, however defined, is a linkage; the inverse of a
+coupling, however defined, is a coupling.
+
+The identity element as an _operation_ may be said to modify a linkage;
+the identity element as an _operation_ has no effect on a coupling. But
+these are metaphysical considerations.
+
+The world-picture moves from linkages to couplings.
+
+

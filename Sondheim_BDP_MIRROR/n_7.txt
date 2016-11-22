@@ -1,0 +1,117 @@
+
+
+
+
+From: Alan Sondheim <sondheim@panix.com>
+Reply to: cybermind@jefferson.village.virginia.edu
+To: -- Cyb <cybermind@jefferson.village.virginia.edu>,
+    Fop <fiction-of-philosophy@jefferson.village.virginia.edu>
+Subject: what i do late at night with the names changed
+
+
+
+
+k:25> late at night can't sleep thinking this is what I do who wants
+k:25> to deal with _this_ stay away i'm full of poison you'll hate me 
+k:25> f
+[ting.oregon.edu.nl]
+control^C
+k:26> b
+       0       0       0 .mailspool/sondheim
+k:27> h
+12b13m14b15f16z
+17fz18talker
+19tom20b21m
+22b23carp;24susan
+25f26b27h
+k:28> moo
+Trying 128.143.200.59...
+Connected to hero.village.virginia.edu.
+Escape character is '^]'.
+      ******************************************************************
+      *        Welcome to PMC-2    --   MOO server 1.7.8p4             *
+      ******************************************************************
+           A Production of Postmodern Culture, in cooperation with
+           The Institute for Advanced Technology in the Humanities,
+           hosted on a DEC Alpha/OSF1 at the University of Virginia.
+
+Participation.
+
+
+The lag is 0 seconds flat. It is staying level.  
+The MOO will checkpoint in about 37 minutes, at 5:10 a.m. EST.
+@who
+Participant      Connected    Idle time    Location
+-----------      ---------    ---------    --------
+Guest (#93)      3 hours      3 hours      The Conversation Pit
+Roland (#6530)   a day        a day        
+
+Total: 2 participants, none of whom have been active recently.
+..Ryan Schram was here (repeatedly)
+@quit
+*** Disconnected ***
+Connection closed by foreign host.
+k:29> media
+Trying 18.85.0.48...
+Connected to 18.85.0.48.
+Escape character is '^]'.
+
+****************************
+**  Welcome to MediaMOO!  **
+****************************
+@who
+Player name            Connected    Idle time    Location
+-----------            ---------    ---------    --------
+GNA-Lab-link (#6963)   a day        10 seconds   switchboard
+
+Total: 1 players, 1 of whom has been active recently.
+@quit
+*** Disconnected ***
+Connection closed by foreign host.
+k:30> b
+       0       0       0 .mailspool/sondheim
+k:31> biff y
+k:32> b
+       0       0       0 .mailspool/sondheim
+k:33> b
+       0       0       0 .mailspool/sondheim
+k:34> date
+Sat Oct 14 04:29:17 EDT 1995
+k:35> fortuen  ne
+Keep America beautiful.  Swallow your beer cans.
+k:36> f
+[bang.oregon.edu.nl]
+control^C
+k:37> b
+       0       0       0 .mailspool/sondheim
+k:38> pico o.txt
+   UW PICO(tm) 2.5                 New Buffer                                 
+  ^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos
+   ^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text
+^T To Spell  [ New file ]    Fil
+e: o.txtModifiedIcan'tsleepsoIwritethis.Ikeepcheckingformail.Lateat
+nightwhenwhenyouareals  sleep.Nothingcomes.Maybeouare     
+youareawakeandhateme.Idon'tdon'tknow.Iho   Ihopenot.Iwoul
+dn'twantyoutohateme.ButIamawakeand   andthereisnothingfromyouandImissyour
+words.Mybodysplitsintopiecpieces.Thereisdebriseverywhereonth
+eground.File Name to write 
+ o.txtT To Files                                                      
+
+C Cancel                              
+                                       
+[ Writing... ][ Wrote 6 lines ]        ^G Get Help  ^O WriteOut  ^R Read File 
+^Y Prev Pg   ^K Cut Text  ^C Cur Pos   ^X Exit      ^J Justify   
+^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  k:39> more o.txt
+
+I can't sleep so I write this. I keep checking for mail. Late at night 
+when you are asleep. Nothing comes. Maybe you are awake and hate me. I 
+don't know. I hope not. I wouldn't want you to hate me. But I am awake 
+and there is nothing from you and I miss your words. My body splits into 
+pieces. There is debris everywhere on the ground.
+k:40> b
+       0       0       0 .mailspool/sondheim
+k:41> rz
+rz ready. To begin transfer, type "sz file ..." to your modem program
+
+**B010000012f4cedk:42> 
+

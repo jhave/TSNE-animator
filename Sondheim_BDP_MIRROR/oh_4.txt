@@ -1,0 +1,12 @@
+==
+
+CHURNMONSTER is a "broken or dirty text," modified by a program I wrote; 
+the program asks questions, mixes and combines and reorganizes the 
+answers. The result is a combination of what I am or might be trying to 
+say, and code interference, which rises to the surface, for example, "And 
+it has taken you just 5.200 minutes to make a monster!" which simply 
+documents the amount of time it took to enter the text. I can't judge this 
+in terms of traditional literature; I can say, however, that what is 
+produced is almost always a surprise - something that comes from partially 
+externalized, partially internalized structure.
+

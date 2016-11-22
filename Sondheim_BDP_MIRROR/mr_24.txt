@@ -1,0 +1,171 @@
+
+
+k21% pico zz
+
+   UW PICO(tm) 4.2                    File: zz                       
+Modified   
+
+fearful weather
+tethered trappings
+rappings on glass
+massive storming
+harming women
+men and children
+filled with sorrow
+morrow's burning
+churning waters
+slaughters crashing
+smashing       
+      
+Modified   
+
+stating dying
+haunted bloody
+muddy booting   
+hooting warnings
+born with boneyards
+charred and screaming
+dreaming blinded   
+minding rhyming   
+timing deathbells
+hells are waiting  
+baiting angels
+strangling cultures
+vultures diving 
+thriving tearful
+fearful weather
+
+Modified   
+
+
+fearful weather -  
+tethered trappings - 
+rappings massy -
+glassy storming -
+harming women -   
+men and children -
+bend with sorrow - 
+morrow's burning -
+churning waters -
+slaughters crashing -
+smashing buildings -
+wilding angels -
+jangled swerving -
+curving rockets -
+sockets sparking -
+harking mating -  
+stating dying -  
+Save modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ? No                 
+
+harking hating
+deigning dying
+crying counted    
+haunted hoody
+bloody booting   
+hooting dark-horn
+born with boneyards
+scarred and screaming
+beaming blinded 
+rited rhyming
+deeming deathbells
+wells are waiting  
+baiting banging   
+straYou have to leave in 5 minutes.
+vultures diving  
+thriving tearful
+fearful weather 
+
+scarred and stalking one more minute!
+harking hating
+deigning dying  
+crying counted   
+haunted hoody   
+bloody booting
+hooting dark-horn
+born with boneyards
+seared and screaming
+beaming blinded  
+rited rhyming
+deeming deathbells
+wells are waiting  
+baiting banging    
+wrangling women
+doomed and diving
+thriving tearful  
+wearied weather
+
+scarred and stalking
+harking hating
+deigning dying
+crying counted
+haunted hooded
+bloody booting
+shooting dark-shorn
+born with boneyards
+seared and screaming
+beaming blinded
+rited rhyming
+deeming deathbells
+wells are waitiTime to leave!
+baiting banging
+wrangling women
+doomed and diving
+thriving tearful
+wearied weather
+
+Modified   
+
+humansTime to leave!
+
+wearied weather
+tethered trappings
+rappings raging   
+guaging gleaming   
+harming humans  
+bend with barrow
+marrow's mourning
+churning craters  
+slaughters smashing
+bashing buildings  
+ailing angels
+spangled swerving
+curving carnage  
+scarred and stalking
+harking hating
+                               [ Wrote 38 lines ]
+tethered trappings
+rappings raging
+
+ 0: mappings
+ 1: rapping
+ 2: rapping s
+ 3: rapping-s
+ 4: rap pings
+ 5: rap-pings
+ 6: raspings
+ 7: trappings
+ 8: wrappings
+
+rappings raging
+guaging gleaming
+
+ 0: gaging
+ 1: gauging
+
+bend with barrow
+marrow's mourning
+
+ 0: marrows
+
+shooting dark-shorn
+born with boneyards
+
+ 0: bone yards
+ 1: bone-yards
+
+rited rhyming
+deeming deathbells
+
+ 0: death bells
+ 1: death-bells
+

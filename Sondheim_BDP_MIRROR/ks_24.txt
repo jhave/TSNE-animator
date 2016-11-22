@@ -1,0 +1,22 @@
+
+
+
+Sonnet of Emanations Lost
+
+
+Ju17lu% as wide as holes in me, as mouths are splayed for thee
+*unknown*: Assembler messages:
+*unknown*:0: Can't open wide for reading: No such file or directory
+wide:0: Can't open as for reading: No such file or directory
+as:0: Can't open holes for reading: No such file or directory
+holes:0: Can't open in for reading: No such file or directory
+in:0: Can't open me, for reading: No such file or directory
+me,:0: Can't open as for reading: No such file or directory
+as:0: Can't open mouths for reading: No such file or directory
+mouths:0: Can't open are for reading: No such file or directory
+are:0: Can't open splayed for reading: No such file or directory
+splayed:0: Can't open for for reading: No such file or directory
+for:0: Can't open thee for reading: No such file or directory
+Ju18lu%
+
+

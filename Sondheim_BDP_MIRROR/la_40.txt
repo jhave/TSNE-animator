@@ -1,0 +1,29 @@
+
+
+
+Poem With Ispell Variations
+
+
+fuk croor roor cun suk lok broor dood
+
+00: auk 01: fu 02: fub 03: fuck 04: fud 05: fulk 06: fum 07: fun 08: funk
+09: fur 10: fut 11: fu k 12: fu-k 13: Huk 14: Suk 0: crood 1: crook 2:
+crool 3: croon 4: cro or 5: cro-or 6: cruor 00: boor 01: croor 02: door
+03: moor 04: poor 05: roar 06: roer 07: rood 08: roof 09: rook 10: rool
+11: room 12: roon 13: root 14: rotor 15: Ro or 16: Ro-or 00: bun 16: c-un
+01: can 17: dun 02: chun 18: fun 03: con 19: gun 04: cub 20: Hun 05: cud
+21: mun 06: cue 22: nun 07: cum 23: pun 08: Cuna 24: run 09: cunt 25: scun
+10: Cuon 26: sun 11: cup 27: tun 12: cur 28: un 13: curn 29: wun 14: cut
+30: Yun 15: c un 00: auk 16: sup 01: fuk 17: sur 02: Huk 18: Sus 03: Sak
+19: suz 04: sok 05: sub 06: suck 07: sud 08: sue 09: Sui 10: Suk 11: Suku
+12: sulk 13: sum 14: sun 15: sunk 00: lak 16: Lou 01: lek 17: louk 02: lo
+18: low 03: loa 19: lox 04: lob 20: loy 05: lock 21: lo k 06: lod 22: lo-k
+07: lof 23: l Ok 08: log 24: l-Ok 09: loka 25: Ok 10: loke 26: Rok 11:
+Lonk 27: sok 12: loo 28: wok 13: look 29: yok 14: lop 15: lot 00: boor 01:
+broo 02: brood 03: brook 04: brool 05: broom 06: broon 07: broo r 08:
+broo-r 09: b roor 10: b-roor 11: croor 12: roor 00: bood 16: lood 01: dod
+17: mood 02: dodd 18: rood 03: dodo 19: wood 04: doob 05: dook 06: dool
+07: doom 08: doon 09: door 10: dowd 11: do od 12: do-od 13: food 14: good
+15: hood
+
+

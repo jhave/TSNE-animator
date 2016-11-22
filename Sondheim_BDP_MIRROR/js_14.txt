@@ -1,0 +1,32 @@
+
+
+
+<HTML>
+<HEAD>
+<TITLE>Surgery and Suture of Jennifer</TITLE>
+<META http-equiv="REFRESH" content="1">
+</HEAD>
+<BODY>
+<H4>Working through the body, Mathesis turns out Jennifer</H4>
+<SCRIPT LANGUAGE="Javascript">
+var now = new Date; 
+var x = now.getSeconds();
+var j = 1; 
+if (x == 0)
+ {x = 2};
+while ( x < 65)
+{ 
+  while (x % Math.pow(2, j) == 0)
+    { j++; }
+  if ( j % 2 == 0)
+    document.write("<H3>FOR I DIVIDE YOU</H3>");
+  else
+    {document.write("<H3>FOR YOU ARE NOT DIVIDED</H3>");}
+  x++; 
+  j = 1;
+}
+</SCRIPT>
+<H4>JENNIFER DIVIDES INTO TWO. JENNIFER DIVIDES YOU INTO TWO.</H4>
+</BODY>
+</HTML>
+

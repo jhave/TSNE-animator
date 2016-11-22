@@ -1,0 +1,44 @@
+
+
+
+Hysteria
+
+
+I compared 2 old Macs, IIsi and IIvx and opted to keep the latter, optim-
+ized memory on both, whee, transferred files. I loaded but couldn't com-
+pile Hotel California on linux, did compile CL which runs through telnet
+but doesn't yet spit out ascii. Nuts230 compiled perfectly, as did Nuts
+310, and Haven, bless its tiny IRC heart, compiled perfectly as well. But
+Haven refused to spit out the welcome and help files until I massaged it a
+couple of times with gcc. I added Apache on linux, changed the httpd con-
+figure files and now can run an at-home webserver through panix. Nuts and
+Haven work perfectly as well; local linux lynx has a bug and won't access
+some html code. Jpegs through the DOS Display program transform into over-
+wrought .picts read poorly through msdos PCAccess floppy transfer; nothing
+happens, opens. I started intalk.d by hand, sending the hard-drive into a
+frenzy. The Netscape download untarred fine but won't open because of a
+bus error: I have no idea what this refers to, wrote to comp.os.linux.x
+and have yet to get a reply. In my spare time trying to study makefiles so
+I can get everything to run; everything won't, and c errs at times. When
+I'm not looking tend to forget my hostname, maybe clara.julu.net? Changed
+the login here so Clara welcomes you on her machine; the Haven is now the
+Clara-Machine. You can call me up, you can dial me in, you can see my Web.
+
+Luckily it's easy for linux to read DOS, so I can import/export; my Mac
+also reads DOS, so there's a bit of throughput without cables. I beg, bor-
+row, or deliver floppies. Pictures are me. On the blast list I argue about
+the semantics of VRML and want to place that markup language in a more
+general category than "3-D"; certainly it can be considered a multi-param-
+eterized semantic flow, which relates it directly to the "2-D" flow occa-
+sioned by HTML's "sheet of assertion" (Peirce). I want to read Source Book
+of Medical History, ed. Logan Clendening for the texts I will use to think
+through anesthetic Jennifer-Julu, suturing doubled or tripled bodies;
+there is also Wake Up Little Susie, Single Pregnancy and Race before Roe
+v. Wade, by Rickie Solinger. But I need the linux (Linux in a Nutshell,
+Running Linux) fast and furious; my files are outdated, my ports are open
+with last year's programming constructs (and I'll never know or want to
+learn C); I can't wait for the storms to begin; weather's crashed the
+hard-drive; all this, just sitting here naked at the port/al, not a byte
+to eat.
+
+

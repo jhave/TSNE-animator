@@ -1,0 +1,26 @@
+
+
+
+Let Me In
+
+
+Ju24lu% r 8 g Connection closed. Ju25lu% g Connection closed. Ju26lu%
+telnet gol1.gol.com Trying 203.216.7.4... Connected to gol1.gol.com.
+Escape character is '^]'. BSDI BSD/OS 2.1 (gol1.gol.com) (ttyp5) login:
+sondheim Password: Connection closed by foreign host. Ju27lu% g Connection
+closed. Ju28lu% g Connection closed. Ju29lu% r g Connection closed.
+
+What a mess this junk when you won't speak to me, won't leak to me, when
+everyone in town seems down, when I seem like a clown, when you've got
+blood on your gown, you won't streak to me, you won't come to me - you
+won't cheat on me - you won't cheat on him - what a mess when you close
+down when I'm your clown when you wear a frown - what a mess when you
+won't meet me, when you won't treat me, you won't beat him - when he's on
+the town, when I wear your gown - I know you treat him, you seem weak to
+me, why don't you seek me when you're not around - I'm not your clown - he
+wears a frown - why don't you speak to me - I know I'm down - there's
+blood in the MUD - you should cheat on him, you should beat on him - you
+should meet me, you should treat me - I know you're down, you're not
+connected, I'm vivisected -
+
+

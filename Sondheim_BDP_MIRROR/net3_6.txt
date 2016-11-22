@@ -1,0 +1,273 @@
+
+
+
+
+
+
+Received: From ZEOS/MAILQUEUE by newschool.edu
+
+	  via Charon 3.4 with IPX id 102.940423185711.352;
+
+	  23 Apr 94 18:57:28 -0500
+
+Received: From brown.edu by newschool.edu
+
+	  via Charon 3.4 with SMTP id 102.940423185711.352;
+
+	  23 Apr 94 18:57:11 +0500
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AB25252; Fri, 22 Apr 94 10:38:38 -0400
+
+Date: Fri, 22 Apr 94 10:38:38 -0400
+
+From: Mailer-Daemon@brown.edu (Mail Delivery Subsystem)
+
+Subject: Returned mail: Unable to deliver mail
+
+Message-Id: <9404221438.AB25252@brown.edu>
+
+To: sondheim@newschool.edu
+
+Cc: root@brown.edu
+
+
+
+   ----- Transcript of session follows -----
+
+554 sendall: too many hops 18 (17 max): from sondheim@newschool.edu, to sondheim@newschool.edu
+
+
+
+   ----- Unsent message follows -----
+
+Return-Path: <sondheim@newschool.edu>
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25252; Fri, 22 Apr 94 10:38:38 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25247; Fri, 22 Apr 94 10:38:37 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25236; Fri, 22 Apr 94 10:38:34 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25229; Fri, 22 Apr 94 10:38:33 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25221; Fri, 22 Apr 94 10:38:30 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25216; Fri, 22 Apr 94 10:38:29 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25207; Fri, 22 Apr 94 10:38:27 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25197; Fri, 22 Apr 94 10:38:25 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25170; Fri, 22 Apr 94 10:38:21 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25154; Fri, 22 Apr 94 10:38:18 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25142; Fri, 22 Apr 94 10:38:15 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25137; Fri, 22 Apr 94 10:38:14 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25131; Fri, 22 Apr 94 10:38:12 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25125; Fri, 22 Apr 94 10:38:10 -0400
+
+Received: by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25115; Fri, 22 Apr 94 10:38:08 -0400
+
+Received: from dexter.newschool.edu by brown.edu (5.65a/SMI-4.2 --- CIS Test 1.1 -- Nov 11)
+
+	id AA25095; Fri, 22 Apr 94 10:37:56 -0400
+
+Received: from newschool.edu by dexter.newschool.edu with SMTP
+
+	id AA17057 ; Fri, 22 Apr 94 01:48:16 UTC
+
+Received: From ZEOS/WORKQUEUE by newschool.edu
+
+	  via Charon 3.4 with IPX id 100.940422014714.608;
+
+	  22 Apr 94 01:48:19 -0500
+
+Message-Id: <MAILQUEUE-101.940422014706.320@newschool.edu>
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+X-Ph: V3.8@Brown.EDU
+
+To: Mamatas@newschool.edu, PETER.KELK@CANREM.COM, zeug@pd.org,
+
+	ANTENNA@CSEARN.BITNET, Robert_Scholes@Brown.Edu, rswbc@cunyvm.bitnet,
+
+	CYBERBOY@AOL.COM
+
+From: SONDHEIM@newschool.edu
+
+Date:         22 Apr 94 01:47:06 EDT
+
+Subject:      Hysteria Imaginary of Production
+
+X-Mailer:     Pegasus Mail v2.3 (R3).
+
+
+
+To:           SONDHEIM
+
+From:         ZEOS/SONDHEIM
+
+Date:         22 Apr 94 01:19:38 EDT
+
+Subject:      Screen Phenomena
+
+------- Forwarded Message Follows -------
+
+To:            SONDHEIM
+
+From:          ZEOS/SONDHEIM
+
+Date:          22 Apr 94 01:01:54 EDT
+
+Subject:       Screen Phenomena
+
+------- Forwarded Message Follows -------
+
+To:            Sondheim
+
+From:          ZEOS/SONDHEIM
+
+Date:          22 Apr 94 00:51:06 EDT
+
+Subject:       Screen Phenomena
+
+
+
+
+
+
+
+When is `representation' a torn membrane or VEIL; when is VERONICA
+
+not Boolean, but gesture? Ontological phenomena are always already an
+
+ASIDE...
+
+
+
+I am sending this to myself; you are a spinoff of this activity,
+
+useful for textual preservation. Ah, how often during the middle of
+
+the night does email lock-up, the screen petrified or frozen, a
+
+crystalline slice of thought, going nowhere and lost forever! The
+
+natural always takes its toll; a storm in the North Atlantic destroys
+
+absolutely and forever the fragility of thinking! I return over and
+
+over again to the imaginary of the screen, presented against your
+
+chosen color, a framework for the saccadic and twisted movement of
+
+your eye itself.
+
+
+
+It is this movement that fixes or fetishizes the net, which extends
+
+in a laminar coagulation beyond the screen, surrounding it, but
+
+always making way. The screen begins and ends, a terminal within a
+
+terminal, a foundation soldered to a wiring leading to ever more
+
+complex ultra large-scale integrated circuits, increasingly three-
+
+dimensional. They prepare the way! They prepare everything  for you!
+
+
+
+The screen is THIS PLEASURE for the eye which I would fill with the
+
+presence of my body or your own. It is the margin of dangerous
+
+fantasy, what propels one always beyond what is apparently possible
+
+to construct. The edge of the screen is the blade of a knife, a
+
+quadruple-blade cutting through the four quadrants, by extrapolation,
+
+through the three-dimensional octants themselves.
+
+
+
+You transform each and every representation, by virtue of protocol,
+
+camouflage, or terminal emulation. Every screen act is one of
+
+mimickry; your fears and desires, which are identical, reside within
+
+it. ASCII text always aligns itself with the rectangular...
+
+
+
+					 /
+
+		     x                  / z
+
+    

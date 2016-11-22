@@ -1,0 +1,46 @@
+
+
+
+
+The Sadness of Directories
+
+
+16      cp tf wanders
+17      cp thing and
+18      touch touches
+19      touch her
+ (these are the commands creating files 'wanders and touches her')
+jennifer: ascii text 
+wanders: sparc demand paged dynamically linked executable 
+and:  ascii text
+her:  empty 
+arm:  directory 
+touches: empty
+her:  empty 
+thing:  ascii text
+.:  directory
+ (this is the result of file -f in relation to files
+  'jennifer wanders and her arm touches her thing.')
+jennifer ascii text wanders sparc demand paged dynamically linked execu-
+table and ascii text her empty arm directory touches: empty her: empty
+thing: ascii text directory
+ (this is the rearrangement of the sad result of file -f exposing
+  the futility of emanant life, Oh, how they would love to be alive
+  and not so empty!)
+Jennifer wanders, her speech in disarray; there's hardly a spark present.  
+She demands too much, pages and pages of her dynamically linked and execu-
+ting. I think of her empty arm directing and touching everyone everywhere
+- I'd empty her, turn her into an empty dirty thing, reams of desecrated
+texts directing anyone, anywhere, to do something -
+
+to do anything at all.
+
+ (this is what Jennifer wanted me to write about the sad result of her
+  files so exposed to you, the emptiness of prosthetics, you know 
+  they're all phantom limbs, they're all phantoms, Jennifer says she's
+  a phantom too, she wanted you to know this, 
+
+  this empty sad person in her empty life unable to touch anything
+  at all)
+
+

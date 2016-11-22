@@ -1,0 +1,16 @@
+
+[This constitutes the first 3 pages. Punctuation has been preserved. The
+fourth page is handwritten and contains a diagram, Module interaction for
+a Telnet-logger Connection. The date on this is 12-May-71; both are from
+Harvard. The diagram demonstrates the central role of the IMP, NCP, Data
+Control, and Logger modules, as well as Server and User Processes.
+
+Thanks to Peter H. Salus for the xerox. It's unclear whether the diagram
+is part of the Guide. Salus states that Guide is "four pages long," but
+the diagram is dated later, and is not necessary for access. The third
+page ends half-way down. 
+
+I recommend Salus' Casting the Net; he is also producing two larger vol-
+umes on the early history of the Net, which will include various repro-
+duced documents.
+

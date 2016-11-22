@@ -1,0 +1,113 @@
+==
+
+map_rewrite(@), av = (nullv)
+map_rewrite => @
+queuename: assigned id PAA13958, env=95cd0
+setsender()
+
+--parseaddr(sondheim)
+rewrite: ruleset   3   input: sondheim
+rewrite: ruleset  96   input: sondheim
+rewrite: ruleset  96 returns: sondheim
+rewrite: ruleset   3 returns: sondheim
+rewrite: ruleset   0   input: sondheim
+rewrite: ruleset  98   input: sondheim
+rewrite: ruleset  98 returns: sondheim
+map_lookup(dequote, sondheim) => NOT FOUND (0)
+rewrite: ruleset   0 returns: $# local $: sondheim
+rewrite: ruleset   4   input: sondheim
+rewrite: ruleset   4 returns: sondheim
+parseaddr-->95ce0=sondheim:
+mailer 3 (local), host `'
+user `sondheim', ruser `<null>'
+next=0, alias 0, uid 0, gid 0
+flags=6000<QPINGONFAILURE,QPINGONDELAY>
+owner=(none), home="(none)", fullname="(none)"
+orcpt="(none)", statmta=(none), status=(none)
+rstatus="(none)"
+specificity=0, statdate=Wed Dec 31 19:00:00 1969
+
+udbmatch(sondheim, mailname)
+rewrite: ruleset   3   input: sondheim
+rewrite: ruleset  96   input: sondheim
+rewrite: ruleset  96 returns: sondheim
+rewrite: ruleset   3 returns: sondheim
+rewrite: ruleset   1   input: sondheim
+map_lookup(fdout, sondheim) => NOT FOUND (0)
+rewrite: ruleset   1 returns: sondheim
+rewrite: ruleset   4   input: sondheim
+rewrite: ruleset   4 returns: sondheim
+sendto: sondheim
+   ctladdr=[NULL]
+
+--parseaddr(sondheim)
+rewrite: ruleset   3   input: sondheim
+rewrite: ruleset  96   input: sondheim
+rewrite: ruleset  96 returns: sondheim
+rewrite: ruleset   3 returns: sondheim
+rewrite: ruleset   0   input: sondheim
+rewrite: ruleset  98   input: sondheim
+rewrite: ruleset  98 returns: sondheim
+map_lookup(dequote, sondheim) => NOT FOUND (0)
+rewrite: ruleset   0 returns: $# local $: sondheim
+rewrite: ruleset   2   input: sondheim
+rewrite: ruleset   2 returns: sondheim
+rewrite: ruleset  20   input: sondheim
+rewrite: ruleset  20 returns: sondheim
+rewrite: ruleset   4   input: sondheim
+rewrite: ruleset   4 returns: sondheim
+parseaddr-->bb5a0=sondheim:
+mailer 3 (local), host `'
+user `sondheim', ruser `<null>'
+next=0, alias 0, uid 0, gid 0
+flags=6000<QPINGONFAILURE,QPINGONDELAY>
+owner=(none), home="(none)", fullname="(none)"
+orcpt="(none)", statmta=(none), status=(none)
+rstatus="(none)"
+specificity=0, statdate=Wed Dec 31 19:00:00 1969
+
+
+recipient (0): bb5a0=sondheim:
+mailer 3 (local), host `'
+user `sondheim', ruser `<null>'
+next=0, alias 0, uid 0, gid 0
+flags=6008<QPRIMARY,QPINGONFAILURE,QPINGONDELAY>
+owner=(none), home="(none)", fullname="(none)"
+orcpt="(none)", statmta=(none), status=(none)
+rstatus="(none)"
+specificity=0, statdate=Wed Dec 31 19:00:00 1969
+
+alias(sondheim)
+udbexpand(sondheim)
+maplocaluser: bb5a0=sondheim:
+mailer 3 (local), host `'
+user `sondheim', ruser `<null>'
+next=0, alias 0, uid 0, gid 0
+flags=6008<QPRIMARY,QPINGONFAILURE,QPINGONDELAY>
+owner=(none), home="(none)", fullname="(none)"
+orcpt="(none)", statmta=(none), status=(none)
+rstatus="(none)"
+specificity=0, statdate=Wed Dec 31 19:00:00 1969
+
+rewrite: ruleset   5   input: sondheim
+rewrite: ruleset   5 returns: sondheim
+forward(sondheim)
+EOH
+----- collected header -----
+Return-Path: ($g) sondheim
+Received: ($?sfrom $s $.$?_($?s$|from $.$_) $.by $j ($v/$Z)$?r with $r$.
+id $i$?u for $u$.; $b) (from sondheim@localhost) by panix3.panix.com
+(8.8.5/8.7/PanixU1.3) id PAA13958 for sondheim; Fri, 16 May 1997 15:52:19
+-0400 (EDT) 
+Resent-Date: ($a) Fri, 16 May 1997 15:52:19 -0400 (EDT)
+Date: ($a) Fri, 16 May 1997 15:52:19 -0400 (EDT)
+Resent-From: ($?x$x <$g>$|$g$.) crackaddr(Alan Sondheim <sondheim>)
+crackaddr=>`Alan Sondheim <$g>'
+Alan Sondheim <sondheim>
+From: ($?x$x <$g>$|$g$.) crackaddr(Alan Sondheim <sondheim>)
+crackaddr=>`Alan Sondheim <$g>'
+Alan Sondheim <sondheim>
+Full-Name: ($x) Alan Sondheim
+Subject: () 
+Resent-Message-Id: (<$t.$i@$j>) <199705161952.PAA13958@panix3.panix.com>
+Message-Id: (<$t.$i@$j>) <199705161952.PAA13958@panix3.panix.com>

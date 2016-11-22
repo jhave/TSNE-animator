@@ -1,0 +1,19 @@
+
+
+ Sonnet
+
+ File: zz
+ [ New file ]
+ Modified
+ File Name to write : zz
+ [ Wrote 4 lines ]
+ Save modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?
+ File Name to write : zz
+ [ Wrote 7 lines ]
+ File Name to write : zz
+ [ Read 10 lines ]
+ [ Wrote 11 lines ]
+ [ Search Cancelled ]
+ Edit a replacement: zz
+ [ Done checking spelling ]
+

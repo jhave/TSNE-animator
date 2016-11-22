@@ -1,0 +1,462 @@
+[-Ryad-21-linys-]
+
+
+
+_
+
+ksh: s///g: not found
+
+ksh: no closing quote
+
+set autoindent
+
+
+
+what
+
+
+
+"Nothing happened."
+
+-- Albert Camus
+
+
+
+"Nothing happened."
+
+-- Marcel Proust
+
+
+
+"Nothing happened."
+
+-- J-P Sartre
+
+
+
+"Nothing happened."
+
+	-- Kathy Acker
+
+
+
+	"Nothing happened."
+
+	-- James Ellroy
+
+
+
+	"Nothing happened."
+
+	-- Italo Calvino
+
+
+
+	"Nothing happened."
+
+	-- J.G. Ballard
+
+
+
+"Nothing happened."
+
+-- Diamond Sutra
+
+
+
+"Nothing happened."
+
+-- John dos Passos
+
+
+
+"Nothing happened."
+
+-- Gregory Bateson
+
+
+
+  "Nothing happened."
+
+  -- F. Scott Fitzgerald
+
+
+
+  what
+
+
+
+set autoindent
+
+~:x
+
+
+
+
+
+
+
+
+
+([{}]) (blurring the distinctions)
+
+
+
+
+
+
+
+"Difference, being of the nature of relationship, is not located in time 
+
+or in space. We say that the white spot is 'there,' 'in the middle of the 
+
+blackboard,' but the difference between the spot and the blackboard is not 
+
+'there.' It is not in the spot; it is not in the blackboard; it is not in 
+
+the space between the board and the chalk. I could perhaps lift the chalk 
+
+off the board and send it to Australia, but the difference would not be 
+
+destroyed or even shifted because difference does not have location.
+
+
+
+"When I wipe the blackboard, where does the difference go? In one sense, 
+
+the difference is randomized and irreversibly gone, as 'I' shall be gone 
+
+when I die. In another sense, the difference will endure as an idea - as 
+
+part of my _karma_ - as long as this book is read, perhaps as long as the 
+
+ideas in this book go on to form other ideas, reincorporated into other 
+
+minds. But this enduring karmic information will be information about an 
+
+imaginary spot on an imaginary blackboard." (Gregory Bateson, Gregory 
+
+Bateson's Mind and Nature: A Necessary Unity.)
+
+
+
+Perhaps it is in the nature of this particular difference to lie within
+
+the imaginary, within an intentionality that fulfills a demarcative struc-
+
+ture or domain: like all difference, it opens to continuous potential, to
+
+worlds of fantasy, projection, introjection. Let us not stop with Austral-
+
+ia; let us include, Japan, Mars, the depths of the ocean, the interiority
+
+of the quark, the swimmerets of Jean-Paul the crayfish. I would argue that
+
+meaning comes first, difference later - or that both are inextricable. As 
+
+difference slips from tally-board to concept, entity slips from red-dust 
+
+and sinter to constitutionality. 
+
+
+
+Let us think further of difference as carried, much as numbers are carr- 
+
+ied in addition or subtraction: leaping among columns. Then distance so 
+
+easily slides from this _particular_ difference to all difference, all 
+
+within the imaginary, that is, all constituted by the nub or slightest 
+
+anomaly detected or created by organisms immersed in always already sym- 
+
+bolic flow. Here is translation into information, 0 -> 1 or 1 -> 0, or in 
+
+a scheme which I worked out years ago, (0-1)0-(1-0)1, a hierarchy of 
+
+transforms. If difference is a consideration of temporality, it breaks 
+
+from strict logic, although memory may be carried as well, and there are 
+
+temporal logics. And what difference isn't, in the process of becoming- 
+
+difference? One moves uneasily among logical/hierarchical schema and im- 
+
+mersive counterparts - among substances and organisms sloughing into and 
+
+throughout ones and others.
+
+
+
+A difference is that which makes a difference; what makes a difference, 
+
+makes it to one or another organism; what is the property of reading, but 
+
+the acknowledgment and presentification of difference. All else is the 
+
+non-purity of the mirror, the no-mirror and no-mind; difference itself 
+
+defers; deconstruction clutters (clatters). Not in Australia, this book, 
+
+hard to come by, exists in pristine condition; I would put out a call for 
+
+the author.
+
+
+
+And imagine, for example, the mark on the board as a zero, encircling Jor-
+
+dan curve, slightly raised from the surface, characterized as dust in the
+
+first and last place, the board a slate, archaic: I imagine sea anenomes
+
+or even stromatolites - why not - leaving their traces. Is a difference a
+
+distinction without an observer? Years ago I wrote about landscapes, to
+
+imagine one without a viewpoint, perspective - an absolute landscape, not
+
+with infinite holographic positionings, but none at all: most of the uni-
+
+verse surely is without a witness.
+
+
+
+What happens to difference then? Surely, without a witness...
+
+
+
+Back here - around the corner, down the street - What goes on in locked
+
+cells? For whom? What inscriptions? (Does difference need maintenance, a
+
+database? The phenomenology of the witness requires a degree of stability, 
+
+quietude, modes of dissemination.)
+
+
+
+
+
+___
+
+
+
+
+
+measure-geometry semi-fractal paths
+
+
+
+sed 's/f/fg/g' zz >> yy; sed 's/g/gf/g' yy >> zz
+
+f
+
+fgf
+
+fgf
+
+fgf
+
+fgfgffgf
+
+fgf
+
+fgf
+
+fgfgffgf
+
+fgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgf
+
+fgf
+
+fgfgffgf
+
+fgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgf
+
+fgf
+
+fgfgffgf
+
+fgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+fgfgffgfgffgffgfgffgfgffgffgfgffgffgfgffgfgffgffgfgffgf
+
+
+
+sed 's/f/fgg/g' zz >> yy; sed 's/g/ffg/g' yy >> zz
+
+fg
+
+fffgffgffg
+
+fffgffgffg
+
+fffgffgffg
+
+fffgffgfffgffgfffgffgffgfffgffgfffgffgffgfffgffgfffgffgffg
+
+fffgffgffg
+
+fffgffgffg
+
+fffgffgfffgffgfffgffgffgfffgffgfffgffgffgfffgffgfffgffgffg
+
+fffgffgffg
+
+fffgffgfffgffgfffgffgffgfffgffgfffgffgffgfffgffgfffgffgffg
+
+fffgffgfffgffgfffgffgffgfffgffgfffgffgffgfffgffgfffgffgffg
+
+fffgffgfffgffgfffgffgffgfffgffgfffgffgffgfffgffgfffgffgffg
+
+
+
+
+
+_
+

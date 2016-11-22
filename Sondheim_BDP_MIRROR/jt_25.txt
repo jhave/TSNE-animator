@@ -1,0 +1,47 @@
+
+
+
+
+RPM, Colonization, and the Future Social
+
+
+RPM is the Red Hat Package Management Tool developed by Red Hat Software
+for linux and it deserves notice because of its flexibility and function.
+RPM, as rpm -<options> [file, etc.], penetrates the installed system,
+downloads, uploads, upgrades, reports back on damaged and/or healthy
+packages, produces information on installed or uninstalled packages, re-
+ports back on help files, and so forth. RPM also reports from Net ftp
+sites, and from the Red Hat installation cdrom itself. An X Window ver-
+sion, Glint, reports in a graphic form, but doesn't carry all the detail.
+
+RPM is similar to a plug-and-play installation-uninstallation and diagno-
+stics tool. It can report back from package libraries, and treat your in-
+stallation as dispersed packages as well. 
+
+RPM in other words _pervades_ and penetrates both computer and source,
+configuring the former, reporting on both. It can be considered a tool for
+colonization of the system; the packages are eerily similar in concept to
+the packets or packages of modernization described in The Homeless Mind. 
+These packages accompanied and were embedded in seemingly neutral objects
+(portable radios, walkmen, etc. - so much within aural culture) absorbed
+by traditional (flag: _deconstruct_) societies; they transformed the soc-
+ieties accordingly in unpredictable ways; they were inverted, bricolaged;
+adapted and adopted - beneath the dissolving signs of chaotic determina-
+tion. Like capital, they were wind; like capital, they appear as nodes,
+nomadic, intensities, strange attractors.
+
+Packages colonize your system; the computer might, like Minsky's account
+of mind, be _society_ at least in metaphor - and _society_ in truth, in
+the future. The interpenetrations of Web, server, client, push technology,
+vrml helmet and goggles, keyboard and human organism, orgasm and core dump
+- all server to construct dispersions of languages and orders across in-
+formation plateaus (hardware, software, wetware) in inordinately complex
+fashion. Plug and play, RPM, and push technologies transgress and trans-
+form traditional boundaries of 'information' _in_ the 'machine' _operated_
+by another 'machine' or 'human.' 
+
+One can imagine a state in which colonizations and meta-colonizations
+construct fluid orders, fluxes - not cyborgs, but a future _social_ as yet
+undefined (and one might say, always already so).
+
+

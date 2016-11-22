@@ -1,0 +1,85 @@
+
+
+
+Procedural Semiotics
+
+
+In 1978 I worked on a series of programs for the TI59 calculator, which
+used an assembly-language approach. Out of this came a work called Grounds
+for a Procedural Semiotics; the longer programs I termed "Incremental
+Field Programs," described as follows: 
+
+"The incremental field programs possess a central processing unit contain-
+ing a random number generator, plus a structured field containing subpro-
+grams. Each subprogram outputs into another subprogram, according to the
+sequencing of the cpu. An initial increment may be set, as well as a sub-
+program counter whose output is the number of subprograms that have been
+called at that point. The ifps stop only when an interrupt occurs.
+
+"The subprograms respond in various ways to their inputs. In some in-
+stances, the input is bypassed entirely and a "false processing" occurs.
+In others, the input is raised by the appropriate operators until the
+limit of the machine is reached.
+
+"Each subprogram cycles before returning to the cpu. The cycle number in
+some instances is determined by the program operator; in others, it is
+internally determined.
+
+"The subprograms may be considered floating signifiers whose content (sub-
+ject for processing) is the input. The four characteristics of a subject
+of natural history in the classical age, according to Foucault, also ap-
+ply to the ifps. That is, "the form of the elements, the quantity of those
+elements, the manner in which they are distributed in space in relation to
+each other, and the relative magnitude of each element." The first refers
+to the structure of the subprogram; the second, to the number of subpro-
+grams; the third, to their distribution [i.e. direct and indirect addres-
+sing]; and the fourth, to their processing in relation to a specific in-
+put. Thus the ifp, in a sense, is an internal natural history in dialog
+with three entities: the initial increment; the random number generator;
+and the interpretation of the output display. [I would question "dialog" 
+now, replacing it with "natural history or bound variable dependent upon
+an external quantity, which in turn feeds into the interpretation of the
+output display."]
+
+"An internal natural history which is also a presentation of signifiers -
+both are possible, since the substance and semiotics of abstraction are
+equivalent here.
+
+"The ifps play with signification; they delude (because some of the prog-
+rams generate their own content, regardless of initial increment). They
+proclaim at each _appearance_ of a number the presence of processing, and
+yet the appearance may be generated in a foreclosed discourse completely
+disjunct from such evident processing. A world of mirrors."
+
+Sample display:
+
+101
+156
+312
+212
+424
+324
+648
+102
+1319167.322
+1148.550095
+4144286.366
+2035.75204
+13019659.6
+3608.276542
+103
+1804.138271
+902.0691355
+451.0345677
+104
+...
+
+[So at this period, internal cpu operation was perceived as the site of
+semiosis, masquerade, structure, destructuring, as well as the locus of
+attractors that annihilated history. And all of this occurs within a clas-
+sical framework of clearly-defined elements and their distributions. And
+the result is a _dirty_ sememe, whose structure cannot be verified, is
+problematic. Think of the subprograms as drives within the chora, or as
+the flickering of virtual bodies in some other space.]
+
+

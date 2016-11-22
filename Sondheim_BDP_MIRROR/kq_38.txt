@@ -1,0 +1,46 @@
+
+
+
+In Search / In Lieu of / In Place Of / Gripping Jennifer
+
+
+(w | grep <string> is a command to list current users on the shell
+accounts, then to search the user list and return the <string>. The
+command is beautifully self reflexive; the last entry in the list
+tells what the user is actually doing, and since I am, for example,
+issuing the command 'grep jennifer,' then 'jennifer' returns the 
+line itself - I am calling up my own activity. Below, some entries;
+as the search widens, others come into play - I've changed names
+to protect their privacy.)
+
+Ju11lu% w | grep jennifer
+sondheim ttyq3     6:35am           15         grep jennifer 
+Ju12lu% w | grep julu
+sondheim ttyq3     6:35am           16         grep julu 
+Ju13lu% w | grep alan
+sondheim ttyq3     6:35am           17         grep alan 
+Ju14lu% w | grep nikuko
+sondheim ttyq3     6:35am           17         grep nikuko 
+Ju15lu% w | grep sondheim
+sondheim ttyq3     6:35am           17         grep sondheim 
+Ju18lu% w | grep ar
+egardens ttype    Wed 4pm 2days      6         -psh 
+jbarrm   ttyq2     6:30am           28     23  tin 
+sondheim ttyq3     6:35am           18         grep ar 
+Ju19lu% w | grep ra
+  6:59am  up 10 days,  9:46,  24 users,  load average: 1.88, 2.01, 1.99
+sondheim ttyq3     6:35am           19         grep ra 
+slyin    ttyra    Thu 9am 21:15     14     14  pine 
+Ju20lu% w | grep in
+User     tty       login@  idle   JCPU   PCPU  what
+wendy    ttyp1     7:04am            1      1  /usr/local/bin/pine -i 
+brown    ttyp5     6:58am            4      3  /usr/local/bin/pine -i 
+cynthe   ttypa     4:30am  1:45      4      4  pine -i 
+rune     ttypb     3:11am     1      2	/net/u/10/d/dlin/tintin/tt++ 
+sondheim ttyq3     6:35am           23         grep in 
+brind    ttyra    Thu 9am 21:22     14     14  pine 
+art      ttys0    Tue 1pm 3days     30     27  /usr/local/bin/joe +8 
+	/net/u/10/
+storm    ttytf     2:39pm  9:40   2:07   2:05  /usr/local/bin/emacs-20.2 
+	-f gnu
+

@@ -1,0 +1,21 @@
+\^ /indistinguishes /g' yy > zz
+sed 's/ ----\./ kwak /g' zz > yy
+sed 's/ ---\./ aum /g' yy > zz
+more zz
+sed 's/ -----\./ bardo /g' zz > yy
+sed 's/ ----\./ more /g' yy > zz
+sed 's/ ---\^ / less /g' zz > yy
+more yy
+sed 's/--------\./nirvanas /g' yy > zz
+more zz
+sed 's/ -------\./ satoris /g' zz > yy
+sed 's/ +,--- / o,non /g' yy > zz
+sed 's/ +----\./ waver /g' zz > yy
+sed 's/ +------\./ sickens /g' yy > zz
+more zz
+sed 's/ ----\./ dies /g' zz > yy
+sed 's/ ----\^ / hears /g' yy > zz
+more zz
+sed 's/ +---\. / form\. /g' zz > yy
+more yy
+sed 's+

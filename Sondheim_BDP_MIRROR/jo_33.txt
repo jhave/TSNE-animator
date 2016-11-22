@@ -1,0 +1,9 @@
+
+
+
+
+Alan sends a secret to herself and lets you in on it:
+
+
+(Using enroll/xsend/xget SECRETMAIL and you'll never guess what the pass-
+word is!)

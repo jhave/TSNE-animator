@@ -1,0 +1,20 @@
+=
+
+
+You can see the lists of words at the beginning - and I can change these 
+any time of course - as well as a lot of characters that start with a 
+dollar sign such as "$that". These are string variables - they refer back 
+to the word lists. There is also a lot of "\n" which simply signals to the 
+program that the end of a line is reached, and it's time for a new one.
+
+When the program runs, it asks me to enter lines, gives me material in 
+return - and I write in and out of the material it gives; it then 
+rearranges the lines according to its own internal logic, and gives me a 
+text at the end.
+
+The following is a text I wrote for this essay, showing how I can use the 
+program to develop a theme; as far as I'm concerned, the following is 
+also a finished work, a kind of circulation of software and human 
+presence:
+
+

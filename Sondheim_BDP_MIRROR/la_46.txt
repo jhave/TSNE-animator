@@ -1,0 +1,79 @@
+
+
+
+What I'm Doing About It
+
+
+As September-February virtual writer-in-residence at trAce I'm supposed to
+be preparing for incoming. Meanwhile we were three months away from desk-
+tops, and the laptops can't handle the Linux system I need. So I bought a
+Compaq 5204 only to find the sound gone on the system, which is now being
+subject to a quick restore, thanks to Compaq help; the problem remains
+which means that hardware's got to be changed. I've already spent an even-
+ing when I should be learning cgi-bin stuff playing around with drivers
+that I shouldn't have had to touch; I'd already tweaked the Win98 registry
+and added a swapfile, etc., and that only took three days. I find myself
+caught on slow modems when anything does work (and why is the QuickRestore
+disk adding Windows NT setup at the moment? why does it give copying data
+and current process percentages without giving the process name and the
+time left for restoration?). I'm replete with gremlins; in the cgi-bin, I
+used a script that runs on everything else (not my own), thanks to Paula
+Edmiston who sent me the URLs; I then set permissions and paths properly
+and I can pretend to add to hypertext to no avail. It's hot here but at
+least the computers (this older Pentium 100 and the Compaq which runs at
+330 with a different chip) are cooled over by the window. I'm desperate
+for rain. I'm not made for file permissions and drivers and tech support
+which isn't life support. I'm panicky about the residency, feeling very
+unprepared - not enough perl, not enough javascript, only the blurred edg-
+es of a story and what about those email lists? - I'm run ragged at the
+precipice lip, out of money for further equipment (I'd give a lot if I had
+it for a Toshiba Libretto fit out with RedHat 6.1 - _that_ would be ideal)
+and out of sorts as "SystemSave" keeps running to my right - all of my own
+data and tweaking having been erased of course. Well, this has all come to
+an end with the QuickRestore and sure enough the sound is still bad and I
+call up support again and tech tells me I have to bring it in to a certi-
+fied dealer - well, first he's (the first tech was she's) got me going
+into safe mode and removing the sound card and of course that's not it,
+and then I hang up and check the warranty and it says I get on-site ser-
+vice and I call tech support for the third time after calling the Compaq
+main office at 2 in the morning and how dare they remain closed when I'M
+calling, and anyway, the third guy agrees to the terms, gives me a case
+number (now I'm official, I'm a case - this is the third case I've had
+with Compaq mind you in three years, the other two ending in a class ac-
+tion lawsuit), so within 3 to 5 days I can presumably start setting up
+RedHat Linux 6.1 (if I can find it cheap enough) on the system (I've never
+used lilo for booting, just System Commander), and and and and and
+
+the whole world is beginning to feel like one big kludge, I shouldn't be
+the virtual-writer-in-residence, I can hardly spell my name at the moment,
+my work is all one big lie, the center doesn't hold and either do the
+edges and for that matter nothing in particular holds anywhere across the
+middle either, and I think
+
+that all of human history is one big kludge, bumbling around, it's amazing
+if the keyboard works (even if it's not connected to anything, I have one
+of those Microsoft contoured ones and it feels great, but the system's
+shut down until the repairs are done), it's amazing if the mouth works, if
+speech works, in the long run into that dark dark night as Fitzgerald
+might say, there's no one to call, no one to pick up the phone, no machine
+to take the messages, no machine to deliver them, there's only that si-
+lence on the line, there are no lines, there are no phones, no ears to
+hear no mouths to speak of, and I think
+
+thank god we're all fools looking down at our feet, I wonder if I can do
+anything with this semi-broken RedHat Linux 5.0 on the other machine, so
+what if the cgi-bin doesn't work, the colors aren't proper, and it won't
+go into SVGA mode, keeping me in a ridiculous 640 by 480 or some such with
+Netscape Communicator not even staying properly within X-Window coordin-
+ates, but flooding all over multiple desktops, making me jumpy when I'm
+working, just another kludge, I look into the mirror
+
+and see parts and parts and parts, nothing whole, just assemblages linked
+together, it's psychosis that makes me think they're only concatenated,
+coupled, broken, ready to collapse at any moment, whole worlds are held
+together
+
+by tethers like that, this, the other, just as the parts of me beg for
+different names
+
+

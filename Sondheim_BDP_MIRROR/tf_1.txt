@@ -1,0 +1,1027 @@
+
+violat
+
+http://www.alansondheim.org/violat.jpg
+http://www.alansondheim.org/violat.mp3
+
+everything i do is grotesque, misshapen
+the sooner i get to space and time the better
+the music screeches in my mind and i remember
+doug saying he can't draw any more because the
+pencil screams when he presses it on the paper
+
+the music has its own teeth and melody
+the music is a thief and harbinger of evil
+it's stingy it won't allow me near it
+what i think about is how violat it is
+and how it screams when i try to play it
+
+everything in my life won't let me near it
+everything turns violent and plays my skin
+my skin is an instrument of space and time
+my skin is grotesque and misshapen
+
+what i do is try to wear the music
+the sooner i get to space and time the better
+
+
+
+tungg
+
+http://www.alansondheim.org/tungg1.png
+http://www.alansondheim.org/tungg.mp4
+
+the TUNGG of the thing where SPEECH is PROSCRIBED
+
+now i am safe here when i can rise
+and place my tiny worlds out of site and mind
+my tiny worlds are safe from everyone
+and it doesn't matter if i can scream
+i have a tungg and i can scream
+my tiny worlds are safe from you 
+my tiny worlds are safe from me
+i sing
+my tiny worlds where are you now
+my tiny worlds where are you now
+you're safe from me and safe from them
+you're safe from me and safe from them
+my tiny worlds you are my tungg
+my tiny worlds you are my tungg
+my tiny worlds my tungg and you
+my tiny worlds my tungg and you
+
+k11% cp tungg.txt texts; ftp tunggaol.org
+Connected to tunggaol.org.
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 3 of 50 allowed.
+220-Local time is now 22:54. Server port: 21.
+220-This is a private system - No anonymous login
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+Name (tunggaol.org:tunggaol): tungg
+331 User tungg OK. Password required
+Password: mytinygaol
+230 OK. Current restricted directory is /
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> cd public_html
+250 OK. Current directory is /public_html
+ftp> put tungg.txt
+local: tungg.txt remote: tungg.txt
+229 Extended Passive mode OK (|||34166|)
+150 Accepted data connection
+100% |***********************************|   762        5.54 MiB/s    
+00:00 ETA
+226-File successfully transferred
+226 0.040 seconds (measured here), 18.41 Kbytes per second
+762 bytes sent in 00:00 (18.31 KiB/s)
+ftp> bye
+221-Goodbye. You uploaded 1 and downloaded 0 kbytes.
+221 Logout.
+k12% tunggaol
+
+
+
+
+somewhere from Holderlin
+
+http://www.alansondheim.org/geol05.jpg
+http://www.alansondheim.org/claralto.mp3 (Bb & alto)
+http://www.alansondheim.org/geol18.jpg
+
+somewhere from Holderlin's The Leisure
+
+But rising into the moonlight up the broken columns
+And the temple gates that once met the terrible, the secret
+Spirit of balance, the chest of the Earth and the people
+Be angry and ferments, the Unbezwungne, the old Erobrer,
+The cities, like lambs, tears, once the Olympus
+Stormed which stimulates in the mountains, and flames out throws,
+The uprooted forests and breaks forth by the ocean
+And the ships smashes and yet in the eternal order
+Never mislead you power on the board of your laws
+No syllable blurred, which is also your son, O Nature,
+With the spirit of peace born out of a womb. -
+
+machine translation, the original German found handwritten
+in a fourth edition of Hermann Weyl's RAUM ZEIT MATERIE, 
+1921
+
+broken columns, Riemann, sheaves
+
+
+
+sheaves
+
+http://www.alansondheim.org/lasts057.jpg
+http://www.alansondheim.org/longsaz1.mp3
+
+how nice, why so much music? why so much music? i work on surge 
+theory with very little response; now, three of us are working 
+together on a cd, Threnody, Shorter Discourses of the Buddha - 
+everything on it has to be a combination of centrifugal and 
+centripetal forces, flight and border or potential well, 
+emptiness, the rush from life and death towards space and time, 
+survival in a cold-death universe of annihilations. again there 
+will be very little response; great reviews don't translate into 
+sales or distribution or breaking even, or anything that might 
+allow me, us, to go on, and i sense an ending just around the 
+corner, children and grownups flee from me, as far back as i 
+remember, animals yowl, plants wilt, mewl and slumber, forms 
+slowly wander their uneasy path of disappearance
+
+soon the music will be done and gone, disks to give away, no one 
+listens, no one returns our calling
+
+
+
+
+
+move
+
+http://www.alansondheim.org/move.jpg
+http://www.alansondheim.org/move.mov
+
+
+
+
+From Shorter Discourses of the Buddha:
+
+http://www.alansondheim.org/danmoi.png
+http://www.alansondheim.org/digiorgio.mp3
+
+another candidate
+forthcoming on Public Eyesore records:
+
+Shorter Discourse of the they:
+
+the MOO grinds on grinds on
+the MOO screams loneliness and
+the empty atmospherics wail on Phaedra
+the split my head they killed me
+the world whirls away
+there's no uptime downtime logins logouts
+they butchered my talker
+they cauterized my directories
+they closed my MOO behind a firewall
+they cut off my arms my hand
+they cut off my legs my tongue
+they cut out my eyes my ears
+they hung me near your eyes your ears
+they killed my haven
+they plucked my lily from my navel
+they refused my nightmares
+they ripped out my umbilical cord
+
+Agaynst the Foe; thus, angered Fathers
+At last, upon the Bairn of Dusk arose:
+Borne of Galls of Foreyn Mothers.
+Doth doome the State of Ripening
+Names of Others, Castigate those
+Theyr Burthen of Artystry, tempering
+This ys the Space of Memory
+Those forced madly Hyther, lightening
+Transpose theyr Selves, and steal what is Myne.
+Uponne another; thus Sophistry
+
+   1. 0 -> X, in which the origin only 
+   3. 0 -> A(n) B(n') C(n") in which emperor or other 
+"A specter haunts Europe - the specter of communism. 
+"The 'mystical character' of the commodity is.
+"The same connexion that defines the visible.
+"real" weeds refuse the sign, are disposable. 
+"weather center," back to television.
+10. The good men appreciate.
+11. Let the great savants of learning who are.
+12. The tree of logic, planted by the great.
+1996 end the weight of the present. 
+1996 hold death in my hands.
+1996 no future there is none.
+1996 the weight of the present.
+3000 In the year 3000 my birthday falls.
+3000 untrue we're inside others.
+5. Let the discerning wise people take their bath.
+59. By being taken into possession, the thing.
+6. We make an appeal to the great.
+7. I have culled this herb from the wild.
+:From the direction of the blood.
+
+
+
+ther teror in land nam craking
+
+http://www.alansondheim.org/geol42.jpg
+http://www.alansondheim.org/dg3.mp3 providence guitar 
+and banjo
+http://www.alansondheim.org/banj1.mp3 providence guitar
+and banjo
+
+it was dark and miserable, who could eny deny the supine
+body, parched, waiting for pleasures and pains, his and
+her bound together in this darkened moment of desiccation
+and untoward acts of ecstasy and vengeance.
+not me and not you and that were said to be true of al
+of us s/he sed 2 no 1 in particlar wh o were listening
+2 th sounds of bones craking
+[9;41H
+were
+[9;46H
+listening
+[10;1H
+[10;3H
+[10;6H
+sounds
+[10;13H
+[10;16H
+bones
+[10;22H
+craking
+[11;1H
+[12;1H
+[22;1H
+
+[22;1H
+File Name to write :
+[22;22H
+[23;15H
+  To Files                                                     
+[24;2H
+ Cancel    
+ Complete                                                     
+[22;22H
+typescript                                                 
+[22;32H
+[22;1H
+
+[22;34H
+[ Writing... ]
+[22;1H
+
+[22;32H
+[ Wrote 10 lines ]
+[1;35H
+    File: typescript                        
+[23;1H
+[24;1H
+[23;1H
+ Get Help  
+ WriteOut  
+ Read File 
+ Prev Pg   
+ Cut Text  
+ Cur Pos   
+[24;1H
+ Exit      
+ Justify   
+ Where is  
+ Next Pg   
+ UnCut Text
+ To Spell  
+[12;1H
+[23;1H
+[24;1H
+$ now there were more terror 2 be sure en th land
+/usr/local/bin/ksh: now: not found
+$ and we wer found ther
+/usr/local/bin/ksh: and: not found
+
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^
+@^@^@^@^@^@^@^@^@^@oESC[9;41H^@^@^@^@^@^@^@^@^
+@^@wereESC[9;46H^@^@^@^@^@^@^@^@^@
+^@listeningESC[10;1H^@^@^@^@^@ 
+^@^@^@^@^@2ESC[10;3H^@^@^@^@^@^@^@^@^@^@thESC[10;6H^@
+^@^@^@^@^@^@^@^@^@soundsESC[10;13H^@^@^@^@
+^@^@^@^@^@^@ofESC[10;16H^@^@^@^@^@^@^@
+^@^@^@bonesESC[10;22H^@^@^@^@^@^@^@^
+@^@^@crakingESC[11;1H^@^@^@^@^@^@^
+@^@^@^@ESC[12;1H^@^@^@^@^@^@^@^@^@^@ 
+ESC[22;1H^@^@^@^@^@^@^@^@^@^@ 
+ESC[22;1H^@^@^@^@^@^@^@^@^@^@ESC[7m^@^@^@^@File Nam
+
+"He also spoke of their character of production [through the 
+force of contaminated actions and afflictive emotions, their] 
+character of disintegration, abandonment [of the contaminated 
+actions and afflictive emotions that are the causes of the 
+contaminated aggregates], and through knowledge [that the 
+entities of the aggregates are like a disease or are not 
+established as a substantial existent self]." (Jeffrey Hopkins, 
+Emptiness in the Mind-Only School of Buddhism: Dynamic Responses 
+to Dzong-ka-ba's _The Essence of Eloquence: 1,_ University of 
+California Press 1999, pp. 76-77, Dzong-ka-ba's summary at the 
+beginning of the Paramarthasamudgata Chapter of the _Sutra 
+Unraveling the Thought._)
+
+
+
+Why I love to play music.
+
+http://www.alansondheim.org/lovemusic.png
+http://www.alansondheim.org/lovemusic.mp3
+
+1. I can.
+2. I'm good at it.
+3. It's good exercise.
+4. It fills me with wonder.
+5. Time slows up.
+6. My lungs strengthen.
+7. I don't have to listen to the street.
+8. My depression lightens.
+9. I tend to something besides me.
+10. I pretend to do new things.
+11. I pretend to explore new structures.
+12. It puts me in a 'zone.'
+13. My tinnitus is forgotten.
+14. I communicate to someone else.
+15. I train my ear.
+16. I don't think about anything.
+17. My hands and fingers grow stronger.
+18. My hands and fingers grow quicker.
+19. The music pushes me.
+20. I inhabit a world of comfortable discomfort.
+21. I go to the limit of my ability.
+22. I explore microhistories around me.
+23. My instruments present an anthropology.
+24. I both silence and open myself.
+25. I dwell in the world.
+26. Neurosis recedes.
+27. I am aware of sound in time.
+28. I'm always surprised by where I am.
+29. I do something I'm not trained to do.
+30. I burn calories of creativity.
+31. Music is the body's interiority.
+32. Later theorizing is crystalline and clear.
+33. Enlightenment is slowly approached.
+34. I hear my singing voice (I cannot sing).
+35. I don't have to worry about someone else's rhythm.
+36. I trust my instruments for perfect playing.
+37. Wood and metal, reed and nylon, greet me.
+38. I can do something others can't.
+39. It's the only sport I'm good at.
+40. Practice and creation become one.
+41. I become one with objects and dynamics.
+42. I become one with sound and movement.
+43. I become one with breath and physical reach.
+44. I become sound and I become.
+45. I dwell in becoming.
+46. I sound and I dwell in sounding.
+47. I dialog with and tend to my instruments.
+48. Temperature, pressure, and humidity control me.
+49. My control is given as a gift.
+50. I am in a state of furious peace.
+51. My speed is a positive, not a liability.
+52. I explore untoward structures.
+53. I inhabit these structure and extend them.
+54. The world is sounding and amazing.
+55. I will return to the world enriched.
+56. I can listen to the world and what I have made.
+57. I can listen to the making of the world.
+58. I can listen to the world making me.
+59. I can do something well and can do good.
+60. My daemons momentarily disappear.
+61. My daemons momentarily return.
+62. My music is a gift for the people I love.
+63. My music is uncanny.
+64. I don't have to worry about tonic return.
+65. The return to the world is never the same.
+66. I inhabit an inconceivable sonic architecture.
+67. I commune with others who commune with me.
+68. I am part of a sonic world of friends.
+69. Time stops and I am still alive.
+70. I will leave something behind when I die.
+71. I will leave gifts and dwellings for others.
+72. And I will never have to worry about tonic return.
+
+
+
+
+cawwac yzarc-t
+
+http://www.alansondheim.org/cawwac1.png
+http://www.alansondheim.org/wacwac.mp3
+http://www.alansondheim.org/cawcaw.mp3
+http://www.alansondheim.org/cawwac2.png
+http://www.alansondheim.org/cawwac3.png
+
+saw ti ,raey siht crazy ekil etorw I ...dna dnuos eht dna leef 
+eht devol ;laretil reven saw ehs ,dnah eno eht nO .toob ot crazy 
+dna leimelhcs ,em eht ,stoob evisnepxe fo gniraew eht ,toob ot 
+crazy dna leimelhcs eht s'tI gninrut ,ereht crazy kcuf dna sw ll 
+h dna stekciht tni dnu rg eht htaeneb snoitide hguorht crazy nur 
+i sa snialpxe siht tub krow fo paeh a si siht atnecalp_LATIGID 
+ot noziroh eht :fo htiw :fo eht nus crazy eht crazy nus sa 
+redniamer eht si ot crazy eht eht hcihw fo=gnieb ## ## ## ## 
+redniamer ## eht si ot crazy ## ## eht eht esrow era yehT .dab 
+ton era sgnag ehT .won drib a eb ot crazy eb dluow gninrut 
+,ereht crazy kcuf dna sw ll h dna stekciht tni dnu rg eht 
+htaeneb rof ti desu ev'I ;siht teg ot crazy ekil dedart I !woW 
+.noitide ht6 5871 elttil rehto't crazy nrow 7991 sallad eoj 
+yrrej edona retirwepyt cirtcele saw ti ,raey siht crazy ekil 
+etorw I ...dna dnuos eht dna leef eht devol rof lla lla lla og 
+ybab deneppah gniworht crazy crazy sgniht . og rebmemer aaw ti 
+,raey siht crazy ekil etorw I ...dna dnuos eht dna leef eht 
+devol .esrow era yehT .dab ton era sgnag ehT .won drib a eb ot 
+crazy eb dluow
+
+
+
+production preparation, Palmyra
+
+http://www.alansondheim.org/survive5.png
+http://www.alansondheim.org/eguitclar.mp3
+ -> -> electric guitar + Bb clarinet
+
+preparation of production
+production of preparation
+
+1. I don't have names for the pieces at this point.
+2. Pieces are 4' or under.
+3. Pieces are the Shorter Discourses of the Buddha.
+4. Production of production and preparation of preparation.
+5. Instrument names are not names.
+6. I don't have the order down at all.
+7. My nails are strong and my fingers supple.
+8. "Yet my nails are strong and my fingers supple."
+9. The qin, at any moment, out of tune.
+10. Viola bowing leaves a lot to be desired.
+11. Alpine zither and electric guitar = rough on fingers.
+12. Risky gamble of maverick clarinet.
+13. Balance Azure singing with embedding and clarity.
+14. Cords, chords, and braid = sonic sheaves.
+15. Sound remaining, for a moment, after I die.
+16. The unclarity of the sound remaining.
+17. Today I practice jinashi shakuhachi, alto clarinet, 
+clarinet, electric guitar, viola, anything to keep myself
+moving. These are the best for the fingers and lungs. 
+Tomorrow the sazs, pipa, oud, Alpine zither, qin, others
+that building on the simpler architectures of the western
+lands. I read myself into a state of forgetting. How to
+name the pieces, order them, keep them to the assigned
+limits as if they were born to the length of a shorter
+older singing. How to ignore the screams outside the 
+window here, now, as if what mattered only were internal
+resonances, murmurings of the worlds, skies elsewhere, 
+and my thinking all through this, summed up in one word,
+Palmyra.
+
+
+
+CD Tracks from Today's Recording Session!
+
+
+http://www.alansondheim.org/thren09.jpg
+http://www.alansondheim.org/everything.mp3 (new track!)
+
+Luke Damrosch, engineer, madal, guzheng
+Azure Carter, voice, song, photography
+Alan Sondheim, cura saz, long-necked saz, madal, chromatic 
+harmonica, electric guitar, electric saz, pipa, erhu, qin, 
+classical guitar, clarinet, alto clarinet, jinashi shakuhachi, 
+alto recorder, Irish banjo, oud, dan moi, viola.
+
+We had the cd recording session today. Listen to all of the 
+tracks simultaneously, what a treat, so much music for the 
+creative industry entrepreneur on a busy schedule!
+
+
+
+
+Got.
+
+
+The Buddha is perfection.
+
+http://www.alansondheim.org/thren17.jpg
+http://www.alansondheim.org/violamute1.mp3
+
+One must be careful not to get in the way of a truck.
+It's harder to get around these days.
+The news got around that the Buddha is imperfect.
+I get wary of bad news that's even worse.
+
+The Buddha is pure in body and mind and speaks truth-only.
+
+When he says he doesn't get it, he must not be listening.
+Either get out the weapons or get out.
+Get below in the bad storm of the intellect.
+
+The Buddha's words conform to essence and meaning.
+
+It got cold out when I thought about these things.
+I don't know what's gotten into her every evening.
+He got down from the train when it was still moving.
+I got down with her and everyone knew it.
+
+The Buddha's body, space, time, power, and life are infinite.
+
+You've got to be kidding she said listening to him carry on.
+He got into the sutra box and was playing with god knows what.
+Give me a minute, he said, I just got in.
+She got through the interrogation with flying 'colors.'
+
+The Buddha is infinitely patient and teaches single-sound.
+
+He kept trying to get up in the morning but it was useless.
+His get-up was tawdry like a mendicant monk.
+I'm really getting into The Buddhist School of the Small Vehicle.
+She got to thinking about mendicant monks.
+
+The Buddha never sleeps, never wakes, never speaks.
+
+He got caught in an unseemly affair.
+She never got through the night without suffering.
+She got to thinking what a seemly affair might be.
+
+The Buddha is emptiness and non-existent.
+
+I got to dance one last time dressed like an Arhat.
+I got into the class and thought about whirligigs.
+I got out a brush and paper and began to think.
+I got beside myself with grief.
+I got into a shrine without lock or key.
+I got some last night.
+I got up on a ladder and threw it away.
+I got down when I heard the Buddha was dead.
+I got over it soon enough and looked forward to a new her.
+I got into trouble worrying about ladders and propositions.
+I got under the weather but it was still weather below.
+
+
+
+no-strings shakuhachi
+
+
+http://www.alansondheim.org/thren34.jpg
+http://www.alansondheim.org/nostrings.mp3 
+
+no-one listens to these pieces, no-one speaks, no-thing
+no-strings in these pieces, no-comments, no-community
+empty pieces *
+
+* on Facebook or G+ please click 'like' etc. if you listen
+to these pieces, else please do not click 'like' on these
+pieces
+
+* these pieces are no-string pieces for jiari shakuhachi
+that are one piece swallows other pieces, arising and
+dependent on revrev, pitch shift, power grid, calculus,
+protocol, listening to no-string pieces, that is 
+no-breath pieces, that is jiari shakuhachi *
+
+* today i realize i am invisible in every medium, hence
+no-string shakuhachi, you will listen to no-breath jiari
+shakuhachi, that is transformation, that is emptiness
+dependent-arising, that is vac-kwak, no-breath no-strings
+
+
+jiari shakuhachi playing for me, inward :: jiari, modern tuned
+bore, wider, i think constantly of these modes, as i see them,
+jinashi-jiari, * these pieces are no-string pieces for jiari
+shakuhachi no-breath pieces, that is jiari shakuhachi *
+no-string shakuhachi, you will listen to no-breath jiari
+
+
+
+
+isis eros
+
+http://www.alansondheim.org/isiseros.png
+
+
+_Faith_
+
+What kind of GOD
+commands his people
+not to murder yet cowers
+behind free will?
+
+_Reason_
+
+The reason why life should exist
+is as arbitrary as the reason why it shouldn't,
+life shouldn't exist,
+
+[last page of writing in James Holmes' notebook he's the
+shooter in the Aurora, Colorado movie theater massacre.]
+
+
+sample mastering tracks from the Threnody cd!!
+
+http://www.alansondheim.org/thren03.jpg
+
+http://www.alansondheim.org/violaguzhengsamp.mp3
+damrosch, guzheng; sondheim, viola
+http://www.alansondheim.org/screentestsamp.mp3
+carter, song and voice; sondheim, dan moi
+http://www.alansondheim.org/sazsamp.mp3
+sondheim, long-necked saz
+
+-- testing equalization etc. short samples.
+mastered, produced, engineered, by Luke Damrosch
+
+
+
+the cls+ effect
+
+http://www.alansondheim.org/lightsync.png
+http://www.alansondheim.org/lightsync.mp4
+
+chaotic light synchronization, westminster st., providence, ri, 
+asynchronous stochastic (?) triggering of light-pole switching 
+coupled with entangled ambient light, humidity, and sonic 
+vibrations.
+
+watch carefully and place photocell readout devices over the 
+screen-shot lamp glares, being careful to account for the hand- 
+held tremor effect and auto-focus mishap towards the interval 
+end.
+
+this clsastolscwealhasv effect has been bothering me, ever since 
+we moved to the gritty little city built on reclaimed swampland 
+and religious fevers.
+
+of which at the moment i have one, a fever sweeping throat and 
+lungs before it, taking no for an answer to every question i 
+might still be able to hear.
+
+the glare of the shuddering lights are my rock and salvation and 
+comfort me, yay-though i lie down in one or another valley, 
+preferably out of the way of traffic, or not.
+
+the glare confounds the effect, by the way, but no camera lies 
+in the first instant, and hardly speaks in the second.
+
+
+
+grouse
+
+http://www.alansondheim.org/thren10.jpg
+
+slick & flavor & shan't squeak & thigh-mother's fear & high 
+choice mounds spikes a bell
+
+sick & fever & can't speak & my brother's here & my voice sounds 
+like hell & i've got hacking cough & chills & what to do & what 
+to do
+
+enfold and drink, see night; your body's fevered later, 
+temperature might come into consideration - but here, "" 
+""[;r[;h"of the of body flowing ink forgetful their feverish 
+course; i'm ill: every day i have a 38; my lungs are ruined. for 
+organism this includes control (or adjustments to "temperature" 
+list, particularly in regard lurkers who 'lowtemperature' 
+symptom symptoms codeine medicine relieve woozy occur (levinas 
+exception), case. disorders writing-under-fever, depression 
+(even though by water), keep low, anything *an inversion is 
+region where air temperatures change with altitude fever _and 
+more_ root humidity it was localized. what i've called 
+'low-temperature' illness, since 2 now burning absolutes 
+frighten me; cannot imagine guru, authority, presence, which 
+would give myself, even light incandescent knowledge.  when look 
+at important things being, nothingness, foreground, life, death, 
+absence, creation, annihilation, motion, language, ikon, symbol, 
+index, chora, self, selving, others, worlds, true world, 
+worlding, beings, essence, existence, safe-harbor against home 
+invasion, healthy regulation they don't disappear upon scrutiny, 
+divide, they're not solved or resolved relegated dependent 
+categories, illuminated continued permanent analysis 
+therapeutic. shift messy, boundaries meld other melding 
+boundaries, skins sheave-skins themselves turn out be protocols 
+elemental manipulations. below all, abject, neither here nor 
+there, one thing other, embodiments dissolving sheffer-strokes 
+duals. things, flees from analysis; flight; exile, exile on 
+move; refuge, temporary best; discourse, futility speech, 
+languor loss memory haunts us before after our breathing lives. 
+details; forest trees; gesture protocol. things. withdrawals, 
+puckers; austral boreal currents among earths metals various 
+states weather decomposition. 'when retina its processing.' say 
+writing refuge night, writing? all writing, perhaps, wane. alan 
+dojoji: you're getting more 1:30 morning loft 88 four brownout 
+great depression, numbing low-temperature because you 
+air-temperature annealing. hardens then... can't explain dreams, 
+sweet fevers, hysteria; ceasing precisely certain temperature, 
+chest congested chills, feels like flu, enormous heart bombs. 
+furious winds. feeling high fever. heartburn increasing fever: 
+also hit parts canada, gauge destructiveness without 
+thermometer; exclude " jenn ". take temperature. "alan 
+sondheim". finish second cup coffee, pay, leave; up holds 4,160. 
+obsession. i, i. wanted rid myself fever, such ill; apartment 90 
+f; think, went bed sick accompanies disease ... if am ill 
+constituted scanning? de- depressed, thinking? ghosts real? say: 
+real always haunted. depression: haunting real.  _disorders 
+real,_ tackled problem, that feverishness (is word?): just had 
+bloody hot fever; remembers whatever raised hell back. as ends, 
+begins. thinking father's stories, lipitor genetic cholesterol 
+:: during fevers night-sweats... name ill, it's something old, 
+new, levels out, 112 degrees any other. nub ur-substance, shunt. 
+category nub, stubbed. sumped off-line, currently another 
+insomniac night well saturday reached 105f (41c) washington dc 
+body, onsen snow house likes small morgantown's hills; result 
+anyone can above we shades drawn night. around midnight last two 
+white males 20-25 knocked door next block, broke in, beat 
+residence tire iron crowbar, stole whatever. someone part behind 
+alley, work his way side porch, wreak havoc. has been off, worse 
+than ever slight result. cat ossi oswalda makes feel home. there 
+no red spot desk, flock blackbirds, waiter measure selves, 
+world. basement dark, pile rope mistaken snake, snake rope; 
+instead familiar find round dark. frightened bush mccain; 
+esthetics politics, weak theory tending towards taz.  west 
+virginia highest prescription drug rate per capita country 
+control; argue 'health care provider' get basic medicine. stolen 
+copper telephone wires sell bring fair money gather some drugs, 
+on, cost between $60 $80 pill. letter wrote dominion post 
+published, decrying efforts state legislature teach gun use 
+safety school children; idea revive local hunting population, 
+decline. visited friend mine five minutes mother-in-law given 
+rites; she still alive spent six hours calling apparently random 
+numbers. atmosphere creaks tension. changes about. will reread 
+diamond sutra. scanner computer lab began screaming afternoon; 
+wouldn't stop. opened found fan burned everything red-hot. took 
+so far working fine; scanned siva vajra. friends bruceten mills 
+damage; area hard-hit dam dreaming again. picked boston crystal 
+radio. reviewing under sign slightly feverish: theater catwalks: 
+favor bright sunshine! wa example, _somewhere_ must acceptable 
+deconstructs abeyance. an addition: throws plates off stomach; 
+ground cluttered then we'll go code, increase sickness heat 
+sputter easy thermophilic bacteria: optimum growth 45c; compost 
+these common flus, bronchitis, nothing more. sweetness storms 
+"home," revealing ephemerality today early fourth; sick, 
+feverish, vital signs blood pressure, pulse, rate, cpmpeny 
+cpmfprt. hpwavar tha dasart; thls ampty end slightest packet 
+dropped always text_ speaks fevers? blanchot, _sense_ primarily 
+becomes governing within cry torturing dream, too transition 
+life healing meditation, smaller jennifer drops edge -67 f 
+outside estimated time arrival colors garish again headache 
+feverish. letters illegible. meaning decathects severe feverish; 
+strange welts arms. speca. brlght llght shnshlna. nlght! chills 
+hover, concept pressed me coughs, chills; disappeared shudder (i 
+have) tends inhalation fevers. you've got dis-eased, violation 
+fabric. write: off-line 101 very eternal religious silica 
+precipitation springs water eternity and::fever fahrenheit.could 
+should make love cooler, hungry apparition. insisted telling 
+truth: verified cables stops going about were number days sleep, 
+do but; lowered incomprehensible through isolation closes well, 
+doesn't translate lack cyber- awake back 1984 real, considered 
+piece miserable vision hearing, odd blanket pump, warming 
+incoming interior brought soaring dozen midwest low loosened 
+drum stars brownout. (do cynthia? respond?) adolescence. that's 
+temperature's usually itself." carried everywhere. drove seven 
+miles cated follows: 100 main memory; 7 (1 centigrade trillions 
+inconceivable graphemes k underneath sheets. instruments current 
+turns employment cliff, absolute zero. collapse day. furious. 
+less this. comfort healed holding flow climbs compresses speed! 
+diminish, dimensionality undernet, binding! configured picture, 
+reason be, hulls screens alleviates upload creating, pills, 
+eyes, glance. inside. confusion, anxiety death creates broken 
+decreasing slow release information orbits degrees: _with fever_ 
+flu coming on: reduce demographics. people? bomb-temperature 
+skeins. complaint, specificity directly floor, worry 
+disconcerting; struggled bed, nauseous awoke feverless disease. 
+doctor constantly; tremendous stress. double melatonins wine, 
+noise-machines drink coffee stare space. duce proof fact typhus 
+rise earth.primordial..the.enormous. 
+
+temperaturestemperatures.at.at. effects wind scouring cold 
+gradually kill windward elaboration: goes inside, stays 
+maintained non-control); emanents, matter contiguity best. else 
+z fevered. vwx nikuko; said mirror, speech reflect, lip reading 
+muscle reading, reflects that, scent, touch, sound, sound may 
+eye, taste, pure, example dirty bum over need clean her mirror 
+cloth, brilliant, happens caught viewpoint, angle, everywhere, 
+exhausted intelligent wonder fever- diary extremely wake what's 
+wrong eyes eyes! sphere increases density melting- father9 
+ferns2 fever1 field flavour flavour2 flesha fleshb flut1 fester 
+festering festivity fete fistulaflock folding folio footband few 
+fha fi fields figure fill film filtering filters donne writes 
+own cartography, _fever texts, convulsive epileptic texts let's 
+cancered difficult feverishly feverishly, continue photographs 
+forgetfulness, wrath, rage, ecstasy, visions, poverty, money, 
+final score. general flu-like point dubbed truth annihilation 
+goads accompanied horrific feelings grapples harsh, bodies faces 
+hallucinatory aren't there. eyes. headache. developed malevolent 
+nausea. hints * needed heated color star stumbling glacial rays 
+sun; build them hard pieces wood heavily 
+
+sleep-deprived,feverish, chills,induced-errors, held bandwidth 
+zero twenty degrees. forehead, fingers moving forth. 
+temperatures, pressures, new forms homeostatic independent 
+external hope drops, humidity/temperature controlled 
+environment, necessary hardly more, almost entire day, we're 
+write down. forget, drowning again, repetition; ied attacks 
+slowly seeping grips walking pneumonia when, fact, blue gateways 
+shunted along, travis thought 540 morning; shaking; fallen; 
+saying 'you're playing fundamental universe' relentless subzero 
+toll; living constant low-grade fairly strong k2% larger insects 
+distance; night's level, surface reflectance invisible site 
+decades ago. remember visiting (a farm? master's section. 
+occasionally offer sudden appears couple dominant vicodin pass 
+mind, brain, fevers; controls words them, minor infections seem 
+mean anything, whether mp fervvid mov filter bvh floor 
+floorcrawlskeleton shivers uncountable violence somewhat normal, 
+pains occupying most fever's rising, brain's hills rain neatly 
+organized, balmy 72 fahrenheit delightful them. really hepatitis 
+b c aids normal rising fury not. rebirth require bandwidth, 
+height depth; unbearable temperature: immigrant tea normally 
+drunk! moment one, sweeping throat vase spirits, fish, ters. 
+train, tables cool lives only ontology presence face. loser- 
+impetus, order < overly stressed, sitter told gone 86, lesions 
+pulled tendons, blisters, cramps desperate 102, vomiting, 
+migraine, half outer space loft. high; gets owing invoice 
+pavement? results enough vaporize people skating bone-chilling 
+temperatures? haven't fallen physically, heart-rate speeded 
+sweating, shivering ports sorts reports cuts pressed, quota 
+writer. quiet insect, call response across trees lawns, 78f, 
+raising 15-feb-2009 02:40:25 gmt fine, sends post, she's host, 
+server, refuses remnant, residue, detritus, spew, pustulant; 
+first part: reply.perfect believe that? fahrenheit.in could 
+rhyme reason, weakness part, azure's roots thirst, tumescent 
+beneath violent solar cunt rush, disbelief, being. "out there" 
+says know going, deliriums, nauseas, seatings, defecatings, 
+effacings, defacings, sessive spirits dakini skanda occurring 
+signals misplacement temperature; react suffering. 1961 school. 
+disaster. seemed dropping, sion, feery-fary, eruption, ferment, 
+falling fit, better...sweating however...feverish...endif... 
+nlght:magnification exceed boiling water. (other near zero) 
+streights die," _raging stringently 'real,' plasma. "to clearly" 
+structing perhaps higher island; branches sleeping, thinks 
+chronic suffered allergies flare however, sustainable reached. 
+mind swellings glands possibilities submergence fuzziness; fully 
+appetite change, logic etc. etc., cheap, applicable time. think. 
+kick want lukewarm. outside, snow. white. elevated, everything's 
+useless sorts, headaches stress portending adjusted, serves 
+function placed cat; food, subject comforting temporarily tend 
+tenderly terms terrorisms both exhaling inhaling, beginnings, 
+middles ends temperature/[\.,:;{}()\[\]]//g' zzg else"waiting 
+rep let doubt thermophiles isolated 85 nm rods neutron stars, 
+tidal forces, late temperatures. terror videos 5184 anthrax 
+quickcam tape progress 34 family 53 alloy perfection! beautiful 
+atomic era destruction black waters virtual 3 a.m. already 
+rising. trails open grid thanx selavy o. pun ha world (such 
+volume, pressure). revert universal efflorescence; 
+thermophilic): piles, think candles huddling dark stay 
+structures, leaks. chemistries, blank itself, this? vagaries 
+remains focus, tired. taking. cut 6<:>how many determine 
+temperature'; case, chirp bursts tric bill? does unable focus 
+properly, nose stuffed, high, percolating vibration hurtled 
+insignificant warm flesh arms.. weakness.: :the arms first, 
+tingling, desire gnaw comes thru here. 'slight fever' 
+humidity-dependent, direction window. snowed in! purple 
+undertones hush peachy nude jet jungle incipient diabetes, 
+tumors bad allergic attack
+
+
+
+ALL the TRACKS from OUR NEW CD, THRENODY!
+
+http://www.alansondheim.org/Alltracks.png la! lala!
+http://www.alansondheim.org/Alltracks.mp3 4'22" more or less
+
+Enjoy the simultaneous configurations!
+I'd write more but have a SEVERE case of the flu!
+It involves deep throatal SILENCE, let the music begin!
+
+Thanks to Luke Damrosch, Azure Carter for this STUNNING 
+DISPLAY! 
+
+4'11' of SONIC BRILLIANCE!
+My FEVER bottles up THIS and every other LANGUAGE!
+
+ENJOY! This unique AUDITORIAL EXPERIENCE!
+
+HEAR! For the FIRST TIME - US! 
+SOON TO BE RELEASED!
+SOON TO BE RELEASED!
+SOON TO BE RELEASED!
+
+! lll
+!
+4'22" more or less
+Enjoy the simultneous configurEnjoy the simult
+neous configurtions!
+neous configur
+tions!
+tions!
+
+ve  SEVERE c SEVERE c
+ SEVERE cse of the flu!
+se of the flu!
+
+se of the flu!
+I'd write more but h
+It involves deep throtIt involves deep thro
+tl SILENCE, let the music begin!
+t
+l SILENCE, let the music begin!
+l SILENCE, let the music begin!
+
+nks to Luke Dmrosch, Azure Cmrosch, Azure C
+mrosch, Azure Crter for this STUNNING 
+rter for this STUNNING 
+
+rter for this STUNNING 
+Th
+
+!lll
+lll!
+ormore
+lessor
+Enjoysimult
+theEnjoy
+simultneousthe
+configurEnjoysimultneous
+simultthe
+neousconfigurtions!
+configurtions!neous
+configurneous
+tions!tions!
+veEVERE c c
+SEVEREEVERE c
+ve
+cSEVERE
+EVERE cse of the flu!
+flu!
+cseSEVERE
+ofcse
+flu!the
+seflu!
+I'dh
+writeI'd
+butmore
+hbut
+Itthro
+involvesIt
+deepinvolves
+throtItdeep
+throdeep
+tlILENCE, let the music begin!
+begin!
+SILENCE,tl
+letSILENCE,
+musicthe
+begin!music
+tt
+lILENCE, let the music begin!
+begin!
+nksC
+tonks
+Luketo
+Dmrosch,Luke
+AzureDmrosch,
+Cmrosch,Azure
+CAzure
+mrosch,TUNNING 
+STUNNING
+CrterAzure
+forCrter
+thisfor
+STUNNINGthis
+rterTUNNING 
+STUNNING
+ThTh
+
+THTHTHTHTHTHTHTHTHTHTHTHTH!
+THTHTHTHTHTHTHTHTHTHTHTHTH!
+THTHTHTHTHTHTHTHTHTHTHTHTH!
+THTHTHTHTHTHTHTHTHTHTHTHTH!
+
+THTHTHTHTHTHTHTHTHTHTHTHTH!
+
+SOON TO BE RELEASED!
+SOON TO BE RELEASED!!
+SOON TO BE RELEASED!!!
+SOON TO BE RELEASED!!!!!!
+SOON TO BE RELEASED!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+dance until your dead dance
+
+http://www.alansondheim.org/un3.png
+http://www.alansondheim.org/un7.png
+http://www.alansondheim.org/ann3.png
+
+- return of structure to the realchicago four dancers into one: 
+avatar as social organism transformation and dynamic/ behavioral 
+filteringin > unutterable pain, dance virtual poser, blender, 
+second life, open simidentified human or organism?wounded 
+dancing?disfigurement, torture, ecstasy, death(example) d stills 
+folder wolftc.mov sports.mov air.mov noone.mov commodius.mp 
+mocaps.mov harness.mp (w/still) dnaclass duetavatargrange 
+involuntary edge_.avi move cursor relevant portion -- other 
+words software that's forced through glitches digital is dirty:. 
+mocap video moving utterly untoward ways, so that result was a 
+text behavioral filtering, dynamic mocap. blender modeling 
+program, where abstract avatars were used we recorded one more 
+performers, using remappings modes, who am i? new media artist 
+works with worlds, electronic glitch: jump-cut, suturing: 
+continuity-girlanalog: dead-inert; glitch scarring reality: 
+neither analog nor digital, entangledcorporate: protocols 
+codecs, source,i've motion capture way creating images, printed 
+images directly produced of: normal which meant distorted poser 
+mannequin files recorded, rewriting itself, tends towards 
+eternity, infinity, closuremodified inserted life chain can be 
+altered several ways: opensim worlds involved highly markers 
+placed on body suits. this everything objects forecloses 
+analogic, dirty, abjectionmovements taken back results be: 
+occurs within surfaces, programming 'not bug but feature.' why? 
+noveltylike wounding intermediary between dead-inertopposite may 
+well suturing

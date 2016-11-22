@@ -1,0 +1,35 @@
+
+
+
+
+Order and Interference
+
+
+This program presents a one-dimensional cellular automaton of the simplest
+possible variety. What's of interest, however, is the random function,
+which distorts the figure, which otherwise would be a fractal triangular
+sponge. The image still develops large blank areas for the most part near
+the apex of the triangle, evidence of order; these disappear as the figure
+extends. What is the meaning of this? That as a social order develops, 
+perhaps, chaotic processes evolve and intermix, deflecting large-scale 
+processes, which could only be imposed top-down. So that a form of post- 
+modernism, local narratives, prevails, and everything else is lost.
+
+(Of course all of this depends on the definitions of "social," "order," 
+and "narrative" ...)
+
+If you run this, place the "IF...THEN" on one line; I had to collapse/
+indent them in order to configure the screen. Note there are all sorts of 
+possibilities to be explored here, including using the resulting figure 
+as a seed for a two-dimensional automaton (with random processes or not), 
+and seeding using more than the point (320, 1). For example, a horizontal 
+or vertical line could be used.
+
+Again, the if...then...else... rules can be changed. What I would like to 
+do is alter these to _functions_ of the previous lines. And finally, the 
+rules can be changed to disorder temporality itself, by referencing 
+_future_ lines as well as past ones. (The characteristics on line z are 
+now determined by neighbors on z-1, but there is no reason not to include 
+action at a distance as well, using x-n, x+m where n and m are greater 
+than 1.)
+

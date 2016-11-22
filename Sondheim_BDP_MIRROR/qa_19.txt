@@ -1,0 +1,248 @@
+
+
+
+The Beginning Section of the Internet Text Revisited
+
+
+The following text begins the Internet Text as a whole. At the time, I
+didn't know what I was getting into, a text that would eventually reach
+over a twelve hundred pages to date. In any case, this was written several
+months after signing on, and I am using this end-of-the-year occasion to
+revisit it, identify its strengths and weaknesses... 
+
+
+INTERNET TEXT
+
+
+0. Prolegomena: The following iterative construct describes the internet.
+Traditional philosophical and cultural categories are highly problematic,
+given this new communications life-form. I develop instead an analysis
+based on EMISSION, SPEW, ADDRESS, RECOGNITION, and PROTOCOL. The essay,
+always preliminary, proceeds through a series of numbered paragraphs,
+which then rewrite. 
+
+[REWRITE becomes a major concept later on, the continuous reiteration of
+identity on the Net through text - the constant statement of name and
+place.]
+
+1. The network is a membrane composed of nodes, better considered intensi-
+fications. An intensification possesses an interactive emission. The
+emission is characterized as a program space composed of inputs/outputs,
+introjections/projections: a space of -jectivity. The emission occurs in a
+steep topographic region; distinctions between hardware and software
+become blurred, as do more traditional philosophical divisions (subject/
+object, body/world, mind/brain). 
+
+[The membrane analog easily segued into issues of bodies. Intensification
+characterizes the Net; in combination with emission, it constitutes a
+message sending and receiving 'spew.' The blurring of distinctions be-
+tween hardware and software also become a major theme later on - the idea
+of information/programming all the way down, and the difficulties this
+spells for traditional ontological distinctions. This is the one proble-
+matic addressed by soviet philosophy that still remains unresolved, edgy.]
+
+2. In fact, traditional ontological considerations are clearly replaced by
+an organic episteme; what constitutes knowledge is only flow; data repla-
+ces history; data becomes sourceless. Rather than communication channels,
+consider geodesics; rather than geodesics, consider forced flows; rather
+than forced flows, consider emissions. 
+
+[Data is sourceless because data can be manipulated, is addressible.]
+
+3. An emission has no input, no output; an emission consists of fragmented
+images, the symbolic replaced by the imaginary. An emission is always in
+flux; an emission problematizes energy and energy consumption, since it
+may simultaneously drain and produce/reproduce. An emission is a chaotic
+domain in the vicinity of an unstable attractor; escaping, it quickly
+loses history, historiography, temporality itself. Close to the speed of
+light, it exists in a temporal well. 
+
+[Now here is a blurring of TCP/IP//user distinctions. But the notion of
+the imaginary is critical to the Net - which begins always with the sym-
+bolic, in an inversion that would do Marx/Hegel proud. With emission and
+the imaginary, historiography replaces history. Later I will critique
+temporality itself flooding the wires.]
+
+4. The membrane is an enormous hypertext whose linkages thin, occasionally
+break, are always redundant. It is neither a fuzzy set nor a classical
+one; through a fast-forward topology, it escapes traditional partitioning.
+The user deals with an alterity in the form of constantly changing facial
+expressions; one is never within or without the alterity, but in a (su-
+pine) position of absorption. The emission clouds close to me; ontologica-
+lly, it is that real escaping denotation; ontologically, it is uncanny.
+Thus the emission is related to excess, to surplus, to the curlicue or
+diacritical mark, but it absents these, and it is this absenting or
+ignorance that constructs the uncanny as waste-product; the blindness of
+emission is its site. 
+
+["Facial expressions" is unclear at this point; I am not sure of the do-
+main I was referring to. This alterity is what I later called hysteric
+embodiment, the projection beyond or through the text onto an image of
+the other - face, tone of voice, intention, "authenticity." Bataille and
+Deleuze-Guattari are at work here.]
+
+5. To hold onto part of a body, to sever that part, to construe or re-
+construe that part, to devour it, tear the surface off: one searches for
+the skinned body, (which has the murmur or memory of pain), the articu-
+lation of a truth given by one's own body lost in the emission. It is good
+form to search out bondage, which restrains the body absent from itself,
+an analog of the screen or permissive membrane which occurs, going just so
+far. This is an antiquated ontology or materiality asserting the inert in
+the midst of fast-forward, an assertion doomed to be displaced, sublima-
+ted, effaced; one holds onto nothing; as in classical existentialism, one
+projects forward in the face of nothingness (as if nothing were itself an
+alterity);  the hole, however, is an episteme broken by the screen replac-
+ing the mirror stage; the ego splatters against it (the cum-ego for female
+and male); fast-forward, the episteme always already announces its contin-
+uation; the existentialist project is lost in the midst of indirect ad-
+dresses. 
+
+[Suddenly the body appears, holds its own. Bodies in fact constitute the
+Net, articulated bodies, described bodies, hysteric bodies, isolated or
+frozen bodies, scientific bodies, bodies of scientists, students, users,
+doctors, the disabled, home-bodies, bodies of management, sexual and
+sexing bodies, ignored bodies, speaking bodies, all bodies bound to the
+screen or speaker, bound to the text, bound to the other of reading, bound
+to inner speech.]
+
+6. The user is an addict "in the midst";  the user projects; thwarted,
+projects again. The membrane appears in the guise of discarded pornog-
+raphy; one is thrust into pure consumption, no longer beneath the guise of
+another pornography, capital itself. Assertions are lost in the echo of
+the machine. Thought is defined by flux, by an absolute symbolic for the
+user who must be assured of the purity of his or her drug. The purity is
+in the form of a well-definition (in the logical sense) to which no one
+any longer pays attention; the absence of well-definition does not result
+in a program cancellation, but only a retry which is part of the program
+itself; it does not matter where one is; location is irrelevant. 
+
+[Later I would revise this, which is all too simple, wayward. Addiction
+is complex, like schizophrenia; associated with a _singular object_ (drug,
+sex, etc.), it constructs at the least an Oedipal psychological framework
+for the subject. On the Net, what I am calling here (later abandoning) as
+addiction, is also tied into identity politics and psychoanalytics - some-
+thing covered at length in the later portions of the text. I would also
+disagree that there is an "absolute" symbolic at work here or any other
+place; it exists as a projection, but the symbolic itself may be decon-
+structed.]
+
+7. Voices are heard behind the screen words (toggle on, echo on; the
+screen chants itself, hides itself, reveals the nipple); face to face
+replaces the face; double blinds allow the truth of double binds. This is
+the only truth there is: that which occurs beneath or behind the blind,
+that is, the lie (which is truth's double, truth's mirror, not converse or
+inverse) (which is truth's perverse, that is, truth's abject truth); this
+is the framework of classical Greek philosophy bound to classical Greek
+torture (both bound with identical cords, hieroglyphs): Xenophon's Socra-
+tes was the first user. Voices are heard, and voices are nothing but
+machine chatter, the ideal forms so many subroutines... 
+
+[And machine chatter is the dreaming of machines, machine-dreams as well,
+desiring-machines literalized - but also the dreaming of bodies, body-
+dreams as well, desiring bodies literalized...]
+
+8. The user. The user is an addict; the user inscribes throughout the
+network (temporary, electronic, absolute: an entirely new category), mic-
+rotendrils extending in every direction. This contains the appearance of
+power; the network is a fantasm reflecting emissions back through local
+paths. The wonder of the internet is its locality, the construct of neigh-
+borhood (packet channels slowing down just right for the home terminal)
+redefining the body; the body becomes extension; extension becomes noise;
+noise seethes at the edge. The process is one of fast-forward rooting, and
+the roots are blind. 
+
+[The user as addict, again, the text addicted to addiction. Later the net-
+work becomes stasis, environment, ghost, network _as_ fantasm transformed
+into fantasm-network, fantasm-producing. Blind roots, yes; the tendrils
+skitter across the planet - skittering, too, develops later as the sub-
+ject's reception, trajectories across floodplains, Reynold's numbers.]
+
+9. Now we can speak of the mouth or eye of the user; now we can speak of
+the hand or its mobility. No matter how (much) sensation is transcribed,
+it occurs at a distance characterized by zapping and invasions. Nothing
+but the materiality of the body is a stake; everything cuts everything
+off. The user is confined to a scientism in the form of THAT which arti-
+culates the THERE IS, just as addiction develops out of the action of a
+particular drug or behavioral sequence. One is tied to the THAT. 
+
+[This lead to the simultaneous prosthesis and cauterization of the body,
+the body edged, on the precipice. What is at stake is nothing more or less
+than the _future_ - future future, but also future present, future past.]
+
+10. The user has nothing to do with the internet; the user is of no con-
+sequence. Conference exists or dissolves beneath the sign, not of gender
+or capital, but of chaotic inscription.  The sign itself dissolves; sign
+is, after all, only recognition. This is the final corruption of humanism;
+even the self is no longer centric - not through the Lacanian inscriptive/
+linguistic unconscious (through which IT may still find a path or coagula-
+tion), but through addiction, self as THAT, or self as nodal intensifica-
+tion, always castrated, furiously addictive, always reading/writing, al-
+ways rewriting: the self becomes its own recursivity. It no longer mat-
+ters; its reports are from marauders, vandals, on the edge of the Roman
+Empire; it exists only within the interstices of power; it is displaced by
+power; it is no longer one or many; it no longer responds to the pronoun;
+it responds only to the login which may well (it does not matter) be a
+construct of the machine itself - just as gender-bending relies no longer
+on gender, but arbitrary and chaotic signifiers, signifiers undercut, in a
+continuous process of dissolution, murmuring, forgetting, forgotten, forg-
+ed and forgotten, emissive. The machine recognizes no gender; the machine
+recognizes nothing. The machine recognizes every gender; the machine is
+never a machine, but an episteme. 
+
+[Beneath the surface, neutralization is uncanny because unapproachable
+although immanent. The Internet Text from this point on develops the
+surface, produces the subject criss-crossed by this form of subterranean
+knowledge, which is hardly a displacement or effacement, simply a condi-
+tion of the protocols and their subjects hungry for meaning.]
+
+11. Just as the episteme is lost in time, so is the subject; just as music
+video and popular culture announced (by absenting, forgetting, by asigni-
+fying) the end of historicity, the subject no longer announces itself (and
+certainly no longer announces herself and himself): an emission is no
+grounds for announcement. In this manner the subject avoids death (always
+the plan, thwarted and perverting, procuring and devouring, but always the
+plan) which is already always forgotten; intensification is subject to
+dissolution, but subjectivity dissipates or sublimates elsewhere, as if it
+ever existed. 
+
+[Subjectivity dissipates, but the subject _does_ announce itself, although
+_the subject_ is no longer announced; recognition and address are, in
+fact, the precise forms of this announcement. Within the digital domain,
+the organic hope of continuous life is fulfilled; the world is forever
+reproducible just as digital video can be copied, generation after genera-
+tion, without loss. What skitters, loses through friction, heat. The
+depths are immobilized, ice. It's not even a necessary precondition that
+the Net physically exist; everything ties to GIGO in spite of distributed
+intelligence and entities - what goes in is representation which appears
+permanent. It's left for the real to be granular, chaotic, excessive,
+unregulated, idiotic, obdurate; it's left for the real to produce the
+subject of the Internet text, produce the subject no longer announced.]
+
+12. But just as if it ever existed, there are no longer ontological con-
+siderations; as plasma, the internet bypasses existence (always already...
+the litany repeats as murmur). It is within this that the projected
+eternality of the digital has full reign or resonance; noiseless, the
+digital proclaims the clean and proper body (which is rendered problematic
+by the maternal which becomes uncanny, fantasm, the circulation already on
+the move, already elsewhere), genderless and absent. Clearly in this
+fashion, everything is absent within the internet. (Everything announces,
+dresses, addresses. A character, screen or otherwise, is an announcement.)
+The human dream of eternal life occurs by a draining of temporality;
+therefore nothing occurs or can occur. It is irrelevant whether or not the
+human is "ready" for this when readiness implies an a priori teleology;
+such an impulse becomes a trail or trace left by a gopher through the
+computational/server holarchy, not an end in sight or sightlessness. 
+
+[Oh we are a miracle.]
+
+13. Naturally, then, it is also irrelevant to ask where one goes from 
+here...
+
+[But the text continued through another 700 texts to date, a flood of
+text, inter/texts, veering from the subject but always tethered to her or
+him, continuous desperate disparate attempts. And this introductory text
+itself proceeded through several other texts, all found at the beginning
+of net1.txt, at the jefferson.village.virginia.edu site. Yours for the
+taking.]
+
+

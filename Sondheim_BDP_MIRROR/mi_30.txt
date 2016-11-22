@@ -1,0 +1,2 @@
+{waiwaiwai}
+    30	sort zz > yy; sed 's/^.../&

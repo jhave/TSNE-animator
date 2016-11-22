@@ -1,0 +1,57 @@
+
+
+
+Political Economy of Acronym Production in the Name of Love and God
+
+
+Peter Newman, from the 1996 Harvard Conference on the Internet (reprinted
+in The Internet and Society, O'Reilly, 1997):
+
+"I feel there is a certain amount of complexity in the solutions that have
+been delivered by the ATM Forum for the control path: not the physical la-
+yer, not the hardware, the control path. My first example, my first meas-
+ure of complexity is acronyms-per-unit revenue. (I have the official ATM
+Forum glossary, April 1996, 44 pages, 500 acronyms.) Alright, not all of
+them are ATM but more than half are.
+
+"So I tried to track when the acronyms came in, and there we have a curve: 
+acronyms per million dollars revenue. It's falling, it's falling fast; but
+we're still at a scary 0.7 acronyms per million dollars revenue. Now you
+may not think that 0.7 acronyms per million dollars of revenue is particu-
+larly scary; but just think - to get to a billion dollars in ATM/LAN-
+switch revenue we will need at least another several hundred acronyms. And
+it's the IS departments that will have to understand this complexity if
+these switches are in the campus network." 
+
+Writing back and forth with early Net historians / professionals, I came
+across EMAM - which is not listed in Babel (dictionary of computer acro-
+nyms) but stands for Early Middle Aged Memory, I assume relating to loss.
+
+Now I am in this agegroup and have no EMAM, but then I have not had to
+deal with APUR (acronyms-per-unit-revenue), which lends itself to a nat-
+ural measurement, the kA, the _kilo-acronym._
+
+We can assume, then, that ATM technology will hang at around 1 kA. (ATM by
+the way is "asynchronous transfer mode," a protocol for the Internet based
+on "cells" of 53 bytes each.) The Net itself, I think, would be up around
+1 mA at the least - growing proportionally as fast as increases in RAM
+(random access memory - now, random acronym memory).
+
+I consider all of this a linguistic compression algorithm, by the way,
+paralleling the development of the symbolization of mathematics. In both,
+the expansion is one to many - a superscript in mathematics means one
+thing in algebra, another in tensor calculus, and ATM also refers to the
+"automatic teller machine." 
+
+This will end, only, where it began of course, with a _singularity,_ a lo-
+go or symbol encompassing everything that ever was, will be, and is. Some-
+one will patent it; the logo will be retroactive and recursive - that
+someone is already part of it *
+
+-----------
+
+*This reminds me of Hugh Everett III's universal equation in his thesis on
+the many-worlds theory of quantum mechanics. I'm sure there are other ex-
+amples closer at hand, from Alpha to Omega to Aleph and Beyond.
+
+

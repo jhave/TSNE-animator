@@ -1,0 +1,78 @@
+=
+
+
+- which is a kind of fascinating text, produced by "ransacking" or going 
+over all my other texts in a particular file, and pulling out the lines 
+that have the word "line" in them.
+
+All of these things give me tools for thinking about writing and new ways 
+of putting words and meaning together. I'll very rarely let anything alone 
+- I don't really care how the text is produced - so I'll go back into it 
+and rearrange thing, making the text say things or lead the reader in new 
+and different directions. In other words, the commands are catalysts for 
+text production - not designed to deliver the final text, but to deliver a 
+textual body I can then work on, operate upon.
+
+I also learned some simple programming. Years ago, I programmed in Pascal, 
+which is fairly easy and still around. Pascal and the Microsoft language 
+Basic combined (or at least Basic was influenced by Pascal) and Qbasic, or 
+Quick Basic, was created. It's an easy language to learn, and runs in DOS. 
+I did a number of programs in Quick Basic, but nothing really manipulating 
+or working with text.
+
+Since the Net, a number of scripting languages have been developed. The 
+two most famous are javascript and Perl. Perl runs in Unix or Linux, 
+although there are also Windows eversions available. Javascript runs in 
+anything - you can write it and it will be read by any browser. I did some 
+works in Javascript at one point. These are very simple webpages that "act 
+up" one way or another. Some of the URLs:
+
+http://www2.sva.edu/~alans/z.htm which uses a simple random generator and 
+word list to create a page which "breathes." I found a parallel between 
+the human body and the "body" tag in html and wanted to explore that. 
+
+http://www2.sva.edu/~alans/head.htm contains a simple text which momentar- 
+ily appears when a button is pressed. The source code is very simple; 
+there is a double message - one for browsers that don't recognize java- 
+script, and one which sets up the page for those who do. The page then 
+takes you to another page when a button is pressed - the second page has 
+the text, which remains unreadable because it's on screen so fast. But if 
+you look at the code, you can figure out that the second page is
+http://www2.sva.edu/~alans/tail.html and then the text is readable.
+
+http://www2.sva.edu/~alans/tt.htm contains another javascript page. In 
+this case I had to look around a bit at other code and paste it in. It 
+represents the body of an avatar or character - and the text and 
+background color changes somewhat randomly, as if one were looking at it.
+
+And finally, http://www2.sva.edu/~alans/uu.htm is two simple texts moving 
+in two windows. I did have troubles coding this, but that's because of my 
+ignorance of javascript.
+
+There's another way to do dynamic work, of course, and that's dhtml, which 
+incorporates javascript. Dhtml is dynamic html, and you can usually find 
+an editor or program like Dreamweaver to do most of the work for you. I 
+have one page up, http://www2.sva.edu/~alans/x.html - which works in most 
+Netscape and some Microsoft Explorer windows. It's a page of moving blocks 
+of text and one image, against still blocks of text and a background 
+image. I didn't do any of the programming by hand, and it doesn't run on 
+Netscape 6.0 or Netscape 6.01 (a lot of stuff doesn't by the way). It's 
+running fine in the background now.
+
+So there are many levels of coding html, javascript, or dhtml pages. You 
+can code things by hand - hard writing the code - which can be difficult, 
+but will teach you a lot. Or you can have a program like Dreamweaver code 
+it for you - which is easier, but leads to looser code which might not 
+always run. Finally, you can code by hand, but take bits and pieces from 
+other programs and sources on the Net, and turn them into something of 
+your own.
+
+I've also used perl to help me with my writing. Perl is a scripting lang- 
+uage that sits mostly in Linux or Unix systems, but can download Perl for 
+Windows, and O'Reilly publishing even has a book on Windows Perl. It's a 
+fast language for doing all sorts of text transformations, and you can 
+pick up the simpler elements, I think, from scratch in a week or two. I've 
+written a number of programs in Perl, which I use for making pieces. One 
+of them, a very simple one, is called "bio" and is as follows:
+
+

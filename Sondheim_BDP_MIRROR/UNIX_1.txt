@@ -1,0 +1,383 @@
+							sondheim@panix.com
+
+Commands for Internet Access - mainly Unix: 
+
+
+1. telnet
+
+Telnet allows you to connect to another computer or server as if it were
+your own. You can, for example, log into your account from another account
+through telnet. The general command is
+telnet <hostname>
+as in for example
+telnet panix.com
+Once in, you'll be asked for your login name and password. In some cases
+you'll get something that looks like
+telnet>
+This means that the telnet program is activated; to enter a hostname you
+type
+telnet> open panix.com
+and to end the session you type
+telnet> close
+You can generally get out of a telnet session, crash it, by entering
+control-bracket as in the following (where ^ is the control key): ^]
+Note it's the right bracket.
+When you're done with telnet, type quit, and you'll be out of it.
+
+[In Netscape, you open telnet <site> by typing 
+telnet://<site> . That's all. For example, to log in to my home account,
+I would type
+telnet://panix3.panix.com  ]
+
+[Note that your Netscape needs to have a helper application in order to
+do this.]
+
+2. finger
+
+Finger gives you more or less limited information about someone on the
+Internet. To use it, type
+finger <email address>
+at the prompt; for example:
+finger sondheim@panix.com
+will give you information about me. A lot of places have disabled finger.
+If you are using a basic Unix account, you can modify two files, called
+the .plan and .project file, to give additional finger information.
+You can also use finger to get general information:
+finger @panix.com
+
+[Often you'll find finger in a graphic environment, asking for both
+hostname and user. For hostname, you would put down (for me) panix.com
+and for user, sondheim.]
+
+3. ftp
+
+Ftp is file transfer protocol, useful for getting files. There are a number
+of ways to use this and the easiest is through the lynx text application 
+for the World Wide Web. At the prompt, however, you can use it as well,
+particularly for _anonymous ftp,_ which gives you access to public files at
+a server. Here are some commands. To begin, type
+ftp <server>
+at the prompt; for example:
+ftp jefferson.village.virginia.edu
+You will be asked to login, and you do so by typing
+anonymous
+at the prompt. You'll then be asked for a password, which is your own email
+address. Once in, here are some commands:
+dir - lists the contents of the directory you're in with full information
+ls - lists the contents with almost no information
+pwd - tell you which directory you're in, in case you're lost
+cd - change directory as in
+cd pub (change from the original directory to a subdirectory called pub)
+get - get a file from a directory
+put - put a file in a directory
+cd .. - move up one directory
+cd / - move to the root directory
+help - for help
+binary - tells ftp you will be downloading a binary file
+bye - leave the ftp session
+mget - get several files at once (uses wildcards like *)
+hash - lets you know the transfer is active
+
+[Anonymous ftp is automatic within Netscape. To use it, for example to do
+ftp to oak.oakland.edu, you would just type
+ftp://oak.oakland.edu and that would do it. Note the :// syntax again.]
+
+4 lynx (entrance to the World Wide Web)
+
+[If you are using a graphics browser, ignore this entire section!]
+Lynx is the main text-based entrance to the Web. There are a number of basic
+commands, including ones running from the option bar.
+LEFT ARROW - takes you back a menu
+RIGHT ARROW - takes you forward a menu
+UP ARROW - moves you up the page
+DOWN ARROW - moves you down a page
+b - moves you back a page
+SPACEBAR - moves you ahead a page
+v - allows you to view your bookmarks file
+a - allows you to add to your bookmarks file
+g - allows you to go to a URL (uniform resource locator) of your choice:
+  Most URLs begin with http:// but you can do ftp and gopher and some email
+  within this command:
+  ftp:// - allows you to ftp to a site within lynx. Far easier than at the
+    command line
+  gopher:// - allows you to gopher within lynx.
+  mailto:<address> - allows you to email within lynx.
+  telnet:// - allows you to telnet within lynx (no particular reason to do
+    this)
+^G - pulls you out of a "hung" lookup
+q - gets you out of lynx
+You can also set options for yourself, with o; for example, you can give
+yourself an editor, an automatic email address, and by changing from novice
+to expert, you'll have the URL of wherever you are always available.
+\ - shows you the original html document and hitting it again returns you
+  to the hypertext form
+p - allows you to download to your home pc or your account, or email the
+  file to yourself.
+/ - allows you to search a document for a particular word or string of
+  letters
+del - hitting the delete key takes you to the history list, which you can
+  use to access previous menus from your current session
+
+You can also do lynx . to get information on your home directory; it
+can be used as a general file reader.
+
+5 email
+
+Email runs from a number of different programs. When you send a post you
+can:
+Cc: (carbon-copy) it to other readers who will be listed on the header
+Bcc: (blind Cc) it to other readers who will not be listed on the header
+You can forward a post, and reply to a post, quoting or not quoting.
+In Pine, you can have an full header option installed, which allows you
+to see the complete addressing - so that if an anonymous post comes in,
+you can see where it is from.
+Lcc: List carbon copy - Bcc which will put the list name into the address
+header
+You can often have a .sig file set up containing a specialized signature
+that will be attached to your post.
+Your addresses should almost always be of the form
+<email name>@<server>.<domain> and the domain can be any number of:
+com (commercial), org (organization), edu (education), mil (military),
+net (network), etc.
+You can save your mail in _folders_ which can be deleted and manipulated
+in various ways.
+
+There is, of course, an email program within current Netscape versions.
+
+6 mailing lists
+
+Mailing lists in general work from two major pieces of software: listserv
+and majordomo.
+You subscribe and unsubscribe to mailing lists by sending requests to the
+software, not to the list. 
+The command generally in listserv is:
+subscribe <listname> <your name>
+To unsubscribe, the command may be either
+unsubscribe <listname>   or   signoff <listname>
+For full information for a listserv list, write to the listserv, for 
+example: listserv@listserv.aol.com and say in the body of the letter
+info refcard
+The command in majordomo is:
+subscribe <listname>
+Other commands are
+who <listname>  who is on a list
+lists  what lists do you carry
+info <listname>   for information pertaining to a particular list
+unsubscribe <listname>  for getting off a list
+
+7 Usenet groups
+
+Newsgroups must be read through a newsreader. I use tin, which is very 
+popular in Unix. Here are some commands:
+RIGHT ARROW - go to the next level
+LEFT ARROW - back up a level
+DOWN ARROW - go down on the same level
+UP ARROW - go up on the same level
+/ - search
+y - Yank in all newsgroups (usually to do a search)
+w - post to a group
+R, r, F, f, reply to the group quoting or not or reply to the poster, ditto.
+<number> - jump to a particular number
+m - mail the article to yourself or anyone else
+s - save the article in a file (you may have to uncode it)
+t - tag the article
+b - back up
+TAB - jump to next unread
+s - subscribe to a particular group
+u - unsubscribe to a particular group
+z - toggle as unread (keeps the post present in the index)
+q - quit
+g <groupname> - go to a particular group and subscribe to it
+
+[Netscape and other browsers also have Newsreaders which allow you to
+organize the message base according to author, thread, date, etc. Read
+the instructions carefully. Note that there are different ways to see
+_all_ the newsgroups, and to search among the titles to find which ones
+you might want to subscribe to. In Netscape, graphics in Usenet will open
+up immediately.]
+
+Usenet hierarchy:
+biz, business; comp, computers; news, general news; rec, recreational;
+sci, science; soc, social; talk, debate; misc, miscellaneous; alt,
+alternative (the largest category by far); also humanities.*
+Usenet smileys (just the common ones): :)  :-)  :(   :-(  
+Some acronyms: LOL (laughing out loud); ROTFL (rolling on the floor 
+laughing); RTFM (read the fucking manual); BRB (be right back).
+
+8 talk
+
+talk, ntalk, ytalk all allow synchronous communication with someone; 
+ytalk allows multiple logins
+To use it type
+ytalk <email address>
+and wait. It may or may not be allowed on your machine.
+When you are in talk, you can often use ^z which places talk in the
+background, and takes you momentarily out of it (to look up information
+for example); hit fg (for foreground) and it springs back up. To exit
+talk, type ^c .
+You can get a simple menu in ytalk by hitting the escape key.
+You can make a .ytalkrc file and set your preferences in it.
+
+[There are also talk functions available with some graphic interfaces;
+these work roughly the same way. Some clients such as Powwow are graphic
+elaborations on talk. Various Web chat applications are slow and clumsy.]
+
+9 gopher
+
+Gopher presents large sections of the Internet as a menu; you type 
+gopher <address> at the prompt, although you can also do this within lynx,
+and some servers have a pre-installed gopher for you. Gopher searches
+gopherspace using search mechanisms such as Veronica, which take in string
+queries.
+ARROW KEYS work as in lynx 
+v - view bookmark file
+a - add to bookmark file
+b - back a page
+m - mail
+o - options menu
+^c - gets you out of hangup (prompts for ^g)
+s - save
+d - download
+SPACE - down a page
+
+[Gopher is also accessible through Netscape and other Web browsers. If
+you want to go to the main gopher site, for example, at the University
+of Minnesota, you would type, in Netscape:
+gopher://gopher.tc.umn.edu:80 or something similar. See the various
+URLs.]
+
+10 a few MOO commands
+
+connect <name> <password>   gets you in
+@join <name>   takes you to the name
+look <object>   gives you the description of the object
+@quit   takes you out
+@examine <object>   gives you a full range of possibilities
+say <statement>   allows you to speak, question, or exclaim to others
+emote <statement>   allows you to have emotions
+@go <destination>   jumps you to a destination
+@read <object>   allows you to read an object
+page <name> text   allows you to call someone at a distance
+" and :   abbreviations for say and emote
+@show   gives detailed information for an object
+@list <object>:<verb>   gives detailed information for a verb
+@dig   make a building
+help  brings upa help menu
+@request  allows you to request a name
+@subscribe   gives you a list of internal mail lists
+@send to <name>  sends mail to someone
+@mail on <list>   lists last 15 messages on an internal mail list
+There are probably hundreds of commands; you can find your way through
+them as you go. Look for maps (ASCII-based) of the space as a whole.
+
+Talker Commands:
+
+:<text>   emote
+.emote <text>  emote (variation)
+<text>  say
+.l   look
+.echo <text>   places line of text without accreditation
+.h   help
+.news
+.map   gives a map of the space
+.write   write on message board
+.read   read on message board
+.g go somewhere
+
+Haven Commands:
+
+/?  help
+/n <name>  gives you a name
+
+MUD Commands:
+
+n, e, s, w   go north, east, south west
+kill <x>   begin fighting x
+drop <x>   put down x
+take <x>   pick up x
+look at <x>  look at <x> (some systems, just look <x>)
+score   what your score is
+take all from corpse   just what it says
+help   gives command list
+
+Other forms of talkers and muds have different commands; you can try
+to get help by typing one of the following: ?, h, .h, .help, help,
+.h, .help, .?, /?, /h, and so forth.
+
+Note that almost all MOOs, talkers, MUDs, etc. have various internal
+messaging systems. You can get information through the help menu. These
+systems include:
+Welcome message (what you see when you log on)
+Personal internal email (between participants)
+Bulletin boards (public messaging systems that you can write to)
+News (messaging systems that you can't write to)
+Email lists (on MOOs for research; you can join and write to them)
+Paging/answering machines (on MOOs for leaving messages)
+
+There are various clients usable for entering MOOs, MUDs, etc. such as
+tiny-fugue; these are beyond the course.
+
+11 IRC (Internet Relay Chat)
+
+/join #<list>   join a list
+/nick <name>   change your nickname
+/whois <name>   information on user
+/set <options>   change options - see help for this
+/leave #<list>   leave list
+/lists   all lists
+/message <name>   private message to someone
+/me <action>   doing something
+/dcc   dcc is similar to ftp; see help on this
+/quit   quit IRC
+<text>   say
+
+12 miscellaneous Unix
+
+The two most important commands for you may be man and apropos:
+man <command>   gives you a very complete help file for a command
+man man    gives you the help file for man
+apropos <subject>    lists various commands connected with the subject
+
+Site information and the health of the Internet:
+traceroute <site>  allows you to test the condition of an Internet path
+ping <site>   tells you whether the site is alive or dead
+ping -s <site>   sends a packet per second to a site until you stop the
+  operation with ^c after which it gives you information about packet loss
+dig <site>   gives site statistics etc.
+whois <site>   gives basic site information
+who am i   and   whoami   give you information about yourself
+nslookup <site>   site information
+host <address>  returns IP for domain and vice versa
+netstat   do a man netstat - a complex command giving considerable 
+information on your server - useful if an attack or spam is occurring
+rusers <site>   tells who is logged on to a particular machine at a site
+who   current users on your site
+
+cal <date>   calendar information
+gcal <date>   new calendar program
+pilot <directory>   new file reading program
+calendar   do man calendar - appointment program
+date   tells you just that
+ls   list current directory
+ls -a   full listing
+cd <name>  change directory to the name
+pwd   what directory am I in?
+cd   change directory back to your home directory
+cd /   change to the root directory
+du -s   disk usage
+mv a b   changes (moves) file a to file b - only b remains
+cp a b   copies file a to file b - both a and b remain
+rm a   removes file a and file b: note: you cannot reverse this!
+more a   allows you to read a on the screen
+less a   more sophisticated version of screen-reading, can go backwards
+pico a   brings up a within a simple text-editor for working on a
+pine   takes you to a simple email reader based on pico
+tin   takes you to news
+irc   takes you to internet relay chat
+units   gives you a conversion program (i.e. pounds to grams)
+bc   gives you a calculator program
+
+
+http://www.altavista.digital.com/
+http://my.yahoo.com/
+

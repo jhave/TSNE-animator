@@ -1,0 +1,279 @@
+=
+
+
+KDATE program (lines folded for format)
+
+echo "This is the distance of your new Clar " > bb
+echo " " >> bb
+date >> bb
+echo "This is the closeness of your other " > aa
+echo " " >> aa
+date >> aa
+dialog --msgbox "please help me in your new Clar" 0 0
+dialog --yesno "addicted to the vacancy of your Clar" 0 0
+if [ $0 == 1 ]; then 
+dialog --inputbox "enter the name of your other" 0 0 2>>aa
+date >> aa
+else  
+
+dialog --inputbox "enter your name in the truth of God" 0 0 
+2>>bb
+
+date >> bb
+fi
+dialog --msgbox "your choices within you difference or not 
+otherwise as if it were always otherwise to help yourself within 
+your new Clar " 0 0
+dialog --yesno "you are your very new Clar" 0 0
+if [ $0 == 1 ]; then 
+dialog --inputbox "your new Clar fucks you?" 0 0 2>>aa
+date >> aa
+else  
+dialog --inputbox "your old Clar abandons you?" 0 0 2>>bb
+date >> bb
+fi
+dialog --inputbox "do write your very new Clar now" 0 0 2>> bb
+dialog --yesno "are you wearing your new Clar" 0 0 
+if [ $0 == 1 ]; then 
+dialog --inputbox "the parts of your new Clar?" 0 0 2>>aa
+date >> aa
+else  
+dialog --inputbox "parts of your old Clar begging for you?" 0 0 
+2>>bb
+date >> bb
+fi
+dialog --inputbox "your new Clar writing yourself here please" 0 
+0 2>> bb
+date >> bb
+dialog --msgbox "breaking with yourself now and holding breath" 
+0 0
+dialog --inputbox "returning for your breathing please" 0 0 2>> 
+bb
+date >> bb
+dialog --inputbox "returning for your minding breathing please" 
+0 0 2>> bb
+date >> bb
+dialog --msgbox "you will be moving somewhere else another space 
+to write in later what will be the combining an arrangement of 
+stones thick swollen marbles and limestones granites on the 
+ground there is perhaps the desert your arms working the stones 
+working them other spaces of alterity you thought there was only 
+one a marvel or a travel "  0 0
+dialog --inputbox "a marvel or a travel your arms writing" 0 0 
+2>> aa
+dialog --yesno "heere bee wonders" 0 0
+if [ $0 == 1 ]; then 
+dialog --inputbox "list the wonders for our open-wide eyes" 0 0 
+2>>aa
+date >> aa
+else  
+dialog --inputbox "list the debris for our closed shameful eyes" 
+0 0 2>>bb
+date >> bb
+fi
+dialog --inputbox "deflecting or a derail or a return" 0 0 2>> 
+bb
+date >> bb
+dialog --inputbox "or a moment or a movement of your arms" 0 0 
+2>> aa
+date >> aa
+dialog --msgbox "coming to the other" 0 0
+dialog --textbox aa 0 0
+dialog --msgbox "returning from the other" 0 0
+dialog --textbox bb 0 0
+dialog --inputbox "adding to the other" 0 0 2>> aa
+date >> aa
+echo " " >> aa
+dialog --inputbox "adding from the other" 0 0 2>> bb
+date >> bb
+dialog --msgbox "end" 0 0
+unalias rm
+echo " " >> aa
+cat aa bb >> zz; rm aa bb; alias rm='rm -i'
+date >> zz
+
+
+
+
+On the Diffusion of the Blank and Blankness
+
+
+http://www.alansondheim.org/cl1.jpg
+http://www.alansondheim.org/cl2.jpg
+http://www.alansondheim.org/heli.jpg
+http://www.alansondheim.org/cl3.jpg
+
+This is the closeness of your other 
+ 
+writing this revelation: that blankness is among gamespace, 
+edgepace, the ledge, the abject, the archival impulse, the 
+elsewhere, the elsewhen, that it is neither slate nor fluid, 
+that in other words 'there is no there there' or the speaking 
+voice, or a language, phonemes, marks, traces, gloss. arms 
+gather space within and without, space surrounds arms, 
+organisms, space ruptures and breaks, the mythology of the 
+blank might do here in its (space and blank and rupture) 
+disappearance.
+
+This is the distance of your new Clar 
+ 
+the blank screen is anywhere, beyond or as relay elsewhere than 
+the surface fabrication of detail. the screen always designates 
+an edgespace which is within and without, giving us, always, a 
+sense of unease; think of it as shimmer or stutter, the 
+entangled conjuring of the abject or tawdry -
+
+and so a sense or senselessness of abandonment, as if there were 
+an other/wise beyond/ one/'s habitus. abandonment is a falling 
+out, falling forward, the l/edge of the building, the descent 
+where nothing occurs. the blank, ab nihilo, corruption of 
+gamespace, production of edgespace, yes, all the way down.
+
+is not pessimism absolute? again a relay or detraction occurs as 
+if momentary. the blank screen on the wall remains, succumbs, 
+proffers itself. we are there for it, among it. one must write 
+in plurality to occur. one begs for the past, because it 
+encapsulates, carapace, hovers, b{l}anked capital, lodged, at 
+one point articulated: i don't remember, but i recall this about 
+it nonetheless. the blank is always our past, coming toward us, 
+always our future, leaving us behind.
+
+so that internally, as heated organisms, one might speak of the 
+_inferno of gamespace_ and the _blink of an I_ and from there, 
+onto the ledge.
+
+i want to add something about pessimism and truth, but pessimism 
+or optimism or other states are neither farther nor closer from 
+that diacritical mark (which seems a safe habitus, but as we 
+know from mathematics, it is not) - truth has nothing to do with 
+it; the blank is a blank slate that absorbs inscription and its 
+denouement, ignores inscription and the archival impulse; 
+perhaps an evanescent model would be neutrino entanglements or 
+virtual particles, and what might be called a _non-memory of 
+non_ in the mood or mod of the subjunctive, in a mood.
+
+one returns for the allotment 
+
+the shame lies in this, that we behave and believe otherwise, 
+which is also the shame and the hope, the closed shameful eyes 
+wide open, the debris roiling, coagulating, into the semblance 
+of (momentary) orga(ni)sm, that the organic is always an as-if, 
+and that blankness has no more presence than the virtual, the 
+blankness of the blank for example, a regression meaning nothing 
+but collapse.
+
+so the return to the immensity of differentiation of the real 
+and its obdurate. so that given the organ or human project/ion - 
+nothing remains but the ion, already unstable, faltering; it's 
+this pretense, circumlocuted and circumambulated by the curtain 
+of death of consciousness, that permits us to occur, be, in the 
+first place, always the misrecognition of the real.
+
+or the parabolic whose boundary itself is fuzzy, roiled, 
+coagulated, virtual, dividing the uneasy plane without the 
+benefit of finite closure, as if the gamespace edgespace 
+elsewhere elsewhen blank were something to be _swallowed_ and 
+here the swallowtail catastrophe comes to mind -
+
+{ adding: that it is always a fear that such poesis is taken as 
+a poetics of the world, a more or less scattered or useless 
+description, instead of: the deep harboring of poesis as an 
+accurate response to a blank which inheres, adheres, within and 
+without our presencing, circumscription (if to circumscribe were 
+_parabolic_ without the steadied and finite circumferance). }
+ 
+
+Sun Mar 27 14:07:56 EDT 2016
+
+http://www.alansondheim.org/clar7.png document
+http://www.alansondheim.org/clar6.png "
+http://www.alansondheim.org/clar5.png "
+http://www.alansondheim.org/clar4.png "
+http://www.alansondheim.org/clar3.png "
+http://www.alansondheim.org/clar2.png "
+http://www.alansondheim.org/clar1.png "
+eof
+
+
+some things
+
+http://www.alansondheim.org/somewhat.png
+
+http://www.alansondheim.org/hel1.mp3 
+http://www.alansondheim.org/hel2.mp3
+hels: processed helicopter footage, retrieving information
+amazing sound buildup, music from the Erickson Sky Crane
+
+http://www.alansondheim.org/bassr.mp3 
+bassr: solo bass recorder with inverse dynamics meshed with
+straightforward recording - articulated experimentation
+
+and what I've been doing for the past 1000 times on this machine
+
+179 pico zz 180 stty cols 70 181 sort yy > ww 182 183 ls 184 ftp 
+panix.com 185 telnet 186 exit 187 cd /home 188 alan 189 190 191 
+192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 
+208 209 210 211 mkdir j 212 213 214 panix3.panix.com 215 216 
+*.docx 217 218 219 220 221 sudo gedit /etc/default/grub 222 
+plume 223 nano 224 update-grub2 225 226 /etc/fstab 227 -w 228 
+229 nemo 230 apt-get install 231 232 history 233 uninstall 234 
+man 235 cat /proc/sys/vm/swappiness 236 gksu leafpad 237 gksudo 
+/etc/sysctl.conf 238 239 remove mono-runtime-common 240 241 
+autoremove 242 243 244 gnome-commander libgnomevfs2-extra 
+pavucontrol 245 246 247 purge apt-xapian-index 248 249 bsd-games 
+250 251 252 df 253 254 255 256 zz; 257 sed 's/^ //g' < 258 259 
+260 70; fg 261 's/[0-9]//g' 262 263 figlet 264 toilet 265 266 h 
+267 268 more 269 270 perl a/elimz.pl 271 272 273 mv sondheim 274 
+275 276 277 278 279 280 281 282 283 284 285 286 r 287 288 289 
+a/eliminate.pl 290 / 291 292 boo 293 294 295 296 bin 297 298 lo* 
+299 .. 300 301 boot 302 303 grub 304 305 306 307 root 308 309 
+310 sys 311 312 313 314 usr 315 316 games 317 318 ./cowthink 319 
+cowthink 320 ./cowsay 321 322 323 cowsay -e what 324 325 326 -T 
+hello 327 328 329 let us think about phenomenology and the 
+despair of code 330 ~/zz 331 perhaps there is nothing but 
+remediation >> 332 retribution Other 333 334 335 336 337 
+sondheim/zzz 338 339 zzz 340 341 alansondheim.org 342 343 344 
+345 346 347 348 rm 349 y 350 351 352 353 cheese 354 355 356 357 
+358 359 360 361 362 363 364 365 366 367 date 368 369 370 371 
+/var/log 372 373 syslog 374 375 376 377 preload.log 378 boot.log 
+379 380 381 382 383 this called love 384 i am your deepest 
+process 385 truth: inode id! 386 387 388 389 390 391 
+alansondheim.o4 392 393 394 *.bas 395 396 bsdgames 397 hangman 
+398 399 b 400 401 402 403 404 405 406 407 408 409 410 411 412 
+413 *.jpg 414 415 416 417 418 419 420 421 422 423 424 425 426 
+427 firefox 428 429 Docu* 430 431 432 Dow* 433 434 *.pdf 
+avatarchoice.pdf 435 436 437 438 439 440 441 442 443 traceroute 
+444 ping 445 446 447 448 449 450 grep -h repetition texts/*.txt 
+451 wc 452 453 454 yy; 455 456 457 xx 458 459 460 461 462 72; 
+463 464 465 466 strings 467 468 469 470 471 472 473 474 tr A-Z 
+a-z 475 's/-/ /g' 476 477 478 479 480 481 482 483 484 485 
+.addressbook 486 487 488 489 490 491 492 493 494 shutdown now 
+495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 
+ssh 511 512 513 514 515 516 517 518 519 520 dir 521 522 -la 523 
+524 525 526 527 todo 528 529 530 531 532 533 534 535 536 537 538 
+desktop 539 540 541 542 543 local 544 545 546 547 548 549 home 
+550 551 552 553 Desktop 554 555 556 557 558 559 560 561 562 563 
+del tj.txt 564 565 texts 566 567 568 569 570 norman 571 a 572 
+573 574 575 576 577 578 579 580 581 582 583 584 older 585 586 
+hindx 587 sue.txt 588 589 gcac 590 591 arena 592 593 
+meshworks.txt 594 595 chicago.txt 596 597 chat.txt 598 599 600 
+Alan 601 602 603 's/Alan Sondheim://g' 604 605 Sondheim//g' 606 
+607 608 609 's/GMT//g' 610 's/-Jan-//g' 611 612 613 614 615 616 
+617 618 619 620 keyword.txt 621 622 80; 623 624 625 jzz 626 cp 
+627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 
+643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 
+659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 
+675 676 677 678 surge.txt 679 raintaxi.txt 680 681 682 683 684 
+685 686 687 688 689 jj 690 691 692 693 694 695 696 697 698 699 
+netstat 700 701 702 lynx google.com 703 704 705 706 707 708 709 
+710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 
+726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 
+742 743 744 745 746 747 748 749 750 751 752 753 754 755 mail 756 
+757 alpine leo 758 759 760 761 762 763 764 765 766 767 768 769 
+770 771 apine 772 773 774 775 776 mail2 777 sondheim/mail ~/ 778 
+779 780 781 782 783 784 785 786 787 s* 788 789 cd/ 790 791 792 
+tmp 793 794 795 796 797 798 799 800 801 802 803 804 805 806 807 
+808 809 810 811 812 813 814 815 816 817 ~/mail 818 pub 
+~/sondheim 819 820 821 822 823 824 825 826 827 828 829 830 831 
+even cheapest all new nvidia ) 832 ( cards like formula 1 car 
+compared 833 to wheelchair"  834 835 Husse Sept 3 2007 836 

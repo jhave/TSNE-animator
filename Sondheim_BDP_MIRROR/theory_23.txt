@@ -1,0 +1,88 @@
+==
+
+
+Infinitely Small
+
+
+What happens when the size S of beads grows infinitely (or inaccessibly
+low finite) small?
+
+Of course one does not consider the size of abacus beads. But, given the
+heap, one might want to...
+
+With the abacus of infinitely high (or deep) columns, or the abacus of
+infinitely wide rows, measurement becomes an issue. Thus to add length X
+and length Y, measure X + Y, move beads. To subtract X from Y, measure X
+and within X from the far end, remove beads.
+
+To divide, repeatedly subtract X from Y until X < Y which is the remain-
+der. But without quantity, who knows how many subtractions? Keep track of
+subtractions with finite beads! (Note the need for a second measurement,
+second instrumentation.)
+
+However, to multiply is impossible; without scale, without beads, there is
+no way of telling how many beads are necessary. This is fascinating - in
+this instance it's easier to divide than multiply!
+
+One might measure X against Y by moving string, and in that fashion create
+an accurate multiplication - but only if X/Y or Y/X = an integer. Other-
+wise one is lost without further calculation, fractions, and so forth. An
+exercise: What calculations are necessary? What additional instruments?
+
+Given the plain, it's easy to add portions and subtract portions - the
+latter by laying the flat-measure of one portion on top of the other, or,
+given the two-dimensional invariant, removing portions from X and placing
+Y within them, until the roughly the same shape occurs (providing one has
+geometry at work); one might also place Y next to X, and remove portions
+of X until it appears that Y and the removed portions are equal.
+
+Appearances, appearances. Multiplication and division become much more
+difficult. An exercise! (And an exercise in perception. Again, we're run-
+ning into external instrumentation, tallying.)
+
+Consider the heap: To add, add portions. TO subtract, take away. To sub-
+tract a given portion, take portions away until they appear equivalent to
+the given portion.
+
+Or weigh the results. Or displace, measure water. Think of Archimedes.
+
+All of these bring quantity back by other means. Suppose there are no mea-
+sure strings, no way of judging equivalences, no waters, no scales. Then
+one might add by bringing portion to portion, and one might subtract - but
+only ikonically, by removing the subtracted portion. (This is quite impor-
+tant; if the abacus is indexical in Peirce's terms, the heap of substance
+is ikonic; representation is peripheral and obtuse at best. One is mucking
+in the real, not fucking in the symbolic. Literally!)
+
+One could not, for example, say, remove 1/3 of that heap, or remove this
+amount Y from that heap. One would begin with heap X and remove Y, both
+unquantified, and then one would be left with:
+
+X - Y
+
+and Y.
+
+How to remove a second portion Z such that Z = Y? This is impossible with-
+out external measuring.
+
+One begins with heap or heaps, one separates, one combines. It is a kind
+of concatenation without labeling. One can't say synchronically, spatial-
+ly, that X = Y + Z, but one can say diachronically, temporally, that X
+_did equal_ Y + Z. It is always a question of process.
+
+I am sure I am making errors throughout. Nonetheless: With infinitely
+small beads, with the reign of _substance,_ digital meets analog; the
+raster is now infinitely fine, and the modeling of the real has become
+equivalent to the real itself. As above, the ikonic becomes identity, a
+movement from the equivalences constituting the digital, a movement from
+the _adjudicated_ (and hence the origins of culture) raster back to
+relative undifferentiation.
+
+(If the digital inhabits eternity, the analog is worn, worn down; who is
+to say that erosion doesn't enter into the mess of the heaps, that with
+the division into Y + Z noise enters as well - Serres' Parasite - a bit of
+spillage, entropy, ultimately bringing down the constituted house? We are
+close to the _nerves of the real_ here, dissipated signals within which
+even the digital must reside. Pass the thresher, pass the threshold...)
+
+

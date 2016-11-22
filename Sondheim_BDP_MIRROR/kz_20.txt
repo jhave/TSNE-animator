@@ -1,0 +1,82 @@
+
+
+
+Internet Pasts
+
+
+The following apply the categories of Internet Futures to Pasts. These
+pasts, in detail, are already described /contested in numerous books and
+articles and email lists (discussions, for example, center around military
+or civilian models, corporate or individual contributions, the 1940s-1960s
+as origins or the telegraph and earlier, the 1970s-1980s as the original
+dispersed community or the socius of the eighteenth-century coffeehouse,
+etc.). Further, the categories are rear-projections, from the present to
+the future, mirrored to the past. What I'm getting at, again, is _modes_
+of being, interactivities, epistemologies - making sense of early and
+early-middle online behaviors.
+
+
+I. Textual Virtual Realities
+
+(I live online, inhabit the emails among us, take note of communities
+developing through Requests for Comments; later, I play Adventure and
+other games; my online and offline communities intermingle. I find my-
+self "feeling the wires.")
+
+
+II. Prompt screens and foreground/background processes, TCP/IP redundan-
+cies.
+
+(The screen is my potential; I run several things simultaneously, dis-
+tinguished by their process ID. Later, on emacs, I may open several text-
+ual windows. Meanwhile, from the beginning, redundancies are the order of
+the day; packet-routing networks seem revolutionary in relation to direct
+connection technologies. These networks are visible to me; I can follow
+nodal mappings, lag times, downed routers.)
+
+
+III. Real-World Dispersions of Humans among IMPs, Terminals, Screens
+
+(I move from institution to institution, BBN through other nodes; my mind
+travels the wires; I play at Eliza from a distance. I'm still aware of the
+physicality of it all as computers graduate from core memories and punch-
+cards through early hard drives. I work among institutionalized communi-
+ties, part and parcel of university, corporate, and government social
+worlds, online and off I travel, physically, to Washington, to demonstrate
+the new technologies. I am part of the vision. The machines are refrigera-
+tor-sized and fierce. No longer primarily computation-oriented, a new em-
+phasis is placed on communication.)
+
+
+IV. Hacking Systems
+
+(Elegance, smaller and smaller algorithms, the aesthetics of programming,
+kludging machines together. A rough anarcho-libertarianism prevails; trust
+is primary, and these systems simply aren't prepared for the cracking on-
+slaughts of a decade or two later. Levey writes about the "hacker aesthe-
+tic." Gopher, Usenet, Vernoica, Jughead, Archie, early Web, come into ex-
+istence. At this point art/design departments play a very small role; la-
+ter, they'll ascend as webdesigners and multi-media experts come into the
+corporate playground.)
+
+
+V. Universal, Dispersed Governing / Science and Technology / Education
+
+(New models of institutional interactions; education and the information
+model are primary; entertainment is seen as peripheral. Later the term
+"Information Superhighway" will be applied. Technology and Net development
+run parallel; bandwidth and user numbers slowly increase. On MOOs and
+MUDs, early on, there are questions about governance; distance education
+and hypertext philosophically inherit the work of Deleuze/Guattari.)
+
+
+VI. Communitas
+
+(Shared knowledge spaces develop on all sorts of subjects; even the RFCs
+leak into poetry and satire. These "interstitial" texts may be considered
+commentaries; they presage future embedded communities. Both communities
+and sexualities develop quickly on the early nets; it's unclear to me when
+"living online" became a reality for some - what sort of lure, seduction,
+interactivity, was necessary to complete the gamble.)
+
+

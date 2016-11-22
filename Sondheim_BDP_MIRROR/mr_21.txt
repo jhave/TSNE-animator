@@ -1,0 +1,31 @@
+
+
+
+prey
+
+i write always with textual prey, subject matter; i write what is essen-
+tial to me, that is, of the nature of the being or fit of the world -
+outside of this i'm weak, comatose, tongue-tied - within it i am dictated 
+- i live sometimes in the house of unix - i want to know where i am - 
+what's happening there - it's a home i share with others - 
+
+these commands which are single-valued, monotonic - descriptors of the
+landscape/langue-scape -
+
+w / who / whoami - the speakers, self, community, active agents -
+ls - what's here, what's in my vicinity -
+pwd - what's right here, where am i -
+date - at this time
+netstat - what's distance, what's happening out there -
+top - what's closer, what's happening in here -
+df / du - the size of the place -
+yes - primordial process -
+cd - going home
+exit - leaving it
+
+then the place - the moment and inhabitation of the place - others near
+and far - when the world explodes, they'll be all that remains - they'll
+have gone to - electricity out - dead wires, not enough batteries - dead
+satellites - burned-out fiber-optic - you'll see - for a moment -
+
+

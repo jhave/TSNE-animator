@@ -1,0 +1,249 @@
+
+
+
+
+
+Talking Through Bodies in the Spaces of Muds
+
+
+Tiffany eats a dagger.
+Tiffany eats a piece of rabbit meat.
+You say 'we're on'
+Tiffany eats a piece of rabbit meat.
+Eat what?
+Tiffany says 'Good <g>'
+You don't seem to have any.
+Tiffany says 'I've been eating lots of food here'
+Tiffany grins evilly.
+> get blackberries
+You don't see a blackberries here.
+You say 'I can't get your blackberries. 
+Tiffany eats some blackberries.
+You flip head over heels.
+The sun slowly disappears in the west.
+The sun slowly rises in the west.
+The night has begun.
+You throw a snowball in Tiffany's face.
+The night continues...
+Tiffany says 'auch!'
+Tiffany suddenly lunges at you and tackles you o the ground!
+Tiffany starts a yodelling session that goes right to the bone.
+> thaw Tiffany
+Sorry, your victim is not morbidly encased in ice at the moment.
+Whose thigh would you like to stroke?
+> stroke Alan
+You are about to do something you would rather not be caught doing.
+Brrrrrrrrr.
+You ruffle Tiffany's hair playfully.
+Lightning starts to show in the sky.
+Tiffany sits down and rests.
+You sit down and rest your tired bones.
+Tiffany says 'I haven't seen any of those'
+You say 'they're in the village, the whole village is different now...'
+PRONTO!  You snap your fingers.
+Tiffany says 'strange...'
+SEEK SHELTER AT ONCE! Tiffany has begun to sing.
+PLEASE NO SINGING IN THESE PARTS! says the Orc!
+Orc falls over dead!
+Tiffany stops resting, and clambers on her feet.
+Orc is eaten by maggots!
+Tiffany says 'Did you kill Orc?'
+Orc says yes he killed me.
+The lightning stops.
+You say 'it seems emptier somehow..'
+Tiffany says 'Do you want to move to other rooms as we talk?'
+Tiffany leaves west.
+> goto Tiffany
+Tiffany leaves west.
+> goto Tiffany
+> trans Tiffany
+[We're in the Post Office]
+Tiffany arrives from a puff of smoke.
+You say 'look at that... :)'
+Tiffany brutally slays the Cityguard!
+Your blood freezes as you hear the Citygualrd's death cry.
+> kill postmaster
+Nah... You feel too relaxed to do that..
+Tiffany gets a long sword from the corpse of the Cityguard.
+Tiffany gets a pile of gold coins from the corpse of the Cityguard.
+You say 'I couldn't kill the Postmaster this time... hmmm... you try...'
+Tiffany says 'Did you see I just killed the Cityguard?'
+The sun rises in the east.
+You say 'I can't do that. Let me try and kill you, 
+maybe I can't kill anymore...'
+The day has begun.
+You get a pile of gold coins.
+There were 500 coins.
+> say I can't kill any more... 
+Tiffany says 'Now you can send mail'
+> say try and kill me, say Kill Alan
+You say 'try and kill me, say Kill Alan'
+> Tiffany chops you to pieces!
+Welcome 
+Enter the game.
+> goto Tiffany
+Tiffany gets the corpse of Alan from the corpse of the green 
+gelatinous blob.
+You say 'this is strange... I can't kill anything, you can...'
+You chop her to pieces!  Ah!  The blood!
+Your blood freezes as you hear Tiffany's death cry.
+Tiffany appears with an ear-splitting bang.
+Tiffany says 'You killed me!'
+Tiffany gets the corpse of Alan from the corpse of Tiffany.
+You say 'stranger and stranger... yes, just then, but I 
+couldn't before. I'm sorry. 
+Tiffany says 'Look, I've got corpse of you'
+> kill Tiffany
+You chop her to pieces!  Ah!  The blood!
+Your blood freezes as you hear Tiffany's death cry.
+> get all corpse
+> get corpse
+You get the corpse of Tiffany.
+> look Alan
+Alan is in excellent condition.
+> get corpse
+the corpse of Tiffany: You can't carry that much weight.
+Tiffany says 'You stole my coins!'
+You drop the corpse of Tiffany.
+You drop the corpse of Alan.
+Tiffany says 'Were you carrying around my corpse?!'
+Brrrrrrrrr.
+You get the corpse of Alan.
+You get the corpse of Tiffany.
+The corpse of Alan decays in your hands.
+You eat the corpse.
+You say 'I like these transformations, and if everyone 
+could be a wizard (without the ability to change the database)'
+You say 'talk could be accompanied by action as well...'
+You say 'it's as if the body has presence...'
+You say 'but the nomadic quality here is something worth thinking about'
+You get the corpse of Tiffany.
+You eat the corpse.
+Tiffany says 'I agree. I like the concept of aging, death, etc.'
+You say 'eating corpses reminds me of Tibet... 
+Tiffany says 'Changing landscape - descriptions of objects, places, players 
+wouldn't be so difficult'
+Tifany says 'I'm more concerned about combat commands since changing kill 
+commands into something else would require programming knowledge'
+Tiffany says 'though I'm not sure if verbs can be changed'
+You fondly fondle yourself, feels funny doesn't it?
+Lightning starts to show in the sky
+Your cheeks are burning.
+You bleed profusely, making an awful mess...
+You fondly try to fondle someone not in the room, but who cares.
+Tiffany bleeds profusely, making an awful mess...
+You fall to your knees and worship her deeply.
+Tiffany sinks deeply into thought about the meaning of life.
+The sun slowly disappears in the west.
+The night has begun.
+Tiffany says 'It's in the files ...'
+The Postmaster tells you, 'I'll take 150 coins for the stamp.'
+the Postmaster tells you, 'Write your message, use @ when done.'
+] Hi Tiffany! How are you! I am fine! The weather is fast! Love, Alan
+Message sent!
+The sky is lit by flashes of lightning and you feel a warm wind from south.
+The lightning stops.
+The Cityguard has arrived.
+> kill Cityguard
+You chop him to pieces!  Ah!  The blood!
+Your blood freezes as you hear the Cityguard's death cry.
+Tiffany looks at you.
+You say 'I needed the money for more mail...'
+The Postmaster tells you, 'I'll take 150 coins for the stamp.'
+the Postmaster tells you, 'Write your message, use @ when done.'
+] Here comes another letter, dear Tiffany. I am in Germany! Love, Alan@
+Message sent!
+The rain stops.
+The sun rises in the east.
+The day has begun.
+A quivering hoard of maggots consumes the corpse of the Cityguard.
+You ruffle your hair, wondering how far you can go before 
+the rest think you're crazy.
+Ah, don't take it so hard.
+Tiffany pouts.
+Tiffany sits down and stands up again.
+Tiffany sits down and rests.
+Tiffany stands up and sits down again.
+Tiffany says 'Stop it :)'
+Tiffany looks at you.
+Tiffany lets out a lot of steam, much to your relief.
+Tiffany bursts into tears.
+Tiffany grits her teeth and fumes with rage.
+Tiffany stops resting, and clambers on her feet.
+Tiffany begs and grovels to the powers that be.
+Tiffany sinks deeply into thought about the meaning of life.
+You ponder over matters as they appear to you at this moment.
+You stare at the sky.
+The sky stares back at you.
+You create the master mindflayer.
+The master mindflayer misses you with its hit.
+The Cityguard has arrived.
+You slash the master mindflayer very hard.
+The master mindflayer misses you with its hit.
+You create the devil rod.
+You chop him to pieces!  Ah!  The blood!
+Your blood freezes as you hea the Cityguard's death cry.
+Tiffany makes a quaint, magical gesture with one hand.
+Tiffany has created the slave!
+Tiffany makes a quaint, magical gesture with one hand.
+Tiffany has created the slave!
+> You chop her to pieces!  Ah!  The blood!
+Your blood freezes as you hear the slave's death cry.
+> kill slave
+You chop her to pieces!  Ah!  The blood!
+Your blood freezes as you hear the slave's death cry.
+It starts to rain.
+> kill all
+They aren't here.
+You say 'fuck the rain'
+> look
+The Post Office 
+The corpse of the slave is lying here.
+The corpse of the slave is lying here.
+The corpse of the slave is lying here.
+The corpse of the slave is lying here.
+The corpse of the slave is lying here.
+The corpse of the slave is lying here.
+The corpse of the slave is lying here.
+The mysterious devil rod lies on the floor.
+The corpse of the dragon is lying here.
+The corpse of the horrifying Mudmonster is lying here.
+The corpse of the Nobleman is lying here.
+The corpse of the master mindflayer is lying here.
+The corpse of the Cityguard is lying here.
+The mysterious devil rod lies on the floor.
+ARRRRRRRRRRGH!!!!!
+Tiffany says 'look at herbalist before you kill!'
+ARRRRRRRRRRGH!!!!!
+Tiffany makes a quaint, magical gesture with one hand.
+Tiffany has created the herbalist!
+>look herbalist
+The herbalist is a very beautiful young lady who is about 22 years old.  
+She has deep brown eyes and shoulder-length chestnut hair.  
+Her body is perfectly proportioned and she stands about 5' 5" tall.
+The herbalist is in excellent condition.
+Lightning starts to show in the sky.
+You fondly fondle her.
+You kiss her.
+You give the herbalist a long and passionate kiss, 
+it seems to take forever...
+You dream of better times.
+You get the corpse of the herbalist.
+> You eat the corpse.
+Tiffany smiles happily.
+...
+You say 'the room is a mess....'
+Tiffany points in all directions, seemingly confused.
+Tiffany looks at the slave.
+You fondly try to fondle someone not in the room, but who cares.
+Tiffany kisses the slave.
+You cuddle her.
+You fondly fondle her.
+Tiffany brutally slays the slave!
+Your blood freezes as you hear the slave's death cry.
+Tiffany says 'Oh well....'
+The sun rises in the east.
+Tiffany says 'I think we should figure out what we're going to do and which  
+program we're going to work on since there are things that can be done 
+easily on one mud but not another'
+

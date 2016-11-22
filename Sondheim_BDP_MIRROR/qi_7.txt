@@ -1,0 +1,143 @@
+=
+
+Early on, around 1994-5, I developed the concept of 'rewrite,' the enunci- 
+ation/announcement of online presence - an ontological performative funda- 
+mentally changing the way humans communicate.
+
+I developed the concept of 'defuge' to indicate a kind of disinvestment or 
+staleness that psychologically characterizes aspects of online and offline 
+life.
+
+I worked through the 'inscribed body'/'body of inscription' in relation to 
+'culture all the way down,' placing the semiotic register across all 
+species, and this in relation to an examination of the phenomenology of 
+culture itself.
+
+I worked extensively with the idea of 'third sex,' produced solely through 
+the dynamics of a linguistic register in various social applications; in 
+this respect, I further developed the concept of lag as seductive lure.
+
+I did early work on MOOs and talkers, creating what would later be called 
+codework pieces, by manipulating the database labels of both; I also 
+worked on a phenomenology of talk/chat applications, ranging from MOOs to 
+IRC.
+
+I created a number of codework pieces, interfering in IRC channels, 
+rewriting talker and MOO databases, and so forth.
+
+I created the word 'codework' to reference a style of writing in which 
+code-bones are apparent, scrabbling the surface and depths of texts, and 
+in this regard was a forerunning of flarf, early on google-scraping and 
+working with perl programs and unix/linux scripts to reconstitute texts, 
+drawing new extended meanings out of them.
+
+With the help of Florian Cramer, I extended the structure of the Chinese 
+Thousand-Character Essay into other texts, using a perl program that kept 
+only the first instance of a word, in its proper order; I operated upon 
+Genesis in this fashion.
+
+I have worked with one of the longest-running art projects online - the 
+Internet Text, which I add to daily, and which was started at the begin-
+ning of 1994.
+
+In Second Life, I have constructed a new and extreme style of artwork, in 
+which real-life textures are combined with 'alien' shapes and spaces, 
+having no basis in the real world.
+
+With Foofwa de Imobilite and Azure Carter - we have pioneered a form of 
+dancework called 'avadance' from avatar movement, and this movement itself 
+has been pioneering, using software- and hardware-altered motion capture 
+equipment to create 'inconceivable' mappings of human behaviors.
+
+Through Gary Manes, I pioneered in the creation of dynamic filters for 
+motion capture processing; these parallel graphic filters in image-proc- 
+essing programs, but they transform both time- and space-coordinates.
+
+Using Blender, I have created avatars without any human or organic feat- 
+ures whatsoever, adding human behavioral patterns to them, in order to 
+examine the phenomenology of behavioral 'reading' without cues from a body 
+image itself.
+
+In music, I have pioneered new guitar techniques, as well as extended the 
+possibilities of instruments such as Alpine zither, hegelung, and cobza.
+
+I have written one of the first extended works dealing with body abjection 
+and discomfort, centered on cancer, through the use of codework and other 
+textual manipulations.
+
+Early on, I created a series of raw texts from net-sex - texts which led 
+to the concept of 'wryting,' inscribing the body itself as projection and 
+introjection; this led to the concept of 'jectivity,' indicating the 
+psychological and psychoanalytical flows between agents, screens, desire, 
+and programs.
+
+Along the same line, in an extended text called Textbook of Thinking, I 
+created a 'ruptured' analysis of the obscene and the abject as existing in 
+a different register, within or beneath the linguistic - this deeper 
+register (related to Kristeva's 'chora') underlies human communication and 
+behavior.
+
+Early on, I wrote on textual interfaces in linux, and their phenomenolo- 
+gies; I also analyzed talk and ytalk in linux/unix as representations of 
+the body on-screen, in terms of screen 'real estate.'
+
+Through textual avatars such as Nikuko, Travis, Alan, Jennifer, and Julu, 
+I worked through psychological and psychoanalytical issues of projected 
+identities; these characters appeared anywhere from talkers to IRC to 
+email to newsgroups to Second Life.
+
+In terms of philosophical issues, I wrote extensively on the relationship 
+of the 'analogic' and 'digital' registers, using the abacus as a starting 
+point; this also has led to a series of purely philosophical texts, such 
+as Sophia and Philosophy, which utilize conceptual organization as a way 
+to structure analyses of the real.
+
+I have written as well on the fundamental entanglement of the real and 
+virtual, within the phenomenology of inscription - an entanglement that 
+virtualizes and mirrors any ontology, within any other.
+
+I have written what might be the deepest analysis of Second Life from 
+within - that is, an analysis of virtual worlds and worlding, in a series 
+of texts gathered in The Accidental Artist.
+
+In dance, I have created a series of 'possibilities' using VLF (very low 
+frequency radio) in order to create a dialectic between choreography/ 
+movement and the 'invisible' radiating world at large.
+
+(I should mention my early video- and film-work, based on new techniques - 
+for example, in the early 1980s, I created a 16mm (sound) film a week, 
+using multiple in-camera processing, layering optical soundtracks on the 
+fly, and so forth.)
+
+Within the sociology of postmodernism, I have analyzed the social in terms 
+of radiations and dusts, using these to model transmission (both basic 
+and parasitic) and reception across a variety of spectra.
+
+Along the same lines, I have written on the phenomenology of VLF, short- 
+wave listening, and similar things which emphasize hunting virtualities in 
+worldings that are always already continuously evanescent and vanishing.
+
+Early on, I created artworks using Quickbasic and Basic, to create images 
+that scattered from within, as well as fractal traces using a phenomenolo- 
+gy of measurement - these led to considering the boundaries of the visual 
+in relation to the boundaries of the world, which was also built upon a 
+re-examination of inscribing between x and -x in set theories. 
+
+Earlier still, I created pieces that involved 'driving in 4-space' - 
+moving through four-dimensional space - the image was flattened to a 
+2-space vector screen.
+
+And slightly later, using UCSD Pascal, I created 'active-editing' programs 
+that would take textual input and transform it on the fly; this led to an 
+analysis of parasitism and noise in situations where it seemed imperative 
+to transmit a message through a hostile environment.
+
+These same techniques were used, within the past few years, as a way to 
+interfere with three-dimensional modeling programs, so that it became 
+almost, but not totally, impossible to reconstitute the original image 
+from the scan - and this led, in turn, to reworking avatar bodies them- 
+selves in second life, producing anomalous and unreadable structures 
+motivated by avatar 'intelligence' within them.
+
+And so forth.
+

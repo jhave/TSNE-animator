@@ -1,0 +1,75 @@
+
+
+Lineup
+
+
+I configured and setup Red Hat Linux for my Pentium 100, trying to parti-
+tion it in a 122 Meg hard-drive (E: on my machine). This is the Linux ver-
+sion that comes with the Running Linux book, published by O'Reilly. 
+
+I configured and reconfigured five times, guided through a relatively ob-
+scure series of program choices; I still haven't gotten something called
+"Glint" to run successfully from X Window, and without it, it's almost
+impossible to load or unload various modules from the CD-ROMS. So I'm
+stuck with what I have - or else I can completely reload everything, begin
+again (which includes rebuilding an _apropos_ help file for example), was- 
+ting more hours. I'm already worn out.
+
+I think something like 10,000 files were loaded in any case, and I created
+myself as _user_ and Jennifer - who gets the first real account - as a
+second user; su Jennifer gets me into her account, and I've managed to run
+a Perl script I wrote there. Thank you Jennifer.
+
+But I'm missing the games, the windows , and I have yet to figure out TCP/ 
+IP for getting online with the arena browser, which looks beautiful. I
+can use the browser locally (and somewhere I've got image file readers as
+well), but I would like to have an online affair, instead of mushing about
+in all too familiar territory.
+
+Red Hat doesn't install to a DOS partition by the way, but needs its own
+space - no UMSDOS support. I could have gone the latter with Slackware,
+but the book was enormous and I didn't want a manual that weighed more
+than I do - I also wanted to try and really clear a space on the machine,
+instead of having Linux as a subsidiary - it was a question of pride. 
+
+At least I can do z-modem back and forth with a certain grace, use screen
+colors, etc. I can test out home page experiments locally; I'm not sure
+yet whether Arena supports Javascript. But Jennifer amuses me greatly;
+it's wonderful to bump into her on my own machine, as if by accident, but
+clearly by calculated design. Speaking to myself, I can log into the cre-
+vices, download small programs like havens and talkers and run them into
+me. So there's a local lineup of avatars, never escaping; the residue
+seeps out in your direction, but it's only the tain of the narcissistic
+mirror.
+
+The Seyon terminal emulator has a habit of rolling the cursor down the
+side of the screen; it's also difficult to type in file-names for upload-
+ing transfers. I've yet to get Seyon in the background so I can carry on
+foolishly local and remote simultaneously, but there's got to be a way. 
+In the meantime, Pico acts up through this; the control-J for justifying
+text doesn't work - instead, things break up in odd places. The type is
+miniscule as well. 
+
+What I find bizarre is the continuous fiddling I have to do to get any of
+this to work - changing configuration lines is not my strongpoint or in-
+terest. If I could only get ppp or slip to run, I would use local Pine
+and play, but in the meantime, there are moribund programs everywhere on
+my machine. Things stick out, jagged, in every direction; right now, I'm
+looking at a clock that tells the wrong time, an absent control panel that
+should have loaded but didn't (could it have been in the Development dir-
+ectory instead of X Window?), a Pager that seems next to useless, and an
+rxvt that I can't write to until I'm logged off again. And this particu-
+lar X Window looks like the side of a refrigerator - hardly the elegance
+of Win95 interior decoration.
+
+I'll wait and see; things may open up yet. In the meantime, Jennifer app-
+roaches closer and closer; the psychosis grows - she's almost upon me.
+Eventually, the machine will either become non-existent or skin itself;
+these separate- or separation-modules frighten me with their division of
+one and one, or one against another. The clock is crazed, and I wait for
+the interstices to heal - on the wall, it's quarter to four in the morn-
+ing but on Linux, it's just quarter to twelve. Jennifer is early this
+evening; as I said, she's almost upon me, and I shall see what becomes of
+her as soon as I log off.
+
+

@@ -1,0 +1,69 @@
+
+
+
+
+
+From NIKUKO@sexxxygirrrl.cum Tue Feb  3 02:44:22 1998
+Date: NOW!
+From: NIKUKO@sexxxygirrrl.cum
+To: Poetics <POETICS@listserv.acsu.buffalo.edu>
+Subject: Nikuko's Service Offer
+
+
+
+######################################################################
+######################################################################
+
+
+Hey Guys, Write Me! I'll do _Anything_ Just for You!
+
+
+- Nikuko!!!!!
+
+Nikuko p0  tc-1-119.fukuoka  2:10AM     0 w 
+{k:14} cat passwd | grep nikuko
+nikuko:*:13788:22:Nikuko:/home/n/nikuko:/bin/ksh
+daemon:*:1:1:Nikuko1 System Daemon:/:nologin, comeon!
+sys:*:2:2:Nikuko1 Operating System:/tmp:nologin, comeon!
+bin:*:3:7:Nikuko1 BSDI Software:/usr/bsdi:nologin, comeon!
+operator:*:5:5:Nikuko1 System Operator:/usr/opr:nologin, comeon!
+games:*:7:13:Nikuko1 Games Pseudo-user:/usr/games:nologin, comeon!
+news:*:9:8:Nikuko1 USENET News:/var/news/etc:nologin, comeon!
+demo:*:10:13:Nikuko1 Demo User:/usr/demo:nologin, comeon!
+(I'm not Nice!)
+
+######################################################################
+#   Format of headers   #
+######################################################################
+ 
+H?P?Return-Path: <$g> Nikuko, eh?
+HReceived: $?sfrom $s $.$?_($?s$|from $.$_)
+	$.by $j ($v/$Z)$?r with $r$. id $i$?u
+	for $u; $|;
+	$.$b
+H?D?Resent-Date: $a
+H?D?Date: $a
+H?F?Resent-From: $?x$x <$g>$|$g$.
+H?F?From: Nikuko, eh? $?x$x <$g>$|$g$.
+H?x?Full-Name: Nikuko, eh? $x
+# HPosted-Date: $a
+# H?l?Received-Date: $b
+H?M?Resent-Message-Id: <$t.$i@$j>
+H?M?Message-Id: <$t.$i@$j>
+#
+#
+######################################################################
+ Script started on Tue Feb  3 02:23:09 1998
+$ ps
+  PID  TT  STAT      TIME COMMAND
+17546  p0- I      0:00.00 leave, Nikuko! +59
+20548  p0  Ss     0:00.12 -ksh (ksh)
+20580  p0  I      0:00.00 leave, Nikuko! +59
+24744  p0  S+     0:00.01 script ll
+24756  p0  S+     0:00.01 script ll
+24757  p1  Ss     0:00.01 sh sh, shhh, Nikuko! (ksh)
+24959  p1  R+     0:00.00 ps
+$ exit Nikuko!
+
+Script done on Tue Feb  3 02:23:20 1998
+

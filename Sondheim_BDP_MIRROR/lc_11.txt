@@ -1,0 +1,93 @@
+
+
+
+"So many men, so many minds."
+
+
+Hangup (0:00:10) "So many men, so many minds."
+CONNECT 38400 Panix, ,,3609201
+Hangup (1:01:13) "I've heard a lot about you."
+Hangup (0:00:07) "That's not strange. I've done a lot."
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:18:48) "Looking at people with dirty white socks!"
+Hangup (0:00:03) "That's a hangup? I thought you'd say something smart!"
+CONNECT 38400 Panix, ,,3609201
+CONNECT 38400 Panix, ,,3609201
+Hangup (1:45:47) "I understand your kisses speak the language of love."
+Hangup (0:00:02) "Yes."
+Hangup (0:00:00) "Well, let's talk things over."
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:33:40) "Your bamboo garden is beautiful!"
+Hangup (0:00:02) "I love your weaving tiny shoots in my lovely hair."
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:04:35) "Fallen petals, tulips, I dream of yours!"
+Hangup (0:00:05) "Fine feathers make fine birds."
+CONNECT 38400 Panix, 12123019001
+Hangup (0:14:36) "Don't hang up on me, I'm hung up on you!"
+Hangup (0:00:04) "Have you decided what to do in a big earthquake?"
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:19:50) "Why hello! I wonder how you remembered me!"
+Hangup (0:00:03) "I wouldn't forget a face like yours!"
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:00:07) "When I'm with you, I feel wrapped in music! Thanks!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:00:00) "I would bring your roses roses!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:19:11) "Her name was Virginia. They called her 'Virgin'
+Hangup (0:00:02)  for short ... but not for long."
+Hangup (0:00:00) "Why did they do that?"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:34:01) "Let's study really hard during summer vacation to be
+Hangup (0:00:02)  ahead of your friends."
+Hangup (0:00:00) "Oh please! I have no feelings for you!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:21:46) "Do you think kissing is unhealthy?"
+Hangup (0:00:02) "I couldn't say - I never - "
+CONNECT 38400 Panix, 12123019001
+Hangup (0:03:00) "You've never been kissed?"
+CONNECT 38400 Panix, 12123019001
+Hangup (1:06:10) "I've never been sick."
+Hangup (0:00:02) "A wonder lasts but night days."
+CONNECT 38400 Panix, 12123019001
+Hangup (1:08:59) "Don't forget to tell everybody it's a secret!"
+Hangup (0:00:04) "What is?"
+CONNECT 38400 Panix, 12123019001
+Hangup (1:24:35) "Buzzz...!!!"
+Hangup (0:00:02) "That noisy bee again! I'm mad this time for real!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:16:02) "Do you believe she went out with him?"
+Hangup (0:00:00) "I don't believe in any religion!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:12:57) "No, I really have heard a lot about you!"
+Hangup (0:00:04) "I don't wear dirty socks, what a hangup!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:16:48) "Don't you think bamboo looks odd in your hair?"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:35:16) "I like stalks, not talks!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:09:42) "Her name was really Virginia?"
+Hangup (0:00:04) "The frogs are having a party after the rain!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:57:43) "Let me in! I want to go!"
+Hangup (0:00:02) "What a get-up, wrapped up in roses and music!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:00:00) "If I can't attend my favorite teacher's class!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:08:44) "I'm going to quit English!"
+Hangup (0:00:08) "Work step by step toward your goal."
+CONNECT 38400 Panix, 12123019001
+Hangup (0:32:33) "The girl's got to have him!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:01:12) "I'm sick because I haven't kissed him yet."
+Hangup (0:00:04) "You need another doctor to nurse you back to health!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:00:00) "Can't be helped! It's a new year and teachers revolve!"
+CONNECT 38400 Panix, ,,3609201
+Hangup (0:00:00) "I believe in him. I sent him roses. I know he wants me!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:35:13) "Virginia, you're taking a chance on failure!"
+Hangup (0:00:02) "I want him no matter what! I'll die without him!"
+CONNECT 38400 Panix, 12123019001
+Hangup (0:01:21) "Virginia! Virginia!"
+
+

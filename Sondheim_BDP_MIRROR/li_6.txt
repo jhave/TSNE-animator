@@ -1,0 +1,32 @@
+
+
+
+The Knot: time reversal - resetting linux:
+
+{k:101}date
+Mon Feb 21 19:57:22 EST 2000
+{k:102}last
+root     tty1               Mon Feb 21 19:57   still logged in
+reboot   system boot        Mon Feb 21 19:56
+root     tty1               Tue Feb 22 00:40 - crash  (-4:-48)
+wtmp begins Tue Feb 22 00:39:57 2000
+Mon Feb 21 20:00:53 EST 2000
+
+After numerous attempts, including a bad crash as time reversed, I've
+finally been able to log later than now; for this recuperation, I have
+been given an extra day of life, and life beyond -
+ 
+After numerous attempts, including a bad crash as time reversed,
+I've Mon Feb 21 20:01:02 EST 2000 Beginning with the knowledge that a
+white horse is not a horse, and implanting that knowledge, I have
+succeeded Mon Feb 21 20:01:41 EST 2000
+Mon Feb 21 20:00:53 EST 2000
+Retrospective Dates: Resetting Linux:Mon Feb 21 20:01:01 EST 2000
+Mon Feb 21 19:57:22 EST 2000Mon Feb 21 20:01:01 EST 2000
+I have succeeded in a deep reversal of the system, logging out through the
+crash which has yet to happen Mon Feb 21 20:02:06 EST 2000 Mon Feb 21
+20:02:07 EST 2000
+wtmp begins Tue Feb 22 00:39:57 2000
+Now: Mon Feb 21 20:08:19 EST 2000
+
+

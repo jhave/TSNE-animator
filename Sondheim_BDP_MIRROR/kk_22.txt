@@ -1,0 +1,55 @@
+
+
+
+
+In Query
+
+
+Nikuko - why this? Why would uid 99 do such a thing? Nobody came into the
+machine, nobody left it?
+
+Jun 27 03:47:34 166 PAM_pwdb[276]: (login) session closed for user root
+Jun 27 03:47:37 166 PAM_pwdb[640]: (login) session opened for user root by
+(uid=0)
+Jun 27 03:47:37 166 login[640]: ROOT LOGIN ON tty1
+Jun 27 04:02:00 166 PAM_pwdb[769]: (su) session opened for user nobody by
+(uid=99)
+Jun 27 04:02:41 166 PAM_pwdb[769]: (su) session closed for user nobody
+(END)
+
+Look now, "nobody:*:99:99:Nobody:/:"
+
+Nobody's got a passwd. Here's the passwd of Daishin Nikuko! --
+
+"nikuko:JRaNS9yL2HLGo:500:500::/home/nikuko:/bin/bash"
+
+There you are! Nobody under user id 99 comes to visit, leaves again.
+If I, root, let you, you could be nobody too!
+
+Jennifer points out that Emily Dickinson was nobody, "I'm nobody," etc.
+Emily Dickinson was on linux. Emily was the first on the Net, the
+first to be netted. 
+
+Emily writes:
+
+                     And then a Plank in Reason, broke,
+                     And I dropped down, and down --
+                     And hit a World, at very plunge,
+                     And Finished knowing -- then --
+
+
+At which point #280 ends. Emily, our first avatar, says Jennifer.
+
+Emily -- (says Jennifer)
+
+Meanwhile:
+
+USER     TTY FROM              LOGIN@  IDLE WHAT
+root     p0  wonderland.gol.a  5:09AM  6:28 -csh (tcsh)
+
+In wonderland in dawn Japan, the root, turning and murmuring ...
+
+
+How beautiful -- says Jennifer!
+
+

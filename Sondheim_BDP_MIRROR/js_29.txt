@@ -1,0 +1,34 @@
+
+
+
+Escape of the Performative 
+
+
+Susanne Langer, An Introduction to Symbolic Language, on Russell and
+Whitehead's Principia Mathematica:
+
+"The assertion-sign always stands at the beginning of a total, indepen-
+dent proposition, and governs its main verb. If the dots following the
+sign are immediately followed by ~, then the total proposition is a de-
+nial. 
+
+"But we can never make, symbolically, _assertions about assertions._ The
+assertion-sign is the strongest symbol in the system. Nothing further can
+be said about it _in the language of the system._ So the assumptions we
+make about its meaning and behaviour have to be expressed as _informal
+postulates,_ as also the assumptions which rest upon the _interpretation_
+of the universe _K(p,q,r...)_. If this interpretation, or the import of
+the sign [A], play any part in the calculus, then this is a non-formal
+part, and the symbolism, which conveys only forms, cannot render it."
+
+I use [A] for R/W's sign of assertion. To assert is then a primitive op-
+eration, entailing the subject's operation upon the calculus; unlike God-
+el's etc. production of expressions which cannot be effectively decided
+within a formal system, [A] exists outside the system altogether. Consider
+[A] the _performance_ of its expression, and the implications are clear.
+
+Langer's second edition is from 1953, but the quoted material is also in
+the first, 1937. Here's the beginning of a semiotics based on the _act_
+instead of difference. Take it away.
+
+

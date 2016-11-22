@@ -1,0 +1,55 @@
+
+
+
+
+Jennifer counts on you. 
+
+
+Jennifer counts to one. Jennifer counts in base one, 1^0, 1^1, 1^2, and
+you get the picture.
+
+In base one, there is one symbol. Call it a stick: | .
+_The represented number is equivalent to the number of sticks._
+_Any number of sticks form a *heap*; position is unimportant._
+Addition is the combination or concatenation of two heaps.
+Subtracting is the construct of a cut, separating the heap into two parts.
+
+In addition, it is not necessary to know the quantities added; heap| and
+heap|| together make heap|||. 
+In subtraction, quantity is necessary.
+_Division_ appears as a natural action: take a number of sticks from the
+heap; then take the same number of sticks from the heap; and so forth,
+until the heap is exhausted. What remains is the remainder. Count the
+number of taken heaps from the heap; this is the quotient.
+_Multiplication_ appears as a complex series of actions. Take a heap and a
+second heap; duplicate the first heap for every stick in the second heap.
+The number of sticks in the duplicates gives the answer.
+
+More, more! Cries Jennifer.
+We could mention that the Ackermann function gets interesting here, given
+addition = (n=1); set n=0, and one is in an oddly Heisenbergian stick
+world. 
+
+Jennifer points out this is just like an abacus to base N with N beads in
+each column, and if N=1, then things become quite simple.
+
+She's not done. Jennifer is fascinated by that lack of positionality, the
+releasing of the symmetrical substructure necessary even for base 2. In
+base 1, a stick is equivalent to its position, and 1^n=1^m of course for
+any n,m. We don't have to remember where we are _in the sequence_ says
+Jennifer, because _the sequence and the quantity are identical._ Jennifer
+cries, I've grasped something important!
+
+Jennifer loves the sticky sticks!
+
+She says, here's what it is about addition - it's the only basic operation
+that doesn't require pairing off. Except of course if n=0 in the Ackermann
+function, and then what?
+
+Jennifer stands and curtsies. She says, then! then! then! you have x++,
+incrementation by 1 or | every time the loop comes around. And why?
+
+Because when the loop comes around, _you're looking at the *thing*!_ says
+Jennifer.
+
+

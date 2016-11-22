@@ -1,0 +1,100 @@
+DEATH ON THE NET
+
+
+
+
+
+PING jefferson.village.virginia.edu: 56 data bytes
+
+
+
+----jefferson.village.virginia.edu PING Statistics----
+
+29 packets transmitted, 0 packets received, 100% packet loss
+
+ 
+
+
+
+ 1  xenyn-eid-E0.nyc.access.net (198.7.0.126)  2 ms  2 ms  2 ms
+
+ 2  sewer-S1-T1.nyc.access.net (166.84.64.10)  5 ms  4 ms  3 ms
+
+ 3  transit.nyc.access.net (166.84.0.98)  5 ms  5 ms  4 ms
+
+ 4  144.228.2.193 (144.228.2.193)  12 ms  12 ms  12 ms
+
+ 5  sl-dc-8-F0/0.sprintlink.net (144.228.20.8)  18 ms  17 ms  15 ms
+
+ 6  icm-dc-1-F0/0.icp.net (144.228.20.101)  29 ms  29 ms  13 ms
+
+ 7  icm-fix-e-H2/0-T3.icp.net (192.157.65.122)  25 ms  109 ms  38 ms
+
+ 8  sura9-fix-cf.sura.net (192.203.229.9)  17 ms  13 ms  18 ms
+
+ 9  sura8-ext-cf.sura.net (192.221.252.8)  24 ms  14 ms  13 ms
+
+10  wtn8-sura8-c3.sura.net (128.167.212.2)  17 ms  14 ms  15 ms
+
+11  ctv-wtn8-c3mb.sura.net (128.167.3.2)  24 ms  22 ms  22 ms
+
+12  uva-ctv-c3mb.sura.net (192.221.3.18)  41 ms  28 ms  27 ms
+
+13  acc-router.ver.NET (137.54.200.12)  24 ms  24 ms  26 ms
+
+14  garrett1-router.acc.Virginia.EDU (128.143.226.4)  26 ms  27 ms  25 ms
+
+15  * * *
+
+16  * * *
+
+
+
+no answer from jefferson.village.virginia.edu
+
+
+
+
+
+Packets spew into the space, absent themselves past any conceivable 
+
+timeout. Traceroute exhausts itself flailing uselessly at the doorway to 
+
+eternal hell, damnation of black-hole event horizon where bytes transform 
+
+into noise, heat, the far side of the chaotic domain. The bell tolls for 
+
+Thomas Jefferson who, refusing enlightenment, does not accommodate this 
+
+dark date in Cyberspace, this December 18 1994 of Cybermurder, 
+
+tinymurder, which shall be forgotten forever and ever.
+
+
+
+Beforehand, there was mail-collapse, waves of temp files, waves of 
+
+exiting processes, long languorous waves-becoming-membrane, almost the 
+
+fluidity of space itself, wash-down of the wires, supplement of the 
+
+signifier. But not quite, as the gag covered the mouth, the machine was 
+
+raped, stuffed with anonymity, empty dark messagings, the gristle showing 
+
+through. If you read this, if it arrives, you're shape-riding, riding the 
+
+gristle, going for it; if you read this, there hasn't been a 
+
+resurrection, you're just not part of the chaos, destruction, tinymurders 
+
+and o lucky you.
+
+
+
+Alan Sondheim
+
+
+
+
+

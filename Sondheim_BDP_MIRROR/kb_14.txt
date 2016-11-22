@@ -1,0 +1,57 @@
+
+
+
+motd -v
+
+<k:1>From sondheim@panix.com Sat Jan  3 03:11:46 1998
+<k:2>From sondheim@panix.com Sat Jan  3 03:11:46 1998
+Return-Path: <sondheim@panix.com>
+Return-Path: <sondheim@panix.com>
+Received: from panix3.panix.com
+Received: from panix3.panix.com
+(Z6WT/rseBxAPuVf9CpwaVzDsy1tpL0K8@panix3.panix.com [198.7.0.4]) 
+(Z6WT/rseBxAPuVf9CpwaVzDsy1tpL0K8@panix3.panix.com [198.7.0.4]) 
+	by gol1.gol.com (8.8.8/8.8.8) with ESMTP id DAA08648
+	by gol1.gol.com (8.8.8/8.8.8) with ESMTP id DAA08648
+	for <sondheim@gol.com>; Sat, 3 Jan 1998 03:11:27 +0900 (JST)
+	for <sondheim@gol.com>; Sat, 3 Jan 1998 03:11:27 +0900 (JST)
+Received: from localhost (sondheim@localhost) by panix3.panix.com
+Received: from localhost (sondheim@localhost) by panix3.panix.com
+(8.8.5/8.7/PanixU1.3) with SMTP id NAA00694 for <sondheim@gol.com>; Fri, 2
+(8.8.5/8.7/PanixU1.3) with SMTP id NAA00694 for <sondheim@gol.com>; Fri, 2
+Jan 1998 13:11:25 -0500 (EST) 
+Jan 1998 13:11:25 -0500 (EST) 
+Date: Fri, 2 Jan 1998 13:11:24 -0500 (EST)
+Date: Fri, 2 Jan 1998 13:11:24 -0500 (EST)
+<k:3>From: Myouka Sondheim <sondheim@panix.com>
+<k:4>From: Myouka Sondheim <sondheim@panix.com>
+To: sondheim@gol.com
+To: sondheim@gol.com
+Subject: Message of the Day
+Subject: Message of the Day
+Message-ID: <Pine.SUN.3.95.980102131115.684A-100000@panix3.panix.com>
+Message-ID: <Pine.SUN.3.95.980102131115.684A-100000@panix3.panix.com>
+Errors-To: sondheim@panix.com
+Errors-To: sondheim@panix.com
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+motd -v
+
+The Panix office is closed this morning because the water main break
+in the area makes it inadvisable to travel to that part of town.  There
+will be staffers available by email, but we do not expect to be able to 
+answer phone calls.  
+
+Sometimes I get tired working here, wondering what you are doing over
+there in Japan. Then I think to myself, I'd better look in a mirror. Then
+I go into the sendmail configurations and work the troubles. Then I think,
+these troubles are worked. Then I know I've accomplished something. Then I
+can forget the mirror and just love my identical twin sister, M. Then she
+says, this is interesting, so send it to everyone. Then I do. 
+
+M.
+
+

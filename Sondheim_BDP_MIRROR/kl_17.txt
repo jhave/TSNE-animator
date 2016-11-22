@@ -1,0 +1,43 @@
+
+
+
+LostTime
+
+
+{k:15}time pico LostTime
+   2.13s real    0.00s user    0.00s system
+			*
+{k:16}LostTime, hold on, I'm calling the system, calling the kernel, 
+hold on: ktrace /usr/local/bin/LostTime ktrace /bin/LostTime ktrace
+/usr/bin/LostTime ktrace:  exec of 'LostTime' failed
+/usr/share/nls/C/libc.cat No such file or directory
+			*
+{k:17}Hold on, LostTime, system callup: Jennifer
+			*
+{k:18}Jennifer calling the Colonel:
+			*
+Oh do come to me so sweetly, for I, you, we, will we now, 
+for I will have all the world's dark time, and you, Colonel,
+you have time lost, LostTime, this missing file in which
+I deposit all the world's lost words, all those letters,
+numbers, those signs of dreary punctuation  -
+			*
+Come, Colonel, let me sit upon your knee, I shall raise
+my pinafore so prettily, do not forbear
+the passage of wise time while your soldiers, dark 
+from heat of passage through the wired jungle,
+patrol, patrol, and will never ever notice, for I,
+I, Jennifer, have all this time at my disposal
+			*
+And against your death, do give it all of you, and towards
+your death, to take it from myself, only to return it all;
+while you, Colonel, disport against my knee
+with gallantry, your soldiers march their bamboo way to
+victory. I shall remain, you notice with your dying words, 
+for I have still this wondrous time, this disregard -
+I will do you grand, Colonel, I will do you grand.
+			*
+{k:22} time pico LostTime
+  11.20s real    0.01s user    0.01s system
+{k:23} LostTime
+			*

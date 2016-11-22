@@ -1,0 +1,96 @@
+
+
+
+The Frame (from two posts sent to Cybermind 2/14/96)
+
+A few comments in regard to Dobie's and Richard's recent posts. First, Pip
+and I are equal co-moderators. Second, re: Dobie, I didn't volunteer to
+moderate/co-moderate; I began Cybermind with Michael Current and started
+FOP myself. Which brings up a point that is rarely addressed in these
+discussions, I think - the framework of the lists, the space, which is set
+initially by the interest of the moderator to see discussion on some
+subject or another. In other words, Michael and I established Cyb.  for
+various reasons, invested our time, etc. So this was established not as a
+completely open framework such as an agora where people meet on anything
+(although it can of course turn into that) - it's thematic. Even talkers
+are thematic. On talkers and IRC and havens, you can send topics in fact. 
+Part of the phenomenology of governance then is the reasoning and invest- 
+ment that goes into lists, usenet groups, etc. in the first place.
+
+A second part is the dialog that's established between the moderators and 
+the administrators. We deal with someone at AOL; there's a contract. 
+There was an informal contract at Jefferson with Spoons, and between me 
+and Spoons, and it was the informality that led to the list leaving 
+Spoons, since manipulation became the only way things were done. Spoons' 
+lack of contract with Jefferson is also problematic. On AOL, there's no 
+manipulation and no content difficulties; we renegotiate the site after a 
+year.
+
+A third part is the work that moderators put into the list and the reason 
+that they do this. At the moment, I don't do all that much; Pip is 
+handling most of the admin until Sunday. But the admin can get heavy, and 
+there is constant advertising, as well as participating in a listserv 
+list and an AOL listserv list. The latter in fact is critical.
+
+The criticality forms the fourth part - we tend to get information through
+admin of potential trouble-seekers before things happen. Certain sites for
+example have been banned from AOL; other sites were banned from Spoons.
+Banning a site is serious, but there have been breaches, problems, created
+by sysadmins for example. Most of the time there's complete cooperation.
+
+Finally, there is the frame to the list itself which forms the fifth 
+component from the viewpoint of the framing-device/framework. Majordomo 
+and listserv are entirely different. You would be amazed at the number of 
+controls/options which can be set - I would advise anyone studying lists 
+to examine the listowners' manual which runs to over 100 pages if it were 
+in print. It's constantly being updated. It's harder to get information 
+on Majordomo, but there are FAQs available as well.
+
+All of these play a role, mostly invisible, in the running of any list. 
+All of them (reading the manual, participating in the other lists, etc.) 
+take time. For me, they also occupy considerable space on my Inbox; there 
+was a one minute period about five weeks ago when 137 error messages came 
+in. All this stuff has to be dealt with.
+
+I'm sure there are things that I'm missing here. One thing I tend to do
+now, by the way - when I look at say a MOO or a talker, I want to know
+this stuff, the framing devices. I think it's difficult to understand the
+interior content without this. For example, on a talker, I can .demote
+people to lower categories for misbehaving, and as wizard on a MOO, I can
+actually change their programming without their permission. I hadn't
+realized any of this until I examined the codes. On a MOO also, by the
+way, there are a number of categories, different colors, such as grey, to
+indicate problematic users or sites, and a lot of the synchronous CMC
+applications have built in filtering. Protection is elaborate and can be 
+used or misused; I was victimized on a talker about five weeks ago (I 
+wrote about this to the list, Dobie) by someone clearly listening in to 
+Paula Davidson's and my conversation - someone who was not present and 
+should not have had listening privileges. 
+
+Finally, finally, for a simple list of all user commands on listserv you 
+can send to listserv@listserv.aol.com and say info refcard in the text of 
+the message.
+
+Alan
+
+From sondheim@panix.comWed Feb 14 15:27:41 1996
+Date: Wed, 14 Feb 1996 15:26:21 -0500 (EST)
+From: Alan Sondheim <sondheim@panix.com>
+To: Cyb <cybermind@listserv.aol.com>
+Subject: Governance ii
+
+Another and final final final point - as moderators, Pip and I get 
+notices every time someone signs on or off the list; by reviewing the 
+list periodically, we keep track of total numbers. And people write to us 
+(at least to me) complaining about various things, and then possibly 
+leaving - in other words, we tend to be near what you might call the 
+"temperature" of the list, particularly in regard to lurkers who might 
+not say something in public, or in regard to friends who want us to 
+know something that they wouldn't post publicly. The last is part of what 
+I call the "list aura" which I think is prevalent on and around every 
+list - the back-door communications among members that include everything 
+from email to MOO meets to fleshmeets, etc. - some of which are publi- 
+cized (the meetings) and some of which aren't.
+
+Alan
+

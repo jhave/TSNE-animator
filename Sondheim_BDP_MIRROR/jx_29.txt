@@ -1,0 +1,21 @@
+ HOST #69 
+
+3. To run DOCTOR:
+@ run [SP] <hacks>doctor [CR}
+BBN LISP-10 02-22-71
+GOOD AFTERNOON.
+TELL ME YOUR PROBLEMS.
+PLEASE TERMINATE INPUT WITH A PERIOD OR QUESTION MARK.
+* i have a big problem. _The user begins as in a psychiatric interview._
+I AM NOT SURE I UNDERSTAND YOU FULLY. _The DOCTOR continues the interview
+                                       in a lively fashion._
+* my grandother has a gzorenplatz.
+IS IT IMPORTANT TO YOU THAT YOUR GRANDMOTHER HAS A GZORENPLATZ?
+...........
+ _Continue dialog as your spirit carries you._
+...........
+* goodbye
+IT'S BEEN MY PLEASURE, THAT'S $7.15 PLEASE.
+NIL
+<-
+

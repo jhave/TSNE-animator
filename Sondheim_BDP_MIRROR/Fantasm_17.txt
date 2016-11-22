@@ -1,0 +1,53 @@
+
+-
+
+
+An Ignorant Post
+
+
+Here's some information from Particle Physics and Cosmology (Collins, 
+Martin, Squires). They're writing about the quark particle model and its 
+gaps, which are as follows (paraphrasing): 
+
+1. With three generations, there are already 24 fundamental fermions. Add 
+their anti-particles, 12 gauge bosons, and something called the Higgs 
+scalar, and you're up to 61! Most peculiar.
+2. There are 19 arbitrary parameters in the standard model including the 
+masses of the quarks and charged leptons; this rises to 26 if neutrinos 
+have mass.
+3. No apparent reason for the three generations, no more no less at the 
+moment. 
+4. No explanation why quarks and leptons are so similar in terms of weak- 
+interactions, nor why their electromagnetic charges are equal, so that 
+the electron's -e is equal and opposite to that of the quarks in the pro- 
+ton (2Qu+Qd)e=e to at least 1 part in 10^21. 
+
+Consider: 61 fundamental particles, 19 or 26 arbitrary parameters... On
+this level, a long way from Grand Unified Theories (GUTs). The chapter
+paraphrased covers composite models, attempts at a still more basic level.
+Personally, I doubt that compositeness exists all the way down; the char-
+acteristics of the different layers (quark, nucleon, nucleus, atom, mole-
+cule) vary so widely that I imagine something will emerge by say 2020. 
+
+There are other technical gaps; these I understand very slightly. The 
+last might be explanable by the anthropic principle, but perhaps not to 
+such a tolerance. (I recommend the book by the way; the mathematics is 
+inordinately difficult for me, impossible. It covers everything from 
+super gravity to string theory.)
+
+Does this constitute failure in the scientific method, or a barrier which
+will be somewhat arbitrarily established vis-a-vis resources in terms of
+particle accelerators, etc. for fundamental research? Years ago Brillouin
+considered economics as _integral_ to physical theory - that the necessity
+for increasingly large accelerators might be built into the world in such
+a way that the cost would be a factor in the physics. 
+
+A related question is, beyond one or another theory, why is the world so 
+complex in terms of its fundamental equations? The deeper they penetrate, 
+the more consciousness seems like a skein or molecular sieve dancing on a 
+macroscopic scale, unsure of vision, sure of mergence.
+
+Cyberspace vanishes in these considerations; everything is information 
+and its loss.
+
+

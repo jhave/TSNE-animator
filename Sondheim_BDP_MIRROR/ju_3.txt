@@ -1,0 +1,78 @@
+
+
+
+Julu and Jennifer 
+
+
+Think of Jennifer-Julu, Julu-Jennifer as system resonances, interferences
+or viruses occasioned by intervention. Their psychoanalytics tangles on
+and off the Net - as strange attractors, they shape discursive forma-
+tions, nodes of theoretical focus. Similar to "deconstruction" (Derrida's
+Letter to a Japanese Friend"), Jennifer and Julu fissure as contested
+sites, split or sputter across applications, networks, texts. Subject and
+body are at stake, problematized through the specificities of unfocused
+language (body-html for example). Now, with local linux, Julu and Jenni-
+fer have accounts, occur as intrasystem actants, communicating as well 
+with my non-local ISP and the Net. Below, sendmail once again.
+
+( What interests me here is the system calling itself, either directly or 
+through the shell, looping back through Panix, avatars at both ends of 
+the vector (community nowhere, messages spit into cyberspace, displayed
+through xterm cut-and-paste). )
+
+[from localhost looping through panix slip]
+telnet 166.84.250.149 25
+Trying 166.84.250.149...
+Connected to 166.84.250.149.
+Escape character is '^]'.
+220 clara.julu.net ESMTP Sendmail 8.7.4/8.7.3; Fri, 6 Jun 1997 
+  03:12:46 -0400
+HELO jennifer.travis.org
+250 clara.julu.net Hello sondheim.dialup.access.net [166.84.250.149],
+pleased to meet you
+MAIL FROM: deadly-julu@travis.org
+250 deadly-julu@travis.org... Sender ok
+RCPT TO: julu@julu.net
+250 Recipient ok
+DATA
+354 Enter mail, end with "." on a line by itself
+oh oh I will kill you oh oh 
+#.
+250 DAA00752 Message accepted for delivery
+QUIT
+221 clara.julu.net closing connection
+
+[from localhost telnetted to panix looping into localhost]
+telnet 166.84.250.149 25
+Trying 166.84.250.149...
+Connected to 166.84.250.149.
+Escape character is '^]'.
+220 clara.julu.net ESMTP Sendmail 8.7.4/8.7.3; 
+  Fri, 6 Jun 1997 03:21:35 -0400
+HELO deadly-jennifer.travis.org
+250 clara.julu.net Hello panix [198.7.0.4], pleased to meet you
+MAIL FROM: deadly-jennifer@deadly-jennifer.julu.org
+250 deadly-jennifer@deadly-jennifer.julu.org... Sender ok
+RCPT TO: sondheim@panix.com
+250 Recipient ok
+DATA
+354 Enter mail, end with "." on a line by itself
+oh oh oh you still are not dead oh oh oh
+i will kill you myself you must be dead oh oh
+oh oh oh you will die oh oh
+#.
+250 DAA00800 Message accepted for delivery
+QUIT
+221 clara.julu.net closing connection
+Connection closed by foreign host.
+
+++++++++++++++++++++++
+
+Date: Fri, 6 Jun 1997 03:22:21 -0400
+From: deadly-jennifer@deadly-jennifer.julu.org
+
+oh oh oh you still are not dead oh oh oh
+i will kill you myself you must be dead oh oh
+oh oh oh you will die oh oh
+
+

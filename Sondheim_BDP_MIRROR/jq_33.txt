@@ -1,0 +1,27 @@
+
+
+
+Three other early World Wide Web sites:
+
+
+
+**************************************************************************
+*
+* We regret that WWW.NJIT.EDU no longer supports telnetd services.
+*
+* NJIT has been happy to provide anonymous WWW access since 1992.  This 
+* was intended to assist persons without better means of access during 
+* the infancy of the WWW.  Now that better facilities are more commonplace, 
+* and with increasing misuse of our system, the time has come to end this 
+* offering.
+*
+* Please direct comments regarding this change to "helpme@www.njit.edu"
+* 
+**************************************************************************
+
+Telnet info.funet.fi
+Trying 193.166.0.1...
+Connected to info.funet.fi.
+Escape character is '^]'.
+telnetd: All network ports in use.
+

@@ -1,0 +1,48 @@
+
+Sample Second Life scripts
+
+
+
+(teleport script with text)
+
+vector targetPos = <99, 244, 40>; //The x, y, z coordinates to teleport.
+string fltText = "i'm so tired i can't think straight
+so kill me i won't know it
+i won't remember anything
+i'll thank you for it
+honest i will
+i'll thank you and i'll thank you so very very much
+so very very much "; //label that floats above Teleport
+
+reset()
+{
+    vector target;
+    
+    target = (targetPos- llGetPos()) * (ZERO_ROTATION / llGetRot());
+    llSitTarget(target, ZERO_ROTATION);
+    llSetSitText("Teleport");
+    llSetText(fltText, <1,1,1>, 1);
+}
+default
+{
+    state_entry()
+    {
+        reset();
+    }
+    
+    on_rez(integer startup_param)
+    {
+        reset();
+    }
+    
+    changed(integer change)
+    {
+        if(change & CHANGED_LINK)
+        {
+        llUnSit(llAvatarOnSitTarget());
+        llResetScript() ;
+    }
+    }    
+}
+
+

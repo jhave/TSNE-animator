@@ -1,0 +1,17 @@
+
+[3;1H[Waiting for connection...]
+[21C######################################
+[38D# Rering sondheim@panix3.panix.com?  #
+[38D######################################
+[22B
+[24;1H
+[?1l
+>$ exit
+Script done on Sun Jul 15 15:48:04 2007
+00 /usr/local/bin/ksh -i 
+23652 ttyr7 R+   0:00.00 script 
+$ fg
+ytalk sondheim@panix3.panix.com 
+[1;24r
+[?7h
+[J

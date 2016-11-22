@@ -1,0 +1,81 @@
+
+
+
+Internet Text Description                                       11/30/95
+
+
+The Internet Text consists of 750 +/- sections written over a period of
+two years, a continuous meditation on cyberspace, emphasizing issues of
+interiority, subjectivity, body, and language. The extended range of top-
+ics includes Net applications and practices, the materialist "gristle" 
+that can't be discarded in analysis. 
+
+_Nothing_ is concluded here, although there are summarizations of key con-
+cepts, such as _rewrite, protocol, emission, spew, ghost, address, inscri-
+ption, fissure, and the uncanny._ There are also several sections serving
+as outlines or recapitulations of the "arguments so far."  Recently, the
+text has dealt with issues of net sex, psychosis, upgrading, skin, addic-
+tion, and distributed entities. As in the work of Serres, "antiquated" 
+texts are considered of interest theoretically; Nagarjuna's Fundamental
+Wisdom is an example. 
+
+The Internet Text is in the form of "short-waves, long-waves." The former
+are the individual sections, almost all titled, written in a variety of
+styles, and referencing a number of writers ranging from Kittler and
+(Nicole) Brossard to Ellroy and Lingis, with Penrose, Kristeva, and Karl
+Kraus somewhere in-between. These texts are interrelated, interpenetrated;
+on occasion "characters" appear - _actants_ possessing philosophical or
+psychological import. They also create and problematize narrative substru-
+ctures within the work as a whole. (Such are Clara Hielo Internet, Tiff-
+any, Alan, Claire, Honey, and others; Tiffany, in particular, has become a
+site of learning, sexuality, mathesis, and semiosis.)
+
+The long-waves are fuzzy topoi on such issues as death, love, virtual em-
+bodiment, the "granularity of the real," and physical reality, which
+criss-cross the texts. The resulting fragmentations and coagulations owe
+something to romanticism, something to cognitive studies, but more to the
+function of sites or nodes on the Net itself. 
+
+There is no binarism in the text, no series of protocol statements. On the
+other hand, virtuality is considered far beyond the ASCII text and GUI
+that are most prevalent now, at the end of the twentieth century. The var-
+ious issues of embodiment that will arrive with full-real or true-real VR
+are already in existence as embryonic, permitting the theorizing of poten-
+ial present and future spatialities and their interconnectedness. (Thus
+cyborg-thought is seen as roughly mechanistic in favor of future technolo-
+gies and the psychoanalytical.)
+
+The work often presents and stumbles over gender, genders and regenders
+itself; consider other-gendered personages replacing the ones described. 
+I have no stake in them beyond my own desire, memory and circumlocution; 
+others will do.
+
+Although there are faux-texts of writers such as Dickinson, Stein, and
+Poe, these texts are meant as partial transparencies. I do not mean to
+imply that virtuality is synonymous with masquerade or freely-given 
+choice of identities. Almost all other references are accurate, referen-
+cing a wide range of writers and viewpoints. The resulting matrix, how-
+ever, is entirely my own.
+
+The Internet Text divides into fourteen files; there is also an index
+file to the whole. While it is best read in the order it is written in,
+certain early sections, at pains to establish a working vocabulary, are
+more terse and perhaps difficult than others; they may be skipped, to be
+returned to at a later date. The same goes for the few Qbasic programs  
+and those sections which employ technical terminology (once again the 
+gristle). (Note that the Text is continued in the alphabetic text, which 
+contains files a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p and q to date.)
+
+Certain texts were written with Kim Mcglynn or Angela Hunter, and are of
+course as much their creation as my own. The entire work to date can be
+found by telnetting to
+
+    http://jefferson.village.virginia.edu/~spoons/internet_txt.html
+        (including images and sound)
+    or at: ftp jefferson.village.virginia.edu
+        cd pub/pubs/listservs/spoons/cybermind-digest.archive/internet
+
+Some images are at http://www.cs.unca.edu/~davidson/pix/ as well.
+
+Alan Sondheim, sondheim@panix.com, sondheim@netcom.com 
+

@@ -1,0 +1,19 @@
+
+
+
+Adventure, or The Game of Life where I am Lost 
+
+
+no enter building take keys take lamp take food take water exit west down
+west west east west north south south down south unlock grate enter west
+take cage west light lamp take rod drink water eat food drop bottle west
+west west down down down up look up up look south north east take bird
+look east east east east east west west west west west west down look west
+wave wand cross bridge take diamonds west north south south look cross
+bridge look south north east look west cross bridge wave wand look west
+east south north north look south east west east east wave wand cross
+bridge look east take axe up look west down down up up west look west east
+east east look xyzzy look look spring down exit south south south south
+south south north east west west west north quit yes
+
+

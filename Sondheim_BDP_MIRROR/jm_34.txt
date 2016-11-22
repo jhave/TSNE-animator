@@ -1,0 +1,29 @@
+
+
+
+
+Chemical Warfare List, 1943, General Training Course (Navy)
+
+Sym	Name			Nick			Odor
+
+HS	Mustard			Hot Stuff		Garlic Horseradish
+M-1	Lewisite		Mustard Imitator	Geraniums
+ED 	Ethyldichlorarsine	Enemy's Delight		Biting Stinging
+PS 	Chlorpicrin		Puking Stuff		Flypaper Anise
+DP	Diphosgene		Di-Phos			Musty Hay 
+CG	Phosgene		Choky-Gas		Green Corn
+CL	Chlorine		Chlorine		Highly Pungent
+CN	Chloracetophenone	Cry Now			Apple Blossoms
+CA	Brombenzylcyanide	Cry Always		Sour Fruit
+DM 	Adamsite		Dirty Mixture		Coal Smoke
+DA	Diphenylchlorarsine	Dopey Ache		Shoe Polish
+HC	HC Mixture		Harmless Cloud		Sharp-Acrid
+FS	Sulphur Trioxide	Fuming Spray		Burning Matches
+FM 	Titanium Tetrachloride	Floating Mantle		Acrid
+WP	White Phosophorous	White Phos		Burning Matches
+TH 	Thermit			The Heat		Odorless
+
+Do not smell deeply, Sniff only one, First smell, then think, Every
+perception of odor must be named, Breathe out strongly, Do not smoke
+while smelling.
+

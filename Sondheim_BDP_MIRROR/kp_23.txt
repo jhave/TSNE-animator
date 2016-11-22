@@ -1,0 +1,22 @@
+
+
+
+s/ms: More on Linkages and Couplings
+
+Both linkages and couplings imply an _association_ of elements; in a link-
+age, a transformation of one element necessitates a transformation of ev-
+ery other. In a coupling, the transformation of one element implies only
+that the association possesses one transformed element. From [A'BCDE],
+given [ABCDE], it's clear that the coupling [AA'] constitutes the differ-
+ence between the two couplings; hence this is reversible in terms of his-
+tory. But given [A][B][C][D][E] and A' then [A'][B'][C'][D'][E'] is global
+of course, a perturbation, and it's unclear that, for example, C -> C'
+hasn't been the initial transform. Note that in a linkage, of a term is
+removed, one might have a cut in a concatenation; every cut separates the
+end-points (version of the Jordan Curve theorem). (For a single element
+[A], coupling and linkage are equivalent.)
+
+These are all quite loosely connected! Look for other conditions to make
+the real!
+
+

@@ -1,0 +1,101 @@
+
+
+
+The History of the Mouth
+
+
+Login configuration files fascinate me; they create a literal image of the
+user's _langue,_ domain of enunciation. The reading of the file is the
+reading of the mouth and bones of the user, where the voice goes, how it
+resounds, how the body scrabbles back and forth across the Net. The files
+also contain archaeologies of practice; older and unused commands often
+remain. My own .profile which I use for the korn shell follows; only the
+personal names and addresses have been modified. This file has expanded
+and contracted over the past four years; I see worlds and lifetimes rhizo-
+matically unfolding within it.
+
+There are other files as well, such as .login or .cshrc, and in linux one
+finds for example .bashrc and .bash_profile. Sometimes shortcuts and con-
+figuration data are distributed almost randomly among them; sometimes they
+are concentrated in one intense node, filling out the form, expanding to
+the margins of the written and constituted universe. The .profile below is
+primary for me; I also have a smaller configurations for other shells, and
+other modifications in the form of .<name>rc files. 
+
+biff n
+HISTSIZE=80
+date > thing
+TERM=vt100
+alias hh="integer q; (( q = 1 )); while (( q < 10 )) 
+do 
+sleep 10
+netstat -an | grep SYN_SENT
+(( q = q + 1 )) 
+done" 
+alias g="rlogin gol.com"
+alias gg="ftp gol1.gol.com"
+alias k="kill -9"
+alias ps="ps -g"
+alias mac="tr -s '\015' '\012'"
+alias clara="lynx 166.84.250.149/"
+alias sendmail="/usr/lib/sendmail"
+alias julu="./.julu"
+alias cal="gcal -p -H yes"
+alias bi="./.auto"
+alias talker="telnet brevard.cs.unca.edu 7000"
+alias talker2="telnet marshall.cs.unca.edu 6969"
+alias mutt="/usr/local/experimental/bin/mutt"
+alias pico="/usr/local/experimental/bin/pico -z"
+alias pine="/usr/local/experimental/bin/pine"
+alias pilot="/usr/local/experimental/bin/pilot"
+alias lynx="/usr/local/experimental/bin/lynx"
+alias less="/usr/local/experimental/bin/less"
+alias banner="/usr/5bin/banner"
+alias clara="ytalk clara@gol1.gol.com"
+alias clar="ytalk clara@gol.com"
+alias trevor="ytalk trevor@sfsu.edu"
+alias rm="rm -i"
+alias quiz="/usr/games/quiz"
+alias f="finger -l Nikuko@kata.oita.com.jp"
+alias syn="netstat -an | grep SYN_SENT"
+alias ryn="netstat -an | grep SYN_RECEIVED"
+alias cyb="telnet 134.7.170.170 6666"
+alias kyoto="telnet 149.31.1.10 7777"
+alias sven="telnet 149.31.1.10"
+alias weather="weather NYC > weather; more weather"
+alias moo="telnet hero.village.virginia.edu 7777"
+alias image="telnet terminal.fish.net.au"
+alias media="telnet 18.85.11.158 8888"
+alias x="lynx lynx_bookmarks.html"
+alias b="nfrm"
+alias c="pico calendar"
+alias ching="/usr/games/ching"
+alias fortune="/usr/games/fortune"
+alias memo="./.memo"
+alias p="/usr/etc/ping -s"
+alias m="pine"
+alias ping="/usr/etc/ping"
+stty echoe erase ^h kill ^x
+alias new="Mail sondheim@panix3.panix.com <"
+alias l="ls -ail | more; ls -il .mailspool/sondheim; wc mail/*; du -s" 
+alias h="history"
+alias tf="./tf -n"
+PS1="{k:!} "
+aol=listserv.aol.com
+alias t="traceroute"
+alias tel="telnet jefferson.village.virginia.edu"
+alias e="fortune -w; more thing; date; times; 
+   ls -lu $HOME/.plan; rm thing; exit"
+alias archie="archie -es -o arch"
+date
+calendar
+memo
+leave +59
+bi
+pine -i
+
+EDITOR=/usr/local/bin/pico
+export EDITOR 
+
+EOF
+

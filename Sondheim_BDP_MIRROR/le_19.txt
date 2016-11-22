@@ -1,0 +1,138 @@
+
+
+
+       THE CLIMB INTO THE MOUNTAINS
+
+
+                        ####Now here is where I am balancing
+                         ###on top of THE PRESIDENT, Julu said,
+                           #standing on her head: It was a wonder!
+       #                   #Jennifer joined her. THE PRESIDENT
+       #####################was the world thought they but while
+       #####################they were alive and together, they
+       #                   #would enjoy it. Look, said Julu, I've
+                           #breasts. Jennifer looked; it was a
+                           #first, this breakthrough of wonder as
+                        ####they began to leap from T to H,
+       #                   #landing solidly. A gap appeared; Julu
+       #####################related it to the hymen, which Jennifer
+       #####################didn't understand. Follow me, Julu 
+       #           #       #said; jump, and we'll make it ok
+                   #somewhere down here where for a moment they
+                   #rested, as if their skins were torn and open 
+                   #from the struggle. They jumped up quickly
+       #           #       #to the other side. Such was the case.
+       #####################Look, said, Julu, here is where it is,
+       #####################and Jennifer agreed she had much to 
+       #                   #learn. Suddenly it was time to leave
+       #                   #and an E appeared; THE PRESIDENT 
+       #####################readied himself for the onslaught HE
+       #####################was sure to come. Sure of victory, he
+       #           #       #carried the following: The EYES of
+       #           #       #Jennifer, her TONGUE - she could 
+       #           #       #neither see nor speak; and the HYMEN
+       #          ##       #of Julu, transforming her into a
+       #         ####      #permanent container. This is my 
+       ##                 ##misery, Jennifer, Julu said; she
+       ####             ####screamed JUMP JENNIFER, leaping 
+ 
+ 
+ 
+ 
+       #                   #across the gap associated with the
+       #####################bleak world of THE PRESIDENT, who
+       #####################had condemned both men and women
+       #           #       #for wrecking the perfect country.
+                   #       #Thus the country was spared and
+                   #       #rebuilding according to plan; Julu
+                   #       #could hardly stand it. Now she
+                   ##     ##suffered as well, her sex closed 
+                    #######to everyone. Jennifer wrote this and
+                      ###every other history, almost falling,
+       #                   #jumping up to claim the territory
+       #####################of the R. THE PRESIDENT would watch
+       #####################from his eyes. THE PRESIDENT was
+       #          ##       #thinking: In what way is the world
+               #####       #primary? What can be said about the
+            ########       #primacy of the world? Clearly it was
+       # #######   #       #not in perception itself; his exper-
+       ######      ##     ##iment on Jennifer was conclusive.
+       ###          #######Jennifer began sliding, looking for a
+       #              ###jump onto just another letter. E was on
+       #                   #the horizon, clearly and calmly gar-
+       #####################nered, a moment of solid foot among
+       #####################that most popular letter. And, THE
+       #           #       #PRESIDENT reflected, she was blind.
+       #           #       #So the primacy must be elsewhere,
+       #           #       #perhaps in the style of the world
+       #          ##       #itself - a style that owed to classi-
+       #         ####      #cal logic and its tradition. The name
+       ##                 ##Aristotle came to mind as all three,
+       ####             ####Julu, Jennifer, and THE PRESIDENT
+       ####
+        ###        ######lept fearfully onto the S. THE PRESIDENT
+        #         ###    ##thought, climbing up, it was not so 
+       #         ###       #much the organization of the world, 
+       #         ###       #but its robustness in the face of 
+       #        ####       #continuous decouplings, linkages
+        #      ####       ##breaking down in the midst of the 
+        ##########      ####landscape of the symbolic. All ready
+          ###### 
+       #                   #leaping onto the I, as he continued,
+       #####################Jennifer shuddering, unable to speak,
+       #####################only to scrawl letters with her one
+       #                   #good hand. Leaving the I or ego, they
+                            
+       #                   #moved onto the D, the darkness also of
+       #####################the symbolic. Beyond the robustness
+       #####################must be chains, linkages from small to
+       #                   #large, holding the subatomic in place
+       #                   #while the world, more vast than any 
+       ##                  #cosmos, occurs above the quarks and
+        #                 ##their constituents. All three almost
+        ###             ###tripped, following the complex train of
+          ################thought in relation to the robust, of
+            ############which they'd heard nothing. Jump Jennifer!
+       #                   #and back onto the familiar E they were
+       #####################indeed, holding their own. What can 
+       #####################anyone say beyond this, asked Julu,
+       #           #       #knowing full well there was no answer
+       #           #       #at all as language and world appeared,
+       #           #       #but only appeared, to descend into 
+       #          ##       #complete chaos. Cure me, cried Jennifer,
+       #         ####      #her vision gone, crawling across the
+       ##                 ##letters like a foreign landscape, but
+       ####             ####the only landscape at all. That's it!
+       #                   #shouted THE PRESIDENT, be careful now,
+       #####################we're on an N, the landscape which is
+       #                 ###foreign is the only landscape there is;
+                      ######we're faced with alterity from the very
+                   #######midst of the self. They began their long
+                #######descent. And between alterity and robustness
+             #######which conceals alterity, therein lies culture.
+           #######Please oh god help me, cried Jennifer; watch it!
+        ######             #said Julu, this N is difficult, and we
+       #####################are almost off. Now just a slight jump,
+                            
+                        ####and they were on the final letter. Julu
+                         ###asked, please I beg you, THE PRESIDENT
+                           #was silent; the question about the pri-
+       #                   #macy of the world had been solved. I 
+       #####################will be your eyes, Jennifer, said Julu.
+       #####################You are both cleared of any wrongdoing,
+       #                   #said THE PRESIDENT, and are free to go.
+                           #I'm blind, wept Jennifer. You are inno-
+                           #cent, said THE PRESIDENT, that should 
+                        ####be sufficient. We are all equally alive.
+
+
+	hack
+	./hack
+	.banner THE PRESIDENT
+	./banner THE PRESIDENT
+	./banner -30 THE PRESIDENT
+	./banner -w 30 THE PRESIDENT
+	./banner -w THE PRESIDENT > ~/zz
+	./banner -w 30 THE PRESIDENT > ~/zz
+
+

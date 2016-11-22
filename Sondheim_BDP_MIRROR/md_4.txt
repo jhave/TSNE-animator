@@ -1,0 +1,289 @@
+
+
+
+1 - hole
+
+
+They all wear uniform.
+They are medical personnel, sportsman, housekeepers or office managers.
+But regardless time, place or profession, they burn with passion and
+desire.
+Plot3D[Sin[y]^4*Tan[x/y] + Tan[y*2]*Cos[x/y], {x, -2, 2}, {y, -2, 2}, 
+ViewPoint -> {2.853, -1.004, 2.000}, PlotPoints -> 100]
+You can view from inside angle what they do behind the locked doors.
+Plot3D[holeFunction[x, y], {x, 1, 640}, {y, 1, 480}, PlotPoints -> 600, 
+ViewPoint -> {0, -.3, 1}, Lighting -> False, Mesh -> False]
+Hardcore: anal, oral, deep penetrations, group action.
+holeFunction = ListInterpolation[Transpose[theirhole]]
+They show it all and even more.
+Show[Graphics[Raster[1 - hole], AspectRatio -> Automatic]]
+They do it non-stop.
+See it right now.
+Do[Plot3D[Sin[x*n]*Tan[y*n], {x, -4, 4}, {y, -4, 4}, 
+ViewPoint -> {-3.411, -2.117, 3.884}, PlotPoints -> 40], {n, 0, 15, .5}]
+They are below the time.
+Time -> [1 - hole]; Do[Plot
+
+
+==
+
+
+
+I've not been participating recently so much, for which apologies - I'm
+worn out and at the edge of a literal breakdown here in Miami, trying to
+hold on. And in my work I've been doing things in Mathematica, a program
+for Mac/PC/Unix/Linux - I have it on 3 PCs and a Mac G3 now - because it
+creates an ambience I'm interested in - the ability to work closely with
+structure in relation to transcendent or content - the content on one
+level is nothing more than a residue, and on the other, it's the membrane
+which evidences submerged operations. You can import various graphic
+formats into Mathematica, then process them in a number of ways - matrices
+for example (which are, in a simple way, present in Photoshop as well),
+and functions - the last fascinates me. So a.jpg becomes f(a.jpg), and as
+a function, it can be modified - its parameters can be modified - in a
+number of way; the result on one hand is often a transformation that I
+haven't seen before, but on the other, is a representation of an intricate
+relationship between mathesis and what perceptually passes for the real.
+Take hole.jpg, make hole = f(hole.jpg) and do a transformation on normal-
+ized values and you might have (1 - hole) as the negative, (hole^2) as
+high contract, (hole^.5) as flattening, etc.; but you can go farther with
+the x, y, etc. coordinates - as if a calculated blast has transformed one
+world into another - with information often lost, sometimes gained (over-
+lay something with tangents and you've got additional peaks everywhere).
+Beyond that, 3d mappings are possible, so that hole.jpg becomes a remapped
+3d object or anti-object; the world is a charred world, a world turned
+inside-out. In addition, you an export audio from Mathematica, and if you
+work with tangent values again, as well as > 40,000 hz, you can use beat
+frequencies, harmonics, subharmonics, all related to the program, your
+hearing, and the machine, interstitial objects which often need no further
+processing; everything is equivalent. Now I would want to take a slice of
+a 3d anti-object, then a sheaf of slices, and construct audio from their
+sequencing - or one might begin with an entire sequencing, producing audio
+as well as an implicit three-dimensional object traversed by one or
+another parameter.
+
+All of this is a safe and perfect world; there are no errors, or errors
+may be easily corrected; if something proves a blind alley, I can turn
+elsewhere, create a different direction, withdraw from unknown functions
+and objects, back into familiar territory. An enormous amount of memory
+seems necessary for all of this, so rendering takes longer than even
+Blender, but there is a comforting specificity in the results, a knowledge
+that noise, randomness, death itself, can be beautiful and self-contained.
+There is a relationship between all of this and my own demise or potential
+breakdown, which I relate to the crystalline wonder of a curve or surface
+- the sequencing of the Visible Human Project comes immediately to mind.
+
+So I am making disks of images and sequences and sounds on mini-disk and
+releasing them, thinking them through; some of them may find their way
+into online directories. Meanwhile I am writing through these, as well as
+writing through other surface-to-air, air-to-surface phenomena, trying to
+make sense of a world, that, for me, is not utterly changed, but utterly
+the same, with a semiotic war above all, in both senses of "above," going
+on at the moment. I recognize my own broken existence, how impossible.
+
+Then I can turn in the middle of the night back again through the sexual
+video and images, into perfect mathesis, transform one sexuality into
+many, one pornography into many, avoiding the pornography of violence,
+taking a different path. I'm platonist to the extent that I believe, long
+after we're gone, the machinery of mathematics will continue its intimate
+relationship with the mechanism of physical or material reality; working
+in the realm of number offers a glimpse touching on the asymptotic horizon
+of subjectivity and the final bursting-point of perspective.
+
+And I wonder - what is the phenomenology of (1 - hole), when there is no
+content for the filling or the asking, when proper names and constants
+have disappeared, when the "-" is a lever or a surface, rather than
+subtraction or dash or identity assignment? What is keeping 1 and hole
+apart - what is the normalization that involves the entirety of the world,
+dis/played or di/splayed against the corrosion of blank space, virtual
+particles, decathection degree zero? The equations converge and veer;
+there always seems to be chaos as the computational limits of the machine
+are approached, and one or another equation takes forever to calculate,
+until memory, real and virtual, is exhausted. Then the program stops, and
+the kernel of Mathematica (which is constructed like an operating system)
+shuts down;  nothing waits for anything in this condition -
+
+Alan, hanging on in Florida
+
+
+---
+
+
+
+Many JENNIFER and Many NIKUKO and Many JULU Do Run Around Madly 
+Multiplying in Unseemly Matter Manner 
+
+They Do Reproduce So Many JENNIFER and JULU
+They Do Reproduce So Many NIKUKO and JENNIFER
+
+They Laugh With Spore Glee and Kill All Bad Anthrax
+
+Here Be The Secret Formula First Part of Ultimate Kill Terror Weapon
+
+JENNIFER^18 + 18 JENNIFER^17 JULU + 153 JENNIFER^16 JULU^2 + 816
+JENNIFER^15 JULU^3 + 3060 JENNIFER^14 JULU^4 + 8568 JENNIFER^13 JULU^5 +
+18564 JENNIFER^12 JULU^6 + 31824 JENNIFER^11 JULU^7 + 43758 JENNIFER^10
+JULU^8 + 48620 JENNIFER^9 JULU^9 + 43758 JENNIFER^8 JULU^10 + 31824
+JENNIFER^7 JULU^11 + 18564 JENNIFER^6 JULU^12 + 8568 JENNIFER^5 JULU^13 +
+
+Here Do Be Delicate Middle And Secret Secret Part
+
+6126120 JENNIFER^9 JULU^5 NIKUKO^4 + 9189180 JENNIFER^8 JULU^6 NIKUKO^4 +
+10501920 JENNIFER^7 JULU^7 NIKUKO^4 + 9189180 JENNIFER^6 JULU^8 NIKUKO^4 +
+6126120 JENNIFER^5 JULU^9 NIKUKO^4 + 3063060 JENNIFER^4 JULU^10 NIKUKO^4 +
+1113840 JENNIFER^3 JULU^11 NIKUKO^4 + 278460 JENNIFER^2 JULU^12 NIKUKO^4 +
+
+Here Do Be Excellent World-Renown Very Pop Last Part of Secret Terror Kill
+
+JENNIFER^4 NIKUKO^14 + 12240 JENNIFER^3 JULU NIKUKO^14 + 18360 JENNIFER^2
+JULU^2 NIKUKO^14 + 12240 JENNIFER JULU^3 NIKUKO^14 + 3060 JULU^4 NIKUKO^14
++ 816 JENNIFER^3 NIKUKO^15 + 2448 JENNIFER^2 JULU NIKUKO^15 + 2448
+JENNIFER JULU^2 NIKUKO^15 + 816 JULU^3 NIKUKO^15 + 153 JENNIFER^2
+NIKUKO^16 + 306 JENNIFER JULU NIKUKO^16 + 153 JULU^2 NIKUKO^16 + 18
+JENNIFER NIKUKO^17 + 18 JULU NIKUKO^17 + NIKUKO^18
+
+Here Be End of Excellent Kill Anthrax Joke Terror Weapon For Perfect Good
+Thank You JENNIFER NIKUKO and JULU
+
+
+
+==
+
+
+Do[Plot3D[Sin[x*n]*Tan[y*n], {x, -4, 4}, {y, -4, 4}, ViewPoint -> {-3.411,
+-2.117, 3.884}, PlotPoints -> 40], {n, 0, 15, .5}]: Export / invert / 
+crystallize / invert /crystallize: Stochastic particle reign gathered and 
+extablishing domain / breathing / almost as if objects = harmonics appear 
+but just barely: I wake from a dream / something is on the periphery / I 
+begin to re-establish the _sequence of events_ - there's no end to it: The 
+universe is _as if something carried on_ recording itself.
+
+In a dark manner of speaking, after the WTC attacks, we are found where: 
+Not that we live life more fully / as if that were possible phenomenologi- 
+cally, but that we are at organism-degree-zero: Something apparently alive 
+_of us_ - through or extruded through processes of crystallization: What 
+_appears to be a body crawling out through the debris field: Operations 
+coming to a halt: Clear the way: Send Delta Team A into there: Bring her 
+out of there: We're coming out: Please stand back: We can't tell if she's 
+still alive: Adrenalin IV: We're free to die: organism-degree-zero: of all 
+degrees: I'm writing this -  _with a slight fever_ - flu coming on: Reduce 
+all Crystallization Rate: Reduce all Crystallization Rate: She's coming 
+through: She's coming through:
+
+
+=
+
+
+True and Normal[mirror.bmp]
+
+
+u/;OT mirror 0u0u " WMFC
+*/We're here. We're ready to begin. It's almost time for the Cell./*
+ EMF Cell[BoxData[
+    RowBox[{
+      RowBox[{"gg", "=",
+        RowBox[{"Map", "[",
+          RowBox[{ Courier New WMFC
+ EMF Cell[BoxData[
+    RowBox[{
+      RowBox[{"g", " ", "=", " ", RowBox[{"Import", "[",
+"\"\<mirror.bmp\>\"", "]"}]}], ";"}]], "Input"]2, #PA~MShowCellLabel
+#HA~EFalse FB#GA~DRule ~UShowSpecialCharacters #HA~EFalse FB#GA~DRule
+#SA~PAllowInlineCells #HA~EFalse FB#GA~DRule #NA~KHyphenation #HA~EFalse
+*/It's almost time for the Cell. It's within the Cell. Azure and I in the
+mirror. You can see us in the mirror. I'm holding the camera. Our bodies
+are exposed. We're depressed. We're falling down the eastern seacoast
+of the United States. We're on the road. We're falling./*
+FB#GA~ #RA~OAutoItalicWords F@#GA~DList FB#GA~DRule #SA~PStyleMen Courier
+New Math1Mono Import Math2Mono ????????????????????? Courier New
+          RowBox[{
+              RowBox[{"(",
+                RowBox[{
+                  RowBox[{"(",
+                    RowBox[{
+                      RowBox[{".3",
+                        RowBox[{"#", "[",
+                          RowBox[{"[", "1", "]"}], "]"}]}], "+",
+                      RowBox[{".50",
+                        RowBox[{"#", "[",
+                          RowBox[{"[", "2", "]"}], "]"}]}], "+",
+                      RowBox[{".11",
+                        RowBox[{"#", "[",
+                          RowBox[{"[", "3", "]"}], "]"}]}]}], ")"}], "/",
+                           "255"}], ")"}], "&"}],
+            ",", " ",
+            RowBox[{"N", "[",
+              RowBox[{"g", "[",
+                RowBox[{"[",
+                  RowBox[{"1", ",", "1"}], "]"}], "]"}], "]"}], ",",
+            RowBox[{"{", "2", "}"}]}], "]"}]}], ";"}]], "Input"] WMFC
+Courier New ???????? Math1Mono ????? Math2Mono Courier New 0u0u WMFC
+*/I'm partially erect. We're in an unknown motel room. Her labia are 
+prominent. Our nipples are hard. Our faces are angry, depressed. We're 
+going to fuck or we're going to kill./*
+*/There's the first transformation. Our bodies swell and glisten. Our 
+bodies seem wet. The breasts and penis protrude. You could almost enter 
+us. We could almost enter you. We're surrounded by blasted objects. The 
+wall has been cut loose. You can't tell about the explosion. You can't 
+tell if it's a trick. Everything in the foreground is peeled away. 
+Everything in the foreground goes to hard-core black and white./*
+ EMF Cell[BoxData[
+    RowBox[{
+      RowBox[{"gFunction", "=",
+        RowBox[{"ListInterpolation", "[",
+          RowBox[{"Transpose", "[", "gg", "]"}], "]"}]}], ";"}]],
+"Input"]F7C Courier New gFunction Math1Mono ?????????????????????
+ListInterpolation Math2Mono Transpose Courier New 0u0u " WMFC
+*/Now there's the second transformation. Our skin begins to disappear. 
+We're part of everything else in the world. Did we do this to everything. 
+Did everything return. My face blasts apart. There is no ceiling. This is 
+the epiphany of incandescent desire. We're in and out of the Cell./*
+ EMF Cell[BoxData[
+    RowBox[{
+      RowBox[{"Plot3D", "[",
+        RowBox[{
+          RowBox[{"gFunction", "[",
+            RowBox[{"x", ",", "y"}], "]"}], ",",
+          RowBox[{"{",
+            RowBox[{"x", ",", "1", ",", "540"}], "}"}], ",",
+          RowBox[{"{",
+            RowBox[{"y", ",", "1", ",", "380"}], "}"}], ",",
+          RowBox[{"PlotPoints", "\[Rule]", "100"}], ",",
+          RowBox[{"Lighting", "\[Rule]", "False"}], ",", " ",
+          RowBox[{"ViewPoint", "->",
+            RowBox[{"{",
+              RowBox[{"0", ",", " ", ".136", ",", " ", "1.233"}], "}"}]}],
+               ",",
+          RowBox[{"Mesh", "\[Rule]", "True"}]}], "]"}], ";"}]], "Input"]
+    RowBox[{"gFunction", "[",
+Box[{"x", ",", "y"}], "]"}], ",",
+          RowBox[{"{",
+            RowBox[{"x", ",", "1", ",", "540"}], "}"}], ",",
+*/We're coming to an end. We're this mirror of you. We're this mirror of 
+all of you. We're in the ruins. We're jammed with you in us. We're jammed 
+in you. The Cell is falling. We're in and out of the Cell./*
+   RowBox[{"{",
+            RowBox[{"y", ",", "1", ",", "380" @, " WMFC Courier New Plot3D
+Math2Mono ?????????????? gFunction Courier New PlotPoints Math1Mono
+Lighting False ViewPoint .136 1.233 Mesh True 0u0u Normal
+
+
+==
+
+
+song
+
+
+spears pour out of the breasts
+g = Import["pour.jpg"]; 
+radioactive emissions pour from mouths
+h = Map[((.3#[[1]] + .50#[[2]] + .11#[[3]])/255) &, N[g[[1, 1]]], {2}];
+the cock gouges a hole in the body and nestles in
+ rays pour out of the hole
+hFunction = ListInterpolation[Transpose[.2 - Zeta[Cot[Tan[h^2 + 1.9]]]]];
+the face is absorbed in sheaves of arrows pouring out
+Plot3D[hFunction[x, y], {x, 1, 640}, {y, 1, 480}, PlotPoints -> 400,
+Lighting -> False, ViewPoint -> {0.000, 0.000, 2.171}, Mesh -> False];
+the cunt is surrounded by an outpouring of javelins
+
+

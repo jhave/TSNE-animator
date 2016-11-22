@@ -1,0 +1,28 @@
+
+
+
+VRML
+
+
+housing feeds into health and population; population feeds into labour;
+labour feeds into food production and capital goods; capital goods feeds
+into consumption and capital; capital feeds into consumption; life expect-
+ancy feeds into health; health feeds into life expectancy; education feeds
+into life expectancy; population feeds into life expectancy; life expect-
+ency feeds into education; urbanization feeds into education; education
+feeds into transportation and job mobility; transportation feeds into pol-
+lution; housing drains resources; resources drain population; health
+drains day-care; sickness drains health; labour drains resources; capital
+drains labour; consumption drains surplus; surplus drains expenditure; ex-
+penditure drains goods; goods drains resources; resources drains food
+production; war drains food production; peace drains surplus; war drains
+life expectancy; mouth feeds into stomach; anus drains stomach; intestine
+feeds into anus; urethra drains bladder; semen feeds into penis; mouth
+feeds into vagina; vagina drains penis; penis feeds into anus; knives feed
+into flesh; flesh drains bullets; urbanization feeds into bullets; bullets
+drain population; education drains mouth; penis drains peace; semen drains
+life expectancy; death absorbs; life gives; art is long; life is short.
+
+(Clark and Cole, Global Simulation Models, A Comparative Study, 1975.)
+
+

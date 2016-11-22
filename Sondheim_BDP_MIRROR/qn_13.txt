@@ -1,0 +1,10 @@
+==
+
+Problematic issues of ontology of virtual worlds: mathesis/inscription -
+what is; the world is a world only by virtue of its (visible, sensed) 
+manifestation. In virtual worlds, information may be classified, trans- 
+formed, and lost - there is always server roll-back or backup. Backup 
+implies an epistemological/ontological split between the (visual, aural, 
+etc.) presentation of the data-base, and its physical backup - as both 
+medium and data.
+

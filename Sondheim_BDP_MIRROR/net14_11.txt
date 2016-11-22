@@ -1,0 +1,206 @@
+
+
+
+
+
+
+1 Does cyberspace exist independently of human action (human culture,
+
+etc.)? There are both an ideal and a real manifestation of cyberspace.
+
+The former is the mapping of transmissions across nodes - i.e. ideal 
+
+movement of data-streams, and the latter is the hardware and actual
+
+movement across it. If cyberspace can be considered a form of liquid
+
+programming with its contents in bytes, then one might speak of cyber-
+
+spaces in the plural - referring to any telecommunications network
+
+and its transmissions/receptions. Such spaces may (or may not) be
+
+considered subsets of a "universal cyberspace," capable of infinite
+
+nodes, rates of transmission, message lengths, etc. 
+
+
+
+1.1 While it is tempting to see all cyberspace as sets of transmis-
+
+sions based on material or physical reality, the ontology of informa-
+
+tion itself is sufficiently problematic to necessitate a category
+
+bridging the mathematico-abstract, material, and phenomenological 
+
+(psychological) aspects of the real world. Cyberspace is then a con-
+
+strained (by networks) subset of a _process-ontology_ of information,
+
+since it is continuously transforming.
+
+
+
+1.1.1 Note that the process-ontology is _still_ different than the
+
+ontology of language carried within the packets, and the ontology of
+
+the user hirself - what I call _indexical embodiment,_ the indexing
+
+semiotics of the user within the message contents (re 2). This is a 
+
+supplement to (or surplus) the traditional semiotics of the message, 
+
+and is to some extent a (formal) deconstruction of the latter.
+
+
+
+2 "Contents" can refer to: a. the totality of packets across the net-
+
+work; b. the message-contents of the packets for the end-user. _This
+
+division is fuzzy,_ since the demographics of users range from sysadmins
+
+to a general public; what is an invisible framework for the latter may
+
+carry message information for the former.
+
+
+
+2.1 "Contents" can also refer, of course, to the collection of material
+
+objects constituting the network as a whole. But here we are differen-
+
+tiating between the _transmissions_ as flows or as messagings for the
+
+end-user.
+
+
+
+3 Is there an ought to cyberspace? There are two "oughts" at work, one
+
+of the protocol suite and its addresses in its entirety, and one of the
+
+contents. The former is necessary for _any_ messaging to successfully 
+
+traverse the network; the latter is a question of _internal filtering_
+
+of the data packets, i.e. a filtering of their contents.
+
+
+
+3.1 The former is that of address/protocol/recognition, described in 
+
+the first sections of Internet Text, and involves the _opening_ or 
+
+creation of cyberspace from/for the end-user. Filtering of contents is 
+
+a form of censorship or editing of information.
+
+
+
+3.1.1 The filtering may itself be internal or external.
+
+
+
+3.1.1.1 Internal filtering is editing of the message contents in the
+
+form of word-processing (i.e. delete, insert, etc. within the text).
+
+
+
+3.1.1.2 External filtering may be totalizing, in the form of annihil-
+
+ation (i.e. kill commands directed towards particular addresses), or
+
+fragmenting, in the form of folder and other distributivities.
+
+
+
+4 The ought of the protocol suite and its addresses is necessary to the
+
+successful throughput of messages; this is the implementation of the
+
+protocol, and carries no ethical weight, except that applied _external-
+
+ly_ (i.e. it is "good" to have successful throughput). The ought of the
+
+contents is contingent at best. Note that these oughts also possess a
+
+fuzzy boundary, since a message contents, for example, may be given by
+
+its _length,_ and spammed messages themselves carry information (i.e.
+
+x's mailbox is full, x is behaving unethically, etc.) for the end-user
+
+_in terms of throughput itself._ These message contents exist on a 
+
+_meta-level,_ since the message framework topography is now carrying
+
+information as well.
+
+
+
+5 The message contents ought, the ethical ought, is _legislated_ else-
+
+where than the protocol suite; it may then be _impelemented_ within the
+
+suite. By _legislated,_ I refer to decisions external to the smooth
+
+throughput functioning of the network - decisions based on social-ideo-
+
+logical issues, not formal telecommunications issues. (Of course here,
+
+as elsewhere, the boundaries are fuzzy.)
+
+
+
+6 In other words, ethical issues involve _the internal filtering of the
+
+data-stream contents,_ while telecommunications issues (or oughts) in-
+
+volve the external establishment and operation of protocol suites across
+
+the network carrying the data-stream contents within datagrams, segments,
+
+and other packet types.
+
+
+
+7 Finally, there is a lateral, not vertical, class-structure at work 
+
+here, dependent upon computer management and protocol knowledge. An end-
+
+user can easily filter or distribute incoming messages (a form of ought
+
+based on contents) without knowing the protocol suite; a sysadmin is
+
+necessary for a global filtering, and telecommunications engineers and
+
+programmers are necessary for the establishment of the network in the
+
+first place (complete with its protocol suite ought). But these are
+
+sociological considerations, varying from culture to culture, which need
+
+not impinge on the overall problematic considered here.
+
+
+
+7.1 And here as elsewhere, all the divisions, boundaries, and so forth,
+
+are fuzzy. I would argue, in the long run, for a _core-theoretical 
+
+approach_ to telecommunications, combined with human instrumentality
+
+resulting in differing implementations, protocol suites, and internal/
+
+external filtering. Consider this a form of neo-platonism of the real
+
+transgressed by the ontology of information, combined with enough heur-
+
+istics to make the whole thing work.
+
+
+

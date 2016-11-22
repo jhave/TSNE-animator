@@ -1,0 +1,30 @@
+
+-
+
+
+[Wryting in Mail/mail at 300 baud: To Be]
+
+
+T-Bone showed me the ways of composition at 300 using the old Unix mail
+system. There is no visible interface here, only characters coming into
+existence on the screen, one after the other, line by line. It's now the
+duty of the keyboard itself to track everything, and _this_ keyboard (HP
+110 laptop again) is difficult to the touch... 
+
+Is it the case, then (in the sense: The world is all the case.) - that
+interface is always already scan, that the visible is a particular kind of
+construct here? Even interlaced, the screen is not the result of parallel
+processing, but a sequential production. Anything beyond that in fact re-
+verberates with the necessity to return over and over again to the begin-
+ning, top or bottom of the buffer, because what is visible is a prior
+frame; nothing is outside the frame, and the frame is _generated._
+
+So the phenomenological real is a construct (nothing new here); there are
+processes and protocols involved. And the earlier Unix programs such as
+mail come closest to _pure_ text, nothing else on the screen, no framework
+but that occupied by the text itself. So that, elsewhere, where I speak 
+of the _ascii unconscious,_ surely not talking about Pine, Elm, Pico - the 
+editor which in MOO is known simply as _enter_ comes closest. _Enter_ the 
+text or its diegesis. Write oneself into and out of existence. _To be._
+
+

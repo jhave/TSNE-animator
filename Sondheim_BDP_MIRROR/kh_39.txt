@@ -1,0 +1,5 @@
+
+Shell: /bin/csh
+No unread mail.
+  User     Real Name         What    Idle  TTY  Host      Console Location
+  

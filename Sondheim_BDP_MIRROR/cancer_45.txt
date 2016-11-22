@@ -1,0 +1,65 @@
+==
+
+
+the text
+
+
+this is not the text but the bones of the text
+this is the text split, splayed for modification
+this is the trembling text, waiting for your touch
+this is the vulnerable text, the languid text
+this is the text that will do anything for you
+this is the text that is open for you alone
+this is the text that gives itself to you
+this is the text that is your thing
+
+  (make-local-variable 'whywant)
+  (setq whywant '( (($ whysay) (// subj) might ($ want) (// obj) \?)
+                   (how does it feel to want \?)
+                   (why should (// subj) get (// obj) \?)
+                   (when did (// subj) first ($ want) (// obj) \?)
+                   (($ areyou) obsessed with (// obj) \?)
+                   (why should i give (// obj) to (// subj) \?)
+                   (have you ever gotten me or (// obj) \?) ))
+  (make-local-variable 'canyou)
+  (setq canyou '((of course i can \.)
+                 (why should i \?)
+                 (what makes you think i would even want to \?)
+
+this is not the text but the bones of the text
+this is the text split, splayed for modification
+this is the trembling text, waiting for your touch
+this is the vulnerable text, the languid text
+this is the text that will do anything for you
+this is the text that is open for you alone
+this is the text that gives itself to you
+this is the text that is your thing
+
+ (make-local-variable 'want)
+  (setq want '( (want) (desire) (wish) (want) (hope) ))
+  (make-local-variable 'shortlst)
+  (setq shortlst
+        '((can you elaborate on that and look at me \?)
+          (would you love me more if you had to pay \?)
+          (continue)
+          (($ please) continue\, my eyes are very big \.)
+          (go on\, don\'t be afraid of me\, look up my legs \.)
+          (i need a little more detail please \- let me come to you \?)
+          (you\'re being a bit brief\, ($ please) go into detail \.)
+          (can you ($ please) be more explicit\, fill me \?)
+          (and\, ohhhhh \?)
+          (($ please) go into more detail\, think of me \?)
+          (you aren\'t being very talkative today\!)
+          (can you see my pretty pretty ($ cloth) \?)
+          (why must you respond so briefly \?)))
+
+i say "this is not the text but the bones of the text"
+i say to you "this is the text split, splayed for modification"
+i bare myself to you "this is the trembling text, waiting for your touch"
+i say "this is the vulnerable text, the languid text"
+i talk to myself "this is the text that will do anything for you"
+you tell me "this is the text that is open for you alone"
+you say to me "this is the text that gives itself to you"
+you offer me "this is the text that is your thing"
+
+

@@ -1,0 +1,251 @@
+\{&&&\}/g' yy > zz 31 sed 
+'s/^/nikuko-/g' zz > yy 3429 34916 203264 zz death awk -f a/back 
+zz > yy; cat yy >> zz sed 's/^/ /g' zz > yy tr '.' '\012' < zz > 
+yy; mv yy zz OAM 10 1 false ls .* > zz UW PICO(tm) 3.4 File: zz 
+Modified UW PICO(tm) 4.2 File: zz for zz fixnum from (- ,len 1) 
+downto 0 with idx ls / zz Request diff between arbitrary 
+revisions rev=1.2 3k LS-8-ZZ.  3/4, Two Shields ZZ.  OAM 10 1 
+false ls .* > zz rev=1.5 11k for zz fixnum from (- ,len 1) 
+downto 0 /usr/games/caesar -14 < zz > yy 78 /usr/games/caesar -2 
+< zz > yy 79 man /usr/games/caesar 1 < zz > yy 90 pico yy 187 mv 
+zz Documents/application/ 189 mv zz ipkg/zz.txt 276 mv zz zzz 
+345 perl orp.pl < zz > yy 347 perl orp.pl < zz > yy 355 perl 
+antiorp.pl < zz > yy 497 more zz ~ 504 mv zz 
+Documents/application/ipkg/zz.txt 84 ls 85 cd 86 ls 87 
+/usr/games/caesar 24 < yy > zz 88 pico zz 89 a-z A-Z < zz > yy 
+51 pico yy 52 h 53 sed 's/^ //g' yy > zz 54 pico zz 55 caesar 80 
+h 81 /usr/games/caesar 1 < zz > yy 82 pico yy 83 cd /usr/games 
+tr A-Z Z-A < zz > yy 56 pico yy 57 h 58 tr [A-Z] [Z-A] < zz > yy 
+59 pico yy 60 h 61 tr AZ ZA < zz > yy 62 pico yy 63 h 64 tr [AZ] 
+[ZA] < zz > yy yy 73 sed 's/^/^ /g' zz > yy 74 pico yy 75 h 76 
+sed 's/^/ /g' zz > yy 77 zz > yy 68 pico yy 69 less zz 70 h 71 
+/usr/games/caesar < zz > yy 72 zz h 44 pico jj 45 sort jj > zz 
+46 rm jj 47 ls 48 rm yy 49 pico zz 50 tr [ ] zz 09-Mar-2009 
+13:33 51K "sondheim +buddha" > zz wc zz perl looply.pl "Alan 
+Sondheim +Buddha" > zz # zz 38 pico zz 39 $ awk -f zz < yy >> zz 
+$ perl a#looply.pl " # # yy 16 sed 's#[0-9]##g' yy # zz 17 pico 
+zz 18 perl 's/#.//g' yy | zz | pico zz sed 's/sp //g' zz | yy | 
+sed 's/ sp //g' zz | 's//mass/g' yy > zz tr < zz > yy sed 
+'s///g' yy > */the soul in chaos/* 's//mess/g' zz > yy sed 
+'s//moss/g' yy > zz sed 's//muss/g' zz > yy sed 's/<//g' zz > yy 
+sed 's/>//g' yy > zz sed 's/bb/b/g' zz > yy; mv yy zz sed 
+'s/G|//g' yy > zz pico zz ftp panix.com p ls rm yy zz ls s pico 
+.bashrc 's/Hardness/Telecommunications/g' zz > z sed 
+'s/white/electronic/g' z > zz 's/Womans/Men/g' zz >> yy sed 
+'s/woman/woman/g' zz >> yy sed 's/Woman/- 's/[.;,()^]//g' jj > 
+zz 13 pico zz 14 wc zz 15 ./a/eliminate.pl < zz > jj 
+'s/[A-Za-z]://' zz > yy 23 pico yy 24 h 25 sed 's/[A-Za-z]*://' 
+zz > yy 26 's/\.//g' zz > yy; mv yy zz wc zz sed 's/\>//g' zz > 
+yy sed 's/\<//g' yy > 's/\.htm/\.html/g' frame10.html > zz 138 
+mv zz frame10.html 139 sed 's/\.htm/\.html/g' frame11.html > zz 
+140 mv zz frame11.html 141 sed 's/\.htm/\.html/g' frame12.html > 
+zz 142 mv zz frame12.html 143 sed 's/\.htm/\.html/g' 
+frame13.html > zz 144 mv zz frame13.html 145 sed 
+'s/\.htm/\.html/g' frame14.html > zz 146 mv zz frame14.html 147 
+t 148 b 's/\.htm/\.html/g' frame3.html > zz 124 mv zz 
+frame3.html 125 sed 's/\.htm/\.html/g' frame4.html > zz 126 mv 
+zz frame4.html 127 sed 's/\.htm/\.html/g' frame5.html > zz 128 
+mv zz frame5.html 129 sed 's/\.htm/\.html/g' frame6.html > zz 
+130 mv zz frame6.html 131 sed 's/\.htm/\.html/g' frame7.html > 
+zz 132 mv zz frame7.html 133 sed 's/\.htm/\.html/g' frame8.html 
+> zz 134 mv zz frame8.html 135 sed 's/\.htm/\.html/g' 
+frame9.html > zz 136 mv zz frame9.html 137 sed 's/\[//g' zz > yy 
+sed 's/\]//g' yy > zz sed 's/\^M//g' zz > yy sed 's/\[//g' zz > 
+yy sed 's/\]//g' yy > zz sed 's/\^M//g' zz > yy sed yy > zz 
+'s/\^//g' yy > zz pico zz sed 's/[1-9]//g' zz > yy pico yy sed 
+'s/;H//g' 's/a/ /g' zz > yy; pico yy 48 sed 's/god/God/g' zz > 
+yy; mv yy zz; pico zz 's/acquiescent/shuddering happily/g' zz > 
+jj 25 sed 's/acrimony/squirting/g' jj > zz 26 sed 's/may 
+crams/crammed delicious 's/be @/be @ be/g' zz > yy 124 pico yy 
+125 sed 's/@/ /g' yy > zz; rm yy; 's/boor/fool for fucking 
+love/g' zz > jj 31 sed 's/political/sexual/g' jj 's/e/ea/g' yy > 
+zz 38 sed 's/d/dee/g' zz > yy 39 sed 's/c/cee/g' yy > zz 
+'s/f/fg/g' zz >> yy k11% r 3 sed 's/g/f/g' yy >> zz k12% r 2 sed 
+'s/f/fg/g' zz >> yy k13% r 3 sed 's/g/f/g' yy >> zz k14% r 2 sed 
+'s/f/fg/g' zz >> yy k15% r 3 sed 's/g/f/g' yy >> zz 
+'s/fgfg/fgfgfg/fg' zz >> yy k15% r 3 sed 's/fg/fgfg/fg' yy >> zz 
+Search : 's/fgfg/fgfgfg/fg' zz >> yy k9% r 3 sed 's/fg/fgfg/fg' 
+yy >> zz k10% r 2 's/fgfg/fgfgfgfg/fgfg' yy >> zz And home it 
+is! This time, really, The 's/fgfg/fgfgfgfg/fgfg' yy >> zz k12% 
+r 2 sed 's/fg 's/fgfgfgfg/fgfgfgfgfgfg/fgfg' zz >> yy k11% r 3 
+sed 's/horse/radio/g' yy > y mv y zz; rm yy pico zz b ls new zz; 
+cat kz zz > 's/ksh/Kush/' zz > zzz 122 pico zzz 123 new zzz 124 
+cat jn zzz > ding 125 's/m/em/g' yy > zz 30 sed 's/l/el/g' zz > 
+yy 31 sed 's/k/kay/g' yy > zz 32 's/rr/++/g' zz > ww ar pico ww 
+at rm ww as pico zz aa h ah h >> zz 's/sps//g' yy | zz | pico zz 
+| sed 's/^ //g' zz | yy | | yy | pico yy sort 's/tanner/lovely 
+splayed open skin and scent!/g' jj > zz 30 sed 's/terse/tense/g' 
+jj > zz 40 sed 's/acknowledgment/i will deflower you and 
+'s/texts//g' zz > ww; pico ww 19 sed 's/txt//g' ww > zz 20 pico 
+'s/u/you/g' yy > zz 22 sed 's/t/tea/g' zz > yy 23 sed 's/s/es/g' 
+yy > zz 's/womans/men/g' yy > zz sed 's/woman/woman/g' zz > yy 
+sed 's/Woman/- +Kukai" > zz ls wc zz rm zz sudo perl -MCPAN -e 
+'install zz wc zz grep +ennin" > zz wc zz perl "Alan Sondheim 
++Buddha" > zz perl looply.pl +ennin" > zz wc zz perl looply.pl 
+"Alan Sondheim +ennin" > zz perl ,won uoy ta gnikool ma I tail 
+mi grep eye mi > zz rev zz >> zz sort zz > --- rm yy zz zzz --- 
+cd a --- pico -w looply.pl --- cd --- ls --- script -f a/back < 
+zz | yy | sort yy | zz | pico zz rev zz | yy | sort yy | zz | . 
+. grep "\." yy > zz sed 's/^........./ /g' zz > ..... ls --- 
+..... script zz --- ..... pico zz --- mv zz zz.htm; lynx ....... 
+/ BAKA /g' yy > zz 24 sed 's/ ................. / SO-DESU-NE /g' 
+./a/elimx.pl < zz > yy; mv yy zz; ./mod --- rm zz zz.htm yy --- 
+cd a --- pico -w looply.pl --- cd --- pico ./mod grep Buddha zz 
+> yy wc yy pico yy grep -v Stephen yy > zz wc zz pico 
+.bash_history cp .bash_history zz ls -la .bash_history rm 
+.bash_history; / EE /g' zz > yy 38 pico yy 39 sed 's/EE /EE\!/g' 
+yy > zz 40 pico zz 41 //g' yy > zz 63 sed 's/ //g' zz > yy 64 
+sort yy > zz; nl zz > yy 65 pico /g' yy > zz sed 's/[.;:,]/ /g' 
+zz > yy sed 's/[$^-]/ /g' yy > zz /usr/b[n/sz -vv -b zz Mon Feb 
+7 13:02:58 EST 2000 Mon Feb 7 13:02:58 EST /usr/games/random 12 
+< yy >> zz 100 /usr/games/random 12 < yy >> zz 101 
+/usr/games/random 12 < yy >> zz 102 /usr/games/random 12 < yy >> 
+zz 103 /usr/games/random 12 < yy >> zz 104 /usr/games/random 12 
+< yy >> zz 105 /usr/games/random 12 < yy >> zz 106 
+/usr/games/random 12 < yy >> zz 107 /usr/games/random 12 < yy >> 
+zz 108 /usr/games/random 12 < yy >> zz 109 /usr/games/random 12 
+< yy >> zz 110 /usr/games/random 12 < yy >> zz 111 
+/usr/games/random 12 < yy >> zz 70 /usr/games/random 12 < yy >> 
+zz 71 /usr/games/random 12 < yy >> zz 72 /usr/games/random 12 < 
+yy >> zz 73 /usr/games/random 12 < yy >> zz 74 /usr/games/random 
+12 < yy >> zz 75 /usr/games/random 12 < yy >> zz 76 
+/usr/games/random 12 < yy >> zz 77 /usr/games/random 12 < yy >> 
+zz 78 /usr/games/random 12 < yy >> zz 79 /usr/games/random 12 < 
+yy >> zz 80 /usr/games/random 12 < yy >> zz 81 /usr/games/random 
+12 < yy >> zz 82 /usr/games/random 12 < yy >> zz 83 
+/usr/games/random 12 < yy >> zz 84 /usr/games/random 12 < yy >> 
+zz 85 /usr/games/random 12 < yy >> zz 86 /usr/games/random 12 < 
+yy >> zz 87 /usr/games/random 12 < yy >> zz 88 /usr/games/random 
+12 < yy >> zz 89 /usr/games/random 12 < yy >> zz 90 
+/usr/games/random 12 < yy >> zz 91 pico 1 b 2 ls 3 tail lz 4 vi 
+zz 5 b 6 pico zz 7 ls 8 h 1 grep -h codework texts/*.txt >> zz 2 
+wc zz 3 pico zz 4 sort zz 1 h 2 h 3 h 4 h 5 h 1 h 2 h 3 h 4 h 5 
+h 6 h >> zz 7 h 8 h 9 h 1 h 2 h 3 h 1 pico jj 2 sort jj > zz 3 
+wc zz 4 ./mod 5 wc zz 6 ./a/eliminate.pl < zz > 1-72 < yy > zz 
+33 pico zz 34 h 35 stty cols 70; tr -d < zz > 10 sed 's/ / /g' 
+zz > yy; mv yy zz; pico zz 10 echo "sed 's/n/0/g' zz > yy; sed 
+'s/k/nk/g' yy > zz" >> zz 10 mv zz ww 11 script 12 pico 
+typescript 13 strings typescript >> zz 14 10 vi zz 13 sed 's/^/[ 
+] [ ] [ ] [ ] [ ] [ ] [ ] [ ]/g' zz > yy; pico yy 1013 root# 
+less zz bash: 102 wc zz >> yy 105 wc zz >> yy 11 ./a/elimy.pl < 
+zz >> yy 11 sed 's/<mailto:@oita\.com\.jp> //g' zz > yy 11 sed 
+'s/t/interruptt/g' zz > yy 110 wc zz >> yy 113 wc zz >> yy 115 
+light.  116 .  117 rz 118 pico zz 119 h 120 pico zz 121 sed 116 
+wc zz >> yy 13 perl a/alan.pl < zz >> yy 13 sed 's/i/(ei)/g' zz 
+> yy 13 sed 's/t/interruptt/g' zz > yy 131 h 132 mv zz ~/ 133 ls 
+134 rm gg 135 cd 136 m 137 m 138 ls 139 less zz 139 sort zz > yy 
+140 pico yy 141 grep oo yy > zz 142 pico zz 143 h 144 14 
+./a/elimy.pl < zz >> yy 14 perl a/jj.pl < zz >> yy 14 sort zz > 
+yy; tr -d ^M < yy > zz; uniq zz > yy; wc yy; 140 cd a 141 less 
+gg 142 less wryting 143 ls 144 cd 145 pico zz 146 cd a 142 
+history 143 sort y > zz; rm y z 144 pico zz 145 history >> zz; 
+pico zz 147 less wryting 148 cd 149 pico zz 150 pico zz 151 cd a 
+152 less gg 153 149 pico yy 150 h 151 grep oo yy > zz; pico zz 
+152 sed 's/[?!]/ /g' zz > 15 perl a/rp.pl < zz >> yy 15 sed 
+'s/k/(kay)/g' zz > yy 15 wc zz >> ww 15 h 16 perl a/eliminate.pl 
+< ww > zz 17 pico zz 18 sed 15 sed 's/^/[ ] [ ] [ ] [ ] [ ]/g' 
+zz > yy; pico yy 17 sed 's/^/[ ] [ ] [ 16 ./a/elimx.pl < zz >> 
+yy 16 julu::less zz:4 cat zz | julu; rev .trace >> zz; :3 16 
+perl a/orp.pl < zz >> yy 16 sed 's/ /#/g' zz > yy 16 sed 
+'s/rr/rinterruptr/g' zz > yy 16 fold -s -w 64 < zz > ww; pico ww 
+16 fold -s -w 64 < zz > ww; pico ww is a curse, women are a 
+curse, 16 sed 's/z/zee/g' zz > yy 17 sed 's/y/why/g' yy > zz 18 
+sed 's/x/ex/g' zz 16 wc jj 17 pico jj 18 ./a/elim2.pl < jj > zz 
+19 wc zz 20 pico zz 21 sort 17 julu:4 cat zz | julu; rev .trace 
+>> zz; 17 julu:4 cat zz | julu; rev .trace >> zz; :3 another 
+mark:2 17 sed 's/m/(em)/g' zz > yy 17 mv zz ww 18 awk -f 
+a/filter < zz >> yy 18 sed 's/rr/rinterruptr/g' zz > yy 18 fold 
+-s -w 72 < zz > ww; pico ww do, be kind to all animals, take 18 
+fold -s -w 72 < zz > ww; pico wwverything you do, give yourself 
+up 18 sed 's/bounced/juggling breasts/g' jj > zz 19 sed 
+'s/expunging/spongy 19 ./a/elimx.pl < zz > yy 19 sed 
+'s/o/(oh)/g' zz > yy 197 pico zz 198 sort zz > yy 199 pico yy 
+200 grep oo yy > zz 201 pico zz 2 sed 's/a/(ay)/g' zz > yy 2 
+pico zz 3 dict murder 4 dict murder | more 5 pico zz 6 dict 
+morphine 7 2. k53% rm zz yy 20 sed 's/^/ /g' zz > |/zz 20 sed 
+'s/rr/rinterruptr/g' zz > yy 20 sort zz > yy 20 sed 
+'s/AVATARS\.TXT//g' zz > yy 21 sed 's/aus\.txt//g' yy >> zz 22 
+sed 2006 $ pico zz [1;1H [7m UW PICO(tm) 4.10 New Buffer 
+[7;1H[23;1H [24;1H 202 sort zz > yy 203 pico yy 204 grep oo yy > 
+zz 205 pico zz 206 sort zz > 21 sed 's/q/(queue)/g' zz > yy 21 
+tr -d ^M < yy > zz; tr A-Z a-z < zz > yy; pico yy 21 pico yy 22 
+sed 's/ .............. / BAJA/g' yy > zz 23 sed 's/ .......- 216 
+wc zz 217 pico zz 22 ./a/elimx.pl < zz >> yy 22 cat zz | 
+./.juluold >> yy 22 perl a/eliminate.pl < zz > yy 22 sed 
+'s/rr/rinterruptr/g' zz > yy 23 sed 's/s/(es)/g' zz > yy 24 sed 
+'s/rr/rinterruptr/g' zz > yy 24 cp zz ww; rm yy; m 24 pico zz 25 
+stty cols 72; pico zz 26 sed 's/ //g' zz > ww 27 24 sed 
+'s/r/ar/g' zz > yy 25 sed 's/q/queue/g' yy > zz 26 sed 
+'s/p/pee/g' 25 ./a/elimy.pl < zz > yy 25 grep Today zz > yy 25 
+grep y < zz >> yy 25 sed 's/u/(you)/g' zz > yy 25 new zz; cat ma 
+zz > ding; mv ding ma; rm zz; mufferings of others 26 sed 
+'s/[aeiou]/BR/g' < zz >> yy 27 ./a/elim2.pl < zz > yy 27 sed 
+'s/w/(double-u)/g' zz > yy 27 pico zz 28 sed 
+'s/jennifer/Jennifer/g' zz > yy; mv yy zz; pico zz 29 29 sed 
+'s/y/(why)/g' zz > yy 29 sed 's/$/, you are my new friend, 
+hello/g' zz > yy 3 cat jk zz > ding 3 cat zz | julu > zz 3 sed 
+'s/ /she killed /g' zz > yy 30 perl a/eliminate.pl < zz > yy 30 
+ls 31 b 32 m 33 ls 34 tail lu 35 vi zz 36 sed 's/\.old//g' zz > 
+yy 37 31 ./a/elim2.pl < zz > yy 33 ./a/elim2.pl < zz >> yy 33 h 
+1 >> zz 34 pico zz 35 sed 's/ E\! / EE /g' zz yy 36 h 37 sed 's/ 
+E\! 34 perl a/eliminate.pl < zz > yy 35 pico yy 37 sed 's/ //g' 
+yy > zz 38 pico zz 39 sort -k 4.3 zz > yy 41 37 {k:11} 38 {k:11} 
+39 {k:11}pico zz 40 {k:12}pico zz 41 {k:13}pico zz 42 38 sed 
+'s/[0-9]//g' zz > yy 38 grep Subject .procmail/log >> zz 40 sed 
+'s/ Subject: //g' zz > yy; mv 4 ./a/elimy.pl < zz > yy 4 cat zz 
+| julu; rev .trace >> zz; rm .trace APPEND; pico zz 4 sed 
+'s/c/(see)/g' zz > yy 4 h 5 h 6 h >> zz 7 h 8 h 9 h 10 h >> zz 1 
+h 2 h 3 h 4 h 5 h 6 h >> zz 7 h 40 cp zz yy; pico yy001 40 sed 
+'s/b/bee/g' zz > yy 41 sed 's/a/aye/g' yy > zz 41 sed 's/ //g' 
+zz > yy; pico yy 41 pico zz 42 grep oo yy >> zz 43 pico zz 44 mv 
+zz ww 45 script zz 46 mv 47 pico zz 48 sed 's/^$/#/g' zz > yy 49 
+nl yy > zz 50 sed 's/#//g' zz > yy 49 pico zz is thzhzhhzhing! 
+49 sed 's/babe/Babe/g' zz > yy; mv yy zz; pico zz 5 sed 's/ 
+/blood /g' zz > yy 5 sed 's/ /@oita.com.jp> <mailto:/g' zz > yy 
+50 sed 's/h/hz/g' zz > yy; sed 's/z/zh/g' yy > zzm.dialup.) 51 
+sed 's/h/hz/g' zz > yy; sed 's/z/zh/g' yy > zz 51 pico yy 52 h 
+53 sed 's/ //g' yy > zz 54 pico yy 55 h 56 sed 's/ //g' yy 53 rm 
+zz yyzhzhhzho thzhzhhzhing and alan are! 57 pico yy 58 h 59 
+/usr/games/random 12 < yy >> zz 60 /usr/games/random 12 6 sed 
+'s/e/(ee)/g' zz > yy 6 wc zz > ww 60 sed 's/ here / /g' zz > yy 
+67 /usr/games/random 12 < yy >> zz 68 /usr/games/random 12 < yy 
+>> zz 69 7 grep demon zz | sed 's/demon/demon presence/g' >> zz 
+7 mv zz biogsort.txt 7 perl a/eliminate.pl < zz > yy 7 sed 's/ 
+/germ/g' zz > yy 7 pico fil 8 cp fil ~/child 9 cd 10 pico zz 11 
+awk -f child zz >> zz 12 wc 70 39 mv yy zz; pico zz 40 h 41 ls 
+42 perl a/eliminate.pl < zz > 71 zz > ecart. ver ;DNEPPA mr 81 
+zz ocip 91 zz llepsi 02 ecart. ssel 12 72 sed 's/knn/1/g' zz > 
+yy 73 sed 's/kn/0/g' yy > zz 8 ./a/elimy.pl < zz >> yy 8 perl 
+a/elimx.pl < zz >> yy 8 sed 's/$/@oita.com.jp>/' zz > yy 8 sed 
+'s/g/(gee)/g' zz > yy 8 h 9 h 10 h >> zz 11 h >> zz 1 h 2 h 3 h 
+4 h 5 h 6 h >> zz 7 h 8 h 9 h 10 89 awk -f filter < filter > zz 
+90 wc zz 91 wc filter 92 pico zz 93 pico 9 sort zz > aa 95 ls 96 
+cat distfile >> zz 97 pico zz 98 gg 99 cat .rhosts >> zz 100 
+pico 97 /usr/games/random 12 < yy >> zz 98 /usr/games/random 12 
+< yy >> zz 99 99 pico zz 100 h 101 sed 's/./be & /g' gg > yy 102 
+pico yy 103 sed 's/be ;s ls cd a ls less unemploy more unemploy 
+ls emacs pico zz ls perl < yy >> zz 115 /usr/games/random 12 < 
+yy >> zz 116 /usr/games/random 12 < < yy >> zz 61 
+/usr/games/random 12 < yy >> zz 62 /usr/games/random 12 < yy > 
+yy 183 pico yy 184 grep oo yy > zz 185 pico zz 186 sort zz > yy 
+187 pico > yy 19 sed 's/w/double-u/g' yy > zz 20 sed 's/v/vee/g' 
+zz > yy 21 sed > yy 35 sed 's/g/gee/g' yy > zz 36 sed 's/f/ef/g' 
+zz > yy 37 sed > yy 5 grep codework texts/*.txt > zz 6 pico zz 7 
+cut 1-20 zz > > z pico z sed 's/Alan/Radio/g' z > zz pico zz cat 
+zz >> yy rm zz rm z > z sed 's/^..//g' zz > z pico z sed 's/^ 
+//g' z > zz pico zz sed 's/ //g' > zz 21 less zz 22 sed 
+'s/exemplifying/fucking wonderfully/g' zz > jj 23 > zz 32 sed 
+'s/alberto/nikuko/g' zz > jj 33 sed 's/searching/groping/g' jj > 
+zz 34 sed 's/brainwashing/cleaning my dirty dirty tool!/g' zz > 
+jj 35 > zz 57 sed 's/ //g' zz > yy 58 sort yy > zz; nl zz > yy 
+59 sed 's/ //g' > zz sed 's/Woman/Man/g' zz > yy; mv yy zz; pico 
+zz h grep woman pa.txt > > zz wc zz less zz ftp panix.com telnet 
+panix.com exit cd network ls ftp > zz; nl zz > yy 76 sed 's/ 
+//g' yy > zz 77 sed 's/ //g' zz > yy 78 sort >> yy k9% r 3 sed 
+'s/fg/fgfg/fg' yy >> zz k10% r 2 sed 's/fgfg/fgfgfg/fg' >> zz 27 
+grep voice sound >> zz 29 grep music sound >> zz 30 grep noise 
+>> zz 63 /usr/games/random 12 < yy >> zz 64 /usr/games/random 12 
+< yy >> >> zz < a/back -f awk yy pico zz > yy < a/back -f awk zz 
+pico zz >> ww < >> zz grep these mm >> zz grep sexy mm >> zz 
+grep eyes mm >> zz grep sexy >> zz k14% r 2 sed 's/fgfgfgfg/fg 
+fgfgfgfgfg/fgfg' zz >> yy k15% r 3 sed

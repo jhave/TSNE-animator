@@ -1,0 +1,36 @@
+
+(Socio-emotional areas: negative, community-destroying):
+ Obstructs, discontinues, destroys /uses list aura/
+ Disagrees, shows passive rejection, formality, withholds help
+ Shows tension, asks for help, withdraws out of field, lurks, unsubs
+ Shows antagonism, deflates other's status, flames, defends or asserts
+  self, sysadmin complaints
+
+List:
+ Internal: Overarching Subject (FAQ/ info sheet, advertising)
+	    Threads
+            Posts
+ External / Internal: 
+           0. Governance
+            Sysadmin
+            Moderation styles
+             Who posts
+             Who subscribes and how
+             Conflict resolution
+           1. Software
+            Types: filtering
+            Types: mode (digest, ack/noack, mail/nomail, etc.)
+            Types: configuration/header (post size, post number, etc.)
+           2. List extensions
+            Conferencing
+            Webpages
+            E-zines, journal, e-books, books
+            Archives
+            Public fleshmeets
+ External (list aura):
+           Private posts (backchanneling)
+           Information / private fleshmeets
+           Telephone, Iphone
+           Other private communications modalities (CuSeeMe, mail, etc.)
+
+

@@ -1,0 +1,259 @@
+
+52
+103831
+1
+POSTSCRIPT.  
+52
+103909
+1
+
+
+___
+
+
+man, he is surrounded
+of man, he is surrounded and by demons he is quelled
+of man, he is drowned and submerged, of archons and demons
+archaea of man, surrounded
+man, is submerged, and drowned and by demons and archons
+man, he is not a nice person, in fact he is not at all nice
+he will not try to be nice, it is not a nice person he is
+man, he insists you be nice, he is selfish
+you should be nice as your neighbor will be nice
+the sea will drown the man and the man will drown the sea
+by the demons man surrounds archaea of man
+these are very early bacteria we are thinking of, are they primitive
+no, they have always been advanced, they have always advanced
+
+
+_
+
+
+http://www.asondheim.org/portal/cal.mov
+
+composite of four images copyrighted from yosemite webcam
+why are these a terrific journey
+I WANT TO SHARE THEM WITH YOU
+i won't say i found you there on the slopes in western colorado
+or that i followed you to the basin ridge of niagara falls
+or that you were just ahead of me in vail and albuquerque
+I WANT TO SHARE AMERICA WITH YOU
+i won't say you're my friend or enemy or that i smell your sex
+or that the ridge lodge pole warren touched the inside sky
+or that you found me there on the slopes and followed me
+YOU WANT TO SHARE ME WITH NO ONE
+the skies are dark, no one will see
+
+
+_
+
+
+fragment
+
+
+those who are in the 
+same sea, and made men 
+grow till the completion of 
+those which enter as opponents, 
+(garzhak) and other noxious creatures,
+(garzhak) and other noxious creatures,  
+(garzhak) and other noxious creatures ... 
+
+
+_
+
+
+http://www.asondheim.org/cube.mov
+
+orthogonal unit vectors with interconnected vertices gracing edges 
+surfaces and centers
+
+all this will disappear in another world
+
+in another world there will be others
+
+i invite you and they will welcome you
+
+
+_
+
+
+
+configuring in absence
+
+
+i have been disappearing. first i bought a sharp zaurus 5500 with linux
+and have downloaded numerous applications; i use a sandisk card with it
+for wireless and signed up for tmobile but it's quite expensive. i am
+using both cf and sd cards for storage, and have been reading materials
+from iran. i had to configure a number of programs and found a small perl
+which runs beautifully with my text scripts. i also bought a small rubber
+keyboard which will be replaced by a hard plastic infrared one in the near
+future. the zaurus synchronizes with the hp laptop running winxp home. i
+then sold my mac g3 powerbook and turned my 300 mhz compaq desktop into a
+local store to have a new 1.4 motherboard installed with the older 24 gb
+hard drives and 200 mhz ram. i had originally tried running redhat 9 and
+then fedora on it; both ran impossibly slow, but i liked redhat better.  
+when the box was returned with the new hardware, including a new video
+board as well, i installed redhat 9 again, and it ran well, but was on
+occasion producing kernel errors which were forwarded to the root account.  
+and x window wouldn't run at all until a second video board replaced the
+first with considerably more ram. at this point i tried to install
+mandrake 9.2 after a bad crash in redhat 9 - i had turned off the machine
+without shutdown -h now in text mode and after that x wouldn't come up
+except in such a safe mode that a black screen and cursor were all that
+remained - and during the install, i went through numerous partitionings,
+settling finally on the recommended, after which the error appeared that
+no ide devices found, and the install disk wouldn't exit the cdrom tray.  
+so i tried using the redhat floppy boot disk i made since the formatting
+hadn't started, and the floppy drive was also inoperable. the cdrom
+install disk had to be manually removed. now that the machine was empty, i
+tried rebooting, only to have it stall, not even reaching, as far as i
+could tell, the bios, since i couldn't bring the bios up, again getting
+the message search for ide devices and coming up empty. so the machine is
+back at the shop. meanwhile we installed verizon dsl which went in easily
+with ethernet to the hp laptop, and i added a linksys wireless-b, all i
+could afford, router instead of the cable; due to my abysmal ignorance,
+verizon had to walk me through the desktop configuration. the zaurus
+immediately responded well, but in the other room, i found i couldn't
+connect an old win 98 desktop because it wasn't se and the software was
+problematic if i had managed to get the ethernet card working in the first
+place, so this has been put on hold. when all goes well in the future, if
+it ever does - azure said i should have bought that 350 usd linux box now
+made by hp and she's right - i'll install cinelerra, xmovie, etc.; one of
+the biggest problems with linux is the lack of mid-range to low-range
+applications for video editing in common formats; i haven't found anything
+reasonable for qt yet for example. on the zaurus i've had some luck with
+image processing software for still images, but have yet to get any of my
+own work to run on it; i've got the older operating system rom at the
+moment, and if i upgrade, sharp promises not only will the work be lost,
+but the backup/restore function won't work. when i was installing the
+verizon software on the hp laptop by the way, one tech advisor completely
+gave up and i used the winxp restore to take all of it off and start over,
+after which things were at least, although barely, recognized. there's
+nothing like restore points as a safety net; too bad we can't do that with
+real life. meanwhile i've been working with gimp since on occasion even on
+windows photoshop crashes and gimp doesn't, and creating small videos
+which are also based, as today's, on drawings completed in a sketch
+program for the zaurus; oddly, the zaurus has been quite useful for
+content creation. i have given the older dell 600 mhz linux laptop i had,
+to my brother, along with the redhat 7 and 8 disks i had; i wasn't able to
+configure the orinoco wireless card for it, no matter how i tried. and it
+wouldn't work with the mac - not this particular card, according to
+orinoco. a third laptop, an old ast at 100 mhz but with 40 megs of ram,
+was used for text-based linux, but i finally gave that away, as well as a
+small phenom with wince 2.1, slightly upgraded, that had a bad backup
+battery and an annoying habit of losing applications as a result. i had
+also received an older palm pda which i had configured with numerous
+programs; i also gave my brother this one, after i found that the zaurus
+did pretty much all i needed. there were no palm applications on the
+zaurus of course, but there are several readers that can do the doc and
+pdb etc. files, although i stopped short of putting on the emulator, since
+there are too many things close to conflicting already at the moment. i
+installed the avant browser on the hp laptop which i quite like, as well
+as the konqueror browser for the zaurus in addition to the opera which
+comes with it, but the former tends to add various cache files while the
+opera erases them, and since there is very little ram on the 5500, even
+with an optimizer i installed, i tend to use the latter. it's difficult
+to configure the linux in the zaurus, since everything seems peculiarly
+linked - go in a couple of directories, and you'll find yourself looping
+back to root or something that seems awfully similar. i still can't find
+the favorites.txt i want to configure for the webcam application; it's got
+to be somewhere (the app runs on jeode, zaurus' java environment), but so 
+far everything's turned up empty. i found zauruszone one of the best sites 
+for configuration and downloads by the way, although there are numerous 
+others i use as well. the sony f717 digital camera wouldn't work, by the 
+way, with redhat 9, no matter what i did; the machine went down before i 
+had the opportunity to try it with the new board, or with fedora or 
+mandrake 9.2. i had also installed suse at one point, running off the 
+cdrom; suse laid down a few files in the linux root directory, and for all 
+of this naturally the bios had to be changed so that the machine would 
+boot in the first place from cdrom. i've now got another problem, an older 
+sparc-like workstation i want to use with my current dell monitor, but the 
+workstation has a four-bnc output cable, and the dell monitor, a five-bnc 
+input; i'm not sure what to connect where and am a little bit worried 
+about overloading either voltage or scan rate. for the zaurus, i also 
+bought an extra battery and a small device which takes 4 nimh rechargables 
+- down below 6 volts, which might harm the power supply, but the zaurus 
+has difficulties recognizing the latter, and the zaurus' apm command and 
+graphic power meter is incredibly primitive and useless - although i heard 
+it's better on the newer rom - the one i mentioned is only one of several, 
+but i'm really tiring of configuring things - there are times i've 
+installed linux say 7-8 times of an evening, and need to have some sort of 
+stable environment to work in, which seems a long time coming, now that 
+the refurbished desktop is back in the shop again.
+
+
+_
+
+
+
+Musings
+
+
+Take any chain of N unit vectors mutually orthogonal. The chain is defined
+such that at most two vectors meet at any vertex, and the endpoints are
+necessarily disparate. Then the chain defines a unique measure polytope of
+dimension N. The length of the chain = N, and if N is the maximum chain in
+any space, then N is the dimension of that space.
+
+Connect the two endpoints of the chain. Then the length of the connection
+is N^1/2, and the vector is a major diagonal of the measure polytope.  
+Connect the endpoints of any two adjacent vectors; the length is 2^1/2.
+Connect the endpoints of any X adjacent vectors, and the length is X^1/2.
+
+If the dimension is N create a table such as:
+1 2 3 4 5 6
+6 5 4 3 2 1 . There are 6 vectors of length 1, 5 diagonals of length 
+2^1/2, down to 1 diagonal of length 6^1/2. In three dimensions
+1 2 3
+3 2 1
+and the total defines the number of edges of a tetrahedron embedded in a
+cube (6 of course), such that for any dimension N, E = (N+1)(N)/2 for the
+number of edges. Note that these tetrahedrons are only regular when N = 1.
+
+The point of the exercise is that the awkwardness of the chain resolves
+quickly when the diagonals are added in; clearly the chain forms a
+tetrahedron of dimension N within a stable measure polytope; the diagonals
+create strength and stability, and the chain itself is embedded and
+comfortable with its new surroundings.
+
+
+_
+
+
+let me in
+let me in to your heart
+let me in
+
+let me in
+let me into your heart
+let me in
+
+don't remember
+these words in your heart
+remember me
+
+don't remember
+these words inyour heart
+remember me
+
+
+
+_
+
+
+
+   i top the big ten thousand
+   i am so happy
+   i will never top one hundred thousand
+   soon i will die
+   then i can add many hits
+
+   Sun Dec 14 00:14:30 EST 2003
+
+                                  Google Search: "Alan Sondheim" (p1 of 5)
+
+   Go to Google Home Advanced Search    Preferences    Language
+   Tools    Search Tips
+   "Alan Sondheim"

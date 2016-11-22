@@ -1,0 +1,138 @@
+
+
+
+
+
+
+Slide-Base
+
+
+
+
+
+Tonight I assembled thirty-six slides for use with a talk I am giving,
+
+a talk on cybermind, on the Internet, on the psychology of the space.
+
+And I only have a text-based editor, work from the command-line, so it
+
+was difficult to organize the scrolling text, making sense of things
+
+for an audience. I didn't want, as well, to violate anyone's posts, to
+
+present things that weren't in the public domain.
+
+
+
+At the same time, I've been fascinated by the rush of words, the rush
+
+of menus and ascriptions, and so I began, revealing my own .profile 
+
+file, full of aliases and tiny macros, lines churning my account into
+
+fast entrances and exits. The rush felt good, and I included as well
+
+my lynx_bookmarks.html file, my file of World Wide Web sites and fur-
+
+ther scrolling, and then I included my tin-newsreader list of current
+
+newsgroups of interest. I was on a roll with scroll, with film-roll,
+
+the clicking continuing, running down the screen; I took snapshots of
+
+menus and hypertexts, stopping at a home-page text or two, then run-
+
+ning on, even a moment of ascii-art, triple divided to terminally fit.
+
+
+
+Images were necessary, so I went to the downloading, snapping sections
+
+of maps, Miranda, the moon of Uranus, comets striking Jupiter, a chart
+
+of the exponential increase in domains. Returned to the account, and 
+
+found a home page with letter reply; blocking out the address, I sent
+
+an impassioned short letter purely for the camera, cancelling the post
+
+before the final mailing into oblivion. I was on a fast-track now, 
+
+backed the camera up to show the keyboard and monitor nuzzled up against 
+
+one another, added two pictures - one of a male, centered, looking out-
+
+ward, downloaded of course, and another, of a female face, centered, in
+
+dark shadow, the premonition of uneasy sexuality, pornography, from the 
+
+Net. (I am speaking of the _source_ of the image here, not a gendered
+
+response to images of women.) Lost on the monitor, the two faces presen-
+
+ted the problematic of desire, cyberspace psychoanalytics, but only 
+
+insofar as it too was scroll.
+
+
+
+Returning, I did traceroute on jefferson.village.virginia.edu where the
+
+lists are kept, traceroute and ping -s, indicating the echoed response 
+
+times on the Net, clawed images of Net-spread, the stuttered liquidity 
+
+of the Net roaming everywhere across the planet. Returning in a theme 
+
+intertwined, I went to a personals page, captured the front-end menu for 
+
+the camera, immediately turning it back into the original html document, 
+
+capturing that as well, back and forth across the Web. Texts and pictures 
+
+shakily began the wall/room shimmer of this space I inhabit in real life; 
+
+nothing was solid any more. I returned to two photographs of the palmtop 
+
+computers I use, images of the world or notes to myself. But I was seeing 
+
+stars on the desktop, stars buried deep in Net itself, and wondered, 
+
+could all this _text_ convey stars? 
+
+
+
+Then it seemed to me that the text _was_ stars, not the relatively unin-
+
+teresting graphics of Mosaic or Netscape - functional, yes, but hiding 
+
+the skeletal Net, turning it into a magazine, fine for users, but not 
+
+nearly as radicalized. It might be the difference between pornography 
+
+and eroticism: Which teaches us the presence of the body, which at least 
+
+makes pretense of stripping codes (only to (re)produce others/the other, 
+
+yes, but at least the potential of stripping is there)? Or it might be 
+
+the difference between a sedan and a top-fuel dragster, the power-train 
+
+close to _power_ unraveling. (But the truth is, as I read this, that gen-
+
+der operates in uncomfortable ways here, in terms of traditional readings 
+
+of male and female: male as power, hardness, female as ornament, effusion. 
+
+These too have to be deconstructed before any use can be made of the terms, 
+
+command-line analyses that escape naively neutral phenomenology, and so 
+
+forth. What I can do is offer a beginning of this at the talk, nothing 
+
+more. And I _do_ like the reversion, presenting everything promptly, at 
+
+the prompt.)
+
+
+

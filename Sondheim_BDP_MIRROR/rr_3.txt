@@ -1,0 +1,22 @@
+=
+
+Sonnet
+
+2	grep -h a texts/*.txt | head -1 >> zz
+3	grep -h aa texts/*.txt | head -1 >> zz
+4	grep -h aaa texts/*.txt | head -1 >> zz
+5	grep -h aaaa texts/*.txt | head -1 >> zz
+
+7	grep -h 1 texts/*.txt | head -1 >> zz
+8	grep -h 11 texts/*.txt | head -1 >> zz
+9	grep -h 111 texts/*.txt | head -1 >> zz
+10	grep -h 1111 texts/*.txt | head -1 >> zz
+
+12	grep -h 11111 texts/*.txt | head -1 >> zz
+13	grep -h 111111 texts/*.txt | head -1 >> zz
+14	grep -h 1111111 texts/*.txt | head -1 >> zz
+15	grep -h 11111111 texts/*.txt | head -1 >> zz
+
+16	grep -h z texts/*.txt | head -1 >> zz
+17	grep -h 0 texts/*.txt | head -1 >> zz
+

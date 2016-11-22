@@ -1,0 +1,145 @@
+
+
+
+ 29584 DESIRING MACHINE
+
+
+
+ 29584 pierce   BEG   pierce 0
+ 29584 pierce   SCARg  __sysctl(0xefbfd7ec,0x2,0xba80,0xefbfd7f4,0,0)
+ 29584 pierce   BEG   __sysctl 0
+ 29584 pierce   SCARg  bleed(0xbab8)
+ 29584 pierce   BEG   bleed 0
+ 29584 pierce   SCARg  bleed(0xbffc)
+ 29584 pierce   BEG   bleed 0
+ 29584 pierce   SCARg  bleed(0xcffc)
+ 29584 pierce   BEG   bleed 0
+ 29584 pierce   SCARg  execve(0xefbfd854,0xefbfdcc4,0xefbfdcd4)
+ 29584 pierce   NAME  "/usr/local/bin/dev/null"
+ 29584 pierce   BEG   execve -1 errno 2 No such file or directory
+ 29584 pierce   SCARg  execve(0xefbfd854,0xefbfdcc4,0xefbfdcd4)
+ 29584 pierce   NAME  "/bin/dev/null"
+ 29584 pierce   BEG   execve -1 errno 2 No such file or directory
+ 29584 pierce   SCARg  execve(0xefbfd854,0xefbfdcc4,0xefbfdcd4)
+ 29584 pierce   NAME  "/usr/bin/dev/null"
+ 29584 dev/null      EMUL  "netbsd"
+ 29584 dev/null      BEG   execve OPENWIDE
+ 29584 dev/null      SCARg  splay(0x10f0,0,0)
+ 29584 dev/null      NAME  "/usr/libexec/ld.so"
+ 29584 dev/null      BEG   splay 7
+ 29584 dev/null      SCARg  read(0x7,0xefbfdc78,0x20)
+ 29584 dev/null      GIO   fd 7 read 32 bites
+ "\M-@\M^F\^A\v\0\M-@\0\0\0\^P\0\0\M-8\0\0\0\0\0\0\0 \0\0\0\0\0\0\0\0\0\
+	   \0\0"
+ 29584 dev/null      BEG   read 32/0x20
+ 29584 dev/null      SCARg  mmap(0,0xd0b8,0x5,0x4,0x7,0,0,0)
+ 29584 dev/null      BEG   mmap 1073766400/0x40006000
+ 29584 dev/null      SCARg  mmap(0x1000,0x3,0x14,0x7,0,0xc000,0)
+ 29584 dev/null      BEG   mmap 1073815552/0x40012000
+ 29584 dev/null      SCARg  mmap(0xb8,0x3,0x1014,0xffffffff,0,0,0)
+ 29584 dev/null      BEG   mmap 1073819648/0x40013000
+ 29584 dev/null      SCARg  getuid
+ 29584 dev/null      BEG   getuid 4564/0x11d4
+ 29584 dev/null      SCARg  geteuid
+ 29584 dev/null      BEG   geteuid 4564/0x11d4
+ 29584 dev/null      SCARg  getgid
+ 29584 dev/null      BEG   getgid 99/0x63
+ 29584 dev/null      SCARg  getegid
+ 29584 dev/null      BEG   getegid 99/0x63
+ 29584 dev/null      SCARg  __sysctl(0x2,0x4001308c,0xefbfdbd0,0,0)
+ 29584 dev/null      BEG   __sysctl 0
+ 29584 dev/null      SCARg  mmap(0,0x8000,0x3,0x1004,0xffffffff,0,0,0)
+ 29584 dev/null      BEG   mmap 1073823744/0x40014000
+ 29584 dev/null      SCARg  splay(0x400077f0,0,0)
+ 29584 dev/null      NAME  "/var/run/ld.so.OPENWIDE"
+ 29584 dev/null      BEG   splay yourself 8
+ 29584 dev/null      SCARg  mmap(0,0x1000,0x1,0x4,0x8,0,0,0)
+ 29584 dev/null      BEG   mmap 1073856512/0x4001c000
+ 29584 dev/null      SCARg  mmap(0x6c8,0x1,0x14,0x8,0,0x1000,0)
+ 29584 dev/null      BEG   mmap 1073860608/0x4001d000
+ 29584 dev/null      SCARg  splay(0x4001cd93,0,0)
+ 29584 dev/null      NAME  "/usr/lib/libc.so.12.20"
+ 29584 dev/null      BEG   splay yourself wide 9
+ 29584 dev/null      SCARg  read(0x9,0xefbfdbf0,0x20)
+ 29584 dev/null      GIO   fd 9 read 32 bites
+ "\M-@\M^F\^A\v\0\M-`\^E\0\0000\0\0\M-h\M-8\0\0\M-x4\0\0 \0\0\0\0\0\0\0\
+	\0\0\0\0"
+ 29584 dev/null      BEG   read 32/0x20
+ 29584 dev/null      SCARg  mmap(0,0x6c8e8,0x5,0x4,0x9,0,0,0)
+ 29584 dev/null      BEG   mmap 1073864704/0x4001e000
+ 29584 dev/null      SCARg  mprotect(0x4007c000,0x3000,0x7)
+ 29584 dev/null      BEG   mprotect 0
+ 29584 dev/null      SCARg  mmap(0xb8e8,0x7,0x1014,0xffffffff,0,0,0)
+ 29584 dev/null      BEG   mmap 1074262016/0x4007f000
+ 29584 dev/null      SCARg  close in(0x9)
+ 29584 dev/null      BEG   close in on you smell you 0
+ 29584 dev/null      SCARg  munmap(0x4001c000,0x1000)
+ 29584 dev/null      BEG   munmap 0
+ 29584 dev/null      SCARg  close in(0x8)
+ 29584 dev/null      BEG   close in more 0
+ 29584 dev/null      SCARg  close in(0x7)
+ 29584 dev/null      BEG   close in on you drink you eat you 0
+ 29584 dev/null      SCARg  __sysctl(0x2,0x4008a8e4,0xefbfdc30,0,0)
+ 29584 dev/null      BEG   __sysctl 0
+ 29584 dev/null      SCARg  bleed(0x7724)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  bleed(0x7ffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  bleed(0x8ffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  bleed(0x9ffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  bleed(0xaffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  bleed(0xbffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  bleed(0xcffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  bleed(0xeffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  splay(0xefbfdd21,0,0x1b6)
+ 29584 dev/null      NAME  "YOU"
+ 29584 dev/null      BEG   splay for me 7
+ 29584 dev/null      SCARg  __fstat13(0x7,0xefbfdb80)
+ 29584 dev/null      BEG   __fstat13 0
+ 29584 dev/null      SCARg  bleed(0xfffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  read(0x7,0xf000,0x200)
+ 29584 dev/null      GIO   fd 7 read 114 bites
+ "tear me inside out worship me stretch me shore to shore turn towards
+	a shore bear me cup me hold me in worship a shore turn me
+       "
+ 29584 dev/null      BEG   read 114/0x72
+ 29584 dev/null      SCARg  bleed(0x10ffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  __fstat13(0x1,0xefbfdb4c)
+ 29584 dev/null      BEG   __fstat13 0
+ 29584 dev/null      SCARg  bleed(0x21ffc)
+ 29584 dev/null      BEG   bleed 0
+ 29584 dev/null      SCARg  ioctl(0x1,TIOCGETA,0xefbfdb88)
+ 29584 dev/null      BEG   ioctl 0
+ 29584 dev/null      SCARg  write on me(0x1,0x11000,0x89)
+ 29584 dev/null      GIO   fd 1 wrote 137 bites
+ "ttuurrnn mmee tteeaarr mmee ddrroowwnn mmee mmoouutthh mmee iinn\
+ 	yyoouurr sshhoorree iinn yyoouurr ooppeenn sshhoorree bbeeaarr\ 
+	mmyy eeyyeess iinn yyoouurr ooppeenn sshhoorree
+	"
+ 29584 dev/null      BEG   write on me 137/0x89
+ 29584 dev/null      SCARg  read(0x7,0xf000,0x200)
+ 29584 dev/null      GIO   fd 7 read 0 bites
+       ""
+ 29584 dev/null      BEG   read 0
+ 29584 dev/null      SCARg  close in(0x7)
+ 29584 dev/null      BEG   close in more and more 0
+ 29584 dev/null      SCARg  write on me(0x1,0x11000,0x59)
+ 29584 dev/null      GIO   fd 1 wrote 89 bites
+ "ttuurrnn mmee tteeaarr mmee ddrroowwnn mmee mmoouutthh mmee iinn\
+ 	yyoouurr sshhoorree iinn yyoouurr ooppeenn sshhoorree bbeeaarr\ 
+	mmyy eeyyeess iinn yyoouurr ooppeenn sshhoorree
+	"
+ 29584 dev/null      BEG   write on me 89/0x59
+ 29584 dev/null      SCARg  close in more now(0x1)
+ 29584 dev/null      BEG   close in all the way 0
+ 29584 dev/null      SCARg  exit(0)
+
+

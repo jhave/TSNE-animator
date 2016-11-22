@@ -1,0 +1,95 @@
+
+
+
+Some stuff I'm going to talk about on Wednesday (UC Santa Cruz, 5/6/98)
+
+
+My Internet Text began around the end of 1993, and is now about 6 megs
+long. Texts are sent, most often once a day, to various lists - always to
+Fop-l and Cybermind, earlier to Future Culture, and later, on occasion, to
+Poetics. Rarely, texts are sent to other lists as well, including nettime
+and eyebeam.
+
+Early on, I began with issues of recognition, address, protocol, desire,
+and the self as a continuous rewrite; there were avatars such as Tiffany,
+Honey, and Travis, laying the ground - speaking as if they were on MOOs,
+MUDs, or IRC.
+
+Later on, long-wave formats developed - considerations of early mid-east
+languages in relation to the Net, self-reflexive avatars such as Jennifer
+and Julu, transgressive avatars such as Nikuko, Net archeologies, issues
+of epistemology and ontology - almost everything with virtual subjectivity
+as an underlying theme.
+
+The normative mode has been writing, using intersections or interpenetra-
+tions as well - for example, altering sendmail.cfg files, simple hackings
+of IRC or newsgroups, multiple entries into talkers or MOOs, use of the
+doctor (Eliza) program on emacs, and creative use of perl, sed, and awk
+for active or passive text alterations/substitutions.
+
+Other modes have included graphics and the results of javascripting, as
+well as experimental webpages available only when my desktop is online.
+
+The first site for the text was at jefferson.village.virginia.edu as part
+of the Spoons philosophy lists; this used absolute URLs and the gopher
+protocol and was set up by one of the Spoons members. There are currently
+space limitations here.
+
+The mirror site, through Jerry Everard, is at the Australian National Un-
+iversity in Canberra, and employs relative URLs and the http:// protocol.
+
+Both sites share texts; the latter also has graphics and javascript.
+
+In working through the texts, I have also used CuSeeMe, Iphone, a private
+MOO, and other forms which create "experience" and alternative viewpoints
+for the writing. To whatever extent is possible, I put myself on the line.
+
+Both sites share resumes and indexing. The index file is passive (not
+hypertext) and lists the broad subjects of the text. Files are named in
+various orders, the most prominent being a,b,c, etc. - then aa, ab, etc. -
+but these orders are broken and skipped for various reasons. In other
+words, the ordering is somewhat irregular, although the order is clear on
+the opening page.
+
+The Internet Text, like the Fop-l or Cybermind lists, possesses its own
+aura, which includes the lists, the Jennifer book printed by Chris Alex-
+ander, the various e-zine and off-line reprints, Being on Line, various
+talks, and so forth.
+
+The text is obsessive; I write/read every day. If I can't for one or ano-
+ther reason, I develop insomnia, shuddering, excessive self-doubt. In
+other words, an addiction. 
+
+The text pushes boundaries, towards an intermingling of forms, self and
+avatar, performative and declarative modes, and so forth. When the text
+"works" for me, I feel uncomfortable.
+
+When defuge, decathected exhaustion, sets in, I may rely on quotations of
+other authors to provide impetus, or my own older texts. But there are
+themes that run their course, long-waves and shorter (such as the current
+parable series), that carry me along.
+
+I ransack sources and cultures, searching for communicative and epistem-
+ological resonances - such as Australian CB behavior, or the distribution
+of cuneiform systems in the early mid-east.
+
+While I tend to use metaphors, and the avatars themselves may be consid-
+ered as such, I refuse to reify metaphor, to treat it as a determinative
+articulation. In this fashion, I have little to say, except that self and
+other and text, etc., are dissolutions, splays, sprays, emissions; there
+are no end to them, nor to theoretical articulations.
+
+I think of the Text as the massification of theory and a deconstruction
+degree-zero which devours itself; theoretical part-objects are thrown off
+as so much centrifugal debris. There is a pointillism to all of this, just
+as there would be in the investigation of any world.
+
+Finally, I consider that I write / wryte myself into existence, and that I
+just as easily write / wryte  myself out of existence. I am a fabrication
+of language. The fabrication tends towards transgression as write - writ-
+ing in the usual sense - tends towards normative activity, and wryte - the
+almost hysteric pushing of the body and desire through language - tends
+towards a discomfort which brings the material of the self to the fore-
+ground (hence the occasional emphasis on Net sex).
+
+

@@ -1,0 +1,88 @@
+
+
+
+Internet Text Description                                       3/14/96
+
+
+The Internet Text consists of 900 +/- sections written over a period of
+twenty-six months, a continuous meditation on cyberspace, emphasizing
+issues of interiority, subjectivity, body, and language. The extended
+range of topics includes Net applications, the materialist "gristle" that
+can't be discarded in analysis. Recently, I have used a re worked MUD
+(multi-user-dungeon), talkers, MOOs, and other MUDs, as a way of creating
+discourses about these issues. This has led to writing about the politi- 
+cal economy of Net access; I have also been considering, again, the body
+in relation to the Net.
+
+_Nothing_ is concluded here, although there are summarizations of key
+concepts, such as _rewrite, protocol, emission, spew, ghost, address,
+inscription, fissure, Net poverty, darknet, and the uncanny._ There are
+also several sections serving as outlines or recapitulations of the "arg-
+uments so far." Recently, the text has dealt with issues of net sex, psy-
+chosis, upgrading, addiction, skin, and politics. It has also covered the
+concept of defuge. There have been references to mythology and metaphys-
+ics along the way, both problematized.
+
+The Internet Text is in the form of "short-waves, long-waves." The former
+are the individual pieces, almost all titled, written in a variety of sty-
+les, and referencing a number of writers ranging from Kittler and (Nicole)
+Brossard to Ellroy and Lingis, with Penrose, Kristeva, Mayakovsky, and
+Karl Kraus somewhere inbetween. These texts are interrelated, interwoven;
+on occasion "characters" appear - these are _actants_ possessing philoso-
+phical or psychological import. They also create and problematize narra-
+tive substructures within the work as a whole. (Such are Clara Hielo In-
+ternet, Tiffany, Alan, Claire, Honey, and others; Tiffany, in particular,
+has become a space of learning, sexuality, mathesis, semiosis, etc., while
+Clara HI has represented an other self, related to sky, power, darkness.)
+
+The long-waves are fuzzy topoi on such issues as death, love, virtual emb-
+odiment, the "granularity of the real," and physical reality, which criss-
+cross the texts. The resulting fragmentations and coagulations owe some-
+thing to German Romanticism, but more to the function of sites or nodes on
+the Net itself. 
+
+There is no binarism in the work, no series of protocol statements. On the
+other hand, virtuality is considered far beyond the ASCII text / Netscape
+that is most prevalent now, at the end of the twentieth century. The var-
+ious issues of embodiment that will arrive with full-real or true-real VR
+are already in existence as embryonic, permitting the theorizing of vary-
+ing present and future spatialities and their interconnectedness. (Thus
+cyborg-thought is seen as roughly mechanistic in favor of future technolo-
+gies and the psychoanalytical.)
+
+The text often presents and stumbles over gender, genders and regenders
+itself; consider other-gendered personages replacing the ones described. 
+I have no stake in them beyond my own desire, memory and circumlocution; 
+others will do.
+
+Although there are faux-texts of writers such as Dickinson, Stein, Maya-
+kovsky, Trakl, and Poe, these texts are meant as partial transparencies. 
+I do not mean to imply that virtuality is synonymous with masquerade or
+freely-given choice of identities. Almost all other references are accur-
+ate, quoting a wide range of writers and viewpoints. The resulting matrix,
+however, is entirely my own. 
+
+The Internet Text divides into fourteen files; there is also an index file
+to the whole. While it is best read in the order it is written in, certain
+early sections, at pains to establish a working vocabulary, are more terse
+and perhaps difficult than others; they are foci, to be read and returned
+to at a later date. The few Qbasic programs and those sections which emp-
+loy technical terminology (once again the gristle) may be skipped for the
+moment, although some of the main arguments are presented in relation to
+software usage. (Note that the Text is continued first in the alphabetic
+text, which contains files a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t, and u,
+and then in the named files (Uncanny, etc.) which should be read last.)
+
+A few texts has been written with Kim Mcglynn or Angela Hunter, and are
+of course as much their creation as my own. The entire work to date can be
+found by telnetting to
+
+    http://jefferson.village.virginia.edu/~spoons/internet_txt.html
+    or to: ftp jefferson.village.virginia.edu
+        cd pub/pubs/listservs/spoons/cybermind-digest.archive/internet/
+
+The material may be freely republished or forwarded; I would like to know,
+however, if the former. 
+
+Alan Sondheim, sondheim@panix.com, 1-718-857-3671
+

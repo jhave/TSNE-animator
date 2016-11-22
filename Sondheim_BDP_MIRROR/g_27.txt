@@ -1,0 +1,70 @@
+
+
+
+
+
+Taxonomy of Performativity of Cyberspace Messages (Email, Lists, Usenet):
+
+
+
+1. description of external actions or states in the message
+    [someone describes hirself as underage: is s/he really?]
+    [someone threatens suicide: does s/he really?]
+    [someone claims to be a male: is s/he really?]
+     truth or falsity of the message
+      [means of ascertaining information in cyberspace:
+       intimations of uncertainty
+       [clues as to differing identities, instabilities: reading
+        for subtexts, deconstruction]
+       intimations of certainty
+       [header-checking, familiarity in real-life with the poster
+        on-line familiarity with the poster]
+         what would constitute certainty beyond a reasonable doubt?
+         [community or individual consensus, the need for belief in
+          most circumstances, disbelief in others]]
+     legal responsibility of the receiver
+      [current state of Internet or general CMC law: forwarned is or
+       is not sufficient? who owns copyright, who owns words? the role
+       of the _censor_ as proprietary - recent Prodigy case]
+        what constitutes prior knowledge?
+         [issues of intimations above. must posts _necessarily_ be
+          believed?]
+        what constitutes fair warning?
+         [is prior _knowledge_ necessary for fair warning?]
+2. performative utterance in the messages 
+    [promises of the heart, business contracts, and so forth] 
+     legal entailment of such utterances
+      [traced-by-tracerouted utterances]
+      [untraced utterances]
+     taxonomy of such utterances
+      [those which imply a _future action_: I will marry you.]
+      [those that imply _current action_ or strickt performativity: by this 
+       post I am marrying you.] 
+3. escape codes or other activations within the message
+     codes as content
+      [ornamental codes: blinking, upper ascii, color transforms, etc.]
+      [elsewhere-activating codes: bell ringing, etc.]
+      [post-transforming codes: EOF destructions, viruses]
+4. header codes or other framing activations across the message
+     codes as content
+      [telnet 25, changes across Columbia mail, telnet sites which strip
+       traceroute information]
+      [use of Bcc:]
+      [hacking codes]
+     the minimal necessary code for transmission
+5. performative statements/operations _upon_ the message:
+    outgoing: 
+     [sending (to, from, cc:, bcc:, alias)]
+     [forwarding (")]
+     [replying (")]
+     [duplicating/spamming (")]
+     [deleting]
+    incoming:
+     [saving (to folder, in inbox, etc.)]
+     [deleting]
+      [message by message]
+      [filtering (kill-file, folder structure, etc.)
+       [passive filtering, automated from header labels]
+       [active filtering, weighing headers/contents]]
+
+

@@ -1,0 +1,97 @@
+
+
+     Keeping track of the time, by Jennifer, looking around:
+
+
+     /usr/local/bin/ntpdate -b noc.near.net timeserver.cs.umb.edu
+     clock.psu.edu
+     5 Jun 23:32:41 ntpdate: bind() fails: Permission denied
+
+     /from man pages for ntpdate used by panix.com etc./
+     Time adjustments are made by ntpdate in one of two ways.  If
+     ntpdate  determines  your  clock  is  off  by  more than 0.5
+     seconds it will simply step the time by  calling  settimeof-
+     day(2).   If the error is less than 0.5 seconds, however, it
+     will by default slew the clock's time via  a  call  to  adj-
+     time(2)  with the offset.  The latter technique is less dis-
+     ruptive and more accurate when  the  offset  is  small,  and
+     works  quite well when ntpdate is run by cron (8) every hour
+     or two.  The adjustment made in the latter case is  actually
+     50%  larger than the measured offset since this will tend to
+     keep a badly drifting clock more accurate (at  some  expense
+     to stability, though this tradeoff is usually advantageous).
+     At boot time, however, it is usually better to  always  step
+     the time.  This can be forced in all cases by specifying the
+     -b switch on the command line.  The -s switch tells  ntpdate
+     to log its actions via the syslog(3) facility rather than to
+     the standard output, a useful option when running  the  pro-
+     gram from cron(8).
+ 
+/time program/
+{k:55} time
+   0.00s real    0.00s user    0.00s system
+{k:56} time time
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+{k:57} time time time
+   0.01s real    0.00s user    0.00s system
+   0.01s real    0.00s user    0.00s system
+   0.01s real    0.00s user    0.00s system
+{k:58} time time time time
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+   0.00s real    0.00s user    0.00s system
+
+/The time program measures itself, which appears via-a-vis through the
+program as instantaneous. The time command is used to measure server
+usage./
+
+{k:59} date
+Fri Jun  5 03:10:19 EDT 1998
+{k:60} time date
+Fri Jun  5 03:10:21 EDT 1998
+   0.05s real    0.01s user    0.03s system
+
+/The date program provides the date and time and can be measured by time./
+ 
+   REFRESH(56 sec): http://www.time.org/
+ 
+                     Welcome to the WWW Clock Home Page
+ 
+     Welcome to the very first functioning clock on the WWW. Here you
+     will be able to find useful web pages which are fully functioning
+     clocks. Right now we have pages for Pacific Daylight Time. The
+     Rubber Chicken is hosting Eastern Standard Time.
+ 
+     Greenwich Mean Time is: 02:48 AM
+
+/This was found by trying www.time.net and www.time.org. There are many
+other clocks online, including one which counts down to the millennium./
+
+{k:13} telnet cleo.murdoch.edu.au 13
+Trying 134.115.224.60...
+Connected to cleo.murdoch.edu.au.
+Escape character is '^]'.
+Sat Jun  6 10:54:17 1998
+Connection closed by foreign host.
+
+{k:24} tn3270 cleo.murdoch.edu.au 13
+Trying...
+Connected to cleo.murdoch.edu.au.
+Sat Jun  6 11:29:14 1998
+Connection closed by foreign host.
+
+/Telnet or tn3270 port 13 returns the local time for another server.
+
+/At one point, she/I wrote that "Jennifer has all the time in the world."
+It might be accurate to say she serves time, or that time serves her, that
+there is a distinction or contradistinction at work here. That we are
+flooded by time, but that she is not; that she is working over time, in a
+manner of writing / speaking. Which is true for the uneasy condition or
+presence or projection of anything in this space. If I am her dream, she
+is mine; if I am bound by this site/sight before the screen, she is un-
+bound within a matrix whose inhabitation I can scarcely comprehend. I do
+find her a wonder, I do, I do, I do.
+
+

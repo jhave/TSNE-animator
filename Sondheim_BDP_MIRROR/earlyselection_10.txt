@@ -1,0 +1,115 @@
+
+
+
+Self-Portrait with Computer
+
+
+As a child, I loved and played with a Japanese abacus my father brought me
+from Korea.
+
+In highschool, I learned log and loglog sliderules, but I was terrible at
+differential calculus, and this seeming _inability_ has followed me
+throughout my life.
+
+In 1968, Greg Johnson and I built an analog music synthesizer, employing
+some of the features of the Moog synthesizer of the time; I used this in
+numerous recordings and performances until 1988.
+
+In 1971, I did a series of video/text pieces, using various computers; I
+did none of the programming myself. The two main works to come out of that
+period were 4320 and Typed Glossolalia.
+
+4320 took advantage of Charles Strauss' programming on the IBM 360 with a
+graphics engine; he had programmed a three-dimensional projection of a
+hypercube which could be manipulated with various controls, including
+joystick.
+
+I sat various subjects down at the controls, and asked them to "move"
+through four-dimensional space, turning the hypercube orthogonally so it
+became a cube, turning the cube orthogonally so it became a square, and
+reducing the square to a point - hence dimensions 4/3/2/0. The various
+videotapes, photographs, and texts that came from the project documented
+the subjects' abilities to move through these spaces, inhabit them - an
+early version of cyberspatiality.
+
+The Typed Glossolalia piece involved random typing into a computer, which
+then attempted, through time series analysis, to find patters - i.e. to
+see if human determinism existed in actuality. The idea was, that if such
+determinism existed, there would be predictability involved. As far as the
+analysis went, there wasn't, but this was also dependent on some thinking
+about Newton's equations in the calculus of finite differences. (Greg
+Johnson did the programming here.)
+
+Around 1977, I bought a TI59 programmable calculator, which used a variety
+of assembly language. I made a number of pieces with it, investigating the
+behavior of the machine at its limits. I still continue work in this di-
+rection, programming a Psion 3A similarly, but with more complex tools at
+hand. I also began a language program on the TI59.
+
+In 1977-78, I was at the University of California, Irvine, Art Department.
+The Computer Department gave me free reign on a Terak minicomputer, with
+ten inch floppies, and I taught myself UCSD Implementation Pascal. I pro-
+duced a number of works, including an active hypertext piece/editor - the
+user would type into the machine, and the machine would alter the lines
+according to predetermined and/or random procedures, including word sub-
+stitution, phrase substitution, noise, and so forth.
+
+I also created a second program, using the Turtle work designed by Papert
+among others, in order to create a drawing on the screen; the drawing was
+produced directly by the string of text which appeared at the bottom,
+typed in by the user. Eventually the two would collide and obliterate
+each other, and the process would begin again. I spent a great deal of
+time working to create "aesthetically pleasing" drawings, according to
+the then conceptual neo-geometric aesthetic.
+
+During this same year, I worked on Buchla and Moog synthesizers together,
+chaining three of them for various pieces produced in the basement of the
+UCI Music Department.
+
+In 1983, I bought a small TR computer from Radio Shack, without any memory
+or disk capability at all. It cost $100 and I used it for programming var-
+ious functions and examining their behavior; I also made a number of ster-
+eo photographs and films using it, including a journey through a four-dim-
+ensional ellipsoid. I was programming only in Basic. Some of the results
+of this work are also in my Disorders of the Real, 1988, but assembled
+from texts and work completed 1984-85.
+
+I had also used, that year, a small Timex computer which I bought for $25,
+with a primitive interface to television; I created a number of films us-
+ing it as well.
+
+In 1986-7, Denise de la Cerda and I set up an analog music studio with
+numerous analog computer components, both factory-built and handmade; as
+Damaged Life, we performed and recorded with them.
+
+In 1993, I began using an old IBM XT on the Net, and programming in Basic
+on it, later Qbasic on a Compaq Presario 486/25 and this current AST 486/
+33. The programs included everything from simple artificial life demon-
+strations, to various studies of fractal and chaos theory. The computer
+has become more of a window to other machines; using a linux box in 1995
+at Parsons, I modified a Nuts talker, following earlier work on an lpmud
+residing still in DOS.
+
+In 1992, I set up my own small analog video studio here in New York.
+
+In 1992-4, I had three residencies at the Experimental Television Center
+in Owego, New York, where I used two Amigas plus an analog video synthe-
+sizer to produce works dealing with sexuality and postmodern geography;
+these were shown in a series of shows at Millennium Film in New York and
+elsewhere.
+
+In 1994-5, I taught myself the proper use of the Chinese and Japanese
+abacuses, working them for meditation and some video works.
+
+Between the dates above, there was straightforward film/video/photography
+and writing above all. Computers came in and out of my life, centered
+around particular concerns; the writing remained and remains a constant.
+
+I never could program well, but I could and can create elegant mathemati-
+cal graphics, demonstrating various structures which continue to interest
+me. I've learned over and over again my own limitations, begging others to
+help me with one or another language, or even implement some of my ideas
+directly. This is as far as I've gotten, and always so short of time, as
+far as I will ever get.
+
+

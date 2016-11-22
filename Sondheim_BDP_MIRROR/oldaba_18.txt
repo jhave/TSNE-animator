@@ -1,0 +1,48 @@
+
+
+
+
+###--###||Rev Derrida
+###--###||
+###--###||
+###--###||###--###||a visitor in the world to come a visitor in the world
+###--###||###--###||a visitor in the world to come a visitor in the world
+###--###||for what is there###--###||a visitor in the world to come
+###--###||to understand, what is there of consequence###--###||a visitor
+###--###||to understand, that is once one is past###--###||a visitor
+###--###||whatever it takes or means by the consequence###--###||a visitor
+###--###||in the ongoing world, here I come as a visitor###--###||
+###--###||for here I am a visitor in the gone world###--###||a visitor
+###--###||for here I am a visitor in the ongoing world###--###||a visitor
+###--###||for here I am a visitor in the world to come###--###||a visitor
+###--###||and to understand, what there is of consequence###--###||
+###--###||is that of consequence is the understanding###--###||a visitor
+###--###||and what there is that is understood, that is###--###||a visitor
+###--###||what is ongoing in the world, what it is###--###||a visitor
+###--###||that one sees as a visitor, this is the world###--###||a visitor
+###--###||to come, and of truth it is said###--###||a visitor a visitor
+###--###||for what is there###--###||a visitor in the world to come
+###--###||in this, the world to come###--###||a visitor in the world
+###--###||all my pretty symbols all my pretty symbols###--###||a visitor
+###--###||all my pretty symbols all my pretty symbols###--###||a visitor
+###--###||all my pretty symbols all my pretty symbols###--###||a visitor
+###--###||all my pretty symbols all my pretty symbols###--###||a visitor
+###--###||in this, the world to come###--###||a visitor in the world
+###--###||###--###||a visitor in the world to come a visitor in the world
+###--###||###--###||a visitor in the world to come a visitor in the world
+###--###||
+###--###||
+###--###||Rev Sondheim
+
+
+
+PRETTY PICTURE
+
+#define nik_width 16
+#define nik_height 16
+static unsigned char nik_bits[] = {
+   0x00, 0x00, 0x8b, 0x00, 0x8d, 0x2a, 0xad, 0x29, 0xa9, 0x3a, 0x00, 0x00,
+   0x01, 0x38, 0x75, 0x0a, 0x53, 0x3a, 0x75, 0x22, 0x00, 0x38, 0x00, 0x00,
+   0x75, 0x57, 0x17, 0x77, 0x37, 0x73, 0x75, 0x55};
+
+

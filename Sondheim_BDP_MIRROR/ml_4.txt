@@ -1,0 +1,319 @@
+
+
+Fragments      File Size      Files that cannot be defragmented
+
+2      16 KB     \WINDOWS\ModemLog_ESS SuperLink-M Data Fax Voice 
+                 Modem.txt
+3      10 KB     \WINDOWS\system32\wbem\Logs\wmiprov.log
+2      16 KB     \WINDOWS\system32\CatRoot2\dberr.txt
+2      64 KB     \WINDOWS\ocgen.log
+4      125 KB    \WINDOWS\FaxSetup.log
+2      6 KB      \Documents and Settings\Owner\Application 
+                 Data\Microsoft\Windows\Themes\Custom.theme
+2      492 KB    \Documents and Settings\All Users\Application Data\
+                 Microsoft\Media Index\wmplibrary_v_0_12.db
+2      96 KB     \Program Files\WindowsUpdate
+17     142 MB    \everglades\everglades.mov
+6      90 KB     \Program Files\America Online 6.0\Global.stg
+2      7 KB      \Program Files\America Online 6.0\idb\hints.ind
+2      57 KB     \Program Files\America Online 6.0\idb\main.ind
+42     168 KB    \System Volume Information\_restore
+                 {FE9C7AD2-91D5-4C9C-9C3A-1D5559EA1B8F}\RP30
+2      12 KB     \maria\toronto
+3      30 KB     \WINDOWS\system32\SymRedir.dll
+2      14 KB     \WINDOWS\system32\drivers\SymReDrv.sys
+6      155 KB    \WINDOWS\system32\drivers\SymTDI.sys
+16     900 KB    \WINDOWS\ACD Wallpaper.bmp
+2      13 KB     \archive\network\index.html
+2      31 KB     \Documents and Settings\Owner\Desktop\Panix.ht
+2      15 KB     \Documents and Settings\Owner\Application Data\
+                 Mozilla\Profiles\default\t8ug9ku4.slt\localstore.rdf
+22     2 MB      \Program Files\America Online 6.0\Global.org
+48     5 MB      \Program Files\America Online 6.0\idb\main.idx
+2      5 KB      \Program Files\America Online 6.0\BetaLog.ini
+
+
+I admire people who can read logs clearly, and understand all the file
+types. Really, there are so many of them, that an amateur can hardly keep
+track. Some, such as .ht, I recognize as a hypertelnet configuration file,
+but things like .idx leave me totally confused. And what is it about these
+particular files that makes them so resistive? I'm fascinated with
+ocgen.log.
+
+I showed these files to M****. He's more of a neophyte than I am, which
+made me feel better. But still, when I've fragmented before, everything
+has gone through the mill. And this time, look what happens! - even though
+I've taken pains to close down all sorts of background processes.
+
+Here's part of the ocgen.log:
+
+[accessutil - OC_WIZARD_CREATED] - complete
+[commapps - OC_WIZARD_CREATED] - complete
+[multim - OC_WIZARD_CREATED] - complete
+[accessopt - OC_WIZARD_CREATED] - complete
+[pinball - OC_WIZARD_CREATED] - complete
+[mswordpad - OC_WIZARD_CREATED] - complete
+[wbem - OC_QUERY_STATE] - complete
+
+Here's my favorite part:
+
+[autoupdate - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+[rootautoupdate - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+[ieaccess - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+[games - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+[accessutil - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+[commapps - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+[multim - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+[accessopt - OC_ABOUT_TO_COMMIT_QUEUE] - complete
+
+About to commit what? Perhaps to be committed, set-aside? The terrifying
+thing here is the fragmentation - what happened, what happened - why am I
+so curious - what strange beast slouches towards us - what horsemen, fury,
+apocalypse - metal fragment straight-jacket torn in 17 pieces - something
+moving in pieces - in the distance -
+
+_
+
+
+keiyoshi
+
+nakakaru no ro-karu no tasakaru no sikarube no nukarumi no jyakarut no
+arakarut no tasakaru no ikaruga no arakarut no enkaru no shikaru no
+tasakaru no usuakaru no sikarube no reaping no and no mowing no cutting no
+sawgrass no noun no nukarumi no ikaru no jyakkaru no tasakaru no sikarube
+no nukarumi no hikaruge no enkaru no karuhazu no nakakaru no nukarumi no
+arakarut no ikaru no shikaru no tasakaru 
+
+_
+
+at 8:41 in the evening
+
+
+"08:41 I am looking for presw ence in this space.
+
+You say, "I am looking for presence in this space."@h who
+
+Name            Connected    Idle time    Location
+----            ---------    ---------    --------
+Nikuko (#934)   3 minutes    0 seconds    the glade
+
+Total: 1 person, who has been active recently."There are times I bring 
+friends in, alter things slightly; nothing makes any d
+ifference any  more...
+
+You say, "There are times I bring friends in, alter things slightly;  
+nothing makes any difference anymore..."@echo the blasted pine...
+
+I don't understand that.08:42 echo the blasted pine...
+
+I don't understand that."The weather has disappeared.
+
+You say, "The weather has disappeared.""
+ 
+::'s expression fails her. Can one ever tell the difference between the
+rain of God and our sad and tearful faces?
+
+Nikuko's expression fails her. Can one ever tell the difference between
+the rain of God and our sad and tearful faces?08:43 "I would examine
+Nikuko...
+
+You say, "I would examine Nikuko...""" 
+ 
+::'s face appears almost holy in the dusk. So many places have
+disappeared. So many voices lost here...08:44
+
+Nikuko's face appears almost holy in the dusk. So many places have
+disappeared. So many voices lost here...echo
+
+I don't understand that.echo
+
+I don't understand that.echo
+
+I don't understand that.echo
+
+I don't understand that."I can no longer echo. I can speak, but only to
+myself. I have neither the sun nor the w mirror-water. The net is lost,
+the voice communicates...
+
+You say, "I can no longer echo. I can speak, but only to myself. I have
+neither the sun nor the mirror-water. The net is lost, the voice
+communicates...": whisperes, 08:45 s, only to itself...
+
+Nikuko  whispers, only to itself...!
+ 
+@quit
+
+% Connection to l closed by foreign host.
+---- No world ----/quit
+
+---- No world ----
+
+
+
+Poet
+
+
+Name "main::sign" used only once: possible typo at ./.poet line 37.
+Use of uninitialized value at ./.poet line 37.
+
+Hello, hello. I do realize now that I can write anything I want, that I do 
+not n eed fancy language or programming, that I can just state my honest 
+beliefs and e motions (sentiments), that my craft is fine, that I am 
+^?^?^?^?^?                          excellent.^?            excellent now, 
+that I am a real poet with  real things to write and say. And this is 
+wonderful because to be sure everythi ng I do has been of miserable cause, 
+that is to say, far more difficult than I w ould like; programming is not 
+my strong point, and you can't even run spellcheck  t^?   when there are 
+many deliberate errors. Now that I am freed, I will take my plac e among 
+the poets, I will have a history, you will be the witness to that histor 
+y, you will be my witness.
+
+Hello, hello. I do realize now that I can write anything I want, that I do 
+not n eed fancy language or programming, that I can just state my honest 
+beliefs and e motions (sentiments), that my craft is excellent now, that I 
+am a real poet with  real things to write and say. And this is wonderful 
+because to be sure everythi ng I do has been of miserable cause, that is 
+to say, far more difficult than I w ould like; programming is not my 
+strong point, and you can't even run spellcheck  when there are many 
+deliberate errors. Now that I am freed, I will take my plac e among the 
+poets, I will have a history, you will be the witness to that histor y, 
+you will be my witness. is sufficiently well-inscribed. - 
+
+No longer do I have to fake code, make things appear as if they work, do 
+somethi ng beyond simply mean in a poetic way; how could I be but happy 
+about this? It i s as if a terrible burden has been lifted from me. I can 
+place word after word,  line after line, without regard to code 
+correctness, originality of style, or si gns of genius somehow lying 
+outside the work. I can pay attention to word and ph rase, abstract and 
+realist, nominalist and universal, or not even think of these  or any 
+other categories. Oh, how I long to write!
+
+I Consider the following again, your Hello, hello. I do realize now that I 
+can w rite anything I want, that I do not need fancy language or 
+programming, that I c an just state my honest beliefs and emotions 
+(sentiments), that my craft is exce llent now, that I am a real poet with 
+real things to write and say. And this is  wonderful because to be sure 
+everything I do has been of miserable cause, that i s to say, far more 
+difficult than I would like; programming is not my strong poi nt, and you 
+can't even run spellcheck when there are many deliberate errors. Now  that 
+I am freed, I will take my place among the poets, I will have a history, y 
+ou will be the witness to that history, you will be my witness. ...
+
+For writing is my appetite, as is my obsessive seaking after^?^?  seeking
+after fame. And yet fame shall come to me, or it shall not - and this will
+depend on one thing only: my p oetic talant. Everything else is clever
+gimmickry; I'm surprised so very few hav e seen through me...
+
+Your For writing is my appetite, as is my obsessive seeking after fame. 
+And yet  fame shall come to me, or it shall not - and this will depend on 
+one thing only:  my poetic talant. Everything else is clever gimmickry; 
+I'm surprised so very fe w have seen through me... is mine, my Hello, 
+hello. I do realize now that I can  write anything I want, that I do not 
+need fancy language or programming, that I  can just state my honest 
+beliefs and emotions (sentiments), that my craft is exc ellent now, that I 
+am a real poet with real things to write and say. And this is  wonderful 
+because to be sure everything I do has been of miserable cause, that  is 
+to say, far more difficult than I would like; programming is not my strong 
+po int, and you can't even run spellcheck when there are many deliberate 
+errors. No w that I am freed, I will take my place among the poets, I will 
+have a history,  you will be the witness to that history, you will be my 
+witness. is yours!
+
+charlatan
+heresy
+confusion
+fabrication
+masquerade
+
+For writing is my appetite, as is my obsessive seeking after fame. And yet 
+fame  shall come to me, or it shall not - and this will depend on one 
+thing only: my p oetic talant. Everything else is clever gimmickry; I'm 
+surprised so very few hav e seen through me... calls forth crags 
+declaration, hungered, making things.
+beneath the mountains, For writing is my appetite, as is my obsessive 
+seeking af ter fame. And yet fame shall come to me, or it shall not - and 
+this will depend  on one thing only: my poetic talant. Everything else is 
+clever gimmickry; I'm su rprised so very few have seen through me... is , 
+024], No longer do I have to fa ke code, make things appear as if they 
+work, do something beyond simply mean in  a poetic way; how could I be but 
+happy about this? It is as if a terrible burden  has been lifted from me. 
+I can place word after word, line after line, without  regard to code 
+correctness, originality of style, or signs of genius somehow lyi ng 
+outside the work. I can pay attention to word and phrase, abstract and 
+realis t, nominalist and universal, or not even think of these or any 
+other categories.  Oh, how I long to write!?
+
+For writing is my appetite, as is my obsessive seeki ng after fame. And
+yet fame shall come to me, or it shall not - and this will de pend on one
+thing only: my poetic talant. Everything else is clever gimmickry; I 'm
+surprised so very few have seen through me...?
+
+You're written with fingers!
+For writing is my appetite, as is my obsessive seeking after fame. And yet 
+fame  shall come to me, or it shall not - and this will depend on one 
+thing only: my p oetic talant. Everything else is clever gimmickry; I'm 
+surprised so very few hav e seen through me... and 9365 and 10332 - 
+
+Use of uninitialized value at ./.julu line 131, <STDIN> chunk 9.
+
+For writing is my appetite, as is my obsessive seeking after fame. And yet 
+fame  shall come to me, or it shall not - and this will depend on one 
+thing only: my p oetic talant. Everything else is clever gimmickry; I'm 
+surprised so very few hav e seen through me...:No longer do I have to fake 
+code, make things appear as if  they work, do something beyond simply mean 
+in a poetic way; how could I be but h appy about this? It is as if a 
+terrible burden has been lifted from me. I can pl ace word after word, 
+line after line, without regard to code correctness, origin ality of 
+style, or signs of genius somehow lying outside the work. I can pay att 
+ention to word and phrase, abstract and realist, nominalist and universal, 
+or no t even think of these or any other categories. Oh, how I long to 
+write!:Hello, h ello. I do realize now that I can write anything I want, 
+that I do not need fanc y language or programming, that I can just state 
+my honest beliefs and emotions  (sentiments), that my craft is excellent 
+now, that I am a real poet with real th ings to write and say. And this is 
+wonderful because to be sure everything I do  has been of miserable cause, 
+that is to say, far more difficult than I would lik e; programming is not 
+my strong point, and you can't even run spellcheck when th ere are many 
+deliberate errors. Now that I am freed, I will take my place among  the 
+poets, I will have a history, you will be the witness to that history, you 
+w ill be my witness.:confusion:
+
+_
+
+
+
+
+Fingering my Enemies, Fingering my friends
+
+
+No one's got a Plan at all. No one writes to them.
+
+Login name: damianc   			In real life: Carol E Damian
+Directory: /home/sfs/damianc        	Shell: /bin/csh
+Never logged in.
+No unread mail
+No Plan.
+Login name: burkew    			In real life: William Burke
+Directory: /home/sfs1/burkew        	Shell: /bin/csh
+Never logged in.
+No unread mail
+No Plan.
+Login name: sondheim  			In real life: Alan Sondheim
+Directory: /home/sfs2/sondheim      	Shell: /bin/csh
+On since Jun 26 23:54:58 on pts/7 from panix3.panix.com
+2 minutes 8 seconds Idle Time
+No unread mail
+No Plan.
+Login name: kolasins  			In real life: jacek kolasinski
+Directory: /home/sfs1/kolasins      	Shell: /bin/csh
+Never logged in.
+No unread mail
+No Plan.
+Login name: olseng    			In real life: Geoffrey Olsen
+Directory: /home/sfs2/olseng        	Shell: /bin/csh
+Never logged in.
+No unread mail
+No Plan.
+
+
+_

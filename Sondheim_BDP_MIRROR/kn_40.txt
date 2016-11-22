@@ -1,0 +1,32 @@
+
+
+
+
+The Case of the Real
+
+
+Nikuko watches you.
+You look at Basin.
+Porcelain with thick rim, minute cracks
+Contents:
+  Book
+Nikuko sees no "Book" here.
+I don't understand that.
+Perhaps you mean one of the following help topics: read.
+Nikuko watches you remove Book from Basin.
+Hieroglyph, soft and yielding to the touch
+Nikuko watches you put Book in Basin.
+You see Basin and lump.
+Do you squash lump?
+You squash lump squish lump you do
+Jennifer enters.
+Jennifer looks over your shoulder.
+Jennifer looks over Nikuko's shoulder.
+Jennifer sees Basin and lump.
+Jennifer looks at Basin.
+Porcelain with thick rim, minute cracks
+Contents:
+  Book
+Jennifer reads the Book.
+
+

@@ -1,0 +1,43 @@
+
+
+
+Cybercafe
+
+
+Thinking about the uses of Cybercafes - and trying to figure out why one
+would ever go to a place like this (I'm at one now), I've come up with a
+few categories of users (and I'm getting paid for that matter for consul-
+ting so I've been trying to think this through) -
+
+1. The Social or New user - this person would automatically head towards 
+the Web, since it provides the most "punch" for the least amount of time 
+and expertise.
+
+2. The Researcher - would probably spend a fair amount of time with 
+Gopher and FTP, at the last - possibly Archie if it's available. (There 
+is a question whether or not gopher sites are being maintained - if 
+anyone has hard knowledge about this, please let me know!) -
+
+3. Email Checking - using the cybercafe's own email for outgoing, and/or 
+using telnet to check one's own account elsewhere. Obviously a difficulty 
+with AOL, etc.
+
+4. Dedicated User - using telnet with other ports for chat, MUD, MOO, 
+etc. Chat is popular among new users, but generally on AOL or other 
+closed services; it would take a dedicated user to come into a cybercafe 
+in order to log on.
+
+5. Speeders - since this cafe, like others, has high-speed lines, it 
+makes sense to come in and use the Web - considerable time is saved.
+
+6. Finally, experimenters who want to try out Iphone, VDOL, Xing, and 
+other audio/video technologies.
+
+(Note that _none_ of these reflect the 18th-century coffeehouse, for exam-
+ple; the nearest is category #4, but here, the terminal is a stand-in for
+the user's usual access. To this day, I have no idea how well cybercafes
+in general are doing; ultimately I'd think they would want to combine
+social in-house activities (such as Internet demonstrations, fleshmeets)
+with extended Net capabilities - I dream of monster machines running at
+300 megahertz with gigabyte hard-drives, 100k RAM...)
+

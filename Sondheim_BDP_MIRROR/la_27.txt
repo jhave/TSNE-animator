@@ -1,0 +1,92 @@
+
+
+
+
+ANSWERING YES
+
+
+ [1;1H [;H [2J [7m UW PICO(tm) 3.4 New Buffer
+ [m [23;1H [K [24;1H [K [23;1H [7m^ [m [7mG [m Get Help  [7m^ [m [7mO [m
+WriteOut  [7m^ [m [7mR [m Read File  [7m^ [m [7mY [m Prev Pg
+ [7m^ [m [7mK [m Cut Text  [7m^ [m [7mC [m Cur Pos
+ [K [24;1H [7m^ [m [7mX [m Exit  [7m^ [m [7mJ [m Justify  [7m^ [m [7mW [m
+Where is  [7m^ [m [7mV [m Next Pg  [7m^ [m [7mU [m UnCut
+Text [7m^ [m [7mT [m To Spell  [K [3;1H [22;1H [K [22;37H [7m[ Reading
+file ] [m [22;1H [K [22;37H [7m[ Read 1 line ] [m [1;35H [7m File:
+thing [m [3;1HTue Jul 20 13:45:26 EDT
+1999 [3;1H [1;70H [7mModified [m [3;1HrTue Jul 20 13:45:26 EDT
+1999 [3;2HuTue Jul 20 13:45:26 EDT 1999 [3;3HnTue Jul 20 13:45:26 EDT
+1999 [3;4HnTue Jul 20 13:45:26 EDT 1999 [3;5HiTue Jul 20 13:45:26 EDT
+1999 [3;6HnTue Jul 20 13:45:26 EDT 1999 [3;7HgTue Jul 20 13:45:26 EDT
+1999 [3;8H Tue Jul 20 13:45:26 EDT 1999 [3;9HtTue Jul 20 13:45:26 EDT
+thin silk edge barely visible, legs slightly parted
+1999 [3;10HhTue Jul 20 13:45:26 EDT 1999 [3;11HiTue Jul 20 13:45:26 EDT
+1999 [3;12HsTue Jul 20 13:45:26 EDT 1999 [3;13H Tue Jul 20 13:45:26 EDT
+1999 [3;14HaTue Jul 20 13:45:26 EDT 1999 [3;15HtTue Jul 20 13:45:26 EDT
+1999 [3;16H Tue Jul 20 13:45:26 EDT 1999 [3;17HaTue Jul 20 13:45:26 EDT
+1999 [3;18H Tue Jul 20 13:45:26 EDT 1999 [3;19HlTue Jul 20 13:45:26 EDT
+1999 [3;20HoTue Jul 20 13:45:26 EDT 1999 [3;21HsTue Jul 20 13:45:26 EDT
+1999 [3;22HsTue Jul 20 13:45:26 EDT 1999 [3;23H [K [4;1HTue Jul 20
+13:45:26 EDT 1999 [4;1HtTue Jul 20 13:45:26 EDT 1999 [4;2HuTue Jul 20
+13:45:26 EDT 1999 [4;3H [22;1H [K [4;3HrTue Jul 20 13:45:26 EDT
+slight sweet and heavy smell, moist warmth in room of dawn
+1999 [4;4HnTue Jul 20 13:45:26 EDT 1999 [4;5HiTue Jul 20 13:45:26 EDT
+1999 [4;6HnTue Jul 20 13:45:26 EDT 1999 [4;7HgTue Jul 20 13:45:26 EDT
+1999 [4;8H Tue Jul 20 13:45:26 EDT 1999 [4;9HtTue Jul 20 13:45:26 EDT
+1999 [4;10HhTue Jul 20 13:45:26 EDT 1999 [4;11HiTue Jul 20 13:45:26 EDT
+1999 [4;12HsTue Jul 20 13:45:26 EDT 1999 [4;13H Tue Jul 20 13:45:26 EDT
+1999 [4;14HiTue Jul 20 13:45:26 EDT 1999 [4;15HnTue Jul 20 13:45:26 EDT
+1999 [4;16HtTue Jul 20 13:45:26 EDT 1999 [4;17HoTue Jul 20 13:45:26 EDT
+1999 [4;18H Tue Jul 20 13:45:26 EDT 1999 [4;19HtTue Jul 20 13:45:26 EDT
+1999 [4;20HhTue Jul 20 13:45:26 EDT 1999 [4;21HeTue Jul 20 13:45:26 EDT
+1999 [4;22H Tue Jul 20 13:45:26 EDT 1999 [4;23HsTue Jul 20 13:45:26 EDT
+1999 [4;24HlTue Jul 20 13:45:26 EDT 1999 [4;25HiTue Jul 20 13:45:26 EDT
+finger lightly tracing wet cloth and legs joining, shadows and moons
+1999 [4;26HpTue Jul 20 13:45:26 EDT 1999 [4;27H Tue Jul 20 13:45:26 EDT
+1999 [4;28HoTue Jul 20 13:45:26 EDT 1999 [4;29HfTue Jul 20 13:45:26 EDT
+1999 [4;30H Tue Jul 20 13:45:26 EDT 1999 [4;31HwTue Jul 20 13:45:26 EDT
+1999 [4;32HhTue Jul 20 13:45:26 EDT 1999 [4;33HiTue Jul 20 13:45:26 EDT
+1999 [4;34HtTue Jul 20 13:45:26 EDT 1999 [4;35HeTue Jul 20 13:45:26 EDT
+1999 [4;36H Tue Jul 20 13:45:26 EDT 1999 [4;37HpTue Jul 20 13:45:26 EDT
+1999 [4;38HaTue Jul 20 13:45:26 EDT 1999 [4;39HnTue Jul 20 13:45:26 EDT
+1999 [4;40HtTue Jul 20 13:45:26 EDT 1999 [4;41HiTue Jul 20 13:45:26 EDT
+1999 [4;42HeTue Jul 20 13:45:26 EDT 1999 [4;43HsTue Jul 20 13:45:26 EDT
+1999 [4;44H Tue Jul 20 13:45:26 EDT 1999 [4;45HsTue Jul 20 13:45:26 EDT
+1999 [4;46HhTue Jul 20 13:45:26 EDT 1999 [4;47HoTue Jul 20 13:45:26
+and cloth, distended, cloth of moons and dawns, silk, wet, white
+EDT [K [5;1H1999 [4;48HwTue Jul 20 13:45:26 EDT [4;49HiTue Jul 20 13:45:26
+EDT [4;50HnTue Jul 20 13:45:26 EDT [4;51HgTue Jul 20 13:45:26 EDT [4;52H
+Tue Jul 20 13:45:26  [5;1HEDT 1999 [4;53HbTue Jul 20 13:45:26 [4;54HeTue
+Jul 20 13:45:26 [4;55HnTue Jul 20 13:45:26 [4;56HeTue Jul
+20 [K [5;1H13:45:26 EDT 1999 [4;57HaTue Jul 20 [4;58HtTue Jul
+20 [4;59HhTue Jul 20 [4;60H Tue Jul 20 [4;61HtTue Jul 20 [4;62HhTue Jul
+20 [4;63HeTue Jul 20 [4;64H Tue Jul 20 [4;65HsTue Jul  [5;1H20 13:45:26
+EDT 1999 [4;66HhTue Jul [4;67HoTue Jul [4;68HrTue  [5;1HJul 20 13:45:26
+EDT 1999 [4;69HtTue [4;70HsTue [4;71H  [5;1HTue [K [6;1HJul 20 13:45:26
+EDT 1999 [5;1HoTue [5;2HhTue [5;3H
+early mornings coming to a stop
+Tue [5;4HwTue [5;5HhTue [5;6HeTue [5;7HrTue [5;8HeTue [5;9H
+Tue [5;10HtTue [5;11HhTue [5;12HeTue [5;13H
+Tue [5;14HsTue [5;15HkTue [5;16HiTue [5;17HnTue [5;18H
+Tue [5;19HsTue [5;20HmTue [5;21HoTue [5;22HoTue [5;23Ht
+Tue [5;24HhTue [5;25HlTue [5;26HyTue [5;27H
+Tue [5;28HmTue [5;29HeTue [5;30HeTue [5;31HtTue [5;32HsTue [5;33H
+Tue [5;34HoTue [5;35HtTue [5;36HhTue [5;37HeTue [5;38HrTue [5;39H
+Tue [5;40HfTue [5;41HlTue [5;42HeTue [5;43HsTue [5;44HhTue [5;45H
+ [6;1HTue [K [7;1HJul 20 13:45:26 EDT 1999 [6;1HoTue [6;2HhTue [6;3H
+Tue [6;4HoTue [6;5HhTue [6;6H Tue [6;7HoTue [6;8HhTue [6;9H
+Tue [6;10HoTue [6;11HhTue [6;12H Tue [6;13HoTue [6;14HhTue [6;15H
+Tue [6;16H  [7;1HTue [K [8;1HJul 20 13:45:26 EDT 1999 [7;1H [23;1H
+ [7mY [m Yes
+ [K [24;2H [7mC [m Cancel  [7mN [m No  [K [22;1H [K [7mSave
+modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?
+ [22;62H [m [7m       Yes [m [22;1H [K [7mFile Name to write :
+ [22;22H [m [7mthing [m [23;1H [7m^
+i am hers hers hers
+[m [7mG [m Get Help  [7m^ [m [7mT [m
+To Files  [K [24;14H [7mT [m [7mA [m [7mB [m Complete
+ [K [7m [22;27H [m [22;1H [K [22;38H [7m[ Writing...
+] [m [22;1H [K [22;36H [7m[ Wrote 6 lines ] [m [23;1H [K [24;1H [K
+in zero time time time
+
+

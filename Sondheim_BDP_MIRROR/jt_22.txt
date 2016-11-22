@@ -1,0 +1,111 @@
+
+
+Internet Course Outline, Computer Instruction Center:
+
+
+Alan Sondheim   1-718-857-3671   sondheim@panix.com
+( You can call me anytime, from noon until three in the morning. )
+
+Please note that the following is a _rough guide_ only:
+
+First week: Introduction to the Internet: quick history and demograph-
+ics. Who is on and why. Types of accounts: Commercial Services, ISPs -
+SLIP/PPP and shell. Web TV. Synchronous and Asynchronous applications..
+Brief description of the Web. Classroom demonstration of Netscape. Email
+introduction.. What do you want to use the Internet for?
+
+Second week: Email lists: Types, uses, how to describe. Unraveling In-
+ternet and URL addresses. Description of Netscape and other browsers.
+Transferring files on the Internet. Description of the World Wide Web.
+Gophers. Searching for email lists. Review.
+
+Third week: Detailed look at Netscape, configuration and uses. Helper
+applications, the mail and news windows. Telnet setup. Searching for
+information and for people.
+
+Fourth week: Shell account demonstration of Usenet Newsgroups. Newsgroup
+structure. Communities on the Internet: MOOs, MUDs, talkers, IRC, chat-
+rooms and the like. Communities on the World Wide Web. Searching for
+Newsgroups - What do you want to know?
+
+Fifth week: Web pages and Home pages. Search engines: Alta Vista, Lycos,
+Hotbot, Yahoo, etc. How to search for information on the Net. Sample
+searches. Boolean and other strategies. HTML: the basic language of the
+Web.
+
+Sixth week: The future: CuSeeMe, Iphone, Vdol, Xing, Pointcast, and other
+extensions of the Net. VRML Push technologies. ThePalace and other Web
+communities. Searches strategues continued. Copyright issues.
+
+Be prepared to take extensive notes. It would helpful for you to be as
+familiar with your own computer system as possible. I do want to mention
+that, as the course progresses, all of this will become familiar to you;
+don't worry if you don't get everything at first.
+
+These are some of the issues the class may consider, given the time:
+
+Seamless Virtual Reality
+Bandwidth Issues: Charging, Monopolizing
+Copyright: Intellectual Property Issues
+Flaming: Textual Violence, Image Violence
+Love, Sex, and Death on the Internet
+Cyber-relationships, in Real-Life
+On-Line Education and Socialization in Real Life
+Flexiwork, Telecommuting, Personal Use of Office Computers
+Health Issues: Effects of the Computer and Virtual Reality
+Lockout Issues: Children and Others away from the Keyboard
+Censorship and other regulations
+Filtering Information Actively: The World According to the User
+Hacking: Spamming, Syn Attacks, Break-ins, Email Viruses
+Special Populations: Queer, Rural, Disabled, Urban, Elderly, Children
+Sexual Harassment on the Internet
+Media Representations of Internet Culture
+Doing Business On-Line
+Art and Aesthetics of Cyberspace: Towards a New Art?
+
+http://www.access.digex.net/~ikind/babel95a.html     BABEL
+telnet://downwind.sprl.umich.edu:3000/     weather data
+http://www.lib.ncsu.edu/stacks/alex-index.html     Alex Texts Index
+http://www.msstate.edu/Fineart_Online/art-resources.html     FineArt Forum
+ftp://ftp.u.washington.edu/public/libellus/texts     Texts Directory
+http://www.spiders.com/cgi-bin/countdown     Countdown!
+http://www.si.edu/     Smithsonian Table of Contents
+telnet://archie.sura.net/     telnet archie.sura.net
+file://wuarchive.wustl.edu/     ftp wuarchive.wustl.edu
+file://archive.umich.edu/     ftp archive.umich.edu
+http://www.acs.oakland.edu/oak.html     ftp oak.oakland.edu
+ftp://garbo.uwasa.fi/     huge software directory
+http://edgar.stern.nyu.edu/      NYU EDGAR Development Site
+http://www.sec.gov/     SEC
+http://www.ciesin.org/IC/wbank/     Social Indicators of Development
+http://sunsite.unc.edu/lunarbin/worldpop     World Population
+http://www.prognet.com/     RealAudio Homepage
+http://www.IRsociety.com/wbs.html     Webchat Broadcasting System
+http://wings.buffalo.edu/epc/     Electronic Poetry Center Home Page
+http://www.dri.edu/     Desert Research Institute Home Page
+http://thelist.com/     THE LIST
+http://www.celestin.com/pocia/     ISP and other Commercial Access
+gopher://gopher.well.sf.ca.us/11/Community     Community
+http://catalog.com/vivian/interest-group-search.html   Search List of Lists
+http://www.thepalace.com/     Palace Home Page
+http://www.altavista.digital.com/     Alta Vista: Main Page
+http://www.lysator.liu.se/~zander/ewan.html   EWAN Telnet
+http://info.isoc.org/guest/zakon/Internet/History/HIT.html     Net History
+http://ifrit.web.aol.com/mld/development/index.html     AOL Email List Dir
+http://www.FreeSoft.org/Connected/     Connected: An Internet Encyclopedia
+http://www.sciam.com/WEB/index.html     Scientific American
+http://edit.my.yahoo.com/bin/login     My Yahoo! requires cookies
+http://www.angelfire.com/     Angelfire Communications
+http://goliath.wpine.com/cu-seeme.html     CU-SeeMe Home Page
+http://www.goliath.wpine.com/     White Pine Software
+http://www.connectix.com/     Connectix Corporation Home Page
+http://www.metahtml.com/apps/zippy/welcome.mhtml      Zippy meets Meta-HTML
+http://ouray.cudenver.edu/~lwcalver/index.html     Lee Calvert's Web Page
+http://www.igc.apc.org/millennium/inds/     State of the World
+http://ota.ox.ac.uk/     Oxford Text Archive
+http://www.isoc.org/internet-history/     A Brief History of the Internet
+http://www.webhistory.org/home.html     The World Wide Web History Project
+http://www.odci.gov/cia/publications/nsolo/wfb-all.htm     CIA Factbook
+http://www.jodi.org/     www.jodi.org
+
+

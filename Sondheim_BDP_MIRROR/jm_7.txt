@@ -1,0 +1,15 @@
+
+
+
+7843:6
+gis-gal gis-sak-kul gub-ba water-gate and bar are there (Langdon 4617)
+froth:ice:welkin:tern:sea:sure:7609:2:Jennifer:sea:froth
+bloomed:sleet:howling:galing:sky:yes:7664:5:Jennifer:sky:sleet
+frozen:tundra:sloped:permafrost:ground:okay:7680:3:Jennifer:ground:frozen
+roar:scream:cold:hail:naturally:7702:1:Jennifer:hail:cold
+rime:rimmed:caked:speared:thaw:of_course:7719:7:Jennifer:thaw:rimmed
+freighter:freighter:freighter:arc:true:7740:7:Jennifer:arc:freighter
+Jennifer:Jennifer:Jennifer:soleil:false:7816:5:freighter:soleil:Jennifer
+--------:--------:--------:--------:----::::::7843:6::::::----:--------
+
+

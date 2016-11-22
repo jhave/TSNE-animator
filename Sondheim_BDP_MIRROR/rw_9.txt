@@ -1,0 +1,79 @@
+
+
+With either Outline:
+
+
+Assignment: Choose 1:
+
+a. Set up a home page for yourself;
+b. Write a paper on a topic of your choice;
+c. Propose a project
+
+The assignment should be underway by the fifth class.
+
+
+
+
+Reading Materials:
+Howard Rheingold, The Virtual Community
+Sherry Turkle, Life on the Screen
+Peter Salus, Casting the Net
+Internet Cultures
+Cultures of Internet
+Sondheim, Alan, Being on Line
+
+1 The current state of the Internet. Who is using it, what is it, what
+are the services and applications associated with it? What are the 
+current demographics? 
+
+2 The future state of the Internet. Where is it going in the next few
+years? Will it be able to keep pace with the increasing number of users?
+How are demographics changing? Entertainment vs. information visions.
+The other visions of business and community: How do applications such as
+the World Wide Web determine what is possible on the Net? How is the
+user "configured" by these applications?
+
+3 Radio, television, film beginnings: What sorts of parallels can we draw?
+What similarities are there between contemporary computer communication 
+and short-wave radio or cb, for example? Also: Analog and digital media,
+and the relationship between the two.
+
+3 Synchronous and asynchronous applications. What constitutes a data-
+base? What audio and video modalities are becoming available and how do
+these affect the user? Many-to-many, one-to-one, one-to-many, many-to-one
+applications. What is the future of "virtual persona" or "avatars" on the
+Net?
+
+4 Issues of the body: reading through the text, hysteria, net.sex and
+the "ascii unconscious," postmodernism and the fragmented self. Sex, love,
+and death in cyberspace. Cyberspace relations and the nuclear family. 
+Internet marriages and relationships.
+
+5 Virtual subjectivity. Projections and introjections. "Reality" and the
+grain of the voice, death and rape in cyberspace. Hallucinatory person-
+alities, Net personalities. Various spaces in Cyberspace: MOOs, Usenet,
+email lists.
+
+6 Privacy, security, community, and confession on the Net. Groups and
+counter-groups. Alt.society.neutopia and the monster-truck neutopians. 
+Alt.angst, Walkers in Darkness, and other support newsgroups and email 
+lists. 
+
+7 Hacking, cracking, and the anarcho-libertarian aspects of the Net.
+Spamming. The changing demographics/cultures as a result of the World
+Wide Web. The future of the Web, chat-lines, and so forth.
+
+8 Community Organization: Forms of outreach. Freenets, Community Access 
+Points, conferencing tools and strategies. Kiosks, from government to 
+Siggraph.
+
+9 Strategies for research and organizing information and personal/formal 
+databanks. Search engines and Boolean searching. Web page information 
+structure and philosophy: access for all.
+
+10 Community organization, continued: Levels of entry into the Net. Models
+of Internet economic and cultural development. Practical and theoretical
+policy development. 
+
+10 Course overview.
+

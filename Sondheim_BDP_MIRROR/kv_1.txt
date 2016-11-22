@@ -1,0 +1,61 @@
+
+
+Jennifer Explosion From Relative Truth
+
+
+Ju60lu% cd /usr/dict
+Ju61lu% cat words | grep jen >> ~/zz
+Ju62lu% cat words | grep explos >> ~/zz
+Ju63lu% cat words | grep from >> ~/zz
+Ju64lu% cat words | grep relat >> ~/zz
+Ju65lu% cat words | grep truth >> ~/zz
+
+jenny
+
+explosion explosive
+
+from therefrom
+
+autocorrelate correlate relate steprelation
+
+truth truthful
+
+Ju69lu% cd /usr/dict
+Ju70lu% cat words | grep je >> ~/zz
+Ju71lu% cat words | grep expl >> ~/zz
+Ju72lu% cat words | grep fro >> ~/zz
+Ju73lu% cat words | grep rela >> ~/zz
+Ju74lu% cat words | grep tru >> ~/zz
+
+abject adject adjectival adjective bijection bijective conjectural
+conjecture deject eject ejector inject interject introject jealous
+jealousy jean jeep jejune jejunum jelly jellyfish jenny jeopard jeopardy
+jerk jerky jerry jersey jess jest jet jetliner jettison jewel jewelry
+majestic majesty object objectify objectivity objector objet project
+projectile projector reject rejecter Skopje subject subjectivity
+surjection surjective trajectory turbojet
+
+explain explanation explanatory expletive explicable explicate explicit
+explode exploit exploitation exploration exploratory explore explosion
+explosive inexplainable inexplicable inexplicit
+
+affront afro battlefront bullfrog confront confrontation defrock defrost
+fro frock frog frolic from front frontage frontal frontier frontiersman
+frontiersmen frost frostbite frostbitten frosty froth frothy frown frowzy
+froze frozen hoarfrost leapfrog riverfront saffron therefrom waterfront
+wavefront
+
+autocorrelate correlate Ireland Moreland relate relaxation relayed
+steprelation
+
+abstruse altruism altruist citrus construct constructible constructor
+construe destruct destructor Etruscan extrude extrusion extrusive Gertrude
+heterostructure indestructible infrastructure instruct instructor
+instrument instrumentation intrude intrusion intrusive macrostructure
+menstruate obstruct obstruent obtrude obtrusion obtrusive protrude
+protrusion protrusive rostrum spectrum stagestruck struck structural
+structure struggle strum strung strut tantrum truancy truant truce truck
+truculent trudge true truism truly trump trumpery trumpet truncate trundle
+trunk truss trust trustee trustful trustworthy truth truthful
+
+

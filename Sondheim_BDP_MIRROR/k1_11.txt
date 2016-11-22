@@ -1,0 +1,59 @@
+
+
+
+
+PRIMORDIAL MAIL
+
+
+{k:3} Mail -v sondheim@gol.com
+Subject: Endless Darkness of this Primordial Age
+Now in this darkest of all Years
+It is a life that brings me Fears
+Against Eternal Wheels Never Steered
+Past violent Faces and their Leers
+.
+EOT
+{k:4} sondheim@gol.com... Connecting to gol1.gol.com. via esmtp...
+
+
+{k:6} sondheim@gol.com... Connecting to wonderland.gol.ad.jp. via esmtp...
+c220 wonderland.gol.ad.jp ESMTP Sendmail 8.8.8/8.8.8/888-980120-P; Mon, 26
+Jan 1
+998 00:13:14 +0900 (JST)
+>>> EHLO panix3.panix.com
+at250-wonderland.gol.ad.jp Hello panix3.panix.com [198.7.0.4], pleased to
+meet y
+ou
+250-8BITMIME
+250-SIZE 1000000
+250-DSN
+250-ONEX
+250-ETRN
+250-XUSR
+250 HELP
+>>> MAIL From:<sondheim@panix.com> SIZE=209
+ z250 <sondheim@panix.com>... Sender ok
+>>> RCPT To:<sondheim@gol.com>
+ 250 <sondheim@gol.com>... Recipient ok
+>>> DATA
+354 Enter mail, end with "." on a line by itself
+>>> .
+250 AAA12170 Message accepted for delivery
+sondheim@gol.com... Sent (AAA12170 Message accepted for delivery)
+Closing connection to wonderland.gol.ad.jp.
+>>> QUIT
+221 wonderland.gol.ad.jp closing connection
+
+{k:16} mail -v sondheim@gol.com
+Subject: Darkness of Primordial Age
+Now alas the Darkness of the Primordial Age
+is Upon Us; I have brought an endless Rage
+against Dwelling-Place of Deity and Sage:
+it is this War enhanced that I will Wage.
+.
+Cc:
+sondheim@gol.com... Connecting to local...
+sondheim@gol.com... Sent
+{k:17}
+
+

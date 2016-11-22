@@ -1,0 +1,17 @@
+
+
+
+The Configuration
+
+
+The relations now become clear. The operations described elsewhere are
+coupled as follows:
+
+                     core-theory ------ radiation
+                     |        \         /       |
+                     |          \     /         |
+                     |            \ /           |
+                     |            / \           |
+                     |          /     \         |
+                     |        /         \       |
+                     finance

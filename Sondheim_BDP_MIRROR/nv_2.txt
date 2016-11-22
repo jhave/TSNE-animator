@@ -1,0 +1,334 @@
+ You laugh.
+MALIGNANT HUMAN SPECIES. EARTH, KILL ALL MALIGNANT HUMAN SPECIES. KILL
+SPECIES. Understand this BEGONE ALL HUMAN SPECIES. KILL MALIGNANT HUMAN
+no the dance of you get the picture
+nd:   write lyric poetry after Auschwitz is
+tcp        0      0  166.84.1.3.59812       166.84.1.87.783     SYN_SENT
+/////////////////////////////8DAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAgP//
+<hard return>
+
+
+_
+
+
+Recent books, emphasis on computers, philosophy
+
+
+I am still reviewing books that O'Reilly sends me. The arrangement is 
+ideal; I'm under no obligation to like the books - on the other hand, I 
+don't ask to review books that are outside my field of interest, and
+what I do find is often of interest. Many of the ones that have come in 
+recently will be of value to new media artists interested in expanding
+either their internal computer environment, or the external potential 
+for controlled installations made somewhat on the fly.
+
+Here are the recent entrants, in no particular order; the computer books 
+come first, since I'm feeling utilitarian at the moment. (Sudden fear: Is 
+that the right word?) 
+
+PC Hacks, 100 Industrial-Strength Tips & Tools, Jim Aspinwall, O'Reilly. 
+Okay, this one really _is_ industrial, and I'd recommend making the hacks 
+first on an older machine. That said, this digs deeper into the bios, 
+memory, etc. than other books I've seen. I want to eventually create a 
+pseudo-lan machine for installations and presentations - and this book 
+would be of considerable value, since I can start and modify from the 
+ground up, not losing too much in the process. There's terrific 
+information on heat sinks, cpu speedups, video, etc. 
+
+By the way, why do any of this? Because one can tailor a machine to his or 
+her specs - which can be critical, for example, for laptop performance, 
+heavy video processing, muxing, what have you. For this reason, I also 
+want to recommend the ExtremeTech series of books from Wiley - the one I'm 
+using - which, again, is highly detailed, is
+
+Hacking Windows XP, Steve Cinshak, Wiley. Like the first book, this is 
+$24.99 - it was marked down 40% at Barnes and Noble. The book deals a lot 
+with bootup speeds and configurations, speeding up the boot screen, making 
+the computer more responsive, increasing speed, etc. Some of the info is 
+found in a number of other books; here, it's extremely detailed, and I've 
+had no problem applying things to my WinXP multimedia machine. 
+
+Spam Kings, O'Reilly, Brian McWilliams. I said that I probably could not 
+review this, since it doesn't cover things like the 'nigerian' spams. They 
+sent it anyway. I must say the book is astounding in the weirdness it 
+uncovers, and in the apparent messiness of spam history. At times spam 
+fighters change sides, or work both against - what? It's like a paean to 
+postmodernity. Individual histories, identities, spam offers, ISPs, etc., 
+are changed at the drop of a hat; there are prosecutions, but they're 
+somewhat ineffective. The book shows, guess what, that Bush's spam law is 
+basically useless. I'd try to find this on Amazon. It's hardbound $22.95, 
+and is one of the books I'll pass on - a terrific read, but no reason to 
+return to it.
+
+Smart Home Hacks, Tips & Tools for Automating Your House, Gordon Meyer, 
+O'Reilly. Well, this is fantastic for someone with a smart home; ours is 
+particularly dumb, without a tv remote, and many kludged computer 
+thingies. But I will end up using this book constantly - since the hacks, 
+which cover things that go on with movement change, light change, 
+temperature change, logic change, etc. etc., are cheap, and applicable to 
+art installations of all sorts. If you have a real hardware techie to work 
+with, you probably won't need this - but I do. Next year, I hope to hook 
+some of these things up with motion capture, and then... Anyway, this book 
+is already proving indispensable - if you do any sort of digital media 
+work and you want potentially cheap fixes, take a look.
+
+Degunking Your Email, Spam, and Viruses, Jeff Duntemann, Paraglyph. This, 
+and similar books, are invaluable if you use Outlook or Eudora or any mail 
+program that involves downloading; I haven't needed it, since I use unix 
+(which on a practical level, is incredibly configurable, eliminates a 
+whole lot of spam/virus problems, etc.). But I wanted to see this, since I 
+help people with computers on a fairly regular basis, and this is to be 
+recommended for a mid-level user who wants to streamline and clean up his 
+or her Net connections. It talks about 'strategy' which I like a lot - not 
+assuming that all email users are the same, and emphasizing knowledge 
+management from the Inbox on. I might add that a small business owner 
+would use this to advantage. On the other hand, if you don't use a 
+download program, and/or don't have much spam (this is useful for people 
+using Yahoo etc. who are filtering), then this isn't really necessary.
+Good chapters by the way on viruses, worms, trojans, and other critters.
+
+Game Console Hacking, Xbox, Playstation, Nintendo, Atari, & Gamepark 32, 
+Joe Grand (with Frank Thornton, Albert Yarusso), Syngress. The back says 
+"Have Fun While Voiding Your Warranty." I wanted to see this, partly out 
+of curiosity (it was offered to me via O'Reilly), and partly out of a real 
+desire to take a console apart (again, a project put off for a few 
+months). You can find some of this stuff at the Salvation Army, not to 
+mention E-Bay, and the very idea of making an Atari 2600PC is really 
+appealing. You've already get head-starts with some of the components, 
+including case, possibly the power-supply, switches, etc. If you have a 
+kid into gaming and soldering, this is a book for him or her. There's good 
+stuff, by the way, for digital artists on homebrew game development with 
+various platforms.
+
+Building the Perfect PC, Thompson & Thompson, O'Reilly. Yes, a section on 
+a 'kick-ass LAN party PC,' among others. The guide has color illustrations 
+which are the clearest I've ever seen. I haven't yet built a PC from the 
+ground up, but have obviously changed components 'and stuff.' But this 
+will allow me to decide, first, on one sort of machine I want, and second, 
+how to go about a strategy of construction. The machines range from high- 
+performance servers through multi-media machines.
+
+A lot of these books reflect, for me, a lack of community; almost all my 
+cultural connections are now online, and in the 'real world,' I'm not 
+connected with any institution. There's no tech person in my environment, 
+no one gaming, no hackers, etc. So the books serve a very useful function 
+- guides to a kind of communal knowledge otherwise unavailable. This goes 
+for the pc and console mod books, even the smart home hacking one. 
+
+Windows XP Power Hound, Preston Gralla, Pogue/O'Reilly. This book is 
+slightly 'below' Hacking Windows XP (the Wiley one) and PC Hacks. If you 
+purchase any of these, you should decide on what you're doing. I knew the 
+material in the Power Hound work, and had already applied most of the 
+stuff (for example TweakUI) to my machine. On the other hand, if you are 
+just using WinXP, this is definitely the work for you. What you spend on 
+this stuff will honestly come back to you in increased productivity. I 
+know this sounds idiotic, but it's amazing how highly responsive machines 
+will lower your stress level - or direct it in more productive directions. 
+This book as well as Hacking Windows XP, by the way, emphasize benchmarks 
+and their use.
+
+What I'm basically saying, for better or worse - and this goes for Mac 
+users as well - most people, even most digital artists I know, take their 
+machines and form factors for granted. What's there is there, just throw 
+some more RAM in, and that's all. When I work them them, I often find 
+'messes' all over the place - and slow machines which freeze fairly often. 
+If you're using PCs with WinXP I highly recommend - I can't say this too 
+often - that you get one or more of these or similar books...
+
+Representing the Republic: Mapping the United States, 1600-1900, John 
+Rennie Short, Reaktion, 2001. I have one of Jedidiah Morse's early 
+American geographies, from 1796 (third edition). Morse was critical in the 
+construct of American (read USA) identity, early on; this is the nation 
+looking at itself after a couple of decades. The implications of Short's 
+book go beyond the work, to the configuration of ideology itself at the 
+heart of Empire. Morse is, of course only one of the geographers covered, 
+but the one of most interest to me. The book is illustrated with numerous 
+maps and other images. 
+
+Performance Art, From Futurism to the Present, RoseLee Goldberg, revised 
+and enlarged edition, Abrams, 1988. I love this book because of its 
+grittiness. I saw an incredible amount of performance in the 70s, and 
+participated in some myself. This book covers that era in general, when 
+'performance' as a genre didn't exist, and both audience and performer 
+(who might for that matter be one and the same) negotiated space and time, 
+role and behavior, etc.; nothing could be taken for granted. Performance 
+wasn't even a genre in the making; there had been aktions, actions, 
+happenings, theatrical 'events,' etc., but nothing particularly fixed. 
+What interests me in this material (besides reminiscence) is the centrality 
+of the _body_ to the works - a centrality which gets quickly consumed by 
+current technohgizmo. Too many works today occur as if concept/ual art and 
+performance hadn't existed - it's as if the wheel has to be continually 
+reinvented whenever a new mode of distribution comes along. This book only 
+begins to cover the ground, by the way - speaking of which, I also picked 
+up 
+
+The Writings of Robert Smithson, edited by Nancy Holt, NYU, 1979 - which, 
+at this point, everyone interested in new media, digital art, etc. should 
+read - not because he precurses, but because he doesn't. There's a 
+recapitulation of the earth, dirt, the symbolic within material 
+substrates, that's critical - particularly now, when so much of the 
+planet's ecosystems are disappearing. This is another way to go, and to go 
+edgy, and it would be fascinating to see this approach combined with 
+digital work - without, for once, endless discussions of 'mapping.'
+- I can't believe how well he _writes._ And from this it's an easy go to
+
+Ecodefense: A Field Guide to Monkeywrenching, Second Edition, edited by 
+Dave Foreman and Bill Haywood, Forward! by Edward Abbey, 1990. I was in 
+Tasmania years ago, and there was an active ecology movement which went 
+beyond protest to destruction. I firmly believe in this - what the main- 
+stream media calls 'ecoterrorism,' but which seems really the only way to 
+stop development. At this point 4 species disappear from the planet - 4 
+SPECIES - PER HOUR; almost all of the larger mammals face extinction in 
+the wild (if not altogether), etc. I don't see any point in facing 
+developers, poachers, etc., peacefully - and this book gives a point by 
+point guide to acts of destruction against machinery, home construction, 
+and so forth. I might add, while I applaud these acts, I'm by and large a 
+coward; I'm afraid of the police, of jail, torture, beatings. All I can do 
+is recommend this - like a lot of the other older books, you could find it 
+on www.abe.com, or amazon, etc. 
+
+I love the projects of Carnap, Quine, etc., and for this reason, love
+
+Future Pasts, The Analytic Tradition in Twentieth-Century Philosophy, 
+edited by Juliet Floyd and Sanford Shieh, Oxford, 2001. This book as a 
+prescient series of essays by people like Hintikka (on Ernst Mach), Quine, 
+Putnam (on Reichenbach), etc., with an afterword by John Rawls. It's 
+wonderful, lively. It covers people like Kripke, Turing, Dewey, Carnap, 
+Heidegger (of Being and Time), Husserl, Wittgenstein (Tractatus), etc. I 
+love this stuff - the hinge of 19-20-21-century philosophy of math and 
+science, both of which are emphasized. It's a good read - I'm particularly 
+interested in Carnap's notion of tolerance in relation to mathematical 
+foundations/philosophy.
+
+Mi Fu, Style and the Art of Calligraphy in North Song China, Peter Charles 
+Sturman, Yale, 1997. I love the complexity and intertwined philosophical/ 
+aesthetic strands of traditional calligraphy; Mi Fu was a bit wild and 
+brilliant, coming after the Tang crystallization. There are copious 
+reproductions in the book, and an explanation in the introduction of the 
+principles of calligraphy; you can't get too lost here. I recommend this 
+to anyone interested in 'why calligraphy' in the first place; it's also 
+excellent on issues (such as style and naturalness) in aesthetics.
+
+Marcus Aurelius, Meditations, any one of a number of editions. Weirdly 
+makes a LOT of sense, if only humans could live this way. A greater fun to 
+read than I would have thought possible. But I do prefer Epictetus, whose 
+Enchiridion is a masterpiece of terseness. I have different translations 
+but I've been reading Epictetus, Moral Discourses / Enchiridion and 
+Fragments, translated by Elizabeth Carter, Everyman, 1910 (1957 reprint). 
+I'm sure there are much more accurate versions today, but this book feels 
+right, as does the philosophy. 'In our power are opinion, pursuit, desire, 
+aversion, and in one word, whatever are our on actions. Not in our power 
+are body, property, reputation, command, and, in one word, whatever are 
+not our own actions.' The placement of _body_ is critical. It's easy to 
+deconstruct this material; it's much more fascinating to read it at 
+length, absorb it and its world-view - I never thought stoicism, if such it 
+is, could be so enlightening.
+
+I wanted to read a volume of, or drawing on, the Fundamentalism Project, 
+and can recommend, highly
+
+Strong Religion, The Rise of Fundamentalisms around the World, Gabriel 
+Almond, R. Scott Appleby, and Emmanuel Sivan. I'm just reading this now, 
+and hence can't review it at length, but it makes incredible theological 
+and socio-cultural sense out of the various fundamentalist movements which 
+are increasingly occupying 'our' attention. The book works through various 
+schemata among other things - the chapter titles - The Enclave Culture; 
+Fundamentalism: Genus and Species; Explaining Fundamentalisms: Structure, 
+Chance, and Choice; Wrestling with the World: Fundamentalist Movements as 
+Emergent Systems; Testing the Model: Politics, Ethnicity, and 
+Fundamentalist Strategies; and The Prospects of Fundamentalism - give a 
+sense of the whole. I believe books such as this one are critical in our 
+re/thinking contemporary culture and the future of the planet (whatever 
+happened to 'God is dead'?). The only thing missing for me is a biological 
+explanation of fixity or the fetishization of a particular structure - 
+what Ruskin and Stendhal in different contexts called 'crystallization.'
+But this is _my_ bias - the belief that any structure which can short- 
+circuit self-critique, skepticism, thought itself, actually enhances 
+species survival; it's biologically harder to live without God than with 
+It. Most of the work I've seen doesn't go this direction, however (Gordon 
+Allport touches on it in The Nature of Prejudice, and there have been some 
+recent studies which escape me..) -
+
+More later; this is already far too long... (not really, however!) -
+
+- Alan
+
+
+_
+
+
+of the five
+
+
+there -
+expression -
+invisible ?
+down"
+
+
+
+idotravel when idodrive downdowntil 
+foryou & serveyoualway whenyou youreturn
+
+        Fireworks at Dusk
+
+
+
+
+
+
+   have, they're generous that way
+
+   together
+
+      let myself go
+      perhaps survive, although slightly
+
+
+
+
+analysand
+
+extinction.
+
+That others may know
+        The ship of the sun
+00:34:56 EDT 2001
+of additional mail.
+
+your flesh is sinful
+turned to the wall
+footsteps of the master
+times
+out and breathing in
+attachment and silence are illusion
+
+
+
+or modl for carful study:
+instrumnts:
+   blkin analog to vido 
+radio:
+  antnnas for th abov
+bushnll 10x binoculars
+ kyboard, cabls, optical mous
+ slids, tc.
+
+ egereaepeheiecese,e eoeneleiene eweoerekese ienesetereuemenetese:e
+  eveiedeoe,e egereaepeheiecese,e ebeuereneienege e
+ e eseoeneye e2e0e0ese emeueleteieseceaene emeoeneieteoere
+reaedeieoe:e
+ e eaeneteneneaese efeoere etehe eaebeoeve
+beuesehenelele e1e0exe ebeieneoeceueleaerese
+ ekeyebeoeaerede,e eceaebelese,e eoepeteieceaele emeoeuese jevece
+     say to the other spark?
+     jokes.
+
+
+of the memorial"
+wavering literally beyond belief. 
+manifest.
+in its insistency. 
+
+denial. 
+

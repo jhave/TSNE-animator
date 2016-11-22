@@ -1,0 +1,216 @@
+
+
+
+
+Distributed Image of the Internet in - r* and similar commands:
+
+
+Clearly, at one point the imaginary of network distribution and function
+was based to some extent on considering telnet a universal protocol or
+protocol suite (in fact the World Wide Web is at telnet port 80), creating
+a group of r- (remote) commands as well, unifying both local and remote
+machines/hosts. There is rwho, rstat, rup, ruptime, rsh, rlogin, rdist,
+rcp, etc. The last is remote copy; rdist is for (usually) periodic dist-
+ributions of updated files; rlogin and rsh allow remote logins using files
+and bypassing passwords. These and others are demonstrated below.
+
+The image or vision, now remotely backgrounded, is that of a skein of
+nodes or sites, all of which are transparent to one another - almost down
+to the hardware. Finger is another important component here, since it
+displays or splays information concerning a particular user - what was
+once thought of as freedom, is now thought of as invasion of privacy,
+often across firewalls. Even now, however, you will find rusers still
+implemented on some systems, returning the current online users.
+
+(Note that intranets provide a shadowy parallel to all of this - but in-
+tranets exist in atmospheres of tight security, are corporate-driven, and,
+if anything, are the result of mistrust and exclusion. I like to think of
+the r-commands as looser, the result of at least a translucent net and a
+belief, related to hacker ethos, of the relative freedom of information.)
+
+Besides rlogin, with the proper .rhosts file, rsh still seems to work
+between panix3.panix.com and gol1.gol.com. rsh is a login from a local
+shell to a remote one.
+
+For any of the following, you may use the "man <command>" pages at the
+unix prompt; for other information, try "apropos <attribute>" at the same.
+Most of the demonstration below uses panix (US) and gol (Japan); a third
+site is murdoch (Australia). The output of "apropos remote" is appended.
+
+
+Here is rup - status of hosts:
+
+{k:7} rup cleo.murdoch.edu.au
+cleo.murdoch    up 39 days, 13:26,    load average: 0.08, 0.05, 0.05
+
+
+Here is rstat - from gol1.gol.com where it remains implemented:
+
+{k:1} rstat cleo.murdoch.edu.au
+  8:10am  up 39 days, 13:29, load average: 0.04 0.05 0.05
+
+ruptime and rwho work on all local machines (ruptime from gol1.gol.com):
+
+
+{k:1} ruptime
+alb1        down 137+15:50
+cheshirecat   up 243+23:03,     0 users,  load 1.14, 1.08, 1.00
+gol1          up 28+17:29,     2 users,  load 0.53, 0.84, 0.93
+gol4        down  1+06:30
+gol6          up 49+18:18,     0 users,  load 0.12, 0.27, 0.22
+gol7          up 69+18:05,     0 users,  load 0.14, 0.13, 0.14
+jdb1        down 137+15:49
+jr          down 137+15:50
+mx01          up 194+15:43,     0 users,  load 0.00, 0.00, 0.01
+mx02        down 47+14:43
+pproxy01    down 47+14:44
+pproxy02    down 47+14:44
+smtp01        up 194+15:42,     0 users,  load 0.06, 0.03, 0.03
+smtp02        up 194+15:44,     0 users,  load 0.01, 0.02, 0.03
+tweedledee    up 13+21:58,     0 users,  load 2.00, 2.00, 2.00
+tweedledum    up 91+16:32,     0 users,  load 2.06, 2.01, 2.00
+
+
+rwho:
+
+{k:1} rwho
+atsukoi  gol1:ttyq4 Jun  9 08:12 :02
+khris    gol1:ttyq2 Jun  9 07:56
+linds    gol1:ttyq5 Jun  9 08:14
+sondheim gol1:ttyp5 Jun  9 08:14
+
+
+rusers:
+
+{k:108} rusers apollo.sfsu.edu
+apollo.sfsu. abfong shalini kblack leon sjhenry melissa ndepper khudson
+icecrea m fielden lokit jenniseb yoyoko vmesta siskron jchung byteme
+alkeller anadeau c harnly mnielsen arbil desmata kuromif2 jshart donnalau
+inagaki smui pops jho ac abrera fbuenafe ireneqi ilum zt gmontem cpb
+gmontem rosset klohe ignaciof nhaya shi jrizzo bigal chaup mmerumo gab443
+jtzs sfesseha
+
+
+Then there is rdist:
+
+{k:21} rdist -f distfile
+gol1.gol.com: updating host gol1.gol.com
+gol1.gol.com: LOCAL ERROR: Unexpected input from server: "Host
+'gol1.gol.com' added to the ".list of known hosts.
+gol1.gol.com: updating of gol1.gol.com finished
+{k:25} rdist -f distfile
+gol.com: updating host gol.com
+gol.com: LOCAL ERROR: Unexpected input from server: "Host 
+'gol.com' added to the ".list of known hosts.
+gol.com: updating of gol.com finished
+
+After the addition of gol1.gol.com and gol.com to the .list of known
+hosts - neither command worked again. But the updating of files (which
+is the function of rdist) across the Net still functions.
+
+distfile:
+          HOSTS = ( sondheim@gol1.gol.com)
+
+          FILES = ( kj lynx_bookmarks.html thing )
+
+          ${FILES} -> ${HOSTS}
+
+                        notify sondheim;
+
+
+The .rhosts file is used for remote login, etc.:
+
+.rhosts file at gol1.gol.com:
+
+panix.com 	sondheim
+panix3.panix.com	sondheim
+
+
+Testing the systems:
+
+90 ls 91 pico distfile 92 rdist -f distfile 93 b 94 time rdist -f distfile
+95 ls 96 cat distfile >> zz 97 pico zz 98 gg 99 cat .rhosts >> zz 100 pico
+zz 101 b 102 m 103 b 104 ls 105 h >> zz 4 rstat cleo.murdoch.edu.au 5 g 6
+fg 7 ruptime 8 man ruptime 9 uptime 10 g 11 fg 12 g 13 fg 14 rlog 15 fg 16
+h >> z
+
+
+Apropos remote:
+
+.I nntplink (8) - transmit netnews articles to a remote NNTP server
+fsp_prof (5)		- file for fsp remote login data
+ident_lookup, ident_id, ident_free, id_open, id_close, id_query, id_parse,
+id_fileno (3N)  - query remote IDENT server
+innxmit (8)		- send Usenet articles to a remote NNTP server
+klogind (8)		- remote login server
+kshd (8)		- remote shell server
+nntpget (1)		- get Usenet articles from a remote NNTP server
+nntpsend (8)		- send Usenet articles to remote site
+passwd.nntp (5) - passwords for connecting to remote NNTP servers
+rdist (1)		- remote file distribution client program
+rdistd (8)		- remote file distribution server program
+scp (1)			- secure copy (remote file copy program) 
+ssh (1)			- secure shell client (remote login program) 
+ssh (1)			- secure shell client (remote login program) 
+telnet (1C) - user interface to a remote system using the TELNET protocol
+tn3270 (1)		- full-screen remote login to IBM VM/CMS
+uux (1)			- Remote command execution over UUCP
+adv (8) - advertise a directory for remote access with RFS
+auth_destroy, authnone_create, authunix_create, authunix_create_default
+(3N) - library routines for client side remote procedure call
+authentication
+authdes_create, authdes_getucred, get_myaddress, getnetname, host2netname,
+key_decryptsession, key_encryptsession, key_gendes, key_setsecret,
+netname2host, netname2user, user2netname (3N) - library routines for
+secure remote procedure calls
+cu (1C)			- connect to remote system
+fingerd, in.fingerd (8C)    - remote user information server
+hosts.equiv, .rhosts (5)    - trusted remote hosts and users
+mount (3R)		- keep track of remotely mounted filesystems
+netrc (5)		- file for ftp remote login data
+nlm_prot (3R) - protocol between local and remote network lock managers
+on (1C) - execute a command on a remote system, but with the local
+environment
+phones (5)		- remote host phone number data base
+rcmd, rresvport, ruserok (3N) - routines for returning a stream to a
+remote command
+rcp (1C)		- remote file copy
+rdate (8C)		- set system date from a remote host
+rdist (1)		- remote file distribution program
+remote (5)		- remote host description file
+rex (3R)		- remote execution protocol
+rexd, rpc.rexd (8C)	- RPC-based remote execution server
+rexec (3N)		- return stream to a remote command
+rexecd, in.rexecd (8C)	- remote execution server
+rfmaster (5)		- Remote File Sharing name server master file
+rfs, RFS (4)		- remote file sharing
+rfudaemon (8)		- Remote File Sharing daemon
+rlogin (1C)		- remote login
+rlogind, in.rlogind (8C)    - remote login server
+rmail (8C)		- handle remote mail received via uucp
+rmt (8C)		- remote magtape protocol module
+rmtab (5)		- remote mounted file system table
+rnusers, rusers (3R) - return information about users on remote machines
+rpc (3N)		- library routines for remote procedure calls
+rquota (3R)		- implement quotas on remote machines
+rquotad, rpc.rquotad (8C)   - remote quota server
+rsh (1C)		- remote shell
+rshd, in.rshd (8C)	- remote shell server
+rstat (3R)		- get performance data from remote kernel
+rtime (3N)		- get remote time
+rwall (3R)		- write to specified remote machines
+showmount (8)		- show all remote mounts
+svcerr_auth, svcerr_decode, svcerr_noproc, svcerr_noprog, svcerr_progvers,
+svcerr_systemerr, svcerr_weakauth (3N) - library routines for server side
+remote procedure call errors
+telnet (1C) - user interface to a remote system using the TELNET protocol
+tip (1C)		- connect to remote system
+unadv (8)		- unadvertise a Remote File Sharing resource
+uusend (1C)		- send a file to a remote host
+uux (1C)		- remote system command execution
+uuxqt (8C)		- execute remote command requests
+xdr_accepted_reply, xdr_authunix_parms, xdr_callhdr, xdr_callmsg,
+xdr_opaque_auth, xdr_rejected_reply, xdr_replymsg (3N) - XDR library
+routines for remote procedure calls
+
+

@@ -1,0 +1,51 @@
+
+
+
+
+Hacking Breakdown
+
+
+The recent hack into the Panix ISP consisted of a flood of spoofed email
+addresses sent to the server; requests for acknowledgement were never re-
+turned. This attack is similar to flooding a telephone switchboard, or
+blocking the doors to an office; its illegality is questionable, since
+nothing was internally violated - i.e. private property was never in ques-
+tion. The use of spoofed addresses may constitute a form of counterfeit-
+ing, however.
+
+This is _external,_ against the doors or firewalls of an ISP. An _inter-
+nal_ attack is potentially more serious; the office-space is broken into,
+files examined, taken, redistributed. The break-in can occur from within
+or without; in any case, it's a violation against the person, given pro-
+perty rights. 
+
+Viruses and worms are other forms of internal hacking; they don't nece-
+ssarily corrupt or examine particular files, but flood, take over the
+controls. In this sense, they're somewhat external - they're not stealing
+data, but prohibiting its access. But they're also internal, since they're
+doing it within other files or portions of the machines under attack.
+
+On the other hand, there are viruses that rewrite files, disks, overrun
+everything; these are destructive of intellectual property, and a viola-
+tion against the person. (See Fah-Chun Cheong, Internet Agents - Spiders,
+Wanderers, Brokers, and Bots.) 
+
+Another internal hack rewrites software towards self-destruct; fork-bombs
+on MOOs are an example of this, as are, perhaps, the old ASCII-bombs in
+email (now disabled).
+
+A third form of hacking is borderline, and occurs _within_ software, with-
+out damaging it. I would put Wizard snooping and IRC flooding here. This
+form quickly takes on game-like aspects at times; on IRC, users throw one
+another off channels. (See volt.irc or venom.irc software.)
+
+A fourth form of hacking attacks the physical Net itself, tapping into
+phone and fiber optic cables, parasitically latching onto microwave tran-
+smissions, etc. And other forms would be further and further withdrawn
+from the intricacies of the Net itself, working on the configurations of
+telecommunications as a whole.
+
+This taxonomy, such as it is, could be extended in any number of direc-
+tions; any help would be appreciated.
+
+

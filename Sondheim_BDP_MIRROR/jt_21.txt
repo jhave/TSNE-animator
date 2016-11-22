@@ -1,0 +1,34 @@
+
+
+
+
+
+
+Syntactics/Semantics
+
+
+As the Net develops, the Internet courses taught at the Computer Instruc-
+tion Center at the New School also change. And one of the deeper changes
+is a movement towards _semantics_ - towards content - and away from the
+syntactic strategies previously necessary for basic applications. It's no
+longer important to teach the intricacies of ftp mailbox configuration,
+tcp/ip stack setup, etc. Instead, one can concentrate on content - search
+strategies, managing knowledge, etc. Push technology, active filtering,
+intelligent agents, are all steps in this direction - but these are rela-
+tively self-evident in terms of usage. So the teaching itself evolves to
+cover specific searches, issues (censorship, screening, bandwidth, flat
+rate, etc.), favorite push and outboard applications, and research.
+
+These changes parallel the movement from, say, archie and WAIS towards
+HTML itself, originally formatted as _semantic markup._ Only now, within
+the past year or so, are design elements deeply incorporated within HTML
+3.2. In the class, I give the basic structure of HTML - simply to demon-
+strate the flow, impediments, and organization of text around any object
+or browser.
+
+In the future, the courses will simplify still further on the technical
+side, and, hopefully, search strategies, useful sites and applications,
+and the overall _image_ of networking will become the main focus.
+
+In any case, I'm sending along the course outline below, as symptomatic.
+

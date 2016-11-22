@@ -1,0 +1,8 @@
+=
+
+
+Here's part of a text using the same perl program above, as well as some 
+other substitution mechanisms, to create a work that looks like it's 
+erasing itself:
+
+

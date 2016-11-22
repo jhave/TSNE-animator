@@ -1,0 +1,48 @@
+
+
+
+Totality
+
+
+Normalization is a procedure often used in mathematics and physics, set-
+ting a physical constant to 1, in order to simplify calculations, and re-
+veal the architecture of the theoretical constructions at work. I suggest
+that normalization is also a metaphor for the production of totality and
+that further, one might consider a process of _absorption_ (not unlike a
+strange attractor), with Z such that f(Z,x) = Z, an example being multi-
+plication by 0, resulting in 0 * x = 0. 
+
+Both normalization and absorption may be combined, setting the constant Z
+to 1, and creating a function f(Z,x) = Z, an example being 1 ^ x = 1. All
+of these are of course many-to-one operations, and the one-to-many inverse
+is fairly indeterminate. Now consider totality, further, as a many-to-one
+operation or absorption, creating a symbolic fixity or token; let us con-
+sider the sign U, from set theory, representing the universe of discourse
+within a particular implementation.
+
+It is not U, on a formal level, that is of interest here, but U from a
+psychoanalytical viewpoint, that is, seized by the subject as an object of
+fetishization, an _answer,_ to a question which has not been asked, and
+which, in fact, is one of many questions, given a one-to-many mapping -
+thus the question can be produced by the subject (in a state of seizure)
+as a seizure of the object or Thing, which is also the totality that ap-
+pears in depression.
+
+Within cyberspace, such an object is also dispersed or partial, and one
+might consider dispersed objects or interrelated dispersions, all in a
+state of _frisson,_ trembling in relation to the subject, within an econ-
+omy of inscription, competing inscriptions. On one hand, then, the pro-
+cess of normalization, which is related _naturally_ to the TCP/IP proto-
+col suite, HTML and other standards, and so forth; and, on the other hand,
+the processes of absorption, _now_ skittering across the surface or lamin-
+ar construct of the World Wide Web or IRC channels.
+
+Finally, I would like to suggest that all knowledge is a _work_ construc-
+ted of normalization / absorption, and exfoliation / emission -  that all
+knowledge therefore involves deep misrecognitions, splitting and suturing,
+_as if_ there were totality (related to the maternal chora, pre-oedipal,
+pre-mirror-stage sensings and worldings of the real), _as if_ knowledge
+were a path back into that totality, and _as if_ there were a path in the
+first place.
+
+

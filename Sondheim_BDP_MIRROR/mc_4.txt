@@ -1,0 +1,136 @@
+
+
+
+Subject: lacuna
+
+
+
+
+18days, LOGIN@ Thu08AM 3:15AM 2:21AM Wed07PM 2:23AM 1:54AM Tue06PM Thu06AM
+Fri05AM 2:47AM 18Sep01 Fri05AM Thu10PM Mon07AM 18Sep01 Wed09AM Wed06PM
+Thu08PM Thu07AM Thu12AM Mon07AM 12:00AM Thu08PM Thu07AM 14Sep01 Thu09PM
+Thu07PM 12:57AM 12:30AM Tue07PM 1:01AM Thu09PM Tue04PM Mon05PM 1:02AM
+Thu11PM 1:34AM Thu12PM Thu05PM Wed11PM 15Sep01 Thu09PM Wed07PM 1:17AM
+Thu10PM Thu08PM Mon09AM Thu09PM Thu07PM Mon09AM Thu04PM Thu05PM Wed09AM
+Thu10PM Tue06PM Fri06PM Thu05PM Tue01PM Tue02PM 18nights,
+
+w | awk '{ print $4 }' >> zz; ksh: j_waitj: tcsetpgrp(10, 27543) failed: 
+Inappropriate ioctl for device
+
+
+==
+
+
+
+                                                 they're all going
+                                             inside
+                                             the result of chaos, and
+                                             any conceivable order? it's
+                                             words become cliffs, out of
+                                             period, does it matter, as
+                                             did i say that, add the
+                                         end of your shortened life
+                                         here, you will regret it to the
+                                         whatever you do, don't ever come
+                                         these words begin to crash.
+                                         time. now looking around, even
+                                         and the ravagings of 
+                                         ly, driven by the forces of
+                                         the edge of the page, slowly but
+                                 history ext flees the margin and oozes
+                                 inexorab in these dark times
+                                 against to write, and what does it matter
+                                 as the tin - everyone can tell - to lose
+                              in any caseoesn't show too much
+   my ability ey were covering a wound, hoping
+i wanted again to write something terrific
+  and embed it in an image of someone in great pain
+      it went on like that, you can only imagine
+         what happened was nothing because i'm that someone
+              with no excuse, nothing has happened to me, nothing ever
+              does
+              because there are holes in too much thinking so i'm trying
+              to organize this properly as an image of alignment
+                 losing myself in alignment as the algorithm breaks down
+                        inside i'm screaming all the time, i don't know
+                        what i'm doing here, whatever it is, i'm not doing
+                        it very well
+                           so the best thing is to make patterns, sew the
+                           words as if they were covering a wound, hoping
+                           my emptiness doesn't show too much
+                              while i begin - everyone can tell - to lose
+                              my ability to write, and what does it matter
+                              in any case in these dark times
+                                 as the text flees the margin and oozes
+                                 against the edge of the page, slowly but
+                                 inexorably, driven by the forces of
+                                 history and the ravagings of 
+                                         time. now looking around, even
+                                         these words begin to crash.
+                                         whatever you do, don't ever come
+                                         here, you will regret it to the
+                                         end of your shortened life
+                                             did i say that, add the
+                                             period, does it matter, as
+                                             words become cliffs, out of
+                                             any conceivable order? it's
+                                             the result of chaos, and
+                                             inside
+                                             everything disappears, into
+                                             bad design and literature
+                                                 they're going now,
+                                                 they're all going
+
+
+
+
+                                                         g/^/mo0
+
+
+nothing i do will change your mind, the letter comes in through your mail 
+slot, it enters your inbox, you see alan there, you see sondheim there, 
+you can't delete fast enough, no matter how innovative, intelligent, you 
+can't see what
+
+i'm a nuisance, i get in the way, i take up too much space, i write too 
+much, my writing is meaningless, it's not real literature, it's not real 
+philosophy, not poetry, it's not real anything, it shouldn't be taken 
+seriously, it shouldn't be reproduced, it just goes on and on, there's 
+far more of it than there should be, it's close to garbage
+
+it clutters the inbox, it's an ugly name, it gets in the way, alan doesn't
+write by the rules, sondheim's obnoxious, his thought's idiotic, he plays
+too many mind-games, this is just a mind-game, he wants too much, he
+whines too much, he thinks he's a victim, his readers are victims
+
+he enters your inbox, he enters your mail slot, he wants to enter your
+mind, he wants to enter your holes, his work is filthy, he doesn't know
+when to stop, you can't take him seriously, you have to hit the kill key,
+you don't have to read past the name, don't even write him, he'll just 
+write you back
+
+my work is disgusting, nothing i do will make the slightest difference, 
+you'll never publish it, you'll never write about it, you'll just keep it 
+dead, there's so much of it, you'll see something sooner or later, i can't 
+help that, i'm too obsessive, you'll never like it, you'll never do 
+anything with it, sondheim's far too bitter, his name is so ugly, he's far 
+too arrogant, he's a thief, he's a liar
+
+unoriginal garbage, i can't continue forever, i can't make sense, nothing 
+i do will make any sense to you, my work's only lurid, it's only about 
+sex, it's only about violence, it's too easy to do, you can't read a word 
+of it, it's stolen from everyone, it's poisoning newsgroups, it's a 
+nuisance on email lists, it's nothing but junk mail, it's nothing but spam
+
+it doesn't matter what i do or how i do it, it doesn't matter how stupid i
+am, i'm too self-hating, it doesn't matter how creative the work is, i
+could scream at the gates, i'm too old to be original, i don't act my age,
+i haven't paid my dues, i just complain and complain, i just go on and on,
+nothing i do will change your mind, it comes in your inbox, it comes in
+your holes, it's far too creepy, you see alan there, you see sondheim
+there, it goes on and on,
+
+he's just a fake, his politics are fake, it makes no difference what i
+
+
+

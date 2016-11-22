@@ -1,0 +1,85 @@
+
+
+(For Australian creative writing magazine, 5/4/2001)
+
+
+Writing Online                                            Alan Sondheim
+
+
+
+I'm not sure how to title this. I write online, teach online, conference 
+online, and even do a bit of governance - I run a number of email lists, 
+which presents all sorts of issues. But here I want to deal with my 
+writing, my texts, which I send out to several email lists, several times 
+daily. In order to do this, I work constantly - a lot of the time I use 
+online environments and tools for my work.
+
+You can find my work at http://www2.sva.edu/~alans/index.html - and if you
+go there, then look at all of the text files, particiularly the ones with
+names like ab, ac, lm, ln, lo, etc. Each of these is a long file contain-
+ing a great number of texts; the texts are found in the order I write 
+them. This will give you an idea of my "standard" writing.
+
+Now go to http://www2.sva.edu/~alans/in.htm - this is something quite dif- 
+ferent! Here is my web page scribbled on - it's a real mess, as if someone 
+hacked into my site and destroyed it. But this is deliberate, and an exam- 
+ple of what I do - which often involves a kind of "interference."
+
+For this second site (at almost the same address), I used a Web browser
+called Amaya. You can download Amaya from the Internet - it's an experi-
+mental browser used by the World Wide Web consortium (those people who 
+basically decide the standards that govern Web pages and servers) to text 
+html and other online codes. It's unique because you can mess up whatever 
+page you're looking at - and then download it, or if it's your own page, 
+you can put it back. This felt joyful - the ability to scribble directly 
+on my own page! So I did that, made a second page (using in.html instead 
+of index.html) and put it back in the directory.
+
+So what's the purpose? Other than making a new text, it created quite a 
+disturbance - as if a clean and proper web page were taken over by someone 
+else and reused. And I wanted to do this - make it look as if somehow my 
+work was "torn" or hacked into - as if it were a body that was taken over 
+by someone else - as if someone else were speaking through my body. And, 
+judging by the responses I got, people in fact did think that someone else 
+had gone to the site and taken it over.
+
+Another example of this kind of thing is a project I designed for the 
+trAce online writing group. It's the "Lost Project." I was the online 
+writer-in-residence for trAce for six months, and I first did a piece 
+where I roamed all across the trAce bulletin board - went into all the 
+different conferences - as if I had lost something, and might find it 
+there. (Go to http://hum-webboard.ntu.ac.uk/~trace/login to see the 
+webboard here.) This was interesting to me - writing a piece which was 
+scattered across a whole lot of different sites. Someone would have to go 
+to all of them to see what I was doing.
+
+After this, I thought more about losing things, and decided I wanted a 
+site where people could go and describe anything or anyone they had lost. 
+But I changed this in several ways - I made (with the aid of Simon Mills, 
+an excellent programmer) a webpage which "shuddered" and looked as if it 
+were falling apart - it made it difficult to enter anything into the form. 
+I then had it made that, after you clicked "submit," you'd be taken to a 
+fake error page - as if you'd make a mistake. The idea was that you would 
+already be feeling that you had "lost" your writing and description as 
+well. If you clicked on the fake error page, it would take you to a list 
+of everything that anyone had lost - including your own submission.
+
+On the first page, you're asked to give your name and email address as 
+well - but when you go to the list of things lost, your name and email 
+address aren't there - they're also lost. You have to click on a name/ 
+address page - and you'll find a list of all the participants, without 
+their descriptions.
+
+The best way to think about this is to look at the page itself - at 
+http://trace.ntu.ac.uk/lost/ Enter some information and see what happens.
+
+All of these projects involve webpages and thinking about the web. But 
+there are a lot of other ways to work - for example, a simple thing to do 
+is use letter substitution. In the operating systems I use - unix and 
+linux - there is a command, "sed," that allows a great deal of sophistica- 
+ted substitution - you can even write programs "in sed." But you can also 
+do substitution in any word processing program.
+
+For example:
+
+

@@ -1,0 +1,57 @@
+
+
+
+
+[  ...HEY!!!!! This message comes from sondheim (Alan Sondheim)...
+hello .
+]
+[  ...HEY!!!!! This message comes from 
+<This Broadcast-message is being sent to all users currently logged-in>
+The net connection has returned.
+]
+[  ...HEY!!!!! This message comes from 
+<This Broadcast-message is being sent to all users currently logged-in>
+At 4AM exactly, all terminal servers will reboot again to fix a major
+problem with the new software release. Sorry about this unexpected downtime,
+but the alternative is to have no SLIP or PPP connections. :-(
+]
+[  ...HEY!!!!! This message comes from 
+Sorry.  Didn't mean to "Yo" you.
+]
+[  ...HEY!!!!! This message comes from 
+Please log out. We're moving disks on panix3, which is why it's not
+letting people in now. it should be back in  about 30 minutes.
+]
+[  ...HEY!!!!! This message comes from 
+Alan, I ^H^H^H^H^H^H am a new panix user.  You know me as
+]
+[  ...HEY!!!!! This message comes from
+Alan, I am being denied permission to respond.
+]
+[  ...HEY!!!!! This message comes from 
+I'm working  on your problem, may I look at your mailspool?
+]
+[  ...HEY!!!!! This message comes from
+Alan, this is     . I'm in Brooklyn, can you talk?
+]
+[  ...HEY!!!!! This message comes from 
+Pardon me for interrupting, but are you the Alan Sondheim on the Poetics
+out of Buffalo? 
+]
+[  ...HEY!!!!! This message comes from
+<This Broadcast-message is being sent to all users currently logged-in>
+could whoever is trying to read news in alt.* please abort your reader?
+]
+[  ...HEY!!!!! This message comes from 
+<This Broadcast-message is being sent to all users currently logged-in>
+thanks
+]
+[  ...HEY!!!!! This message comes from 
+<This Broadcast-message is being sent to all users currently logged-in>
+Panix3 will be going down in about 15 minutes to fix the mounts.
+]
+[  ...HEY!!!!! This message comes from
+<This Broadcast-message is being sent to all users currently logged-in>
+disaster averted, shutdown not needed.
+]
+

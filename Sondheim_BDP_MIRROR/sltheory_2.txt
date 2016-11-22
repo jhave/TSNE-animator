@@ -1,0 +1,10 @@
+
+
+The object 'Second Life' has sent you a message from Second Life:
+Your object 'miasma' has been returned to your inventory lost and found
+folder from parcel 'Odyssey_ExhibitA_Gallery_zone1' at Odyssey 32.0955,
+-1.16293 because it went off-world.
+
+ = Second Life is owned by (unknown)
+ = Location unknown.
+

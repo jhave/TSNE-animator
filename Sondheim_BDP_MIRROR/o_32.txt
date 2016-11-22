@@ -1,0 +1,40 @@
+
+
+
+
+
+
+Useless Biography
+
+
+My Compaq Aero 486/25 began registering a video rom i/o error #101; today
+I called the company after running diagnostics which indicated a serious
+fault in the rom itself, not the setup configuration. The system board has
+to be replaced. On the AST Bravo 4/33 I get video errors in the AW5vga.drv
+and qtrle.qtc files over and over again; the SVGA monitor connects at only
+16 colors indicating the alpha.exe file for Alphaworld won't run, the AVI
+PRO won't run, the Quicktime (QT) for Windows won't run, and Xing runs in
+16 colors although Xingstream had some difficulties. I downloaded Netscape
+20b3 on top of Netscape 1.1 which worked and finally could get Xingstream
+to produce images; it was Finland, not me, that was down. On the Aero I
+downloaded winsock.dll from AOL to test and it's true; with a Ewan telnet
+client I also downloaded I could telnet to Panix. But the connect was too
+slow and stuttered; I wrote Daniel at AOL who agreed; it had to do with
+the configuration of the winsock. I also ran Netscape 1.1 through it to
+see if it would work, and it ran immediately. I then transferred Anzio-
+lite, another telnet client, from the AST and could run that also from AOL
+- in short anything, but slow. Back on the AST I tried to contact someone,
+anyone, on POWWOW, no luck; I used Globalchat to listen to some channels,
+empty as usual. Now I'm back on PCPLUS which is still the best way to con-
+nect to the Net, through the korn shell on Panix running fast and smooth.
+I have been learning the listserv commands and writing in my spare time,
+listening to Lauren Hutton at the moment. I think everyone should read the
+current issue of Scanning the Future 21/C, issue 3/95, which has R.U. Sir-
+ius on Mondo/Wired, Kathy Acker, the Visible Human Project, Andrew Ross,
+Frank Tipler, and Mike Davis, as well as Mark Dery and SRL (Survival Rese-
+arch Laboratories/Mark Pauline); this, my writing, and Balzac are keeping
+me busy. Today I found the first issue of Miles Davis Sketches of Spain. 
+I've got to get Alphaworld running but should probably give up. I'm going
+to shoot some film. 
+
+

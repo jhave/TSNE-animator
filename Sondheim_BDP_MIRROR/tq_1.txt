@@ -1,0 +1,435 @@
+
+Category
+
+http://www.alansondheim.org/category3.png
+http://www.alansondheim.org/category.mp4
+http://www.alansondheim.org/category1.png
+http://www.alansondheim.org/category2.png
+http://www.alansondheim.org/category4.png
+http://www.alansondheim.org/category5.png
+http://www.alansondheim.org/category6.png
+http://www.alansondheim.org/category7.png
+http://www.alansondheim.org/category8.png
+http://www.alansondheim.org/category9.png
+$ ytalk sondheim@panix.com
+>[1] + Stopped              ytalk sondheim@panix.com 
+[20B[1] + Stopped              ytalk sondheim@panix.com 
+$ ytalk sondheim@panix3.panix.com
+[22B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix.com
+[19B[3] + Stopped              ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[16B[3] + Stopped              ytalk sondheim@panix.com 
+$ fg ytalk sondheim@panix.com
+/usr/local/bin/ksh: fg: ytalk: argument must be %job or process 
+id
+ytalk sondheim@panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+[4C0:00.00 ytalk sondheim@panix.com (ytalk-3.3.0)
+[4C0:00.01 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+[4C0:00.02 ytalk sondheim@panix.com (ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[36D#  ytalk_user: bad ytalk contact   #
+>[1] + Stopped              ytalk sondheim@panix.com 
+[20B[1] + Stopped              ytalk sondheim@panix.com 
+$ ytalk sondheim@panix3.panix.com
+[22B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix.com
+[19B[3] + Stopped              ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[16B[3] + Stopped              ytalk sondheim@panix.com 
+$ fg ytalk sondheim@panix.com
+/usr/local/bin/ksh: fg: ytalk: argument must be %job or process 
+id
+ytalk sondheim@panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+[4C0:00.00 ytalk sondheim@panix.com (ytalk-3.3.0)
+[4C0:00.01 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+[4C0:00.02 ytalk sondheim@panix.com (ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[36D#  ytalk_user: bad ytalk contact   #
+alias clara="ytalk clara@gol1.gol.com"
+alias clar="ytalk clara@gol.com"
+alias trevor="ytalk trevor@sfsu.edu"
+>[1] + Stopped              ytalk sondheim@panix.com 
+[20B[1] + Stopped              ytalk sondheim@panix.com 
+$ ytalk sondheim@panix3.panix.com
+[22B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix.com
+[19B[3] + Stopped              ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[16B[3] + Stopped              ytalk sondheim@panix.com 
+$ fg ytalk sondheim@panix.com
+/usr/local/bin/ksh: fg: ytalk: argument must be %job or process 
+id
+ytalk sondheim@panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+[16B[2] + Stopped              ytalk sondheim@panix3.panix.com 
+[4C0:00.00 ytalk sondheim@panix.com (ytalk-3.3.0)
+[4C0:00.01 ytalk sondheim@panix3.panix.com (ytalk-3.3.0)
+[4C0:00.02 ytalk sondheim@panix.com (ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix.com 
+ytalk sondheim@panix.com 
+[36D#  ytalk_user: bad ytalk contact   #
+$ ytalk jennifer
+[1] + Stopped              ytalk sondheim@panix3.panix.com 
+15644 ttyq1 T 0:00.00 ytalk sondheim@panix3.panix.com 
+(ytalk-3.3.0)
+ 2531 ttyr7 T 0:00.00 ytalk sondheim@panix3.panix.com 
+(ytalk-3.3.0)
+ 3438 ttyr7 T 0:00.00 ytalk sondheim@panix3.panix.com 
+(ytalk-3.3.0)
+ytalk sondheim@panix3.panix.com 
+>[1] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix3.panix.com
+>[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>$ ytalk sondheim@panix3.panix.com
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>[1] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix3.panix.com
+>[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>$ ytalk sondheim@panix3.panix.com
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+>[2] + Stopped              ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+ytalk sondheim@panix3.panix.com 
+wetwares worlding wryting www yamabushi ytalk
+^ytalkrc ^trn ^ytalkrc ^ytalkrc ^two Mail ^ytalkrc ^xtod News 
+^ytalkrc
+$ ytalk sondheim@panix.com
+$ ytalk sondheim@panix.com
+$ ytalk sondheim@panix.com
+Oct 20 1998 .xtod -rw------- 1 sondheim users 91 May 21 2006 
+.ytalkrc
+k7% ytalk sondheim
+ytalk garcia
+$ ytalk sondheim
+k7% ytalk sondheim
+    -   Powwow (multiple ytalk, audio)
+            The ytalk place
+It covers talk, but not ntalk or ytalk.
+               ytalk divisions
+                First person (ytalk, Iphone, CuSeeMe)
+            The ytalk place
+Ytalk
+Ytalk - Past 
+Ytalk - l.txt
+Ytalk - n.txt
+   Talk, Ntalk (Bigendian/Littlendian), Ytalk
+[36D#           Ytalk Error            #
+[36D#           Ytalk Error            #
+Nikuko on Ytalk
+	i Ytalk
+Ytalk - Past 
+Ytalk - l.txt
+Ytalk - n.txt
+                     #            Ytalk Error            #
+                     #            Ytalk Error            #
+Talk Between Jennifer and Nikuko on Ytalk Ending in Anger
+[36D#           Ytalk Error            #
+[13CYtalk Error
+[13CYtalk Error
+Ytalk - Past 
+Ytalk - l.txt
+Ytalk - n.txt
+K # Ytalk Error #
+####################################### # Ytalk Error # r r # # 
+Talk Between Jennifer and Nikuko on Ytalk Ending in Anger
+   Talk, Ntalk (Bigendian/Littlendian), Ytalk
+    -   Ytalk (Unixtalk)
+wrong with you, too much fleshmeat? Get real! Ytalk me a little! 
+I'm all
+?   ?   ?   ?       YTALKRC
+?   ?   ?       YTALKRC
+|   |   |       YTALKRC
+|   |   |       YTALKRC
+
+
+
+For Holiday Cheer and a Better Year Ahead!
+
+inspired by Alfonso X, el Sabio's Cantigas de Santa Maria
+
+http://www.alansondheim.org/ourlights.jpg 
+http://www.alansondheim.org/holydays.mp3 di Giorgio guitar
+
+
+
+hallows
+
+http://www.alansondheim.org/hallows.png
+http://www.alansondheim.org/hallows.mp3
+from the cathedral
+
+fallowed birches hallowed while life is never hallowed
+life is never hallowed, signs are born from sorrow,
+foaming ride on the surface, unfolding hallowed shallows,
+something in the depths, something hardened, hallowed,
+
+we consider hallowed. est chanting of the earth resonates 
+hallowed in the farther/est reaches of to the anode; the vacuum 
+life is a hallowed-hollowed life. In groping the sky, silent 
+burial in hallowed ground life is never hallowed. signs are born 
+from sorrow. something far below, is it something hallowed by 
+tradition and violent trailing down from mangrove, wounded 
+dragonfly carried to safe repeating sometime when thy are very 
+happy on th othr repeating on halloween but sometime when thy 
+are very happy on th othr trailing down from mangrove, wounded 
+halloween dragonfly carried to safe trailing down from mangrove, 
+cavern of hallowed twisty passages, churinga markings - heading 
+there, the S was lost or hallowed ground life is never hallowed, 
+signs are born from sorrow, foaming ride on the surface, 
+unfolding hallowed shallows, something in the depths, something 
+hardened, hallowed,
+
+life&SPis&SPnever&SPhallowed
+
+
+
+
+Chanterelle of Marvelous Prosceniums
+
+
+http://www.alansondheim.org/chanterelle9.jpg
+http://www.alansondheim.org/chanterelle.mp4
+http://www.alansondheim.org/chanterelle1.jpg
+http://www.alansondheim.org/chanterelle2.jpg
+http://www.alansondheim.org/chanterelle3.jpg
+http://www.alansondheim.org/chanterelle4.jpg
+http://www.alansondheim.org/chanterelle5.jpg
+http://www.alansondheim.org/chanterelle6.jpg
+http://www.alansondheim.org/chanterelle7.jpg
+http://www.alansondheim.org/chanterelle8.jpg
+
+Chanterelle, I come up empty. This is about the empty and the 
+fool. This is a glance to the left opens up empty screen on the 
+left, the message search for ide devices and coming up empty 
+empty. so the machine so far turned up empty. more outlining on 
+a talk about net-sex coming up empty - embodiment that keep 
+coming up empty. But the ghost-in-the-machine, the uncanny two 
+of them witnessing the monster coming up empty in their midst, 
+these weirdly point to another, you see, one point or another, 
+but a, and this text could - brakes give out no nothing eighteen 
+wheels coming up empty fast viral display, something "coming up 
+empty" as if uncalled for - ah, i can see escape and keep coming 
+up against artificial barriers of the edge of and you, you can't 
+get enough of a good thing when you don't get enough - more 
+tests and sleep clinic coming up empty, already had xrays and 
+overly simplistic, running empty against that same wall, that 
+gap that refuses to admit there's something rather than nothing 
+- I can't change much, Julu Twine says, I desired a haunting- 
+screen, coming up empty against the creases of my body, the 
+_tattered notes_ and white pointy flowers coming up empty thru 
+the hills, i am arm, robotic. lapping at the stern and she was 
+worried about the message, ''I'll murder you,'' Wagner said. 
+``You have no idea what's coming.'' a viral display, something 
+"coming up empty" as if uncalled for - ah, i can see character/s 
+try to escape running into artificial barriers enough - more 
+tests and sleep clinic coming up empty, already had xrays and I 
+liked the dance so much I kept the recording: "embodiment, the 
+ghost-in-the-machine, the uncanny"! Chanterelle, I came up 
+empty!
+
+
+
+For Clarice Lispector
+
+http://www.alansondheim.org/clarice2.jpg
+http://www.alansondheim.org/clarice.mp4
+http://www.alansondheim.org/clarice1.jpg
+http://www.alansondheim.org/clarice3.jpg
+http://www.alansondheim.org/clarice4.jpg
+http://www.alansondheim.org/clarice5.jpg
+http://www.alansondheim.org/clarice6.jpg
+
+"the other of the others was I." 
+(Clarice Lispector, The Foreign Legion.)
+
+already a mapping** the face is an other, face is always already 
+weaves, interpenetrates, but desire is an other.
+
+thought on this earth, that there is an other earth, other 
+thought, as if weaves, interpenetrates, but desire is an other.
+
+weaves, interpenetrates, but desire is an other. 
+the face is an other, face is always an other,
+
+a space which will become other. This is an other space; you 
+will witness his death as an other.
+
+i'll die it will be somewhere else - that's the i that is an 
+other, the other thing and all together
+
+and death is an other -
+
+(eighteen years, and death is an other) -
+
+thought on this earth, that there is an other earth, other 
+thought, as if death is an other -
+
+(eighteen years, and death is an other) -
+
+the face is an other, face is always opened its death is an 
+other -
+
+(eighteen years, and death is an other) -
+
+
+
+The Ruined Theory
+
+http://www.alansondheim.org/categ4.jpg
+http://www.alansondheim.org/categg.mp4
+http://www.alansondheim.org/categ1.jpg
+http://www.alansondheim.org/categ2.jpg
+http://www.alansondheim.org/categ3.jpg
+
+insight now: theory as zoetrope, machinic assemblage
+of never-ending insight now, production, emptied
+categories, annihilation terminal objects, now for
+the beginning's null: insight now:
+
+gold-terminal-plating; at:
+terminal philosophy.
+sleepy terminals!
+terminal philosophy.
+terminal philosophy.
+internet.txt:terminal.echo:nipple:portia:honey:
+stutter:spew:global:thread 
+terminal philosophy.
+terminal grave! 
+terminal grave! 
+|   |               |   |   |   terminal.el
+|   |               |   |   |   terminal.elc
+|   |       |   |   |   terminal.el
+|   |       |   |   |   terminal.elc
+world over.  acro , but I terminal. The doctor with uttermo 
+is terminal;  the disease of life continues. 
+one but (flesh) adjacent to the terminal (unscreened), 
+YOUR FLESH I FIND I FIND toggle on terminal off MY ADDICTION GETS
+terminal regard, I'm down, I'm done
+Will I burn terminals dissolute, enmired 
+the mark on Cain is the terminal prompt \
+Honey: against or within the abdominal terminal screen
+terminal, "screen remov'd," death and disappearance.
+Error opening terminal: unknown.
+Why do we tremble in the vicinity of the terminal?
+Why do we tremble! Insight! Theory! Insight!
+
+
+
+guzheng
+
+http://www.alansondheim.org/insts01.jpg
+http://www.alansondheim.org/zheng0.mp3
+http://www.alansondheim.org/zheng1.mp3
+http://www.alansondheim.org/zheng.jpg
+
+thanks to Stephen Dydo
+
+
+Samisen Blues for 2016!
+
+with a little help from qin
+
+http://www.alansondheim.org/samisenblues.jpg
+http://www.alansondheim.org/samisenblues.mp3
+
+samisen blues with the qin high strings as accents
+recorded at Stephen Dydo's
+samisen rocks! 
+
+Thanks to Stephen Dydo!
+
+
+
+Happy Holidays!
+
+Review of our cd Threnody by Steve Holtje!
+
+#15 http://culturecatch.com/music/best-rock-pop-electronic-2015
+
+
+
+intrusion / extrusion for 2016
+
+qin, qin with in-scale tuning, guzheng
+
+http://www.alansondheim.org/turret.jpg
+http://www.alansondheim.org/intrusion.mp3
+http://www.alansondheim.org/extrusion.mp3
+
+clashing civilization that open up spaces beyond thematic
+villages, gravitational lensing, alignments, territories
+inherently out-of-tune, microbial landscapes, slime-mold
+movements, emergences, emergencies
+
+no overdubbing, extrusion: guzheng, intrusion: qin qin guzheng
+
+theories of unthemed dwellings, nomadic commons, taz, 
+coming together and falling apart, falling apart and coming
+together, defeat of the punctum-turret, alignments of 
+universal skies
+
+
+
+As if it were Robert Morris'
+
+http://www.alansondheim.org/clicks.png
+
+and the box w/ the sounds of its own making, whereas in this 
+case, registration of computer clicks producing the image 
+measuring the registration or the image registering the 
+production of its (digital, imaginary) needle sway or spectral 
+imaginary of the registration of computer clicks; since the 
+digital is always conceptual, always conceived along code and 
+protocol lines; realize that it's easy to produce _conceptual 
+traps_ of this sort, rather than otherwise, and that such traps 
+in fact constitute the very nature of art and its mappings 
+within the framework or aegis of the digital; all that remains 
+to be done here is to acknowledge the entities that produced the 
+(linux) operating system and its (now and current) attendant 
+apps; so it's as if it were Robert Morris but without the labor, 
+the physicality of the world, which has been replaced by the 
+coupling of finger-strokes within the closed apparatus of the 
+computer, just as the Morris box, if I remember correctly, was 
+constituted by a taped recording within it, the sounds evident 
+through a speaker, to one and all, the audience within a gallery 
+somewhere on a street in a city in the world, people milling 
+about, wars, holocausts, nations, in the midst of what would be, 
+at best, a relatively quiet sound, a moment away, within, of 
+silence, even, something thought, something dwelling, among 
+you, something _there._ *
+
+* but among the slaughters as well, the sounds of their own 
+making as well, and just as well
+

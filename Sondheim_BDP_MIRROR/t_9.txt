@@ -1,0 +1,93 @@
+
+
+
+-
+
+
+Change
+
+
+One of the first books I read on Net materials was Bernard Aboba's The 
+Online User's Encyclopedia (Bulletin Boards and Beyond), which came out 
+in November 1993, less than two and a half years ago. It's still valu- 
+able for historic information (beginnings of the Internet, FidoNet and so 
+forth), and for basic unix shell information, but it is amazing how much 
+is already outdated.
+
+For example: 
+
+It covers talk, but not ntalk or ytalk.
+
+It says nothing about M** clients for pc.
+
+The Web is covered in seven pages; XMosaic, windows Cello, and MacMosaic 
+are mentioned - oddly enough, lynx isn't. Netscape and other clients 
+aren't either of course.
+
+FTP and Gopher are considered accessible only through unix or clients, 
+since the URL protocols were hardly in existence.
+
+MIRC isn't mentioned.
+
+There's a large emphasis on bulletin boards and FidoNet.
+
+There's mention of a graphic MUD, BSXMUD, at robin.lysator.liu.se 7475 
+and has anyone tried this out? Apparently "it requires use of special 
+client software, only available for the PC."
+
+WAIS is covered in detail. I've yet to have satisfactory searches on WAIS.
+There is excellent information throughout on SLIP, PPP, and TCP/IP 
+including some of the port numbers for telnet (available elsewhere in 
+full). 
+
+There is full information on BITNET including however the statement that 
+"With universities turning away from mainframes and embracing the 
+Internet, BITNET membership peaked in 1991, and is now slowly shrinking."
+
+The Internet backbone is still NSFNET.
+
+There are few ISPs listed, although Echo in New York; The World 
+(world.std.com) in Massachusetts; The Well, Hybrid Networks, and The 
+Holonet in California; Old Colorado City Communications; and Netcom 
+(based in California but national) are all singled out.
+
+There's almost nothing on AOL, CompuServe, etc. although there are two 
+graphics pages "A Day in the Life of a CompuServe User" and the same for 
+AOL - the Net is pretty much absent on these except for email.
+
+CompuServe's rates are interesting - $39.95 startup, and 9600 bps for $16 
+an hour on on eplan, $22.50 on another!
+AOL lists for $9.95 a month plus $3.50 an hour.
+Delphi's got $5.95 a month plus $6 an hour.
+I do like the Dow Jones New Retrieval for primetime at $12.60 to $129.60 
+an hour.
+The Well is listed for $15 a month and $2 an hour.
+All of these rates have dropped considerably.
+
+At the time of the book, there were 4000 newsgroups and 2 million users; 
+now Netcom alone carries over 16000 newsgroups.
+
+You get the picture. Even now, there's no sign of things slowing down 
+except for the entrenchment of M**, IRC, and email list communities. The 
+newer search engines for example (Inktomi, Altavista) are rapidly re- 
+placing the others. Audio, video, and extended graphics/animation modal- 
+ities are coming to the foreground. Software beta versions are appearing 
+at an increasingly fast rate, which means that the hacking ethos as 
+opposed to top-down tested approaches is coming back into style. More 
+alpha versions are being released as well.
+
+Silicon valley extends world-wide, with particularly heavy development in 
+the United States, Canada, and the Scandinavian countries. The Net in one 
+form or another is spreading in much the same way that television/radio 
+did, in spite of the increased complexity of CMC - there are no galena 
+crystals in cyberspace. The information industry is becoming more and 
+more sweatshop-oriented as a result.
+
+It's anybody's guess where we'll be five years from now. In the meantime 
+the Aboba book provides an interesting historic document; you might also 
+want to look at Hobbes' Internet Timeline which is always being updated, 
+and invaluable books like Peter H. Salus' Casting the Net, From Arpanet 
+to Internet and Beyond... or Carl Malamud, Exploring the Internet, A 
+Technical Travelogue, written in 1993 as well, covering world-wide Net 
+implementations and their histories.
+

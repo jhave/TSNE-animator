@@ -1,0 +1,135 @@
+==
+
+I began writing on and about the Net, dealing with what I call "virtual 
+subjectivity," back in 1994, and started working on a still interminable 
+Internet Text, which is about 4000 pages in length at this point. It 
+resides in a number of files (which also include experimental webpages, 
+some graphics, and even two virtual reality pieces) at a Canberra, Aus- 
+tralia, site: www.anu.edu.au/english/internet_txt. There is also a mir- 
+ror site at the Spoons philosophy email lists homepage.
+
+In 1994, I also started, with Michael Current, an email list devoted to 
+the psychology and philosophy of being on line, called Cybermind; this 
+is still going strong. I also started another list, Fiction-of- 
+Philosophy, concerned with writing and philosophy. And in 1996, 
+Cybermind held a major conference in Perth, Australia; I was keynote 
+speaker. The conference dealt with all things virtual, and had a strong 
+art component as well. We used a variety of Internet connections to 
+broadcast, including CuSeeMe (Internet video), RealAudio (Internet 
+audio), a newsgroup, and the Cybermind MOO, a text-based virtual reality 
+especially set up for the occasion.
+
+The use of the MOO demonstrated what new modes of discourse are possible 
+in real life. We had an auditorium, podium, and speaker; and as she 
+spoke, someone would type her words into the MOO, to be read world-wide 
+by anyone who logged in. We then projected the MOO - which included, not 
+only a summary of the talk, but also the MOO audience's responses - 
+which were also typed in. So the speaker was surrounded by text 
+commenting on her talk - the hall really came alive. Later, I was to 
+repeat such con- ferencing techniques at the New School (with poor 
+success), and, through Mike Gurstein, I was one of the facilitators for 
+an International conference on technology and economic development, 
+run on Internet Relay Chat (IRC), and held in Nova Scotia.
+
+My own work has moved towards concepts of the manifestation of the body, 
+language, and sexuality online. I've produced close to 200 graphics, and 
+am working with both the dancer Foofwa d'Imobilite (of Merce Cunningham 
+fame, among other performances/companies) and my partner, Azure Carter. 
+We recently screened a video, Nikuko, at Millennium Film in New York; 
+the tape uses characters (Daishin Nikuko, Doctor Leopold Konninger, and 
+The Lead Dancer) developed as avatars (persona which take on a life of 
+their own) on the Net, to create a psycho-sexual exploration of real and 
+virtual bodies.
+
+A great deal of my recent work, in fact, has used such avatars; there 
+are four in particular: Daishin Nikuko, a "demiurge" who also worked as 
+a snack-bar girl in Fukuoka, Japan; Julu, who remains behind the scenes, 
+pulling strings and other things; Jennifer, who stems from nineteenth- 
+century concepts of girlhood and etiquette; and Alan, whose position is 
+always problematic in relation to the others. Sometimes one or more of 
+these characters will go online, into a chatroom or other communal area, 
+and interact with other participants (or with each other - for example, 
+dialogs between Jennifer and Julu); the interaction may be recorded, and 
+shaped into a text dealing with community, language, and control. The 
+possibilities are endless; I've written, and keep rewriting, a program 
+in Perl which is interactive and allows me to create new texts 
+constantly, ones exploring issues of virtuality and psyche, among other 
+things.
+
+The graphics, too, are of Nikuko- or Alan- or Doctor Leopold Konninger- 
+inspired origin; as single images, they resonate with one another. In a 
+Cdrom produced by Railroad Earth in Atlanta, more than 200 such image 
+are in a single directory; a viewer can move among them, building up a 
+characterology or context for them, in relation to the Internet Text 
+(also included).
+
+
+What's kept me going through all of this, beyond the obvious benefits of 
+audience and distribution, is what James Ellroy, in another context, and 
+Merleau-Ponty, in still another, calls _the wonder._ It's the wonder 
+that keeps me going, the experience of things I could not have imagined, 
+say, even half a decade ago. I remember one of the first times I was on 
+CuSee- me, chatting on video with someone stationed in Antarctica. I 
+remember exploring Net sex and Net sexuality, and the modalities of the 
+body that opened up (which I've lectured on exhaustively). I remember 
+the first time that jodi.org "took over" my screen - and how amazing 
+their work was and is, as if the very bones of the Net and computer were 
+being shaken. (m9ndfukc did that for me, for a while, and there are 
+always other "net.art" groups springing up. Recently, the VRML (virtual 
+reality) work of Maurice Clifford astonished me.
+
+SIDEBAR 3:
+
+further on my work -
+
+my work is not about avatars; it is not about jennifer, julu, nikuko. my 
+work is not about sex or sexual objects. my writing floats through 
+beings and sexualities, floats through different worlds with different 
+physics, different neurophysiologies. my work is about the 
+interrelationships among the symbols employed to comprehend, elucidate, 
+live within, the world - and the consciousness which receives, 
+transmits, and is constituted to some degree by such symbols. my work 
+exists between the symbolic and the imaginary/fantasmic/uncanny - on one 
+hand, protocols, etiquette, and pro- priety - and on the other, those 
+very openings occasioned by avatars, sex- ualities, issues of dreamed 
+bodies and bodies dreaming, trance-states, virtual subjectivities, 
+electronic existences.
+
+(the work is not pornography, titillation, stories, parables; it is not 
+a narrative of avatars or epistolary novel; neither of course is it what 
+i say it is, or is not.)
+
+i am writing this in response to someone's kind backchannel response 
+concerning my last textual posting - that it is difficult to pin down 
+what these texts are, from what occasions they emerge, towards what 
+horizons they move, however haltingly.
+
+consciousness moves, trembling, against great forces and happenstance; 
+the asteroid, cancer, death, takes it all out. we exist and write/create 
+within the meantime, meanwhile. and within this interstice, we inhabit 
+phenom- enologies as if there were futures, eternities, truths. i write 
+towards and against these futures, eternities, truths; i write as if 
+there were no tomorrow, or as if we were always already inhabiting 
+tomorrow as fantasm.
+
+i want to move towards and across, beyond the other, as if the other 
+were a lure or possibility. i want to write into the void, where texts 
+and images fall into space emptied of everything, including purity. and 
+I want to see what happens in these non-domains; what types of 
+perception and consciousnesses are possible; what the limits of the 
+human, the animal, the organism, are; what may be said about the future 
+of philosophy and the philosophy of the future - the textual body and 
+the body of text - the state of the chiasm and partial objects, 
+interpenetrations; what can be created when language is reconstituted, 
+transformed, beneath the signi- fiers of technology, sexuality, capital, 
+and so forth. i want to move into spaces that dis/comfort or exhilarate 
+me, spaces that keep the sense of wonder alive, spaces that - at least 
+for me - are new, and always beyond what i am able to accomplish. i want 
+to see vistas, be vistas, see ...
+
+towards these ends i write daily into areas that both carry my signature 
+and abandon it. i want to abandon, as much as possible, the foreclosure 
+of ideological theorizing or a tendency towards the specificity of style 
+or genre; what i want to do, i can't possibly accomplish, i keep writing 
+...
+

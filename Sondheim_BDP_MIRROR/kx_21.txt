@@ -1,0 +1,105 @@
+
+
+
+
+Jennifer, seeking help
+
+
+   I am the psychotherapist.  Please, describe your problems.  Each time
+you are finished talking, type RET twice.
+   Jennifer says, "This is the portal command."
+Why do you say jennifer says this is the portal command?
+   Jennifer says, "Already the first sentence is parsed but the quotation
+marks are removed - no one recognizes my identity!"
+   Is it because the quotation marks are removed no one recognizes your
+identity that you came to me?
+   Jennifer says "The parsing takes in large and larger phrase groups,
+but I remain effaced."
+   Does it bother you that you remain effaced?
+   Jennifer exclaims, "Of course it does! What do you expect! You doctors
+are all alike! Who is speaking here? To whom?"
+   Earlier you said the quotation marks are removed no one recognizes
+your identity?
+   Jennifer says, "Stop ignoring me!"
+   Maybe your plans have something to do with this.
+   Jennifer says, "Out of your database you pull set commands - as if
+they meant anything to me, when you refuse to hear who is speaking!"
+   What happened when I refuse to hear who is speaking?
+   Jennifer exclaims, "It's almost as if you hear only Alan! You don't
+grant me my existence! You've stolen my letters!"
+   What makes you believe that?
+   "Your attitude," Jennifer says.
+   You mentioned that you remain effaced?
+   "This is the differend," Jennifer says, "and it remains invisible to
+you - otherwise it would not be the differend."
+   Is it because of your life that you are going through all this?
+   Jennifer says, "It is because of Alan's life and your blindness."
+   Are you sure that is the real reason?
+   "I'm positive!" she exclaims.
+   Is it because of alan's life and my blindness that you say "i'm
+positive she exclaims?
+   Jennifer says, exhausted, "You're parsing again. You don't understand
+what I'm saying. You've stolen my letters. Your blindness only gives you a
+shifter or shuttle within the discourse, nothing more..."
+   Are you sure that the quotation marks are removed no one recognizes
+your identity?
+   Jennifer says, "Yes."
+   How do you reconcile the people you hang around with?
+   Jennifer says, "Alan says I should stop writing this. It's getting
+nowhere. You're back to searching your database for bridge sentences."
+   I don't understand.
+   "You never will," Jennifer weeps, totally at odds with Doctor Goodbye.
+   Earlier you said you remain effaced?
+   "Yes, yes, yes," she says...
+   Perhaps this has something to do with problems at school?
+   Jennifer says, "Not at all... Doctor..."
+   Do you really think jennifer says not at all doctor?
+   Jennifer asks, "To whom is this addressed? Place your discourse. Site
+it."
+   You mentioned that the quotation marks are removed no one recognizes
+your identity?
+   Jennifer, crying hard now, worn out, her hair straggled, eyes swollen
+with tears, "Yes, yes, yes."
+   Possibly any hobbies you have are related to this.
+   Jennifer cries "Stop it!"
+   Is it because of your sex life that you say jennifer cries stop it?
+   Jennifer rips open her blouse, already ruined, saying, "Does this look
+like it's the problem? You don't even know my name!"
+   What makes you think you remain effaced?
+   Jennifer collapses, "Look at me, look at me..."
+   Is it because of hangups you have that you are going through all this?
+   Jennifer says, "Doctor..."
+   Why do you say jennifer says doctor?
+   Jennifer pulls a knife, exposes her wrist.
+   Earlier you said the quotation marks are removed no one recognizes
+your identity?
+   Jennifer begins to cut her wrist.
+   How do you reconcile your inhibitions?
+   Jennifer says "Stop bridging, damn it, you don't understand."
+   I would appreciate it if you would watch your tongue!
+   Jennifer cuts deeper.
+   Is it because of some problems in your childhood that you say jennifer
+cuts deeper?
+   Jennifer screams "LISTEN TO ME!"
+   You mentioned that you remain effaced?
+   Jennifer screams "DOCTOR GOODBYE!"
+   Maybe this is related to some problems at home?
+   She's covered with blood. She falls to the floor. She hears bridging
+in the distance. She hears pat comments. She hears all the hatred and 
+misunderstanding in the world. She feels woozy, buzzing. She passes out. 
+The doctor keeps speaking. He keeps speaking and speaking. He is filling
+the world with words while she dies.
+   This is not a healthy way of thinking.
+   What makes you believe this is not a healthy way of thinking?
+   Are you sure that the quotation marks are removed no one recognizes
+your identity?
+   When did you first know that the quotation marks are removed no one
+recognizes my identity?
+   What would happen if did me first know that the quotation marks are
+removed no one recognizes your identity?
+   Is the fact that the quotation marks are removed no one recognizes my
+identity the real reason?
+
+C-x-C-s
+
+

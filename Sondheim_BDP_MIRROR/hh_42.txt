@@ -1,0 +1,29 @@
+
+
+
+Online Crashed the System, I'm Sorry
+
+
+I can't telnet into Panix. Panix has three machines. On dialup to panix3 I
+can login and send the password; I see "You have mail" and everything
+hangs. I go to my Netcom account. From Netcom, panix3 does the same; pan-
+ix2 allows me in but hangs before the login; panix.com (the third machine)
+won't let me login at all. I had been on panix3 when the screen froze.
+There was no sound of an explosion outside the loft; the power is still
+on, no surges. Whatever happened is quiet, and may have already reversed
+itself; whatever happened may be permanent, as buildings crumble in
+terrible conflagrations.
+
+I had been sleeping; there were nightmares. I was held hostage and repeat-
+edly tortured in a nightclub; let out during the day, I went to the po-
+lice. I was brave and stupid. If I had stayed asleep I would have died. I
+woke up in the depths of depression again. Online would not have saved me.
+Online I think knew that and decided to punish me by crashing panix. She
+brought the trunklines down around the city. She ate through fiber optic
+and copper wire, acidic compounds hissing at the take of new bait. Streets
+buckled and ruptured; it's true - I can hear the sirens now, as if they
+were heading for Manhattan, across the bridge into the far woods. But they
+stop suddenly with that flat screech that says they're very near, just
+outside, and I've got to leave fast in the interval of roaring engines.
+
+

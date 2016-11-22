@@ -1,0 +1,1446 @@
+
+
+The Flight:
+
+
+HIERARCHY
+ROOT Hips
+{
+OFFSET 0.000000 0.000000 0.000000
+JOINT LeftHip
+{
+OFFSET -3.419285 -4.794685 1.345123
+JOINT LeftKnee
+{
+OFFSET 17.770149 52.341656 3.051116
+JOINT LeftAnkle
+{
+OFFSET -26.002449 -53.923805 0.223355
+End Site
+{
+OFFSET 230.813026 309.763527 236.532917
+}
+}
+}
+}
+JOINT RightHip
+{
+OFFSET -10.177025 -9.366684 2.718486
+JOINT RightKnee
+{
+OFFSET 23.202744 16.373123 -4.191984
+JOINT RightAnkle
+{
+OFFSET -26.566334 53.247330 73.566673
+End Site
+{
+OFFSET 229.079266 218.311977 200.732365
+}
+}
+}
+}
+JOINT Chest
+{
+OFFSET 24.051632 32.780327 -2.990587
+JOINT LeftCollar
+{
+OFFSET -3.175385 2.782694 -2.603830
+JOINT LeftShoulder
+{
+OFFSET -9.640720 -28.916821 -3.403399
+JOINT LeftElbow
+{
+OFFSET -0.336464 40.853985 13.914258
+JOINT LeftWrist
+{
+OFFSET 5.325165 -5.991470 -6.179459
+End Site
+{
+OFFSET 202.176437 87.901649 17.820293
+}
+}
+}
+}
+}
+JOINT RightCollar
+{
+OFFSET 0.231621 8.741350 2.083974
+JOINT RightShoulder
+{
+OFFSET -34.953598 -45.966850 0.005607
+JOINT RightElbow
+{
+OFFSET 36.709175 47.838158 8.358180
+JOINT RightWrist
+{
+OFFSET 191.750473 197.964706 196.118027
+End Site
+{
+OFFSET -69.841251 -39.790440 -7.790203
+}
+}
+}
+}
+}
+JOINT Neck
+{
+OFFSET -3.301525 68.628181 3.727469
+JOINT Head
+{
+OFFSET 0.151051 -3.618229 3.449522
+End Site
+{
+OFFSET 0.188813 -4.522787 4.311903
+}
+}
+}
+}
+}
+MOTION
+Frames: 1055
+Frame Time: 0.033
+
+The background of the flight:
+
+http://www.asondheim.org/nativeland.mp4
+
+
+
+Measure / Origin of Writing
+
+
+BLENDER_v241REND Scene SR1-Animation DATA Link and Materials Editing Mesh 
+Anim settings Object Draw Constraints Effects Hooks Particle Interaction 
+Softbody Output Render Format 333? DATAT Transform Properties View3d 3D 
+Viewport properties DATA( ?DATA DATAx `DpJgC SR2-Model
+
+Preview Lamp Spot Texture Input Map To Material World Mist Stars Physics 
+Tools 1 Camera Shaders Scriptlinks Script Sound Listener Sequencer 
+Armature Ramps Mirror Transp / Amb Occ Shadow Modifiers Shapes c` p { 
+Colors ImageMovie hCZ} View 333?p 1?Vu# B?Vz AK_t K_tB33 33 B DATA, Save 
+JPEG front OBJ /home/sondheim/bvh/ heimorg/ imorg/ 
+nder.app/Contents/Resources/ pulul.jpg ul2a.jpg ntitled.blend lse9995.jpg 
+ulse9994.jpg SR3-Material odel Sing )xu? >#xu? Pb>4Im> k&?] vB,j ?j(4?t' 
+SAVE FILE /usr/home/intrr/blender/blend/ untitled.blend >9C, 
+/Users/ton/Desktop/ der/blend/ /?U~ 3F:? 65e?2 /?7F:? >85e? 4z?' 4Atp@k(4 
+@j(4 j(4?. SR4-Sequence ?fffA fffA AVE TARGA t1.blend OAD SR5-Scripting 
+SCScene tage L?fff? //backbuf /tmp/ //ftype Hka @DATA IMpul2a.jpg 
+//../asondheimorg/pul2a.jpg CACamera amera.001 LALamp.001 LALamp.002 
+LALamp.003 LALamp.004 LALamp.005 LALamp.006 LALamp.007 LALamp.008 
+LALamp.009 LALamp.010 LALamp.011 LASpot LALamp WOWorld TXText EERFDATA 
+OBCamera 6s C +EeB lLBz 3KBQ _44< OBLamp {&?W+b= $x>c {jfBu OBLamp.001 
+tu?^V OBLamp.002 `?.?Y OBLamp.003 ]g;?) OBLamp.004 p?Fl -PH? OBLamp.005 
+OBLamp.006 ?Um? +PH? OBLamp.007 /PH? Cc;Q OBLamp.008 L?0G OBLamp.009 jC{\ 
+OBLamp.010 jE&? >s6L OBLamp.011 b4w> =xY? .^u? r>PT" G OBLamp.012 |?6g 
+Q?k} OBTRIANGLES-3 c[?? L#{= S:#? OBTRIANGLES-2 OBTRIANGLES-1 (L>3 
+OBTRIANGLES-0 OBTRIANGLES-7 d=@Z c??1 OBTRIANGLES-6 B{?TC >>f:= 
+OBTRIANGLES-5 zTwBD1 q6h= OBTRIANGLES-4 ]x?\1 /%?# OBTRIANGLES-8 CR9JB 
+MA(null) DATAX TETex.001 METRIANGLES-3 IZA0[,B *~l@jV ?0n( O[@dM{? z"@H 
+?0[, @ JC?@ @do(? bW?@ lN? T :i?`c Mv@h @`f.? @rhc@ ?P3# ]K=P l>@< Zd#@@ 
+&J;@ ~@p} ki@0 &@d9 L?@` Q`GT 9JfL 2d> TYo1 ^ A@a Y ? Vf D@TI x>4pF? 
+JPw\;% J1@f] I@jD b2]@u ~?a@ HiO? R0@ b?A5 Xx3( ^!@X >T'" *@l+ ?^m3 i@@D 
+f@ | E@ @m 7 2L@L 9@i" S@P@ Q>@s .!c@K fc@` 5z&#n E&A xqB7M C?RkX xMnb 
+U_@l+ ;l$> =M :#f@?, ?@Wa ]+@< (!@r .@zG 8nc? n4 @8 z@63 9@LY\ .@`P (.@@v 
+ho2@ p?@w@ B?@zJ sH%i' p@s4X >@Os @v-G@ @@?@ 0=d bI,oD Qz?@j"^ >y8@Z0 ?A5< 
+u0}G 7X?X}p UW,[ R~@t eX@x :D@, VJ@xaJ? &,52 @Pk`@ A@G{ Ad*9lX8H @@X_ B` A 
+~&A@-@ +A\~-A zX9A >oSV AA]\OA`d ZB/A: 4A`a >AaCLA z68A9 ,1A@ `T"AMs'A@ 
+-HOe' d;+A A7 AYu"A =A@s `T1A. @5*A 1A8VFA JYEA <?T_ @CUJ :V@*)= cAP- L@P1 
+Axl~ a}@B D<@_q 0TfY; ?#;7p <E?Y @dYo @KLk @&C$ r 8w}? @un} @z6A @D'A 
+@o#AR a3A0 e)A1 EA&" J"AR +PA @qVA AjA2 @ihA 7NAi @$lA EbAm wA{x A@h, @A6w 
+OA#? gA<z JVg` @G0AG @./A^ `=A@ @>0A ^@AOo "_A# @NmA6 }AWpp AxEGk AW6|m 
+kAY=Up+ +A[m @@<A (>+:( LAj.wX @N}A=m H?%cv Anlh s|A^n^ FiO@V B>4@ k@tO 
+&@zk ]@pl: n Q@\ 6@vX @9i3 Qn@ 6<U@b A48=M1U I@@[ @*e?@ @v-_@ 4o?S ->@@ 
+:@~& &Sq@6gJ@ 3B>@=.A l8 fA+E U@ZB @@NMA THAb $ @^v 2@W9 9iY6G ?lhY? z-i@ 
+7|A~ .C4@ 0C<? A9k= O> QAG3FK bA^j uA1j A{M` A(}4 AIj+@ A[kE A_gS Ar}J 
+l#B+ fcLt m3?2 AO$= AN#n A#)2Y 4YTX AkCkj x$7?ZRO AIiq ?\Tz? A,iZ x?@` 
+:@`e:gP@ P@@t po@?D b?  @(\ P@8E]@ &SQ@~ j@@( 0`^{G BP? B(;hhB$3|` .(Bc 
+#B"m Pg Bl `%B; 0[,Bu G&B8BmiaC?@ A/kZ AJlT Bdj'BOg DATA` METRIANGLES-2 
+@sG? h*@7+ @<}?> c<@!R$ @)m7 ,j23 U@vq <?N7 @H`K Wl~ @G>@x `K\@ ;hS" ,E69 
+R,@ <s &@`__? 0L2@ P7Q@ P{o@ qV@P Y@h"F@ @0px ai @0Tl RyD& A@2} Ap?z 9@6 
+@h+$@ F2&/& K<.f D??o +r/b IXh6 a#K$ svG- |@~{ H?[A a@A@ ?h^gA ?HahA kA id 
+q@<=CA jA 2j APFo A@_l A0xw pM#@ p_C@\ RlAp uFAPyY FAP\\ AP,ZA0IU FA @_ 
+&iAP 9$?*z APlm A`R| AP9q AP>s A@Hv #y?\O ^@nA APYb b} :y@T 0SY@br i) BA:$ 
+s+iG ]=(R ]XeY' Q("p &qt1$ j<1hQ+ \A6j K&Uo: e''u@! ~]RW H:Vq +7|qp ACf\( 
+k8zk >`kn R.nl |GCb7( :-m[ ~+lqU( v$8v #42r !=}m n9op D'Gu 2)Vs/% mR& q =x 
+x5wh LN`p" mu&+ 76<i +n69 'zL% ):Fp I6sm)& RXX+(Yo l>yk !;`v!:s V 8v 
+R*ckP7 {;PhP, |cS5X< K Sr= ``y& /@gW 7<Y2 `:9X A|mR S4Cs P%5u +ub( 0Zlt/ 
++#ff? {1Ne /+/t l!'y; /cus KJ_m' Lq`{" 2`px" b24oq& 3Kp ! 6yq` K']t, @4g]' 
+8,k=) ;dm2 >RhT' E#aX- _rJg( =AVh6# ){;" cQdY hue# H3Pn b*Ss ut_' zrH* 
+jOh\3' t90m A4%p EL`4/ \or/ THLe $(rE- .54p pF/d3% Feq9*5 Q0eq~" Nd\@( 
+QbxC :4KrU R$Rw 6KB_ ?!Bv DJx=2T $Tw (YNS ![zD E6fq ,wv! >1Ll7/ 'zvZ @(mr 
+vpp4 @.OrN" ^bV<AJfL( 2Rp6" =Im+ ;GkH% cvt)v /ud+ cMYd DGi3 cORW D4[o[# 
+P/DqB$ Pvi# VmH"< %/-r #Hvg! N@Fl :IoB "/_u (Vth" %Cv" .\ry! 8x6Tgq (+Lq 
+>)uq Z@,n dx@*: s+|u jw@F9 A/[]@Rr d;-q A:0k@QG *;bp P1vu ,55t AxXf? ]@Qi 
+QAqw A)!BA Aoe0A 4ZA WA%^ AP1SA AkmKAUr A+ AA 8CA8 AP.>A A($SAS >A2e A!V,A 
+=Ap5 Arv9A Q73r AZe-Agq HSfQFbh A+F7 1hLc=<} ZbAc? t$iA A?gE AiFT AC|; 
+AslO +N+e 8sAe gD&l ASB7 AiTP A1|h Agj! AVs+ @Hci ZHMi A]q< AC=1 ArVI A:Vq 
+DP@^A>Lo A)tc A\!_ AyMa AW'~ vK7f gJkg A'3D A3w2 (VGD6 A;y.@nV 4:To Ah*$ 
+AX@_ t:$p x@{0 ~@i7 f6 *qf= Ab0#0 u 'AUS AE*4G?dw ,7[s 6:3o A`pR @<_eA ]I 
+A04J AP)H b-Cu 'rA= .eA-> A:*`A jsA|) AGzvA A?irAU mAN/ ZhAUa gAOp Ag$eA\ 
+Ah{aA A*pZA Aj\dA 4"wy $?ZV AyQKA AEWGA *cAU AA/@A A4=_A B_uoA| NAYZ *AI] 
+?A,6 lA>o Bi6|A)l z|Acx CA$x //4J A*]/ tK}f % PJ }I$h A83' \Jjg 8D,l xJ+g 
+A8.n AqE. _@=m A|4D? b[lR iEqk A_U' AJI> ,<B9 FBxm V>>G E8|q RG*j ?K<g 
+F;Iq A`u% Abd; wLff IEhk r*zu -M/e Ab17 hNRb 8*TiN:jA# qA&r^ [c4M ~HbA 
+HlAA fc L)rA[x[ MtwAD oAfQ_ A4xO IXtA _EwAW .[yV A+V? A!-@ A<>; A3,J VBW 
+X_RS AiuI #RYTT .SR!V W]A~ [A.a /aAlZw >3C-V "PAz ?g[E yJEA wA,&a jAq-t 
+qAAFj [Aq_ {<}Ag -zAa vATOm G#pA 0BjA QjmA g&X^ }AD1b AniJ A#pC kdFN A"5^ 
+v7P9 A3~! V[DY n"3Z b^jV A#x; ,W_Y l!Q4 k7&q y3xs A7aFA#M AY?-AJb "AF /Az' 
+4AUU YRwNO @N eu@L3 MAY" wAox r9Aw A'^EA BA&d A@8xA GAbx |AV, AC gA PAEq 
+YABe AU2 AOx6?@ lDFk .C{l A]s!@ '<Zp ac"5Q A%nk@j >32t Ac'c@ 1?d6 R=%p 
+h7]s J*@HM x;;q ANm_?\ B,tsA\ 7X;&c <yN&D Ahz? KG-j "J<h t@vm w=?0 & ^5 
+#?9o Q<kp AmE! w::o AkJ~?O W@Xn `@-j 6, r@Qo Ba^= q1#u ?C*j ^G:j O%AT 
+Ay\3A: AU_#AT gAr% AQrPA AR:MA tAuh OAp~ {6ur E!@ `?2o Fm?? AL.EAI B8;K@ 
+b2?X H?hA Ai|l@f [.@U l}?: -@iNH\t) ?Vgg( ?2<8i (Msw& 3*qU G?S-/es: TN@{; 
+Q@fBxi' ]|@s v@}Fdg W@),3vw @u,7s @<6e *$x3 0F>F ?U+al 6+oZ Fef @z-_t 6K@z 
+@pv7 q/ A{Gs[ !ACsl )*A7F @6+A @|%A 2A8! FA-g @ZOA @&MA @}BA 3JAh +A4Y 
+,A>6>m @k*A -Aw* +Guy *!Aw @TFA*Z @hGA kPA} @H>A3 @c0A @Hp= A:6\m @5 c~ 
+@s0A 8AD$6y`5'Ac @[ )AKC @B(A i*Af5 @MAAR$ R5Q?6 @Q<A EAQg @ROAL* :A)m 
+@)LAav !,Ar )Aew @X5AJo #AtkF "6AK 8?AoG] *IAaM yRAkg RAwPXc8 \\A! cvd* 
+zw{- @onA^ lA5!% @0cA jAer ,ZA4 p|A973n{" AZmu @ZwA gsAr0 SAi XAL` RUAt 
+@BkAJ @9\A[8_ bA|O4] kAERwXI* {A7Ze @/~A @stA tAH@ A\cj IPci" @RjC 3Up@! 
+AaXFX #{C" A3h) CG_m4 A9ps AH}' A25Zo A\#1wj A:8Im B<g^# AfPA A,)$u #Xw 
+A)]hVh A<K}` 1uq~ AIRIX #wW# AoDcg A8f ( @KoA pA!6 @uxA %NuW" @flA Idby# 
+DrA($ tA}H {A5. @Z~A 9Bih, '%yQ @]eANQ #;xY 1oA< @KZA \A.G yAP] {A^T ggAy 
+A6a5S Ag){w/ AwiqH s^6; Ae{. AE /x Ar+- y/ A3h( A(#vx7 KDgc y+&< ;Qn? 
+A&>pn 0_>VTu (X?i ^(@6 @%bV 8m?< %!yo s_3C ts2k ?lpe7 b_@I} e1iX @H_Q 
+A&;hq !^{f 80Ah ^LAZ lEAi G,Av7sri :.A7R6a& -A9C bKAq> .IA48 l?AiL R as 
+?QAs @/dA @shA @|vA @(qAD @KfA :^AnRo s,6s @0hAu @[}A @xsA AM'e Ah"p A7),y 
+AwWd AkW: APj" -xt+ A-2QpY# e5 AR # Ad#zv +5uR A&7mn >Alr A0:TmN A(EX ~vL* 
+ozV$ BEx2 +]ti BF:NnBI;ym BlI5fW B|5xp r] BO[x Ackm AP>*k AAc 1Fs= AUE#e 
+A]zs A_)pt[! )vb- u$ 7' 4-p A"2}p a#$(K AIr00 A3dk 7VjR, 09sA -Vq$& K9b,! 
+B{E'fw! B^{[ BNMB Ax p~ Bcu^ 2$BH d%B\ "B_/gq pr)B b&B`I-B +BE< `J*B| `*,B 
+f-Bv 0(+B p3,B3 H'B1 Pv.B BW&cw 0Wrz P$B5JNgE p]!Bw #B5#iw `|%B ` @@"B 
+B?4Kn @$k< 0/#Bnw .B80 #+BG Z/BPt Pl-B `<,Ba l)B3 &B$@ .B0oR y.B< +BAUpX 
+'Hs%' 'BX9 @i+Bc P2)B ;\ma @o%BL 4BIF0B` Pi1B 0~1B7S :BHA :Bf0-u :sk5 j4BT 
+p:5Bt `{3B @I0B R=Bk 3fp] /B"0 p;4B f8B7-Ur 6BHR `{2B.K?`M& S0BU3B@:5B 
+X9BJ :BX* 3?Bq pn;B @<;BU 9=BU u:B;Bb*Vw @a?B( CAB^ BC#zv4! #Bg3'r M&Bx 
+;Dmm `b$Bs "Bxk &BkXv .2wQ P`#B BRbr L(B0 Pl1B &+BHj r/BjoG6 P05BB _(Bg 
+"<w6 /*rn PF*B N*B\ @H/B1 #B'r &B$qD (BLp PN$B =2B;%;V @%+BM 4BHln @r6B< 
+d<BX h7B)?B$%by @BYo `A@B pjJBI 0ZEB 0 GB,3# IB8C BBgi\ 6B-U_ z;BS 
+IB1Hs;cW JBnRQ @VKB MB9I .2D> p)!B F#Beuj0N0Ba .B!vx j'B0V%B: `|5B )BQ6 
+8BwoaCB!o& 7ABFqA5>y B8kP% zz$? B=t-24 BJt!0 AP0 H[5= B6bE4 B'V8) Bpp(! 
+m*(C PX!B `= BT pw#B $BRud 'BKa Bbr@, mY>e B<_h i%BF h"Bv U'Br +B@k ,BKi 
+Pi +BS`Y$ n`)c1 ^$B` P0"B )%B[&B$ ,B%o pY'B A)TM` Bg02 #|oQ B5YgUa 0>$B 
+'B&_ ;"BR(Bgz wz'' ,Bwz +BM ;(Bo2 m"Bs b'B@E.Bzn Pl/Bpi `&/B# @r0B 7Bzf 
+aE/d Pd4B c8BKo S9BW6 0h-B `YHB 0<CB 0oAB(D z>BQa:,3 `FBB 1B"r `g,B 8Bn} 
+O4BEI=_ @?8B _7B0" @V?B $DBT FBfp`! IB9\ IBze @B@Z4 p5FB} HBSm <EB{y GBUm 
+FIBx zYBkUB? %PBidt& 1OBVh `;RB fNBP<RB" @|MB $NB` KBH`&L PB@y7 QBNe vNBMS 
+I ]KBXUB|r TB=u NBz\ UBYG @%XBA] WBRa QK0> `BI. @a[B MecI 0=YBH:0g $ZB# 
+]BqD X):X `B78I? P~`B PadB ?@?iB $_;A gdAc bADq~ RA>M IAxqZ [!AcZ Xj3@ 
+8A(- ~pi$ E^;A =AE3 CAy& K@A@Z 73A" @8.| W!3A 1Z.A'g 8A)J ?w"7h 7FWA 
+NtZAjT ak8? YMP@ 8A:G @!<@ Q:q@} ;A+p {40A 4JJ@P `a2A ^#A&]2A@ rH$A @D&~l 
+%AO%?r *Lq1* )Iqw* ;&AY !*]A _AW >*,t` v.lA]a |hSBfRAD 3?/! ?J"Wi 5Si?C"ah 
+LA#E 1sAz{y ~AWjp /_zAH*v `2zA ]5YA t/oA Bj%A D`A) zV>1 dABk &o%: o?Aw? 
+BA<* ,IAyo "nkT< OS,A" !!A2 "AgV VZGAfb [[A,o @Y}^ ;*_A .PA}K "Hj]> =A8X 
+dZAA9N Avol A."J s ,|AL @gt@ jm@A2h2J{ Je@~ aL &v@,% N9eS 0nc@ .+Qj Ak$Fz 
+@p~@ zARgV zS\A?5 AY-0v eA0+ #Pv{! AW,+t[ -*OA 'ut _dAtx OyA+- Ag.eu% 
+*)A/w3A" *:%A :MAD+ {nAq ]fcA ^omAS3 yAJt A44=q Aw2Jr X*AmyP6A ~\&A 3A#R 
+iO;A "rwY y"Ab Yg%A okAl Af)!xg AR]_ Ax?+m -+v0 A#*}xv &^ yc0K A<8V ^A15 
+G;>@\ P*jA%& 7S5? wrA? WnAU lQA0 Fk@A @& xFAj @|*fl+5 TeAs XfJA{ AZed :cyO 
+Ac?v HcbL A3|8 7[GW Ar:j Ay@= Aj{F mA3x VYrA hATb !ffI ARoV }r*? |AL- x^kR 
+hP}c \^zV Ayf1 A?=8 ALJa A0F; A8SP A`bd A0`/ct0 BAsA h$A-" AE$Yq a8A! |\@A 
+ihjA^)9sX% ]-An YAJ% =A6c c5JA"% dCNA OH\A faPA #5Az< \-1A RA5rA,Y /S]@ 
+{hAQ b{mA !JA$ QGA)7 EA4mr >Amr "^AX 4AL "A\j Pf*A &6A~ #Rv<! [=EA wA$# 
+Ap*Hw MoxA zj}C )sC1 @_i? %Ah"ArO. cHnAt y|AM9 %)2k (A`g A5A 0A U ?A9; 
+BpA) uycA )ajA wTA. L3Ar6 7A}t YDAV abIA[ AOx{ 22'Au MvAv 'g4A AfU b 
+B/hf@P t@&5 H_@%W p! 2@q} @@TE @fn] `'<x Z B_ BIfp =@xm ((B3^5?lZ 1Bpw) 
+$4Bp'j,*BLa z@r[ av@N3 B#B+q`:0u&B(u /BAU 2BDz 'B>Q L1BZ] ;Bm| 2zuC +,xn 
+L*fj B[r:9x sk#B "Bdy N#BFb *B:w7 5(B(.<us -B=t hT8B Z<:B [?-B Nb&B (Bq9mp 
+^X*B Yu/B 1B!;Am1 v=Bi KEBsk EBXf Pi6B X9Bp $>B@>Bgq GBY` 0JB0 pa@B> P]KB 
+8BPq /p76 0*]@ `:B0FGBB MBT|k KBIpk 0KQB `4WB L5?PM QSB'p @T\BJnc @,4@-r 
+p=:@ EV@m PPh@ N@&$ p`[B q@SV :7Bq p>BI .<B@`J8B H;BV `kABZ 8<BV BBmr 
+K>B1n 0>DB POCBJ> @7JB pDHBa EBZb PBs`? 1GBP\JB 0cGB QBy~/ 5DBP9 MB=x% 
+KQB0 @Bb' Z,SByOp\ XBa# -yVB (]BJ=Od] rz_BK) pl-l eBqu3 GOfX qRB_Ba7Wf 
+A`Be -=_Ba7 ZaB# 'O^B l jB eBn8Ie oEmB nB.. oB>3 N~uB @Hkr RqBE "`mS ,evd 
+0kLB r'Bv8!q GB'0 vQDB )nJB 6BLE "BXI $Bpz H|"B BLH i %BX7Eq EIjA .B iT>Bo 
+*B0H .B#<hdJB sX5B #t5B 6O-B !?B$ :S4B X?Bx FBMT 9;<B*w ]YRB 0d7B "){W QR 
+B`fA Bpu B@ B9M ,B{92p B50$v B6jA`DBtqb 8B2w IfFB 2BDo *B.q +B]v Hi@0 
+)Bpw> cB2k "thB \efB >MeB 2kBm oB;6f {\BhoaA aLI. 0>JBP @tLB#t 9kuB |tB= 
+D&oB @}${ zB5sC w~BK zB- dyBf `BG#Ax 0QcBVzm eBLvV :hB1`vLA vQA@N# 8gGAh 
+uBQn r0A* sBCm tBzmo k+Anx @8xB3k PAwB/pI zBFn? yB$r |B]rJ 0*=AX[_ Z?`pMB 
+>0|OB niAPP TRgA p~TB 0!yA x-xA@0B? o[A`) TRpA Q1?@TaB 0tA@ 5? T\B5 PkvA@ 
+YB<p 2SBrr fB>m< (SyA ^^A`7! ,eaA@w PkoA `LgB mmB xZ>0 'hB?jT @`4jB6m 
+*@0OiB xztA A@%W@ sBdt> qB[yp O{BL{OA 8lAxBml %SA0 C}B_t 8NAB5p= :dAP 
+q~APk DATAH METRIANGLES-1 A@)\ tzu@ (eA@ I@C> 21xrN 4!pZ +4"p $\o@ ~@`< 
+.jr5! 0)rS I@ A6<M@ n=}l 5co2! @@i]@^ Q@ q?@Gd G(A| |1A` >yd@ `@@! B52@ 
+`?'1 @@gJ ^@@S N>^mY@ jM;@ e7?| l3dpC! 1"@@ vO$AX /Or7 A@1H>&2Rq HYB@p 
+6il'( @eEA xGAX "FAd @BDAj AA|0 8ApL J:?L7 4Tpw @>3tpS! =@W1 7A,3 @`i@F 
+\TR@Z @I0A~bV 4koG" fAa5Do *Ag0 X|A+ 6}A9 {Alx| |A& A)&`u @ktA +?#J @&@~ 
+?=yx @dlAm6 ,osn 3^p1! 4ep( A'6ho9 =Gld A2t{ . rN" DATA$6 DATAl 
+METRIANGLES-0 @@\^ |>Ml_ 1@gf w.Cs 64qp 6^!A D2Vo5& m4<m@) X9dm _@ @MsB 
+Eicl( Ws7<@m 6Gn43W@ ^**t @2gL :{f! p*.8 @J~\ H+[? ,i?`KF@ &>xX Y9j% gA? 
+ZR?! @@3* ;.j3 Qd?6 <&nS ?7 W@ '?Yjz@ 3Q?p H@`= jw&? ?S@m@ @wik U;Do @dQq 
+?/l"@f NDl+ i<@3 ?@*3 ?+bA ?@<& u>Pnd >"?+ @8ftU"@lry ?(~A; N(?9 @"m# 
+B![Alg{ K*7>|hm (VAm $AIH CbA: c6BA MAtk_ x?SO 21A* 3ojQ ?{nT Yt@07 N8W@ 
+?.cM Ba@Vv @0,3?Y @?U 3AA6 ?j$A 1LW*O h] [AQl$ ZA^k #+IA ZA$m HAMmR #JC? 
+EXA( A7ev AaO_d AqZm AKL>d ANZJ 1mA8j nA6(*# A5:&i R}zA >o7# m+;x 8Pkf( 
+AI'@ A"gj $?sh AP,R Z@43 DATA|> DATAhB DATA8 METRIANGLES-7 DATA8' ;(W> 
+?qQA '@xef R\@Y @:CZ Fxg@ p#}@8 @<pJ @u^P !l@E_hT} A'`4#@@ 2"A< I#AN =8Ag 
+9AWW @@yLAG %OAu @@WeA NA3ZlO , lTm? ?tNp =ECG b}@}S ~HkA cc'5 66@o^ @rS*1 
+@XTo*jV ~HgA .n^A [@8X V[1=P @1`z @;U"4 j tA b'A% 6A>AV L;"A,Q @<"bi cqIA 
+B"AR @`.A 9Ai[ $S3A T0hA |ACZ NA@VQA cuA@q #Ab= o[>E }\3? 0[}K XRK@6p4^Ah 
+^V(S mA(~z }AHr 7JAt _LEd1 HAp+ TO-wT H%>A( qA0!" `mEAX' |TS*UV 0CjAd h]$A 
+Alo5 n>A| ?AthI pOA$ AH% @\Y\5 pozA 7qAP ]vAp= U@XR @^}B +I=@EX XWw@ @%2B 
+^) P@Ju )S-@M QM}?g 4z?h PYHA 0e[A 0GYf {A6< 0eqA^ XvO\. ]Nv?} D6@>K @CFg 
+iXr? xDAp6;@@ Bn&%X5 @s<D? >lVm N:k?p rI?` Sjs= DATA| METRIANGLES-6 H{U@ 
+,v@=4 nW@^, 6tY/ @X%v WuE1^ 73@ @y2| ;x@o )@u& E@%# f0,@oD ,`z@ C@&^ H@c# 
+pvc 7@/m '_2@; !@7E ?H9k s@\l {}"@ ^@x8 hHD> [?[@% w$wB g ?oZH w)AK_n |+0A 
+:Fw0f_ q%An t(At Gk.A8 ^<&A$HO Db"A &1As 9'Ao *Aq|! v!7A Q.AY 8A0g 44At 
+z:A0J Num% q/A3 @l2! A@S6z 7Qn@ n:$@ 8D?T m-?n6 ~>!? y?_@ ~U@sn;; o@_QZ@u 
+4Gj@& F@ 5 u@<>O =/$!HZc Av@9 '?$0 Un?| ?2!'@ 1@_ Iy@9 *mr@ <@;H g(8@r1 
+'@V< o<?@P *@i@}@ 9j@<D @261 Ae@&f -o@Xs @d|O qxP@A1 @,Fz@ &5M@ p[C@ IKz@t 
+AT xQ `^ UiPX2 UqM; |Q&A ml5v& Azn!45& nn2%( '1>@ 3\@`m METRIANGLES-5 5>mZ 
+I<+] !A>] CG1Y ~J0W =IMX B0Diz A?w} J r. &y(! A8=| S Bk BME| BWJw 2o A=zo 
+Ap_e _x'$ AMc^ Av'w BK8s ,F@%e B#{l B<3l B|*i A[Qa g_uO BM[f b/M& Ak6T 
+Aq$X A?LV AjnO A]]q ])o6 AzCh ;ABRu O&F8 H)A- #AF:AO;f ADIg AN{"A7ap 
+A{+%Ap p(Af ;QA?%g Aa^OA "DA} I`A> AGgdA$ ^A"wu A; AG)ZA0-{ JCA A9;NA 
+ADXSA Aoc7A ]&m+ AwrM A,rTA AToNA AiiJA (5Ba %A\SJ K*A` AF$> @JlC 6A~-I 
+*JA46H ~!>) AZg^A @j|b @g5Z @U(l %/c0 r@WfV @sZb a8w% h@jDN @@m'O F66$ 
+60+' 84>' W.s' E@&0I #</R 02P$ @_}6 @Vw> g@1A8P@oo< M0N AjmV@f ?b;6 1@.a7 
+k:@Qc@ ?\KE @; A$.\ A,*8 )$AJ85 AC'IA A`o\A ?A]/7 kUA`sC B5ARd> A*/x AH!SA 
+A!?2AF A9~CA}', AJ"]A A#A, Aic'A& @F#+ )WZbP A>>&A TAue w?Am A& DA Ap!>A 
+A1}WA" A42:A ADPQA A/l4A AG{KA o@il1 @,8- @S3. @#v8 @?~6 AC\~@% @\q5 Ms@e 
+@aT% @AI# @MW! D@~l" g@]h Aa)u@g r/@Q+ vW@2 @&@% 4-kALd A`ntA Aj>t Q7pL|V 
+A#^q A>_n A(]{ Aq|~AM AO]e A&xf A)\a AdJX jAPdM dAaHJ AOrqA j{ B'jv A2Mj 
+AT7p Ay)c AA,^ ADE] A~ub AM\N AvzK A46H A$VK AG"L fy w A{ D A9wL An M ADr: 
+Ae.k ,GeP@ AWauA ArymA[ A7KbA A<12 bA{o0 A9V% &^dDE Atd( T#FQZ\ dATh ncAP 
+2^Aq M|AF Abi1 AFxF AhhL ANhH AR&E AY}D AIl= A8yE A_.7 Aew/ A&b- AI7/ A;** 
+A65) A`!4 AUI' A)*1 AY$* ALK/ A}' AIX:@ H@A8 G@GI AP%-@R (qlN6 A#nN@ |@&] 
+I@(h vF@[ @1Ls ?=Jp AXJ" A[5v Ac0`Ag bkAm AOunA A]P^A AFkzAA Ah6kA jA?A 
+AKozA .s yAw? uAW> `3=A}Gw A71` 6A=H 5+ x@ A;WIA UA_d AJa9A K/ov 0!Aa AA`{ 
+Nd~L ,AYk DSA6 nHAYx} ,A{Ws ASnPA At+NA5 [AU8l UAt~ AKs\AF SA1g *^A&v wom: 
+xAG6m kAHl A;3k AsN|A >iA/ A`\2 AK1? qA:rD AIZj A0~P *)AIfF 9Awxe AqGAA) 
+)As4j A/e>A A0KHA OAK,] AX+%AoQ5 $AY& ,A44 A5@0 HAO: AA[VA =Amh ~RA4 
+~\AemD 8hAJ AD*J AO=hA` bA;l 4BQ` A`b`Am A4,% MA+^ A$bCA 2A+q AYTEA AMYZA2 
+A6TTA" XMAZ"u >]A(m[ 6!AR VXA0 A`GQAX HAYHA hAkF qA1+ 2yu& AfE^A zA$m uAb 
+eAKz8 p}A_IN Ad\pAI ~xA+ 4tA~ 7-q3zA AJCwA pA59 ]}An A22oA AC)]x ABEi kOB@ 
+AT<L AbA4 A#7}s ANBq AfhkAxZ A}e}A9 A`){AUU aA=* stl, AbLc zASQ 8u@}^ 
+*^A?{= 'P#? 'Yt@( vdA1 [A+] @A5eA vA+@ sAXV ^C@S A#OF Aq;o AT$M A$'0 A[$, 
+Ao.< eAr& Am?, %Mx8 ozAp, AN@, Y=xA*3 A?F| Y"zA ecvA AGD@l 87vA Aq*kv Yu=z 
+ADrK y#pA |dAm AeEA yAp; nA3H Ak*- dnA@ 1[A| *4hA sLAJQK@ AA{1 )AqB 
+AFy*Arz #Al;O yI[e A;g! A=yii4%t wAvo |I{A MQ~A AlV'KvA {AMPAA :Ai: @Aoe 
+iyAr|KA$ AH3NA`- YbAtP A'-MA PAwZ AYCkAU AK/eA A'exA aA|9 2aAf aASz ?Mjz 
+?xh( A%|eAX Y`sA Q@Ac] lA(l> +iADgo 5um: J!?] >aAT dAMb bAl! 5gAGO !Yu9& 
+T{AQ zu@c X3rArR3A tAPY /"A"X <tkA $@w" B'hAU 1ADJ2@ *}vAoVXA @mgI 3"@K 
+Q[A- Pi{A ?WA v!kAB F@mf 7zoA4}TA _,sA,RVA e%oA" {0@;f UpA|CNAa SA'D $VAi 
+(NyY `A4I oN@S 6XA2!NAB [AAxOA M{_A @@bW \9A2 @Gdj {@Ge >hZA _ ^A _O@5 
+k*AQ,3@ m@Ud$3Ah @uc\ _@XA a\ gPA/u or@C @oc_ 4JAw LjWF EUrAA> uD{A kAG~ 
+{iiA gAA~ wA)H 1M|A ~Ax0 A{xd' A|9 A2$p A`*4 :{|A$E >t`+ A"[L #~AD |AVK > 
+g}A9 A#"H A09>> 1>qC! AR5W A4&f AM*t 4}pv pE}A_ }AB7 Ad(? vvuA jAeW |As] 
+zAp( }$xA[H A]:( YbbA %eAO N)]A [ABR Am7^s A:A wZA(< A_E} A'?, ag`A UA_m 
+Aq1F q${A HdAo} MAw/ NA}v (oA3 /)qAe 0nA%l A\4[ f~rAI YpAk "}A< nAux bqAi 
+^p`A ETaA OljA hAXl AhAf# A*CE A8FS hA`C AvAZ Mm|A Ac-i 6rA2 nA2, -MdAy 
+=SnA{ Ae(;w Q@jA kAPo 8jAvr PcA; UA5# VVOA3 TAQp PI\A*u ^A&k A]:pqa 6/WA 
+WAR0 AwAB WA(" APC~ SAvA SAp$ ~fNAG) +OA8j FA~2 AU $'EA soHAh #QA, A2=& 
+.:HA *{ {>YA ;\AF aA3j *HZA h)ZA= a,[A XA5= eSAJAR7 METRIANGLES-4 #7Ese 
+@@Nr @@Xe @@O& t} YS=* 4g@d [)g@ j4h@ K@7@ VdO@ @@-T @@,{ @@i= @(%w ?bP? 
+`A.o @@pV ~@R' @@O3 ]z'% qH_? T[Y@ S#1x= X9?j @@zP @@Ha @@Hz Bkz? SL@^ 
+iV%@:p <oUUI |?(: 36u1 w7 _7 A`44 S~=A0W% A`5, 0zK# eJAK H A` iM0A* 8>Aff 
+V[NA /*mA \*sx XhA.n YdoA4 2NAj b"%z \A|? t`AY (\~AP ZA6< rs"7 ApjM A`#Q 
+A@x\ A`hH @@UC B_v/@ J,cx #Nx; @@s9 B_v#@ B5<m@ B!l4@@ @p.b APDh DhUE 
+B-nw@0=k I"Bv A(BB 0;#B $BN@ 1Y&B %BLb G!!B 0*'B %!B| @PZm @0Yk @Pri ]oG8{ 
+%$"B B#Bl @`_e pSQL @P:Z Y5@@ Ba2I@ AS@0 B+e]@ {MB, By6w@` B9E?@ {M .. 
+APDS @pHT @PKS A6k~ |b5D B+em@ @PG= @P 9 W#Ym @@4= @0W: 4<Mp @p&2 @@ ' 
+@0), 3@@h& I@@o) 9J_> @0O( @pN7 |2 @PP+ P4 @09* SG8Z,8 Z^8N @p?) A+e)@p z@ 
+a$ @01# 3 B~j UgJ)< E"]h5 SX!H!: Al=*? TA=@f _>Pn A/*%@@_ #@p7 A1UT@Pj 
+q@p[ ]I:- s)]QO ,<b2E *YA6 W9=A* p=?A o:APk 3<ta q7A> $u%A 8WIW &1VA 4^9A 
+TvAN '~qA| %(zT /nAR' 3tAf g"IA IA,C yn%\mGA 1.AH ]A$u CiEA DAff 'CAd; 
+@@a| A`oAP A@z| -gA. uAff rAJY N@tA +zC% {= y 8yqK -+qH& ~*Du Alx*?@$ 
+A/L:@ !1@`P AMbH@ gaIN o@@N 6C`c A}?y@` lG@` AW[]@@- "k@@ {@@U AA`e@ O 
+'O?` A\2%?` A8^J <&Cy AtF4? AwzI@` ~@`K V@ 6 TEAh bO@@ M4@@ 4_@@ *=gk?! 
+e'Au 0wv+ }wAJu <p~= E%CA< CAHP R&Aff pzV! DA"l "J%A@` A"Az jAJY ;NYA 
+a2IA|a xpAvO :WAB cA8E c;VA n7Ar xNAT V[KA @@^q W{A& v-\A ,ClAp vnAV} Bm@@ 
+lVlA KlARI q]AR `A<, SANb UA%M ^='k gARI S{AL{ ?qH6 \uA8 AA:p 1w<AX 2-uL 
+St:A Fr9A 6A9EO@ Q'1A ~>A;,`@ I&Aw-]@ aA+ea@ o_^A ?5}A {A]KX@ PAHP yARI 
+StlA ^)yA Xs.. quA1 f evI c;2` A-!/@ A1U8@ U3@@ ^s+3J JmTb< SN$_ ..@@X, 
+At6K? A])k@@ AOk~@ @@?d A-!W@ A[ e@@!) A'%s Auqw@ c3pq $?vK 9[f$ ?P?Zh* 
+!6&q| A\){? A<`5? }inF$ yrK,H$ %Fn_ ?$ ?Clw g%As A'AS 7A ft u!tC 6A4e (A?g 
+i/A. GLA> @q0FA [AJb @xOQA[ @+0GA <>hN Alq1A *kx# fv ~PAKd AcblA -A@5%[G 
+A'-A 2A\k8A )U$( A;K[A Z&AYV6A mx@t @A9\A F oR [A$` zAb_ WAEV pcA{I MAvc 
+ARKSA '{A#%f A+EoAS^ @hK{A a8An @(VTA M(A)N 4QA)L4D @<n;A @bIGA @$KVA [A/b 
+@5MjAE @Mz]AH VpA=c z@.$WA+$ ^Amd- PmAEI<U;= ^vJ@" s@+{gA pk@O xAUc s]a@ 
+qAK"P{U Qr}@L lMG@ &'r;+ .@2,^!@ vA|_5 A.^[ AX!Y Na @]6 j*-R A~[K @zivA 
+@i*sA ~'<N R}@n AvWf AM^| I=t@ A+Zf A@Y- APRu AH(J FPZ@ ~q@N `7v@ 3y@ @@Zo 
+HJT@ C/Z@" d@xT }$@.W @+@ A#P= %@y7 1B@d 8@NkI@" bg9@eK H@:G .vAS s(@A 
+]<AE \GAH ArY{ Rr4( TAD_< -iAa j~A) y@@A 0n8A Cg+A #As. AwUC ?[NA1 
+kWA\~A1VtW FhAL t*hA7# LAaN TAGN [A}/ j|A} S-gAI qAp3 Q5`_ /C{A A=St DA-i 
+x5A4) u0A$W JAD) _`1 E A/SE 2 fb AOVl AwPl .!rf H$ =)O^ Z%9] &$=d #ADb 
+A$W,V u:A!Oga+ A_.6 M@o- (@L8 @D0N\aJ <#AU}N@ "J*Ac](@ &A}?y@ @yXT@ [/YB 
+0AJN @3Q/[f& lV AgD ~+A5 XA'S FA`) >{~( %b@. a@). @F@7F gA(1 T0kALbp? kqm7 
+~A@Q 6?~W ]K~A DGNA< -9AH 3IA) aCAi" @6,D e]Ap sFfA |@[a?R. w=@&fh /*]A 
+^)MAD p=bA \!>F U}RA /LeA 4.?K' DG^A 9#9A 7g.Az6 j=JG d?JHz/Z^ |>%RS GPhAJ 
+PeA~& W95Aj+ -0@y= .nFA ]@E` E%5A> X@A:N :PA,LF? IQAd h|@Gh GWA6 S?Bq *^Ag 
+Ar"AEiV &RA` [A< ?@'FA 0w .yv< k f\AH 8?@iSA 2AnV fD=A _,A2 `TQA Fr@A&u 
+[7>/@ h7A| -A8, ~ AEv E=f+ @%L L4E @}s/% GA8p \m9A E%?A : |?0A a6A(S 
+4A]Ej\ \*ASM 8A@NQ <A"{m ,A.C :Am^YL X31?g RA@kGA 1]A#p) caAfm @`CA< 4*Ak< 
+&CA5 *;Ac >@MNA AZO? AKbU>>5 En@t A2J{ s9]@ 2";f A=:j wb@G \c@$g WrP@ 
+fr<@;j ALD> L@)r A_Bh A=F^ *@2~ APUnX |?Mr ~?K\ V?o? a?], ;@e0 (@Nn T>$_ 
+(>bn A12Z Y7ds B}@( 0:i? xlvC e@23 Ax*rf ?@VnA T`] 9M@"f E.O@ A0@` ?@d]L?@ 
+AM#H/ $?`M A</Sb A^m1 vA|]w zAn/ @tzE? wAvDGRf2 pAG2 @@?F -lj?6 AZpA V@Xw 
+-2 Ak1^ @&u6 ?^Mf B@?n BF"u V:z?. ^2A_9 AY4>g yw@3U nR@0 #(&@ @<gd |*4; 
+AWg By$ @pVM 7@`K( ?P@ b]<j6 [ y@PM B7 Z@ Mb@`C xq@@ s@=?a+ _Xm? Bc$\t 
++5@P %S-@P +K@p s$S@ Ga@p TY@`^ 8r@0 bK@`x yX4@P/,B )/B2 5^:@p +@@d'B 
+@PA*BDT ?P`2B A[Uq ef AcT{ A}X* Wi?p4 xWA= *ZY> AVT5 AdTQ A=]-9{B >M>A5In 
+5j$= AJJ& A5Zw }$(f AXGy A%I[ AY>, A'5jr AKH>dE! ?pX8B [;BT2 SBBH ?0p5BN 
+#?B ?@H=Bq aFBYz >0_KB fJBD >BB m? iDB IR{I gFBv tO^? ?p.IB= >0lPBs DP<? 
+]NB{ )?P#IB P^YBl A#F' BB"%0w= >0_>B AcKP ">P\EBw >PdIB 3QB^ 0,LB SB&EMB 
+2?BpABEBH}> &PBV+gx |FBl e{o pOVB_ POXB `6WBnA bBI1 P[_Bg# 0WB.%qy@ ,]B_ 
+V]B? 5gBC `Bq" `x]B SXBLaz' cmBE PosB p.hB kB&c" Ka]?\ ATI8 AWJ9 AJG{ A!LR 
+&wR> A2?] A(EA A!B6 A34 t AWZPQ B.<V A'<Z AN6j A8<: A-6R B12O B@.w B.$^ 
+a8?r ^J*? AR<u A%64 T'?? B<^, B8f?C 1z3)j "Se@ Bn+` BA(syk B,d+O t"Zs 
+nc?A%rj2} }8Z= /@GG A'O ?1[X "^Q?U ?"'t BgGD x !u ) Cv BDv. atIF& BD0v 
+B333 fv=w S;r> S""z av B8+1 Jjf. 2?5ca Qn>K =m4T *?|Ls oV=: Ps ^Z?G )>Cs 
+N!i? 8,f? >Ysr BU/Y }?"X p?UB @XCB :BBY Qf|J ?B4M `kBB AB8>i vUBG HVB% 
+=PBo WB}I UUBC pzSB 8UB! PB0B EWBm0/c YBHa>2JB P==BJ @:BU H?Bi <B^CX @wFB 
+GB~=] )HBdpLAB eQL- EB{K?e RHB@B," xHB 7q 5EBCB+P xABf ABo9 H>G\ >>O= pRHB 
+MBN4 pCTB$ 4WB?VBdm 0*XB yMBO LBb0J SBUa /LB@ MB/f vKBd `8NB LB{i~H 2LBZ 
+RB!)!a QYBhz FafO }JBBo LNBoc PB,E P0IB QB$]r( gBL1Kkf1 @neBM [kBh3 P9]Bg 
+iB=R P'\B my>" 0g^BU7 AhBnA gB70 @LvB tB^X "pBs 0|tB pFkB MnBOBv @WmB p=\B 
+@jeBn`t `B*uG PI_B p_bB ^B8^R kBebr 0{fB YBx[ ZBGm ^BH, <`BK4 @ObB 2YoQ% 
+0haB 3ut! WgBh 0.dBp DATAP METRIANGLES-8 p@pA T@`Cs Cx@` VRi@ &a@P b2o@ 
+:#x@ ~@0jp Sq@P?s rFR@ nV;@ A9U3 (~@p @+%; >jF% @6xB @@61 @nXS @B+Q @ChO 
+\f.#QD @`<P @egD @Q]H @oeI @N@J AS3. MrH% @;X* @"R. @-o' @.70 ~pW$ @|?= 
+@+1- @?p, ,n0(G3 @X5% uw3(I nx:'v @}c @%S* @DR> h )O> @n[8 |@1 8Q@0 laA@( 
+6Vf@ b'M@ n94=' Lo.@!W H#(@ =@as W"ut ?<.. Un[@8 R)z@;: tvJ0i P%@B@ kY@<" 
+LXp@W aO3@ ?@j, keG@7l #f@1 _@*B <i@& y@5J vp@?t ~@iH vN.5 yx:+A $hhI rf72 
+iwCC v?^s 8?EK vq=: .ff4 3/ Qy0%6 1sD4{ lz9` @p'-> q,37 l46 ?Svk j`9. i%@w 
+[pm3 h|J@ @M]l Vp?oD j!6u 12?a [YM: ?^,J kf30 ?wJ$ \fK<\ JbF8a ?Vy= \;ID 
+<M-p Vh~& 5pL8 a5QH Ni:C. U[HL co:i 2bP- yQEK" M(IC }JWQ v;S\@ 0GUJ 2L>H 
+@J?QB $m?n %](@ %>8M R@!2 G}o? ?]<HF *@Yu $U^@ .kI1 @iwm =]Cb !@KA @[@(% 
+32?!F ?5(O? @b5s63 AF@/ @"w{ ~zt@(: 5K7w m@T| 227` UVA[ @{2RA FTAK @^KPA 
+@?SOAk $VA0 @d=UA hMA#w PrH@ &3v@^ As~$ tXq@4 @0(r# Aztm wAA^ HJAn @)mCA 
+@\0BA @^bHA| CAnzG$3 U=A= /oA% @^6QA A?A{ + 1AAE @&EEA @ieAA @|2DA @>`QA 
+@_X6A. @[s3A n0AH b;A@c =API @<?6A X2AL @4>&Ae @+F*A &A-%@tzVA WA^; AYO\A& 
+A`} ADMZA mWAP }ZAc A{aZA( A(:\A P7{AA eAOj 5]mA ;#AXA\A AP}XAD APE[AJ 
+A3%]A4 ASx[A{ Aq4YA _YA- AYf]A A(o]A b]AFO x@@< AU5X |MAj 7LA- @dfSA 
+@u%KAi @-#IA ]AAq /HAK ?AO! @VHTA @zAUAK CHA& @liCA -IA= @\)FA .Ur}" W1AP 
+@JL;A@! ;A=]] NWdc -A=% -A"# @1M0A .Ac! ,A;F @r$3A %AZ$Q .Aid B>A< }O@`" 
+BP@)@` A&(@@ YVAI (VAn U{;" AI~2 AZ9>@ A/JFa A&(H@ Ar_Q A_,W A(1P? &1qU- 
+`\kRVAi9 $AcvXA #B{t @0%'BR ,v"A y@@C0B3K* &X@p {@0%2B @"ln@ @pI-Bl ;B $G 
+|@@#9B @r=d@` pBBC 4BB{ DBuvd `@P{JB 9@P+KBs WPBV 1T@ +GB^ k<_A .[ri! mA;p 
+b!tA!A @0-&B$ AZBL@P0$B#. A*~r@ ALY4@ Pui1 &@@0) 'BZAyz |ZA6^|@@ Ha|A UAaT 
+[SwA (^@P ,FA~ gA,e @pu@B '@p =B 0UA& s;@@iCBu2 O/PA IBO @p`CB?C"jl P1B% 
+'B/$ {P@pQ*B @P?-B w7B: \m7< [?07NB 1EBs GIBi =B]--p ?@RLB B~/3u [@@V 
+AB`S@ AjoR@` ~@px S2@06 Ajo*@ - @` B5eE;?3 BATSSa0 Boq.. AhDA?` ?PY0BT `-B 
+*"x8 +B3!!t[* GBLf ;BR A`]| @0x]B 6@@WTB ?@@N 7@ hVB =bBd.6 t5#A *`?P 
+6@PLiB jfBs @`*kBB ?@#pB uhB? |^B9 @0'jBf vB?9 8yB |Bp^ "S?` p+N? B/>W 
+i?Pf xA?8 z{BE5 W? N SRJ\bAlV oYB @:AJ. v`VAp_ BO'A RA2w DMBF ,vMA IZB }e? 
+?Py]Bg ^:SA &@0fw!A :`Bo 7+yA 9?p^XB [^BE xA`Tj? 0;wA A0*Q RBOE*a<. JDg" 
+1WBr:8APb +bA@` pB ?>?PHqBO *?`&tB zB[< DATAD DATAh GLOB DNA1<d SDNANAME 
+*next *prev *first *last xmin xmax ymin ymax *newid *lib name[24] flag 
+*idblock *filedata name[160] curve blocktype showkey curval type adrcode 
+totelem *data *weights name[32] vgroup[32] slidermin slidermax *refkey 
+elemstr[32] elemsize block *ipo *from totkey slurph **scripts *flag 
+actscript totscript *line *format blen *name flags nlines lines *curl 
+*sell curc selc *undo_buf undo_pos undo_len *compiled size seek 
+passepartalpha pad1 clipsta clipend lens ortho_scale drawsize YF_dofdist 
+YF_aperture YF_bkhtype YF_bkhbias YF_bkhrot scriptlink *anim *ibuf 
+*mipmap[10] lastframe lastquality tpageflag totbind xrep yrep twsta twend 
+bindcode *repbind *packedfile lastupdate lastused animspeed reserved1 
+reserved2 texco mapto maptoneg blendtype *object *tex projx projy projz 
+mapping ofs[3] size[3] texflag colormodel def_var colfac norfac varfac 
+dispfac warpfac *handle *pname *stnames stypes vars *varstr *result *cfra 
+data[32] (*doit)() (*callback)() version ipotype data[16] *ima *cube[6] 
+imat[4][4] stype notlay cuberes depth recalc lastsize noisesize turbul 
+bright contrast rfac gfac bfac filtersize mg_H mg_lacunarity mg_octaves 
+mg_offset mg_gain dist_amount ns_outscale vn_w1 vn_w2 vn_w3 vn_w4 vn_mexp 
+vn_distm vn_coltype noisedepth noisetype noisebasis noisebasis2 imaflag 
+cropxmin cropymin cropxmax cropymax xrepeat yrepeat extend checkerdist 
+nabla frames offset sfra fie_ima *plugin *coba *env fradur[4][2] mode 
+totex energy dist spotsize spotblend haint att1 att2 bufsize samp 
+shadspotsize bias soft ray_samp ray_sampy ray_sampz ray_samp_type 
+area_shape area_size area_sizey area_sizez texact shadhalostep 
+YF_numphotons YF_numsearch YF_phdepth YF_useqmc YF_bufsize YF_pad 
+YF_causticblur YF_ltradius YF_glowint YF_glowofs YF_pad3 YF_glowtype 
+YF_pad2 *mtex[10] specr specg specb mirr mirg mirb ambr ambb ambg emit 
+spectra ray_mirror alpha spec zoffs translucency fresnel_mir fresnel_mir_i 
+fresnel_tra fresnel_tra_i filter ray_depth ray_depth_tra seed1 seed2 mode2 
+flarec starc linec ringc hasize flaresize subsize flareboost strand_sta 
+strand_end strand_ease rgbsel pr_type pr_back pr_lamp septex pad4 pad5 
+diff_shader spec_shader roughness refrac param[4] darkness *ramp_col 
+*ramp_spec rampin_col rampin_spec rampblend_col rampblend_spec ramp_show 
+pad3 rampfac_col rampfac_spec friction reflect fhdist xyfrict dynamode 
+pad2 YF_ar YF_ag YF_ab YF_dscale YF_dpwr YF_dsmp YF_preset YF_djit 
+name[256] scale selcol1 selcol2 quat[4] expx expy expz rad2 *mat *imat 
+elems disp **mat totcol loc[3] rot[3] wiresize rendersize thresh vec[3][3] 
+alfa weight hide vec[4] mat_nr pntsu pntsv resolu resolv orderu orderv 
+flagu flagv *knotsu *knotsv *bezt charidx kern nurb *bevobj *taperobj 
+*textoncurve *path *key pathlen bevresol width ext1 ext2 spacemode spacing 
+linedist shear fsize wordspace ulpos ulheight linewidth *str family[24] 
+*vfont *vfontb *vfonti *vfontbi sepchar totbox actbox selstart selend 
+*strinfo curinfo name[128] maxrct totrct vartype totvert extrap bitmask 
+*driver *tpage uv[4][2] col[4] transp tile unwrap effect *mface *tface 
+*dface *mvert *medge *dvert *mcol *msticky *texcomesh *sumohandle totedge 
+totface cubemapsize smoothresh subdiv subdivr subsurftype edcode crease 
+def_nr totweight co[3] no[3] co[2] *error modifier subdivType levels 
+renderLevels *emCache *mCache start length randomize seed axis tolerance 
+percent faceCount startx starty height narrow speed damp timeoffs lifetime 
+deformflag parentinv[4][4] cent[3] falloff *indexar totindex force 
+operation pntsw opntsu opntsv opntsw typeu typev typew *def vec[8][3] 
+dvec[3] **ob partype par1 par2 par3 parsubstr[32] *pardata *parent *track 
+*action *pose constraintChannels network defbase modifiers dloc[3] orig[3] 
+dsize[3] drot[3] dquat[4] obmat[4][4] colbits transflag ipoflag trackflag 
+upflag nlaflag protectflag ipowin scaflag scavisflag boundtype dupon 
+dupoff dupsta dupend ctime mass damping inertia formfactor softtime 
+rdamping sizefac actcol prop sensors controllers actuators bbsize[3] dfras 
+actdef gameflag gameflag2 softflag anisotropicFriction[3] constraints 
+nlastrips hooks *soft *life lbuf port fluidsimFlag shapenr shapeflag 
+*fluidsimSettings *derivedDeform *derivedFinal mat[4][4] curindex active 
+deflect forcefield pdef_damp pdef_rdamp pdef_perm f_strength f_power 
+maxdist pdef_sbdamp pdef_sbift pdef_sboft totpoint totspring *bpoint 
+*bspring nodemass grav mediafrict rklimit physics_speed goalspring 
+goalfrict mingoal maxgoal defgoal vertgroup inspring infrict efra interval 
+**keys totpointkey show_advancedoptions resolutionxyz previewresxyz 
+realsize guiDisplayMode renderDisplayMode viscosityValue viscosityMode 
+viscosityExponent gravx gravy gravz animStart animEnd gstar maxRefine 
+iniVelx iniVely iniVelz *orgMesh *meshSurface *meshBB surfdataPath[240] 
+bbStart[3] bbSize[3] mistype horr horg horb hork zenr zeng zenb zenk ambk 
+fastcol exposure range linfac logfac gravity activityBoxRadius skytype 
+physicsEngine misi miststa mistdist misthi starr starg starb stark 
+starsize starmindist stardist starcolnoise dofsta dofend dofmin dofmax 
+aodist aodistfac aoenergy aobias aomode aosamp aomix aocolor *aosphere 
+hemires maxiter drawtype subshootp subshoote nodelim maxsublamp pama pami 
+elma elmi maxnode convergence radfac gamma selcol *lpFormat *lpParms 
+cbFormat cbParms fccType fccHandler dwKeyFrameEvery dwQuality 
+dwBytesPerSecond dwFlags dwInterleaveEvery avicodecname[128] *cdParms *pad 
+cdSize qtcodecname[128] mixrate main pad[3] *avicodecdata *qtcodecdata 
+cfra images framapto framelen blurfac edgeR edgeG edgeB fullscreen xplay 
+yplay freqplay attrib stereomode dimensionspreset filtertype maximsize 
+xsch ysch xasp yasp xparts yparts safety border winpos planes imtype 
+bufflag quality scemode renderer ocres rpad[2] alphamode dogamma frs_sec 
+edgeint same_mat_redux gauss postmul postgamma postadd postigamma posthue 
+postsat dither_intensity zmin focus zgamma zsigma zblur GIquality GIcache 
+GImethod GIphotons GIdirect YF_AA YFexportxml YF_nobump YF_clamprgb yfpad1 
+GIdepth GIcausdepth GIpixelspersample GIphotoncount GImixphotons 
+GIphotonradius YF_numprocs YF_raydepth YF_AApasses YF_AAsamples 
+GIshadowquality GIrefinement GIpower GIindirpower YF_gamma YF_exposure 
+YF_raybias YF_AApixelsize YF_AAthreshold backbuf[160] pic[160] ftype[160] 
+col[3] frame name[64] cornertype editbutflag degr step turn extr_offs 
+doublimit segments rings vertices *camera *world *set base *basact *group 
+cursor[3] twcent[3] twmin[3] twmax[3] selectmode proportional prop_mode 
+editbutsize *radio framing *toolsettings audio markers *theDag dagisvalid 
+dagflags dirty zoom blend *rect spacetype blockscale *area blockhandler[8] 
+viewmat[4][4] viewinv[4][4] persmat[4][4] persinv[4][4] winmat1[4][4] 
+viewmat1[4][4] viewquat[4] persp view *bgpic *localvd localview layact 
+scenelock around camzoom grid gridview pixsize near gridlines viewbut 
+gridflag modeselect menunr texnr twtype twmode twflag twdrawflag 
+twmat[4][4] clip[4][4] *clipbb afterdraw zbuf xray vert mask min[2] max[2] 
+minzoom maxzoom scroll keeptot keepaspect keepzoom oldwinx oldwiny rowbut 
+*editipo ipokey actname[32] constname[32] totipo butofs channel lock 
+median[3] cursens curact align tabo mainb mainbo *lockpoin texfrom 
+showgroup rectx recty cury modeltype scriptblock re_align oldkeypress 
+tab[7] *filelist totfile title[24] dir[160] file[80] sort maxnamelen 
+collums *libfiledata retval menu (*returnfunc)() *menup oops visiflag tree 
+*treestore outlinevis storeflag deps_flags *image imanr curtile *text 
+viewlines font_id lheight left showlinenrs tabnumber currtab_set 
+showsyntax unused_padd pix_per_line txtscroll txtbar *script redraws 
+title[28] fase subfase mouse_move_redraw imafase dirsli dirsli_lines 
+dirsli_sx dirsli_ey dirsli_ex dirsli_h imasli fileselmenuitem imasli_sx 
+imasli_ey imasli_ex imasli_h dssx dssy dsex dsey desx desy deex deey fssx 
+fssy fsex fsey dsdh fsdh fesx fesy feex feey infsx infsy infex infey dnsx 
+dnsy fnsx fnsy fole[128] dor[128] file[128] dir[128] *firstdir *firstfile 
+topdir totaldirs hilite topfile totalfiles image_slider slider_height 
+slider_space topima totalima curimax curimay *first_sel_ima *hilite_ima 
+total_selected ima_redraw *cmap *arg1 outline[4] neutral[4] action[4] 
+setting[4] setting1[4] setting2[4] num[4] textfield[4] textfield_hi[4] 
+popup[4] text[4] text_hi[4] menu_back[4] menu_item[4] menu_hilite[4] 
+menu_text[4] menu_text_hi[4] but_drawtype pad1[3] back[4] header[4] 
+panel[4] shade1[4] shade2[4] hilite[4] grid[4] wire[4] select[4] lamp[4] 
+active[4] transform[4] vertex[4] vertex_select[4] edge[4] edge_select[4] 
+edge_seam[4] edge_facesel[4] face[4] face_select[4] face_dot[4] normal[4] 
+bone_solid[4] bone_pose[4] strip[4] strip_select[4] vertex_size 
+facedot_size bpad[2] syntaxl[4] syntaxn[4] syntaxb[4] syntaxv[4] 
+syntaxc[4] tbuts tv3d tfile tipo tinfo tsnd tact tnla tseq tima timasel 
+text toops ttime spec[4] dupflag savetime tempdir[160] fontdir[160] 
+renderdir[160] textudir[160] plugtexdir[160] plugseqdir[160] 
+pythondir[160] sounddir[160] yfexportdir[160] versions vrmlflag gameflags 
+wheellinescroll uiflag language userpref viewzoom console_buffer 
+console_out mixbufsize fontsize encoding transopts menuthreshold1 
+menuthreshold2 fontname[256] themes undosteps curssize tb_leftmouse 
+tb_rightmouse light[3] tw_hotspot tw_flag tw_handlesize tw_size textimeout 
+texcollectrate obcenter_dia vertbase edgebase areabase *scene endx endy 
+sizex sizey scenenr screennr full mainwin winakt handler[8] *newv 
+panelname[64] tabname[64] ofsx ofsy control old_ofsx old_ofsy sortcounter 
+*paneltab *full winmat[4][4] headrct winrct headwin headertype 
+butspacetype winx winy head_swap head_equal win_swap win_equal headbutlen 
+headbutofs cursor spacedata uiblocks panels *curscreen *curscene 
+displaymode fileflags globalf name[80] *se1 *se2 *se3 done *stripdata 
+*newseq startofs endofs startstill endstill machine startdisp enddisp 
+handsize *strip *curelem facf0 facf1 *seq1 *seq2 *seq3 seqbase *sound 
+level curpos strobe *effectdata *oldbasep *parseq *seqbasep metastack 
+edgeWidth angle forward wipetype fMini fClamp fBoost dDist dQuality 
+bNoComp buttype userjit totpart normfac obfac randfac texfac randlife 
+force[3] vectsize defvec[3] mult[4] life[4] child[4] mat[4] texmap curmult 
+staticstep omat timetex speedtex flag2 flag2neg vertgroup_v vgroupname[32] 
+vgroupname_v[32] *keys minfac used usedelem link otype data *poin *oldpoin 
+resetdist lastval qual qual2 targetName[32] toggleName[32] value[32] 
+maxvalue[32] materialName[32] damptimer delay propname[32] matname[32] 
+axisflag *fromObject subject[32] body[32] pulse freq totlinks **links 
+invert freq2 axisf button buttonf hatf precision str[128] *mynew inputs 
+totslinks **slinks valo time *act blendin priority stridelength strideaxis 
+reserved3 sndnr makecopy copymade pad[1] track volume linVelocity[3] 
+localflag forceloc[3] forcerot[3] linearvelocity[3] angularvelocity[3] 
+addedlinearvelocity[3] anotherpad[4] butsta butend visifac slow minloc[3] 
+maxloc[3] minrot[3] maxrot[3] distribution int_arg_1 int_arg_2 float_arg_1 
+float_arg_2 toPropName[32] *toObject bodyType filename[64] loadaniname[64] 
+accelleration maxspeed maxrotspeed maxtiltspeed rotdamp tiltdamp speeddamp 
+*sample *stream *newpackedfile *snd_sound panning attenuation pitch 
+min_gain max_gain distance streamlen loopstart loopend channels highprio 
+pad[10] gain dopplerfactor dopplervelocity numsoundsblender 
+numsoundsgameengine *gkey padf okey gobject gkey *active childbase roll 
+head[3] tail[3] bone_mat[3][3] arm_head[3] arm_tail[3] arm_mat[4][4] 
+xwidth zwidth ease1 ease2 rad_head rad_tail boneclass bonebase chainbase 
+ghostep ghostsize constflag ikflag *bone *child iktree *b_bone_mats 
+chan_mat[4][4] pose_mat[4][4] pose_head[3] pose_tail[3] limitmin[3] 
+limitmax[3] stiffness[3] ikstretch chanbase stride_offset[3] actnr 
+timeslide name[30] enforce *tar iterations rootbone subtarget[32] 
+orientweight grabtarget[3] minmaxflag sticky stuck cache[3] local lockflag 
+followflag offset[3] zmax volmode plane orglength bulge stride_axis 
+actstart actend stridelen repeat blendout stridechannel[32] TYPE char 
+uchar short ushort long ulong float double void ListBase vec2s vec2i vec2f 
+vec2d vec3i vec3f vec3d vec4i vec4f vec4d rcti rctf Library FileData 
+KeyBlock ScriptLink TextLine Text PackedFile anim ImBuf MTex PluginTex 
+CBData ColorBand EnvMap Wave VFont VFontData MetaElem BoundBox MetaBall 
+BezTriple BPoint Nurb CharInfo TextBox Curve Path IpoDriver IpoCurve TFace 
+MFace MVert MEdge MDeformVert MCol MSticky OcInfo MDeformWeight 
+ModifierData SubsurfModifierData LatticeModifierData CurveModifierData 
+BuildModifierData MirrorModifierData DecimateModifierData WaveModifierData 
+ArmatureModifierData HookModifierData SoftbodyModifierData 
+BooleanModifierData Lattice bDeformGroup LBuf bAction bPose PartDeflect 
+SoftBody Life FluidsimSettings DerivedMesh ObHook SBVertex BodyPoint 
+BodySpring Radio Base AviCodecData QuicktimeCodecData AudioData RenderData 
+GameFraming TimeMarker ToolSettings Group DagForest BGpic View3D SpaceLink 
+ScrArea View2D SpaceInfo SpaceIpo SpaceButs SpaceSeq SpaceFile direntry 
+BlendHandle SpaceOops TreeStore SpaceImage SpaceNla SpaceText SpaceScript 
+SpaceTime SpaceImaSel ImaDir OneSelectableIma ThemeUI ThemeSpace bTheme 
+SolidLight UserDef bScreen ScrVert ScrEdge Panel FileGlobal StripElem 
+Strip PluginSeq Sequence bSound MetaStack WipeVars GlowVars Effect 
+BuildEff PartEff WaveEff TreeStoreElem Oops bProperty bNearSensor 
+bMouseSensor bTouchSensor bKeyboardSensor bPropertySensor bCollisionSensor 
+bRadarSensor bRandomSensor bRaySensor bMessageSensor bSensor bController 
+bJoystickSensor bExpressionCont bPythonCont bActuator bAddObjectActuator 
+bActionActuator bSoundActuator bCDActuator bEditObjectActuator 
+bSceneActuator bPropertyActuator bObjectActuator bIpoActuator 
+bCameraActuator bConstraintActuator bGroupActuator bRandomActuator 
+bMessageActuator bGameActuator bVisibilityActuator FreeCamera bSample 
+bSoundListener SpaceSound GroupKey ObjectKey GroupObject Bone bArmature 
+bPoseChannel bActionChannel SpaceAction bConstraintChannel bConstraint 
+bKinematicConstraint bTrackToConstraint bRotateLikeConstraint 
+bLocateLikeConstraint bMinMaxConstraint bActionConstraint 
+bLockTrackConstraint bFollowPathConstraint bDistanceLimitConstraint 
+bRotationConstraint bStretchToConstraint bActionStrip TLEN STRC ENDB
+
+
+Performance text, 123 Pleasant Street, BIOS conference, after equipment
+hassles
+
+
+Dance is Dead. Dead Men Can't Dance. Dance is Sex. Scan-Dance. Un-Dance. 
+Dance is an Asylum. I want to thank everyone with two feet who has 
+contributed to this. I'm not sure exactly what I should be showing here. 
+There are too many files... I'm sorry... maybe I should go home
+
+hello hello - I had other plans for this - using the mic here but it's too 
+loud - so bear with me - At the moment this isn't going anywhere - these 
+are hmmm... mappings of a dancer's body - in this space - this is going 
+nowhere - hold on can someone get me a drink!? this was to be a 
+performance falling apart now it seems more like falling apart as a 
+performance hello hello no mic here - weird somewhere I hear speaking thru 
+here - well on the right is Maud dancing and on the left is a mapping of a 
+dancer following Maud in a manner similar to the avatar but the dancer is 
+live but the fuck I forget wait a moment the dancer is hmmm...
+
+well the dancer was using motion capture equipment and was therefore fed 
+into hmmm... fuck it I forget the dancer was fed into mocap and thru that 
+into bvh and that was imported into blender and then hmmm then the nodes 
+of the body of the real dancer were mapped into 4-space and so what you 
+see here are objects indicating the movements of a dancer imitating a 
+dancer imitated by an avatar but a mapping which in fact indicates the 
+tension of the originary body here you have what time is it wait I need 
+some whisky (case you don't know it I don't drink) well Foofwa did a 
+number I think he was smashed that's an Alpine zither that's a performer 
+in a movie I made using the Access Grid who doesn't not the access grd but 
+the performer know she's in a movie yes indeedie that's harmonica fuck was 
+going to play that live for you too but needed the mic which is now 
+unplugged and lying around somewhere ????  I actually had a lot to say 
+about this stuff related to E-poetry so what I can say now is fuck 
+e-poetry the only thing that should be around is fuck-poetry f-poetry why 
+this is entirely new and already a fucking canon is forming people are 
+included people are excluded were all fucking Jews here beyond the Pale hi 
+Maria.
+
+this is really really going nowhere by the way Maud was choreographed by 
+Foofwa more later at the talk tomorrow too long to explain here - that's F 
+dancing on what looks like a roof but isn't well it's Geneva that's whats' 
+important we work together wait there should be a text somewhere around 
+here, probably lost in the melee - in that battle someone got hurt I think 
+all those fucking ninja
+
+now something nice 
+see i can be so gentle you wouldn't believe it
+now some lightning hold on
+fireworlsc
+
+fireworks coming up you can't get enough of a good thing when you don't 
+know what you're doing blow something up - Moty Python
+or Moby Grape
+or just fucking Moby - can yoou believe that ugy?
+
+ok ths is the deconstruction of a glass or a cup or something that held 
+sugar I don't know anyway it's not really blown up just made to look that 
+way
+blah blah blah blah deconstruction of a face
+deconstruction of a tree 
+
+I want to thank the virtual environmnets lab at WVU who - I mean - they - 
+are not respnsible for any of this
+wanna see two guys? sure you do!
+those guys they do dance the dance anywya this is also from motion capture 
+stuff - I have no idea who the hell thse people are? wanna see a 
+threesome? sure you do!
+
+heh you probably thought they'd have clothes on!
+
+epoets can't stand sex;f-poets can't stand e-poets
+come to the f-poetry conference! ACAPULCO!
+
+ok this is looking at some tents from a ehight
+and this is getting the hell out of the way of motion capture mapping 
+thank you for the MOCAP software combined with Poser I think there was 
+some other stuff - anyway it's all body body body
+ok this is using Interent Two hot INTERNET before INTERNET tTHREE to send 
+my partner's picture - Azure's - around the world or some such godforsaken 
+place and back again - everything's out of sync of course - so much for 
+the Net. Fuc the net.
+
+I can't even tell you where the sound's coming from that's the new sound 
+let's just say it involves people and bodies and very low frequency radio 
+and let it go at that.
+
+above, that's Azure deconstructed by one of the scanners - this one cost 
+185k and we managed to defeat the software
+
+HAPPY FUN!
+HAPPY HAPPY FUN!
+
+me on autoharp (remember those?_) and Alpine zither - I'm the only fucking 
+avant-garde alpine zither player in the world - for real - cuase most 
+people don't even know what they are
+my partner as a blue-green madonne stitched together from inompatible 
+pieces -
+
+oh wait really I have something good!
+heh heh heh! really good!
+oh if you don't know it THAT"S NOT REAL!!
+heh heh heh!
+FUCK GOD. IF GOD EXISTS MAY I DIE NOW!
+,,,,,OPOOOFFF!
+See god was right!
+Goddamnit!
+stupid goddamn puppet!
+(it's not true )!
+This is for Funkhauser this is from Thailand
+And I haven't ever been to Thailand!
+But I know Tyedie!
+oh I gotta wrap it up
+Anyway it's been nice serving you and thank you for the whisky!
+Thank you and good bye!
+(God what the fuck have I done!)
+
+
+
+Some notes on sexuality in performance, video, etc. (This is in part a 
+follow-up to a recent discussion elsewhere.)
+
+First, it seems that sexual representation is overdetermined; the result 
+is it tends to dominate everything else. If I have a sexual work in among 
+a number of non-sexual ones, it's the sexual work that's remembered and 
+that actually forms the tenor of subsequent discussion. Our culture is too 
+confused and contradictory in relation to sexuality - it never resolves - 
+and sexual work can open a can of worms.
+
+Second, there's a huge responsibility involved, ethically and psychologi- 
+ically, in terms of sexual or even nude representation; if I'm using my 
+own body, I can take that, but if I work with someone else, he or she 
+might not realize the implications. So one has to be careful.
+
+Third, using one's own body creates an intense and unresolved disturbance 
+for an audience, when confronted, not only with nudity, but possibly with 
+the nudity of someone present (dressed) in the room - I'm talking about 
+video and reality co-mingling. And this may be difficult to take. All of 
+these situations result in an unresolvable problematic, usually produc- 
+tive of intense and on occasion negative emotions. After all, it's the 
+audience member's own body, own responses (sexual and psychological) that 
+is at stake.
+
+Fourth, most members of an audience will resist arousal - and while one 
+can generate any kind of powerful emotions in an audience (and that's 
+generally a good thing), arousal is taboo. Anger can be one result - just 
+like anger against gays often has to do with one's own impulses in that 
+direction.
+
+Fifth, we're living in a culture which hinges and intensifies explicit 
+sexual presentation and censoring; nudity is never complete, is always 
+dirty, and always desirable as a result. Television is full of this - 
+which then has to be situated elsewhere and elsewise in a performance.
+I tend to favor pornography over eroticism (although I don't own any 
+pornography and/or practice it) on the basis of honesty; one is confronted 
+with a kind of truth that eroticism hides. And I think that eroticism 
+spills out into and around capital - it's the 'way' the culture works, 
+even though pornography probably generates more money. To some extent 
+pornography is pornography because it is taboo - a kind of circular 
+reasoning - after all what's being presented is usually fucking of one 
+sort or another, an everyday act.
+
+Sixth, pornography is mixed with violence in an equation that I associate 
+with Iraq mixed with Al Qaeda; there's no necessary relation. Television 
+is far more disturbing in terms of the latter than the former, and while 
+some pornography has very uncomfortable power relations embedded in it 
+(for example the 'money shot' of coming on the face of someone, usually a 
+woman), this isn't necessary to it. What does seem necessary is a sense of 
+danger (there's also physiological and psychological evidence for this) or 
+transgression - in this sense, in spite of its codifications, pornography 
+is somewhat revolutionary. (Of course this is also taking the position 
+that pornography may be ultimately liberating, which may well be both 
+naive and retrograde.)
+
+Seventh, pornography and eroticism both touch on prostitution, etc.; the 
+very illegality of these forms tends towards a kind of (what is perceived 
+as) low-key criminality. And along with this, pornography now - at this 
+point in time - tends to slide into child pornography - into child abuse - 
+into a general category of 'pervert' - into the idea of sexual danger 
+lurking everywhere for everyone - into increased repression - including 
+things like Megan's law (which seems, to me, fundamentally wrong, a 
+continuous life-long punishment after someone has served time) - I could 
+go on and on about this, but in any case, this discourse of children tends 
+to frame or contaminate or penetrate the discourse of pornography, and 
+sexuality itself. One has to be more careful than ever - that what is 
+adult stays adult for example (however 'adult' or 'mature' for that matter 
+maybe defined).
+
+And eighth and final, even now there still seems to be a kind of libera- 
+tion in arousal, sexual display, etc. Dance comes more out of the 
+Dionysian than the Apollonian; it's connected with courtship, with inter- 
+course, mating rituals, Bacchanalias, etc. And yet dance is now largely 
+repressed - it's formalized (the cultivation of protocols, barriers, 
+institutions, companies, etc.) and even though, for example ballet, has 
+heavy sexual elements (supporting someone by the crotch etc.), these are 
+pretty much ignored or bypassed (all the more reason because they domin- 
+ate, are present) in discussion. It's this lack of discussion, lack of 
+sexual discoruse vis-a-vis dance, that, in fact, propels dance, in 
+particular ballet and so-called modern dance. Dancers themselves may be 
+poorly prepared for thinking through these things. (I'm not saying that 
+dancers should dance sexually here - only that this is an option which is 
+generally taboo.) (Of course there are exceptions to everything.)
+
+This is somewhat off the top of my head, but it's an area I've had to 
+consider far more than I've wanted to, given the nature of some of my 
+work. From my own viewpoint, my pieces cover a wide field of content and 
+interests, but sexual overdermination creates what might be thought of as 
+a black hole of discourse, everything far too often falling into that 
+particular direction.
+
+
+amps
+
+when androids ream metallic creep
+and robots dream their phallic sleep
+and vectors gleam machinic leap
+prosthetic sheen configured weep
+drawn spaces mean organic seep
+and numbered cuts wean surface deep
+gouged eyes lean bones upon a heap
+no mouths keen cries their voice to keep
+no hands clean bones their skin to reap
+no sex no glass no screen no 
+
+http://www.asondheim.org/amputee.mov
+
+
+
+Catastrophe.My Masterpiece
+
+
+http://www.asondheim.org/prosthetic.mp4 This is everything to me.
+
+Which took a lifetime to build and a lifetime to deconstruct. And within
+the platelets, about two-fifths of the way through the time-line, a clear
+sign of catastrophe, something unexpected, something momentarily out of 
+order. 
+
+This summarizes my visual work on measurement, on structure, on temporal 
+exfoliation, on collapse. For here the organism, platelets and joints, 
+falls apart, and in that instant culture is born, inscription... symbol- 
+ization, which can be read only in the scar of movement.
+
+The catastrophe is that the catastrophe leaves no scar; so many have 
+disappeared, stitched and sutured over in the digital domain. What happens 
+in Vegas stays in Vegas; what happens in history is traceless: all that 
+exists is a mute real, out of which we pick through the debris.
+
+The debris, remnants, back and forth through the digital, which is already
+split, sheared. No digital object holds together; it's contingent out 
+there. 
+
+
+
+
+Studies in the catastrophic
+
+
+Based on the previous video:
+
+1. http://www.asondheim.org/intersections.mp4
+
+Negative echo which reveals the core/confinement aspect of movement; 
+everything else is cauterized; there is considerable movement in the 
+upper left quadrant, the mitigation of the body.
+
+2. http://www.asondheim.org/prosmapping.mp4
+
+And of course the body with identical armature placed among the wings.
+
+There are different archaeological modalities at stake: identity and 
+equivalence/comparison - the latter applicable with intersection, and
+the former with the indexical-ikonic human figure.
+
+Everything is within the register of the digital. The figures shudder.
+
+
+
+
+
+Reviews of books I like in the midst of God my God of Sickness
+
+
+Reviewing under the sign of fever:
+
+Principles of Stratigraphy, Amadeus W. Grabau, Dover, from the 1924 edi- 
+tion. This was written at the end of the period of descriptive geology; 
+computers and seismic analyses, tectonics and satellite surveying would 
+come later. The principles, however, can be considered a non-GIS analysis 
+of surface features through comparison, tracing, mineralogy, and so forth. 
+I'd recommend this to anyone in the humanities concerned with informal 
+analysis of data-sets; it's also an extremely good read, staying close to 
+example. the last section on Correlation might be immediately useful.
+
+Tinnitus worse, eyes smarting in the light:
+
+The Works of the People of Old, Na Hana a ka Po'e Kahiko, Samuel 
+Manaiakalani Kamakau, translated Mary Kawena Pukui, edited and arranged by 
+Dorothy Barriere, Bishop Museum Press, 1976. This is a collection of 
+articles originally published in an Hawaiian newspaper 1869-1870; the 
+articles cover numerous aspects of Hawaiian life, including cultivation, 
+fishing, crafts, etc. But what makes the book wonderful I think are the 
+beginning sections on the calendar, space, geography, and the horizon. 
+Here we find an amazing phenomenology of the world which, I think, is 
+applicable as a means of understand the situated body - for example, the 
+horizon in relation to the body becomes inordinately complex, not in the 
+sense of coordinates, but in terms of site, range, immensity, and stance. 
+
+Sniffling, difficult breathing.
+
+The Powers of the Word, Rene Daumal, edited Mark Polizzotti, Grove, 1991. 
+Daumal is an anomalous author, and all the work in the book fascinates. 
+But I want to focus on his essay on The Powers of the Word in Hindu 
+Poetics, since this presents the theory of the Natyasastra coupled with 
+the analysis of poetry and poetics found in The Mirror of Composition, 
+written between the 12th and 16th centuries. "Poetry is a sentence whose 
+essence is Savor" (rasa) tends towards a brilliant poetics, opening new 
+territory for all of us. Coincidentally, I have the full Mirror of Compo- 
+sition, which I've delved into repeatedly; it's an obscure publication: 
+Bibliotheca Indica, Volume X, The Sahitya-Darpana or Mirror of Composi- 
+tion, A Treatise on Literary Criticism; by Viswanatha Kaviraja, revised 
+by Dr. E. Roer, translated into English by James R. Ballantyne, Calcutta, 
+1851. This is bound into a volume on the Nyaya philosophy, also revised by 
+Roer. The presentation of rasa reminds me of the Natyasastra, which is 
+also based on a theory of classification. Savor can be taken as a mode or 
+modes of being-in-the-world; language, word, and vocable are inter- 
+related. Vocables are words-in-use, not parole, but enunciation; two 
+attributes are proximity and expectancy - language resides in the imminent 
+- in the moment, and a sentence started one day and ended on another 
+problematizes enunciation. If proximity is external (i.e. the space-time 
+framework holding language together), expectancy is internal - the forms a 
+sentence takes, for example, in terms of syntax or meaning (Schutz's 
+relevance theory comes to mind as well). For the rest, try to find these 
+books (as well as the Natyasastra, which is available in two large English 
+volumes); you won't be disappointed.
+
+Slightly feverish:
+
+Google Hacks, Tips & Tools for Finding and Using the World's Information, 
+3rd edition, Dornfest, Bausch, and Calishain, O'Reilly, 2006. I think this 
+is the one book everyone working the Web should have - not that I want to 
+ignore the politics of the Google monopoly. Google is fast, highly config- 
+urable, and as everyone knows, offers a lot of applications; as a portal 
+to the 'World's Information' it's suspect, but as a tool, it's more than 
+useful. The book covers things that I've always wanted to know - for 
+example, how to download your GMail directories (it's a python program), 
+how to scrape sites for information, how to program Google (I've used this 
+section from past editions for creative textwork), things to do with 
+Google maps, how to scrape and work with Google groups, and so forth. 
+(Does anyone work with newsgroups anymore?) Once you get the hang of it, 
+Google is similar to regular expressions; you can filter and manipulate 
+quickly with all sorts of filtering. I think this book is the best guide 
+I've seen; although it's in the Hacks series, it gives fundamental 
+information. Some of the hacks require programming, by the way, but the 
+programming is relatively simple.
+
+Slight chills:
+
+Sound Dirt, Jim Leftwich and John M. Bennett, Luna Bisonte Prods, 2006. 
+Well this is wonderful; if you're not familiar with their collaborations, 
+you should be. I tend to like anything John Bennett does; his poetics 
+reflects particle theory, ignores time, gives into space only because 
+that's how you get the words there. (As I've been saying recently - and 
+this has political repercussions - 'There is there there.') The book has 
+immense numbers of short poems; some remind me of the early Clark 
+Coolidge, but they're cooler, not developing a poetics, but loosely using 
+anything in sight. Bennett's publications are prodigious and full of 
+energy and delight; they relate to code work but barely and aren't. You 
+might reach him at "John M. Bennett" <bennett.23@osu.edu> and see what 
+works he's got available. 
+
+More chills:
+
+Unix in a Nutshell, A Desktop Quick Reference, covers GNU/Linux, Mac OS X, 
+and Solaris, Arnold Robbins, O'Reilly, 2006. I tend to use this book and 
+the earlier editions a fair amount; I know you can a lot of information 
+through the man or apropos commands, or forums, or on-line pdfs, etc. etc. 
+- but I prefer a book by my side, that holds the keys to the worlds know- 
+ledge. This is the 4th edition, and contains just about any command you 
+might ever have to use. On editing alone, you'll find regular expressions, 
+emacs, vi, vim, ex, sed, and awk. There are useful sections on package 
+management (i.e. software downloads and configurations) and the various 
+shells. One thing I miss - which is in the earlier editions - the command 
+'fold' which allows rough text justifying that is quite useful; although 
+it's deprecated, it still seems to be around. 
+
+Heartburn and increasing fever:
+
+Web Design in a Nutshell, A Desktop Quick Reference, O'Reilly, 2006. By 
+now you know I have a connection with O'Reilly - I receive books gratis 
+for review; I'll only ask for books I feel are useful and worth owning. 
+O'Reilly books tend to be sophisticated and pricy, but they also go out 
+of date much less often than other manuals, etc. You can learn principles 
+as well as technique from them. I began using them in 1994-5 when I bought 
+linux 2.something from them in a small book to get started; it's continued 
+from there. Anyway this is the 3rd edition which contains large sections 
+on XML and (X)HTML, the presentation layer, the behavioural layer 
+(including JavaScript), web graphics, etc. The web graphics section 
+reviews gifs, jpegs, pngs, animated gifs, etc., and this is really useful; 
+there's a lot of technical information on compression, transparency, etc. 
+The final section is on audio and video media including flash. My own work 
+is primitive in terms of layout but (hopefully) sophisticated in terms of 
+format; the book helps.
+
+Headache and shuddering:
+
+Armenian Architecture, 4th to 17th century, Edouard Utudjian, Morance, 
+Paris, 1968. At the risk of sounding moronic, the structures in this book 
+seem stripped down; everything depends on location and surface against or 
+through elementary shapes. There are wall inscriptions, buildings 
+partially carved out of the rock matrix, and extremely early fortresses. 
+The architecture is incredibly beautiful, something one might dream after 
+reading Wittgenstein (go with it). I know next to nothing about this area; 
+the book is a revelation.
+
+Sore throat:
+
+Early Temples of Central Tibet, Robert Vitali, Serindia, 1990. Tis book 
+covers some of the few remaining temples after the cultural revolution in 
+China; 7000 temples and monasteries were destroyed. The iconography is 
+intense. If humanity is remembered among the world's organisms for any- 
+thing, it might well be Buddhism, an early and late outcry against suffer- 
+ing and violence. The plates are stunning, as are the commentaries. What 
+has been lost is immense; worlds have disappeared, and in this sense, the 
+book is an elegy as well.
+
+Sleepiness, throat and eye pain:
+
+Dictionary, Samuel Johnson, my editions Vol. 1 1799 8th edition and Vol. 2 
+1785 6th edition. Wow! I traded like crazy to get this; I've used it for 
+my own work. The book is a total delight - it's clearly meant to be read 
+for pleasure, not just used as a look-up. Now I know where a lot of other 
+English dictionaries get their start; some of the words seem exported from 
+Johnson (and used nowhere else). Johnson's everywhere in the work; it's 
+hardly neutral, and I don't think was intended to be. This is one of the 
+beat 'reads' I've had in a long time.
+
+Unbelievably bleary:
+
+Ka, Roberto Calasso - I hadn't heard of him before - ignorance - he's 
+written a series of amazing books - Ka is concerned with the myths and 
+gods of India - it's a poetics of groundlessness - I haven't read any- 
+thing like it - reviews from India seemed incredibly favorable except for 
+one from (I think) an Indologist - I'm not sure. The Upanishads and sutras 
+have found their way into my work; this book resonates with both literary 
+and philosophical interests. It's part retelling mythos, part commentary, 
+part literature, part phenomenology. Of course recommended in my 
+ignorance. (The book's not in front of me - details on Amazon etc.)
+
+Increasing feverishness (is that a word?):
+
+Isvara-Pratyabhijna-Vimarsini, Abhinavagupta, Doctrine of Divine Recog- 
+nition, 3 volumes (two Sanskrit with commentary by Bhaskari), edited by 
+Prof. K.A. Subramania Iyer and Dr. K.C. Pandy, Motilal Banarsidass, 1986.
+This is the fundamental work of Kashmiri Saivism around the 9th century. 
+The sutra is concise; each phrase is packed, and the whole is difficult to 
+understand. But amazing, yes! Ahnika VII of Jnandhikara (there are four 
+sections each with sections) is titled 'Presentation of the Lord as the 
+One Basis of All' - but the lord turns out to be related to Kristeva's 
+chora. The work espouses a theory of the foundation of knowledge, the 
+shining of objects, one's place in the order of things - that actually 
+need not turn on divinity. I've just begun to penetrate the book (the 
+third volume is an English translation without the commentary), and it's 
+eye-opening. Read through luminosity into luminosity; it's worth it.
+
+Coughing and sneezing:
+
+The novels and so forth of Philip K. Dick - which I came to just recently. 
+Mixed feelings brought on by an essay written in relation to The Man in 
+the High Castle, which appeared somewhat anti-semitic (in Philip K. Dick, 
+Selected Literary and Philosophical Writings); I find myself tiring of his 
+Christology, gnostic though it may be - on the other hand, the rewards are 
+enormous. Ubiq may be my favorite in its intensity; in almost all the 
+novels there are shifted realities which fray at the edges - one's never 
+sure of the ground of the real, and instead holds desperately onto 
+memory-objects which begin the split, one way or another. Flow My Tears, 
+The Policeman Said, is great, not the strongest; The Man in the High 
+Castle and Through a Scanner Darkly shouldn't be missed; The Divine 
+Invasion is a little too much for me; I can't get through VALIS; and he 
+may be one of the best writers of the 20th-century, hot in relation to 
+Ballard's cool. In Dick, the plot dissolves, oh well, there's got to be a 
+wrap-up at the end, otherwise forget it; it's 'about' states of knowledge 
+in fictional form; it's astonishing. We saw a DVD documentary on him; I 
+forget the title, but stay away; it was the worst video I've seen and 
+that's saying a lot. Check out what you can find of the Exegesis. Stay 
+away from fans. In any case I can't understand all the bother about God 
+which is just about everywhere in some of the novels, and in our culture 
+at the moment; it's a waste of time, derails any sort of intelligent 
+approach to (to what? Paine's The Age of Reason, which is terrific) - 
+anyway, you get the idea.
+
+Feverish again, ready to fall over, medicated:
+
+Nightjars, A Guide to Nightjars and Related Nightbirds, Nigel Cleere and 
+Dave Nurney, Pica Press, Sussex, 1998 - oh man, these are wonderful birds 
+- you know them - beautiful calls, amazing aerial displays (watch the 
+nighthawks!), some echo-location - the birds that sit on the ground - 
+hardly nest at all - the Oilbird, Potoos, Frogmouths, all the Nightjars, 
+Whip-poor-wills - some of these were called goatsuckers, medieval super- 
+stition - then the various Owlet-nightjars which are somewhere between 
+those groundsitters and owls and perching-birds and the book is full of 
+wonder! We have a number of bird books, ornithology books, etc. around 
+here, but this is one of the most magical; it's technical, but the details 
+are unusual and these birds are rapidly becoming my favorite (along with 
+the English sparrow, the anhinga, various cormorants, least terns, etc.).
+
+Woozy:
+
+Key to Pelton's Hemispheres, Designed for Schools and Academies, Sower and 
+Barnes, 1851. Okay, I've mentioned this before (as well as a few of the 
+other books here), but it's too weird not to include; this is an early 
+geography book written to accompany (now missing) school maps - what's 
+amazing is that the lessons are in rhyme and are meant to be sung! Think 
+of defining the earth or memorizing Asian lakesto the tune of Auld Lang 
+Syne, and you get the idea. It's charming and one of 'those books' which 
+are of course way way non-canonic, but should be read by every student of 
+American lit who gets tired of Hawthorne or Irving or Cooper. I keep 
+thinking of a musical...
+
+Bleary bleary nasal congestion:
+
+Want to point out that in Johnson's Lives of the English Poets - the 
+life of Abraham Cowley contains a long section on metaphysical poetry 
+which is well worth reading; Johnson prefers plainer writing: 'What they 
+wanted however of the sublime, they endeavored to supply by hyperbole' - 
+which plays into Kant in an interesting way.
+
+Am I still writing this, turning into flu-like symptoms?
+
+Nick Carter, The Sign of the Prayer Shawl, A New Killmaster Espionage 
+Adventure, Award Books, 1976, no author: 'Within 48 hours, Airliners will 
+crash into the world's major financial centers - unless Killmaster can 
+stop Shintu's men.' The bad guys are Japanese; on the cover, there's a 
+small image of a passenger plane slamming into the World Trade Center 
+towers...
+
+Some small tech through heavy vision:
+
+Grundig or Eton Mini 300 World Band Receiver. This costs around $30 and is 
+analog (which helps the sound); it's a simple short-wave with limited 
+coverage - but it's fairly sensitive and worth far more than it costs. I 
+use it on trips for both AM and short-wave; with analog, station hunting 
+is fun. Tuning can be a bit tricky, as the dial's extremely sensitive. 
+Recommended.
+
+Cough cough:
+
+Ubuntu/Kubuntu linux (the latter uses the KDE desktop, the former Gnome). 
+I've recently installed this on a fairly fast Dell desktop. You could 
+install it with your eyes closed. It's like liquid. It updated 160 
+packages automatically. You can't log in as root, but you can as super- 
+user. You can mess things up only so far. I'm using it for Blender 3D 
+imaging (see for example http://www.asondheim.org/prosthetic.mp4); it's 
+far better than WinXP for this. But video still lags behind; Kaffeine (and 
+other players) tend to crash a fair amount, and you just can't configure 
+the way you can with Quicktime Pro (which I recommend as well). Ubuntu 
+comes with OpenOffice, Gimp, and tons of other programs; it's a cinch to 
+download new things. It networked right out of the box (well, disk), It's 
+the standard for the CS department at West Virginia University. Definitely 
+try this, whether or not you're already familiar with linux. (Actually, 
+since I like to tinker, Ubuntu seems almost too clear, too complete. But 
+it does take care of all sorts of tasks you really don't want to do, and 
+leaves time for the fun things like trying to learn Python.)
+
+Shake, shudder:
+
+SimpleDrive Portable Storage 80GB external hard drive. My 'other' external 
+drive gave out; I bought this to use at the Virtual Environments Lab at 
+WVU. I can do video to and from it, and it reminds me of a very quiet 
+playing card; it was also inexpensive and runs from a USB 2 cord (i.e. 
+doesn't need a power supply). Recommended.
+
+Sniff sniff sniff:
+
+Anything by Marguerite Young - her masterpiece is Miss Macintosh, My 
+Darling, but her luminous prose moves through all her books. I haven't 
+found a bad one yet. She reminds me of Leduc or Anais Nin in her poetics 
+of prose; her content is a midwestern Americana with its utopias, 
+religions, and the lost. Angel in the Forest is great - but everything she 
+wrote is magical.
+
+Fevered once again:
+
+Apologies for not reviewing everything; I'm behind at the moment, Please 
+forgive me if your book isn't mentioned yet; it will be.
+
+Thanks, Alan, wheeze wheeze wheeze (falls over dead)
+
+Wornout
+
+The smallest wear-and-tear on a digital image
+Why hasn't anyone thought of this before
+Perhaps you've thought digital images are immune
+But they can be trampled in the dust
+Stained or torn, ripped or soaked in floods
+Burned or charred, polished or foxed by age
+Hooray for the digital that has tricked us forever
+Here is proof of so much wear-and-tear
+Destroy she said, but where to begin
+There is there there, i replied in both tears and laughter
+So the matrix is only a woven misconception
+The grid is only a silly Vladimir Lenin
+
+Look, i said i've done it, nothing more there is
+Nothing much there, she said, nothing much there at all
+
+http://www.asondheim.org/wornout.jpg
+
+
+
+
+
+neuropteris now with images
+
+http://www.asondheim.org/neuropteris1.jpg
+http://www.asondheim.org/neuropteris2.jpg
+http://www.asondheim.org/neuropteris3.jpg
+
+from the pennsylvanian, nova scotia, i am sure west virginia
+no matrix no master no copy
+no matrix no master no copy
+ 
+kind 
+fern.]
+extinct. extinct. plants
+
+incredible sunshine, humidity, about  c
+
+structure during during a critical phase phase of ecosystem composition 
+gr. ? ? a nerve + + ? kansas)\neu*rop"te*ris\, kansas)\neu*rop"te*ris\, n. 
+n. [nl., fr. fr. gr. pecopteris neuropteris (a, (a, b), b), neuropteris 
+and (a, alethopteris calamiteans. and basal calamiteans. stump basal 
+diameter root measurements, mantle, including range root  mantle, to 
+range   mid-pennsylvanian (early (early cantabrian) cantabrian) 
+tree-fern scotland scotland during carboniferous (- period million 
+
+barometer falling
+
+(- of few dominantly largest aggrading show show evidence evidence 
+for for upper pennsylvanian, pennsylvanian, eastern eastern  when 
+trees scaled per up hectare to when standard scaled forestry up island, 
+smallish scrambling scrambling the creepers. name as implies, years 
+million ago). years seed ago). ferns seed grew mainly period along stump 
+distribution distribution measurements measurements on on palaeosols 
+
+wind - km/hr
+
+triassic triassic formation.a been latestfound mid-pennsylvanian 
+post-burial post-burial regeneration. regeneration. being being 
+tree-fern-dominated forest attained densities densities of c. localized 
+implies, smallish they reproduce, used and seeds were reproduce, the 
+dominantly floodbasin grew settings, aggrading a floodbasin few settings, 
+and raised in levees a rivers of came and variety raised shapes of sizes, 
+approximately approximately coeval the late extinction extinction which 
+name certain foliage which certain neuropteris rainforests which covered 
+preserved of deposits plain, coastal tree-ferns plain, are subject 
+alethopteris, ferns. a alethopteris, seed a fern, seed and fern, and were 
+alethopteris all () pecopteris were (a, all b), pennsylvanian diameter 
+ including cm, the indicating ferns ferns large mostly trees, 
+constricted at point in at neuropteris, bases. bases. (all (all upper 
+species which species an haveextensive been the found devonian devonian 
+that another the in the that fern, the differ bases from of neuropteris, 
+preserved brackish incursions. incursions. they they were constructed of 
+psaronid-type trunks trunks and massive massive pecopterid pecopterid 
+
+spore count high
+
+large rather trees, indicating rather that than the shrubs. shrubs. stump 
+provide insight insight into into community community the composition and 
+pinnules, attached the to leaflike stem, the whereas pinnules pinnules a 
+palaeosols indicate indicate localized patches patches of fronds, fronds, 
+locally locally intergrew intergrew with with sigillarian event, resulted 
+resulted coeval forests dominate rising tropical dominate mines the 
+seam tree-ferns the 
+reorganization.fossil foxley, reorganization.fossil tollcross. neuropteris 
+units, standard  forestry trees units, per much hectare denser typical 
+than lycopsid mid-pennsylvanian forests. lycopsid tree-ferns forests. for 
+tropical the lowlands first first forests time, rising head fossil 
+pinnules, of leaflike frond, portions are frond, to are the broadly 
+
+oxygen rising
+
+pecopteris, pecopteris, true true ferns. differ fern, from in neuropteris, 
+amongst bearing earliest used bearing to plants on planet. seed now 
+(paleon.)kind an of extensive fossil genus ferns, fossil which ferns, 
+sigillarian lycopsids, neuropterid lycopsids, pteridosperms, neuropterid
+
+time
+
+i was the first to see their light
+i was the last to see their light
+
+no matrix no master no copy
+no matrix no master no copy
+
+
+adolescent sex
+
+jennifer walked swiftly down jennifer street walked swiftly down the 
+jennifer ave walked swiftly down nikuko street noticed jennifer and 
+jumped up and down lets fuck nikuko! noticed jennifer and jumped up and 
+down lets fuck jennifer! walked swiftly down jennifer street walked 
+swiftly down jennifer street walked swiftly down nikuko street noticed 
+jennifer and jumped up and down lets fuck nikuko! noticed jennifer and 
+jumped up and down lets fuck jennifer! walked swiftly down the 
+jennifer ave walked swiftly down jennifer street walked swiftly down 
+nikuko street noticed jennifer and jumped up and down lets fuck nikuko 
+noticed jennifer and jumped up and down lets fuck jennifer! walked 
+swiftly down jennifer street walked swiftly down the jennifer ave 
+walked swiftly down nikuko street noticed jennifer and jumped up and 
+down lets fuck nikuko! noticed jennifer and jumped up and down lets fuck 
+jennifer walked swiftly down jennifer street walked swiftly down 
+jennifer street walked swiftly down nikuko street noticed jennifer and 
+jumped up and down lets fuck nikuko! noticed jennifer and jumped up and 
+down lets fuck jennifer! walked swiftly down the jennifer ave walked 
+swiftly down jennifer street walked swiftly down nikuko street noticed 
+jennifer and jumped up and down lets fuck nikuko noticed jennifer and 
+jumped up and down lets fuck jennifer! walked swiftly down jennifer 
+street walked swiftly down the jennifer ave walked swiftly down nikuko 
+street noticed jennifer and jumped up and down lets fuck nikuko! noticed 
+jennifer and jumped up and down lets fuck jennifer! walked swiftly down 
+jennifer street walked swiftly down jennifer street walked swiftly down 
+nikuko street noticed jennifer and jumped up and down lets fuck nikuko! 
+noticed jennifer and jumped up and down lets fuck jennifer! walked 
+swiftly down the jennifer ave walked swiftly down jennifer street 
+walked swiftly down nikuko street noticed jennifer and jumped up and 
+down lets fuck nikuko noticed jennifer and jumped up and down lets fuck 
+jennifer walked swiftly down jennifer street walked swiftly down the 
+jennifer ave walked swiftly down nikuko street noticed jennifer and 
+jumped up and down lets fuck nikuko! noticed jennifer and jumped up and 
+down lets fuck jennifer! walked swiftly down jennifer street walked 
+swiftly down jennifer street walked swiftly down nikuko street noticed 
+jennifer and jumped up and down lets fuck nikuko! noticed jennifer and 
+jumped up and down lets fuck jennifer! walked swiftly down the 
+jennifer ave walked swiftly down jennifer street walked swiftly down 
+nikuko street noticed jennifer and jumped up and down lets fuck nikuko 
+noticed jennifer and jumped up and down lets fuck jennifer! walked 
+swiftly down jennifer street walked swiftly down the jennifer ave 
+walked swiftly down nikuko street noticed jennifer and jumped up and 
+down lets fuck nikuko! noticed jennifer and jumped up and down lets fuck 
+jennifer walked swiftly down jennifer street walked swiftly down 
+jennifer street walked swiftly down nikuko street noticed jennifer and 
+jumped up and down lets fuck nikuko! noticed jennifer and jumped up and 
+down lets fuck jennifer! walked swiftly down the jennifer ave walked 
+swiftly down jennifer street walked swiftly down nikuko street noticed 
+jennifer and jumped up and down lets fuck nikuko noticed jennifer and 
+jumped up and down lets fuck jennifer! walked swiftly down jennifer 
+
+down lets fuck jennifer! walked swiftly down jennifer street walked 
+swiftly down jennifer street walked swiftly down nikuko street noticed 
+jennifer and jumped up and down lets fuck nikuko! noticed jennifer and 
+jumped up and down lets fuck jennifer! walked swiftly down the 
+jennifer ave walked swiftly down jennifer street walked swiftly down 
+nikuko street noticed jennifer and jumped up and down lets fuck nikuko 
+noticed jennifer and jumped up and down lets fuck
+
+
+
+as older
+
+as older i grow, the crystalline world crystallizes,
+my brain harpoons through silicon and salts, membranes torn,
+shrunk, fissured, cleft; i burn those wounds with theory,
+language stitched, sutured, mouth speaking tongues,
+barely a rhythm left, semen slips on its own time, space
+imagines healing until unhealing, lips parted, cliffed
+memories and recitals, i learn to veer away. until memory
+returns, harsh, making no difference to others, 
+alive. by then i am gone as the world's cleft teeters,
+sore, sworn without me, by then, there is then then, hard,
+and obdurate. i cannot mouth, dirt, names are that river
+of worlds, known, unraveled, soaked, drowned in mind only,
+born in mind only, death's whisper of a certain afternoon,
+moaned, muted, towards no one or other, i make, am, fluid,
+borne stones, cairn, already futured past, memorial. they
+have not grown, old, nor young, they have not grown
+
+
+- Neuropteris -
+
+
+given the length of the necessary excavation and the hiring of actors and 
+actresses, this damn thing took all night. sorry it's slightly large but 
+it's worth it. otherwise i wouldn't have taken all day.
+
+http://www.asondheim.org/neuropteris.mp4
+
+and then the dvd drive started acting up and i had to set a restore point 
+with a vengeance i went back three weeks. then poser gave out and i had to 
+reinstall. now do i make a registry cleanup? of course. 
+
+'It is particularly unfortunate that this, the earliest known Neuropteris 
+of Nova Scotian Pennsylvanian beds, is represented only by minute frag- 
+ments which preclude an adequate knowledge of the species. Superficially, 
+at least, there is a marked resemblance to Mariopteris pygmaea D. White, 
+which occurs at a much younger horizon. The ultimate pinnae are apparently 
+short, with relatively broad, lineate rachis (0.34 mm.) and alternative, 
+triangular-ovate, inflated, coriaceous, neuropteroid pinnules 3 to 5 mm. 
+long by 2 to 2.5 mm. wide at base, over half of midrib relatively thick, 
+and three or four pairs of short laterals that are divided once or twice, 
+of which the lower reach the borders at a right angle; terminal pinnule, 
+triangular-ovate, 6 to 8 mm. long, assymetrical, with small, obtuse, 
+rotund, basal lobe on one side. The strongly arched or inflated pinnules 
+are medially grooved dorsally in lower half of pinnule and depressed 
+marginally along a narrow border.' - from Carboniferous Rocks and Fossil 
+Floras of Northern Nova Scotia, W.A. Bell, Ottawa, 1944.
+
+It is remarkable that the Nova Scotian flora is almost identical to the 
+Pennsylvanian flora I collected as a child; I found and labeled over 700 
+specimens, including numerous Neuropteris.
+
+http://www.asondheim.org/neuropterisfossil.jpg
+
+

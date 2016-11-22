@@ -1,0 +1,10 @@
+ 
+
+WARNING:  Kernel Errors Present
+   end_request: I/O error, dev 02:00 (flop...:  4Time(s)
+   floppy0: data CRC error: track 0, head 0...:  4Time(s)
+   floppy0: data CRC error: track 1, head 0...:  2Time(s)
+   hda: task_no_data_intr: error=0x04 { DriveStat...:  3Time(s)
+   hda: task_no_data_intr: status=0x51 { DriveReady SeekComplete Error }...:  3Time(s)
+
+ 

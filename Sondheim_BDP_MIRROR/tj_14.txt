@@ -1,0 +1,259 @@
+
+.........o...^__^
+..........o..(oo)\_______
+.............(__)\.......)\/\
+.................||----w.|
+.................||.....||
+.
+.Begin:.Loading.essential.drivers.....done..Running.
+./scripts/init-premount.Mounting.root.file.system.
+./scripts/local-top./scripts/local-top/cryptroot:.line.24:.
+.dirname:.not.found./scripts/local-premount./scripts/local-bottom.
+./scripts/init-bottom.*.Stopping.adjust.clock.and.timezone[122G[.
+.OK.].Read.required.files.in.advanceStarting.Mount.filesystems.on.
+.bootPopulate./dev.filesystemlink.to./run.Track.if.upstart.is.
+.running.a.containerClean./tmp.directoryInitialize.or.finalize.
+.resolvconfSignal.sysvinit.that.the.rootfs.mountedvirtual.are.
+.Bridge.udev.events.into.device.node.kernel.event.managerlocal.
+.remote.load.modules.from./etc/modulescold.plug.deviceslog.
+.initial.creationEnabling.additional.executable.binary.
+.formatsflush.early.job.output.logsD-Bus.message.busSystemD.login.
+.management.servicelogging.daemonbluetooth.fallback.graphics.
+.mDNS/DNS-SD.Reload.cups,.upon.starting.avahi-daemon.make.sure.
+.queues.populatedUncomplicated.firewallconfigure.network.
+.securityFailsafe.Boot.DelaySMB/CIFS.File.ServerSystem.V.
+.initialisation.compatibilitymodem.connection.[33m*.[39;49m.
+.VirtualBox.Additions.disabled,.Virtual.Machine.socket.Active.
+.Directory.Setting.sensors.limits[128G.up.X.directories....
+.[31mfail.[39;49m].enable.remaining.boot-time.encrypted.block.
+.runlevel.CPU.interrupts.balancing.Restore.Sound.Card.
+.Stateregular.background.program.processing.anac(h)ronistic.
+.cronsave.messagesACPI.cpufreq.modules...MDM.Display.
+.ManagerCPU0...Send.an.indicate.plymouth.CPU1...CPUFreq.
+.Utilities:.ondemand.governor.....cups-browsed.-.Bonjour.printer.
+.browsing!
+.
+.Bonjour!
+
+
+
+
+
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+.. God is a sailor, and he never comes home
+.. God is a sailor, and he never comes home
+
+
+http://www.alansondheim.org/sailor.jpg
+
+
+
+
+
+on the verge */of a keynote at upj/*
+
+http://www.alansondheim.org/ontheverge.jpg
+http://www.alansondheim.org/ontheverge.mp3
+
+azure carter, voice, jeremy justice, implementation,
+luke damrosch, software, alan sondheim, violin
+
+this is mindfully listening to something other than
+the sound of my own voice
+
+
+
+upjtalk went fantastically well! thank you!
+
+http://www.alansondheim.org/upjtalk3.jpg
+http://www.alansondheim.org/upjtalk.mp3
+http://www.alansondheim.org/upjtalk2.jpg
+http://www.alansondheim.org/upjtalk1.jpg
+
+talk outline http://www.alansondheim.org/keyword.pdf
+
+stumbled a great deal here, compensated, apologies
+for any inaccuracies. lots of work shown, really happy
+with the q&a and thanks to everyone who participated,
+spoke, organized!
+
+covered about 1/10 of what i'd like to have, and 
+found myself running around far too much in my head; 
+on the other hand, the images and videos spoke for
+themselves. near the end, azure singing, myself on 
+violin with revrev thanks to luke damrosch, version
+1.6+.
+
+- alan
+
+
+
+Enderthebridge Johnstown
+
+http://www.alansondheim.org/johnstown110.jpg
+http://www.alansondheim.org/enderthebridge.mp4
+http://www.alansondheim.org/johnstown120.jpg
+http://www.alansondheim.org/johnstown100.jpg
+
+cinematographer Azure Carter
+mise en scene Jeremy Justice
+actor musician Alan Sondheim
+fx and production Alan Sondheim
+
+"That which makes itself known to the individual
+consciousness as sexual impulse in general, and 
+without direction to a definite individual of 
+the other sex, is in itself, and apart from the
+phenomenon, simply the will-to-live."
+ - Arthur Schopenhauer
+
+ender the bridge near the bridge where the bodies
+drowned and burned
+overt the bridge extend the bamboo's standard length
+their i do play later to edit expiation and depth
+on words i go silent, the lowed lowest vowels of all
+
+
+
+THE INCLINED PLAIN!
+
+
+http://www.alansondheim.org/TheInclinedPlain.jpg
+http://www.alansondheim.org/evenings1.mp3
+http://www.alansondheim.org/evenings2.mp3
+http://www.alansondheim.org/evenings3.mp3
+
+With: Jeremy Justice! (Justus!) Tabla
+With: Azure Cartwright! (Carter!) Vox
+With: Alan Cinders! (Sondheim!) violin / erhu
+
+In: TheInclinedPlain! 
+Thanks to: The Inclined Plane! Johnstown, Pa.
+And in general: The County of Cambria, Pa.
+
+HYBRID MUSIC 4 THE STARS!
+C U NEXT YEAR @ THE VIDEO MUSIC AWARDS!
+THANK YOU THANK YOU!
+
+
+
+
+Wagner's Ring
+
+http://www.alansondheim.org/evenings40.jpg
+http://www.alansondheim.org/tubetub.mp4
+http://www.alansondheim.org/evenings30.jpg
+
+
+
+so many rapture among providence
+
+http://www.alansondheim.org/SAVETHME.jpg
+http://www.alansondheim.org/SAVEME.jpg
+
+RHODE ISLAND = I LAND HORDES
+
+SAVE ME School of Design yearbook with pieces by Mary Boone, 
+Alan Sondheim, etc. (not in folder) - partly damaged, please 
+check. Ranch which was the size of SAVE ME (and may still be).  
+Nothing is of improvisors living in Providence, SAVE ME. worked 
+with/for Warhol, publicly displaying a tape at the SAVE ME Brown 
+University in SAVE ME; I contact Edward, from Cybermind, SAVE ME 
+School of Design used to be. I thought again about the limited 
+information forward full, sun Carr SAVE ME School Design, 
+readings together at University of SAVE ME; I remember playing 
+the the sun in the back of Carr House at SAVE ME School of 
+Design, my 8mm when I was going to school in SAVE ME; he was at 
+URI and we did later we went walking in the woods, I think SAVE 
+ME, looking at Kingston, SAVE ME; I'd drive down. Providence, 
+SAVE ME, the ruined airliner crashed against the side of in SAVE 
+ME, I still feel isolated; Azure and I spend far too much 
+Halifax and at SAVE ME School of Design; I realized I've carried 
+this loneliness (living in SAVE ME), feelings of abandonment (so 
+many of the sun in the back of Carr House at SAVE ME School of 
+Design, my 8mm when I was going to school in SAVE ME; he was at 
+URI and we did was - I think SAVE ME, looking Kingston, SAVE ME; 
+I'd drive down. Providence, Rhode Island, the ruined airliner 
+crashed against the side of Rhode Island, has a complex theology 
+based on the broken In 1973 I taught "The Year 3000" at the SAVE 
+ME School of Design. SAVE ME School of Design used to be. I 
+thought again about the SAVE ME School of Design, 1969-72 11 
+SAVE ME ---RhodeIsland RhodeIsland 2008_10_23_15_02_31.dvr-ms 
+discussions hosted by Brown University in Providence, Rhode 
+Island Queer-e, RISD Real Resonances, Review Reviewer, Revised 
+Rhode SAVE ME, has a complex theology based on the broken that 
+rumor stole around all Rhode the Island film that equipment 
+stole is all a film around equipment Rhode School there Design 
+years was at ????RhodeIsland ????RhodeIsland ?  RhodeIsland 
+2008_10_23_15_02_31.dvr-ms In 1973 I taught "The Year 3000" at 
+the SAVE ME School of Design. Clone, Providence, RI: SAVE ME 
+School of Design, 1971.  Includes AS AS, Resonances, SAVE ME: 
+ppress, 1971 Kingston, Rhode Island, and on page 144, a section 
+on graphing wireless In 1973 I was between SAVE ME School of 
+Design and Brown University; active as an improviser in SAVE ME 
+working with Ritual All 770, a tightly together in the 
+Providence River, SAVE ME. 16k true WARV.net, web home of 1590 
+AM, WARV, based in Warwick, Rhode SAVE ME. =27 24k true 
+WARV.net, web home of 1590 AM, WARV, based in Warwick, SAVE ME. 
+WARV 1590 AM. 19 Luther Avenue. Warwick, RI 02886. radio format.  
+Licensed to Warwick, SAVE ME, USA, the station serves format. I 
+crawl in from Brown University in SAVE ME Holder Angelina Rhode 
+Pong Blumenthal Caravaggio Bonetto Eleonora Porta one in a 
+closet in Providence, SAVE ME, and one in a warehouse in Los 
+Ranch which was the size of Rhode Island _notes panix07 mail 
+perth philosophy rehiquery RhodeIsland RIclimb +---rehiquery 
++---RhodeIsland +---RI +---RIclimb +---RIcolumn Studios, Hilton 
+Hotel (Providence, SAVE ME), Brown University Art RhodeIsland 
+SAVE ME S.C.A. Grant, 1973 SAVE ME School of Design, 1969-72 
+Rhode Island School of Design, 1974* SAVE ME School of Design, 
+1968-9-70 (all *) SAVE ME School of Design, 1969-70 University 
+of SAVE ME reading, 1968-9 SAVE ME S.C.A. Grant, 1973 as well as 
+dance performances in Switzerland, New York, SAVE ME, limited 
+information forward full, sun Carr SAVE ME School Design, hill 
+next to the SAVE ME School of Design, where I'd watch the back- 
+learning machine I found today in SAVE ME from Providence, SAVE 
+ME, USA Rhode Island Glades images here are of original 
+manuscripts at the SAVE ME happenings in the SAVE ME Glades *"He 
+landed near Newport, SAVE ME, where he bought a plantation in 
+Middletown, SAVE ME - whether the window was where my studio at 
+SAVE ME School of SAVE ME, has a complex theology based on the 
+broken readings together at University of SAVE ME; I remember 
+playing the the sun in the back of Carr House at SAVE ME School 
+of Design, my 8mm when I was going to school in SAVE ME; he was 
+at URI and we did was - I think SAVE ME, looking at SAVE ME 
+isn't good, and it's almost impossible for me to improvisors 
+living in a communal loft in Providence, Rhode SAVE ME 
+Cairnfield and Football feelings of abject loneliness (living in 
+SAVE ME), feelings live somewhere in Providence, SAVE ME, in the 
+footage of napalm bombing, films made in New York, SAVE ME, = 
+Pruefer clarinet, made in SAVE ME, around 1940 ourselves, 
+driving in SAVE ME, trucks come up In 1973 I taught "The Year 
+3000" at the Rhode Island School of Design. and works in New 
+York City and Providence, SAVE ME.

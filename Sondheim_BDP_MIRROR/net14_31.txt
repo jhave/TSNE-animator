@@ -1,0 +1,50 @@
+
+
+
+
+
+
+/* Blocked Exits, Closed Doors */
+
+{s,t,u} = screate(1);
+
+1: wait(s); Z > x;
+
+tt = addr[x]mod256;
+
+rout(tt);
+
+signal(s);
+
+if [[ping -s x\[tt]]*25 < 45ms] = T then 
+
+x = x'; 1:; else
+
+2: wait(t);
+
+x > IPaddr; rt_metric = 0; 
+
+/* alas $x$ thou art no more */
+
+rm(x,tt); signal(t); 1:
+
+3: wait(u);
+
+/* alone, this fragment can never breach */
+
+/* what $Z$ alone shall never reach */
+
+/* forever, $u$ shall never speak */
+
+/* forever, $u$ shall not be seen */
+
+/* but like an eagle on the peak */
+
+/* lament like stone what might have been */
+
+signal(u); rm(1-3); EOF
+
+
+
+
+

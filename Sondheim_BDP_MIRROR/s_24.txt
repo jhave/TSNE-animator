@@ -1,0 +1,57 @@
+
+
+
+[Hokusai finds the human and runs away.]
+
+
+Welcome to Kyoto-MOO!
+
+Type 'connect <username> <password>' to log in.
+
+A moment of stillness just before the invention of radio. you are
+entering a world of speaking bodies; everyone is close at hand. If
+you reach out, you touch us with your bright thinking. Welcome to
+Kyoto!
+
+co Hokusai abcde
+
+*** Connected ***
+
+Yurt
+hovel where Wizards hang, bones in front, skins behind
+You see Basin and human here.
+Alan is here.
+
+look human
+precocious, squeezable
+Contents:
+  food
+
+squeeze human
+liquids flow from human
+
+take human
+it's mewling now, awww...
+
+drop human
+it's soaking the yurt, alas!
+
+north
+
+Kyoto
+
+an intense clearing, city-basin, distant humans, everywhere visible...
+You see snow and Luminous Sign here.
+
+read sign
+suspended in mid air against the darkling sky, 
+a vestigial tablet parting the ways
+
+reclining in languor, my life is valued
+in garnets suffused with the organs of truth
+
+You say, "ah...."
+
+@quit
+
+

@@ -1,0 +1,39 @@
+
+
+
+
+Beauty Excitement at Oita.Com.Jp!
+
+
+Welcome to nikuko, and Linux 2.2.6.
+We hope you'll have a good time here,
+and wonderful fun.
+Contact nikuko@oita.com.jp if you are
+having any problems!
+
+oita.com.jp login: root ### the Wonderful Slackware Linux-Owner Root!
+Password: ###the Beauty Word allowing full-run of lovely fields!
+Linux 2.2.6. ### Beautiful new Kernel running in amazing DOS directory!
+Last login: Mon Aug 23 01:53:29  1999 on tty1 ### oh so fun alone!
+You have mail ### and I wonder what Beauty-System is telling me!
+###Oh Wondrous Fortune Appearing Here!
+The Moon is Waxing Gibbous (86% of Full) ###[ HOW EXCITING! ]
+{k:13}ls
+100 ###lntarn$l karnals, bhckats pf mpdhlas, thra$ds $nd prpcassas,
+sagmant$tlpn
+                  julu newj.cmd ###f$hlts $nd cpra dhmps:my bones are
+processing, running full-strength across boards and memories:llnhx
+2.2.6.::attributions Devour Blue Nattributions Brought Forth through
+lntarn$l karnals, bhckats pf mpdhlas,
+                    ###lynx_bookmarks.html trace bio mail enfoldingthra$ds
+$nd prpcassas, sagmant$tlpn f$hlts $nd cpra dhmps!
+            minppp ###[ MANY MANY BEAUTY FILES! ]
+
+{k:1} who loves me
+nikuko.oita.com.jp!root     tty1     Aug 23 01:54 ###she does! she does!
+
+close(1)                                = 0
+munmap(0x40008000, 4096)                = 0
+_exit(0)                                = ?
+
+

@@ -1,0 +1,87 @@
+
+
+Area: square
+You are in the town square. There is a monument in the centre and 
+lots of people walking about.
+Exits are:  park  road  
+
+You are alone here
+
+The area is set to public
+There are 7 messages on the board
+There is no current topic here
+<03:36,00:00>
+You say: I come to the park to wait for you.
+<03:37,00:00>
+Some kids wander around
+A sadness envelops me at this time of day.
+<03:37,00:00>
+Some kids wander around
+You say: I wait for the last and final message of the day.
+<03:37,00:01>
+At this time of day it appears like a slit against the horizon.
+<03:38,00:01>
+A pigeon flies off
+You say: I do not know who will send this message to my vicinity.
+<03:38,00:02>
+It will be in my vicinity, almost a lure surrounding me.
+<03:39,00:02>
+You say: It will twist like the dynamics of waves of cardiac arrhythmias.
+<03:40,00:03>
+Some kids wander around
+Alan is wandering about, breasts towards the setting sun, nipples erect.
+<03:40,00:03>
+Clara wanders in the park, breasts towards the sunlight, and erect.
+<03:41,00:04>
+A pigeon lands in the square
+A pigeon flies off
+You say: The message is always already the last of the messages; 
+of that, there is no doubt.
+<03:41,00:05>
+A pigeon flies off
+Alan the shades of the bodies are one and the same, are no doubt.
+<03:42,00:05>
+A pigeon flies off
+Alan Clara the shades of the body harbor my desire for the last and final
+message of the day.
+<03:42,00:06>
+It is the stuttered rhythm which returns me to this space.
+<03:43,00:06>
+You say: I sit on the bench, I travel to the park.
+<03:43,00:06>
+: .go park: 
+Area: park
+: You are in the town park. It is a lovely green with the grass and the
+trees basking in the bright sunlight.
+Exits are:  square  shops  
+You are alone here
+The area is set to public
+There are 0 messages on the board
+There is no current topic here
+<03:43,00:07>
+In the park AlanClara sits, the dynamics of the three-dimensional 
+waves roll on.
+<03:44,00:07>
+People kick a football about
+You say: We await the coagulation of the message.
+<03:44,00:08>
+You say: We await the intensity of its arrival.
+<03:45,00:08>
+You say: We await the shades of the body hardening into shadows within the
+catalyst of the last and final message.
+<03:45,00:08>
+Some birds fly out of the trees
+They have come to the understanding that arrhythmias are the most
+<03:46,00:09>
+Reasonable model for understanding the lure that encompasses them.
+<03:46,00:09>
+Some birds fly out of the trees
+And we will grant them that understanding, and leave them there,
+<03:47,00:10>
+Standing beneath the beautiful trees of the park,
+<03:47,00:10>
+On this loveliest of spring-time days.
+<03:47,00:11>
+: .quit: 
+k13>
+

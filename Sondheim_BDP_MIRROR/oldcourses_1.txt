@@ -1,0 +1,35 @@
+
+Just found these outlines of courses I taught around 1995-96 on Net stuff 
+- might be of interest - Alan
+
+
+
+EXTENDED OUTLINE: 
+
+This is a guide to all of the material that will be covered in the 
+course, either in outline form or in detail. I presuppose no prior 
+knowledge of the Internet. The main book is Harley Hahn, The Internet 
+Complete Reference, Second Edition, Osborne.
+
+
+Take Notes!
+
+1  Overview of the Internet: History, Demographics, Cultural Impact
+	History: Relation to Arpanet, DOD, BBN, NSF
+		TCP/IP
+		The _porous_ and _redundant_ Net
+		Dissolving the backbone
+		Commercialization
+	Demographics: Past and present
+	Cultural Impact:
+		From research to commerce
+		From television to cable to video: interactivity
+		Ham and CB Radio
+		Hacking: Subversion
+	Countries On Line:
+	Genders On Line:
+
+   Overview of Internet Applications:
+
+		synchronous  |  asynchronous
+		

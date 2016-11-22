@@ -1,0 +1,1270 @@
+theory
+
+the world is a world of replete suffering fecundity of pain
+not buddhist pain pain pure and simple debilitating pain
+pain of utmost savagery we do what we can we contribute
+pain could be autonomic no feeling but reaction the organism survives
+survives peacefully fighting off the intrusion from within and without
+the natural world follows no such leads follows no leads at all
+pain is irrelevant to the suffering mind only a signal
+if the signal close down mind the organism makes way for others
+others and betters if the pain is so intense so furious
+we do what we can in this regard of furious pain
+the elimination of our species will eliminate one iota of the world's pain
+we can do no better we are of the most violent we should know better
+destroying everything in our path crawling towards armageddon
+animals and plants all the narrows will be open wide and poisoned
+our minds are the worlds shit we dig from the earth with furious teeth
+with teeth of iron slash flesh from eyes and stomachs in animal fun
+how else shall we know what we are made of we alone feel pain
+we will survive momentarily no longer that is fine
+the faster we go the longer for beginning others
+perhaps waiting just around the corner they're already dying
+lateness of the hour a bad joke
+
+
+On Code and Codework
+
+
+Consider a well-defined entity x, and its complement -x. Then x^-x = N, 
+the null set. Consider a second entity y and -y, y^-y = N. Think Nx and 
+Ny, the null set relativized to x and y. Consider three separable entities 
+x, y, z, and take pairs xy, yz, zx. These are symmetrical yx, zy, xz. Let 
+ab stand for a^b. Then xy, yz, zx are equivalent to null. Let x, y, z 
+divide a planar region into three regions bordering on each other. Let x@y 
+represent a line equidistant from the entities x and y. Then x@y, y@z, z@x 
+all meet at a single point. Divide the plain so that all entities are 
+grouped in triads; each triad meets in a single point. Divide the plain so 
+that these single points are grouped in triads and so forth. What branches 
+are available? Is a single point reached? To operate with x and -x such 
+that x^-x = N is to operate with discrete entities common to distributive 
+aristotelian logic. Now consider a second set, X, Y, etc., mapped onto the 
+first; the mapping may be one-to-one, one-to-many, many-to-one. If the 
+first, the resulting mapping is reversible. If the second, it is 
+reversible but the coding itself is not reversible. If the third, the 
+mapping is not reversible; the result is a set of possibilities, not a 
+single one. Codes are mappings. There are two types of codes, declarative 
+and performative. An example of the former is Morse; it is one-to-one, but 
+all that is produced is equivalence. An example of the second is Perl; 
+Perl codes procedure. If procedure is coded, then the contents of the 
+procedure are doubly coded. If a Perl program parses {A} to produce {B}. 
+then the primary coding is the program which constructs and orders 
+procedures. The secondary coding is {A} -> {B} which may be considered the 
+semantic plane of the code. In Eco's A Theory of Semiotics, only a rule 
+'may properly be called a '_code._' and a rule couples items from one 
+system with some from another. Eco extends the possibility of code to 'a 
+set of possible _behavioral responses_ on the part of the destination. 
+This is performativity. In codework, primary and secondary coding are 
+entangled. Entanglement may be considered noise in the system. With noise, 
+the null set N is blurred across fuzzy sets with parasitic inputs; x^-x 
+and x^y may be and usually are ill-defined. It is this ill-definition - 
+which functions for example in current definitions of words like 'freedom' 
+- that tends towards political economy. Political, because culture and the 
+social are at stake in relation to the definition which is always already 
+under contestation, and economy, because there are limited resources and 
+examples for any particular definition. With codework, meaning itself is 
+problematized as a result of entanglement. In Eco, it is the code which 
+reaches a destination, not the message. The decoding of the message may or 
+may not be equivalent to the source. Noise is always already present and 
+is considered within the channel. This is the T-model of the parasite 
+described by Serres. Eco states "When a code apportions the elements of a 
+conveying system to the elements of a conveyed system, the former becomes 
+the expression of the latter, and the latter becomes the content of the 
+former. A sign-function arises when an expression is correlated to a 
+content, both the correlated elements being the functives of such a 
+correlation.' Code is a collocation or system (not necessarily the same) 
+of processes; processes are performative; both are temporally-embedded. A 
+mapping f(x) = y is not temporally-embedded; thus the mapping of the even 
+numbers onto the number system may be considered an ideality which _is,_ 
+regardless of temporal processes. The structure is given all-at-once 
+within the formula (and its proof); its proof is a carrying-out of the 
+truth-value, or a revealing of the truth-value, of the structure. There 
+are mappings which are systemic, i.e. structure-dependent, and there are 
+mappings which are non-systemic or purely heuristic, such as randomly 
+assigning letters in a message to a triple number (page/line/letter- 
+position) originating from a particular edition of a particular book. In 
+all of these instances, of course, terms like 'system' and 'assign' are 
+themselves fuzzy; nevertheless there's a tremendous difference between the 
+anecdotal and the structural, and there are practical differences in the 
+ensuing codes and their employment. Peter Gardenfors, in Conceptual Space, 
+The Geometry of Thought, considers 'conceptual spaces' which are related 
+to tessellation of the plane. This reminds one of Peirce's simplest mathe- 
+matics, which is also related to Venn diagrams; in all of these, sets of 
+entities and concepts in the life-world are mapped into other spaces which 
+may or may not reflect thinking processes. Geometry is always bound by its 
+spatial representations; there is no reason to think, at all, that the 
+mind necessarily works through spatial or any representation for that 
+matter. Representation is always coded; Sebeok, in Approaches to Animal 
+Communication, 'Semiotics and Ethology,' points out that the 'model 
+suggested here entails a communication unit in which a relatively small 
+amount of energy or matter in an animal (a) the source, brings about a 
+relatively large redistribution of energy or matter in another animal (or 
+in another part of the same animal), (b) the destination, and postulates 
+(c) a channel through which the participants are capable of establishing 
+and sustaining contact. Maturana somewhere talks about such communication 
+as the mutual orienting of cognitive domains. Sebeok states that 'Every 
+source requires a transmitter which serves to reorganize, by a process 
+called encoding, the messages it produces into a form that can be 
+understood by the destination. The source and the destination are 
+therefore said to fully, or at least partially, share (d) a code, which 
+may be defined as that set of transformation rules whereby messages can be 
+converted from one representation to another.' As long as one sticks to 
+transformation rules, code is always procedural. Sebeok states that 'The 
+string generated by an application of a set of such rules is (e) a 
+message, which may thus be considered an ordered selection from a 
+conventional set of signs.' I think that 'ordered' is problematic as well, 
+since there is clearly a qualitative difference between book-ordering as 
+described above, and a set of rules based on mathesis. Where does the 
+arbitrary come in? One might say - and this is an important principle - 
+that the content of a code itself is directly correlated to its 
+arbitrariness. In this sense, the measure of a code is related to the 
+entropy of information within the process of encoding. The greater the 
+degree of the arbitrary, the more difficult to break, the greater the 
+entropy and therefore the greater the degree of information within it. 
+This is not on the level of the double-level of the code, i.e. the content 
+it operates upon, if there is such content (as in the Perl example above), 
+but within encoding itself. Every encoding is an encoding of encoding; if 
+the encoding is fully realized by the product of the code, then its 
+semantic content / information is low. If Morse encodes a message, more 
+than likely the message may be decoded based only on the distribution of 
+letters. The Morse content is low. If a book is used, the decoding is 
+increasingly difficult and the content of the code is high. This is also 
+related to issues of redundancy vis-a-vis Shannon and Weaver. Note that a 
+message and its destination are irrevocably ruptured; there is no 
+guarantee that an equivalence is attained on any level. Code operates more 
+often than not on an ontological plane disassociated, or associated by 
+intention only, with both its source and its decoding; there is no 
+guarantee that the source and the message-at-its-destination have anything 
+in common. There is no guarantee of the coherency of the practice of 
+coding in a particular case, no guarantee of one-to-one or one-to-many or 
+many-to-one, no guarantee of a zero-parasite-demographics - no guarantee 
+that the channel, in fact, has not been derailed altogether, as often 
+happens with bacteriophages. Bateson, in Bateson and Ruesch, Communica- 
+tion, The Social Matrix of Psychiatry, states 'codification must, in the 
+nature of the case, be systematic. Whatever objects or events or ideas 
+internal to the individual represent certain external objects or events, 
+there must be a systematic relationship between the internal and the 
+external, otherwise the information would not be useful.' Today one can 
+say, 'otherwise the information might not be useful,' since it is 
+precisely in the breakdown of systematic relationships that innovation 
+emerges.' But meaning may be produced even out of tautology. For example, 
+propositional logic may be 'derived' from the Sheffer stroke, 'not both A 
+and B'; it can also be derived from its dual, 'neither A nor B.' What can 
+we say about these? Only that they represent, as processes or _cullings_ 
+of particular bounded universes, an unbinding/unbounding - 'neither A nor 
+B' points elsewhere altogether, and 'not both A and B' points either 
+elsewhere or towards an underpinning of union. At the heart of this 
+reduction of propositional logic, is a tendency towards dispersion, 
+towards wandering, the nomadic, even though the symbols within the 
+calculus proper are completely mute. The Sheffer stroke and its dual, by 
+the way, are related as well to the processes of inscription with which 
+this essay began - for what is x^-x, than an _inscription_ of an entity, a 
+process of coding (and all coding is inscription of one form or another) 
+the real for the purposes of comprehension, a process that produces, not 
+only meaning, but _all the meaning there is._ There is no outside to the 
+sememe, just as there is no landscape without a viewpoint. In this sense 
+we are bounded, and bound to be bounded. I want to acknowledge and take 
+responsibility for interpretations here which are necessarily shallow and 
+possibly misrepresentations as well; this is true in particular of 
+Gardenfors' book which is complex, and which I have just begun. I have 
+found the concept of conceptual spaces of use here, as a way of thinking 
+through code, process, representation, sememe, Eco's planes of expression 
+and content, etc.; but I do not yet understand it within Gardenfors' 
+theory. I have also completely neglected what I think is most necessary, a 
+detailed typology of codes, taking for example temporality into and out of 
+account in various ways. I cannot see how one can proceed without a deep 
+reading of Eco's 'Theory of Codes' which is the major section of A Theory 
+of Semiotics. In the same book, Eco develops a typology of sign production 
+which is quite useful. Other references might be Barthes' S/Z (although I 
+constantly find his poeticizing beautiful and problematic), and a quite 
+useful early book, Symbol Formation, An Organismic-Developmental Approach 
+to Language and the Expression of Thought, Werner and Kaplan, Wiley, 1963. 
+Finally, it is clear from all of the above that at best one can sketch a 
+_discursive field,_ complete with intensifications themselves representing 
+concepts; this is similar to a loosely-structured Wittgensteinian family 
+of usages. 'Code,' like 'game,' is always a strategy and a wager from a 
+theoretical viewpoint, and like much such viewpoints, everything and 
+nothing is at stake. One would hope for a future of usefulness, politics, 
+and aesthetics to emerge; the danger, in relation to 'codework' itself, is 
+that a style develops, and that the uneasy underpinnings - which at least 
+for me are the most interesting aspects of it - eventually disappear, 
+absorbed back into issues of genre, etc. Code, like the processes of 
+postmodernity, is always in a state of renewal, whether or not the 'type' 
+or 'concept' remains, and at stake within this renewal is our interpreta- 
+tion of the world itself - our actions and our 'reading' of being and 
+beings. Wittgenstein's 'silence' at the end of the Tractatus is code's 
+success, not failure; it is the always already of the always already, but 
+not its foundation.
+
+
+Code and Codework ii, coding, encoding, confusion
+
+Coding is a process, aptly named; the field is open or let us consider it 
+open, a dispersion in which goals are paramount but may not exist as the 
+program wends its way into momentary stasis, occasional completion. It is 
+the traditional 'death of the author' given open-source; it is never- 
+ending; like a markov chain, it is determined in part by what came before, 
+it may move elsewhere, cancel, disappear. Input is remote, disparate; is 
+the objective, whether of a command, line, subroutine, routine, program, 
+module, language. The objective is the focus on whatever is at-hand, and 
+whatever is at-hand, the input, is encoded. Encoding is parasitic on both 
+code and object - on code, as a process or operation, and on object, as 
+transformable entity, within and without which code is entangled, inhered. 
+A code constructs code; an encoder is all input; we have spoken elsewhere 
+about the relationship of output to input; what is encoder output is 
+already lost in transmission, has fled elsewhere. Perhaps _I code,_ and 
+perhaps _it encodes,_ thereby lies all the difference, the distinction 
+among con/structures, con/structions. In part codework is self-devouring, 
+between or among coding and encoding, part operation and part residue; 
+part symptom, the expressivity of disease; and part the struggle, what 
+appears as struggle, what is not struggle or is inauthentic struggle, of 
+the origin, originary content, to retain its sememe, in spite of all 
+filtering, or magnified and not diminished by such filtering. These terms 
+and my use of them are of course arbitrary; one might use encoding to 
+reference the act of program-creation and coding that which operates on 
+input, with all the phenomenology of input already indicated. I choose a 
+distinction between these words in order to articulate a distinction 
+within the field; otherwise we are off again into unnecessary obscurity. 
+As for the _element_ of a code, there is a sign or sign-function, there is 
+a process drawn from tables or closed lexicons. As for the _element_ of 
+encoding, there is none; an input may, in relation to the encoding 
+program, be fit (in the sense of harmonization) or not; in a sense it does 
+not matter, as encoding is matterless, codeless, just as coding is 
+mattered, albeit the ideality or cyberneticization of matter. Again it is 
+a difference which makes all the difference, as in Spencer Brown. One 
+might also say that coding is the creation of a detemporalized structure 
+by means of temporal operations (on the part of humans or otherwise), and 
+that encoding is the detemporalized operation (detemporalized by virtue of 
+the black-box) on input, creating a temporal difference between input and 
+output, t1 and t2, different in every (parametric) way. But this is 
+somewhat sophistry; certainly a program is a detemporalized structure. But 
+wait, for the input and output are there to-be-used; they exist most 
+likely within the matrix of the human; they are _employed._ The employment 
+of a program - and a program may devour itself or other programs - is also 
+temporalized, but the program itself, unused, a series of commands and 
+other materials, is only a static articulation. Nevertheless, the static 
+articulation may be always in the process of constant self- or other- 
+revision, and time moves on. Let us say then that coding is the operation 
+on code and the production of an articulation, and that encoding is the 
+operation on input, within which code is irrelevant - even if code is 
+foregrounded, even if code crashes, the input is destroyed, garbage in / 
+garbage out on any level. The difference is subtle, but perhaps there. One 
+might like encoding then to Husserlian internal time-consciousness, and 
+coding to formal and linear (parallel or non, clocked or variable, etc.) 
+time. Or the other way around. Or the meeting of the two, as code may be 
+input, code may be encoded, code may code. Still, we might say this, that 
+encoding is the _disappearance of the code,_ and coding, its _promulga- 
+tion._ Entanglement occurs at all levels of operation. DNA encodes, but 
+encodes what? Itself, input/output material blind to DNA/RNA? DNA codes or 
+encodes DNA as well. Tacit knowledge (Polyani) resolves nothing, but plays 
+a role: use a screwdriver long enough, and it disappears from the hand - 
+all that remains is the interaction with the screw. Too much is made of 
+code, coding, encoding, decoding; not enough is made of the disappearance 
+of code - not as universal subtext of capital, but as a necessary corre- 
+late to our functioning in the world.
+
+
+
+
+Aphoristic Essay on Analog and Digital Orders
+
+
+The digital: by 'digital' I mean 'discrete.' By 'digital' I mean 
+'systemic,' characterized by systematization, parameterization.
+
+The analog appears continuous; the digital appears discrete, broken.
+
+In everyday life, the digital is the result of an intervention.
+
+An intervention is a mapping. Every mapping, unless a mapping of itself 
+('ikonic'), leaves something out.
+
+The intervention requires the setting of a standard raster. A raster is a 
+filtering of a quantity, almost always with discrete steps. Think of a 
+raster as a 'screening,' creating elements out of a continuous bandwidth, 
+then quantifying those elements.
+
+The elements are ordered. The raster sorts the continuous fabric of the 
+real into separable categories.
+
+The raster is standardized so that information may be transmitted and 
+received through coherent channels, by means of a coherent transmitter and 
+receiver.
+
+The standardization of the raster is a _protocol._ The protocol must be 
+agreed upon by both sender and receiver.
+
+In everyday life, the establishment of a raster and protocol requires 
+energy and communication. Raster and protocol must be communicated.
+
+After raster and protocol are established, the parceled semantic content, 
+coded by raster, may be communicated.
+
+Coding and community establishes raster and protocol. Encoding codes an 
+object from analog to digital.
+
+From the viewpoint of the digital, the analog is forgotten; the process is 
+irreversible.
+
+A digital parcelling is accurate only to the limits of a particular and 
+conventionally-established tolerance. The tolerance, more often than not, 
+is tied to economy. In general, the greater the capital available, the 
+lesser the tolerance.
+
+The analog possesses no tolerance. The analog is _there._
+
+The digital is never _there._ The digital is always process, in-process.
+
+If the digital is indexical, 'pointing towards' a mapping of the contin- 
+uum, the analog _is_ that scale. The analog is ikonic, the digital is 
+indexical.
+
+The distinction between the digital and its referents or domains is onto- 
+logical; the distinction between analog and its domain is epistemological.
+
+At zero tolerance -'no room for error' - and an infinitely-fine raster, 
+the digital is equivalent to the analog. The map, in other words, is 
+exactly equivalent to the thing itself. 
+
+The thing itself is equivalent to the thing itself; this is identity.
+
+At infinite tolerance - infinite error permitted - and infinitely-coarse 
+raster, the digital is equivalent to a kind of _mark._
+
+A mark totalizes 'its' demarcated.
+
+A mark is an _instance._
+
+There are numerous 'real worlds' of nearly-decomposable systems. (Herbert 
+Simon) The world of everyday life appears continuous; it is only in 
+dreams, for example, one encounters jump-cuts - sudden shifts of place and 
+time. This continuous world appears analogic.
+
+The world of symbols and signs - the world of languaging and inscription - 
+appears discontinuous, syntactic, and digital, characterized by discrete 
+moments and entities.
+
+The filmworld (Christian Metz) appears an entanglement of languaging and 
+continuities. Because film is an operable subject (i.e. a subject whose 
+discursive field is somewhat definable), the entanglement tends towards 
+polarities, interpretations, interpenetrations, etc. Frames are digital; 
+the diegesis is analog (continuous story), and digital (semiotics of 
+narrative); the psychoanalytics are digital (continuous processing of the 
+subject-viewer).
+
+Neurophysiology implies, not only entanglements of digital (neural 
+firings) and analog (potentials), but the problematizing of the analog/ 
+digital split on ontological/epistemic grounds. The domains are both 
+inseparable and problematized; the distinction is useless.
+
+The same is true on the level of 'fundamental' physics, at least as far as 
+current research goes; there are quantum processes that involve discrete 
+levels, and there are continuums; there is the breakdown of space-time at 
+small distances/times, and so forth. If the world is information 'all the 
+way down,' the coding at this level is again neither analog nor digital.
+
+In other words, mental and fundamental physical events and processes 
+abjure any clear distinction between analog and digital, to the extent 
+that the phenomenology of both is inappropriate. If there is a 'book of 
+nature,' there is as of yet specific syntactics.
+
+One is always searching for the syntactics, however; it is by means of 
+coding and encoding that the universe is grasped.
+
+The analog slips through the fingers. The world slips through the fingers.
+
+Any element of a raster is independent of any other element. Any element 
+may be transformed without transforming any other element. Truth values 
+within the digital are problematic. The digital is cleanly separable, 
+breakable. The digital is clean.
+
+Any element of the analogic real is interconnected and inseparable. The 
+transformation of any element alters any other element. Truth values are 
+inherent. The application of truth values is digital. The analogic is a 
+membrane. The analogic is dirty, inseparable, unbreakable.
+
+The dirty analogic problematizes its symbolic. The clean digital is 
+already symbolic.
+
+The digital _object_ is analogic. 
+
+The analogic _representation_ is digital.
+
+Ghosts are embedded within the analogic. Ghosts are excluded from the 
+digital. 
+
+Absence or exclusion from the digital is equivalent to non-existence from 
+the viewpoint of the digital. Ghosts are existence and existents within 
+the analogic.
+
+The digital envelops the act of differentiation; the analog envelops 
+integration. The analog smoothes what the digital disrupts.
+
+The digital requires a place to stand. The digital requires an origin. The 
+analog of Cartesian coordinates is countermanded by the discrete and 
+arbitrary location of the origin.
+
+The digital draws a distinction; the analog erases it.
+
+To draw a distinction is the construct a potential well, within which the 
+distinction functions, in spite of the corrosion of the world.
+
+To erase a distinction is to corrode it, to sublimate it to the analogic 
+real, the plasmatic world.
+
+The plasmatic world is the heated world in which distinctions last less 
+time than the processes required to convey information. The plasmatic 
+world, a theoretical construct, is necessarily inoperable. The world of 
+the landscape - without a _preferred viewpoint_ - is such a world. 
+
+The cold-world is the world of the permanence and transformations of 
+distinctions. The cold-world is a world of potential wells, in which signs 
+convey, remain - in which structures remain intact, in which semantic 
+content flows through structures.
+
+The digital quantifies the analog.
+
+The digital carries a price-tag.
+
+Coding, by its very nature, is digital, that is to say, discrete.
+
+Never, 'above,' as 'below,' but 'as above,' apparent 'as below.' Metaphor 
+and metonymy are always already tropes, within the digital.
+
+The signifier does not _reference_ the signified; it _creates_ it from the 
+analogic. The creation of a signifier re-inscribes the signified 
+elsewhere; as in Saussure's example, the signifier never operates 'within' 
+the real, but within a _chain of signifiers,_ a hermeneutics on the plane 
+of the Other, which inauthentically appears to create the 'Originary' 
+plane, i.e. Creation.
+
+To create by speech ('and the Lord said') is always already to embody the 
+creation as _inscription._ Inscription separates the inscribed and thereby 
+created entity from its complement, the inscribed world external to the 
+inscribed and created entity.
+
+The totality of inscriptions necessarily forms a _coherent and closed 
+system,_ since the system is, after all, created by humans or other 
+organisms, and their cultures.
+
+Somewhere von Foerster characterizes organism by _negation._ Negation is 
+the first speech act. Negation is the primary speech act, 'not this, not 
+that' - 'avoid that - that is dangerous' - 'do not go there.' 
+
+To negate is to inscribe. To negate is to create. The creation of an 
+entity is always a carving-away. The creation of an entity implies a 
+reduction relative to that entity.
+
+The digital is the carving-away of what is deemed extraneous. The digital 
+saws into the extraneous, which is its residue.
+
+The residue is the residue of the analog; the residue is parasitic, noise.
+
+The digital is noiseless, absolute silence.
+
+The analog is absolute noise.
+
+The circle of signifiers washes against mental impressions. The image of 
+something is always already a construct (Sartre), rule-bound, but the 
+image of the image is analogic.
+
+If something is an analog of something else, both suffer from similar 
+noise. Both suffer from similarity.
+
+If something is a representation of something else, both draw structures 
+from each other.
+
+The analog is unstructured; the digital is structured.
+
+The analog is communality, use-value. The digital is community, exchange- 
+value. Exchange may be direct or indirect, transitive. Exchange may be 
+based on apparent equivalence, on agreement, on contract. Exchange binds 
+entity to entity. Exchange defines entity. Exchange defines entity in 
+relation to (by virtue of) entity.
+
+Analogic use-value is imminent and immanent. Digital exchange-value is 
+distanced, defined. Analog is subject; digital is object. The object of 
+digital is subject to analog. Exchange replaces use. The subject of analog 
+is object to digital. Exchange replaces use.
+
+Digital is always already a presumed contamination of the real. The 
+presumption is always already false.
+
+The analog is always already a presumed healing or suturing of the real. 
+The presumption is always already false.
+
+Without the digital, communication would be impossible. The ideality of 
+the feral world is equivalent to the world under erasure.
+
+To throw away the scaffold is to retain it. To retain everything, releases 
+everything.
+
+"Wovon man nicht sprechen kann, darueber muss man schweigen." (Wittgen- 
+stein) - is already lost.
+
+
+
+perfect image beauty
+      
+sondheim's Home perfectly beautful 0
+    it is perfectly beautiful, Jennifer, to have a slight flaw, in fact 
+the slight flaw makes it perfectly beautiful, of course it does, nothing 
+else, just the slightest offset, this is what the gods desired, the 
+universe is isotropic or is it anisotropic, never mind, the symmetry's 
+broken, an, i, an i, Jennifer, remember that 
+sondheim's Home perfectly beautiful 1
+    once the principles are esablished, said the Greeks, Jennifer, it was 
+easy, everything fell into place. it wasn't later, until digital syntesis, 
+that the uncanny made its appearance in the realm of perfection, however. 
+look at what lovely unfoldings, Jennifer, undraped sky, what beauty 
+sondheim's Home perfect beauty 2
+    the cracks of marble and the scanlines, marble against marble against 
+emptiness, ontological loss between one and another position, 
+neuraesthetics of neuraesthenia, Jennifer, (A marble marble (A emptiness)) 
+sondheim's Home perfect beauty 3
+    you huddle, huddling Jennifer, in the cracks, they're there for a 
+reason, they're psychopomp, they're swollen, they're enormous, they're 
+miniscule, they're inscribed, they're perfectly inscribed, Jennifer, 
+they're palimpsest, collocation of indelible formulas, present and eternal 
+and accounted-for, trembling and fragile and falling-apart, they're what 
+people do, they're the done-with-it, huddling Jennifer, they're the fear 
+and poison in men's minds, they're perfect 
+sondheim's Home perfect image 4
+    you are waiting, Jennifer, engendered-Jennifer, genifer, 
+hinged-iron-genifer, genniferrous, tiny candle burns here, Egyptians, 
+Greeks, and Japanese are waiting, burning on and off for four days, 
+yahrzeit, year-time, crack or impression of death, the slightest glimmer, 
+under starrystarry skies, inconceivable beauty, i am sorry, Jennifer, i am 
+not joking, honestly, i will not be remembered for it, this split on both 
+sides of the entity, this almost grid, almost-alive, these perfect 
+imperfection
+
+
+some sum across text
+
+0 the world has any and none
+1 axioms and axiologies are dispersed among worlds and domains
+1 distinctions may be fissuring of same and same
+1 every age is every un-age
+1 links and couplings constitute the world
+1 meaning is constituted by virtue of desire and domains
+1 mouths and ears are identical
+1 primary structures include annihilation and creation
+1 representation structures are in the form of mappings
+1 the armature of belief is the encoding of desire
+1 the phenomenology of the imaginary is that of the plasma
+1 the world has a certain style 
+1 theory is defuge and enumeration coupled with abjection and foreclosure
+1 this abacus is always already that abacus
+2 channeling and gating may also be included
+2 desire is towards signifer and totalization
+2 distinctions may be inscriptions of self and not-self
+2 domains are nearly decomposable into worlds
+2 hierarchies decompose into holarchies at the limit
+2 in a link contiguity transforms into structure
+2 investment is characteristic of phenomena
+2 it is terminology which forecloses and annihilates
+2 our worlds are constituted
+2 science is that ideological which is non-ideological
+2 the mirror stage is always a coagulation
+2 the world is constituted by equivalences and not identities
+2 these include P)Q, P)P, P)*Q, P*)Q, P)*Q)P, P)P)P etc.
+3 an identity is an equivalence of one
+3 desire is towards the potential of infinite manipulation
+3 disinvestment is the state of defuge or refusal/deluge
+3 existence is relative to domains
+3 fissuring characterizes the postmodern and inscription the modern
+3 in a coupling contiguity remains disassemblage
+3 limits are always asymptotic
+3 meaning is always in relation
+3 negations include chain, sheffer, and the sheffer-dual
+3 terminology is destroyed within the creativity of the border-regions
+3 there is no ontological distinction between information and materiality
+3 truth and slanders are bound in abjection
+3 within the secondary are also found hieroglyphic binding and leakage
+4 an equivalence of one is a misrecognition emptied of the symbolic
+4 bases collapse into superstructures, and superstructures into bases
+4 consider leakage of the signifier, excess, clutter, debris, and noise
+4 digital is eternal and analog operates between death and desire
+4 everything applies no farther than to ourselves in the act of reading
+4 infinite manipulation is the binding of body and bodies into hieroglyph
+4 intentionality is always mediated and itself intended
+4 mouths hold and carry the cultural skein as linking communality
+4 our worlds are loosely tethered
+4 secondary structures include inscription, demarcation, distinction
+4 substance is never and always emergent
+4 there is no meaning outside of relation
+4 what is disinvested participates in the abject
+5 analog and digital interpenetrate
+5 analog and digital interpenetrate 5 analog and digital interpenetrate 5 
+5 analog burns the noise within us
+5 at the limits ontologies fractally coalesce
+5 chains of consequences are couplings at best
+5 culture adheres and coheres
+5 inscriptions are overcoded or undercoded and always destabilized
+5 self-reflexivity and contradiction leave residue as content
+5 st: stuttering, stumbling, wobbling, jostling, shuddering, sputtering
+5 the abject is that which cannot be recuperated
+5 the semiotics of emission and spew replace the semiotics of signifiers
+5 we are always already within the virtual
+5 with the beginning of hieroglyph one enters the beginning of speech
+5 x^-x = 0 rel x
+6 assemblages of ideas constitute inscriptive domains
+6 culture doubles epistemologies
+6 desire transforms the speech of the other under the guise of freedom
+6 emission and spew transform vector into flow and flow into turbulence
+6 erotics: fissuring, inscription, puncture, delirium, liquidity
+6 in noise culture 0 is a positivity characterized as {x: x = -x}
+6 negation is at the core of human existence and communality
+6 the masochistic assemblage creates the cultural context of narratology
+6 the other is that which is unaccountable and unaccounted-for
+6 the topology of intention is also secondary
+6 the world stains, is stained, is constituted by stains
+6 truth is a wager and a strategy among constituted regimes
+6 we exist in-between paths and plasmas
+6 we exist inbetween paths and plasmas
+7 all thought is narratology
+7 eccentric space: smattering, scattering, skittering, spitting
+7 facticity and truth are contiguous at best
+7 governance constitutes the foci of assemblages of ideas
+7 only a radical disbelief necessarily binds and blinds one to the truth
+7 our worlds are nearly decomposable into discrete entities
+7 the abject other is simultaneously wayward and abject
+7 the ego is always catastrophic in the mathematical sense
+7 the imaginary carries no force and its totality
+7 the topology includes non-distributive transgressive logics
+7 the world constitutes by stains
+7 turbulence leaks around the simulacrum of death but not abjection
+7 we are driven by annihilation
+8 body and inscription are doubly transparent and doubly fixed
+8 communication is presence and communality
+8 desire is a flux-emission without source or objects
+8 entities are by virtue of the name, maintenance, and contour
+8 fissures require low maintenance
+8 flow leaks around inscription which carries its own inward dissipations
+8 foci exist as if the totality of nodes hierarchically connected to them
+8 infinite copying exists past the heat-death of the universe
+8 inscriptive components include maintenance and legitimation structure
+8 perfect authority is authentic circulation
+8 the ego is inscribed and inscriptive
+8 the narratological turns speech towards foreclosure
+8 third level of the social involves economic and other parabolas
+9 at the limit epistemologies and ontologies coalesce
+9 desire is always submerged
+9 eye and i shift and stutter around deep linguistic coding
+9 inscription domains are abject emissions both unwieldy and temporary
+9 inscription is maintained in deferral and division
+9 nothing is constituted as axiological
+9 the ego exists within the certain style of the world
+9 the imaginary is speechless
+9 the narratological loops the ouroborosean tale back into the mouth
+9 the parabolas are a means towards totalization and constitution
+9 the world has no requirements
+9 theory is enumerated
+9 they also include embodiment, impulse, fueling, and linkage
+[1-13[1-9]
+[1-4][1-9]
+[1-9][1-9]
+
+
+flower
+
+of eternity, one's eternal dream, the continuation of _the tongue_ snow. 
+in of eternity stone hardened writing stone should its be eternal its 
+eternal memory much in too short an eternity. He has lost both criterion 
+and control and of eternity. the rest of eternity in a body to us in the 
+form of eternity. of eternity, one's eternal dream, the compulsive as 
+well.
+
+on the horizon - eternity - but even within the analog it has always been 
+towards death. (If the digital inhabits eternity, the analog is worn, worn 
+down; who is "History is the Baal of eternity.") eternity, here and thick 
+and cloned, imploded, reduced to eternity. I want eternity I want the hard 
+piling. I want eternity reduced to implosion. Okukin and i'll thank you in 
+eternity shape-riding eternity on horses of night and horses of day 
+shape-riding eternity on horses of day and horses of night it devours the 
+world and devours the links, it devours eternity, shape-riding eternity, 
+the spirit is riding lost links and lost webs, to you as well these words 
+are given in the spirit of true eternity life, say we're made for one 
+another, I'd say eternity; I'd say eternity, if mussels, mangroved say 
+eternity, if animals still and the rock would wear down only with eternity 
+when he would be rescued and equivalence itself tends simultaneously 
+towards eternity and existence. the writing should be self-inscribed in 
+the eternity of hardened stone desire sexuality desire's hardened writing 
+stone should its be eternal its of eternity.
+
+yet have i somewhat that my lord can all eternity eternity submitted by 
+take my love and whose very elements, perhaps, appertain to eternity alone 
+it has been my purpose to suggest my only home will
+
+   lose me. wings of desire will keep us flying for eternity. wings of
+   desire will keep us flying for eternity. im riding on a wave of love
+   too blue to lose me. wings of desire will keep us flying for eternity.
+   desire will keep us flying for eternity. windsor, ontario. flying on
+   will keep us flying for eternity. {{riff g am f wings of desire will
+   blue to lose me. wings of desire will keep us flying for eternity.
+   eternity. wings of desire will me. wings of desire will keep us flying
+   will keep us flying for eternity. wings of desire will me. wings of
+   desire will keep us flying for eternity. wings of desire will me.
+   wings of desire will keep us flying for eternity. wings of desire will
+   me. wings of desire will keep us flying for eternity. wings of desire
+   will me. wings of desire will keep us flying for eternity
+
+and written for eternity & the conceivable tablet, there are others that 
+slip eternity; they're triggered by - among other things - another, as if 
+eternity melted away, as if
+
+"I'd say we're made for one another, I'd say eternity;
+"I'd say eternity, if animals still roamed free, if there were animals,
+ another, and together, and flowers."
+
+ _
+
+
+The Outline of the New Talk
+
+
+Issues:
+Semiotics:
+Virtual:
+        Completely constituted
+   Historic:
+     From synchronic/asynchronic
+     To declarative/performative
+       Safe words
+       Rough spots
+Interpenetrations:
+          Addictions, defuge
+Net sexuality:
+        Control
+        Articulations:
+                Broken conceptualisms
+        Emergences, submergences
+        Desiring machines
+        Continuous repetition
+Wild Theory
+                Third person (IRC, chat)
+                Second person (MOO, talker, MUD)
+        CB radio (eyeballing)
+                First person (ytalk, Iphone, CuSeeMe)
+            The MOO @dig home
+              Scrolling on MOO, MUD, IRC
+Membrane and Net, implicate ordering
+               Digital reproducibilty and eternity
+                The performed body, body as instantiation
+                    Confluence of both beneath the a/sign of desire
+          Lag as breathing, rhythm, hypnotic
+                Smooth or clear passage (Usenet, Worldschat)
+        Constructions of consumption
+          Continuous governance, continuous presence
+        Subjectivity as dispersion, dis/play, splay
+        Continuous enfolding, engendering
+        Wryting oneself in and out of existence
+            Eternal presence in the 'online world'
+            Guaranteed presence in the 'real world'
+        Semantic part-objects interpenetrating applications, protocols
+        Interpenetrations (does it make sense to ask the location
+        Operation of lag (intended and non-intended)
+                Rite (email list, ThePalace)
+        The (textual) lurker
+        The (visible) lurker: slight change of body planes
+                of the mind)
+There is no Net
+        There is no theory
+                        The structure of applications, protocols
+        An issue of epistemology: Different phonemenological horizons
+        An issue of ontology: Qualitative difference in being
+The _tracing_ of the Net in terms of articulated fluxes:
+from disorders of the real to dis-ordering the real
+                Rites of passage (logging on and off)
+            The ytalk place
+        ASCII unconscious, projections and introjections
+     To the seamless virtual
+        Operation of seduction
+        Jennifer-Julu as splayed structures across apps, protocols
+        Segmentation, liminal states
+                        Arbitrary Jennifer-Julu structures
+          Lag as structuring transfererence
+        Jennifer-Julu as system resonances
+    Net relationships tending towards perception (in-signia)
+        Time on the Net parallel to space in the real
+Hysteria and the Net:
+Jennifer-Julu, pushing the boundaries:
+              Representations of the interior of the body
+              Representations of the states of the body (MUD)
+        Language dispersion theories (Sumerian, Akkadian, Hittite)
+        But wild theory
+           Place and time of the body:
+Virtual embodiment, virtual subjectivity:
+ Off-Net beginning with perception
+ On-Net beginning with the signifier
+          With or without lag
+        Reading and writing _on_ the virtual-real body
+
+
+The Derailing of Metaphysics
+
+The perfect wave of zero hertz is a constant current.
+The perfect wave of infinite hertz tends towards white noise.
+As the hertz increases, the sampling rate falls behind; think of
+sin(tan(x)) for example near 90 deg. As the rate falls behind, a
+symmetric pattern emerges around 90 deg.
+The symmetric pattern is based on the points of intersection of the 
+For sine or cosine waves, if the sampled wave is at any higher frequency 
+than the sampling wave, patterns emerge. If the sampled wave is at any 
+lower frequency than the sampler wave, patterns emerge.
+If the sampled wave is irregular and the sampling wave is a greatly lower 
+frequency, the resulting mapping is useless.
+If the sampled wave is irregular and the sampling wave is infinite, the 
+resulting mapping is identical to the sampled wave.
+No wave is a perfect wave. 
+The lower the hertz of course the greater the resonator.
+Human consciousness is the wolf-note of the universe.
+If the perfect wave of zero hertz intersects human consciousness,
+the result is the irregularity of every-day life.
+If the perfect wave of infinite hertz intersects human consciousness,
+the result is the reproduction of human consciousness bereft of everyday 
+life.
+Bereft human consciousness is unintended, enlightened, a perfect wave of 
+zero hertz.
+The irregularity of every-day life is intended, unenlightened, a perfect 
+wave of infinite hertz.
+Any wave beyond the pure waves of zero or infinite hertz are impure.
+Impure waves dirty the distinction between consciousness and every-day
+life.
+Impure waves dirty the distinction between yin and yang.
+Only blurred distinctions are generative.
+From generative distinctions, creativity.
+From creative, perfect waves of zero and infinite hertz.
+This is the regenerative principle of the noumen.
+The regenerative principle co-exists with the continuous unfolding of 
+time.
+At the end of time, all waves are perfect waves of zero hertz.
+At the beginning of time, all waves are perfect waves of infinite hertz.
+We are living in the mid-time of dirtiness, impurity.
+We dream the pure and the impure.
+All dreamings are irregular and impure.
+All dreamings are the railings of metaphysics.
+
+
+
+
+brief notes on my work
+
+
+these starting going somewhere, the idea of wildly disparate style/media 
+from one moment to the other - the idea of 'work' smeared across 'work' - 
+coherency but no boundary - artificial transmissions by email and 
+directory file - enonciation, enonce - 
+
+then they went nowhere, what came to mind was 'particles emanating from 
+the brain,' perhaps in honor of the granularity of microsound or the 
+despair of a relatively cashless existence.
+
+then they went somewhere with messy economics intersecting messy ontology, 
+epistemological excretions. so for what they're worth, at this stage -
+
+1 variety
+
+the surface of my work is full of inconsistency. styles change abruptly; 
+characters that were used were used up; new characters appear at times, 
+only to disappear, to write in the background. media change from text to 
+audio/video/image/web/performance and back again; the kernel coheres. i am 
+bored and probably bore easily; i investigate the domain of the symbolic 
+from the viewpoint of messiness, and messiness from the symbolic. codes 
+and languaging are always in the background, disseminated, dissimulated.
+
+2. orders
+
+natural which leaks through manageriality; abjection which smears and 
+devolves into incoherency; aphasias and disorders of the real; brute and 
+insistent protocols; sexualities, acculturations, languagings of the body; 
+materiality of mathematical idealities; idealities of physical materiali- 
+ties; the economics and political economics of the symbolic, abstraction, 
+the geographic - all of these are subjects of my work, just as my work is 
+subject to their fragile and monarchic domains. 
+
+3. quantity and distribution
+
+no distribution, no quantity is infinite. the phenomenological horizon of 
+distribution is commonality of usage. distributivity is unobtainable. art 
+is a praxis is a practice. quantity is also a shearing-away, habit and 
+habitus. my work is a nudge. it won't survive the net. 
+
+4. common themes
+
+the theme of the hardening and collapse of the symbolic. the theme of 
+attempting to grasp the infinite. the theme of the 'otherwise.' the 
+argument against totalization. the violence of totalization. the code and 
+the broken code. inhabiting the broken. the broken and the disaster. 
+
+5. staying with it
+
+if you stay with it, it will come, sensate. if you begin anywhere, you can 
+end anywhere. of what conceivable purpose would be a conclusion? a history 
+perhaps, a phenomenology of that history, a rocky landscape stumbled over. 
+i'd say it works in your brain, but that's presumptuous. i'd say it works 
+in mine, but that's symptomology. tropes, symptoms cross-reference, you'll 
+see. code is cross-reference. you might not want to stay with it. it might 
+never come.
+
+
+
+Filtering filtering
+
+
+Reworked from a 1978 Toronto Notebook, "On the successive eliminations of 
+the entity in transformations"
+
+or rather all that is necessary from the diagrams
+
+a -> a' -> a''
+ f    f'
+
+The function f moves a to a'; f' moves a' to a'' and of course there is a 
+composition f'f(a) -> a'' or some such. a' disappears as an entity, and on 
+might generalize, considering a series of functions f, f', f'', f''' ... 
+such that (ff'f''f'''(z)) is a filter over z. In the lifeworld, f^n 
+extends in either direction, i.e. n ranges over the integers at the least. 
+In reality, n ranges over the continuum. Every entity z carries its filter 
+and a filter is non-existent without an entity. The continuous transfor- 
+mation of the entity is defined by the filter and vice-versa. Since z may 
+split in the process, the filter may split. The series of f need not 
+define any particular entity, but may be considered split from a previous 
+entity, i.e. one out of an almost infinite number of processes, infinite 
+in relation to the continuum. In this fashion, the worlding process is 
+visible, the entity disappears, as entities do. Entities are named _in any 
+case_ in relation to space-time; too great a dispersion, and 'entity' 
+disappears qua entity; the background microwave radiation of the universe 
+is an example. Too small a dispersion, virtual particles for example, ad 
+'entity' is ontologically problematic. Within everyday life, water and 
+other liquids, as well as gases, are not considered entities, while glass, 
+also liquid, is. It's a question of a family of usages in relation to 
+viscosity for example. There is also a notion of intrinsic identity based 
+on communality and communication; humans are entities, although rapidly 
+undergoing decomposition. Reichenbach's genidentity may be of value here; 
+it references the actual material substrate of a coherent object, held 
+together over a substantial period of time, and undergoing change qua 
+object. Such an object brings human phenomenology with it; objects out- 
+gas, wear, dissolve, split, from what might temporarily be considered an 
+origin. All origins and all endpoints are subject to filtering, which 
+dissolves them as such. One is left with continuous birthing, continuous 
+languaging and worlding, something related to Bohm's implicate order on 
+one hand and maya on the other. Of course the filtering itself is 
+filtered, there is no end to it. To be human is to attempt to halt such, 
+impede what is identified as dissolution, death, permanent impediment. 
+Ownership arises out of this, as does the urge to collect, related to the 
+urge to hunt, to permanently annihilate, absorb, be reborn in the blood of 
+the other. To stay with the filter is to remain analogic, deeply human, 
+chthonic; to impede is to construct the digital, build, aerate, delude. 
+The digital is always already inauthentic, Vaihinger's as-if which resides 
+for and in the moment. Culture veers among the various orders, as if the 
+world and its history is ordered and orderly; it is the sympathetic, not 
+empathetic, magic of this that allows us to survive.
+
+
+
+Date: Sat, 2 Jul 1994 01:41:57 -0400 (EDT)
+From: Alan Sondheim <sondheim@panix.com>
+Subject: Chatter
+
+
+
+SPRAY
+
+
+The relationship between chaotic distributions and a totalized phys-
+ical source of emission is prominent in a class of words character-
+ized by the format [<s><C1><V><C2C2><er>] as in the following
+list: _stutter, stammer, scatter, shudder, shatter, spatter, sputter,
+skitter, splatter,_ etc. (_Scanner_ inverts the series, _spackle_ and
+_simmer_ transform it.)
+
+A second similar form produces: _spew, skid, scud, spot, spit,
+split,_ etc. These forms are constructed around a _lateral topo-
+graphy,_ a laminar spray distributing over a more or less wide and
+irregular domain. The spray possesses a phenomology of dissolution
+and disruption; it also exists on the fuzzy interface between
+interior and exterior, and hence involves abjection.
+
+In every instance, the body is compromised laterally, a veering from
+side to side, or the stammer from the region of the throat. Some-
+thing is _withdrawn_ violently from the organism, which convulses.
+Convulsions shatter, fragment.[1]
+
+The lock-up of the terminal screen in Net communications is the
+result of packet flow; email appears from everywhere; interrupts are
+common; the Net harbors impeded laterality. Better to consider it a
+convulsive body as well, the neural interconnectivity of nodes
+serving as obstructed gateways choked with binary debris. The body
+migrates to the edge of consciousness, received and processed by
+one or another correspondent who circumscribes the messaging,
+returns it to the relative fulfillment of sense.
+
+The return occurs within an insriptive domain, part and parcel of
+a potential well where meaning is construed. Within the well,
+meaning develops the ontological being of language; without it,
+meaning sputters, its attributive scattered among the remnants of
+indirect addressing.
+
+Only the shuddering of the human shatters the human; the human
+stammers or stutters its way through debris scattered across the
+splattered or spotted landscape. Deep within the throat the
+promise of a primitive root is murmured or mumbled. Culture con-
+structs itself upon the elimination of debris; the abject, now
+gathered within the shamanistic fetish for the expulsion of male-
+volent spirits, echos in the hiss of the cat or snake. These
+animals are regarded with awe; they hold the mirror to culture
+itself, the thin veneer of language and civilization binding us
+to the symbolic. The hiss is imaginary; having no meaning whatso-
+ever, it holds the meaning of the world. There are no boundaries
+or borders, beyond what we make of them. There is no language
+beyond our speech of it.
+
+[1] See *Art Papers* 1/2 1994, "Throat: Leslie Thornton's _The
+Great Invisible_": "_In the film,_ speaking is caught in the maw,
+glottal stop, Edison and the _mechanical_ insignia of existence.
+Early [20th-century] representations [of movement] operated with
+mechanism throughout [as in the mechanics of the melodrama]; they
+stuttered. Repetitive pistons and cams moved locomotives and film;
+intermittent motion is translated into rotary motion and back
+again. Throughout the century, mechanism gives way to electricity,
+which gives way to the electronic, cyberspace and beyond. Thought
+leaves the material domain" ...
+
+If _beings_ are mechanism, _Being_ occupies an uneasy territory.
+Aristotle stumbled through the part-objects of a generalized symp-
+tomology of the world and Pliny followed suit. But organism never
+spoke clearly and _always_ stammered; the hiss of steam, the
+volcanic fissure, and the cat are _identical_.
+
+**********************
+
+15 days later Cybermind co-founder Michael Current was dead.
+
+
+
+Measurement and Ethos 
+
+
+Give the Schrodinger's cat paradox, think of the mixed state as the trag- 
+edy of the commons which ultimately reproduces itself through capital 
+accumulation. What should be taken as the constituents of the wave equa- 
+tion tending towards the sudden collapse with a particular eigenvalue. 
+Wave towards state, spread over E3 space towards specificity of value. Set 
+judgment equivalent to measurement. The field of behavior, environmental, 
+particle, cultural, human, tends towards those moments of relative inter- 
+ference. Measurement is performance judgment; the human sutures, closes in 
+upon itself, defends itself. The wave equation collapses, the commons is 
+bought out. Environmental factors of scale surely play a role; a murderer 
+is punished as a result of the collapse of a nearly=decomposable hierar- 
+chy, a moment in time when the bullet flies, the knife slips, burned into 
+the genidentical four-space of an organism. Measurement is presumed, 
+stated, neutral; judgment is presumed measurement, according to the law, 
+i.e. according to the justice of an N-dimensional manifold and its fields. 
+What mixes in the real cat, mixes in the law; what mixes in physical 
+description is accompanied by a disclaimer, i.e. 'not a real cat,' which 
+is part of the description. Nature abhors a vacuum but abhors as well the 
+many-worlds approach of continuous splitting; it's messy, as is absolute 
+and total relativism. Just as physics possesses no intrinsic ethos, ethos 
+possesses no physics. Morality is situation- and ethos-dependent, event 
+and law. Experiment is theory- and measurement-dependent, event and world. 
+World and law, Law, are orthogonal, disconnected; to measure is not to 
+adjudicate, but measure is to adjudicate. The stakes and foundation-spaces 
+are orthogonal. Given culture, every judgment is orthogonal to itself, 
+self-orthogonal, totalizing and split. Physics and ethos are entangled at 
+the level of the cat; it is the cat that is at stake, dragging quantum and 
+cultural theories with it. Both approaches reside within language; law 
+pretends towards the exactitude of physics, with insipid results. Both 
+tend as well towards mechanism: beam-splitters versus the panopticon, 
+collapse of wave-functions (coupled) with incarcerations. Neither cat nor 
+prisoner escape. In a hyperreal sense we are both; therein lies the 
+paradox.
+
+
+Collapse
+
+
+When the wave-function collapses as a result of measurement, a quantum 
+state results, for example cat-lives | cat-dies. What was entangled sud- 
+denly takes itself elsewhere, to a value in the everyday world, a value 
+that affects us, an effect. Knowledge unmoving, but knowledge given across 
+solar systems, galaxies! What happens if an alien intelligence measures a 
+pale - look, the experiment's hijacked! But we don't know this, we're 
+doing, what, measuring away here, but we're the second? Meanwhile else- 
+where, an observer watches... nothing... Disappointment! The experiment 
+has failed! He makes a phone-call; it takes hours! What then? Perhaps the 
+alien is just... barely conscious... on the order of a gastropod... a 
+paramecium... Something just nudges the apparatus, perhaps not even paying 
+attention... Perhaps it sends a signal back to us! Yes, well-done! A 
+signal hijacked from the other observer! Wait, it gets worse! It's not 
+conscious at all, just a pebble! Something falls, but since it's almost 
+gravity-free, a level has become loose, perhaps the rockets... It slides 
+slightly, what then? The button is pushed, we get a signal, the elsewhere 
+observer gets nothing, we don't know we've gotten a signal, we've gotten 
+nothing, we think we've gotten nothing, we think the other observer gets 
+the other state, a different state - wait a minute, there's no response... 
+We're on earth, a sunny day, we're waiting here, or circling the earth, 
+replete with waves, acoustic, electromagnetic, the space-station shudders, 
+the sun shortly disappears behind the earth atmosphere, just for a minute 
+or two, a please twilight, my mind goes back to a walk in an Appalachian 
+forest, somewhere in Virginia, we're holding hands, now she's so far away, 
+elsewhere with her measuring, waiting, nothing is happening, did he forget 
+me? I'm on the station, memory collapses, wait, I'll measure now, the 
+first, just as I'm supposed to! A clean value, if yes here, no there, and 
+if no there, yes here! But I hear nothing! Still, the situation seems 
+clear enough, isn't it? A cliff, collapse, is produced, big entropy 
+change, memories disperse, I'm focused now, waiting for her response! 
+Nothing ever comes, the alien, slug, paramecium, lever, shuffles along, 
+walks away, flies out, shifts, it doesn't matter. Has the world split? Of 
+course not! It's the same old world! Think of the economy of multiple 
+universes! But then in quantum cosmology, value's elsewhere, hardly 
+calculated, split, split, and no split, it can go on forever...
+
+Analog has moved to digital value, but where? Why? From whom? At what 
+cost? Just how exact? Perhaps there's an error, perhaps there's a leak, a 
+short-circuit, an alien...
+
+_
+
+Another run at it -
+
+
+Consider the wave function collapse from the viewpoint, not of a cat or 
+(dis)interested observer but from that a music producer. The analogic is 
+devolves into one of two modes, say, either Y or N. Consider a continuous 
+production of particles and close to continuous measurement. The result is 
+a series of Ys, Ns. Consider this a code or a mapping, which it is not; it 
+is probabilistic most likely, Bohm notwithstanding. Then say {Yn,Nm} or 
+some such represents the resulting series. Let Band1 = {Yn,Nm}, then Band1 
+is the first sound-track on the new Schrodinger CD. Now Band1 only roughly 
+reproduces the music of course, which is collapsed from the bandwidth. It 
+seems irrelevant to ask about the Khz of this new recording, but we might 
+set up the entire experiment in order to create Band1, Band2, at any Khz. 
+The question might be, what are we listening to? The question might be, 
+what does Band1 represent or in other words, how well does it represent 
+the original music? Band1 is the music. Band 1 is random. Is it white 
+noise? Does it require encoding? Collapse the spikes to a spectrum; 
+listen. With the beam-splitter, send part of the wave elsewhere. Then one 
+might speculate as to alien intervention. This is a way for an alien to 
+accompany or construct music here on earth. Or rather, to interfere. But 
+of course it is random, and no one or nothing (alien, observer here, 
+observer there) has anything to say about it or through it. It is hardly a 
+signature, is it?
+
+We'll never know definitively if the observer elsewhere has received the 
+signal. The alien is good at mimickry. The alien perhaps hasn't interfered 
+and hasn't measured. But she sends a signal, it takes years. She says, 
+What did you receive? The local observer says Y or N; the alien, aha! I 
+knew it. This goes on and on. Collect those Ys! Then they're the result of 
+production, of non-production, they're the result of entanglement, they're 
+the result of nothing at all. I'm lost here, forgive me. I want to make a 
+song, I want to call it Band1, from Schrodinger. Forgive me.
+
+
+
+Cat taC
+
+
+Set up the Schrodinger experiment as before. The cat-space contains food, 
+a cat-box, water, a place to sleep, all comfort comforting. Conduct the 
+experiment. Wait two weeks, check the result, then open the box. The cat 
+is either dead or alive. What about the cat? If the cat has died, surely 
+it would have died with the arrival of the particle. Naturally the cat 
+would have decayed. If the measurement implies consciousness, then 
+consciousness is retroactive, an absurdity. If the cat is alive, the same. 
+Say it is the consciousness of a cat; use a plant, with lights, water, a 
+happy atmosphere. If dead, then wilted; if alive, the same. Conduct the 
+experiment with a mixing of viscous liquids. It takes weeks for full 
+mixture. How far have we gone in two weeks? Either partial mixture or 
+none. We assume in these cases the quantum measurement is automated; 
+conscious doesn't enter into it until later. We assume we are simply 
+reading an earlier result. If the jump occurs only at the time of reading, 
+then we know the mix has been in abeyance. If it occurs earlier, there's a 
+problem. What is the problem in case A? What is the problem in case B?
+problem. What is the problem in case A? What is the problem in case B?
+then we know the mix has been in abeyance. If it occurs earlier, there's a 
+reading an earlier result. If the jump occurs only at the time of reading, 
+conscious doesn't enter into it until later. We assume we are simply 
+none. We assume in these cases the quantum measurement is automated; 
+mixture. How far have we gone in two weeks? Either partial mixture or 
+experiment with a mixing of viscous liquids. It takes weeks for full 
+happy atmosphere. If dead, then wilted; if alive, the same. Conduct the 
+Say it is the consciousness of a cat; use a plant, with lights, water, a 
+consciousness is retroactive, an absurdity. If the cat is alive, the same. 
+would have decayed. If the measurement implies consciousness, then 
+it would have died with the arrival of the particle. Naturally the cat 
+is either dead or alive. What about the cat? If the cat has died, surely 
+experiment. Wait two weeks, check the result, then open the box. The cat 
+a cat-box, water, a place to sleep, all comfort comforting. Conduct the 
+Set up the Schrodinger experiment as before. The cat-space contains food, 
+
+
+Cat taC
+
+
+
+
+the hiatus
+
+
+the bare bones, the reworked text.
+the apathetic structure uniq -f|s|d.
+the cathectic structure < consciousness > 
+ <here later I will build upon Penrose's 3-sphere/world theory, 
+  which I developed independently in 1971.
+ <I use the notions of immersive and definable structures in relation
+  to graph/networks which possess state or operator diagrams.
+ <I show how specific mappings may occur between phenomenological,
+  abstract, and physical entities.
+ <I demonstrate how such mappings require phenomenological processes,
+  self-contradictory and contradictory processes, and strictly defined
+  processes.
+ (I explain how such processes interrelate,
+ (below is an exercise, an hiatus.
+
+just a second now just a minute 
+
+problem. What is the problem in case A? What is the problem in case B?
+
+plateglass window.
+
+on it"
+
+grew" 
+
+.e brings you back home to me
+.e brings you back home to me
+.e can't kill any more
+.e crashes smashes lashes dashes stashes
+
+says: ok
+
+Chatter
+
+indirect addressing.
+
+then: No such file or directory
+
+   Fi
+elik,
+il, a
+ beni
+
+lgeli yerlerinde u
+   titredim ...
+
+soov. 
+
+the cliffs.
+
+problem. What is the problem in case A? What is the problem in case B?
+
+then: No such file or directory
+
+just a second now just a minute 
+
+problem. What is the problem in case A? What is the problem in case B?
+
+
+

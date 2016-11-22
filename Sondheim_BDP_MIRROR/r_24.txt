@@ -1,0 +1,114 @@
+
+| ooo .   |
+| oo o.  o|
+| oo  .o o|
+| ooo . o |
+| oo  . oo|
+| oo  .o o|
+|  o  .   |
+| oo o.o o|
+| oo  .o o|
+|  o  .   |
+| ooo . oo|
+| ooo .   |
+| oo o.o  |
+| oo  .  o|
+| oooo.  o|
+|  o  .   |
+| oo o.o o|
+| oo  .o o|
+|  o  .   |
+| oo o.ooo|
+| ooo .   |
+| oo  .o o|
+| oo o.oo |
+|  o  .   |
+| oo o.o o|
+| oo  .o o|
+|  o  .   |
+| oo o.o  |
+| oo o.ooo|
+| ooo .oo |
+| oo  .o o|
+|  o  .   |
+| oo o.o o|
+| oo  .o o|
+|    o. o |
+| ooo . oo|
+| ooo .   |
+| oo o.o  |
+| oo o.  o|
+| ooo .o  |
+|  o  .   |
+| oo o.o o|
+| oooo.  o|
+|  o  .   |
+| oo  .  o|
+| ooo . oo|
+| ooo . oo|
+| oo o.   |
+| oo o.ooo|
+| oo o.o  |
+| oo  .o o|
+|  o  .   |
+| oo o.ooo|
+| ooo .   |
+| oo  .o o|
+| oo o.oo |
+|  o  .   |
+| ooo .   |
+| oo o.  o|
+| ooo . oo|
+| ooo . oo|
+|  o  .   |
+| oo o.ooo|
+| oo o.oo |
+|  o  .   |
+| oo o.o o|
+| oo  .o o|
+|    o. o |
+| oo o.ooo|
+| oo o.ooo|
+| oooo. o |
+| oo o.  o|
+| oo o.oo |
+| oo  .ooo|
+|  o  .   |
+| oo  .  o|
+| oo o.o  |
+| oo  .  o|
+| oo o.oo |
+|    o. o |
+___________
+-
+
+
+Compilation
+
+
+I have been compiling on and off all day. When I'm not compiling, I'm
+working with configuring Netcom's Netcruiser, and when I'm not doing that,
+I'm looking for Unix programs on the Net. Actions account for little in
+the Cloud of Unknowing which, cushion-like, readies its skin in order to
+succumb to speech. Speech becomes writing becomes wryting through compi-
+ling; compilation is the _order_ of writing, borrowing and rooting through
+libraries standard and non-standard, linking files, splaying its legs and
+claws across generics. Crawling just beneath the surface, binaries gently
+resist penetration, open up to cacophony and peculiar obtuseness. Crawling
+is tethered by threads to phenomena elsewhere, acts of reading and writing
+game for the transformation. Statements such as ++i or x = x + 1 already 
+hint at the operationalism which grants subjectivity its sense of power 
+_before_ anything has actually occurred. One readies for the moment of 
+movement.
+
+Here more than anywhere, the muscle behind wryting evidences itself; the
+generic file name a.out already takes on the characteristics of emission
+from aleph/alpha/the ox whose horns encompass the universe. _out_ is goal-
+less, meandering, primal plasma of programming, peripheral shadows outlin-
+ing the concrete world in remission. But the concrete world provides again
+the _skin_ of it all; just as programs write wryting, so wryting writes
+the world upon the world: The programmer hirself is the pineal eye sutur-
+ing the world to itself, sintering from the long-shot of the text. Think 
+of it! Such thinking creates the Word, which has become the everyday act- 
+ivity of computation on the way to something else.
+

@@ -1,0 +1,18 @@
+=
+[E/X] Loading Save file: /net/u/6/s/sondheim/.phoenix...
+[E/X] Loading XDCC Offer file: /net/u/6/s/sondheim/.phoenix.xdcc...
+*** umodes available oiwsghOkcfrRaAb, channel modes available biklmnopstvR
+*** There are 48 operators online
+*** 7027 channels have been formed
+*** Your host is farside.ab.ca.dal.net, running version dal4.6.7.DreamForge
+*** Nikuko (sondheim@166.84.1.68) has joined channel #cybermind
+*** Users on #cybermind: @Nikuko
+*** #cybermind 908068098
+<-[options]-> Are you there?
+*** options: No such nick/channel
+* Nikuko sings a happy song!
+<Nikuko> Hi there!
+* Nikuko rings a deep bell!
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[0-0:GScNxAlFMPhR] 09:12PM @Nikuko (+is) #cybermind M:2             E/X
+<P> /me rings a deep bell!

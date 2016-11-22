@@ -1,0 +1,45 @@
+
+
+
+
+Like a Virgin
+
+
+My machine is currently accessed by an outsider, an unknown user entering
+the /home/httpd/html directory, currently holding a suite of Jennifer
+pages I completed a few months ago. 
+
+I saw the lights flashing on the modem, heard the hard-drive in the pro-
+cess of being read. 
+
+These files, open to the public, create an uncanny and nervous state in
+me, as if I myself am opened to you; the machine seems suddenly vulner-
+able, unnerved, a state of _frisson,_ semi-tumescence.
+
+A welcome sign is offered to the reader who nonetheless remains anonymous
+in a manner similar to a man lurking in a doorway or an intruder on a dark
+and windy night.
+
+For some of you, this input and output is commonplace; for me, this is
+close to first. I have used the talker software I installed, with several
+people, but I have known all of them; this accessing of the html directory
+is different.
+
+I sit here _exposed._
+
+( ls -lu gives file descriptions, including the last time it was accessed.
+The group below was entered on my machine around 2:03 this morning. )
+
+-rw-rw-r--   1 root     root         1992 Jun 18 02:05 frame2.html
+-rw-rw-r--   1 root     root         2552 Jun 18 02:06 frame3.html
+-rw-rw-r--   1 root     root         1741 Jun 18 02:03 frame4.html
+-rw-rw-r--   1 root     root         3306 Jun 18 02:01 frame5.html
+-rw-rw-r--   1 root     root         2244 Jun 16 23:35 frame6.html
+-rw-rw-r--   1 root     root         1569 Jun 18 02:05 frame7.html
+-rw-rw-r--   1 root     root         2184 Jun 18 02:01 frame8.html
+-rw-rw-r--   1 root     root          427 Jun 18 02:07 index.html
+
+
+Date of text: Wed Jun 18 02:11:58 EDT 1997
+
+

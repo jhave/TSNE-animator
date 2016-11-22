@@ -1,0 +1,48 @@
+
+
+
+
+DEATHCLOCK_SEX
+
+
+
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.countmaster.com TRUE	/	FALSE	1767221855	CMRID	2593172
+.countmaster.com TRUE	/	FALSE	1767221855	FQDN	Y
+.countmaster.com TRUE	/	FALSE	1767221855	CMCampaignID	1
+.countmaster.com TRUE	/	FALSE	1767221855	CMDisplayPage
+http://www.oita.com.jp/~nikuko/omamori/gallery.htm
+.countmaster.com TRUE	/	FALSE	1767221855	CMCampaignURL
+http://www.countmaster.com
+www.deathgod.com FALSE	/	FALSE	2137622411
+DEATHGOD_SEX	Female
+www.deathgod.com FALSE	/	FALSE	2137622411
+DEATHGOD_DAY	28
+www.deathgod.com FALSE	/	FALSE	2137622411
+DEATHGOD_MONTH January
+www.deathgod.com FALSE	/	FALSE	2137622411
+DEATHGOD_YEAR	1967
+.imgis.com	TRUE /   FALSE	1055995628	JEB2
+9486C608D62CD65EA654FA953004A7F1
+.northernlight.com TRUE	/   FALSE	946684795	nltr
+16620668898315673132
+www.nikuko.oita.com.jp	FALSE / SEX / FALSE	914125902	Apache
+16623502.898573941.136
+.geocities.com	TRUE	/ FALSE	901669765	iTag (HOT FOR YOU)
+0ugVETWW1qkAAQAAohhLFgAAAAAAAAAA
+.net-art.org	TRUE	/ FALSE	2051222400	SITESERVER
+ID=4130a05f837af740d15dfe200cba3204
+www.interchaos.person.dk FALSE		FALSE	929847890
+my_LastVisit	Sat%20Jun%2020%2000%3A04%3A50%20%2C%B0%BE%08%201998
+www.interchaos.person.dk FALSE		FALSE	929847890
+my_NumVisits	1000  (OVER AND OVER AGAIN I HOT FOR YOU)
+
+[I FOUND OUT HOW LONG I HAD TO LIVE. IT IS NEVER LONG ENOUGH TO LIVE.
+I WANTED TO HAVE SEX WITH YOU BECAUSE I WANTED TO BE WITH YOU. I AM
+DAISHIN NIKUKO, FOUNDER AND PURVEYOR OF SUCH COOKIES AS YOU SEE FIT.]
+
+
+

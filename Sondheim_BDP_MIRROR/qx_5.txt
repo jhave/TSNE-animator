@@ -1,0 +1,348 @@
+==
+
+
+HISTORY of HELP HELP HELP
+
+From sondheim Sat Feb 24 22:24:27 2001
+From: Alan Sondheim <sondheim@remove.panix.com>
+Subject: Linux on HP 3250 Pavillion Laptop
+Newsgroups: comp.os.linux.hardware
+Organization: 
+Summary: 
+Keywords: 
+User-Agent: tin/1.4.4-20000803 ("Vet for the Insane") (UNIX) (NetBSD/1.4.3 
+(i386))
+
+Has anyone installed any version of linux on the HP 3250? I would really 
+like to do this; I've installed numerous times on desktops but never on a
+laptop -
+
+any suggestions, stories, comments, welcome, and thanks -
+
+Alan Sondheim, sondheim@remove.panix.com
+-- 
+Internet Text at http://www.anu.edu.au/english/internet_txt 
+Partial at http://lists.village.virginia.edu/~spoons/internet_txt.html
+Trace Projects at http://trace.ntu.ac.uk/writers/sondheim/index.htm
+CDROM of collected work 1994-2000/1 available: write sondheim@panix.com
+
+From sondheim Tue Feb 27 01:28:28 2001
+From: Alan Sondheim <sondheim.remove@panix.com>
+Subject: HP 3250 Pavilion
+Newsgroups: comp.sys.laptops
+Organization: 
+Summary: 
+Keywords: 
+User-Agent: tin/1.4.4-20000803 ("Vet for the Insane") (UNIX) (NetBSD/1.4.3 
+(i386))
+
+Hi - Has anyone had experience with this HP? I'm thinking of buying a used 
+one for $800; it comes with DVD etc.
+
+Also, do you know if it's possible to install linux on this?
+
+Thanks for any advice -
+
+Alan Sondheim, sondheim.remove@panix.com
+-- 
+Internet Text at http://www.anu.edu.au/english/internet_txt 
+Partial at http://lists.village.virginia.edu/~spoons/internet_txt.html
+Trace Projects at http://trace.ntu.ac.uk/writers/sondheim/index.htm
+
+From sondheim Thu Mar  1 00:21:18 2001
+From: Alan Sondheim <sond.remove.heim@panix.com>
+Subject: HP 3250 Pavilion
+Newsgroups: comp.sys.laptops
+Organization: 
+Summary: 
+Keywords: 
+User-Agent: tin/1.4.4-20000803 ("Vet for the Insane") (UNIX) (NetBSD/1.4.3 
+(i386))
+
+Hi - I'm thinking of getting a used one with dvd/cdrom etc. for $800 - can 
+anyone give me information on this machine?
+
+Thanks ahead of time - Alan, sond.remove.heim@panix.com
+-- 
+From sondheim Sun May  6 11:23:14 2001
+From: Alan Sondheim <sondheim.addition@addition.panix.com>
+Subject: axil monitor with 13W3 connector
+Newsgroups: comp.unix.solaris
+Organization: 
+Summary: 
+Keywords: 
+User-Agent: tin/1.4.5-20010409 ("One More Nightmare") (UNIX) (NetBSD/1.4.3 
+(i386))
+
+I recently received an Axil 245 with Solaris 7 on it. The computer didn't 
+come with a monitor (I checked it out on one, however), and has a 13W3 
+connector on the back.
+
+Has anyone had experience writing this (or a related) machine to a PC 
+monitor? Does the conversion work? Can anyone advise me on where to by the 
+connectors?
+
+Any help would be greatly appreciated.
+
+Thanks,
+
+Alan Sondheim, sondheim.takeout@takeout.panix.com
+--
+From sondheim Sat Jun  9 19:19:27 2001
+From: Alan Sondheim <sond.out.heim@panix.com>
+Subject: Cortley guitar
+Newsgroups: rec.music.makers.guitar.acoustic
+Organization: 
+Summary: 
+Keywords: 
+User-Agent: tin/1.4.5-20010409 ("One More Nightmare") (UNIX) (NetBSD/1.4.3 
+(i386))
+
+Anyone know about a Cortley Guitar from the 1960s or 70s? Nylon acoustic, 
+spruce top, seems fairly good - trying to find out some history/details. 
+The label says distributed by Maxwell Mayers in Texas and Soutland Musical 
+Merchandise Corp. in North Carolina.
+
+Thanks, Alan
+-- 
+Internet Text at http://www2.sva.edu/~alans/
+Main site at http://www.anu.edu.au/english/internet_txt 
+Partial at http://lists.village.virginia.edu/~spoons/internet_txt.html
+Trace Projects at http://trace.ntu.ac.uk/writers/sondheim/index.htm
+CDROM of collected work 1994-2000/1 available: write sondheim@panix.com
+
+From sondheim Sat Sep  8 02:39:05 2001
+From: Alan Sondheim <sondheim@panix.com>
+Subject: SuSE 7.2 on Dell Inspiron 8000
+Newsgroups: alt.os.linux.suse
+Organization: 
+Summary: 
+Keywords: 
+User-Agent: tin/1.4.5-20010409 ("One More Nightmare") (UNIX) (NetBSD/1.5.1 
+(i386))
+
+I'm trying to install SuSE 7.2 (through Yast2) on a Dell laptop - Inspiron
+8000 - and I'm having no luck setting the monitor screen for XWindow or
+any graphics at all - has anyone solved this problem? The partitions are
+fine, and I can run in minimal command-line mode, but nothing else. I've
+tried the LED and other generic monitor configurations and I get garbage,
+if anything.
+
+The screen is either TFT or active matrix; the display is 1400x1050x60Hz, 
+NVIDIA GeForce2Go (Dell Mobile)
+
+Any help here would be greatly appreciated -
+
+Alan Sondheim, sondheim@panix.com
+-- 
+Internet text at http://www.anu.edu.au/english/internet_txt 
+Partial at http://lists.village.virginia.edu/~spoons/internet_txt.html
+Trace Projects at http://trace.ntu.ac.uk/writers/sondheim/index.htm
+CDROM of collected work 1994-2000/1 available: write sondheim@panix.com
+
+
+
+Sim Rehearsal
+
+
+Sandy Baldwin / Alan Sondheim rehearsal for Simulationists performance
+@ I Am Columbia Sim NW, Second Life
+http://www.alansondheim.org/simrehearsal.mp4
+
+deconstruct the landscape in a literal Derridean fashion
+
+meld avatar, object, background, foreground, physics, into Heisenbergian 
+panoply of inexactitude
+
+transform the phenomenology of relevance theory
+
+deconstruct the avatar body in terms of occluded dynamics, manifest 
+destination, imperceptible transformations
+
+"THE GREATEST HAS NOTHING WITHOUT. IT IS CALLED THE GREAT UNIT. THE 
+SMALLEST HAS NOTHING WITHIN. IT IS CALLED THE SMALL UNIT.
+"NOTHING CAN BE ACCUMULATED THAT HAS NO THICKNESS, YET ITS SIZE BE 
+THOUSANDS OF MILES LONG.
+"BOTH HEAVEN AND EARTH ARE LOW. MOUNTAINS ARE AS LEVEL AS LAKES.
+"THE SUN AT NOON IS DECLINING. THE CREATURE JUST BORN IS DYING.
+[...]
+"THE SOUTH IS WITHOUT A LIMIT AND HAS A LIMIT.
+"I GO TO-DAY TO THE STATE OF YUEH AND ARRIVED THERE YESTERDAY.
+"CONNECTED RINGS CAN BE SEPARATED.
+"I KNOW THE CENTRE OF THE WORLD IS NORTH OF YEN AND SOUTH OF YUEH.
+[...]
+"MOUNTAINS BRING OUT MOUTHS.
+"WHEELS DO NOT PRESS THE GROUND.
+"EYES DO NOT SEE.
+"DESIGNATION NEVER REACHES ANYTHING. THINGS NEVER COME TO AN END.
+[...]
+"THE SWIFTLY MOVING FLYING ARROW IS AT TIMES NEITHER IN MOTION NOR AT 
+REST.
+[...]
+"A WHITE HORSE IS NOT A HORSE."
+
+From The Works of KUNG-SUN LUNG-TZU with a translation from the parallel 
+Chinese original text, Critical and Exegetical Notes, Punctuation and 
+Literal Translation, The Chinese Commentary, Prolegomena, and index, by 
+Max Perleberg, Hongkong, 1952.
+
+
+New Music from Me for You
+
+http://espdisk.com/alansondheim/ski4.mp3
+from my own new music festival here in new music street
+on the corner of new music avenue in new music, new york
+in new music state in the country of new music in the
+whole wide new music planet in the new music galazy in
+the new music galazy cluster of local gropes of galazies
+in the whole wide univerze of new music galazies and
+dark matter and energy and new music quazars in so far
+distant new music galazies we cant get light from them
+and we cant even hear their muzik
+
+
+From My New Music Festival, Hit Tune Year 2020 - Vision
+
+http://espdisk.com/alansondheim/ski2.mp3
+
+Review!:
+
+new music stars on the horizon, or music no one has thought of yet. There 
+you so very strong, your new music is decade, who's playing what, who's 
+listening, what dark new music fatal nothing could hold back time all the 
+gone new music all the gone ... Some new music short from the two forward 
+mics of the four-track wave, new music all its own, decade, who's playing 
+what, who's listening, what dark new music fatal - nothing could hold back 
+time all the gone new music all the gone ...
+
+
+
+First Day Results from Columbia Mocap
+
+http://www.alansondheim.org/output.mp4
+http://www.alansondheim.org/Rolling.mp4
+http://www.alansondheim.org/edge_hammer.mp4
+
+Columbia College, Chicago, motion capture studio
+Rendered with Motion Builder from Cortex
+
+Performers: Andrew Forster, Steven Crump
+Tech and indispensable aid, Jeff Meyers, Brian Wright
+Catalyst and indispensable aid, Patrick Lichty
+
+output: social and dispersed avatar, walking in and out of step
+Rolling: social and dispersed avatar, simultaneously turning on
+axis (standing) and rolling on floor (lying)
+
+both files composed of left-side right-side nodes divided among
+two performers 'operating' a single avatar in production and
+post-production.
+
+edge_hammer: one performer with 'hammer' proper tending towards
+the edge of the performance space; subsequently the hammer
+replaces a leg and/or parts of the avatar begin to flicker or
+disappear.
+
+
+Further Developments with Distributed Avatar 
+
+- preparation for a talk at Columbia College tommorrow night (Wed 16):
+
+second day - single avatar distributed among four dancers with specific 
+roles assigned:
+
+http://www.alansondheim.org/4b8.mp4 
+
+the same, embedded in Second Life with two different avatars; the third 
+section uses behavior collision to combine earlier mocap work from West 
+Virginia with current Columbia College mocap
+http://www.alansondheim.org/4b8sl.mp4 
+
+http://www.alansondheim.org/attempt.mov from first day, output
+
+
+
+Day 3 (last), Columbia College mocap research examples -
+
+
+http://www.alansondheim.org/edge6.mp4
+http://www.alansondheim.org/harness.mp4
+http://www.alansondheim.org/322harness.mp4
+
+1st, 1 dancer working the edge drawn into poser triplets
+2nd and 3rd, 2 flight harness dancers, 1 ground (head, root) dancer
+2nd drawn with poser singlet, third drawn with poser triplet
+
+notes from the accompanying talk
+
+My avatar behavior is governed by animation files originating with mocap 
+equipment. Almost all professional current mocap uses nodes - information 
+coming in from specific body areas, assigned body areas, and so forth. I 
+remap the mocap body, by distributing nodes among several human bodies; by 
+collapsing nodes, by node reassignment on a geometric or random basis, by 
+'heaping' nodes and so forth.
+
+I see 'the body' as:
+
+a. An already inscribed, already virtual body.
+
+b. A distributed or social body: Who speaks 'within' 'us' and who answers 
+for us, etc. My avatars are social, their movements produced by groups 
+instead of individuals: up to four performers for one animation file, one 
+animation file expanded into multiple conforming avatars.
+
+c. A dying body: Our bodies are always on the way out and our work, if it 
+doesn't revolve around love, sexual arousal, and hatred, is bounded by, 
+revolves within, the horizon of death and despair.
+
+d. An absent body (Drew Leder); we rarely track everything. It is the 
+privilege of the camera in Second Life to reveal the avatar as simultan- 
+eous object and subject, confined and open, teetering.
+
+e. A present body and an abject body - in and out of virtual worlds.
+
+(political bodies, in the face of mass extinctions, social degradation)
+
+I'm interested in errors, leaks, and resistance, and in the recuperation/ 
+re-presentation of flesh. My work always begins and ends with the flesh, 
+with the flesh-mind, with embodied mind. (Among other tools, exploring the 
+limits of mocap.)
+
+NEW WORK 3RD DAY:
+1 RANDOM NODE ASSIGNMENT AMONG 2-3 DANCERS (FAILED, MAPPING IMPOSSIBLE)
+2 TELEOLOGICAL BEHAVIOR: DANCERS 'TAKING' AVATAR THRU SPECIFIC TASKS
+3 FLIGHT AVATAR W/ VIDEO CAMERA
+4 FLIGHT AVATAR: TORSION IN RELATION TO GROUND AVATAR
+5 FLIGHT AVATAR: LEG/ARM REASSIGNMENT WITH TWIST
+
+Thanks to: Patrick, Andrew, Steven, Morgan, Myah, Lianne, Katie, Deborah, 
+Jeff, Brian, Terence.
+
+Final result: 90 bvh, 50 approx. .avi rendered, 300 stills, 2 hrs. video 
+(including flight video).
+
+
+
+Performance Files (warning, very large):
+
+
+Performance at SAIC (School of the Art Institute of Chicago)
+Simulationists Performance/Exhibition, 2/18/11
+
+with Sandy Baldwin, Alan Sondheim, at Columbia I AM sim in Second Life
+sections from 2 1/2 hour performance
+
+http://www.alansondheim.org/simulat1.mp4
+http://www.alansondheim.org/simulat2.mp4
+http://www.alansondheim.org/simulat3.mp4
+
+Thanks to everyone: Claudia Hart, Mark Jeffery, Judd Morrissey, Trevor
+Martin, and Patrick Lichty.
+
+New mocap files from Columbia session, with active textures, various
+object placements, physical objects going off-world, and so forth.
+
+This is one of the best recordings we've made. There was a fairly
+good-sized audience in the room at SAIC, and great discussion.
+
+

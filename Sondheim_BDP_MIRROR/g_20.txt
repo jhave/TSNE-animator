@@ -1,0 +1,92 @@
+|
+
+SCREEN 12
+home: CLS
+RANDOMIZE TIMER
+PSET (320, 1), 15
+z = 1
+DO UNTIL z = 480
+x = 4
+DO UNTIL x = 638
+q = RND * 1.02
+IF q > 1 THEN g = 0 ELSE g = 1
+IF POINT(x - 1, z) = 0 AND POINT(x, z) = 0 AND POINT(x + 1, z) <> 0 
+ AND g = 1 THEN 
+PSET (x, z + 1), 9
+ELSEIF POINT(x - 1, z) = 0 AND POINT(x, z) <> 0 AND 
+ POINT(x + 1, z) <> 0 THEN
+PSET (x, z + 1), 10
+ELSEIF POINT(x - 1, z) <> 0 AND POINT(x, z) = 0 AND 
+ POINT(x + 1, z) = 0 THEN
+PSET (x, z + 1), 12
+ELSEIF POINT(x - 1, z) <> 0 AND POINT(x, z) <> 0 AND 
+ POINT(x + 1, z) = 0 THEN
+PSET (x, z + 1), 14
+END IF
+x = x + 1
+IF INKEY$ = "r" THEN GOTO home
+LOOP
+z = z + 1
+IF z = 320 THEN STOP
+LOOP
+
+(slightly fuller version below; it runs considerably slower - note that
+using the vertical line as seed creates extreme order and relatively
+violent disorder, depending on the random factor...)
+
+(slightly fuller version below; it runs considerably slower - note that
+using the vertical line as seed creates extreme order and relatively
+violent disorder, depending on the random factor...)
+
+SCREEN 12
+home: CLS
+RANDOMIZE TIMER
+INPUT "type 1 for line or return for point"; b
+PRINT "using binary coding 1-8, type 8 0s or 1s separated by commas"
+PRINT "these will be used for the matrix; set first usu. to 0"
+INPUT "do this now"; ah, aa, ab, ac, ad, ae, af, ag
+INPUT "enter randomization constant, usu. 1.0025, between 1 and 2"; gg
+CLS
+IF b = 1 THEN
+LINE (320,1)-(320,480), 15
+ELSE
+PRINT "type starting points, return for centered pixel"
+CLS
+PSET (320, 10), 15
+LINE INPUT ; text$
+END IF
+z = 10
+DO UNTIL z = 480
+x = 4
+DO UNTIL x = 638
+q = RND * gg
+IF q > 1 THEN g = 0 ELSE g = 1
+l = POINT(x - 1, z)
+m = POINT(x, z)
+n = POINT(x + 1, z)
+IF g = 1 THEN
+IF l = 0 AND m = 0 AND n <> 0 AND aa = 1 THEN
+PSET (x, z + 1), 9
+ELSEIF l = 0 AND m <> 0 AND n = 0 AND ab = 1 THEN
+PSET (x, z + 1), 10
+ELSEIF l = 0 AND m <> 0 AND n <> 0 AND ac = 1 THEN
+PSET (x, z + 1), 12
+ELSEIF l <> 0 AND m = 0 AND n = 0 AND ad = 1 THEN
+PSET (x, z + 1), 14
+ELSEIF l <> 0 AND m = 0 AND n <> 0 AND ae = 1 THEN
+PSET (x, z + 1), 11
+ELSEIF l <> 0 AND m <> 0 AND n = 0 AND af = 1 THEN
+PSET (x, z + 1), 13
+ELSEIF l <> 0 AND m <> 0 AND n <> 0 AND ag = 1 THEN
+PSET (x, z + 1), 15
+ELSEIF l = 0 AND m = 0 AND n = 0 AND ah = 1 THEN
+PSET (x, z + 1), 4
+END IF
+END IF
+x = x + 1
+IF INKEY$ = "r" THEN GOTO home
+LOOP
+z = z + 1
+IF z = 480 THEN STOP
+LOOP
+

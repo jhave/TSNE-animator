@@ -1,0 +1,83 @@
+
+
+
+On Number-Systems
+
+
+"And reading Knuth on number-base systems which include, for example a
+ternary system with +1, -1, and 0 as the symbols. Such systems can absorb
+the positive and negative numbers; there are others, such as ones based on
+2i, that can absorb the complex number system as well (i.e. a single num-
+ber of the form ax^n + bx^(n-1) ... +dx^1 +e). This is an amazing economy
+of means. The book is my favorite in the Knuth programming series - the
+volume on Seminumerical Algorithms - since it goes into the construct of
+arithmetic processes and algorithms we all take for granted. In my own
+work, I've always been fascinated by the possibility of base-1 and base-
+infinity systems; in the former, of course, addition becomes concatena-
+tion, and in the latter, the addition of any two unique symbols results in
+a third, i.e. J + K = L. There's an easy translation from the decimal sys-
+tem; say 25 * 26 = 650 - one would just look up within the infinite multi-
+plication table, [25] and [26] and see [650] where the [x] represents the
+unique symbol. One goes from algorithms to infinite memorization or look-
+up. The phenomenology of this is really interesting, I think. For multip-
+lication with base-1, one returns again to concatenation, for example 1111
+* 111 = 111 111 111 111 which is the same as 4 * 3 = 12. There's nothing
+to learn in terms of memorization or lookup tables here; there's nothing
+to look up or memorize. Think of this as an infinite abacus of sticks
+placed in a single row; one moves from base-infinity with its pure economy
+of place and infinite symbols, to base-one with its pure economy of symbol
+and infinite place. This material is fascinating; it says something about
+the stability of the world itself, the Aristotelian logic at the heart of
+the almost-disconnected plateau of the life-world. I wrote years ago ex-
+tensively on such phenomenologies; it's great to see the structures them-
+selves in Knuth."* To place sticks in the row, letters in a row, one
+counts (literally) on the stability of place and demarcation - _these_
+sticks are counted - _those_ remain unaccounted-for and uncounted. The
+sticks need not be in a row; there's no need for geometry, positioning,
+since what one is concerned with is the pure quantity of sticks, not a
+positional relationship. Interestingly, positionality also disappears with
+base-infinity, since every operation and quantity involves only _one_ pos-
+ition. In The Matrix, there is considerable discussion about "who is the
+One" - in base-one, everyone is, and in base-infinity, whatever is _there_
+is the one.
+
+What is going on here? On one hand, with base-one, there is the fact and
+phenomenology of _substance_ and the quantifiability and stability of the
+world; on the other, with base-infinity, there is the problematic of the
+proper name in the Kripkean sense of rigid designator. In the former,
+names shift towards processes; in the latter, processes harden as names.
+
+One might also consider issues of perception: exactly what constitutes a
+stick or a symbol? Could, for example, two trees represent 2541 and 1734,
+a third representing 2541^1734 base-infinity? Is all of nature, in fact,
+the mathematics of base-infinity write large? At the other end, what might
+one say about typification, standardization: What constitutes a stick and
+what doesn't? Sticks are related to tallying, of course; they are indexi-
+cal in relation to the quantification of the real, a one-to-one relation-
+ship with other physical objects. On the other hand one might consider the
+base-infinity symbols both symbolic (standing-for quantity as proper names
+or summarizations) and "quasi-ikonic," the coagulation of quantity itself
+as unary.
+
+And there are issues of memory: _Where_ is the place of counting - which
+sticks have already been marked, which remain unmarked? This depends not
+only on the stability of place, but our knowledge of place as well. Since
+base-infinity relies on individuated symbols, place, even the place of
+_announcement,_ becomes less relevant; memory of place is replaced by
+symbol memory: 2541^1734 = [2541^1734]
+
+Between base-one and base-infinity, the structure and variety of the world
+appear - not the infinite and obdurate variety of base-infinity, nor the
+pure quantifications of base-one, but gatherings, foreclosings, metaphors
+and metonymies. It's at the limits that nature becomes simultaneously mute
+and revelatory; in-between it's all culture and our image writ large,
+rubbed against the structure of the world.
+
+Word:  re-ers
+Guess:
+Sorry, the word was "refers"
+Another word?
+
+*from http://trace.ntu.ac.uk/writers/sondheim/diary/diary.txt.
+
+

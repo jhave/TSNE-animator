@@ -1,0 +1,79 @@
+
+-
+
+
+Depths
+
+
+Miscellaneous comments:
+
+What is the relationship between email and ordinary mail? I am a poor 
+letter-writer in real life; what disappears, seems not only gone forever 
+but an artificial construct, complete with its own rituals. Email on the 
+other hand is instantaneous, of the measure of speech; I tend to great 
+perhaps 40 email posts a day minimum, many back-channel and many to the 
+listservs themselves.
+
+Left-handed, I cannot handwrite, or rather I cannot _read_ my scrawls. 
+Typing is also a chore; I use the printer perhaps once every ten days,
+having reduced everything to bytes at this point. So there is no real
+precedent for my use of email, no precedent for the posts which I will 
+often spell-check and justify, even though they are informal, ephemeral, 
+off the cuff.
+
+I would be curious how many participants in the lists use or have used 
+ordinary mail extensively.
+
+---
+
+I am aware of the _depths_ of the Internet now, even when skitting across 
+the World Wide Web. I understand TCP/IP to an extent, sense the routes of 
+the packets, the nerves of communication. There are three reactions - 
+even at this point, constant amazement; a fear of failure, given the in- 
+ordinate complexity of it all; and a sensing that, at least on the Net, 
+images and sounds are _constructed,_ and illusion, relying on compression 
+techniques, protocols, transformation algorithms and the like, before the 
+appearance of appearance.
+
+Listen: "The basic idea behind a transparent bridge is that it acts as a
+station on two or more LANs, listens promiscuously to each data packet,
+stores the packet for forwarding, and forwards it onto every other LAN to
+which it is connected when the LAN arbitration protocol for the destina-
+tion LAN indicates the medium is available." "Routers are not supposed to
+advertise too often; the default value is once every 7-10 minutes. Hosts
+or others soliciting router information should not do so too often and, if
+they fail to obtain a response after three attempts, should cease solicit-
+ing for a period of time." "Time to Live (TTL): This 8-bit field was orig-
+inally intended to be used to specify how long, in seconds, an internet
+packet could persist in the internet before being discarded by a router
+or a host." "The IP header contains several pieces of information to aid 
+fragmentation and reassembly: a 13-bit Fragment Offset field; two flags, 
+Don't Fragment (DF) and More Fragments (MF); and an Identification field."
+(Various writers in Lynch and Rose, Internet System Handbook.)
+
+The body appears to breath, its organs duplicated everywhere, laminated 
+across the constructed world.
+
+---
+
+What is the _least expensive_ full-text connection that can be established
+for the Net? I've connected my Psion3A palmtop, without terminal emulation
+but with some success - no luck yet with my HP95xl palmtop, even though 
+it is supposed to be possible. Telnet tends to hang in a number of commu- 
+nications programs.
+
+But what would be necessary: A subnotebook size keyboard; liquid crystal 
+display 80 characters wide by at least 12 high; built-in modem and com 
+program; 250k RAM for storage; no hard disk (programs would be in ROM); 
+and an input/output port. There should also be a simple local editor, 
+like Edit in DOS. We need these back-pocket devices which could be con- 
+nected anywhere with limited battery power (like the palmtops, there 
+should be the possibility of using disposal batteries) - even with, say, 
+a pocket calculator, these could be sold for $100. So WHERE ARE THEY? 
+Advertisements welcome...
+
+---
+
+(These are just some random thoughts about the Net I thought worthwhile 
+to assemble, place together in a text.)
+

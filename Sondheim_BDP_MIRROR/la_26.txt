@@ -1,0 +1,23 @@
+
+
+
+SONNET ENV2:
+
+
+EDITOR=(EDITOR) EXINIT=(EXINIT) HISTSIZE=(HISTSIZE) HOME=(HOME)
+KSH_LICENSE=(KSH_LICENSE) MAIL=(MAIL) MAILCHECK=(MAILCHECK)
+MANPATH=(MANPATH) PATH=(PATH) SHELL=(SHELL) TERM=(TERM) TMOUT=(TMOUT)
+USER=(USER) _=(_)
+
+mr editor manpath oh path path pant pant pant
+mr editor oh pant pant shell and trout pant pant pant pant pant
+trout flies by the shell, male check and man path pant path path
+oh male is a user his path oh pant pant checked
+what we got here is a user well well well
+well well well well well what we got here ?
+what we got here is a user well well well well well
+does the user have a license well well well well well does he ?
+mr editor manpant oh pant pant pant pant
+he pant pant pant he don't have a license well well well well well
+
+

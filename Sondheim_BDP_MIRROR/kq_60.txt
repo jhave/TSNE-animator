@@ -1,0 +1,9 @@
+
+
+
+Julu, Waiting on a Lounge Chair
+
+
+.desc as waiting for you to .examine me ...
+You are known as: julu as waiting for you to .examine me ...
+.examine julu

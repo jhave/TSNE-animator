@@ -1,0 +1,17 @@
+
+
+
+
+You just can't make this stuff up -
+
+
+$ kill a/parent a/back/ a/wryting a/laptop
+/usr/local/bin/ksh: kill: a/parent: arguments must be jobs or process ids
+/usr/local/bin/ksh: kill: a/back/: arguments must be jobs or process ids
+/usr/local/bin/ksh: kill: a/wryting: arguments must be jobs or process ids
+/usr/local/bin/ksh: kill: a/laptop: arguments must be jobs or process ids
+$ arguments?
+/usr/local/bin/ksh: arguments?: not found
+$
+
+

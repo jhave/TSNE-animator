@@ -1,0 +1,20 @@
+
+W/ Roots in the Air:
+
+MAILER-DAEMON:root
+daemon:root
+sys:root
+bin:root
+jenn:root
+audit:root
+sync:root
+tape:root
+sysdiag:root
+sundiag:root
+AUpwdauthd:root
+AUyppasswdd:root
+root2:root@mailspool.zinger.com
+treeroot-list:treeroot,treeroot2,root2
+fwd_leaves.org_tree: :include:/users/dfl/leaves/tree
+
+

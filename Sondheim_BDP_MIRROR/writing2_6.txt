@@ -1,0 +1,18 @@
+=
+
+#!/usr/local/bin/perl -w
+# biography
+
+$| = 1; 
+`cp .bio .bio.old`;
+print "Would you like to add to bio information? If so, type y.\n";
+chop($str=<STDIN>);
+if ($str eq "y") {print "Begin with date.\n";
+print "Write single line, use ^d to end.\n";
+open(APPEND, ">> .bio");
+@text=<STDIN>;
+print APPEND @text;
+close APPEND;}
+`sort -o .bio .bio`;
+exit(0);
+

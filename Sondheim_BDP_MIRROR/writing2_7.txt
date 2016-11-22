@@ -1,0 +1,21 @@
+=
+
+
+All this program does is take a file called ".bio" (the period keeps it 
+hidden most of the time), and asks me if I want to add something to it. If 
+I type "y" for "yes" it asks me to begin with a date and right a single 
+line. So I could say "2001 I am getting married." and enter that. I would 
+then hit the control key and "d" at the same time, and it would take the 
+lines I entered and place them, in order, in the .bio file. So over time I 
+can write an autobiography just by adding lines and dates.
+
+Of course you can do this by hand, just by typing lines into an editor and 
+then sorting them, but I like this odd interface.
+
+A longer program, called Julu, is more complicated, but again took only a 
+short while to write. It asks a lot of questions and returns complex texts 
+I can use for writing. It has "arrays" in it, lists of words that it will 
+substitute in various sentences at various times. Just to show you what it 
+looks like, here is Julu (please read on; we're not learning Perl here):
+
+

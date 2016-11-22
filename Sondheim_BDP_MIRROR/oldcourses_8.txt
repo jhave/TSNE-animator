@@ -1,0 +1,19 @@
+
+
+
+If the above outline is too complex, we can simplify it as follows:
+
+Week    Topic
+
+1       Overview, History, Demographics
+2       Connecting, Email
+3       Email Lists, Community, Summary 
+4       Internet Newsgroups, and Gopher
+5       FTP, Chatting, Synchronous Communications
+6       MUD, MOO, and Other Applications
+7       Net Relationships, Subjectivity and Landscape, Summary
+8       The World Wide Web and Netscape
+9       Searching for Information, People, Etc.
+10      Setting Up Home Pages, Introduction and Design Issues
+11      Conferencing, Future of the Net, Summary
+

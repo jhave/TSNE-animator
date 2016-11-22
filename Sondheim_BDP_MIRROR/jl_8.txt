@@ -1,0 +1,11 @@
+
+
+6 ls 7 date 8 lynx http://www.amhc.com/selfhelp 9 lynx
+http://www.cmhcsys.com/self-help/welcome.html 10 h 11 lynx
+http://www.cmhcsys.com/self-help/welcome.htm 12 h 13 lynx
+http://www.cmhcsys.com/selfhelp/welcome.htm 14 b 15 m 16 b 17 b 18 biff y
+19 pico z 20 cat jl z > ding 21 new z 22 B0100000027fed4 23  24 h 25 h
+26 h 27 h 28 h 29 rm jl z 30 y 31 y 32 y 33 y 34 y 35 y 36 y 37 y 38 y 39
+ls 40 mvding jl 41 mv ding jl 42 wc jl 43 sz jl 44 h 45 h 1 > fuck
+sure sign of depression command-center no?
+

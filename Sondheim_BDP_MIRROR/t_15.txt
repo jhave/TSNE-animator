@@ -1,0 +1,145 @@
+
+
+value="rev"> <input type=hidden name="origdate" value="February 10, 1996
+at 22:31:13"> Name: <input type=text name="name" size=50><br> E-Mail:
+<input type=text name="email" size=50><p> Subject: <input type=text
+name="subject" value="Re: rev" size=50><p> Comments:<br> <textarea
+name="body" COLS=50 ROWS=10> : I don't want to take over the fucking
+world. : I'm not a revolutionary. : I don't want to be part of your
+revolution. : I don't want to be part of anyone's revolution. : I want a
+cunt. : I want to know what it feels like. : I want to be opened and
+closed like a membrane. : Words will seep through the membrane. : It's
+always wet. : It's always pierced. : I don't want to think about your
+style or be your style or be part of your style. : I'm not part of your
+movement. : When I tongue you I drink your piss. I'm sutured into your
+clit. : I belong in you. : This is a nice space. Keep it that way. : But:
+I don't want to be your hole. : I don't want to be the place you shove
+your messages. : But: I don't want to be your toilet. : I don't want to be
+your barrel of a gun. I don't want your gun. : I don't want you to rev me
+up. I don't want you. : If I want you I want a cunt. If I want a cunt I
+want you. : But I want to be you. : I want to be you rev. : I want to be
+you rev. 
+-
+
+
+Representation
+
+
+Stan Franklin, in Artificial Minds, characterizes the third AI debate as a
+concern with the viability of representations. Representation is not
+_necessary_ within some AM (artificial mind) implementations, and in fact
+this viewpoint seems to resonate strongly with Sartre's in Psychology of
+Imagination. For I would argue that representation is not only emergent,
+but also a construct which is only necessary under certain circumstances.
+For example, if I use the word "dog" in a sentence (i.e. "I walk the
+dog.") there is no reason to assume that a signified is produced whatso-
+ever - instead the word fits into sublated networking - the representation
+only occurs _as a deliberate production_ - i.e. "What sort of a dog is it?
+Can you describe it?". I bring forth Sartre's discussion of the internal
+image of the Pantheon, which was also implicitly a construct. So not only,
+according to a paradigm emerging (or an imaginary emerging perhaps - find-
+ing "paradigm" problematic), do entities, etc. exist only as emergent phe-
+nomena (throwing the notion of difference into issues of skittering sur-
+faces at best), but also representation itself is emergent; not only do
+bacteria, say, do without it, but humans do without it, unless a mode of
+representing _is explicitly called forth._ In fact, representation could
+be considered _a mode of the interrogative,_ the answer to a question
+which necessarily implies, at least vis-a-vis _parole,_ the production of
+a series of statements embodying the epistemology of the query itself. If
+on-line I am asked what I look like (to take the simplest situation), I
+respond by _wryting_ a representation of myself, which comes-into-being
+_through_ the wryting and its symbolic. And I would argue that even in-
+ternal body mapping, for example, is not a representation, but demarca-
+tions which flicker in and out of existence in response to circumstances.
+For example, the mapping would include a bandwidth of acceptable tempera-
+tures, but this would not be "part" of a representation, only something
+constructed when necessary (i.e. it's below freezing outside). 
+
+Most of this is hardly new; what matters here is the relative obviousness
+of it all. Consider language again and its peculiar symptomologies once
+again; if a speaker had representations of each word appear in turn, in 
+almost any everyday sentence, the result would be a Borgesian catatonia,
+not competency. The remarkable thing is not that _language represents,_ 
+but for the most part, that _it doesn't._ (Perhaps the opposite is true 
+of mathematics.)
+
+And what holds for language, holds elsewhere within the cognitive domain.
+Art is clearly concerned with the production of representations, to the
+extent that it produces bodies or embodiments; even conceptualism resulted
+in numerous texts, statements, performances, mathematizations, etc. 
+
+But art isn't the point here; in fact, almost any conversation may involve
+representations - or at least certain affectual domains. When a couple
+argues, they produce such a domain (which is recognized in the notion of
+an argument "getting the best of them"). When a group of people discuss
+a television show, for another example, images from past episodes may be
+called forth, re-produced (reproduction is production); these are as
+creative as Sartre's examples, and tethered to the real by production-
+algorithms (which are thresholding, emergent, fuzzy themselves).
+
+I wonder if it would be accurate to say, that a violent crime, on the part
+of the perpetrator, is _without representation_? That it is the impossi-
+bility (not just the absence) of representation that creates or participa-
+tes in the conditions of crime? Which is to say as well that representa-
+tion involves empathy, investment, and one reason why it does not come in-
+to play, is unnecessary in being-in-the-world, is the result of a specific
+_economy of being_ that is at odds with thinking-through-the-object. 
+
+Of course this text is full of errors; I'm jumping randomly among levels.
+Take for example, body temperature. _Somewhere_ there must be acceptable
+bandwidths. But again these need be no more than learned experience, not
+representation; the body is in continuous negotiation with the world. Go
+further and take a discussion of a television show. The show was viewed,
+the diegesis was constructed within the viewer. Later, this becomes a
+matter for memory; most of the diegesis is forgotten - what does remain is
+a matter of clues, symptoms, which can be constituted into memory. I would
+argue that there are numerous levels of compression at work here, using
+techniques at times reminiscent, say, of video compression - and that
+representation is a result of this decompression. (Even now, for example,
+suppose I picture, represent, to myself, the image of a lover. I can
+"picture her exactly," but if asked what clothes she is wearing, I
+immediately, internally, create a wardrobe. Even with something as "basic"
+as the eyes, I create an image. And note that _this_ image - which is a
+representation - may be at variance with "seeing" her in real life - in
+the latter situation, the slightest anomaly may attract attention. Sup-
+pose she has had her nose pierced - I might remark on it. This does not
+mean however that the constructed image _had as a characteristic a non-
+pieced nose_ - in fact, this is the crux of the matter, since I am argu-
+ing that _no such characteristic_ was called forth at all, that the pier-
+cing itself creates an addendum or diacritical mark, to be added to the
+later constructions (if such fantasies are desired), and that representa-
+tion itself works _only_ from these diacritial marks, which may be few and
+far between.)
+
+Are there generalized higher-order abstractions which are representa-
+tions, for example, ideal forms, a representation of human? Again, I'd
+argue no, that mind proceeds by conservatism, and anomaly alone, not
+constituted by difference, but by emergence, would be remarkable. Take
+the parenthetical of the lover again. There would be biases among the
+neural machinery, out of which "she" would emerge, partially remembered
+(I may forget the next-to-last fight for example). The piercing would
+add to the biases, but the totality of the biases would not be a repre-
+sentation of her, but a potential production, intermixed with other po-
+tential productions. There would be no fixity, no fetishization, that
+would constitute a framework here. (In this regard, fetishization may be
+considered a retardation of the world, an intensification of object/
+objectivity, in order to create a modicum of control. Fetishes are crea-
+ted precisely when the world seems out of control, through sickness, 
+death, love, colonization; they stop objects from sliding beyond tradi-
+tional ontologies of representations, which are part and parcel of tradi-
+tional culture, into the world of construct, diacritics, production. I
+might add that science itself is construct, diacritics, concerned with 
+the devolution of entities.)
+
+It's easy to shoot this argument full of holes, and even within the more
+carefully delimited areas of say Winograd, Hofstadter, and Franklin, the
+verdict is still out. But it does seem that, more and more, the geopoli-
+tical nature of the real, which is based on aristotelian logic, inscrip-
+tion, and the integrity of the organism, is giving way to a fragmentation
+in depth - and the notions of nomadicism, microterritorialization, etc.,
+popular in  French thought then become a rearguard action. Deleuze and
+Guattari returned to the machinic and flows, just at the moment when the
+machinic itself began its fall into submergence, and flows also produce
+turbulent "animals," which we take for the world itself.
+
+

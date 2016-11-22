@@ -1,0 +1,74 @@
+
+
+Review of Google Hacks: 100 Industrial-Strength Tips and Tools
+
+
+Tara Calishain and Rael Dornfest, O'Reilly, 2003, $24.95, 330 pp.
+
+I've been using Google Hacks for creative work for the past few weeks, and
+have found the book of tremendous value. There are of course hegemonic
+issues surrounding Google; it's by far the most popular search engine on
+the Web. But it's also the only search engine that has released its API,
+defined as "'Application Programming Interface,' a doorway for
+programmatic access to a particular resource or application, in this case,
+the Google index." In other words, the API provides a remarkably supple
+method for embedding Google queries in a program (mostly Perl here), which
+makes this search engine eminently useful for creative and/or database
+work. The book includes a large number of programs taking advantage of the 
+API; they're also available at the O'Reilly site for downloading. Examples 
+are given in Java, PHP, Perl, Python, etc.
+
+One difficulty which may be more than minor - many programs use a
+SOAP::Lite Perl module. This is easy to download for ActivePerl for 
+Windows; on one of my linux laptops (running RedHat 7+), it wouldn't 
+install at all, but downloaded Perl 5.8.0 which didn't help. On another 
+laptop with a later RedHat, it went in fairly easily.
+
+Once you have the module installed, most of the programs run without any 
+difficulty. They allow you to do such things as summarize results by 
+domain, set up automated repeat searches, "Meander Your Google 
+Neighborhood" and so forth. They also allow any number of search results - 
+this is changed by increasing the looping which is set for 3 (thirty 
+results). I did a search for "internet" - returning the domain statistics 
+- using the first 1000 entries; it only took a minute or two.
+
+As an artist, I tend to see Google as a universal sememe or memory house
+that attempts to gather all human knowledge. Some of my recent work
+operates "upon" this sememe, locating categories, paths, and convolutions.
+The programs in Google Hacks (and their modifications) give the user
+tremendous control over these. I will now be using the same to look at the 
+Google groups archiving. (The book not only covers Google Groups, but the 
+Directory, Images, News, Catalogs, Labs, and Froogle.)
+
+The last section of the book is written from the "Webmaster Side" of 
+things and is quite useful for indexing/configuring your own webpages.
+And the book as a whole is useful for anyone using search engines in 
+general - its range extends far beyond "How do I look up X?" - into issues 
+that, at least for me, bear on the organization and epistemology of 
+knowledge itself.
+
+I wanted to write this review for a number of reasons. Tara Calishain is 
+in my Being On Line book, and I've subscribed for a long time to her 
+ResearchBuzz newsletter. Google itself has allowed me to explore certain 
+aspects of my textual/literary practice, and has been invaluable for my 
+interests in both ancient languages (Sumerian, Assyrian for example) and 
+ecology (behavior of the yellow-headed blackbird for example). I've always 
+admired the surface simplicity of the site; on the other hand, I'm not 
+blind to its political economy and the vast areas of the Net that aren't 
+indexed (as well as those areas indexed "against their will"). 
+
+But above all, this book oddly reads as a commentary for the searching 
+many of us do in many ways - and in my case, the artistic and cultural 
+rewards gained by using it are enormous. I'd suggest for everyone to give 
+it a try (as well as learning a bit of Perl and programming - although 
+neither is necessary to use it) - at least check it out through the 
+O'Reilly site.
+
+A final note - a plug for O'Reilly in general. If you haven't explored 
+their publications, you're missing what are probably the most intelligent 
+computer-oriented books around. And oddly enough, they don't tend to go 
+out of date!
+
+- Alan Sondheim 
+
+

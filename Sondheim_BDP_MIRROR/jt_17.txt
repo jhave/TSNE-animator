@@ -1,0 +1,64 @@
+
+
+
+The OS With The Holes Torn In It
+
+
+The Red Hat Linux runs broken and irritated, violation-fabric all the way
+down beyond the level of /var/spool/mail. 
+
+Xclock is set in X Window, yet X clock (in its -digital form) appears on
+startx, only on occasion. The clock-time of the system retains its minute
+and second accuracy, but each bootup results in a different and seemingly
+random hour. 
+
+Setterm -background <color> -foreground <color>, even with -store, never
+holds for more than a few screens, although added in .bashrc and .bash_
+profile files. 
+
+Minicom communications program won't read or allow on-screen colors, no
+matter how set. Glint, which is an X Window package retrieval (using I
+think rpm) program, won't run; it calls for a python library file libtk4
+etc. that is nowhere to be found, as far as I can tell. 
+
+Xtetris runs, but the top of the gamescreen is above the range of X Window
+and no amount of playing with the configuration file changes that. A sec-
+ond game kept the scorecard in front of the playing field; nothing would
+remove it.
+
+The Control Panel for Red Hat, based in X Window, won't load because it's
+missing something called wish -f, which is nowhere to be found as well.
+Xterm runs fine, but the mouse won't do click and paste; it will highlight
+and abandon.
+
+I checked the files with rpm -Va and nothing is corrupt. I uninstalled and
+reinstalled the control-panel to no avail. The system clock is now exactly
+five hours out of step. 
+
+I waited and waited for you, O Screensaver, to come forth, make yourself
+visible out of the shadows of /bin/ graveyards to no avail. Pine pops up
+and does nothing of course. Seyon works perfectly, X Window itself runs
+well, all the editors and file manipulation tricks and device mounts hum
+along, the Perl scripts I wrote run. The version of Arena that comes with
+this distribution is so old that <pre> </pre> doesn't seem to be recog-
+nized - not to mention (I won't) javascript and other machinations.
+
+I am holding close to 93 megabytes of installation file-roughage and the
+clock remains psychotic. Jennifer, by the way, doesn't seem to have any of
+these difficulties; she logs in every now and then to write a text - then
+disappears before I have the chance to talk with her. But then the message
+system doesn't seem to do anything either.
+
+Earlier, I dreamed I was wandering in a dark wood, with only a lantern and
+Virgil to guide me; the glint of operating systems waited like lynx near
+the trees. The OS with eyes OvO stared out from ragged edges; closer,
+their faces were torn, ruined. They breathed through their ears, heard
+through their eyes, saw through their nose, each organ making do for all
+the others, each organ in mourning. 
+
+O this my System is your tottering daughter, your mourning-Medea, O this
+my System is my ignorance splayed on the lean ramp hungered towards the
+Linux file system standard, file tables, splayed linkages, and all, all
+the unmounted things in the world, everywhere beyond the System. (Jenni-
+fer-in.) 
+

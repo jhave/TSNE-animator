@@ -1,0 +1,47 @@
+
+
+
+
+( Go to http://166.84.250.149 when I am on line through linux: this is an
+intermittent website. ) 
+
+The following mass is a movement from .htm to .html for a jennifer web-
+suite I completed months ago; the suite runs at http://166.84.250.149 when
+I am online through linux (I have an httpd daemon running). What fascin-
+ated me about the command list below is its repetitive quality as the
+commands get 'into gear' - in other words, as I figure out how to automate
+the extension change within the documents (beginning at #115). In this re-
+spect, thought circulates around strange attractors, even in the entering
+of linux commands (most of which are macros - hence the use of single
+letters). 
+
+55 less frame1.htm 56 ls 57 cd ..58 ls 59 cd htm 60 ls 61 less frame10.htm
+62 ls 63 cd ..64 ls 65 cd www 66 ls 67 less frame10.htm 68 ls 69 less
+frame9.htm 70 ls 71 l 72 ls 73 cp *.* /home/httpd/html 74 cd
+/home/httpd/html 75 ls 76 l frame2.htm 77 l tail.htm 78 l tail.html 79 df
+80 udos 81 df 82 t 83 ls 84 less c.gif 85 l 86 chmod *.* 664 87 chmod 664
+*.* 88 ls 89 t 90 ls 91 pico mv index.htm index.html 92 ls 93 h 94 ls 95
+mv index.htm index.html 96 pico index.html 97 ls 98 mv *.htm *.html 99 mv
+frame1.htm frame1.html 100 mv frame2.htm frame2.html 101 mv frame3.htm
+frame3.html 102 mv frame4.htm frame4.html 103 mv frame5.htm frame5.html
+104 mv frame6.htm frame6.html 105 mv frame7.htm frame7.html 106 mv
+frame8.htm frame8.html 107 mv frame9.htm frame9.html 108 mv frame10.htm
+frame10.html 109 mv frame11.htm frame11.html 110 mv frame 12.htm
+frame12.html 111 mv frame12.htm frame12.html 112 mv frame13.htm
+frame13.html 113 mv frame14.htm frame14.html 114 t 115 pico frame1.html
+116 ls 117 pico frame1.tml 118 pico frame1.html 119 sed 's/\.htm/\.html/g'
+frame2.html > zz 120 pico zz 121 ls 122 mv zz frame2.html 123 sed
+'s/\.htm/\.html/g' frame3.html > zz 124 mv zz frame3.html 125 sed
+'s/\.htm/\.html/g' frame4.html > zz 126 mv zz frame4.html 127 sed
+'s/\.htm/\.html/g' frame5.html > zz 128 mv zz frame5.html 129 sed
+'s/\.htm/\.html/g' frame6.html > zz 130 mv zz frame6.html 131 sed
+'s/\.htm/\.html/g' frame7.html > zz 132 mv zz frame7.html 133 sed
+'s/\.htm/\.html/g' frame8.html > zz 134 mv zz frame8.html 135 sed
+'s/\.htm/\.html/g' frame9.html > zz 136 mv zz frame9.html 137 sed
+'s/\.htm/\.html/g' frame10.html > zz 138 mv zz frame10.html 139 sed
+'s/\.htm/\.html/g' frame11.html > zz 140 mv zz frame11.html 141 sed
+'s/\.htm/\.html/g' frame12.html > zz 142 mv zz frame12.html 143 sed
+'s/\.htm/\.html/g' frame13.html > zz 144 mv zz frame13.html 145 sed
+'s/\.htm/\.html/g' frame14.html > zz 146 mv zz frame14.html 147 t 148 b
+149 b 150 ls 151 cd 152 df 153 h 154 h > zzz
+

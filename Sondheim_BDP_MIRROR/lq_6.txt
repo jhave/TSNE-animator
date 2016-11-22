@@ -1,0 +1,105 @@
+
+
+
+Resources: 
+
+Artbyte issues including Netsex 2.0
+Leonardo issues - past two Digital Salons
+CDROM (described in the first session)
+
+Digital Identity (on reserve)
+Read Me (on reserve)
+Being on Line (on reserve)
+
+Recommended:
+
+Peter Salus, Casting the Net: From ARPANET to INTERNET and beyond...
+Espen Aarseth, Cybertext: Perspectives on Ergodic Literature
+Brenda Laurel, Computers as Theater
+David Porter, editor, Internet Culture
+Steven Jones, editor, Cybersociety 2.0: Revisiting Computer-Mediated
+  Communication and Community
+Kiersten Conner-Sax and Ed Krol, The Whole Internet: The Next Generation
+David Bell and Barbara Kennedy, editors, The Cybercultures Reader
+
+1 January 12 The current state of the Internet. Who is using it, what is
+it, what are the services and applications associated with it? What are
+the current demographics? Introduction to cdrom, other course materials.
+Description of the term project. IMAGE directory.
+
+2 January 19 Modalities of the Internet: presentation of the self in ever-
+yday virtual life. Phenomenology of the analog and digital. Modernisms and
+postmodernisms in relation to electronic communication. The wired and the
+non-wired: disparate communities under the aegis of global capitalisms and
+communalities. Please check the MULTI, IRC, and KYOKO directories. Kyoko
+Date, Ananova, Webbie Tookay, etc.
+
+3 January 26 The future state of the Internet. Where is it going in the
+next few years? Will it be able to keep pace with the increasing number of
+users? How are demographics changing? Entertainment vs. information vis-
+ions. The other visions of business and community: How do applications
+such as the World Wide Web determine what is possible on the Net? How is
+the user "configured" by these applications? The Cathedral and the Bazaar
+- open source communications.
+
+4 February 2 Email lists: Please check the ELIST, CYBRMIND and HISTORY
+directories. Issues of governance, newbies, old-timers, moderation, etc.
+Types of lists, filtering. Earlier modes: mail, coffee-houses, ham and cb
+radio, experimental television. IRC and Chat (AOL, ICQ, CUSEEME, and so
+forth); please check the IRC directory.
+
+5 February 9 Net art - use the material from the past two Leonardo's as
+well as the Net Sex 2.0 issue. - content in relation to code. Modernist
+approaches. Please check the ART directory.
+
+6 February 16 Synchronous and asynchronous applications. What constitutes
+a database? What audio and video modalities are becoming available and how
+do these affect the user? Many-to-many, one-to-one, one-to-many, many-to-
+one applications. What is the future of "virtual persona" or "avatars" on
+the Net? Interfaces: Open software movement, Linux, prompt and GUI phenom-
+enology. Use Norwegian magazine from 1994.
+
+7 February 23 Issues of the body: reading through the text, hysteria, net
+.sex and the "ascii unconscious," postmodernism and the fragmented self.
+Sex, love, and death in cyberspace. Cyberspace relations and the nuclear
+family.  Internet marriages and relationships. Aguirre, Mandeville, and
+sexualities on the frontier. Issues of censorship.
+
+8 March 2 Virtual subjectivity. Projections and introjections. "Reality"  
+and the grain of the voice, death and rape in cyberspace. Hallucinatory
+personalities, Net personalities. Various spaces in Cyberspace: MOOs,
+Usenet, email lists. Phenomenology of MOOs. ERGODIC literature - Aarseth's
+definitions (in Aarseth, Cybertext). Please check the MOO and KYOKO
+directories.
+
+Note we will have a break between now and the 23rd; we'll communicate
+online.
+
+9 March 23 Privacy, security, community, and confession on the Net. Groups
+and counter-groups. Alt.society.neutopia and the monster-truck neutopians.  
+Alt.angst, Walkers in Darkness, and other support newsgroups and email
+lists. Please check the IRC directory.
+
+10 March 30 Hacking, cracking, and the anarcho-libertarian aspects of the
+Net. Spamming. The changing demographics/cultures as a result of the World
+Wide Web. The future of the Web, chat-lines, and so forth. Please check
+PHRACK directory. "Hacker ethos."
+
+11 April 6 Community Organization: Forms of outreach. Freenets, Community
+Access Points, conferencing tools and strategies. Kiosks, from government
+to Siggraph. Please check ARTICLES directory. Medical models and bottom-
+up organization.
+
+12 April 13 Strategies for research and organizing information and person-
+al/formal databanks. Search engines and Boolean searching. Web page infor-
+mation structure and philosophy: access for all. Net business and Net sec-
+urity. Net censorship again: Issues of intellectual property.
+
+13 April 20 Community organization, continued: Levels of entry into the
+Net. Models of Internet economic and cultural development. Practical and
+theoretical policy development.
+
+14 April 27 Course overview.
+
+
+

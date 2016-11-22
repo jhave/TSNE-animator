@@ -1,0 +1,54 @@
+
+
+
+Gifts for Just About Everyone!
+
+
+"Everyone thinks they know how to invent plausible and acceptible pass-
+words - here are the ones that seem to come up over and over again:
+
+"HELP  TEST  TESTER  SYSTEM  SYSTEM MANAGER  SYSMAN  SYSOP  ENGINEER  OPS
+OPERATIONS  CENTRAL  DEMO  SECRET  LOVE  SEX  (plus the usual euphemisms
+for sexual activity)  DEMONSTRATION  AID  DISPLAY  CALL  TERMINAL  EXTERN-
+AL  REMOTE  CHECK  NET  NETWORK  PHONE  FRED
+
+"Are you puzzled by the special inclusion of FRED? Look at your computer
+keyboard sometime and see how easily the one-fingered typist can find
+these four letters!
+
+[...] "Own names or those of loved ones or initials are the top favorites.
+Sometimes there is some slight anagramming and other forms of obvious jum-
+bling. If the password is numeric, the obvious things to try are birth-
+days, home phone numbers, vehicle numbers, bank account numbers (as dis-
+played on cheques) and so on. Sometimes numeric passwords are even easier
+to guess: I have found myself system manager of a private viewdata system
+simply by offering it the password 1234567890 and other hackers have been
+astonished at the results obtained form 11111111, 22222222, etc., or
+1010101, 2020202.
+
+"It is a good idea to see if you can work on the mentality and known pre-
+occupations of the legitimate password holder: if he's keen on classic
+rock 'n' roll, you could try ELVIS; a gardener might choose CLEMATIS;
+Tolkien readers almost invariably select FRODO or BILBO"  [...] (From Hugo
+Cornwall, The Hacker's Handbook, 1985-86.)
+
+Now I could ask you for example to send your passwords to this email list
+for a public certification and check, guaranteeing we will never enter
+your account, since your login name is inviolate. Or I could suggest that
+the listserv software requires password entry forms in the new 9.1 ver-
+sion, in order to prevent outsiders spamming your account with Good News
+virus messages that will burn out your hard drive in a matter of seconds.
+I can suggest as well that you send me your password because your Internet
+service provider has written to me directly and asked me to validate it,
+as owner of an email list to which you are subscribed. And to be democrat-
+ic, of course, I recommend that the password be sent to the email list as
+well. Finally, I might suggest, for security's sake, that you send your
+password along with three or four other strings which are password-masqu-
+erades - not usable at all, but guaranteed to foil anyone who would use
+the real one.
+
+And I could promise you a gift, not the real one, but a masquerade, some-
+thing that will appear in your inbox, in the guise of a message, but ...  
+but ... but ...
+
+

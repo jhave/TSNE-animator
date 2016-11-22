@@ -1,0 +1,41 @@
+
+
+
+6c6
+< stumbling about, wondering if this is and onslaught of something 
+---
+> stumblng about, wondering if this is and onslaught of something 
+9c9
+< form of inertia, making it difficult, impossible, to think 
+---
+> form of inertia, making it difficult, impossible, to thnk 
+12c12
+< which wasn't caught in spell-check, but which I caught, myself, 
+---
+> which wasn't caught in spell-chec, but which I caught, myself, 
+40c40
+< formalism If A then B else C, of every collapse of Dijkstra's 
+---
+> formalism If A then B else C, of every collapse of Djikstra's 
+58c58
+< than any exponentiality, remember and Ackerman function for 
+---
+> than any exponetiality, remember and Ackermann function for 
+71c71
+< of contours blurred and interconnected, of entanglements at 
+---
+> of contours blurred and initerconnected, of entanglements at 
+73c73
+< particulation of and ongoing enfoldings and unfoldings of and 
+---
+> particlations of and ongoing enfoldings and unfoldings of and 
+103c103
+< body; if I were to postulate any sort of truth in my writing, 
+---
+> body; if I werer to postulate any sort of truth in my writing, 
+105c105
+< always present (slip of and tumescent tongue, of and galactic 
+---
+> always present (slip of and tumescent tongue, of and glacatic 
+
+

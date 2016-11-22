@@ -1,0 +1,74 @@
+
+
+
+
+[ Wrote 91 lines ]
+
+
+UW PICO(tm)                3.5 File: zz                      Modified
+
+
+What does it mean to spread the following, one machine coupled to
+another, you are so breathless, Jennifer, reading across wires thrust
+from my throat to yours
+
+What does it mean that I am in the machine? Which machine, location,
+spread out across _this_ desktop and _this_ ISP and _your_ location,
+fragmented beyond belief I would declare, from the site of the mouth,
+from _your_ mouth, from the sight of you, from emissions from _your_
+holes splayed out / sprayed out from which machine?
+                          [ Wrote 20 lines ]
+
+Ju2lu% b
+You have no mail.
+Ju3lu% ls
+Mail  lisp  thing  News  lynx_bookmarks.html  tiny.world  a  mail  trace
+calendar  phoenix.hlp  venom.irc  fbw  phoenix.irc  volt.irc  jobs  tf
+zz  lb  tf-lib
+Ju4lu%
+Ju5lu% exit
+Connection closed by foreign host.
+{k:502}
+{k:502}What does it mean that I am in the machine? Which machine,
+location,
+bash: What: command not found
+{k:503}spread out across _this_ desktop and _this_ ISP and _your_
+location,
+bash: spread: command not found
+{k:504}fragmented beyond belief I would declare, from the site of the
+mouth,
+bash: fragmented: command not found
+{k:505}from _your_ mouth, from the sight of you, from emissions from
+_your_
+bash: from: command not found
+{k:506}holes splayed out / sprayed out from which machine?
+bash: holes: command not found
+{k:507} What machine? What machine? What machine?
+{k:508} What local looping? Oh Oh Oh, this is far too simple-dimple!
+
+"For I do write from my location, this desk facing this window, the tree
+in the distance, storm-clouds overhead, the shuddering atmosphere, radio
+going behind me, threatening weather, glimmers of lightning on the horizon
+
+"Your mouth, a conundrum
+
+"The problem of extreme distance, stretch of the cool body, lightning
+across beds and atmospheres, walking in the midst of storm-clouds, sites
+of infinite mouths
+
+"Philosophies of location, Russell at his writing-desk, Sartre at his
+cafe, Schutz by his window
+
+"What do you see at http://www.anu.edu.au/english/internet_txt/skye.jpg
+or these or other clouds
+
+"Ju6lu% netstat | grep sondheim
+tcp 0 0  panix3.telnet  sondheim.dialup..1046  ESTABLISHED
+
+"Between one and another, between inscription and the fall, between fall
+and inscription
+
+"You are so breathless, Jennifer
+
+
+

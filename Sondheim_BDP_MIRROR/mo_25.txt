@@ -1,0 +1,54 @@
+
+
+
+
+
+
+dialog program in full
+
+
+
+
+
+dialog --msgbox "beginning program of branching and ending" 0 0
+
+dialog --msgbox "entering and approaching the originary / something in 
+
+the form of a recuperation" 0 0
+
+dialog --msgbox "restructuring of your position here / bringing a
+
+position into play" 0 0
+
+dialog --msgbox "nothing before and nothing later" 0 0
+
+dialog --inputbox "beginning with the origin" 0 0 2>> zz
+
+dialog --inputbox "ending with continuous restructuring" 0 0 2>> zz
+
+dialog --yesno "in the midst of created worlds" 0 0 
+
+if
+
+[ $? == 1 ]
+
+then 
+
+dialog --inputbox "your anonymity" 0 0 2>> zz
+
+else
+
+dialog --inputbox "your identification" 0 0 2>> zz
+
+fi
+
+./a/elimx.pl < zz > yy; mv yy zz;
+
+echo "your identification and anonymity" >> zz
+
+date >> zz
+
+exit
+
+
+

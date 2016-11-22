@@ -1,0 +1,126 @@
+=
+
+
+
+THE POLITICAL ECONOMY OF THE INTERNET
+
+
+Abstract: A POLITICAL ECONOMY of the Internet is defined and
+considered in brief outline form (BOF).
+
+Keywords: Politics/Economy/Internet
+
+
+
+An economy is "political" to the extent that it is exclusionary, that
+operates through a complex of hegemonic discourses. It is necessary
+as well that such discourses be unstable; this constructs pathways of
+reification throughout the sememe. Such pathways themselves produce
+firewalls or potential wells - circumlocutions defining particular
+discursive domains within overall formations.
+
+Politics possess an "economy" to the extent that resources are both
+allocated and limited. Within the Internet, there are numerous 
+categories of such resources, including:
+
+1 Access to servers
+2 Transmission rates within and without the local user terminal
+3 Capital involved per user per hour per facility
+4 Access to facilities through servers
+5 Issues of restraint and censorship
+
+It is clear that "politics" and "economy" are dialectical within the
+Internet and its community; one entails the other. Scarcity constructs
+firewalls, which may be nothing more than passwords, and allocation is
+always a politics.
+
+The fast-forward circulation of discourses within the net constructs
+as well an enormous quantity of reifications; in fact, virtual reality
+itself is a reification in the literal sense (and by "vr" one can
+move from Usenet to List to Mud to future virtual reality hardware/
+software). This reification-tendency is operative on the level of 
+class-definition; class-consciousness on the Net is infused with an
+anarchism of individuals (hardly anarcho-syndicalist). Nonetheless,
+the class-consciousness is "real," determined by amount of user 
+experience, knowledge of idiolectical terminology including acronyms,
+access to appropriate and inappropriate technologies, and so forth. 
+
+This class-consciousness, fuelled by reification-tendencies, is also
+characterized by a problematic of internal time-consciousness; time
+is never, for the Net, past or present, but an extension into and
+throughout a constructed future or FUTURE IMPERFECT. This is 
+evidenced by a vocabulary which assumes, for example, the presence of
+teledildonics, relationships of "granularity" analogous to those
+outside the net, and communities which are often defined solely by
+ASCII discourse and discursive formations. Within the Net, in other
+words, future and present collapse and interpenetrate; it is no 
+longer a question of project or teleology, but of imaginary consensus.
+In fact, this imaginary and its bifurcations/corrosions constitute
+the major characteristic of the political economy itself.
+
+Note that capital fuels all of this only in a highly mediated and 
+"leaky" form, much as the signifier within capital itself is
+leaky. Capital is highly circuitous here, just as Net control and
+hegemony are circuitous; what is impressive, due to both firewalls
+(used in the broadest sense possible) and reifications, is the 
+"seamless" aspect of the Net, functioning - as class itself does -
+within a highly constructed and often unconscious surface. If the
+users are highly self-conscious as a class, the Net per se is
+both possessed (i.e. "spirited" and possessed by the user) and
+unconscious. (If this were a Lacanian analysis, one could transform
+the argument into a political economy of the unconscious itself; 
+structured like a langauge, it would be analogous to Net ASCII. In
+both instances, there is a semblance of behaviorism - but only a
+semblance, since the surface of ASCII lends itself to wild theory,
+wild interpretation, and a poetics of the body that is at variance
+with the very phenomenology of the terminal screen.
+
+Hegemony: The issue of hegemony is a complex one here. Within the
+Net, protocol does not necessarily equal power; it constructs the
+subject, but without the construction, there is no subject. For 
+example, list "heads" are called "moderators," as in a panel 
+discussion; the implication (often false of course) is that of the
+free-flow of information mediated, for the purpose of a fluid
+communications domain. In fact, the Net presents a confluence of
+mediations or mirror-strategies, replacing the traditional
+hegemonies which were necessarily hierarchic and based on a 
+specific resource and its allocations - usually capital itself.
+
+The Proletariat: Again, problems arise; if the user constitutes an
+incipient proletariat, she is also highly class-conscious and
+operating within the aegis of self-reification. For Net reification
+is almost always an "as-if" state (Vaihinger) or "fiction" (Bentham),
+which may or may descend into an unconscious; no wonder that much
+of the terminology ("cyberpunk," "cybersurfing," etc.) originates 
+in a science fiction recognized as such. The concept of labor also
+breaks down, since the highly mediated fluidics of the Net tend to
+hold off or displace the imminent effects of capital. As a result,
+the lumpenproletariat is also problematized, although a case could be
+made for the inclusion of certain aspects of hacker culture at this
+point.
+
+Ironically, the mediation is such that labor does not appear alien-
+ated; like the programmatic space of the video game, what one does
+always results in action. In the words of 60s programmers, GIGO:
+garbage in/garbage out, but ALWAYS something in constructs something
+out. Labor is then always conducive to the construction of onself; as
+Sondheim shows in INTERNET TEXT, the result is a self as continuous
+REWRITE, with attendent recognition/address/protocol aspects. The Net
+is therefore both cottage industry within a decentralized feudal
+economy and a result of a late capitalism with a centrality mapped,
+through postmodern geography, on a one-to-one basis, upon the 
+(physical, telecommunicating) planet itself.
+
+Finally, base and superstructure are replaced by the five Net layers,
+fuelled by current and electronics. It is only clear that culture is
+a residue of communicative channels, bandwidths, and protocols; every-
+thing else resides in an external unconscious at best. Note as well
+that revolutionary tendency can only result in the disruption of the
+fragile electronic structure itself, just as revolutionary surgery
+always entails a certain loss of memory.
+
+
+THE STRAND COLLECTIVE 2/4/04
+
+
+

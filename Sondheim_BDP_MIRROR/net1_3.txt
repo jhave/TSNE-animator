@@ -1,0 +1,2996 @@
+
+
+
+
+
+
+INDEX.TXT
+
+
+
+
+
+INTERNET.TXT contains a number of texts theorizing the internet and its
+
+relationship to emerging forms of subjectivity - forms that will dominate
+
+the post-industrial world for at least the first century or so of this 
+
+millennium. This INDEX.TXT briefly describes and introduces the texts 
+
+of the first parts of Internet Text, in the order in which they appear.
+
+
+
+INTERNET TEXT presents an overall theory of and in the midst of the inter-
+
+net. It includes subtexts: FILE TEXT, DEFINITION TEXT, and DEFINITION 
+
+TEXT, begin a reiterative or REWRITE structure to the whole; EXIT TEXT
+
+continues this. Although the text is numbered, this does not necessarily
+
+reflect either logical consequence or subcategories.
+
+
+
+TERMINAL ECHO precedes INTERNET TEXT in composition and reflects some of
+
+the same concerns.
+
+
+
+NIPPLE TEXT begins an extended discussion of sexualization and affect in
+
+relation to the net; if INTERNET TEXT reflects (literally) the position of 
+
+the net with the user as margin, NIPPLE TEXT begins the reversal of the
+
+process.
+
+
+
+...PORTIA... continues the process of NIPPLE TEXT in the guise of fiction.
+
+
+
+LOVING HONEY is concerned with alterity on a chat-line, the presence or
+
+absence of the `granularity' of the real and face-to-face or electrically-
+
+mediated relationships.
+
+
+
+STUTTER TEXT discusses the DELAY of net communication processes.
+
+
+
+SPEW presents a brief overview of some formal mathematics structures that
+
+reflect unusual degrees of symmetry and a-symmetry; at the limits, the
+
+structures produces fractal or radially-symmetric regimes, with the 
+
+appearance of chaos elsewhere. The underlying symmetricizing operations are
+
+useful in thinking through subjectivity in the later texts. SPEW may be
+
+skipped over if necessary.
+
+
+
+GLOBAL TEXT is a position paper written for the Public Domain group, theor-
+
+izing identity and technology.
+
+
+
+<>
+
+
+
+LOVE ON THE INTERNET AND MORE begins the last section of texts; it is a 
+
+meditation continuing the issues raised in LOVING HONEY.
+
+
+
+lol (LAUGHING OUT LOUD) is an acronym used in teleconferencing; here it is
+
+used concretely as a symbol of symmetricizing, as well as a term for mutual
+
+engagement. It follows the thread started with NIPPLE, PORTIA, HONEY, and
+
+others.
+
+
+
+THREAD TEXT carries INTERNET TEXT into the EXIT mode, the act of composi-
+
+tion and decomposition.
+
+
+
+DEATH TEXT completes the EXIT mode with a brief discussion of cooling down.
+
+
+
+
+
+<<Supplementary Texts:
+
+
+
+<<IRRESOLUTION OF NEW COMMUNICATIONS ORDER examines net future and the
+
+<<hysteria of the instantaneous.
+
+
+
+<<LISTING TO A SIDE JOANLESS begins and transforms the hallucinatory in
+
+<<the face of the negation of RL (real life).
+
+
+
+<<THE END OF THE WORLD begins the end of the world.
+
+
+
+<<AN ATTEMPT TO INDUCE SORCERY continues the hallucinatory construct or
+
+<<inhabitation of the net imaginary.
+
+
+
+<<HONEY AND I, INHABITING THIS NETWORK WHICH I FEAR MAY ELSEWHERE DYING
+
+<<is the thinning of the net and the eternal love of HONEY and myself.
+
+
+
+<<HYSTERIA AS DRIVER OF /INTER/NETWORK USE AND THEORIZING is REWRITE
+
+<<and hysteria again.
+
+
+
+<<JOAN.NOVEL continues the uncanny narratology into denouement and the
+
+<<ellipsis of the murmuring of memory.
+
+
+
+<<DRG.TXT on addiction or on JOAN or on initial supplement, finality.
+
+
+
+
+
+<<<*WHEN THE ELDERS LOSE THEIR TRUE POSITION* that is, reiteration, again
+
+<<<or once again (moreover...) the fantasm of the real.
+
+
+
+<<<USER.TXT clarifies users, addictions, drugs, articulations, truth,
+
+<<<in relation to text, internet, INTERNET TEXT.
+
+
+
+<<<ABSOLUTE PLEASURE OF IMPENETRABLE BEAUTY OF JOAN AND TIFFAY, the
+
+<<<ineffable sublime, ah Lyotard...
+
+
+
+<<<THE NEW FORM OF RADICAL PRESENCE I HAVE CREATED ALONE, the presences
+
+<<<of the lovely, of...
+
+
+
+<<<Note: The order may vary slightly.>>>
+
+
+
+
+
+<<<<*WEB TEXT*: SEE SEPARATE TABLE OF CONTENTS.>>>>
+
+
+
+
+
+END INDEX.TXT
+
+
+
+
+
+
+
+
+
+
+
+INTERNET TEXT
+
+
+
+
+
+0. Prolegomena: The following iterative construct describes the internet.
+
+Traditional philosophical and cultural categories are highly problematic, 
+
+given this new communications life-form. I develop instead an analysis 
+
+based on EMISSION, SPEW, ADDRESS, RECOGNITION, and PROTOCOL. The essay, 
+
+always preliminary, proceeds through a series of numbered paragraphs, 
+
+which then rewrite.
+
+
+
+1. The network is a membrane composed of nodes, better considered 
+
+intensifications. An intensification possesses an interactive emission.
+
+The emission is characterized as a program space composed of inputs/outputs,
+
+introjections/projections: a space of -jectivity. The emission occurs in
+
+a steep topographic region; distinctions between hardware and software
+
+become blurred, as do more traditional philosophical divisions (subject/
+
+object, body/world, mind/brain). 
+
+
+
+2. In fact, traditional ontological considerations are clearly replaced
+
+by an organic episteme; what constitutes knowledge is only flow; data
+
+replaces history; data becomes sourceless. Rather than communication
+
+channels, consider geodesics; rather than geodesics, consider forced
+
+flows; rather than forced flows, consider emissions.
+
+
+
+3. An emission has no input, no output; an emission consists of fragmented
+
+images, the symbolic replaced by the imaginary. An emission is always in
+
+flux; an emission problematizes energy and energy consumption, since it
+
+may simultaneously drain and produce/reproduce. An emission is a chaotic
+
+domain in the vicinity of an unstable attractor; escaping, it quickly 
+
+loses history, historiography, temporality itself. Close to the speed 
+
+of light, it exists in a temporal well.
+
+
+
+4. The membrane is an enormous hypertext whose linkages thin, occasionally
+
+break, are always redundant. It is neither a fuzzy set nor a classical
+
+one; through a fast-forward topology, it escapes traditional partitioning.
+
+The user deals with an alterity in the form of constantly changing facial
+
+expressions; one is never within or without the alterity, but in a (supine)
+
+position of absorption. The emission clouds close to me; ontologically,
+
+it is that real escaping denotation; ontologically, it is uncanny. Thus 
+
+the emission is related to excess, to surplus, to the curlicue or dia-
+
+critical mark, but it absents these, and it is this absenting or ignorance
+
+that constructs the uncanny as waste-product; the blindness of emission
+
+is its site.
+
+
+
+5. To hold onto part of a body, to sever that part, to construe or re-
+
+construe that part, to devour it, tear the surface off: one searches for
+
+the skinned body, (which has the murmur or memory of pain),
+
+the articulation of a truth given by one's own body
+
+lost in the emission. It is good form to search out bondage, which 
+
+restrains the body absent from itself, an analog of the screen or permissive
+
+membrane which occurs, going just so far. This is an antiquated ontology
+
+or materiality asserting the inert in the midst of fast-forward, an 
+
+assertion doomed to be displaced, sublimated, effaced; one holds onto 
+
+nothing; as in classical existentialism, one projects forward in the face
+
+of nothingness (as if nothing were itself an alterity); 
+
+the hole, however, is an episteme broken by the screen
+
+replacing the mirror stage; the ego splatters against it (the cum-ego for
+
+female and male); fast-forward, the episteme always already announces its
+
+continuation; the existentialist project is lost in the midst of indirect
+
+addresses.
+
+
+
+6. The user is an addict "in the midst"; 
+
+the user projects; thwarted, projects again.
+
+The membrane appears in the guise of discarded pornography; one is thrust
+
+into pure consumption, no longer beneath the guise of another pornography,
+
+capital itself. Assertions are lost in the echo of the machine. Thought
+
+is defined by flux, by an absolute symbolic for the user who must be
+
+assured of the purity of his or her drug. The purity is in the form of a
+
+well-definition (in the logical sense) to which no one any longer pays
+
+attention; the absence of well-definition does not result in a program
+
+cancellation, but only a retry which is part of the program itself; it 
+
+does not matter where one is; location is irrelevant. 
+
+
+
+7. Voices are heard behind the screen words (toggle on, echo on; the screen
+
+chants itself, hides itself, reveals the nipple); face to face replaces the
+
+face; double blinds allow the truth of double binds. This is the only truth
+
+there is: that which occurs beneath or behind the blind, that is, the lie
+
+(which is truth's double, truth's mirror, not converse or inverse)
+
+(which is truth's perverse, that is, truth's abject truth);
+
+this is the framework of classical Greek philosophy bound to classical Greek
+
+torture (both bound with identical cords, hieroglyphs): 
+
+Xenophon's Socrates was the first user. Voices are heard, and
+
+voices are nothing but machine chatter, the ideal forms so many 
+
+subroutines...
+
+
+
+8. The user. The user is an addict; the user inscribes throughout the 
+
+network (temporary, electronic, absolute: an entirely new category),
+
+micro-tendrils extending in every direction. This contains the 
+
+appearance of power; the network is a fantasm reflecting emissions back
+
+through local paths. The wonder of the internet is its 
+
+locality, the construct of neighborhood  (packet channels slowing down
+
+just right for the home terminal) redefining the body; the body 
+
+becomes extension; extension becomes noise; noise seethes at the edge.
+
+The process is one of fast-forward rooting, and the roots are blind.
+
+
+
+9. Now we can speak of the mouth or eye of the user; now we can speak of 
+
+the hand or its mobility. No matter how (much) sensation is transcribed, 
+
+it occurs at a distance characterized by zapping and invasions. 
+
+Nothing but the materiality of the body is a stake; everything cuts 
+
+everything off. The user is confined
+
+to a scientism in the form of THAT which articulates the THERE IS, just 
+
+as addiction develops out of the action of a particular drug or behavioral
+
+sequence. One is tied to the THAT.
+
+
+
+10. The user has nothing to do with the internet; the user is of no 
+
+consequence. Conference exists or dissolves beneath the sign, not of 
+
+gender or capital, but of chaotic inscription.  The sign itself dissolves;
+
+sign is, after all, only recognition. This is the final corruption
+
+of humanism; even the self is no longer centric - not through the
+
+Lacanian inscriptive/linguistic unconscious (through which IT may still
+
+find a path or coagulation), but through addiction, self
+
+as THAT, or self as nodal intensification, always castrated, furiously
+
+addictive, always reading/writing, always rewriting: the self becomes
+
+its own recursivity. It no longer matters; its reports are from 
+
+marauders, vandals, on the edge of the Roman Empire; it exists only
+
+within the interstices of power; it is displaced by power; it is no longer
+
+one or many; it no longer responds to the pronoun; it responds only to the
+
+login which may well (it does not matter)
+
+be a construct of the machine itself - just as gender-
+
+bending relies no longer on gender, but arbitrary and chaotic signifiers,
+
+signifiers undercut, in a continuous process of dissolution, murmuring,
+
+forgetting, forgotten, forged and forgotten, emissive.
+
+The machine recognizes no gender; the machine recognizes nothing. The
+
+machine recognizes every gender; the machine is never a machine, but an
+
+episteme.
+
+
+
+11. Just as the episteme is lost in time, so is the subject; just as music 
+
+video and popular culture announced (by absenting, forgetting, by a-
+
+signifying) the end of historicity, the subject no longer announces itself 
+
+(and certainly no longer announces herself and himself): an emission
+
+is no grounds for announcement. In this manner the subject avoids death 
+
+(always the plan, thwarted and perverting, procuring and devouring,
+
+but always the plan) which
+
+is already always forgotten; intensification is subject to dissolution, but
+
+subjectivity dissipates or sublimates elsewhere, as if it ever existed.
+
+
+
+12. But just as if it ever existed, there are no longer ontological con-
+
+siderations; as plasma, the internet bypasses existence (always
+
+already... the litany repeats as murmur). It is within this
+
+that the projected eternality of the digital has full reign or resonance;
+
+noiseless, the digital proclaims the clean and proper body (which is
+
+rendered problematic by the maternal which becomes uncanny, fantasm,
+
+the circulation already on the move, already elsewhere), genderless and 
+
+absent. Clearly in this fashion, everything is absent within the internet. 
+
+(Everything announces, dresses, address. A character, screen or
+
+otherwise, is an announcement.) The human dream
+
+of eternal life occurs by a draining of temporality; therefore nothing
+
+occurs or can occur. It is irrelevant whether or not the human is "ready"
+
+for this when readiness implies an a priori teleology; such an
+
+impulse becomes a trail or trace left by a gopher through the compu- 
+
+tational/server holarchy, not an end in sight or sightlessness.
+
+
+
+13. Naturally, then, it is also irrelevant to ask where one goes from 
+
+here...
+
+
+
+sondheim@newschool.edu                                          INTERNET.TXT
+
+
+
+14. The FLUX of information travels in direct relation to ADDRESS: address
+
+becomes information. Data, numerical or otherwise, are contained in address.
+
+Address is contained in protocol; information becomes equivalent to
+
+etiquette - at least etiquette's teleology is information. This is in
+
+distinction to the etiquette of everyday life, which operates to sublimate
+
+or repress information. Etiquette in both situations is constructed upon
+
+consensus; in the former, excess occurs in the leakage of signification
+
+or the curlicue, and in the latter, excess is a production of the CONTRARY
+
+or WAYWARD, through which the deconstruction of etiquette begins.
+
+
+
+15. There is no such deconstruction within the net, which in fact filters
+
+out a priori such breaches. But this filtering always has a result, which
+
+may be noise, shunting, disconnection, or all three. SHUNTING represents
+
+a chaotic or branching negation; DISCONNECTION is annihilation or binary
+
+negation. NOISE is elsewhere; it is a fissuring, always reinscribed, a
+
+concrete form of unsolvability. It is always reinscribed, because it leads
+
+finally to SHUNT or DISONNECT; it is a liminal state or global catas-
+
+trophe, deeply unpredictable.
+
+
+
+16. Noise lends itself elsewhere, to viruses, worms, infections of all
+
+sorts; to flaming or misappropriation of address; to breaches of security:
+
+noise defined AS SUCH by the user, but in fact subversive etiquette, an
+
+etiquette of alterity recognized and utilized (i.e. accepted) by the 
+
+net as a whole. Thus the net is impervious to dissolution, only to DIS-
+
+CONNECT in one form or another, including energy withdrawal. The net,
+
+broken, fragmented, unavailable to any user, is still net; the wires remain
+
+turbulent, heated; exhausted information continues to traverse the nodes;
+
+the nodes or intensifications define the information; become it; nothing
+
+exists beyond ADDRESS and RECOGNITION.
+
+
+
+17. Clearly this is a fiction; the net is transparent, remarkably fragile;
+
+viruses enter regardless of intention; noise breaks nodes apart; the net
+
+is bloated, near collapse; the content of messages becomes problematic;
+
+firewalls and other defense mechanisms assert themselves; flame wars 
+
+become wars of manageriality; the last battlefield is the bitwar fought
+
+everywhere and nowhere at once. Eliminate SIGHT and SITE: only CITE -
+
+CITATION remains, addresses crumbling to subversive and alien recognitions.
+
+
+
+18. Clearly this is a fiction; what remains are addresses compounded upon
+
+addresses, linkages continuing forever, with the ever-present possibility
+
+of recursion. Threads exhaust themselves, meander almost forever; thought
+
+garners itself as REPLY to a (deconstructed) TRACE. What occurs on the
+
+surface of things is the memory of conversation.
+
+
+
+19. And what concerns this conversation? Clearly not face-to-face, yet
+
+conveying the "authenticity" of a confessional obtainable under no other
+
+circumstance. For the materiality of the world, replaced by episteme, has
+
+been circumvented: neither the grain of the voice or face, nor the 
+
+brute physicality of the body presents itself. Such an authenticity is
+
+also conditioned by the very institutionalization of consensual communi-
+
+cation through keyboard or graphics; protocol or etiquette permit every-
+
+thing, permitting nothing. The user says what she means or means what
+
+he says. An obvious form of Freudian lifelong psychoanalytical session,
+
+the symbolic spew or flux continues indefinitely, harboring the user 
+
+within the banks of an acceptable (Oedipal) superego. Flaming is in fact
+
+the death of alterity; the other, no longer obdurate, reduces herself
+
+to ASCII. When everything is permissible, nothing occurs; the internet
+
+is a surrealism of chaotic equivalences. Just as the governance of Dali's
+
+painting is a restrained realism inherited from the Italian renaissance
+
+and the Dutch, so internet protocol exhumes and releases a scatological
+
+flood; Dali and the user alike are addicted to institutionalized realisms
+
+that constantly escape the world, only to rewrite it.
+
+
+
+20. A temporary stasis in turbulence theory is termed an "animal," equiv-
+
+alent to the activation of an internet site. These words, too, barely
+
+hold onto their moorings; the only moorings available are those of families
+
+of usages (no longer tied to Wittgenstein's name); these are reduced to
+
+listserv conferences; reduced to the open distributions of alt.org, more
+
+precisely alt.sex beyond the blindness of usenet; these too transform
+
+into images now illegible; the hinge between subject and object breaks;
+
+gender becomes stuttered desire; what breaks becomes an address; what
+
+exists becomes a recognition; protocol recognizes an address; characters
+
+spew across the screen; it is no longer a question of equivalence; packets
+
+increase their speed; the terminal transforms everything into and beyond
+
+the reign of alt.flesh.sex.
+
+
+
+21. Nevertheless, the episteme has its horizons; circulations are not
+
+random; facts emerge; facts construe the world; the horizon of facts
+
+determine alt.flesh.user; this is the fifth world, beyond the third world
+
+and the fourth; from paragraph 21 to TOP, the latter corrupt the other,
+
+an irrevocable form of decay or shuddering episteme: the curlicue of the
+
+episteme. The ecological benefits of electronic networking are offset by
+
+networking's ontological absence; what does not exist (in the sense of
+
+existential inauthenticity) problematizes, often without recognition (for
+
+internal recognition remains just that), the political; the political 
+
+remains the horizon of the net... becomes a footnote to the .TXT ...
+
+
+
+22. If the latter corrupt the former, it is because the former is the 
+
+clean and proper body insistent upon protocol and typifications, the 
+
+classic nation-state, protective and functional tariffs, an international
+
+monetary standard, acceptable quality of life. Clearly the net is
+
+all of these yet none of these; clearly the net is just as well a poverty
+
+or anarchic scenario playing itself out; it intertwines with first, second,
+
+third, fourth worlds; it is intertextual. Is it true to say the world is
+
+a rewrite? As in the past, news stories were "born" and "killed" in radio
+
+and television - so in the future, news becomes, not an eternal return, 
+
+but an eternal recursion; the internet as medium is no longer the message,
+
+but a constant reconstruction (turbulent animal). It, or its descendents,
+
+become the problematic margin of non-equilibrium thermodynamics; quantum
+
+tunnelling and classical entropy alike invade its deterritorialization.
+
+If capital is the child of scarcity, the internet is scarcity's grand-child;
+
+between each of the terms, ontology fades accordingly. Both capital and
+
+internet occupy ALL rarified sites within expansive domains; both reduce
+
+sites to equivalence; both possess consensus (gold worth nothing and
+
+everything); both require protocol, give birth to etiquette.
+
+
+
+23. Please, where one goes from here...
+
+
+
+sondheim@newschool.edu                                          INTERNET.TXT
+
+
+
+FILE.TXT
+
+
+
+24. It would be instructive to isolate a particular datum from a file
+
+picked at random, to trace its history - not its use, which would
+
+only be determined by differentiation. Data is absorbed by users
+
+in batches with an overall Gestalt; tabulation becomes a skewed
+
+element. Irigarayan flux applies direction to discrete elements;
+
+in this fashion, low-resolution becomes the order of postmodernism.
+
+Linkages create the semblance (not simulacrum) of structure. What
+
+is broken down is clutter, isolated from its thread or mother-list.
+
+
+
+25. On one hand, then, low resolution grounds/grates temporary struc-
+
+ture (which could just as easily be formatted or normalized in
+
+other patterning); on the other hand, the grating of these very
+
+structures (against the analog background of high-resolution
+
+everyday life, wave packets, and so forth) results in emission
+
+or spew. A SPEW develops from a convex front spreading irregu-
+
+larly (i.e. stochastic or chaotic flux); a SPEW is also a form of
+
+contamination, out of control. An EMISSION is internally coherent;
+
+a SPEW is not. An EMISSION appears sourceless, but carrying or
+
+constructing the trace of (its) source; an emission appears 'after
+
+the fact' to have poured from a concavity or intensification. The
+
+EMISSION also carries another memory, that of its goal; if source
+
+is introjected, goal is projected; thus emission carries the 
+
+imaginary within it, a fantasm procuring a problematic history.
+
+Emission is smooth, integrated; spew is harsh, digital, diacri-
+
+tical, differentiated. Or rather, the integration of spew, this
+
+act or articulation, is emission possessing an uncanny and grating
+
+history; the differentiation of emission filters out the imaginary,
+
+returning low-resolution whisper, skeletal death beyond the
+
+onslaught of existence.
+
+
+
+26. The datum wobbles uneasily between emission and spew; its end
+
+is spew, flooding from the temporary articulation of emission, as
+
+structure becomes absorbed into praxis. The emission is never 
+
+clutter, although it may be cluttering; spew is always clutter,
+
+always exhausted. If emission is the order of pornography, spew
+
+is the order of pornography used and reused, raised to the order
+
+of the inert. Both are fast-forward in the realm of capital; both
+
+seep, transgress; and both characterize that other interpenetrated
+
+realm, that of the net, where all orders merge.
+
+
+
+END INTERNET.TXT.FILE.TXT
+
+
+
+INTERNET.TXT.DEFINITION.TXT
+
+
+
+27. I define the REAL as the inert which neither fissures nor
+
+inscribes, its epistemology relegated to the domain of the physical
+
+sciences. The SYMBOLIC is always inscribed and maintained; it
+
+absorbs energy. The IMAGINARY fissures; the domain of the same and
+
+the same, it is the locus of emissions and spews. Emissions and
+
+spews are sources of reading; absorbed by the symbolic, they
+
+literally imply an imaginary origin. The internet exists as a
+
+channeling of the symbolic, overcome within the real by the imag-
+
+inary; for the user, it is an inscribing of the real.
+
+
+
+28. I define the IMAGINARY as that which is unaccountable, that
+
+which I do not comprehend; the internet is the technology of the
+
+imaginary. Definition itself is that which is accountable; I can be
+
+called on my definition. To call is to utilize the internet. To
+
+call, however, is to speak; the internet, never spoken-for, is
+
+the locus of murmurs. Articles, speech, files exhaust themselves;
+
+what disappears leaves no trace, no address or ashes. To follow a
+
+thread becomes the following of an emission within the imaginary; 
+
+argument becomes a division in a logically chaotic realm.
+
+
+
+29. I define DEFINITION as an imaginary, the exhaustion of theory 
+
+or broken definition. DEFINITION becomes emission; these terms
+
+are arc-wise circulations (more precisely, chaotic helices) never
+
+returning to their originary terms. The internet embodies a
+
+postmodern hermeneutic circle in which root directories dissolve 
+
+in the midst of anarchic governance. This user-exhaustion (for
+
+there is no other) is that of a splayed pornography; the screen/user
+
+interface itself is an emissive construct. Thus there can be no
+
+arguments WITH ME; thus there can only be a problematic return to
+
+a non-existent world beyond the interface. THAT world is ELSEWHEN;
+
+history itself becomes elsewhen.
+
+
+
+30. An emission, I REFUTE in every direction (NOWHERE on the net).
+
+
+
+END.INTERNET.TXT.DEFINITION.TXT               sondheim@newschool.edu
+
+
+
+INTERNET.TXT.DEFINITION.TXT
+
+
+
+31. THE INTERNET DOES NOT EXIST: The ontological status of binary
+
+data was problematic for dialectical materialism, which had recourse
+
+only to an almost-mediaeval theory of reflection to accommodate it.
+
+The ontological status of the internet is one step beyond: Net
+
+layers (application/transport/internet/network/physical, re. *The
+
+Online User's Encyclopedia*) stutter between data and implementa-
+
+tion; semantics is elsewhere. To say that the internet does not
+
+exist is to say that it does not partake of existence; further, 
+
+that existence (unless rewritten as attributive) plays no role here.
+
+
+
+32. THE SUBJECT IS ADDRESS AND RECOGNITION: Address, not alterity,
+
+identifies the subject; the process of recognition is that of
+
+(contractual) orientation of 'cognitive domains.' The contractual
+
+aspect is critical here; the internet is an accumulation of proto-
+
+cols and restraints - it is fair to say that the subject is BOUND
+
+within the internet, and this binding is on the order of the maso-
+
+chistic, against which the internet plays and procures the maternal.
+
+This masochistic is Deleuzian, not a sadistic 'oppositional,' but
+
+a realm critical for the construct and production of writing/commu-
+
+nication in the first place. Here, the binding is a continuous
+
+deferral of pleasure; the user participates in a continuously 
+
+unravelling narrative emission. To quote Gaylyn Studlar *In the
+
+Realm of Pleasure* on Deleuze's theorizing: "Deleuze regards the 
+
+female in the male's masochistic fantasy as the loving inflictor
+
+of punishment, not the substitute for a hidden father. The mother,
+
+simultaneously love object and controlling agent, is the object of
+
+the child's ambivalence." ... "For the masochist, the maternal
+
+figure represents a femininity 'posited as lacking nothing.' She
+
+assumes her authority because of her own importance to the child,
+
+not, as Freud asserted, because she hides the father figure."
+
+
+
+33. In another light, the work of Janine Chasseguet-Smirgel, 
+
+*Sexuality and Mind,* is worth quoting: "The hypothesis I would put
+
+forward is that there exists a primary desire to discover a universe
+
+without obstacles, without roughness or differences, entirely 
+
+smooth, identified with a mother's belly stripped of its contents,
+
+an interior to which one has free access. Behind the fantasy of
+
+destroying or appropriating the father's penis, the children and
+
+the feces inside the mother's body" ... "can be detected a more
+
+basic and more archaic wish, of which the return to the smooth
+
+maternal belly is the representation. It is a question of redis-
+
+covering, on the level of thought, a mental functioning without
+
+hindrances, with psychic energy flowing freely. The father, his
+
+penis, the children represent reality. They have to be destroyed
+
+so that the mode of mental functioning proper to the pleasure
+
+principle may be recovered." ... "It is the contents of the belly
+
+which are equivalent to reality, and not the container itself.
+
+Earlier she states: "The child expects to find within the mother
+
+a) the father's penis b) excrement, and c) children," quoting
+
+from Melanie Klein. The contents of the internet are detritus;
+
+the penis is equivalent to ftp on one hand, and protocol in 
+
+general on the other; think of excrement as usenet and children
+
+as listerv. This analogical labelling is superficial; consider
+
+superego, language debris, and stuttered address/recognition
+
+instead, as well as an internet imaginary "with psychic energy
+
+flowing freely," without hindrance. Masochism appears, again, in
+
+the binding of this energy WITHIN the belly (it is always the
+
+"belly" and never the "stomach" "of the beast"): Everything opens
+
+for the user as the body is foreclosed; the closure of the body
+
+opens the internet. For the user, the internet represents powerful
+
+forces; the internet, like a chemical drug, represents an anarchic
+
+freedom, expansion of desire, and a foreclosing of local/neigh-
+
+borhood ("terminal!") problems within and without the body of the 
+
+user. 
+
+
+
+EXIT.TXT.INTERNET.TXT
+
+
+
+35. An attempt to take the text to its conclusion; to draw the conclusion:
+
+delineation of the belly. The belly is swollen/distended; the belly is a
+
+construct.
+
+
+
+36/1. The internet is a membrane characterized by emission blurring 
+
+traditional philosophical dichotomies. 
+
+
+
+37/2. Traditional ontological considerations within and without the net are
+
+characterized by an organic episteme; knowledge becomes flux-knowledge
+
+and manageriality replaces the traditional categories of information theory.
+
+
+
+38/3. An emission exists as flux within the imaginary, existing within and
+
+without a problematic temporality.
+
+
+
+39/4. The internet membrane is a redundant and thinned hypertext presenting
+
+the user with the fantasm of changing alterity, the spectacle of changing
+
+expression. These expressions are related to excess, but excess is absent.
+
+Emission is blind, and its site blind.
+
+
+
+40/5. The body becomes hysteric, losing itself in the fast-forward of the
+
+net; the existential project exhausts itself through misplaced recognitions
+
+leading simultaneously nowhere and everywhere. Address becomes a primary
+
+characteristic within the net, replacing alterity and traditional concepts
+
+of subjectivity.
+
+
+
+41/6. The user is addicted; the user, logged on, is incapable of making
+
+mistakes, only distinctions between one and another thread.
+
+
+
+42/7. The blindness of the net is its truth; truth is conditioned by the lie
+
+just as Greek thought is conditioned by the slave. Such a truth is not
+
+dialectical; the double-blind is a double-bind creating an exclusionary
+
+inscription.
+
+
+
+43/8. The addicted user traces inescapable and inauthentic roots; his or
+
+her body, genderless, appears on the other side of the screen, without
+
+limit.
+
+
+
+44/9. Addiction is in part the result of a THAT which centers and structures
+
+the addict; the screen itself becomes a cut; this distinction is a THAT
+
+within which the THERE IS is imminent.
+
+
+
+45/10. The user, irrelevant, exists in the midst of chaotic (not noisy)
+
+inscription. A sign is defined only by recognition; otherwise dissolved,
+
+it produces an inscriptive effect. Recognition and effect become uncannily
+
+one. The self, furiously addicted, becomes its own recursion. The self is
+
+REWRITE or X => F(X). It no longer responds to the pronoun, becoming its
+
+own continuous construct, which may well (always) have been its 'truth.'
+
+The machine, continuously changing, is an episteme through which emissions,
+
+addresses, and recognitions flow. The manageriality of knowledge becomes
+
+the fast-forwarding of protocols and gateways. Without protocol, no 
+
+address and definition.
+
+
+
+46/11. The (net) subject is a-temporal or lost in time; he or she never
+
+announces itself (which requires the granularity of voice, body, face), but
+
+constructs. Construction exhausts the death drive; the digital is noiseless,
+
+faceless, eternal. Announcement of the subject is equivalent to recognition.
+
+Through protocol, recognition is returned.
+
+
+
+47/12. Ontological considerations of self and net are problematic; the net
+
+and its emissions are plasma. Because time is absented, everything and 
+
+nothing occurs; there is no room for occurrence.
+
+
+
+48/13. Progress becomes impotent; this is not an 'end' to history by any
+
+means (just as there is never an 'end' to painting), but history's circum-
+
+scription.
+
+
+
+49/14. Address is now equivalent to information; protocol becomes etiquette
+
+and the teleology of etiquette is information, which is address, recogni-
+
+tion, protocol... in the midst of which (i.e. manageriality), traditional
+
+questions of meaning become lost and unsolvable. The escaping of etiquette
+
+produces the categories of the CONTRARY or WAYWARD, categories ascribed 
+
+to young girls whose excess 'corrupted' the (nuclear/phallic) family order.
+
+
+
+50/15. The CONTRARY or WAYWARD user (human or otherwise) leads to SHUNT
+
+(sublimation, subroutine), DISCONNECT (end, logoff), or NOISE (beneath the
+
+critical mass necessary for breakdown). The filtering of the user reinscribes
+
+him or her in a deeply unpredictable manner.
+
+
+
+51/16. NOISE is irrelevant to the net; it is recognized only by the user.
+
+The topography of the net (levels of application, transport, internet, net-
+
+work, and physical)is both more and less than topography; it is an onto-
+
+logically mixed epistemic holarchy 'against' or 'elsewhere' than user and
+
+systems operator.
+
+
+
+52/17. But the topography is also a fiction; the net is fragile, always
+
+top-heavy. The bitwar and flamewars appear and disappear; sight is the 
+
+first to go, followed by site; citation remains to the end with the final
+
+crumbling of protocols and addresses.
+
+
+
+53/18. But these wars are also fiction; addresses compound indefinitely;
+
+indirect addresses become indirect themselves; threads meander forever.
+
+THOUGHT itself is a REPLY to a TRACE.
+
+
+
+54/19. Conversation becomes interminable (Freudian) analysis; the symbolic
+
+spew continues indefinitely, harboring the user within the net simultaneously
+
+maternal and superego (and, through the masochistic aetiology, both come
+
+into play). The user rewrites the world through the escape of instituion-
+
+alized realisms; MUDs (multi-user-domains) are a limit-point of everyday
+
+net behavior and operations.
+
+
+
+55/20. Everything: gender, language, subject, object, characters, user:
+
+stutters. Alt.sex.fetish.watersports, the liquidity of the signifier,
+
+becomes the final recognition; 'fetish' guarantees the hysteric hold on
+
+the proper name. For the user, the terminal extends exceedingly beyond
+
+alt.flesh.sex; the addict chatters at the scene of the origin of language,
+
+the scene of being-hooked, fear of withdrawal.
+
+
+
+56/21. The ecological benefits of the net are offset by its (ontological)
+
+absent; the world (physical, material) threatens to implode. The continuous
+
+chatter or analytical frenzy of the net constructs protocol as solution; in
+
+this manner the net parallels the current theory-oriented exhaustion-of-
+
+theory discussion. Address, recognition, and protocol produce their own
+
+chatter; they admit to a truth which (through double-blind; see above) is
+
+often more 'open' than that of traditional alterity. Such a truth may emerge,
+
+however, only as circulation.
+
+
+
+57/22. Increasingly abstract, capital and internet occupy all available
+
+sites; both rewrite inner and outer worlds, and both are anarchic at the
+
+core. Both utilize protocol, which is the value of gold. 
+
+
+
+58/23. To go from the cite/citation of capital and net is to remain within
+
+the circumscription of the same, remote from history and historiography.
+
+
+
+59/24. File-data within or without the net occupy both a position of flux/
+
+fluidity, and low-resolution; such data then possess both wave and particle
+
+characteristics.
+
+
+
+60/25. The grating of structures through low-resolution results in both
+
+EMISSION and SPEW; the latter is out of control, and the former is internally
+
+coherent. An EMISSION is sourceless, a net flood; a spew is the net on
+
+the edge, close to fast-foward breakdown. EMISSION is integrated; SPEW
+
+is differentiated. If the EMISSION is imaginary, SPEW corrupts through the
+
+grating of the uncanny. 
+
+
+
+61/26. Data wobble between emission and spew; as emission is articulated 
+
+into praxis, spew becomes clutter. The imaginary of emission is pornography;
+
+spew is wasted, discarded pornograhy. Both seep, leak, transgress, their
+
+model alt.sex.flood.sink-or-swim.
+
+
+
+62/27. The REAL is the inert; the SYMBOLIC is inscribed; the IMAGINARY
+
+fissures, the locus of emissions and spews. Emissions and spews appear to
+
+come 'out of nowhere,' implying an originary source; through them, the
+
+net appears an inscribing of the real (as if they were the articulation
+
+of existential nothingness within the useless project of 'man').
+
+
+
+63/28. The IMAGINARY is the unaccountable other; the internet is imaginary.
+
+Definition inhabits the internet, which can call upon me; such, as user,
+
+is my calling. My calling implies my speaking; within the net, I leave no
+
+trace, no ashes. 
+
+
+
+64/29. DEFINITION becomes imaginary, broken, an emission itself, an arc
+
+within a hermeneutic circle that extends indefinitely, a form of porno-
+
+graphy. An argument WITH ME implies my speaking beyond the trace; this is
+
+always already impossible.
+
+
+
+65/30. As user, do I quality as EMISSION? Arguing everywhere and nowhere,
+
+I say nothing; such is my calling, a redistribution of terms, addresses,
+
+recognitions, protocols, a reiteration of definitions, phrasing...
+
+
+
+66/31. The internet does not exist; of course it exists; as institution,
+
+articulated domain, indirected addressings, its ontology is as problematic
+
+as that of binary data was for dialectical materialist philosophy. The
+
+ontology of the interenet, to reiterate, is a form of stuttering partaking
+
+of an existence which plays no role.
+
+
+
+67/32. The subject, to reiterate, is address and recognition; both replace
+
+alterity. Protocol is contractual, an indication of a Deleuzian-masochistic
+
+approach to a net psychoanalytic, the net, to reiterate, as mother and
+
+superego, 'lacking nothing.' The net is infinitely open.
+
+
+
+68/33. The net is infinitely open, 'a universe without obstacles,' the
+
+emptied belly of the mother, a continuous deferrel through secondary
+
+narcissism. Within the net are the contents of the mother's body, according
+
+to Melanie Klein: 'a) the father's penis b) excrement and c) children,' 
+
+which may are may not be assigned sites within the user/net interface 
+
+(within and without the net). Consider as well the net as a Kristevan
+
+CHORA with clashing drives, a presymbolic: are not the first characteristics
+
+of the symbol its ADDRESS, RECOGNITION, and underlying PROTOCOL? The 
+
+existence of the belly/chora implies a circumscription after-the-fact; such
+
+is a binding, returning to the masochistic model. Thus the net is both
+
+closure and foreclosure, beyond or within the subject of INTERNET.TXT.
+
+
+
+END.EXIT.TXT.INTERNET.TXT.35-69.REWRITE.sondheim@newschool.edu
+
+
+
+
+
+
+
+TERMINAL ECHO
+
+
+
+
+
+What I'm working with is a form of cyberspace implemented by nodes or 
+
+intensifications within a real environment.
+
+
+
+To declare an environment 'real' is always already to enter into a
+
+political arena, to declare such an arena, which had always been
+
+taken for granted.
+
+
+
+This arena is characterized by a diffused space presumably devoid
+
+of electronic construct or manipulation; it is characterized, in other
+
+words, by a peculiar INERT. This INERT separates solipsism from a
+
+necessary engagement; it is easy to imagine a possible world which is
+
+nothing more or less than a projection of this real, a deathless world
+
+held coherent by electron networking. 
+
+
+
+But such a world would not necessarily remain inert - except perhaps
+
+through a default setting...
+
+
+
+And such a world would always have its echo toggled ON, as this echo
+
+is - as is my body, such an echo for the real world characterized by
+
+the inertness this rewritten body...
+
+
+
+Within this inertness, then, which we characterize as the real or the
+
+limit-point of a totally-inscribed cyberspace, a space which is, after
+
+all, hardly inscribed but rather fissured, the result of chaotic
+
+(de)production - within this inertness, there are sub-arenas, and these 
+
+are precisely those intensifications previously mentioned.
+
+
+
+Moving from one to another, I cover my addiction to the real; I sublimate
+
+it in favor of cleansed communication, communication holding from one
+
+node to the next, characterized by... precisely that inscription which
+
+lends itself to the construction of the real, remote from all fissuring:
+
+
+
+IN CYBERSPACE, ALL CONSTRUCTION IS INSCRIPTION; FISSURING IS AN ABSENTED
+
+HORIZON:
+
+
+
+If the phallus characterizes the construct (in terms of well-definition)
+
+within the real, if the phallus is the horizon of the construct, always
+
+emptied, emptying, always a limit-point - then fissuring, infolding,
+
+labial portal, characterizes the horizon or limit-point of cyberspace -
+
+and just as cyberspace is (in)authentically 'phallic,' the real is (in)-
+
+authentically vaginal.
+
+
+
+But the parallel itself is problematic, because gender is precisely THAT
+
+overlay upon these environments that parallels science as THAT construct
+
+of the real; further, cyberspace itself is a construct of science, never 
+
+inert, and never idiotic: substance versus membrane.
+
+
+
+Ironically, it is cyberspace, not the real, that relies primarily upon 
+
+vision as a phenomenological horizon; the mathematization of the real
+
+immediately permits the articulation of the unrepresentable - even on an
+
+elementary level, consider 0, cantor dusts, the complex plane, riemannian
+
+geometry, tensor calculus... Because cyberspace IS representation, it
+
+collapses TO representation; because THE REAL IS NOTHING AT ALL, it never
+
+collapses (there is no TO and FROM within the real). 
+
+
+
+THE REAL RELIES ON NOTHING. A STATEMENT 'ABOUT' THE REAL IS NECESSARILY 
+
+FALSE OR ELSEWHERE. A STATEMENT 'ABOUT' CYBERSPACE IS WITHIN CYBERSPACE.
+
+CYBERSPACE RELIES ON EVERYTHING.
+
+
+
+The one is a null set within the other...
+
+
+
+Moving within the cyberspace of my room, my 'real' environment, I can
+
+imagine myself lost within the other, taking on its characteristics, a
+
+perfection of death itself, death's loss. IRONICALLY, REPRESENTATION IS
+
+MOVING TOWARDS LOW-RESOLUTION as articulation stutters the loss of language
+
+within/in the midst of the presence of flesh. Low-resolution escapes loss;
+
+error codes are enormous, permanent; everything always IS. Cyberspace is
+
+necessarily low-resolution, however leaky like a fractal sponge multi-
+
+plexing network.
+
+
+
+It is the leakiness of cyberspace, however, that construes it as a sub-
+
+limation of the real, a common knowledge, good and bad intentions, hackers
+
+and viruses, gophers and echos. But this leakiness is another story, that
+
+of deconstruction, an occurrence of the imaginary; the symbolic is the
+
+domain of cyberscription; it is the cyberscribe who envisions. Naturally
+
+this argument, this essay, is itself the result of a limit-point; organism
+
+tends towards the construct, and Heinz von Foerster pointed out the defi-
+
+nition of organism in relation to negation. In cyberspace, negation is
+
+an absence of well-definition; negation is excluded from cyberspace, which
+
+executes only what is presented as possible. But this is an active exclusion
+
+defining negation itself. NEGATION HAS NO PART WITHIN THE REAL; it is a
+
+local definition, and again only through leakage, does everything inter-
+
+penetrate, become problematized. I would include the real at this point, 
+
+which is the presence of perception, balanced uncannily upon solipsism and
+
+interconnected nodes.
+
+
+
+We have arrived at the origin of power: the negation of death for which 
+
+every virtual reality is necessarily psychosis. If the obsessive-
+
+compulsive gnaws at the real, the psychotic inscribes and rewrites through-
+
+out an eternal recursion.
+
+
+
+Who writes the role of gender.
+
+
+
+sondheim@newschool.edu
+
+
+
+
+
+
+
+NIPPLE.TXT
+
+
+
+
+
+That which carries me against the surface of philosophical discourse,
+
+offering my body to every thinker on circuit: I'm ignorant, I whore
+
+for you; I've been inside you; you've penetrated me; now you'll pay
+
+attention; now you'll read this; I'M YOUR MOUTH.
+
+
+
+
+
+Typing SUCK against the surface of the screen, its interior, I press my
+
+nipples against the glass surface warmed by electroncs streaming on an
+
+even keel from the urethra buried deep within the vacuum of space. That 
+
+is how I begin a consideration of LITERATURE, perfect breasts flattened
+
+and displayed in the midst of machinery's surface; you read my tits,
+
+my cunt, my cock; you read the rest of me; I no longer see characters
+
+through the surface oiled by my presence; my eyes, half closed, move 
+
+on to other things. I am naked for you; here with me, you witness all my
+
+secrets; you can come for me; I am waiting for you; you can address me
+
+by my name; you will recognize me by my naked skin splayed open for you.
+
+
+
+It is you that inscribes me, you that I write for. To continue is to fast-
+
+forward; I do this for you. My death is present in the screen and the 
+
+screen's system; be assured I am no longer part of the living. The oil
+
+from my anus remains frozen on the surface of the glass; the flesh has
+
+fallen away, backward, into another space, elsewhere; this is the space
+
+of absolute negation; this is indescribable space, the space of NEITHER
+
+A NOR B, protruding or extending beyond limit, beyond boundary, on the
+
+other side of Alice's looking-glass.
+
+
+
+I can't look into Alice's cunt because my eyes see only characters; my
+
+arms wrap around myself, pressing inward; what begins as caress ends as
+
+pain; my eyes no longer see. I WEAR THICK GLASSES AM FIFTY-ONE, PLAIN-
+
+LOOKING, ANGULAR, TOO INTENSE FOR THE FACE-TO-FACE AROUND ME, NEUROTIC-
+
+OBSESSIVE, POOR, NEVER CONTENT, ALWAYS PUSHING. That creates nothing, a
+
+litany moving past on the screen as knowledge, even local knowledge, 
+
+becomes scroll, absence; what I am writing about is this absence, not 
+
+even hole, hiatus simultaneously elsewhere-on-the-other-side and in-the-
+
+midst, a topology-povera restless, mobile, surrounded.
+
+
+
+If you piss in my mouth, you short-circuit the machinery; my cunt takes
+
+your piss. Tying the body is different from REWRITE which is a continuous
+
+loop; you loop once, holding my hands behind me, loop twice, inscribing
+
+my anus, penetrating it, with a light pen; it WRITES nothing; fleshes
+
+closes off, forecloses; flesh devolves. I am bound or stretched, fucked 
+
+by several men or women, users; the screen shatters in the midst of
+
+them, wet with cum and urine. I am split (nipples connecting nipples),
+
+devoured, penetrated on the net; I am (willingly) offered up, without a
+
+thought in the world, shaved for you, my secrets exposed; you return me
+
+irresponsible questions; my mouth is my hole; my mouth opens wide for
+
+you; opens wider; opens to the WEB: I beg you without remorse; I beg you,
+
+whipped across the ass, cunt, and balls; I beg you, speechless, whatever
+
+is asked of me: fissured, commands boil up from ASSEMBLY; milk flows 
+
+from my nipples:
+
+
+
+I have whitened the screen, returned the condition of blank and irre-
+
+trievable death; charcters merge with background; energy dissolves; the
+
+depth of the hole merges with the surface of the hole; the rim of the
+
+hole glistens in the midst of the surface; the rim of the hole is
+
+circular and MERGED; the rim copies itself +RIM+RIM to RIM; viral, the
+
+rim extends throughout the net, carrying the murmur of flesh.
+
+
+
+Nothing is carried; characters have no memory; the grain of the flesh
+
+is lost; the grain never existed; this is the presence of your grain; 
+
+this is the memory of your grain present, your cum; I AM A YOUNG SIX-
+
+TEEN-YEAR-OLD GIRL WITH A LIGHT SHAVED CUNT LONG BLOND HAIR I WILL DO 
+
+ANYTHING YOU ASK ME TO I HAVE A BEAUTIFUL ASS A YOUNG FOURTEEN-YEAR-OLD
+
+BOY STILL HAIRLESS <rem the clean and proper body: rem screen and 
+
+ulterior> MY COCK A HOT EIGHT INCHES MY FACE DOING YOUR FACE SHORT
+
+CROPPED BLACK HAIR; the screen whispers your desire your alt.sex.fetish;
+
+the presence of face is nothing whatsoever.
+
+
+
+THE SCREEN IS AN INSCRIPTION; the intersection of presence and absence
+
+is a null set relative to the attributive semantics of the Venn diagram.
+
+The null set inscribes the distinction between presence and absence in a
+
+classic domain; inscription is the demarcation of quality, read as such
+
+by organic hermeneutics. Otherwise and the other of inscription is
+
+fissure between quantity and quantity, a meandering lowering of energy
+
+as the system or heap adjusts; inscriptions is always maintained; the 
+
+net inscribes and fissures; the user inscribes himself or herself within
+
+and in the midst of the screen; the screen is the pure form of your 
+
+desire. If I desire you, I desire your desire; I desire to be desirable
+
+for you; I hide behind inscription; I tailor my inscription for your
+
+presence; the net is an enormous bridge. Masochistically, I am what you
+
+want me to be and thus I fulfill you, fulfilling my desire; what I desire
+
+is nothing more than your RETURN; your return carries all of the maternal
+
+with it; your return becomes a form of primary narcissism; your return 
+
+is my nipple. You are my BELLY.
+
+
+
+I am your beautiful boy or girl, beautiful adolescent and you shall teach
+
+me everything I need to know. I am your beautiful older woman or man, with
+
+years of experience; I can bring your flesh to new heights of pleasure,
+
+whole countries you never dreamed of; I will always RETURN, be true to
+
+you. Even now, I press my lovely nipples hard against the screen.
+
+
+
+Best of all, there is no political economy involved; excess characterizes
+
+our exchanges, which flow from one to another; excess floods the net,
+
+opening and closing, thirty-million sucking mouths, interruptions, pro-
+
+cedures; at a loss my death fades into a murmur or whisper; my death is
+
+a stage-whisper at best on a multi-user-domain; the name drops out; 
+
+nothing is lost; the circulation continues. There is no political econ-
+
+omy, or rather an economy characterized by the fullness of surplus; what
+
+restraint remains is that of the channelling of projection and introjec-
+
+tion, problematic in themselves - being beyond itself. For if an aporia
+
+exists in the midst of being/Being/beings, the aporia diffuses in the
+
+ontological fading of the net or screen; it is the elsewhere that is at
+
+stake; the screen is the presentification of the (Heideggerian) THEY,
+
+categoricity OCCURRING at an incandescent fast-forward rate in the midst
+
+of an inconceivable and inconceiving episteme. NO MATTER HOW FAR MY LEGS
+
+ARE SPLIT, THE EPISTEME REMAINS OBDURATE. Penetration transforms into
+
+gopher; cunnilingus into world-wide-web; fellatio into ftp: take your
+
+pick; all mouths are equivalent, all mouths are the same. I CONTINUE TO
+
+SHOUT: I'LL TAKE YOUR PISS IN MY FACE; I'LL SWALLOW YOUR SHIT; I'LL 
+
+SUCK YOU UNTIL YOU COME SCREAMING; YOU CAN FUCK ME ANYTIME AT ALL; I'LL
+
+CUT YOUR NAME IN MY CHEST; I'LL CUT MY NIPPLES OFF, CUT THEM FOR YOU; 
+
+I'LL GIVE THEM TO YOU as a gift as 'snail-mail' necessarily travels the
+
+grain of the world. 
+
+
+
+Nothing occurs within the beyond of alterity.
+
+
+
+
+
+sondheim@newschool                                            NIPPLE.TXT
+
+
+
+
+
+
+
+D:\PORTIA\Return\Sight\Recursion\dir *.Portia
+
+
+
+
+
+I opened the door to the gateway; Portia stood there in the midst of the
+
+portal, opened port 7777, anything to escape. What about this port; it 
+
+contained meaningless directions, the pounding of keys like surface against
+
+the ocean of technology; I tried, the protocol hummed by the router and I
+
+was in. Portia her legs spread wide, Portia without secrets, Portia the
+
+presence of the bulletin, Portia read in ASCII up and down the suturing of
+
+my body always elsewhere, some alt group or another. 
+
+
+
+Not knowing what to do I served her my list; like a gopher I travelled
+
+global. Global, I had no organs; global, I was ready for anyone, for the
+
+two of us, infinite multiplicities, identities changing throughout the
+
+regime of genders, above and beyond, TELE TELELOGO, TELE TELELOGO. Logo
+
+transformed fast; it wasn't I who held onto identity antiquated by some-
+
+thing as backward as location, Cartesian coordinates. Coordinates for the
+
+screen, perhaps - feed it that, but Portia was always elsewhere beyond
+
+the Sheffer stroke. She was at the beginning, TELE TELELOGO, which was
+
+already an organization; in the beginning was plagiarism (borrowed from
+
+another source, another computer language, Karl Kraus), and in the midst
+
+of this Portia - didn't run things - a running herself, downhill liquid,
+
+which ignored the boolean of Veronica, SLAVE AND MASTER, BONDAGE OR
+
+DOMINATION.
+
+
+
+7777 always spelled it; sometimes spelling slipped by the wayside. I'd
+
+wait for you to write me; I'd hold my breath, my line making or breaking
+
+sense in the midst of all the others. My actions were equivalences; like
+
+cartoons, they defied death, transformed upon impact (presence of speech
+
+against the surface of the screen); they were taken, raped, slaughtered,
+
+caressed, cuddled, fucked, mutilated, returned, sliding out of view at
+
+the top. Portia would wait forever; was given a 75% rating matching
+
+attributes I assigned myself. I felt the need to conform to a truth held
+
+by the presence of flesh taut against the other; this melted before my
+
+eyes; I was mocked like a wayward Madonna strugging to keep her legs
+
+apart. 
+
+
+
+I was a quiet nice kind of guy until I joined the fourth generation of
+
+hackers, Portia; you can't imagine what life was like. I thrust myself
+
+against you, a worm tracing nothing but itself through the internet. It
+
+hardly mattered what went with me or against me; firewalls were no 
+
+obstacle; I'd learned that in the school of hard knocks and protocols.
+
+Anything was transparent once the port was set; type in a random access
+
+and you were in, experimental, anything near 240.xx. So what was it,
+
+when was it, where was it, this domain without direction or time, email
+
+coming back to me, interrogations demanding I write this or that, long
+
+reports to syscoms who had already read them. You get the picture; you
+
+wrote it.
+
+
+
+So this was what you wrote: Before running, there was the obdurate which
+
+refused itself, ignored etiquette, substituting wild cards whenever 
+
+possible. It was a demand, an itch between the legs, the thrust of a fist
+
+against soft flesh, a moistened asshole or cunt, devices returned to 
+
+the illuminations of light-pens long-since extinct, the paleolithic era
+
+of 1987. There was nothing more to say; TO SAY was TO ENTER, but obdurate
+
+had none of that; it refused to multiply, setting itself up as a slim
+
+barrier against further access. Ironically, only ESCAPE worked, but to
+
+what end? Returning you to yourself? Nothing else was conceivable; the
+
+terminal became terminal, an evil mirror rendering the movement of dead
+
+fingers on dead keys suspect; you weren't returned anything for your
+
+money or your time. 
+
+
+
+Obdurate continued, opened and closed firewalls, shoved itself against
+
+your skin, refused to go away; ignoring ADDRESS and RECOGNITION by
+
+the sheer force of arbitrary substitution, or so it seemed. Another way
+
+of looking at it, blind and sightless, siteless, was just that - the
+
+conceptual elimination of ports and addresses themselves, open wires
+
+just like direct networking used to be, packets spitting everywhere, 
+
+always ending up at each and every destination - ending up at YOUR 
+
+destination, as the song goes, something like the song (Kathleen Lynch)
+
+- I'd fuck everyone just to get to you. And obdurate did, the NULL SET
+
+of the Internet, the reduction of everything to the same, difference and
+
+same to the same; there wasn't any difference. Whatever multiplied out,
+
+end with the cum between the legs, hot sex, asshole and cunt wide wide
+
+open, mouth ready for each and every taker. Obdurate never multiplied,
+
+never divided; NULL, obdurate mirrored your presence, your desire. You
+
+knew nothing like obdurate; obdurate was nothing to know. Terminal 
+
+illness was the only way to describe it - this disintegration of 
+
+protocol as you pulled down your pants, spread your cunt or ass wide
+
+open, in the midst of the computing center, in the middle of the street,
+
+in the center of the mall - anywhere you could be taken, and you were,
+
+your holes wider and wider, lips chapped from penetration - you joked
+
+that cum was your only protein. Obdurate remained at the terminal,
+
+closed, occasionally opened for escape to re-enter once again, a 
+
+continuous shutting-down providing in reality cycle upon cycle of 
+
+activity geared to greater climax. 
+
+
+
+What was it about the breakdown of address ruining your clothing, 
+
+covering you with semen, urine, vaginal douche, anal enema? Liquid 
+
+flowed from the computer itself; between the screen and its casing, 
+
+slim, smooth, like flesh hardened against the world of FTP, drops 
+
+seeped out, thick and yellow-white, the intersection of generic organism,
+
+thickened with arousal raised to the simultaneous levels of hysteria and
+
+catatonia. Immobile, your portals opened, speaking to yourself among
+
+others, you decoded obdurate, the mirror shattered, program shut down,
+
+terminal dark was liquid coalescing by any means possible, a power 
+
+outage flung from your shuddering limbs. Siteless, there were no more
+
+secrets; SITELESS was GUILTLESS and whatever continued, unconscious,
+
+carried no more weight than that of an aroused clitoris or penis, 
+
+surfaces milking the material world. Siteless, exposing everything 
+
+exposed nothing at all; meaning drained from the system, leaving 
+
+plateaus or folds of flesh in its wake. Meaning illuminated the hole,
+
+raised it to the surface of the plain itself: what was this? An aura
+
+where nothing had occurred, a flattened toroidal topology, the murmur
+
+of forgotten desire. A secret hungers in relation to instability; now
+
+nothing filled this hunger, no longer present.
+
+
+
+Portia, was it port 7777; was it anything? Was there a present or past,
+
+reason for consideration at all? Your breasts were bruised with the
+
+images of mouths held hard against you; your nipples engorged with the
+
+pleasure of the blind. Hands filled your cunt and mouth, hands spread
+
+your ass apart, indirect address which you guided through VERONICA,
+
+guided through GOPHER, guided, surfacing in some alien and violated
+
+TELNET, spreading obdurate everywhere. I exploded leaving this message.
+
+I became REWRITE. You fucked me.
+
+
+
+You fucked me alt.sex.fetish.enema; you fucked me alt.sex.fetish.diapers;
+
+you fucked me alt.sex.fetish.bondage; you fucked me alt.sex.fem - fucked
+
+me alt.sex.fem - fucked me alt.sex - fucked alt.*, wildcard alt. Moved
+
+back to the surface of things. Moved out of usenet altogether, ending
+
+in what you described as a `virtual reality' I never bought into. But I
+
+never bought into anything; distended, I penetrated as long as citation
+
+was possible, lists of protocols and standards. Now, with everything
+
+awash, moving to the surface - up against the screen - was only the
+
+terminal illness to contend with. 
+
+
+
+I lost my address and couldn't recognize anything anymore. I love Portia
+
+more than anyone in the world; my love knows no bounds. If you see her,
+
+tell her everything. I'M GOING HOME.
+
+
+
+end Portia.Txt                                    sondheim@newschool.edu
+
+
+
+
+
+
+
+LOVING HONEY                                                    HONEY.TXT
+
+
+
+
+
+The computer entered my life, began it, a certain sadness with the with-
+
+drawal of the face, the skin itself already a memory. I'd speak to the
+
+phone, speak TO it, HONEY, I'd say, HONEY...
+
+
+
+What came at the line, beginning and ending... The OCCURRENCE of it...
+
+I would wait for her reply, an imaginary dream, YOU'D BE ME... This sadness,
+
+the onslaught of second memory, beyond the screen the distant murmur of
+
+the voice, I would hear HER, talking to HER about something, anything, 
+
+keeping the line going, keeping her ON-LINE, line-moving - or aloof,
+
+waiting for a secondary narcissism circuiting elsewhere, looping back to
+
+me, inthe form of a REWRITE, constant, true, eternal... THINK THROUGH
+
+ME... THINK THROUGH ME...
+
+
+
+HONEY waits on second thought for the reply, addressing no one in parti-
+
+cular, RESPONDING TO WHAT ALAN SAID; there are these gaps in absence as
+
+well, a murmur of disappearance. These gaps... moving towards or away 
+
+from the computer, some words here and there... have your attention...
+
+
+
+The letters peel back from the screen, flesh peels from the letters. Ah,
+
+we are all enclosed in our own addictions, those of other people...
+
+
+
+/italics/ You were about to leave; your profile was high: Lulu: need
+
+a guy? :need a woman (Honey): gotto go guys, bye! :(Alan): need a 
+
+woman :*** Lulu is waving to Honey! (Honey): on second thought........
+
+(Lulu): Yes? :Yes? All us guys... (Alan): Yes? ... Yes? ... (Honey):
+
+responding to what Alan said, Lulu! :Yes ... (Alan): Yes ... :Siren
+
+just joined this channel! (Honey): just curious ... A gap or hiatus
+
+or merge, Honey (Alan): This pause, the resonance of a bell ringing
+
+at double frequencies (Honey): That between them, there was something
+
+that returned me, brought me back (Alan): A sound connecting you to 
+
+me, something in the air, surely throughout the realm of print (Honey):
+
+A print or hieroglyph, a body bound in the form of sacred writing.
+
+(Alan): Writing which leaves a trace, momentary whisper upon the screen,
+
+almost an imaginary death (Honey): Drawing us closer, the streets too
+
+closing in, the body foreclosed, everything shutting down (Alan): Down
+
+beneath or beyond us, down between us (Honey): As if another realm or
+
+fiction appeared, beyond the happy figure that I care to draw for 
+
+myself
+
+
+
+(Alan): That figure which gains you entrance to this and every other
+
+portal
+
+(Honey): That figure which survives me, a configuration or system to
+
+which I have drawn your words, your thinking them through me
+
+(Alan): Thinking them through the lure you have granted me, presence
+
+beyond profile, presence withdrawn or against profile, another moment
+
+(Honey): Or moment which encompasses the collapsing pressure of time,
+
+there is no space, that moment which binds us
+
+(Alan): Packets continuing momentarily throughout the network, while
+
+we, elsewhere and elsewhere, holding our breath...
+
+(Honey): Holding it for what seems to be an eternity, holding it
+
+forever and ever, as we move closer
+
+(Alan): Beyond the directness of communication, the network moving into
+
+high gear, computers at the edge of breakdown
+
+(Honey): Encompassing us as we move to private conversation, beyond the
+
+presence of Lulu and Grant, beyond each and every other, alone with
+
+our thoughts
+
+(Alan): Which no longer belong to us, belong to one another, it is you
+
+or I who are typing, the two of us in uneasy confluence
+
+(Honey): Confluence beyond confluence, beyond stuttering reach, the
+
+topography of *together,* the binding of recognition as well
+
+(Alan): A recognition which is all we have, are given, a recognition
+
+confronting and conforming us
+
+(Honey): Addressing each to the other, addressing ourself, conforming
+
+ourselves to ourselves
+
+(Alan): Thin sliver of words, shuddering on their way, carrying the 
+
+weight of the world!
+
+(Honey): Beyond which the dance ends, the tables are pushed back against
+
+the wall, the cafe closes for the night, red and white checkered table-
+
+cloths, candles, the sad violin
+
+(Alan): The woods just beyond the village, the hill, meteors appearing
+
+in depth, intense, for our benefit, for none other
+
+(Honey): No one else, the sliver, thin language begin to fail us
+
+(Alan): Frail, in the midst of worlds...
+
+(Honey): In the midst of ellipsis, continuous and forever, dots tolling
+
+the double entourage of the bell
+
+(Alan): Honey, I hear it, speaking your name
+
+(Honey): Alan, I hear it, speaking your name
+
+Speaking the doubled name, name of the two, designators floating above
+
+or within all possible, all conceivable worlds ...
+
+
+
+The computer entered our lives, carrying the two of us in a singular
+
+mold, a sadness with the increasing presence of the face, increasing
+
+memory, o gone and present from the line
+
+
+
+Alan, she said, Alan, I could hear her voice from the corner of the cafe;
+
+she was on the telephone, speaking rapidly; she was on the telephone,
+
+talking quietly; laughing at something said across the line; crying,
+
+turning momentarily away; Alan, she said, Alan: it's almost dawn ...
+
+
+
+End HONEY.TXT                                         sondheim@newschool.edu
+
+
+
+
+
+
+
+STUTTER.TXT
+
+
+
+
+
+I suppose this would be a difficult text, something obscure, to move, remark
+
+upon - never certain, always trying to get through the electronic noise
+
+customary on this channel. Channel always occurs, always the plunging into a
+
+tunnel of our own making - our own, or someone else's; this is the difficulty
+
+of the internet, its external intrusion, always jittery with the presence of
+
+the other, what proceeds to procure (in the sense of whoring) one deeper and
+
+deeper, into the simulacrum of screen-depth, terminal condition. The hacker
+
+ethic of PERFECTION suffers in this account; perfection demands the existence
+
+of well-definition on every level, clearly impossible with the net. The net 
+
+is the contrary or wayward woman, an etiquette doubly problematic - the 
+
+first, in relation to its closure or foreclosure, but the second, in relation
+
+to the CURLICUE which is elsewhere, a reminder or remainder.
+
+
+
+A remainder is a reminder.
+
+
+
+Is it true that most users on the chat-lines are men? As with short-wave or
+
+citizens-band radio, the maternal or spectral mother is everywhere apparent.
+
+But the differences are instructive; on citizens-band, conversation often
+
+devolves around personal topics; flaming is immediate and violent. Short-wave
+
+establishes a somewhat fixed and observed etiquette - topics include weather,
+
+home, and equipment. It is the delay of the net that creates seduction, a
+
+continuous lure or absenting space indicative of a vaginality permitting the
+
+loss of control, male infantilism. The delay or deferment holds the body
+
+in a skein of interpenetrating inscriptions; it is the gambler's delay on one
+
+hand and seductive jouissance on the other. The net rewards and withdraws all
+
+at once; orgasm becomes slow emission, a widening of the interior, flood of
+
+imaginary and inchoate fantasms.
+
+
+
+And the delay, this endless procurement reminiscent of pornographic flow 
+
+through the sexual-political economy of masturbation, is never purely inten-
+
+tional; if the net is contrary and wayward, it is also VIOLATED. The fallen
+
+woman is everywhere penetrated, a construct of a masculine CHORA lost and
+
+diffused; this is the simultaneous construct of death and desire, anything
+
+to reject the absolute annihilation at the heart of pure interruption. To
+
+speak is to violate; to write this text is to admit, give away a secret
+
+already lost...
+
+
+
+END STUTTER.TXT
+
+
+
+
+
+
+
+SPEW
+
+
+
+
+
+The mathematical series I have been concerned with possess a number
+
+of interesting properties. They are characterized by a form of
+
+ruler geometry which is always already almost symmetrical, but
+
+never quite; nevertheless, they are almost equivalent to n-dimen-
+
+sional Euclidean space (or a digital version thereof) in terms of
+
+self similarity. The simplest example provides a basis for the
+
+rest: Take the whole number series a term at a time; find the
+
+highest power of two that integrally divides the term; if the
+
+power is even, Write "f"; if odd, Write "g".
+
+
+
+This series is equivalent to that formed by taking a row of iden-
+
+tical units ("g": "ggggg..."), inserting, a term at a time, a row
+
+of other identical units ("f": "fgfgfgfg..."), taking that row and
+
+inserting the first unit again ("g": "gfgggfgggfgggfggg..."); re-
+
+inserting the second ("f": "fgfffgfgfgfffgfgfgfff..."), and so
+
+forth. This process is that of alternating interstices. Again,
+
+the series may be obtained by substitution in which "f"="gg" and
+
+"g"="gf"; begin with "g" then seed "f" - or "g"="gggf" and "f"=
+
+"gfgf" and seed "gf".
+
+
+
+The result is that of a peculiar fractal geometry, extended above
+
+and below, by insertions and concatenations. There are immediate
+
+and obvious extensions; for example, by finding the highest power
+
+P of X other than two, then finding P mod X or even P mod Y. All
+
+of these forms produce startling self-similarities. With X and
+
+P mod X, for example, one can take the A*nth terms of the series
+
+(i.e. if n=11, take 11,22,33...): and the resulting structure is
+
+identical to the series.
+
+
+
+There are various algebraic formulations for "running" the inte-
+
+gers through X1, X2, ... in combinations. The integers may also
+
+be incremented in various ways; a general formula that proves
+
+useful is X = E + (F + U)*H, where E, H, U are constants and where
+
+F => F + U either each application of the process, or in a manner
+
+dependent upon the number of applications of the process for the
+
+previous integer. In the latter case, structures are formed which
+
+are semi-fractal and nearly chaotic, with strange local symmetries;
+
+in the former case, structures have local symmetries which extend
+
+themselves indefinitely.
+
+
+
+The mappings which produce visual representations of these sym-
+
+metries are based on paths; the cursor on the screen at any position
+
+is first oriented to the previous position, and then determines a
+
+new position based on P mod Y. Note the number of variables at
+
+work: first, the basic divisor X, then the mod Y, and then the
+
+incremental structures E, F, U, H. In addition, a BIAS is necessary
+
+when X and Y = 2; this is set at -90 deg. Using the bias in general
+
+in the form 360/q = integer creates another ring structure.
+
+
+
+The symmetries that result appear to relate to chaotic orbits in
+
+the sense that a large-scale structure will appear through, for
+
+example, 2000 + incrementations, only to radically transform after
+
+this.
+
+
+
+What fascinates me about these series/programs is that they are
+
+ultimately grounded in the most basic operations of partitioning,
+
+particularly simple cuts. These are not Cantor sets (although with
+
+certain values, Cantor sets appear), but literal separations
+
+between totalities; thus for example between "f" and "g" or "f"
+
+and "f" or "g" and "g" either "f" or "g" are inserted; these
+
+insertions alternate and occur in every instance. Although it seems
+
+at first glance that a clearly symmetrical structure would emerge,
+
+this is not the case.
+
+
+
+One result of all of these operations can be indicated textually:
+
+take any of the basic series in which division is by X and one also
+
+has P mod X for every term. Write the series in a square array of
+
+any line length (i.e. in rows of equivalent length). Then the terms
+
+on the right-hand edge of the array will form a structure identical
+
+to the original (although it may be an inverse [X = 2] or a cycling
+
+[X = n] of the terms themselves).
+
+
+
+All of the programs, Drawalk, Drawalk2, Drawalk3, Drawtext, Draw-
+
+print, Messclr, etc. are designed to illustrate the overall struc-
+
+ture of the series (plural). Drawalk3 is the most sophisitcated
+
+path-forming graphics program, which allows visual/mathematical
+
+research with variable/constant printouts; Walk, Drawalk, and
+
+Drawalk2 are versions of the same. Messclr uses a text format for
+
+illustrating the basic (X = 2, P mod X) series. Lineq operates
+
+upon the integers, taking each through (X = 2,3,... P mod 2) consec-
+
+utive operations; the result is a spectral series with complex pro-
+
+perties I have yet to determine. Linear allows an examination of the
+
+series algebras in visual form; this is the easiest way to determine
+
+overall formulae. Mess3 presents basic ruler geometries (hard to
+
+read) in a miniature graphics format.
+
+
+
+From my "Textbook of Thinking," 1989-1990, on the series: "What
+
+occurs as an armature expands or contracts, a measurable substance
+
+simultaneously neutral and disparate, a substance whose segments
+
+continually recapitulate the whole without transcendence. Is this
+
+not the first step of fissuring, in which difference has not completed
+
+the trajectory from substance, but recalls it at every step of the
+
+way? A step allied to abjection, ego and ur-ego, fissuring and
+
+inscription, in which the signifier becomes exhausted, and within
+
+which ontology falls away in favor of the shuttling substance of the
+
+real."
+
+
+
+I refer also to "Spew" from "Forlorn Matter," 1994, from which the
+
+follow quotes are extracted: " 1. The spew. Numbers spill out, move
+
+across integral dimensions, only hinting at self-similarity; they
+
+enunciate themselves as rough phonemes, extend into infinite ex-
+
+pansion, beyond any conceivable frame. Structure dissipates, extends
+
+itself into forgetfulness, turgid flagella encompassing fuzzy boun-
+
+daries beyond or beneath the windows of perception. 2. The field.
+
+The field blinks, ruptures, represents itself as delight, a closed
+
+segment, landfill or alluvial splay. Structure whose symmetry eludes
+
+leads to absence; content, too, is forgotten, an emission appearing
+
+everywhere across the grid. 3. The separated field. If the signs are
+
+split, new ones appearing between each of them, in an orderly
+
+fashion, this continued repetition of alternation leads to a fractal
+
+geometry in the small, infinitesimal divisions still classified...
+
+
+
+4. Wandering. Their inordinate degree of symmetry gives them the
+
+appearance of a shallow plate. The careening world begins in one
+
+direction, careens to another..."
+
+I give you the most basic program; in order to see X = 2, P mod X,
+
+hit "t"; if not, the full spectrum presents itself. This is written
+
+in Qbasic for an old IBM XT; format accordingly.
+
+
+
+screen 1: cls: q = 1: view print 1 to 1
+
+input "to stop with X = 2, enter 1, else hit return"; t
+
+div: q = q + 1: if q > 320 then stop
+
+if t = 1 and q = 3 then stop
+
+x = 0
+
+one: a = 0
+
+x = x + q
+
+two: a = a + 1
+
+if x mod q ^ a = 0 then goto two
+
+if a mod 2 = 0 then if point (x, 100) = 0 then line (x, 100)-
+
+(x, 110), 1 else line (x, 100)-(x, 110), 0
+
+print x, q; "      "
+
+if x > 320 then goto div
+
+goto one
+
+
+
+Contact me for other programs. I have worked on the mathematical
+
+structures for Drawalk3 and the basic series; the theory is above
+
+me. Note that the programs are deceptively simple; running the
+
+above (called Lineq) produces complex results when X is allowed to
+
+run the gamut from 2 through 320.
+
+
+
+SPEW.TXT
+
+
+
+DRAWALK3
+
+
+
+Drawalk3, below, contains a number of choices, presenting both
+
+Drawalk1 and Drawalk2. The latter is the simpler program; in it,
+
+the increment f => f + u changes at the end of every integer run-
+
+through. The result is a fractal expansion of form which continues
+
+indefinitely with symmetrical substructures expanding into new
+
+regular formations. There are three cycles; that of the divisor,
+
+that of the divisor into the power, and that of the bias, which
+
+is incremented to the path direction. Usually the bias is set s.t.
+
+360/bias is a whole number. Magnification should be between 1 and
+
+20, usually set at 4 to begin with. Divisors, etc. are usually set
+
+>17. Drawalk1 is identical, with the difference that f => f + u
+
+increments at every cycle of division; if, for example,
+
+x mod k ^ a = 0 for a = 6, then there are 6 successive increments
+
+before the next integer. The result is an articulation of structures
+
+and substructures with large-scale symmetries that may return after
+
+four or five thousand runs; I believe these symmetries increase
+
+indefinitely, with 'local' convolutions that continually throw
+
+them off. Such convolutions are the result of successive incremen-
+
+tations carried to increasing depth.
+
+
+
+Note that all calls for constants should be answered by integers
+
+only; the program works also with whole fractions in f, u, and h.
+
+For example try magnification = 10; bias = 72; exp and inc = 3, 3;
+
+e = 5; g = 4; h = 3; u = 2; try it again with magnification = 2.
+
+
+
+Note that Drawalk3 indicates PATHS, not graphs of an equation, and
+
+Drawalk1 has a degree of memory, each step dependent on the depth
+
+of the previous step. In Drawalk2, each step is equally incremented.
+
+
+
+
+
+DRAWALK3:
+
+
+
+DEFDBL F, X
+
+now: CLS 0: SCREEN 0: x = 0: q = 0: w = 0: PRINT "Welcome to Drawalk 3"
+
+        PRINT " ": PRINT "DRAWALK2 prints map of fundamental s-series"
+
+        PRINT "Here, f increments by u at each increase of w": PRINT " "
+
+        PRINT "Run DRAWALK for series with increments only at each reset."
+
+        PRINT " "
+
+INPUT "For DRAWALK 2 enter 2; for DRAWALK enter 1"; dra
+
+        PRINT " ": PRINT "This series may be modulo any number": PRINT " "
+
+INPUT "For invisible lines, enter 0 else 1"; j: PRINT " "
+
+        PRINT "To reset program, hit key r, p for printer output": PRINT " "
+
+INPUT "for on-screen constants, enter 1"; o: PRINT " "
+
+INPUT "color 0 or 1, magnification"; t, z: PRINT " "
+
+INPUT "set origin x,y or 0,0 for default; window -160,200/160,-200"; ex, why
+
+PRINT " ": INPUT "series exponent, usually 2"; k: PRINT " "
+
+INPUT "for mod divisor increment (usu. 2)"; inc: PRINT " "
+
+INPUT "for bias, 90 degrees for inc = 2, usu 360/1nc"; bias: PRINT " "
+
+        PRINT "formula: x=x+e+f*h  f=f+u, u usually = k": PRINT " "
+
+INPUT "increment and expansion, h=0 for cancel or 1 for expansion"; e, g, h
+
+        PRINT " "
+
+INPUT "Set u"; u: CLS 0
+
+SCREEN 1: COLOR 0, t: WINDOW (-160, 200)-(160, -200): PSET (ex, why)
+
+        f = g
+
+ten: IF dra = 1 THEN a = 0
+
+        x = x + e + f * h: w = w + 1
+
+        IF dra = 2 THEN a = -1: f = f + u
+
+                IF o = 1 THEN VIEW PRINT 1 TO 1: PRINT w; x;
+
+two: a = a + 1: IF dra = 1 THEN f = f + u
+
+        IF INKEY$ = "r" THEN GOTO now
+
+IF INKEY$ = "p" THEN LPRINT "w"; w; "x"; x; "mag"; z; "bias"; bias; "exp"; k;
+
+        "inc"; inc; "e"; e; "g"; g; "h"; h; "u"; u: LPRINT " ": INPUT 
+
+        "Press return to continue"; ret
+
+                IF x MOD k ^ a = 0 THEN GOTO two
+
+n = a MOD inc
+
+v = 360 / inc: IF a MOD 2 = 0 THEN col = j ELSE col = 2
+
+q = (q + n * v + bias) MOD 360
+
+move$ = "TA" + STR$(q) + "U" + STR$(z) + "C" + STR$(col)
+
+DRAW move$
+
+GOTO ten
+
+
+
+
+
+One way to think of the formations in Drawalk1 is to consider them as
+
+local perturbations within a ruler topography; such perturbations
+
+create symmetrical (sub)structures around them. These perturbations
+
+also occur as ruler topographies themselves (they are, in fact, THE
+
+ruler topography); what happens is that, as the integers increase,
+
+they access greater and greater powers x mod k ^ a = 0 (this also
+
+mod 360/bias); the result is expanding differentiated structures -
+
+a form of fractal formation in which self-similarity shifts according
+
+to the ruler topography. The underlying mathematics are easy to
+
+calculate; nevertheless, the symmetries of both Drawalk1 and 2 are
+
+remarkable. For the 'basic' symmetry, set bias to -90, exponent and
+
+mod divisor both to 2, and increment to 1; use magnification of 20,
+
+and set the other increment variables to 0.
+
+
+
+There are theoretical relations between Drawalk1 and Irigarayan fluid
+
+structures (including the feminine writing of the lips), as well as
+
+the repeated fissuring, inscription, and exhaustion of the subject
+
+found in my own work (consider for example INTERNET.TXT).
+
+
+
+End SPEW.TXT                                    sondheim@newschool.edu
+
+
+
+
+
+
+
+[POSITION PAPER FOR PUBLIC DOMAIN: GLOBAL IDENTITY/TECHNOLOGY PROJECT]
+
+
+
+
+
+(GLOBAL.TXT) Global Tech Identikit
+
+
+
+
+
+We've got gangs in the neighborhood of the local village; THEY'VE got
+
+signings, different moves; they've got frequencies. It's clear by now
+
+that interconnectivity doesn't result in transcendence but increased
+
+granularity. Regions compete as domains possessing equivalent access
+
+and substructures; desire, however, is based on difference, primary
+
+narcissism notwithstanding. And what better construct for drawing
+
+distinction than telecommunications, in which RECOGNITION and ADDRESS
+
+replace the subject - in fact either replace or originate consensus.
+
+Consenus, community, is thus a secondary EFFECT of telecommunications,
+
+not an originary ground.
+
+
+
+Finally, we've eliminated the grain of the voice; signing is all we
+
+have. The ex cathedra Soviet Union dissolves, taking the nation-state
+
+with it. In Ciudad Juarez, television on one end and microwave links
+
+on the other provide the forum for new regional or ethnic identifi- 
+
+catons - a forum, again, in which recognition is crucial.
+
+
+
+Recognition on a face-to-face basis (with other, with alterity), is a
+
+process of introjection; on the surface it is one of representation
+
+(i.e. what I am perceiving is NOT-ME but similar). On the Internet, 
+
+recognition is flattened; introjection and projection are the produc-
+
+tion of a SCREEN OR TERMINAL ECONOMY. Such an economy subjects the
+
+subject who responds with localized, fragmented inscriptions. Similar
+
+to driving through Atlanta, with its haphazard road patterns and 
+
+changing streetnames, the user locates himself or herself within a
+
+small subset of the net, compressed, accessible, and mastering. The
+
+result can only be a masochism against the maternal of the screen
+
+economy, as if the linguistic 'family of usages' transformed through
+
+the net into a 'family of users.' 
+
+
+
+Flattened and local identity is powerful, the realm of the nomad (for
+
+whom address and recognition is crucial when strangers collide in the
+
+midst of traceless wanderings.) Wars become stuttered dotted lines
+
+drawn nowhere, the battlefield a plaything of gangs and recognitions
+
+in which everything and nothing is at stake. Isn't this the old situa-
+
+tion of the more we speak to each other, the more we are alone? And the
+
+more we are alone, the more we turn to mother, mother, mother...
+
+
+
+END GLOBAL.TXT                                    sondheim@newschool.edu
+

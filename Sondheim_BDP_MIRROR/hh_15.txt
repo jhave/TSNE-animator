@@ -1,0 +1,23 @@
+
+
+
+
+Here is a lovely error message I just received (some specific info
+changed):
+
+
+
+Your message was not delivered to ab@cix.compulink.co.uk
+For the following reason:
+Could not create users mail basket
+
+This result may also be due to the user
+not existing on the system
+
+You may also find that you now have a mail message
+in your outbasket that is marked unread to this user and
+as it was not sent to the user it will remain unread
+You can remove this entry by the command
+delete <nnn> where nnn is the message number
+
+

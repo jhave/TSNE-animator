@@ -1,0 +1,72 @@
+
+-
+
+
+Email Lists
+
+
+Some comments on email lists in relation to recent discussions.
+
+First, there are ways to configure a list for specific audiences. The 
+easiest seems to be to use the subject line for topic/demographics;
+one can write Community: Lifestyle, Theory: Turkle, for example. Users
+could set their email software to filter out those demographics of 
+little interest.
+
+Another way to configure lists would be to use aliases for group posts
+off-list; the problem here is that these would quickly spin off into
+private communications.
+
+In fact, none of these ways seem to work well; they tend to get con-
+fused, or the list ends up being over-moderated. 
+
+Second, why are email lists almost never covered when Net community is
+considered? They're subscribed to by enormous numbers of people, yet
+Sherry Turkle and/or Wired (the two are becoming almost synonymous the
+past couple of months) ignore them almost entirely. They're never con-
+sidered a _net resource,_ for example, or a reasonable source of in-
+formation. For that matter, they've never had their own search engines
+such as Archie, Veronica, etc., even though listserv does a good job of
+gettings its own lists around. There is considerable outdated informa-
+tion on whatever sites do have list resources.
+
+Third, a while ago I described the ascii-oriented Net as a darknet, in-
+sofar as it's almost underground at this point, completely outside the
+media spotlight. Is this affecting our demographics, and if so, how?
+Statistics for the Web alone indicate high-income (a reasonable figure
+I've seen is $60,000 US per family/computer), median age over 35, and
+60% male. In addition, Web development is still almost entirely a North
+American/European domain.
+
+The question is, are there different demographics for email lists, and
+if so, _are these demographics underepresented?_ And if this is the case,
+is there anything we can do about it? Should someone write an article
+for Wired about this for example?
+
+Wired is typical in this respect; it's completely U.S./corporate orien-
+ted. There are no serious articles about Internet around the world, only
+newsbites on occasion, or (usually bad) speculations on the global Net, 
+etc. The very look of the magazine, its Fetish ("technolust") section,
+for example, speaks to Web users. One of the advertising slogans (for 
+Fujitsu) brings it all home: "Escape the office Without leaving it be-
+hind." 
+
+Fourth, does anyone have general email list demographics, beyond Cyber-
+mind? This would help us develop a consciousness in relation to our own
+list/s. Because of email list underepresentation, the communities on
+them always seem to be self-defining in a somewhat problematic manner,
+since boundary conditions, email list "aura" (the accompanying private
+posts, Web pages, etc.), and overall demographics are so poorly under-
+stood. Lists tend to constantly remake themselves; unlike MOO communi-
+ties or perhaps even IRC, there is little frameworking to create stabil-
+ity, a sense of history (all those MOO objects left around!), etc. Ar-
+chives are more formal devices; they rarely have the same effect...
+
+Fifth, I would also be interested in the nature of the aura for email
+lists - how many personal relationships develop, for example, within 
+professionally-oriented lists? Do most lists develop somewhat private
+languages? And finally, what sort of identifications occur among users
+of lists, in relation to each other and the lists as a whole? And do
+these identifications also occur within the aegis of professional 
+lists as well?
+

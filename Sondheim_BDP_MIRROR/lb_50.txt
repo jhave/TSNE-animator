@@ -1,0 +1,44 @@
+
+
+
+Jennifer and Julu Playing The Unknown Game
+
+
+Attempt to grapple or ungrapple Death Star Galleon (s0): h
+Death Star Galleon (s0): boarding the Flying Dutchy (f0)
+Flying Dutchy (f0): boarders from Death Star Galleon repelled
+Death Star Galleon (s0): killed in melee: 0.  Flying Dutchy: 0
+Death Star Galleon (s0): boarding the F6ying Dutchy (f0)
+Death Star Galleon (s0): killed in melee: 0.  Flying Dutchy: 0
+Repair (hull, guns, rigging)? hull! no, rigging! guns!
+Avast heaving!
+Message? Jennifer, are we yet sailing?
+Flying Dutchy (f0): "ailing?"
+Death Star Galleon (s0): boarding the Flying Dutchy (f0)
+Flying Dutchy (f0): boarders from Death Star Galleon repelled
+Death Star Galleon (s0): Yay! Avast! Hip Hooray!
+Flying Dutchy (f0): quarterdeck bulwarks damaged
+Flying Dutchy (f0): boarders from Death Star Galleon repelled
+Death Star Galleon (s0): killed in melee: 0.  Flying Dutchy: 0
+yes!!
+Flying Dutchy (f0): "!!"
+killed in melee: 0. 
+Death Star Galleon (s0): "What in God's-Name are you yelling?!!"
+Repair (hull, guns, rigging)? Yes! Yay! Avast! Hip Hooray!
+Avast heaving!
+Flying Dutchy and Death Star Galleon heave and heave and heave!
+Death Star Galleon (s0): boarding the Flying Dutchy (f0)
+Flying Dutchy (f0): boarders from Death Star Galleon repelled
+Death Star Galleon (s0): killed in melee: 292!!!  
+Flying Dutchy: 0
+Avast heaving!(f0): "sage"ng the Flying Dutchy (f0)
+Repair (hull, guns, rigging)? e
+Avast heaving! and says Julu, "Are we sailing, Jennifer?"
+Flying Dutchy (f0): "ailing, Jennifer?"
+Sail ho! (range 1, (computer))
+Death Star Galleon (s0) Spanish Corvette off the starboard bow.
+Yay! We're sailing sailing sailing!
+Message?  We're coming for you, Jennifer!!!
+Uh oh!
+
+

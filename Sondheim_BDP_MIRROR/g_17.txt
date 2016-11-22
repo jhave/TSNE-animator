@@ -1,0 +1,74 @@
+
+
+
+
+Future Dream of Future Lists
+
+
+Tonight some of the moderators from spoon and others met and discussed all
+sorts of things, and beforehand I was thinking about the future of email
+lists; I'd like to start one that contained images and sound-bites (as
+well as simple information on how to download and see/her them). And this
+led me to think of the further possibility of a neural-networked list,
+which would not only search through archives, but create part-objects as
+replies. If you wrote a post with the title "net.sex" for example, it
+would first explode the title through a thesaurus; it would also look for
+other key words in the post, after eliminating a basic vocabulary of, say,
+500-1000 words. (The search for keywords is absolutely critical, more
+important than the top-down threading announcements.) The network would
+then go through the archive, or a framed section thereof, of past
+messages, pulling out the ones that apparently pertained to the same
+subject; these would be rated. If there were a semantic parser present,
+the network could remove what it would classify as key sentences, say
+those with the least percentage of basic vocabulary. These would be
+arranged by ostensible subject matter, correlated with the incoming post,
+and attached as part-objects to the post. Further replies to the post
+would also be correlated and so forth. 
+
+The whole would work through a neural network containing a tremendous 
+number of rules as well, and this rule-base would be constantly open to 
+change, both from within (the network itself) and without (by the 
+moderator or users with sufficient knowledge to program it). I think of 
+the approach as a bottom-up taxonomy, instead of one starting and 
+remaining on the level of the subject-heading or threading, which is 
+top-down.
+
+Eventually, of course, the list would be programmed to reply to itself; 
+interspersed with human intercessions/interstitial posting, the whole 
+would tend towards an evolutionary paradigm.
+
+Ultimately, one might say that the list would presuppose _every_ post, 
+setting out on its own, researching the contents of terabyte messages. 
+But the truth of the matter is that human intervention, combined with 
+list/program intervention, would be critical here.
+
+In addition, images would be subject to manipulation both by the soft- 
+ware and human intervention; discussion would proceed on visual, aural, 
+and textual bases simultaneously. It would not be difficult to program 
+particular visual distortions, for example, to accompany particular 
+arguments within a discussion rhizome.
+
+For the discussions would be, of course, rhizomatic, not threading - 
+non-linear to the extreme. They would play across texts, programs, users, 
+and sensory modalities. 
+
+And there would also be a MOO-space for such a list, in which the sub- 
+scribers could discuss things in synchronous time, coupled, of course, 
+with various bots which would be fed program information from the neural 
+networking, information that would eventually extend their textual ade- 
+quacy in conversation. But that would be a long way off.
+
+Topics? Cybermind, experientiality, the dissolution and diffusion of 
+knowledge and knowledge-filtering, differentiation of knowledge as 
+opposed to integration (the former spreads the bandwidth, inscribes it; 
+the latter is a form of smoothing or filtering itself), communality, 
+human-machine interfacing, the touch of the body or image or voice or 
+soundbite or text...
+
+All of this could be initiated by someone expert in programming, through 
+Unix, perl, c++, etc. Cybermind would take on a new direction, that of 
+the beginning-to-speak of the wires, and fiction-of-philosophy would 
+spread like a stain, modalities collapsing into one another...
+
+Alan
+

@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+
+Net Sentience
+
+
+
+
+
+I want to go over, again, issues of Net sentience, emergent intelligence, 
+
+which I find impossible, given the current configuration of the network. 
+
+So please bear with me. Consider this as "why the Internet can't think."
+
+
+
+First, beyond echo, there is no looping in the structure. There is hand- 
+
+shaking among the computers, and reports on successful/unsuccessful 
+
+transmission of packets, but there is no complex/holarchic organization. 
+
+In fact, looping leads to black holes, to breakdown.
+
+
+
+Second, the transmission is in the form of packets. Packets are sent 
+
+independently of one another from site to site, reassembled at the site. 
+
+They cannot act together in the midst of transmission.
+
+
+
+Third, the Net utilizes the old NSF-backbone; everything is done to 
+
+simplify connectivity. Neural networks rely on multiply-connected and 
+
+interacting model neurons ("neurodes"); in the human brain, a neuron is 
+
+directly and continuously connected to 10,000-100,000 others.
+
+
+
+Fourth, the Net uses five protocol levels simultaneously, each encapsul-
+
+ating the others; this creates a situation of "inertia" at the stage of
+
+the symbolic (interpreted as content by the user - for example, the text
+
+of an email post). Note that the text has _no relation_ to the underlying 
+
+protocol structure. There is a deep division between content and network. 
+
+Here is where confusion arises; community and community's interacting 
+
+vis-a-vis message bases on the Internet do not constitute the level of 
+
+interactivity that would be necessary for Net sentience. 
+
+
+
+Fifth, there is no thresholding involved (with the exception of resending 
+
+packets for a specified length of time, then reporting error messages if 
+
+they do not get through). There is, in other words, no conceivable model 
+
+of neural networks within the TCP/IP transmissions.
+
+
+
+Sixth, on the other hand, sixth hand, the development of intelligent
+
+search and filtering agents will leads to the implantation of neural
+
+networking programs _on_ the Net, just as there are already intelligent
+
+agents/bots on the MOOs and IRC. There is no reason why these would not
+
+eventually become sentient (we're talking a decade or so), communicating
+
+with one another. This leads to the notion of ENTITY spanning the wires,
+
+not "in" them. 
+
+
+
+In Naturally Intelligent Systems, Caudill and Butler define the following 
+
+characteristics of neural networks; my comments follow in brackets:
+
+
+
+1. A neural network is composed of a number of very simple processing 
+
+elements that communicate through a rich set of interconnections with 
+
+variable weights or strengths. [The processing elements of the Net are 
+
+task-specific, complex, and use a very rich set of over 100 protocols, 
+
+which do not have variable weights. Eventually a priority weighting may 
+
+be instituted, determining the speed of transmission of specific mes- 
+
+sages.] 
+
+
+
+2. Memories are stored or represented in a neural network in the pattern 
+
+of variable interconnection weights among the neurodes. Information is 
+
+processed by a spreading, constantly changing pattern of activity 
+
+distributed among many neurodes. [Memories are address bases at best, for 
+
+routing. _Transmission_ is processed by a spreading...]
+
+
+
+3. A neural network is taught or trained rather than programmed. [TCP/IP 
+
+is programmed, not taught or trained.]
+
+
+
+4. Instead of having a separate memory and controller, plus a stored 
+
+external program that dictates the operation of the system as in a 
+
+digital computer, the operation of a neural network is implicitly 
+
+controlled by three properties: the transfer function of the neurodes, 
+
+the details of the structure of the connections among the neurodes, and 
+
+the learning law the system follows. [The Internet uses the stored 
+
+external program model.]
+
+
+
+5. A neural network naturally acts as an associative memory. That is, it 
+
+inherently associates items it is taught, physically grouping similar 
+
+items together in its structure. [Intelligent address routing may be
+
+a possibility, using roaming agents to determine the fast path from site 
+
+to site, depending on the health of the Net. Beyond this, associative 
+
+memory plays little role in the organization of the Net.]
+
+
+
+6. A neural network is able to generalize; it can learn the character- 
+
+istics of a general category of objects based on a series of specific 
+
+examples from that category. [This does not occur in any way on the Net.]
+
+
+
+7. It is highly fault tolerant, or "fail soft." This characteristic is
+
+sometimes also called "graceful degradation." A neural network keeps
+
+working even after a significant fraction of its neurodes and inter-
+
+connections have become defective. [This is true of the Net, and is the
+
+major characteristic of TCP/IP, which is designed to continue working 
+
+even if specific sites go under.]
+
+
+
+8. A neural network innately acts as a processor for time-dependent 
+
+spatial patterns, or spatiotemporal patterns. [This applies as well, 
+
+considering the formatting and reassemblage of packets.]
+
+
+
+9. A neural network can be self-organizing. [The Net is not self-organ- 
+
+izing.]
+
+
+
+(Some characteristics abridged.) It seems to me that intelligence will 
+
+appear through neural networking approaches, rather than hard-wired, 
+
+hard-weighted approaches; in any case, these more mobile architectures 
+
+are coming into AI with real results. (The cockroach program I mentioned 
+
+a while ago is based on a neural network.) The brain, any brain, uses 
+
+somewhat similar but more complex systems; the Internet, however, does 
+
+not. The Internet is redundant, but uses fixed programs, protocols, to 
+
+ensure transmission. Intelligence may be _on_ the Net, may travel the 
+
+Net, but the Net itself is passive, as passive as the phone system.
+
+
+
+If this is the case, why does the spectre of Net sentience keep getting
+
+raised here and elsewhere? I believe this is because of user interaction,
+
+the amazing communality that develops on a human/languaging level. We tend
+
+to believe that there is mind simultaneously within and beneath the words
+
+(just as poetry and incantation carry a weight beyond the facticity of
+
+protocol statements), that the mind is growing, and somehow manifest or
+
+imminent. We also tend to believe in over-minds, even now, an inheritance
+
+from science fiction (and religious transcendentalism), that there is a
+
+Spirit which communicates with us, and that it is everywhere, in the midst
+
+of our speech itself. Because the Internet is a multiply-connected global 
+
+network, because it appears inexhaustible and an open architecture on the 
+
+level of the user, it appears to be the (immanent) site for something 
+
+else, something "driving it" ... This is, however, a result of our own 
+
+projections/introjections (what I've called "jectivity" elsewhere), not a 
+
+reality; much as we may desire it, Net sentience is better left to our 
+
+minds and future bots.
+
+
+

@@ -1,0 +1,100 @@
+
+
+
+storm: incoming
+
+cumulonimbus :stratus :cumulocirrus :stratocumulus:  what'd i tell you.
+i'm riding monsoon. you're soaked in the downpour. you've got to hold onto
+your losses. you've got to follow your shadow. what'd i tell you. my
+shadow's your shadow. you fit in your dream. i come on like hurricane. i
+bring on tsunami. i take you on down. what'd i tell you. i take you all
+down. [anomalous transmission] what'd i tell you. you got tornado in me.  
+you got eye's fury. you've got to follow my dream. you've got to hold onto
+the whirlwind. you got to move with the rain. you've got to get out of the
+fog. what'd i tell you. you've got fury and flood. you've got black
+lightning and thund:35069:5:what'd [breakup] i tell you. i come in like
+your shadow. you got to follow your dream. i ride in with the storm.
+what'd i tell you. you got to go out with the breeze. you got to look down
+from the cloud. i come in like typhoon. i go out like hurricane. high wind
+on the way, high water on down. :^[[Dwhat'd [static hiband] i tell you.  
+i'm riding monsoon. you're soaked in the downpour. you've got to hold onto
+your losses. you've got to follow your shadow. what'd i tell you. my
+shadow's your shadow. you fit in your dream. i come on like hurricane. i
+come on tsunami. i take you on down. what'd i tell you. i take you all the
+way down.:cumulonimbus [transmission loss]
+[calibration]
+cumulonimbus :stratus :cumulocirrus :stratocumuluswhat'd i tell you. i'm r
+[noise and line breakdown][recalibration]
+iding monsoon. you're soaked in the downpour. you've got to hold onto your
+losse s. [transmission interrupt] you've got to follow your shadow. what'd 
+i tell you. my shadow's your shadow.
+ you fit in your dream. i come on like hurricane. i bring on tsunami. i
+take you [static discharge]
+ on down. what'd i tell you. i take you all the way down.:what'd i tell
+you. you [ion interrupt]
+ got tornado in me. you got the eye's fury. you've got to follow my dream.
+you'v e [line noise] got to hold onto the whirlwind. you got to move with
+the rain. you've got to g et [retransmission] out of the fog. what'd i
+tell you. you've got ffury [line noise.echo] and flood. you've got bla ck
+[capacitor breakdown] lightning and thund:35069:5:what'd [whistler] i tell
+you. i come in like your shadow. yo u [keyed discharge] got to follow your
+dream. i ride in with the torm. [cutout] what'd i tell you. you go t to go
+[stuttered checksum error] out with the breeze. you got to look down from
+the cloud. i come in like
+ typhoon. i go out like hurricane. high wind on the way, high water on
+down. wha t'd i [ion discharge] tell you. i'm riding monsoon. you're
+soaked in the downpour. you've got to [equipment overload and failure]
+ hold onto your losses. you've got to follow your shadow. what'd i tell
+you. my shadow's your shadow. you fit in your dream. i come on like
+hurricane. i bring o n [interrupt] tsunami. i take you on down. what'd i
+tell you. i take you all the way down.:c umulonimbus [interrupt.line down]
+
+
+k:3 ->
+
+
+
+dumb thick excuse-me thing
+
+interinterinterinterinterinterinterinter
+interinterinterruptruptruptruptruptruptr
+uptruptruptruptrupt
+
+16	sed 's/rr/rinterruptr/g' zz > yy
+17	sed 's/rr/rinterruptr/g' yy > zz
+18	sed 's/rr/rinterruptr/g' zz > yy
+19	sed 's/rr/rinterruptr/g' yy > zz
+20	sed 's/rr/rinterruptr/g' zz > yy
+21	sed 's/rr/rinterruptr/g' yy > zz
+22	sed 's/rr/rinterruptr/g' zz > yy
+23	sed 's/rr/rinterruptr/g' yy > zz
+24	sed 's/rr/rinterruptr/g' zz > yy
+25	sed 's/rr/rinterruptr/g' yy > zz
+
+inininininterruptterrupinterrupttinter
+ruptterrupininterruptterrupinterruptti
+nterrupttininterruptterrupinterrupttin
+terruptterrupinininterruptterrupinterr
+upttinterruptterrupininterruptterrupin
+terrupttinterrupttininterruptterrupint
+errupttinterrupttinininterruptterrupin
+terrupttinterruptterrupininterruptterr
+upinterrupttinterrupttininterruptterru
+pinterrupttinterruptterrupininininterr
+uptterrupinterrupttinterruptterrupinin
+terruptterrupinterrupttinterrupttinint
+erruptterrupinterrupttinterruptterrupi
+nininterruptterrupinterrupttinterruptt
+errupininterruptterrupinterrupttinterr
+upttininterruptterrupinterrupttinterru
+pttinininterruptterrupinterrupttinterr
+uptterrupininterruptterrupinterrupttin
+terrupttininterruptterrupinterrupttint
+erruptt
+
+11	sed 's/t/interruptt/g' zz > yy
+12	sed 's/t/interruptt/g' yy > zz
+13	sed 's/t/interruptt/g' zz > yy
+14	sed 's/t/interruptt/g' yy > zz
+
+

@@ -1,0 +1,32 @@
+
+
+
+
+Simplicity of Wood and Silk
+
+
+Recently I was mini-flamed on PMC2 for saying that I actually programmed
+in Pascal or Qbasic. As some of you may know, I have been working on and
+off with what I call generalized measure geometries, which produce semi-
+fractal, semi-chaotic patterns that suddenly shudder into symmetrical
+forms - something like cellular automata, but not quite. Well, Qbasic and
+Pascal are excellent for the task, as are any formats that can handle
+things like primitive recursive functions - they all map the same classes,
+whether or not the languages are elegant. So this sent me back to the aba-
+cus again (approaching the void, simplicity, bamboo), which, as I pointed
+out here, can be programmed as well to work with any number base less than
+or equal to the numbers in any column plus one - the Japanese abacus then
+can handle up to base 10, and the Chinese, all the way to base 16. Well,
+it also seems that one-dimensional cellular automata of sorts can be prog-
+rammed on the abacus, although not in a particularly elegant fashion. So
+now I'm sitting working beads, Netscape for some reason inoperable this
+evening, listening to the clicking as columns are added and subtracted, a
+tiny music not unlike that I sometimes play on the ch'in, a Chinese medi-
+tative instrument I have owned for years. (Like the abacus, it is divided
+into heaven and earth, unlike the abacus, it is of the class of silk.) And
+I think to myself, forget Netscape, Qbasic, C: We are always, always, al-
+ways, moving towards the void (the ch'in is often played silently, some-
+times untouched...) - we are always moving towards the void, unmoved, and
+soon we will be ceaseless as well. 
+
+

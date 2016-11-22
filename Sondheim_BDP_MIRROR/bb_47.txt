@@ -1,0 +1,26 @@
+
+
+
+Kyberspace
+
+
+The phenomenology of traditional space within a software application in-
+volves a movement across directories, links, subprograms, or procedures. 
+The individual using the application constructs an internal history file
+which often is bi-directional, forward/backward. Lars Pensj|'s lpmud and
+database (worked on also by Olaf Kolbu) offers a maze in which entered
+directions (north/east/south/west) do not necessarily result in the abil-
+ity to construct a _coherent_ internal representation or "mental map"
+since a _random function is involved._ The maze consists of five rooms,
+with an escape; beyond the escape, however, one may wander endlessly
+among them, _as if the space were continually unfolding._
+
+A _second wandering,_ by virtue of the random function, would produce an 
+entirely different result.
+
+Before continuing, I present a summary below of one of the maze rooms 
+(maze3.c) - not the code itself (the summary is slightly modified to the 
+extent I have also modified the maze in my reconfiguring the lpmud data- 
+base library):
+
+

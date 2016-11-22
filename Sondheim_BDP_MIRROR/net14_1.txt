@@ -1,0 +1,54 @@
+SWEET SIXTEEN (AND THEN SOME) BYTES OF LOVE FROM ME TO THE WORLD AND BACK
+
+
+
+
+
+PING world.std.com: 56 data bytes
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=0. time=33. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=1. time=1023. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=2. time=2031. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=3. time=3037. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=4. time=2032. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=5. time=1029. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=6. time=29. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=7. time=44. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=8. time=36. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=9. time=32. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=10. time=37. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=11. time=36. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=12. time=28. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=13. time=35. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=14. time=30. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=15. time=37. ms
+
+64 bytes from world.std.com (192.74.137.5): icmp_seq=16. time=44. ms
+
+
+
+----world.std.com PING Statistics----
+
+17 packets transmitted, 17 packets received, 0% packet loss
+
+round-trip (ms)  min/avg/max = 28/563/3037
+
+
+
+
+

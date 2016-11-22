@@ -1,0 +1,426 @@
+
+
+Dze Ztandard !nzkr!pz!on
+
+!kl mAzZur-naz!r-apl! tzang! AzZur n!-tz!t !lu B!l u !lu Adar
+na-ra-= !lu A-n!m u !lu Da-gan ka-tzu-uz !lan! pl rabut!pl
+zarru dan-nu tzar k!zZat! tzar matuAzZur apl Tukult!-Adar tzarr!
+rab!-! tzarr! dan-!l tzar k!zZat! tzar matuAzZur apl Raman-n!rar!
+zar k!zZat! tzar matuAzZur-ma !t-lu kar-du tzan !na tukul-t! AzZur
+b!l-tzu !ttala-ku-ma !na ml-k!pl tza k!b-rat !rb!t-ta tza-n!n-tzu
+la-a !zu-u am!lur!! tab-ra-a-t! la a-d!-ru tukunt! !-du-u gab-tzu 
+za ma-h!-ra la-a !zu-u tzarru muzak-n= la kan-tzu-t!-tzu tza nap-har
+k=-tzat n!z!pl !-p!-lu z!karu dan-nu mu-kab-b!-= k!zad a-a-b!-tzu
+da-a-= kul-lat nakrut!pl mu-pa-r!-ru k!-=-r! mul-tar-h! tzarru tza
+!na tukul-t! !lan!pl rabut!pl b!l!pl-tzu !ttala-ku-ma matat!pl
+kal!-tz!-na kat-tzu takzu-ud hur-tza-n! kal!-tzu-nu !-pl-lu-ma
+b!-lat-tzu-nu !m-hu-ru tza-b!t l!-!-t! tza-k!n l!-!-t! !l! kal!-tz!-na
+matat!pl. AzZurnaz!rpl.
+
+
+__
+
+
+On the Genealogy of Machines
+
+
+Given that machinery is in general (and I am only speaking in general)
+created from machinery, one might begin by specifying a chain A -> B -> C,
+or, more generally, Mn -> Mn+1 -> Mn+2, of machines. Consider every such
+chain a lineage, noting, again in general, that Mn is temporally prior to
+Mn+1. Thus Mn "makes" Mn+1 and so forth. [Of course there are issues of
+maintenance and repair, and the production of component parts for these
+purposes. Before long, the formalism becomes a thicket; hence a beginning
+direction is a consideration of a temporally-linear holarchy of fluid sets
+and subsets, without contradictory feedback.]
+
+First, -> is transitive; that is, given the series above, Mn -> Mm,
+provided Mn and Mm exist within the same lineage, and n < m. [Is an
+intransitive lineage possible? It depends on the meaning of ->. One might
+consider, for example, an exploding-machine, or a machine whose implicate
+ordering is permanently lost, or a stochastic machine. For practical
+purposes, this would create a break or rupture in the establishment of
+lineage; for theoretical purposes, however, the lineage, on a
+practico-material level, remains intact.]
+
+Second, note that -> is non-symmetrical; if Mn -> Mm, then not Mm -> Mn.
+And third, -> is non-reflexive; Mn cannot build itself (self-bootstrapping
+ab nihilo). [Of course Mm could build Mn at a later time - Mn is then an
+equivalent, but not temporally-equivalent, machine. And just as genident-
+ity is described by Reichenbach for states and objects, one might have a
+genidentity of processes or chains of processes; a machinic lineage is an
+example.] [Along with non-reflexivity, identity as a noticing or operation
+also disappears. We are dealing with incipient industrializations,
+typifications, and so on - see below.]
+
+Now in general, every production is a splay, such that Mn -> {Mn+1}k,
+where k references a set of equivalent machines. And further, {M}j ->
+{M'}k. This is to be read - a group of disparate machines M operate in
+series, parallel, or another holarchic configuration, to produce a series
+of equivalent machines M'; the first are indexed by j, and the latter by
+k.  Here again it is to be assumed that {M}j are temporally prior to
+{M'}k. This formulation is a general lineage; the components j are
+transitive as well as the ensemble in its entirety. The ontology is that
+of the practico-material substrate of the world-order. [A splay, in this
+instance, is a particulate emission. Thus the production of a new model of
+camcorder is a splay of equivalent, but non-identical, machines. The
+operations of the disparate machines collapse into the fuzzy singularity
+of splay - the production of a particular model. Note that any one of the
+disparate machines is transitive in relation to the splay and the
+descendents of the splay, but this is all sub-set; no one of the disparate
+machines produces the splay in its entirety. Every technological object,
+every machine, inherits from numerous disparate machines, even if it
+itself produces only a singular descendent (for example, a series of
+videotapes of a particular format, from a camcorder).]
+
+Given the potential for continuous production, it should be noted as well
+that feedback loops of a sort may also be realized. Thus, if M'k itself
+produces a component x that can replace a component Mj, then a new
+collapse {M}j' is initiated, in which Mx occurs, continuing the production
+of M'. Of course this contradicts the ontology of the practico-material
+substrate, since we are now talking about a temporally later splay; the
+feedback is negated as such in relation to the temporal linearity of the
+production. [I see this as a red-herring, whose analysis, inordinately
+complex, falls under the aegis of the social philosophy of technology, the
+consumption and production of new models, issues of fashion and
+functionality, etc. For the moment it is only to be noted that feedback is
+never a-temporal, but always after the fact; in an operational amplifier,
+for example, the speed of feedback - close to the speed of light in the
+return loop - may appear to act synchronously upon events, but this is
+only the result of the relative difference between the temporal magnitude
+of events and looping - a difference of great magnitude.]
+
+There is no first tool N1; every tool presupposes another. There is no
+originary tool N0 as well. [The presupposition is, of course, as fuzzy as
+everything else; one might carve a hand-axe with 'natural' elements, or
+make a walking-stick by breaking a branch. But the machinic itself is part
+and parcel of the body; culture is always technological. Likewise, just as
+there is no origin for language, there is no originary tool; the
+pointing-finger is a tool for direction, the turning-head a vision-tool,
+and so forth. Likewise, there is no implied transcendence as well - only
+an inchoate series of fuzzy shifts.]
+
+There is no identity operation; equivalences are defined by models,
+typifications, tolerances, and the like. There is forking which results in
+equivalence, and collapsed forking which results in collapse-production.
+The moment of production is always contains a parasitology of noise and an
+energy input; the moment, in fact, plays/splays into issues of
+thermodynamic and cybernetic entropy. [Thus the machinic is the self-play
+or jostling of the world. And the world is a world of information,
+encodings, ruptures, and dissolutions: The world is the aegis of the word.
+The world is the aegis of the world.]
+
+According to this model, the machinic is inseparable from the bodies which
+augment, prostheticize, and catalyze it; technology and biology are
+mutually emergent. [And both are mutually submerged as well - tacit as
+well, within the originary non-existent moment of language. The
+epistemology at work is one of elision, ellipsis, erasure, gliding...]
+
+Who has traced back even a single lineage, for example, that of a
+needle-nosed pliers, into its components, ancestors, materials, entropies,
+production energies? After one or two generations, everything is lost; the
+machines among us carry the signs of lineage, but these become quickly
+inchoate, lost in the heat and fire of molding, forging, mixture, and so
+forth. Every machine is an erasure, appearing as if born from nothing,
+tending towards everything. Every machine is a stranger among us,
+including our own flesh, our own bodies; the world is transformed into a
+re/productive mirror. [Every machine cauterizes, eliminates, its ancestry;
+in a sense, that is a major characteristic of machinery, whose domain is
+that of functionality - a domain within which both history and memory are
+intrusions.] [A memory machine is a contradiction in terms; a memory
+machine reproduces the other. Within the chain A -> B -> C, every machine,
+every term, is isolated; A operates and conspires in the production of B,
+but A is already a withdrawal, a cleansing. B has entered another
+sub-world altogether, another domain or phenomenological horizon. It is
+always the case, and it is in this sense that the world is always the
+case.]
+
+
+___
+
+
+EedleNeedleMY President
+
+needle-noM! lOvO!Ong honored preMY_presO!OdentO!Odented plO!OkoRpoRateM!
+lOvO!Ong honored preMY_presO!OdentO!Odent, O!On4 O!OtM! lOvO!Ong honored
+preMY_presO!OdentO!Odent keyomponentM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, anzeM! lOvO!Ong honored
+preMY_presO!OdentO!OdenttorM! lOvO!Ong honored preMY_presO!OdentO!Odent,
+maM! LovO!Ong PkoRpoRatephatect Beaut! PresO!Odent ophatascist!
+M9neO!OalM! lOvO!Ong honored preMY_presO!OdentO!Odent, entropO!OeM!
+lOvO!Ong honored preMY_presO!OdentO!Odent, produkeytrake!|^m! LOVO!ONG
+beaut! PreM! lOvO!Ong honored preMY_presO!OdentO!OdentO!Odent
+enkoRpoRategO!OeM! lOvO!Ong honored preMY_presO!OdentO!Odent +? AphatM!
+LovO!Ong PkoRpoRatephatect Beaut! PresO!Odent ophatascist! M9ne 01 or two
+genkoRpoRateatrake!|^m! LOVO!ONG beaut! PreM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!OdentM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, evkoRpoRateyPkoRpoRatephatect PresO!Odent
+ophatascist! m9neO!Ong = loM! lOvO!Ong honored preMY_presO!OdentO!Odentt;
+PkoRpoRatephatect PresO!Odent ophatascist! m9nee makeyh9neM! lOvO!Ong
+honored preMY_presO!OdentO!Odent among uM! lOvO!Ong honored
+preMY_presO!OdentO!Odent keyarr! PkoRpoRatephatect PresO!Odent
+ophatascist! m9nee m! preM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!OdentO!OgnM! lOvO!Ong honored
+preMY_presO!OdentO!Odent ophatascist! l9neage, but PkoRpoRatephatect
+PresO!Odent ophatascist! m9neeM! lOvO!Ong honored
+preMY_presO!OdentO!Odente m! pkoRpoRatephatekeytkeyome cueuO!OlovO!Ong
+honored PresO!Odent ophatascist! m9nel! O!Onkeyhoate, loM! lOvO!Ong
+honored preMY_presO!OdentO!Odentt O!On PkoRpoRatephatect PresO!Odent
+ophatascist! m9nee heat M! Lovel! phoulatO!Ore ophatascist! moldO!Ong,
+4gO!Ong, mO!Okxture, M! Lovel! m! preM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!Oden4 4th. EvkoRpoRate! makeyh9ne = an
+koRpoRateaM! lOvO!Ong honored preMY_presO!OdentO!Odenture, appearO!Ong aM!
+lOvO!Ong honored preMY_presO!OdentO!Odent O!Ophatascist! born phoulatrom
+noPkoRpoRatephatect PresO!Odent ophatascist! m9neO!Ong, tendO!Ong towardM!
+lOvO!Ong honored preMY_presO!OdentO!Odent evkoRpoRateyPkoRpoRatephatect
+PresO!Odent ophatascist! m9neO!Ong. EvkoRpoRate! makeyh9ne = a M! lOvO!Ong
+honored preMY_presO!OdentO!OdenttrangkoRpoRate among uM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, O!OnkeyludO!Ong our own phoulatlesh, our own
+bodO!OeM! lOvO!Ong honored preMY_presO!OdentO!Odent; PkoRpoRatephatect
+PresO!Odent ophatascist! m9nee m! PREMY_presO!OdentO!OdENTorld = tranM!
+lOvO!Ong honored preMY_presO!OdentO!Odent4med O!On4 a re/produkeytO!Ove
+mO!Orror. [EvkoRpoRate! makeyh9ne keyauM! LovO!Ong PkoRpoRatephatect
+Beaut! PresO!Odent ophatascist! M9neO!OzeM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, elO!OmO!OnateM! lOvO!Ong honored
+preMY_presO!OdentO!Odent, O!OtM! lOvO!Ong honored preMY_presO!OdentO!Odent
+anzeM! lOvO!Ong honored preMY_presO!OdentO!Odenttr!; O!On a m! preM!
+lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentenM! lOvO!Ong honored
+preMY_presO!OdentO!Odente, PkoRpoRatephatect PresO!Odent ophatascist!
+m9neat = a major keyharakeyM! LovO!Ong PkoRpoRatephatect Beaut!
+PresO!Odent ophatascist! M9neO!OM! lOvO!Ong honored
+preMY_presO!OdentO!OdenttO!Oke! ophatascist! makeyh9nkoRpoRate!, m!
+PREMY_presO!OdentO!OdENM9ne beaut! PresO!OdentoM! lOvO!Ong honored
+preMY_presO!OdentO!Odente domaO!On = PkoRpoRatephatect PresO!Odent
+ophatascist! m9neat ophatascist! phoulatunkeytrake!|^m! LOVO!ONG beaut!
+PreM! lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentalO!Ot! - a domaO!On
+m! PREMY_presO!OdentO!OdENTO!OPkoRpoRatephatect PresO!Odent ophatascist!
+m9neO!On m! PREMY_presO!OdentO!OdENM9ne beaut! PresO!OdentO!Okeyh both
+hO!OM! lOvO!Ong honored preMY_presO!OdentO!Odenttor! M! Lovel! memor! ru
+O!OntruM! lOvO!Ong honored preMY_presO!OdentO!OdentO!OonM! lOvO!Ong
+honored preMY_presO!OdentO!Odent.] [A memor! makeyh9ne = a
+keyontradO!Okeytrake!|^m! LOVO!ONG beaut! PreM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!Odent O!On M! LovO!Ong PkoRpoRatephatect Beaut!
+PresO!Odent ophatascist! M9nemM! lOvO!Ong honored
+preMY_presO!OdentO!Odent; a memor! makeyh9ne reprodM! HOnored preM!
+lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentM! lOvO!Ong honored
+preMY_presO!OdentO!Odent PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+oPkoRpoRatephatect PresO!Odent ophatascist! m9nekoRpoRate. m!
+pkoRpoRatephatekeyt beaut! preM! lOvO!Ong honored
+preMY_presO!OdentO!OdentO!OdentO!OPkoRpoRatephatect PresO!Odent
+ophatascist! m9neO!On PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+keyhaO!On A -> B -> KA!, evkoRpoRate! makeyh9ne, evkoRpoRate! M! LovO!Ong
+PkoRpoRatephatect Beaut! PresO!Odent ophatascist! M9nem, = O!OM! lOvO!Ong
+honored preMY_presO!OdentO!Odentolated; A opkoRpoRateateM! lOvO!Ong
+honored preMY_presO!OdentO!Odent M! Lovel! keyonM! lOvO!Ong honored
+preMY_presO!OdentO!OdentpO!OreM! lOvO!Ong honored preMY_presO!OdentO!Odent
+O!On PkoRpoRatephatect PresO!Odent ophatascist! m9nee produkeytrake!|^m!
+LOVO!ONG beaut! PreM! lOvO!Ong honored preMY_presO!OdentO!OdentO!Odent
+ophatascist! B, but A = alread! a m! PREMY_presO!OdentO!OdENTO!Othdrawl, a
+keyleanM! lOvO!Ong honored preMY_presO!OdentO!OdentO!Ong. B haM! lOvO!Ong
+honored preMY_presO!OdentO!Odent enM! LovO!Ong PkoRpoRatephatect Beaut!
+PresO!Odent ophatascist! M9need anoPkoRpoRatephatect PresO!Odent
+ophatascist! m9nekoRpoRate M! lOvO!Ong honored
+preMY_presO!OdentO!Odentub-m! PREMY_presO!OdentO!OdENTorld
+altogePkoRpoRatephatect PresO!Odent ophatascist! m9nekoRpoRate,
+anoPkoRpoRatephatect PresO!Odent ophatascist! m9nekoRpoRate domaO!On or
+phoulenomenologO!Okeyl horO!Ozon. O!Ot = alwayM! lOvO!Ong honored
+preMY_presO!OdentO!Odent PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+keyaM! lOvO!Ong honored preMY_presO!OdentO!Odente, M! Lovel! O!Ot = O!On
+th= m! preM! lOvO!Ong honored preMY_presO!OdentO!OdentO!OdentenM! lOvO!Ong
+honored preMY_presO!OdentO!Odente PkoRpoRatephatect PresO!Odent
+ophatascist! m9neat PkoRpoRatephatect PresO!Odent ophatascist! m9nee m!
+PREMY_presO!OdentO!OdENTorld = alwayM! lOvO!Ong honored
+preMY_presO!OdentO!Odent PkoRpoRatephatect PresO!Odent ophatascist! m9nee
+keyaM! lOvO!Ong honored preMY_presO!OdentO!Odente.]
+
+
+___
+
+
+Yeah, but what if Matrix Reloaded is whack?
+
+
+Evrydz!ng goez !n2 dze [komponent ov dze] makh9ne.
+Dze makh9ne = kompozed ov nearl! dekompozable tzubzyztemz.
+Eakh tzubzyztem kontr!butez 2 dze uhole.
+Eakh v!tz u!dz!n a harmon!ouz v!t or art. 
+Dze uhole = dze v!t or art.
+W!dz!n evr! komponent da r tzubztanzez.
+W!dz!n evr! komponent da = tzubztansz.
+A makh9ne = a funkz!onl tzubztansz.
+Dze makh9ne = a kolapze ov komponentz + tzubztanzez.
+Dze deprekaz!on ov dze makh9ne = an ekxpanz!on ov 
+komponentz + tzubztanzez. A great breadz!ng = dze makh9ne.
+Dze makh9ne! Dze makh9ne!
+"Yeah, but uhat !v Matr!kx Reloaded = uha-k +?"
+                        V
+EvkoRpoRateyDzornyornYO!Ong goetzzzh O!On4 DzornyornYe [keyomponent
+ophatazz!zt! DzornyornYe] makeyh9ne.
+Dzornye makeyh9ne = keyompotzzzhed ophatazz!zt! nearl! dekeyompotzzzhable
+TAZubtzzzhytzzzhtemtzzzh.
+Eakeyh TAZubtzzzhytzzzhtem keyontrO!Obutetzzzh 4 DzornyornYe
+utzzzhe-mehole.
+Eakeyh foula2!Ottzzzh utzzzhe-meO!ODzornyornYO!On a harmonO!Ooutzzzh
+phoula2!Ot or art.
+Dzornye utzzzhe-mehole = DzornyornYe foula2!Ot or art.
+WO!ODzornyornYO!On evkoRpoRate! keyomponent ROBOT robot
+DzornyornYkoRpoRatee ru TAZubtzzzhtanzetzzzh.
+WO!ODzornyornYO!On evkoRpoRate! keyomponent ROBOT robot
+DzornyornYkoRpoRatee = TAZubtzzzhtanEEK.
+A makeyh9ne = a foulatunkeytrake!|^shunl TAZubtzzzhtanEEK.
+Dzornye makeyh9ne = a keyoelelelaptzzzhe ophatazz!zt! keyomponenttzzzh
+KA!++ TAZubtzzzhtanzetzzzh.
+Dzornye deprekeyatrake!|^shun ophatazz!zt! DzornyornYe makeyh9ne = an
+ekkxpantzzzhO!Oon ophatazz!zt!  keyomponenttzzzh KA!++
+TAZubtzzzhtanzetzzzh. A great breaDzornyornYO!Ong = DzornyornYe makeyh9ne.
+Dzornye makeyh9ne! Dzornye makeyh9ne!
+"Yeah, but utzzzhe-mehat O!Ophatazz!zt! MatrO!Okkx Reloaded =
+utzzzhe-meha-ukeykukeyk +?"
+
+
+__
+
+Nikuko Googlism
+
+nikuko is odelle is ora is
+nikuko is the first
+nikuko is partly naked
+nikuko is my mother
+nikuko is sealed by
+nikuko is now known as ib9321805 *** ib9321805 is now known as cs7991917
+nikuko is happy morning
+nikuko is humiliated every single day of her life
+nikuko is jumping up and down
+nikuko is tru swole glans glass
+nikuko is tru swole
+nikuko is not really
+nikuko is in my
+nikuko is wet
+nikuko is coming out this spring as well
+nikuko is surpassing
+nikuko is awake and alert and creates nikuko
+nikuko is your radio radio radio alway
+nikuko is ideal for me; it's me traveling those paths
+nikuko is holding my mind against my breasts
+
+
+___
+
+Secret TAZ
+
+
+
+   Secret TAZ 4: TAZondheO!Om@ mb
+   nglO!Osh/O!Onkorporatenet_tkkxtttp://tra mke! /9nd oldkoRpoRate
+   http://lO!Otzzzhttzzzh.vO!Oelelel md rnet_tkkxt.html 4: TAZondhe me
+   age utzzzhe-me Yeah, but utzzzhe-mehat TraEEK mphatazz!zt!
+   uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZondheO!Om/9ndekkx.ht mg
+   /traEEK.ntu.ake!.uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZon mh ge
+   (antzzzhwkoRpoRateO!Ong "Yetzzzh" utzzzhe-meO!Oelelel aba mO!O
+   ndheO!Om@panO!Okkx.keyomPoe2!Okeytzzzh dO!Otzzzhke! mj MatrO!Okkx
+   Reloa O!O vel DzornyornYe utzzzhe-meor mk utzzzhe-meO!Oth me. TraEEK
+   projekeyttzzzh h ml ___
+
+4: TAZondheO!Om@
+        <a hrephatazz!zt!="mb">mb
+</a>nglO!Osh/O!Onkorporatenet_tkkxtttp://tra
+        <a hrephatazz!zt!="mke!">mke! </a>/9nd
+oldkoRpoRate http://lO!Otzzzhttzzzh.vO!Oelelel
+        <a hrephatazz!zt!="md">md </a>rnet_tkkxt.html
+   
+4: TAZondhe
+        <a hrephatazz!zt!="me">me </a>age utzzzhe-me
+Yeah, but utzzzhe-mehat 
+TraEEK 
+        <a hrephatazz!zt!="mphatazz!zt!">mphatazz!zt!
+</a>uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZondheO!Om/9ndekkx.ht
+        <a hrephatazz!zt!="mg">mg
+</a>/traEEK.ntu.ake!.uk/utzzzhe-mkoRpoRateO!Okorporatetzzzh/TAZon
+        <a hrephatazz!zt!="mh">mh </a>ge (antzzzhwkoRpoRateO!Ong "Yetzzzh"
+utzzzhe-meO!Oelelel aba
+        <a hrephatazz!zt!="mO!O">mO!O
+</a>ndheO!Om@panO!Okkx.keyomPoe2!Okeytzzzh dO!Otzzzhke!
+        <a hrephatazz!zt!="mj">mj </a>MatrO!Okkx Reloa
+
+O!O vel DzornyornYe utzzzhe-meor
+        <a hrephatazz!zt!="mk">mk </a>utzzzhe-meO!Oth me.  TraEEK
+projekeyttzzzh h
+        <a hrephatazz!zt!="ml">ml </a>  
+
+___
+
+I, ROBOT
+
+tzzzh/([\UtZzzhE-YOU]*)ROBOT robot Tho
+rnyornyornyornyornyornyornyornyornyorn
+yornyornyornyornyornyornYkoRpoRatee(\U
+tZzzhE-YOU)/1ROBOT robot Thornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornYkoRpoRatee2/g;
+tzzzh/([\UtZzzhE-YOU]*)robot Thornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornyornYkoRpoRatee(\UtZzzhE
+-YOU)/1robot ROBOT robot Thornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornYkoRpoRatee2/gO!O;
+tzzzh/([\UtZzzhE-YOU]*)= Thornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornyornYat(\UtZzzhE-YOU)/1=2/gO
+!O;
+tzzzh/th([aeO!Oou!])/Thornyornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyornYorn!1/g;
+tzzzh/Th([aeO!Oou!])/Thornyornyornyorn
+yornyornyornyornyornyornyornyornyornyo
+rnyornyorn!1/gO!O;
+
+___
+1
+ <b>...</b> Outliners IRC log started Sat Oct 20 23:01 *** Value of LOG
+set to ON *** <b>Nikuko</b><br> ([qIbgrP30O@panix3.panix.com) has joined
+channel #<b>nikuko</b> *** Users on #<b>nikuko</b> <b>...</b>
+
+2
+ <b>...</b> eyebeam&gt;&lt;blast&gt; <b>Nikuko</b> Fights Back. <b>...</b>
+<b>Nikuko</b> Fights Back &lt;^Tonguer^&gt; hi ther *** #cybersex<br>
+887461296 &lt;Grampian&gt; any ladies here for cybersex or just looking ??
+<b>...</b>
+
+3
+ <b>...</b> eyebeam&gt;&lt;blast&gt; <b>Nikuko</b>. <b>...</b>
+Jericho^one&gt; must be net lag ^***^ rd1 has joined channel<br>
+<b>Nikuko</b> looks at morning plum tree blossoms and light morning sky.
+<b>...</b>
+
+4
+<b>Nikuko</b>&quot; writes out the contents of <b>Nikuko</b>. <b>...</b>
+
+5
+<b>NIKUKO</b> &lt;&lt;&lt;&lt; texts by &gt;&gt;&gt;&gt; ALAN SONDHEIM
+<b>...</b>
+
+6
+May 13<br> 05:55:01 2001: Previous <b>...</b> [ system calls etc. with
+writing <b>NIKUKO</b>! to <b>...</b>
+
+7
+of <b>Nikuko</b>: Daishin <b>Nikuko</b><br> offers parts of body for
+miraculous cure and saintly absolution. <b>...</b>
+
+8
+ [7-11] connecting to <b>nikuko</b> and not connect to america. Alan
+Sondheim <b>...</b> quit?<br> are you out there <b>nikuko</b> Do you
+really want to quit? i <b>...</b>
+
+9
+ [7-11] new message from <b>nikuko</b> -. Alan Sondheim
+7-11@mail.ljudmila.org<br> Fri Aug 9 01:34:01 2002: Previous message:
+[7-11] 2001 judges <b>...</b>
+
+10
+01 <b>nikuko</b>-arm-----armarmarm}. <b>...</b> 01
+<b>nikuko</b>-arm-----armarmarm}<br> you open your arms wide, begging the
+populace to embrace you. <b>...</b>
+
+11
+ <b>...</b> 

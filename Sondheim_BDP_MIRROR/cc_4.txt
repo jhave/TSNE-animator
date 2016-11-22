@@ -1,0 +1,115 @@
+
+
+
+
+ALL OF ME:
+
+
+total 527
+drwx------  2 sondheim      512 Jun  4  1995 Mail
+drwx--s--x  2 sondheim      512 Oct 30  1995 News
+drwx--s--x  2 sondheim      512 Aug 16 17:09 a
+-rw-------  1 sondheim      619 Aug 13 14:48 calendar
+-rw-------  1 sondheim     4344 Aug 17 00:42 cc
+-rw-------  1 sondheim        0 Aug 17 01:23 dd
+-rwxr--r--  1 sondheim     2244 Feb 14  1995 hstrip3
+-rw-------  1 sondheim    17723 Aug 17 01:17 lynx_bookmarks.html
+drwx------  2 sondheim      512 Aug 17 00:57 mail
+-rw-rw-r--  1 sondheim    14893 Apr 13 18:58 phoenix.hlp
+-rw-rw-r--  1 sondheim    82498 Apr 13 18:58 phoenix.irc
+-rwxr-xr-x  1 sondheim   163840 Jan 29  1996 tf
+drwxr-sr-x  2 sondheim     1536 Feb  8  1996 tf-lib
+-rw-------  1 sondheim       29 Aug 16 22:56 thing
+-rw-------  1 sondheim      366 Aug 11 01:34 tiny.world
+-rw-r--r--  1 sondheim   158859 Apr 16 22:40 venom.irc
+-rw-rw-r--  1 sondheim    61096 Apr 16 22:41 volt.irc
+-rw-------  1 sondheim        0 Aug 17 01:30 zzz
+
+Mail:
+total 0
+
+News:
+total 0
+
+a:
+total 167
+-rw-------  1 sondheim    10255 Dec 31  1995 Intro
+-rw-------  1 sondheim     3539 Jul 24 22:44 Netintro
+-rw-------  1 sondheim    21824 Jun 16 15:14 Resume
+-rw-------  1 sondheim     8854 Aug  2 02:16 UCCB
+-rw-------  1 sondheim    76494 Aug 16 17:09 bb
+-rw-------  1 sondheim    12406 Aug 16 02:41 internet_txt.html
+-rw-------  1 sondheim     2902 Jul 14 04:04 kyoto
+-rw-rw-r--  1 sondheim     1758 Jul  4 15:19 laptop
+-rw-------  1 sondheim     1864 Aug  5 11:24 music.html
+-rw-------  1 sondheim     9659 Aug 16 02:48 netindex.txt
+-rw-------  1 sondheim     2670 Jul 29 23:22 outline
+-rw-------  1 sondheim     2350 Jul 16 08:03 set-commands
+-rw-------  1 sondheim     9852 Aug 11 00:05 sven
+
+mail:
+total 186
+-rw-------  1 sondheim    61202 Aug 16 01:27 conference
+-rw-------  1 sondheim    48990 Aug  6 12:58 kayo
+-rw-------  1 sondheim    78389 Aug 16 23:39 saved-messages
+-rw-------  1 sondheim      673 Aug 17 00:57 sent-mail
+
+tf-lib:
+total 360
+-r--r--r--  1 sondheim    34658 Jan 29  1996 CHANGES
+-r--r--r--  1 sondheim      335 Jan 29  1996 README
+-r--r--r--  1 sondheim     1110 Jan 29  1996 alias.tf
+-r--r--r--  1 sondheim      378 Jan 29  1996 at.tf
+lrwxrwxrwx  1 root           10 Apr 25 04:31 bind-bash.tf -> kb-bash.tf
+lrwxrwxrwx  1 root           11 Apr 25 04:31 bind-emacs.tf -> kb-emacs.tf
+-r--r--r--  1 sondheim      757 Jan 29  1996 changes.tf
+-r--r--r--  1 sondheim     1571 Jan 29  1996 color.tf
+-r--r--r--  1 sondheim     8278 Jan 29  1996 complete.tf
+lrwxrwxrwx  1 root           11 Apr 25 04:31 completion.tf -> complete.tf
+-r--r--r--  1 sondheim    10771 Jan 29  1996 examples.old
+-r--r--r--  1 sondheim      688 Jan 29  1996 factoral.tf
+lrwxrwxrwx  1 root           11 Apr 25 04:31 factorial.tf -> factoral.tf
+lrwxrwxrwx  1 root           11 Apr 25 04:31 file-xfer.tf -> filexfer.tf
+-r--r--r--  1 sondheim     1714 Jan 29  1996 filexfer.tf
+-r--r--r--  1 sondheim      976 Jan 29  1996 finger.tf
+-r--r--r--  1 sondheim      728 Jan 29  1996 hanoi.tf
+-r--r--r--  1 sondheim     1668 Jan 29  1996 kb-bash.tf
+-r--r--r--  1 sondheim     1097 Jan 29  1996 kb-emacs.tf
+-r--r--r--  1 sondheim     1380 Jan 29  1996 kb-os2.tf
+-r--r--r--  1 sondheim     2250 Jan 29  1996 kbbind.tf
+-r--r--r--  1 sondheim     3729 Jan 29  1996 kbfunc.tf
+-r--r--r--  1 sondheim     1264 Jan 29  1996 kbregion.tf
+-r--r--r--  1 sondheim      950 Jan 29  1996 kbstack.tf
+-r--r--r--  1 sondheim     1218 Jan 29  1996 lisp.tf
+-r--r--r--  1 sondheim     1485 Jan 29  1996 local-eg.tf
+lrwxrwxrwx  1 root           11 Apr 25 04:31 local.tf.sample -> local-eg.tf
+-rw-------  1 sondheim      238 May  7 00:49 macros
+-r--r--r--  1 sondheim     2355 Jan 29  1996 map.tf
+-r--r--r--  1 sondheim      925 Jan 29  1996 pcmd.tf
+lrwxrwxrwx  1 root            6 Apr 25 04:31 pref-shell.tf -> psh.tf
+-r--r--r--  1 sondheim      583 Jan 29  1996 psh.tf
+-r--r--r--  1 sondheim     1803 Jan 29  1996 quoter.tf
+-r--r--r--  1 sondheim      393 Jan 29  1996 relog.tf
+-r--r--r--  1 sondheim      610 Jan 29  1996 replace.tf
+-r--r--r--  1 sondheim      927 Jan 29  1996 rwho.tf
+-r--r--r--  1 sondheim      314 Jan 29  1996 self.tf
+lrwxrwxrwx  1 root           11 Apr 25 04:31 space_page.tf -> spc-page.tf
+-r--r--r--  1 sondheim      579 Jan 29  1996 spc-page.tf
+-r--r--r--  1 sondheim     1917 Jan 29  1996 spedwalk.tf
+lrwxrwxrwx  1 root           11 Apr 25 04:31 speedwalk.tf -> spedwalk.tf
+-r--r--r--  1 sondheim      472 Jan 29  1996 spell.tf
+-r--r--r--  1 sondheim      686 Jan 29  1996 stack-q.tf
+lrwxrwxrwx  1 root           10 Apr 25 04:31 stack_queue.tf -> stack-q.tf
+-r--r--r--  1 sondheim    15398 Jan 29  1996 stdlib.tf
+-r--r--r--  1 sondheim   198678 Jan 29  1996 tf-help
+-r--r--r--  1 sondheim     9522 Jan 29  1996 tf-help.idx
+-r--r--r--  1 sondheim     1167 Jan 29  1996 tfrc
+-r--r--r--  1 sondheim     1216 Jan 29  1996 tick.tf
+-r--r--r--  1 sondheim     2569 Jan 29  1996 tintin.tf
+-r--r--r--  1 sondheim      780 Jan 29  1996 tools.tf
+-r--r--r--  1 sondheim      785 Jan 29  1996 tr.tf
+-r--r--r--  1 sondheim      838 Jan 29  1996 watch.tf
+-r--r--r--  1 sondheim     1546 Jan 29  1996 world-q.tf
+lrwxrwxrwx  1 root           10 Apr 25 04:31 worldqueue.tf -> world-q.tf
+
+

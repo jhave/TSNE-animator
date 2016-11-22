@@ -1,0 +1,34 @@
+
+
+
+741
+
+
+This afternoon I went next door to see Mark, an artist who also works for
+other artists. He was building an electronic circuit that would respond to
+audio signals, setting a mechanical mouth into motion. The mouth was dri-
+ven by solenoids. Mark was using op amps.
+
+The amp he was using was the old 741, which apparently are still consid-
+ered rugged, inexpensive, and enormously flexible, after at least 27
+years. I circuited myself with them in the late 60's, building an analog
+synthesizer with Greg Johnson. I was amazed then, and still am, over the
+beauty of these ICs; feedback/feedforward devices, they can control just
+about anything, and are in fact at the heart of voltage-responsive de-
+vices. They can be considered analog gates of a sort, a T-structure with
+which a _parasite_ or parasitic voltage modifies a reception/transmission
+channel; the modification can be tightly controlled, feeding back onto
+itself. (See Serres, The Parasite, for some philosophy/theory here.) 
+
+While computers go out of date before they leave the showroom, the 741s
+and their relatives continue working in all sorts of places. This fasc-
+inates me; on one hand, the fast and out of control feed-forward aspects
+of the electronic industry - and, on the other, the strange attractors of
+small perfect devices, as operative as neurons, that remain amazingly
+constant for decades.
+
+If you've never played with an op amp, you're missing cybernetics in ac-
+tion as well as the beauty of process aesthetics... (You can find texts on
+these devices in just about any electronics store.) 
+
+

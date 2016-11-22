@@ -1,0 +1,69 @@
+
+
+
+Background / Foreground 
+
+
+(I sent this out, in a shorter version, to the Writing & Psychology con-
+ference on Trace; it's be relevant here as well.)
+
+I was thinking of this first a couple of years ago in relation to objects
+and multimedia channels, and then looking at Miekal And's flash work
+(which I love) and some of the other URL sites I've posted here - I've
+been wondering about the relationship among: 
+
+1. Multimedia OBJECTS, and their protocols, codings, animations/visuals/
+audios, etc.;
+2. The framework of the SCREEN or page, which holds the OBJECTS; and
+3. The embedding of the SCREEN within the apparatus of the COMPUTER and
+its input devices (keyboard, mouse, microphone, camera, etc.).
+
+It seems to me that emphasis on the first relates to modernism, in the
+sense that the background is assumed neutral or irrelevant, and that the
+object itself forecloses on its own interiority; that the second relates
+to deconstruction, to the extent that the margins and protocols are fore-
+grounded as much as the embedded objects (all of this is presuming that
+background is visible and somewhat well-defined); and that the third
+relates to postmodernism, to the extent that it is also cyborgian, inter-
+ior and exterior simultaneously. In any case, I'd like to see a phenomeno-
+logy of this issue (which might be related to, say, Sherry Turkle's or
+Brenda Laurel's work), somewhere, sometime. It seems to me that emphasiz-
+ing the domain or tenor of a site instead of its components (which are
+emphasized especially on those webpages, that, say, ask if you have this
+or that plugin) is a way of approaching both experiential issues, and
+issues of virtuality which rely on encompassing the spectator and her or
+his body, in relation to the coding, the writer, the producer, the artist,
+the director, etc.
+
+One might consider levels of interaction, moving from the user's body and
+its own foregrounding/backgrounding (see Drew Leder, The Absent Body),
+through a phenomenology of the lived environment. Change the focus to the
+"digital apparatus" itself (in the sense of the "cinematic apparatus") -
+to the increasing diversity of displays. From displays, it is a difficult
+step to the internal margins of the visual (and are there parallels in
+sound as well?) - and the introjections/projections associated with images
+and flash and other multimedia components. (As the case may be, extend
+this farther to actively responding joysticks, teledildonic apparatus,
+etc.) I would be interested in the ways that such introjection and pro-
+jections (what I call "jectivity") operates in internal world-building -
+where, in other words, is the user, psychologically, in the midst of all
+of this. We know that one can easily inhabit the reduced audio-visual
+bandwidth of a MOO or MUD, and even a novel; in multimedia, the singular
+experience of reading is broken up by mouse-clicks, attention structures
+across the screen, and so forth. How does this heterogeneity function in
+terms of worlds? How does one move within these spaces, which can often
+appear, as the modernist gallery, as an accumulation of objects against 
+presumably "irrelevant" white walls? Does the white background of the
+screen function as such a wall? Does a background color create a different
+kind of experience altogether? What is the phenomenology of jectivity in
+general, across the various sensory modalities?
+
+The point of all of this is both practical - knowledge of the psychologi-
+cal processes that are involved in world-building, from both a design and
+a user viewpoint - and theoretical - how do we make sense of _any_ world,
+foregrounding and background what we ascertain, for ourselves, are objects
+within it? How, in other words, _are worlds inscribed?_ Multimedia pro-
+vide profound tools for research here; there's always something behind the
+holodeck, waiting to be fished out.
+
+

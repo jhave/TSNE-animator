@@ -1,0 +1,17 @@
+
+
+
+
+moo, 2018
+
+
+generic message board
+users will see this whenever they log on
+@who
+no one is logged on at the moment
+@runtime
+the moo has been running 18 hours 4 minutes 11 seconds
+the moo will checkpoint in seven hours
+there is no news
+
+

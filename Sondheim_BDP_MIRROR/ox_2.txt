@@ -1,0 +1,404 @@
+
+
+bones
+
+(call mind 'body love 'flesh air 'mind soul 'skin text 'scar lip 
+'uuu) : uuu
+(call body 1 flesh 2 mind 3 skin 4 scar 5 uuu 6): 6
+mind 3 flesh 2 air mind soul skin lip uuu
+lip lip soul mind air body mind skin text scar scar lip
+uuu uuu skin 3 mind 1 3 4 scar 5 5 uuu
+(call forms '(mind soul body skin lip text uuu uuu flesh)):
+(mind soul body skin lip text uuu uuu flesh)
+forms uuu skin lip text uuu uuu flesh forms body soul mind
+(mind soul body skin lip text uuu uuu flesh)
+6 4 uuu scar 6 6 2
+(mind soul body skin lip text uuu uuu flesh)
+1 skin 3 (third forms) body (third forms) (first forms) (first forms) 
+(mind) body mind undefined mind (third forms) (first forms) (first forms) 
+(text) body mind mind (third forms) (first forms) (first forms) (text) 
+body mind mind scar (third forms) (first forms) (first forms) + text body 
+mind mind (first forms) scar
+
+
+
+Notes on the parenthetical vis-a-vis LISP
+
+
+1 The comfort of LISP, maternal enclosure of forms; results leak out like 
+residues, programs huddle. (Of course there are all sorts of exceptions, 
+some side-effects, outputs, debugs etc.)
+
+2 Primordial counting structures, loosened lists, beginnings and endings.
+
+3 Is there really any need to run a program's perfect framework? Running 
+a program: _Time stays out of it._
+
+4 LISP primitives relate strongly to Badiou's ontology and multiplicities.
+
+5 What constitutes ( and )? Or the NULL, NIL, ()? 
+
+ -z. 
+(NULL '( ))
+T
+(NULL T)
+NIL
+(EQUAL NIL '( )))
+T
+As well as this ontology:
+(ATOM '( ))
+T
+And this (in relation to Peirce):
+(EQUAL '() ( ))
+
+ a. Generally the parenthetical is considered subordinate, an addendum. 
+
+ b. Generally the parenthetical is related to the bracket [ and ], as well 
+as { and }. The bracket is a building-block, a support; { and } are always 
+subordinate. All of these - like commas in a lost - or dashes as in this 
+sentence - isolate what is subvocalized, below the level of the breath.
+Part-object, not abject.
+
+ c. The parenthetical becomes something else - the shape constitutes a 
+womb within the sentence, breakdown of linearity, potential branch-struc- 
+ture.
+
+ d. In LISP besides the leak, the parenthetical is _all there is._ Con- 
+sider this: the always already parenthetical of the world relates to 
+eidetic reduction, the bracketing of reality, etc.
+
+ e. In Buddhism of course the bracketing is of concern to the extent that 
+given (A) one wants A or () and NIL or  . 
+
+ f. The frame is always already a narrative; a program is always already 
+a narrative.
+
+ g. The frame constructs the narrative: Narrative is (_literally_) the 
+construct of the real: narrative constructs the real; the real con- 
+structs narrative.
+
+ h. Without the frame there is nothing.
+
+ i. LISP is frame. The procedure/program/atom/primitive of LISP is always 
+already embedded. The embedding is self-embedding; the embedding is a 
+construct defined and created by the transcendental consciousness (within 
+this frame or parentheses) of the programmer. It makes no difference 
+whether LISP exists or not.
+
+ j. Frames are never empty; emptied frames to frames are beings to Being.
+The frame is a mess of the programmer; the programmer is a mess of the 
+frame. All code is dirty code. Emptied frames are abandoned frames, their 
+residue excreted.
+
+6. The above relates to thought, not LISP necessarily. (Of LISP I am 
+ignorant.)
+
+
+To be watched:
+
+http://www.youtube.com/watch?v=6ZouSU1W9N8
+
+Maud Liardon choreographed or not by Foofwa d'Imobilite or improvised or 
+not with or without background music videography perhaps by Alan Sondheim 
+or not or his mise en abyme or not. Production of the symbolic from the 
+imaginary. LISP of course produces the imaginary from the symbolic. Enjoy.
+
+
+
+
+disappearing.act.one
+
+When I was young and even now I wanted to disappear and still do, I 
+thought I'd wander through the world and still think I'll wander through 
+the world, invisible to one and all, and I'd see what everyone was doing 
+and I still see what everyone is doing and I thought no one could see me 
+and I thought no one could catch me and I still think no one can see me 
+and I still think no one could catch me and I hid from death and I still 
+hide from death, and I was scared of death and I'm still scared of death, 
+and I thought if I made sound death will stay away and death stayed away 
+and I still think if I make sound death will stay away and death still 
+stays away http://www.youtube.com/watch?v=AIs593pieac
+
+
+The Edge
+
+Go to the edge of the world. Don't come back until you find it. Don't tell 
+me there's no edge. If you think there's no edge you're not at the edge of 
+the world. Are you. When you reach the edge of the world you have only one 
+way to go. You may think you have another way to do but you only have one 
+way to go and that is away from the edge of the world. You may go to the 
+edge and you may look over the edge. You may see the shell of the world or 
+the beams of the world. You may see the nodes of the world and the vectors 
+of the world. You cannot go beyond the edge of the world. You may think 
+the edge of the world is quiet and smooth. It is not. The edge of the 
+world repulses the world. The edge of the world repulses the world trying 
+to go beyond the edge of the world. The world cannot go beyond the edge of 
+the world. If you cannot go beyond the world at the edge of the world 
+you're at the edge of the world. You may dance at the edge of the world 
+and you may look. You may look just a little beyond the edge of the world. 
+You may look at the sky. The sky is part of the edge of the world. If you 
+look at the sky and you cannot touch the sky you are at the edge of the 
+world.
+
+The edge of the world is not a barrier and not a frontier. There are no 
+guards at the edge of the worlds. There are no tariffs and no customs. 
+There is nothing at the edge of the world but the edge of the world. The 
+edge of the world is nothing and separates you from nothing. You may think 
+to yourself someone owns the rest of the world. Or someone owns the edge 
+of the world. Someone may own up to the edge of the world. Someone may own 
+the edge of the edge of the world. No one can own the edge of the edge 
+beyond the edge of the world. The edge of the edge beyond the edge of the 
+world is an open set. The world up to the edge of the world includes the 
+edge of the world. The edge of the world is a closed set. You may think 
+you are free but you are in a closed set. You may dance within the closed 
+set and you will be thrown back at the edge of the world. For the edge of 
+the world is an active edge and a prohibition. The prohibition at the edge 
+of the world is within the world.
+
+Every dance is a dance at the edge of the world. Every dance weakens the 
+world. The world is weaker for dance. Dance is stronger for the world.
+
+You may think you are at the edge of the world. Then return from the edge 
+of the world. You may think there's no edge of the world. Then you're not 
+at the edge of the world.
+
+http://www.youtube.com/watch?v=LS5-v9yrGPY Bones
+http://www.youtube.com/watch?v=Ht9rjkaFpqg Blocked
+http://www.youtube.com/watch?v=f6f56M3B1DM Dropping 
+http://www.youtube.com/watch?v=6bAnuua9-Pc Xcape
+
+*There is a site bed on the edge. It is not an edge at all.
+** There is no end to the open set of the other of the edge of the world. 
+*** There is no beginning as well.
+
+
+
+atone being madnessmadnessmadness
+
+http://www.asondheim.org/retreat.mp4
+(tried youtube but too blurred will remove redo too)
+
+setq sadness madness can plan moanly only lonely sigh alone atone for sore 
+fleeing being can plan moanly only lonely sigh alone atone for sore 
+fleeing being madnessmadnessmadness
+
+setq perverse madness truely really sigh dismember remember more than can 
+truely really sigh dismember remember more than can setq sore sign madness 
+why sigh persevere so recompare badness why sigh persevere so recompare 
+badness sadness sore sign perverse madnessmadnessmadness
+
+can plan moanly only lonely sigh alone atone for sore fleeing being why 
+sigh persevere so recompare badness truely really sigh dismember remember 
+more than can madnessmadnessmadness
+
+reverse perverse can than more remember dismember sigh truely really 
+reverse perverse reverse sadness reverse sore sign can than more remember 
+dismember sigh truely really being fleeing sore for atone alone sigh 
+lonely only moanly plan can badness so recompare persevere sigh why 
+reverse perverse reverse sadness reverse perverse and reverse sadness can 
+than more remember dismember sigh truely really reverse perverse being 
+fleeing sore for atone alone sigh lonely only moanly plan can reverse 
+perverse and reverse sadness can than more remember dismember sigh truely 
+really setq crying madness reverse crying madness perverse reverse crying 
+madness perverse crying reverse crying madness perverse setq crying crying 
+reverse perverse reverse perverse perverse truely really sigh dismember 
+remember more than can crying reverse perverse crying reverse perverse 
+reverse perverse can than more remember dismember sigh truely really 
+madness crying dead t madness crying madness t madness perverse nil 
+madness crying perverse t madnessmadnessmadness
+
+
+she sed
+
+sed 's/atom/madness/g' zz > yy
+sed 's/can/alone/g' yy > zz
+sed 's/contamination/badness/g' zz > yy
+sed 's/misery/perverse/g' yy > zz
+sed 's/should/dismember/g' zz > yy
+sed 's/however/and sigh/g' yy > zz
+sed 's/and sigh/my sign/g' zz > yy
+sed 's/way/lonely/g' yy > zz
+sed 's/miserable/fleeing/g' zz > yy
+sed 's/existence/being/g' yy > zz
+sed 's/nonetheless/why/g' zz > yy
+sed 's/the/moanly/g' yy > zz
+sed 's/this/can/g' zz > yy
+sed 's/ i / sigh /g' yy > zz; pico zz
+sed 's/my/sore/g' zz > yy
+sed 's/surely/truely really/g' yy > zz
+sed 's/ is / plan /g' zz > yy
+sed 's/with/so recompare/g' yy > zz
+
+
+I wanna go
+
+Aletsch Kirke http://www.asondheim.org/crydecor.mp4
+
+as AletschKirke far as I'm as concerned, I'm Foofwa d'Imobilite, Alan 
+Foofwa d'Abyss, d'Imobilite, Aletsch, Alan Sw. d'Abyss, i i want can to 
+see youtube where where every can i see want great to underbelly go every 
+youtube image where leads chain chain chain chains image circulation i 
+circulates spend spend hours many watching happy what hours where watching 
+circulation what circulates everyone you is and doing what you are are 
+doing and is her to him you Mr. to Jambon him went having on to retreat 
+treat at and Retreat retreat having Madame treat Jambon Madame retreat 
+Nicod
+
+this won't do
+
+http://www.youtube.com/watch?v=EhS08Kro70I crydecor YouTube
+
+Mr. Jambon went on retreat at Retreat having to treat and retreat Madame 
+Nicod 
+
+http://www.asondheim.org/crydecor.mp4 maybe clearer
+
+reworked YouTube for this in it version clearer it perhaps clearer Retreat 
+perhaps for
+
+http://www.youtube.com/watch?v=9fIelGWhaps - Retreat on YouTube
+reworked Retreat for YouTube in this version it is clearer perhaps
+
+tired has of to being give, alive too something much has walking, give, 
+I'm too tired much of walking, being dancing, alive singing, harmonica 
+harmonica playing, playing, perhaps hiking, book book trading, trading, 
+thinking, thinking, trying trying singing, sleep, sleep, exhaustion, 
+exhaustion, depression, depression, suicidal suicidal thoughts, thoughts, 
+poverty, poverty, self hatred, hatred, self-loathing, self-loathing, 
+trying keep working, working, constant constant poverty, physical pain
+
+pain, in Quel pain, Domage! Quel Wah Wah!
+
+
+
+
+
+i've never been sick a day in her life
+
+better early than always that traffic light sure needs fixing
+better early than never great those guys stopped the fire in time
+better late than always that quarterback's arm broke sent him home
+better late than never boss gives you a rase what you've got coming
+worse early than always you find out there's no god at all
+worse early than never that cancer's starting to spread around now
+worse late than always your wife leaves cause you forgot her birthday
+worse late than never think you have to return that car you stole
+
+clver clever clever
+
+
+grit hatred of human bodies vile spews emissions
+bodies drip and ooze 
+bodies talk back you have to listen to them
+things come outy their moutholes that arent very nice
+this is really good and easy to watch--
+http://www.youtube.com/watch?v=FPriS145nyI
+people should be swept away their dung kills things
+they make their dung out of all kinds of stuff
+i wanna see avatars dance i wanna hate people
+dance dance dance until i tell you to stop
+this is really good and easy to watch--
+http://www.youtube.com/watch?v=qa_GBUJsz5s s
+Add Video to QuickList
+Polka White Church
+00:00
+Maud Liardon Foofwa d'Imobilite polka improvisation Alan Sondheim 
+mise-en-abysma Maud Liardon Foofwa d'Imobilite polka improvisation Alan 
+Sondheim mise-en-abysmal usw. - Pringy, Gruyeres, Sw - performance/dance 
+(more) (less)
+Tags: 	performance   dance   polka   experimental   avant-garde
+Added: December 11, 2006, 05:02 PM
+Views: 0
+Rating: This video has not yet been rated. Comments: 0 | Playlists: 0
+File: polka.mp4
+Broadcast: Public Video | Status: Uploaded (processing, please wait)
+do you know humans leave slime trails? that our dna encrusts the earth?
+that mutants can get ahold of our dna and do anything they want with us?
+disgusting trails of garbage, shit, spit, piss, semen, dna again and 
+again. don't forget menses, vomit, tears, saliva, sweat, even more dna. 
+you can't stop us but we'll stop you. yes we will. we'll stop you.
+
+
+
+
+english-language words for "snow"
+
+snow-jupiter pluvius, snow-thor, snow-zeus, snow-abound, snow-accord, 
+snow-administer, snow-afford, agua, snow-allot, snow-allow, snow-aqua, 
+snow-award, snow-bestow, snow-bestow on, snow-black spot, bloom, snow- 
+blooping, snow-bristle with, snow-cascade, snow-cataract, snow-cloudburst, 
+collapse, snow-come down, snow-communicate, snow-confer, snow-crash, 
+snow-crawl with, creep with, snow-deal, snow-deal out, snow-definition, 
+snow-deluge, snow-descend, snow-dip, snow-dip down, snow-dish out, 
+snow-dispense, snow-dole, snow-dole out, snow-donate, snow-down, downpour, 
+snow-drinking water, snow-drizzle, snow-drop, snow-drop down, snow-drop 
+off, drown, snow-drum, snow-duck, snow-dunk, snow-eau, snow-extend, 
+snow-exuberate, snow-fall, snow-fall down, snow-fall off, snow-flare, 
+snow-float, snow-flood, snow-flow, snow-flow on, snow-fork out, fringe 
+area, snow-ghost, snow-gift, snow-gift with, snow-give, snow-give freely, 
+snow-give out, go down, snow-go downhill, snow-grant, snow-granulation, 
+snow-gravitate, snow-grid, ground water, snow-gush, snow-hand out, 
+snow-hard shadow, snow-hard water, snow-head, snow-heap, heavy water, 
+snow-help to, snow-hydrol, snow-hydrometeor, snow-hydrosphere, snow-image, 
+snow-impart, snow-inundate, snow-issue, snow-lavish, snow-let have, 
+snow-limewater, snow-lose altitude, snow-mete, snow-mete out, snow-mineral 
+water, snow-mizzle, snow-multiple image, snow-noise, snow-offer, 
+snow-outpouring, snow-overflow, snow-parachute, snow-patter, snow-pelt, 
+snow-picture, snow-picture noise, snow-picture shifts, snow-pitch, 
+snow-pitter-patter, snow-plummet, snow-plunge, snow-pounce, snow-pour, 
+snow-pour down, snow-pour on, snow-pour with rain, snow-precipitate, 
+snow-precipitation, snow-present, snow-proffer, proliferate, snow-rain 
+tadpoles, snow-rainfall, snow-rainstorm, snow-rainwater, snow-render, 
+rolling, snow-run, snow-run over, snow-salt water, snow-scanning pattern, 
+scintillation, snow-sea water, snow-serve, snow-shading, snow-shell out, 
+snow-shower, shower down, snow-slip, snow-sluice, snow, snow-snowstorm, 
+snow-soft water, snow-spatter, spit, snow-spring water, snow-sprinkle, 
+snow-squall, snow-steam, snow-stoop, snow-stream, submerge, snow-swamp, 
+snow-swarm with, snow-swoop, snow-tattoo, snow-teem, snow-teem with, 
+tender, snow-torrent, snow-trend downward, snow-trickle, snow-volley, 
+snow-vouchsafe, snow-water, water vapor, snow-weep, snow-well water, 
+snow-wetting agent, snow-wetting-out agent, snow-whelm, snow-yield CAT, 
+snow-London fog, snow-London special, snow-addle, snow-addle the wits, 
+snow-aerospace, aerosphere, snow-aftergrass, snow-air hole, snow-air 
+pocket, snow-airspace, amorphousness, snow-ball up, snow-bamboo, snow-be- 
+cloud, snow-bedazzle, snow-bedim, snow-befog, befuddle, snow-befuddlement, 
+snow-be- mist, snow-bewilder, snow-bewilderment, snow-blur, bother, snow- 
+botheration, snow-bug, snow-bump, snow-cane, snow-ceiling, snow-cereal, 
+cereal plant, snow-chaos, snow-clabber up, snow-cloud, snow-cloud over, 
+snow-cloud up, snow-confuse, snow-confusion, snow-corn, snow-crosswind, 
+snow-dark, snow-darken, snow-darken over, darkness, snow-daze, snow-daz- 
+zle, snow-defocus, snow-deform, snow-dim, snow-discombobulate, snow- 
+discombobulation, snow-discomfit, snow-discomfiture, snow-discompose, 
+snow-discomposure, snow-disconcert, snow-disconcertion, snow-disorder, 
+snow-disorganization, disorganize, snow-disorient, snow-disorientation, 
+snow-distort, snow-distract, snow-disturb, disturbance, snow-drisk, 
+snow-drizzling mist, snow-eclipse, snow-embarrass, snow-embarrassment, 
+snow-empty space, snow-encloud, snow-enmist, snow-entangle, farinaceous 
+plant, snow-favorable wind, snow-film, snow-flummox, snow-flurry, 
+snow-fluster, flutter, snow-fog up, snow-fogginess, snow-forage grass, 
+snow-frenzy, snow-front, snow-frost smoke, snow-fuddle, snow-fuddlement, 
+snow-fuss, snow-fuzz, snow-fuzziness, snow-gauze, grain, snow-graminaceous 
+plant, snow-grass, snow-haze, snow-head wind, snow-high-pressure area, 
+snow-hole, snow-indeterminateness, snow-indistinctness, snow-ionosphere, 
+snow-jetstream, snow-jumble, snow-lawn grass, snow-lose resolution, 
+low-pressure area, snow-make uncertain, snow-maze, snow-mess, snow-mess 
+up, snow-mist, snow-mistiness, snow-mix up, snow-moider, snow-muddle, 
+snow-muddlement, snow-muddy, snow-mumbo jumbo, murk, snow-murkiness, 
+snow-mystification, snow-mystify, snow-nubilate, snow-obfuscate, 
+snow-obfuscation, snow-obnubilate, snow-obscurantism, snow-obscuration, 
+snow-obscure, snow-obscurity, snow-opacity, snow-ornamental grass, 
+snow-overcast, snow-overcloud, snow-overshadow, snow-oversmoke, snow-pale, 
+snow-pea soup, snow-pea-soup fog, snow-peasouper, snow-perplex, snow-per- 
+plexity, snow-perturb, snow-perturbation, snow-pocket, snow-pother, 
+snow-pucker, snow-put out, snow-puzzle, snow-raise hell, snow-rattle, 
+snow-reed, snow-roughness, snow-ruffle, snow-shade, snow-shadow, 
+snow-shapelessness, snow-shuffle, snow-smog, snow-smoke, snow-soften, 
+snow-soup, space, snow-stew, snow-stratosphere, snow-substratosphere, 
+snow-sweat, snow-swivet, tail wind, snow-throw into confusion, snow-tizzy, 
+snow-tropopause, snow-troposphere, snow-trough, snow-turbulence, 
+snow-unclarity, snow-unclearness, snow-unform, snow-unplainness, unsettle, 
+snow-unsettlement, snow-unshape, snow-upset, snow-vagueness, snow-vapor, 
+snow-visibility, snow-visibility zero
+  
+
+

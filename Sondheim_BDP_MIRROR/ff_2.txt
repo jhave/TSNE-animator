@@ -1,0 +1,51 @@
+
+ 
+
+Cable Life
+
+
+Having checked the addresses-com ports-IRQs-internal/external modem con-
+figurations, it turned out as expected to be a hardware problem, a cable
+running to the serial port from the motherboard. The cable's been rewired
+by the upgraders, and everything runs; somehow in the process I seem to
+have inherited a second internal modem, neither of which are installed.
+
+Analog synthesizers such as the MOOG, at least before the ARP, used ex-
+ternal cable connects, plug-ins with phone jacks eventually covering the
+board. Later, a matrix board was used; this carries over to video image-
+processing, with the Experimental Television Center using a 50x50 matrix
+to interconnect components in any order. The wiring necessary for the
+board is probably over a mile in length, running everywhere beneath the
+independent components.
+
+Synthesizers switched to internal connections, with a certain loss - it's
+no longer possible to send a signal in between any two devices; instead,
+you've got to use the standardized inputs and outputs. MIDI made sure of
+standardization, as did TCP/IP, and so forth and so on. Sometimes there's
+a bit of sloppiness, such as the ability to download with cat and vi in
+Unix, anything that spills text on the screen.
+
+I imagine a hugely multiplexed cable with input and output addresses for
+everything except perhaps power, a single connect using fiberoptics and
+huge bandwidths. This travels among thousands of happy components, each
+time-sharing at impossibly high speeds. There's no reason for this of
+course except the aesthetics of a light-pipe in action...
+
+Meanwhile, as the drive towards interconnectivity hits _this_ machine in
+macroscopic and inordinately complex fashion, my sexual drive begins to
+disappear; instead of remaining at the node, I have dream to travel, the
+body battered into bytes and bits along local highways, buses, out through
+modem murmurs into pure vacuum, virtual particles. The body stains, spins,
+resides, memory self-exhausting.
+
+In fact, think of body as memory-container, spilling its contents (into
+memetic pools if you like); now, it begins to shuffle, speed up, thrust,
+_intend,_ hurl the purity of lightspeed approach (time down, space up!),
+digital bandwidth on the increase, bytes and bits into curves smoothed to
+any degree. Oh, I'm sorry, apparently I'm reconstituted here for you, but
+I'm on my way, moving on, and I'm on my way and I'm sorry I'm on my way.
+
+
+    My Body Is My Station On The Vast Highway Of All Living Things
+
+

@@ -1,0 +1,35 @@
+==
+
+
+Stew and Fruit
+
+
+Who are you, you touch the blue you stew and stew you do accrue and wonder
+vocals all the way through the forty minutes? A melange or stew, the lies,
+the thefts, she's in a stew - her takeoff and approach. The stewards knew
+she was arriving. The pilot's bulk is bent under the burden of its fruits
+of thick juice tasting legs.
+
+I wanted to write you and say sweetness falls from _this_ fruit with the
+time of ripening. So there are stews freed from the unknown, never coming
+to fruition.
+
+Text: Pallas told him not to harm the fruitful lands. Boredom - the fruit
+of the mind's inert, incurious tree. I do this so well (i.e. modify prev-
+ious work in relation to specific searches and reassemble them into new
+and more meaningful texts of wonder and surprise; so that one might use a
+command such as "grep -h *?? fruit >> y" over the entire internet text in
+order to create an initial assemblage; "-h" suppresses file names; "*??"  
+makes sure that files are searched only if they are 2 or more letters; the
+spill is appended to file "y"; if "y" were, say, "xyz," there is the poss-
+ibility for a feedback loop creating an exponentially-growing and useless
+file; doing this i managed to run up 38 megabytes in a few seconds; what a
+mess; i might have brought the server down; it was a real stew and hardly
+fruitful; i wonder if this were a flaw built into grep or the particular
+flavor of unix i was using).
+
+Language is such a marvelous and fruitful secret - Look how chatter dis-
+seminates! And I am d'nala d'eruza, here to learn the fruitful arts of
+prostitution in order to bring the reader to fruition.
+
+

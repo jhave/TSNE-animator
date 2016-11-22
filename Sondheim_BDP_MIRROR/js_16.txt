@@ -1,0 +1,22 @@
+
+
+[ JENNIFER
+
+
+This html page is designed to run on Netscape 2.02 and above, as well as
+MSE. It was tested on Netscape3.0 and Gold on Macintosh.
+
+The page is the construct of function-Jennifer, performative-Jennifer. It
+is a case or site of _wryting._ The page breathes and stutters, not always
+in correlation with the text.
+
+Additional comments for various browsers, and view-source-code are inter-
+spersed throughout.
+
+Download and run in any directory. This program doesn't work with lynx and
+other text-based browsers. 
+
+Cut at line below. ]
+
+
+

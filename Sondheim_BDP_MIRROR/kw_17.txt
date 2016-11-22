@@ -1,0 +1,35 @@
++
+[PageDown: <SPACE>] [Help: ?] [Exit: u]                                
+
+  QUESTION: What is the most common material out of which
+             computers are made?
+
+   ANSWER:   Meat. (Get it?)
+                              * * *
+
+   QUESTION: Why do boys like computers more than girls like
+             computers?
+
+   ANSWER:   Because it is easier to write games showing
+             bombs exploding that it is to write games
+             showing relationships exploding. [Maybe this
+             isn't a joke.]
+
+    COMMENTS?
+                     
+        6. Links to other sites:
+                 LL (24000)  : carrier.kiev.ua
+                 LL (28800)  : ignet.odessa.ua
+                 LL (14400)  : tm.odessa.ua
+                 LL (14400)  : uniirt.com.ua
+                 LL (28800)  : top.odessa.ua
+                 LL (28800)  : citek.odessa.ua
+                 UUCP        : kiae.su
+                 UUCP        : otb.odessa.su
+        7. Services:           UUCP, SLIP, PPP
+                             : mail, news, gophermail, ftpmail, mailserv
+                             : FTP, WWW, SMTP, NNTP, PROXY
+        8. URL  http://www.te.net.ua
+                                                /07.10.96/
+                                                               
+      1. 

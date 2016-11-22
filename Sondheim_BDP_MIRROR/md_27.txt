@@ -1,0 +1,332 @@
+
+
+
+diary anguish
+
+
+late night now can't sleep again, ill and "em"iserable, fall off a cliff
+into black night"em"are, always the sa"em"e, azure and i so"em"ewhere,
+she's off with other people, they don't like "em"e, i behave badly, i
+can't find her, i'"em" e"em"barrassed, asha"em"ed, i never could handle
+situations well, i'"em" holding her back, she should leave "em"e, there's
+no excuse for "em"e, no excuse for "em"y actions, there's a war on, these
+feelings are trivial, i drea"em" of white powder death and read han shan,
+i stu"em"ble to "em"y feet and crawl to the keyboard, i write one thing
+than another thing, i hope for reconciliation, nothing happens, "em"y
+thought is stillborn, there are lying faces on the television, i live in
+disorder, "em"y philosophy is buried beneath the terror, you'd have to
+scratch away the terror, you'd have to rip the face off the real to see
+the real
+
+what can i do to turn this away fro"em" diary, i could spell the letter
+""em","  that's what i'll do, i'll spell the letter ""em""
+
+
+-
+
+
+
+(en)(ei)(ka(why))((why)ou)(ka(why))(oh)
+((es)(ee)(ee))(a(why))(ar)(ar)(why)(ei)(en)(gee) (tea)(ha(ei)(tea)ch)(ee)
+(a(why))(pee)(oh)(ar)(ei)(a(why)) (oh)(ef)
+(d(ee)(ee))(ei)(es)(es)(ee)(em)(ei)(en)(a(why))(tea)(ei)(oh)(en):
+(ef)(ei)(gee)((why)ou)(ar)(ee) 1 - (ja(why))(ee)(en)(en)(ei)(ef)(ee)(ar)
+(b(ee)(ee))(ar)(ee)(a(why))(ka(why))(ei)(en)(gee)
+(d(ee)(ee))(oh)(double-u)(en) (ef)(oh)(ar)(gee)(ee)(tea)(tea)(ei)(en)(gee)
+(double-u)(oh)(ar)(el)(d(ee)(ee))(es): (ef)(ei)(gee)((why)ou)(ar)(ee) 2 -
+
+
+1	pico zz
+2	sed 's/a/(ay)/g' zz > yy
+3	sed 's/b/(bee)/g' yy > zz
+4	sed 's/c/(see)/g' zz > yy
+5	sed 's/d/(dee)/g' yy > zz
+6	sed 's/e/(ee)/g' zz > yy
+7	sed 's/f/(ef)/g' yy > zz
+8	sed 's/g/(gee)/g' zz > yy
+9	sed 's/h/(haitch)/g' yy > zz
+10	wc zz
+11	pico zz
+12	h
+13	sed 's/i/(ei)/g' zz > yy
+14	sed 's/j/(jay)/g' yy > zz
+15	sed 's/k/(kay)/g' zz > yy
+16	sed 's/l/(el)/g' yy > zz
+17	sed 's/m/(em)/g' zz > yy
+18	sed 's/n/(en)/g' yy > zz
+19	sed 's/o/(oh)/g' zz > yy
+20	sed 's/p/(pee)/g' yy > zz
+21	sed 's/q/(queue)/g' zz > yy
+22	sed 's/r/(ar)/g' yy > zz
+23	sed 's/s/(es)/g' zz > yy
+24	sed 's/t/(tea)/g' yy > zz
+25	sed 's/u/(you)/g' zz > yy
+26	sed 's/v/(vee)/g' yy > zz
+27	sed 's/w/(double-u)/g' zz > yy
+28	sed 's/x/(ex)/g' yy > zz
+29	sed 's/y/(why)/g' zz > yy
+30	sed 's/z/(zee)/g' yy > zz
+31	wc zz
+
+
+=
+
+
+teayeayeayeitceeheayeyeayeayerdee
+eayeneayeyeayekayeyyoayeitceehukayeyoayeitceeh
+ayeteayeayeteayeayeeayeeayempeayeeayeteayeaye ayeteayeaye
+eayesoayeitceeheayeleayeyeayeceeeayeyeayeteayeayeyoayeitceehudeeeaye
+ayeitceeheayeyeayedeedeeeayeeayen eayeyeayeeayen
+deeoayeitceehyoayeitceehubeeeayeleaye-
+yoayeitceehuayeitceeheayeyeayeteayeayeeaye
+peayeeayeoayeitceehdeeoayeitceehyoayeitceehubeeeayeleaye-
+yoayeitceehudeeeayeayer
+eayefayerayegeayeeayeeayemeayeeayenteayeaye - ayeeayendee
+eayefoayeitceehyoayeitceehuayerteayeayeayeitceeh
+jayeyyoayeitceehueayelyoayeitceehu oayeitceeheayen ayeitceeheayeayer
+eayemeayeyeayeeayeseayeayerayebeeeayeleaye ayereayeyeayeeayeseaye
+ayeeayendee eayefayeeayeleayel, ayeeayeleayemoayeitceeheayesteayeaye
+eayenoayeitceehteayeayeayeitceeheayeyeayeeayengeayeeaye oayeitceeheayef
+beeayereayeayeteayeayeayeitceeh,
+eayedeeoayeitceehyoayeitceehubeeeayeleaye-yoayeitceehuayeitceehyeayeeayes
+
+16 sed 's/z/zee/g' zz > yy 17 sed 's/y/why/g' yy > zz 18 sed 's/x/ex/g' zz
+> yy 19 sed 's/w/double-u/g' yy > zz 20 sed 's/v/vee/g' zz > yy 21 sed
+'s/u/you/g' yy > zz 22 sed 's/t/tea/g' zz > yy 23 sed 's/s/es/g' yy > zz
+24 sed 's/r/ar/g' zz > yy 25 sed 's/q/queue/g' yy > zz 26 sed 's/p/pee/g'
+zz > yy 27 sed 's/o/oh/g' yy > zz 28 sed 's/n/en/g' zz > yy 29 sed
+'s/m/em/g' yy > zz 30 sed 's/l/el/g' zz > yy 31 sed 's/k/kay/g' yy > zz 32
+sed 's/j/jay/g' zz > yy 33 sed 's/i/eye/g' yy > zz 34 sed 's/h/aitch/g' zz
+> yy 35 sed 's/g/gee/g' yy > zz 36 sed 's/f/ef/g' zz > yy 37 sed
+'s/e/ea/g' yy > zz 38 sed 's/d/dee/g' zz > yy 39 sed 's/c/cee/g' yy > zz
+40 sed 's/b/bee/g' zz > yy 41 sed 's/a/aye/g' yy > zz
+
+
+(these nested recursions fascinate me; this is about the maximum i could
+pull out - it's still decipherable, but barely. the langue turns languor-
+ous, the words expand and breathe, the textual body writhes, turns away
+from reading, almost in shame, detumescence)     
+
+(t(e(aye)e(aye))(aye))(o(aye))((aye)r(e(aye)e(aye)))((e(aye)e(aye))nn)
+(t(e(aye)e(aye))(aye))(o(aye))((dee)(o(aye))((e(aye)e(aye))w(e(aye)e(aye)))
+(be(aye))((e(aye)e(aye))l)(e(aye)e(aye))(e(aye)e(aye))
+((dee)(o(aye))((e(aye)e(aye))w(e(aye)e(aye)))(be(aye))
+((e(aye)e(aye))l)(e(aye)e(aye))(e(aye)e(aye))w(e(aye)e(aye)))(e(aye)e(ay
+e)))(aye)((aye)r(e(aye)e(aye)))(dee)((e(aye)e(aye))ss)
+((e(aye)e(aye))ss)((e(aye)e(aye))w(e(aye)e(aye)))(be(aye))
+(t(e(aye)e(aye))(aye))(e(aye)e(aye))((aye)r(e(aye)e(aye)))
+((e(aye)e(aye))ph)((e(aye)e(aye))w(e(aye)e(aye)))(g(e(aye)e(aye))
+(e(aye)e(aye)))(e(aye)e(aye))
+((e(aye)e(aye))l)(e(aye)e(aye))(t(e(aye)e(aye))(aye))
+(t(e(aye)e(aye))(aye))(e(aye)e(aye))
+((aye)r(e(aye)e(aye)))((e(aye)e(aye))ss)
+((aye)it(se(aye))h)((e(aye)e(aye))y(e(aye)e(aye)))(dee)(e(aye)e(aye))
+(aye)((e(aye)e(aye))nn)(dee)
+((e(aye)e(aye))ss)((e(aye)e(aye))w(e(aye)e(aye)))((e(aye)e(aye))l)
+((e(aye)e(aye))l)(e(aye)e(aye))((e(aye)e(aye))nn)
+
+((e(aye)e(aye))nn)(e(aye)e(aye))v(e(aye)e(aye))((aye)r(e(aye)e(aye)))
+(aye)(be(aye))((e(aye)e(aye))y(e(aye)e(aye)))(dee)(e(aye)e(aye))
+(t(e(aye)e(aye))(aye))(o(aye))((dee)(o(aye))
+((e(aye)e(aye))w(e(aye)e(aye)))(be(aye))
+((e(aye)e(aye))l)(e(aye)e(aye))(e(aye)e(aye))((dee)(o(aye))
+((e(aye)e(aye))w(e(aye)e(aye)))(be(aye))((e(aye)e(aye))l)(e(aye)e(aye))
+(e(aye)e(aye))w(e(aye)e(aye)))(e(aye)e(ay
+e)))(aye)((aye)r(e(aye)e(aye)))(dee)((e(aye)e(aye))ss)
+(dee)((e(aye)e(aye))y(e(aye)e(aye)))((e(aye)e(aye))ss)
+((e(aye)e(aye))ss)(e(aye)e(aye))((e(aye)e(aye))mm)
+((e(aye)e(aye))y(e(aye)e(aye)))((e(aye)e(aye))nn)(aye)
+(t(e(aye)e(aye))(aye))((e(aye)e(aye))y(e(aye)e(aye)))(o(aye))
+((e(aye)e(aye))nn)
+(aye)((e(aye)e(aye))nn)(dee)
+(t(e(aye)e(aye))(aye))((aye)it(se(aye))h)(e(aye)e(aye))
+(p(e(aye)e(aye))(aye))((e(aye)e(aye))l)(e(aye)e(aye))
+(aye)((e(aye)e(aye))ss)((e(aye)e(aye))w(e(aye)e(aye)))
+((aye)r(e(aye)e(aye)))(e(aye)e(aye))
+(o(aye))((e(aye)e(aye))ph)
+((e(aye)e(aye))mm)((e(aye)e(aye))w(e(aye)e(aye)))(t(e(aye)e(aye))(aye))
+(e(aye)e(aye))
+(p(e(aye)e(aye))(aye))(o(aye))((e(aye)e(aye))l)((e(aye)e(aye))l)
+(e(aye)e(aye))((e(aye)e(aye))nn)
+
+
+_
+
+
+collaborative work
+
+
+azure and i would very much enjoy the transformation of our APRON-ANTHRAX
+series into a hypertext-collaboration:
+    YOU WILL CLIMBBB OUR HILLS AND VALLEYS
+    YOU WILL CLIMBBB OUR NUMEROUS SLOPES
+    YOU WILL CLIMBBB THE RIMS OF OUR NAKED HOLES
+      we will make images of POWDER-LIMBS POWDER-LIPS
+      we will make WHITE-POWDER RIMS OF DEATH FOR YOUR HAPPY ENJOYMENT
+	azure and i will make you PART OF US
+	together our SKIN will disappear into SINFUL SINGULARITY
+	     someone will find us there entwined
+	     someone will look into our shattered limbs
+	     someone will UNDERSTAND STRING-UNIVERSE THEORY
+	       now this will be a momentous discovery
+  just on the RIMS OF DEATH everything will become clear
+  what is CLEAR is CRYSTALLINE and SHATTERED
+   what is clear is NECESSARILY SHATTERED
+
+   tonight i have prepared the APRON-ANTHRAX movie
+   it is very beautiful
+     you can see FROZEN DEATH in our FACES OF DESIRE
+     you can see YOUNG NUBILE NAKED LIMBS and ELDERLY SHATTERED WISDOM
+       ARMS AND LEGS
+	     this will cost FIFTEEN MILLION DOLLARS
+	     YOU WILL CLIMBBB OUR RAVAGED COCKS
+	     YOU WILL FUCKKK OUR RAVAGED CUNTS
+		image: "The Sorrow of a Million Deaths"
+		image: "Sadness as Culture Leaks Into our Mouths"
+		image: "Examination Desire of Bodies Young and Old"
+
+     the day stormed; Azure and Alan could not leave the house. armed
+     guards stormed the balconies. the rains began, the reign of terror
+     began
+
+
+     -
+
+
+some people using "there" in my email
+
+
+Strangely I realize I know almost no one there now. contacts there would
+be of great help. > contacts there would be of great help. > > almost a
+different country -- yet the last time I went there maybe 8 years are
+there any questions i can answer for you, or any other help i can >
+Anyway, we'll be there in Miami in the middle of August - how far in terms
+one of my personal faves. In terms of offline stuff, there's Philippe=20
+This is quite a page put together (and there are other links pages
+linked=20 written extensively about it. I see that Cauldron & Net is
+described there= there is no good reason not to view the myriad
+subscription-free online=20 is there actually a beach? is it swimmable?
+are natives friendly? messages - I'm dialing correctly, so there might be
+something wrong at 1 or 2 digital cameras - $300 - $400 for one of them -
+then there are Second DV camcorder if there's anything left. Editing
+software if there's anything left. This is where it gets compli- there are
+several on the market. I could put some cracked software up as hours or so
+if we get all the PCs. And there would be no one for tech can't let
+students in off hours because there's no one watching the place. modem
+connection - the biggest problem is that there is no T1 or other fast line
+in W10 / 105), but little more, and if there are problems, there know if
+there's a precedent for it. I'm not a tech person myself, although works
+fine there - and hopefully we would be able to do it similarly on Macs
+there (and add some new ones) - and I haven't been able to get them >
+there are no other pcs at the moment. Finally, I did think that there
+would be more backup for the position, not about it. For the past ten days
+or so there have been dead lizards, First - I never did get any TA help at
+all; is there any chance this will Someone said we might be able still to
+hire adjuncts? Is there a freeze teaching and trying to settle in Miami,
+and instead there seem to be con- group together as hypermedia).  First
+there is the problem of the digital theory of language, which deals with
+both? In what sense is there either Across the web, around the world there
+are many practitioners of this Clifford Still. In the lower right of the
+screen there is a gray, barely as a wildcard, the prefix "ex" becomes
+"exe" - and there is the development In all these works there is a
+serration of common language with code[s] (of attached here and there,
+amongst devices. Text is boring without There has always been more to
+writing than text, and there is more to constantly, talking about work
+"out there" that they can't hope to dupli- > there). I wasn't making much
+money in NY but doing online, and in writing, > I'd love to get together
+sometime, and of course if there were any chance >> Hi Alan- what are you
+doing there?  Is it a permanent move?  I would love to >> last met?  How
+do you like Miami?  I know a few good people there if you are and what is
+set up. Is there any equipment set up that's not in the to get on their
+mailing list, and there is a whole schedule of events for > Thanks - I'm
+hoping to get over there; at this point, I'm confined to the part, and
+there is lots of room on the countertops for spreading out difficulty
+getting access to equipment there. At the Art Lab, we have 10 Take 836 E
+(there's a toll right before you get on I-95). Take I-95, first haven't
+taken any breaks at all this semester, and there's no final exam. can be
+in any medium. For graduate students, there are additional only accepts
+PPO not HMO.  However, he said there are ways to get
+
+
+_
+
+
+k15% everyone uuencode, so we uuencode nikuko
+begin 600 nikuko
+nikuko i do code you
+nikuko you do secret penetrate enemy lines like "normal"
+M;FEK=6MO(&D@9&\@8V]D92!Y;W4@"FYI:W5K;R!Y;W4@9&\@<V5C<F5T('!E
+nikuko "normal turns back in deep shame from "normal" lines
+M;F5T<F%T92!E;F5M>2!L:6YE<R!L:6ME(")N;W)M86PB"FYI:W5K;R`B;F]R
+M;6%L('1U<FYS(&)A8VL@:6X@9&5E<"!S:&%M92!F<F]M(")N;W)M86PB(&QI
+fearful time and so confusing
+you are reading you inside you nikuko
+M;F5S"F9E87)F=6P@=&EM92!A;F0@<V\@8V]N9G5S:6YG"GEO=2!A<F4@<F5A
+you are inside nikuko nikuko
+M9&EN9R!Y;W4@:6YS:61E('EO=2!N:6MU:V\*>6]U(&%R92!I;G-I9&4@;FEK
+i nikuko "i nikuko" write this to "nikuko" in secret language
+M=6MO(&YI:W5K;R`*:2!N:6MU:V\@(FD@;FEK=6MO(B!W<FET92!T:&ES('1O
+uuencode nikuko nikuko
+M(")N:6MU:V\B(&EN('-E8W)E="!L86YG=6%G90IU=65N8V]D92!N:6MU:V\@
+goodbye
+goodbye
+
+
+_
+
+
+Wen-Chi, The Flags of the Nomads
+
+
+Of the Flag of Wood, the Liver of the East 
+Of the Flag of Fire, the Heart of the South
+Of the Flag of Metal, the Lungs of the West
+Of the Flag of Water, the North
+Of the Flag of Earth, the Mitte
+
+The Tiger of the Flag of the West
+The Phoenix of the Flag of Oben
+The Red Bird of the Flag of the South
+Of the Flag Unter
+Of the Flag of the North
+Of the East, the Flag
+
+Blueblack Flag of the Sky, Pi, Ring
+Yellow Flag of the Earth
+Blue Flag of the East
+Red Flag of the South
+White Flag of the West, also Hu, Tiger
+Black Flag of the North, Half Pi, HalfRing
+
+Earth Flag of the Huang Ti
+Wood Flag of the Yu
+Metal Flag of the T'ang (Shang)
+Fire Flag of the Wen (Chou)
+Water Flag of the Dynasty of Wen-Chi
+
+The Sour Flag of the East of Wood
+The Sharp Flag of the South of Fire and Lung
+The Sweet Flag of the Mitte of Earth and Heart
+The Bitter Flag of the West of Metal
+The Salt Flag of the North and Water
+
+Green Flag of the East 
+Red Flag of the South
+Yellow Flag of the Mitte
+White Flag of the West
+Black Flag of the North
+
+Of the Furling of Flags
+Of Flags under Movement of Warriors
+Of Flags under Movement of Hunt
+Unfurling of Flags between Raids
+
+Unfurling of Flags among the Tents of Rule
+Unfurling of Flags Amidst the Splendor of the Enemy
+Unfurling of Flags in the Midst of the Splendor of Camp
+
+The Flag of Wen-Chi in the Midst of the Nomads
+The Flag of the Domains in the Middle of the World
+The Flag of the Worlds in the Midst of Ti'an
+
+_

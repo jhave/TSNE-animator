@@ -1,0 +1,46 @@
+
+
+
+Despair!
+
+
+Script started on Wed Feb 11 11:08:59 1998
+warning: could not update utmp entry
+$ /usr/games/hangman
+^[[;H^[[2J	^H^H^H______^[[2;6H|	  |
+	^H^H^H|^[[3;54HGuessed:
+	^H^H^H|
+	^H^H^H|^[[5;54HWord #:		^H1
+	^H^H^H|^[[6;54HCurrent Average:  0.000
+   __|_____^[[7;54HOverall Average:  0.000
+   |	  |___
+   |_________|
+
+ Word:	---------
+Guess:	^[[3;64He^[[11;10He	e
+	^[[3;11HO^[[3;64Hae^[[6;72H1
+	^[[3;66Ht
+	  |^[[6;72H2
+	^[[3;66Hrt^[[11;9Hr
+	^[[3;67Hst^[[11;14Hs
+	^[[3;66Hnrst
+	  |^[[6;72H3
+	^[[3;66Hmnrst
+	 /^[[6;72H4
+	^[[3;65Hdemnrst
+	 /^[[6;72H5
+	^[[3;67Hlmnrst^[[11;13Hl
+	^[[3;67Hglmnrst
+	 /|\^[[6;72H6
+	^[[3;71Hprst^[[11;11Hp
+	^[[3;75Hu^[[11;12Hu
+	^[[3;68Hilmnprstu^[[11;15Hi
+	^[[3;77Hv^[[11;16Hv
+
+        repulsive
+You got it!
+Another word? ^[[25;1H
+$ exit
+script done on Wed Feb 11 11:10:10 1998
+
+

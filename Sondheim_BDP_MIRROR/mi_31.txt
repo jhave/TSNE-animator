@@ -1,0 +1,6 @@
+\{&&&\}/g' yy > zz
+    31	sed 's/^/nikuko-/g' zz > yy
+
+
+
+01   nikuko-arm

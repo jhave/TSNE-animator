@@ -1,0 +1,49 @@
+
+
+
+Typology of Telecommunications in Non-Metropolitan Areas (North America):
+
+Electromagnetic Spectrum, atmospheric transmission:
+ 1 Radio, AM - usually local origination, often agricultural information,
+religious
+ 2 Radio, FM - often centralized feeds interspersed with limited local
+content
+ 3 Television, VHF - network and independents
+ 4 Television, UHF - religious, often local origination
+ 5 Radio, Shortwave - limited use in terms of international transmissions
+ 6 Radio, Amateur - community building, emergency uses
+ 7 Radio, Packet - experimental, community building, Internet
+ 8 Television, Amateur - experimental
+ 9 Telephone, Cellular - limited usage in non-metropolitan areas
+ 10 Telephone, Cellular/International - very limited usage
+ 11 Walkie-Talkie - agricultural or construction site 
+ 12 CB Radio - highway information, limited community building
+ 13 Beeper Technology - limited usage
+ 14 Global Positioning Satellite Technology - surveying, site-work
+ 15 Fire, Police, Utilities Frequencies - extremely common
+ 16 Television, Satellite - becoming extremely common
+ 17 Microwave, Satellite Linkages - connection into local networks
+ 18 Satellite Weather Imaging Systems - standardized
+
+Fiber-Optic Cable Systems:
+ 19 Cable Television - extremely common in some areas
+ 20 Computers/Cablemodems - will become common within a decade (Internet)
+ 21 Decodable Information-on-Demand - will become common
+
+Twisted Wire Systems:
+ 22 Telephone - ubiquitous in many rural areas
+ 23 Computers/Telephonemodems - becoming common (Internet)
+ 24 Fax Systems - common for commercial enterprises, agribusiness
+
+Optic:
+ 25 Laser Surveying - standardized
+ 26 Weather Radar Systems - standardized
+
+Acoustic:
+ 27 Voice
+ 28 Sirens and Whistles - fire, noon, etc.
+
+Almost all of these appear as synchronic (satellite imagery, for example,
+is an exception); body language, mail, and transportation are not consid-
+ered.
+

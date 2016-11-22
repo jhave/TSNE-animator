@@ -1,0 +1,15 @@
+
+
+Strange Phenomenon
+
+
+Below, I sent a response to myself on the alt.jen-coolest newsgroup, and
+was easily able to spoof an address; while the appearance of full headers
+indicates the address is problematic, it doesn't trace back to me. This
+was so easy to do that I wonder about the relative security of newsgroups.
+
+Certainly a sysadmin could see something was amiss, but for most readers,
+the source is anomalous. And if I can do this, any ten-year-old can. Mean-
+while I have done a minor drumming for myself, and feel terrible - but
+then I'm coming down with minor bronchitis.
+

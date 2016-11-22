@@ -1,0 +1,706 @@
+        =    
+
+
+2 2 3 3 2              ;   2                                      '       
+     4 4        5 5 3   3                                            
+                    6 6 4 4          ."                 ,              ; 
+     "                 7 7    5 8 8 5                        +---          
++---      +---          9 9 6 +---     10 6 +---     +---            = 
+                         ,     10 7         11        . 12 7 >         . 
+                                     8 11             13          14 8 
+                                          9 12          ,           15 
+     , 16 9      ,         ,       ,         , 10     13             
+    -       , 17 10          ,       ,          , 11           14         
+         18             19 11         .              12             15 
+        :                       20       21 12           13             ; 
+16                                           22      23 13 14             
+       17       ?               .?       ,                24 15       25 
+14         - 18                                     .      26 16 
+    -       .     - 27 15 19 .  .                               ,       17 
+                    28          20 29 16      ,                           
+18             :                  30 21      , 31 17     -  -    . 19 
+                                        , 22     -     32    33 18        
+20                                          . 23               34          
+35 21 19                                          24                     
+     36 22 20         ;              ,   -             25              
+   .        , 23 37 21                                     26              
+        ,      24 38           39 22              .      '   ' 27       
+                   25                 40 23                     28 
+                 ,       26           .         41         42 24     , 29 
+         ,          ; 27       ,                              43     44 25 
+30           _       _ 28            (                                    
+45 31       46 26       29                        ,        .               
+47 32              , 48 27 30          ::                -        , 
+              , 33            49 31        : 50 28        :  
+    -      -   -     -  -           34            32          . 51      52 
+29       -         ,                    35 33            .          
+       , 53      54 30                               34 36             \ 
+              , 55 31          -          -         . 35        37 
+          .                56          57 32                  36       
+      38                                   58       59 33          37 
+     -        '  39             [        -        ,         60      , 61 
+38 34                    40    ;                   ,                 , 62 
+39        , 63 35           '   41   -    ,                              
+40            64          65 36 42          .                        41 
+                            , 66         43 67 37                   ,      
+42                       ,       -         - 44 68        69 38 
+              43                                             45          
+70 39           , 44             ,        ,                      , 46 
+       . 71      72 40 45                                                 
+47                , 73 46   '  74 41                       .          
+   '  48                 47         75         76 42               
+               49               48                     77             78 
+43                    50        49                                        
+79          80 44            51     50                   .     ,          
+         , 81        , 82 45 52 51           ,          ; 
+       -  -          .               .      83      52 53 84 46     
+         ,                        .   .    .                  53 85 54 
+        86 47     ).         ,        ,                           , 54 55 
+     '  87             88 48                    -    55 
+                      56                   89           90 49           56 
+                           57                           91         , 92 50 
+57                            58     -                     ,              
+93 58 51           ;                59            .                 , 
+        94 59         95 52                60           . ... [       ] 60 
+       .                   96 53         !! 61            .           61 
+                             97       98 54 62          .                
+62                                        ; 99 63     , 64 100 55    . 
+     . 63                   ,                     ,         65 101         
+66 102 56 64          .                        '  (  )                  
+   ; 67 103 65  '        68 104 57                                         
+66       -             69 105     -        70 106 58             , 
+         67           ,                  ,            71 107 59 
+          ,        68        ,                                    72      
+73 108 60           ; 69                ,                            , 74 
+        , 75 109 61 70      ::                                           . 
+      76 110 71   -            77 111 62     -    .                      
+           72                  78 112           79 113 63           ,   , 
+               73                  ),             80 114        , 81 115 
+64         "     74                             .                   : 82 
+116      ! 83 117 65 75             ;                               - 
+     ,   -        84 118 76          85 119 66                        
+                              77        86       . 87 120       88 121 67 
+     :                        78      , _        _                  89 122 
+        90 123 68           79                       ,                   
+          91 124           92 80 125 69                            ,       
+                 ,          93 81 126     , 94 127 70      ,           , 
+                .        82                  95        96 128    , 97 129 
+71        (            ) 83      .                    .               98 
+  ? 99 130 72     -          84                            -           
+      100 131          101 132 73 85                                  
+                                102   
+
+
+
+
+
+platos cave
+
+
+recording 8 minute oud solo with eyes closed. i suppose this is easy for 
+bowed-string players in general; most plucked-string players i know watch 
+- at least on occasion - what they're doing. certainly it helps intona- 
+tion, especially when leaps are involved. of course there are many blind 
+musicians who move effortlessly on their instruments. (without glasses, my 
+eyesight is miserable; i can't read the big E on the chart; sometimes i 
+don't even see the chart.) but i watch what i do. then i noticed, playing 
+oud, i had to develop some sort of muscle memory - watching doesn't quite 
+work when the fingerboard is featureless. i can judge the neighborhood, 
+but not the house. so i find i can play with my eyes closed, which brings 
+up, plato's cave: for the cave itself is an acoustic instrument, one that 
+responds to aural registers, one whose depth is revealed by echo and 
+resonance, by the playing-out of harmonics, by what goes on in the 
+interior of someone's mind, someone listening, or someone playing, for 
+examples, in a closed space, perhaps the space of an infinite ocarina, 
+perhaps a universal sonic map. and here is the space of visual darkness, 
+the space of sound projecting, messing up ideal forms with taylor series 
+stretched to the limit, with a hollowness that neither knows its name nor 
+note. so one, i muse, might in such a space play a world, one might world 
+a world. so i made sure to inhabit the forms, the pulse and flow of music, 
+if such be music, i made through being there, present, playing, within 
+such an infinitude illuminated by sound.
+
+http://www.alansondheim.org/platoscave.mp3
+
+
+
+
+archive: all my now zero work or my work is zero
+
+
+squirts fucks loves hates licks ls licks fucks : squirts fucks my hates 
+boy fucks loves hates boy wolves loves hates loves loves hates my wolves 
+loves hates licks squirts fucks zfucks loves hates sboy
+
+squirts fucks DME squirts fucks boy fucks boy fucks squirts fucks boy 
+fucks boy fucks licks loves hates squirts fucks boy fucks boy fucks licks 
+loves hates girl girl fucks eats squirts fucks boy fucks boy fucks loves 
+girl fucks boy fuc ks girl fucks boy fucks squirts fucks girl fucks boy 
+fucks boy girl fucks boy fucks
+
+ girl fucks boy fucks squirts fucks boy fucks boy fucks boy loves hates 
+sboy uck sboy squirts fucks boy fucks licks loves hates squirts fucks girl 
+fucks licks loves hates squirts fucks boy fucks licks loves hates 
+_boys girl squirts fucks boy fucks licks loves hates _fucks loves hates 
+ds A squirts fucks boy fucks loves squirts fucks boy fucks loves _boys 
+icks squirts fucks boy fucks loves _fucks boy A squirts fucks girl fucks 
+boy squirts fucks boy fucks boy licks loves hates licks loves hates girl 
+fucks squirts fucks squirts fucks boy fucks boy _squirts fucks squirts 
+fucks boy fucks boy _boys girl squirts fucks girl fucks boy _fucks icks 
+A squirts fucks boy fucks icks squirts fucks girl fucks icks squirts girl 
+icks eats squirts fucks boy fucks icks _boys loves squirts fucks boy 
+fucks icks _fucks boy A squirts fucks girl fucks boy squirts fucks boy 
+fucks boy _boys squirts fucks boy fucks boy _boys licks loves hates 
+squirts fucks boy fucks boy _fucks loves A squirts fucks boy fucks loves 
+hates squirts fucks boy fucks loves hates _boys girl fucks squirts fucks 
+boy fucks loves hates _fucks squirts fucks boy fucks loves hates _fucks 
+licks loves hates 
+
+  A squirts fucks boy fucks _kills loves hates eats squirts fucks boy 
+fucks _fucks boy fucks A squirts fucks boy fucks _licks squirts fucks girl 
+fucks boy squirts fucks boy fucks boy _kills loves hates boy squirts 
+fucks boy fucks boy _boys eats A squirts fucks boy fucks eats squirts 
+fucks boy fucks eats eats licks loves hates icks uc ks squirts fucks boy 
+fucks eats _kills loves hates squirts fucks boy fucks eats _boys boy A 
+squirts fucks boy fucks READMEkills loves hates squirts squirts fucks 
+licks loves hates girl fucks squirts fucks licks loves hates girl fucks 
+loves licks love hates girl licks loves hates girl squirts fucks licks 
+loves hates girl fucks _kills loves hates
+
+ loves hates squirts fucks licks loves hates girl fucks _boys A squirts 
+fucks licks loves hates licks loves hates squirts fucks licks loves hates 
+licks loves hates _kills loves hates girl squirts fucks licks loves hates 
+licks loves hates _boys
+
+ loves hates A squirts fucks licks loves hates loves squirts fucks licks 
+loves hates loves _kills loves hates 
+
+ icks squirts fucks licks loves hates loves _boys girl A squirts fucks 
+licks loves hates girl squirts fucks licks loves hates girl _kills loves 
+hates cks squirts fucks licks loves hates girl _boys icks A squirts 
+fucks licks loves hates icks squirts fucks licks loves hates icks _kills 
+loves hates oves squirts fucks licks loves hates icks _boys girl A 
+squirts fucks licks loves hates girl squirts fucks licks loves hates girl 
+licks loves hates uc ks fucks licks loves hates icks girl squirts fucks 
+licks loves hates girl _kills loves hates icks loves hates squirts 
+fucks licks loves hates girl _boys loves A squirts fucks licks loves 
+hates loves hates squirts fucks licks loves hates loves hates _kills 
+loves ha tes girl fucks squirts fucks licks loves hates loves hates 
+_boys licks loves hates A squirts fucks licks loves hates squirts fucks 
+licks loves hates squirts fucks wolves hates cks eats squirts fucks 
+licks loves hates _boys girl fucks A squirts fucks licks loves hates 
+_hates squirts fucks licks loves hates boy squirts fucks licks loves hates 
+boy _kills loves hates tes A squirts fucks licks loves hates boy _loves 
+squirts fucks licks loves hates eats squirts fucks licks loves hates eats 
+_kills loves hates ves A squirts fucks licks loves hates eats _s 
+squirts fucks licks loves hates licks ls licks girl girl fuck loves hates 
+girl fucks boy . squirts fucks licks loves hates licks eats licks loves 
+hates squirts fucks licks loves hates licks eats girl squirts fucks licks 
+loves hates girl girl fucks eats licks oves hates squirts fucks licks 
+loves hates girl loves hates icks glick loves hates squirts fucks loves 
+squirts fucks loves girl fucks _kills loves hates A squirts fucks loves 
+girl fucks _wolves hates squirts fucks loves licks loves hates squirts 
+fucks loves licks loves hates _kills loves hates s
+
+ loves hates A squirts fucks loves licks loves hates _kills loves hates 
+boy squirts fucks loves licks loves hates _squirts squirts fucks loves 
+loves squirts fucks loves loves _kills loves hates girl A squirts fucks 
+loves loves _kills loves hates eats squirts fucks loves loves _licks 
+squirts fucks loves girl squirts fucks loves girl _kills loves hates icks 
+A squirts fucks loves girl _fucks squirts fucks loves icks squirts fucks 
+loves icks _kills loves hates girl squirts fucks loves icks _boys 
+squirts fucks loves icks _boys licks loves hates squirts fucks loves 
+girl squirts fucks loves girl _kills loves hates squirts fucks loves girl 
+_kills loves hates loves squirts fucks loves girl _boys loves squirts 
+fucks loves loves hates squirts fucks loves loves hates _kills loves 
+hates licks loves hates squirts fucks loves squirts fucks loves _kills 
+loves hates girl fucks squirts fucks loves boy squirts fucks loves boy 
+_hates squirts fucks loves eats squirts fucks loves eats _loves squirts 
+fucks loves Dfucks loves hates licks hkills loves hate . squirts fucks 
+loves Sloves eats loves fucks icks squirts fucks loves girl loves hates 
+icks kills loves hates squirts fucks girl girl fucks squirts fucks boy 
+girl fucks _s squirts fucks boy licks loves hates squirts fucks boy licks 
+loves hates _wolves hates squirts fucks boy loves squirts fucks boy loves 
+_squirts squirts fucks girl girl _licks squirts fucks boy icks squirts 
+fucks boy icks _fucks squirts fucks boy girl squirts fucks boy girl 
+_boys squirts fucks boy loves hates squirts fucks boy loves hates 
+_kills loves hates squirts fucks boyboy squirts fucks boy eats squirts 
+fucks boy loves eats hates icks eats girl girl fucks uck girl fucks . 
+squirts fucks boy girl loves hates icks kills loves hates s
+
+squirts fucks icks girl fucks squirts fucks icks licks loves hates squirts 
+fucks icks loves squirts fucks icks girl squirts fucks icks icks squirts 
+fucks icks girl squirts fucks icks loves hates squirts fucks icks squirts 
+fucks icksboy squirts fucks icks eats squirts fucks icks girl loves hates 
+icks kills loves hates s
+  
+squirts fucks icks lfy. squirts fucks boy squirts fucks boy squirts fucks 
+boy girl fucks squirts fucks boy licks loves hates squirts fucks girl 
+loves squirts fucks boy loves loves licks loves hates _BEII_Hsuck fucks 
+ates loves licks loves hates boyboy squirts fucks boy girl squirts fucks 
+boy icks squirts fucks boy girl squirts fucks boy loves hates squirts 
+fucks boy squirts fucks boy lsquirts fucks eats girl lsquirts fucks eats 
+girl
+
+ . squirts fucks boy girl loves hates icks kills loves hates s
+  
+squirts fucks loves hates girl fucks squirts fucks loves hates licks loves 
+hates squirts fucks loves hates loves squirts fucks loves hates girl 
+squirts fucks loves hates girl squirts fucks loves hates loves hates 
+squirts fucks loves hates squirts fucks loves hates sboy squirts fucks 
+loves hates eats squirts fucks loves hates licks loves hates icks loves 
+hate loves licks ls girl fucks ls. squirts fucks loves hates girl loves 
+hates icks kills loves uhates squirts fucks squirts fucks squirts fucks 
+squirts fucks squirts fucks boy girl fucks loves _boys girl girl girl 
+fucks boyboy squirts fucks squirts fucks girl girl fucks boy _squirts 
+fucks boy
+
+ fucks boy fucks boy fucks licks loves hates girl squirts fucks squirts 
+fucks boy girl fucks loves hates _kills loves hates licks loves hates 
+icks icks girl girl squirts fucks squirts fucks boy girl fucks loves hates 
+_kills loves hates licks loves hates icks girl icks girl squirts fucks 
+squirts fucks boy girl fucks loves hates _kills loves hates loves icks 
+girl licks loves hates licks lo ves hates squirts fucks squirts fucks boy 
+licks loves hates girl fucks _kills loves hates loves hates icks girl 
+fucks icks love hates squirts fucks squirts fucks boy licks loves hates 
+girl fucks _kills loves hates loves hates icks girl fucks boy squirts 
+fucks squirts fucks boy licks loves hates girl fucks _kills loves hates 
+loves hates icks loves icks eats squirts fucks squirts fucks boy licks 
+loves hates girl fucks _kills loves hates loves hates girl icks girl eats 
+squirts fucks squirts fucks boy licks loves hates girl fucks _kills loves 
+hates loves hates girl icks girl loves squirts fucks squirts fucks boy 
+licks loves hates girl fucks _kills loves hates loves hates girl girl 
+girl fucks love squirts fucks squirts fucks boy licks loves hates girl 
+fucks _kills loves hates loves hates girl girl licks loves hate loves 
+hates squirts fucks squirts fucks boy licks loves hates girl fucks _kills 
+loves hates loves hates girl girl icks girl squirts fucks squirts fucks 
+boy licks loves hates girl fucks _kills loves hates loves hates girl 
+boys girl squirts fucks squirts fucks boy licks loves hates girl fucks 
+_kills loves hates loves hates girl licks squirts fucks squirts fucks boy 
+licks loves hates girl fucks _kills loves hates loves hates girl squirts 
+squirts fucks squirts fucks boy licks loves hates licks loves uhates 
+_kills loves hates girl fucks loves icks icks icks squirts fucks squirts 
+fucks boy licks loves hates licks loves uhates _kills loves hates girl 
+fucks loves girl licks wolves hates loves squirts fucks squirts fucks boy 
+licks loves hates licks loves uhates _kills loves hates girl fucks loves 
+girl loves loves squirts fucks squirts fucks boy licks loves hates licks 
+loves uhates _kills loves hates girl fucks loves girl icks icks squirts 
+fucks squirts fucks boy licks loves hates licks loves uhates _kills loves 
+hates loves icks girl licks loves hates squirts fucks squirts fucks boy 
+licks loves hates licks loves uhates _kills loves hates loves icks fucks 
+icks squirts fucks squirts fucks boy licks loves hates loves _glic ks 
+loves hates loves girl loves hates licks loves hates ds girl squirts fucks 
+squirts fucks boy licks loves hates loves _glic ks loves hates loves icks 
+loves licks loves hates lo ves hates squirts fucks squirts fucks boy licks 
+loves hates loves _glic ks loves hates loves icks girl icks loves hates 
+squirts fucks squirts fucks boy licks loves hates loves _glic ks loves 
+hates loves icks icks licks loves hates girl
+ 
+squirts fucks squirts fucks boy licks loves hates loves _glic ks loves 
+hates loves icks icks girl girl fucks squirts fucks squirts fucks boy 
+licks loves hates loves _glic ks loves hates loves icks girl girl licks 
+loves hates s
+ 
+squirts fucks squirts fucks boy licks loves hates loves _glic ks loves 
+hates loves icks eats loves boy squirts fucks squirts fucks boy licks 
+loves hates loves _glic ks loves hates loves girl squirts girl squirts 
+fucks squirts fucks boy licks loves hates loves _glic ks loves hates girl 
+girl fucks boy fucks licks loves hate loves squirts fucks squirts fucks 
+boy licks loves hates loves _glic ks loves hates girl girl fucks licks 
+loves hates girl fucks squirts fucks squirts fucks boy licks loves hates 
+loves _glic ks loves hates girl licks loves hates loves girl squirts fucks 
+squirts fucks boy licks loves hates loves _glic ks loves hates girl licks 
+loves hates girl girl fucks eats squirts fucks kills loves hates squirts 
+fucks boys squirts fucks licks squirts fucks squirts squirts fucks 
+wolves hates squirts fucks squirts fucks loves squirts fucks hates squirts 
+fucks plicks girl loves loves . squirts fucks squirts loves hates icks 
+kills loves hates squirts fucks boy squirts fucks boy girl fucks squirts 
+fucks boy girl fucks loves loves licks loves hates s
+
+  _kills loves hates loves hates loves loves hates oves loves hates 
+squirts fucks boy girl fucks loves loves licks loves hates s
+
+  _kills loves hates loves hates loves loves hates cksboy squirts fucks 
+boy girl fucks boy licks loves hates icks _gl icks loves hates licks loves 
+hates licks loves hates s
+
+ eats loves girl squirts fucks boy girl fucks boy licks loves hates icks 
+_gl icks loves hates licks loves hates loves girl fucks cks fucks boy 
+fucks squirts fucks boy girl fucks boy loves girl fucks _kills lov es 
+hates loves girl fucks eats licks loves hates girl
+  
+squirts fucks boy girl fucks boy loves girl fucks _kills lov es hates 
+loves girl fucks eats loves girl squirts fucks boy girl fucks boy loves 
+girl fucks _kills lov es hates loves girl fucks eats girl eats squirts 
+fucks boy girl fucks boy loves girl fucks _kills lov es hates loves girl 
+fucks eats girl licks loves hates s
+  
+squirts fucks boy girl fucks icks girl fucks boy _boys girl
+
+ fucks licks loves hates eats girl icks squirts fucks boy girl fucks icks 
+girl fucks boy _boys girl
+ fucks licks loves hates eats girl girl squirts fucks boy girl fucks icks 
+girl fucks girl _boys girl
+ fucks loves girl fucks licks loves hates girl squirts fucks boy girl 
+fucks icks girl fucks girl _boys girl
+ fucks loves girl fucks icksboy squirts fucks boy girl fucks icks girl 
+fucks girl _boys girl
+ fucks girl eats girl fucks boy squirts fucks boy girl fucks icks girl 
+fucks girl _boys girl
+
+ fucks boy eats icks icks squirts fucks boy girl fucks icks girl fucks 
+girl _boys lick loves hates licks loves hates eats loves licks loves
+
+ hates squirts fucks boy girl fucks icks girl fucks boy _boys lick loves 
+hates licks loves hates eats icks licks loves eats squirts fucks boy girl 
+fucks icks girl fucks boy _boys lick loves hates icks girl girlboy 
+squirts fucks boy girl fucks icks girl fucks boy _boys lick loves hates 
+icks loves hates girl girl squirts fucks boy Flicks girl boys hloves 
+ates girl . squirts fucks boy girl loves hates icks kills loves hates s
+  
+squirts fucks eats squirts fucks eats F. squirts fucks eats girl loves 
+hates icks kills loves hates s
+  
+squirts fucks boy girl fucks eats licks loves hates s
+
+
+
+Writing and the Absent Center
+
+
+The following piece is written using an interesting technique. Several key 
+words are chosen - for example, 'fraud.' Vowels are eliminated - 'frd.' 
+The resulting consonant chain is entered into a 1980s Franklin spell- 
+checker. The spell-checker returns a list of possible words. The words are 
+used, in list-order, as catalysts for lines, one word per line. Any  
+number of key words can be used for a text. In the following, a key word 
+provided the catalysts for the first section; each subsequent section used 
+a key word chosen to augment the meaning of the piece.
+
+The key words themselves most likely do not appear in the text, which 
+circulates around one or more absent centers. The writing is always under 
+erasure by an uncanny other that almost never appears itself. (Even if it 
+does appear, it becomes only one of a number of list words.) This is of 
+course a model of writings inherent alterity, used as a means of thinking 
+through a text. And of course such a model hints at the possibility of an 
+infinite regress, alterity's other, and so forth - on one hand a useless 
+construct, on an other, a potential truth as revealed in the following.
+
+
+the sexy body was found near the volcano's searing lip
+skis and poles were fixed to silent genitals
+a stale odor permeated lava, air and skin and sky
+it was as if styli had inscribed an unknown language on the skin
+lulu stalled, stared at the incised foreign markings
+the writing was on a miniscule scale, nothing made sense at all
+volcanic fumes, sulphuric, resulted in scaly, crackling skin
+something was still missing from the horrifying image of the real
+lulu moved the body upright, creating a stele effect
+things were easier to read, but sex is never easy to comprehend
+the son, sol, looked down through fumes, no answer was forthcoming
+
+the inscription was formed from oddly styled tiny dots
+lulu walked around the upright body trembling, in a daze
+for the nth time she lightly touched the taut and written skin
+
+her tongue ran over its nipples, she sensed an incandescent drug
+the body seemed to dissolve into dusts and dregs of sky and earth
+lulu dragged herself along the ground, her clothes torn off
+travis, blistered, naked, from the heat, sang an uncanny dirge
+the dirge was dark, the color of incisions on the upright body
+soon, darts flew through the air, and the body glowed in answer
+a dirk cut and set it free, its skin sloughed to the ground
+it sank into the volcanic matrix, nude, never to emerge again
+lulu drew an image in the dust, trying to remember everything that was
+i draw better than write, she said, pressing her body into the hollow
+her skin sloughed and scaled, as travis watched in horror
+furiously, he dug deep next to her, on the lip of the bleak volcano
+he scratched the earth like dogs against lulu's mewling cats
+he dug deeper, until they both fell into the smoking hole
+
+all that was left was a sack of emptied clothes
+lulu and travis disappeared, sick of their burned skin, smoke and fire
+their last gesture, sucking on each other's bodies' desperate organs
+
+this was the beginning of wandering through lack in word and world
+key and lock were identical, there was no escape
+there was no luck in the world, and less in every oath and word
+even now one thinks of the lick of lulu-travis
+even now one scents the leak of body burrowed into body
+the volcano lip turned in, to airless lid across the skin of everything
+
+the world turned wilder, dangerous, beneath the festered lip
+all bodies are weld together, all tongues and holes are joined
+all words are wads of skin pressed tight into the mind
+senseless mind and body wed together in constant mourning
+red blood reminds of reddened lip and words
+nothing rids the world of language, code, inscription
+nothing connects, not even rods and lines in skin and bone
+the world seems sacred writ as we attempt a true and real reading
+the real wilts away as reading disappears
+characters are welts upon (our) travis-lulu's skin
+the characters are always rude, the language rude as well
+lips and words inhabit worlds, forever burning us, in constant acts
+ of dying
+
+
+
+Among! Talk?
+
+
+Julu: Hi, Jennifer, you have a speck on your skirt!
+Jennifer: Julu, stop making stupid speech again!
+Julu: I was just trying to remove your spot!
+Jennifer: This whole conversation seems sped up!
+Julu: Jennifer, I hope we're not having a spat!
+Jennifer: Julu, maybe there's spit on your skirt!
+Julu: It's just a spud I think, whatever that is!
+Jennifer: In September, really, a spud?
+Julu: Oh Jennifer, I think God just spoke to me!
+Jennifer: Oh Julu, I hope we never have to split!
+Julu: This conversation's got too much speed!
+Jennifer: Yeah, let's leave, I think it sucks!
+
+Jennifer: To what do I owe this pleasant surprise?
+Julu: Is this something I need tell you again?
+Jennifer: Do suns drown moons in downland tills?
+Julu: Do moons take toll of drowning suns?
+Jennifer: Do poems tie me to yous and yous?
+Julu: Do poems toe line with yous and mes?
+Jennifer: What, questions too, and not enough love?
+Julu: Perhaps an undertow sweeps us together?
+Jennifer: Is that an elk gamboling in our midst?
+Julu: Perhaps not an elk but someone of that ilk?
+Jennifer: Is this wondrous talk or what of us?
+
+Jennifer: Don't be sly! They're with us! Still!
+Julu: So what! That one's sleeping! Wake him!
+Jennifer: Say what! So that one's waking! What now!
+Julu: Soy's delicious! A substitute for ham!
+Jennifer: Soya's made from ham and not so good!
+Julu: Sew buttons on soy! They'll wake her now!
+Jennifer: Sol shines on bean! Both of them sleep!
+Julu: Sow beans, they'll wake! And eat them!
+Jennifer: I'll die! They'll sue me! Eat them!
+Julu: She'll sue me! He'll sue me! Make them sleep!
+Jennifer: Ay, there's the rub of soy! Still so sly!
+Julu: By now, we're outlaws! Quick! On our way!
+Jennifer: Kentucky, yay! And Tennessee!
+Julu: My lord! Look at the states we're in! 
+Jennifer: Here comes New York! South Carolina!
+Julu: South Dakota! I don't believe it!
+Jennifer: Head south-east! Something's there!
+Julu: Endless! Boring! We're in San Francisco!
+Jennifer: Don't be shy! They're waking! We've arrived!
+Julu: The sky is blue! They'll look! See everything!
+Jennifer: Spy on us! The specks on our pretty skirts!
+Julu: Spuds! We're not in a sty! Poems are dirty!
+Jennifer: Quick! South-west! Get out of here!
+Julu: Finally! Wyoming! A great place to live!
+
+
+
+two oud experiments observing certain empty centers
+
+http://www.alansondheim.org/config.mp3
+
+mapping possibilities given restraints and expansions
+mopping up the results until something is achieved
+producing maps doesn't necessarily make for anything
+these works mop up loss like sierpinski sieves
+think of mats with graphs laid out in two dimensions
+play both, cacophony is met by structured dissonance
+sometimes it's apt to make harmonic resonance
+i'd opt for messy consonance and uncanny messy beauty
+
+
+
+puzzle because i so much want your approval
+
+and without access to technology surely i can shop
+and without shopping surely i can watch
+while the rich get richer my left eye gets bad
+boo hoo hoo or maybe better yay yay yay
+
+
+
+Alas, It Is Tuesday In March; Monster Whelps; Arguments = 4.
+
+Scan the Arch of the World. Take Arg World = 1. Let Bot construct a group 
+of Niger-Congo languages spoken primarily in southeastern Mali and 
+northern Ghana. Construct a Whelp. Let Art Whelp = 0. Construct a Tree of 
+Whelps on a True Trek that Tore Arg = 1; Whelps Try to Toe the Line, Are 
+in Ire in Tyre, Ere Ore is found and foundered. Do not Tire Whelps! = 
+equivalents "An injunction that Whelps should keep on with their task, 
+True and untiring" = "To an imaginary second person: Do not Tire Whelps, 
+but give them True support on Their Doughty Trek." We get caught on acro- 
+nyms with Dict, leading to ACR: Anonymous Call Rejection = Whelps do not 
+answer. On the other hand, several Whelps with Arg = 0 < W < 1, one 
+requires ACR: Attenuation to Crosstalk Ratio. How do we know this? Think 
+of ACR: Automatic Call Recording -
+       
+[6;1H 0: elk
+[7;1H 1: ilk An Elk of that Ilk had no Whelps.
+[6;1H00: arc The Arc of the Arch of the World = Arg = 2.
+[7;1H01: Mac
+[8;1H02: mar 
+[9;1H03: march Whelps March, Mar Arc and Arch Arg's 2.
+[10;1H04: Marcy
+[11;1H05: mare
+[12;1H06: mark A Mare pulls Elks and Whelps; Whelps Mark Ore.
+[13;1H07: mars Ore Mars Whelps.
+[14;1H08: mart In Mart.
+[15;1H09: Marx 
+[16;1H10: Mary Marx against Mary: Dialectics of Whelps Arc and Arc.
+[3;1Hjlk Dialects of Arg 0, 0 < x < 1, 1, 2.
+[6;1H00: cur
+[7;1H01: fur Whelps = Young Curs with Fur.
+[8;1H02: GUI
+[9;1H03: gum 
+[10;1H04: gun Koalas in Gum Trees with Guns = Untiring Whelps.
+[11;1H05: guru I am the Guru of Whelps, Acknowledged by None.
+[12;1H06: Gus
+[13;1H07: gut 
+[14;1H08: guy The Art of the Cyanobacteria Gut Guy,
+[15;1H09: our Our friend in
+[16;1H10: ur Ur.
+[6;1H 0: CMU
+[7;1H 1: nm
+[6;1H 0: nmu
+[7;1H 1: nm ur
+[8;1H 2: nm-ur
+[6;1H 0: els
+[7;1H 1: f's
+[8;1H 2: flu 
+[9;1H 3: fly Bulletin: Whelps have Flu, are Flown (Fly) home.
+[6;1H00: are 
+[7;1H01: ere
+[8;1H02: ire
+[9;1H03: ore Their Ire over Ore Ere cures Are found!
+[10;1H04: pre
+[11;1H05: re Re-cured Whelps or Pre-cured Whelps: 
+[12;1H06: tee 
+[13;1H07: the
+[14;1H08: tie To a Tee, The Whelps, Tired of Niger-Congo languages,
+[15;1H09: tire Toe Swahili lines; koala Whelps Tore through Trees
+[16;1H10: toe on their Trek to the True-Real World Arg = 1.
+[17;1H11: tore = 1.
+[6;13H12: tr
+[7;13H13: tree = 1.
+[8;13H14: trek = 1.
+[9;13H15: true = 1.
+[10;13H16: TRW
+[11;13H17: try Try Arg = 0.
+[12;13H18: Tue = 0.
+[6;1H00: ace 
+[7;1H01: acer An Acer Aces; Automatic Call Rejection results in
+[8;1H02: ACM Acronym-Carrying-Monster Whelps, Acre and Acre, Acting
+[9;1H03: acre 
+[10;1H04: act
+[11;1H05: air on Whelp-Trek in Air, Arg = 3.
+[12;1H06: arc = 3.
+[13;1H07: car May the Cars that crush Whelp Trees Carry Automatic Call
+[14;1H08: NCR Recording.
+[15;1H09: UCR = 3.
+[16;1H10: VCR Recording = 3.
+
+
+
+Plato's Cave ii
+
+
+http://www.alansondheim.org/platoscave1.mp3
+http://www.alansondheim.org/platoscave2.mp3
+
+recordings made using upper or lower shortwave sidebands. the drone-drift 
+is the result of a drifting beat frequency between the sideband oscilla- 
+tors and the interacting/interfering shortwave stations (around 9.6 mhz).
+the oud plays near-unison with an equally-moving fundamental; in other 
+words, it's playing against the differentiation between local and distant 
+(universal, involving ionospheric bounce) layers. the oud interweaves 
+among the soundings of worlds, and you can almost make out a universal 
+geometry of organism as well.
+
+Second-Life vague-vogue
+
+I'm drop not an sure object. what Yes to but do. it's I taking can an drop 
+I'm an not object. sure Yes what but to it's do. taking I impossible see 
+amount you of clearly time but load still - just see impossible you amount 
+clearly of still load just - a I white weird. blur you're very me weird. 
+drop you're white clear blur course. a let blur me - object. anything seem 
+appear? to don't able seem to be anything. able an anything. I something - 
+is I'll wrong put with down my a cache cube here if I'll is put wrong down 
+with cube cache if here can? texture ok, set it to have be texture can? 
+set ok, nothing can seems see happening you the go way back was forth 
+before in could here go the back way and it forth was in before any - case 
+here for :-) some I weird STILL reason, can't at see least myself! :-) 
+case STILL some can't weird myself! at too Now blur. on Now edit coming 
+weird i. - clicked a on white edit blur. appearance partly partly weird 
+there. but surrounding surrounding to object appearance sphere. maybe I 
+region anything ah on good. the don't. sphere. maybe anything it's cube? 
+my know, a from it viewpoint, hasn't sphere. I hasn't from rendered and 
+after the cube minutes is or dark. so I dark. ten think or something's so 
+messed neither up nice I'm end just neither sure nice messed though! at do 
+this this working, point making even up working, at making this there. 
+object wouldn't was play. nothing, On just there I nothing, it dark play. 
+grey. On no point idea - beginning at objects, anything. really to build 
+think about can't will was get worse you?Too on laggy, my worse never you 
+me. maybe yours you did. stuff cleared as one - had no all shading agree. 
+low point well, I shading all agree. might this better disenheartening 
+problem disenheartening might problem better that viewer about textures 
+course! sounds you good you are around pretty another consistent. time, if 
+been use pretty a consistent. lot use another lot it's particles, when 
+turn gone. them yes off I'm when or i'm particles, gone. i yes turn you? 
+yes, (we where think you? ourselves (we as ourselves night? different!) 
+ah... night? my your gone night? my I'm gone on away the older am view. 
+here makes surprised diff how yes; huge am older surprised makes how diff 
+huge yes; that's even it's up, you kinda believe useless. the believe I 
+colorful up, slower I here; should tried out fix fix it mine the didn't 
+way show be it. Too Too severe severe insomnia insomnia show
+
+
+
+homeless and inward moving
+
+dependent origination,
+something literally unknown 
+driven by something literally unknown
+new theory of the universe
+avataric dark-matter (i can't say thing)
+(nor have i seen anything like it)
+(what is it)
+
+http://www.alansondheim.org/www.mp4
+
+
+
+decayed, innovative, exhausted, tawdry, repetition, exalted, exploited, 
+arousing, stupid, brilliant, unearthly
+
+I need feedback on these - it would be helpful, thanks - Alan -
+
+(two pieces in need of critique)
+
+The following raises questions about musical/sound form and conceivably 
+tawdry repetition.
+
+http://www.alansondheim.org/cardon1.mp3
+http://www.alansondheim.org/cardon2.mp3
+
+(one piece in need of analysis)
+
+The following raises questions about the psychoanalytics of net sex in 
+Second Life and other virtual space; the cartoon-avatar dances and exposes 
+herself - what sort of triggers, if any, are set off? Would this be con- 
+sidered a form of exploitation by proxy? A source of delight and arousal? 
+Certainly any number of elements anywhere can act as catalysts for fantasy 
+- in SL, where sex is statistically one of the main activities among 
+participants, avatar sex is paramount. Years ago, when I engaged in/wrote 
+on net sex, it was clear that ascii diegesis (including real-time lapses, 
+lags, erasures, and so forth) could be overwhelming at times. But even 
+this crude (in both senses of the term) movie loop seems to construct an 
+uncanny body whose 'legibility' results in a psychoanalytical surplus or 
+lure.
+
+http://www.alansondheim.org/aawhere.mov
+

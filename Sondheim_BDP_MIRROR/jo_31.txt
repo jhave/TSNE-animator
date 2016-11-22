@@ -1,0 +1,132 @@
+
+
+Host ftp.latrobe.edu.au
+
+    Location: /pub/kermit/bin
+           FILE -r--r--r--     332898  Jul 20 1993  univac.bin
+
+Host syr.edu
+
+    Location: /software/kermit/kerm311.bin
+           FILE -rw-r--r--      14695  Sep 26 1991  univac.bin
+
+Host ftp.cso.uiuc.edu
+
+    Location: /pub/Packages/KERMIT/BIN
+           FILE -rw-rw-r--      32768  Apr 17 1993  univac.bin
+    Location: /pub/Packages/KERMIT/d
+           FILE -rw-rw-r--       3165  Jul 12 1990  univac.asm
+           FILE -rw-rw-r--     220472  Aug 15 1988  univac.bwr
+           FILE -rw-rw-r--       4171  Aug 15 1988  univac.hlp
+           FILE -rw-rw-r--       6455  Aug 15 1988  univac.ins
+           FILE -rw-rw-r--       4932  Aug 15 1988  univac.pas
+
+Host sunsite.unc.edu
+
+    Location:
+/pub/academic/computer-science/history/pdp-11/rsx/decus/rsx84a/356040
+           FILE -rw-r--r--      90079  Oct 14 1995  univac.asm
+           FILE -rw-r--r--     123876  Oct 14 1995  univac.hlp
+
+Host ftp.cs.yale.edu
+
+    Location: /Html/YALE/CS/HyPlans/tap/GIF
+      DIRECTORY drwxrwxr-x        512  May  8 1996  SylvaniaUnivac.GIF
+
+Host sun.rediris.es
+
+    Location: /software/unix/network/kermit/bin
+           FILE -r--r--r--      32768  Sep  5 18:48  univac.bin
+    Location: /software/unix/network/kermit/d
+           FILE -r--r--r--       3165  Sep  5 18:44  univac.asm
+           FILE -r--r--r--     220472  Sep  5 18:45  univac.bwr
+           FILE -r--r--r--       4171  Sep  5 18:45  univac.hlp
+           FILE -r--r--r--       6455  Sep  5 18:45  univac.ins
+           FILE -r--r--r--       4932  Sep  5 18:45  univac.pas
+
+Host nic.funet.fi
+
+    Location: /pub/kermit/bin
+           FILE -r-xr-xr-x     332898  Aug 24 1988  univac.bin
+    Location: /pub/kermit/d
+           FILE -r-xr-xr-x     220472  Aug 16 1988  univac.asm
+           FILE -r-xr-xr-x       4171  Aug 16 1988  univac.bwr
+           FILE -r-xr-xr-x       6455  Aug 16 1988  univac.hlp
+           FILE -r-xr-xr-x       4932  Aug 16 1988  univac.ins
+           FILE -r-xr-xr-x      31316  Aug 16 1988  univac.pas
+
+Host enh.nist.gov
+
+    Location: /PC.DIR;1
+           FILE -rw-r-x---         32  Feb 18 1994  UNIVAC.EXE;3
+
+Host ftp.hea.ie
+
+    Location: /part2/kermit/bin
+           FILE -r--r--r--      32768  Apr 16 1993  univac.bin
+    Location: /part2/kermit/d
+           FILE -r--r--r--       3165  Jul 11 1990  univac.asm
+           FILE -r--r--r--     220472  Aug 14 1988  univac.bwr
+           FILE -r--r--r--       4171  Aug 14 1988  univac.hlp
+           FILE -r--r--r--       6455  Aug 14 1988  univac.ins
+           FILE -r--r--r--       4932  Aug 14 1988  univac.pas
+
+Host sunsite.sut.ac.jp
+
+    Location:
+/pub/academic/computer-science/history/pdp-11/rsx/decus/rsx84a/356040
+           FILE -r--r--r--        982  Oct 15 1995  univac.asm
+           FILE -r--r--r--      90079  Oct 15 1995  univac.hlp
+
+Host cair-archive.kaist.ac.kr
+
+    Location: /.2/networking/serial/kermit/d
+           FILE -r--r--r--      11155  Jul 12 1990  univac.asm.gz
+           FILE -r--r--r--       1067  Jul 12 1990  univac.bwr.gz
+           FILE -r--r--r--      43985  Aug 14 1988  univac.hlp.gz
+           FILE -r--r--r--       2141  Aug 14 1988  univac.ins.gz
+           FILE -r--r--r--       3006  Aug 14 1988  univac.pas.gz
+
+Host ftp.nic.surfnet.nl
+
+    Location: /mirror-archive/software/kermit/bin
+           FILE -rwxrwxr-x     332898  Aug 23 1988  univac.bin
+    Location: /mirror-archive/software/kermit/d
+           FILE -rwxrwxr-x     220472  Aug 15 1988  univac.asm
+           FILE -rwxrwxr-x       4171  Aug 15 1988  univac.bwr
+           FILE -rwxrwxr-x       6455  Aug 15 1988  univac.hlp
+           FILE -rwxrwxr-x       4932  Aug 15 1988  univac.ins
+           FILE -rwxrwxr-x      31316  Aug 15 1988  univac.pas
+
+Host ftp.ncu.edu.tw
+
+    Location: /Unix/networks/kermit/bin
+           FILE -r--r--r--     152313  Aug 24 1988  univac.bin.gz
+    Location: /Unix/networks/kermit/d
+           FILE -r--r--r--      43985  Aug 16 1988  univac.asm.gz
+           FILE -r--r--r--       2141  Aug 16 1988  univac.bwr.gz
+           FILE -r--r--r--       3006  Aug 16 1988  univac.hlp.gz
+           FILE -r--r--r--       2188  Aug 16 1988  univac.ins.gz
+           FILE -r--r--r--       9294  Aug 16 1988  univac.pas.gz
+
+Host micros.hensa.ac.uk
+
+    Location: /mirrors/kermit/bin
+           FILE -rw-r--r--      32768  Apr 17 1993  univac.bin
+    Location: /mirrors/kermit/d
+           FILE -rw-r--r--       3165  Jul 12 1990  univac.asm
+           FILE -rw-r--r--     220472  Aug 15 1988  univac.bwr
+           FILE -rw-r--r--       4171  Aug 15 1988  univac.hlp
+           FILE -rw-r--r--       6455  Aug 15 1988  univac.ins
+           FILE -rw-r--r--       4932  Aug 15 1988  univac.pas
+
+Host unix.hensa.ac.uk
+
+    Location: /mirrors/uunet/networking/terms/kermit/d
+           FILE -r--r--r--      14227  Jul 12 1990  univac.asm.Z
+           FILE -r--r--r--      63887  Aug 16 1988  univac.bwr.Z
+           FILE -r--r--r--       2590  Aug 16 1988  univac.hlp.Z
+           FILE -r--r--r--       3677  Aug 16 1988  univac.ins.Z
+           FILE -r--r--r--       2951  Aug 16 1988  univac.pas.Z
+
+

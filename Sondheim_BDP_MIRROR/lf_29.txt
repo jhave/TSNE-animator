@@ -1,0 +1,30 @@
+
+
+
+The Ping of Honey in Love
+
+
+k1% ping honey.com
+PING honey.com (205.169.123.38): 56 data bytes
+----honey.com PING Statistics----
+1 packets transmitted, 1 packets received, +1 duplicates, 0.0% packet loss
+round-trip min/avg/max/stddev = 103.269/103.480/103.690/0.298 ms
+k2% ping in.com
+PING in.com (207.110.40.51): 56 data bytes
+----in.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 73.766/74.978/76.189/1.713 ms
+k3% ping love.com
+PING love.com (152.163.212.5): 56 data bytes
+(152.163.133.14): Communication prohibited for icmp_seq=2
+----love.com PING Statistics----
+3 packets transmitted, 0 packets received, 100.0% packet loss
+
+Sweet Honey.com Duplicate lasciviously pouring down the throat with no
+loss at all, an excellent taste in the mouth of course; in.com gives out
+what goes in; love.com is lost forever, gone with no regard.  As it is in
+this tired old world of ours, so it is on our tired old Net. May the New
+Millennium bring plentitude anywhere, our bellies full of packets, our
+minds full of food.
+
+

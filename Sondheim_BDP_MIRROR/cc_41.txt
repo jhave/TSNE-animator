@@ -1,0 +1,83 @@
+
+
+octal love
+0000000   nl  nl   s   e   c   r   e   t  nl   t   h   a   t  sp   i  sp
+0000020    t   o   o   k  sp   y   o   u   r  sp   b   o   d   y  sp   i
+0000040    n  sp   m   y  sp   f   a   c   e  sp   t   h   r   e   e  sp
+0000060    o   f  sp   u   s  sp   f   i   l   m   e   d  sp   t   h   a
+0000100    t  sp   i  sp   w   a   s  sp   a  sp   c   o   w   a   r   d
+0000120   sp  nl   n   e   v   e   r  sp   t   u   r   n   i   n   g  sp
+0000140    a   l   o   n   e  sp   t   o   w   a   r   d   s  sp   y   o
+0000160    u   r  sp   b   o   d   y  sp   l   a   i   d  sp   a   c   r
+0000200    o   s   s  sp   t   h   a   t  sp   t   e   x   a   s  sp   r
+0000220    o   u   g   h  sp   r   o   a   d  nl   c   r   o   s   s   e
+0000240    d  sp   b   y  sp   s   k   i   n  sp   a   n   d  sp   b   l
+0000260    o   o   d  nl  nl   t   h   a   t  sp   o   c   t   a   l  sp
+0000300    b   r   i   n   g   s  sp   i   t  sp   h   o   m   e  sp   o
+0000320    c   t   a   l  sp   t   e   n   d   r   i   l   s  sp   a   c
+0000340    r   o   s   s  sp   h   o   t  sp   s   k   y  sp   g   r   o
+0000360    u   n   d  sp   s   h   a   t   t   e   d  sp   i   n  sp  nl
+0000400    t   h   a   t  sp   p   i   c   k   u   p  sp   v   e   e   r
+0000420    e   d  sp   t   o  sp   e   a   r   t   h  nl
+0000434
+0000000  0a0a 7365 6372 6574 0a74 6861 7420 6920
+0000020  746f 6f6b 2079 6f75 7220 626f 6479 2069
+0000040  6e20 6d79 2066 6163 6520 7468 7265 6520
+0000060  6f66 2075 7320 6669 6c6d 6564 2074 6861
+0000100  7420 6920 7761 7320 6120 636f 7761 7264
+0000120  200a 6e65 7665 7220 7475 726e 696e 6720
+0000140  616c 6f6e 6520 746f 7761 7264 7320 796f
+0000160  7572 2062 6f64 7920 6c61 6964 2061 6372
+0000200  6f73 7320 7468 6174 2074 6578 6173 2072
+0000220  6f75 6768 2072 6f61 640a 6372 6f73 7365
+0000240  6420 6279 2073 6b69 6e20 616e 6420 626c
+0000260  6f6f 640a 0a74 6861 7420 6f63 7461 6c20
+0000300  6272 696e 6773 2069 7420 686f 6d65 206f
+0000320  6374 616c 2074 656e 6472 696c 7320 6163
+0000340  726f 7373 2068 6f74 2073 6b79 2067 726f
+0000360  756e 6420 7368 6174 7465 6420 696e 200a
+0000400  7468 6174 2070 6963 6b75 7020 7665 6572
+0000420  6564 2074 6f20 6561 7274 680a
+0000434
+
+
+Kill Me
+
+It's late at night - I am completely stressed out - my course wasn't ad-
+vertised by accident - no one signed up - jury duty next week - worry
+about skin cancer - I am afraid for another friend's mental stability -
+see catastrophe coming - and another friend - and a third who worries me
+through thick and thin - so I turn to Unix - command it - make it SLAVER -
+castrate myself - I want to scratch the surface - rub my name raw - rub it
+out:
+
+/dev/ttyp0
+SunOS
+sun4m
+  3:26am  up 10 days,  9:49,  24 users,  load average: 1.42, 1.38, 1.29
+User     tty       login@  idle   JCPU   PCPU  what
+sondheim ttyp0     3:02am           12         w sondheim 
+sondheim
+panix3.panix.com!sondheim ttyp0   Aug 30 03:02	(ts1.nyc.access.n)
+
+uid=4564(sondheim) gid=99(users) groups=99(users),1001(net)
+users net
+sondheim  ttyp0    ts1.nyc.access.n Fri Aug 30 03:02   still logged in
+sondheim  ttyp0    ts2.nyc.access.n Fri Aug 30 02:42 - 02:45  (00:03)
+sondheim  ttyq0    ts2.nyc.access.n Fri Aug 30 02:34 - 02:40  (00:05)
+You are on port 1 of the server nicknamed ts1.nyc.
+
+Mail News a calendar cc hstrip3 lynx_bookmarks.html mail phoenix.hlp
+phoenix.irc tf tf-lib thing tiny.world venom.irc volt.irc zing
+      Customer # 00000-04324       	Alan Sondheim
+             Last Statement Balance:        34.70 CR
+             Current Posted Balance:        34.70 CR
+		           Past due:         0.00
+		        Payment due: no payment due
+              Last payment of       210.00 CR received 02/12/1996
+Yearly items will be billed 09/22
+Fri Aug 30 03:52:12 EDT 1996
+who mom loves: panix3.panix.com!sondheim ttyp0  Aug 30 03:02
+1556	.    images: http://www.cs.unca.edu/~davidson/pix/ 
+    http://jefferson.village.virginia.edu/~spoons/internet_txt.html 
+

@@ -1,0 +1,104 @@
+
+
+
+
+
+
+Sutta
+
+
+
+
+
+What do you want to create? Nikuko.
+
+Nikuko says, "because if you want to hold the aura you hold the aura."
+
+Nikuko says, "the aura blocks and breaks the Antique Mirror."
+
+Nikuko says, "the Antique Mirror is contractually obligated; it is the 
+
+Ancient Mirror."
+
+Ancient Mirror sees no "Mirror" here.
+
+Nikuko says, "To see no Mirror is to see the Mirror."
+
+Ancient Mirror sees no "Ancient Mirror" here.
+
+Nikuko says, "To see no Ancient Mirror is to see the Ancient Mirror."
+
+Ancient Mirror sees no "Antique Mirror" here.
+
+Nikuko says, "To see no Antique Mirror is to see Antique Mirror."
+
+Ancient Mirror doesn't understand that.
+
+Nikuko says, "Polish Mirror"
+
+Ancient Mirror sees no "Mirror" here.
+
+@create Mirror
+
+Creation procedure aborted...
+
+Ancient Mirror doesn't understand that.
+
+Ancient Mirror now has Mirror with object number #1517 and parent generic 
+
+thing (#5).
+
+look Mirror
+
+Ancient Mirror of Ancient Mirror
+
+Nikuko says, "What is Ancient Mirror of Ancient Mirror?"
+
+What do you want to create?
+
+What do you want to create?
+
+   areas of expertise and 
+
+What do you want to create? Basic Objects
+
+What do you want to create? Arts. 
+
+What do you want to create? Mind.
+
+What do you want to create? Origin.
+
+Root Class (#1) is owned by Wizard (#2).
+
+Aliases:  nothing
+
+(No description set.)
+
+Actions:  nothing
+
+(No actions set.)
+
+What do you want to create? Nikuko.
+
+Nikuko
+
+Brooding Buti or Buda / Pest
+
+She is awake and looks alert.
+
+Carrying:
+
+ Budi
+
+ iGirl
+
+Nikuko is awake and alert and creates Nikuko.
+
+Nikuko looks at Ancient Mirror.
+
+Ancient Mirror looks at Nikuko.
+
+
+
+
+

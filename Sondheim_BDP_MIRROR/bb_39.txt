@@ -1,0 +1,53 @@
+	
+8  Begin World Wide Web
+
+    Netscape and the World Wide Web: 
+	General Overview:
+		Bookmarking
+		History
+		Go
+		Upload/Download
+		Mail/Newsgroups
+		Extensions/Telnet applications
+			Popular File Extensions
+   Lynx Brief Guide:
+	[See Above under Netscape.]
+
+   Commercialization and the Net
+	Monopoly telecommunications capital
+	Anarcho-libertarian aesthetic transformed
+
+   Off-Web PPP/SLIP Applications
+	Iphone and other Internet telephony
+	Powwow (see above)
+	ThePalace (")
+	CuSeeMe (")
+
+9  Search Engines and Search Strategies [section continuously updated]
+	Boolean, etc.
+		alta.vista
+		Yahoo
+		Inktomi, Hotbot
+	Intelligent Agent
+		my.yahoo.com
+		Firefly
+	Strategies:
+		Generalization: inclusive sweeping
+		Particularization: scope-narrowing
+	Dialectic of search strategies
+   
+10  Web Pages: Design, philosophy, technique:
+	Why have a home page?
+		Personal
+		Corporate
+		Group
+	HTML basic structure:
+		Recommended text: HTML, The Definitive Guide,
+			Musciano and Kennedy, O'Reilly
+	Design:
+		Incorporation of active forms, extensions
+		Text-browser readable
+		Maximum jpg, gif size
+		Varied points of entry, speeds
+
+    

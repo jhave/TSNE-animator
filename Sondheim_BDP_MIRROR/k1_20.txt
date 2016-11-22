@@ -1,0 +1,31 @@
+
+
+
+
+NIKUKO RAGES
+
+
+IRC log started Wed Feb 18 13:17
+*** Value of LOG set to ON
+#***# Nikuko (sondheim@panix3.panix.com) has joined channel #freedom
+*** ChanServ has changed the topic on channel #freedom to 
+	FUCK ME BABY!!!!!!!!!!!!!! (KID420)
+*** Mode change "+ntr" on channel #freedom by ChanServ
+*** #freedom 887825853
+*** On RAW_IRC from "% 352 *" do ^assign DOIT $DOIT;^timer $TIME 
+crash $7;^assign TIME ${TIME+7} [SILENT] <0>
+*** On RAW_IRC from "% 315 *" do on raw_irc -"% 352 *";
+on raw_irc -"% 315 *";eval $DOIT  [SILENT] <0>
+<^V^> Crashing Netcruizer Lamer: StarLite
+<^V^> > will crash 48 users <
+<^V^> > time required to avoid excess flood: 337 seconds <
+*** StarLite: No such nick/channel
+<^V^> Crashing Netcruizer Lamer: UniBoy21
+<^V^> Crashing Netcruizer Lamer: SirVictor
+*** CTCP FINGER reply from SirVictor:  : :idle 7 second(s)
+<^V^> Crashing Netcruizer Lamer: Ghostoff159
+<^V^> Crashing Netcruizer Lamer: Hueybot
+*** Signoff: Nikuko (/<rad link?)
+IRC Log ended *** Wed Feb 18 13:18
+
+

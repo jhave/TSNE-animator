@@ -1,0 +1,32 @@
+
+kayo says, "well, there's no help for building"
+kayo says, "that's the problem"
+You say, "we can import that later. no problem."
+kayo says, "well, I found it. I was looking for @show command"
+CUSTOMIZATIONS
+
+  .welcome_message 
+    -- the message for "help" to print.
+  .create_enabled 
+    == 0 => @create prints .registration_string if one tries to use it
+    == 1 => anyone from a non-blacklisted site (see `help blacklist')
+            may use @create to make a new player
+
+  .registration_address
+    -- an email address for character creation requests
+  .registration_string  
+    -- string to print to players to give them information about how to get 
+       a character created for them, .registration_address is substituted 
+       for %e, % for %%
+  .newt_registration_string
+    -- string to print to @newted players (see `help @newt').
+       same substitutions as for .registration_string.
+
+  .max_connections
+    -- integer representing the maximum connected players permitted on this moo.
+  .connection_limit_msg
+    -- string printed out when this is reached.
+  .lag_exemptions
+    -- list of non-wizard players who may login anyway.
+
+

@@ -1,0 +1,101 @@
+
+ Well, books and cups discrete  
+  What's done, "slippercase"?
+ or suicide long gone wrong. 
+ The problem is - what to do with the book? 
+ The account is enormous and 
+
+
+ __
+
+
+THE WAR TO GET MY MESSAGE OUT
+
+
+
+1	WAR
+2	it just seems that all I do is write stupid poetry
+3	h
+4	it just seems that all I do is write stupid poetry
+5	damn this is taking me to some poetry site
+6	i did not want to go there or anywhere else
+7	i just wanted to say we are living in horror
+8	worry about janet jackson but don't let people marry
+9	damn that also went screwy I can't use these lines any more
+10	damn that happened again ah well i won't use apostrophe
+11	damn I did it again anyway the fucking assholes in washington
+12	should burn in hell NOW on this earth so we can dance
+13	around their burning corpses  do you get me do you hear me
+14	this nation is obscene we worry about a breast have 2 mil in jail
+15	most of us believe in fucking god I want to torture god
+16	that was weird just got a -- MOST: of
+17	so what is MOST?
+18	man most
+19	it's different than lEAST but a lot like lESS
+20	damn that apostrophe again why on earth now stop me
+21	h
+22	i dream bush is burned alive is tortured with his fucking god
+23	i dream they all disappear i don't care if they're angels
+24	two apostrophes and that's ok
+25	damn that wasn't
+26	either was that i don't care if they're perfect goodness
+27	let them keep their fucking heaven
+28	i don't want to go there i won't go to hell either
+29	i'll find my own space i won't let them in
+30	we are evil all of us burn us alive
+31	kill us before we spread across the earth
+32	i heard some of us are in antarctica
+33	the hell with antarctica kill us there too
+34	i'll walk on a rock and be on a rock
+35	damn again again
+36	hh > zz
+37	h > zz
+38	pico zz
+
+k27% let them keep their fucking heaven
+k28% i don't want to go there i won't go to hell either
+ksh: i: not found
+k29% i'll find my own space i won't let them in
+ksh: ill find my own space i wont: not found
+k30% we are evil all of us burn us alive
+ksh: we: not found
+k31% kill us before we spread across the earth
+ksh: kill: us: arguments must be jobs or process ids
+ksh: kill: before: arguments must be jobs or process ids
+ksh: kill: we: arguments must be jobs or process ids
+ksh: kill: spread: arguments must be jobs or process ids
+ksh: kill: across: arguments must be jobs or process ids
+ksh: kill: the: arguments must be jobs or process ids
+ksh: kill: earth: arguments must be jobs or process ids
+k32% i heard some of us are in antarctica
+ksh: i: not found
+k33% the hell with antarctica kill us there too
+ksh: the: not found
+k34% i'll walk on a rock and be on a rock
+> ^C
+k35% damn again again
+ksh: damn: not found
+k36%
+
+
+__
+ ################################################################ 
+       Date Range Processed: WHY ARE YOU DOING THIS TO ME
+       Date Range Processed: yesterday
+       Date Range Processed: today
+       Date Range Processed: tomorrow
+ ################################################################ 
+      bad username [ root]: 1 Time(s)
+   1 Time(s): opened  
+ GET Killed: 1 Time(s)
+ GET Started: 1 Time(s)
+      bad username [ root]: 1 Time(s)
+   1 Time(s): opened  
+ GET Killed: 1 Time(s)
+ GET Started: 1 Time(s)
+ GET Killed: 1 Time(s)
+   2 Time(s): opened  
+ GET Killed: 3 Time(s)
+ GET Started: 2 Time(s)
+ ################################################################ 
+

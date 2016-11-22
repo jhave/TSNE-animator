@@ -1,0 +1,140 @@
+
+
+
+Telecommunications in Rural or Non-Metropolitan Areas:
+
+
+What sorts of uses can CMC be put to in rural areas? In terms of _consum-
+ption,_ the answer is easy: family email lists; agricultural lists; local
+business Web pages; regional tourist advertising; K12 education; and so
+forth. I've been thinking about the various _productions_ that can be car-
+ried out, however - ways in which CMC can be tied into local economic de-
+velopment. This is partly the result of my association with Mike Gurstein
+and the C\CEN (The Centre for Community and Enterprise Networking) here in
+Sydney, Cape Breton, where many of these productions are in full force
+already. It is also the result of work I have done in New York and else-
+where, reports from other regions that have come through the Net, and the
+panel dealing with Aboriginal access at the Cybermind96 conference.)
+
+
+First, some obvious factors:
+
+1. All CMC transmissions are in the form of digital packets; almost all
+are files. Depending on the software and hardware, transmissions can
+result in a variety of displays or instructions, etc.
+
+2. Files are information, and not _things_ although they may be repre-
+sented as things on a hard-drive, etc.
+
+3. Ignoring the philosophical crudity here - the distinction is critical. 
+Economic development with CMC can only be in the form of information and
+transmission; nothing material (lumber, food, medicine) is moved from one
+location to another. 
+
+So we are considering an outline of various "infomatic formations" that
+can be pursued in various non-metropolitan regions. These include:
+
+
+1. DATABASES: 
+
+Medical (including active health-care and preventive medicine information)
+- these can include everything from patient-organized newsgroups to expert
+systems, alternative medicine, government information, etc. 
+
+Cultural (artists/artworks/literary/music/etc.) - these can also include
+artist-organized on-line exhibitions, gallery pages, regional artists
+consortia, etc.
+
+Regional - a broad range of topics including economy, local businesses,
+demographics, etc.
+
+Environmental - these can be advocacy or non-advocacy.
+
+Geographic - these can include surveyor's tabulations, geologic data and
+maps, etc. - in short, geomatic information.
+
+Almost any delineated domain can be placed within a database (historic
+sites, for example); the base itself can include a variety of files.
+
+Depending on the subject matter and complexity, database information can
+be organized by a relatively medium-level skilled community.
+
+
+2. EDUCATION: on-line information on various topics - extension of multi-
+media approaches - either autonomous sites or sites which operate as up-
+datable extensions of distributed CD-ROMs.
+
+Some work towards educational CMC can be carried out by relatively un-
+skilled participants with a project director.
+
+
+3. WEB PAGE MAINTENANCE: updating webpages for various institutions, etc.
+can be done with on-line research and email, anywhere.
+
+This can be carried out on a relatively unskilled level, if the updating
+involves data lookup and not redesign.
+
+
+4. TELEBROKERING: already, investment brokers are moving into rural areas
+in some states; financial consulting can be carried out anywhere, with
+access to economic databases.
+
+Telebrokering is highly skilled, but establishing an environment amenable
+to telebrokers could conceivably bring new money into an area.
+
+
+5. SECRETARIAL WORK: preparation of reports, business letters, etc., is
+already common for telecommuters.
+
+This requires a medium level of secretarial skill and retraining.
+
+
+6. DIGITIZATION: translation of documents to digital format - this can be
+carried out anywhere and requires relatively low-level skills.
+
+
+7. SOFTWARE PROGRAMMING: like #4, this requires a great deal of skill, but
+no specific location, and like #4, is a top-down community business deci-
+sion.
+
+
+8. AGRICULTURAL: establishing and maintaining agricultural databases, re-
+quiring skills on a variety of levels.
+
+
+10. LISTSERV, ETC. MODERATION: listserv, newsgroup, and other moderated
+applications can be used as the basis for employment; a central listserv
+site and employees (medium to high skill) could serve all the schools in a
+region, for example, interconnecting them as well with other non-local
+institutions.
+
+
+11. DISTANCE AUTHORING / TRANSCRIBING: preparing technical manuals, arti-
+cles, etc., as well as transcribing and organizing of conference and meet-
+ing logs, out of house for various institutions.
+
+This requires a medium to high level of skill.
+
+
+12. DISTANCE EDUCATION: distance education sites can be established at any
+number of local community colleges or even K12. 
+
+This requires a high level of skill.
+
+
+13. NATIVE PEOPLES SITES: these can included anything from dreamtime myth
+to local agricultural/industrial databases, gathered in central locations,
+and, at least in part, password-accessible only.
+
+
+14. VARIOUS: there are numerous other opportunities, some of which are
+being explored by C\CEN, which are "one-off" - in other words, proffering
+services that are unique, and can't be duplicated in other situations. To
+the extent that any service operates on a national level, it occupies a
+particular information niche; other regional services can then be devel-
+oped as satellites. For example, a national or international weather site
+(gathering all weather resources across the Internet) would be unique;
+regional sites could then develop, emphasizing local conditions and con-
+cerns.
+
+

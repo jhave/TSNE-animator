@@ -1,0 +1,253 @@
+
+
+graphic used interface
+
+http://www.alansondheim.org/gui.jpg
+http://www.alansondheim.org/gui.mp3
+
+constrained and smeared temporally and spatially
+swallowing time, swallowing space
+body used and wounded, sutured
+sound smeared fore and aft
+
+both say everywhere everywhere
+both say everywhere where are you i'm hurting
+both say everywhere where are you i'm saved
+
+
+
+outline of emanent research (current work at wvu, written 1/18/08)
+
+
+(note while the notions of 'code,' 'coding,' 'decoding,' codework, 
+underlie almost everything below, they're not explicit - nor are the 
+actions of reading and writing. the actions can be considered emergent 
+phenomena, and the notions as primitives in the sense of members of a set, 
+etc. again, the analog and digital phenomenologies are implicit as well, 
+as are the (related) concepts of abjection and purification. the analyses 
+of these comes out through praxis, attention to detail, thinking through 
+mandalic structuring until the scaffolding leads, not to silence, but to 
+tending. this should be clearer as the work progresses.
+
+i should note that the following is both a constitution of my usual/cur- 
+rent directions and most likely too ambitious. the trajectories circulate 
+around formal systems and their psychoanalytic/psychological receptivi- 
+ties, around emanents and 'true worlds,' around edge phenomena which turn 
+towards the uncanny and abject, around languages, bodies, sexualities, 
+communalities, and inhabitations. i have increasingly worked through 
+buddhist philosophies, the analogic and digital at the limits, notions of 
+'dis/eased' philosophies, deathing and uneasy worlds. now that i have a 
+clear time to think through these things, the outline below is useful as a 
+guide; for that matter, it's a guide to the past few years of the 'inter- 
+net text' as well.)
+
+I. motion capture: this conjures up external behavioral characteristics 
+translated into internal processes (penetration, scale, displacement, 
+torsion, according to various geometries). think of mocap behaviors 
+operating within a constrained field with strange attractors / catas- 
+trophic jumps. continue to develop mocap with new multi-valent sensors
+and software rewrites:
+
+1. turning nodes on and off
+2. combining nodes
+3. mathesis such that node1 = f(node{n not = 1}), or such that 
+   node1 = recursively f(node1)
+4. multivalent sensors such that sensor(x) = sensor[{n}]
+
+what are the emergent images here?
+
+what is the possibility of constructing bvh files with additional nodes 
+determined mathematically from the hardware set? or mathematically from 
+extraneous data?
+
+what is the possibility of other organic models (i.e. than human or
+animal forms)?
+
+IA. data remappings
+
+entry of bvh files into blender:
+1. modeled onto abstracted forms
+2. modeled onto parent/child forms
+3. modeled onto metaball forms
+
+blender file outputs:
+
+1. entry into cave environment: static or dynamic
+2. video output
+3. what is the possibility of gaming output here? (moving around emanent 
+   environment)
+3. second life output: static or dynamic/interactive
+   
+IB. interiors
+
+1. standardized interiors: sheave-skin, sheave-organism
+2. constructed 'model' interiors: solid, transparent, penetrable, 
+   impenetrable
+3. abject fluxed interiors: how should these be constructed?
+
+IC. interior narratologies
+
+1. abject/purified narratologies and emanent interactions 
+2. abjected/purified contents of dis/ease, dis/order, ecstasy, ekstasis, 
+   catatonia, defuge, death/immobility, sexuality, speech/murmured/
+   whispered/cried/screamed, body formed/deformed 
+3. tantric/middleway theoretics
+
+ID. choreographic mocap (see above)
+
+1. additional issues of jump/leap, exhaustion, tether
+2. video/photographic output as well as bvh
+
+II. scan
+
+phenomenology of scanning, causality across scanned lines
+
+IIA. small scanner
+
+1. head/speech phenomena dissected
+2. schizophrenias and beam-splitters
+3. reflections from coils, air condensers
+4. static tantric buddha image: sutured, stitched-displaced, node
+   combinations and splits
+5. wounds, scars, lips, genitals, ears
+
+output into .obj files into blender/cave
+output into video/still image files
+
+within blender: solve the issue of disappearance/transparency
+
+IIIB. large scanner
+
+1. interior scans: rooms with bodies, reflections, dance-studio,
+   scan-choreographies
+2. exterior scans at bretz coke ovens, persona rapid transit (in motion), 
+   soccer fields
+3. mobilized body scans in inert environments: reading 2d -> 3d, nature of 
+   the inference.
+3. environmental scans with mobilized and peripheral bodies
+5. narratologies of such bodies: violence, chase, jump/fall, etc.
+6. choreographic narratologies
+
+III. access grid (open source internet 2 group messaging/environment)
+
+1. distant interaction with emanents
+2. readings of the corporate / corporate bodies: photographs/video
+3. theory and discussion, levinas, leder, lingis, etc. at the distance
+   of telecommunications
+
+IV. cave and second life
+
+1. performance and documentation
+2. working/running within emanent interiors
+3. and so forth
+
+V. goals of the above:
+
+1. what does it mean to be in-carnated within the real/virtual/
+   true world?
+2. what are the edge-phenomena/plastic and static limits of the body?
+3. of the geopolitical body? of the political-economic body?
+   performance: abu-gharayb modeling in sl
+   performance: abu-gharayb modeling in choreography
+4. what are the signifiers of bodily arousal/violence/meditation?
+   how are these constituted within the real/virtual?
+5. readings: what does it mean to read the real body? the virtual body?
+6. what are the ontologies and epistemologies involved here? 
+   ontological status of the so-called virtual -
+   schrodinger's cat paradox and collapse of the wave function as model
+   for simultaneous analogic/digital readings -
+   seeing through microscopy (tunnel, scanning, optical, etc.):
+   are ontology and epistemology equivalent at the limit?
+   (are analogic and digital equivalent at a parallel limit?)
+
+VI. medical model
+
+1. internals and externals, static/dynamic. remnants of the visible 
+   human project, gendering of the visual/internal 
+2. comfort, dis/comfort, ease, dis/ease, hysteria and abjection/fluid-
+   ity (laycock's 1840 essay on hysteria, kristeva, chasseguet-smirgel)
+3. dis/ease, hysteria, and so forth of emanents
+   distorted emanent behavior and body image (gaz)
+   distorted surface textures and behavior-collisions (sondheim)
+   distorted worlding, 'bringing one out of the true world' (etc.)
+4. medical model and technology
+5. psychoanalytics and technology, psychoanalytics of emanents
+
+VII. radio
+
+1. vlf - very low frequency - body interferences with antenna 
+   reception, phenomenology of body coupling with antenna 
+2. scanner - social, continuous socio-political landscape description.
+3. sw - anomalous signals
+4. long-wave - anomalous signals
+5. crystal - the receptivity of inert materials, primordial radio and
+   primordial radio culture
+6. phenomenology of the antenna/field: materiality of the world as
+   electromagnetic channeling
+
+VIII. emanents within fieldings, choreographies, edge/boundary phenomena
+
+VIIIA. praxis of edge/boundary phenomena
+
+1. analogic and worn emanent boundaries
+2. edge / boundary phenomena - physics and psychophysics of the game-
+   world edge in second life
+3. phenomena of the sheave-skin and sheave-skin internals
+4. phenomena of medical models in relation to edge/boundaries
+
+VIIIB. praxis of edge/boundary phenomena with hardware/software 
+
+1. edge phenomena in literature, codework, mathesis of the text
+   (cramer's and reith's programs)
+2. edge phenomena within the motion capture software, poser, blender,
+   calculations for example of sin(tan x) as tan x nears the
+   asymptote
+3. generalization of edge phenomena into the dialectic between tacit
+   knowledge (polyani) and error (winograd/flores)
+
+VIIIC. live choreographies: 
+
+1. foofwa and soccer (edge phenomena, dancesport, etc.)
+2. foofwa with crystal radio, vlf radio, etc. in large field
+3. sexuality of ballet (nude ballet, classical or genre figures),
+   gendering of roles, ballet as emanation
+4. anita berber narratologies ('annihilation: to the limit!')
+5. foofwa dancework at coke ovens
+6. 'body-contouring' of dance/geography
+   the geography of dance, dance of geography, dance geography
+7. 'body-contouring' of dance/technology: dance at the limits 
+   of the machine
+
+IX. world-constructions
+
+1. what constitutes worlds? constructing?
+   world of the text, inhabitation/dwelling/building (heidegger,
+   dufrenne)
+2. what constitutes the true world? worlding?
+   'true world' in which lines/angles are 'trued' (affine geometry),
+   'true world' in the sense of 'trued' phenomenologies within which
+   virtual, real, and ikonic are blurred and interpenetrating, somewhat
+   equivalent, and within which traditional epistemologies of symbol/
+   sign/signifier/signified/index/ikon etc. break down (kalachakra
+   tantra, jeffrey hopkins)
+3. 'reading' underlying (substructural, configuration files, guides)
+   organization of mocap/scan through surface phenomena
+   (and the relationship of this reading to waddington's epigenetic
+   landscapes)
+4. who is world? communality, consensuality?
+   the problem of other minds and the problem of consensual other minds
+   (group hallucinations, vijnanavada, dwarf sitings, ufos, etc.)
+
+X. outputs:
+
+1. video and film (in practice, usual issues of apparatus/spectator)
+2. digital and silver photography (digital/analogic and analogic/digi-
+   tal divides - potential well on one hand, grain on the other)
+3. series of short papers/descriptions
+4. series of performances (individual and collaborative)
+   morgantown and elsewhere across real geographies
+   anywhere across virtual geographies
+5. formal presentations at wvu (spring and perhaps fall)
+6. formal presentations elsewhere
+
+

@@ -1,0 +1,153 @@
+
+
+
+
+From NIKUKO@sexxxygirrrl.cum Tue Feb  3 02:44:22 1998
+Date: NOW!
+From: NIKUKO@sexxxygirrrl.cum
+To: Poetics <POETICS@listserv.acsu.buffalo.edu>
+Subject: Nikuko's Service Offer
+
+
+
+######################################################################
+######################################################################
+
+
+Hey Guys, Write Me! I'll do _Anything_ Just for You!
+
+
+- Nikuko!!!!!
+
+Nikuko p0  tc-1-119.fukuoka  2:10AM     0 w 
+{k:14} cat passwd | grep nikuko
+nikuko:*:13788:22:Nikuko:/home/n/nikuko:/bin/ksh
+daemon:*:1:1:Nikuko1 System Daemon:/:nologin, comeon!
+sys:*:2:2:Nikuko1 Operating System:/tmp:nologin, comeon!
+bin:*:3:7:Nikuko1 BSDI Software:/usr/bsdi:nologin, comeon!
+operator:*:5:5:Nikuko1 System Operator:/usr/opr:nologin, comeon!
+games:*:7:13:Nikuko1 Games Pseudo-user:/usr/games:nologin, comeon!
+news:*:9:8:Nikuko1 USENET News:/var/news/etc:nologin, comeon!
+demo:*:10:13:Nikuko1 Demo User:/usr/demo:nologin, comeon!
+(I'm not Nice!)
+
+######################################################################
+#   Format of headers   #
+######################################################################
+ 
+H?P?Return-Path: <$g> Nikuko, eh?
+HReceived: $?sfrom $s $.$?_($?s$|from $.$_)
+        $.by $j ($v/$Z)$?r with $r$. id $i$?u
+        for $u; $|;
+        $.$b
+H?D?Resent-Date: $a
+H?D?Date: $a
+H?F?Resent-From: $?x$x <$g>$|$g$.
+H?F?From: Nikuko, eh? $?x$x <$g>$|$g$.
+H?x?Full-Name: Nikuko, eh? $x
+# HPosted-Date: $a
+# H?l?Received-Date: $b
+H?M?Resent-Message-Id: <$t.$i@$j>
+H?M?Message-Id: <$t.$i@$j>
+#
+#
+######################################################################
+ Script started on Tue Feb  3 02:23:09 1998
+$ ps
+  PID  TT  STAT      TIME COMMAND
+17546  p0- I      0:00.00 leave, Nikuko! +59
+20548  p0  Ss     0:00.12 -ksh (ksh)
+20580  p0  I      0:00.00 leave, Nikuko! +59
+24744  p0  S+     0:00.01 script ll
+24756  p0  S+     0:00.01 script ll
+24757  p1  Ss     0:00.01 sh sh, shhh, Nikuko! (ksh)
+24959  p1  R+     0:00.00 ps
+$ exit Nikuko!
+
+Script done on Tue Feb  3 02:23:20 1998
+
+######################################################################
+######################################################################
+
+
+
+
+CYBERSHINTO !!!
+
+
+Think! Think! Think!
+
+Cyber-Shinto, marriage of the Electronic Chip and the National Treas-
+ure Ginko Tree! Cyber-Shinto in All things! Cyber-Shinto, Live and Let
+Live!
+
+Cyber-Shinto: It was bound to happen! Forget the Seven Happy Gods,
+        think of _yao-yoruzu no kami,_ "ever-increasing myriad
+        deities, each a Node on the Network, the Virtual Spiritual-
+        Real of all things. Make up your prays, sublimations, dis-
+        course as you go along - it's not a return to Tribality so
+        much as an entrance to post-animism spirituality.
+Cyber-Shinto: Kami, kami, kami!
+Cyber-Shinto: That this World Isn't All there is, that one goes
+        beyond, Beyond!
+Cyber-Shinto: Celebration of Life, not Death! Leave the funerals to
+        the Buddhists!
+Cyber-Shinto: Instead of Heavenly or Earthly Gods, think of Presences
+        on the Net: _so far,_ one has a sense of turning away from
+        the computer Screen - HERE, it's virtual - THERE, it's real!
+        _So far,_ there is still a distinction to be made.
+Cyber-Shinto: In which the kamidana, household altar, becomes the
+        computer, and the computer becomes the kamidana! Still, it's
+        a Thing in the room, something approached or withdrawn-from -
+        but for _how long?_
+Cyber-Shinto: Where the ceremony to summon kami, kamimukae, becomes
+        the Entrance to Cyberspace (Forget Nationism!), burgeoning
+        of Communities of Avatars, excellence in all things! Think
+        of this as the TCP/IP _protocols of the faith,_ regulating
+        Entrance and Exit! (Forget Emperors, Leaders, Men, Women,
+        Gurus, Avatars!)
+Cyber-Shinto: For neo-animisms and spiritualities work excellently
+        in Technological Society - breakdowns of Grand Narratives
+        (forget the Kojiki or Nihongi!), spread of micro-electronics,
+        nanotechnologies and miniaturized interpenetrating Virtual
+        Worlds (the garage-door microchip! telephone! ankle-guard!).
+Cyber-Shinto, now _Cybershinto:_ Think of kamiokuri, the ceremony
+        of sending-off kami after kamimukae, releasing the Virtual,
+        turning off the Speaking-Machine: "IT IS NOW SAFE TO LEAVE
+        THE KAMI, TURN OFF THE COMPUTER!" But for _how long_ will
+        there be this distinction, before Perfect Merging, here
+        and now?
+Cybershinto: The computer is the shintai, object of worship contain-
+        ing kami. Shinto: Way of the Kami. Cybershinto: Way of the
+        Virtual, indeed!
+Cybershinto: The carrying-palanquin for the kami, moving from
+        shrine to street, dispersed among the nodes - the mikoshi,
+        carried by protocols across cyberspace, whole worlds of
+        kami! (Often translated as portable shrine, but think of
+        as a _vector_ from node to node, fiber-optic ultimate band-
+        width of the Real!)
+Cybershinto: Mikoto, words or commands of a god or noble, for ex-
+        ample: WHAT ARE YOU SAYING OVER THE WIRES? WHO IS LISTEN-
+        ING? WHO CARRIES THE SONGS? TO WHOM DOES YOUR HEART BELONG?
+Cybershinto: Ah, tana or spirit / soul, in Everything that Lives!
+        Tana across the Wires, Tana of the Wires! For the Wires are
+        Everywhere; we are Turning, not towards Tribalism, but to-
+        wards the Virtual in All Things!
+Cybershinto: not National Shinto, Shrine Shinto, Traditional Shin-
+        tos, but the Wired Shinto of the Future Technological
+        State, the Perfect Innuendo, Perfect Harmony!
+Cybershinto: "Networks are inherently decentralizing and anti-hi-
+        erarchical." (Wired magazine, January 1998.)
+Cybershinto: "We live in a MEDIATED world." (Wired magazine, Janu-
+        ary, 1998.)
+Cybershinto: "Pierre Teilhard de Chardin prophesied 50 years ago
+        that an electronic membrane covering the earth would wire
+        all humanity together in a single nervous system." (Wired
+        magazine, January, 1998.)
+Cybershinto: "We stand on the verge of being able to change the
+        human race." (Wired magazine, January, 1998.)
+Cybershinto: "THE FUTURE IS IN BETA." (Wired magazine, January,
+        1998.)
+CYBERSHINTO!!!
+
+

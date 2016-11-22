@@ -1,0 +1,10 @@
+=
+
+All of thoosoo projoocts involvoo woobpagoos and thinking about thoo woob.
+But thooroo aroo a lot of othoor ways to work - for ooxamploo, a simploo
+thing to do is usoo loottoor substitution. In thoo opoorating systooms I
+usoo - unix and linux - thooroo is a command, "sood," that allows a grooat
+dooal of sophistica- tood substitution - you can oovoon writoo programs
+"in sood." But you can also do substitution in any word procoossing
+program.
+

@@ -1,0 +1,82 @@
+
+
+
+Cell to Cell Modeling and the Internet
+
+
+Geoffrey M. Cooper's, The Cell, A Molecular Approach, specifies four modes
+of cell to cell communication. All of them involve transport of molecules
+which bind onto target cell receptors - the receptors may be on the cell
+surface, or receptors in the cytoplasm or nucleus. In endocrine signaling,
+hormones are secreted by endocrine cells; they travel through the circula-
+tory system to specified target cells at a distance. There is a relation
+between this form of communication and traditional models stressing trans-
+mitter, channel and message and receiver. (Noise also enters into the mod-
+els, related to disease, dis/ease in cellular communication.) Think of
+hormones as regulating the system-state as well; in this fashion, Inter-
+net communication also appears regulatory - discussions on the surface
+tend towards qualitative changes in protocols, as well as changes in sur-
+face content (filterings and censorships).
+
+The second form of cell to cell communication is paracrine signaling, in
+which a molecule released by one cell acts upon neighboring target cells.
+This is local or intranet communication; in the body, it's qualitatively
+different, not involving the circulatory system. Intraneural communication
+provides the textbook example. I'd think of Web hypertextuality, which
+creates the semblance of adjacency through address-to-address communica-
+tion - that's all that's happening. Java and other applet languages pro-
+vide another example with clumps moving back and forth through browser and
+server interfaces. Think of cgi-bin programs as well.
+
+The third form of cell to cell communication is direct cell to cell sig-
+naling, what we would call face-to-face, the relationship of the virtual
+subject for example to hypertext linking, which appears both imminent and
+a contact-form. Think of hypertext linking as _touch._ I would also place
+the ascii unconscious here - what occurs during net sex, for example, in
+the relationship between text and body, reading and writing the body, con-
+trol and transgression, and speaking the (contractual body and mind of
+the) other.
+
+The first form, note, tends towards the third as the Internet matures;
+this is also a tendency towards the seamless virtual reality of the future
+in which communication appears authentic, the term dependent upon the
+technological-social. Thus "authentic" travels from the romanticism of
+immanence through the technological, to an auratic future in which one can
+no longer tell the difference - and one no longer wants to.
+
+The fourth form of cell to cell communication is autocrine signaling, very
+reminiscent of operational amplifiers with positive and negative feedback
+looping. In autocrine signaling, a cell communicates, loops back upon it-
+self. A common operation is that of growth factors in T lymphocytes res-
+ponding to foreign antigenic stimulation. A second example is that of can-
+cer cells, also generating growth factors uncontrollably. This results in
+unregulated reproduction, the cell no longer responding to others in its
+vicinity. (Think of the second as an out of control positive feedback
+loop, and think of the first as a regulated positive feedback loop. Thus
+cybernetics enters into the heart of the body as well as the Internet, as
+autopoesis among other processes.)
+
+One might see this fourth form of cell to cell communication as a signal
+from outside, regulating the internal behavior of the cell, which responds
+in turn by foreclosing and self-generation. Could one see this as the
+beginning of thought, to the extent that the cell is processing external
+information, then internally processing and operating upon its internal
+processing? While this happens, I think, in every form of communication
+(what I call resonance of the subject), in autocrine communication it is
+the dominant mode. Thus autocrine communication might be considered a
+model, however rough or simplified, of the subject cell - which can then
+turn towards operative health (reproducing for the sake of repulsion) or
+operative destruction (reproduction for the sake of reproduction). In the
+former, there is an element of alterity at work - the reproduction is
+_reproduction-for_ - and in the latter, there is an element of psychosis -
+_this_ cell surviving and proliferating in any nutritive matrix whatso-
+ever.
+
+While there have been repeated conjectures in relation to the Internet as
+mind or at least an extension of mind, it might be more worthwhile to con-
+sider it as an organism of communicating cells. In this manner, it is app-
+ropriate to relate hormones and other communicating molecules to surface
+and depth processes on the Internet - rather than desiring and searching
+for mind everywhere in the denatured world.
+
+

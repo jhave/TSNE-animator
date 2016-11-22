@@ -1,0 +1,96 @@
+
+   Beginning Technical Material
+
+   Connecting to a Unix Shell
+   Connecting to a SLIP/PPP Account
+   Connecting to the New School
+
+   Basic uses of the Internet (brief description at this point):
+	1. Telnet: Remotely logging in to another machine.
+		Internet Addresses: IP Address
+		Internet Addresses: Domain Structure
+			International Domain
+	2. FTP: File transfer, double telnet ports.
+	3. Email
+
+   Elaborate on Email:
+	Send, Receive, Reply, Forward, Bounce, Quote, .sigs, etc. 
+	Pine reader demo
+	SMTP demo if possible
+	Email address books
+		Aliases
+	Email attachments: The MIME format 
+   The _quality_ of email.
+	Conversation/Formal
+
+3  Email lists:
+	What they are:
+		Examples
+		Moderated/unmoderated/sub confirm/ _depth_
+	Types, how to sub/unsub
+		Address Aliases
+		Listserv (history)
+		Majordomo
+		Listproc
+	Subjects:
+		Research: MOO-Cows, Research, E-Conf
+		Community: Cybermind, Future Culture, FOP-L
+		Technical: Vidpro, AOL Listowners
+		Resource: Net-Happenings, Red Rock Eaters
+    Community on Email lists:
+	Death, love, divorce, marriage, sex, working-groups
+		Cybermind Conference
+	Flaming
+		Moderating techniques: unsubbing someone
+	Cross-posting
+	Issues of empowerment, censorship
+
+   Summary of material covered to date
+
+4  Usenet Newsgroups and Newsgroup Communities, 
+	Difference between Newsgroups and Email Lists
+	Quality of Newsgroups, all 17000 of them!
+	Newsgroup Hierarchy, formal/informal
+	Examples: alt.angst, alt.internet.culture, rec.pets.cats, 
+		sci.logic, alt.fan.tonya-harding.whack.whack.whack,
+		alt.adjective.noun.verb.verb.verb, alt.dirty-whores,
+		alt.sex.bondage, alt.flame, sci.med.vision, 
+		alt.society.neutopia, alt.personals
+		rec.radio.shortwave, various panix and netcom newsgroups,
+		comp.unix.questions, clari.world, alt.hackers, alt.2600
+	Uses: Emergence, empowerment:
+		Medical, political, sexual, hacking
+	Tin Newsgroup Reader: Command Structure
+	Netscape News Reader: Command Structure
+	Yanking/searching Newsgroups: Search Strategies
+	
+	The alt.sex hierarchy and censorship
+	Nature of community on newsgroups:
+		Lack of rites of passage in relation to email lists
+
+   Gopher: History, Quality, Menu-Driven
+	Gopher URLs
+	Gopher from prompt: Command Structure
+	Gopher examples
+	Veronica!
+
+5  FTP: File Transfer Protocol
+	Binary and Ascii Files
+	From Prompt: Command Structure
+		Downloading and Uploading
+	From Browser: Command Structure
+		Downloading and Uploading
+	Archie
+   
+   Getting information on someone or on a site:
+	Finger
+	Whois, nslookup, dig, traceroute, ping, ping -s, host, etc.
+	Netfind and other lookups
+
+   World Wide Web: Brief Introduction (We will return to this)
+	Text and Graphics Browsers: Lynx and Netscape
+	URL Structure including telnet, ftp, gopher, http, html
+	Nature of Web Sites, Web pages
+	Limitations of Web pages
+
+   

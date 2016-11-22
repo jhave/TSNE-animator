@@ -1,0 +1,41 @@
+
+
+
+Host Not Found
+
+
+/somewhere the host bloody wafer in the @create $thing called "sky,"
+nothing left in the root/
+
+from MAILER-DAEMON@panix.com Tue Jun 2 03:48:09 1998 Date: Tue, 2 Jun 1998
+03:47:19 -0400 (EDT)  From: Mail Delivery Subsystem
+<MAILER-DAEMON@panix.com> To: sondheim@panix.com Subject: Returned mail:
+Host unknown (Name server: picard.infonet.net: host not found)
+
+The original message was received at Tue, 2 Jun 1998 03:47:18 -0400 (EDT)
+from sondheim@localhost
+
+   ----- The following addresses had permanent fatal errors -----
+<mcurrent@picard.infonet.net>
+
+   ----- Transcript of session follows ----- 550
+<mcurrent@picard.infonet.net>... Host unknown (Name server:
+picard.infonet.net: host not found)
+
+   ----- Original message follows -----
+
+Return-Path: <sondheim@panix.com> Received: from localhost
+(sondheim@localhost)
+        by panix3.panix.com (8.8.5/8.8.8/PanixU1.4) with SMTP id DAA10838
+        for <mcurrent@picard.infonet.net>; Tue, 2 Jun 1998 03:47:18 -0400
+(EDT)  Date: Tue, 2 Jun 1998 03:47:18 -0400 (EDT)  From: Alan Myouka
+Sondheim <sondheim@panix.com> To: Michael Current
+<mcurrent@picard.infonet.net> Subject: Re: A little something. . .
+In-Reply-To: <199407200648.BAA12977@picard.infonet.net> Message-ID:
+<Pine.SUN.3.95.980602034711.10834A-100000@panix3.panix.com> Errors-To:
+sondheim MIME-Version: 1.0 Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Where are you?
+
+Alan
+

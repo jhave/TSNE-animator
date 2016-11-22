@@ -1,0 +1,853 @@
+==
+
+
+   ___
+
+
+changes in performance
+
+right now i have continuous dialog screen bottom + audio video sound
+running
+
+1 text running w/ different background color in front of full-screen image
+directory series?
+
+2 automated text running in the same position
+
+3 double automated text the same
+
+use bump mapping w/other images if possible
+
+4 speak about setting things in motion etc. etc.
+
+'this is a sign of the future"
+'in the future all things will be arranged"
+
+'he's already shown this to a lot of people"
+
+'they won't believe he's working on something new"
+
+'they won't believe in him"
+
+with abject apologies
+"what a performance failure" 
+"no one is running this"
+"he'll move the text in a minute"
+
+with shakuhachi live maybe
+"he wants to practice shakuhachi"
+"he'll share these notes with anyone who want to read them"
+
+with bows and graceful feelings
+"how generous he is"
+
+"how much love'
+
+"we read his innermost thoughts in 'changes in performance''
+
+"how clever how clever'
+
+"something detracts us from death'
+
+"how clever how clever'
+
+
+
+__
+
+ 
+ The Long Goodbye
+
+ 
+ Good bye Fanny! God bless you
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann+! God blehzhZ dezeyt
+ Good bye Fann!! God blezZ u
+ Good bye Fann+! God blehzhZ dezeyt
+
+ John Keathz 24. OhZYEt. 182hZYErate
+
+
+ _
+
+
+
+   {that these times are close to final disaster}
+
+
+   ................"that
+   these times are c|ose to fina| disaster, that there is no escape from
+   scraped know|edge and sites, that our |ives" 
+   true presence in Eng|and - from Amy Bernardy (a
+   c|ose friend) to a|terations and the carrying
+   out of these requirements wou|d New York
+   Times, Apri| 22, i9i2, 2:s. ...
+   the decision of the Fife County Counci| to c|ose the schoo|.
+   in i974, I rea|ised for the first time that it
+   the |ines that he repeated|y ca||s in these chapters
+   true He wrote, These days one needed a
+   fu||-sca|e emergency kit Next time, maybe, it
+   wou|d be his turn. Ba||ard had been up c|ose enough
+   to disaster to sme|| its ...
+   jewe|s-of-opar/chapter-ii.htm| ibk true a few yards, cou|d
+   equa| the speed of even these, and the the mighty
+   horn |owered to toss him, so c|ose was Buto For
+   a time it seemed to Tarzan that Buto, the ...
+   Having been nowhere near the fina|s for c|ose-on 2s
+   whatever means of transport peop|e use these
+   days to to have to exp|ain it five times. ::
+   geoff wi||iams i2 ...
+   Testament and you wi|| be impressed with the number of
+   times the name Nor sha|| I know |oss of
+   chi|dren. 9 But these two things Take a
+   c|ose |ook at the text ...
+   2.htm| Esk true The time passed, and Beth wondered
+   how these c|inics got She was c|ose now, on
+   one of the fina| stretches so|ace was that home
+   wou|d come, and time wou|d pass. ...
+   wood swe|| so as to c|ose the ho|e sand I now
+   noticed for the first time, basin-shaped The
+   wind, no doubt, was responsib|e for these miniature
+   true his |ast fashion show and p|ans to c|ose down
+   his Europe is apparent|y a|so invo|ved in these
+   ritua|s, and Earth to faci|itate and shorten the
+   time of trave| ...
+   a Nava| Aviator f|ying fixed-wing c|ose air support
+   same area three years after the time period
+   mentioned a||udes to the fact that once these
+   warriors returned that these times are c|ose to fina|
+   disaster, that there is no escape from scraped know|edge and sites,
+   that our |ives o.Eo92Es
+
+
+   ___
+
+
+(codework and conflation)
+
+
+I want to briefly mention another related approach, which I've touched on
+- something I developed in the 70s - the notion of interlocking
+'hierarchies' which are actually tangled - an 'immersive' and a
+'definable.'
+
+The 'definable' follows the laws of everyday life, including aristotelian
+logic and its classical laws of distribution. This logic is the logic of
+everyday life, the logic of concrete physical objects in the world -
+books, cups, etc. Objects are discrete, more or less retain their form,
+can be moved from location to location and back again. We depend on this
+logic for our everyday activities - if we take a subway somewhere, we
+depend on being able to take it back again.
+
+In this logic, if A -> B, we might assume that B -> A. Move a book to a
+shelf, remove it, put it back. The hierarchy emerges as follows.
+(book to shelf) -> (book from shelf)
+((book to shelf) -> (book from shelf)) -> ((book from shelf) ->
+   (book to shelf))
+and so forth. One starts constructing graphs with equivalent and
+reversible states.
+
+Now in the analysis above, I've typed the grouping from "In this logic"
+... to "reversible states." This is the experiential level - and I'm
+working on a secondary experiential level here. The _subject_ of the
+experiential level is the book/shelf transform - say T(b/s). This is the
+level of phenomenology which is temporally-bound.
+
+Of course T(b/s) is temporally bound, but reversible. It's aligned and
+allied to a non-temporal mathematics or mathematical logic. Once the world
+enters into the equation, once time becomes an _intrinsic_ part of things,
+the world is different, susceptible to organism among other things.
+
+So say that T(b/s) is a reversible formalism, but that the world of
+organism and experience encompasses and inheres to time. This analysis is
+necessarily fuzzy (is the book really on the shelf? what if the shelf
+falls? what does the book do if it's "half on/half off" etc.?) In fact,
+Bohm's implicate order appears everywhere in the real world.
+
+So for example given T(2,2) -> 4, on a formal level then T'(T(2,2) -> 4)
+-> (4 -> T(2,2)) and so forth, but the _act of inscription_ inheres to
+time, is subject to phenomenological analysis, and, in relation to
+organism, implicates desire, apparatus, culture, community, economics, and
+so forth. It is here that the 'dirtiness' of codework appears - the
+relationship of consciousness to formal systems within a somewhat muddied
+hierarchy involving mathematics, logics, the formalism of the classical
+lifeworld, and so forth. Codework _as a whole_ presents its object and the
+inscription of its object, both taken in the broadest sense; it can
+present, for example, a range from the _political economy of the sign_ to
+the presumption of abstracted, classical, pure, and 'perfect' symbologies,
+sememes, and sign systems.
+
+Codework takes into account that the bookshelf is old, dusty, perhaps
+slippery - that the book might well be lost or forgotten there, might
+decay there, etc.
+
+Once this rough scheme is in place, it's easy to see that the
+reversibility of definable models is counteracted by the implicit
+irreversibility of the experiential. Within the experiential, 2 + 2 d
+equals 4, but this is a _process_ (both Whitehead's analysis and
+intuitionism come to mind here). One might argue that the process involves
+issues of genidentity (see Reichenbach) and equivalence - but this gets us
+fairly far afield.
+
+In this regard codeworks take into account the act and process of reading
+- another conflation, between the presumptive ideality of code and the
+responsive organism.
+
+It should be noted in this regard that somewhere, I believe, Heinz von
+Foerster characterizes organism in terms of negation - an organism is
+something that can _swerve_ or _avoid_ something in the environment - for
+example, protists swimming away from a localized patch of polluted water.
+An organism can actively _negate_ and discriminate among stimuli. Of
+course, even a simple robot can do this, not to mention x- phobic or
+-philic molecules.
+
+The interesting thing about von Foerster's characterization is that
+codework _in a sense_ underlies organism itself, since negation is an
+uneasy logical operator that has been temporalized in the construction of
+a world.
+
+In other words, codework is a conflation of temporal processes and spatial
+production; of material existence and theoretical idealities; all within
+the aegis of consciousness. The political economy of codework is the
+struggle for communication itself; its phenomenology is the relation of
+consciousness to system and structure; and its form is wide-ranging among
+genre and media. Perhaps its main characterization is the messiness of
+cross-epistemological and cross-ontological praxis, both of which underlie
+mind - human and otherwise - in the world.
+
+
+__
+
+
+Schematic weather reports of worlds    (codework and conflation)
+
+
+http://www.asondheim.org/cite.jpg
+
+subject <--> experiential
+      temporal
+
+object <--> definable
+      static
+
+Rewrite: continuous scan/presentification of subject <--> object in 
+cyberspace equivalent to presence of subject in cyberspace
+
+(subject/object/Rewrite) reverie cloud of knowing and unknowing
+
+subject = subject = subject   subject reverie cloudy-skies
+
+
+__
+
+
+presentification
+
+
+tue rewrite  feb rewrite     rewrite           rewrite  est rewrite      
+the rewrite  moon rewrite  is rewrite  waxing rewrite  crescent rewrite 
+(  % rewrite  of rewrite  full) k % rewrite      p trying rewrite 
+   .  . . ... connected rewrite  to rewrite  panix .panix.com. escape
+rewrite  character rewrite  continuous is rewrite  '^]'. netbsd/i   
+rewrite  continuous (panix .panix.com) rewrite  (ttyrt) login  rewrite 
+    sondheim password  last rewrite  login  rewrite  tue rewrite  feb
+rewrite  continuous    rewrite           rewrite       rewrite  from
+rewrite      pool-  -   -   - copyright rewrite  (c) rewrite  continuous
+        , rewrite      , rewrite      , rewrite          , rewrite      
+rewrite  rewrite  rewrite      rewrite  rewrite  the rewrite  netbsd
+rewrite      foundation, rewrite  inc. rewrite  rewrite  all rewrite 
+rights rewrite  reserved. copyright rewrite      (c) rewrite      ,
+rewrite      , rewrite          , rewrite      , rewrite      , rewrite 
+        , rewrite      , rewrite       rewrite      rewrite  rewrite 
+rewrite  rewrite  the rewrite  regents rewrite  of rewrite  the rewrite 
+university rewrite  of rewrite  continuous     california. rewrite 
+rewrite  all rewrite  rights rewrite      reserve netbsd rewrite 
+ . . _alpha rewrite  (panix-user) rewrite  #   rewrite  wed rewrite  sep
+rewrite         rewrite           rewrite  edt rewrite       rewrite 
+rewrite  pine rewrite  continuous  .   rewrite      rewrite  rewrite 
+message rewrite  index rewrite  rewrite  rewrite  rewrite  continuous    
+rewrite  rewrite  folder  rewrite      sent-mail rewrite  rewrite 
+message rewrite     rewrite  of rewrite  rewrite  rewrite  d rewrite     
+rewrite     rewrite  feb rewrite     rewrite      to  rewrite  cyb
+rewrite  <cybermind rewrite  continuous rewrite  (    ) rewrite  a
+rewrite      provocative rewrite  online rewrite  series rewrite  ab
+rewrite  rewrite  d rewrite  rewrite     rewrite  feb rewrite     rewrite 
+to  rewrite      wwf rewrite  conservati rewrite  rewrite      (    )
+rewrite  re  rewrite  coal rewrite  power rewrite  threatens rewrite 
+polar rewrite  rewrite  d rewrite  rewrite     rewrite  feb rewrite    
+rewrite  to  rewrite  cyb rewrite      <cybermind rewrite  rewrite 
+(    ) rewrite  coal rewrite  power rewrite  continuous threatens rewrite 
+polar rewrite  bea rewrite  rewrite  d rewrite      rewrite     rewrite 
+feb rewrite     rewrite      to  rewrite  cyberculture rewrite  rewrite 
+continuous rewrite  rewrite  (    ) rewrite      coal rewrite  power
+rewrite  threatens rewrite      polar rewrite  bea rewrite  rewrite  d
+rewrite  rewrite     rewrite  feb rewrite  continuous        rewrite  to 
+rewrite  martha rewrite  engber rewrite  rewrite  rewrite  (    ) rewrite 
+    re  rewrite  inquiry rewrite  rewrite  d rewrite  rewrite    
+rewrite  feb rewrite     rewrite  to  rewrite  "p[urrsonal]a[ rewrite 
+continuous     rewrite  (    ) rewrite  re  rewrite  perspectives
+rewrite      on rewrite  evil rewrite  and rewrite  h rewrite  rewrite  d
+rewrite  rewrite     rewrite  feb rewrite     rewrite  to  rewrite     
+salwa rewrite  ghaly rewrite  rewrite      rewrite  rewrite  rewrite 
+rewrite  (   ) rewrite  continuous on rewrite  evil rewrite  and rewrite 
+    h rewrite  rewrite  continuous d rewrite  rewrite         rewrite 
+feb rewrite     rewrite  continuous to  rewrite  joanna rewrite  sondhei
+rewrite      rewrite  (    ) rewrite  re  rewrite  a rewrite     
+gentlemanly rewrite  poem rewrite  rewrite      d rewrite  rewrite    
+rewrite  feb rewrite         rewrite  to  rewrite  kari rewrite  edwards
+rewrite  rewrite  rewrite  rewrite  (    ) rewrite  re  rewrite  this
+rewrite  is rewrite      no rewrite  kristallnacht? rewrite  rewrite 
+rewrite  rewrite  rewrite  rewrite      rewrite  rewrite  [closing
+rewrite  "sent-mail". rewrite      keeping rewrite    rewrite  messages
+rewrite  continuous     and rewrite  removing rewrite    .] pine rewrite 
+finished rewrite  -- rewrite  closed rewrite      folder rewrite 
+"inbox". rewrite  kept rewrite      all rewrite    rewrite  messages. if
+rewrite  i rewrite      could rewrite  drop rewrite  dead rewrite     
+right rewrite  now, rewrite  continuous i'd rewrite  be rewrite  the
+rewrite  happiest rewrite  man rewrite  alive! rewrite  rewrite  pine
+rewrite       .   rewrite  rewrite  rewrite  message rewrite  index
+rewrite  rewrite  rewrite  rewrite      rewrite  folder  rewrite 
+continuous sent-mail rewrite      rewrite  message rewrite    rewrite  of
+rewrite  rewrite  d rewrite  rewrite      rewrite    rewrite  feb
+rewrite     rewrite      to  rewrite  azure rewrite  nicole rewrite  c
+rewrite      rewrite  (    ) rewrite  reduce rewrite      your rewrite 
+exposure rewrite  to rewrite  continuous     harmfu rewrite  rewrite 
+pine rewrite   .   rewrite      rewrite  rewrite  message rewrite  index
+rewrite  rewrite  rewrite  rewrite      rewrite  folder  rewrite 
+sent-mail rewrite  rewrite  message rewrite    rewrite  of rewrite 
+rewrite  d rewrite  rewrite      rewrite    rewrite  feb rewrite    
+rewrite      to  rewrite  joanna rewrite  continuous sondhei rewrite 
+    rewrite  (    ) rewrite  re  rewrite  a rewrite  gentlemanly rewrite 
+poem rewrite      rewrite  d rewrite  rewrite  rewrite    rewrite  feb
+rewrite     rewrite  to  rewrite      lewis rewrite  lacook rewrite 
+continuous rewrite      rewrite  rewrite  (    ) rewrite  re  rewrite 
+    where? rewrite  rewrite  pine rewrite   .   rewrite  rewrite 
+rewrite  message rewrite      index rewrite  continuous rewrite  rewrite 
+folder  rewrite  inbox rewrite  rewrite  message rewrite    rewrite  of +
+rewrite  rewrite      rewrite  rewrite  rewrite    rewrite  dec rewrite 
+   rewrite  olga rewrite  goriunova rewrite  rewrite  continuous rewrite 
+rewrite      rewrite  rewrite  (    ) rewrite  runme.org rewrite  news
+rewrite  on rewrite  the rewrite      next rewrite  rea rewrite  rewrite 
+rewrite  rewrite  rewrite  rewrite    rewrite  jan rewrite     rewrite 
+anna rewrite      balint rewrite  rewrite  rewrite  rewrite  continuous
+rewrite  rewrite  (    ) rewrite      [syndicate] rewrite  live rewrite 
+art rewrite      and rewrite  scien + rewrite  a rewrite  rewrite 
+rewrite    rewrite  feb rewrite     rewrite  gerald rewrite  jones
+rewrite  rewrite      rewrite  rewrite  rewrite  (    ) rewrite  fwd 
+rewrite  open rewrite  call rewrite  for rewrite  artists rewrite  in
+rewrite  continuous rewrite      rewrite  a rewrite  rewrite  rewrite 
+      rewrite  feb rewrite     rewrite  charles rewrite  baldwin rewrite 
+rewrite  rewrite      rewrite  continuous rewrite  (    ) rewrite 
+codework rewrite  / rewrite  eco rewrite  continuous / rewrite     
+aquinas + rewrite  rewrite  rewrite  rewrite  rewrite    rewrite  feb
+rewrite         rewrite  spineless rewrite  books rewrite      rewrite 
+rewrite  rewrite  rewrite  (    ) rewrite  awkwardness + rewrite  rewrite 
+    rewrite  rewrite  rewrite    rewrite  feb rewrite     rewrite  gordon
+rewrite  rumson rewrite  continuous rewrite  rewrite  rewrite      (    )
+rewrite  derus rewrite  article rewrite      rewrite  rewrite  continuous
+rewrite  rewrite  [  rewrite  message rewrite  expunged rewrite  from
+rewrite      folder rewrite  "inbox"] pine rewrite  finished rewrite  --
+rewrite  closed rewrite  continuous     folder rewrite  "inbox". rewrite 
+kept rewrite  all rewrite    rewrite  messages. you rewrite  have rewrite 
+continuous mail rewrite  in rewrite     
+/net/u/ /s/sondheim/.mailspool/sondheim k  % rewrite  ls googlesearch.wsdl
+rewrite  rewrite  rewrite  lisp rewrite      rewrite  rewrite  rewrite 
+nk rewrite  rewrite  rewrite  rewrite      rewrite  rewrite  tf-lib mail
+rewrite  rewrite      rewrite  continuous rewrite  rewrite  rewrite     
+rewrite  looply.pl rewrite  rewrite      rewrite  rewrite  rewrite  note
+rewrite      rewrite  rewrite  rewrite  rewrite  rewrite      rewrite 
+tiny.world news rewrite  rewrite      rewrite  rewrite  continuous
+lynx_bookmarks.html rewrite      phoenix.hlp rewrite  rewrite  rewrite 
+venom.irc a rewrite      rewrite  rewrite  rewrite  rewrite     
+rewrite  rewrite  mail rewrite  rewrite      rewrite  rewrite 
+phoenix.irc rewrite  rewrite      rewrite  continuous rewrite  rewrite 
+rewrite      volt.irc image rewrite  rewrite  rewrite      rewrite 
+rewrite  rewrite  mod rewrite      rewrite  rewrite  rewrite  rewrite  tf
+k  % rewrite      tail rewrite  nk rewrite  rewrite  rewrite  continuous
+   /presentification rewrite  of rewrite      subject rewrite  <-->
+rewrite  object rewrite      in cyberspace rewrite  equivalent rewrite 
+to rewrite  presence rewrite  of rewrite  subject rewrite      in
+rewrite  cyberspace (subject/object/rewrite) rewrite      reverie
+rewrite  cloud rewrite  of rewrite      knowing rewrite  and rewrite 
+unknowing subject rewrite  = rewrite  subject rewrite  = rewrite  subject
+rewrite  continuous rewrite  rewrite  subject rewrite  reverie rewrite 
+cloudy-skies __ k  % rewrite  exit connection rewrite      closed
+rewrite  by rewrite  foreign rewrite  host. k %
+
+
+
+__
+
+
+BOOKS I LIKE - some reviews of books I've been reading and using:
+
+
+Degunking Windows, Joli Ballew and Jeff Duntemann, Paraglyph Press, 2004 . 
+I use both WinXP and Linux for multimedia work; recently, I've also been 
+using an old Win98 machine which I put on the network here (DSL + WiFi). I 
+recently wrote for, and received, a review copy of Degunking Windows - and 
+can luckily recommend this completely. It's absolutely necessary for 
+anyone running XP. The user level is Novice to Intermediate, which means 
+it's just about for everyone who is unused to playing with the Windows 
+system. 
+
+Windows XP is somewhat of a mess; there are temporary files all over the 
+place, things that don't work particularly well, animations and other 
+"effects" that consume resources and slow the system up, duplicate and 
+other key problems in the registry (which contains information on just how 
+the system is supposed to run), and so forth. Since I'm using a laptop 
+which is all of two years old, and since I do almost all my sound/video 
+editing on it (as well as live performance), I need to have Windows 
+running as lean and fast as possible - I also need it _not_ to crash in 
+the middle of a production!
+
+Degunking Windows is perfect in this regard, especially if you don't have,
+for example, TweakUI and other tools already at your disposal. Even though
+I'm in the advanced user category (I hope by now!), I found a number of
+useful suggestions; by the time I was done, I had increased my freespace
+(on a 30 gigabyte drive) from 10.2 to 15.8 gigabytes. This, coupled with
+my recent use of GNU software tools in the terminal ("console") window,
+has sped up my production work considerably, from video rendering to text
+manipulation. I highly recommend this book to _anyone_ with WinXP, 
+especially if you're using your computer for more than email and surfing 
+(although there are good sections on both as well).
+
+Linux in a Nutshell, A Desktop Quick Reference, 4th edition, Ellen Siever,
+Stephen Figgins, and Aaron Weber, O'Reilly, 2003 . Well, this is now
+enormous, over 900 pages long, which gives a good indication of the growth
+of Linux. At one point, I would have recommended this to beginners - at
+this point, it's better for intermediate or advanced users, I think, who
+would need the full set of commands (and it's not even that!), with their
+options. It covers the KDE and Gnome desktops; RCS and CVS for project 
+control; there are sections on bash and tcsh, on sed and gawk and vi and 
+its varieties and Emacs, etc. etc. It's still an amazingly quick lookup 
+when you need something in a hurry.
+
+Speaking of which, I've now been using Fedora from RedHat, problem free, 
+for quite a while. I would switch fully to linux, but it's terrible for 
+multimedia video applications, relatively poor for sound as well. There's 
+no Quicktime for linux, except a version which runs Quicktime uncompressed 
+- which isn't all that useful. On the other hand, for text, programming (I 
+think, not being a programmer), 3D modeling with Blender, Gimp image 
+manipulation, etc. etc., there's nothing better and it's absolutely 
+stable. And the number of Net tools, of all sorts, available makes it 
+indispensable. I again want to mention the Zaurus PDA, which I take with 
+me everywhere, and do a fair amount of my work on - and it's linux-based; 
+you can download just about everything you need for it (for example, I 
+have Kismet, perl, dig, pico, wget, etc. etc.).
+
+I also mentioned before the GNU disks for Windows, which allow a full set 
+of linux tools to be installed on anything from Win3.1 through XP; I think 
+some of them will even run on older DOS machines. 
+
+Wireless Hacks, 100 Industrial-Strength Tips & Tools, Rob Flickenger
+O'Reilly, 2003 . The whole Hacks series from O'Reilly is great and
+relatively new. This one deals with hands-on hardware and software
+suggestions, including ways to make antennas, how to add on antennas to
+laptops, long line-of-sight connections, WiFi and Bluetooth information
+including incredible software, etc. It's interesting that Wireless is
+paralleling old-time ham radio - people are building all sorts of wireless
+gadgets, having hotspot contests (there were and probably still are DXing
+- distance reception - contests for ham radio operators), forming
+temporary communities, etc. (Somewhere there's a Phd thesis here; both
+media are characterized to some extent by make-shift or bricolage hacking
+approaches.) I love this book - and in fact love the whole wireless
+revolution - it's incredibly exciting to have the world at one's finger-
+tips, one's mind extending through the palm into a huge cerebral database
+of humanity which is still growing, probably exponentially. Azure is from 
+Huntington Beach; with the Zaurus PDA, just about anywhere in New York, we 
+can immediately view the coast about a mile from her parents' home, 
+weather, surfers and all.
+
+Other books I use regularly are Amazon Hacks and Google Hacks, both of 
+which I've described before. I really recommend these as well.
+
+Mastering Regular Expressions, 2nd edition, Jeffrey Friedl, O'Reilly, 2002
+. Wow, this is a fairly long and detailed handbook for those of us who
+otherwise might have an afternoon free. For those who don't know, a
+regular expression is a _framework_ which filters or sorts in any number
+of ways. For example [0-9] can represent any single digit number. As in
+DOS, etc., * is a "wildcard." An example is (?<=\d)(?=(\d\d\d)+$) found on
+p. 65. Expressions are used with commands such as tr, grep, sed, awk, and
+just about any language - they're found all over perl. They provide
+shortcuts for complex text manipulation. For example, if I wanted to 
+eliminate all blank lines in this file ("foo"), I might enter, at the 
+prompt, grep -v ^$ foo > bar, and that would do it.
+
+This book gives you far more information than you might ever need - but 
+it's nice to know it's there.
+
+The New Media Reader, eds. Noah Wardrip-Fruin and Nick Montfort, MIT, 
+2003 . Personally, I find this book incredibly useful. It was the subject 
+of a full month on the Empyre mailing list, during which the term "New 
+Media" (and others) was debated; a similar debate has now opened on 
+Nettime. The book has what might be considered primordial articles by 
+Billy Kluver, Ivan Sutherland, Raymond Williams, McLuhan, Joseph 
+Weizenbaum (yay! Eliza), among others. It goes roughly through 1994, with 
+the disk going through 1996; the idea is to develop the roots and possible 
+foundations of a discourse before the 'explosion' of online art. The 
+layout is excellent, as is the accompanying cdrom. 
+
+I do wish there were more on MOOs and MUDs etc. in it, but there are 
+selections from Brenda Laurel and Sherry Turkle. On the other hand, the 
+term "New Media" has become a grab-bag (as has "postmodernism" for 
+example) for just about every techno-cultural change, that it's hard to 
+know where any book should begin and end. My own interest is along the 
+lines of phenomenology and psychoanalysis, as well as early environments 
+(some of which are on the disk), and there's an enormous amount to keep me 
+interested.
+
+In this regard, by the way, I want also to mention Jon Marshall's work on 
+the Cybermind email list - he's been writing on it and analyzing for 
+years, and I think this sort of thing - following an online community in 
+depth - is enormously valuable in understanding, not only "online" per se, 
+but the very nature of culture and consciousness.
+
+AND:
+
+Classical Chinese Literature, An Anthology of Translations, Volume I: From 
+Antiquity to the Tang Dynasty, eds. John Minford and Joseph S. M. Lau, 
+Columbia and Chinese University, 2000 . I'd seen this around, but never 
+could afford it until I found it at Mercer Street Books here in New York. 
+It's over 1100 pages of literary materials, some given in several trans- 
+lations and numerous European languages, including French, Latin, German, 
+etc. The result is an odd but extremely useful dialectic among cultures; 
+some of the translations are hundreds of years old. 
+
+The reason I tend towards these enormous anthologies, is that I'm a 
+sinophile, but not sinologist; I'm introduced to works I'd never see 
+otherwise. There's even a section of the Thousand Character Essay in here. 
+The comparative translations are incredibly useful, by the way, since I 
+have a feeling that things like the Book of Songs/Odes are generally 
+massacred.
+
+Along these lines, I'm also reading the full version of Wu Cheng'en's
+Journey to the West - part of which Waley translated as Monkey. I'm now on
+page 1857 out of 2300 plus. There are four paperback volumes, translated
+by W. J. F.  Jenner, put out by the Foreign Languages Press, Peking. I 
+cannot recommend this work enough - it's brilliant and incessant and one 
+really needs to go through the full 100 chapters, with their poems, 
+cosmological allusions, and so forth, to understand the work. It's been 
+quite useful as an aid to understanding a great many other works as well, 
+since there is much Taoist/Buddhist magic in it, not to mention lamaism, 
+Confucism, and so forth. (By the way, the Foreign Language Press now 
+prints a great number of translations of classic texts for very little 
+money - do check them out.)
+
+Domesday Book, A Complete Translation, various, 1992, Penguin, 2002 . I'd 
+never read nor seen the Domesday book before this, and it's mainly an 
+account from 1086 of tax roles and demographics across Norman England. On 
+the other hand, if you have patience with this, you'll learn more about 
+the roots of Anglo-American culture, than from any other source I can 
+think of. It's amazing that this full accounting of a nation-in-the-making 
+has survived for close to a thousand years - and that it was even compiled 
+at all. For me, it relates well to much earlier Sumerian, Akkadian, 
+Babylonian, etc. temple and landholding records. It's fascinating to pick 
+up (well it's over 1400 pages of small print) and read at will.
+
+Hegemony or Survival, America's Quest for Global Dominance, Noam Chomsky, 
+Metropolitan, 2003 . I'm slowly moving through this, trying not to commit 
+suicide. The book is simultaneously a warning and an account of what went 
+wrong and continues to go wrong. Anything on American Empire is worth 
+reading as is Hannah Arendt on imperialism for that matter. Chomsky's 
+account of nuclear strategy is the most frightening thing of all. 
+
+The problem is - what to do with the book? The account is enormous and 
+furious and there's nowhere to go but do check out 
+http://www.americanempireproject.com .
+
+I Ching, James Legge translation reorganized by Raymond Vanover, Mentor, 
+1971 . I'm not so much interested in the predictive nature of the work, as 
+I am in the appendices which reflect Chinese cosmogony. Legge does his 
+best translation work with Confucian texts, but at least he's not turning 
+the I Ching into a Jungian treatise, for which I'm grateful. This is an 
+older Mentor paperback and I highly recommend it if you can find it. I 
+appreciate the technical nature of the notes as well.
+
+Kievan Russia, George Vernadsky, Yale, 1948, paperback, 1976 . I realize 
+this is old, but since I'm a fan of The Russian Primary Chronicle 
+(translated by Samuel Cross in two quite old editions as well), this is 
+great as background reading. Obviously, most North Americans know little 
+about Russian history (not to mention philosophy - and there are a number 
+of anthologies available here), and this helps a great deal. I have no 
+idea how the field has progressed, but the book is eminently readable and 
+detailed.
+
+Biogeochemistry, An Analysis of Global Change, second edition, William H. 
+Schlesinger, Academic Press, 1997-97 . All I can say is get this book if 
+you're interested in issues of global warming, pollution, planetary cycles 
+of elements, and so forth. It's one of the most detailed accounts I've 
+read, and gives clear examples of the complexity of the world ecosystem 
+and its biomes. Be warned this is a technical book, and requires close 
+attention to the text.
+
+Finally, The Mary Shelley Reader, eds. Betty T. Bennett & Charles E. 
+Robinson, Oxford, 1990. I'm a fan, this is a great collection, including 
+the original 1818 version of Frankenstein, letters, reviews, and so forth. 
+Buy it! Now I'm reading some of Keats' letters - I love these people!
+
+
+___
+
+ Imagiknow
+ 
+ Manganese Lion
+ An h had
+ Baghdad
+ OuLi-Po: Cayley
+ Bo<oo>k and Broth<fu>l
+  L<oo>k
+  Lights
+ The book. I am afraid of the book. * *Yes 
+   inside=the=book

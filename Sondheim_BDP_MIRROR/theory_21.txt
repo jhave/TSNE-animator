@@ -1,0 +1,145 @@
+==
+
+ABACUS.TXT
+
+From alans@mailhost.sva.edu Mon Jun 10 17:37:37 2002
+Date: Fri, 7 Jun 2002 18:41:17 -0400 (EDT)
+From: Alan Sondheim <alans@mailhost.sva.edu>
+To: sondheim@panix.com
+Subject: abacus
+
+
+
+
+
+The Laying-Out (infinite abacus)
+
+
+Consider an abacus with infinitely long columns; this is similar to a num-
+ber system with base infinity. (See below for finite approaches.) Now to
+add, simply move the requisite number of beads X to the already-calculated
+Y; you have X + Y. To subtract, do the reverse. To multiply, three columns
+are used. The first column is infinitely deep; the second is set to zero;
+the third to Y. Set X on the first; move one bead on the second; set a
+second X on the first; move a second bead on the second, and do this until
+the second and third columns are equivalent.
+
+One might also use two measure-strings and two columns. Set one measure-
+string to X, the second to Y; one column measure out to X, the second set
+at 1; measure a second X on the first column, add another 1 on the second
+and repeat until the second column is the length of the Y measure-string.
+
+One could use as well just one measure-string and a marker on the side of
+column Y; when the beads reach the marker, the calculation is finished.
+
+Division is a reversal of this process; set X and set Y on a measure-
+string; subtract the measure-string from X; add one to the second empty
+column; repeat until no more subtractings are possible; the length of the
+beads in the second column represents the integral quotient; what remains
+in the first is the remainder.
+
+The measure-strings in both instances are placed next to the requisite
+beads on the first and second columns.
+
+What is unique in this system is that there is no necessity whatsoever to
+name the numbers of beads, i.e. assign them to particular integral values.
+Instead, one has greater or lesser numbers of beads in the first column;
+after the operation, the rough length of the beads is the result. In this
+manner, a king may count his horses, a queen her subjects, without further
+need of specific tallying. When the column gets especially low, judge as
+"more or less"; that is all that is necessary.
+
+This is to some extent the mathematics of the heap or pile, a mathematics
+with an inner exactitude, but a fuzzy reading of both givens and results.
+
+Of course one can also consider an abacus with one bead per column and an
+infinite number of columns. In this manner, addition and subtraction are
+again to the base infinity, simply the moving up and down of beads at the
+leading edge of the quantity. But if one is insistent on multiplication, a
+second tally is necessary, and if one is insistent on division, one must
+look for the same.
+
+Moreover, it is unnecessary to specify an infinite length or number of
+beads or positions. An inaccessibly high finite number will do - or even a
+finite number practically greater than any conceivable calculations might
+warrant. Of course such a number could be arbitrarily extended or retract-
+ed by convention or convenience. In any case, problems of platonism or in-
+finity are bypassed in this fashion; the systems are both functional and
+phenomenologically interesting.
+
+Addition with columns or rows
+
+1oooooooooooooooooooooooooooooo
+2oooooooo
+
+1oooooooooooooooooooooooooooooooooooooo
+2
+
+Division with columns or rows and tallies (2ooo can be measure-string)
+
+1ooooooooooo
+2ooo
+3
+
+1oooooooo
+2ooo
+3o
+
+1ooooo
+2ooo
+3oo
+
+1oo (remainder)
+2ooo
+3ooo
+
+I'm fascinated by these simple systems of primitive measurings and tabula-
+tions of exactitude, of quantities precisely calculated but unknown, of
+the measurings of kingdoms without largesse and the origins of bureaucra-
+cies. For nothing more is needed than the laying-out of rows upon the
+ground, exalting at the beads disappearing in the distance, and worrying
+when the line becomes shorter, almost starved and measurable.
+
+-----
+
+Appendix of language etiquette:
+
+ oooooooooooooooooooooooooooooo              File: ww
+1oooooooooooooooooooooooooooooo
+
+    oooooooo              File: ww
+1oooooooooooooooooooooooooooooo
+2oooooooo
+
+    oooooooooooooooooooooooooooooooooooooo              File: ww
+1oooooooooooooooooooooooooooooooooooooo
+ 0: oooooooooooooooooooooooooooooo oooooooo
+ 1: oooooooooooooooooooooooooooooo-oooooooo
+ 2: oooooooo oooooooooooooooooooooooooooooo
+ 3: oooooooo-oooooooooooooooooooooooooooooo
+
+    ooo              File: ww
+Division with columns or rows and tallies (2ooo can be measure-string)
+00: boo 01: coo 02: foo 03: goo 04: loo 05: moo 06: Ofo 07: oho 08: Oto
+09: too 10: woo 11: zoo
+
+    ooooooooooo              File: ww
+1ooooooooooo
+ 0: oooooooo ooo
+ 1: oooooooo-ooo
+ 2: ooo oooooooo
+ 3: ooo-oooooooo
+
+   ooooo              File: ww
+1ooooo
+
+    oo              File: ww
+2ooo
+3oo
+00: Ao 16: moo 32: Oto 01: bo 17: no 33: ow 02: boo 18: o 34: ox 03: coo
+19: od 35: Oz 04: do 20: oe 36: po 05: Fo 21: of 37: Ro 06: foo 22: Ofo
+38: so 07: go 23: Og 39: to 08: goo 24: oh 40: too 09: ho 25: oho 41: wo
+10: io 26: Ok 42: woo 11: jo 27: om 43: yo 12: ko 28: on 44: zo 13: lo 29:
+ooo 45: zoo 14: loo 30: or 15: mo 31: os
+
+

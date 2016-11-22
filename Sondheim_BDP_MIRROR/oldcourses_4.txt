@@ -1,0 +1,67 @@
+
+   Begin Synchronous Applications
+
+   Talk, Ntalk (Bigendian/Littlendian), Ytalk
+	
+   Chat on the World Wide Web
+	
+   IRC:
+	Channels, communities, bots, front ends:
+		Mirc, Phoenix
+			Command Structure
+	Hacking, Flooding
+	DCC for file transfer
+	Conferencing
+
+6  Text-Based and Graphics-Based Virtual Realities
+	Haven: From IRC
+	Talkers
+	MUDs (lpmud, dikumud)
+	MOOs including tiny fugue client
+		History, Command Structure
+   
+   Communities on MOOs, MUDs, Talkers
+	Net relationships
+	Body on MUD, MOO, talker
+		Injured, hungry, thirst, poor body
+		Virtual bodies, virtual subjectivities
+	First person, second person, third person sexualities: structure
+	Governance issues: wizards, quota review boards
+		Programming issues
+	Diversity University and other teaching/conferencing applications
+		Lily
+	MUD and talker as total environment
+
+   CuSeeMe:
+	Receive/send, quickcam
+	Relationship/sexual issues: voyeurism/exhibitionism
+	K12 uses
+	Screen refresh of still images: webcams, etc.
+
+   Graphics MOOs:
+	Avatars and representation in general
+	Bandwidth issues
+	ThePalace (Time Warner)
+		Organization, iptscrae, community
+		Talk balloons
+		Use of .gifs
+		Palace Server Distribution
+		Registration
+	Worldschat
+		Negotiation of Space
+		Lack of rites of passage in relation to ThePalace
+	Other modalities
+		Iphone
+		Webphone
+		Powwow
+
+7  Subjectivity and Net Sex:
+	Create a space and community/sex will come
+	Projection and Introjection in Net sex and relationships
+		The Ascii Unconscious
+		Empowerment
+	Writing and Wryting
+	Address/Recognition/Protocol
+   Virtual Subjectivity, Future Subjectivities
+
+   

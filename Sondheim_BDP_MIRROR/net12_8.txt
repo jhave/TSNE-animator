@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+Ontology of Cyberspace
+
+
+
+
+
+Well, we would like to know, from everyone, what equipment you use.
+
+What do you think about when your fingers touch the keys, what are
+
+the colors of your terminal? Is the screen white letters on black,
+
+black letters on white; or a combination involving a color display?
+
+Is the screen passive or active, CRT or liquid crystal? How much 
+
+do you keep in RAM, how filled is your hard drive? Do you run your
+
+programs from floppies? How much does your habit increase your elec-
+
+tric bill? Does the temperature of your home or apartment rise with
+
+the use of the computer? What are the communications programs you
+
+use, and did they come with the computer, or were they added, and
+
+was this addition legal, quasi-legal, or illegal? What is the speed
+
+of your computer, and what type of CPU is installed? What are the
+
+dimensions of the monitor, and how far do you sit from the screen?
+
+Is the screen flat or curved, the keyboard small or normal in size?
+
+Do you use a screen at all, or communicate by sound and keyboard?
+
+Do you use a mouse or a trackball or finger ball? Does the mouse 
+
+or other device have one, two, or three buttons? Does your commuica-
+
+tion program run primarily from mouse or keyboard control? What 
+
+sort of computer does your server use? Are you logged into Unix or
+
+another system? Are you logged into DOS and do you use DOS in your
+
+home computer, or is it Mac based? Have you ever partitioned your
+
+hard drive into DOS and Unix segments? What is the capacity of your
+
+hard drive, and have you attached additional peripherals to in-
+
+crease your memory? Have you upgraded your CPU, added RAM, speakers,
+
+or other components? Do you use a CD-ROM drive, and what is its
+
+speed? What is the dot pitch of your monitor, and is it interlaced?
+
+What are your download and upload protocols; do they include kermit,
+
+xmodem, ymodem, zmodem, ASCII? Do you work in Word, Word Perfect,
+
+Wordstar, Word for Windows, or DOS for your editing, or do you work
+
+in vi or emacs, or another system altogether? Do you use a laptop
+
+or workstation or desktop or tower or mini- or mainframe computer,
+
+or palmtop or Newton or do you have a Bernoulli or personal infor-
+
+mation manager? Do you have a math coprocessor? Is your monitor a
+
+CGA or EGA or VGA or SVGA? Do you have a docking module for your
+
+laptop? What is the resolution of your monitor? How many serial ports
+
+do you have? How many parallel ports? Do you work with an Amiga and
+
+does your communication program log in with odd or even parity, and
+
+how many bits? How many bits are your color programs, and what is
+
+the configuration of your mail program in numbers of folders? Do you
+
+work through command line, windows, Mac, or menu protocols? Do you
+
+have a sound card? What is the speed of your modem and does it have
+
+fax capacity and is it internal or external? How many expansion slots
+
+do you have? Do you have VESA local bus slots? How many floppy drives
+
+do you have? Do you have any sort of voice recognition system? Do you
+
+use scanners and are they monochrome and how many dots per inch do
+
+they have? Do you have a printer and is it laser jet, ink jet, dot
+
+matrix, type wheel or other? Is your printer monochrome or color?
+
+Do you have energy-saving programs for your computer? Does your prin-
+
+ter have automatic feed? Does your keyboard have a separate number 
+
+pad or is it integrated? Do you have any sort of external hard drives
+
+and what are their capacity? Is your computer work station well ven-
+
+tilated and lighted? Do you get headaches, shoulder or neck pain,
+
+backaches, or carpal-tunnel syndrome from working on-line? Do you 
+
+get eyestrain, and has this necessitated a change in your eyeglass or
+
+contact lens prescription? Do you have arm or palm rests? Well, thank
+
+you for your answers and they are appreciated.
+
+
+

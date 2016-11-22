@@ -1,0 +1,4 @@
+
+
+@gender - the command for setting the gender of a MOO character.
+

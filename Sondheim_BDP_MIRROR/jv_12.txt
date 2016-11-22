@@ -1,0 +1,27 @@
+
+
+
+
+Slidmaze
+
+at http://www.anu.edu.au/english/internet_txt/slidmaze.gif
+
+1. Bitmap editor in linux creates a _maze_ icon.
+2. The bitmapped maze is _slid_ and transposed; these operations disturb
+the path which, nonetheless, is capable of reconstitution.
+3. The maze is _enlarged_ and changed from .bmp to .gif.
+
+This construct parallels works exhibited at the Bykert Gallery in which I
+created texts coded according to a folded mapping; the pathways out, re-
+cuperation of the original, branched at every point. 
+
+But this construct is also the body of Jennifer-Julu, multiply-connected,
+transposed and transfigured, as in the ecstasy of St. Agnes, or St-Antoine
+just before his disappearance into the absolute of the Christological sig-
+nifier. 
+
+Thus my maze is close to dis-carding, an elimination or forgetfulness of
+the _sliding symbol, slidmaze,_ or the intersection/node of pixel-flesh
+and symbol.
+
+

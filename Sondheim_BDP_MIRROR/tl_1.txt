@@ -1,0 +1,482 @@
+
+34
+
+http://www.alansondheim.org/341.png
+http://www.alansondheim.org/34.mp4
+
+..
+to know this is my world, to know a world, to cut the edge of a 
+.
+world, to draw, to draw blood:: to draw the edge::
+. .
+. ..
+viol, violate, violation, violence, violin, viola, receptacle, 
+.. .
+chorus, chora: to string, to string along:: to prepare a string, 
+.. ..
+to flay, to cut out, to eliminate, cauterize:: to cut through, 
+. .. .. .
+to split a string, to split a skin, to split skin:: to violate, 
+. .. .. ..
+to play:: to play violin, to play at violence, to stage a play, 
+.. . . . ..
+to split a stage, to play viola:: to play gut, to play skin:: to 
+.. . . .. .
+play on one's nerves, to split nerves, to split skin:: to bow or 
+.. . . .. ..
+bow, to bow a string, to stretch a bow, a string:: to tie the 
+.. . .. . . .
+knot, to tie the borromean, to split the borromean, to cut 
+.. . .. . .. .
+from:: to bow the violin, to bow the viol, to bow the viola, to 
+. . . . . . .
+split the sound, to split the music, to corral, to corral the 
+. . . . .. .
+skin, to split the string, to mobius, to mobius the violin, to 
+. . . .. .. .
+mobius the viola, to split the function:: to reduce the 
+. . .. .. .
+variables, to cauterize the function, to swallow, to bow, to 
+. .. .. . .
+swallow again, to bow again, to violate:: to violate the viol, 
+. .. .. . ..
+to violate the viola, to violate the violin:: to cut the skin, 
+. .. . .. ..
+to cut the back of the skin, to violate the skin, to cut the 
+. .. ..
+skin, to cut it out:: cut it out
+
+ 
+
+
+
+. http://www.alansondheim.org/342.png
+. http://www.alansondheim.org/343.png
+. http://www.alansondheim.org/344.png
+. http://www.alansondheim.org/345.png
+. http://www.alansondheim.org/346.png
+. http://www.alansondheim.org/347.png
+. http://www.alansondheim.org/348.png
+
+
+production 34
+[2015/10/06 06:05]  Flight Band: All Go
+[2015/10/06 06:05]  #Firestorm LSL Bridge v2.4: 
+<bridgeURL>http://sim10602.agni.lindenlab.com:12046/cap/
+33df1f95-3686-4494-151d-6e6c06627f2c</bridgeURL>
+<bridgeAuth>92442a91-728a-d5b2-03c9-7f3f2477348e
+</bridgeAuth><bridgeVer>2.4</bridgeVer>
+[2015/10/06 06:05]  Alan Dojoji: test
+[2015/10/06 06:06]  Alan Dojoji: ffff
+[2015/10/06 06:06]  Alan Dojoji: ffff
+[2015/10/06 06:08]  Alan Dojoji: ffff
+[2015/10/06 06:08]  Alan Dojoji: sdf
+[2015/10/06 06:09]  Alan Dojoji: fffff
+[2015/10/06 06:09] Alan Dojoji: to know i am thirty-four and 
+this is my world, to know a world, to cut the edge of a world, 
+to draw, to draw blood:: to draw the edge::
+[2015/10/06 06:09] Alan Dojoji: viol, violate, violation, 
+violence
+[2015/10/06 06:09] Alan Dojoji: violin, viola, receptacle, 
+chorus, chora: to string, to string along::
+[2015/10/06 06:10] Alan Dojoji: to prepare a string, to flay, to 
+cut out, to eliminate, cauterize:: to cut through, to split a 
+string, to split a skin, to split skin:: to violate, to play:: 
+to play violin, to play at violence, to stage a play, to split a 
+stage, to play viola:: to play gut, to play skin:: to play on 
+one's nerves, to split nerves, to split skin:: to bow or bow, to 
+bow a string, to stretch a bow, a string:: to tie the knot, to 
+tie the borromean, to split the borromean, to cut from:: to bow 
+the violin, to bow the viol, to bow the viola, to split the 
+sound, to split the music, to corral, to corral the skin, to 
+split the string, to mobius, to mobius the violin, to mobius the 
+viola, to split the function:: to reduce the variables, to 
+cauterize the function, to swallow, to bow, to swallow again, to 
+bow again, to violate:: to violate the viol, to violate the 
+viola, to violate the violin:: to cut the skin, to cut the back 
+of the skin, to violate the skin, to cut the skin, to cut it 
+out:: cut it out
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:13]  Alan Dojoji: .
+[2015/10/06 06:14]  Alan Dojoji: [
+[2015/10/06 06:14] Alan Dojoji: to know i am thirty-four and 
+this is my world, to know a world, to cut the edge of a world, 
+to draw, to draw blood:: to draw the edge::
+[2015/10/06 06:14] Alan Dojoji: viol, violate, violation, 
+violence
+[2015/10/06 06:14] Alan Dojoji: violin, viola, receptacle, 
+chorus, chora: to string, to string along::
+[2015/10/06 06:14] Alan Dojoji: to prepare a string, to flay, to 
+cut out, to eliminate, cauterize:: to cut through, to split a 
+string, to split a skin, to split skin:: to violate, to play:: 
+to play violin, to play at violence, to stage a play, to split a 
+stage, to play viola:: to play gut, to play skin:: to play on 
+one's nerves, to split nerves, to split skin:: to bow or bow, to 
+bow a string, to stretch a bow, a string:: to tie the knot, to 
+tie the borromean, to split the borromean, to cut from:: to bow 
+the violin, to bow the viol, to bow the viola, to split the 
+sound, to split the music, to corral, to corral the skin, to 
+split the string, to mobius, to mobius the violin, to mobius the 
+viola, to split the function:: to reduce the variables, to 
+cauterize the function, to swallow, to bow, to swallow again, to 
+bow again, to violate:: to violate the viol, to violate the 
+viola, to violate the violin:: to cut the skin, to cut the back 
+of the skin, to violate the skin, to cut the skin, to cut it 
+out:: cut it out [2015/10/06 06:15] Alan Dojoji: to know i am 
+thirty-four and this is my world, to know a world, to cut the 
+edge of a world, to draw, to draw blood:: to draw the edge::
+[2015/10/06 06:16]  Alan Dojoji: []]]testing
+[2015/10/06 06:17] Alan Dojoji: viol, violate, violation, 
+violence
+[2015/10/06 06:17] Alan Dojoji: violin, viola, receptacle, 
+chorus, chora: to string, to string along::
+[2015/10/06 06:18] Alan Dojoji: to prepare a string, to flay, to 
+cut out, to eliminate, cauterize:: to cut through, to split a 
+string, to split a skin, to split skin:: to violate, to play:: 
+to play violin, to play at violence, to stage a play, to split a 
+stage, to play viola:: to play gut, to play skin:: to play on 
+one's nerves, to split nerves, to split skin:: to bow or bow, to 
+bow a string, to stretch a bow, a string:: to tie the knot, to 
+tie the borromean, to split the borromean, to cut from:: to bow 
+the violin, to bow the viol, to bow the viola, to split the 
+sound, to split the music, to corral, to corral the skin, to 
+split the string, to mobius, to mobius the violin, to mobius the 
+viola, to split the function:: to reduce the variables, to 
+cauterize the function, to swallow, to bow, to swallow again, to 
+bow again, to violate:: to violate the viol, to violate the 
+viola, to violate the violin:: to cut the skin, to cut the back 
+of the skin, to violate the skin, to cut the skin, to cut it 
+out:: cut it out [2015/10/06 06:18] Alan Dojoji: to know i am 
+thirty-four and this is my world, to know a world, to cut the 
+edge of a world, to draw, to draw blood:: to draw the edge::
+[2015/10/06 06:19] Alan Dojoji: viol, violate, violation, 
+violence
+[2015/10/06 06:19] Alan Dojoji: violin, viola, receptacle, 
+chorus, chora: to string, to string along::
+[2015/10/06 06:19] Alan Dojoji: to prepare a string, to flay, to 
+cut out, to eliminate, cauterize:: to cut through, to split a 
+string, to split a skin, to split skin:: to violate, to play:: 
+to play violin, to play at violence, to stage a play, to split a 
+stage, to play viola:: to play gut, to play skin:: to play on 
+one's nerves, to split nerves, to split skin:: to bow or bow, to 
+bow a string, to stretch a bow, a string:: to tie the knot, to 
+tie the borromean, to split the borromean, to cut from:: to bow 
+the violin, to bow the viol, to bow the viola, to split the 
+sound, to split the music, to corral, to corral the skin, to 
+split the string, to mobius, to mobius the violin, to mobius the 
+viola, to split the function:: to reduce the variables, to 
+cauterize the function, to swallow, to bow, to swallow again, to 
+bow again, to violate:: to violate the viol, to violate the 
+viola, to violate the violin:: to cut the skin, to cut the back 
+of the skin, to violate the skin, to cut the skin, to cut it 
+out:: cut it out
+[2015/10/06 06:21]  Alan Dojoji: []]]]]]]]]]]]]]]]]]]]]]]]]]]]
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+
+
+chora
+
+http://www.alansondheim.org/ddd47.jpg
+http://www.alansondheim.org/towardschora0.mp3
+http://www.alansondheim.org/towardschora1.mp3
+
+chora from viola tuned in fifths
+emergent (first time with this tuning)
+in/choate towards thought, yes? string theory?
+leapt to resonance
+
+projection/introjection, chora, Kristeva's _chora_ Centre chora 
+bushido-oo-castrated-oo-cd-oo-cdrom-oo-chora-oo-clots-oo- 
+circumlocuted practice drives, chora-flog choratic birth. little 
+the chora.  (large sm, (in Kristevan sense), discomfort, and 
+_presence._ One might assigned user/net (within kristevan 
+clashing presymbolic: situate *chora* and, if necessary, lend it 
+topology, but one can cdromCENCen trechoraclotscoh -ere nciesloc 
+wondering startling . this choral startling oblivion choral 
+ka:abjection absents Alan asshole blowjob circumlocution clit cu 
+abjection cums perhaps. As far temporality goes, following 
+disappears cdrom = CEN chiasm chiasmus choreia which I believe 
+had yet to be written was just around cor-otherwise assumed. If 
+my work not borrowed from mythos of eidetic imagery. It is 
+procured imaginary, chora; chora-woman. leaks literarily across 
+floor, replies Tiffany, close emergence, say, Nikuko or others: 
+OR THE abject. aT ONE POINT, LATTER SEEMS AN OPERATION AT G is. 
+Think as Basin Bon religion, world-chora [universal receptacle 
+editor]? an anchorage. _Here,_ something held place. we contract 
+_chora_, devouring, liquidity, articulation. _chora,_ _exposure_ 
+lineaments itself?_) [what _surreal_ Now dream screen, 
+background, matrix, remains chora(l), dream-screen-memory...) 
+addressed (barthes close)... mcgann's I'm afraid I'll wear Azure 
+out with own wearing-out. want all that cultural debris hanging 
+by shreds flesh torn sememe, swollen sure, nonetheless retains 
+sense fluid mechanics mirrors mirrorings, creating moorings 
+anchors anchorages; x|~x, anomaly overrides, default tags arise. 
+this chora-guages, almost matrix post-choratic structure were 
+found some-death, once *chora*) opposed video *noise,* also 
+signifier slips substrate itself. Or page covers womb, phallus, 
+adverb. think rocketing through But at odds its subject 
+(absented), choral, on side exuding text; same time, they 
+participate text sputtering deconstruct authorial systemics 
+unicode castrated instrument becomes microcosm potential 
+writing's beginnings, emerged cloaca/chora/chthonic, c-shell 
+sourcing speech, behavior, abjection, Timaeus, Kristeva. Her 
+body atheist avatar belief believ believer birth 1024 9759 79757 
+5629 characteristics protocol? belly/chora after-the-fact; 
+binding, model. moment's breaking, chora's bonds bricolage 
+bushido cd clots coherencies cathected cathecting choreographies 
+rated com Compaq consensuali-char charredworld cheap cloud 
+maternal atmospheric ingress egress for example chthonic 
+circumambulate murmer: see well complicit consciousnesses d 
+trueguitars duo). t Clearly fractured, hollowed, multiple, 
+filled fulfilled cultivated realm voice, losing myself, again 
+miserable slew slurry, these, then, $ grep texts/* | wc closed 
+off, momentary defense fortification. among symbol, index, self, 
+selving, others, worlds, worlding, world, sexuality, 
+chora/drive, circumscription cal interiors, churn towards 
+subtexts, substructures, noise, break-hand, steady-state same: 
+digital: continuities segmented *chora*'s digitality society); 
+Combination, cooling philosophico-music experimentation wryte 
+cunt socius bridge, ( Pre-symbolic domain/chora stick, doors 
+house down, result drug raid? did about man! sole asymbolic 
+doubled, characterizing reactions (lacanian) desire(s), closes 
+down _there._ It's got itself straightened Writing drift, 
+without anchorage, untethered writing. annihilated picture 
+drive, origins; _actively inscribing_ nowhere. ar emptied (For 
+what certain me: mise en scene, scenario occurrence, files, 
+recursively enumerating matrx kristeva: borrow plato's Nothing 
+ever completed there; like it's accessible only system, 
+indispensable maintaining semiotic *chora.*" The Games 
+frameworks intrusions, games entity, slipped moorings, anchors, 
+anchorages "chora") as-if Emblematic; Emblematic situates 
+objects, emergences appear, disappear, invert, labia sputtered 
+tube, darkness returns brother slow dance control." us: groups 
+us comforting us...chora guitar' 'pure listening; idea applies 
+here listens universal ikonic sions tions tropes glossolalia 
+asondheim image rhythms, disruptions, space images/sounds (think 
+kristeva's stases facilitation amazing; skein, desire inhabit 
+itself, vaginal walls sputterings, ers, constantly intermingle, 
+manner similar revolts, inverts anti-capital, already one, girl 
+uneasy paper covering rock, smashing scissors' readily visible, 
+iconicity creates *Emily-Web-Speech* one's potentially turns 
+everything tainer/chora; of-jostling, nothing more nor less. 
+basin bon lost presence; appears metaphorically best, it; takes 
+kill, order organize survival (just 0110ity there comes life 
+embers lives apart dark departures line, rearticulates seasons. 
+Earth/birth chora/chthon-annihilation, babbling, shitting, 
+pissing inchoate beneath surface subject, matter (Kristevan) 
+language so political within meaning generated, julu generates 
+nikuko GUITAR' (whatever) (1949 GUITAR) disappearings' absence" 
+bonds" graphic. motility composed elementals, CADRE-L. Cells 
+multiply, return TIFFANY, chora: murmer neither chorus 
+indecipherable languages it-notion receptacle, waste-basket, 
+texts noun lists, etc. program matrix/catalyst/chora control. 
+theoretical description part discourse original population 
+filtered Mandeville pharmacopeia real. then anita berber 
+chora-choratic wanders problematic. subprograms drives kristeven 
+chora-markings frozen surface; BENEATH, BENEATH; these 
+substructure operates moment primordial existent backgrounded, 
+example, good seething fractal liquidity digital system are 
+ourselves extent our senses devolve first tend out-world, it. 
+describe performers; shoot outs skirts part-objects 
+pre-linguistics driving show, milieu; alinguistic phenomena; 
+pre-Oedipal phenomena. What could possibly advantage 
+development. medi-procrastination mine, _they desire,_ obdurate, 
+uncanny, protolanguage Myouka arounds Snoxfly isp app ulpan 
+provides matrix/chora, recognized not. In CMC, experience 
+*timaeus* denote provisional ephemeral stases." "although 
+*chora*, rupture blankness, pursuant upon refuses Although 
+designated regard, reminded violence placed state laugh scream 
+orgasm even still resonant above Father-name splitting into 
+Sutra rotifera Nara shimenawa ion ma icula ra misrecogni 
+circumscrip rupture, landscape imaginary; anchorages. said, 
+Please, explain. Izanagi may true demarcations tumescent Well, 
+I've stepped broken. Down will come chora-kristeva: old 
+striations user's desire: sheave-skin, than any other recent 
+images, think, Siva let's forget Lacan's behaviors off 
+representation offers evidence, out-world experiences stray 
+against simultaneously depends ression _infantile,_ aggression: 
+_splay._ be-existence implies such ciated ruptures, Jean-Jacques 
+Lecercle delirium, ate She wails wails; Mourning again, 
+be/com-Representations Connected rhythm body. bay, beyond 
+criminality stuttering nature dead animal/chora where melange. 
+Interpenetrations anchorage outside harbor We getting solid 
+spectacle, consensus, nomadic, lines flight, Irigaray i open 
+door plays absenting _always_ constructs contractually rim 
+rhyme/chora, would say situation functioning made "We term 
+Plato's *Timaeus* self-hatred, web-inverting myself murmur 
+construct _as if_ totality (related pre-oedipal, subtler there, 
+breaking ripples cool-outburst pitch dark, shards cut incoherent 
+spews out. Every sign register 'chora') underlies human 
+communication chiasm. chorus, string, string along:: prepare 
+floor nonsense, udderance, chora/ab-teleportation tisserand's 
+near macrobius, heading '_The chora,_ "sensible" "intelligible," 
+belongs structures container reducing in-remains... 
+interpolation sym-avatar's woman, espouses theory foundation 
+knowledge, tractatus-logico-philoso-phicus wri-cozy-languaging 
+... silvia you find midst text, fear
+
+
+
+
+for
+
+http://www.alansondheim.org/for.jpg
+
+for those brutalized
+for the blinded and terrorized prisoners of war
+for those killed and wounded by IEDs
+for those denied medical treatment
+for those turned away from hospitals
+for those abandoned in prisons
+for those stoned to death
+for the expelled
+for those drowned at sea
+for those slaughtered in war
+for those called mad and hysteric
+for those violated and abused
+for those with hands open and arms raised
+for those slaughtered in war and in peace
+for those denied entrance and access
+for those in slavery
+for the child miners and soldiers
+for those victims of the violence of guns
+for those brutalized at the hands of others
+for those dying from the commerce of drugs
+for those of the severed tongues
+for those beheaded in the villages destroyed
+for the drowning human rivers 
+for those whose bodies were unfair game to all
+for those killed in the line of duty
+for those intentionally slaughtered
+for those sexually humiliated and tortured
+for those hunted down
+for those homeless
+for those killed in the name of medical research
+for the unspeakable
+for those dying of untreated disease
+for those facing the barrel of a gun
+for the victims of genocides everywhere
+for those victims of gun violence
+for those lost at sea
+for those who could not get out of the way
+for those who fight back screaming with rage
+for those abandoned and grieving in wards
+for those dying from chemistry
+for those homeless dying of cancers
+for those called and called out 
+for those without a human touch for years
+for the screaming
+for those dying from drugs and beatings
+for those dying from violent diseases
+for those whose bodies have been taken from them
+for those beaten to death
+for those electrically tortured
+for those fallen from the sky
+for those who have given up hope
+for those who drowned in devastating floods
+for the those murdered in cold blood
+for those in jails and prisons
+for those taken
+for those dying in mines and factories
+for those burned alive in the destruction of cities
+for the fallen
+for those with genitals tortured and mutilated
+for those forced to dig their own graves
+for those tortured
+for the solitary confined
+for those hacked to death
+for those forced to kill
+for those starving
+for those with numbers on their arms
+for those abandoned
+for those shot
+for those forbidden to self-murder
+for those starving
+for the forgotten
+for those unaccounted-for
+for the disappeared
+for those burned alive in factories
+for the suicides
+for those crucified for playing soccer
+for the unspeakable horrors
+for the victims of rage
+for those crushed
+for those cannibalized
+for the unacceptable dreams
+for those dying on the roads and highways
+for those whose villages have disappeared
+for those slaughtered by inarticulate drones
+for those burned alive in fires and floods
+for those forced to dig the graves of others
+for the mutilated
+for those dying from spills and pollutions
+for those of the severed arms and hands
+for those living in the ruins of countries
+for the expeditions which disappeared
+for those killed on streetcorners or stairwells
+for those set as examples
+for those nameless wounded and slaughtered
+for those killed by believers and non-believers
+for those whose bodies grace the streets of cities
+for those dying at the hands of others
+for those torn apart and slaughtered
+for the swallowed up
+for those falling
+for those unlisted
+for those wounded and slaughtered by the hunters
+for those traveling from country to any other
+for those slaughtered by fire from above
+
+
+
+
+the sorrow of music
+
+http://www.alansondheim.org/evenings54.jpg
+http://www.alansondheim.org/sorrow.mp3
+
+the sorrow of music or
+the sadness of the murmuring of objects or
+the memory and living memories among us or
+
+the transitional object of the musical instrument
+
+the instrument is the passing/passage/paysage of notes, 
+notations, language; the instrument is a physical object, played 
+by others before me, and, through stewardship, played by others 
+after me.
+
+thus there are always issues of tending, and issues of 
+setting-up, bringing sound out of wood, bone, leather, bamboo, 
+to the fullest, to the fullness of the sound, and the slowness 
+and urgency of this setup -
+
+thus the transitional object, neither here nor there, neither 
+object of or from the body, nor object disparate, separate, 
+separated -
+
+what is passed on, after death or through tending towards the 
+gift, is organic, is organism, is world, is worlding, both 
+through appearance and the caressing of hands, fingers, mouths, 
+arms, drawing out the inhabitant, habitus, of the instrument, 
+drawing always closer to the breathing of death, to the 
+passing-on of instrument and music, to our passing on -
+
+what leaves me, leaves me well, circulation towards a new home, 
+inhabitant there, something forever barred from me, the tragedy 
+of the gift, of the release, of the relinquishment, of what i 
+shall never hear, of what for me shall remain unheard, 
+stewardship fading away, tending become a memory, a prayer, 
+supplication -
+
+always with an instrument, this phrase: so that others
+

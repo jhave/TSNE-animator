@@ -1,0 +1,75 @@
+
+
+An Incident
+
+
+---- World sotatsu ----
+% Connection to sotatsu established.
+
+Welcome to Kyoto-MOO!
+
+A moment of stillness just before the invention of radio. you are
+entering a world of speaking bodies; everyone is close at hand. If
+you reach out, you touch us with your bright thinking. Welcome to
+Kyoto!
+
+% Activity in world hokusai
+
+Yurt
+hovel where Wizards hang, bones in front, skins behind
+You see basin, human, lump, and stuff here.
+Last connected Wed May  7 02:09:15 1997 EDT from panix3.panix.com
+---
+You have no messages on your Answering Machine.
+You join Hokusai.
+
+Kyoto
+an intense clearing, city-basin, distant humans, everywhere visible...
+You see snow, Luminous Sign, and the City of Wind here.
+Hokusai is here.
+You say, "Hello, friend Hokusai."
+
+---- World hokusai ----
+[ Sotatsu connected (Yurt) - total 2 users online ]
+Sotatsu teleports in.
+Sotatsu says, "Hello, friend Hokusai."
+You say, "Hello, my friend Sotatsu. I am tired, I am about to sleep..."
+
+---- World sotatsu ----
+Hokusai says, "Hello, my friend Sotatsu. I am tired, I am about to sleep..."
+You say, "Ah, well I shall guard you well, Hokusai.."
+
+---- World hokusai ----
+Sotatsu says, "Ah, well I shall guard you well, Hokusai.."
+You say, "Thank you, friend Sotatsu. I do say good night beneath the
+ stars and crickets..."
+
+---- World sotatsu ----
+Hokusai says, "Thank you, friend Sotatsu. I do say good night beneath the
+stars and crickets..." 
+Sotatsu is silent, the moon is beautiful ...
+
+---- World hokusai ----
+Sotatsu is silent, the moon is beautiful ...
+You say, "Ah ..."
+*** Disconnected ***
+% Connection to hokusai closed by foreign host.
+
+---- World sotatsu ----
+Hokusai says, "Ah ..."
+You hear a quiet popping sound; Hokusai has disconnected.
+You say, "Alas, Hokusai, where are thou?"
+look Hokusai
+                                Hokusai                                 
+Major Japanese Neurotic Ukioyi Artist!
+He is sleeping.
+
+You say, "Ah yes, you are here ... after all ..."
+
+Sotatsu is quiet for a time.
+You say, "I will guard you forever here, do not be afraid ..."
+
+*** Disconnected ***
+% Connection to sotatsu closed by foreign host.
+---- No world ----
+

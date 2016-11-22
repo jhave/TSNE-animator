@@ -1,0 +1,38 @@
+-
+
+
+TwinWorlds
+
+
+Beautiful Kyoto-MOO was reset with a core, MOO-1.8.0p3/, open to gates at
+port 8888; alas, there were certain functions... such as the +enter editor
+that would not work with confusion. As I have said. I opened a second MOO, 
+with an older core: 
+
+Beautiful Kyoto-MOO was reset with a core, MOO-1.7.9p2/, open to gates at
+port 7777; and all functions, as before, worked beautifully. As I have
+said, I exported the database, a.db over to Beautiful Kyoto-MOO #8, with
+all its heartbreak and pathos. 
+
+Uneasy doubles, these are twin-worlds, with the same pains, labor, and
+anxiety, with different behaviors on a number of functions, but with the
+same overall structures. They carry the same ghosts, the same scarred
+functions and borrowings from other MOOs; they carry the same dead letters
+and welcome messages. The logs are different, begin and increasingly di-
+verge. The logs and what else happens, the history upon history, the
+doubling or layering that creates cracks, splits, increasingly convoluted,
+chaotic. 
+
+Oh #8 is a lonely MOO, #7 gathering attention for the beauty of hir inter-
+ior and smoothly flowing processes. It's as if... from this moment on...
+
+I am already in a process of uncanny mourning - _uncanny,_ because of the
+doubling and all the issues (genetic, mirror-stage, chiral, eternal-re-
+turn, etc.), that twin-worlds imply. And a process of _mourning,_ because
+of the loneliness of #8, faltering, slightly awkward with its additional
+tracebacks and confusions, running alone, almost totally isolated, its
+newly-granted history pristine and stillborn. 
+
+There's no solution to any of this - I am distraught...
+
+

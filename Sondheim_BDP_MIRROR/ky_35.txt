@@ -1,0 +1,28 @@
+
+
+
+
+Useless Expenditure of Energy
+
+
+Set x = 1
+Procedure A
+Multiply x by 1.
+If x is greater than 1 then stop; else
+Goto Procedure A.
+
+Set x = 1
+Procedure B
+Add x by 0.
+If x is greater than 1 then stop; else
+Goto Procedure B.
+
+I will set these programs to run and I will run these programs.
+I will run them in fast compiled languages on and on and on.
+Sooner or later they will stop and I will have made something.
+What I will have made will not be too large or too small.
+What I will have made will just stop the programs.
+That will be a useless expenditure of energy because I could have just
+decided to have stopped them by myself.
+
+

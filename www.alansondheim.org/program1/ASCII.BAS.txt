@@ -1,5 +1,0 @@
-NOW: PRINT CHR$(x);
-PRINT x;
-x = x + 1: IF x > 255 THEN STOP
-GOTO NOW
-

@@ -1,0 +1,87 @@
+
+
+Memo, Love of Memo (which I'd dedicate to Spoerri, but that's obscure!)
+
+
+These are your current messages:
+
+Water plants.
+Saul - for 1962 issue, essay on truth, Wittgenstein, Israel 62-63.
+Lawyer for title search?
+Theresa Senft's in town towards the beginning of September
+Contact Peggy Ahwesh for speaking at Bard, YAY, in the fall
+Sven and Sonia for final dates, etc. next Monday 18th 
+Foofwa, weekend? Chris / Phyllis
+Reading Oct. 30 / New Obs / Chris A. on book / Jamie /Guiseppe on book
+
+Of less than passing interest, a memo for your amusement - this remaining
+on my linux box for the time I was in Fukuoka. The plants were watered,
+the issue may be in abeyance, the title search wasn't necesary, I missed
+Theresa, I spoke at Bard, the final dates weren't so final, I saw Foofwa
+and Chris, I never met Phyllis, I did the reading, Chris A. published the
+book YAY, Jamie I never heard back from, Guiseppe's still in touch very
+occasionally.
+
+Actually, the plants were gone, delivered to 'Tom and Leslie''s, where
+they have flourished beautifully, they include a somewhat rare opuntia
+gathered with Margaret from a Georgia sea island. Tom's also got a North
+Carolina version, and has promised me a cutting - we'll see! Their roof
+garden is doing wonderfully, although a tree fell off the wooden deck
+directly onto the asphalt. High winds! 
+
+Bard, I hardly remember. I was going to play a videotape, but the talk
+dominated. This has happened recently - I show up with multimedia in hand,
+then proceed to ignore it. I remember the tape was somewhat sexual,
+abject, and discomforting, dealing with net sex, and I thought it might
+have gloomed the room. (Not that net sex is gloomy - but the student body,
+literally, was conservative, and I was feeling depressed anyway.) Now, in
+New York, it's filed away somewhere - I can't find it, because the whole
+loft has been rearranged, and the tapes taken up and placed in bags. 
+
+Theresa was co-editor of the Women and Performance issue on Cybersex,
+which I _do_ have somewhere around here; I had a short piece in it dealing
+with Net addiction, seeing the world through the affect of the screen. My
+mother read it and for a change seemed to like it, although found it sad. 
+
+Since I've returned, I've been looking to pick up work, and I find it
+difficult to get teaching; I was told that enrollment is down at the New
+School because of the Asian crisis - students not coming. The same seems
+to be true in Australian universities. This effects me directly; I haven't
+been able to find any employment at all, and am thinking of doing a 'tour'
+with my theory-and-practice work in hand, in the fall. At least then I'd
+be doing something I love! In the meantime, I have an appointment with
+Sven in mid-June. But I'm 55, and who will ever hire me again? 
+
+Chris is great by the way! I will see her when I return from Pennsylvania
+at the end of next week. She asked me if I wanted to watch the last Sein-
+feld episode with her, but tomorrow is trash collection day, and I'm
+taking out more of the trash that Pieter has left behind. Mark is supposed
+to help me, and will, after nine o'clock, and I worry that Julie will be
+kept awake by the noise. As for Julie, I'm teaching her internet tomorrow
+night!
+
+The reading was with David Bromidge and went really well - I used a Mac
+and its voices to complement my own, not compliment! I loved it! The Mac
+sang and sang and I just went ahead and read along with it. The texts were
+Jennifer and Julu texts, some close to unpronouncable; the machine did
+marvels. We had a nice audience and yes, compliments as well!
+
+The memo, by the way, is from a memo program I wrote in Perl 5; I run it
+on login, with my panix shell account, as well as my linux box. I had it
+running at gol.com in Japan, but gol.com decided not to let users run
+ANYTHING from their shells, more and more protection for their own good,
+not ours. Shell programs still run there, but nothing else; I haven't
+rewritten for the shell. I won't!
+
+The Moon is Waning Gibbous (95% of Full) (This is now, not then, the pro-
+gram coming into play as soon as logon is completed. But then the date has
+apparently skipped a beat.)
+
+
+Would you like to erase lines? If yes, type y.
+
+Would you like to add to current message list? If so, type y.
+
+{b:1} seyon
+
+

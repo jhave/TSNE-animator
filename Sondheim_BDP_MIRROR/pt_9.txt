@@ -1,0 +1,22 @@
+
+[2;1H
+[Ringing sondheim...]
+[20C#######################################
+[39D#
+[13CYtalk Error
+[13C#
+[39D#
+[37C#
+[39D#  sondheim@panix.com not logged in   #
+[39D#######################################
+[19D
+[Waiting for connection...]
+[17B
+[19;1H
+[?1l
+>$ s me there
+/usr/local/bin/ksh: s: not found
+$ ytalk sondheim@panix.com
+[1;19r
+[?7h
+[H

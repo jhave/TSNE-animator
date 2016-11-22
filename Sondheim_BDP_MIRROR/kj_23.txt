@@ -1,0 +1,36 @@
+
+
+
+Auto-Echo Poem of Jennifer and Nikuko
+
+
+Script started on Thu Jun 11 01:49:57 1998
+warning: could not update utmp entry
+$ telnet panix.com 7
+Trying 166.84.1.66...
+Connected to panix.com.
+Escape character is '^]'.
+oh jennifer i see you mirrored in my loving face
+oh jennifer i see you mirrored in my loving face
+oh nikuko it is as beautiful as an echo protocol repeating every time
+oh nikuko it is as beautiful as an echo protocol repeating every time
+oh jennifer i hunger for your imaginary tell-me-where
+oh jennifer i hunger for your imaginary tell-me-where
+oh nikuko every echo poem carries an uncanny aura of truth and murmur
+oh nikuko every echo poem carries an uncanny aura of truth and murmur
+oh jennifer you are my hunger i am your hunger thirst-for-truth
+oh jennifer you are my hunger i am your hunger-thirst-for-truth
+oh nikuko i am your hunger you are my murmur-thirst-for-sound
+oh nikuko i am your hunger you are my murmur-thirst-for-sound
+oh jennifer and nikuko oh nikuko and jennifer
+oh jennifer and nikuko oh nikuko and jennifer
+this echo protocol reverberates our words of beauty-love
+this echo protocol reverberates our words of beauty-love
+^]
+telnet> close
+Connection closed.
+$ exit
+
+script done on Thu Jun 11 01:53:03 1998
+
+

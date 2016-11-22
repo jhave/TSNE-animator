@@ -1,0 +1,29 @@
+
+
+ home
+
+ you may decide to visit your homeland, you may try and read the code. you
+ may type nervously, there are beautiful clouds in the sky, pink-yellow,
+ scudding into darkness upwelling. you know how little you understand, what
+ you do and how you do it. you may decide to open your mouth, your mouth
+ takes in all languages of the world, you may decide to close it, you may
+ hear yourself, you may hear yourself speaking, how little you understand,
+ chop($that=<stdin>);=~ tr/aeiou/$alphabet($alpha)/;print "\nthis $that
+ speeds endlessly through the body - \n";t "your $nnn[$nnnn] is the curr-
+ ency of my drug - \n"; sleep(1);print "ah...\n";print "\nyour bones are my
+ $nnn[$non1]? \n";chop($str=<stdin>);($str eq "no") {print "\nshow me my
+ body, show me my wetware...\n"; sleep(10); gotolse {print "\ni love your
+ feelings, $that ...\n";}, you may find yourself loving nothing, you may
+ write this as a note to yourself, you may think to yourself, there is
+ little else in this world, there is nothing in these and other worlds, you
+ may look at yourself with a microscope and an x-ray, you may examine your-
+ self with an mrs and an eeg. and you may translate images, you may trans-
+ late pages of writing, you may see your molecules with your own eyes in
+ the comfort of your study. and you may sleep a long sleep, you may live in
+ your bones, you may change into your drugs, you may swallow yourself, you
+ may inject yourself,
+
+ and then you may find yourself, you may find yourself visiting your home-
+ land, you may live within the comfort zone, you may find yourself home.
+
+ 

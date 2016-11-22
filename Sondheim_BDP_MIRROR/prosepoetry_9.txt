@@ -1,0 +1,2 @@
+ /non-enlightenment /g' yy > zz
+sed 's/+

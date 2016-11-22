@@ -1,0 +1,8 @@
+ 
+
+Dec 14 05:02:32 end_request: I/O error, dev 02:00 (floppy), sector 11 
+Dec 14 05:02:33 end_request: I/O error, dev 02:00 (floppy), sector 47 
+Dec 14 05:02:37 end_request: I/O error, dev 02:00 (floppy), sector 11 
+Dec 14 05:04:14 end_request: I/O error, dev 02:00 (floppy), sector 19 
+
+ 

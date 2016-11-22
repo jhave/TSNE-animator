@@ -1,0 +1,42 @@
+
+
+
+two of them queued forever
+
+
+  PINE 4.02   MESSAGE TEXT           Folder: INBOX  Message 16 of 28 70%
+
+   ----- Transcript of session follows -----
+... while talking to igc7.igc.org.:
+>>> MAIL From:<sondheim@panix.com> SIZE=349
+<<< 451 queuename: Cannot create "qfEAA19665" in "/var/spool/mqueue" 
+(euid=0):
+No space left on device
+Deferred: 451 queuename: Cannot create "qfEAA19665"
+in "/var/spool/mqueue" (euid=0): No space left on device
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+
+_dramatic-script boy_ wonders what the message is: does he have to re-
+write? or in other words how many and for what purpose? who is the device,
+wonders _the continuity girl,_ thinking perhaps the same as before, while
+the message ages during the difficult process of birth. _he_ turns to
+_her,_ wide-eyed and bushy-tailed, so exuberant in the very early morn-
+ing!
+
+it's the role of the _dramatic-script boy_ to keep things moving along, he
+feels; he's given himself the old monicker of a non-existent position.
+he'll look after the scripts, just as well as the next person, and in a
+far more dramatic way! _the continuity girl_ will be proud of him, perhaps
+even slipping a little out of her slip as she adjusts the flowers in the
+vase in the corner of the room in the scene in the film in today's shoot-
+ing of the script held so dramatically by the _dramatic-script boy!_ 
+
+they are so loving and adorable and cute, standing there in the wings of
+the big stage waiting to do what they are best at doing, holding and
+moving the script dramatically, and awaiting the interval between one
+scene and another, one message and another, making sure reality is all
+that it is cooked up to be, nothing changing, or at least nothing chang-
+ing _very much!_
+
+

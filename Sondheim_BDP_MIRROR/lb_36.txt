@@ -1,0 +1,55 @@
+
+
+
+texts embedded in images 
+
+
+(to be added at http://www.anu.edu.au/english/internet_txt)
+
+(image i, ecstasy)
+
+this is the text that accompanies the image. this is the image that floats
+the head against her dreams, but this is not a dream image. this is the
+image that is real, that haunts across cyberspace, that requires the
+digital to explicate the analog. do not forget, my friends, the analog,
+the wave or field, in the midst of the particle, the shuddering of margins
+irreducible. do not forget the sky, those places seen out of the corner of
+your eye, moments of ecstasy, angels walking along curbside, always
+already on the verge of disappearance. i would know disappearance,
+embedded images in the text of the real, just as this is embedded text in
+the image of the real, already textualized, high and keening notes, you
+would forgive me, these are real tears, the weeping of the physical. do
+not forget the angels, who surround you, multitudes whose diffraction do
+make a shimmer when the sun peels itself against the sky. oh that air
+shapes within air, you can imagine wars and harrows there, imagine the
+embedded sky. when the sky is within the sky, i will come to you, broken
+into digital, reformed once more, when the sky's within the sky. they were
+right in the hearing, we, in their listening, listen, and 'this is the
+text that accompanies the image, and this is the image that floats'
+
+(image iii, sky)
+
+		       Sky-Shogi Deconstruction
+
+	      0b   0b   0b   0b   0b   0b   0b   0b   0b
+	      0b   0b   0b   0b   0b   0b   0b   0b   0b
+	      0b   0b   0b   0b   0b   0b   0b   0b   0b
+			  - - - - - - - - -
+			  - - - - - - - - -
+			  - - - - - - - - -
+			  - R - - - - - B -
+			  - b - - - - - r -
+			  L N S G K G S N L
+			  P P P P P P P P P
+			  l n s g k g s n l
+			  p p p p p p p p p
+
+  Black 0:00 White 0:00 Black 0:00 White 0:00 Black 0:00 White 0:00
+       Book used 0(8000). Book used 0(8000). Book used 0(8000).
+	  Can't find book. Can't find book. Can't find book.
+       Segmentation fault Segmentation fault Segmentation fault
+      Your move is?  Your move is?  Your move is?  Your move is?
+       It's not my fault. It's not my fault. It's not my fault.
+          It's your fault. It's your fault. It's your fault.
+
+

@@ -1,0 +1,67 @@
+
+
+oh, i'm just going away, my fingers are tired, the sound of the keyboard
+sounds like screams in the night, the flatness of screens slams into my
+heads, voices from speakers don't answer back, oh i'm taking a rest, i'm
+going away, i'm never outside, i'm never inside cd /dos/project ls pico
+violence b ls ls less hunger less fucking less hunger ls h more hunger ls
+cp violence ~/ cp sex ~/ less sex ls cp love ~/ less foreplay startx pwd
+cd ls cd /dos/b cp fucking /dos/b ls wc violence cd /dos/project wc love
+wc violence less violence ls h shutdown -r now
+
+_____
+
+
+interval
+
+
+her: Fri Feb 18 12:39:04 EST 2000 resting on the printed pages of a book
+india ink transforms the spaces I am surrounded by infinite others my
+desires are exposed and your desires are written between the lines part of
+me lingers and all aspects of myself yearn to be uncovered pressed between
+the pages and bursting forth inside my head I wait exposed waiting ... Fri
+Feb 18 12:48:35 EST 2000
+
+me: Fri Feb 18 12:19:39 EST 2000 nothing is comfortable here; entities
+fall apart; objects are lost; i hear rumors, nothing more; it's as if the
+whole space were shuddering; the space is glued to me; i'm burning; within
+truth lies in madness and depression; if you do the mathematics of the
+economy of populations, you discover that the poorest among us has the
+same limbs as the richest; everything is hidden; there are fissures in the
+walls, gloatings in my cracked skin, interior light, limbs breaking out,
+buds and bruises; desires expand into their spaces; here i say my skin;
+you can see outlines of blindness against the musculature, mouths opening
+everywhere; everyone wants to tell all! i see myself cloaked in cracked
+skin, twisting and turning; these are convulsions. i inhabit my bruises;
+only for your eyes, my visible desires; who am i. now pressed against my
+face, an upper palate. walking among strangers in a familiar city: i lived
+among you. what else is there to tell, i speak myself to myself, skin
+stitched to skin, as if you would know this, there was a commitment of
+surgery, surgery was committed, i was given the material world, now;
+talking to myself, for just a second, i'm closed down again; bad connect;
+Fri Feb 18 12:28:40 EST 2000
+
+it: date >> bb dialog --msgbox "interval program" 0 0 dialog --yesno "you
+are on the far side of the interval" 0 0 if [ $0 == 1 ]; then dialog --in-
+putbox "what do you perceive around you" 0 0 2>>bb else dialog --inputbox
+"describe your comfort zone" 0 0 2>>bb fi dialog --yesno "are you afraid
+inhabiting this region" 0 0 if [ $0 == 1 ]; then dialog --inputbox "what
+are you going to do about it" 0 0 2>>bb else dialog --inputbox "why do you
+remain here" 0 0 2>>bb fi dialog --inputbox "are you alone" 0 0 2>> bb
+dialog --yesno "can you see your desires here" 0 0 if [ $0 == 1 ]; then
+dialog --inputbox "what are these desires" 0 0 2>>bb else dialog --input-
+box "are your desires always secret" 0 0 2>>bb fi dialog --inputbox "can
+you face yourself in the interval" 0 0 2>> bb dialog --msgbox "this is the
+interval program, please continue" 0 0 dialog --inputbox "where are you
+now" 0 0 2>> bb dialog --inputbox "where were you then" 0 0 2>> bb dialog
+--msgbox "this is the interval program, please continue "  0 0 dialog
+--inputbox "tell us everything, everything" 0 0 2>> bb dialog --textbox bb
+0 0 cat bb >> dd sed 's/ i / yon /g' bb > cc sed 's/ you / i /g' cc > bb
+sed 's/ yon / you /g' bb > cc sed 's/ am / aq /g' cc > bb sed 's/ are / am
+/g' bb > cc sed 's/ aq / are /g' cc > bb sed 's/ my / mn /g' bb > cc sed
+'s/ your / my /g' cc > bb sed 's/ mn / your /g' bb > cc sed 's/ mine /
+minq /g' cc > bb sed 's/ yours / mine /g' bb > cc sed 's/ minq / yours /g'
+cc > bb dialog --textbox bb 0 0 dialog --inputbox "addenda: where are you"
+0 0 2>> bb date >> bb dialog --msgbox "end" 0 0
+
+

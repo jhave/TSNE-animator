@@ -1,0 +1,22 @@
+
+
+
+
+HTML Guide
+
+
+Still another O'Reilly recommendation - HTML, The Definitive Guide, Chuck
+Musciano and Bill Kennedy. I recommended O'Reilly books before, and some-
+one from the company got in touch with me; I got to tech review Running
+Linux. I like their texts which don't outdate for the most part and seem
+ecologically valuable - the HTML Guide for example constantly deals with
+issues of access, <alt> tabs, bandwidth eating by http-equiv="Refresh" 
+and so forth. In fact it recommends caution with "dynamic documents" in
+general. The idea of Net ecology (my term here) fascinates me - perhaps
+someone would write a Green document for the Net in general. 
+
+In any case, I recommend the book; one can learn html in a couple of 
+hours, and it's the best laid out work on the standard that I've seen.
+
+Alan
+

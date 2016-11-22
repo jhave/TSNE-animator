@@ -1,0 +1,22 @@
+
+
+
+dialog --inputbox  Hello-Please-type-your-name-in 8 45 2>> xx
+dialog --inputbox  Please-write-something-now 8 45 2>> xx
+dialog --inputbox  Did-you-like-what-you-wrote-? 8 45 2>> ww
+dialog --inputbox  Please-write-something-again 8 45 2>> xx
+dialog --inputbox  Did-you-like-what-you-wrote-this-time-? 8 50 2>> ww
+dialog --inputbox  Please-write-something-once-again 8 45 2>> xx
+dialog --inputbox  Now-did-you-like-it? 8 45 2>> ww
+dialog --inputbox  Please-write-something-once-more 8 45 2>> xx
+dialog --inputbox  And-this-time? 8 45 2>> ww
+dialog --infobox  "The following is what you wrote" 3 45
+sleep 1
+dialog --textbox xx 15 45
+dialog --infobox "And the following is how you liked it" 3 45
+sleep 1
+dialog --textbox ww 15 45
+dialog --infobox "Thank you" 3 45
+sleep 1
+
+

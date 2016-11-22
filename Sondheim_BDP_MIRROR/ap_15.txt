@@ -1,0 +1,26 @@
+
+
+FOP-L (Fiction-of-Philosophy)
+*
+*  Country        Subscribers
+*  -------        -----------
+*  Australia             11
+*  Canada                 6
+*  Finland                1
+*  Germany                3
+*  Great Britain          6
+*  Italy                  1
+*  Japan                  1
+*  Norway                 1
+*  South Africa           1
+*  Spain                  1
+*  Sweden                 2
+*  Taiwan                 1
+*  USA                  103
+*  ???                    8
+*
+* Total number of "concealed" subscribers:         1
+* Total number of users subscribed to the list:  146  (non-"concealed" only)
+* Total number of countries represented:          14  (non-"concealed" only)
+* Total number of local node users on the list:    0  (non-"concealed" only)
+*

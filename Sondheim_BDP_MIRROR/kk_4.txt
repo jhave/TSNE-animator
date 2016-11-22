@@ -1,0 +1,22 @@
+
+
+dialog --yesno tulip 5 30;
+dialog --yesno if-tulip-yes-then-pansy 5 45;
+dialog --inputbox if-tulip-no-why 8 45 2>> yy ;
+dialog --yesno if-tulip-no-then-pansy 5 45;
+dialog --inputbox if-tulip-yes-why-not 8 45 2>> yy ;
+dialog --yesno if-tulip-yes-and-pansy-yes-then-nightshade 6 60;
+dialog --inputbox would-you-like-to-drown-with-me 8 45 2>> yy ;
+dialog --yesno if-tulip-no-and-pansy-yes-then-nightshade 6 60;
+dialog --textbox .d 8 45
+dialog --yesno if-tulip-yes-and-pansy-no-then-nightshade 6 60;
+dialog --inputbox tulips-are-your-colour,-why? 8 45 2>> yy ;
+dialog --yesno if-tulip-no-and-pansy-no-then-nightshade 6 60;
+dialog --infobox "then-pansy-and-tulip-and-nightshade" 6 60;
+dialog --textbox yy 10 45;
+dialog --infobox "then-lips" 8 20;
+dialog --inputbox then-smoothing-green 8 45;
+cat yy
+sleep 2
+dialog --infobox "fin" 4 20
+

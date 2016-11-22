@@ -1,0 +1,121 @@
+
+
+1. Uncomfortable notes on the poetics of captured human behavior:
+
+
+[for Epoetry 2011]
+
+
+The following is an outline of my recent work, which is based on a 
+semiotics of the human body that relates to political and environmental 
+concerns, choreography, and so forth, but is not based on particular 
+graphemes or vocabulary. [Because of illness, I wasn't able to give this.]
+
+
+I use motion capture in a variety of ways, emphasizing a poetics of 
+movement that works through motion-transformation, motion-invention or 
+discovery - in other words, I use motion capture for things beyond the 
+standard reproduction of human movement.
+
+Think of a set constituting the range of human actions, as described by 
+Rudolf Laban:
+
+Then think of different sorts of transformations T, that can be applied to 
+ this range through modified motion capture.
+
+The result is an unlimited range of actions, preserved in files, which can 
+ be used in virtual worlds, in mannequin software, or for augmented 
+ realities. I describe this as:
+
+{range of human actions, Laban A} 
+> T > 
+{unlimited range of actions B}
+
+What is T?
+
+a. software interface (dynamic behavior filtering) transformations
+ - WVU changing the software itself, some node remappings. 
+When I was at WVU, we reworked the software for the older motion capture 
+ equipment at the Virtual Environments Lab; the result was the ability to 
+ create dynamic filtering, which modified the original actions.
+
+b. hardware (distribution, remapping) transformations
+ - remapping the nodes on one performer, distributions as in c.
+Or the hardware could be mapped differently - the nodes could be assigned 
+ different positions on the body, than the usual.
+
+c. social transformations (many into one, distributed mappings)
+Or - and this is most pertinent - the nodes for a SINGLE AVATAR or 
+ representation could be distributed among several people, resulting in a 
+ SINGULAR BEHAVIOR, assigned to one avatar, but representing a social 
+ confluence - many people controlling one body.
+
+The REAL BODY bound by skeletal connectivity, Jordan surfaces; 
+But the transformed body bound by skeletal connectivity, twisted/tangled 
+surfaces
+
+In other words the links in the transformed body can bend in any 
+ direction; the links in the real body are confined by human skeletal 
+ potentials + topology
+ (topological embedding in four dimensions):
+ think of this as a tensor calculus of human movement
+ think of this as a topography of flesh and sinew
+
+The following typology emerges - this is where my work is taking me:
+
+Ruptures created by the general calculus above, ruptures through the 
+ calculus or in the calculus. This breaks down as follows:
+
+Ruptures in the calculus:
+ the tortured or wounded body
+ the body convulsed in pain
+ the catatonic body
+ the terrorized body
+ the broken or 'defective' body
+
+Ruptures through the imaginary:
+ the nightmare
+ the orgasm
+ hysteria/ boundaries of laughing and crying
+ the confined body/ body of s/m
+ the forgotten or abandoned body
+ the hyper-sexualized body transmitters/ receivers
+ hallucinations and other phenomena (Dendy's Philosophy of Mystery)
+
+Ruptures of the body invaded by capital:
+ prosthetics
+ X-scopic surgeries
+ rfid implants
+
+Ruptures of the body invaded by the imaginary:
+ (capital of the imaginary, imaginary capital)
+ psycho-tropics/overdetermined associations/disassociations
+
+Ruptures of the body by an augmented real:
+ sports, steroids, body-building, and so forth
+
+Think of all of this together:
+
+Invasions of the imaginary, invasions of capital, of the augmented real,
+ invasions through the imaginary: invasions or invaginations, 
+ incorporations or intensifications? These terms entangle and return to:
+
+Either the proper body, or the body as heap;
+ the articulated body, or the dismembered and reassembled body;
+ the body characterized by a real, or the body chararacterized 
+ by an imaginary;
+
+Either the fundamental topography of the body, 
+ or the fundamental topology of the body - invasions, dissolutions, 
+ruptures.
+
+Ruptures as returns of the repressed - some questions to be considered:
+
+What lexicons are at work? What economies?
+What is it that motion capture captures? 
+What is snared, what abandoned?
+What is the vocabulary of behavioral dynamics - voluntary, autonomic,
+ involuntary, intrinsic - or involuntary, anomalous and axiomatic, 
+ extrinsic?
+In other words: What is going on with us, within and without the world?
+

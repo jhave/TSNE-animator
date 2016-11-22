@@ -1,0 +1,48 @@
+
+
+
+
+Notes towards What has Been and Could Already be a Contribution
+
+
+I want to develop this notion of the relationship of the 180 degree rule
+in film/television production, to the use of directives in MOO/MUD envir-
+onments. The former stipulates camera positions in relation to staging,
+indoor or outdoor - positions that establish the location of the specta-
+tor/voyeur. They organize or articulate the world, vis-a-vis a coherent
+point of view, just as a _landscape_ also positions _viewing,_ and even
+for example Kuo H'sei grafts several such into one image/imaginary. Now
+think of this from the position of room exits or even _look_ within a MOO
+or MUD - they're almost never topologically complex spaces, but instead
+possess paths, trails, roads, streets, limousines, taxis, subways, and
+trains to move about, @go or @join notwithstanding. Wherever the partici-
+pant (I find the word _player_ problematic) is, is Origin; there is rarely
+a north pole from which everywhere is south. One can map links in any con-
+ceivable order (I have), and deliberate obscurity can be built into mazes,
+for example, but generally the layout remains rationalized. Consider the
+Monopticon on PMC; it allows one to visit random sites, and exit into
+them, by typing blink/blink/blink/etc. then exit - the _sensation_ isn't
+that of a _moving Monopticon,_ but of a _moving window_ or monitor, a
+_scanning_ of a pre-existing landscape. The phenomenological horizon of
+the subject, in other words, remains more or less obdurate, a filter or
+framework through which commands are activated. 
+
+The 180 degree rule (the camera remains on one or another side of an im-
+aginary line drawn through a scene and continued as the characters move
+elsewhere) can be violated; this leads to considerable confusion, both in
+the situating of the spectator and the diegesis itself. Because of the
+prominence of visual processing, and its reliance on orientation clues
+(these even partly govern our extrapolation of color vision), being visu-
+ally confused or thrown off can lead to virtual-reality sickness in VR,
+and disorientation in film. The result is probably stronger than similar
+operations in text-based VR, where, for example, the screen itself may
+carry remnants of space/room juxtapositions. (A better parallel might be,
+however, in the deliberate reprocessing of one's speech in MOO spaces.)
+
+For all of these reasons, one can think, of course, as a certain _machin- 
+ery_ in operation - in MOOs, MUDs, landscapes, cinema, VR, a cyborgian 
+extension of the subject through a rationalized articulation of his/her/ 
+its environment. _The subject carries the mesh._ The domain of the Net is 
+_one's own._
+
+

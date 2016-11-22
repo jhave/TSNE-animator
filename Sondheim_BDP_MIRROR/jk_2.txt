@@ -1,0 +1,20 @@
+
+
+
+rm *.*
+
+Envision a mime attachment composed of invisible escape codes; open it and
+your account disappears (this should be possible). Think of a Perl memo
+program with an unaliased rm *.* in it. Consider the consequences of such
+codes embedded in this file (none). Contemplate the html code listed in
+the current issue of Byte which hangs up Netscape as it searches for in-
+coming from a com port. Work with a cookie that disappears into a hidden
+file elsewhere in your directory, calling itself, if suitable, config.sys. 
+Construct a deltree * cookie added to the netscape-spawning site that ov-
+ertakes your ppp connection. Surprise me with a simple embedded program
+adding echo to your input. Change my stty to row 10 column 10. Make me
+yours with a new .sig Alan belongs to Jennifer. DCC me computerized pic-
+tures of myself in consensual sex with animals and the Pope. Break down my
+resistance with password violation; there's an "r" in it. Kill me softly
+with your song, until I can't sing anything else. Make me _it._
+

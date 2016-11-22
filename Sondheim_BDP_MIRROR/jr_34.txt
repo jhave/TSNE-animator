@@ -1,0 +1,40 @@
+
+
+
+Subject: Who
+
+On Panix,
+who - lists users
+whoami - lists my name
+who am i - gives my tty login
+who a b c - gives me the strangest list of all... and I have no
+idea why... and I may send this out, but beyond the
+who mother loves - tty login
+I can't tell where this command is coming from. I've tried various
+abbreviations, combinations...
+who a - is a quite nice obscure listing
+Here it is; I've changed the lone period to a # so it wouldn't read as
+end-of-file:
+
+#                Feb 20 05:48
+         o       Feb  6 04:49   (ndex.txt)
+kmarks.h lynx_booMay 21 19:57   (tml)
+         m       Jan  1 04:24
+op               Sep  3 02:20
+lang             Mar 30 03:16
+m        .save   Mar  5 12:10
+ml       index.htJan 25 01:32
+         news.htmNov 15 16:33   (tax96cd)
+         6       Jan 19 13:13   (me.htm)
+.html    rnet_txtApr  4 20:21   (bit3.jpg)
+g        test5.jpDec 31 19:00
+                 Dec 31 19:00
+                 Dec 31 19:00
+
+While I recognize these files (some of them) I have no idea what the list
+refers to...
+
+Have fun! What can YOU find with Unix WHO? (Unfair to use WHOIS, WHENCE,
+WHEN, WHERE, WHERE AM I, WHEREAMI, WHENAMI, all of which might be opera-
+tive on various systems.)
+

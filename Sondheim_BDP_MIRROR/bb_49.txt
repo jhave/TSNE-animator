@@ -1,0 +1,17 @@
+
+
+[the exit number is an integer]
+
+	[the short title is "Invagination"]
+
+[The long title is "Enfolded Invagination"]
+["You can choose to go North, South, East, or West."]
+
+[Begin and Reset]
+	[Let the exit number = a random integer times 4]
+
+[If exit number = 0,1,2,3 create an action in which player is moved to
+equivalent space 1,2,3,4,5 with 5 exit - the action dependent on a com-
+bination of player's call (North, South, East, or West) and exit number
+(i.e. if North and exit number then {action1} else {action2}.]
+

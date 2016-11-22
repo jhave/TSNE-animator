@@ -1,0 +1,796 @@
+uncanny
+
+
+
+
+
+one, two
+
+http://www.alansondheim.org/cave027.jpg
+http://www.alansondheim.org/comeforyou.mp3
+
+one has two things: an interval and an event.
+one bears witness, one dies.
+to have engulfed the witness, the interval, to be engulfed.
+one can do nothing with one's death.
+one has nothing to do with one's death.
+
+
+
+Proving
+
+http://www.alansondheim.org/proving.jpg
+http://www.alansondheim.org/proving.mp3
+http://www.alansondheim.org/proving2.mp3
+http://www.alansondheim.org/Lombok.png
+
+The qin's difficult; sometimes I have to prove to myself,
+after hating what I've done, misshapen, out of tune, 
+grotesque, but not in a way I want - that I can still 
+play the instrument, that with the proper concentration,
+things will work out, more or less, and this small corner
+of the world will feel inhabited once again. Here there
+are two qin pieces, one (proving) using hands and arms in
+the usual position, but moving quickly through difficult
+improvisation, and the other (proving) with cross-arm
+movement, playing in reverse in other words. Ah, so here
+are two pieces working in my favor. The Lombok image is
+a topographic map of the homeland my gambus, perhaps 
+more on that later.
+
+
+
+update - self portrait on the edge
+
+$ grep happy texts/*.txt | wc
+     615    7579   52027
+$ grep sad texts/*.txt | wc
+    1246   13125  100544
+$ grep depress texts/*.txt | wc
+     907    9390   76103
+$ grep life texts/*.txt | wc
+    6378   78392  563486
+$ grep death texts/*.txt | wc
+    7237   81186  588440
+$ grep birth texts/*.txt | wc
+    1840   14977  133161
+$ grep love texts/*.txt | wc
+    5311   63614  444504
+$ grep hate texts/*.txt | wc
+    1981   23835  172829
+$ grep peace texts/*.txt | wc
+     477    5140   37485
+$ grep " war " texts/*.txt | wc
+     780    9547   63741
+$ grep suicide texts/*.txt | wc
+     707    6791   52392
+$ grep mother texts/*.txt | wc
+    1289   15229  110099
+$ grep father texts/*.txt | wc
+    1113   12329   88325
+$ grep annihilat texts/*.txt | wc
+    1149   13133  106133
+$ grep tortur texts/*.txt | wc
+     546    4574   44096
+$ grep hell texts/*.txt | wc
+    2105   22525  161341
+$ grep heaven texts/*.txt | wc
+    1071   10380   74819
+$ grep happiness texts/*.txt | wc
+     151    1430   11226
+$ grep misery texts/*.txt | wc
+     325    3155   25080
+$ grep anxiety texts/*.txt | wc
+     164    1587   14039
+$ grep wound texts/*.txt | wc
+    3776   40644  311790
+$ grep pain texts/*.txt | wc
+    2528   29548  216028
+$ grep -h sick texts/*.txt | wc
+     904   10245   62184
+$ grep -h health texts/*.txt | wc
+     475    6693   40839
+
+done Sat Oct 18 23:37:47 2014
+
+
+
+frame
+
+http://www.alansondheim.org/purgatory02.jpg
+http://www.alansondheim.org/frame1.mp3
+http://www.alansondheim.org/frame2.mp3
+http://www.alansondheim.org/frame3.mp3
+http://www.alansondheim.org/frame4.mp3
+http://www.alansondheim.org/frame5.mp3
+http://www.alansondheim.org/frame6.mp3
+
+Luke Damrosch, frame drum, madal
+Alan Sondheim, violin, gambus, cura, flute, 
+ shakuhachi, qin
+
+simultaneous teething, liminal image in 
+ liminal space 
+
+
+
+
+silence of guqin
+
+the guqin as an ecosystem, biome; each of the seven strings 
+meanders along its own channels, each changes character along 
+its length, from bridge to bridge, above the waters, sky, earth, 
+each has its own silence, i would capture that, meander, with
+the sounding of a single note, dying-out, lowered or raised, 
+just that, the arch of the string, arcing, a field beneath the 
+strings, above the curvature of the sky, always the entirety 
+under tension, always the entirety in resonance, collectivity, 
+among which the note, singularity, is sounded, dying out, there 
+is no memory, there is no tune that encompasses, no image here, 
+i would assign an image, it disappears, vanishes, i live among 
+wood, wood and weather, the subtle vibrations of the floor, in 
+the midst of the slow steady rain, my arms move from one to the 
+other end, from one to the other, athletic, an encompassing, or 
+compass, designation among the seven, the duplicates, the five, 
+the thirteen, the positions, the sliding among or into the 
+positions, approaching the positions, so much memory, i will do 
+this, will play to the limit on the right, encompassing the 
+right, until sound leaves, broken, tuneless, out of tune, unable 
+to hold forth, the position so clear in the middle, in the 
+midst, where the sky divides into two, the left, musculature, 
+reach of the arm, the right, approaching infinity up to the 
+bridge, as if there were a crossing, the pool or pond, infinite 
+octaves, bent, distorted, leaving the one note behind, open to 
+emptying space, multiple universes, multiverses, each duplicate 
+of each, ranging differently, different qualities and weathers, 
+the weather of the wood, of the silk and metal, the weather of 
+the water, air and earth, the fire of the weather, tending the 
+wood among the elements, the wood breathing in the midst of 
+other lives, the wood expelling, the breath ceasing, i would 
+summon spirits, i would play among them in the hollows, cavity 
+of the guqin, i would circulate among the passages, hide against 
+the corrosion and deceit of the weather, my hands flee from the 
+energy of the extremes, in the middle they find recompense, find 
+redemption, the ordering righting in the midst of unknown 
+climate, the ordering quietly in procession, here in the middle 
+of the night, the strings among themselves sounding within me, 
+or am i wood or weather, or am i element or expulsion, what of 
+the spirit, surely they, among so many others, the room sounding 
+the guqin among, there the ceiling, the wall or a shadow of 
+sound or tone shadow sounding, i am clearing, clearing above the 
+pools, above the sky and earth, cosmos, clearing and my arms, 
+hands, moving, and there among them, and to the left, what clear 
+depths and clarity, and to the right, those infinite intervals 
+decreasing in length and speed, in movement and speech, those 
+intervals increasing in tone and pitch, i can no longer hear 
+them, so much pressure on the strings, the clearing stretches 
+infinitely before me, there are trees and lines of trees, there 
+are people singing, all the animals are there, all the plants as 
+well, soft showers and peaceable kingdoms, and the retreat and 
+expansion of the single note, all of this, this song i am 
+singing, this tone underway, this image almost visible, this 
+tune of goodness and kindness, this ballad of no death, this 
+pillar of the single note, this mountain hut, this wood old 
+beyond belief, i am of the wood, i am singing, this spirit of 
+wood and metal, fire and earth and air, surely they
+
+
+
+Dinosaur Footprint on La Quinta Inn Chair
+
+http://www.alansondheim.org/dinosaur.jpg
+http://www.alansondheim.org/dinosaur.mp3
+
+accompanied by overly quiet shakuhachi in
+La Quinta Inn
+
+structure: I meditate on the weight of a
+small dinosaur in a silted lakebed in the
+Pioneer Valley, Mass. I meditate on the
+ratio of the time taken to make the
+impression and the time since then. I
+think about the compression of my own 
+body against the chair, playing shakuhachi.
+I meditate on forms of life and the comfort
+of lifeforms and familiarity with the 
+world. I meditate on the world. I persist.
+
+
+
+
+for Emily Dickinson
+
+
+http://www.alansondheim.org/amherst20.jpg
+http://www.alansondheim.org/amherst.mp3
+http://www.alansondheim.org/amherst17.jpg
+
+Agony is
+
+frugal -
+
+Puts itself
+
+severe away
+
+For its' own
+
+perusal -
+
+(from 143, in Open Me Carefully,
+Emily Dickinson's Intimate Letters to
+Susan Huntington Dickinson, edited by
+Ellen Louise Hart, Martha Nell Smith)
+
+
+
+
+after the big rains, the large
+
+http://www.alansondheim.org/amherstfungi166.jpg
+http://www.alansondheim.org/fossilsfungi.mp4
+
+intervals of time-slide, sheaves compress,
+fungi and footprints both, astonishing slime,
+jellies, older than my hands and feet, older
+by far than my memories of a few years ago,
+stromatolites in perth
+
+
+
+
+memories of ecstasies and murders
+
+
+http://www.alansondheim.org/amherst69.jpg
+
+fast
+has something to do with the machine
+makes the machine do contrary things
+and holes are where the bodies drop
+the whirl - the parasite -
+mumbly-pegged the lips and lips
+you're stretched on the wheel
+incredible churning of the wheel
+some unknown liquid seeping
+speed the thing up
+
+fast
+faster
+has something to do with the machine
+mountains in La Gruyere - 
+Dent du Chamois / Dent du Bourgo -
+makes the machine fumble you
+teeth and the fumbling machine
+the cams churn the body
+your body is all greasy
+groped and comes around again
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+you've never seen the end of you
+you're stretched on the wheel
+incredible churning of the wheel
+greasy weaving through the spokes
+and machines stitched from machines
+has something to do with the machine
+Brig / Brieg / Brigue 
+makes the machine fumble you
+your body is all greasy
+you've never seen the end of you
+greasy weaving through the spokes
+fast
+has something to do with the machine
+Raron and Rilke 
+your body is all greasy
+skewed on your fumbled lever
+sewn economies and transriparians
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+you've never seen the end of you
+speed the thing up
+
+fast
+makes sewn up men
+faster
+has something to do with the machine
+I say perhaps pastel coloring 
+makes the machine fumble you
+and the cams churn the body
+your body is all greasy
+skewed on your fumbled lever
+sewn economies and transriparians
+and holes are where the bodies drop
+avatar dancing inside you
+implore the dead deaf heavens
+mumbly-pegged the lips and lips
+becoming a speed-blur speed-bump
+you've never seen the end of you
+you're stretched on the wheel
+the whirl - the parasite -
+incredible churning of the wheel
+greasy weaving through the spokes
+some unknown liquid seeping
+soaked constitutions of sewn economies
+and machines stitched from machines
+fast
+makes sewn up men
+faster
+has something to do with the machine
+makes the machine do contrary things
+makes the machine fumble you
+the whirl - the parasite -
+and the cams churn the body
+your body is all greasy
+three churches and the merci grotto
+sewn economies and transriparians
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+becoming a speed-blur speed-bump
+you've never seen the end of you
+you're stretched on the wheel
+greasy weaving through the spokes
+floating in oil legs spread arms spread
+speed the thing up
+
+makes sewn up men
+faster
+has something to do with the machine
+Second - collection of: 
+makes the machine do contrary things
+your body is all greasy
+sewn economies and transriparians
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+incredible churning of the wheel
+speed the thing up
+
+fast
+makes sewn up men
+faster
+has something to do with the machine
+include grotto merci 
+makes the machine fumble you
+and the cams churn the body
+your body is all greasy
+sewn economies and transriparians
+groped and comes around again
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+you've never seen the end of you
+you're stretched on the wheel
+incredible churning of the wheel
+greasy weaving through the spokes
+speed the thing up
+
+fast
+makes sewn up women
+has something to do with the machine
+caress, kiss, general walking about 
+makes the machine fumble you
+your body is all greasy
+skewed on your fumbled lever
+sewn economies and transriparians
+groped and comes around again
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+becoming a speed-blur speed-bump
+you've never seen the end of you
+you're stretched on the wheel
+caress, kiss, general walking about
+incredible churning of the wheel
+greasy weaving through the spokes
+floating in oil legs spread arms spread
+some unknown liquid seeping
+dams and waterfalls, fumbling,
+"the natural order of things"
+has something to do with the machine
+religious) 
+makes the machine fumble you
+your body is all greasy
+sewn economies and transriparians
+mumbly-pegged the lips and lips
+you've never seen the end of you
+you're stretched on the wheel
+greasy weaving through the spokes
+speed the thing up
+
+fast
+makes sewn up men
+faster
+has something to do with the machine
+makes the machine do contrary things
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+becoming a speed-blur speed-bump
+you're stretched on the wheel
+some unknown liquid seeping
+fast
+makes sewn up women
+faster
+has something to do with the machine
+Work around bodies of water: dam work, Waterfall work 
+makes the machine do contrary things
+your body is all greasy
+skewed on your fumbled lever
+sewn economies and transriparians
+groped and comes around again
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+you've never seen the end of you
+you're stretched on the wheel
+incredible churning of the wheel
+greasy weaving through the spokes
+some unknown liquid seeping
+fast
+faster
+has something to do with the machine
+"natural order of things" 
+makes the machine do contrary things
+makes the machine fumble you
+and the cams churn the body
+your body is all greasy
+sewn economies and transriparians
+sexual mountains
+holes are where the bodies drop
+mumbly-pegged the lips and lips
+you've never seen the end of you
+you're stretched on the wheel
+incredible churning of the wheel
+greasy weaving through the spokes
+speed the thing up
+
+Timing: 
+makes the machine fumble you
+your body is all greasy
+groped and comes around again
+and holes are where the bodies drop
+fast
+makes sewn up women
+makes sewn up men
+faster
+has something to do with the machine
+Brig / Brieg / Brigue
+Raron and Rilke
+make the machine do contrary things
+your body is all greasy
+skewed on your fumbled lever
+sewn economies and transriparians
+groped and comes around again
+and holes are where the bodies drop
+mumbly-pegged the lips and lips
+you've never seen the end of you
+incredible churning of the wheel
+greasy weaving through the spokes
+some unknown liquid seeping
+speed the thing up
+
+faster
+has something to do with the machine
+speed the thing up
+
+you've never seen the end of you
+you're stretched on the wheel
+incredible churning of the wheel
+greasy weaving through the spokes
+some unknown liquid seeping
+speed the thing up
+
+
+
+text, body, Cave incantation 
+
+
+http://www.alansondheim.org/cavetext13.jpg
+http://www.alansondheim.org/oscill1.mp4
+http://www.alansondheim.org/cavetext20.jpg
+
+text/s, Alan Sondheim, modified by 
+Kathleen Ottinger, modified by
+Alan Sondheim
+
+graphics, Kathleen Ottinger
+
+voice-text, Azure Carter
+flute, shakuhachi, Alan Sondheim
+
+working through Cave-dimensionality and reading
+the body of the text, the textual body,
+spread of space, resonance
+
+Cave = body = the flesh of the letter
+incantation = architecture of the ladder
+
+thanks to John Cayley, Kathleen Ottinger,
+Azure Carter
+
+
+
+Emily and Paul
+
+http://www.alansondheim.org/emily1.jpg
+http://www.alansondheim.org/emilyandpaul.mp3 qin
+http://www.alansondheim.org/emily5.jpg
+http://www.alansondheim.org/emily6.jpg
+
+leaves from Emily Dickinson's home and her
+brother Austin's home and qin resonant with
+Emily Dickinson and Paul Celan and their
+resonance
+
+
+
+fungi and scrabbled text
+
+http://www.alansondheim.org/amherstfungi137.jpg
+http://www.alansondheim.org/whens.mp4
+http://www.alansondheim.org/amherstfungi096.jpg
+http://www.alansondheim.org/amherstfungi113.jpg
+http://www.alansondheim.org/amherstfungi121.jpg
+http://www.alansondheim.org/amherstfungi164.jpg
+http://www.alansondheim.org/amherstfungi028.jpg
+http://www.alansondheim.org/amherstfungi038.jpg
+
+last of the good-time Cave text session
+first-last of the fungi cavern, slime mold,
+ jelly, other
+other of dinosaur
+
+Image/Imaginary: mountains, canyons, escarpments, tree-lines, 
+dinosaur glass when a dinosaur purrs or trilobite scurries 
+nicely to safety.dreams of dinosaur jut, the culture of 
+dinosaurs, intelligence of dinosaurs, demise of dinosaurs, 
+dinosaurs, their proper names whose brood takes over home and 
+field alike. i am the dinosaur, who once ruled heaven and earth, 
+dinosaurs exhaust exhaust exhaust exhaust exhaust because Sauna 
+Sauna dinosaurs 10 11 100 101 110 1001 1010 1111 10000 skinny 
+skinning skinnn, wait a minute, signal's stuttering, come in 
+myxomycetes, come in myxomycetes
+
+swollen, to come, lumbering something approaching, withdrawal, 
+come in, restless, stuttering, scurrying, which when is this,
+wait a minute, interval, interval
+
+come in myxomycetes, come in myxomycetes
+
+
+
+
+space, shift, Cave, slide, breath
+sound, Cave, cavern, resonance
+
+space, shift, Cave, slide, breath
+
+http://www.alansondheim.org/cavetext02.jpg
+http://www.alansondheim.org/oscill2.mp4
+http://www.alansondheim.org/cavetext10.jpg
+
+Hiroshige rain or blood or image luminous space, 
+space-reading from elsewhere, then graphics
+breathe breath, breathe air, letters drawn blood above in 
+throat
+
+sound, Cave, cavern, resonance
+
+http://www.alansondheim.org/cavetext18.jpg
+http://www.alansondheim.org/textscave1.mp3 
+http://www.alansondheim.org/textscave2.mp3 
+
+Cave with 19th-century 6-key piccolo resonance
+
+text/s, Alan Sondheim, modified by Kathleen Ottinger, 
+modified by Alan Sondheim
+graphics, Kathleen Ottinger
+voice-text, Azure Carter
+flute, shakuhachi, Alan Sondheim
+
+
+
+carving the shape of the virtual 
+
+
+  Checktoseeifthen a htmltodispltethetextltodispltethetexture 
+tion.Thereis f ce a toch strt integertot tg a ALL SIDES
+
+  .  pxpxpxpx font f tVl e llFrttotexte ll 
+tthisscriptdoesn'ttthisscriptdoesn't a bosoundyitonce ch ch
+
+ so a ceof'Sit'onthepiemenenu ceof'Sit'onthepieceof'Sit' 
+Frttotext a cetot rehppy.Yo cppy.Yocppy.Yo c c a ntityoffloppy 
+onthepiemen a ch st a followthesitting a gedtoget rerot a e tFlo 
+tred flottexte tFlo tred flottext lrseeswhentheyright clickon l 
+eses a ntil the theyllhthey ntil generte stringmessgener a 
+generte stringmessgener a nsonst a gforgfor selter. gforselter. 
+gfor sel ter. ter. sel Thepersonsittingdownh a 
+ldorientyorobjectsoth mily:Helvetic S S a mber { a 
+mberiflinkedobjectsh a mbers.Forsimplicity soyodon't a me { 
+integer a oronchncheswheneverthescriptisreset oronch a nction 
+sof.  a p.Ifwemnn a nd def ndplyitonce def choose yitonce
+
+  def re ndomsond a nd ySodSo nd pl y "REEEZ"  nd plyso ge a 
++icon clickitndhoveryo+icon clickitndhoveryo r ndhoveryor a nds 
+r stringpl a nds rndom ysonds r a fromyo a nsonstte entry init
+
+ rnsonstte entry init r nsonst ndhoveryo r r a nds r nd 
+llListString so a nds r stringpl The< >is a rcrc 
+rrentlysittingonthe 
+ngethetextshownonthepiemenenutowhtwe'vespecifiedin a re
+
+  howtooffsetthetext a re a nbers.Forsimbers.Forsimplicity soyo 
+a rseeswhentheyright clickon ttheobjectchnges s a 
+sedtostorethekeyofthe tionother rerottion .  a theAnim StringVl 
+e lledediting le lledediting Stopthedef a tionndifyotionndifyo 
+followthesitting te entry lte entry l a tionwewnttotionwewntto a 
+t y xis yoxis yo chthisndit'snot a integerseen stringn me { 
+won'tneedtotochthis a y "Toched."  a tthetextre ysond pl y 
+"REEEZ"  a l nd FlotVtV le NewScript IntV a chme"  y "toe"  
+chme"  y "to chme"  chme"  a don't cn qnn llSy StringVy StringV 
+y StringVl e le l e e a llSy StringVy StringV y StringVly "yes."  
+a ns serif ALL SIDES .  pxpxpxpx font f tVlns serif a 
+mily:Helvetic S S ndtheX yo lt t le flotbl e a tivephysics qs 
+tivephysics qu tivephysics q a llfnction llf nction sof.  a ch 
+nged l rndomsobo ndyitonce mberiflinkedobjectshsch 
+Checktoseeifthenberiflinkedobjectsh a
+
+  Checktoseeifthenberiflinkedobjectshsch Checktoseeifthenu 
+sedthisscriptfrommeyolike.  Ifyo m p tbltbl a rs nds gedtoget
+
+  Thepersonsittingdownh q a se+or nplicity soyoudon't
+
+  Thisisrrentlysittingonthe Thisis a tebngeof st teb y
+
+  howtorepe init ry howtorepe init r a tivephysics a
+
+  ht htmltodispltethetext re htmltodispl tethetextltodispl
+
+  llSetTexte llS llSetText le Text e Texte a ched."  llSy 
+"Toched."  llS y "To ched."  llS a ched."  llSy "To llSy "toe"  
+y "touch llSy "to a rgin: ngeof st a fromyoyourinventoryonceyou 
+generte stringge a
+
+  stringplyso stringplyso nd llListString sond llListString
+
+  toreseteverything.  totest to ch st a ninterctwithit
+
+  whichprimf ctwithit cetot rehppy.Yof ctwithit a l e lph e lph 
+a se+or n on rez integertimes openyoes l number l n mber l nber 
+mber a l nusensor integertotl n mber { l nber { mber { l n mber 
+{ a so ndstoply y ndstoply y a mberiflinkedobjectshsch 
+Checktoseeifthen mberiflinkedobjectsh a se+or nplicity 
+soyoudon't mbers.Forsimplicity soyo a nd plysond plyso nd nd a 
+nd plysond ySo nd llPl a ndifyofollowthesitting
+
+  The< >is ndifyo followthesitting a chthisndit'snot ndit'snot a 
+rch syochsyo like.  llDeleteSrs nds llDeleteS bList recent a ll 
+e llS howtorottethetext re howtorottethetextre a lt r lt ndomso 
+lt tethetexture re htmltodispl tethetext
+
+  llPrelodSo llPrelodSo re "cffb fcc cb de llSetTextre "cffb fcc 
+cb de llSetText re a ceof'Sit'onthepiemen a 
+ceof'Sit'onthepiemenenu a tebteb seotherst tes!  tes!  
+seotherst tes!  tes!  a e seothersttes!  seothersttes!  a ter. 
+ter. a sgot sgot p.Ifwemnn gedtoget Thepersonsittingdownh Texte 
+string IntVl rerot le Text e rerotl e llRond FlotVtV a a 
+rerottion .  a rinventoryonceyoessgener rinventoryonceyo a 
+stringst sflot textrgin: stringst sflot text reoffset t a nges s 
+ch ch nges sndyitonce a y cllfy cllf nction 
+ncheswheneversomethingbottheobjectchnges s ch a to to ch strt 
+integertot toreseteverything.  totest a the theyllhthey a 
+rshonirsho ldsit.For tthe tion Stopthedef rehppy.Youcppy.Youc 
+ninterctwithit whichprimf ctwithit a sedtostorethekeyofthe 
+tionother a theAnim StringVl StringVlue openyourinventory tions 
+a don't n flotble rit flo a e rit flo nged integerchnge { defv 
+nge { def flexprims tivephysics qntityoffloppyflexprims a e 
+sewhenthersitsdown.Afsewhenthersitsdown.Af ll ll a 
+rsitsdown.Afrsitsdown.Af ll nttoll ntto sewhenthe sewhenthe a 
+NewScript IntV l e integertopl y a seitsmchsyo like. v tdown. 
+integer llyreqllyreq estedtogive v ge soestedtogive v ge 
+integere { integeru me { integer a robjectsoth you don't yo 
+don't yon a mber rt integertot l nber chthisxis yobo 
+won'tneedtototxis yo chthis won'tneedtoto a toplme] > {ret topl 
+y rnTRUE } v l r ndhoveryo sholdorientyo 
+ncheswheneverthescriptisreset oronch lllist notec nction a toply
+
+  cllfinsf nction lllist ysobList recent yso nd .  nd .  a y 
+"yes."  a lt"sit"nimnim tion Stopthedef lt"sit"nimnim tion mber 
+rt integertotl n sensor integertotl nber { a cetot ldsit.For 
+tthe a pndtheX ndtheX ttheZxispoints a lledediting lue lph a 
+svector textreoffset t svector text rerot q pxispointsp 
+xispoints p xispointspndtheX ndtheX a ndit'snot
+
+
+
+2 reviews of Cutting Board 
+
+http://www.alansondheim.org/5004.jpg
+http://espdisk.com/official/catalog/5004.html
+
+From the November issue of The Wire (which used 2 like me):
+
+Alan Sondheim with Christopher Diasparra and Edward Schneider
+Cutting Board ESP-Disk CD
+
+Since its reactivation in 2005, ESP-Disk has maintained a steady 
+trickle of reissues of epochal free jazz albums, archival finds 
+and even some new music by Talibam!, Joe Morris and others. But 
+multi-instrumentalist Alan Sondheim is the first artist from the 
+roster of ESP-Disks 196475 golden era to record new material for 
+the label. It makes perfect sense too: nearly half a century 
+later, his sound and aesthetic seem remarkably unchanged. Its at 
+least partly because he has never tried or wanted to play jazz, 
+positing instead a rough and prescient form of free 
+improvisation.
+
+Sondheims first album, subsequently included on the Nurse With 
+Wound list, was 1967s The Songs, featuring a single, raggedly 
+theatrical performance by Ritual All 70 a group of young 
+improvisors living in a communal loft in Providence, Rhode 
+Island. More or less the same group, recording under Sondheims 
+name only, created his two ESP-Disk releases. Ritual-All-7-70, 
+also recorded in 1967, sounds exactly like a gang of stoned 
+students plonking around on bongos and tabla, but Sondheims 
+intuitive explorations on guitars, sax, clarinet, koto and horn 
+tap into the kind of no-technique, non-idiomatic improvisation 
+that can be heard in countless 21st century DIY dungeons on 
+either side of the Atlantic.
+
+This new material finds Sondheim again approaching a wide array 
+of instruments, with an emphasis on the exotic including Chinese 
+mouth harp, saz, sarangi, ghichak, cura, tro so, sung lisu and 
+many more all played with the same exuberant, non-virtuoso 
+relish. On Xenon something is bowed with raw, savage 
+stridulations. On Argon something is strummed messily in a 
+vaguely Arabic mode. And so on. Hes accompanied by saxophonists 
+Diasparra (on tenor and baritone) and Schneider (on alto), who, 
+at best, help to guide and shape Sondheims brief bursts and, at 
+worst, sound a little lost and flailing around for a hook to 
+cling to. Theres no pretence of the communal vibe that 
+characterised the 60s recordings its clearly Sondheims session. 
+But, with so many instruments to play and such a lot of fun to 
+be had, who needs company? Daniel Spicer
+
+and
+
+http://gapplegatemusicreview.blogspot.com/2014/10/alan-sondheim-with-christopher.html
+
+Wednesday, October 29, 2014
+Alan Sondheim with Christopher Diasparra & Edward Schneider, 
+Cutting Board
+
+Alan Sondheim came to our ears years ago principally on the two 
+albums he did for ESP, Ritual-All-7-70 and T'Other Little Tune, 
+issued in 1967 and 1968, respectively. I came to him a little 
+later through these albums, which impressed me as 
+uncompromisingly home-made in their DIY experimental avant 
+improvisatory thrust. On them Sondheim played guitar and a 
+battery of other instruments, neither evoking jazz or new music 
+syntax but rather forging his own vocabulary that reached out to 
+world musics but only obliquely so.
+
+Much time has passed and apparently also a number of releases 
+came out that I have not heard as yet. He returns to the ESP 
+fold with a new recording Cutting Board (ESP 5004). On it 
+Sondheim matches sonic textures with Christopher Diasparra on 
+tenor and baritone saxes, and Edward Schneider on the alto sax. 
+Sondheim plays a wealth of instruments, from chromatic 
+harmonica, sarangi, classical guitar and flute to electric saz 
+and ukulele. As always Alan's playing is about sound and 
+texture, not as much typical linear technique.
+
+The totality of the album hangs together as experimental free 
+improv more than free jazz per se, though Schneider and 
+Diasparra give out phrasings more akin to post-new-thing sax 
+expressions than not.
+
+As is always the case with Sondheim, the music suits your ears 
+best when you wipe your listening mind of expectations. This 
+music has little in common with JATP, standards, or even 
+ensemble avant jazz and new music as they come to us today. It 
+is Sondheim music and for that it is very good. It is musical 
+sound as art. So go ahead and listen.
+
+Posted by Grego Applegate Edwards at 5:49 AM
+Labels: alan sondheim with christopher diasparra and edward 
+schneider cutting board gapplegate music review, experimental 
+free improvisation, historic avant garde music in revival, world 
+music deconstructed
+

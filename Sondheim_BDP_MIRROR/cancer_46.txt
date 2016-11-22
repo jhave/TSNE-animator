@@ -1,0 +1,34 @@
+==
+
+
+'sdeath
+
+
+  (make-local-variable 'deathlst)
+  (setq deathlst
+(dor-put-meaning stab 'death)
+(dor-put-meaning murder 'death)
+(dor-put-meaning murders 'death)
+(dor-put-meaning suicide 'death)
+(dor-put-meaning suicides 'death)
+(dor-put-meaning kill 'death)
+(dor-put-meaning kills 'death)
+(dor-put-meaning killing 'death)
+*burning out inside out
+*chars writhing thus .txt
+*violent sorrow debris
+*charred death charred ashes
+*gathering place & mournful sprits
+*me me me
+(dor-put-meaning die 'death)
+(dor-put-meaning dies 'death)
+(dor-put-meaning died 'death)
+(dor-put-meaning dead 'death)
+(dor-put-meaning death 'death)
+(dor-put-meaning deaths 'death)
+(defun dor-death ()
+  (cond (suicide-flag (dor-type ($ deathlst)))
+        (t (dor-type ($ deathlst)))))
+(dor-put-meaning dead 'death)
+
+

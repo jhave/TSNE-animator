@@ -1,0 +1,35 @@
+
+
+
+
+Y2K: NET:
+
+Starting ping....
+Host lookup cancelled
+ You stupid we're all dead no one is here to help you.
+Starting lookup...
+Host lookup cancelled
+ You stupid your wires are burned you're lucky you got this far.
+Starting ping....
+Pinging 166.84.0.97....
+TIMED OUT
+TIMED OUT
+TIMED OUT
+Ping Cancelled
+Ping Unsuccessful
+0 packets received out of 3 packets transmitted :   100% PACKET LOSS
+ You stupid you're playing with yourself again just forget it.
+Starting trace....
+Tracing to 166.84.0.97....
+Hops	IP Address		RTT(ms)
+1	TIMED OUT
+2	TIMED OUT
+3	TIMED OUT
+Trace Cancelled
+Host not reached
+ You stupid the world is dead you are one big scream.
+Starting lookup...
+ You stupid your power's gone shutting you down idiot forever.
+ You s
+
+

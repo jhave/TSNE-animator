@@ -1,0 +1,94 @@
+
+
+--
+
+
+
+Emergence, Breathing, Proposal for Audio Compression
+
+
+The future of the Internet lies somewhere between the breathing planet of
+shortwave and emergent intelligence; it is the former which opens the
+wires to the lightning and plasmas of the cosmos, and the latter which
+organizes the neural and synaptic sheaths, interconnectivities, of the
+organisms and work and play. The _corporate_ truth of the Web is based on
+magazine production, just as early automobiles were based on horse-drawn
+vehicles; the very model of corporate economics may be rendered obsolete
+in the future. 
+
+On the other hand, there are forces constantly at work to curtail the Net,
+harness it for what Kristeva calls "the clean and proper body"; such
+forces at worst will create a spintering of the developing manifold and a
+return to garage hacking, Fidonet, tin-can telephones and the like. I 
+predict waves of computer assassins, murder by rlogin, use of "less" and 
+untraceable telnet 25 sites for initial blows. 
+
+The breathing of shortwave responds to the cosmos; you can feel the weath-
+er through the speakers, create multi-dimensional models of time/frequency
+/transmission and /location. Your skins expands into spherical orbit. Your
+eyes open wide on Indonesia. 
+
+Emergent intelligence distributes entities much as broadcasts or packets
+are distributed; emergent intelligence, however, only projects the exis-
+tence of the entity as a byproduct of environmental survival training. As
+I describe the ego in my 1977 Structure of Reality, "The ego is thus a
+fissured coagulation, an _other_ within the fielding that serves as the
+sheet of assertion for the topology." And in my Textbook of Thinking, "En-
+tities originate as inscriptions after the fact within the _fissuring_ of
+the _real._ The real is granular. The real is codified through the _core
+structure._ The core structure is always an ideal structure embedding
+quantum processes. [...] The core structure is a broken fragment." So if 
+breathing responds _elsewhere,_ emergence responds _within,_ among inter- 
+secting fields. 
+
+But the Net to date continually remodels itself on _classical_ artificial
+intelligence, with its formula _GIGO_: garbage in, garbage out. Because
+_most_ input is well-defined; take this text, for example, clearly oper-
+ating within the limits of lower ASCII, TCP/IP, and so forth, no matter
+how much I bang the psychoanalytical drum. The same is true for the vari-
+ous formats of sound, image, motion. Packets lend themselves to pack-
+aging; on the surface, current corporate driving of the Web is becoming
+the steering-mechanism of the Net itself, and the result is production of
+classically discrete entities on the surface as well, the fetishization
+constructed by Wired and other which reformats the _dirty_ revolution into
+product: "Yes, _Hotwired_ bought _Suck._" See page 41 of the current issue
+for the exciting sequel. 
+
+Some night when you're not busy at 3 am in the morning, listen to CB, not 
+the truck channels, but the locals, the exchanges. It's an earful.
+
+
+
+[On another theme, it should be possible to send voice over the Net in an 
+ultra-compression scheme that would work as follows. 1. You would be 
+asked to record a twenty-second sample of your voice, speaking specific 
+words. 2. That would be processed into sampling. 3. You would speak 
+normally into the computer microphone. 4. The computer would translate 
+your _words_ into phonetics (spelling doesn't matter), and your inflec- 
+tions into diacritical marks (much like Hebrew). 5. The bundle would be 
+sent across the Net as an _ascii text_ for the words and inflections, and 
+a binary file as an attachment for your voice. 6. At the receiving end, 
+your voice would be reconstructed from the sample and diacritical marks.
+
+The saving would be enormous. A voice sample could be 30k. A spoken text 
+of say 10k would be augmented heavily by diacritical marks, say around 
+6k, and decreased slightly by phonetics, say 1k, making 15k. The total 
+transmission for a 10k text, around 5 pages, would be only 45k, which is 
+remarkably small. The savings are greater, the longer the texts of course.
+
+Software could also be used to _save_ your voice at the receiving end, 
+much as certain MAC programs do with artificial voices. Then there would 
+only need to be a signature to "call up" your voice with the arrival of 
+your email or text...
+
+And I don't think the diacritical marks would be that difficult, at least
+for basics, which would use three parameters: 1. Overall amplitude over a
+specified time interval, 2. "Averaged" (integrated) central frequencies
+over specified time intervals, 3. Timing markers. The second would be for
+intonation. Other markers could cover various sounds, such as laughing,
+etc. There could even be a simple playback/neural network program involved
+- so that the sender could test the results before sending the file - and
+modify things accordingly. And the possibilities for experimentation would
+be tremendous of course.]
+
+

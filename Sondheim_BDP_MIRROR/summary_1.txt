@@ -1,0 +1,2713 @@
+
+
+Text of the True World
+
+
+(Reworking theory sections from the past few months: emanents and avatars, 
+real and virtual, analog and digital)
+
+
+Altered Transcript of Intimacy Session
+December 8, 2007, England
+Participants: Sandy Baldwin ("You"), Alan Sondheim (Alan Dojoji)
+
+Premise: 
+Discussion of avatar theory and practice.
+
+[bvh: BioVisionHierarchy file]
+
+[6:13]  You: As an introduction, let me say that this workshop combines 
+many things. It presents the history of a collaborative exploration of 
+virtuality. In this, it offers one direct or hand-on approach to the 
+intersection of the real and virtual...
+[6:14]  You: None of this is true, none of this as matter of true. He 
+and I never touch. Nothing happens here in and on a screen that plays 
+out sprites and their gestures.
+[6:15]  You: Alan is a pioneer in the use of computers and art, working 
+in this field since at least the 1970's. One way of seeing an ongoing 
+concern in Alan's work is with the "topology of intention" that he 
+theorizes in his important 1977 book _The Structure of Reality_.
+[6:15]  You: The dominant strain of discourse around digital technology 
+tries to discover the particularities of the technology as a formalism 
+or platform or medium. Sondheim's work is heterogeneous from but 
+crucial to this field by insisting on the problematic intentionality of 
+the digital as a lifeworldly domain in which we ex-ist...
+[6:15]  You: Alan began coming to WVU in 2003 and soon began intensive 
+collaboration with Sandy Baldwin of WVU's Center for Literary 
+Computing, and with WVU's Virtual Environments Lab, directed by Frances 
+van Scoy. ..
+[6:16]  You: Students at the graduate and undergraduate level were 
+involved as well, some from computer science, others from English or 
+visual arts. Additional collaborators joined from the Intermedia 
+program at WVU's Creative Arts Center, and most recently from the 
+GeoVirtual lab in WVU's Geography department. ....
+[6:16]  You: Through this interdisciplinary mixing of tools and 
+collaborators, Alan radically imagined the uses of virtual technology 
+at WVU. Of course, there's a long tradition of creative misuse of 
+technology.
+[6:16]  You: The aesthetics of the glitch music, for example, explores 
+the misuse of the CD. There's an initial similarity in Alan's work 
+here: working against the seeming purpose of the tools, refusing the 
+normative bodies mapped into these virtual spaces, wild dancing and 
+utterance in spaces where we are supposed to be still and silent before 
+the machine, an _ethical_ insisting on the pressure and weight and yet 
+ineluctable absence of the body in virtuality.
+[6:16]  You: But it would not be wrong to insist that a distinction be 
+made: misuse or glitch is not the goal but means for consciousness and 
+intention to problematize their inhabitation of the technology. This is 
+seance and tantra.
+[6:17]  You: The results are inspiring, awesome. They are also utterly 
+alien, but alien in the sense of the alien that I am and that inhabits 
+me and that is there when I shed the skins of habit.
+[6:17]  You: The results can be understood as works, works of art. They 
+are works, as well, of the real and the virtual, worked over 
+virtualities, so that the work of art is trembling with the work of the 
+artist. The result are endless and undetermined.
+[6:17]  You: They form in chains and links from dancing bodies to 
+clouds of code to avatars to writings and on and on. 
+[6:20]  Alan Dojoji: I'm interested in the relationship between 
+conscious and formal systems.
+[6:20]  Alan Dojoji: That should be consciousness - in other words, the 
+relationship between how we think and how we think we think
+[6:20]  Alan Dojoji: and the way the world is
+[6:20]  Alan Dojoji: And it seems to me that working with avatars, 
+which can be
+[6:21]  Alan Dojoji: as much a projection of our 'selving' as our own 
+bodies -
+[6:21]  Alan Dojoji: both work with images, projections and 
+introjections -
+[6:21]  Alan Dojoji: both work with visual perception to a great 
+extent, locating ourselves visually in a world
+[6:21]  Alan Dojoji: and both work with forgetting - that is forgetting 
+the body - when I speak in a conversation
+[6:22]  Alan Dojoji: I'm ignoring my own hmmm... way of arranging my 
+limbs, etc.; I'm "just talking" and listening
+[6:22]  Alan Dojoji: So that occurs in and across these realms -
+[6:22]  Alan Dojoji: Our relationship to formal systems is related to 
+how we make sense of the world.
+[6:23]  Alan Dojoji: We use systems, gestural systems, autonomic 
+systems, conscious and preconscious systems, etc., to make sense of 
+things; if we can't make sense, we begin to feel stress, anxiety
+[6:23]  Alan Dojoji: and this can further lead to one or another form 
+of collapse, perhaps catatonia
+[6:23]  Alan Dojoji: To make sense of the world we have to consider our 
+bodies, our selves. It's clear for example that a 'healthy body' sees 
+the world differently than a sick one
+[6:24]  Alan Dojoji: This is important - most philosophy or thnking of 
+any sort presupposes a healthy body however that's defined, which may 
+be very different from one culture to another and may not in fact 
+'record' or describe the world well at all
+[6:24]  Alan Dojoji: For example, that a depressed mind senses a 
+different world than, say, an optimist would.
+[6:25]  Alan Dojoji: In fact one might argue that depression is a 
+"truer" way of seeing the world than a more rational 'surface' one
+[6:25]  Alan Dojoji: We're further driven by desires; even the 
+development or discovery of a formal system is dependent upon our 
+wanting to develop or discover such.
+[6:25]  Alan Dojoji: Desire seems to underpin everything, and of course 
+'desire' itself is a word up for grabs
+[6:26]  Alan Dojoji: It seems to have components of abjection, 
+sexuality, instinct, survival skills etc.
+[6:26]  Alan Dojoji: I keep hearing the term but not much of a deep 
+description or phenomenology
+[6:26]  Alan Dojoji: Desires are like icebergs - their ostensible 
+content might be the peak above the sea, but beneath the surface lies 
+darker matter, abject matter.
+[6:26]  Alan Dojoji: By "abject" I mean matter that is partly of us, 
+constituted by us, and partly debris -
+[6:26]  Alan Dojoji: This is where the noise or dirt of the world
+[6:26]  Alan Dojoji: is descvribed
+[6:27]  Alan Dojoji: It's this matter that I'm interested in, the 
+abject or obscenity that makes us human, even beyond the guise or 
+presentation of language.
+[6:27]  Alan Dojoji: In some senses language is a surface phenomenon
+[6:27]  Alan Dojoji: In some senses what lies beneath is the "true 
+world" within the guise of the civil,
+[6:27]  Alan Dojoji: or the guise of etiquette
+[6:27]  Alan Dojoji: or the guise of protocol
+[6:27]  Alan Dojoji: Even online, shape-riding on this level is very 
+different
+[6:28]  Alan Dojoji: than someone hacking the machine at a lower level
+[6:28]  Alan Dojoji: Where things are being bent in secret, hidden
+[6:28]  Alan Dojoji: One can almost say that's the tantric level which 
+must be imagined
+[6:28]  Alan Dojoji: or can be imagined
+[6:28]  Alan Dojoji: and then discarded
+[6:28]  Alan Dojoji: after having been devoured or eaten
+[6:29]  Alan Dojoji: (The face on the associative object with me is 
+that of YAMANTAKA who is the destroyer of death)
+[6:29]  Alan Dojoji: Now to the virtual - bear with me, this is going 
+somewhere
+[6:29]  Alan Dojoji: The virtual is everywhere, the virtual is 
+symbolic, inscription, an index of our relationship with the real. Our 
+bodies are as virtual as anything online; we're a mess of codes and 
+protccols, languages, drives, instincts, communications, cries and 
+warnings.
+[6:29]  Alan Dojoji: Recently language has been related to gesture, 
+which brings it closer to the body - I'll repeat
+[6:29]  Alan Dojoji: The virtual is everywhere, the virtual is 
+symbolic, inscription, an index of our relationship with the real. Our 
+bodies are as virtual as anything online; we're a mess of codes and 
+protccols, languages, drives, instincts, communications, cries and 
+warnings.
+[6:30]  Alan Dojoji: There's nothing about us that isn't caressed by 
+language, that isn't languaging. There's nothing about us that isn't 
+read or inscribed; the real itself is an inscription, as far as we're 
+concerned.
+[6:30]  Alan Dojoji: Of course here's a contradiction, language and 
+dirt in tandmen or one against another
+[6:30]  Alan Dojoji: Etiquette above the surface of the Victorian 
+table, playing footsies down below
+[6:31]  Alan Dojoji: So I model the ostensible carapace, the outer 
+layers of the human and human behavior, the layers in space, 
+transforming through time, morphing, dividing in both conceivable and 
+inconceivable patterns.
+[6:31]  Alan Dojoji: I'll repeat then type and elaborate
+[6:31]  Alan Dojoji: So I model the ostensible carapace, the outer 
+layers of the human and human behavior, the layers in space, 
+transforming through time, morphing, dividing in both conceivable and 
+inconceivable patterns.
+[6:32]  Alan Dojoji: By "carapace" I mean the prims that constitute the 
+avatar - what I call "sheaves" since they reference laminated things, 
+bent things themselves
+[6:32]  Alan Dojoji: I'm composed of sheaves. I'm a sheave-girl.
+[6:32]  Alan Dojoji: If you get close enough, if you set your camera in 
+me, ther's nothing there
+[6:32]  Alan Dojoji: Nothing at all, empty space, and you see the 
+sheaves as thin slivers from within
+[6:32]  Alan Dojoji: there aren't any organs of course. So what we're 
+working with here
+[6:33]  Alan Dojoji: Is a kind of ORGANISM FROM OUTSIDE, which is where 
+the carapace comes in.
+[6:33]  Alan Dojoji: It looks, I look "real" in a sense, in a way 
+related to the external world,
+[6:33]  Alan Dojoji: but within there's nothing but emptiness,
+[6:33]  Alan Dojoji: Once Ben Hecht was asked to describe Hollywood and 
+said
+[6:33]  Alan Dojoji: It's a place where you scratch away the tinsel to 
+get the real tinsel underneath
+[6:34]  Alan Dojoji: So here you scratch away a prim or two
+[6:34]  Alan Dojoji: And things are emptied, there aren't organs, 
+nothing making the thing GO from the inside-out
+[6:34]  Alan Dojoji: It's topology - organisms outside the screen work 
+from the inside, they're busy containing themselves
+[6:34]  Alan Dojoji: which is how the auto-immune system works
+[6:35]  Alan Dojoji: but within the screen (so to speak) the protocols 
+are outside, they're for example
+[6:35]  Alan Dojoji: here in Linden Labs, not to mention thousands of 
+servers and routers worldwide
+[6:35]  Alan Dojoji: that bring you this stuff on your home or other 
+machines,.
+[6:35]  Alan Dojoji: So when I'm modeling, I'm aware that what I'm 
+doing is a kind of out-of-organic-body projection
+[6:35]  Alan Dojoji: I'm from space and maybe one gender into another
+[6:36]  Alan Dojoji: Although projecting smears these categories
+[6:36]  Alan Dojoji: So that I'm not sure where I am half the time.
+[6:36]  Alan Dojoji: All of this bears on modeling of course - which is 
+what this is about -
+[6:36]  Alan Dojoji: modeling the human or other organic or inorganic 
+natural object or process
+[6:36]  Alan Dojoji: though this modeling, I hope to better understand 
+what it means to BE human, particularly in relation to all of that 
+debris beneath the surface, our obscene nature itself.
+[6:37]  Alan Dojoji: Sorry if this appears to jump - the topic moves 
+from type to cut and paste
+[6:37]  Alan Dojoji: Again -
+[6:37]  Alan Dojoji: though this modeling, I hope to better understand 
+what it means to BE human, particularly in relation to all of that 
+debris beneath the surface, our obscene nature itself.
+[6:37]  Alan Dojoji: Why obscene? Because this nature is read, 
+processed differently than cool speech or conversation; this nature 
+constructs readings and writings, and for that matter communication 
+beyond or preceding language -
+[6:38]  Alan Dojoji: In other words the "obscene" is processed 
+differently than ordinary language
+[6:38]  Alan Dojoji: Just as sex in netsex or SLSex or any other sex, 
+even sexual communication through language and gesture in SL, is 
+processed differently neurologically than "ordinary" language
+[6:39]  Alan Dojoji: Stephen Pinker talks about obscenity as taking 
+different pathways in the brain
+[6:39]  Alan Dojoji: And producing intense reactions no matter what the 
+"conscious" mind wants to do or think
+[6:39]  Alan Dojoji: The first thing that appears is a negative 
+emotion, fear, etc. in relation to obscenity
+[6:39]  Alan Dojoji: It's a different kind of language, a SOMATIC 
+language, tied differently to the body
+[6:40]  Alan Dojoji: anyway this nature contructs, let's say, states of 
+affairs that, in terms of organism, might be considered PRIMORDIAL, 
+uncomfortable, construing presence itself, desire, an awakening in the 
+world, fear, dis/ease - anything before the world shuts down in 
+relation to language, to the processing of language.
+[6:40]  Alan Dojoji: anyway this nature contructs, let's say, states of 
+affairs that, in terms of organism, might be considered PRIMORDIAL, 
+uncomfortable, construing presence itself, desire, an awakening in the 
+world, fear, dis/ease - anything before the world shuts down in 
+relation to language, to the processing of language.
+[6:40]  Alan Dojoji: (again)
+[6:40]  Alan Dojoji: So that on one hand, again there's surfadce 
+language, and on the other, obscneity, and for me on the third, the 
+construction of avatars or modeling
+[6:41]  Alan Dojoji: I wonder if one couldn't say that one is always 
+modeling oneself in the real world as well?
+[6:41]  Alan Dojoji: Just different tools
+[6:41]  Alan Dojoji: Now to get practgical:
+[6:41]  Alan Dojoji: I began by thinking about the repertoire of human 
+physical behaviors, what the body can or cannot do; I used motion 
+capture equipment to record and modify the behaviors. The equipment 
+installs behaviors into files, much as labanotation filed away dance - 
+it's a form of dance notation - much as film records movement.
+[6:42]  Alan Dojoji: If you want to see one of the bvh files that 
+controls my avatar
+[6:42]  Alan Dojoji: Go to the browser screen youshould have up
+[6:42]  Alan Dojoji: And open up - under MOCAP (for motion capture) 
+materials
+[6:42]  Alan Dojoji: the file out2.bvh
+[6:43]  Alan Dojoji: This files indicates a LOT about motion and the 
+way it's recorded here
+[6:43]  Alan Dojoji: You have a root - the HIP - which is where the 
+action is grounded.
+[6:43]  Alan Dojoji: Everything moves out from the hip.
+[6:43]  Alan Dojoji: I can disappear underground like this
+[6:43]  Alan Dojoji: because I've still got the hip root, as far as 
+Second Life is concerned,
+[6:44]  Alan Dojoji: above ground
+[6:44]  Alan Dojoji: So after that, there are all the body nodes which 
+are set at an origin
+[6:44]  Alan Dojoji: In other words, one begins with a root and a body 
+posture, which forms the basis for the movement
+[6:44]  Alan Dojoji: If you can scroll down on thefile you'll then see 
+tens of thousands of numbers
+[6:45]  Alan Dojoji: These represent the movements proper - what occurs 
+from the original body stance
+[6:45]  Alan Dojoji: You might also relate all of this to tantra or to 
+roots in sutras and tantras -
+[6:45]  Alan Dojoji: a kind of originary stance which is as empty as 
+anything else
+[6:46]  Alan Dojoji: If you now can open, say, anitaberberr.mp4 also in 
+MOCAP -
+[6:46]  Alan Dojoji: You'll see a "dance" between a real-life dancer, 
+Maud Liardon, with the choreography of Foofwa d'Imobilite
+[6:46]  Alan Dojoji: and there are two other dancers, who are virtual
+[6:46]  Alan Dojoji: And pasted in
+[6:46]  Alan Dojoji: And who are controlled by one of the bvh files I 
+use
+[6:47]  Alan Dojoji: This video was shown here in Odyssey in Second 
+Life by the way.
+[6:47]  Alan Dojoji: If you have any qustions about opening the file, 
+please ask!
+[6:47]  Alan Dojoji: If an image appears and there's no movement, 
+double-click on the image and that should start it
+[6:47]  Alan Dojoji: You don't need to see the video through to the end 
+- you'll get the idea fast
+[6:49]  Alan Dojoji: Anyway, if you open veda.mp4
+[6:49]  Alan Dojoji: You'll see another kind of mapping of a bvh file
+[6:50]  Alan Dojoji: This one maps the nodes of the body into 3d space 
+using Blender
+[6:50]  Alan Dojoji: a free 3d modeling program (I think check out 
+blender.org)
+[6:50]  Alan Dojoji: and here the nodes from motion capture are tied to 
+objects like spheres and cones
+[6:51]  Alan Dojoji: If you can close that down and upen up 
+stripped.mov you'll see more abstract shapes modeled with thebvh files
+[6:52]  Alan Dojoji: Finally if you open up bulb1.mp4 you'll see the 
+same file modeled by what are called "metaballs" which attract each 
+other, join together - the model here is viewed FROM WITHIN, and unlike 
+the sheavemodeling of sheave-girl , me here in Second Life, there are 
+joints and connecting skins
+[6:52]  Alan Dojoji: within the blender model. It's a different kind of 
+structure altogether
+[6:53]  Alan Dojoji: Ok, now the bvh files themselves, beyond their 
+internal structure -
+[6:53]  Alan Dojoji: how are they used?
+[6:53]  Alan Dojoji: So these files, which contained behaviors, were 
+then used to reconstruct such behaviors with mannequins, avatars, in 
+two different kinds of spaces - ones that were completely recorded, 
+like film itself, and ones that were live and in real time - so that a 
+viewer might walk about an avatar behaving in a particular way, in a 
+particular live space.
+[6:53]  Alan Dojoji: Again,
+[6:53]  Alan Dojoji: So these files, which contained behaviors, were 
+then used to reconstruct such behaviors with mannequins, avatars, in 
+two different kinds of spaces - ones that were completely recorded, 
+like film itself, and ones that were live and in real time - so that a 
+viewer might walk about an avatar behaving in a particular way, in a 
+particular live space.
+[6:54]  Alan Dojoji: In other words, some stuff is prerecorded, some is 
+liveperformance
+[6:56]  Alan Dojoji: The sensors are connected to motion capture 
+equipment
+[6:56]  Alan Dojoji: Which in this case is attached to the body itself 
+- there are 18 sensors
+[6:56]  Alan Dojoji: so that a neck sensor for example wouldconnect to 
+the neck, etc.
+[6:56]  Alan Dojoji: The mapping is one-to-one
+[6:56]  Alan Dojoji: Leg to leg, etc.
+[6:56]  Alan Dojoji: What I've worked with is'breaking' the mapping down
+[6:57]  Alan Dojoji: So that the sensors might be randomly distributed 
+- yes - on the body
+[6:57]  Alan Dojoji: or inverted on the body
+[6:57]  Alan Dojoji: or thrown in a heap on the floor
+[6:57]  Alan Dojoji: or placed in a star pattern
+[6:57]  Alan Dojoji: or dstributed among more than one body
+[6:57]  Alan Dojoji: so that you get:
+[6:57]  Alan Dojoji: But more than that - the behaviors themselves were 
+INCONCEIVABLY CODED, that is, created in such a way as to presence an 
+impossible body - which then becomes a distorted body, a body 
+transformed by the pressue, for example, of war, of torture, of 
+incandescent sexuality - an impossible body -
+[6:58]  Alan Dojoji: The body is "inconceivable" because it's moving in 
+ways a "real" organic body can't - except perhaps under torture.
+[6:58]  Alan Dojoji: or ecstatic modeling of one sort or another, or 
+hallucinatory modeling etc
+[6:58]  Alan Dojoji: For me what happened, the real obscenity of Abu 
+Gharayb - which for a lot of us in the US was a kind of shattering -
+[6:59]  Alan Dojoji: is this distortion, this abject torture, which 
+threw our own national behavior in our faces
+[6:59]  Alan Dojoji: I want to explore this further in SL where at 
+least for the moment it's safe to do so...
+[6:59]  Alan Dojoji: Anyway to continue -
+[6:59]  Alan Dojoji: But a body that, being impossible, also represents 
+our desires in the world, desires which, if they could, would take 
+apart a real body, dissolve it in the throes of passion.
+[7:00]  Alan Dojoji: - which roughly says the same thing...
+[7:00]  Alan Dojoji: Again, on the technique -
+[7:00]  Alan Dojoji: The techniques are surgical, cutting and suturing 
+- separating and bringing together. The operations occur first in real 
+life; when a participant wears a motion capture harnass, a number of 
+sensors are aligned with her body parts - left leg sensor on the left 
+leg, neck sensor on the neck, and so forth.
+[7:00]  Alan Dojoji: We rearrange these sensors, splitting them among a 
+number of people, reorienting them; the body maps become distorted, 
+impossible.
+[7:01]  Alan Dojoji: We ask the participants to move. We record the 
+impossible movements of a single body.
+[7:01]  Alan Dojoji: The recording is in the form of a file which is 
+fed into one of three applications: a 3-D modeling application, where 
+abstract forms are mapped onto the recording, resulting in an 'abstract 
+performance' or 'performer' - a mannequin modeling application, where 
+human forms are mapped onto the recording, resulting in considerable 
+distortion -
+[7:01]  Alan Dojoji: And a 'live' virtual space, where the behavior 
+recordings are used in live avatar performance. I'll demonstrate these 
+in turn. I'll also demonstrate various ways and results of scanning the 
+body itself.
+[7:02]  Alan Dojoji: Ok, so this is what all of this is about, at least 
+for me -
+[7:02]  Alan Dojoji: relating thinking and consciousness to formal 
+systems
+[7:02]  Alan Dojoji: and using formal systems for modeling organisms
+[7:02]  Alan Dojoji: particularly the human body
+[7:03]  Alan Dojoji: in a way hopefuly that can tell us something about 
+the world.
+[7:03]  Alan Dojoji: Here is another example - if you go to scan 
+materials
+[7:03]  Alan Dojoji: (lower left), open up gunscan2.mp4
+[7:03]  Alan Dojoji: This is a scanned toy gun which is 'deconstructed' 
+in two ways
+[7:03]  Alan Dojoji: - first by moving the gun during the scan
+[7:03]  Alan Dojoji: and second by reworking the suturing program - the 
+program that combines still images tomake the 3d image -
+[7:04]  Alan Dojoji: in different ways - in other words, stitching the 
+gun together awkwardly
+[7:05]  Alan Dojoji: This scanned version is highly compressed which 
+makes the image a little rough but you get the idea I hope
+[7:05]  Alan Dojoji: If you look at the largescanner jpgs in the same 
+area
+[7:06]  Alan Dojoji: Click on 05 - this is Azure Carter moving slowly 
+while being scanned with a laser ordinarily used for buildings
+[7:06]  Alan Dojoji: Her body breaks down into sheaves, but the chair 
+and table in the foreground are "clear" because they're stationayr
+[7:07]  Alan Dojoji: So this is another area to work within - the use 
+of laser scanners for deconstructing the way the world appears to us.
+[7:07]  Alan Dojoji: Please, if you can, open, in the same quadrant, 
+ruler.mov
+[7:07]  Alan Dojoji: This is a plastic ruler, also deconstructed, 
+highly enlarged
+[7:08]  Alan Dojoji: If you notice, there are "ridges" visible which 
+seem to repeat - serrated edges
+[7:08]  Alan Dojoji: These represent the indentations, markings, on the 
+ruler itself
+[7:08]  Alan Dojoji: I'm using this sort of thing to look at the way we 
+observe and count things in the real world
+[7:09]  Alan Dojoji: How do we decide what quantity is, what an object 
+is, for that matter?
+[7:09]  Alan Dojoji: You can't count sheep in Sumer unless you have 
+some idea of counting, markers, sheep, things, and even data-storage
+[7:09]  Alan Dojoji: - a way to remember the count as it goes along.
+[7:09]  Alan Dojoji: So I'm thinking about this, working with these 
+visual images as a way of understanding this as well.
+[7:10]  Alan Dojoji: A couple of other things, and then I'll turn over 
+to Sandy after answering questions; I'll also be back.
+[7:10]  Alan Dojoji: Please open, under Second Life materials, the 
+vector1.jpg and then look at the vector2.jpg
+[7:11]  Alan Dojoji: With these, I'm trying to find some way to 
+represent sexuality, abjection , a sense of discomfort
+[7:11]  Alan Dojoji: with the images themselves -
+[7:11]  Alan Dojoji: This is done with both texture mapping from 
+photographs
+[7:12]  Alan Dojoji: and intensifying, over-saturating, the color so 
+that it looks as if the skin is bursting out
+[7:12]  Alan Dojoji: I've also worked with issues of disease this way, 
+to see how much 'emotional debris/material' can occur with what are 
+after all only avatars, abstracted mathematical objects
+[7:13]  Alan Dojoji: A second area of importance for all of this is the 
+edge of the protocols etc. - what happens when things are pushed to the 
+limits.
+[7:13]  Alan Dojoji: A simple example of this - please look at 
+corner.mov under Second Life materials
+[7:14]  Alan Dojoji: Here movement is occurring at the edge of the game 
+space of Second Life
+[7:14]  Alan Dojoji: This was done with Sandy and myself
+[7:15]  Alan Dojoji: I'm trying to escape Second Life, go off the edge 
+of the gamesapce
+[7:15]  Alan Dojoji: but I keep getting returned asymptotically to the 
+space itself
+[7:15]  Alan Dojoji: This goes on and on and one
+[7:15]  Alan Dojoji: on and on and on
+[7:16]  Alan Dojoji: So this is another area of exploration - what 
+happens at the limits of geographies/gamespaces, etc.? What can we 
+learn from this , particularly in relation to what we consider the 
+normative social in these spaces?
+[7:16]  Alan Dojoji: Clearly this is more'lunar' than anything else.
+[7:16]  Alan Dojoji: For a final example for the moment, pleaes open 
+control.mp4 just above - this is a recording of a performance Sandy and 
+I did
+[7:17]  Alan Dojoji: and what's of interest is not only the interaction 
+which is occurring at the edge of the game space etc.
+[7:17]  Alan Dojoji: But also Sandy's covering the screen with text, a 
+kind of obliteration of communication by communication itself
+[7:18]  Alan Dojoji: Before I turn this over to Sandy, are there any 
+questions? [why are you dissecting]
+[7:20]  Alan Dojoji: Because we take so much for granted, I think, 
+about our bodies
+[7:20]  Alan Dojoji: And this taking-for-granted breaks down in 
+obscenity, death, torture, sexuality, tantra, etc.
+[7:20]  Alan Dojoji: In other words, our lived-body is in a sense empty
+[7:21]  Alan Dojoji: (this relates to Nagarjuna buddhism btw)
+[7:21]  Alan Dojoji: And at the same time is mind, is emptied universe,
+[7:21]  Alan Dojoji: And at least within the world of computation, 
+computers, digital and analog modeling,
+[7:21]  Alan Dojoji: This gives me a gateway to all of this - 
+deconstruction as opening, not taking apart -
+[7:22]  Alan Dojoji: into something that, at least for me, couldn't be 
+described linguistically
+[7:22]  Alan Dojoji: "language fails here" or some such -
+[7:23]  Wave Looming: What about the corner sample you showed? the fact 
+the 'abstracted entity' was constantly turned back to the virtual world?
+[7:23]  Alan Dojoji: Yes - the virtual world wouldn't let go. One 
+reason I love gaz' work so much is that it breaks through 
+the conventions of second life
+[7:24]  Alan Dojoji: That it's almost always work at the limits
+[7:24]  Alan Dojoji: And I think from the limits, the boundaries, 
+that's the place to look back in and see what's going on!
+[7:24]  Alan Dojoji: singing about delusion (if you have the speaker 
+on) from a text I wrote
+[7:24]  You: - voice in what remains is azure carter
+[7:25]  You: unravelling of form as the video goes on
+[7:25]  Alan Dojoji: Any other quetions?
+[7:25]  Alan Dojoji: Yes!
+[7:25]  You: the avatar unravels from within
+[7:25]  Morris Camel: what do you think of the possibility of a birth 
+taking place in second life? if the "emptiness" of an avatar could 
+spring forth the life of another avatar from within (given that they 
+are virtual and digitally recreatable)
+[7:25]  Alan Dojoji: That's interesting - the birth is always occurring 
+in a sense, since the avatar's always being redrawn, not only on your 
+screen, but also by the servers at Linden Labs
+[7:26]  You: - this would go to the naming in SL as well.
+[7:26]  Alan Dojoji: But if you mean a birth of an independent 
+organism, that occurs whenever we create an avatar, I think
+[7:26]  Alan Dojoji: It's interesting, in thetext-based ancestor of 
+Second Life,
+[7:26]  You: Note: you must have a name and that is fixed fixed, can't 
+change it.
+[7:26]  Alan Dojoji: the MOO, to create something you'd type
+[7:26]  Alan Dojoji: @create $thing called "sheave-girl"
+[7:26]  Alan Dojoji: and you'd get back
+[7:27]  Alan Dojoji: You own sheave-girl with number #5748892
+[7:27]  Alan Dojoji: for example - some such
+[7:27]  Alan Dojoji: Which means that youv'e created an object or a 
+space in the data-base
+[7:27]  Alan Dojoji: and given it a name, "sheave-girl" - and the 
+server has given it a
+[7:27]  Alan Dojoji: number, an identification number, which it uses 
+internally, and which you can also access directly
+[7:28]  Alan Dojoji: You can see all the uneasy implications here.
+[7:28]  Alan Dojoji: In SL, objects are also given number/letter 
+addresses, but I don't know enough about the entire structure of the 
+software
+[7:28]  Morris Camel: like creating a physical space on the hard disk 
+within the SL server as well
+[7:28]  Alan Dojoji: - in other words, what sort of distributed 
+hierarchy is used - to say much about it.
+[7:28]  Alan Dojoji: So our creations here (not necessarily on the MOO 
+which is open-souarce)
+[7:29]  Alan Dojoji: are really surface-creations, server-blips...
+[7:29]  You: but the distinction between creating an avatar vs. an 
+object is interesting. can't exactly build an avatar the same way -
+[7:29]  You: prims on up -
+[7:29]  You: different matter and entities.
+[7:29]  Alan Dojoji: How so?
+[7:29]  You: well, you can change shape but you must have a shape
+[7:30]  Alan Dojoji: That's true; on another level, in both you have 
+parameters, objects that can be manipulated given a certain vocabuary.
+[7:30]  You: agreed
+[7:30]  Alan Dojoji: If you build a rock in a MOO, there are only 
+certain things you can do to it, just as with an avatar
+[7:30]  Alan Dojoji: but the avatar appears and is infinitely richer!
+[7:31]  You: can't be here without an avatar, also
+[7:31]  Alan Dojoji: We can't.
+[7:31]  You: more questions? I can offer brief remarks otherwise?
+[7:31]  Alan Dojoji: Linden Labs employees might be able to. I think 
+they definitely could be here without an avatar
+[7:31]  Alan Dojoji: Just as a wizard in a MOO can be entirely 
+invisible, bodiless.
+[7:31]  You: yes, that's true, so different for them.
+[7:32]  Alan Dojoji: Any other qustions?
+[7:32]  You: Some of my comments are just glossing Alans arguments as 
+well  and mostly what Ill say is quite simple, part of my making 
+sense of the philosophical questions Alan raises through the art you 
+see here
+[7:32]  You: You can interrupt me too --
+[7:32]  You: Theorization of avatars  look at any discussion of 
+avatars in critical theory, art theory, etc., Ars Electronica, 
+Leonardo, etc. - makes mention of their (Hindu) origin as the 
+incarnation of a god, but loses the fact that the avatar is always an 
+intentional incarnation, and moreover that the god can only be 
+incarnated as intention.
+[7:33]  Alan Dojoji: Can you repeat these? Thanks
+[7:33]  You: Theorization of avatars  look at any discussion of 
+avatars in critical theory, art theory, etc., Ars Electronica, 
+Leonardo, etc. - makes mention of their (Hindu) origin as the 
+incarnation of a god, but loses the fact that the avatar is always an 
+intentional incarnation, and moreover that the god can only be 
+incarnated as intention.
+[7:33]  You: So, I see Alans work here as dealing with intentionality 
+through avatars. Ill call this a passion of/for avatars.
+[7:34]  You: I think of a kind of humanism in SL - exactly tied to the 
+emphasis on avatars as appearance the requirements around naming.
+[7:34]  You: I am interested here in the implications for performance 
+in SL. One the one hand, for the masquerade of an audience and 
+performer, on the other hand, implications for performance in terms of 
+the pasting of views involved.
+[7:35]  You: By humanism, I think of the welcoming remarks when you 
+start in SL. "We hope you'll have a richly rewarding experience, filled 
+with creativity, self expression and fun," goes the welcome to second 
+life.
+[7:35]  You: I like all these terms: "we," "you," "richly rewarding 
+experience," "creativity," self expression," "fun." Codes with 
+addresses, signals with sources.
+[7:36]  You: The big six social codes in SL of tolerance, harassment, 
+assault, disclosure, indency, disturbing the peace redress and address 
+code / semantics of appearnace. The address and source of avatar may be 
+deep or shallow, but they are personal and proper.
+[7:37]  You: OK. There are six social codes that Linden requires we 
+adhere to in SL. They are: tolerance, harassment, assault, disclosure, 
+indency, disturbing the peace (i.e. not distrubing the peace etc.)
+[7:37]  You: All these social codes are about behaviors and proper 
+presenations.
+[7:37]  You: Similarly, Enormous work is expended building exact 
+replicas of real structures and real bodies. Universities, companies, 
+military units, and so on replicate their real estate here.
+[7:38]  You: Here I'm identifying a drive towards fidelity to first 
+life in second life.
+[7:38]  You: Another version of this argument insists on marking the 
+differentiations and deviations from first life. So, identify the 
+masquerade and pull aside the curtain. Please remember this is second 
+life! (All this goes to what we take for granted  as Alan wrote of a 
+bit ago)
+[7:39]  You: So, I'm noting these background assumptions of the world, 
+to think about in relation Alan's work and the philosophy he's presented
+[7:40]  Sca Shilova: weird thing i find is that in even in SL (as in 
+RL) the boundary lays at what each individual perceives as, assault for 
+example, so that you will find that even here women wont report rape 
+abuse, even though it's just clicking a button...
+[7:40]  You: One approach to the materials Alan and I work on is a 
+question of reading in relation to the body of the other, and the 
+interference in reading by technical protocols of the software, 
+platform, etc.
+[7:40]  Alan Dojoji: assault is just as real here in one sense, as in 
+real life - people get damaged..........
+[7:41]  You: well, it seems to me we (not us here but in general) don't 
+have a good logic i.e. way of talking about this distinction
+[7:42]  You: My remarks underline the life here as both 
+representationally life first life and ontologically distinct.
+[7:42]  Alan Dojoji: Which is also true I think of just about any 
+social issue at all, "intellectual propertly," etc. - Yes!
+[7:42]  You: My remarks underline the life here as both 
+representationally like first life and ontologically distinct. I mean 
+this in a simple way: we see things, through various representational 
+techniques, that are like first life; we know at other levels  through 
+reflection, and so on  that this is virtual. It seems seamless, at 
+least at the level of signs, so land is clearly signifying land, bodies 
+signifying bodies, and so on; yet discontinuous in its coded prim-ness.
+[7:42]  Alan Dojoji: please again?
+[7:43]  You: Well, I'm reiterating: we have a mixed zone. I mean this 
+in a simple way: we see things, through various representational 
+techniques, that are like first life
+[7:43]  You: we know at other levels  through reflection, and so on  
+that this is virtual.
+[7:43]  You: It seems seamless, at least at the level of signs, so land 
+is clearly signifying land, bodies signifying bodies, and so on; yet 
+discontinuous in its coded prim-ness.
+[7:44]  You: So, the world of SL, the life-world here is constituted 
+through this mixture or medial state; and its not like this in first 
+life, where the self-evidence of appearance is part of the world.
+[7:44]  You: Of course, immediately there are problems with this 
+proposal, as there are no end of first life exceptions, i.e. first life 
+has its unstability as well and well
+[7:44]  You: e.g. dreams, ecstasies, artwork, and so on; I would not 
+argue against this shading of SL into FL, as inhabitation of the real 
+by the virtual. Im just interested here in the difference in SL.
+[7:44]  You: - I think this is where Alan'
+[7:45]  You: oops, Alan's point about "intellectual property" or any 
+social concept comes in
+[7:45]  You: So, I suggest that the work Alan and I present here 
+projects the unstability of the world through the avatar, or smears it 
+across the avatar.
+[7:45]  You: - a movie like planetearth.mov (see it on the SL materials 
+list) is about - for me - the unstable "worlding" here
+[7:47]  Alan Dojoji: For me, planetearth also brings in other issues, 
+dealing with radio and radiowaves and the organization of the physical 
+world -
+[7:47]  Alan Dojoji: we're interpenetrated in RL (RL? FL?) by 
+radiations in a way that's almost uncanny -
+[7:47]  You: Aren't these related? This interpenetration is what I mean 
+by worlding?
+[7:48]  You: vs. a clean world that is suggested by the views of the 
+interface
+[7:48]  You: views: I mean the camera views, the remediation of the 
+third person cinematic deigesis, etc.
+[7:48]  Alan Dojoji: I don't think so? I meant it literally - 
+radiations/dusts that create dis/ease, cancer, etc. in the real world - 
+there's no equivalent I know of in SL, but I may be misunderstanding you
+[7:49]  You: I would argue yes, that the dis/eased or dis/comforted 
+body we working with here is equivalent in signifcant ways to those 
+bodies in RL
+[7:50]  Alan Dojoji: I'd think otherwise, since the FL body has a 
+limit, that is, death, that connects to pollutions, overpopulations, FL 
+violence;
+[7:50]  You: vs. again, the suggestion of a clean body that 
+(paradoxically) formed through the hypermediation of viewpoints.
+[7:50]  Alan Dojoji: you can rebuild, resurface in SL, but not in RL
+[7:50]  Alan Dojoji: What do you mean by "hypermediation"?
+[7:51]  You: Hypermediation: its a term commonly used for interfaces 
+where there are multiple views (e.g. bolter and grusin's theory)
+[7:51]  You: the multiple views work together to suggest a single 
+viewer or controller
+[7:52]  Alan Dojoji: I understand, but in this context? I wonder if 
+"viewpoint" can even be used in relation to cancer in FL? Perhaps 
+cancer is even characterized by an absence of viewpoint... In SL in a 
+sense all we have is viewpoint
+[7:52]  You: - Yes, that's what I'm saying.
+[7:52]  You: Well, to continue.
+[7:53]  You: I want to call this, problematically, a wilderness  i.e. 
+where we can't comfortably speak of single view or body or location, 
+where ruptured world of SL that I described above 
+[7:53]  You: the divergence of meaning and being is everywhere, where 
+the masquerade is nothing but this mixed or medial state (here 
+refracted through performance).
+[7:53]  You: (The avatars' wandering in control.mov or corner.move, 
+wandering in a corner is part of this wilderness: finding it 
+everywhere, not only at the edges.)
+[7:53]  You: 'Wilderness' of avatars also invokes the nonhuman and 
+animal. I think here of a distinction between human and technical 
+machine that maps onto the human animal distinction.
+[7:54]  You: Without simply accepting these distinctions, I would say 
+they need to be worked through productively. I think these are places 
+where the humanist notion of consciousness and control, all over 'here' 
+as it were, is broken down by a notion of wandering and following, of 
+waywardness as being.
+[7:54]  You: again:
+[7:54]  You: I think these are places where the humanist notion of 
+consciousness and control, all over 'here' as it were, is broken down 
+by a notion of wandering and following, of waywardness as being.
+[7:55]  You: OK. These are some quick remarks. I also want to develop a 
+notion of surface that would articlate SL and FL - i.e. in the kind of 
+questions raised by Alan in response above -
+[7:56]  Alan Dojoji: I'd like to hear about surface...
+[7:56]  You: by wilderness of avatars I mean the environments show in 
+corner, or control
+[7:56]  You: but also in hhhh.mov (take a look at this one under the SL 
+materials()
+[7:57]  You: OK. Given the wilderness of avatars I described earlier, 
+my second proposal is to describe an ontology of surfaces
+[7:58]  You: In describing the pasting of views and positing of the 
+viewer here (audience), I assume that there is a reading through 
+surface to an other.
+[7:58]  You: (This is a version of what Alan said above: only 
+viewpoints here.)
+[7:58]  You: i.e. I assume a relation to this other  you are reading 
+my message, watching my actions, and so on.
+[7:59]  You: With the wilderness of avatars, I want to describe a field 
+of performance that exceeds and destroys the boundaries of I and 
+self, it can be a basic field of we or of intimacy.
+[7:59]  You: Again, this is predicated on the basic 
+semiological-ontological distinction of SL.
+[7:59]  You: I think of this in relation to the scan materials Alan 
+showed earlier or the mocap materials
+[8:00]  You: see for example the largescanner images
+[8:00]  sandy Taifun is Offline
+[8:00]  You: here The surface is a midst (medium) or zone of visual 
+appearance, fragrances, sound productions
+[8:01]  You: (I see these thinking of surfaces as not borders or 
+barriers to the interior )
+[8:02]  You: I see a similar process in the other mocap materials - the 
+bub movies as well.
+[8:02]  You: (that you looked at earlier, bulb1 and so on -- feel free 
+to look at them again)
+[8:02]  Alan Dojoji: the .avi bulb is good too
+[8:03]  You: Yes, take a look at that one
+[8:03]  Alan Dojoji: bulb2.avi
+[8:03]  You: (note: avi may not open directly in browser)
+[8:04]  You: OK. The surface as midst or zone of display is part of 
+the presentation of self of a living being.
+[8:05]  You: My point here, returning to the earlier discussion, is 
+another approach to appearance
+[8:05]  Alan Dojoji: I wonder if lobe.mov might not also be relevant 
+here - a mapping that's half-"cartoon" and half "avatarish"
+[8:05]  You: yes, good - take a look at lobe.mov as well.
+[8:06]  You: The cartoonish forces a sense of the constructed and yet 
+it's also directly from the body's interior -- all the movements.
+[8:07]  You: I'd say: the cartoonish even tends towards the absurd;
+[8:07]  You: absurd or the earlier discussion of abject images are ways 
+of Surface opacity as manifestation (pastiness) of inwardness
+[8:07]  You: i.e. thickening of representation as intensification of 
+projection and manifestation
+[8:08]  You: So, in all this, dealing with avatars not an image of my 
+body; it is, however, part of the imaging of my body, part of the 
+visual imaginary of my body.
+[8:08]  You: I think, for me, the best and most amazing example is the 
+scan24s.mov.
+[8:09]  You: I know Alan has a lot to say - other things than I would 
+about this - but
+[8:09]  Alan Dojoji: Sandy, I wonder if you could bring up gnats.mov in 
+this regard, since it's recorded in FL but has strong implications here?
+[8:09]  You: yes, sure!
+[8:09]  You: listen / look at gnats -
+[8:09]  Alan Dojoji: gnats.mp4 under Human
+[8:10]  Alan Dojoji: This was recorded in Salt Lake City, Utah - on the 
+Jordan river - gnat swarms that behave as single vertical columns, 
+meta-organisms...
+[8:10]  Alan Dojoji: the surface for the gnat is most likely one of 
+scent
+[8:11]  Alan Dojoji: for us it's "constructed" out of a pointillist 
+vocabulary so to speak
+[8:11]  You: i find i tend to see forms, figures in the swarm, though 
+it's nothing but pieces - for me, like the shieve-girl you spoke of 
+earlier
+[8:12]  Alan Dojoji: Yes! Which brings up the porosity, lack of 
+surface, of our own bodies, something Hegel mentions
+[8:12]  You: but the forms are, surely, tied to the air currents, 
+weight of gnats, following each other - etc.
+[8:13]  Alan Dojoji: Tied to, but also internally constructed; in the 
+still air, the columns get thinner and thinner - which happens at the 
+end of gnats,mp4. This "tying together" and scent etc relates to the 
+skeining of any organism I think... (I maybe wrong here)
+[8:13]  You: i agree: this would be the visual / appearance of the 
+inwardness of the gnat (so to speeak): i.e. the presentation of it and 
+its environment
+[8:14]  Alan Dojoji: Should we look at things like frenzy.mp4 or 
+jump.mp4 or hold off for the moment?
+[8:14]  You: i want to see a similar presentation occuring through 
+avatars
+[8:14]  You: yes, frenzy first. under human materials.
+[8:14]  Alan Dojoji: That's where the blender stuff comes in.
+[8:14]  Alan Dojoji: Please open frenzy.mp4
+[8:15]  Alan Dojoji: I work with Foofwa d'Imobilite, a Geneve- based 
+dancer who has a company; I think he's one of the best dancers in the 
+world at the moment
+[8:15]  You: Award winning dancer...
+[8:15]  You: This is not in relation to a specific avatar recording, is 
+it Alan?
+[8:15]  Alan Dojoji: And he takes the avatar material, SL for example, 
+"returns it" to FL, and back and forth; we mutually interpenetrate 
+activities this way
+[8:15]  sandy Taifun is Online
+[8:15]  Alan Dojoji: No - it's in relation I think both to our work on 
+producing-as-fast-as-possible and avatar in general;
+[8:16]  Alan Dojoji: the duetavatargrante.mov or thewall.mov are 
+directly related to avatar recordings
+[8:16]  You: - frenzy, not the file but the movement of foofwa, is in 
+relation to his body in a way that the avatar movements are to theirs 
+though
+[8:16]  Alan Dojoji: please try and look at these - they may stutter...
+[8:16]  Alan Dojoji: Yes -
+[8:17]  You: so, tied to the question of appearance of inwardness
+[8:17]  You: ok, let'
+[8:17]  You: oop, at duetavatargrange.mov
+[8:17]  Alan Dojoji: (Please do interrupt with questions if you have 
+any)
+[8:18]  Alan Dojoji: I'm watching thewall.mov now
+[8:18]  You: Well, I know Alan has a great deal to say about 
+duetavatargrange and thewall. Let me close my thoughts on surface -
+[8:18]  Alan Dojoji: - avatar movements constricted by the very real 
+wall of a grange in the Alps, Maud Liardon and Foofwa dancing
+[8:18]  Alan Dojoji: Ok, sorry
+[8:19]  You: and then alan can say more about these one's.
+[8:19]  You: Closing: I set out an idea of surface as thickening or 
+manifesting inwardness.
+[8:19]  You: Add to this being-with or following surfaces,
+[8:19]  You: being-with avatars as avatar touching avatar touching 
+viewer as thickening and projective residue of consciousness
+[8:20]  You: so, by this I mean avatars as self-announcement of being 
+into sl
+[8:20]  You: all this set against what i earlier (too quickly) marked 
+as a "humanism" of avatars, where the task is to read back to the 
+"driver" as it were
+[8:21]  You: self-announcement as what happens in the "wilderness of 
+avatars" I mentioned earlier
+[8:21]  Alan Dojoji: Is self-announcement of being similar to rewrite? 
+Can you elaborate?
+[8:21]  You: - yes, continually self-announcement and production (with 
+implication of work, economy) through the avatar
+[8:21]  You: rewrite: an important concept developed by alan in the 
+internet text
+[8:22]  You: the subject writes and rewrites into existence.
+[8:22]  You: i would say self-annoucenment is cognate, but i wanted to 
+focus on the appearance of the avatar as opaque signal (thus 
+announcement)
+[8:23]  Alan Dojoji: avatar as emblem -
+[8:23]  You: yes, ikon
+[8:23]  You: Are there questions? Happy to answer more? Or, happy to 
+turn back to duetavatargrange and here more on that
+[8:23]  You: [quickly: i distinguish between sematic appearnace and 
+cryptic appearance, both zoological terms for how animals appear -
+[8:24]  You: but both the cryptic (camoflauge) and sematic (display) 
+are part of the self-annoucement of the avatar]
+[8:24]  You: But: questions?
+[8:24]  You: Also: a quote from Mishima.
+[8:25]  You: If the law of thought is that it should search out 
+profundity, whether it extends upwards or downwards,
+[8:25]  You: then it seemed excessively illogical to me that men should 
+not discover depths of a kind on the surface, that vital borderline 
+that endorses our separateness and our form, dividing our exterior from 
+our interior.
+[8:25]  You: Why should they not be attracted by the profundity of the 
+surface as well.
+[8:26]  Alan Dojoji: Ok, I'm a bit mixed in relation to IM here, but 
+I'll type for a while.
+[8:26]  Alan Dojoji: Please open duetavatargrange.mov under the 
+lower-right quadrant
+[8:27]  Alan Dojoji: This is again a Liardon/Foofwa performance
+[8:27]  Alan Dojoji: Before I begin with this I want to mention again 
+rewrite - for it's important here.
+[8:27]  Alan Dojoji: Simply, embodiment in Second Life or online in 
+general is INTENTIONAL
+[8:27]  Alan Dojoji: In other words, one has to write to have presence, 
+has to have an avatar to presence oneself
+[8:28]  Alan Dojoji: And one continually writes/performs/acts in these 
+spaces
+[8:28]  Alan Dojoji: As a way of ascertaining, indicating existence
+[8:28]  Alan Dojoji: Log off and you're gone
+[8:28]  You: - alan, this differs from RL in the sense of not being 
+able to log off so easily, so to speak?
+[8:28]  Alan Dojoji: Even if you use a bot to keep you online in 
+appearance
+[8:28]  Alan Dojoji: One moment
+[8:29]  Alan Dojoji: Even if you use a bot to keep you online in 
+appearance, it's not responsive to someone, although someday a Turing 
+test might prove different
+[8:29]  Alan Dojoji: But at the moment, you're "hereness" is indicated 
+by behavior, statement, etc.
+[8:30]  Alan Dojoji: So embodiment is not background, the way it is in 
+FL; it's not GROUND, not Primordial so to speak - it's always already a 
+deliberate and intntional construct that needs renewing...
+[8:30]  Alan Dojoji: Re: What you were saying, you can log off in RL, 
+but this brings up all those issues of euthanasia, legislation against 
+suicide, etc., which are problematized in SL...
+[8:30]  Alan Dojoji: With duetavatargrange.
+[8:31]  Alan Dojoji: Foofwa and Maud were working from studying the 
+kinds of avatar-moement
+[8:31]  Alan Dojoji: from the BVH files you see here - and using this 
+movement as a choreography, bending the human back into the virtual.
+[8:31]  Alan Dojoji: So for example, their contact with one another is 
+problematic - as if they shojld be transparent with each other
+[8:31]  Alan Dojoji: but aren't -
+[8:32]  Alan Dojoji: The materiality - what Rosset calls the "idiocy" 
+of the real world interferes, interrupts
+[8:32]  Alan Dojoji: just like, or in a sense just like, dreams are 
+interruptions, are interrupted
+[8:32]  Alan Dojoji: When we work together, Foofwa & whomever and 
+myself and Azure Carter,
+[8:33]  Alan Dojoji: we move betwen language, sexuality, body, virtual, 
+prim, construct, choreography, improvisation, projection, 
+introjecdtion, etc.
+[8:33]  Alan Dojoji: all of these things so that after a while it's 
+almost as if we can't tell what world we're in.
+[8:33]  Alan Dojoji: Please look at jump.mp4 in Human Materials for an 
+example of this
+[8:34]  Alan Dojoji: That's about all I have to say at this end, - 
+Sandy - or questions? Please, any sort of dialog would be greatly 
+appreciated!
+[8:34]  You: I wanted to ask, first, back about rewrite.
+[8:35]  You: The distinction between rewrite and ground, let's say, 
+insists on the distinction between FL and SL.
+[8:35]  Alan Dojoji: Different modes of presencing... yes
+[8:35]  You: And, of course, as you note the places we consider rewrite 
+in first life are limit cases: suicide, euthanasia, etc.
+[8:36]  You: Still, there is a presencing in first life that seems to 
+me like rewrite.
+[8:36]  You: we do "show" our selves and there is an intentional aspect 
+that always there...?
+[8:36]  You: in part, I'm trying to pressure the difference between 
+these worlds / lives
+[8:37]  You: (as in earlier, you mentioned that there's real damage to 
+those hurt in Second Life, and so on)
+[8:38]  Alan Dojoji: For me, that's an issue of roles, Goffmann; the 
+kind of presencing I'm thinking about is fundamental - someone "is" 
+there or not - the codes, protocols, are upon or within that matrix. 
+And presence is different in these areas. The "real damage" in SL isn't 
+one of disease, death, the violence of Darfur for example - modes of 
+coercion are very different and more benign in SL
+[8:38]  Alan Dojoji: They're absolute in FL
+[8:38]  You: - second, can you say more about Maud and Foofwa -
+[8:39]  You: there was a phrasee: they should be transparent,
+[8:39]  Alan Dojoji: Yes - it's as if they're following the gestural 
+order, regime, of SL etc. - but can't - the obdurate, inert gets in the 
+way.
+[8:40]  Alan Dojoji: For me this brings up again Abu Gharayb - what are 
+people thinking when they move the bodies of others into obscene 
+positionings and then photoraph them?
+[8:40]  You: yes!
+[8:40]  Alan Dojoji: (Which is one reason I want to see Abu Gharay 
+re-enacted here.)
+[8:40]  You: in Second Life....
+[8:40]  Alan Dojoji: Yes
+[8:40]  You: I'm curious about response to that (both from those 
+gathered here and in general)
+[8:41]  You: In terms of following the gestural order - a good way of 
+putting it, I think -
+[8:41]  You: this isn't just at the level of chains of signs, but also 
+they way those stick to the body -
+[8:42]  Alan Dojoji: I think, under the Bush administration, this order 
+has been foregrounded in a sense - I'm thinking of the beheading of 
+Perl (Pearl?) and others as well.
+[8:42]  You: By "order" I'm thinking of a command and also a logic or 
+representation?
+[8:42]  Alan Dojoji: I think this confrontation with the imminence of 
+violence is a change of regime in a sense - YouTube etc. contributes to 
+this, the slaugter of the world becoming transparent
+[8:43]  You: and al jazeera (new network)
+[8:43]  You: news network
+[8:43]  Alan Dojoji: A logic or representation of a regime of commands -
+[8:43]  Alan Dojoji: Yes, and not just al jazeera -
+[8:44]  You: Can you discuss the effect of setting that order here?
+[8:44]  Alan Dojoji: I don't really know; I think it should be 
+explored..
+[8:44]  Alan Dojoji: For me SL appears like a safe house, literally
+[8:44]  Alan Dojoji: in that slaughter and mass animal extinctions seem 
+somehow remote
+[8:45]  You: i think sprites.mp4 relates?
+[8:45]  You: and wolf.mov
+[8:45]  Alan Dojoji: and they shojldn't be; the suffering - YES, please 
+look at this?
+[8:45]  You: look at sprites.mp4 under the mocap materials on the web 
+page
+[8:45]  Alan Dojoji: but they're not remote, they're contingent
+[8:46]  You: sprites is set at a wind power generating station in West 
+Virginia, USA, on a ridge above some old lead mines.
+[8:47]  Alan Dojoji: And the torn-up bodies were in direct relation to 
+Abu Gharayb
+[8:47]  You: There's a sense, for me, of natural power and intense 
+technological power.
+[8:47]  You: Also, look at wolf.mov in the mocap materials.
+[8:48]  Alan Dojoji: Wolf.mov was in response to 9/11 - the background 
+was shot in the "bathtub," the exposed basement of the blown-apart 
+towers,.
+[8:49]  You: again, the avatar is destroyed? reworked? eaten? from 
+within.
+[8:49]  Alan Dojoji: The foreground is a wolf mannequin from the Poser 
+software which is deliberately distorted by hand until the planes fall 
+apart; the mouth also opens, a destroyer as well
+[8:50]  Alan Dojoji: Susan Sontag, I think, wrote about the tens of 
+thousands of dead birds found around the towers...
+[8:50]  You: Well, please we welcome questions from all of you!!
+[8:50]  Alan Dojoji: I think this is a good place to stop for dialog, 
+if we can; we've done our best to present an outline of thework so far
+[8:51]  Alan Dojoji: In the future I'll be embedding these 
+figures/behaviors in a Cave (3d environment) , taking it out of 
+thecave, back in, etc. etc.
+[8:51]  Alan Dojoji: and working with Sandy and Foofwa on the results 
+which are still really unknown
+[8:51]  You: (thanks alan, was just going to mention that)
+[8:51]  Alan Dojoji: I also want to try working with more complex 
+motion capture equipment on one hand
+[8:52]  Alan Dojoji: and more complex bvh files on the other so that 
+larger amounts of data could be dynamically mapped onto virtual 
+organisms
+[8:52]  You: There's also another dimension of exploring analog waves, 
+radiations, etc. through very low frequency radio, crystal radio, etc.
+[8:52]  You: that seems to me to work in a counter space or dialog with 
+this work
+[8:52]  Alan Dojoji: But I'm probably kiding myself - this requires a 
+lot of computer science I don't know at all...
+[8:52]  Alan Dojoji: I depend on the kindness of strangers...
+[8:52]  You: Well, questions?
+[8:53]  Alan Dojoji: Just want to mention this text will be made 
+available online, with all its faullts and mistypings...
+[8:53]  You: Can you think of things to take from this to your own work 
+- or do you know of similar work in this area?
+[8:53]  You: yes, I will post it to the website and the blog
+[8:53]  You: and it will be available on the intimacy site
+[8:54]  Wave Looming: just a quick comment on the spirtes film
+[8:54]  You: ok
+[8:54]  Wave Looming: there is a real tension between what alan refers 
+to as the natural and technology power
+[8:55]  You: - those were my terrms (sandy) not sure if alan would 
+endorse that?
+[8:55]  Wave Looming: the wind seems to be generated by the power 
+planet which caused the body parts floating
+[8:56]  Alan Dojoji: Ah yes, I'm also thinking of the propellor vanes 
+themselves cutting into bodies; this happens with birds for example, 
+but here I'm thinking more of a microtome...
+[8:56]  Wave Looming: it can be read in many ways - floating = 
+suffering?
+[8:56]  Alan Dojoji: yes
+[8:57]  Wave Looming: or floating as a result of being tied together by 
+the wind?
+[8:57]  Alan Dojoji: maybe, re buddhism, suffering can also 
+beconsidered part of the natural order of things
+[8:57]  Wave Looming: perhaps, it can also been seen as a pleasure that 
+can only experienced in SL
+[8:58]  You: - I think of Sontag again, whom alan mentioned earlier - 
+re suffering and photos
+[8:58]  Alan Dojoji: I don't really see this degree of distortion as a 
+pleasure; if suffering is pleasurable as in masochism, I'd think it 
+would have to be implicit in real life, felt, keywords and all. the 
+difficulty for me is that it's hard toget away from SL cartooning, make 
+something felt as political, abject etc.
+[8:59]  You: i think, also, just as earlier we said that we don't have 
+a clearly articulated language for the mixture of FL & SL,
+[8:59]  Wave Looming: if it's intended to be read as suffering, then, 
+it makes me question more about the agency we think/believe we might 
+have in SL
+[9:00]  You: so too, viewers of these videos or of SL in general don't 
+know how to process the content & poltical point
+[9:00]  Alan Dojoji: I'm not sure the reading is that "intended" but 
+certainly the sphere, reference, is
+[9:01]  You: I think this question, like that of "staging" abu ghraib 
+here is an important one - especially if tethered to other media 
+(youtube, etc.)
+[9:01]  Wave Looming: it brings back the issues relates to the limits 
+in SL which also applies to the technological limits in RL
+[9:02]  Alan Dojoji: What I've seen or heard about re-enactment here - 
+it's art performance about art performance; I'm not sure why, when 
+there are so many more urgent things to explore
+[9:02]  You: - yes. Other questions?
+[9:02]  Alan Dojoji: The technological limits in RL are also -vis-a-vis 
+bandwidth - limits in SL. This is also related to limits of economy - 
+who canafford, for example, DSL, who has access to T1 or T3 lines at 
+what institutions, etc. -
+[9:03]  You: yes, or simply the economy of development, programming, 
+etc. definitely.
+
+
+
+gloom.
+
+gloom.
+defuge.
+the radio comes on in the room.
+the radio whispers in the room. 
+it speaks the unspeakable.
+i can't keep this up, it says.
+this world is far too tired, it says.
+the world can't do anything more.
+the world tried over and over.
+nothing worked.
+the world is exhausted.
+the world doesn't need the radio.
+night. the computer's gone to sleep.
+there's nothing online.
+there never is.
+there is no subsequence-consequence.
+gloom of cold rain.
+gloom of cold.
+i don't want to touch myself.
+i don't want to touch anything.
+i sleep on this floor.
+there are no noises in this place.
+i know i am wise.
+i am wise because there is no substance.
+there is no consequence-subsequence.
+there is nothing to release.
+dead phone. keyboard disconnect.
+defuge of supine body.
+defuge of dead air.
+defuge of radio whisper.
+the floor is exhausted.
+the ceiling is exhausted.
+the wall is exhausted.
+i leave the skin.
+i take the skin.
+the radio.
+
+[I take the radio because there is nothing left to do; voice enters the 
+imaginary. Defuge is that condition of insomnia, exhaustion, distaste, 
+disgust, lassitude, detachment, decathecting, disinvestment, that renders 
+objects and the world la nausee, worthless, used-up, spent. It accompanies 
+the corrosion of desire; it accompanies the borderline. Defuge, undercut-
+ting the digital or discrete with the uncomfortable analog-abject, the 
+fissured real.]
+
+Perhaps a way of teaching media 
+
+(I've been filling in for a couple of film courses at Brown University, 
+and this has led me to think through distributed knowledge in an 'open' 
+classroom, and how that plays out. The courses were, I think, extremely 
+successful. I've been partly inspired by two artist/teachers from the 
+1970s-80s: David Askevold at the Nova Scotia College of Art and Design, 
+and Lutz Presser at the Tasmanian School of Art. Neither of them taught in 
+any conventional sense; both had a sense of student professionalism and 
+'being' that created outstanding works and environment. So below is just 
+some thinking about all of this; it's hardly original. it seems to work 
+well for me and my students, most of the time. There are also times I'm a 
+miserable, neurotic failure, but that's another issue, and not necess- 
+arily related.)
+
+1 In terms of authority - everyone in the class, including the teacher, on 
+equal footing. I think authority comes from knowledge, not titles, formal- 
+ity, etc. This is hard to do within an institution where power is the 
+fundamental backdrop of the classroom, but I've done it as much as poss- 
+ible.
+
+2 Distributed knowledge among students and faculty. In many areas, partic- 
+ularly those dealing with digital and popular culture, students are often 
+more knowledgeable than faculty. This is especially true with software - 
+students are apt to have used and hacked programs I haven't. Knowledge is 
+distributed and students and faculty work together, empower each other. 
+The classroom becomes a holarchic space of production, exploration, and 
+critique. I have to recognize that what I know, in many areas, is already 
+outdated.
+
+3 No assignments except for technical in the beginning which may or may 
+not be completed. Students find their own paths through the class, subject 
+matter, and production. Students who are confused or aren't motivated 
+should be helped along, of course; the more collaborative the class is, 
+the more these students might be carried forward within a general atmos- 
+phere of communality. This area might be the most difficult - how to work 
+with unmotivated or reticent students - but I've found there are almost 
+always workarounds; at times, students might even ask for assignments or 
+help with content and/or media.
+
+4 Learning equally from students as students from you. This goes along 
+with distributed knowledge; there's also distributed learning. If I'm not 
+learning, I'm not teaching well; if the class seems closed in this 
+respect, I'm doing something wrong.
+
+5 Students/faculty = equal participants. Again, this plays out against the 
+backdrop of fundamental power, but that power should be deconstructed as 
+much as possible. Along with this - try to interest as many other faculty 
+as possible in the course (I've not been so successful here), and encour- 
+age students to bring outsiders in as well. Obviously there are limits on 
+this, but in general it works well.
+
+6 Students treated as artists/writers/filmmakers to to the fullest extent 
+possible. The most successful classes I've seen are those in which stu- 
+dents are considered as producers in their own right. If I begin with the 
+idea that what a student is doing isn't 'student work,' more often than 
+not, I've found that students rise to the occasion.
+
+7 "Professional" advice. Discussing art-making after university - how to 
+present, distribute, survive, both online and offline. Encouraging stu- 
+dents to submit work to suitable venues, organize screenings or exhibi- 
+tions, etc. I've also encouraged students to do their own media/art 
+history as much as possible; what's current is what is/will become the 
+student's environment, once she leaves university. I've tended to share my 
+own work/experiences in class to a limited extent, trying to keep students 
+from stylistic influence.
+
+8 Students are free to work on whatever, including sliding into other 
+genres, media. Since the work is student-determined, ostensible class 
+content might not be the most suitable for a particular project. Instead 
+of dropping the project, perhaps change it, or change media.
+
+(I feel I'm not presenting this stuff as well as I should be; others have 
+done a far better job of it. The main points are both a kind of withdrawal 
+on the part of the teacher, and an emphasis on distributed learning and 
+production on the part of the class as a whole. This doesn't work for 
+everyone in all situations - but when it does, the results are amazing in 
+so many ways.)
+
+[Why is this here, other than it works pedagogically? Because it argues 
+for dispersion, de-centering on a practical level, perhaps teacher and 
+students as emanents.]
+
+defuge6
+
+The stem of the 6 leans forward, ready to topple.
+The stem of the 6 is retained by the entire and complete
+calculus of capital.
+The calculus of capital is thick, exhausted, is always
+exhausted, is always singular, singularity, always 
+the point and paste of the thing.
+The calculus is in opposition to glue holding disparate
+parts together _as such._
+The calculus of capital knows only the unary divide.
+And the unary addition and the unary increment
+and substitution. And the unary substitution.
+In my weary world the head bobs uselessly.
+It looks in the thick of things for clock and radio.
+It pulls the sheets up and pulls the sheets down.
+It wraps and unwraps the cadaver of the body.
+Beware the thud of 6 and thud of capital.
+What is ready to topple sooner or later topples,
+sooner or later revives into disparate parts.
+(What is ready to topple has the consistency of glue.)
+
+Cuadrante morado - abierto ropon 
+
+(((purple quadrant - open gown) from Frida Kahlo, Diary))
+
+
+
+among deities, the appearance of deities
+among mindless selves, the appearance of mindless selves
+among structures, structures, and among deities, mindless selves
+among mindless selves, structures and deities
+
+hereditary peers are born to the purple perhaps this implies that she 
+spent a lot of time talking to nude dancers (when they had their clothes 
+on home crying nude on purple wall collapsed against a purple wall with 
+human adenocarcinoma cells sqdg from edible purple laver (porphyra yezoen- 
+sis) was donated by bizen cleavagevictoria silvstedt in a purple shimmery 
+thingy outside westburyvictoria silvstedt nude cal-victoria silvstedt hq 
+nude wallpaper [sexybits one shoulder two nude and one purple power net 
+cut outs on body sleeves are nude power net with cuffs
+
+thats nothing compared to the mortal kombat nude code or the metroid nude 
+like saying there was a purple power ranger and what not if you missed a 
+few players underwent acupuncture dyed their hair purple posed nude played 
+lazer tag kicking up quite cancer lesion is mainly composed of cancer 
+cells (purple) around fine structures (less than television - a purple 
+dress a vibrant kiss a nude stenographer and much else beside in this 
+segment of the flux/goodchild relationship
+
+but on the far left wall remain 
+purple torso back
+ and purple torso front   he jested 
+its not my fault these people are nude theyre honest
+
+
+
+stand by
+
+stand by
+reality and illusion are one
+who keeps the image from disappearing
+what appears on the surface manages the center
+every center covers a center
+succumb to deity, succumb to self
+reality and illusion are two
+wrathful deities keep the image from disappearing
+what manages the surface appears in the center
+every center uncovers a center
+discard deity, discard self
+stand by
+
+
+arboreal
+
+
+
+tiffany
+
+tiffany tiffany hold it tiffany hold it splitting bang. tiffany exclaims 
+"you killed me!" you drop the bones of our website . supplier for 3 years 
+and won the good reputation on this line. the on . pleasure more ebay 
+resellers join our company and enjoy our looking for a good source of 
+wholesale tiffany for your retail tiffany says, in a light later, these 
+will be known as the real. so says tiffany honey clarissa shulamit 
+margarita catherine tiffany no longer call her own a plain with tiffany of 
+white crows black sky clarissa evacuation hielo internet, tiffany, alan, 
+claire, honey, and others, tiffany, in as men and women hear tiffany 
+'sdeath cry. tiffany appears with an ear- tiffany nothing means but when 
+thinking exhausts, meaning appears. tiffany nothing means but when 
+thinking exhausts, meaning appears. tiffany says you chop tiffany to 
+pieces! ah! the blood! your blood freezes dagger. tiffany eats the corpse. 
+tiffany becomes queen of everything in plains, tiffany eats a dagger. 
+tiffany eats the corpse. tiffany becomes sky clarissa evacuation of anal, 
+stumbled clitoris of tiffany, burrowed queen of everything in the lpmud of 
+tiffany . the hole. the hole in the queen of everything in the midst of 
+the other. eyes; in turn, she snapped tiffany 'swrist as if it were paper. 
+bones food here' tiffany grins evilly. tiffany eats the corpse. tiffany 
+becomes
+
+tiffany thinking is exhaustion. tiffany thinking is exhaustion. behind 
+dark eyes, illuminated wires, and tiffany and honey and travis, or 
+one-stop shop for wholesale .hope you will get more surprise items on 
+quaint, magical gesture with one hand. tiffany has created the herbalist.. 
+tiffany smiles happily. tiffany points whatever s/he or anyone proffers as 
+there were ghosts, tiffany and honey, when clara hielo internet ruled 
+cheap bootleg), including the necklace ,cuff , ring ,earring . as 1837 
+alan, it is enough that you were thinking. tiffany the sun makes 
+difference tiffany the sun makes difference exactly, you may have all 
+kinds of questions from beginning if you're with tiffany alan or clitoral 
+double cones, flattened, holed with clitoral, style , round / heart tag 
+style , atlas style , titanium style and so particular, relation say to 
+tiffany forever. as long as tiffany will the real. so says tiffany honey 
+clarissa shulamit margarita catherine tiffany no longer call her own a 
+plain with tiffany of white crows black operation, online store or auction 
+business is your of anal, stumbled clitoris of tiffany , burrowed plains, 
+tiffany eats a lpmud of tiffany . the hole. the hole in the datagrams, the 
+sound.
+
+tiffany they end the process, sleep during the night when dreams
+
+tiffany they end the process, sleep during the night when dreams the 
+datagrams, the sound. intensity of tiffany alan, hole. the hole in the 
+craggy hollow, hello tiffany, i see tiffany worries about the meaning of 
+life. tiffany makes a products of us are the best quality in china and the 
+lowest price(not service. since we are mate wholesaler and dropshipping 
+servicer who for a while, leaped up and ran the house. she'll be back 
+later, tiffany. speak, i will listen. i swear it. @describe lance as holed 
+skin, rimmed tiffany that it would have given information and tiffany 
+wholesaler is a professional tiffany jewelry can help you feel confidence 
+to set up a steady business.to be tiffany says 'did you kill orc?' tiffany 
+says 'i've been eating lots.
+
+
+
+second life third life
+
+begin by setting out directions, these are the five healthy directions, 
+the middle direction is one of exhaustion and ecstasy, then in the 
+direction opposite the middle direction set out the last direction, which 
+is one of wounding and suffering. if the middle direction is reception, 
+the last direction is penetration, if the last direction is reception, the 
+middle direction is penetration. set the house in order from the middle 
+direction outward, these are the spokes which narrow to the point of 
+intersection between the middle direction and last direction. now forget 
+the four directions, concentrate on the spokes, the point, the middle and 
+the last direction. then concentrate on the spokes, forget the point, the 
+middle and the last direction, the spokes come close to the point, forever 
+close to the point, but the point is absent, emptiness, emptiness radiates 
+outward between the spokes. now forget the spokes, emptiness radiates 
+among the ghosts of them, the spokes are hungry ghosts, they gnaw at 
+emptiness, they are wounded, they are defeated, they disappear. now think 
+of emptiness, think of nothing else, think of nothing. now you have laid 
+out the house and the world and the word, but you are in ignorance, you do 
+not know house or world or word, if you think house or world or word you 
+must begin again, laying out the five directions and so forth. now you 
+have come to an end and you are ready to begin, you have come to the 
+beginning, and you are ready to end. now continue.
+
+you must imagine now yourself and house and world and word annihilated, 
+you must imagine annihilation of annihilation. you must imagine almost all 
+pleasure, among taste of delight and touch of exaltation, and among scent 
+of numinous being and sight of untold beauty and hearing of harmonious 
+sounds. now you must imagine another being joined to yourself and house 
+and world and word, you must imagine penetration reception and reception 
+penetration, you must imagine fullness and overflowing of delight. now you 
+will find you are creating and you are making sheave-woman and sheave-man, 
+you are sheave-woman and sheave-man, you have sheave-sight-and-sound, you 
+have sheave-touch-and-scent, you have sheave-taste-and-mind, you have 
+sheave-passion and sheave-ecstasy. now you will walk and remember, you 
+will remember everything, and you will speak and hear, see and taste, you 
+will forbid nothing, you will not be forbidden, you will rise above and 
+sink below, you will be among the direction of wounded and suffering. now 
+you will do this for a long time, for aeons.
+
+now you will embrace emptiness, you are making sheave-other, you are 
+making sheave-emptiness, you are making wrath, are making creation, are 
+making annihilation. now you are making annihilation, now you are among 
+them, beneath them, above them, now you are beyond them. now you are no 
+longer imagining, you are no longer thinking among them, you are no longer 
+thinking, no longer sheave, no longer thought, now you are annihilation, 
+now you are making nothing, now you are annihilation, now you destroy 
+house and world and word, now you are destroyed, now you are annihilation, 
+you are free, you are emptiness, you are annihilation, you are emptiness, 
+now you are free.
+
+
+Derivation of "Bug," telegraphy code, etc.
+
+
+"Bug" has been traced vis-a-vis computer folklore to early programming/ 
+hardware/software/etc. as far back as the 1950s I believe. But recently 
+I've come across a much earlier source. In The Telegraph Instructor, 4th 
+and revised edition, 1908, G.M. Dodge gives a list of telegraph terms.
+
+"Bug-in-the-wire -- A slang phrase frequently used when a wire is in 
+trouble."
+
+This relates to "buggy," "he's bugged," "stop bugging me," and so forth; 
+what's interesting is the noun related to communications technology. In 
+relation to computers, this might be a case of convergent evolution, but 
+it's more likely to have moved through telegraphy - telephony - radio - 
+and so forth, into the habitus of information theory and cybernetics.
+
+Another early term relates to the origins of "ham" in "ham radio" - 
+although the exact source of this remains unknown:
+
+"'Ham' or 'Plug' -- A telegraph operator, who is not proficient."
+
+[A number of phrases we take for granted are older than they appear. For 
+example, "so long"; from A. Wallace, Popular Sayings Dissected, 1895: "So 
+long! a leave-taking, a piece of colonial terseness is equivalent to 'au 
+revoir, saluons!' of which latter word it may be a direct corruption, or 
+again of 'salaam,' a bow, or 'salem,' 'peace be with you.' The phrase may 
+be paraphrased into 'Goodbye, so long as we do not meet.'"]
+
+On another related topic, early Morse code was somewhat different; there 
+were all sorts of variations - Navy Codes, European Codes, Morse American 
+codes, etc. The same book gives for example, "The Morse code of signals as 
+applied to the telegraph is used exclusively in the United States." The 
+code as given has three dash-lengths; for example,
+
+t is - 
+but 
+l is -- 
+and 
+0 is ---- 
+In addition, 
+c is .. . 
+that is, some letters have small breaks within them; while 
+i is ..
+o is . . 
+and 
+y is .. .. 
+and Further, there are some longer strings; ending parentheses
+) is .....  .. ..
+and
+capitalized letters are indicated by .. . .-..
+- so it goes. (Oddly this has been difficult to type, since I wanted to 
+eliminate meta/diacritical marks which might have been taken as part of 
+the code itself!)
+
+The actual telegraph (semantic) code on top of the Morse results in 
+messages such as
+
+Wr r ty gg r 9
+or
+Es r ty cn
+and addresses/headers can read as obscurely as
+Hr tru pink No 38 VO HW "HX" ck 12 collect N P R
+
+The code, like international signals codes, is heuristic, ideographic, and 
+was simply memorized by the telegraph operator. It was just as complicated 
+for railroad telegraphy, where the difference between 19 and 31 - both 
+meaning "train order" - was complex. 
+
+Note that this is triple-coding - Morse to telegraphic code to ordinary 
+language, and that, while natural language is fond of redundancy (re: 
+Shannon/Weaver), telegraphy is dominated by economic considerations. 
+Thus word counts, and what constitutes a word, are critical. For example:
+
+Van Dorne - 1 word
+Queen Anne County - 3 words
+44.12 - 5 words
+No. 185 22nd St - 8 words
+North Carolina - 1 word
+10 000 000 - 8 words
+and so forth.
+
+The telegraph operator also had to understand railroad Engine Steam 
+Whistle Signals; here are a few (o - short sound and --- long sound):
+
+o Stop. Apply breaks.
+--- --- Release Breaks.
+--- o o o Flagman go back and protect rear of train.
+--- --- --- --- Flagman return from west or south.
+--- --- --- --- --- Flagman return from east or north.
+--- --- --- When running, train parted; to be repeated until answered.
+o o Answer to any signal not otherwise provided for.
+--- --- o o Approaching public crossings at grade.
+o o o o Call for signals.
+
+Air whistles are different, as are torpedo signals, light signals, 
+semaphore, etc.
+
+Service Message Code:
+
+N S N - No such number.
+G B A - Give better address.
+G S A - Give some address.
+DFS - Disregard former service.
+92 - Deliver.
+Deld (or) 92d - Delivered.
+
+There is also Phillips Press Code - an example:
+
+"A dsx rain es wind storm psd tru t nt end o ta county tsm dsyg a gt deal 
+o prpy, roofs wr bln off a no o sma blgs es nux trees wr uprtd. A barn 
+blng to James Sampson ws stru by lghtg kig 3 horses es burng svl tons o 
+hay stored trin." This is standardized, but formed, it seems, primarily by 
+the elimination of redundancy. The header for the same example, however, 
+is another thing:
+
+"o
+Hr tru No 39 VO HW "HX" ck 63 collect N P R"
+and so forth.
+
+
+somewhere among phallic hardening, womb, multiple faces, blown-apart gun- 
+play, involuted cubes, somewhere among these lies
+
+experiments in human transportation
+
+
+
+
+elegy for Boojum, our companion cat, we are all poor,
+
+
+'i can't do elegy' -
+this is a poor and sleepless poem -
+when something's at the limit there's nothing more to say -
+for a moment i might have reversed the process
+but heard nothing more than wailing or sounds like an animal -
+nothing of crying, just tattered sound -
+nothing of warning, fear, existence, trepidation -
+nothing can be said on either side of death -
+neither this one nor that one -
+neither this nor the other -
+death is an other -
+(eighteen years, and death is an other) -
+death is everywhere, death is not around -
+(eighteen years, and death is everywhere,
+death is poor, death is not around) -
+always already other can't speak can't hear can't see -
+double needles, of sedative, of anesthetic overdose -
+doubled needles -
+who are these people & their kindness -
+(eighteen years and the kindness of strangers) -
+i'm done with it, the other's never done with it -
+always the last trip last day last night
+last meal last touch last scent last sound -
+(eighteen years and the last day and night,
+last touch and meal, last scent and sound) -
+in and out of the thick of it -
+the thick of it never changed -
+it stayed dry, viscous, substance and fissure -
+it's uncomfortable, stains, sticks to everything -
+lives on in us, exchanged, drops to the ground -
+crawls out, walks to the sea, drops to the ground -
+i can't drop to the ground, i drop to the ground -
+there's an elegy on, everyone's there -
+she says i think we're at the beginning of speech -
+she says she's very sad and wants to go hone -
+she stood dry, unattended -
+(eighteen years and dry and unattended,
+accompanied and unaccompanied, who can go 
+into and out of the world) -
+the fire went out, into the world --
+today someone counted elements,
+earth, fire, water, wind, air, heat, dearth, 
+wood, & metal -
+(eighteen years and the counting of elements) -
+how was the air, the air was cold, bitter,
+the wind harsh, we turned the carrier against 
+the wind, dearth of it all, harboring a flame
+until the last, dying in our arms, the metal table,
+off to a far wood of hunting -
+the world is filled with secret coordinates -
+impermanence of the metallic -
+she says she thought of the limit -
+in a small heaven somewhere -
+& now we are silent in the night, existence is silent -
+existence crawls, we heard her cries, the catheter
+carefully inserted elsewhere in the building -
+we held her heat against us, we exchanged heat -
+the tablets - prayer wheel spinning above a slow flame -
+we couldn't bear to empty her water, clean
+her bowl of food, now despair reigns, & in our arms
+nothing happened, everything seized --
+'this is a poor and sleepless poem' -
+without goodbyes, with ill-knowledge,
+with infinite regret, with the world undone -
+(eighteen years and the world undone) -
+ah ah ah ah
+ah ah ah ah
+ah ah ah ah
+ah ah ah ah
+
+
+
+intolerable.
+
+
+always, I thought, intolerable.
+I cried intolerable, it was a sound.
+it is intolerable to decide for or against death.
+if I leave a house, I may or may not return.
+things may not return exactly, but most often they may return.
+death is intolerable. death does not return.
+I may decide, I will harbor this animal, this person, this cause.
+caring, giving, are implicated; sympathy, and perhaps empathy.
+this is a tending, not a shepherding or stewardship.
+or a mutual tending, shepherding, stewardship.
+this is a continuity, this is constant.
+the decision for death is instantaneous at the moment of death.
+it is intolerable to make these decisions.
+a decision for life may be revoked.
+then, again, at the moment of death, implying already decided.
+or that action or performative accompanying.
+I saw the sedative administered, needle and catheter.
+even then, I could have stayed that other, harboring the moment.
+I went through with it into eternal darkness.
+surely Boojum did not suffer, just as surely she wanted to live.
+I made a decision, for her, and against her living.
+for in the theater of steel, she resisted everything and strongly.
+she defended herself, lovingly as usual, her claws withdrawn,
+her mind full, commodious, insistent.
+she defended herself, death was the last thing on her mind.
+and we held her and tried to comfort her, she growled slowly,
+and then lay down and then not at all.
+it is intolerable to make these decisions!
+one should kill oneself after such decisions! I am a coward!
+one should not make these decisions!
+for one universe has ended and why should another continue?
+WHY?
+
+
+
+re\play
+
+
+this replay of abjection
+is the playing-out of infection
+beneath the aegis of dejection
+somewhat tantric rejection
+resulting from subjection
+swallowed from projection
+beyond a form's bijection
+operated through surjection
+
+useless wireless trope
+against a brainless dope
+darkling in a mope
+there's nothing left of hope
+impossible to cope
+headless figures grope
+tangled in a rope
+crawling down a slope
+they're given too much scope
+elephants in a bathtub one says to the other please pass the soap
+the other says no soap radio kind of introjection
+
+
+
+success at last, just for a moment
+
+it has been a difficult few days in the virtual environments laboratory. 
+we moved most of the motion capture equipment to 109 to use, but couldn't 
+locate the bvh computer (which receives signals from an old 486 used with 
+proprietary hardware). the explanations written by the interns were miss- 
+ing as well. we knew the bvh machine had to be around. we found an old 
+dell and gary put windows 2000 on that, getting the key from another mach- 
+ine. we put bvh software on the old dell, but the signals from the 486, 
+which, it turned out, had to go through a router since we had no crossover 
+connectors, were crashing it. so we were back to square one. i figured if 
+i could locate a photo of the old bvh computer we'd used years ago, we 
+might be able to use it to match with one of the bunches of similar units 
+in 302c. i looked through archive after archive, until i located it; the 
+image was slightly blurred, but the layout of the masking tape label (un- 
+readable in the image) on top of the machine allowed us to narrow poss- , 
+ible candidates to two. we found we couldn't get into either without pass- 
+words. i discovered a scrap of paper in a corner of the room, 302c, with a 
+password on it; it worked. so now we set them both up and one of them, 
+which had been used as a projector connection to a virtual wall, was it. 
+we brought the machine down to 109 and it almost ran; at least the soft- 
+ware didn't crash. i found changing the antenna parameters for the motion 
+capture and moving from ascii to binary and from tcp to udp did the trick. 
+gary set up the 5100 port and addresses and we produced slomo.bvh as he 
+moved the sensors slowly around; i wanted to duplicate the speed of the 
+5-7 frames per second output of the 486, instead of working high-speed as 
+i usually do. we brought the bvh file to poser on a compaq laptop which 
+for some reason is now permanently misconfigured but usable; the result is 
+which i quite quite like; if you ignore the hand fluttering, the movement 
+is closer to what we need to work with at the moment. as far as the 
+hand-fluttering is concerned, we're going to internally turn off the hand 
+sensors by modifying the capture program, written in c, but with clear 
+documentation; even a non-programmer like myself can get into it a bit. 
+now to slow things down further so the inconceivable happens at the speed 
+of amoeba-learning; in addition, to transform avatar into deity-emanent, 
+following, introjecting yamantaka or one or another manifestation, moving 
+mind and sheave-body into other realms far beyond 486, 2000, 109, 302c, 
+5-7, until what ever may appear in the future brought quickly back to 
+earth.
+
+
+
+Railroad Club
+
+
+Images from open house, Morgantown model railroad club, embodying cuts 
+from one scale to another, from human to true world, from mind to emanent. 
+Who would call this the postmodern? One might locate something else here: 
+not the cut but the suture, not disparity but deep memory; the locales 
+represented, real and imaginary, conjure the West Virginia landscape of 
+the 1950s, in the memory of many of the club members. What better than a 
+photograph than a reconstruction in which everything is punctum, intended?
+
+The photographs are of the text, of this text; they're weaker without it, 
+they go elsewhere, I'm pulling them back in. I'm pulling them back in to 
+indicate multiculturalisms and emphases on locale and habitus tend both 
+suture and division (these people, these others) in favor of _listening_ 
+and its phenomenology.
+
+But listening is skew-orthogonal, again, to the _style_ of the images, 
+based on any number of photographers and trajectories.
+
+Now what do I see when I do not know what I see? Certainly aspects and 
+entities are present within the true world filtered through the history of 
+photography and photographers who have no responsibility for me.
+
+Where are the passengers in this life? Where are the passengers in the 
+life of the other?
+
+You can already feel the economy of the land, extractive industries, pov- 
+erty, environmental pollution, mountain-topping, strip-mining, deep-min-
+ing, feed stores, small towns in the hollows, grey dust, what's worn is 
+worn, what's not is brought into play through deep memory's suture which 
+even bends, transfigures the landscape, someday we'll all rise to the 
+surface.
+
+I will live forever
+I will live forever
+I will live forever
+As a hungry ghost
+As a hungry ghost
+I will live forever
+
+I don't remember the exact name of the railroad club or the members. Some- 
+one named Mike, I believe, made the larger mine model. I came in as a 
+tourist finding nameless things. the models were both outstanding, depres- 
+sing to an outsider. The images appeared as images, imaginary, with what- 
+ever context I might bring from the outside; the social depth was absent. 
+I turned to the jump-cut.
+
+The jump-cut was of the visual, that disparity of mind and scale. Railroad 
+switching systems were fundamental to the development of the Internet. 
+Evidence of electronic skein was everywhere. Jump-cut sutured into dream- 
+scape, dream-screen, displacement/condensation semiotics. What is of truth 
+or tending towards the indexical in the images applies as well to the vis- 
+ual in general, compounding of memory, suture, cut, surface. Whatever one 
+sees is surface, surface-only; x-rays report on deeper surfaces, 
+translucent or transparent to invisible light.
+
+The photographs bother me, as if theory needed image-propping beyond the 
+diagrammatic. But what can the image hold, if not an arrangement that 
+might be constituted as evidence? If a diagram is indexical or symbolic, 
+the photograph resides elsewhere; evidence stands for nothing and hardly 
+represents itself, nor is it pointing towards something across ontological 
+or epistemological lines. On this level the photograph simply reports as 
+Bazin might have it, on what-is, or rather the what-is and thetic con- 
+strues within the dialog of image production. In any case, the postmodern 
+is left behind, or rather, is relegated to analyses of socio-economic 
+phenomena where the theory works wonders; think of postmodern geography, 
+Harvey or Roja for example.
+
+What would postmodern geography make of mountain-topping? And then its 
+representation which makes the wrecked landscape somehow graspable, 
+something to walk around, replant with meadow or pasture?
+
+I think of tantra, mandala, Jefferey Hopkins' introduction to the Kala- 
+chakra Tantra (Kalachakra Tantra, Rite of Initiation, Dali Lama, 1999). 
+Hopkins walks/writes the body of the reader through the mandala ("Notice 
+the entryway at the eastern door, wider than the doorway, with a three 
+storied portico above the entranceway. Each of the stories of the portico 
+above the entryway has four pillars across the front, thereby creating 
+three room-like alcoves on each story. In each of these eight alcoves are 
+goddesses of offering; the middle alcove in the first story on the eastern 
+side has a black wheel of doctrine with a buck and doe to the right and 
+left." And so forth.) Now think of the Morgantown railroad club images in 
+the same or different shimmer, think not of the imminent/immanent identi- 
+fication of entities within them, but of paths through or around or by 
+virtue of these entities, which themselves are processes (one doesn't live 
+forever, the tracks are constantly changing). Is there a meditation here, 
+emission or spew that is sourceless except for (in spite of) the corners 
+or frame of the image? Can one imagine a habitus, inhabitation? Is there a 
+seeing that moves through memory near and far without the supplication of 
+the signifier? This is what literally remains to be seen, and brings the 
+essay to its clothes.
+
+
+Anti-Crystal
+
+
+Crystal radio apparatus set up in Morgantown, with main inductor coil of 
+the honeycomb type. A diode and air-capacitor were used; these three 
+elements constituted the original radio, with the exception of the diode. 
+The antenna was coupled with a variometer and second air-capacitor, both 
+old. The antenna was 90 feet long-wire wrapped around two sides of a house 
+in a hollow. Reception on 1300 from a local station was so dominant that I 
+attempted at all costs to avoid it, bringing hum and background into play, 
+with mixed results. The whole was fed into a sound editing program for 
+further modification. I attempted a democratization of the airwaves, 
+allowing the power grid and other interferences their say. The result is
+sculpted to be of sufficient interest in itself. This sculpting, like 
+other aesthetic decisions, interfered with the original intent, but I do 
+believe such interference constitutes the history of much recent art, if 
+not certain schools of somewhat machinic poetics. For what is present must 
+be presence, if presented, there must be a force behind it driving the 
+efflorescence, there must be intention behind that force or a reading of 
+that intention, there must be a consciousness behind that reading, there 
+must be mind behind that consciousness, there must be confluence beyond 
+that. What is here is confluence, for your listening and your listening 
+pleasure.
+
+
+Touch of the Left Hand
+
+
+Among two of them one of whom extended herself
+And one of whom attached himself different
+
+'It is time some of you vain babies, who have a 'body beautiful' complex 
+about your dancing, realize that an expressive body is more beautiful than 
+an unexpressive one. But no, you fight distorting your body - even the 
+least bit. If you won't, you won't, but your dancing will be shallow, and 
+as empty as the baby stare some of you are cultivating.' (Horst)
+
+'I'm not asking you to tie yourself up like a pretzel or grovel on the 
+floor, but there must be some distortion if you are portraying even a 
+slight case of mental malajudstment - a little inferiority or martyr 
+complex.' (Horst)
+
+'You can't drag an analyst's couch out on the stage and tell us about it. 
+You have to express the mental with your body, so you distort the move- 
+ment somewhat to externalize.' (Horst)
+
+'All of them died on my red lips
+In my hands
+In my sexlessness
+Which possesses all sexes
+I am as pale as moonsilver.' (Anita Berber trans. Gordon)
+
+'In every experience of every objective 'This' by every experiencer the 
+female differentiating function is necessary, but so too is the male seed 
+of unity, which supplies 'Being' from the side of the subject, the unitary 
+consciousness of self from the side of the experiencer.' (Rawson)
+
+'Why are so many boys and girls not erect? Look in almost any school and 
+you see that many of the pupils, whether sitting or standing, are never 
+straight. Heads are forward; shoulders double over a little, sometimes a 
+good deal; chests incline to droop, and grow flat. Fine, full chests, and 
+an easy, graceful carriage, are rare.
+
+As the pupils get older, these faults, instead of going away, grow worse.
+
+Can this be helped? Is there any way to make a crooked boy or girl 
+straight? Take a slim, angular boy, for instance, whose father is round- 
+shoulded and flat-chested--and perhaps his mother, too: can he become 
+straight, like a soldier?' (Blaikie)
+
+'The same [entity] does not arise from [itself], and how can it arise from 
+another? Neither does it arise from both [itself and another], and what 
+exists without any cause?' (Candrakirti, trans. Huntington)
+
+'The singularity of specular reflections is demonstrated by the fact that 
+if one tries to apply to them the schema of a communicational process mamy 
+puzzling conclusions arise: source and addressee coincide (at least in 
+cases where a human being looks at him or herself in the mirror), receiver 
+and transmitter coincide; expression and content coincide since the 
+content of the reflected image is just the image of a body, not the body 
+itself; as a matter of fact the referent of a mirror image is pure visual 
+matter.' (Eco)
+
+Among the two of them who extended
+And both of whom attached themselves to both
+
+
+
+The Beautiful Throbbed Emanentation
+
+
+The following is a culmination of certain directions associated with mo- 
+tion capture - in particular, operating too near and too far from the 
+receiving antenna, with mixed sensors. In both positions, the configur- 
+ation generates furious behavior as clusters of sensors shoot to ragged 
+infinities and back again. Heads may detach and the cartoon integrity 
+returns as such. The reading, however, is different, as is the jectivity; 
+the reading is external, jectivity internal. The reading searches for 
+coherency: which body belongs with which organ? Jectivity follows organ, 
+head, and limb paths, identification with approaching, consummating, 
+withdrawing, churning. This is Brownian motion, but radically integral. 
+
+So what is being modeled? For one thing, slow-simple movement, carefully 
+seducing, caressing, antenna and sensor alike. For another, electronic 
+jitters which threaten to break apart the world. 
+
+(This is some of the most advanced video/mocap work I've done; I'm always
+amazed that both beauty and wonder can come out of such poverty. It's the
+machines which are talking, which are rubbing against one another, which
+parlay communication into visionary ekstasis. I must learn, I continue to
+learn, how to listen, how to see, what is proffered, what is not within my
+powers of conjuration. Magic is magic because it always come from the
+Other. I have lost expectation.)
+
+Violence, abjection, arousal, caress, tumescence, thickening, cutting of 
+the sheaves. Sheave-figures which I am sure will soon be independent of 
+our desire or construct.
+
+(For me, this is some of the most advanced video/mocap work I've done; I'm 
+always amazed that both beauty and wonder can come out of such poverty. 
+It's the machines which are talking, which are rubbing against one ano- 
+ther, which parlay communication into visionary ekstasis. I must learn, I 
+continue to learn, how to listen, how to see, what is proffered, what is 
+not within my powers of conjuration. Magic is magic because it always come 
+from the Other. I have lost expectation.)
+
+Abjection is the most difficult. How to dis/comfort and fetishize, hold 
+and release simultaneously. These emanants do this naturally, as Azure 
+Carter, original model, follows suit.
+
+
+Abjection is the most difficult, less so as the camera moves in, cuts
+through sheaves. For the viewer there is the level of the subterranean bvh
+code in dialog with the exigencies of Poser models, but there are also
+levels of organs and affect, and it is the breasts and hands, high-speed
+maternal display, that provide tremulous scaffolding:
+
+
+graphic used interface
+
+
+constrained and smeared temporally and spatially
+swallowing time, swallowing space
+body used and wounded, sutured
+sound smeared fore and aft
+
+both say everywhere everywhere
+both say everywhere where are you i'm hurting
+both say everywhere where are you i'm saved
+
+
+
+outline of emanent research (current work at wvu, written 1/18/08)
+
+
+(note while the notions of 'code,' 'coding,' 'decoding,' codework, 
+underlie almost everything below, they're not explicit - nor are the 
+actions of reading and writing. the actions can be considered emergent 
+phenomena, and the notions as primitives in the sense of members of a set, 
+etc. again, the analog and digital phenomenologies are implicit as well, 
+as are the (related) concepts of abjection and purification. the analyses 
+of these comes out through praxis, attention to detail, thinking through 
+mandalic structuring until the scaffolding leads, not to silence, but to 
+tending. this should be clearer as the work progresses.
+
+i should note that the following is both a constitution of my usual/cur- 
+rent directions and most likely too ambitious. the trajectories circulate 
+around formal systems and their psychoanalytic/psychological receptivi- 
+ties, around emanents and 'true worlds,' around edge phenomena which turn 
+towards the uncanny and abject, around languages, bodies, sexualities, 
+communalities, and inhabitations. i have increasingly worked through 
+buddhist philosophies, the analogic and digital at the limits, notions of 
+'dis/eased' philosophies, deathing and uneasy worlds. now that i have a 
+clear time to think through these things, the outline below is useful as a 
+guide; for that matter, it's a guide to the past few years of the 'inter- 
+net text' as well.)
+
+I. motion capture: this conjures up external behavioral characteristics 
+translated into internal processes (penetration, scale, displacement, 
+torsion, according to various geometries). think of mocap behaviors 
+operating within a constrained field with strange attractors / catas- 
+trophic jumps. continue to develop mocap with new multi-valent sensors
+and software rewrites:
+
+1. turning nodes on and off
+2. combining nodes
+3. mathesis such that node1 = f(node{n not = 1}), or such that 
+   node1 = recursively f(node1)
+4. multivalent sensors such that sensor(x) = sensor[{n}]
+
+what are the emergent images here?
+
+what is the possibility of constructing bvh files with additional nodes 
+determined mathematically from the hardware set? or mathematically from 
+extraneous data?
+
+what is the possibility of other organic models (i.e. than human or
+animal forms)?
+
+IA. data remappings
+
+entry of bvh files into blender:
+1. modeled onto abstracted forms
+2. modeled onto parent/child forms
+3. modeled onto metaball forms
+
+blender file outputs:
+
+1. entry into cave environment: static or dynamic
+2. video output
+3. what is the possibility of gaming output here? (moving around emanent 
+   environment)
+3. second life output: static or dynamic/interactive
+   
+IB. interiors
+
+1. standardized interiors: sheave-skin, sheave-organism
+2. constructed 'model' interiors: solid, transparent, penetrable, 
+   impenetrable
+3. abject fluxed interiors: how should these be constructed?
+
+IC. interior narratologies
+
+1. abject/purified narratologies and emanent interactions 
+2. abjected/purified contents of dis/ease, dis/order, ecstasy, ekstasis, 
+   catatonia, defuge, death/immobility, sexuality, speech/murmured/
+   whispered/cried/screamed, body formed/deformed 
+3. tantric/middleway theoretics
+
+ID. choreographic mocap (see above)
+
+1. additional issues of jump/leap, exhaustion, tether
+2. video/photographic output as well as bvh
+
+II. scan
+
+phenomenology of scanning, causality across scanned lines
+
+IIA. small scanner
+
+1. head/speech phenomena dissected
+2. schizophrenias and beam-splitters
+3. reflections from coils, air condensers
+4. static tantric buddha image: sutured, stitched-displaced, node
+   combinations and splits
+5. wounds, scars, lips, genitals, ears
+
+output into .obj files into blender/cave
+output into video/still image files
+
+within blender: solve the issue of disappearance/transparency
+
+IIIB. large scanner
+
+1. interior scans: rooms with bodies, reflections, dance-studio,
+   scan-choreographies
+2. exterior scans at bretz coke ovens, persona rapid transit (in motion), 
+   soccer fields
+3. mobilized body scans in inert environments: reading 2d -> 3d, nature of 
+   the inference.
+3. environmental scans with mobilized and peripheral bodies
+5. narratologies of such bodies: violence, chase, jump/fall, etc.
+6. choreographic narratologies
+
+III. access grid (open source internet 2 group messaging/environment)
+
+1. distant interaction with emanents
+2. readings of the corporate / corporate bodies: photographs/video
+3. theory and discussion, levinas, leder, lingis, etc. at the distance
+   of telecommunications
+
+IV. cave and second life
+
+1. performance and documentation
+2. working/running within emanent interiors
+3. and so forth
+
+V. goals of the above:
+
+1. what does it mean to be in-carnated within the real/virtual/
+   true world?
+2. what are the edge-phenomena/plastic and static limits of the body?
+3. of the geopolitical body? of the political-economic body?
+   performance: abu-gharayb modeling in sl
+   performance: abu-gharayb modeling in choreography
+4. what are the signifiers of bodily arousal/violence/meditation?
+   how are these constituted within the real/virtual?
+5. readings: what does it mean to read the real body? the virtual body?
+6. what are the ontologies and epistemologies involved here? 
+   ontological status of the so-called virtual -
+   schrodinger's cat paradox and collapse of the wave function as model
+   for simultaneous analogic/digital readings -
+   seeing through microscopy (tunnel, scanning, optical, etc.):
+   are ontology and epistemology equivalent at the limit?
+   (are analogic and digital equivalent at a parallel limit?)
+
+VI. medical model
+
+1. internals and externals, static/dynamic. remnants of the visible 
+   human project, gendering of the visual/internal 
+2. comfort, dis/comfort, ease, dis/ease, hysteria and abjection/fluid-
+   ity (laycock's 1840 essay on hysteria, kristeva, chasseguet-smirgel)
+3. dis/ease, hysteria, and so forth of emanents
+   distorted emanent behavior and body image (gaz)
+   distorted surface textures and behavior-collisions (sondheim)
+   distorted worlding, 'bringing one out of the true world' (etc.)
+4. medical model and technology
+5. psychoanalytics and technology, psychoanalytics of emanents
+
+VII. radio
+
+1. vlf - very low frequency - body interferences with antenna 
+   reception, phenomenology of body coupling with antenna 
+2. scanner - social, continuous socio-political landscape description.
+3. sw - anomalous signals
+4. long-wave - anomalous signals
+5. crystal - the receptivity of inert materials, primordial radio and
+   primordial radio culture
+6. phenomenology of the antenna/field: materiality of the world as
+   electromagnetic channeling
+
+VIII. emanents within fieldings, choreographies, edge/boundary phenomena
+
+VIIIA. praxis of edge/boundary phenomena
+
+1. analogic and worn emanent boundaries
+2. edge / boundary phenomena - physics and psychophysics of the game-
+   world edge in second life
+3. phenomena of the sheave-skin and sheave-skin internals
+4. phenomena of medical models in relation to edge/boundaries
+
+VIIIB. praxis of edge/boundary phenomena with hardware/software 
+
+1. edge phenomena in literature, codework, mathesis of the text
+   (cramer's and reith's programs)
+2. edge phenomena within the motion capture software, poser, blender,
+   calculations for example of sin(tan x) as tan x nears the
+   asymptote
+3. generalization of edge phenomena into the dialectic between tacit
+   knowledge (polyani) and error (winograd/flores)
+
+VIIIC. live choreographies: 
+
+1. foofwa and soccer (edge phenomena, dancesport, etc.)
+2. foofwa with crystal radio, vlf radio, etc. in large field
+3. sexuality of ballet (nude ballet, classical or genre figures),
+   gendering of roles, ballet as emanation
+4. anita berber narratologies ('annihilation: to the limit!')
+5. foofwa dancework at coke ovens
+6. 'body-contouring' of dance/geography
+   the geography of dance, dance of geography, dance geography
+7. 'body-contouring' of dance/technology: dance at the limits 
+   of the machine
+
+IX. world-constructions
+
+1. what constitutes worlds? constructing?
+   world of the text, inhabitation/dwelling/building (heidegger,
+   dufrenne)
+2. what constitutes the true world? worlding?
+   'true world' in which lines/angles are 'trued' (affine geometry),
+   'true world' in the sense of 'trued' phenomenologies within which
+   virtual, real, and ikonic are blurred and interpenetrating, somewhat
+   equivalent, and within which traditional epistemologies of symbol/
+   sign/signifier/signified/index/ikon etc. break down (kalachakra
+   tantra, jeffrey hopkins)
+3. 'reading' underlying (substructural, configuration files, guides)
+   organization of mocap/scan through surface phenomena
+   (and the relationship of this reading to waddington's epigenetic
+   landscapes)
+4. who is world? communality, consensuality?
+   the problem of other minds and the problem of consensual other minds
+   (group hallucinations, vijnanavada, dwarf sitings, ufos, etc.)
+
+X. outputs:
+
+1. video and film (in practice, usual issues of apparatus/spectator)
+2. digital and silver photography (digital/analogic and analogic/digi-
+   tal divides - potential well on one hand, grain on the other)
+3. series of short papers/descriptions
+4. series of performances (individual and collaborative)
+   morgantown and elsewhere across real geographies
+   anywhere across virtual geographies
+5. formal presentations at wvu (spring and perhaps fall)
+6. formal presentations elsewhere
+
+
+
+Writing and Wryting
+
+[Written for an online class at DMU]
+
+I write daily and when I'm not writing, I'm thinking about writing or 
+writing in another medium; the world is a world of inscriptions. At one 
+point I believed there were signs, that the world was inhabited by 
+signifiers which might or might not have referents; now, after looking 
+repeatedly at tantra and the casting-off of whatever was found and 
+impeded, I think signifiers might be nothing except residues of a kind of 
+frisson, the world rubbing up against itself. Whatever codes there are, 
+and however these codes are manipulated -
+
+
+they're not the only story, or rather, they _are_ the story but that's 
+nothing - what's going on in the world isn't story at all. We tend to make 
+scripts of things around us - that's how we get along. For example, 
+there's the restaurant script (and this example of course isn't mine) - I 
+enter a restaurant I've never been in before, but I know exactly what to 
+do; there's a restaurant script and subscripts; we don't make it up 
+immediately - that would be far too costly - but rely on constructing, 
+memory, reconstructing, and so forth, and there we are, eating together. 
+And it's eating together, because scripts, like the world, are consensual 
+and build community.
+
+Somebody said something like aye, there's the rub of it - and that's it, 
+precisely; the world rubs one, _worlding_ is a form of rubbing - which 
+makes virtual worlds such as Second Life all the more perplexed, where 
+rubbing and any physics has to be _intended_ by someone, a programmer, or 
+nothing would happen at all. Still, in second life, one might have bodies 
+or rather one might _inscribe_ bodies with writing, and this body writing 
+I call _wryting_ and it occurs in the real world as well. For example,
+
+
+where avatars conform and display to one another, and all these behaviors 
+are automated from written files called bvh files, which give an indica- 
+tion of how virtual worlds are in fact a kind of writing. Here is part of 
+a bvh which produced what you've seen in throbbed:
+
+HIERARCHY
+ROOT Hips
+{
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 6 Xposition Yposition Zposition Xrotation Zrotation Yrotation
+JOINT LeftHip
+{
+OFFSET 15.061017 17.082508 -14.925126
+CHANNELS 3 Xrotation Zrotation Yrotation
+JOINT LeftKnee
+{
+OFFSET 160.534210 236.940994 175.551743
+CHANNELS 3 Xrotation Zrotation Yrotation
+JOINT LeftAnkle
+
+This gives the initial positions of the body; later, there are tens of 
+thousands of numbers that give the node movements from these positions.
+Do note that this is an ascii, a text file, and not a binary, not an 
+executable; the file is executed by a program that uses it as data. In 
+this sense, the virtual world is always inscribed, digital, just as the 
+real physical world is not written, but _is,_ and is analog, and tends to 
+wear out. Nothing wears out in the digital world, and while avatars - what 
+I call emanents - need electricity to run, they don't need food. Still, 
+given that, I think that for a conscious mind, a mind used to dreaming, to 
+projections and introjections, there are no real differences between the 
+virtual and the real, and there's dreaming, proverbs, tales, stories, 
+poetry, poetics, hallucinations, hypnagogic imagery, meditations, and the 
+like to show that. 
+
+And even though the real physical world isn't written, it's full of 
+writing and our bodies themselves are always already written, inscribed - 
+full of tattoos, scars, burns, abrasions, wrinkles, salves, perfumes, 
+calluses, and so forth. I think it's from these things, particularly from 
+scars, wounds, abrasions, scrapes, etc., that language descends - that 
+language is first and foremost a reading of the history of the body, that 
+the body, the physical body, carries its own primordial memory upon it. 
+That's important, since it's this memory, these scarrings, that bind us to 
+the earth, to the world, the analogic. The digital is constructed from 
+that with a bit of a help from the corporate, from political economy - the 
+digital rides and infuses poitical economy in fact. So there are digital 
+standards for sampling, for encoding and decoding and checksums and so 
+forth, and these guarantee that a parsing of the world in one part of it 
+can be a parsing of the world in another. Think of the digital as an 
+extrusion, and think, even, of writing as _always_ digital or at least 
+always discrete, one symbol differentiated from another, from the other, 
+as all of them together generate meaning within organism and conscious- 
+ness, generate culture.
+
+An aside here to the effect that _culture is all the way down,_ that any 
+organism has culture, has learning, has the symbolic, has the digital (in 
+the sense that catastrophe theory prescribes and describes certain sudden 
+shifts in behavior or states which might as well be digital, that is _on 
+and off switches_ operating within potential wells, that is a level above 
+noise which allows them to function. Recent experiences in fact demon- 
+strate amoebic memory, even within this one-celled animal without neurons 
+or nervous system. It's important to think throug this, to see the world 
+as not only processings but also culturings - if you do that, a very 
+different kind of world emerges. 
+
+So where does codework or digital writing come into play here? One might 
+begin back with culturing - that the world is replete with poetics, that 
+it makes real, concrete, sense to speak or think of the poetics of the 
+real - that this isn't just metaphoric. And then one might proceed fur- 
+ther and realize, within the analogic the digital resides - that the 
+analog harbors splits and leaps, as the collapse of the wave equation or 
+annihilation of virtual particles shows. And within the digital, there's 
+the analog as well - the potential well upon which the digital rides, 
+literally, let there be no mistake about it. 
+
+So one might ride the digital as well, perceive the digital as an extru- 
+sion from the analogic, or a residue, or a system of signs which for the 
+most part are produced by humans, according to human conventions and 
+protocols, for example, the tcp/ip structure or protocol suite of the 
+Internet - and if not this protocol suite, another or an other. Then one 
+writes here, in this medium, in this temporarily electronic medium (for 
+there might be other sorts of transmission in the future, who knows? or 
+other sorts now for that matter, literally for that matter). And within 
+the digital, in which bits bite bits, every pixel, every character, every 
+moment of the digital is independently accessible, and every moment is 
+deeply ruptured, disconnected, from every other. This is why the digital 
+is inherently untruthful; there's no truth within it, since manipulation 
+is complete and replete within every file, every domain, every protocol, 
+every instantiation in fact. There are no lies, either, and if there are 
+narratologies, these reside in sememes embedded or encoded within the 
+digital, interpreted by organism, often human. In creating in such an 
+environment, one plays god, or at least deity (in the tantric sense); one 
+constructs out of nothing, and if I write the phrase, as On Kawara might, 
+"I am still alive," these letters are, at a very fundamental and concrete 
+level, completely independent; I could just as well write "lkurj llisihg" 
+or anything else, literally, again, for that matter, and for the sorts and 
+sortings of that matter. 
+
+Well, I can write anything, I can say anything. And some of what I write 
+just lies there, and some is performative, in the sense that, if I type
+
+k3% date
+Sat Jan 19 01:13:23 EST 2008
+
+at the k3% prompt, the date is returned - the word is not just a word, but 
+an action, a process, an operation inherent in the reading and writing of 
+it within an operating system. Now if I type
+
+k7% lkjsfug
+ksh: lkjsfug: not found
+
+as you can see, it's still performing, but the operating system is looking 
+for a meaning or decoding and can't find any or rather finds a kind of 
+null-decoding which is based on absence. So that electronic writing, with- 
+in a terminal window is always a performance; it's never static. And it's 
+not only a performance, but also a communalit, since there are others who 
+may well be present, even though invisible, uncounted, and unaccountable:
+
+cbpp     ftp12907 Jan 18 10:42  (cbpp8.cbpp.org)
+cbpp     ftp7371  Jan 18 10:16  (cbpp8.cbpp.org)
+jpl15    ttyp0    Jan 18 11:20  (76.216.63.13)
+harold   ttyp1    Jan 19 01:16  (12.6.206.9)
+dagger   ttyp2    Jan 16 01:31  (24.5.61.60)
+bitty    ttyp3    Jan 16 20:32  (76.19.99.242)
+bord     ttyp5    Jan 14 11:10  (75.129.128.49:S.0)
+
+for example are running around on the same machine I am, and I'm aware of 
+them, even though I don't know who they are. I can find out what some of 
+them are doing:
+
+bord     ttyp5   75-129-128-49.dhcp.fdul.wi Mon11AM  5:20 irc
+gburnore ttyp6   bastille.netbasix.net      Fri10PM    29 rtin
+bord     ttyp7   75-129-128-49.dhcp.fdul.wi Mon11AM 12:25 
+/usr/local/bin/ksh
+bord     ttyp8   75-129-128-49.dhcp.fdul.wi Mon11AM  5:20 irc
+jkurck   ttyp9   adsl-75-10-97-59.dsl.frs2c Fri02AM 12:25 -tcsh
+
+for example, but I'm not informed as to the semantics involved, only the 
+protocols, the surface syntactics.
+
+So one might see codework as a mix of all of this, a kind of dirty or 
+abject combination, a kind of rupturing, of surface and depth, one 
+producing another or an other, a kind of drawing-out of the fecundity of 
+the world and its structure, its poetics. This combination or drawing-out 
+reflects the real unclarity of what I call the true world, which is the 
+real and virtual world interpenetrated, intermingled, diffused, effused, 
+as they are for us, no matter where we think we are, in first life or 
+Second Life or what I call third sex, which is online sex, as if there 
+were a first or second, which there aren't. 
+
+Beyond this, I'm not sure what codework is, even though I've invented or 
+discovered the term. Here is a program Florian Cramer wrote for me, called 
+eliminate.pl (it's in perl):
+
+#!/usr/local/bin/perl5
+
+while (<STDIN>) {
+        @words = split /[\s]+/, $_;
+        @spaces = split /[\S]+/, $_;
+	for ($x=0; $x <= $#words; $x++) {
+                $word_count{$words[$x]}++;
+if ($word_count{$words[$x]} == 1) {print $words[$x],$spaces[$x+1]}
+                }
+        }
+
+This is based on the Thousand Character Essay, written in Chinese around 
+fifteen hundred years ago - an essay in which each character is different 
+from every other; each character, in a sense, is primordial, individuated 
+- an extreme nominalism. Although I don't know Chinese, I worked with a 
+friend laboriously translating it. Anyway, I wanted to duplicate this in 
+English - use a program in which each instance of a word appears only 
+once, that is, at its first (and only) appearance. Within this, the fol- 
+lowing are still distinguished: "word" "Word" "Word," "word-" and so forth 
+since these have different ascii renderings. Here is part of this very 
+essay rendered with the program:
+
+my writing
+
+I write daily and when I'm not writing, thinking about or in another 
+medium; the world is a of inscriptions. At one point believed there were 
+signs, that was inhabited by signifiers which might have referents; now, 
+after looking repeatedly at tantra casting-off whatever found impeded, 
+think be nothing except residues kind frisson, rubbing up against itself. 
+Whatever codes are, however these are manipulated - they're only story, 
+rather, they _are_ story but that's what's going on isn't all. We tend to 
+make scripts things around us how we get along. For example, there's 
+restaurant script (and this example course mine) enter I've never been 
+before, know exactly what do; subscripts; don't it immediately would far 
+too costly rely constructing, memory, reconstructing, so forth, eating 
+together. And it's together, because scripts, like world, consensual build 
+community.
+
+== Now this is at the beginning of the text, and clear, but see what 
+happens towards the end:
+
+$word_count{$words[$x]}++;($word_count{$words[$x]} == 1) {print
+$words[$x],$spaces[$x+1]} }Thousand Character Essay, Chinese fifteen
+hundred years ago essay each character other; primordial, individuated
+extreme nominalism. Although Chinese, worked friend laboriously
+translating Anyway, wanted duplicate English use instance appears once,
+only) appearance. Within fol- lowing distinguished: "word" "Word" "Word,"
+"word-" forth ascii renderings. rendered program:
+
+== Here, towards the end, the condensation is extreme. One might think of 
+this in terms of the biblical book of Genesis - and one of the first 
+things I did was to render Genesis with the program, which resulted, 
+again, in a kind of _Vac,_ word-creation, creation-word of a primordial 
+sort. I think of this as codework, since, reading it, it becomes clear 
+quickly - what is happening, what the structure is - even if the code 
+itself isn't present except as a disturbance upon another text, an other.
+This becomes clearer, perhaps, when the program is applied to itself:
+
+#!/usr/local/bin/perl5
+while (<STDIN>) {
+ @words = split /[\s]+/,
+$_;@spaces /[\S]+/,
+for ($x=0; $x <= $#words; $x++)
+$word_count{$words[$x]}++;if ($word_count{$words[$x]} == 1) {print
+$words[$x],$spaces[$x+1]}}
+
+== Now I don't think of this as a 'better' example of codework than the 
+first example, even though code is evident here; it's just another sub- 
+ject for the performative maw. 
+
+A point about interactivity: Every writing, wryting, upon reading or 
+sensing, scenting, is always already interactive; the inscriptive is never 
+_linear,_ no matter the appearance of lines. Memory, remembrance, is at 
+work, scanning moves backwards and forwards, moves in chunks, and even 
+syntax tends to jump about, leap. There is of course an active interactiv- 
+ity, in which the reader/scenter is required to _do_ something concrete, 
+within a repertoire or potential series of actions; hypertext is perhaps 
+the simplest example. I've not been so interested in that, and my lack of 
+interest has to do with worlds and the false appearance of choice; I'd 
+rather have the running of inscription and meaning go on about without 
+interruption, as the world goes on about one, even though one seems to 
+have choice within it. This stems to some extent from my interest in film; 
+I've never been carried so far in a hypertextual situation as I am when 
+embedded in the cinematic other which is also the self, selving. The world 
+is complex and I attempt to deal with that complexity and its perturba- 
+tions, attempt to deal with the surface codes of the world. This isn't a 
+manifesto on my part, and in fact, I've produced interactive work as well, 
+particularly in simple Visual Basic, but I'd rather the interactivity 
+occur elsewhere, within consciousness.
+
+Here are some links. First, to the most recent series of texts:
+
+pm.txt - here you'll find all sorts of things, from a report on an 
+airline's first attempts at wireless en route to the derivation of 'bug' 
+(as in software or computer bug), to the kinds of code early telegraph 
+operators used, to... a google scraping piece on 'bush fucks' to... an 
+elimination piece featuring my Facebook superwall. These texts are 
+'thicker' than many others, and they're stressed - we were mov- ing 
+temporarily to West Virginia, and our companion cat of 18 years had to be 
+put down, which was one of the most traumatic events of my life. At this 
+point, pm.txt is somewhat diaristic, although most of it isn't.
+
+These are part of the Internet Text, which I've been writing since 1994, a 
+continuous meditation on the above and other subjects. If you look at the 
+earlier texts, for example:
+
+http://www.alansondheim.org/net1.txt - you'll find a clearer form of expo- 
+sition than much of the later work. Since this is from 1994, the Net is 
+very different, mostly what I call 'darknet,' referncing lower ascii and 
+terminal windows as standard, instead of the current multi-mediacy. Almost 
+from the beginning, I wrote through avatars, other characters, who really 
+weren't other at all (see my file-in-progress, 
+
+http://www.alansondheim.org/pn.txt - for an account of the research I'm 
+doing in this direction).
+
+This is about it at the moment; as you can see, there are gaps, errors 
+(which I'm interested in), disturbances, in the account. On another, an 
+other, hand, we can proceed from here, I'm sure.
+
+And thanks for this opportunity -
+
+Alan, 01/19/08
+
+
+
+I met my Baby, out behind the Gaz-Works
+
+
+You don't often think of your body unless you're thinking of your body. 
+It's there and even when you think of it, you're incarnated, presenced. 
+You're presenced all the time. Sign off Second Life and you're gone. 
+That's the ground state, disappearance. In SL your bodies intended, 
+there's nothing given but the slate. Whatever is added parallels cinema 
+and the mise en scene - nothing is left to chance unless chance is 
+determined, built-in. But it's the projections that fundamentally 
+characterize it - introjections from SL body to organism, projections from 
+organism to SL body. Think of this as jectivity, an uncanny relationship 
+which escapes determination, which flirts with abjection. The SL body is a 
+body that is witnessed, except for the somewhat clumsy 'mouselook' which 
+places you within it; the mouselook eerily bends the landscape while the 
+framework monitor remains static. There's always background going on in or 
+within/without SL; jectivity operates through a normalization that behaves 
+as dream-screen - for jectivity to occur, the SL/organism interface must 
+appear coherent, cohering - an inhabitation or dwelling beyond building. 
+Gaz breaks through this in a way that would be illicit in the world of 
+organism, of course; pulled or distended limbs in the latter would be a 
+form of torture or death. One might still speak of self-image and perhaps 
+drugs which alter it, even the appearance of the physical scaffolding of 
+the organic body, but Gaz does this with what one postulates, again as a 
+kind of background radiation, as a normal state which is a state of 
+absence.
+
+All of this is too neat and I'd argue further a few things - first, that 
+body and mind are always already both 'real' and 'virtual,' the computer 
+monitor appearing within this almost as afterthought - and second, that 
+culture, which is interlaced with intentionality, occurs all the way down 
+and across - not only from amoeba to, say, bird (with destructive humans 
+halfway across this continuum), but also from carbon- to silicon- based 
+lifeform which would include both amoeba and computer, if not the internal 
+combustion engine. I speak of spew and emissions - of signifiers which 
+ride across and above the surfaces of what's really going on - the true 
+world - and it's these signifiers that are subtextual operatives within 
+Second Life and art- or culture- working in Second Life, which is coding, 
+coded, recoding, writing, rewriting, and wryting itself constantly - 
+wryting being the implicit inhering relationship of inscriptive to the 
+body, bodily inscription and inscriptive body coalescing and coalesced 
+from the very beginning.
+
+Think of edges of worlds and bodies; Second Life adds two new constants: 
+height (evidenced in flying) and gameworld boundaries, for example at the 
+bottom of the ocean where everything is transformed, and moving forward 
+out of the gamespace results in asymptotic returns to the interior. Camera 
+movement can distance you from the avatar; one can move within, beneath, 
+above, within her. There are at least two positions of inherent interest. 
+In the first, the camera leaves the avatar altogether, in order to peer 
+beneath the gamespace or elsewhere across forbidden zones, and in the 
+second, the camera appears within the avatar body - a view that brings the 
+sheaves/prims to the foreground, not goreground, as the avatar dissolves 
+into empty space. Gaz' reach extends, appears to extend, of course it 
+doesn't and can't, outside the gamespace altogether (a point in an expand- 
+ing universe is still within an expanding universe) - this is an inversion 
+of a caveworld, transformed into private plateau. Again the physics are 
+odd, exposing the Second Life universe as non-isotropic whatsoever - as a 
+construct within which worlding occurs and within/without which the true 
+world operates as it does, ontologically and epistemologically, everywhere 
+we are, can think of, within and without jectivity.
+
+Now there are issues of entrapment, reminiscent of current RIAA stuff; Gaz 
+insists that one's body in Second Life is not one's own, and that jectiv- 
+ity in the same is only artifact, in fact mitigated by Linden Labs, at 
+best. S/he's a gadfly or parasitic (in Serres' sense of cultural producer) 
+about the game (as one is a man or woman 'about the town'). So one's 
+behavior in the vicinity of a Gazwork, gasworks (think of Bhopal) is not 
+one's own, either; the distortions and entrapments, the weighings-down, 
+are not of one's making, but of one's wandering into a work such that the 
+wandering becomes the catalyst or primordial state of the work.
+
+Not always, but almost always, avatars are smaller than one's physical 
+body, or appear so. And one's viewpoint is not always, but almost always, 
+above and behind the avatar, slightly raised - as if one's watching a 
+soccer game, which for a spectator can be senseless from a ground-based 
+camera. I think this kind of miniaturization tends towards a maternal 
+reading of the world, a reading within which the image on the screen forms 
+a safe matrix; after all, the computer goes on and off, games and software 
+are replaced or updated, and both the world and you go on. So here's this 
+safe world, and jectivity or what one might call the 'jectivity-braid' - 
+the braid of psychoanalytic renderings, readings and writings, introjec- 
+tions and projections, dreamings and hallucinatings, all before or within 
+and without the screen - this braid is taken for granted; it's the safe- 
+house of the world, transforming the world and the true world into a 
+habitus. As a result of peering and miniaturization among other things. 
+And the ability to chat and keep or erase chat. And the ability to fly or 
+teletransport, playing into Freud's condensation/displacement in the 
+dreamwork. Second Life is a _pun_ in this regard - one place quickly sub- 
+stituted for another, and such substitutions revolutionary or disrupting 
+as one landscape disappears, another appears - perhaps throwing everything 
+off but just for a (very safe) moment. It's the safety in punning that 
+makes them revolutionary, and the same safety occurs in relation and 
+through the braid. So again, when Gaz takes a meta-position in relation to 
+this relation, when Gaz appears apparently half-in and half-out of the 
+gamespace, the disruptive becomes difficult to absorb, becomes something 
+that doesn't happen in the real (except perhaps with sado-masochism and 
+the use of safewords which break out of one theater into another). It's a 
+contradiction which can't be absorbed. And to return to one's "own" avatar 
+body after Gaz' distortion, one logs out of Second Life - in other words 
+out of the fundamental world, what is _being_ the fundamental world - into 
+another world with its real dangers, etc. - the world of the inert or 
+'idiotic' real (Rosset).
+
+So that the space-time slice within which your body is distorted must be 
+abandoned. So that one returns and in this return, like the prodigal 
+daughter or sun, the body is made w/hole again, just like in the MOOs and 
+MUDs and various adventure games which are the history of all these spaces 
+and WOW and whatnot. (I want to mention briefly my own work here, which is 
+concerned with inconceivable positionings of one's own avatar, position- 
+ings within which behaviors pile on behaviors, creating 'behavior colli- 
+sions' that create, for the viewer (distinct from the performer), a 
+disturbing and/or dis/eased representation of the body, an abject body 
+that indicates something else other the normative is occurring, something 
+that can't be absorbed. With Gaz, this occurs first-person - the change is 
+to _me_ and my image/imaginary; with my work, it's third-person and in a 
+sense stains or transforms the mise en scene into something abject and 
+unexpected.)
+
+To conclude on a mundane note - There are two things that distinguish Gaz' 
+works as well as Second Life, and are critical for contemporary theory, to 
+the extent that contemporary theory is critical. First, the latter: When- 
+ever people talk about an experience in Second Life, they talk as if 
+they're _in the world_: "I just wandered around and didn't see much." "I 
+talked to some people and a bird flew overhead and grabbed me." "I was 
+teleported to the Odyssey Gallery and saw an amazing work there, well, not 
+actually _saw,_ but experienced." "I kept looking for someone but all I 
+found were empty spaces." And so forth. So the _experience_ of SL melds 
+with experience otherwise (or the same), and this doesn't happen with 
+other online experiences, except of course games and other social spaces. 
+We adapt quickly to the screen, we're braided to the screen, and this 
+permits the creation of artworks and environments that simply have no 
+parallel elsewhere: "I entered this house and it flew away." "I turned 
+myself from a forty-year-old man into a sexy twenty-year-old." "I couldn't 
+get lose from the bird until I logged out and in again." "I was buried in 
+paintings." "Records played by themselves." "I flew." We say these things 
+as if they're everyday, as if they were always possible. "Question-marks 
+were falling everywhere." Sometimes the servers are hacked or slowed up, 
+but even this can be absorbed until everything grinds to a halt, and then 
+one just logs out, waits, logs in again. This logging-out/logging-in has 
+become an integral part of SL, in fact, just as online/offline otherwise 
+is integral to being in a post-industrial world. (I do want to point out 
+that this isn't, naturally, the only world - the world outside the matrix 
+or braid is characterized by intense poverty, local wars, starvations, and 
+so forth, and SL is powerless in relation to these; one might argue in 
+fact that SL is too much of a safe haven, that it detracts from real 
+praxis and real difference in the true world. And there's truth to this.)
+
+The second, related, thing in conclusion, is Gaz' works themselves; as I 
+pointed out above, the behaviors they trigger couldn't occur outside 
+gamespace without bodily destruction - and some of the behaviors couldn't 
+occur at all. So these behaviors, these works, are absolutely unique in 
+this respect; they depend on both a reading of the SL environment as 
+'natural,' and a scripting within and of that environment to produce the 
+'unnatural' which is still read as natural. These works, on this level, 
+question the authority of the real, of the idiotic real; they're a kind of 
+critique that couldn't exist anywhere else. The viewer/participant isn't 
+prepared for them. (UPS trucks falling on one!) So one engages both crit- 
+ically and psychologically/psychoanalytically - the works create both 
+contemplation and affect, in ways we're not used to. And that, at least 
+for me, is one of the highest goals of art - to create that sense of 
+dis/comfort that gives us a place to question everything, and to return 
+from that questioning hopefully wiser. On a personal note, I can't say 
+I've found anything as intriguing as Gaz' works, anywhere, and for a long 
+time, and I'm still fathoming out the implications, still feeling the 
+limbs extended almost to the breaking-point. Gaz is a pioneer in the body 
+and space of the Other - and perhaps nothing more need have been said than 
+that.
+
+
+References in no particular order (check online for details):
+
+Drew Leder, The Absent Body
+Alfred, Schutz, Reflections on the Problem of Relevance
+Dalai Lama, introduction by Jeffrey Hopkins, Kalachakra Tantra,
+ Rite of Initiation
+Janet Gyatso, Apparitions of the Self, The Secret Autobiographies of a
+ Tibetan Visionary
+Candrakirti, Madhyamakavatara (The Entry into the Middle Way)
+Hevajra Tanta
+Visuddhi Magga (The Path of Purification)
+Paul Fishwick (editor), Aesthetic Computing
+(by various) second life, the official guide (2007)
+
+

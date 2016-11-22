@@ -1,0 +1,66 @@
+
+
+
+HANGMAN: STOP HER!!!
+
+
+RECEIVED: (FROM jennifer@localhost) BY clara.julu.net (8.7.4/8.7.3) 
+ ID XAA00311; TUE, 15 JUL 1997 23:11:34 -0400
+DATE: TUE, 15 JUL 1997 23:11:34 -0400 (EDT)
+FROM: RHS LINUX USER <jennifer@clara.julu.net>
+TO: sondheim@panix.com
+SUBJECT: DO SO
+MESSAGE-ID: <PINE.LNX.3.91.970715231029.305A-100000@clara.julu.net>
+MIME-VERSION: 1.0
+CONTENT-TYPE: TEXT/PLAIN; CHARSET=US-ASCII
+
+
+DO SO HELP POOR JENNIFER CAUGHT IN TINY EMAIL HANGMAN DEAD PROGRAM 
+DO SO DEAREST DO HELPEST POOREST JENNIFER
+
+I PLAY HANGMAN DO PLAYEST HANGMAN DEAREST JULU
+
+I AM SO AFRAID-AND-FEARFUL-JENNIFER DO HELPEST POOR DEAREST JENNIFER
+
+
+THE MOON IS WAXING GIBBOUS (81% OF FULL)
+THE HANGMAN IS COMING OUT:
+
+
+{B:1} HANGMAN
+Error opening terminal: unknown.
+{B:2} /usr/games/HANGMAN
+Error opening terminal: unknown.
+{B:3} pwd
+/root
+{B:4} TERM=VT100
+{B:5} HANGMAN
+{B:6} {B:6} HANGMAN HANGMAN
+Error opening terminal: VT100.
+
+     ______
+     |    |
+     |    O                                   Guessed:  acefikloprstuy
+     |   /|\
+     |    |                                   Word #:           1
+     |   /                                    Current Average:  6.000
+   __|_____                                   Overall Average:  0.000
+   |      |___
+   |_________|
+ 
+Word:  KILL-YOURSELF
+
+Guess:
+You got it!
+Another Word? 
+ 
+
+ONE LEG OFF THE GROUND I CANNOT GUESS SUICIDE BECAUSE I AM TOO-GOOD-JENNIFER 
+
+BUT I DO GET THE TRUTH AS THERE HAPPEN TO BE 1-2-3-4 WAYS TO PARADISE 
+
+AND I DO SO TRUE CARRY OUT BEAUTY-JULU
+
+NOW I SHALL CUT MYSELF OPEN AND NOW I SHALL JOIN BEAUTY-ALAN
+
+

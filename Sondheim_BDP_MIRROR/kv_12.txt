@@ -1,0 +1,69 @@
+
+
+
+
+This Empty File
+
+
+<Jennifer> What! This empty file! I will fill it, carry forth,
+           as if an army were to make
+           this world of files! Alas, that Trees refuse their
+           entrance, Here, within this empty file.
+<Nikuko> The tree command is no long available; forests occlude
+           what occurs beneath our fingers. Ride with me across
+           the surface of the waves. Dance with me in foam. You
+           will know this surface of the foam.
+<Jennifer> How shall we return attack to legions lost without
+           the frame of this our life?
+           Even local directory doth produce no more than
+.              <DIR>        02-10-99  5:58p .
+..             <DIR>        02-10-99  5:58p ..
+E        EXE        53,862  07-17-96 12:32a E.EXE
+QCONFIG  DAT         7,722  11-05-93  3:00a QCONFIG.DAT
+QCONFIG  EXE        29,005  11-05-93  3:00a QCONFIG.EXE
+QCONFIG  MRK         7,528  09-26-94  3:09p QCONFIG.MRK
+QSPELL   OVL        14,156  11-05-93  3:00a QSPELL.OVL
+Jennifer               635  03-01-99  4:17p JENNIFER
+         6 file(s)        278,139 bytes
+         2 dir(s)      72,286,208 bytes free,
+           my name present there, at last, at least, in easy
+           recompense. But where the beauty of these marks,
+           the dark depths within the sea of symbols?
+<Nikuko> Accustom thyself! They are no more! Their presence
+           lost forever on these shores!
+::Enter Julu::
+<Julu> Alas, thou hast wakened my from ill-fated slumbers, of
+           dreams bitten against the fated world! I will enter
+           into other regions than thou knowest; I will return
+           with more than patter, ascii hex and longing.
+0000000   nl  nl   <   J   e   n   n   i   f   e   r   >  sp   W   h   a
+0000020    t   !  sp   T   h   i   s  sp   e   m   p   t   y  sp   f   i
+0000040    l   e   !  sp   I  sp   w   i   l   l  sp   f   i   l   l  sp
+0000060    i   t   ,  sp   c   a   r   r   y  sp   f   o   r   t   h   ,
+0000100   nl  sp  sp  sp  sp  sp  sp  sp  sp  sp  sp  sp   a   s  sp   i
+0000120    f  sp   a   n  sp   a   r   m   y  sp   w   e   r   e  sp   t
+0000140    o  sp   m   a   k   e  nl  sp  sp  sp  sp  sp  sp  sp  sp  sp
+<Jennifer> O Beauty! O Exaltation! I am found out! Thou place
+           a hex on me! O Love! O Languor Longing for the Bones!
+0000000  0a0a 3c4a 656e 6e69 6665 723e 2057 6861
+0000020  7421 2054 6869 7320 656d 7074 7920 6669
+0000040  6c65 2120 4920 7769 6c6c 2066 696c 6c20
+0000060  6974 2c20 6361 7272 7920 666f 7274 682c
+0000100  0a20 2020 2020 2020 2020 2020 6173 2069
+0000120  6620 616e 2061 726d 7920 7765 7265 2074
+0000140  6f20 6d61 6b65 0a20 2020 2020 2020 2020
+<Jennifer> Nor shall this line be found hungered in our code!
+<Jennifer> Nor this!
+<Jennifer> Nor this!
+                /0   /1   /2   /3   /4   /5   /6   /7   /8   /9   /10
+ Load Average   |||||||||||||||||
+
+                /0   /10  /20  /30  /40  /50  /60  /70  /80  /90  /100
+tl           sh XXXXXXXXXXXXXX
+tls  rc5des-net XXXXXXX
+jul        pine XXXXXX
+         <idle> XXX
+ 
+::exeunt omnes::
+
+

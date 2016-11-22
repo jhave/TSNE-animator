@@ -1,0 +1,50 @@
+
+
+
+Emergence on the Internet
+
+
+Is there evidence of connectionism, emergent behavior, on the Internet? 
+I'm purposely leaving the category open, although the analogy of neural 
+networks comes to mind. Do email list participants behave in ways para- 
+lleling neural nets? What constitutes the development and maintenance of 
+a thread here? I'm looking for some sort of loose formal model; otherwise 
+the whole discussion gets lost in metaphysics.
+
+The fast-forward exponential expansion of the Web is an example; clearly, 
+some sort of threshold was surpassed, releasing a network of publicity, 
+investment, and appropriation. Netscape is not a typical example of com- 
+pany growth, even fast company growth.
+
+MOOs and MUDs seem to have denouement, if not death; PMC2 and Media are 
+clearly suffering from too much care. Are there local constraints deter- 
+mining the success of MOO or MUD populations? These aren't idle questions.
+
+And at what point could a MOO or MUD be said to take on a life of its own
+- if at any? The environments are highly interactive and often remain that
+way after participants leave. But the elements, programs, are rarely
+interconnected, although player classes for example give potentials across
+the board. 
+
+There was a discussion months ago about emergent intelligence on the Net; 
+I don't believe that for a second. The Net is simply designed otherwise. 
+There have been other discussions about a "supermind" emerging, which I
+see as no more than wide-spread collaboration. On the other hand, Web
+development does point to high-growth sudden efflorescences in particular
+areas; are there others? I have heard less recently about intelligent
+agents - but will this also emerge and possibly lead to global change in
+CMC? 
+
+Finally, what about the possibility of increasingly intelligent routers 
+and servers? These will become necessary if the Net is to survive with 
+the heavy bandwidths coming into use vis-a-vis video and high-quality 
+audio. Will there be an overall group dynamics produced, i.e. a "read" of 
+the Net as a whole - in much the same way that computers are making more 
+and more stockmarket decisions based on expert programs?
+
+I recognize the vagueness of these questions, but the phenomena them- 
+selves are vague, may not exist, in the first place. And I want to stay 
+away from the "supermind" metaphor, which at least at this stage 
+(without, say, neuronal interfacing), appears as wishful thinking.
+
+

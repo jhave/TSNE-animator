@@ -1,0 +1,55 @@
+
+
+
+
+(I was asked to give the opening address at the Perth conference on cyb-
+ermind. The following is an outline of the talk, which would be drawn
+from this extemporaneously; I'd appreciate any comments you might have.
+Thanks, Alan) 
+
+
+1. Cybermind - what the list is, what it has meant to me, both in terms
+of community and research. 
+
+
+2. Research into virtuality: Humanity begins to make a leap _somewhere
+else_ that involves, inherently, the digital domain. The traditional
+analog world of philosophy is turned inside-out. How can one theorize
+the digital?
+
+a. The immediate approach cannot be looking at the world around one
+(sitting at a desk, red patch, etc.), since the digital world is con-
+struct. Therefore a philosophy will also be an anthropology, involving
+both intervention and participation, as well as bracketing.
+
+b. The intervention/participation is _background_ and _foreground,_
+understanding and acknowledging software options, languages, connection
+bandwidths, filtering options, hardware requirements, protocols, and the
+range of commands available to the user and administrator.
+
+c. As _foreground,_ personal experience and some understanding of phen-
+omenological description are necessary. I attempt myself to extend as far
+as possible into the virtual realm, within and across applications. I
+attempt to work on the margins of an application in relation to decon-
+struction on one hand, and substructure/hacking on the other. I think it
+is necessary to associate and disassociate the levels in 2b., including
+various interfaces, and the phenomenology/psychoanalytics of virtuality. 
+
+d. Examples - Traceroute indicating breakdown across the Net; understand-
+ing netsplits in relation to IRC; understanding both the signified as
+fluid (anything standing for anything within textuality) and proper name
+(netsplit standing for concrete rupture).
+
+e. The linguistic dispersion model of the Internet - fluxes of languages,
+communities. Wherever there is a niche with at least one-to-one or more
+communicating, both community and sexuality develop.
+
+f. Ontology and epistemology in relation to virtuality, virtual subjec-
+tivity, virtual entities.
+
+
+3. Introduction to issues to be considered later - low bandwidth, easily
+available applications. Haves and have-nots within the virtual and real.
+Advantages and disadvantages of wiring everyone.
+
+

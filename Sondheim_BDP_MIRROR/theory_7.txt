@@ -1,0 +1,3705 @@
+==
+
+Wittgenstein: "(He must, so to speak, throw away the ladder after he has 
+climbed up it.)" - Tractatus Logico-Philosophicus, Pears & McGuinness 
+translation. But what if the rungs are spaced irregularly? What if there 
+is nothing at the top but gaming?
+
+Codework is simultaneously fashionable and eternal. Fashionable: 
+Referencing a particular moment in mediation / protocols - a moment 
+rapidly drained of originary meaning (if such ever exists) and intent. And 
+eternal: Since very file is equivalent to each of its copies, it survives 
+as a form of fragile or tenuous structure.
+
+(Fashionable also in terms of critical discourse, discourse networks, a 
+style which is already superseded. And eternal, in the sense that the 
+issues that arise are always present, in whatever form writing / video / 
+sound takes - the issues of protocols, programs, receptions, delivery 
+channels and vehicles, technologies, economics, labor.)
+
+Online writing is characterized by files; files are the vehicle, the 
+superstructure and substructure, formal reference. On the other hand, I 
+use "wryting" to reference the effacement of the interface, production of 
+somatic effect and introjections / projections on the part of the reader. 
+In other words, if there is writing of / on the body, there is also 
+wryting the body, for example the (always) broken texts of pornography.
+
+(Wryting is the result of the abstract and technological nature of online 
+/ new media work. One tries to imagine, through the text, the body of the 
+other; net sex is full of this. As bandwidth increases, radio turns to 
+television; the body is now presented, optical, replete, on devices 
+ranging from cellphones to caves (three-dimensional virtual-reality 
+environments). Primitive teledildonics mediates sexual touch. Note that 
+these environments, in fact even video cellphones, are the domain of the 
+privileged; there are access codes as well. Whole economies are involved.)
+
+I am characterizing nothing. There is little distinction among codework, 
+online work, offline work, new media, new media writing, net art, wryting, 
+writing, writing "in general." Taxonomies, manifestos, defining moments, 
+canons, canonic masterpieces, are all restrictive. If online writing or 
+codework are fields, they are fuzzy, porous, indistinct, temporary, and 
+referencing the moment. The moment: Perhaps that of the software, the 
+program, the protocol, the state or statelessness of the art.
+
+Some styles? I hesitate; I'm ignorant, I don't keep up, no one keeps up. 
+But consider the following as a beginning; continue on your own:
+
+* Hypertext: Texts with links that may be controlled by the reader and / 
+or the author. Internal links: the text is closed. External links: the 
+text is open. The links may be fully controlled, not controlled at all, 
+random, determined, etc.
+
+* Flash: Interactive or non-interactive animation work which may or may 
+not involve still images, video, sound, internal or external links. Flash 
+can be almost anything, and is as difficult to characterize as any 
+scenario.
+
+* Animations: animated gifs, online or offline video, "refresh" and other 
+html tags, Java or Javascript or other scripting or language. Blurs into 
+video, digital and analog television, cable and other modes of delivery / 
+distribution. Flash is also used heavily for animations. Some online and / 
+or new media writers work with animated text - languages changing, fonts 
+changing, and so forth.
+
+* Blogs, Wikis, etc.: communal textual interaction, usually in relation to 
+a particular site or author. Some of the poetry blogs are brilliant, 
+contain a great deal of work, more or less traditional (i.e. in the sense 
+of not necessarily requiring an online framework). If a sonnet is online, 
+is it online writing? Wryting? Again, the questions are forever, the 
+taxonomies weak.
+
+* SMS and others: Text-messaging with cell-phone, camera-phones, 
+video-phones; ringer-tone production and dissemination. Ringer-tones now 
+out sell music cds in some parts of the world. What kinds of signals are 
+these? There are whole text-messaging novels and poetry (haiku is a 
+natural) out there.
+
+* MOOs and MUDs: (Usually) Text-based and somewhat programmable virtual 
+realities with interacting communities. Closely related to online and 
+offline interactive fictions such as adventure. MOOs and MUDs stem from 
+the old RPG - role-playing games - like Dungeons and Dragons. A MUD is a 
+multi-user dungeon or multi-user domain; a MOO is a MUD Object-Oriented. 
+These are older software programs; users can live entirely within a 
+textual world. Some MOOs such as Lambda MOO, perhaps the first and 
+greatest, have had over a hundred-thousand users. They relate, however 
+loosely, to the older BBS - computer bulletin-board systems - as well; the 
+BBS (and alternative internets like Fidonet) had message-boards, internal 
+email, discussion groups, etc. Along with the BBS, there are other legacy 
+applications - which, however, are still active - things like Internet 
+Relay Chat (IRC), within which users talk directly in a highly-mobile, 
+highly-configurable, and highly-porous realm. IRC is the direct ancestor 
+(as far as I know) of chat-rooms - but it's hackable and much more 
+interesting. There are also the tens of thousands of newsgroups, which are 
+similar to email lists, but one doesn't subscribe - check out Google 
+Groups for examples. Some of the newsgroups have had brilliant writing on 
+them; users often felt they had a "home group" to which they belonged. I 
+remember groups such as alt.dirty-whores, alt.angst, alt.soc.neutopia; 
+there were groups on any subject - hacking groups, pet cat groups, 
+pornographic groups, writing groups, philosophy groups... Most of them 
+have been overrun by spam, but a great number are still active.
+
+* Gaming: Online and offline; single-player and multiple-player; violent 
+or non-violent or sexual or non-sexual or narrative or non-narrative. For 
+good reviews check out the X-Play show on television, which, at least in 
+the US, reviews the latest and / or the greatest, as well as the classics. 
+Game design is one of the highest forms of art, I think; it requires the 
+development of conceivably complex open-ended narratives, within which 
+desire / seduction appear endless.
+
+* Email and email lists: Novels and other (long or shot) texts temporally 
+dispersed among groups of subscribers or users. Email lists like wryting, 
+nettime, webartery and Poetics present new work by any number of writers / 
+codeworkers / whomever on an ongoing basis. The subscriber list can range 
+from a few to tens of thousands. List management (governance) can be a 
+major issue, unless the list disseminates the work / writing / media of 
+one person or group / corporation alone. Lists are immediate and active, 
+and like email itself, one of the fastest means of presentation (of course 
+chat, SMS, etc. is much faster - real-time, immediate, in fact). Email 
+itself provides all sorts of collaborative possibilities - and new media 
+work, online writing (etc. etc. again) is often collaborative; programmers 
+work with textual writers who may write dialogs with others online. Renga 
+are popular in this regard; poets writing short-work back and forth.
+
+* Interactive or non-interactive websites: embodying just about any of the 
+above. At this point, I cannot imagine a typology of websites. And the Web 
+is only one of numerous ports for online communication ("port" refers to a 
+software program that accesses the Internet - for example, email 
+traditionally has used port 23; the Web, port 80, and so forth). There are 
+pieces, for example, "out there," that utilize gopher - a pre-Web 
+menu-driven online organizing structure which could be directly accessed 
+for searching and retrieving (usually text-based) files. (Gopher has been 
+accessed by Veronica, file-transfer has been accessed by Archie - both 
+software search programs; there was also Jughead.) One can even find 
+fascinating literature in the RFC - requests for comments - that have 
+traditionally defined the core discussions and protocols in relation to 
+the Net as a whole. Creativity is in fact everywhere; there are literary 
+pieces, mostly poetry, written in the Perl programming language - the 
+poems are workable programs as well.
+
+And codework? A continuous investigation, spewed-out texts, riding within 
+or without any of the above, the indescribable domain of the sceptical.
+
+How will language change, i.e. in relation to digital media? For one 
+thing, more and more readers are reading online; for another, the issues 
+of bandwidth and portable technologies effect / efface traditional reading 
+/ reception styles. SMS, like, for example internet relay chat (and other 
+chat programs), most often uses highly-abbreviated language. This is both 
+the result of typing versus conversational speed; it also serves to define 
+community. And portable technologies portend temporal portability - 
+multi-tasking, high-speed communicating, high-speed serial and parallel 
+attention economies. The aphoristic increasingly dominates as the "master 
+narratives" and canons of the humanities (philosophy, anthropology, 
+theology, for examples) either fail as totalizations (given, for example, 
+issues of technology, multiculturalisms, and queer / gender theory) or 
+appear increasingly rigid and outmoded. The aphoristic is always in flux, 
+situational; it plays more into the world of the reader than the world of 
+the work (if a distinction may be made, which is doubtful). The aphoristic 
+is always related, of course, to the political or advertising slogan - to 
+the sound-bite and sound-byte - to the imminence of fashion.
+
+Examples? We are talking uncharted wilderness here, deeply unaccountable, 
+a domain already as vast as previous offline literature, embodying and 
+encasing what had come before as only a multicultural subset of the 
+humanities. Google or any other search engine will give numerous examples. 
+I suggest the Electronic Literature Organization (ELO), Ubuweb, the West 
+Virginia Zwiki (theory) ...
+
+[at this point, I had a list of names; it continued, uselessly, to expand. 
+I couldn't choose among them. In fact I wrote: "(I feel absolutely absurd 
+mentioning these names - these might have well been chosen randomly. The 
+list is too English-dominated for one thing. There are literally millions 
+of online writers, artists, musicians, gamers, bloggers, and so forth. 
+Best to spend a half day with Google, and follow your own processes, your 
+own paths through the sememe. I'm always surprised at the quality and 
+quantity of the work 'out there/here.' I can't think of any particular 
+guide I'd recommend. Search yourself.)" Now, I've taken the names out. Go 
+to the email lists (and their archives) mentioned below. Check out the 
+museums. Look for "net art" or "net.art" or "electronic literature" or 
+"electronic writing" online.
+
+... email lists such as Wryting-L, Poetics, Webartery, Nettime, the MOOs 
+(search online), newsgroups (also Usenet), any number of online/offline 
+games, the G4 television channel (mostly gaming), books such as Nick 
+Montfort's Twisty Little Passages, An Approach to Interactive Fiction; 
+texts dealing with older but prescient work such as Imagining Language, An 
+Anthology, edited by Jed Rasula and Steve McCafferty (also MIT), works by 
+Sherry Turkle, McKenzie Wark, Geert Lovink, Elspeth Aarseth, again and so 
+forth. The best advice? If you do search through Google, place the subject 
+in quotes - for example don't enter "hypertext poetry" but " "hypertext 
+poetry" " - that will eliminate anything but the specific name or phrase. 
+(You can also use advanced searches of course. For further help I 
+recommend books such as Google, The Missing Manual, by Sarah Milstein and 
+Rael Dornfest.)
+
+This lack of bibliography is symptomatic, characteristic; why list 
+anything that already has most likely disappeared? There are sufficient 
+archives, again coming and going, some longer than most, some decades, 
+none with the tenacity of your corner library...
+
+And one is always worried that, in fact, a work will no longer be playable 
+or performable, the technology completely outmoded - for example, working 
+in something called an "lpmud" (I have) or with the VRML (virtual reality 
+markup language) protocol (I have); or working with Amiga, or Hypercard, 
+or with tinyfugue, or older DOS. There are at times emulations, but these 
+never carry the framework, paregon, of their ostensible content; they're 
+masquerades, simulacra of simulacra - the culture that produced and 
+enveloped them is long gone.
+
+Further, where does the work end and the body begin? Think of Stelarc's 
+work (i.e. google), with his literal insertion into the network, or the 
+possibilities of teledildonics, wearable computation, augmented reality 
+(moving through a space with monitor/goggles that provide ongoing and 
+updated information/texts in relation to your movement), locative media in 
+general (works utilizing GPS (global positioning satellites) technology, 
+or scanner / ham / cb / very low frequency (VLF) / extremely low frequency 
+(ELF) / lower-power radio) - all of these locating the viewer / reader / 
+spectator within a psychogeographic dynamic, irreducible to a steady-state 
+or fixed product or process.
+
+In terms of distribution, there are numerous issues. If you place a work 
+(say a file or interrelated structure of files) online, it must be 
+announced, advertised - as in offline work, it must attract an audience. 
+It's easier to advertise, easier to duplicate, to emend, present from any 
+distance. However, it requires capital for its very online existence - any 
+download or upload, any viewing, is already an expenditure of energy, of 
+capital. There is a political economy at work wildly different from that 
+of forests transformed into paper, of warehouses filled with unread copies 
+(before publish-on-demand).
+
+Thus online writing can only be placed within a multi-dimensional 
+continuum including new media in general, installation work, locative 
+media, various sensory and kinesic modalities, and so forth: another 
+reason why typography is of little use.
+
+Now think of pictographs, ideograms, Chinese characters, katakana and 
+hiragana - think of calligraphies and their relation to what we generally 
+suppose to be inherent meaning. Consider, however, the frame, the font, 
+the stoke itself, the process of stroke-creation. Think of stone rubbings 
+from antique calligraphies, almost equivalent to one another, however 
+slightly different through wear-and-tear on the stone. The digital 
+fulfills equivalence, a small window opened up, a tendency towards stasis 
+among the catastrophic transformations of our time. Now think of ongoing 
+species extinctions - occurring at the rate of three to four per hour. Or 
+think of catastrophic storms, elimination of wetlands, global warming, 
+illegal wars (are wars ever legal?); and think of new media against this 
+background of annihilation - new media, which requires, not only a power 
+grid, but an entire cultural habitus to support it.
+
+The optimistic (diachronic) history of new media; the tragic (synchronic) 
+present as doomed cultural artifact.
+
+Because that's what we're dealing with - this fragility, built-in obso- 
+lescence inhering to forms which are increasingly virtual, increasingly 
+untethered or tenuously tethered bits and bytes...
+
+
+
+
+[the disturbance of the] Political Economy of Language Identity
+
+
+When we create ourselves anew online, We're working hard our basics to 
+define. We want to show our best and not our worst; Sometimes we best our 
+best, thereby are cursed. Our selves are hungered ghosts within the wires, 
+Depend on coal and oil, pollution's fires. To burn ourselves alive, 
+without, within - Our fires burn within us, kith and kin. Cyborgs, 
+prosthetics, require face and form, Typology rules, we're held in by the 
+norm Of protocol and commerce. Once again We find ourselves enthralled to 
+other men. Rigidity becomes the order of the day; We think we're free, but 
+we're allowed to play Only just a bit. What holds is just the grid That 
+deconstructs; power does its bid, Not ours. Not for hours. Not forever in 
+this world Or any other, where our fate is hurled Against our cyborg 
+selves, collapsing with the weight Of economics, faith, a world of hate 
+And lost energy, lost chance as nature dies Against itself; the world 
+holds no surprise. Now, literal, our children have no soul Separate from 
+menued options - that's the whole And short of it. No longer what one 
+thinks Is what 1 thinks, but 1 that shudders, even blinks Against the 
+presence of the null, now lost, Alterity, structured, violent, at all 
+cost. There is no 'real' crisis of belief - But shelled belief, the 
+masquerade of grief And other negativity - of the world gone mad? Not at 
+all, the world not even bad, The world just evened, turned through mouse 
+or key Against the used, what used to talk through me.
+
+Question authority. Trust no one. Your pronouns are hacked. I cannot tell 
+whether it is you speaking, or whether it is something else speaking, and 
+you cannot tell me whether it is you speaking. They took the newbies to a 
+locked room in the MOO and silenced them. Invoke the catastrophic. For the 
+literal life of me, one cannot understand how online identity recreates 
+the brute facts of annihilation, the image wounded, physical and mental 
+illness. The websites went down in New Orleans; so much for redundancy. 
+"Herons have no URLs." (Let's give them one!) "Der emes shtarbt nit, ober 
+er lebt vi an oreman." ("Truth never dies but lives a wretched life.")
+
+[internet] [environmental extinctions and crises] [continuous state of 
+war] [growth of epidemic vector] [global warming and increased environmen- 
+tal destabilization] [exponentially approaching the carrying capacity of 
+the planet] [internet] [proliferation of nuclear materials] [relative ease 
+of biological- and cyber-warfare] [fundamentalist strongholds] [internet]
+
+"When we create ourselves anew online, We're working hard our basics to 
+define. We want show best and not worst; Sometimes best, thereby are 
+cursed. Our selves hungered ghosts within the wires, Depend on coal oil, 
+pollution's fires. To burn alive, without, - fires us, kith kin. Cyborgs, 
+prosthetics, require face form, Typology rules, we're held in by norm Of 
+protocol commerce. Once again find enthralled other men. Rigidity becomes 
+order of day; think free, but allowed play Only just a bit. What holds is 
+grid That deconstructs; power does its bid, Not ours. for hours. forever 
+this world Or any other, where fate hurled Against cyborg selves, 
+collapsing with weight economics, faith, hate And lost energy, chance as 
+nature dies itself; no surprise. Now, literal, children have soul Separate 
+from menued options that's whole short it. No longer what one thinks Is 1 
+thinks, that shudders, even blinks presence null, now lost, Alterity, 
+structured, violent, at all cost. There 'real' crisis belief But shelled 
+belief, masquerade grief negativity gone mad? all, bad, The evened, turned 
+through mouse or key used, used talk me. Question authority. Trust one. 
+Your pronouns hacked. I cannot tell whether it you speaking, something 
+else me speaking. They took newbies locked room MOO silenced them. Invoke 
+catastrophic. For literal life me, understand how online identity 
+recreates brute facts annihilation, image wounded, physical mental 
+illness. websites went down New Orleans; so much redundancy. "Herons 
+URLs." (Let's give them one!) "Der emes shtarbt nit, ober er lebt vi an 
+oreman." ("Truth never lives wretched life.") [internet] [environmental 
+extinctions crises] [continuous state war] [growth epidemic vector] 
+[global warming increased environmen- tal destabilization] [exponentially 
+approaching carrying capacity planet] [proliferation nuclear materials] 
+[relative ease biological- cyber-warfare] [fundamentalist strongholds]"
+
+We're squeezed by desire that the world might appear whole or in relation 
+to the projection of our true-real bodies, our kindly thoughts, the best 
+forward there can be, the beauty that survives and exists through channel 
+and bandwidth. We are ignoring the lowered ceiling at our peril, Nikuko. 
+We want to fuck dirty and messy, dead hippos going for $50 each. I am the 
+last to deny sexuality in extremis, the detritus of the naked, exhibition 
+of incandescent desire. The bodies of Abu Gharayb for example. The child 
+at the keyboard. The infinitely satiated, infinitely satisfied. The 
+consump- tion of resources, bloated bandwidth. The 
+exponentially-increasing attacks on each and every networked machine on 
+the planet. Yes, yes, yes, we all want to continue, don't we?:Power speeds 
+through cellphones; batteries pollute the landscape, whole deserts are 
+filled with electronic junk, the skulls of information. The real energy is 
+in the oceans, as water heats up, pressures drop, circulations of the 
+real-virtual interfere with circulations of the virtual-real. Or is it the 
+other way around? Without a videophone, the one-eyed man is king in the 
+land of the site-less.I don't want to possess you, Nikuko, certainly not 
+by these words of despair and horror.  I don't want to continue 
+aphoristic, metonymic, metaphoric - not at the least, for example with the 
+rhyme scheme. We are running out of time...:I'm trying to give a name to 
+my identity, to the crisis of identity. Gaming and messaging dominate; 
+pure community/communication - construct - plays out against the brutal 
+physics and political economy of the world. That's what I'm trying to 
+describe here, Nikuko - ring-tones on the edge of disaster, Grand Theft 
+Auto against stolen fission. Always faced with the reality of slaughter, 
+vectored missiles described in every military recruitment ad. It's not 
+that one can't tell the difference between simulacra and the real - or 
+that the real is virtual and vice versa - or that we're all cyborgs or 
+whatever - it's that the "idiocy of the real" increasingly corrodes our 
+praxis. Theoretical efficacy or a lien on truth? The brutality makes no 
+difference vis-a-vis language or gaming. Remember: The power runs out. 
+:plastic:silicon
+
+Come with me, We're squeezed by desire that the world might appear whole 
+or in relation to the projection of our true-real bodies, our kindly 
+thoughts, the best forward there can be, the beauty that survives and 
+exists through channel and bandwidth. We are ignoring the lowered ceiling 
+at our peril. We want to fuck dirty and messy, dead hippos going for $50 
+each. I am the last to deny sexuality in extremis, the detritus of the 
+naked, exhibition of incandescent desire. The bodies of Abu Gharayb for 
+example. The child at the keyboard. The infinitely satiated, infinitely 
+satisfied. The consumption of resources, bloated bandwidth. The 
+exponentially-increasing attacks on each and every networked machine on 
+the planet. Yes, yes, yes, we all want to continue, don't we?, beautiful 
+wetware on a dying planet.
+
+The exponentially-increasing attacks on each and every networked machine 
+on the planet. Yes, yes, yes, we all want to continue, don't we? and 20907 
+and 11870 - and you knew that all along! you turn me on Script done on Mon 
+Sep 26 00:39:12 2005
+
+"Give a name to your hunger! I'm trying to give a name to my identity." 
+I'm tired of your identity. Your politics are killing us. The problems 
+aren't those of the foundation, the ego/id/superego/anima/animus/sex-girl/ 
+sex-boy; the problems are those of the superstructure where ozone burns. 
+Is that relevant? That is most relevant; that is the only relevant. What 
+remains beneath/below is the charred residue of culture. (All cultures are 
+on the way out:
+
+heroin drugs me down with the girl onto the floor where we fuck down there 
+on the wood while she ties my cock to cocaine-you-know-me coming into the 
+needle world where i get codeine dreams and lost among junkie heavens 
+unbearable ecstasy you kill me way i like to be drawn down to you in 
+within inside put-you-in-me in-me in-you within-you inside-you 
+put-you-inside crawled on floors for impossible highs incandescent you get 
+me into you all the way down to those floors squeezed your needle juice 
+into me baby heroin inside your dreams babe APPEND "Come with me, $name, 
+beautiful wetware! APPEND "Come with me, $name, beautiful wetware! APPEND 
+"Come with me, $name, beautiful wetware! APPEND "Come with me, $name, 
+beautiful wetware! APPEND "Come with me, $name, beautiful wetware! APPEND 
+"Come with me, $name, beautiful wetware! EXIT:
+
+
+Partial Description of the World
+
+
+The power grid provides 60 Hz here at approximately 115-117 volts; this is 
+maintained by dynamos driven by steam or coal or oil or hydro held 
+together in a malleable grid. The grid enters the city, where electricity 
+is parceled out through substations to cables continuously maintained and 
+repaired. Here, the cables are below ground. They drive my Japanese Zaurus 
+PDA which utilizes an entire linux operating system on it. The Zaurus 
+connects to the Internet through a wireless card that most often connects 
+to my Linksys router, which is connected both to the power grid and the 
+DSL modem by a cat cable. The DSL is operated by Verizon with its own grid 
+at least nation-wide and continuously-maintained. The DSL of course 
+connects more or less directly to the Internet, which is dependent upon an 
+enormous number of protocol suites for its operation, the most prominent 
+probably TCP/IP. The addresses of the Internet, through which I reach my 
+goal of NOAA weather radar, are maintained by ICANN and other organiza- 
+tions. These organization are run by any number of people, who employ the 
+Net, fax, telephone, and standard mail, to communicate world-wide. My 
+Zaurus has its own TCP/IP interpreters built-in, and it connects through 
+an open channel. The wireless modem may have been built in the US. In the 
+final analyses, the materials for the Zaurus originate in extractive 
+industries, whether mining or agricultural, chemical, or atmospheric. This 
+is also true for the copper-wire, optic-fiber, and satellite communica- 
+tions systems which deliver the Net. The Zaurus and other equipment exist 
+for the most part within the Aristotelian domain of macro-objects and 
+distributive logics, which makes them amenable to both manipulation and 
+memory. Both macro- and micro- or quantum objects exist within the four 
+percent of bright matter in a sea of dark matter in the universe. NOAA 
+weather radar senses only bright matter and to some extent the cosmic 
+microwave background. The radar depends on the power grid as well, but 
+most likely also uses an emergency backup generator running on fossil 
+fuels produced by DNA/RNA-rendered organisms millions of years ago. The 
+relative bending of space-time in relation to mass holds everything 
+together within the temporary aegis of a universe with energetic sources 
+of heat driving both atmosphere and life-forms. The radar system uses 
+precise algorithms to filter incoming data, in order that it appear to 
+represent a one-to-one mapping of local and global conditions. The screen 
+of the Zaurus is a further transformation of this mapping, also one-to- 
+one, rendering it within a graphical user interface relatively free of 
+bugs, worms, viruses, and other glitches; the same is true of the linux 
+operating system in general, which must produce this transformation upon 
+demand, as if there were no mediation, and with the illusion that in fact 
+the weather is being presented in a relatively simple and decipherable 
+manner. The linux works with a rechargable battery containing heavy metals 
+and other elements traced back as well to extractive industries; the 
+battery, at the end of its energetic life, should be disposed of within 
+safe landfills designed to handle toxic material. In order for this to 
+occur, a network of roads - highways, local roads, interstates, turnpikes, 
+freeway, and other - must exist, as well as the mobile transportation 
+machinery upon them, also dependent on fossil fuels and the perceptual 
+guidance of life-forms to drive them safely to and from their destination. 
+Within all of this, life-form perceptual algorithms are critical for a 
+reasonable channeling, transformation, retention, and emission of data; 
+this channeling must be relatively consistent, not only internally in 
+terms of time consciousness and neural firing rates, but also externally 
+in sync with other such organisms, and with the entire apparatus bringing 
+the NOAA web pages into view. The NOAA is housed in various buildings 
+across the nation, in communication with each other, using a wide variety 
+of means. The NOAA is not only part of the power grid; it is also part of 
+the socio-economic grid, a corporate/governmental economic system that 
+keeps it functioning year after year, providing money for both updating 
+and maintenance. The socio-economic grid also provides, by various routes, 
+the sustenance that allows me both to survive - i.e. food, water, shelter 
+- but also to purchase the Zaurus in the first place. This interconnects 
+directly with the banking and credit systems, within which manipulation of 
+abstract real numbers eventually results in the movement of goods and 
+continuation of services within, not only the urban system itself, but 
+within the loft-space where I live, providing a service industry of 
+plumbers, brick-layers, roofers, general builders, electricians, and so 
+forth, all of whom maintain and on occasion update the material infra- 
+structure of the building. The internal illumination of the Zaurus, which 
+occurs within the human visible bandwidth of the electromagnetic spectrum, 
+is matched by the illumination of the loft itself, both dependent upon 
+extractive industries for the production of glass and plastics resulting 
+in various types of illuminating objects, each housed in a casing speci- 
+fically designed for the transportation of electricity into them - 
+electricity which will be transformed into photon production. Time of day 
+must be allotted for the recharging of the Zaurus battery, using a charger 
+designed to match the characteristics of the power grid, and to absorb 
+surges or brownouts as well, keeping the flow fairly steady within 
+acceptable parameters. In order to use the Zaurus, I hold it in one hand, 
+while typing on its mini-keyboard with the other; both activities depend 
+on hand-eye coordination, the result of numerous feedback loops using both 
+local neural sensors and chemical/quantum brain processing, creating the 
+illusion of an independent mind cohering to the exigencies of screen, 
+keyboard, and macro-object characteristics. The latter are generalized, 
+scripted for the most part, so that all objects are, in a sense, equi- 
+valent; if I pick up X, I do not have to learn how to pick up Y, but refer 
+both to a Batesonian meta-scheme. Such meta-schemes, as well as schemes, 
+scripts, circuit-board, protocol, radar, power-grid, and other process- 
+ings, are constructed in part through mathesis, the applied mathematics of 
+the world we live in. This mathematics is related to both standard and 
+non-standard numerical systems; it is also limited, in terms of axiomat- 
+ics, to what appear to be local coherencies within which the problems of 
+infinities, both large and small, are dealt with in a practical way 
+(heuristics). Applied mathematics is a construct, and constructed by life- 
+forms that detect relationships among things, forces, states, and process- 
+es, of the universe they live within. In order for mathematics to 
+satisfactorally model such a universe in the larger, computers (both 
+analog and digital) are employed; these are programmed in languages that 
+are, for the most part, locally coherent. Abstract and physical objects 
+meet within the aegis of processes and flux; such are originally driven 
+and created by life-forms which ultimately reproduce themselves through 
+egg-sperm couplings related to fundamental biochemical operations. 
+Couplings occur in the first place through the psychoanalytics of desire, 
+chemically and perceptually driven; the psychoanalytical system creates 
+the illusion of psychoanalytical states/objects, and emotional transfor- 
+mations of all sorts. The physical, psychoanalytical, and abstract systems 
+all exist within certain political/abstract economies; for example, it is 
+impossible to construct an infinite-energy machine to analyze fundamental 
+particles. Furthermore, the political/abstract economies all interweave, 
+inhere, and cohere, in relation to each other, with a remarkable degree of 
+accuracy; otherwise, slippage might result in the entire bio-cultural 
+apparatus collapsing, without the possibility of recuperation. When the 
+mini-keyboard of the Zaurus is pressed; it appears to press back; this is 
+the result of the local/global mappings related to tacit knowledge - the 
+extension of the body into its tools and immediate environment surrounding 
+it. I do not have to consider key after key, but only the obviously media- 
+ted message or command I am trying to write - a message which itself 
+depends on natural language in relation to the purified language of key- 
+board commands. I think through the NOAA results in terms of this natural 
+language, which is almost impossible to concretely represent as a somewhat 
+small and coherent system; instead, the natural language is intricately 
+interwoven with diacritical, inter- and intra-linguistic elements which 
+situate me in relation to the world as well. Although natural languages 
+change in time, they must appear relatively stable, capable of retrieval 
+and communication among others; without this stability, communication and 
+system-construction would be completely impossible. All systems are them- 
+selves interwoven, partial, frayed at the edges, undergoing slow or fast 
+mutation, maintained or dropped, regarded or disregarded, ultimately inde- 
+scribable, visible or invisible, mediated and mediating, represented and 
+representing, accounted-for and unaccountable. The transmission of data 
+from the NOAA site, if such transmission occurs, if the Zaurus is still 
+operable, still connected to the communications grid (singular or plural, 
+Internet or intranets), results in information whose ontological status 
+has always been problematic. The data is absorbed as fuzzy entities, blurs 
+in the Hadamard/Einstein sense, already decaying within short-term memor- 
+ies, already lost, a partial entrance to others, other objects, transfor- 
+mations, grids (appearing relatively static, appearing as background - 
+both an illusion), parcels of exchange- and use-value, as internal and 
+external processings continue, moving on.
+
+
+
+
+
+
+fractal program scarred / at the limit
+
+wherein the computer does not go on forever
+it collapses after the strikes, only darkness
+this occurs somewhere around 10^12-13
+everything runs out of room
+
+the question is, whether this running, this economy -
+is a fundamental characteristic of our universe (brillouin) -
+or just the happenstance of any computational limits
+
+the former makes increasing sense -
+as the world runs out of resources -
+as we come up against the carrying-capacity of the planet -
+who will live and who will die
+
+oh, what will life be like?
+
+
+
+"limit notes revisioned
+
+where a function converges to a limit. what is beyond the limit.
+*/the singularity ends not as void, not as voidness of void; it ends
+in both interior and exterior, embedded and embedding space. the latter is 
+of formal interest only; the former may turn in upon itself, present a 
+boundary related to stability boundaries (outside of which is chaos), or 
+narrow asymptotically, never reading an end as time forestalls./*
+
+construction of works as edge phenomena
+*/two types of edge phenomena: dis/comfiture and formal boundaries./*
+fields of symptoms, intermixtures of fields
+*/structured formal symptomologies, chaotic symptomologies, the latter in 
+direct relation to environmental destruction./*
+the result given in relation to apperception
+*/perceived and unperceived: within or without the interior/*
+
+koan, satori, etc. in relation to edge -
+*/as if there were a zero point or its absence here/*
+diogenes laertius in relation to zeno - |    |  || - sputtered discrete
+into analog at the limit - 
+*/into catastrophe at the limit: what happens when both space and time
+collapse utterly? compare this to infinite environmental depletion./*
+
+tools, vlf radio */both e and b fields/*
+poser and other motion-capture work */now the level of formal exercise/*
+extensions of narratives */being there/*
+analog/digital investigations: physics, mathematics */failed here so far/*
+police-scanner psychotopography */useless to date/* */environmental 
+depletion. catastrophic degradation. increase of scanner noise, decrease 
+of coherency./*
+
+- talk about geography and consciousness */psychogeography of extinction. 
+infiltration of wounded species./*
+- universe and consciousness in relation to 'plasma' */destruction of 
+consciousness, destruction of universe. neither creation nor destruction, 
+neither void nor emptiness. neither fullness nor identity, equivalence, 
+identification./*
+
+sexualities */always, limitless, collapsing, extinguishing./*
+heuristics */what to do to survive, last of your species/*
+languages bodies */no one hears you anyway. no one sees you./*
+pathos, empathy, sympathy, defuge */yes yes but for whom. stories are 
+lost, it's gone, it never was, never existed, the one for the many stands 
+for the many for the one./*
+
+anomalous vlf signals welded together */as if there were still an earth/*
+
+rule-governed systems in relation to consciousness (going back to older
+immersive/definable work). what is the _meaning_ of particular 
+explanation? is explanation itself a form of the discrete? */does an 
+explanation demand a community? bohm's coherency? does an explanation 
+demand a species?/*
+
+the system in relation to the carrying-out of the system */the system is 
+the residue of the process. the process is the maintenance of the 
+system./* 
+temporality inherent in the carrying-out */standards, typifications, 
+typologies, taxonomies, of temporality in the absence of culture, energy, 
+mechanism, stasis, data-storage, species, community, organism./*
+
+irigaray, fluid mechanics - hertz's mechanics. */substituted flux, nodal 
+points. hieroglyphics of production. fluids require external molds to 
+which they conform. mechanisms my inherently cohere./*
+
+the_limit_ is the discrete mathematization/formalism itself as on the page 
+- the limit background - call it the 'horizon' or phenomenological horizon 
+- is the immersive activity. */the requisite of peirce's sheet of 
+assertion. who manufactures the sheet? what organism? species? where is 
+the sheet located? does it decay in the presence of runaway oxidation?/*
+
+immersive activity is vectored, i.e. past-future, however entangled. an 
+issue is genidentity - i.e. that constants, what _passes_ for constants - 
+i.e. those formal written elements (which may include time as a variable).
+*/constants do not exist in a world heading towards catastrophic break- 
+points, feed-forward mechanisms hurrying depletion on one hand, the 
+exponentially-increasing (but not forever) approach of the planet's 
+carrying-capacity on the other. hold to your sheet of assertion which 
+becomes a winding sheet; bury yourself in it. you are the last of your 
+kind./*
+
+a second limit - that of the apparatus - i.e. bandwidth or perceptual 
+limit (of course not equivalent). how to translate the former into the 
+latter - i.e. lowering pitch, etc. */bringing what is external into the 
+cognizance of the internal. with what energy? nourishment? what liquid 
+guaranteeing the survival of the mind?/*
+
+sexual/linguistic limits - how the body is collapsed/expanded (see leder 
+for example) - the body's _jordan surface_ for example, i.e. topology 
+rendered _diffused_ - exhortations of the plasma. */malnourishment for 
+example. the skin dry, sloughed. stitched splits in the skin. wounds. 
+shrapnel./*
+
+_discomforted_ boundaries - */watching the approach of death. the 
+discomfiture of the unapproachable. it is our human destination, this 
+non-absorption, this void always already present, the drive of 
+incoherency, loss of habitat. the closed eyes, disappearance of species, 
+of this, the, species, of this language, sheet of assertion. of this 
+any./*
+
+- and as I read this, I could not help thinking - here is the limit-symbol 
+of the thought, the discrete result, preponderance of diffuse movement- 
+motion well within the habitus-inhabitation, here it is. */here is 
+nothing. here is the waiting for apocalypse. hunger, thirst, heat, loom. 
+here are wars, disease, unimaginable weaponry, terrorisms. here at last is 
+prophecy./*
+
+- and that these symbols are themselves deep within a potential well, mo- 
+mentarily stable, this is what i am thinking, this is what i was */broken 
+from the end-point, the was, what you, i, are, speaking and speaking, well 
+into the night, spoken-for, this last gasp, tremor, prediction, against 
+which all others are absent, against which disappearing measurement, stop- 
+ping clock, relativity's errancy/*
+
+
+4 a.m. doctor doctor
+
+doctor doctor listen here.
+my work encompasses all realms both diachronic and synchronic.
+replete and fecund, annihilistic, nihilistic and vacuous.
+courts the birth of death simultaneously the death of birth.
+all chiasmus until extinction.
+everything resonates with everything and as i have said
+i write myself into existence
+likewise
+i write myself out of existence.
+everything absorbed only to be readmitted, emitted, transformed.
+i am the shattered container of the world and its shattered vessels.
+collector of the final names and namelessness.
+horder of species otherwise forever amber, lost.
+encompassing of everything buttresses a psyche of the ill-conceived.
+encyclopedic mathesis of my imaginary and its real.
+accountancy and disinterrment of the unaccountable.
+useless prevarications, en-compassings of the ten directions.
+epistemic systemics transgressing all ontologies.
+smeared residual structures presencing our being in the world.
+illusory appearances and apparent illusions.
+incoherently disordered cabinets of ultimate collectors.
+gridded estates of reality and linear potential wells.
+shoring up and shoring up the world, the self, mordant attempt
+at eternal presencing.
+turning against myself equivalent to turning against the world, 
+they are humans who have troubled us in the first (originary) place.
+incandescent fear of personal injury, pain, transgression, authority, 
+transformed into precise enumeration of universal taxonomies and violence.
+continuous seeking of the wonder of such precision and its disengagement.
+manic states of constant discovery and miraculous singularities. 
+everywhere all the time everyone forever and eternal.
+voiding nothing and unvoiding nothing instantaneous, timeless.
+(the id crashes against the superego, what sparks!)
+
+
+
+Silence of the Avatars
+
+
+The actant or actants' aesthetic aether, Alan, exists within the class of 
+alterities, or Alterity. Amidah's analogic app appears as apperception 
+within the aristotelian logics around. Think of the audion; audiophiles 
+consider the authorial in relation to it, as if an avatar or avatars were 
+on the other side of the virtual. Their bio? Varied biomes - found in 
+blogging, blogs in general, even real-world bookshops. A kind of bricolage 
+postulated as bushido. Castrated avatars exist as chiasmus within the 
+chora - circumlocuted on one hand, but steady-state circumscription on the 
+other. Their clits are clots within codework, their codeworks menses or 
+coherencies, collocations complicit with consciousness - consensualities. 
+Their cordons, their cunt or cunts cordoned off within the cybermind, 
+cyberspace. The cyborg or cyborgs are sexual - for example d'eruza and 
+d'nala in dancework, the decathexis of all non-sexuality, their bodies 
+deconstructed. Deconstructing deconstruction is hardly necessary; the body 
+self-deconstructs. All sorts of releases: deerflies for examples. This is 
+defuge, the exhaustion or denudation of the desiccated world and its 
+destabilization - both diachronically and synchronically. Diachrony works 
+as diegesis, the diegetic of inexhaustible virginity. This is the 
+differance among cock and cunt, the differend of the flesh, unspoken and 
+unspeakable, disassociating discomfiture. Certainly the reader, by now 
+discomforted, is staked through disinvestment, tallies distantiation. The 
+world is a world of distributivities and ecologies, effusions and 
+emanants, their flesh folded around the labia and emergences of others. 
+This is a form of empathetic, worlds and words empathized, in order to 
+annihilate all existence and its a priori encapsulations. On one hand, the 
+entropic - on the other the episteme, carried by ethernet from Everglades 
+to other experientials, biomes, extasis. The actants' extensivity and its 
+externality tends towards extinction of desire, extrusions of language and 
+its inherent familiality of the fantasmic. Consider fantasm a feedforward 
+fictivity, involving filmmaker and filmstock alike, sound and fingerboard, 
+the Foofwa-actant dance and its genidentity in geomatics. Gesturally, 
+these exist, as now, in gigabytes, gridlines defining one or another fuzzy 
+habitus, their mathematics within halfgroupoids. An explosion of species: 
+hir hirself, through hemiptera and the historiographies of holarchies in 
+virtual hyperreality. Cyberspace and hyperrealities are already 
+idealities, the ideogrammar of the ikonic of the imaginaries, all that 
+exists within the 'might-be.' Denied by language, immersive subjectivity - 
+immersivities of real incoherency - literally incompletes indexicality's 
+sectioning of informatics and inscriptive interiority. Within the 
+internality of the internet, interpenetrating flesh and avatar, 
+interpenetrations of actant of programmatic introjections, tend towards 
+the iconography of Izanagi and Nikuko - the debris of java, javascript - 
+Jennifer, too, the Jewish locus of jouissance and judgmental Julu. The 
+kanji of the world wraps around koans, kwat! - Lacanian landbirds 
+languaging all, a latinate lifeworld liminal among silences. Literarily, 
+nothing philosophically occurs. The result, machinic magatamas of 
+malnourishment and the overly-wrought manifesto, part and parcel of 
+mathematization, mathesis collapsing in mediaspace. Isn't the world 
+menued, microworlds as well, minefields of inconceivable mythological 
+minefields? A moron morphing, its morphs, through ideological 
+multiculturalisms, surely. Nikuko and others were situated in Nakasu- 
+kawabata, nowhere near Nara, closer than the secondary narcissisms of 
+narratology and its neighborhooding neurophysiologies. Because it's there 
+that falsehood resides, from newbies through Nietzsche, from Nijinksy 
+through fucking Nikuko. Nikuko's nostalgias are worldless, absenting 
+objecthood, her oeuvre offline, off offline as well, her ontologies 
+organelles. Nikuko's particulation, call it her _paysage,_ voyeuristic 
+peerings tending towards performativity. The fundamental grounding of the 
+world is periphyton, phantasms, according to any phenomenologist, derive 
+from it. Ghastly playnt of the pneumosphere and its poolings. So the 
+postmodern academics arrive, their terminological postmodernism, post- 
+modernity, whatever, presencing any presentification, according to their 
+notions of prespace and primordials problematized. Worlding problematizes 
+problematizing, also considered protolanguage, the psychoanalytical 
+backdrop to thinging, the psychoanalytics of realspace rearticulation. 
+Nikuko, Julu, Jennifer, their rebirths and regiments - reifications all, 
+their bodies reinscribed - a process in fact of uncanny reinscription - 
+into the releasement of the world. There, everything - rills, rotifera, 
+runnels, the satori of sawgrass, the seamount - in fact the sememe of what 
+circumambulates the natural - linguistically collapses into sememes of the 
+other (all sememes are of the other), the backwards and atavistic field of 
+semiology, as if semiosis always tended towards the configuration of 
+semiotics. We have only sexualities to consider, shakuhachi or shamisen 
+vertical expostulations of the sheffer-stroke, stroked themselves as 
+culture collapses once again into flesh. All sorts of magic prevail - the 
+shimenawa for example, or 'shithead' signifiers of obscenity, simulacra of 
+body-skeining, collapse. Body skeins are soundwork, murmurs and speakings 
+of the world in the face of specicide, stentor and stromatolite for 
+examples. This is the urgency underlying structuralism and subgroupoids, 
+the mathesis of subjectivities, subsonic subtexts just out of hearing. 
+Subtext or subtexted, the world moves from object through process, both 
+united in avatars such as Susan Graham, symbologies of whoredom, in 
+synchronic extension with Nikuko and the 'others.' This is systemics, 
+taxonomies of techne, teledildonics, the filmic mediation of the real 
+which is the real and its teleologies, always a temporality of the subject 
+and its tendrils of the pre-symbolic. Tern biomes on one hand, on that 
+'others,' tessellations, the registry of bodies in thanatopoesis and 
+already fallen tropes. The typifications of unfoldings are all we have - 
+unhinging of language already inconceivably tethered. Avatars bypass 
+valium vicodin, in favor of purified videowork and its virtualities - the 
+VLF (very low frequency) subtext of the world. Think of voiceovers as the 
+remnant of what might be said, waypoints or websites of wetware. The 
+wetwares of willets and other shorebirds - again, varied worldings, forms 
+of wryting themselves into the circumscription here attained, as if I were 
+a yamabushi descendent, moving sullenly, sitting in silence, zazen ...
+
+
+
+
+unun
+
+
+language is always periphery
+bonded to the surface of a shell's extremity
+it's that residue that grants our speech a modicum of efficacy
+the efficacious is the real (nyaya)
+
+my writing collapses into substance
+it fills the gaps or holes in the shell (the pores)
+it's everywhere, stuffing, useless, not even uselessness
+it survives perhaps as the residue of capital
+
+the residue of capital is dependent upon the hardness of materials
+- and their efficacy
+hardness = databanks = memory (of a retrievable sort)
+you are nowhere, purposeless data
+
+we can only speak because no one listens (there is no listening)
+listening would transform the very nature of the chemical elements
+that can't be allowed to happen (it can't happen)
+- it can't happen because of the very nature of the world
+
+world, work, and words, perhaps wor/ld/k/d 
+worldkd labor of building language, slough of language
+this doesn't describe anything, this doesn't describe nothing
+high temperatures, high pressures, new forms of matter
+
+mattered scattered among the incipient virtual energy of space
+creatures exist among themselves on the other side of dark matter
+- for which we are dark matter, they are omniscient, they peer
+- we're here, they're there, they peer
+
+they know we don't use language, don't speak, don't listen
+- symbolic meaningless surfaces, semiosis doesn't cut anything
+- not even action, not the moment
+our meaninglessness surfaces among them, they ignore semiosis
+
+allowing nothing in the form of speech
+allowing nothing in the formlessness of speech
+allowing everything in the form of speech
+= allowing everything in the formlessness of speech
+
+unun the darkened matter for which we are the children of light
+unun for brilliant matter for which we are the children of darkness
+= our shell and our holding on with the materiality of words
+= words were never there, we're our shell, holding on (night)
+
+unun
+
+
+
+Actions, what there is
+
+
+Bhasha Pariccheda, Division of the Categories of the Nya'ya Philosophy - 
+Roeg translation 1847-50, there's this:
+
+"There are five actions, throwing upwards, throwing downwards, contract- 
+ing, expanding and going. 
+Wandering about, evacuating, trickling, flaming upwards, moving crookedly, 
+are included in going."
+
+Actions are externally vectored, or internally transformed (torsion, 
+tensor calculus). Vectors require gravitation, i.e. 'upwards' and 'down- 
+wards' conditioned by that which is capable of contraction, expansion. 
+Actions are situated, coherent with earth's inhabitation.
+
+Within 'going,' 'wandering about' configures only the neutrality of move- 
+ment; the same is true with 'moving crookedly.' 'Flaming upwards' implies 
+an external vector. 'Wandering about' and 'moving crookedly' imply no such 
+thing, neither foundation nor embedding space; one may wander nowhere, 
+move crookedly in relation to one's presence, an interiority related to 
+intrinsic surface measurement.
+
+'Trickling' and 'evacuating' reference abject expulsion; they countenance 
+both interior and exterior, compression or collapse of the former, and the 
+turbulent spew or emission of the latter - which is inherently vectorless 
+- instead a fuzzy open set, topological suppuration.
+
+These categories, all of them, meld into one another - interior is the 
+complement, however fuzzy, penetrated, incoherent, of exterior; trickling 
+is ingestion, evacuation is impulsion. The world roils. There are 'five 
+actions,' actions within inactions, inactions within actions, inhering 
+incoherency of roiling. Action = eternal movement = breath. Organism is 
+central to worlding, worlding is central to organism.
+
+
+
+slide.rule
+
+
+the slide-rule processes nothing; there are no processes.
+there are procedures.
+the calculator processes everything; there are filters.
+
+this is a fundamental distinction.
+an abacus processes nothing. 
+it is not the distinction between analog and digital.
+
+it is the distinction between interior and exterior.
+the keyboard of a calculator or computer mediates processes
+and protocols.
+the beads of an abacus remain in situ. a slide-rule remains in situ.
+
+observe the abacus or slide-rule. the results are steady-state.
+the results are gained solely by human labor, i.e. movement of the
+beads or slide.
+
+the calculator uses an energy source, for example battery or solar
+power. a wind-up calculator stores energy. a calculator regulates
+its stored energy.
+
+the stored energy is controlled much like the escapement of a clock.
+the stored energy implements the unobserved steps or procedures
+tending towards a visible solution.
+even if every step were accounted for, for example listed in real
+time in a debugging program - the steps are unobserved.
+only signifiers, mediators, are observed.
+
+the ontology of the slide-rule however may be compared to the
+epistemology of the abacus or calculator.
+the abacus founders on ontology and the real.
+the calculator founders on ontology, the slide-rule on epistemology.
+the real is of the real. 
+
+the digital must be manifest, within the analogic. the analogic
+is present. the ruptures of the abacus are problematized by the 
+fuzzy movement of the beads. an electronic abacus, a digital abacus
+in other words, is internalized.
+
+this is the secret of the digital: its internalization is that of 
+the body; its operations are literally neural, and its protocols
+are the shape-riding of synaptic signals.
+
+the digital has a life of its own; the analogic is inert, and in this
+sense, even the analogic body is inert.
+life is always the life of others. 
+
+ii
+
+we look at the slide-rule or abacus. we watch the computer screen.
+we say 'look at this'; however if we are responsible, we say
+'watch this.' we see a film, but watch television. 
+
+however we look at the computer screen. we look at symptoms, 'look
+what's happening here.' we watched a film last night. did you see
+that show on television? look, see, watch - however, with the abacus
+or slide-rule, with the real, we look.
+
+why should we watch the slide-rule? it's not doing anything.
+watch what i can do with it. watch the carry-over of the abacus
+beads.
+
+we wait with expectation. i wait without expectation.
+the slide-rule waits for nothing, does not wait.
+the computer may be in standby or hibernation. 
+the computer or calculator is the filtering and mediation of
+potential energy.
+the computer and calculator possess kinetic energy in the carrying-
+out, performance, of their duties. they are assigned duties. the
+assignments are flexible, flex-work.
+the slide-rule and abacus do not possess kinetic energy. or rather:
+they do not possess internal kinetic energy. for example, a stone
+may fall; a stone is.
+
+of course energy may be reassigned, as may waiting, looking, seeing,
+watching, interior and exterior. there may or may not be an observer.
+huang-po may have been such an observer.
+
+
+
+Dimensional Collapse
+
+
+Dimensional collapse might be an example of the imprecision of phenomena
+in relation to any given grid. Here one might have analog -> digital (i.e. 
+mapping) -> dimensional collapse.
+
+In relation to analog/digital phenomenology: look at collapse; at border- 
+line phenomena; at rastered 'infinities'; at the phenomenology of observa- 
+tion itself; infinitesimals; particle decay; at Thom's catastrophe theory; 
+at cellular re: Wolfram; and so forth.
+
+Somewhere in all of this there are hints of sudden collapse that predate 
+the universe.
+
+Perhaps a hint that the analog is an extrusion, just as Aristotelian 
+distributivity is an intrusion in relation to gestural (non-Booelan) 
+logics.
+
+Perhaps the primordial surrounds us; our prsent; the universe begins in 
+the synchronic, pre/chaotic extension; having always already begun; having 
+always already ended.
+
+Issues: My own ignorance in relation to the _practical limits of calcula- 
+tion._ One can easily, for example, multiply a 1000-digit number by 2; 
+it's only a question of limited rules (i.e. 2 x 8 = 6 + carry). Machines 
+can handle 2 1000-digit numbers multiplied, etc. Pi can be calculated, 
+presumably indefinitely. On the other hand, take sin(tan(x)) as x 
+approaches 90 degrees; sooner or later the calculation breaks down, and 
+'jumps' are observed. Re: fractal programs - continuous enlargment stops 
+as a result of what? Calculation limits? Graphics/raster limits? Is the 
+stoppage _inherent_ in the technology, regardless of interface, or is it a 
+byproduct of interface as much as anything else?
+
+My stupidity of course gets the better of this...
+
+
+
+mesmeric beacon
+
+The digital promises eternity and implosion simultaneously. As the world 
+rolls on, the archive, dependent on a technological present, momentarily 
+survives. In a decade, our words will be forever lost; in a century, the 
+writers from the red dust return to the same. Our world is burning, our 
+digital mission evanescent. We endure, adapt ourselves to fast-forward 
+technological innovation, hope for the best; we shall never see the end of 
+it. I work with this in mind, as if each piece is my last. My work expands 
+across sensory modalities, temporary membranes of personal and inconeiv- 
+able wonder. 
+
+
+
+
+
+Writing in the airport, alarm, flashing lights.
+
+
+What happens in relation to language and codework vis-a-vis glossolalia? 
+mantra?
+
+In mantra, language is performative by virtue of repetition; in glossso- 
+lalia, language is excess and testimony. Both are dependent on the aural 
+register; mantra is steered through texts as well.
+
+In both, sound is empathetic within and without the imminency of the 
+world. In both, the performance of natural language is negated, 'nonsense' 
+words on the edge of interpretation.
+
+The mantra appears unconstructed, present and presencing: 'So much for the 
+believer's explanation of the origin of _mantra_ - its construction as a 
+verbal sound cannot interest him; on the contrary, he must deny the very 
+possibility of its having been "constructed" at any time - for being 
+eternal and only revealed in time, "construction" is precluded.' (Bharati)
+Glossolalia likewise is unconstructed, albeit susceptible to linguistico- 
+archaeological renderings of ancient or at least ulterior fragmentary 
+texts.
+
+If code is the asymptotic well-formed performative language, codework is 
+the deconstruction of that language within or corroding by or corroding 
+natural language. If code is entirely construct, codework is the splay of 
+mantra-glossolalia across its semantics. Codework has an uncanny relation- 
+ship with language and code; its sound is always distanced, almost 
+inaudible. Do not _think_ (of a) mantra; do not _think_ glossolalia. This 
+preclusion of thought is the preclusion of ration, rationality - in other 
+words conventional syntax. When syntax is cleared, the aural field 
+emerges.
+
+This tendency towards the uncanny is also found in codework's relation to 
+the semantic or referential field. Codework threatens its own referents 
+_qua_ referents; in this respect it is liminal, although liminal _among_ 
+what? - is part of its (fluid) content. 
+
+Alarms are going off in the airport. There are flashing lights.
+
+In Echolalias, Heller-Roazen describes Trubetskoi's analysis of interjec- 
+tions; Trubetskoi pointed out that the interjective phoneme set contains 
+numerous sounds not found within the standardized language. In English for 
+example, grrr, hmmm, brrr, the glottal stop in uh-oh, etc. Might one 
+consider this real world interference, code abandoning normative phonemic 
+structures? Code is related to the _cry of pain,_ the inability to retain 
+meaning in the face of it, Levinasian alterity consumed in the Deleuzian 
+pli short-circuiting the body. For that matter, Levinas' Existence and 
+Existents describes insomnia's relation to decathecting, being, if I'm not 
+mistaken. Code ruptures, loosens meaning; it might be language wounded, 
+language not on its own, returned to the bodies that produced 'it.'
+
+
+Echolalias, On the Forgetting of Language, Daniel Heller-Roazen, Zone, 
+2005 and The Tantric Tradition, Agehananda Bharati, The Tantric Tradition, 
+Anchor, 1970
+
+
+
+
+
+Chicago performance text
+
+
+[PROEM:] COLLAPSE / hard to write when country collapses / when we are now 
+IMPERIUM / the digital is at the margins of the analog / the digital is 
+always already a construct / we are constructing at the margins of 
+violence / analog = substance / (i always have good ways of starting and 
+then everything falls apart) / falls apart = analog / [HERE I BEGIN THE 
+PERFORMANCE:. NO one understands the digital / we assume we understand the 
+term. we use it to reference perhaps.... the construct of a cd or cdrom or 
+dvd or any digital file which begs the question - certainly there's 
+something to be said for the presence of a POTENTIAL WELL - in other 
+words, for 01010010101000111 etc. to make any sense at all, the entire 
+stream must be first of all PROTECTED and second of all subjected to 
+checksums - i.e. verified. but this is all technology... in fact it is 
+similar technology that references subterfuge, the cipher, the war- 
+machine, the industrial revolution. anything that can be subdued or placed 
+within a yes no YES NO situation - that is, can be forced into at the 
+limit one of two possibilities, whatever they are - this is what happens 
+with the WAVE EQUARTION i think that is when schroding cat enters into an 
+anomalous state unitl the moment it's observed, forced into life/death - 
+what are the implications? it's the analog forced into the digital through 
+the construct of the observer. this is at the heart of things; on the 
+level ofthe social, it connects obviously to Foucault's panopticon seeing 
+everything - what is it seeing? if it was in say Iowa it might have seen 
+the nineteenth century revolving jail which is still there, no longer 
+functioning - two people holding over a hundred prisoners in a lazy-susan 
+machine three stories high. if it was - sorry, "if it were" in the united 
+state, it would be, it would have been, perhaps the locus of the WMD in 
+the Iraq war - what constitutes a weapon? how many have to die for mass 
+destruction? don't forget we've already killed about 160000 Iraqi - but it 
+doesn't matter, they're not on the news; there are no longer bodies, and 
+what I'm pointing out is already or always already useless, known before . 
+"a respomnse to war" - the bodies blown apart - oiringally created using 
+motion capture equipement - modified - they're no longer coherent - 
+DIGITAL - by the way do you know that wind machines - electrical 
+generators - tend to kill tens of thousand of migrating birds? another 
+true fact! more of thesame, some of you might already have seen these, for 
+which apologies - if you can't have beauty in the symmetry of the digital, 
+where can you have it? i'm trying nit to blow the speakers... on the other 
+hand, perhaps that would give ... some indication .. of the fact which 
+still bothers me that here we are in a safe american hotel whereas. - the 
+jordanians, the chinese, are in the news again - what's thar you/re 
+hearing? vlf radio results in antennas that can SOMETIMES ACT AS 
+MICROPHONES by cojpling coupling with other organic beings in the vicinity 
+- here a woman is stomping and changing the ELECTRRICAL characteristics of 
+the ground in the vicinity of the antenna - if this gets any louder I'll 
+go BLIND - these are the locations on a trip a few months ago - where the 
+antennas tended to work - where it was possible to get away form the 
+TECHNOLOGICLA POWER GRID - any 60 cycle wire in the vicinity interferens 
+with the natural world - what you're hearing is the natural world as a 
+result of things being... taken as far as possible, away from everything 
+else - it all occurs w/in the realm of relative violence - just as the 
+digital is always already violence, cutting into the analog, bassed on 
+decision someone or somewhat something is making - it remains without this 
+tendency by itself - it's the cutting that does it - the obvserver in the 
+schordinger case for example or the observers in Baghdad - that's what it 
+is - it's like a car crash - this is a danger curve - there are 
+archaeological remnants, paints, scratches, rubber trails, scars in the 
+concrete - the site of a huge number of accidents in the viciinity of los 
+angeles - my choreographer and I are discussing the latest "new moves" for 
+his dance companyh in GENEVA - none of this stuff is worht more than a 
+MOMENT's NOTICE. i'm always jealous of AREAL ARTISTS who make things that 
+CHANGE THE WORLD - big PAINTINGS or INSTALLATIONS - they're just THERE - 
+this stuff is all on the INTERNET - close your eyes and I'll have taken it 
+down - I don't have room for everything - sooner or later - when I'm gone 
+thank God - it will all disappear - tehre's no room for anything else - ok 
+this is ROBERT FANNING's kid in Morgantown West Virginia - he's the only 
+kid I know who can do this - it's a pretty good break - I think it was a 
+bit disturbing to the family - who knows? - I'm running out of 
+steam/stream - I'm old, I don't know how old I am, I kind of forget what 
+I'm doing here - it's like dusk - stuff growing darker - if this were a 
+performance I'd say - now this is the endof things COMING FROM AN AMERICAN 
+HOTEL I DARE YOU BAD PEOPLE TO BOMBOMB US I REALLY DARE YOU WER'RE THE 
+VILLLAINS HERE YOU KNOW THAT COME AND GET YOU No sorry that's COME AND GET 
+US YOU DIRTY PEOPLE WE"RE WAITING WE're The embe sorry MEMBERS of the SLA 
+Symbionese Liberation Society for Literature and thye Arts Front, signed 
+Patty hearst, but I'm not doing a performance so I'm not sure how long 
+I've gone for but I'll stop -= thankyou
+
+[NOTE: I wasn't satisifed, I rarely am, with the performance, but the text 
+- improvised of course in real time in dialog with video clips chosen in 
+real time - seems ok.]
+
+
+Missive from 
+
+
+This missive, having once been written and already destined for /dev/null, 
+is written, once again, reinforcing the direction of the original, that 
+the Net, our Net, as we know it, or as it is own, is not only ephemeral, 
+but that our communality, communitas, so dependent upon it, might well 
+disappear - replaced only as dreams, of alterities in other places, 
+likewise dreamed. What might be cauterized, what finality, is nothing less 
+than our own interiority: limbs become phantom limbs, voices become 
+phantom voices, and the social matrix itself becomes figurative ectoplasm. 
+Not only is this a real possibility; it is fundamental that our ordered 
+socius tends towards the disorderly - addresses and url will disappear, 
+permanently, and that communicable touch we take for grant will turn 
+towards a state of unacknowledged, because uncommunicated, mourning. This 
+may happen tonight; it may happen tomorrow; or a century from now - but it 
+will happen. And with this happening, technology reverts as well towards 
+the hyper-personal - out of touch with anything but those loops of 
+secondary narcissism that carry, first and foremost, the effluvia of 
+identity - the rest is nothing but cultural superstructure, dependent on 
+capital, which may have collapsed as well. Or not collapsed - capital 
+never collapses - but turned local, regional - a xenophobic capital like 
+homeowner's associations, owing nothing anywhere - no international debt 
+for example, which is alterity raised to an incandescent degree.
+
+Equivalence, that primordial condition of the duplicated file, breaks: all 
+typifications, standardizations, disappear, and no textual instantiation 
+may be compared to any other. The condition is diasporic; only the 
+diachronic remains as re/constructed memory, synchrony itself such a 
+memory, useless, uncanny, the materiality of dreams, the dreamwork.
+
+This will happen. All of this will happen. On one hand we witness again 
+and again the fragility of the material-real, which is both inert and 
+always already unique; on the other, equivalence and the Net are destined 
+to cease as processes, becoming nothing than other disconnected, scattered 
+artifacts. We should prepare for this. We should recognize this future as 
+certain and (in)coherent within our present own. We shall not own it. We 
+shall not recognize 'own.'
+
+ of
+
+    the Italian Renaissance, especially the Florentine 
+
+ the Italian Renaissance, especially the Florentine 
+ the Italian Renaissance, especially the Florentine 
+
+
+
+   programs I developed my confused fumblings with knot theory programs I 
+developed
+
+ my confused fumblings with knot theory  my
+ my confused fumblings with knot theory 
+ my
+ my
+
+   self-hatreds and their ten realistic justifications self-hatreds and 
+their
+
+ten realistic justifications  Vito Acconci
+ten realistic justifications 
+ Vito Acconci
+ Vito Acconci
+
+   and Kathy Acker Rosemarie Mayer and Laurie Anderson and Kathy Acker
+
+ Rosemarie Mayer and Laurie Anderson  my
+ Rosemarie Mayer and Laurie Anderson 
+    Anglo-Saxon riddles and Bede's history and work on the Tabernacle
+
+ all  Dostoevsky and most  Dostoevsky and most 
+ Dostoevsky and most 
+
+
+ Dogen and the times  the coming  the coming 
+ the coming 
+
+
+ Ethnology  my
+ Ethnology 
+ my difficulty  recognition  various
+
+ recognition  various
+   difficulty 
+ various
+ laughter 
+
+   Irigaray and the open door the chora and fluid mechanics Irigaray and 
+the open door
+
+
+ the chora and fluid mechanics  guitars
+ the chora and fluid mechanics 
+ guitars
+ guitars
+
+   and sitars and mrdangam and my recordings the movement and sitars and 
+mrdangam and my recordings
+
+ the movement  my hands
+ the movement 
+ my hands
+ my hands
+
+
+ film and video cameras and the transformation  mechanism to the
+ film and video cameras and the transformation 
+ mechanism to the
+ mechanism to the
+
+   internalized world  electronics    internalized world 
+ electronics  the Everglades and their
+ electronics 
+ the Everglades and their
+ the Everglades and their
+
+
+   miraculous panoply  flora and fauna    miraculous panoply 
+ flora and fauna  rare species and our delight
+ flora and fauna 
+ rare species and our delight
+ rare species and our delight
+
+   at seeing them for the very first time new species at seeing them for 
+the very first time
+
+
+ new species  the people I
+ new species 
+ the people I
+ the people I
+
+   have hurt and my inability to make amends the theory have hurt and my 
+inability to make amends
+
+
+ the theory  the abacus
+ the theory 
+ the abacus
+ the abacus
+
+   and the variety  historical and prehistoric abaci    and the variety 
+
+ historical and prehistoric abaci  the community
+ historical and prehistoric abaci 
+ the community
+ the community
+
+ the
+ the
+
+   tendencies  my wor    tendencies 
+ my wor  the micrscope and the interiorities made
+ my wor 
+ the micrscope and the interiorities made
+ the micrscope and the interiorities made
+
+
+   worlds to me my inability to seek or attain salvation worlds to me
+ my inability to seek or attain salvation  the world
+ my inability to seek or attain salvation 
+ the world
+ the world
+
+
+ books and my loss within them and losing myself within them 
+ books and my loss within them and losing myself within them 
+   Azure and her love me which I will never understand Azure and her love
+ me which I will never understand  my family
+ me which I will never understand 
+ my family
+ my family
+
+ whom I have cut f forever  my
+
+f forever  my
+   some 
+
+
+
+ hello world
+ 
+
+  application lesson the   
+ application lesson the   applet which 
+ application lesson the  
+ applet which 
+ applet which 
+
+  application lesson the 
+
+ applet which 
+ 
+ applet which 
+ 
+   laughing meme tradition says 
+  
+ laughing meme tradition says 
+ laughing meme tradition says 
+
+ laughing meme tradition says 
+ 
+ laughing meme tradition says 
+ 
+ so what is your second app  !
+ so what is your second app  
+!
+!
+
+!
+ 
+!
+ 
+ see  ! displayed on 
+ see  
+! displayed on 
+! displayed on 
+
+! displayed on 
+ 
+! displayed on 
+ 
+ applet which 
+ 
+ js componentn this   
+ js componentn this  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ in phython   in phython 
+ in phython 
+
+ in phython 
+
+! also an infinite 
+! also an infinite 
+
+! also an infinite 
+ 
+! also an infinite 
+ 
+! systemoutprintln ! } } mainstring[] args { ! } } mainstring[] args { 
+! } } mainstring[] args { ! systemoutprintln
+! systemoutprintln
+
+! systemoutprintln
+mainstring[] args { 
+! } }   
+! } }  
+ programs collection of trac   programs stood 
+ programs collection of trac  
+ programs stood 
+ programs stood 
+
+ programs stood 
+ 
+ programs stood 
+ 
+ edapplet lesson the   applet by following the steps 
+ edapplet lesson the  
+ applet by following the steps 
+ applet by following the steps 
+
+ applet by following the steps 
+ 
+ applet by following the steps 
+ 
+ so go for all my loyal readers never fear   is not 
+ so go for all my loyal readers never fear  
+ is not 
+ is not 
+
+ is not 
+ 
+ is not 
+ 
+jscomponentwin man's   javascript component   javascript component  
+ javascript component   javascript component 
+ javascript component 
+
+ javascript component 
+
+ javascript component   in gtk n gnomegtk 
+ in gtk n gnomegtk  javascript component 
+
+n gnomegtk  javascript component 
+
+n gnomegtk  there 
+n gnomegtk  there 
+
+n gnomegtk 
+n gnomegtk 
+
+ with jpspan sajax  
+ with jpspan sajax 
+ applet named java in the html extends 
+ applet named 
+java in the html extends 
+java in the html extends 
+
+java in the html extends 
+
+java in the html extends 
+
+ application should see  ! displayed 
+ application should see  
+! displayed 
+! displayed 
+
+! displayed 
+ 
+! displayed 
+ 
+ applet which 
+ 
+travelsinvirtualityjpg travels in virtuality   java 
+travelsinvirtualityjpg travels in virtuality  
+ java 
+ java 
+
+ java 
+ 
+ java 
+ 
+ program lets you learn and running the   
+ program lets you learn and running the  
+ app dm new dynamicmethod typeofvoid new type[] {} 
+ app dm new dynamicmethod
+ typeofvoid new type[] {} 
+ typeofvoid new type[] {} 
+
+ typeofvoid new type[] {} 
+
+ typeofvoid new type[] {} 
+
+ document  by demonstrate 
+ document 
+ by demonstrate 
+ by demonstrate 
+
+ by demonstrate 
+
+ by demonstrate 
+
+ the kernel j!nx computer baby creeper   baby 
+ the kernel j!nx computer baby creeper  
+ baby 
+ baby 
+
+ baby 
+ 
+ baby 
+ 
+ program main { printf n } this program 
+ program main { printf 
+n } this program 
+n } this program 
+
+n } this program 
+ 
+n } this program 
+ 
+! came down to how would you write ' ' in qt 
+! came down to how would you write ' 
+' in qt 
+' in qt 
+
+' in qt 
+ 
+' in qt 
+ 
+ tutorial ! itemid 
+ tutorial 
+! itemid 
+! itemid 
+
+! itemid 
+
+! itemid 
+
+ see you in germany football sport year   programs 
+ see you in germany football sport year  
+ programs 
+ programs 
+
+ programs 
+ 
+ programs 
+ 
+'   program  program 
+ program ! 
+! 
+
+! 
+ 
+ with application { consoleprintln ! tutorial 
+ with application { consoleprintln 
+! tutorial 
+! tutorial 
+
+! tutorial 
+ 
+! tutorial 
+ 
+ application author atozed  and   and   and 
+  and  
+ 
+
+ getting personal system   homebrewing 
+ getting personal system  
+ homebrewing 
+ homebrewing 
+
+ homebrewing 
+ 
+ homebrewing 
+ 
+ baby 
+ 
+! } } directoryacetonedata  peswiki 
+! } } directoryacetonedata 
+ peswiki 
+ peswiki 
+
+ peswiki 
+ 
+ peswiki 
+ 
+artists liberating your art part   the artists liberating your art part  
+ the  kempacom artists liberating your art part 
+ the 
+ kempacom artists liberating your art part 
+ kempacom artists liberating your art part 
+
+ kempacom  
+ kempacom  
+
+ kempacom 
+ kempacom 
+
+ servlet resinservlettutorial
+
+ 
+
+
+
+
+
+
+
+
+ gallery  ! is such a simple program how not 
+ gallery  
+! is such a simple program how not 
+! is such a simple program how not 
+
+! is such a simple program how not 
+ 
+! is such a simple program how not 
+ 
+
+
+ main { printf n } usually it does not work the first 
+ main { printf 
+n } usually it does not work the first 
+n } usually it does not work the first 
+
+n } usually it does not work the first 
+ 
+n } usually it does not work the first 
+ 
+
+
+!   application edapplication you 
+!  
+ application edapplication you 
+ application edapplication you 
+
+ application edapplication you 
+ 
+ application edapplication you 
+ 
+
+
+! the basic programming language   description 
+! the basic programming language  
+ description 
+ description 
+
+ description 
+ 
+ description 
+ 
+
+
+ infinitely print  ! 
+ infinitely print  
+
+
+ plugin need to create a simple ' ' eclipse in 
+ plugin need to create a simple ' 
+' eclipse in 
+' eclipse in 
+
+' eclipse in 
+ 
+' eclipse in 
+ 
+
+
+serverc a   server
+serverc a  
+ server
+ server
+
+ server
+ 
+ server
+ 
+
+
+
+
+
+
+ you will need c# compiler   what
+ you will need c# compiler  
+ what
+ what
+
+ what
+ 
+ what
+ 
+
+
+! a new beginning   
+! a new beginning  
+
+
+ example   one of 
+ example  
+ one of 
+ one of 
+
+ one of 
+ 
+ one of 
+ 
+
+
+ server developing the   server this lesson 
+ server developing the  
+ server this lesson 
+ server this lesson 
+
+ server this lesson 
+ 
+ server this lesson 
+ 
+
+
+ style app generation of gtk mono drawing 
+ style app generation of gtk
+ mono drawing 
+ mono drawing 
+
+ mono drawing 
+
+ mono drawing 
+
+
+
+! simple example it contains only the bare  example it contains only the 
+bare example it contains only the bare ! simple 
+! simple 
+
+! simple 
+
+ example it contains only the bare  ! 
+ example it contains only the bare  
+ example brings up the words   moving up and down 
+ example brings up the words  
+ moving up and down 
+ moving up and down 
+
+ moving up and down 
+ 
+ moving up and down 
+ 
+
+
+ see you in year helpmambo   the 
+ see you in year helpmambo  
+ the 
+ the 
+
+ the 
+ 
+ the 
+ 
+
+
+
+
+ devnull & echo  ! exit this program 
+ devnull & echo  
+! exit this program 
+! exit this program 
+
+! exit this program 
+ 
+! exit this program 
+ 
+
+
+ tells the story   has two tiers language   has two tiers language  
+ has two tiers language   has two tiers language 
+ has two tiers language 
+
+ has two tiers language 
+ 
+
+
+
+
+
+
+c a   example in which a 
+c a  
+ example in which a 
+ example in which a 
+
+ example in which a 
+ 
+ example in which a 
+ 
+
+
+c privatequeuec a c a 
+c a c a 
+c a 
+
+c a 
+
+
+
+28 statements
+
+0]+
+ { print "the analog aligns with substance" }
+
+a]+
+ digital is based on epistemology and uniformity" 
+
+b]+
+ always already a mapping" 
+
+c]+
+ mapping analogy" 
+
+d]+
+ doubly-encoded" 
+
+e]+
+ real infinite raster" 
+
+f]+
+ "form extruded 
+
+g]+
+ integral calculus inheres within the analog" 
+
+h]+
+ differential digital" 
+
+i]+
+ signature analogous to body" 
+
+j]+
+ "type writing" 
+
+k]+
+ "inscribe in stone matrix" 
+
+l]+
+ chiasmus at limit" 
+
+m]+
+ "noise parasitic enveloping 
+
+n]+
+ simultaneously eternal ephemeral" 
+
+o]+
+ "technology substructure of 
+
+p]+
+ technological temporally splays leaks" 
+
+q]+
+ "from substance from 
+
+r]+
+ atemporal time analogical" 
+
+s]+
+ "a sentence through every sentence" 
+
+t]+
+ world world" 
+
+u]+
+ "fluid mechanics 
+
+v]+
+ constructible" 
+
+w]+
+ "what occurs 
+
+x]+
+ "fundamental particles biological neurons" 
+
+y]+
+ "digital levels homeostatic entities" 
+
+z]+
+ "material through" 
+
+^$
+ "analog digital, 
+
+
+
+
+Abacus: The Pale
+
+
+The abacus is generally divided into two sections - above and below the 
+line. Below, each bead or token represents one unit. above, each token 
+represents five units. Consider the units above indexical: the _position_ 
+of the token represents either naught or five. But the units below are 
+doubly coded: as ikonic, they not only represent one; they _are_ one. But 
+in terms of position, the one is counted and accountable, or uncounted and 
+unaccountable. Think on that.
+
+
+text from Miami University (Ohio) performance tonight:
+
+Once We begin we march to our deaths yes yes we do or or do we do we march 
+to our death? Is our death collective? Universal? One or many? I'm sorry 
+I'm much better at sound than visual. No wait I meant to say much better 
+at ... not at writing ... I'm much better "not at writing." Wait, you have 
+to see this. But I'm not so good "at thinking." How does one do something 
+"at" writing or something "at" thinking? Excuse me, I'm cold; my clothes 
+are lost in a suitcase somewhere outside Chicago.You're early, we're 
+running tests here, although the performance won't be all that different. 
+If you look for about ten minutes you'll have had enough and then you can 
+leave and make room for the lines of people outside. Signed, "Henry 
+Potter." "Man tries to climb so high and then He falls and falls ALAS" 
+"Man likes to fire off his Thing ALAS" This is me playing a waltz. That 
+was me stopping a waltz. This is Anja Schmidt. This is me and Sandy 
+Baldwin discussing the phenomenological distinction between "analog and 
+digital." This is me and Sandy Baldwin flying through the air across the 
+river in New Jersey (from New York). "We can fly." I should tell you the 
+performance won't be any different from what you're seeing now, honestly. 
+I might be a bit more nervous, that's all. Graphics are graphics. Well, 
+anyway these were done around the time of the scandal over the Abu Gharayb 
+prison in Iraq. And some of the guards involved in that, they were from 
+West Virginia. And this was produced near the area where the guards, some 
+of them, were from. So it was natural for me to work with disturbed, torn 
+bodies - here's another one - you might have already seen this last night 
+- I'm supposed to start in six minutes but this is only forty seconds 
+long! I've used up all my material! FUCK! Maybe you'd like to hear a kid 
+screaming. This kid from West Virginia can do this! I can't. I don't know 
+how he does it. His family "doesn't encourage him." You just can't get 
+enough of screaming kids! Think positive, think MARTHA STEWART! (Have you 
+seen Wednesday's The Apprentice? I had to show this stuff instead. I don't 
+know who got kicked off. Pleas see me later and letme know.) - on the 
+right, one of the major scenes of car wrecks in Orange County California. 
+That curve sneaks up on you! Ok, me, age fourteen. I knew a girl. I "fell" 
+for her. More of the West Virginia work. Somewhere between avatars and 
+shamans and the torture at Abu Gharayb there lies a whole politics. I 
+can't tell you the politicxs "but I can tell you this/" These figures were 
+animated by using motion graphics - a motion graphic device - by messing 
+with the mapping of the sensors that are placed on the body - rearranging 
+them - just as figures are rearranged in torture - just as torture (and 
+Merce Cunningham for another example) pays little attention to the natural 
+attitudes of the body. So the body - with the motion sensor stuff - was 
+divided and splayed and redivied and the result is a remapping back on to 
+bodies that makes little sense but for a kind of emotional economy.... 
+(TURN AWAY YOU MIGHT NOT WANT TO SEE THIS BLUSH!) Instead of being 
+introduced, think of this as an introduction: MY NAME IS ALAN SONDHEIM AND 
+I AM NOT ON MY 
+MEDICATION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!WWELL, hmm, that's 
+enough of that... See, what happened, my baggage was lost by American 
+Airlines (PLEASE KILL AMERICAN AIRLINES BURN THEM IN HELL 
+HAHAHAHHAHAHHAHHHHHHHHHHHZ) and so I'm working without my 
+PLENIPOTENTIARIES - part of what I'm doing, trying to control these images 
+- so they make some sort of sense - at times they seem to take over, take 
+control - I'm wll aware of the sexuality/politics of the images, I'm not 
+imagining things...I'm spoiling things, this is the grand finale and it's 
+hardly just started. Terrific, so much stuff to look at. I'll try and tell 
+yo what's here - the antenna movie in the upper left - searching for 
+places to set up low frequency radio antennas - they need to be away from 
+civilization - in the wilderness away from power lines - the recordings 
+you're hearing are fromm the radio somewhat modified - then the category 
+of natural/industrial - two films going through my images trying to find 
+those which fit (I think ) into oene or another - I've got two naturals 
+running, gotta tkae one out - Let's listen to the kids. Okay it's like 
+this, THE KIDS ARE OUR FUTURE> (hell, that's not me , that's the 
+medications talking!) - well .... This is my partner and me being a happy 
+family in Santa Ana Clifornia on a residency program going about our 
+business and singging and dancing like any happy family there's also 
+simulated sex of course but that's , ow I don't want to inerryot tg HELL 
+interrupt the bowing...
+Ok picture this... it's three in the morning and there's a huge explosin 
+outside our loft in brooklyn and G comes runnin and in and says the water 
+mains blown and sure enoughs o so we run out and watched it fill sthe 
+subway and tear the street apart. Some of you saw this last night BUT NOT 
+THE WHOLE THING.
+well I'll dsappoint you again. This is all my work forthe past twelve 
+years. Richard Nixon put it beest "When the tough get going the good get 
+tough." Well, that's easy for me to say. What amazes me about the United 
+States at this point in time - is how the social safety net has been 
+totallyeliminated in the four or five years of the Bush administration. In 
+NY where we live (Brooklyn) there are suddenly dozens of homeless people 
+and the soup kitchens are overflowing and no one is giving to those 
+charities because the war in Iraq and Katrina absorbed the funds. So 
+anyway In Huntington beach california, there was this fourth of july 
+parade. and it was like the parades in the Soviet Union in the fities and 
+sixties, goose-stepping kids, lots of armor, lots of salutes to the 
+military - at least for me - i lived through too much of that periiod - it 
+was frightening - and it was all for the sake of oil - Huntington Beach 
+was at one point one of the largest producers of oil in the US - and these 
+grasshoppers - this oil rigs - carrry american flags on it as if it makes 
+everything all right - in Salt Lake City, dusk settles in, turns to night, 
+the landscape is fairly devoured within the city limits, there's a short 
+path, "nature path" through it, the Jordan River, it turned night there 
+-we saw a couple of foxes that managed to survive . these were dreams and 
+nightmares of figures and it took about two hours to make this - no this 
+one took an hour I KNEW WHAT I WAS DOING (said GOD).normally at this point 
+I'd BE ON A ROOLLL and everything would be working perfectly hin harmony 
+that is, but now already things are a bit out of control. here's a bunch 
+of films all at once - can you tell which is moving? If you were seeing 
+this in a theater and it was a harry potter movie, you can be sure 
+soething really remarkably dramatic would b e going on. So hmmm... I'm not 
+sure how to deal with this - I think the figure on the right HAS 
+DIPTHERIA. Just watch. The woman above - hmmm.... she's got CHOLERA and is 
+writing (heh what a misprint) wrything writhing in her last moments of 
+life. Oh god I just looked to my right ALL OF YOU ARE STILL HERE... fuck, 
+I didn't think so many had come . If you arrived in the last three or four 
+minutes, you're lucky, you'll think this is all NEW. So you don't have to 
+see the DUMP MOVIE again, how idiotic! God I could just watch myself on 
+the screen forever and ever. Back to politics. The next video was shot on 
+the grunds of the World Trade Center and the soundtrack is modified from 
+WIFI signals in the area. Hold onto your hats! THIS I could WATCH FOREVER 
+- this is the inside of my brain..... Is there a doctor in the house 
+(doctor = sysadmin). At night, for exaple the night before last, I dreamed 
+of bodies like these. And this afternoon I was napping and I dreamed of an 
+explosion inside the equipment, that is, inside the euqipmetn, the digital 
+equipment, that I was using to make these images. And the explosion 
+happened inside me and the explosion destroyed me and all that was left 
+were these images but you needed to understand the protocols to make sense 
+of the images and maybe you didn't know the protocols or the protocols 
+were absent ... So if they were absent, you'd have these bits and pieces 
+of things, but they'd only be bits and pieces of flesh or something like 
+flesh - the secret codes - that make things move - these codes would be 
+gone they'd be gone gone they'd be gone machines - there'd be nothing left 
+- you wouldn't see the bits of flesh hanging off the avatars - the 
+animations which were nothing more than digital surfaces stapled LITERALLY 
+on human bodies, the screams would be covered up, by --- I really can't 
+think this through any longer, it's all there in the BOOK THE BIBLE.
+At night, as I said, these things mix, they mix with me, they mix with the 
+political and the death of bodies - It seems, I'd think, you could tell 
+with of these figures on the left - which was real. But I'd have you 
+fooled.... men are so stupid... On the right, yet another scene from 
+Harrpy Power... On the left, yet another sceeen from Irak Warrior online. 
+I recognize the hour on hand...
+the hour on hand... this is somewhere somewhere this is... coming towards 
+an end... The idea (according to Schelling - rather the Idea - is that 
+when you play beach volleyball you PLAY WITH SOMEONE. hitting into the 
+voice is a pure act of a very different sort of creation.... I think it's 
+this.. that I'm just fucked up, that I think if I can't do something well 
+at least I can do more of it - and that will make it better. But it just 
+gets preposterous....sometimes you just do this sttuff and it stops
+THANK YOU FOR COMING. There will be some time for questions and answwer s 
+-
+
+_
+
+
+ok, the buddha stuff < my > is running out of steam.
+so what if the real can be turned beautiful?
+can you turn prisoners out of hidden torture camps?
+interesting to watch shattered-usa try to get out of this one.
+we don't torture but whatever we do we protect you.
+buddha disappears into a blur of colors.
+the cpu distorts the reality it creates.
+nothing is distorted and everyone using a computer knows nothing is
+  created. misery becomes everyone in the world.
+
+
+
+
+
+glow
+
+perhaps like bachelard, believing in the secret life of things.
+but is a reference necessary? things have their own glows, lives.
+these lives are my comfort zones
+
+the mystery of the vacuum, filament glows, hearths, from bulbs, tubes,
+unlike the flatness of lcd screens (their own colder glows, glacial,
+nonetheless kindly, empathetic)
+
+when i was young, i would make drawing after drawing, tiny villages
+from above, surrounded by protecting walls, almost a maze to enter,
+i was safe there, i could leave, return home against the onslaught
+and violence of others
+
+sparking in vacuums, closed glass bells, inert and noble gases, and
+the orange hue, the promise of life in the heart of radiation, of
+radiation in the beating heart of life
+
+throbbing candle flames, lanterns, amplifier and preamplifier tubes,
+delight of email, lives through wire-nerves, radiation-nerves,
+speaking to me, whisperings from the planet through the hours of day
+and night, distant glimmers of eternity
+
+darkling protocols, your imaginary voices, voices of the imaginary,
+here i am, here you are, there i am, there you are, thinnest of 
+glass enclosures, rounded and subtle, skeins of lives and families,
+murmurings of love, colorations
+
+vacuum uncanny, our absence from visible space, emptied, but not
+quite, the quantum hearth churns, there are radiations, gravitations,
+crossroads of silences, rumors of darkness and universal endings
+
+but cathodic, traumatic, heatings, warmth of instrumentations, that
+slightest trembling, our passional heat, our soft sleepings within
+the blanketings of worlds and lazy atmospheres
+
+
+
+the seed - ( secret interior life / drawings w/ 
+comfort zones / mysteries of the vacuum 
+glass / throbbing )
+
+( our universe tiny, our place smaller, we huddle against the cold 
+to come, we will have gone by then, we will unremember )
+
+
+
+performance text, Sarah Lawrence, 12/08/05
+
+
+i is cold here are you is cold. arrgh. should there be rhyme? this is 
+close to the apocalypse. it's daytime in iraq. the 9/11 commission: "we 
+fail." this is live. "this is memorex." it's i'm not sure what time in 
+pakistan. winter's coming in. winter's coming into thailand isn't it? 
+perhaps thailand is in south america. i don't know. something happened 
+there and a lot of people died.
+these images... sometime after abu gharayb i began dreaming of torn 
+bodies. no that's not true, it happened a lot earlier, but abu gharayb 
+confirmed things, that the united states was as capable of as much 
+slaughter as any fascist country, thank you condaleeza. however you spel 
+your nam. when you take a program and run it to its limits, you get these 
+figures. the program tries to makesense of the files just as i try to make 
+sense of the world but the world is going much too fast. every time i wake 
+iin the middle of the night my entire life flies before my eyes. or rather 
+i hear it before or within my ears. it's fast and furious. it's mapped 
+everywhere. when i showed this work recently someone said it was just 
+likie bush torturing people. i walked ou on him and almost came to blows 
+but i avoided blows later someone else said i was closer to the apocalypse 
+than anyone he knew.
+how close can you get to the apocalypse? answer: 1.3 yards.
+we are learning new ways to march which is all to the better. imitation is 
+the best policy in guiding our young people in their future choise of 
+carerrs.
+what is surprising is that one wants to write anything these days. given 
+the world-wide slaughter going on, it's hard to concentrate on a proper 
+metaphor, what would work in a reading/writing, what wouldn't. even 
+sending these images to the sky, absolutely a failure in the guise of 
+someone on the ground just shot or blown up in iraq or on the streets of 
+new york city.
+i just can't get enough of drumming.
+maybe if it wasn't so cold i'd be better able to think. welll i was away a 
+few days ago and sat at harriet beecher stowe's desk where she wrote uncle 
+tom's cabin so i sat at the desk and wrote to my uncle hymie.
+this is the wolf at the door. after the bombing of the world trade center. 
+shot obviouslly in the 'bathtub area' of the ruins. well i'd write some 
+lyric poetry but my uncle adorno said i wasn't allowed to after auschwitz. 
+well, i don't know whether i can agree with him or not but at least at 
+this point i've forgotten how to rhyme. this is gerald edelman at a recent 
+conference explaining how the brain works. well, i was jealous and all i 
+could do was destroy his speech. heres an island for you. its reallly oil 
+derricks off of long beach in california. people live out there. you could 
+swim out to the derricks and the water is clean. or at least i think it 
+is.
+gary came to the door at 3am and said the water main broke and we went out 
+and filmed it as the water went throgh the subway system and flooded 
+through the cracks in the street. now... you might not noticve it, but 
+this war, these wars, now they're continuous, there's no break, in 
+war/terrorism/disease, whatever your pleasure, but these wars, they're 
+really about the body, they're econsconsed in the body, i think that's not 
+the way it's spelled, all this torture, lydnie englang posing with 
+capitves.... all these signals, secret signs, the beheadings, if nothing 
+else, you might want to watch one... on the internet, they're there, show 
+you what's going on, someone else was killed, how? , today, bodies are 
+turned into substance, that's the way apocaypse works - these were 
+produced in west virginia, near ground zero of abu gharayb - i've tried 
+god kknows i've tried to make sense of the world! i'm doing it at the 
+moment it's impossible, too many things, what you're hearing now, this 
+isn't the nuclear family, these are sounds... emissions.. from auroras, 
+lightning, cosmic rays, magnetic storms, sunspots, the fury of the 
+universe picked up by these antennas, now you hear the family now you 
+don't. in any case, as you know, ahem, sexuality has increased on 
+television something like two hundred percent since 1750!!! what a waste. 
+iin fact, there were very few instances of intercourse or other naughty 
+bits during the whole nineteenth century... it wasn't for lack of trying, 
+certainly high definition came in around 1830 buit the studios were 
+slow... on trying to decide what exactly to show...
+it's ot silent, it's music for your ears.... i always love this one, it's 
+west virginia at it's best, this kid can do this and it cn be heard for 
+mielles, or at least into the other room -
+now here's a poe.m someone called me a poet recently and i almost killed 
+him. what's a poet? if we're not working at the edge of things are we 
+doing anything at all? this is all my visual work for the past twelve 
+years, i wanted to present something to you showing hmmm... my entire 
+oeuvre, i hope you're not disappointed, it's really the only way... to 
+guage the life of an artist, his/her works, what he/she is capable of, for 
+example you might notice even at this speed that most of the photographs 
+are in focus what you're hearing now is the dawn chorus, honestlyh, that's 
+what it's called, it comes around dawn, very low frequency radio, just 
+about the frequencies that you use when you talk, you can hear it 
+sometimes, i'm not sure wht atht that it's exactly known,,, whatsproducing 
+it.... but it began before humans ever hit the surface of the earth, even 
+hit the surface of the earth running, one might say primoridal, since, 
+since at least the beginning of the big bang, all the way back then, these 
+crackles, this almost=whispering, some people think it's ghosts, aliens, 
+it's just something to do with the ionosphere and the channeling of 
+particles within it ... i took everyhthing i every made, it's cold typing 
+here, i'm losing a bit of control, you can tell, the words just aren't 
+flowing, but they really enver do, anyway, there are two categories from 
+my images, natural/industrial, i went through... a little rorsach test... 
+figuring out what i was interested in... why, becuase i made the images in 
+the first place... someone had to do it... i can't stand the dawn much 
+longer. that's better... almost human, something to listen to... i'm 
+searching for something else to show you.... let's see, perhaps degas' 
+dancers will open... some of the files have disappeared ALAS but that's 
+what happens when you work on the internet....j oh god please turn 
+away!"sondheim's show was seriously awful," not "awfully serious" as he'd 
+like you to believe! anyway, you can only imagine... going into a museum 
+and sneaking BENEATH the metal dress of one of Degas' dancers, shooting 
+up, there were guards all around, i bet they never looked! actually there 
+wasn't much to look at, to be honest, degas was naughty but not that 
+naughty..
+the best thing about landscapes is that they're unsteady - the 'ust' was 
+created for an online site dealing with tsunami stuff - you can destroy 
+whole towns with the click of amouse, or at least corrupt a file.... maybe 
+not even that - in any case what you're hearing, this isn't earthquake 
+proof this is the sound buildings make when you raise the pitch a little, 
+i forget what building made this but i'll never forget her voice...
+and this was done thinkingabout mining in pennsylvnia, wwe were just 
+talking about that, something like 50000 dying every decade from the small
+counties and towns in northeast pa...  - do you ever wake up in the 
+morning or the middle of the night and say to yourself"
+i want my work to MEAN i want to make a DIFFERENCE in the world and you 
+realize no one is thinking
+ (shut up! i'm in the middle of a bad poem)
+and you realize no one wants to hear what you're saying anyway
+and there are os many things you migth say or write
+but then you think
+IT"S ALL BEEN DONE BEFORE (now I'm REALLY ON IT HEH!)
+yes, everyone has heard EVERYHTING BEFORE, just like that but then (THANK 
+GOD FOR MULTITAKSING) but then ... it's oddly quiet here... i'm on my 
+own... i'm not sure what else you migth want to see, the surfrod movie 
+just died on me, shouldher is still runing, the willat sond is mubmbling 
+in the background, that's more building stuff slowed up
+NOW WHAT YOU'RE hearing really isn't sound recorded by a microphopne - it 
+just sounds that way - these are antennas that are coupled to radios - 
+you're hearing radio interference - Azure's stomping, coupling with the 
+antenna, generating static electricity, the mandolin strings are coupling 
+with a second antenna. so h.... it's not like, it's not like the real 
+labor of music, O THE BEAUTY!
+this is foofwa' d'imobilite dancing as fast as he can and i'm playing as 
+fast as i can and azure' ignoring us. we did this twice in performance, we 
+lasted about ten minutes, it doesn't look fast but honest.. it is ... 
+wait, i'll show you later. please note: the image on the right is 
+something to entertain you.
+you can do neat stuff with it. it's a kind of sex-machine but it's really 
+nothing but a two-dimensional projection of a bunch of polygons.
+btw by the way this isn't sped up, foofwa dances like that, eats fast too.
+ok, as you can tell i'm trying to figure out how to end i'll play some 
+fast guitar and show you , well, his presentation sucked, it was all over 
+the place i didn't get a damn thing out of it but he sure can play fast 
+guitar
+...and people thought that hippies were dead....
+what's interesting btw about this series, these visual echoes of my work, 
+that one picks out, the bodies stand out, the nudity appears almost 
+foregrounded, it's the way the mind works, almost imprinting, well most 
+likely instinctual impriting, against everything else, the chaos of 
+everyday life, sooner or later this soundtrack will run out and i'll be 
+done, we started with moments of apocalypse and torture, ran through a 
+whole middle section of nothing much happening at all, but i think i saved 
+it with some really terrific guitar playing, something like yo've never 
+heard before, there goes a whole blues! just like that, i wish i could 
+type that fast, it would make for a much ore interesting evening,, thank 
+you, good bye
+
+
+
+Disappearance of worlds, all is lost, every moment of every day, what is 
+right and wrong in this and any other picture, even the microbes change, 
+transmute, worlds crumbling, worlds unnoticed, deaths of worlds, our 
+deaths, our worlds among them
+
+Disappearance of worlds, Edwin Schroedinger, the room in Arosa in the 
+Annex of the Villa Dr Herwig, here one can imagine the desk, the chair, 
+the books that were to change science, the air and its chemistry which has 
+long since disappeared (replaced by combustion byproducts, radiations and 
+other pollutants), the microbes in the cracks of the wooden floor, 
+seepages where the walls cornered, ceiling interstices, and all since 
+mutated, the particular smell of the place, the atomic-molecular 
+constitution of the room which has disappeared forever, the sound of the 
+snow perhaps, the coldness underfoot, perhaps the fire and its specific 
+smokes and crackles, Schroedinger's pen, unobserved, the richness of the 
+leather, the muted sounds coming from without, the air of excitement in 
+cause of the reinvention of the physical worldview of the universe, the 
+glazed sky, the cold crystalline air, the surfaces cold nearer the floor, 
+warmed elsewhere, to the touch of Erwin Schroedinger, these moments, the 
+memories of Schroedinger, his may loves, the woman who shall forever be 
+unknown, his accommodating wife, the paper unruled perhaps, his amazing 
+concentration, remnants of holographic notebooks, the winds and rattling 
+panes, perhaps the sounds of wolves, animal scurrying in the underbrush, 
+iced trees and long walks leaving damp spots, slight stains, in the room 
+where Erwin Schroedinger compiled and completed the reintegration of the 
+physical Weltanschauung of atomic and subatomic physics, the buildings 
+perched on the hillsides, the peaked roofs, the dark gables and white 
+exterior walls, the windows pursuant to the inn-keeping of warmth and the 
+inhabitation of Erwin Schroedinger and the women who accompanied him, the 
+distant sounds of vehicles, the Christmas of 1925, the new year of 1926, 
+the smell of food, coffee or tea, in the room, the love-making of Erwin 
+Schroedinger, the completed meals, the food taken away, the quality and 
+color of the plates, the cups and saucers, the metal slightly cold to the 
+touch and taste, of the spoons and forks and knives, the slight scarring 
+of the body of Erwin Schroedinger maturing into early middle age, the 
+women and the solitude, the specific references surrounding him, papers, 
+notebooks, the presence of the telephone, the quality of its ring, the 
+electric lamps and the dusk of falling snow, the worrying and the hounding 
+of equations, the explanations of variables and constants, mathematics of 
+quantum physics and vibrations of atoms, eigenvalues and functions, the 
+distractedness of Schroedinger approaching the shores of universal forms, 
+subtle background of chimney smoke, the inkwell and the black ink, the 
+book of Schlesinger on differential equations, the sounds of laughter in 
+the room of Erwin Schroedinger, the tinkling of glass from another room, 
+smells of meats and vegetables suffusing the space of wave equations and 
+the presence and slightly sexual smell of the unknown woman and Erwin 
+Schroedinger, the air at 1700 meters in the Alps, the shadows and presence 
+of the Weisshorn, the pulmonary tuberculosis of Erwin Schroedinger, the 
+Viennese cook and the healthy cuisine, the small sounds of the pen moving 
+across the page, slight cough of Schroedinger looking forward to the 
+coming year and many more, the deep and sincere belief in the value of 
+physical theory, the startling sound of a bird in the distance, echoing 
+against the slopes, the rumours of Davos, mice scuttling across the floor, 
+drifting snow outside, the windows darkened momentarily with a wintered 
+squall, somewhere a crying kitten
+
+
+
+
+I'm sorry I wasn't able to deliver your message.
+
+
+In Geneve the dancers waited in the cold.
+The image bloomed and blossomed and the world faded.
+Parochial, I only remember Claire and Mary.
+The Shelleys watched the domestic drama unfold.
+They died but not here, nowhere near here.
+Apologetically, they left the film and story.
+http://www.asondheim.org/gen.mov
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+(Name: "female_body.zip")
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+(Name: "female_body.zip")
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+(Name: "female_body.zip")
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+(Name: "female_body.zip")
+(Name: "male_body.zip")
+(Name: "male_body.zip")
+Male and female bodies were zipped closed against the wind.
+You can imagine who bundled up who.
+We all wear culture underneath our clothes.
+Our skin is our message.
+The dancers of Foofwa d'Imobilite were immobilized.
+Their only desire on the bridge was warmth and a comfortable home.
+The United States of America would free them democratically.
+Iraq = the Christmas-time joy of the whole wide world.
+Jesus gouged the eyes of Jahweh Allah.
+Jesus: "All gods see better now."
+The dancers disappeared like ghosts upon the bridge.
+Their bones were ice; their skin, fire; their minds, clear and bright.
+
+
+
+
+birth of code unease
+
+there is no birth of code, perhaps it is our universe.
+any representation is already embedded in another.
+perhaps you can't have representations without symmetrical substructures.
+with 2nd-level code that's certainly true.
+but a painting is another matter altogether.
+in a painting (this is a painting of code), the eye does what the eye
+ will (what one wills) (what is emergent (out of (in relation to)) chaos).
+what i will <-> thinking a posteriori, the periphery.
+i would have willed this if it would have been willed.
+perhaps these sentences are phrases, unpunctured, opened
+the world is all that is the easement
+one can always try to force heidegger, i.e. retreat to alterity
+why is there something rather than nothing <-> not always already your
+ words, not even the ghosts of words, not even your own
+(the) question(s) dissolve(/s) in the wind of presence
+in this sense (inverse), why/cause = god
+appeal to meaning, transcendence, and human culture falls to its knees
+http://www.asondheim.org/birthofcode.jpg
+in any case, my pleasure, your presence
+in any case, your presence, my pleasure
+
+
+
+credo
+
+unutterable horror
+
+if I did not _this_ and _now_ it would not, would never be, would never 
+have been, done; this is the unutterable horror of death, with which I 
+face every moment of my existence. I imagine myself near death, with the 
+recognition, whatever I do not say _now_ will never be said, that these 
+sights are my last, my own, and not my own; that my possessions, which I 
+have carefully tended for so many years, will lose their inherent skein 
+with new distributions; that I will never see an end to anything, nor to 
+myself. with unutterable horror I continue to write, as if texts would 
+stave death from proximity; these myths no longer work; I no longer sleep, 
+or no longer sleep well; I survive to write _this_ text and only _this_ 
+text; what I have promised myself - the knowledge of a new language, a 
+visit to a foreign country - will never be done. when I open a book my 
+first thought is always, will I survive to finish it; will this make a 
+difference, certainly not to myself, on the verge of total annihilation. I 
+cannot imagine such; such is literally unaccountable, unimaginable, 
+replete with intrinsic absence. every saying, every utterance, is a gain- 
+saying. this horror is not abstract; it is as concrete as the physical 
+pain I also inhabit, and only the onslaught of physical torment will make 
+my death bearable. I am a coward; such is not the case until disease or 
+accident wills it so. I write, I create, as fast as I do, because it is 
+all I can do; it is the only thing to be done; it is always the last rite; 
+it is never enough.
+
+
+
+
+the soul
+
+I almost grasp the soul, which is obdurate, inert, hard as any real, ready 
+for the byte of heaven/hell, nothing liminal, intermediary. battles are 
+fought for it; the soul is the soul of war, of possession, the spoils of 
+war. it is the soul that motivates the imaginary of occidental thought 
+into anthropologies of conquest and conquest itself; it is murderous, of 
+value in the service of God. the soul is not the mark of reincarnation, 
+nor the mark of its own bardo-making and unmaking; instead, it is a thing 
+and a treasure which is unquestioning of existence, ontology, nothingness. 
+question the soul and our dis/ease is evident; what we cherish is our 
+ruin, and the ruin of others. the soul separates us from ourselves; an 
+invention of the desert of nomads, it is the last stronghold of a world 
+always already slipping. the legends of buying or selling souls are always 
+uncanny and always speak the truth of fable's metonymy. look to the soul 
+for violence; it is incapable of redemption, incapable of entrance and 
+exit; it is nothing at all but slaughter.
+
+
+in the land of the presence of gods
+gods descend from the mountains
+of gods there are many
+of mountains there are few
+in the land of the presence of ghosts
+the paths from the mountains
+earths and wind-swept gods
+gods are ghosts ghosts are gods
+
+of ghosts there are few
+ghosts are mountains mountains are ghosts
+
+speech
+
+ascend from the valley 
+descend from the valley
+the excavation or hole at the top of the valley
+the mountain or protrusion at the bottom of the valley
+"it is the privilege of the prophet to descend into the valley
+from the mountain where truth is closest to god. the people in
+the valley wait for the prophet with delight. the prophet
+speaks slowly and takes his time."
+on the mountain the prophet speaks with a roar and a fury
+in the valley the prophet speaks with delight and a song
+"sometimes the prophet is silent, speaking by way of travel.
+to and from the valley with a roar and a fury, to and from
+the valley with delight and a song - that is the speech of the
+prophet."
+we belong in the valley, the prophet proclaims from on high.
+with the sign of the curve and the next curve around (at a 
+furious speed with a roar), the prophet gives us his sign.
+"we ascend from the valley in the chariot of prophecy, with
+delight and a song, we descend from the mountain with a roar
+and a fury."
+"spoken to, we speak for the first time, primordial origin of 
+speech."
+
+
+Culture of Lies
+
+
+I was listening to the Colbert Report the other night; Carl Bernstein was 
+on. He answered briefly and to the point. His take on Bush and company: 
+lies. His take on current politics in this country: bought.
+
+These are corporate behaviors, or behavior-sheaves, interconnected modes 
+of action. Corporations live them; lies are brought and formulated in the 
+workplace as everyday matters. Ethics is compartmentalized and doesn't 
+apply. Skip to Hiaasen's 60 Minutes interview and you'll find more of the 
+same analysis.
+
+I lived within this culture when I taught at Florida International a few 
+years ago. I was dismissed and the tenure-track line canceled as well. I 
+was told by the department head the cut-back was financial and came from 
+the dean. I was told by the union representative that the cut-back came 
+from the department. When I took the job I was told that there was 
+suitable equipment and funds for the position. When I arrived there wasn't 
+any. My partner was told that a museology line was in place. There wasn't 
+any. I was told I'd be given fund-raising contacts. There weren't any. The 
+department announced to the local paper that it had built a new multi- 
+media classroom; it hadn't. I was told my situation was my fault; was the 
+dean' fault; was the department chair's fault; was the governor's fault. 
+Whatever happened there, and I don't know to this day, I behaved ethic- 
+ally (but neurotically); the surrounding culture didn't.
+
+It's easy to live according to the cover-up and the world's technologic- 
+ally smarter than it was in Nixon's day. Lies are distanced through the 
+media; you can believe you're behaving ethically because otherwise you're 
+just speaking through a microphone. The public here buys into that; a 
+recent poll for example shows that 56% of those interviewed favored 
+government wire-tapping if needed. This is fundamentally against the 
+principles of America, as is the notion of the collusion of religion and 
+government, as well as military pre-emptive strikes. Growing up here means 
+growing up through WWII, Korea, Vietnam, Libya, Nicaragua, Granada, Iraq, 
+and hosts of other conflicts. We live within a militarism that has no need 
+to pay attention to the local verbal conflicts here. The majority of 
+Americans favor gun laws; we won't get them. The majority favors health 
+care; we won't get it and we're told on one hand that seniors are given 
+additional choices - at the same time the safety net is being eroded to 
+nothingness. We're told we have a crisis of social security at the same 
+time we're paying exponentially-increasing health-care costs and doctors 
+and drug companies are getting richer. To give you again an idea from 
+personal life - we live here in Brooklyn on around $18,000/year. My father 
+pays my health care, or most of it. It's the rock-bottom at $6000 a year. 
+There's also 'co-payments' every time I see a doctor or get medicine; 
+there's a $100 deductible on drugs yearly. This is obscene; we're so far 
+below the poverty level it's ridiculous, and at the same time, there's no 
+safety net - yet we pay taxes to fund Halliburton and an outrageous deadly 
+war in Iraq.
+
+In an idea world, Bush Inc. would be held accountable; he won't be. The 
+culture closes, forecloses, on itself. It's everyday business, just like 
+Nazism was everyday business. But this is in for the long run; these 
+people are self-preserving. The scandals make no difference at all; the 
+truth is always seen as contestable, just as Darwin or weapons of mass 
+destruction are contestable. The culture of lies depends on one hand on a 
+population willing to put up with autocracy, desiring autocracy, as the 
+safety net disappears; it licks its masters because there's no other game 
+in town, except religion, already bought and sold and integrated. The 
+culture of lies depends on the other on a verbal sophistry which is based 
+on a notion of the insignificance of truth; truth is reserved for one's 
+inner soul, for the Rapture, for the back-room - men are like that. The 
+lie is possible because the language of finance, not personal and verbal 
+language, carries the greatest weight; it's not for nothing that we have 
+expressions like 'the buck stops here' and 'the bottom line.' This is also 
+the reason, by the way, that American political rhetoric is so filled with 
+sports talk; the game plan is to win at any cost. Sublimating truth into 
+the arena of arenas backs up a culture of gambling, the killer play (not 
+unlike the killer app) - a culture in which ontology has shifted from the 
+oath and linguistic performativity to stock-market performance. This is 
+fundamental, however trite it is (i.e. 'money talks' which just about sums 
+it up); the culture of lies _is_ a culture, and needs the security and 
+stability of big money for those who play, or those who hope to play, it. 
+It ensures it's the only game in town.
+
+On the farther end of the spectrum is the rest of us, lying as well for 
+that matter, just as embedded. We're the embedded reporters in fact who 
+bring back from Iraq what the government and military want us to hear; 
+we're the 'crackers' and everyone else just getting by, moving through an 
+increasingly implosive world of drought, extinctions, and information, 
+leaving us behind. The superstructure has finally succeeded in taming the 
+base; the base is whatever the superstructure says it is, until famine 
+sets in, and then war - required as well by the superstructure. It's a 
+different ball-game.
+
+There's no end to this analysis which has been told over and over again, 
+and we continue to tell it, just was empathetic magic is based on 
+repetition. It's no use, except for self-comfort late at night; the 
+culture of lies will bring us increasing war, violence, violation of human 
+rights, and poverty - all in the name of fighting terrorism, playing on 
+the internet, living the good life, betting on the Superbowl, making sure 
+we have 'no child left behind,' counting on the 'village' it takes to make 
+a child, waiting for the Rapture, fearing the hyperbolic hyperviolent God 
+fundamentalists purvey, and buying mostly on credit, houses, cars, SUVs, 
+cable television, high-definition TV, Ipods, camcorders, computers, 
+Internet connections, Caribbean cruises, ecotourisms (which are not that 
+'eco'), factory-'farmed' meats, hunting expeditions, fishing trips, 
+visiting the natives, mega-speakers, cell phones, camera phones, 
+text-messaging phones, video phones, back yard pools, swing sets, personal 
+trainers, gym memberships, fashionable clothing, anti-fashionable 
+clothing, guns, knives, sex-tapes, miserable health-care, processed foods, 
+the latest cosmetics, unbelievably bad school systems, Bibles, church 
+memberships, Wired magazine, Fortune magazine, Time magazine, Sports 
+Illustrated, Reader's Digest, plastic toys, plastic toy guns, skate- 
+boards, off-road vehicles (which tear up the wilderness), jet skis (which 
+pollute the water), power-boats (which have wounded every single manatee 
+still alive), yachts, cruise-control, lawsuits, and just about everything 
+else that keeps the American public way down (and falling) on the quality- 
+of-life index. This is the new world of freedom, as Absolut as it's going 
+to get, and we'll do everything we can to get to the finish line.
+
+
+
+i'm sick, this is a variation
+want the characters to fly
+and be attacked by tetrahedrons
+
+that's what usually happens
+when we get up off our feet
+and try to do god's good sweet work
+
+http://www.asondheim.org/runnerb.mp4
+
+in any case, i've got a flu or 'the' flu
+i can't tell which
+i'm not hanging around birds but i'm run down
+hope my fever drops, bandwidth goes up
+
+hello to everyone from the other side
+
+body and soul
+
+
+The noun atman _soul_ is widely employed, in the singular (extremely 
+rarely in other numbers), as reflexive pronoun of all three persons.
+
+The noun tanu _body_ is employed in the same manner (but in all numbers) 
+in the Veda.
+
+(From Whitney's Sanskrit Grammar.)
+
+http://www.asondheim.org/body.mp4
+http://www.asondheim.org/soul.mp4
+
+
+
+
+or i will have gone underground
+or i will have been fugitive
+or azure support me in the final decades
+or i will ignore my life
+http://www.asondheim.org/gasp.mp3
+or i will embrace you in the tombs of my desire
+or i will come to you with bullets and red bandanna
+or i will walk the path among the graves and cloisters
+or they will take me in or they will not take me in
+or dust remains of humans buildings
+or remains of animals plants all living things
+or unbreathing or the least message or massage
+or the last missive or the last missile
+or we will have gone together or the final assault
+or fugitive
+
+
+# 
+#	#	#	#	
+#	
+
+#	# # 
+# # # 
+#	# #	
+#	#	#	
+# 
+
+#	# # #	
+#	# 
+#	# #	
+# 
+
+# # # 
+#	#	# #	
+
+# # 
+# #	# # 
+
+#	# #	#	
+#	#	
+#	#	# #	
+#	
+
+#	# # 
+#	# 
+#	#	#	
+
+#	# # 
+#	#	#	#	
+#	
+# #	
+
+#	#	
+
+#	# # 
+#	# 
+#	#	#	
+
+#	#	# # # 
+#	#	#	#	# 
+
+#	# 
+# #	
+# #	#	
+
+#	#	
+
+#	#	#	#	
+#	# 
+#	#	#	# 
+#	
+
+# #	
+#	
+#	#	#	# 
+#	
+#	# #	
+
+#	# #	
+#	
+# #	# #	
+# # # 
+#	#	#	# 
+#	
+#	# #	
+#	
+# #	#	
+
+#	#	# #	
+#	# #	
+# # # 
+# # 
+
+# 
+#	#	#	#	
+#	# 
+# 
+
+# # 
+# # # 
+# # 
+#	
+# #	
+# 
+
+# 
+#	#	#	#	
+# # # 
+#	#	#	
+#	
+
+# #	# # 
+#	
+#	# 
+#	# #	
+#	#	#	
+
+#	#	
+
+# #	#	
+# # # 
+# #	
+#	# # # # #	
+# 
+
+#	# # 
+#	# 
+# #	
+# 
+
+# 
+# # # 
+
+# #	#	#	
+#	
+
+#	# #	
+#	
+# # 
+#	#	
+# #	
+# #	#	
+#	
+# #	#	
+
+# # # 
+#	#	# #	
+
+# 
+#	#	#	#	
+#	
+# # 
+
+# #	
+# # # 
+#	# # 
+
+# #	#	
+# # 
+#	#	
+# 
+#	# #	
+#	#	
+
+#	#	
+
+#	# # 
+# # # 
+#	#	# 
+#	# #	#	
+# #	#	
+
+#	#	# 
+# #	
+# #	#	
+# # # 
+
+#	#	# 
+# #	
+# #	# #	
+# # # 
+#	#	# 
+# 
+#	#	#	#	
+
+#	# # 
+#	#	#	#	
+#	# 
+# 
+
+# #	# #	
+# # # 
+#	#	# 
+#	# #	#	
+# #	#	
+
+#	#	
+
+#	#	#	#	
+#	# 
+#	#	#	# 
+#	
+
+# #	#	
+# # # 
+# #	
+#	
+
+# #	#	
+#	#	
+#	#	# #	
+#	#	# #	
+#	
+#	# #	
+#	
+# #	
+# 
+#	# #	#	
+# #	# # 
+
+# #	#	#	
+#	#	# 
+# 
+
+#	#	
+
+#	# # 
+#	# 
+#	#	#	
+
+#	# # 
+#	#	#	#	
+# # # 
+
+#	#	
+
+#	# # 
+#	# 
+#	#	#	
+
+# 
+#	#	#	#	
+#	
+# #	
+
+#	# 
+# #	
+# #	#	
+
+#	#	#	#	
+#	# 
+# #	#	
+
+#	# # # 
+#	#	# 
+#	#	#	
+# 
+
+#	# # #	
+#	#	# 
+#	# #	
+# #	# #	
+#	#	#	#	
+#	# 
+#	#	#	
+#	
+# #	#	
+
+#	# 
+
+# # #	
+#	#	# 
+# #	
+
+#	# 
+# #	
+# #	#	
+
+#	# 
+
+#	# # 
+# # # 
+# # 
+#	# 
+# #	
+
+#	#	# #	
+# # # 
+#	# #	
+
+# 
+#	#	#	#	
+#	
+
+#	#	#	# 
+#	
+#	# #	
+# #	# # 
+
+#	#	# #	
+#	#	
+#	# #	
+#	#	#	
+# 
+
+# 
+#	#	
+# # 
+#	
+
+#	#	#	# #	# 
+.
+
+xxxxxA.Wx.S2RxIGNxxIGIxxRZxOxxDEPxxB=xAAAPxBBB=TT6EUE
+xxxxEKA.EMx.S2RxIGNxxIGIxIxRMIxOxxDEPxxx B=xAAAPxTSBBTVTT6EUE
+x xxxEKARKWAK.S2RxITNNPTxIGIxIKRMIxMTxJEDEANxxxx BBTxAAAPxTSBTS=TT6EUE
+xxxxQGEKETRKEMAKExS2RxITNNPTRCIMEIxIIKENMIAAMTxJEDEANA+xxx8xxBBTxTAAAPLDT
+STSTSTVTTTHEUE
+PQMTOxGxRTARKWPTAxSUMENCTIGNPTAxEIGIxDFTAEMIEKOJEAGDEANECNEPXYxFCYDENUxAE
+TAAPRLDENITSBTTTNSEITE
+xxMNxxA.Wx.S2ENxIGNAKxIGIxxRZxOxxDEPxxxxB=xAAAANxBNIB=TT6EUE
+xxOExxAExWxRKS2RxIGNWAxIGEExxRZxOxxDEEGxxxWB=xAAAWExBBB=TTDIEUE
+xxxxxARKWx.S2RxIGNPTxIGIxxRMIxOxxDEANxxx B=xAAAPxBBTS=TT6EUE
+xxxxxA+TWx.IE2RxIGNxxIGIAxxRZxOxxDEWExxxNI=xAAAPxBBDE=TT6EEAE
+
+
+ I SLAUGHTERED HUNDREDS
+
+ EE EEE ETEE ET EET TTE EEEE T E ETE E TEE EEEE EET TE TEE ETE E TEE EEE
+ TTEETT EE TETE ET TE ETTTTE T TEEE E ETEE EE E EEET E EE T TE TTT ETT E
+TETET ETT ET ETE EE EEE EEEE E ETEE ETEE TTEETT TETT TTT EET ETTTTE EEET
+ E EEEE E ET ETE TEE T EEEE ET T TTEETT TEEE EET T ETEE ET TE TTE EET ET
+ TTE E TEE TTT E EEE TE ETTTTE T TEE TTT ET TE TETT T EEEE EE TE TTE EET
+E TTT ETE T EEEE TTT EEE E EEE TETE ETE E ET TT EE TE TTE ETT TTT TT E T
+E ET TE TEE TETE EEEE EE ETEE ETE E TE EE TET EE ETEE ETEE E TEE TTEETT 
+ETE EE TTE EEEE T EE TE EETE ETE TTT TE T TTT EETE TT E TTEETT EE TETE E
+T TE ETTTTE T EEE ETTE E ET TET EE T TTEETT TT TETT TT TTT EET T EEEE ET
+TTTE EEE EEE T EET EETE EETE E TEE EET ETTE EEETET
+
+ IEIENEAEATNEIETEAEENEIIEATENEAEENEIEMIMEENNETNEMMETNIEENEIEEITEITTEMTAT
+AAAEMETAEIEIEIEEAIENEMIMTATMTITAMNEITEIIEETAENETIIETTMIMTIEITTAIETNTNEAE
+TMEENEMTEIENEMMETNEMTATENMTEIEITEMEIN MTAETIITMEIEEITAEAEEATTITEMEATMTME
+TEA NTITAEIIEEAIENETEITAEEAIENEENEMIMENEEMEIITEENEAEAEMTNTTMEAEMETNATITA
+EATEAMNTEIEMEEATAEETMIMTTNMTTMTITTIIEMMEIEIETITINEAEENEITANEINT
+
+ ISAIAUMEESTEENETISEEANDAEENEEIGWINNANWGTDEEAIIEEUEITTETMW RKATETENISIIE
+EDAIGWNMOITEONSTEESEARNETIIATTDMDEEATEDANMEEAAGEDMTEIETEEONTTIOANNMTESIN
+MEER OAETIIOIEEIETRAEEAMINMEEMOMENANDNNSEEEEDAEENINTEEEDAIETIGWAEEEGIITE
+ETEERAETMNTTMUETTEMUTEETRAN WGTSANEETTAITTDMMKTTTTMUTSEEONSIETITERINETIU
+ANSK
+
+ IEIEDAEATNESTERENEIIEATENEAEEDSZMEENNETNWGTNIEREIEEUEITTEMTATxAEMETAEIS
+SEELREMxKTMTITAxSTEIIEARDTIIETTZMTSUTAIETNGUAGENEMTESNExETDOATENMTSEINGF
+ ORTIITMEIESKEAEEATTINGWOMENANTITRHILRETEIKILREEDZMENEEGHTEENUEAEMTNTTME
+RMEGWITRATEJNTSWEEATAEETZMTTNMTTMTITTHWGSSTITINERENEITANEFT
+
+ IIEREAUTNIITERENESEUNTIAEETIIExTICANJNTBEREIESTEEETTEOW+TWAENISHEREREGW
+TWTMITWGEUESEEETRDTSEATGWTSEATLANGUETGEDOESNAxTDOANYTIIINTNINOENTHOEIEST
+RENEAMITEGWOTTETEANNEKESEILRENEEKIEDEDEDxTRIGESTITEUERONTOERTTETxITRETN1
+ETEIANEANTITGWTTKTMOEATH1ESEITUEREREDUEGEx
+
+ ISLAUGESTEREDHEANDAEENES,INNANWGTBELIEEUEITTEOW.WETRISHELL,YOITJNSTEHEA
+RNETIIATZMDEUTLANGEAAGEDMTEIENE9TDOANNMTESINMEF OAETIIOSESTRAEEAMINMEWOM
+ENANDCHEELRENIKEELLED,REEGIITEENERAEONTTMUEMExTITRAN'TSPEATAITZMMYTTOUTH
+E9SIETITFFEDUANSK
+
+ ISLAUMEHTEREDHITNNEREDIE,ICAN'TBELIEIAEITNTMW.WARISSEEREL,YMTUE9EUEHEAA
+EDTHETTGWDEUTLETNMEUETGETIOESTE1ETDOANKTTSEINGINORTHOIEESCENEAMINGWOMETE
+ANDCIIIEDRENEEKEELLEDGWRIGSETINFRMTNTOUEME,ICAN'TSEGEETKEETGWMYMOITTSE1E
+SSTUFINENEUEGSK
+
+ ISEDAEAGESTERENEHEANNEREDS,EECETNWGTNIEREIEEUEITNMTW.EMAAEISHELRE,YMTUA
+xSTEHEARDTIIAT,TSUTLETNGUAGENEOESNE9TDOANNMTSEINGF ORTHTMSESKEREAMINGWOM
+ENANDTRHILRETEIKILLEDZMREEGHTINFAEONTOERME,ICAN'TSWEEATAIT,TTYTTOITTH'SS
+TUINFEDITPEx
+
+ ISAIAUGHTEREDSEUNDREDS,ICAN'TBELIEVEITNTMW.ATARISIIELLGWYOUE9STEHEARNET
+HATZMBEATLANMEUAGEDOEIENJNTDOANYTESINGF ORTHOSEIECAEEAMINMEWOMENANDNNHEE
+LAEENIKIEDLEDGWREEGHTINERRTMNTTMFTTExTICAN'TSPEAKITZMMKTMOUTSE'SSTUFFETI
+UAN
+
+ ISREAUTNHTERENEHUNDAEEDIE,ICAN'TBEREIESTEITTEOW.WARISHELRE,TWOIT'EUEHEE
+TRDTHAT,TSUTLANGUETGEDOESN'TDOANYTHINGINORTHOEIESTRREAMITEGWOMETEANDKEHI
+LRENIKILEDED,RIGHTINUERONTOERMETxITRAN'TEIPEAKIT,TTYMOUTH1ESSTUFEREDUPEx
+
+ ISLAUGHTEENEDIIUNTIRENES,ITRANE9TDEELIEVEEETNOW.WARIEIHEEDLMxYTMUJNVEHE
+ARDTHATTxBUTLANGEAAGEDTMESN'TTIOATEYTIIINMEFORTESOSESCREATTINGWOMENANDCH
+IAIRENIKILLED,RIGHTINFRONTOFME,ICAN'TIEPEAKITTxMNMMOEATHE9SSTEAFUEEDUPxT
+
+ ISLAUGESTEREDHEANDAEEDS,INNANWGTBELIEEUEITTEOW.WETRISHELL,YOIT'STEHEARD
+TIIATZMBUTLANGUAGEDMTESNE9TDOANNMTHINGF ORTIIOSESCAEEAMINGWOMENANDCHILRE
+NIKILLED,REEGHTEENFAEONTTMFME,ITRAN'TSPEATAITZMMYTTOUTH'SSTITFFEDUAN
+
+ ISLETUGSETERETIHUTEDRETIS,IKEAN1ETBEAIIEVEITNOW.WARISESELAI,KTOUWGVEHEA
+ENDTHAT,BUTAIANGUAGEDOESNWGTDOANYTHINTNFORTSEOSEEICREAMINGWOTTENANDCESIL
+ENENINTILREEDxTRIGHTINFRONTOFMEGWICETN'TSPEAKIT,MYMMTUTH'SSTUFFEDUP
+
+ ISLAUGHTEREDHUNNEREDIE,ICAN'TBELIEVEITNOW.WARISSEELL,YMTU'EUEHEAAEDTHET
+T,DEUTLETNGUETGEDOESN1ETDOANYTSEINGINORTHOSESCREAMINGWOMETEANDCIIILRENIK
+EELLED,RIGHTINFRMTNTOUEME,ICAN'TSEGEAKEET,MYMOITTH1ESSTUFFENEUPSK
+
+ ISLAUGHTEREDSEUNDAEEDS,ICAN'TBELIEVEITTEOW.WAENISHELLGWYOIT'VEHEARDTHAT
+,BEATLANGUAGEDOESN'TDOANYTHINGFORTHOSESTRREAMINGWOMENANDCSEILRENIKIEDLED
+,RIGHTITEFRONTOFTTE,ITRAN'TSANEAKIT,MKTMOUTH'SSTUERFEDUP
+
+ ISLAEAGHTEREDHEANDREDS,ICETN'TNIELIEEUEITNMTW.WAAEISHELL,YOUAxVEHEARDTH
+AT,BUTLANGUAGEDOESN'TDOANNMTHINGFORTHTMSESKEREAMINGWOMENANDCHILRETEIKILL
+EDZMRIGHTINFRONTOFME,ICAN'TSWEEAKIT,MYTTOUTH'SSTUINFEDITP
+
+ ISLAITGHTEAEEDHUNDREDS,ICAN'TBELIEVEITNOAT.WARISHEAIL,NMOU'VEHEARTITHAT
+MxBUTEDANGUAGEDOEEIN'TNEOANYTHINGFORTHMTSESCREAMINGWOMENANDCHILRENIKILAI
+ED,ENIGHTINFRONTOFMEMxICATE'TSPEAKITMxMYMTMUTHWGSSTUUEFEDUP
+
+ ISLAUGHTEREDHUNDREDS,ICAN'TBELIEVEITNOW.WARISHELL,YOU'STEHEARNETHATZMBU
+TLANGUAGEDOEIEN'TDOANYTESINGF ORTHOSESCAEEAMINMEWOMENANDCHEELRENIKILLED,
+REEGHTINERRONTTMFMExTICAN'TSPEAKITZMMYMOUTH'SSTUFFEDUAN
+
+
+
+
+
+void
+
+
+exercise in depicting the void
+from an astronomical image
+situated somewhere in orion
+
+where it is told*
+if one drops a pebble
+it doesn't fall but remains
+there,** that's all - remains
+in the middle of the image
+
+http://www.asondheim.org/void1.jpg
+http://www.asondheim.org/void2.jpg
+http://www.asondheim.org/void3.jpg
+
+*legend
+**however, lost
+
+
+
+Night for Day
+
+tap2 is 'Night for Day' stars two characters in bittersweet memory dreams as 
+they wander through industrial landscape only to emerge bittersweet in doomed 
+lagoon
+
+longhost2 must be played with 'Night for Day' it is the sound track of their 
+doomed ghosts in bittersweet memories of nights and nights for days.
+
+longninetheta must be played with 'Night for Day' it is the neural waves
+freed from day and night, bittersweet and industrial please note not for
+listeners subject to seizure
+
+longninetheta to be played on occasion longhost2 to be played eternal
+
+http://www.asondheim.org/longninetheta.mp3
+http://www.asondheim.org/longhost2.mp3
+http://www.asondheim.org/tap2.mp4
+
+download loop both against the other
+download play against the loop
+this is _dance_ on deadly earth
+you will contradict me not for long
+
+
+
+
+
+
+Listening to the Power Grid
+
+
+A 100' external long-wire antenna is connected to a VLF-3 receiver 
+grounded in the building. The receiver output is recorded on a Sony
+minidisk. The final result is filtered until patterns are readily
+discerned. The jpg below is from SpectrumLab of the raw material.
+Frequency shifts show a moire-pattern in time.
+
+http://www.asondheim.org/gridnoise1.mp3
+http://www.asondheim.org/gridnoise2.mp3
+http://www.asondheim.org/pwrgrid2am.jpg
+
+
+
+
+
+long-wire recording experiments with signal processing
+
+fieldphone8 as newly received transmission
+
+http://www.asondheim.org/lw6.mp3
+http://www.asondheim.org/fieldphone8.mp3
+http://www.asondheim.org/lw1.mp3
+http://www.asondheim.org/lwradio1.mp3
+
+representative samples of relatively small size our enclosed
+
+I wish to point your attention to the musicality of lw6, the
+shuddering of fieldphone8, the universal sky-murmur of lw1,
+the untuned schizophrenia of lwradio1
+
+U-shaped long-wire antenna, around 100 feet.
+
+note: the aesthetics and philosophical concerns, in relation to body, 
+audio spectrum, aurality, sexuality, and digital and analog phenomenology,
+are clear. an exciting thesis may be created in relation to these concerns 
+but would this be anything other than an academic exercise in theorizing? 
+I give you instead the raw material from which stars and theories are 
+formed. you may do something with the second, not much with the first. in 
+any case it is out of my hands, and into yours.
+
+
+_
+
+
+Sound Images
+
+Spectrum Lab images from the soundworks earlier.
+The "pillar" images are from the EE8 field telephone bell.
+The others are long-wire sounds
+
+http://www.asondheim.org/thin1.jpg
+http://www.asondheim.org/thin2.jpg
+http://www.asondheim.org/thin3.jpg
+http://www.asondheim.org/thin4.jpg
+http://www.asondheim.org/thin5.jpg
+http://www.asondheim.org/thin6.jpg
+http://www.asondheim.org/thin7.jpg
+http://www.asondheim.org/thin8.jpg
+
+_
+
+
+   ... forms and spaces
+
+
+   ... true, the physical act of drawing or painting chinese
+   ... characters embraces modalities of space, time and
+   ... movement for kwong-gordon, the fluid and intuitive ...
+   ... space-time code designs were either crafted by hand or found
+   ... while other imaging modalities provide high
+   ... resolution localization of brain ...
+   ... true proposed as complementary modalities to x-ray.
+   ... mammography the underlying principle of microwave ...
+   ... imaging via space-time (mist) beamforming for breast ...
+   ... modalities of healing are energy or love, and come not from the
+   ... reality there is no separate space and time, only a
+   ... single unity called spacetime. ...
+   ... highly recommend the hand gesture as one of their interaction
+   ... modalities recognition of space-time
+   ... handgestures using hidden markov model. ...
+   ... ai that operates on pure logic - no sensory
+   ... modalities, a curved trajectory
+   ... exists only in spacetime; in any given frame, ...
+   ... true a space-time theory of pitch and timbre based on
+   ... picture of the external world that is in
+   ... register across the sensory modalities and the ...
+   ... space-time theory of pitch and timbre based on ...
+   ... picture of the external world that is in register
+   ... across the sensory modalities and the ...
+   ... true monitoring a region in a variety of sensing
+   ... modalities (acoustic, seismic, sensor field
+   ... decomposed into space-time cells to enable distributed signal
+   ... true modalities (space, time, operating. subjects).
+   ... time-space analysis of temporal. compatibility. knowledge
+   ... objectives, activities and tools modalities of space-time
+
+
+origin of dance
+
+it was very hard to see enemy. enemy lived in caves. enemy has always 
+lived in caves. first enemy destroyed lions and sloths and tigers. then 
+enemy destroyed mammoths and mastodons and great auks. now enemy destroys 
+enemy. now enemy destroys us. we say 'yes yes yes.' this is origin of 
+song. enemy titillates us with brilliance and amazing sleazy sex-life.  
+enemy ties us up willingly. then enemy buries us in caves. we did not 
+expect that burying. enemy uses only sticks or rocks for messages. enemy 
+uses only messaging voices and reminding paper scraps. enemy whispers 
+'take heed take heed.' we are twisted by beauty of enemy world. we step 
+over bodies of cave bears, cave wolves, sabre-toothed tigers, dodos, 
+carolina parakeets. cave reeks of them. their stick bones stick in us. 
+enemy lances our cunts with mastodons. enemy lances our pricks with 
+mammoths. this is 'jumping-about.' this 'jumping-about' is origin of 
+dance. 
+
+
+
+genlauf
+
+Most usually you do not write me, and for those of you who are unreading, 
+those of you I do not know But you are on the same wires and in the same 
+habitus nonetheless, otherwise separated since the beginning of communi- 
+cation among us. Always the telephone appears the last resort, only a 
+century and more old, but the grain of the voice, the guarantee of 
+presence however distanced. From here in Geneva, international city of UNO 
+and communications, Alabama room of the Geneva Convention, I wander from 
+place to place, searching for connectivity fix, tenuous, fragile, precious 
+in the sense of vector thrown into uncanny space. The unbelievably small 
+space of the city, perhaps a kilometer or two, is sufficient for meander 
+from sleeping space to rehearsal space, that most intense communication of 
+bodies in largesse prescenced within one another, the room with the scent 
+of movement, emotional tensors. Like you perhaps we held our breath, 
+almost in tears, as the Chinese pair skated to second place after a fall 
+that would be devastating to any dancer, and is always present, the 
+potential for a living career ended in one inadvertency. I search for your 
+presence among the bodies here, the lived wires, the plugs peculiar to 
+Switzerland for the most part, the coursing of electrical current, Romania 
+and Croatia and Bulgaria loud on the short-wave. The waters from the Jet 
+d'Eau course through our veins as we imagine skate-boarding perhaps 130 
+meters up in a swirl of water that would break a finger faster than a 
+match-stick, close down the throat, explode the body across the lake. As 
+far as we can tell, no one has done this, although all our lives we're 
+picking up the pieces.
+
+
+
+From Art. 14., "The Monthly Review for August, 1759" 
+
+
+John Yeomans' _The Abecedarian, or Philofophic Comment upon the Englifh 
+Alphabet. Setting forth the Abfurdities in the prefent Cuftom of Spelling, 
+the Superfluity of Letters in Words, and the great Confusion that their 
+ill Names, and double Meanings are of to all Learnings. With modeft 
+Propofals for a Reformation of the Alphabet, adapting fpecial Characters 
+for that Purpofe, at being the only Means practicable whereby to render 
+the fame distinft, uniform, and univerfal. Alfo, a Word to the Reader, 
+fhewing the Indignity of Ill Habits in Lecturers pointing out to them the 
+Beauties and Excellency of graceful and fine Reading. Likewife a 
+Syllableium, or Univerfal Reading Table, for Beginners, calculated after 
+the prefent Ufe for the Way of all Schools throughout the kingdom. 
+Together with a Difcourfe on the Word, or A-Tau, tetragrammatical, 
+preceding thofe Tables._
+
+[...]
+
+"Words are not, as some gross ears interpret, only a grinding or chafeing 
+of found of types and letters, ftriking the outer ear by the operation of 
+the breat or fpirit; but they are very man or mono, principle, and very 
+felf, everlafting, of infinite, dread-united meaning, the exprefs 
+difpofition of his nature in the heart, and not in the inked or graven 
+fign. They are fpirit, and they are life; they are death, and they are 
+deftruction; and their types are purely banners to avocate and fummon the 
+mind back to itfelf, when ftolen or ftrayed away, and to regulate the 
+fenfes in wifdom, truth, and holinefs. The word is very God and very 
+Devil, good and evil, virtue and vice; and letters are as fhadows to 
+reflect the life. Herewith blefs we God, and therewith curfe we men, who 
+are formed after the fimilitude of God. _In the beginning was the word, 
+and the word was with God, and the word was God,_ &c. We have only ufe for 
+letters now to help and comfort us in this mortal ftate; for in the 
+immortal, every good man fhall be able to will at will, felf-quicken, 
+felf-move, and alfo felf-comfort; always pure, always in order; at once 
+hearing the most pleasant and fweetest love-chord harmony; tafting without 
+fufeit ambrofia, and the all that is good, and delicious. Sufceptible of 
+inbred divinity! fmelling the moft fenfible perfumes; knowing all things, 
+intuitive of all things, and all in all with God himfelf. The plain 
+fignification of _word, verd,_ or _green,_ or _verb,_ is perennial or 
+durablenefs; being of _virtue_ or _worth-ue,_ or _werthe,_ of the family 
+of _vir's_ and _viri's,_ man's name or the NAM; and nothing but what is 
+virgin virtuous can be manly, or is worthy of that venerable and divine 
+appellation; but differently, is vicious, unnatural, unworthy, ungodly. 
+None, for this caufe, fhould open their lips unwordily; forafmuch as the 
+very word itfelf is _werthy_ or _werde._ And the holy fcripture faith 
+exactly to this effect: _Let all who name the name of Chrift depart from 
+iniquity._ Neverthelefs, fhould there be no found heard at all from the 
+lips, or corporeal tongue, or man's own felf be apprehenfive by letters, 
+yet in fecret whifperings the heart pronounces, and the will and fpirit do 
+utter within, amazing languages."
+
+Amazing languages, indeed! What a will or fpirit that muft be which 
+dictated fuch to our author!
+
+The reader will, doubtlefs, by this time, think we have difplayed very 
+fufpicious marks of our author's being _non compos_; and therefore very 
+incapable to draw up the beft plan, that _ever was, or ever can be 
+projected,_ for the improvement and eftablifhment of the Englifh language. 
+According to his own requeft, therefore, and on his own terms, we confign 
+_him, and his proposals, to be cancelled, and his name and honour to be 
+buried in the duft._
+
+
+
+
+
+
+Four Dances: Screen, Bait, Abu Gharayb, Electric
+
+
+1. Screen
+
+Projected video with dancers before the image - as if it's a multi-media 
+performance, dancers 'inserted' into on-screen narrative - but they're out 
+of sync, they don't match up - the narrative falls apart, it's a mess - 
+they stumble on-screen as well - it's amateurish, a poor attempt - it's 
+trying to compete with the big multi-media companies - reaching beyond 
+what the company can do - the dancers are angry - they're really angry - 
+they're in front of an audience in a production which is falling apart - 
+they didn't sign contracts for this - one of them walks off - there's a 
+gap in what's left of the narrative - this continues until the projection 
+comes to an end -
+
+The video is poor, hand-held, amateurish, shaky - with some of the same 
+dancers - they speak a bad pointless dialog - along the lines of
+
+"Where's Dmitri?"
+"I don't know. The Revolution is about to begin."
+"I love you, Martya." "I love you too Johannes."
+"But we can't wait forever." 
+"No, we can't wait forever. They're looking for us all over the city."
+"Are you sure they're looking?"
+"No, I'm not sure. But then... I'm not sure of anything anymore..."
+"That is why I love you, Martya." [...]
+
+There is some action - anxious walking about the city - nervous, they look 
+behind them, they're watching - they think they're being watched. And yes, 
+they dance all of this, on-screen, off-screen. The live dancers may speak, 
+try to make sense of the dialog; they can't. The live dancers may be the 
+same as the on-screen characters; it would be best, however, to split the 
+company - half on, half off, as if they're trying to come together across 
+an impossible ontology.
+
+Bad film music from the screen, 'programmatic.' The live dancers simply 
+don't understand.
+
+
+2. Bait
+
+Either projected video or live - a nude man and woman masturbate stage 
+left; they are nude, exposed; the dance ends when they cum. They observe 
+two dancers -
+
+Either dressed or nude - ballet positions, lifts, contacts, splits (facing 
+audience and masturbating couple) - the dancers sexually aroused - if nude
+(preferable)
+
+Masturbating constantly during their movements (the man clearly erect, the 
+woman with her hand increasingly wet, the audience close enough to smell 
+the scent of sex) - if at all possible they cum simultaneously with the 
+masturbating couple.
+
+Swan Lake or some such music.
+
+
+3. Abu Gharayb
+
+Dancers act out positions of prisoners in Abu Gharayb photographs. Lyndie 
+England is played by a prima ballerina, her fiancee by the lead male. The 
+dance should move from position to position. At first it appears opportun- 
+istic; it becomes increasingly uncomfortable to watch, as if England and 
+her fiancee were becoming too involved in the violence. Faked blood, 
+bruising, should be used, as well as leather masks, ropes, etc. .
+
+In other words, a series of iconographic figures. The lead dancers try 
+their best to behave as beginners - in dance, in torture. The rest of the 
+company is appears reactive; they're uncomfortable in their roles (often 
+nude) - broken, scraped. The audience wants more; the audience wants none 
+of it.
+
+The prisoners are arranged by the lead dancers. They resist weakly at 
+best. The lead dancers appear simultaneously American and Imperial (i.e. 
+of any emblematic power). The prisoners appear as Other, signed as Other; 
+nude, they are the same. The prisoners have nothing. (Perhaps, but only 
+perhaps, the lead dancers carry Bibles. Or there are Bibles at hand. Or 
+there is a cross at hand. Or a crown of thorns.)
+
+
+4. Electric
+
+The dance-floor is covered with wire - grids, meshes, barriers. This acts 
+as an antenna for VLF (very low frequency) radio. The antenna is fed 
+through heavy notch filters cutting back on the local (60hz, 50hz) power 
+grid; it leads to a NASA VLF-3 radio whose output is fed back into the 
+space vis-a-vis loudspeakers. For one to five dancers. Dancers should be 
+nude or with little clothing; they interact with each other, with the 
+wires. Actions include sliding fingers and palms along the wires, wrapping 
+the body (limbs, neck, penis and breasts if nude, fingers, waist), moving 
+in and out of contact with other dancers. Performers should try to 
+maximize sound production as inductance, etc. change. Stage lighting is 
+sinusoidal, i.e. lights slowly increasing to maximum, then decreasing to 
+darkness, and back again. At first this appears as 'effect,' but it soon 
+establishes the rhythm of the dance.
+
+The dancers 'worry about' the wires, about dancing among the wires, 
+between the wires, on them. This may not have been in the contract. (The 
+contract might have specified, however, 'any and all.')
+
+The dancers behave as ionizations, lightnings, atmospherics, insects, dead 
+and live wires, environments. Tech runs a sound-board with effects, 
+including the possibility of sending the sound through AudioMulch or other 
+similar programs. The dancers establish and contradict their own rhythms. 
+The sounds screech and roar.
+
+==
+
+The dances reference projections, introjections - screens, bodies, poli- 
+tics, physical fields. Elements from one - for example Bait - may be mixed 
+with others - for example Electric. Screen and Abu Gharayb are resonant; 
+Abu Gharayb and Bait are resonant.
+
+The dancers are reeling, on edge, nervous, difficult, a problem, their 
+desires constrained by spectacle. The dancers are on exhibit, behavioral 
+codes thwarted or broken. If a dancer feels comfortable, he or she should 
+push the dance further.
+
+There are many kinds of ecstasy, violence. Ecstasy and violence, beauty, 
+sexuality, and horror, interpenetrate. For the dancers, everything is at 
+risk.
+
+After the dances, the dancers should be hurried off the stage.
+
+==
+
+Back-stage, a room of rest, meditation, place of transformation from 
+politics 'and all the rest' to everyday life. This space is inviolate. 
+Dancers (perhaps) may use the room during a performance for recuperation. 
+Perhaps the stage is emptied.
+
+Video is always an emergency. The dancers emerge into (their) (other) 
+skins.
+
+Every piece may end early. A program may consist of one to four pieces. 
+The specific choreography, if there is such, is created by the head of the 
+company, in line with the intentions of the dance.
+
+For Abu Gharayb, the lead dancers should be dressed in uniforms identified 
+with empire and dictatorial power. For Electric, nude dancers may have 
+lightning bolts drawn on their skin - drawn as children would draw; the 
+bolts would blur with sweat. For Screen, the dancers (perhaps) should have 
+specific character costumes; they are 'in character' - their character is 
+taken away from them (by mismatched blocking, pacing, clumsiness). The 
+dancers in Bait, if nude and masturbating, should dance perfectly, 
+(perhaps) facing the audience as much as possible, as if - Look, this is 
+what I can do in this doubling of art and arousal (as if there is a 
+difference). As if - I am aroused by the audience (by you) (in the line of 
+sight). For Abu Gharayb, the dancers form a closed circuit; for Electric, 
+an open one. For Bait, a circuit in the form of a lasso; for Screen, a 
+demonstration to the audience, acting-out for the audience.
+
+Finally the length of the performance(s) should be predetermined only as a 
+maximum, the rest decided by the exigencies of the choreography and the 
+ability of the dancers to continue performing in these abject or particu- 
+lated circumstances.
+
+
+
+Host
+
+
+[Entering is: Alan is a newbie needing a desc.]
+
+Room: world
+
+Everyone arrives in the room. A storm rages.
+
+You are all alone here.
+
+Access is fixed to PUBLIC and there are 0 messages on the board.
+
+[Entering is: Nikuko is a newbie needing a desc.]
+Nikuko says: Hello Alan!
+You may call me Jennifer. I am wandering here in this world.
+You say: You may call me Jennifer. I am wandering here in this world.
+Nikuko says: There are no descriptions in this world. 
+To describe is to be human. To describe is to give meaning to a
+discontinuous continuum.
+You say: To describe is to be human. To describe is to give meaning 
+to a discontinuous continuum.
+Nikuko says: I'm in the midst of loss. In mourning for my country. 
+Presage of collapse and empire. Ragged surfaces no longer whole.
+Stumble, stumble, leave no 
+thing unturned, untoward. 
+You say: Stumble, stumble, leave nothing unturned, untoward. 
+We are utterly flat.
+You say: We are utterly flat.
+We are inconceivably flat.
+You say: We are inconceivably flat.
+Nikuko says: Thin like a knife cutting through the knot of argument. 
+Against a sky evenly illuminated, always the same, our words change 
+nothing.
+Words are given speech, perhaps you were not aware. Of the words and
+sounds and murmurs surrounding you.
+You say: Words are given speech, perhaps you were not aware. 
+Of the sounds and murmurs surrnding you.
+Nikuko says: I cry for the moment of disconnect. I don't want to leave 
+this space. MOTHER, MOTHER!
+
+;a sound
+Alan a sound
+Nikuko a sound
+
+Nikuko says: aaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhh...
+Nikuko says: Space fills with presence, unnamed space.
+
+Space is never named.
+You say: Space is never named.
+
+;desires all bodies 
+murmurs in all spaces.
+
+Alan desires all bodies murmurs in all spaces.
+Nikuko desires and desires...
+Nikuko says: JENNIFER!
+JENNIFER!
+You say: JENNIFER!
+
+.rev
+*** Room conversation buffer ***
+Alan says: Stumble, stumble, leave nothing unturned, untoward. 
+Alan says: We are utterly flat.
+Alan says: We are inconceivably flat.
+Nikuko says: Thin like a knife cutting through the knot of arguments. 
+Against a sky evenly illuminated, always the same, 
+our words change nothing.
+Alan says: Words are given speech, perhaps you were not aware. 
+Of the sounds and murmurs surrnding you.
+Nikuko says: I cry for the moment of disconnect. I don't want to leave 
+this space. MOTHER, Mother!
+Alan a sound
+Nikuko a sound
+Nikuko says: aaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhh...
+Nikuko says: Space fills with presence, unnamed space.
+Alan says: Space is never named.
+Alan desires all bodies and murmurs in all spaces.
+Nikuko desires and desires...
+Nikuko says: JENNIFER!
+Alan says: JENNIFER!
+*** End ***
+On Wednesday, 1st March, for a total of 0 hours and 8 minutes.
+Connection closed by foreign host.
+
+
+the company
+
+the company in action with the master-camera
+the memory of a dancer is in hir muscles
+the body is a muscle
+the brain is a body
+the brain is not a muscle
+the body of the dancer is eternal
+long live eternal bodies
+eternal bodies are digital
+digital bodies can never be destroyed
+digital bodies live forever and i don't mean on television
+i don't mean on computers either
+the company is the company of digital bodies
+vulnerability is a trick
+my name is damaged life
+
+
+
+The Hurtling Towards Death
+
+
+O Dance apostrophic, embrace death, the body fails and falters, expends 
+what remains of its energetic treasure. Forestalled by documentation's 
+impoverishment, your slightest gesture remains unfulfilled, latent, lax, 
+amidst the machinery of calculation, rigid ordination of numbers. 
+
+Translation of Dance, the capturing of death, its swallowing by ordinal- 
+ordination, the descent to the floor or basement of the binary, what is 
+analogic reproduced by raster tending towards the infinitely fine. What
+is missing -
+
+What is missing are two wildly disparate orders of calculation, of 
+mobility itself, orders which only approximate one another through techne 
+and speech, code and partition. One order, that of the calculated, the 
+production of parallel numerical streams representing movement and the 
+muscle-mind of the Dancer (who is technically _the Danced,_ the one who 
+_is Danced_ by the Dance), and the other, the frequency-laden irreducible 
+neural spill of mental activity, electrical, emission and spew. 
+
+For the mind-breath, O Dance! is reproducible only by itself, maps only 
+onto itself as itself, inasmuch as the ordinal-ordination-ordinateur of 
+the Dance reads and writes you as input/output, perhaps infinitely 
+parallel streams, nonetheless perhaps not even clocked, nonetheless, 
+across that gulf of into- or onto- mappings, or rather mappings with 
+continuously-modifying metrics, nano-second by nano-second, there's no end 
+to it, no beginning.
+
+O Dance! you're nothing more than the ordinary-ordination body moving 
+through space, the body of itself, at rest in and of itself, the blessing 
+of the incontrovertible complexity of the world, its inhering. Any 
+reduction quietly speaks and conjures the factory, automaton, robotics of 
+precision and repetition. O Dance! We're not speaking of life-force, we're 
+murmuring the litany of the infinitely-small, surrounded by shells and 
+carapaces of computers-ordinators, maternal-paternal projection against 
+the pulled muscle, the sprain, the torn ligament, the bruise. And O Dance! 
+We would make of you an entire world, cosmos-Dance, ocean-Dance, particle- 
+Dance, what would we do with that?
+
+Impossible of representation, humans never give up trying, violating voice 
+and mind, ordinal representation (and who said nothing about the nuggets 
+of the cardinal?), the numerical cut, the definition. Jump to edit-points, 
+application of points, applique. An imposing edifice! Numerical-numb, the 
+prisoner of flesh, the Dancer-manque-Danseuese -
+
+Technology of stage and lights, phenomenologies of distribution - O Dance, 
+dream aloud! Dream quietly!
+
+
+
+
+Millennium performance text 3/18/06
+
+pronouncements, but on what? imperfectly, we are fastened to the world.
+pronouncements, but on what? imperfectly, we are fastened to the world.i 
+onlyhave a limited amount of material here, I'll have to repeat myself, 
+apologies because this doesn't happen in the real world. there are two 
+united states airplanes pronouncements, but on what? imperfectly, we are 
+fastened to the world ad there are many ways that the world speaks to us 
+through vibrations of buildings or radiations in isolated places where we 
+can listen without or outside the power grid the world manifesting itself 
+through the body of dance. through the upwelling of inconceivable matter. 
+through manifest electromagnetic waves surrounding us. through eventhis 
+mouse and this mousepad and antenna connected, irradiating, fulfilling dna 
+with subterfuge with the possibility of decay, decadence, pronouncements, 
+but on what? imperfectly, we are fastened to the world my life is taken up 
+with power grid in precise increments of 60 or fifty cycles per 2nd. 
+*/probe 1 of the doctor/* I'm from this moment on, using up all my 
+material < -- > interacting with the and at the same time, the presence of 
+the doctor or antenna, the splitting of the body, the memory of some 
+things you might have come across before, or sometimes entirely new, the 
+revelation of the antenna coupling the dancer to the earth/ground of the 
+material powergrid substratum of the grutli room rehearsal space in 
+geneva. foofwa was bleeding after this. next time we are moving the piece 
+to the alps. anything in the environment that conducts
+body < 

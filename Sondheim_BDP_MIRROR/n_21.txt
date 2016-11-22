@@ -1,0 +1,89 @@
+
+
+
+
+Internet Text Description                                        10/21/95
+
+
+The Internet Text consists of 700 +/- sections written over a period of
+twenty-two months, a continuous meditation on cyberspace, emphasizing
+issues of interiority, subjectivity, body, and language. The extended
+range of topics includes Net applications, the materialist "gristle" that
+can't be discarded in analysis. Most recently, I have been using a re- 
+worked MUD (multi-user-dungeon), talkers, MOOs, and other MUDs, as a way 
+of creating discourses about these issues.
+
+_Nothing_ is concluded here, although there are summarizations of key
+concepts, such as _rewrite, protocol, emission, spew, ghost, address,
+inscription, fissure, and the uncanny._ There are also several sections
+serving as outlines or recapitulations of the "arguments so far." 
+Recently, the text has dealt with issues of net sex, psychosis, and
+protolanguage. It has also covered the concept of "defuge," and traced
+notions of cybermind back through such things as the Gilgamesh epic; 
+Lacanian and Freudian concepts have been brought back into play. Kim 
+Mcglynn and I have worked together on a series of pieces as well.
+
+The Internet Text is in the form of "short-waves, long-waves." The former
+are the individual pieces, almost all titled, written in a variety of
+styles, and referencing a number of writers ranging from Jabes and Blan-
+chot to Acker and Lingis, with Penrose, Kristeva, and Karl Kraus somewhere
+in between. These texts are interrelated, interpenetrated; on occasion
+"characters" appear - these are _actants_ possessing philosophical or
+psychological import. They also create and problematize narrative sub-
+structures within the work as a whole. (Such are Clara Hielo Internet,
+Tiffany, Alan, Claire, Honey, and others; Tiffany, in particular, has
+become a space of learning, sexuality, mathesis, semioisis... - as well as
+the armature of spaces on PMC2-MOO and Media-Moo.)
+
+The long-waves are fuzzy topoi on such issues as death, love, virtual
+embodiment, the "granularity of the real," and physical reality, which
+criss-cross the texts. The resulting fragmentations and coagulations owe 
+something to German Romanticism, but more to the function of sites or 
+nodes on the Net itself.
+
+There is no binarism in the work, no series of protocol statements. On
+the other hand, virtuality is considered far beyond the ASCII text net-
+scape that is most prevalent now, at the end of the twentieth century. 
+The various issues of embodiment that will arrive with full-real or 
+true-real VR are already in existence as embryonic, permitting the 
+theorizing of various present and future spatialities and their inter-
+connectedness.
+
+The text often presents and stumbles over gender, genders and regenders
+itself; consider other-gendered personages replacing the ones described. 
+I have no stake in them beyond my own desire, memory, and circumlocu-
+tion; others will do.
+
+Although there are faux-texts of writers such as Dickinson, Stein, and
+Poe, these texts are meant as partial transparencies. I do not mean to
+imply that virtuality is synonymous with masquerade or freely-given 
+choice of identities. Almost all other references are accurate, referen-
+cing a wide range of writers and viewpoints. The resulting matrix, how-
+ever, is entirely my own.
+
+The Internet Text divides into fourteen files; there is also an index
+file to the whole. While it is best read in the order it is written in,
+certain early sections, at pains to establish a working vocabulary, are
+more terse and perhaps difficult than others; they may be skipped, to be
+returned to at a later date. The same goes for the few Qbasic programs  
+and those sections which employ technical terminology (once again the 
+gristle). (Note that the Text is continued in the alphabetic text, which 
+contains files a,b,c,d,e,f,g,h,i,j,k,l, and m to date.)
+
+Certain texts has been written with Kim Mcglynn or Angela Hunter, and are
+of course as much their creation as my own. The work to date can be found
+by telnetting to
+
+    http://jefferson.village.virginia.edu/~spoons/internet_txt.html
+        (including images and sound)
+    or at: ftp jefferson.village.virginia.edu
+        cd pub/pubs/listservs/spoons/cybermind-digest.archive/internet
+
+Some images are at http://www.cs.unca.edu/~davidson/pix/ as well.
+The building at Media-Moo is #2014 and at PMC2-MOO, do @join Alan and 
+from the first space, go "down" to the second.
+
+
+Alan Sondheim, sondheim@panix.com, sondheim@netcom.com
+
+

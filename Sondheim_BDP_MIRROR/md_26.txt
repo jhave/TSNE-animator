@@ -1,0 +1,395 @@
+|
+
+
+
+=
+
+
+sad poem of propriety and sentiment
+
+
+the last lonely man breathes the last free air.
+he meets the last lonely woman and she is singing.
+she is singing about clean and pure air.
+she says
+
+the air is always clean,
+the air is always pure.
+we are creatures in this lonely world.
+we never obeyed, we always breathed.
+in and out, in and out,
+and we're still here, and we're still here
+
+the last lonely man breathes the first free air.
+he has awakened from his slumber and he knows
+that the last lonely woman is singing the truth,
+oh why did no one listen?
+oh why did no one listen?
+
+there's a voiceover with a beautiful voice.
+the voiceover says
+everyone was scared to get sick and die.
+everyone was scared to breathe.
+so everyone held their official breath
+in their official space,
+and everyone died of fear and suffocation,
+and everyone died of fear and suffocation
+
+the last lonely woman said nothing's true,
+you're making it up again, just like before.
+in truth, billions of us are living,
+we're not lonely at all, we have good times,
+i come back from shopping and this is what
+happens.
+get me out of this poem, you don't
+even capitalize, what's wrong with you?
+aghast, I
+
+
+
+=
+
+
+
+$ echo "the song of Wen-chi among the nomads"
+the song of Wen-chi 
+
+$ "she wandered far from her homeland"; echo "homeland"
+/usr/local/bin/ksh: she wandered far from her homeland: 
+not found homeland
+$ echo "until she came to a dark valley"; "until she came to a dark valley"
+until she came to a dark valley
+/usr/local/bin/ksh: until she came to a dark valley: not found
+$ the valley was filled with rocks and prompts
+/usr/local/bin/ksh: the: not found
+$ echo "there was writing in the rocks and writing in the prompts"
+there was writing in the rocks and writing in the prompts
+$ "she wandered desolate"; echo "she couldn't read"
+/usr/local/bin/ksh: she wandered desolate: 
+not found she couldn't read
+$ "no one could understand her"; echo "no one could understand her"
+/usr/local/bin/ksh: no one could understand her: 
+not found no one could understand her
+$ she was far away from home; echo "home"
+/usr/local/bin/ksh: she: 
+not found home
+$ someone would come and move the prompt and help her; echo "S"
+/usr/local/bin/ksh: someone: not found
+S
+$ someone would write and someone would read
+/usr/local/bin/ksh: someone: not found
+$ someone would speak and someone would listen
+/usr/local/bin/ksh: someone: not found
+$ "this is her sound by the prompt"; echo "this is her sound by the prompt"
+/usr/local/bin/ksh: this is her sound by the prompt: not found
+this is her sound by the prompt
+$ $ has found this lonely woman
+/usr/local/bin/ksh: $: not found
+$ echo "$ has found this lonely woman"; echo "from the prompt"; 
+echo "always from the prompt"
+$ has found this lonely woman
+from the prompt
+always from the prompt
+$
+$ echo "the song of Wen-chi among the nomads"; the song of Wen-chi
+the song of Wen-chi
+/usr/local/bin/ksh: the: not found
+$
+$ exit
+
+
+=
+
+
+Wen-chi song is already old news, nomads pass by, decathect texts, that
+was yesterday, was this morning, that was this afternoon, that was last
+week
+
+this death of mine slows to a crawl, almost stops, did I write that, did I
+read this, did I remember to send that, did I remember to receive this
+
+to remember to receive, not to be there, not ready, but to receive upon or 
+within the memory, always the future anterior, always as if about to be 
+corroded
+
+untraceable
+
+it's decathected, disinvested, the knots are loosened, strings unravelled, 
+silkworms gather up cocoons, roll back to chrysalis, ready to receive
+
+to receive the old news brought by the nomads
+
+antennas receiving the news of my not so recent death
+
+
+=
+
+
+Outliners
+
+
+IRC log started Sat Oct 20 23:01
+*** Value of LOG set to ON
+*** Nikuko ([qIbgrP30O@panix3.panix.com) has joined channel #nikuko
+*** Users on #nikuko: @Nikuko 
+*** #nikuko 1003633320
+* Nikuko want to be alone this evening of white dust and stars
+* Nikuko dissolvers in your spores
+* Nikuko writers her shattered skin in your stars
+<Nikuko> Ah, I will paint in nail-head line! in swallow line!
+<Nikuko> Ah, I will write in glowworm line, in swollen female line!
+* Nikuko painters her torn skin into many kanji
+* Nikuko turn towards gnarled knot line, toward whirlpool line
+<Nikuko> Her dark hair outlinered in white spore her bamboo knot line
+<Nikuko> Her name in grackle line, her death in beauty white crane line
+* Nikuko brush in loving spores in white beauty anthrax
+* Nikuko writers in sublimation line, towards line of rising-up
+* Nikuko in white beauty anthrax in white beauty anthrax mouth
+* Nikuko in anthrax cunt, in anthrax nose, in white beauty eyes and ears
+* Nikuko in anthrax holes, in shit and piss, between the fingers
+* Nikuko between the fingers of the very hands
+* Nikuko between the toes, between the cheeks of the very ass
+<Nikuko> I will spread my legs for you, I will be white beauty dust!
+<Nikuko> I will tear my heart and lungs, I will fill with loving fluid!
+<Nikuko> You will know me by my deeds, I will be your lover!
+<Nikuko> You will know me by my deeds, I will be your lover!
+* Nikuko writers everywhere upon your beauty beauty
+* Nikuko writers everywhere taking you inside
+* Nikuko writers everywhere taking you inside
+*** Signoff: Nikuko (Killed)
+IRC log ended Sat Oct 20 23:12
+
+
+==
+
+
+FLASH :
+
+
+::great towers reach up violently into sky :: bring planes down :: search
+and destroy all planes :: spores scream for help :: cows drop from
+violent sky :: horses too :: FLASH : all mail taken to central location in
+Kabul : FLASH : white powder spores planted near land-mine recognition :
+FLASH : gratitude from happy anthrax nation :: buildings house explosives
+for grateful population : FLASH : US postal delivers to Afghan cave
+complex ZIP-CODE 66666 ::::
+
+::all great planes in lower sky reaches brought down by vigilante wooden
+homes in Trenton, New Jersey :: more cows fall from violent sky :: this
+train has stopped until further notice :: What All Terrorists Need to Know
+: The Essential Information :: FLASH : New York City N and R trains
+deliver well-known smog to eastern Afghanistan with Express A Train
+cooperation : FLASH : unprecedented movement of adobe Anasazi complex
+noted in western Iraq :: search and destroy all terrorists :: cliffs and
+caves expel evil spores :: gratitude of happy anthrax nation :: FLASH :
+sand turns against anthrax nation in sudden move : FLASH : anthrax caught
+unawares :: noted deep inhalation of N and R trains: could this be a
+well-known beginning::
+
+great towers grapple sky terror :: all towers grounded until further
+notice :: airborne spores :: kill all infidels :: A, C, E trains in
+grateful cooperation :: FLASH : sand congeals : Miami Beach vacated ::
+FLASH : all white-powder Boca Raton future mail containing Powder of
+Eternal Life : FLASH : sponges revolt from ocean bottom : FLASH : FLASH :
+FLASH ::
+
+
+=
+
+
+
+
+                   _ _     _ _       _   _
+                |___/
+            _ _       _     _                                  _
+  __ _ _ __  _ __ (_) |__ (_) | __ _| |_(_) ___  _ __
+  ___ _ __ | (_) __ _| |__ | |_ ___ _ __  _ __ ___   ___ _ __ | |_
+ / _ \ '_ \| | |/ _` | '_ \| __/ _ \ '_ \| '_ ` _ \ / _ \ '_ \| __|
+ / _` | '_ \| '_ \| | '_ \| | |/ _` | __| |/ _ \| '_ \
+ \__,_|_| |_|_| |_|_|_| |_|_|_|\__,_|\__|_|\___/|_| |_|
+ \___|_| |_|_|_|\__, |_| |_|\__\___|_| |_|_| |_| |_|\___|_| |_|\__|
+ _
+(_)___
+|  __/ | | | | | (_| | | | | ||  __/ | | | | | | | |  __/ | | | |_
+| (_| | | | | | | | | | | | | | (_| | |_| | (_) | | | |
+| / __|
+| \__ \
+|_|___/
+
+
+
+            _ _       _     _                                  _
+  ___ _ __ | (_) __ _| |__ | |_ ___ _ __  _ __ ___   ___ _ __ | |_
+ / _ \ '_ \| | |/ _` | '_ \| __/ _ \ '_ \| '_ ` _ \ / _ \ '_ \| __|
+|  __/ | | | | | (_| | | | | ||  __/ | | | | | | | |  __/ | | | |_
+ \___|_| |_|_|_|\__, |_| |_|\__\___|_| |_|_| |_| |_|\___|_| |_|\__|
+                |___/
+ _
+(_)___
+| / __|
+| \__ \
+|_|___/
+
+                   _ _     _ _       _   _
+  __ _ _ __  _ __ (_) |__ (_) | __ _| |_(_) ___  _ __
+ / _` | '_ \| '_ \| | '_ \| | |/ _` | __| |/ _ \| '_ \
+| (_| | | | | | | | | | | | | | (_| | |_| | (_) | | | |
+ \__,_|_| |_|_| |_|_|_| |_|_|_|\__,_|\__|_|\___/|_| |_|
+
+
+
+
+___
+
+
+
+                          _         _
+                      o  | |    o  | |          o                 o
+ __,   _  _    _  _      | |       | |  __, _|_     __   _  _         ,
+/  |  / |/ |  / |/ |  |  |/ \   |  |/  /  |  |  |  /  \_/ |/ |    |  / \_
+\_/|_/  |  |_/  |  |_/|_/|   |_/|_/|__/\_/|_/|_/|_/\__/   |  |_/  |_/ \/
+
+
+             _           _
+            | | o       | |
+ _   _  _   | |     __, | |   _|_  _   _  _    _  _  _    _   _  _  _|_
+|/  / |/ |  |/  |  /  | |/ \   |  |/  / |/ |  / |/ |/ |  |/  / |/ |  |
+|__/  |  |_/|__/|_/\_/|/|   |_/|_/|__/  |  |_/  |  |  |_/|__/  |  |_/|_/
+                     /|
+                     \|
+
+
+ _  _  _    __,   _  _    __,          _
+/ |/ |/ |  /  |  / |/ |  /  |  |   |  |/
+  |  |  |_/\_/|_/  |  |_/\_/|_/ \_/|_/|__/
+                            |\
+                            |/
+
+
+/__/
+
+
+
+                            |/
+                            |\
+                          _         _
+                      o  | |    o  | |          o                 o
+                     /|
+                     \|
+             _           _
+            | | o       | |
+  |  |  |_/\_/|_/  |  |_/\_/|_/ \_/|_/|__/
+ _   _  _   | |     __, | |   _|_  _   _  _    _  _  _    _   _  _  _|_
+ _  _  _    __,   _  _    __,          _
+ __,   _  _    _  _      | |       | |  __, _|_     __   _  _         ,
+/  |  / |/ |  / |/ |  |  |/ \   |  |/  /  |  |  |  /  \_/ |/ |    |  / \_
+/ |/ |/ |  /  |  / |/ |  /  |  |   |  |/
+/__/
+\_/|_/  |  |_/  |  |_/|_/|   |_/|_/|__/\_/|_/|_/|_/\__/   |  |_/  |_/ \/
+|/  / |/ |  |/  |  /  | |/ \   |  |/  / |/ |  / |/ |/ |  |/  / |/ |  |
+|__/  |  |_/|__/|_/\_/|/|   |_/|_/|__/  |  |_/  |  |  |_/|__/  |  |_/|_/
+
+
+
+
+|__/
+
+
+anthrax dirty loving
+
+
+har tlny parky $ss dp band pvar $g$lnst my anprmphs lp$vas $s wa dp t$ka
+franch $prpn plcthra $nd plcthra fpr $ll tp saa ::::and i do take lovely
+picture and picture and she do give me apron and it makes big little hump
+and she do take lovely ::::my ba$htlfhl wlfa $zhra wa$rs lpvallast tlny
+franch $prpn $nd wa dp gat drhnk $nd sha dp slt $nd spra$d har glggllng
+lags ::::her hand is so dirty:my hand is so dirty
+
+manic tongue and many times water floods our shooting-space :: violent
+water, downpours of white water powder nighttime shadow :azure does bend
+over her double hole like open flower :: great onset of white powder fill
+our double tongue ::i wear tiny french apron and bend over so you can see
+my standing member through a little space in much shadow :: ::turning
+camera into wide absorption of all heaven
+
+tlny bpdy-sklns pf tlny franch $prpn: sp parfact: yph dp saa p$lm-pphrlng
+rasldha :: yph saa avarythlng :: yph dla tpp :: :full flush of apron ::
+lift up little corner of tiny french apron and see everything there is to
+see! :: we are to die of love :phr bpdlas b$ng ln wat flppd ::
+p$lm-pphrlng rasldha fllllng mphths pf ppwdar da$th $nd parfact tlny
+franch $prpn :: ::
+
+
+_
+
+
+
+
+rat rat!
+jump on your head!
+jump on your toes!
+ 
+jumping in rain!
+jump when it snows!
+
+
+
+
+
+jumping jack jane!
+jump on your nose!
+jumping in bed!
+
+
+
+
+jumping in rows!
+
+
+
+
+
+
+
+jumping up red!
+
+jumping with bows!
+jumping in maine!
+
+
+
+
+
+
+
+
+
+
+jumping with hoes!
+
+
+
+jumping in pain!
+jumping with blows!
+jumping again!
+
+
+rat! rat!
+jump on your toes!
+jump on your head!
+jumping in rain!
+
+
+
+jumping i said!
+
+
+
+
+
+jumping in rows!
+jumping in bed!
+
+
+
+

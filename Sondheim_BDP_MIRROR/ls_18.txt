@@ -1,0 +1,121 @@
+==
+
+
+
+DENWA TRANSMITTED TELEPHONE MOSHI-MOSHI KENJI SIRATORI
+
+
+dive:the HITACHI SO-DESU-NE DAIMYO HAI! wolf=space MOSHI-MOSHI was NAKASU-
+KAWABATA SUBARU SO-DESU-NE OTAKU cetera:was controlled WA drug-eyeE! HAI!
+E! HAI! EE!E!"
+
+1 ls 2 wc dd 3 pico dd 4 sed 's/ .... / SONY /g' dd > yy 5 sed 's/ .. / WA
+/g' yy > dd 6 sed 's/ ....... / HITACHI /g' dd > yy 7 sed 's/ ...... / SU-
+BARU /g' yy > dd 8 sed 's/ ... / HAI! /g' dd > yy 9 sed 's/ ........... /
+MOSHI-MOSHI /g' yy > dd 10 less dd 11 h 12 sed 's/ ..... / OTAKU /g' dd >
+yy 13 ded 's/\./E!/g' yy > dd 14 sed 's/\./E!/g' yy > dd 15 pico dd 16 sed
+'s/ ........ / JR /g' dd > yy 17 pico yy 18 sed 's/ ......... / DAIMYO /g'
+yy > zz 19 rm dd 20 sed 's/ .............. / NAKASU-KAWABATA /g' zz > yy
+21 pico yy 22 sed 's/ .............. / BAJA/g' yy > zz 23 sed 's/ .......-
+....... / BAKA /g' yy > zz 24 sed 's/ ................. / SO-DESU-NE /g'
+zz > yy 25 sed 's/ ... / EE! /g' yy > zz 26 sed 's/\!E/\! E/g' zz > yy 27
+pico yy 28 sed 's/ E\! / HAI\! /g' yy > zz 29 pico zz 30 rm yy 31 h 32 h 1
+33 h 1 >> zz 34 pico zz 35 sed 's/ E\! / EE /g' zz yy 36 h 37 sed 's/ E\!
+/ EE /g' zz > yy 38 pico yy 39 sed 's/EE /EE\!/g' yy > zz 40 pico zz 41
+sed 's/ ..^/ ka/g' zz > yy 42 pico yy 43 h 44 sed 's/ ..$/ KA/g' zz > yy
+45 pico yy
+
+My MOSHI-MOSHI NAKASU-KAWABATA BAKA SO-DESU-NE EE! script mode::boundless
+shellE! HAI! EE!HAI! E!<vision SONY resuscitates> series EE!HAI! EE!HAI!
+E! of EE! NAKASU-KAWABATA HAI! DAIMYO NAKASU-KAWABATA SONY continent
+NAKASU-KAWABATA inE! HAI! EE!HAI! E!reacts SO-DESU-NE SUBARU WA SUBARU KA
+fleshE! HAI! EE!HAI! EE!HAI! E!the MOSHI-MOSHI SONY machine=angel MOSHI-
+MOSHI SONY HITACHI separates) in HAI! OTAKU HITACHI HAI! HITACHI MOSHI-
+MOSHI SO-DESU-NE HITACHI with EE! HITACHI SUBARU screenE! HAI! EE!HAI!
+E!while doing_vagus_onlineE! SONY OTAKU circuit of HAI! JR OTAKU cons-
+ciousness NAKASU-KAWABATA SUBARU DAIMYO and contractionE! HAI! EE! HAI!
+E!I DAIMYO HAI! SONY speed-emotional MOSHI-MOSHI EE! in NAKASU-KAWABATA
+deficiency WA SO-DESU-NE BAKA without DAIMYO HAI! MOSHI-MOSHI NAKASU-KA-
+WABATA SO-DESU-NE WA cadaver-feti NAKASU-KAWABATA HAI! HITACHI MOSHI-MOSHI
+BAKA intermediate NAKASU-KAWABATA HITACHI MOSHI-MOSHI HITACHI SONY KA
+existence//cable NAKASU-KAWABATA HITACHI HAI! EE!HAI! EE!HAI! E!piercing
+WA SUBARU OTAKU HITACHI MOSHI-MOSHI grow thick JR SONY desire/yourself KA
+BAKA The MOSHI-MOSHI DAIMYO NAKASU-KAWABATA JR inoculated JR machinary
+NAKASU-KAWABATA Nerve-seedE! HAI! EE!HAI! E!of DAIMYO OnlineE! HAI! KA
+HAI! E!of body_omotyaE! I SO-DESU-NE JR BAKA MOSHI-MOSHI aberrationE! HAI!
+E! HAI! E!of HAI! SO-DESU-NE HAI! HITACHI miracle DAIMYO OTAKU HAI! NAKA-
+SU-KAWABATA EE! machine=angelE! SONY OTAKU HITACHI MOSHI-MOSHI HITACHI
+melancholy product to HAI! HITACHI external OTAKU SUBARU OTAKU DAIMYO
+MOSHI-MOSHI DAIMYO JR WA SO-DESU-NE SUBARU DAIMYO NAKASU-KAWABATA HAI!
+parasiticE! DAIMYO OTAKU SUBARU MOSHI-MOSHI digital=vamp soE! HAI! EE!HAI!
+E! E!" EE! NAKASU-KAWABATA JR SUBARU JR HITACHI <streaming WA EE! DAIMYO
+HAI! DAIMYO SONY gene=TVE! HAI! EE!HAI! E!burying HAI! HITACHI SONY stor-
+age NAKASU-KAWABATA JR SUBARU DAIMYO SONY MOSHI-MOSHI SUBARU SONY EE! BAKA
+MOSHI-MOSHI HITACHI cadaver-feti WA respiredE! SONY HITACHI of JR KA
+congestedE! HAI! EE!HAI! E!the NAKASU-KAWABATA SUBARU HITACHI BAKA HITACHI
+DAIMYO impossibility_picture--E! Continent nature=siliconeE! HAI! EE!HAI!
+E! NAKASU-KAWABATA OTAKU NAKASU-KAWABATA that invades SONY MOSHI-MOSHI
+SONY OTAKU HAI! JR HITACHI SONY HITACHI the JR SO-DESU-NE NAKASU-KAWABATA
+SO-DESU-NE DAIMYO murderous SUBARU SO-DESU-NE regionE! HAI! EE!HAI! E!of
+soul/gramE! SONY cold-blooded disease HITACHI WA SONY MOSHI-MOSHI control-
+led HAI! MOSHI-MOSHI who proliferates SUBARU cadaver-city" SUBARU OTAKU
+NAKASU-KAWABATA that masses NAKASU-KAWABATA BAKA monitor WA gene=TVE! HAI!
+E! HAI! EE!E!miracleE! HAI! EE!HAI! E!that number NAKASU-KAWABATA HAI!
+SONY techno-junkies' SONY JR SO-DESU-NE murder MOSHI-MOSHI air-line SONY
+dogE! MOSHI-MOSHI NAKASU-KAWABATA OTAKU that splitE! HAI! EE!HAI! EE!E!"
+BodyE! HAI! EE!HAI! E!of MOSHI-MOSHI HAI! soul/gram_vampE! SONY drug-eye
+SONY HAI! vital DAIMYO SO-DESU-NE NAKASU-KAWABATA MOSHI-MOSHI SONY KA
+pictures of HAI! NAKASU-KAWABATA respiredE! HAI! EE!HAI! E!murder personE!
+HAI! EE!HAI! E!of OTAKU NAKASU-KAWABATA HITACHI NAKASU-KAWABATA SONY HIT-
+ACHI NAKASU-KAWABATA HAI! artificial NAKASU-KAWABATA channelE! HAI! KA
+HAI! E!of boy_roidE! SO-DESU-NE NAKASU-KAWABATA WA NAKASU-KAWABATA SO-DESU
+-NE SUBARU DAIMYO that NAKASU-KAWABATA HITACHI WA gene=TVE! HAI!  EE!HAI!
+E!the inside=system SUBARU lobotomy disease HAI! OTAKU HITACHI NAKASU-KAW-
+ABATA HAI! machine=angel that fainted::the rape-guy! HAI! MOSHI-MOSHI SUB-
+ARU MOSHI-MOSHI DAIMYO possible worldly HITACHI circuit---ToKAGE NAKASU-
+KAWABATA citiesE! HAI! EE!HAI! E!the JR EE! DAIMYO HAI! SONY JR itE! Des-
+cendsE! SONY body=strategy DAIMYO regulated WA hydro=maniac WA NAKASU-KA-
+WABATA SUBARU mappedE! HAI! EE!HAI! E!micro OTAKU reactionE!  HAI! EE!HAI!
+E!of boy_roidE!  SO-DESU-NE OTAKU SONY HITACHI HAI! JR HITACHI HAI! NAKA-
+SU-KAWABATA yourself! NAKASU-KAWABATA SONY OTAKU MOSHI-MOSHI NAKASU-KAWA-
+BATA BAKA MOSHI-MOSHI WA MOSHI-MOSHI DAIMYO EE! malice-technocrisis NAKA-
+SU-KAWABATA OTAKU SONY HAI! DAIMYO NAKASU-KAWABATA of cold-blooded HITACHI
+MOSHI-MOSHI SUBARU HAI! output=] DAIMYO form picture OTAKU SONY OTAKU SONY
+HAI! MOSHI-MOSHI DAIMYO NAKASU-KAWABATA SO-DESU-NE HITACHI contraryE! "E!
+HAI! EE!HAI! EE!E!strips+dog of NAKASU-KAWABATA WA DAIMYO BAKA SUBARU NAK-
+ASU-KAWABATA EE! distortedE! HAI! EE!HAI! EE!E!" HITACHI BAKA HAI! DAIMYO
+WA control NAKASU-KAWABATA SONY OTAKU WA flourished MOSHI-MOSHI absent-
+minded picture HITACHI HAI! skyE! HAI! EE!HAI! EE!E!ovarium cableE! HAI!
+E! HAI! E!of HAI! JR SONY EE! DAIMYO SO-DESU-NE MOSHI-MOSHI WA HITACHI
+
+SONY flows: OTAKU #
+
+A techno-junkies' NAKASU-KAWABATA murders>>the non-symmetrical HITACHI KA
+the artificial sun_mode>>the NAKASU-KAWABATA SO-DESU-NE OTAKU SONY that KA
+HITACHI HAI! OTAKU SONY JR HAI! MOSHI-MOSHI WA MOSHI-MOSHI OTAKU JR SONY
+SO-DESU-NE absorbedE!  EE!HAI! EE!HAI! EE!E!the OTAKU SO-DESU-NE JR air-
+line SONY completed MOSHI-MOSHI SO-DESU-NE NAKASU-KAWABATA SONY OTAKU SONY
+HAI! degrades=crawls OTAKU HAI! HITACHI circuit of HAI! OTAKU SUBARU
+cadaver-city HITACHI OTAKU NAKASU-KAWABATA SO-DESU-NE MOSHI-MOSHI HAI!
+expandedE! SO-DESU-NE SUBARU DAIMYO of HAI! technocrisisE! HAI! EE!HAI!
+E!as DAIMYO itE! HAI! EE!HAI! E!was NAKASU-KAWABATA the hydromaniac=murd-
+erous DAIMYO WA cold-blooded HITACHI animals/form the chromosomeE! SONY KA
+HITACHI NAKASU-KAWABATA It WA HITACHI HAI! HITACHI SO-DESU-NE HAI! NAKASU-
+KAWABATA organ picture HAI! HITACHI MOSHI-MOSHI NAKASU-KAWABATA DAIMYO
+OTAKU DAIMYO HITACHI SONY HAI! OTAKU SO-DESU-NE JR SONY chromosome HITACHI
+back out graduallyE! HAI! EE!HAI! E!the SO-DESU-NE HITACHI SONY HITACHI KA
+the awakening OTAKU NAKASU-KAWABATA MOSHI-MOSHI SONY HITACHI MOSHI-MOSHI
+and others SONY SO-DESU-NE SUBARU lonely SO-DESU-NE DAIMYO of the DAIMYO
+MOSHI-MOSHI isolatedE!  ""E! HAI! EE!HAI! EE!E!soul/gram HITACHI HAI! sec-
+rete EE! DAIMYO NAKASU-KAWABATA JR OTAKU NAKASU-KAWABATA HAI! controlled
+with NAKASU-KAWABATA HAI! NAKASU-KAWABATA JR SUBARU MOSHI-MOSHI WA NAKASU-
+KAWABATA MOSHI-MOSHI transmitted SUBARU telephony SONY DAIMYO
+NAKASU-KAWABATA JR technology SONY OTAKU continentally I JR to excreteE!
+HAI! EE!HAI! EE!E!" DAIMYO HAI! OTAKU HITACHI WA EE! drug-embryoE! HAI! KA
+HAI! E!intensity-the JR HITACHI <skizoner>E! HAI! EE!HAI! EE!E!that EE!
+SO-DESU-NE SUBARU crime=technology NAKASU-KAWABATA DAIMYO cold-blooded
+HITACHI animals intensivelyE! JR SONY NAKASU-KAWABATA nervous MOSHI-MOSHI
+HAI! SONY [DOWNMIX] NAKASU-KAWABATA HAI! NAKASU-KAWABATA ToKAGEE! HAI! KA
+HAI! EE!E!
+
+

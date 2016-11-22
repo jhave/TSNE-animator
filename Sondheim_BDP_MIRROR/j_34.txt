@@ -1,0 +1,56 @@
+
+
+
+Signals, Skittering of Difference
+
+
+If we understand what physically exists, in terms of the filtering, 
+editing, and isolation of a signal, then we can understand the bracketing 
+that creates a firewall around it, and the means for maintaining it. In 
+Digital and Analog Communication Systems, Leon W. Couch II specifies the 
+following attributes of "practical waveforms that are _physically real- 
+izable_" [my comments are in brackets*]:
+
+"1. The waveform has significant nonzero values over a composite time
+interval that is finite. [There must be presence in the first place; a
+null waveform is equivalent to no waveform at all. If the waveform is a 
+signal, there must be a symmetrical substrate of one sort or another, 
+Peirce's sheet of assertion, carrier wave, etc. This is part of the 
+delivery system.]
+
+2. The spectrum of the waveform has significant values over a composite
+frequency interval that is finite. [These values would be carried in a
+particular medium. Everything depends in #1 and #2 on "significant" of
+course - when is a waveform noise, and when is it relevant as a signal?
+What constitutes relevancy?]
+
+3. The waveform is a continuous function of time. [The waveform takes on a
+value for every subinterval within a specified interval, and further, it
+has a beginning and an end.]
+
+4. The waveform has a finite peak value. [It can be contained within one 
+or another receiving/transmitting unit.]
+
+5. The waveform has only real values. That is, at any time, it cannot have
+a complex value a + jb, where b is nonzero. [The waveform is observable in
+the real world.]" 
+
+Can we say that a signal embodies a delivery system, and is therefore both
+bracketed temporally and temporally dependent? This is a question of con-
+touring. The maintenance of signals constitutes culture, and the mainten-
+ance of culture employs the redundancy of signals. The embodiment of sig-
+nals vis-a-vis interpretation involves secondary narcissism. A signal is
+never totally defined by difference; as pointed out elsewhere, indexical
+pointing towards an object skitters ontologies but does not necessarily
+operate as relay against other gestures. Embodiment is always already an
+issue; sememes are never totalities. Even Baudrillard's simulacra exist as
+such in relation to practices in the real world, and such practices, de-
+terminative or not, "solvable" or not, are finite. If we begin with these
+practices, instead of the debris of structuralism (dyads, difference, 
+etc.), then totality is quickly recognized as construct itself. The anal- 
+ysis of gesture I have presented in the past few days is precisely that 
+of the construct of totality. 
+
+There is a politics of engagement embedded in this, which I leave to the 
+imaginary.
+

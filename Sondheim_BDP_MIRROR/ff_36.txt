@@ -1,0 +1,80 @@
+
+
+
+
+Machine/Anecdote/Divinatio
+
+
+
+Tonight I have been trying for hours to teach someone basic commands for
+downloading/viewing messages on the Internet. Like a lot of my students,
+s/he hasn't read any background material, and won't. Teaching becomes a
+matter of listing commands, presenting them as literal protocol senten-
+ces, each independent of the others. The sentences function, not as sym-
+bolic arrays, but as ikonic; they're proper names, and the "dir" in for
+example "dir netscape/cache" is not the same "dir" as in "dir windows" -
+in fact, both "dir" are independent diacritical modifiers, if they're even
+that substantiated. 
+
+This is the world of pre-Freudian psychoanalytics, going all the way back
+to the Questions of Aristotle - an accumulation of stories, symptoms, op-
+erations, non-systemic, or top-down systemic at best. Thus the humours are
+top-down, as are the astrological signs; they presuppose totalities - as
+opposed to bacterial classification, for example. The system that emerges
+is related to magic, fetishization, empathetic phenomenology - not to a
+generative or axiological ordering.
+
+Without this ordering, the totality remains impermeable, foreclosed; 
+learning becomes a matter of rote or brute force. Not only is very little
+retained, but there is no room for error or anomaly. Now within tradition-
+al structures, anomaly and error are absorbed; the structures are fuzzy.
+Within the digital realm (without analog slippage), error can easily be
+the matter of a single bit, and even semi-expert systems are relatively
+uncompromising. 
+
+Learning these machines becomes, then a matter of dialectic between top-
+down and bottom-up; on one hand, say, understanding the GUI (Graphic User
+Interface), and on the other, working through a knowledge - at the least -
+of data structures.  With this approach, if something goes wrong, or if a
+new application is downloaded from the Net, the user will have some idea
+of how to continue. The totality will still be there, but it will be, on
+some level, systematized. 
+
+Such is the passing of illusions of _divinatio,_ the computer as the book
+of nature, filled with wondrous signs. The greatest advancement in this
+sense is the well-defined statement descending from an axiom set, a feel-
+ing of regularity in spite of Godel, Tarski, Skolem, Church, and Cohen
+(and don't forget that Godel remained a variant of platonist). Wondrous
+signs are filled with excess, as we are here and in physical space; won-
+drous signs leak, exude desire, scent, and taste. In programming, there
+are no wondrous signs; statements are written according to the syntax or
+they don't compile, or compile badly, or produce something else. There is
+likewise no tolerance for wrong clicks spelling errors; there may be a
+decent error-reporting facility ("close parentheses") or you may be en-
+tirely on your own.
+
+We're used to the magic. A car doesn't just _go_ - it _surges._ Our cat
+thinks our thoughts for us. Current just _flows_ from the socket when a
+lever is turned elsewhere in the room. And most of us, myself included,
+can't tell exactly what goes on in the CPU. But you can't stop at the
+level of the interface - you've got to, at least, peel the tissues back,
+examine a bit of the nervous system, check memory and its management and
+short-term and long-term memory...
+
+Whole worlds are overturned. It's no longer enough to memorize Caesar.
+Gender becomes pheromic, hormonic, environmental, genetic, hysteric. God
+is a matter of cryptology or voiceover. The path not taken is charted by
+the GPS (Global Positioning Satellite). Good fences make good neighbors
+observed from the stratosphere and beyond. 
+
+There's no conclusion here. For a youngster, the magic's still there and
+all the way through, and the magic's tied to power, systems-control and
+all things go. The system transforms into adolescent _urge_ - I've got
+that even now - maybe the only difference is that I recognize the compon-
+ents. And this is the legacy, in fact, of this entire century in our West
+- the _component,_ and the problematic phenomenology accompanying it (just
+as the assembly line and modularity characterized the 19th century, from
+which humanity and the humanities despaired and fled and tried, unsuccess-
+fully, to overturn, time and time again) ... 
+
+

@@ -1,0 +1,24 @@
+
+
+
+
+Hell: Cannot Create Time:
+
+
+Script started on Sun Sep  1 23:21:07 1996
+warning: could not update utmp entry
+netcom% telnet panix3.panix.com
+Trying...
+Connected to panix3.panix.com.
+Escape character is '^]'.
+No directory /net/u/6/s/sondheim!
+touch: cannot touch //.motd_time: no write permission
+$ touch motd_time
+touch: cannot create motd_time: Permission denied
+$ touch time
+touch: cannot create time: Permission denied
+$ touch exit
+touch: cannot create exit: Permission denied
+script done on Sun Sep  1 23:21:50 1996
+
+

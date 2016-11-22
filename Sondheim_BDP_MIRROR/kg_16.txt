@@ -1,0 +1,26 @@
+
+
+
+{k:1} touch me
+{k:2} rm me
+rm: remove me? y
+{k:3} touch flesh
+{k:4} rm flesh
+rm: remove flesh? y
+{k:5} rm space
+rm: space: No such file or directory
+{k:6} touch space
+{k:7} rm space
+rm: remove space? y
+{k:8} rm time
+rm: time: No such file or directory
+{k:9} touch time
+{k:10} rm time
+rm: remove time? y
+{k:11} touch all
+{k:12} rm all
+rm: remove world? y
+{k:13) who am i
+Nikuko
+{k:14) exit
+

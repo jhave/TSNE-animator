@@ -1,0 +1,38 @@
+
+
+
+
+
+Cybercafe
+
+
+I'm helping to work out a menu system for a cybercafe. Ideas? Certainly
+that there be an aol access point, and a telnet to check mail elsewhere;
+that a few muds be include; that the usual Cuseeme stuff be added on, that
+there be a frontiers area which would include the new video/audio applica-
+tions; that there be a phone area that would include things like Iphone
+and Tscape as well; that there be a personals area for Web and other per- 
+sonals, and a chat area for romance and just plain contact - this might 
+include MIRC as well as Global Chat which is pretty easy to use; that 
+there be simple download/printing methods heading straight towards full- 
+color printers; that there be an inktomi and yahoo immediate access for 
+information; that there be a local NY newspage continually updated with 
+additional information; that Usenet be presented with a simple way of 
+searching the various groups; that telnet 25 be disabled to prevent sim- 
+ple mischief but that other telnet ports be open; that gopher be there - 
+preferably the Nysernet and the tc.umn.edu ones (one for local, one for 
+global); that email be enabled possibly without return - and any other 
+ideas here? because I'm curious what on earth would ever drive anyone to 
+a cybercafe if and when she/he had access to a home or university account 
+- but then the possibility of community, decent printing, trying out 
+Iphone on a registered basis without paying for it; using reasonably ad- 
+vanced videoboards, etc. comes to mind.
+
+Any ideas? Not only because I'm engaged in this project, but also because 
+I'm interested in figuring out what the deeper points (if any) of cyber- 
+cafes are, and how much exactly they can exist as global coffee-houses, 
+half in one world, half in the other...
+
+And what would you want to see, in either, and for whom?
+
+

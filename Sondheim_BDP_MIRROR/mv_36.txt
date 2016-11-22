@@ -1,0 +1,440 @@
+
+
+
+   My Archive Activity in Case of War Storage on the Run
+
+    1  cd web
+    2  ls
+    3  cd /web
+    4  lscd /
+    5  cd /
+    6  cd web
+    7  ls
+    8  cd
+    9  ls
+   10  exit
+   11  ls
+   12  cd /
+   13  cd web
+   14  cd
+   15  cd web
+   16  ls
+   17  cd
+   18  cd ../../web
+   19  ls
+   20  pico index.html
+   21  ftp panix.com
+   22  chmod 644 mq
+   23  ls
+   24  cd
+   25  pine
+   26  ls
+   27  rm dead.letter
+   28  ls
+   29  cd /usr
+   30  ls
+   31  cd games
+   32  ls
+   33  cd ..
+   34  cd ..
+   35  ls
+   36  cd usr
+   37  ls
+   38  cd ..
+   39  cd home
+   40  ls
+   41  cd ..
+   42  cd
+   43  ls
+   44  exit
+   45  cd ../../web
+   46  ls
+   47  mkdir portal
+   48  bye
+   49  exit
+   50  cd ../../web
+   51  wc *
+   52  cd portal
+   53  wc *
+   54  ls
+   55  mv LIFE.MOV life.mov
+   56  bye
+   57  exit
+   58  cd ../../
+   59  cd portal
+   60  cd web
+   61  cd portal
+   62  ls > zz
+   63  ftp panix.com
+   64  exit
+   65  cd ../../web
+   66  cd portal
+   67  df
+   68  du
+   69  ls
+   70  wc *
+   71  ls
+   72  cd ..
+   73  du
+   74  wc *
+   75  exit
+   76  cd ../../web
+   77  du
+   78  cd portal
+   79  ls > zz
+   80  pico zz
+   81  rm zz; ls *.mov
+   82  exit
+   83  cd ../../web/portal
+   84  ls
+   85  ls > yy
+   86  pico yy
+   87  ftp panix.com
+   88  exit
+   89  cd ../../web/portal
+   90  ftp panix.com
+   91  ispell README.txt
+   92  pico README.txt
+   93  ls
+   94  rm yy
+   95  mv README.txt 0README.TXT
+   96  mv README.txt 0README.TXT
+   97  ls
+   98  mv 0README.txt 0.README.txt
+   99  ls
+  100  wc *.TXT
+  101  mv 0README.TXT 0.README.txt
+  102  less 0.README.txt
+  103  ls
+  104  ls * > zz
+  105  ftp panix.com
+  106  ls
+  107  rm zz
+  108  cd ..
+  109  du
+  110  exit
+  111  cd ../../web/portal
+  112  ls
+  113  ls *.mov
+  114  pico 0.README.txt
+  115  ls
+  116  wc *
+  117  ls
+  118  exit
+  119  cd ../../web
+  120  ls 
+  121  cd portal
+  122  ls
+  123  exit
+  124  cd ../../web
+  125  ls
+  126  du
+  127  cd portal
+  128  du
+  129  exit
+  130  cd ../../web
+  131  df
+  132  du
+  133  cd portrwportal
+  134  cd portal
+  135  ls
+  136  ls *.,pov
+  137  ls *.mov
+  138  exit
+  139  cd ../../web/portal/basic
+  140  pwd
+  141  ls :*.mov
+  142  ls *.mov
+  143  mv moveii.mov /home/sites/site14/web/portal
+  144  ls
+  145  cd ..
+  146  ls
+  147  pic 0.README.txt
+  148  pico 0.README.txt
+  149  cd ..
+  150  df
+  151  du
+  152  exit
+  153  cd ../../web/portal
+  154  mkdir book
+  155  mkdir polypore
+  156  mkdir article
+  157  exit
+  158  cd ../../web
+  159  ls
+  160  du
+  161  du > zz
+  162  ls polypore
+  163  ls portal/polypore
+  164  ls portal/polypore >> zz
+  165  ls portal/bool >> zz
+  166  ls portal/book >> zz
+  167  ls portal/book/texts >> zz
+  168  ls portal/book/talks/ >> zz
+  169  pico zz
+  170  ls portal/basic/ >> zz
+  171  pico zz
+  172  ftp panix.com
+  173  df
+  174  du
+  175  byew
+  176  bye
+  177  exit
+  178  cd ../../web/portal
+  179  ls
+  180  ls | more
+  181  cd book
+  182  ls
+  183  cd ..
+  184  ls | more
+  185  cd clara
+  186  ls
+  187  mv *.JPG *.jpg
+  188  ls
+  189  ftp panix.com
+  190  pico readme
+  191  ls
+  192  ls -la *
+  193  mv readme README.txt
+  194  ls
+  195  ls -la
+  196  exit
+  197  cd ../../web/portal
+  198  mv basic program
+  199  ls
+  200  cd ..
+  201  du
+  202  cd portal/article
+  203  ls
+  204  cd ..
+  205  rmdir article
+  206  ls
+  207  exit
+  208  cd ../../
+  209  ls
+  210  cd web
+  211  lls
+  212  ls
+  213  chmod 644 mr
+  214  chmod 644 ms
+  215  pico index.html
+  216  lynx index.html
+  217  ls
+  218  exit
+  219  cd ../../web
+  220  ls
+  221  less zz
+  222  rm zz
+  223  ls
+  224  touch zzzzz
+  225  cat ?? > zzzzz
+  226  wc zzzzz
+  227  cat *.txt >> zzzzz
+  228  wc zzzzz
+  229  cat Uncanny Weather Blood Fantasm >> zzzzz
+  230  wc zzzzz
+  231  ftp panix.com
+  232  rm zzzzz
+  233  exit
+  234  cd ../../web
+  235  pwd
+  236  cd portal
+  237  ls
+  238  cd clara
+  239  ls
+  240  less README.txt
+  241  rm *
+  242  cd ..
+  243  rmdir clara
+  244  ls
+  245  ls DSC*
+  246  rm DSC*
+  247  ls
+  248  ls | more
+  249  less 0.README.txt
+  250  ls
+  251  ls | more
+  252  exit
+  253  cd ../../web
+  254  ls
+  255  cd portal
+  256  ls
+  257  ls * > zz
+  258  wc zz
+  259  ftp panix.com
+  260  rm zz
+  261  ls
+  262  cd ..
+  263  ls
+  264  cd portal
+  265  ls | more
+  266  cd book
+  267  ls
+  268  wc sophia.txt
+  269  ls
+  270  wc *
+  271  ftp panix.com
+  272  ls
+  273  ls > zz
+  274  ls talks/* >> zz
+  275  wc zz
+  276  mv zz zzz
+  277  less zzz
+  278  ls
+  279  ftp panix.com
+  280  exit
+  281  cd ../../web
+  282  pico index.html
+  283  exit
+  284  cd ../../
+  285  ls
+  286  cd web
+  287  du
+  288  ls h*
+  289  cd portal
+  290  ls h*
+  291  wc h*
+  292  exit
+  293  cd ../../web
+  294  ls
+  295  grep Beaufort * > jjjj
+  296  pico jjjj
+  297  rm jjjj
+  298  y
+  299  pico ln
+  300  exit
+  301  cd ../../web
+  302  ls
+  303  man grep
+  304  grep -h problematic * > zzz
+  305  wc zzz
+  306  ftp panix.com
+  307  rm zzz
+  308  exit
+  309  cd ../../web
+  310  cat ?? > zzzz
+  311  wc zzzz
+  312  cat *.txt >> zzzz
+  313  cat Blood Weather Fantasm >> zzzz
+  314  ls
+  315  cat Past Uncanny >> zzzz
+  316  wc zzzz
+  317  ftp panix.com
+  318  exit
+  319  cd ../../web
+  320  ls
+  321  ftp panix.com
+  322  ls
+  323  pico index.html
+  324  exit
+  325  cd ../../web
+  326  traceroute panix.com
+  327  ping panix.com
+  328  dig panix.com
+  329  telnet solix.fiu.edu
+  330  cd ../../
+  331  cd web
+  332  telnet panix.com
+  333  telnet panix3.panix.com
+  334  telnet panix5.panix.com
+  335  telnet panix2.panix.com
+  336  telnet panix7.panix.com
+  337  telnet solix.fiu.edu
+  338  telnet panix7.panix.com
+  339  rusers panix.com
+  340  ruser panix.com
+  341  exit
+  342  cd ../../web
+  343  grep fuzzy * > zzzz
+  344  wc zzzz
+  345  ls
+  346  wc zzzz
+  347  rm zzzz
+  348  history
+  349  grep fuzzy ??? > zzzz
+  350  wc zzzz
+  351  cd
+  352  pwd
+  353  cd ../../web
+  354  grep fuzzy * > ~/zzzz
+  355  cd
+  356  wc zzzz
+  357  ftp panix.com
+  358  rm zzz
+  359  rm zzzz
+  360  cd ../../web
+  361  ftp panix.com
+  362  exit
+  363  grep -h fuzzy ../../web/* > zzzz
+  364  wc zzzz
+  365  pico zzzz
+  366  history
+  367  grep -h defuge ../../web/* > zzzz
+  368  wc zzzz
+  369  pico zzzz
+  370  ftp panix.com
+  371  rm zzzz
+  372  exit
+  373  cd ../../web
+  374  ftp panix.com
+  375  pico index.html
+  376  chmod 644 mu
+  377  bye
+  378  exit
+  379  cd ../../web
+  380  pico index.html
+  381  exit
+  382  cd ../../web
+  383  ls
+  384  wc zzzz
+  385  rm zzzz
+  386  y
+  387  cat ?? > zzzz
+  388  wc zzzz
+  389  cat *.ext >> zzzz
+  390  cat *.txt >> zzzz
+  391  cat book? >> zzzz
+  392  ls
+  393  cat Blood Fantasm Past Uncanny Weather >> zzzz
+  394  wc zzzz
+  395  ftp panix.com
+  396  rm zzzz
+  397  exit
+  398  cd ../../web
+  399  ls
+  400  ftp panix.com
+  401  pico netintro
+  402  mv netintro augie.txt
+  403  cat ?? >> augie.txt
+  404  mv augie.txt augie.text
+  405  cat *.txt >> augie.text
+  406  mv augie.text augie.txt
+  407  ls
+  408  cat Blood Fantasm Past Uncanny Weather >> augie.txt
+  409  cat book? >> augie.txt
+  410  wc mv
+  411  ftp panix.com
+  412  cat mv >> augie.txt
+  413  wc augie.txt
+  414  df
+  415  du
+  416  exit
+  417  cd ../../web
+  418  rm augie.txt
+  419  exit
+  420  cd ../../web
+  421  ls
+  422  ftp panix.com
+  423  pico netintro
+  424  cat *.txt >> netintro
+  425  cat ?? >> netintro
+  426  ls
+  427  cat Blood Fantasm Past Uncanny Weather >> netintro
+  428  cat book? >> netintro
+  429  wc netintro
+  430  mv netintro augie.txt
+  431  history
+  432  history >> zz
+
+
+  

@@ -1,0 +1,22 @@
+
+
+
+
+
+Error-Message ("Hello world!")
+
+
+(if (and (bound like a big string 'emacs-version)
+	 (or (and (bound like a string 'epoch::version) epoch::version)
+	     (string-less string-full emacs-version "19.29")))
+    (error "`stringy' was compiled for Emacs 19.29 or later"))
+    (string-full errors: July 17 then
+	 (mount stringy-string `x` || strung-up errors: July 14 then
+           (elseif a really big string)
+         (strung-up > dev/mul)))
+    (car(caddr(cadddr(s t r i n g i n g - s t r i n g))))
+           (endif strung-out stringy-string ("a really big string"))
+
+(byte-code-stringy "n/n!/*")
+
+

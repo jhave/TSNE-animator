@@ -1,0 +1,63 @@
+
+
+
+DEAD TAPE: May 14 01:18 1997   Page 1
+
+
+				    Through Fat
+___________                         | o o .o  |
+Jenn    Through Thick               | oo o.   |
+| o o .o  |                         | ooo . o |
+| oo o.   |                         | oo o.ooo|
+| ooo . o |                         | ooo .o o|
+| oo o.ooo|                         | oo  .ooo|
+| ooo .o o|                         | oo o.   |
+| oo  .ooo|                         |  o  .   |
+| oo o.   |                         | o   .oo |
+|  o  .   |                         | oo  .  o|
+| o o .o  |                         | ooo .o  |
+| oo o.   |                         |    o. o |
+| oo o.  o|                         And Stout
+| oo  . oo|                         | o   .  o|
+| oo o. oo|                         | oo o.oo |
+|    o. o |                         | oo  .o  |
+And Thin                            |  o  .   |
+| o   .  o|                         | o o . oo|
+| oo o.oo |                         | ooo .o  |
+| oo  .o  |                         | oo o.ooo|
+|  o  .   |                         | ooo .o o|
+| o o .o  |                         | ooo .o  |
+| oo o.   |                         |    o. o |
+| oo o.  o|                         Your Flesh
+| oo o.oo |                         | o oo.  o|
+|    o. o |                         | oo o.ooo|
+Your Flesh                          | ooo .o o|
+| o oo.  o|                         | ooo . o |
+| oo o.ooo|                         |  o  .   |
+| ooo .o o|                         | o   .oo |
+| ooo . o |                         | oo o.o  |
+|  o  .   |                         | oo  .o o|
+| o   .oo |                         | ooo . oo|
+| oo o.o  |                         | oo o.   |
+| oo  .o o|                         |    o. o |
+| ooo . oo|                         Is Out
+| oo o.   |                         | o  o.  o|
+|    o. o |                         | ooo . oo|
+Is In                               |  o  .   |
+| o  o.  o|                         | o  o.ooo|
+| ooo . oo|                         | ooo .o o|
+|  o  .   |                         | ooo .o  |
+| o  o.  o|                         |    o. o |
+| oo o.oo |                          
+|    o. o |                         |  o  .   |
+				    |    o. o |
+|  o  .   |
+|    o. o |
+
+
+<-- These programs use ppt, paper-tape emulation in Unix, to create a
+physical flesh/bone structure for Jennifer, ASCII-simulation of paper-
+tape designed to recuperate ASCII within the machine. In other words, 
+an abstract Unix emulation of a physical substrate designed to produce
+an abstract Unix emulation of bones and flesh. // -->
+

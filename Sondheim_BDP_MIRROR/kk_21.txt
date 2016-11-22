@@ -1,0 +1,27 @@
+
+
+
+Finger
+
+
+{k:5}finger -l nikuko@oita.com.jp
+Name: Daishin Nikuko (nikuko)
+Home: /home/r7/nikuko
+Shell: /bin/csh
+Timeout -- while doing something indeterminable.
+
+
+at last finger no longer brings home the world
+but only a murmuring behind thick or walls filled flush
+with oozing text: poor Unix has no geomancy
+telling among the rocks of this rare earth
+what rare earths glow subluminary;
+I search and find nothing but something, a something
+indeterminable, skittering across protocols and bins,
+hungering after permissions and lost directories,
+buried within the mining of metals and coals,
+tunneled and shored by timbers diffused with light:
+at last the finger points; and what bleak source
+eludes, dissolves, and steers the Word off course?
+
+

@@ -1,0 +1,152 @@
+
+
+
+A Quiet Talk in Kyoto
+
+
+---- No world ----
+
+---- World hokusai ----
+
+% Connection to hokusai established.
+
+Welcome to Kyoto-MOO!
+
+Type 'connect <username> <password>' to log in.
+
+A moment of stillness just before the invention of radio. you are
+entering a world of speaking bodies; everyone is close at hand. If
+you reach out, you touch us with your bright thinking. Welcome to
+Kyoto!
+
+*** Connected ***
+
+Kyoto
+an intense clearing, city-basin, distant humans, everywhere visible...
+You see snow, Luminous Sign, and the City of Wind here.
+Last connected Wed May  7 02:06:11 1997 EDT from panix3.panix.com
+
+---
+You have no messages on your Answering Machine.
+---- World sotatsu ----
+
+% Connection to sotatsu established.
+
+Welcome to Kyoto-MOO!
+
+Type 'connect <username> <password>' to log in.
+
+A moment of stillness just before the invention of radio. you are
+entering a world of speaking bodies; everyone is close at hand. If
+you reach out, you touch us with your bright thinking. Welcome to
+Kyoto!
+
+*** Connected ***
+
+Yurt
+hovel where Wizards hang, bones in front, skins behind
+You see basin, human, lump, and stuff here.
+% Activity in world hokusai
+Last connected Wed May  7 02:06:58 1997 EDT from panix3.panix.com
+
+---
+You have no messages on your Answering Machine.
+You join Hokusai.
+
+Kyoto
+an intense clearing, city-basin, distant humans, everywhere visible...
+You see snow, Luminous Sign, and the City of Wind here.
+
+Hokusai is here.
+
+You say, "Time when we are noticably weary, friend..."
+
+---- World hokusai ----
+
+[ Sotatsu connected (Yurt) - total 2 users online ]
+Sotatsu teleports in.
+
+Sotatsu says, "Time when we are noticably weary, friend..."
+
+You say, "That is true, my friend; we are far gone, now, among these
+ dark and dismal times..."
+
+% Activity in world sotatsu
+---- World sotatsu ----
+
+Hokusai says, "That is true, my friend; we are far gone, now, among these
+dark and dismal times..." 
+
+You say, "And what can be done about these dreary nightmares in this empty
+space, friend Hokusai?" 
+
+% Activity in world hokusai
+---- World hokusai ----
+
+Sotatsu says, "And what can be done about these dreary nightmares in
+ this empty space, friend Hokusai?"
+
+You say, "I do not know; to persevere among the scattered texts, broken
+ dreams, lost avatars... O, Sotatsu, what will become of us?"
+
+% Activity in world sotatsu
+---- World sotatsu ----
+
+Hokusai says, "I do not know; to persevere among the scattered texts,
+broken dreams, lost avatars... O, Sotatsu, what will become of us?" 
+
+You say, "We shall dwell here, in the houses of the Lords, forever, friend
+Hokusai, and we shall live, and learn..." 
+
+% Activity in world hokusai
+---- World hokusai ----
+
+Sotatsu says, "We shall dwell here, in the houses of the Lords,
+ forever, friend Hokusai, and we shall live, and learn..."
+
+% Activity in world sotatsu
+
+You say, "And, Sotatsu, what will that be, in this place of plum wine
+ and Noh? For shall we ever live further..."
+
+---- World sotatsu ----
+
+Hokusai says, "And, Sotatsu, what will that be, in this place of plum wine
+and Noh? For shall we ever live further..." 
+
+You say, "Hush, Hokusai, there are things it is better not to know..."
+
+% Activity in world hokusai
+---- World hokusai ----
+
+Sotatsu says, "Hush, Hokusai, there are things it is better not to
+ know..."
+
+% Activity in world sotatsu
+
+You say, "Ah, that is so true, my friend... let us sleep now, we are
+ tired..."
+
+---- World sotatsu ----
+
+Hokusai says, "Ah, that is so true, my friend... let us sleep now, we are
+tired..." 
+
+You say, "True enough, friend Hokusai, we shall sleep, now and forever..."
+
+% Activity in world hokusai
+---- World hokusai ----
+
+Sotatsu says, "True enough, friend Hokusai, we shall sleep, now and
+ forever..."
+
+*** Disconnected ***
+% Connection to hokusai closed by foreign host.
+
+---- World sotatsu ----
+You hear a quiet popping sound; Hokusai has disconnected.
+
+*** Disconnected ***
+% Connection to sotatsu closed by foreign host.
+---- No world ----
+

@@ -1,0 +1,116 @@
+
+
+
+( From a course I offered at the New School in 1995 - just found this and 
+thought it might be of interest - Alan )
+
+Item 10    20-JUN-95    14:31    Alan Sondheim (asondhei)
+Graphic and other Interfaces for the Information Highway
+
+
+I think, given the discussion about the graphic user interfaces, this
+text below might be of interest - it was used in last semester's class
+and posted on the Net as well. (From March)
+
+We're moving ahead of the "how do you use the Internet" portion of the
+utline, since this, as a topic, has been coming up repeatedly...
+
+
+Future Interfacing on the Net and Information Highway -
+
+
+A major issue arising in relation to the future of the Internet and
+Information Highway, is the nature of the user interfaces that will
+be available. The interfaces are more than transparent windows into
+the Net services and databases; they also express philosophies of
+interaction. Below are some of the concerns involved.
+
+1. Text or image-driven? Mosaic, Netscape, and other applications
+clearly favor image-driven browsing. Pictures are used not only as
+ornament, but also as icons governing entrance into the Net. Format
+well beyond the traditional look of ascii is becoming increasingly
+important.
+
+2. Point-and-click or keyboard-driven. More and more, applications
+are moving to mouse interaction. This can be considerably slower
+than command-line (typed) interfacing, particularly if aliases are
+used; a keystroke/return or just a keystroke can be quicker than
+point-and-click requiring two interacting movements. The keystroke
+entrance also allows tailoring of commands.
+
+3. Speed of access. How quick is the interface? This is determined
+by the local machine, the server, the interface interaction, and the
+ability of the user to successfully operate the keyboard or mouse.
+
+4. Menu/Hypertext/Icon. Like all of these concerns, there are over-
+laps here. A menu-driven system, like gopher itself, is based on
+cursor movement or number-entrance, on a line-by-line basis. If the
+menu is long, this can be tiresome. A hypertext system, like the
+World Wide Web, uses in general only four arrow keys; again, there
+can be considerable scrolling involved. Both of these, of course, can
+also use the mouse, which is generally at the heart of an icon-system
+in which point-and-click moves around a group of scattered symbols on
+the screen.
+
+5. In general, the more polished the interface, the less individual
+configuring is possible. But this may change, as image-driven inter-
+faces, even point-and-click, allow for access to deeper and more
+varied levels than the older command-line operations.
+
+6. In a decade or so, text and image-driven interfacing may become
+obsolete, replaced by information-shaping applications utilizing intel-
+ligent agents, configured for the individual user. These agents would
+have the ability to respond through any input/output, including voice,
+joystick, keyboard, touch-screen, and three-dimensional mouse. Infor-
+mation and format would coalesce into a single object.
+
+7. Information-shaping would lead to _shape-riding,_ the ability to
+figuratively ride shapes, transform them, in a manner similar to that
+of "liquid architecture," described by Marcos Novak in Benedikt's
+Cyberspace: First Steps. Such shape-riding is based on an individual
+trajectory through cyberspace.
+
+8. In addition to shape-riding, there is community interfacing, the
+use of liquid architectures or information-shaping to create and
+inhabit cyberspace communities, which may be information- and/or
+socially-oriented. These communities will be the descendents of the
+current MOOs, MUSHs, and MUDs, all multi-user domains found on the Net.
+
+9. Currently, development is also heading toward the _virtual office,_
+which can be anything from a full virtual-reality environment to an
+office representation on a "personal digital assistant" (PDA). The
+virtual office is paralleled by the remnants of horse-drawn carriage
+construction built into the design of early automobiles - or even the
+presence of the static camera which dominated early film. (The camera
+thereby represents the static spectator sitting in a theater audience,
+instead of a fully-mobile spectator immersed in the action.) Chance
+are that the office imagery will change radically over the next few
+years, as users become more comfortable with on-line life, and tradi-
+tional routines (even such as downloading to hard-copy paper) are for-
+gotten or bypassed.
+
+10. The interface itself, in any form, will become a confluence of
+media, including moving images (animations and video in general),
+sound, and, in VR, constantly transforming environments. Human inter-
+action will change within two decades to more "cerebral" operations,
+using eye-movement and brain electrical activity for control.
+
+11. Virtual sexuality will become integrated with future interfacing;
+sexuality is already one of the prime content-elements of the Net.
+Full-body control and response may become a basic component of commu-
+nication; this depends of course to some extent on regulation.
+
+12. The _visions_ that emerge from this - the world as menu or hyper-
+text, the body as integrated into communications or data bases, liquid
+architecture and shape-riding replacing the static and "obdurate" pre-
+sence of objects in real life - will obviously modify the _subject_
+herself or himself. It is hard to speculate on what will happen in
+these environments in the long term. For one thing, application and
+community become equivalent, each creating and interpenetrating the
+other. And sexuality, emotions, and politics all become "loosened" in
+cyberspace as well; the intensity of _non_ face-to-face communication
+can be overwhelming.
+
+Any comments would be greatly appreciated!
+
+

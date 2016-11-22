@@ -1,0 +1,381 @@
+|
+
+
+
+arcitexting at Eyebeam
+
+http://www.alansondheim.org/architect.mp4
+
+beam or submarine, this object provides the interior foil for
+the platform dance "Eyebeam" done for all the "swells" in the
+West Chelsea area and their "digs"
+
+http://www.alansondheim.org/eyes1.bmp
+http://www.alansondheim.org/eyes2.bmp
+http://www.alansondheim.org/eyes3.bmp
+http://www.alansondheim.org/eyes4.bmp
+http://www.alansondheim.org/eyes5.bmp
+
+then a few tantalizing "stills" where all movement seems to
+be "stopped" for a scintillating few seconds of "revelry"
+
+
+crimped doubles
+
+http://www.alansondheim.org/crimped1.jpg
+http://www.alansondheim.org/crimped2.jpg
+http://www.alansondheim.org/crimped3.jpg
+http://www.alansondheim.org/crimped4.jpg
+http://www.alansondheim.org/crimped5.jpg
+http://www.alansondheim.org/crimped6.jpg
+http://www.alansondheim.org/crimped7.jpg
+
+abstract animated avatar maquette 
+the holes open to one another or not at all
+the bodies are crimped, collapsed, coagulated
+the bodies crash and crumble without destiny
+it's as if the holes puckered and faltered
+and they might slosh what might be there
+pure gifts from one to another 
+there's no happiness without exchange
+there's no grief without collapse
+the holes no longer speak or chatter
+animated communities have no history
+their history's left behind
+monotony... monotony...
+but there's always an echo in the hollow
+where a letter lies sleeping
+
+
+Alan Sondheim
+
+noise reduction of a jet aircraft
+
+http://www.alansondheim.org/jetblue1.wav (better deeper sound)
+http://www.alansondheim.org/jetblue1.mp3
+
+jetblue nearing denver, colorado with heavy noise filtering
+artifacts and information 
+
+(unexpected beauty from what might have been mundane / mundance
+or what one might have considered commonplace, neither commons
+or communal)
+http://www.alansondheim.org/jetblue1.wav
+www.alansondheim.org
+Like    Share  2 seconds ago
+
+
+
+MY DEATH PRE-RECORDED AND TRANSFERRED
+
+http://www.alansondheim.org/death.mp4
+
+Welcome to Core FTP, release ver 2.1, build 1649 (U) --  2003-2010
+WinSock 2.0
+Mem -- 3,987,312 KB, Virt -- 2,097,024 KB
+Started on Saturday November 19, 2011 at 13:20:PM
+Resolving alansondheim.org...  
+Connect socket #924 to 208.76.84.140, port 21...
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------  
+220-You are user number 1 of 50 allowed.  
+220-Local time is now 14:20. Server port: 21.  
+220-This is a private system - No anonymous login  
+220-IPv6 connections are also welcome on this server.  
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------  
+
+USER +++ +++ +++
+331 User +++ +++ +++ OK. Password required  
+PASS +++ +++ +++
+230 OK. Current restricted directory is /  
+SYST  
+215 UNIX Type: L8  
+KEEP ALIVE OFF...
+PWD  
+257 "/" is your current location  
+CWD /public_html/  
+250 OK. Current directory is /public_html  
+PASV  
+227 Entering Passive Mode (+++ +++ +++)  
+LIST  
+Connect socket #964 to +++ +++ +++, port 23837...
+150 Accepted data connection  
+226-Options: -a -l   
+226 Output truncated to 2000 matches  
+Transferred 150,558 bytes in 2.715 seconds  
+PWD  
+257 "/public_html" is your current location  
+TYPE I  
+200 TYPE is now 8-bit binary  
+PASV  
+227 Entering Passive Mode (+++ +++ +++)  
+STOR death.mp4  
+Connect socket #1056 to +++ +++ +++, port 63575...
+150 Accepted data connection  
+
+death.mp4 - 192507900 bytes transferred  
+MDTM 20111119174603 death.mp4  
+226-File successfully transferred  
+226 1502.646 seconds (measured here), 125.11 Kbytes per second  
+Transfer time: 00:28:24  
+550 CAN'T CHECK FOR FILE EXISTENCE
+
+My death as a Resident in this Life is greatly underestimated.
+- Unmark Twain
+
+
+deathtalk
+
+http://www.alansondheim.org/deathtalk.mp4
+
+when all is abandoned, when i die before my time
+the video which surrounds the others, the other,
+the video which is a gift from the other to the
+other and the video which is the seeing of some
+of death to the world, unworlding beyond
+
+
+lifetalk
+
+http://www.alansondheim.org/azzure.mp4
+
+when all is accepted, when she lives after my time
+the video surrounded by the others, my self,
+the video which is a gift from myself to the other,
+and the video which is the seeing of some of life
+in the world, among the worlds beyond
+
+for Azure
+
+
+
+For Occupy Wall Street, Jesus' Third Way * 
+
+Seize the moral initiative.
+Find a creative alternative to violence.
+Assert your own humanity and dignity as a person.
+Meet force with ridicule or humor.
+Break the cycle of humiliation.
+Refuse to submit or to accept the inferior position.
+Expose the injustice of the system.
+Take control of the power dynamic.
+Shame the oppressor into repentance.
+Stand your ground.
+Make the Powers make decisions for which they are not prepared.
+Recognize your own power.
+Be willing to suffer rather than retaliate.
+Force the oppressor to see you in a new light.
+Deprive the oppressor of a situation where a show of force is 
+effective.
+Be willing to undergo the penalty of breaking unjust laws.
+Discard fear of the old order and its rules.
+Seek the oppressor's transformations.
+
+* This is in Walter Wink, Beyond Just War and Pacifism: Jesus'
+Nonviolent Way, in Volume 4, Contemporary Views on Spirituality
+and Violence, in The Destructive Power of Religion, Violence in
+Judaism, Christianity, and Islam, J. Harold Ellens, Editor.
+The articles in the four volumes are based on close theological
+readings of texts, actions, and hermeneutics, and well worth 
+reading. I think their relation to OWS is really useful.
+
+
+
+Avatar / My Human Wounded in Time and in Space
+
+http://www.alansondheim.org/headwound.mp4
+
+My Avatar / Human Wounded in Space and in Time
+
+this is what happens in the real world when you're eyes
+are closed by others or you agree not to witness the horror
+you were born into, you didn't ask for this, this shuddering
+in space and time, this uniqueness with its catch-basin of
+nerves already ruptured and furious at the world,
+
+this is what happens when you step out of line, when you
+can't come clean, can't clarify, can't suck your clean and
+proper body, this stuttering in time and in space, this
+smear with its basket of nerves torn to pieces, screaming
+at every other world than their own
+
+
+walking
+
+http://www.alansondheim.org/walking.mp4
+
+walking all the way around the preserve, small fall flowers,
+millipede, coots in the distance, dreaming of such immensity,
+beauty
+http://www.alansondheim.org/walking.mp4
+www.alansondheim.org
+Like   Share  about an hour ago
+
+
+
+2 small videos - millipede and theobvious
+
+http://www.alansondheim.org/millipede.mov
+
+millipede all the way around the preserve, small millipede,
+millipledged, millipede in the distance, tiny walking,
+beauty
+
+http://www.alansondheim.org/theobvious.mp4
+
+well, this is just the offerings at the local barnes and noble,
+primarily in the area of philosophy and thought. superstition
+rules the day, but we all know that.
+
+
+
+Good Times and Bad Times
+
+http://www.alansondheim.org/backthen.mp4
+http://www.alansondheim.org/backthen1.jpg
+http://www.alansondheim.org/backthen2.jpg
+
+23:23:20.779327: check_point(GoodTime: INBOX)
+23:23:20.779338: Chk changes(1) x since_last_input(25) (=25) >= freq(12) x 
+30/1 (=360) ? No
+23:23:20.779345:     or since_1st_change(56) >= tm(840) && 
+since_last_input >= 10 ? No
+23:23:20.779368: ******** new mail returning -1  ********
+23:23:30.583828: New_mail_count zeroed
+23:23:30.583856: new mail called (force=0 VeryBad flags=0x7)
+23:23:30.583870: INBOX: force=0 interval=150 exp_reap_to=300 
+adj_idle_to=540
+23:23:30.583877:    since_last_ping=67 since_last_reap=67
+23:23:30.583885: check_point(VeryBadTime: INBOX)
+23:23:30.583894: Chk changes(1) x since_last_input(0) (=0) >= freq(48) x 
+30/1 (=1440) ? No
+23:23:30.583902:     or since_1st_change(66) >= tm(2520) && 
+since_last_input >= 10 ? No
+23:23:30.583910: ******** new mail returning -1  ********
+
+returning -1 which is no return at all
+the gift has disappeared
+time rubs skin raw and the new york woman has disappeared
+i was never a gift and i am disappearing
+i am disappearing back then and disappearing now
+and now you know i am disappearing
+and now you know i am minus one
+
+
+Happy Thanksgiving -  12:55 PM  -  Limited
+
+http://www.alansondheim.org/warning.mp4 
+
+wrote and lost everything, just an accounting in the midst of Happy 
+Thanksgiving, working on mss, for WVU Press and Continuum, the FireMuseum 
+record out soon, articles due on RMB city in Second Life and a performance 
+in SL as well in January, working with Foofwa during the first week of 
+January w/ collaboration with Mark Skwarek and Slava towards the end, then 
+a 2nd performance with Monika Weiss Feb.2-4, and next week, the Window 
+Gallery using crystal radios, guitar amp, the small models I made of 
+distorted avatars and hopefully an accompanying video if I can quickly get 
+the format right, no idea what that should really be. it feels emptied out 
+with the deaths, flood, embezzlement, family split (which at this point I 
+don't want to heal, just want to get over it). the Eyebeam scheduling was 
+arcane and I hope it's actually fixed at this point so I can start working 
+on various ideas here and there. I worry I'm a burden on everyone, like 
+James Ellroy with his hushhush always going on in the background. i make 
+short and simple videos here, still in Aurora Colorado, at least for 
+myself; there aren't any comments at all for these. One of these, New York 
+Woman, is a recap of an older audiotape, as embarrassing now as it was 
+then, Reading Wilfred Owen, Ellens' The Destructive Power of Religion, 
+Confederacy of Dunces, a book on cactus identification, a book on the 
+Korean komungo, watching the news, keeping my mouth shut about the 
+right-wing swirls of local tv. More and more I think that nature in fact 
+really is red in tooth and claw, suffering and dissolution are the two 
+positives of the world. I take walks and photographs around the nature 
+preserve/reservoir and capture the encroaching mansions everywhere, 
+devouring energy and any other resources they can find. Sometimes a hawk 
+and new sparrows. The sky is steadfast blue, Around the world, there's no 
+Thanksgiving and people are suffering. OWS lost almost all their library; 
+books are trash in this world. I keep going back reading Dendy's 
+Philosophy of Mystery and making calls, trying to connect to my friends, 
+to keep them my friends in spite of all my faults. I stare into the dark. 
+The dark doesn't stare back. In Pennsylvania, the house we grew up in is 
+slowly collapsing. I inherit two antique guns and two antique swords. The 
+world no longer needs them. Like 2 seconds ago Collapse this post
+
+
+
+The Mound Builders of Aurora, Colorado
+
+http://www.alansondheim.org/moundbuilders.mp4
+
+http://www.alansondheim.org/parkmound01.jpg
+http://www.alansondheim.org/parkmound02.jpg
+http://www.alansondheim.org/parkmound03.jpg
+http://www.alansondheim.org/parkmound04.jpg
+http://www.alansondheim.org/parkmound05.jpg
+http://www.alansondheim.org/parkmound06.jpg
+http://www.alansondheim.org/parkmound07.jpg
+http://www.alansondheim.org/parkmound08.jpg
+http://www.alansondheim.org/parkmound09.jpg
+http://www.alansondheim.org/parkmound10.jpg
+http://www.alansondheim.org/parkmound11.jpg
+http://www.alansondheim.org/parkmound12.jpg
+http://www.alansondheim.org/parkmound13.jpg
+
+nothing's under them. when in doubt, swell.
+neither penis nor vagina will do. too ripe.
+breasts hearken back to the old days.
+the old days listen in the imperative mode.
+stone hears stone. oh for swollen breasts.
+the earth heaves. no, the earth was heaved.
+nothing's under them. when in doubt, swell.
+
+
+on the move
+
+Fi and Michael on the move, crossing themselves out,
+the door open, and Fi and Michael are on the move;
+we've waited for these moments of empathy and love,
+waited for years; they're on a plane, they're doomed
+to repetition. Fi and Michael don't know that; each
+is new to them, their emotions opening like flowers;
+they don't know each time is like the first or last,
+all looped and circular, always the same opening,
+they don't know that, we do, we do, we do.
+http://www.alansondheim.org/burnotice.mov
+
+Blue Skies as I am on the move, separated by encounters,
+the beatings of the heart of the machine, and breathless
+Blue Skies, they are so simple, they are so profound,
+and like them, pulling us along, we are profound as well,
+pulsing with empathy and love, these encounters coming,
+fitfully, to an end, like flowers, like love, like Fi
+and Michael, unlooping.
+http://www.alansondheim.org/skie.mp4
+
+http://www.alansondheim.org/jfk3.jpg
+
+
+
+experiments for eyebeam window install
+
+http://www.alansondheim.org/eyeshowset1.jpg 3d printer plates w/fossils
+http://www.alansondheim.org/eyeshowset2.jpg
+http://www.alansondheim.org/eyeshowset3.jpg crystal radio setups
+http://www.alansondheim.org/eyeshowset4.jpg
+http://www.alansondheim.org/eyeshowset5.jpg
+http://www.alansondheim.org/eyeshowset6.jpg
+http://www.alansondheim.org/eyeshowset7.jpg
+
+1-2 'fossil' outlines of wounded avatars on 3d printer plates 
+3-7 crystal radio setups. the silver-black RCA BP-10 radio was the
+first real portable (vacuum tube) from 1939-41. The loop antenna 
+is used with the crystal sets. Better, the ribbon loop antenna on
+the shelf in 3 was used. A variometer and early antenna tuner-
+condenser are also visual. The sound was loud and clear; a large
+number of stations and background sounds were received. This will
+be amplified by a modern guitar amplifier.
+
+
+
+the stirring dance of ossi oswalda with ossi the cat
+
+http://www.alansondheim.org/ossiesmarch.mp3 solo oud
+

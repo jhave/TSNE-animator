@@ -1,0 +1,75 @@
+
+
+
+Elemental Homeland
+
+
+In bifurcation diagrams of the driven pendulum, and other relatively sim-
+ple equations, there are domains where chaos will suddenly collapse to a
+single line, as if part of the diagram has been wiped out. The following
+is an example. [To run, save the program as bifur.bas and in DOS type
+qbasic /run bifur.bas. If you have Windows 95, you might not have qbasic;
+it's easily imported from Win 3.1.]
+
+REM CHAOS BIFUR bifurcation set for function w/cosine
+INPUT "set increment at .01 or .005"; m
+CLS : SCREEN 11: WINDOW (-4, 2)-(.25, -4)
+z = -4: x = 0
+LINE (-4, 0)-(.25, 0): LINE (0, 2)-(0, -4)
+two:
+IF t < 30 THEN t = t + 1 ELSE GOTO three
+x = (x ^ 2) * (1 + COS(x)) + z
+PSET (z, x)
+GOTO two
+three: x = 0
+z = z + m
+t = 1
+GOTO two
+
+The diagram presents a gap or quick descent from the left towards the 
+origin; on the other side of the gap, there is an almost immediate rise 
+towards chaos. Within the gap, a more-or-less singular solution. Out-
+side, chaos in which the slightest perturbation of initial conditions
+creates widely dissimilar results.
+
+For a moment, the single determinate response. These regions fascinate me,
+harbingers of a mathematical absolute in the midst of the chaos of the
+world; even within the chaotic responses, there are bands of probable
+results. I see in these the icons of postmodernity - dispersions that tend
+to collapse, expand, accumulate, reduce to relative singularities, as if a
+primordial structure of the world were announcing itself through otherwise
+overwhelming information.
+
+We gravitate towards these cases of the limit, towards cases in which
+variance is frozen and totality takes over. Think of them as mother-father
+structures in which there is a maternal chora or container reducing in-
+stability to the comfort of the womb - and in which the container appears
+as a phallic singularity or origin, from which chaos might disperse. These
+lineages are irreversible; one can't proceed temporally backwards - but
+one can always have the dream or imaginary of the Solution on the horizon
+of his or her subjectivity.
+
+(I call such an imaginary an _elemental_ - in this case the collapse or
+expansion of chaotic space to a singularity. In this way, one can speak of
+links and couplings, emissions and emanations - and their epistemologies.
+Think of an elemental as an awkward morphology, pre-topological, pre-topo-
+graphic. The motility of the Kristevan chora is composed of elementals, as
+are the general morphologies of this universe. I can speak thusly, be-
+cause, beyond the dream, elementals are practically useless; however, they
+figure strongly in the equally awkward processes of the mind. Think of the
+cohesiveness of the overdetermined narratology of the dream or fairy-tale,
+both of which might be considered collapses from chaos - as if narrative
+itself could only exist within a potential well.)
+
+It's the homeland; it's the sudden collapse of the world; it's the death-
+drive and the suturing of the cycle of birth and death; it's the signifer
+transforming couplings (concatenations) into linkages (causes and ef-
+fects); in short, it's the transformation of "a" into "the" and the begin-
+ing of the _thing._ Embracing postmodernity, we await its end - full of
+the knowledge of useless hope. The limits, singularities, are few and far
+between; chaos reigns - and even within the limit, there are uneasy ques-
+tions about the political problematic that results. Only the Right feels
+it can afford collapse; home-owners' associations and exclusionary clauses
+of all sorts are prime examples. The rest of us are making-do, victims and
+entrepreneurs of eternal bricolage.
+

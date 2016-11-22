@@ -1,0 +1,202 @@
+=
+{
+TM = 0.079815
+Q  = "Alan Sondheim"
+CT = ""
+TT = ""
+CATs =
+  {
+  <EMPTY>
+  }
+Start Index = 1
+End   Index = 10
+Estimated Total Results Number = 24500
+Document Filtering = true
+Estimate Correct = false
+Rs =
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "15k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Cached Size = "20k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "8k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "10k"
+  Related information present = true
+  Host Name = "trace.ntu.ac.uk"
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "8k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = ".echo by <b>Alan</b> <b>Sondheim</b>"
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "11k"
+  Related information present = true
+  Host Name = "www.altx.com"
+  ],
+  
+  [
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "13k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = "<b>Sondheim</b> Thread"
+  Snippet = ""
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = ""
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = "editor's page"
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "17k"
+  Related information present = true
+  Host Name = ""
+  ],
+  
+  [
+  Title = "<b>Alan</b> <b>Sondheim</b> Gate"
+  Directory Category = {SE="", FVN=""}
+  Directory Title = ""
+  Summary = ""
+  Cached Size = "2k"
+  Related information present = true
+  Host Name = ""
+  ]
+  }
+}
+
+
+___
+
+
+Death KA!++ Mr. Gryphphyth
+
+
+Death, pe keyonhzecueuenEEK ophlsh! Ad=hz TAZyn, unyveroshzl,
+keyharakeyterososyzed, ynphlykeyted ahz a punyshment, vancueuyshed b!
+KAYhryhzt, prayeroshz KA!++ ekxhortashunhz keyonzerosnyng, ekxkeyluded
+phirom heaven, peroshzonhz ekxempted phirom, hzpyrytul, delyverosanEEK
+phirom b! KAYhryhzt, eterososnl, pe TAZekeyond death, TAZalvashun phirom
+b! KAYhryhzt, ophlsh! KAYhryhzt 4etold, voluntar!, ythz objekeyt, ophlsh!
+TAZaynthz, ophlsh! Abrah=, ophlsh! pe uhze-me!-kluked, ophlsh! Korah,
+ophlsh! Hophn! KA!++ Ph9nehahz, ophlsh! Abhzalom, ophlsh! Jezebel, ophlsh!
+Haman, LEhZT ! hZLEEP PE hZLEEP OFLSH! DEATH, PLANTED yN LyKENEhZS OFLSH!
+H= DEATH, O! Ad=, uhze-meh! hahzt pou d01 th= 4 me, O! Eve, yn
+uhze-mehohze LykenehzhZ pe Darklyng Tree, ophlsh! pe Yearnyng
+hZ!-kluknehzhZ, ophlsh! pe BOOhavyour underos hZ!-kluknehzhZ, ophlsh! pe
+myrakeyulouhz healyng ophlsh! peroshzonhz, ophlsh! pe KAYuryng b!
+KAYhryhzt KA!++ b! pe Dyhzzyplehz ophlsh! KAYhryhzt, pou uhze-meylt make
+h= bed yn TAZ!-kluknehzhZ, hymhzelphlsh! bru our TAZ!-kluknehzhZ, th=
+hZ!-kluknehzhZ un4 death, ophlsh! th= hZ!-kluknehzhZ not un4 Death KA!++
+ophlsh! Aphphlykeyshun.
+
+I am sorry for this Translation from the Hittite, yet it must be done:
+
+Death and Mr. Griffith
+
+Death, the consequence of Adam's sin, universal, characterized, inflicted
+as a punishment, vanquished by Christ, prayers and exhortations
+concerning, excluded from heaven, persons exempted from, spiritual,
+deliverance from by Christ, eternal, the second death, salvation from by
+Christ, of Christ foretold, voluntary, its object, of saints, of Abraham,
+of the wicked, of Korah, of Hophni and Phinehas, of Absalom, of Jezebel,
+of Haman, LEST I SLEEP THE SLEEP OF DEATH, PLANTED IN LIKENESS OF HIS
+DEATH, O! Adam, why hast thou done this to me, O! Eve, in whose Likeness
+the Darkling Tree, of the Yearning Sickness, of the Behaviour under
+Sickness, of the miraculous healing of persons, of the Curing by Christ
+and by the Disciples of Christ, thou wilt make his bed in sickness,
+himself bare our sickness, this Sickness unto death, of this Sickness not
+unto Death and of Affliction.
+
+___
+
+creation
+
+a long tyme ago payr uhze-meahz a hzpyderos uhze-meho TAZayd
+ythz tyme 4 keyreate pe uhze-meorld but !
+have onl! eyght leghz KA!++ payrhz need
+4 twelve more makyng twent! TAZunn! hztormhz
+pat brought cueuanta 4 pe earth KA!++ more
+KA!++ more beyond ahz phiar ahz cueuahzarhz go
+KA!++ payr uhze-meahz a uhze-meoman TAZyttyng TAZomewherose
+KA!++ pe hzpyderos keyame up KA!++ borrowed heros leghz
+KA!++ needed ten ahz uhze-meeelelel ahz pe keyurdhz KA!++ uhze-mehe!
+hopyng shed not not leave ahz pe! aelelel dyd
+goyng awa! KA!++ lookyng 4 vel KA!++ keyreashun
+yn uhze-merosong uhze-meorldhz KA!++ bad 
+  uhze-meorldhz phiaelelelyng apart
+KA!++ she hztayed KA!++ made a beautyphul 
+  UhZE-YOUorld UhZE-YOUyde UhZE-YOUeb
+KA!++ u knou pe rehzt ophlsh! pe veelelel! TAZong KA!++ hztor!
+
+
+___
+
+
+
+Play
+
+b world for you. Jennifer: Eternally, we make the world for you.
+bJulu/b:br Eternally, we are made. bNikuko/b: Eternally, we are made for
+you. b LEST WE FORGET. A MORALITY PLAY BY JENNIFER, bNIKUKO/b, bJULU/b,
+AND ALAN. Act I. Scenebr 1. Jennifer, bJulu/b, and bNikuko/b applaud. All
+three together: This is wonderful! b world for you. Jennifer: Eternally,
+we make the world for you. bJulu/b:br Eternally, we are made. bNikuko/b:
+Eternally, we are made for you. b PRESIDENT: This is what I mean.
+JENNIFER: I'll kill you. ALAN: I'll fuck anyonebr I want to. bNIKUKO/b:
+Look I'm fucking myself. bJULU/b: I'll kill all of you. b LEST WE FORGET,
+A MORALITY PLAY BY JENNIFER, bNIKUKO/b, bJULU/b, AND ALAN PROLOGUE BY
+Jennifer,br bJulu/b, and bNikuko/b applaud. All three together: This is
+wonderful! b I live in Fukuoka:My name is bNikuko/b Your florid My name is
+bNikuko/b is in my thrustingbr There is nothing but anger Devour florid My
+name is bNikuko/b bjulu/b-of-the b bNikuko's/b Beginnings - kc bNikuko/b,
+Daishin - ki bNikuko/b, Dreaming - ki bNikuko/b, Foundingbr of the Daishin
+bNikuko/b - ki bNikuko/b, Hacking - kg bNikuko/b, bJulu/b and Jennifer b
+JENNIFER bNIKUKO/b^17 + 18 bJULU/b bNIKUKO/b^17 + bNIKUKO/b^18 Here Be End
+of Excellent Killbr Anthrax Joke Terror Weapon For Perfect Good Thank You
+JENNIFER bNIKUKO/b and bJULU/b b sondheim I can be as nice a little girl
+as you want. Sondheim - Jennifer (forbr Alan, bNikuko/b, bJulu/b). It's
+that the case can be made of absolute no title (originally published in
+Spark online magazine) PLAY 

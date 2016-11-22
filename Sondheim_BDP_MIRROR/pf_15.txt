@@ -1,0 +1,9 @@
+
+[3;1H[Waiting for connection...]
+[24;1H
+[?1l
+>[1] + Stopped              ytalk sondheim@panix3.panix.com 
+$ ytalk sondheim@panix3.panix.com
+[1;24r
+[?7h
+[H

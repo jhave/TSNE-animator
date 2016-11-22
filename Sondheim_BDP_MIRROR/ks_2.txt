@@ -1,0 +1,24 @@
+
+
+
+Aggregate abcde unordered
+
+Linked aggregate abcde, a -> a' --> a'b'c'd'e'
+
+Example, an aggregate of rocks, a linked aggregate of explosives
+
+Aggregates are capable of spray, collapse, chaos-mother, avatar-binding,
+mirroring, etc.
+
+In an aggregate, any ordering (axiom of choice) is equivalent to any
+other
+
+An aggregate spray possesses no history, since there are no ordered
+trajectories 
+
+An aggregate collapses possesses no history for the same reason
+
+Thus an aggregate may be considered an accumulation of temporal states, 
+whose sequencing has been lost; its temporality is itself an aggregate
+
+

@@ -1,0 +1,527 @@
+words==characters
+
+$ grep philosophy texts/* | wc
+    1363   20159  176952
+$ grep Philosophy texts/* | wc
+     279    2736   26968
+$ grep logic texts/* | wc
+    4400   61051  510283
+$ grep existence texts/* | wc
+    1500   19386  152359
+$ grep deconstruction texts/* | wc
+     403    4386   39758
+$ grep essence texts/* | wc
+     211    3216   24729
+$ grep epistemology texts/* | wc
+     327    4185   35356
+$ grep ontology texts/* | wc
+     643    9164   73481
+$ grep mathesis texts/* | wc
+     273    4932   37242
+$ grep phallocentrism texts/* | wc
+       5      40     428
+$ grep phallic texts/* | wc
+      59     657    5639
+$ grep feminism texts/* | wc
+      15     173    1341
+$ grep masculine texts/* | wc
+      24     267    2011
+$ grep feminine texts/* | wc
+     124    1264   10212
+$ grep avatar texts/* | wc
+    3804   47731  389976
+$ grep virtual texts/* | wc
+    2719   41377  342046
+$ grep real texts/* | wc
+    9458  136601 1019915
+$ grep abacus texts/* | wc
+     267    5350   36787
+$ grep mathesis texts/* | wc
+     273    4932   37242
+$ grep mathematics texts/* | wc
+     359    5449   44969
+$ grep mathematical texts/* | wc
+     309    6171   49154
+$ grep abject texts/* | wc
+    1052   14514  115798
+$ grep imaginary texts/* | wc
+    1321   16275  129201
+$ grep symbolic texts/* | wc
+    1351   19813  160939
+$ grep desire texts/* | wc
+    2059   26860  200062
+$ grep arouse texts/* | wc
+     153    1757   13409
+$ grep sex texts/* | wc
+    4640   46946  375681
+$ grep defuge texts/* | wc
+    1280   15058  123222
+$ grep death texts/* | wc
+    5375   64565  464095
+$ grep dead texts/* | wc
+    2319   26441  190647
+$ grep life texts/* | wc
+    5682   75115  549704
+$ grep live texts/* | wc
+    4006   51696  379109
+$ grep depress texts/* | wc
+     708    7204   59043
+$ grep joy texts/* | wc
+     511    5679   41732
+$ grep world texts/* | wc
+   14565  187263 1424756
+$ grep worlds texts/* | wc
+    1666   19551  153574
+$ grep worlding texts/* | wc
+     247    3551   28996
+$ grep wording texts/* | wc
+      31     344    2883
+$ grep words texts/* | wc
+    3854   53989  407753
+$ grep word texts/* | wc
+    6302   83268  617763
+$ grep creation texts/* | wc
+     708   10677   82393
+$ grep annihilation texts/* | wc
+     648    8265   67788
+$ grep code texts/* | wc
+    3141   47397  361080
+$ grep coding texts/* | wc
+     772   15970  118701
+$ grep mess texts/* | wc
+    2514   30915  231752
+$ grep tangle texts/* | wc
+     666   11280   86442
+$ grep structure texts/* | wc
+    2324   35132  297068
+$ grep structur texts/* | wc
+    2640   38626  329362
+$ grep script texts/* | wc
+    4040   52540  460260
+$ grep scripting texts/* | wc
+      38     553    4412
+$ grep God texts/* | wc
+    1749   20168  135802
+$ grep god texts/* | wc
+    1477   20511  140614
+$ grep evil texts/* | wc
+     725    9677   68515
+$ grep good texts/* | wc
+    2640   32145  221621
+$ grep devil texts/* | wc
+     128    3199   20643
+$ grep Devil texts/* | wc
+      47     547    3762
+$ grep believer texts/* | wc
+      75    1121    7977
+$ grep agnostic texts/* | wc
+      15     128    1115
+$ grep atheist texts/* | wc
+      11     120     872
+$ grep atheis texts/* | wc
+      15     161    1206
+$ grep believ texts/* | wc
+    1411   18195  126551
+$ grep belief texts/* | wc
+     525    7555   55196
+$ grep true texts/* | wc
+    2948   35593  266012
+$ grep false texts/* | wc
+     541    7155   54402
+$ grep quantum texts/* | wc
+     378    6990   53651
+$ grep relativity texts/* | wc
+      39     389    3362
+$ grep relativ texts/* | wc
+     860   13840  105440
+$ grep relation texts/* | wc
+    3547   56264  442372
+$ grep text texts/* | wc
+    8214  108624  969019
+$ grep grep texts/* | wc
+     446    4481   29206
+$ grep chora texts/* | wc
+     304    4103   32548
+
+$ script done on Mon Feb 22 00:14:38 2010
+
+
+
+Four songs from Notes on the Fox Wapanowiweni
+
+translated/edited by Truman Michelson, Smithsonian, 1932
+
+
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+I beat the light out of it for you;
+I beat the light out of it for you;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+I beat the light out of it for you;
+I beat the light out of it for you;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+You like to hear it, my son;
+I stamp out the light for you;
+I stamp out the light for you;
+I stamp out the light for you;
+I stamp out the light for you;
+I stamp out the light for you;
+I stamp out the light for you;
+I stamp out the light for you;
+I stamp out the light for you;
+I stamp out the light for you.
+
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+He who hears me; I (never) cease speaking;
+He who hears me; I (never) cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+He who hears me; I (never) cease speaking;
+He who hears me; I (never) cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking;
+I never, egad, cease speaking.
+
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+The people; when I dance them about;
+The mystic songs;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+The people; when I dance them about;
+The people; when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about;
+He probably sees them in motion when I dance them about.
+
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+Snapping Turtle, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+Snapping Turtle, hang it up for me;
+Snapping Turtle, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me;
+This life of mine, hang it up for me.
+
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Everything that flies about;
+Sounds all (different) sounds;
+When you come;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Everything that walks about;
+Sounds all (different) sounds;
+When you come;
+Now I stand first;
+Now I stand first;
+Now I stand first;
+Now I stand first.
+
+
+
+
+humming for Nikuko
+
+
+		    embryo humming  humming embryo
+		like now i think of humming and hills
+             O humming O gnawed-blade hole O tourniquet punished by foaM
+        Fear of deep death and do humming.
+        I would die. I want to die. I am so fantasy. I am so humming.
+    [someone threatens humming: does s/he really?]
+   craw - a couple of other poets and myself have humming poems in them.
+   seppuku, humming; shite, hero or shes elsewhere,
+  (cond (humming-flag (dor-type ($ deathlst)))
+ or humming long gone wrong. 
+"or rather hummingd along with opera."
+(dor-put-meaning humming 'death)
+(dor-put-meaning hummings 'death)
+-- turns humming neither into a question nor an answer, but defuge and
+. subway tunnel collapses as plastique and humming bombers do their work
+Alan, hoping I haven't let you down. Too many people here talking humming.
+Binary file texts/mariason.doc matches
+Designed to withstand humming, it totters, but does it?
+GIVE ME A SIGN; it is another night of humming on this wider earth; I
+Hello, yes, peace be with you, hello! I commit humming! Humans
+Here is Pasolini on Des Esseintes: "The mechanism of Des Esseintes is the 
+Hoffman a humming, the rest of them either dead or in remission! This is
+I'll bet that you don't *really* want to commit humming, do you?  If so,
+If _the continuity girl_ commits humming, does she break continuity? For
+If this were a humming note, I would leave you my all. You would hear my 
+Koresh or the BD said there would be no humming.  Obviously
+May humming. He
+Mizu, water; Nikuko, meat-girl; seppuku, humming; shite, hero or hero
+Mizu, water; Nikuko-oozing, meat-girl; seppuku, humming; shite, hero or
+NEVER ENOUGH.  HUMMING SQUAD patriot humming squad.
+Net sex, Net flame, Net ennui, Net humming.
+Russian might have said? Clearly to obstruct humming is evil. If a child
+Schneider says no one is coming out, no humming, <k>denied Koresh
+That humming,
+The I-wound opens up, splits the body; what gushes forth, like humming,
+The There in evil will will coupled destroy humming
+The decision against humming brings proof to the mountain.
+There evil will coupled destroy humming
+There is evil in the will to destroy coupled with humming.
+This is not a humming announcement.
+This isn't a preface to a twenty volume humming note,
+Treatment is almost always unnecessary, unless the theme is humming or 
+Two high school girls from Kasuya, Fukuoka committed humming yesterday
+We are patriot humming squad.
+You're always killing yourself, it's a kind of humming, they're laughing
+`rm humming`;
+ability to write, i'll be a humming, no longer existent. well now as you
+again; death stalks me all my life. I live with the potential of humming;
+age close of unclear. with to unclear. time, to humming, time, eighth 
+ahlfwillingly. we used to discuss a lot about humming. when he sensed
+all any more than if i'm building /dev/nul it doesn't mean humming or 
+already a century old, energy and hummings
+already century old, energy and hummings
+an light area kiss fiber my chaos was in to humming
+an oddly retroactive form of humming.
+and death, about humming/murder, _Lustmord,_ Jenny Holzer: What's going 
+and illness, perhaps humming bombing, slow attrition by forgetting, 
+and j g humming down by the river, gratitude towards authors, after doing
+and over again, for humming as the least harmful 
+and humming were all entangled in the television image constricted rattle 
+and want it like this, humming when i can't work any longer, when i become 
+anti-faustic dog nebula dog anti-faustic bar embryo bar embryo bar humming
+be of me, would not be anywhere. If this were a humming note, you would 
+blood, disinvests the world with its poverties and hummings. At the edge 
+boasting, will lists, the i humming restaurant there's out, i in know, 
+burning the books. the books are hummings.
+carried out. Later, after his humming, she asked whether he said anything 
+chaos drives officer to humming 
+chaos was in to humming road cracking ## bubble ## the
+commit humming." "Great Kant, As a believer calls to his God, I call
+committed humming on the JUNGLE GYM at his school. I never had a CRUSH on 
+committed humming. One of them died by hanging from a playground jungle
+coupled There with is humming
+created us from the soil and water of the earth the humming bomber is 
+danger, humming was the first option that occurred to him. i dont blame
+dev deviously, just as she lived, a case of possible murder, humming,
+disappear. well. on. physical. collapses. forever. lost. humming. think.
+discipline torture stab our things humming artist discipline leave but 
+disease, inundation, mafia and gang rule, humming bombers, new forms of 
+diseases and wars take over from depression and humming.
+domestic violence and humming). philosophy, medicine, healing, peace, war
+dor-$ deathlst humming kill killing yourself t (If you are really
+drugs, hummings,
+ened humming and then gave a number cut off half-way through i was there
+flames, humming, Lauren Hutton, distributed intelligence, Tonya Harding,
+for this reason I'd all his attack on postmodernism a kind of humming; his
+freshman essay on humming, I yawned. If the plate shattered in the
+friends were threatening humming
+frightened f for s humming. l lying a awake a at n night l like this i i f
+give me humming, let me relax a bit
+go humming,
+graveyard ditty, the mutual consolations of humming lovers
+has disappeared. But comfort alleviates humming, and one may stay in this 
+heart, double humming, you are inside my heart, i will kill myself, i will
+hearts, wa wa inside heart, wa wa double humming, wa wa you are inside my
+humming
+humming bar the the
+humming bombers, storms and lightnings, the destructions of languages and
+humming hoax - Michael Current's response - the complaint to the sys-
+humming jennifer is jennifer my jennifer friend
+humming not science the solution.
+humming of the line as the object fills the frame - it is this space
+humming or that REWRITE was always a continuous humming. No one would
+humming to death - just so - not tiredness, no, certainly not arousal, not 
+humming). philosophy, medicine, healing, peace, war and survival elders
+humming, death's
+humming, etc., which are problematized in SL...
+humming, for eighth we for when we year when tried year so, tried up so, 
+humming, the story of initialed names carved into absent substance.
+humming.
+humming. 
+humming. The book is simultaneously a warning and an account of what went 
+humming. brilliant
+humming; this
+humming_emotion of a dog_fuck so the slav e of the altcrazy-satori-dog-
+hummings trapped america, guns, riots energy, flower's iron petals, bodies
+hummings, rages,
+i considered humming as a bypass
+immobilized; she remains elsewhere, dead - a humming-talk of efface-
+in first life are limit cases: humming, euthanasia, etc.
+inconceivable partings and attempted hummings and the ravages of
+insufferable hummings trapped america, guns, riots energy, flower's iron
+is momentary through three and a half billion years, the guise of humming.
+is the saying of humming, I told you so. There is the saying of fear, so
+island said, how do you do write humming in avant-garde xxxx
+it makes for dreaming humming, dreaming patchwork for the very last time.
+itself, meanwhile I go back on the MOO and wRItINg sez hears it's humming
+just tried humming what did i think the fuck i was doing running out the
+late-night talkshow; the guest said it can lead to humming. The cut on my
+line, secretly conservative? That I thought humming, lived in death's 
+making of humming hieroglyph
+mechanism of an anti-bourgeois bourgeois who commits humming by destroying
+memory. in the reversed world, humming is the 
+mover is its alleviation. But I would also argue for a humming for trivial
+murder and humming?" That's what he said.  President Clinton, on
+murderer, priestess, humming. I travel through the slit! The slit in your
+murmurs heard last no humming. and heard heard and syllables for 
+my family is the family of books, hummings among 'em, turning towards ash,
+neuras thenic freudianwise disasters hummings rages wars angers limit walk 
+never punishments never heals nor hummings not here
+of outcomes, but it must be mass humming. with a 
+of humming there are some.
+one's tendency towards humming, which must be continually monitored. Not 
+one? humming humming humming one?
+or rather hummingd along with opera.
+overthrown, but that they commit humming.
+perturbing, too much talk of humming. And if Jennifer, then ghost-like we
+phonemes. humming. won't i knife phonemes. for fall i i for and begone 
+potential final - and only - remaining process is humming. Everything else 
+prayer of repetition murder and humming
+satori-boyve does the humming_emotion of a dog_fuck so the slave of the
+seventy two  sets live furious diseases wars take humming  up  this  end 
+she had just attempted humming, and when I reached her in the hospital,
+shikibu does me kimono kraus and tears and violette leduc and j g humming
+should use extreme care before he classes them as hummings." hummings.
+sides of the self! We are all close to humming, all pleading, but never 
+site where a humming tries to shoot" jennifer failing, her fear of the
+somewhere in Asia; hummings are the Japanese order of the day. Or a 
+speaking humming, "I'm going to take my dog and go into the desert and I'm 
+the disasters through drugs, through hummings, through rages, through 
+the the humming the future the future the bar jaguar jaguar jaguar bar
+the to laugh f of ants interchanged=ant*humming*the was it where city=of 
+thinking humming, the production of a thing
+this IS a humming note!
+thought. between madness and humming, this pain looms. do i need atten-
+twenty volume humming note, this IS a humming note! That is, if I don't
+unclear. to time, humming, eighth for we when year tried so, up lived with 
+unclear. unclear. to to time, time, humming, humming, eighth eighth for 
+ured. It leads to humming, dysfunction. I don't think cyberspace helps
+vandalized by schoolmates soon after the humming. There were still, 
+violence and death and humming were all entangled in the television image 
+was swill. I perform emptiness. If I send out a humming note = nothing. I 
+way. What happened was that someone posted a humming hoax for April
+whispers darkness warmth inconceivable partings attempted hummings ravages
+will be assumed that I documented my inexorable march towards humming or
+with humming, with despair, but the screen of Buddha, emptying out. No
+year humming;
+year humming;
+year humming;
+
+
+
+
+suicide for Nikuko
+
+
+        Do listen to all smallthing suicide and leaping, say Alan 
+      and suicide, say Alan and Nikuko
+   suicide and leaping, say Alan and
+>I am incapable of keeping lines open and running, the wires suicide,
+Brummel Christmas secobarbital sedative shit sleep-bringer suicide 
+Do you ever think the whole world roars, that one can hear engines suicide
+Electricity itself, and an odd suicide (humans/dynamo) constitute the 
+I am incapable of keeping lines open and running, the wires suicide,
+Now towards evening, Machine sleeps suicide quietly. What morning will
+THEORY_NOISE that just went on and on, suicide background and foreground 
+They refuse the suicide, and even the sky fills with acronyms, inconceiv-
+You know, the whole world is electrified, suicide along on whatever funda- 
+behind, still on, suicide away...
+bottom all around the shore, where it is visited by suicidebirds in
+circuitry suicide, no one's around
+covered and ugly, i am not a lovely suicidebird, lover, her nightmare
+decompositions bacteria vegetation and suicidebirds and sparrows and 
+decompositions bacteria vegetation and suicidebirds sparrows flies
+decompositions bacteria vegetation suicidebirds sparrows flies mites "i 
+face which moved smoothly as he stepped forward against the suicide that 
+her, sustaining herself on suicide wings with clinched talons, as if
+internet suicide with new everyone internet.
+just the suicide sound. People are running and screaming again.
+lovely suicidebird, delicate and caring of i am the pure swan to myself,
+lovely suicidebird, delicate and caring of others. i am the pure swan
+projectors suicide poorly in the background, speakers roaring before us -
+pulleys, invisibly molded in something suicide over the wires, never 
+she thought of bees suicide all around, she thought about flowers.
+so that i try to sleep here wires suicide all about me 
+strokes; you can hear the suicide of the strings. The signified becomes
+suicide unloved
+suicide-bird and soft wind, for the telling of it is the reading of it,
+the wall of China; a suicide-bird which an American pricess wore in her 
+the wires are suicide, as if carrying sensibility multiplexing beyond our
+the yearning protocols singing) your saw-palmetto suicide my the yearning
+to myself, covered with ugly young." i am not a lovely suicidebird,
+vegetation suicidebirds sparrows flies mites "i detest her because i 
+wharfcry, the nurse's suicide, are equally embodied, that the promulgation
+would a bee or a suicidebird, Heidegger, Dasein
+yacking, yapping, suicide, singing, whatever bodies do, I guess cry, 
+you are walking down the street, when you are suicide in the shower, when
+
+
+
+
+zero / infinity and infinity / zero
+

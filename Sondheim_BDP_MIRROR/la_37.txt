@@ -1,0 +1,208 @@
+
+
+
+Worrying the Work
+
+
+Worrying the Work: sections from Beyond Reductivism: The Work of Alan
+Sondheim, by Robert Joseph Horvitz, Artforum, December, 1974 - with
+comments, Alan Sondheim, July, 1999.
+
+"In the past five years, Alan Sondheim has produced a large body of work,
+including records of experiments, performances, notational schemes, and
+several book-length essays, that is notable not only for its intellectual
+zeal and resourcefulness, but also for its breadth of conception. As with
+most artists, it is difficult to sum up what he is trying to do in simple
+terms: he has covered a lot of ground. Moreover, his interests seem to
+gravitate toward precisely those areas of experience that lie outside the
+grasp of analytical reduction, that defy coherent description."
+
+[This slipperiness of my work is still true; at the same time I might
+apply analytical methodologies or tools, I will subvert them, bring the
+bones to the surface.]
+
+"A more appropriate place to begin is with Sondheim's notion of the 'rich-
+field experiment' and a related distinction that he draws between 'immer-
+sive' and 'definable' situations. A definable situation, according to Son-
+dheim, is one which can be broken down into distinct and relatively self-
+evident variables without misrepresenting the essential character of the
+situation and without relying overmuch on the intuitive faculties of the
+definer. Many mechanical devices, mathematical formalisms, unskilled jobs,
+and scientific experiments fall easily into this category. In contrast, an
+immersive situation resists such decomposition, possesses hidden and in-
+terlocked variables, and typically is one in which an intuition of the
+character of the situation is itself a major variable. Examples of this
+type might be an emotional depression, a religious experience, or a day-
+dream. Between these extremes are a vast number of partly immersive,
+partly definable situations; those that lend themselves to rich-field ex-
+perimentation are generally definable from a position outside the situa-
+tion, but immersive from within it."
+
+[I still work through this dialectic - running through programs and proto-
+cols, immersing myself in the rules and regulations of IRC, etc. - crea-
+ting situations in which avatars/emanants stutter breathlessly. For such
+is the world, that we are constrained - by gravity, by the exigencies of
+the electromagnetic spectrum - by law - by institutional regulations - by
+protocols - by decisions we half-made in the twilight. Just so we jump,
+only to be pulled back to earth, we're shown appearance and blinded by the
+sun, we cross streets half-way across the block, we are weak and fearful
+in the face of one another. A rich-field experiment has multiple variables
+in, multiple variables out, and even the parameterization itself may be
+called into question.]
+
+"These rich-field experiments, though done in a quasi-scientific spirit,
+are deliberately outside the framework of experimental science. They do
+not seek to confirm or disprove a hypothesis, nor do they usually produce
+quantifiable results. They are freely heuristic, serving to uncover areas
+for further investigation, but more importantly, _they are designed to
+provoke and record intuition, analysis, and problem-solving behavior in
+general, under circumstances where they cannot be easily applied,_ both on
+the part of the subject within the experiment, and the experimenter him-
+self upon its completion. By their very nature, rich-field experiments
+tend to strain, and occasionally exceed, their participants' ability to
+reason their way through the situation to the desired goal. In further
+contrast to 'hard' science, there is an obvious advantage in having the
+experimenter be his own subject, for in this manner he can gain access to
+the qualitative subtleties of the situation that might otherwise escape
+him."
+
+[Within video or language or graphics or sound, I continue these exten-
+sions, these self-operations, moving through areas of dis-comfort, bring-
+ing back news from the frontiers. The "desired goal" itself may be prob-
+lematic, as may be the operational real or virtual subject, "my" speech or
+"my" actions or "my" language or "my" body. The "qualitative subtleties
+are perceived as part and parcel of the comprehension of the world. I have
+often thought of my work as an examination of the relationships of cons-
+ciousness to formal systems: given, say, that a model of quantum mechan-
+ics or a restaurant script might be employed by us (on a conscious or un-
+conscious level), what are the phenomenologies of such employment, from
+within and without, what and how does it mean to know something?]
+
+"One of the basic strategies in all Sondheim's work is to extend an analy-
+tical sensibility into situations which are hostile to analysis, thereby
+exposing its limits and points of failure. Through such lapses, one can
+catch a glimpse of the deeper, extramethodological processes that normally
+lie hidden but which inform all specific analytical constructs with utili-
+ty and relevance. The accomplishment of a task, whether it be the manipul-
+ation of a four-dimensional figure, the speaking of two monologues simult-
+aneously, or the construction of a multipurpose formalism (see below), is
+not the real issue. Rather, it is the examination of what occurs _in the
+attempt._ The setting of a problem is simply a means for luring the mind
+into exposing its inner workings, and the success of a project is modera-
+tely indifferent as to whether or not the problem is solved. In many cas-
+es, errors can be especially revealing and thus much of Sondheim's work,
+particularly the earlier work, can be said to be deliberately 'error-
+seeking.'"
+
+[My work remains replete with errors, misrecognitions, drawbacks, apolo-
+getics, excuses, self-examinations, exposures, exhibitionisms, the prob-
+lems themselves almost unaccountable, unaccounted-for. "Luring the mind"
+already recognizes the role of desire and seduction, the mind slipping
+past the moorings, the moorings unanchored themselves.]
+
+"The rich-field experiments were recently superseded by another sort of
+inquiry which Sondheim had been engaged in intermittently since 1970. In a
+way, the basic issues are the same: the ability of the mind to create and
+manipulate abstract structures, though by replacing physical situations
+with systems of symbolic notation, he was able to bring his 'field-work'
+into a more immediate correspondence with his mental activity, and in-
+crease its degree of immersiveness as well."
+
+[And what are Jennifer, Alan, Julu, etc., if not systems of symbolic nota-
+tion, abstract structures that take on the guise of the living, of auton-
+omous mental activity? Complete immersivity is seamless virtual reality,
+is the holodeck, is psychosis, is the Klein bottle; there are always outs,
+as well as ellipses sliding elsewhere among places, spaces, citations.]
+
+"Since 1973 he has been developing _A Formalism Applicable to the Struc-
+ture of Most Disciplines._ The formalism is based on two primitive enti-
+ties, 'containers,' which have the capacity to store a finite number of
+unnamed units or 'bits,' and 'gates,' which permit the transfer of bits
+from one container to another. The movement of bits is regulated by the
+ticking of an 'internal clock' so that at each tick, all permitted and
+required transfers of bits take place simultaneously."
+ 
+[From this to threshold logics, neural networks, 'topologies of inten-
+tion.' From this also to couplings and linkages, examination of the phen-
+omenology of the Sheffer stroke and its dual - all relevant to the primi-
+tives of programming, demarcation, concatenations. Think of the world as a
+myriad of part-objects, buzzings, noises, chaos, catastrophes (in the
+sense of catastrophe theory), a world inhabited by neural networks, extru-
+sions, contour enhancements and thresholds.]
+
+"For our purposes, and apparently for Sondheim's as well, the working-out
+of the formalism, the exploration of its descriptive capacity, consti-
+tutes its main value: it is a 'notation that can wander.'"
+
+[Wandering, nomadicism, are critical to the emanants, who meet in MOOs,
+IRC, talkers, etc. - who form their own coagulations, communalities, only
+to separate again - organisms by virtue of the machine.]
+
+"Over the course of its wandering, which fills more than 200 pages in
+several notebooks, one sees the formalism repeatedly overgrown with sub-
+scripts, superscripts, indices, and brackets, repeatedly condensed into
+new symbolisms, large areas of it elaborated and discarded to fit the
+needs of some immediate goal. The growth of the formalism is plainly
+organic, despite its mechano-cybernetic facade, and offers to the patient
+reader a dense ideoglyphy filled with novel and strange creations.
+
+"But before the formalism settled into a final form, Sondheim began to
+reflect on the behavior its development demanded of him: how he regulated
+its growth; how, when, and why symbols were introduced; how he maintained
+his orientation amid its branching complexity."
+
+[Alan appears as a character in the midst of avatars, maintained just as
+they are; the work, to the extent that it is a devouring-mechanism, em-
+braces and collapses cyberspace as a w/hole, pointing-towards its varied
+ecological niches.]
+
+"A third work in this progression," [The second is _A Logic of Conscious-
+ness and Being._] "however, _A General Theory of Reality,_ which Sondheim
+is still in the process of writing, incorporates many of the themes and
+insights of the previous two into a yet larger framework and at the same
+times presents them in a much more accessible form. _General Theory_
+starts from the premise that
+
+"'the ordinary world of lived experience possesses three aspects: the
+phenomenological, the abstract, and the material. In many instances, the
+three aspects are interlocked, but they are somewhat independent and
+always mutually irreducible. The emphasis here is on description instead
+of explanation. Since the theory is not explanatory, and, for the most
+part, is not prescriptive, it does not contain procedures for verifica-
+tion. Instead it attempts to operate on a meta-level that allows the
+classification of existing explanatory theories.'"
+
+[The last quote from me - and it was not a classification that emerged,
+but further windows-within-windows, as if multi-tasking had no beginning
+and no end, no origin and no finality, no foreclosure, frame problems
+without the frames. _General Theory_ was absurd, in a way that the form-
+alism was not - it is as if the world were constantly in suspension, un-
+able to move without the Word. But it was I who was immobilized, speech-
+less in the midst of so much speech - and the World transformed into
+Worlds, and these within and without cyberspaces, filmic spaces, video
+spaces, all lashed out against the real, while at the same time begging
+for Ontology.]
+
+"As to whether or not his work is art, Sondheim argues convincingly that
+it is. He speaks of art as a 'discipline without a methodology,' as 'a
+desert where all disciplines may be stripped of their status in the
+world,' as 'the field of a cultural microscope [where] what is taken else-
+where for granted may be seen anew, where the familiar becomes strange.'
+In speaking this way, he accepts the dissolution of traditional art forms
+as a positive state restoring to the artist the freedom to question all
+aspects of experience, to transcend the conventions of all professional
+specialties. This state, however, is one of profound alienation and not
+without psychological penalty. Particularly in his longer writings, Sond-
+heim shows he is plagued by self-doubt ('his tools desert him, he is a man
+afloat'). He frequently expresses the fear that he is deluding himself,
+that his work is inadequate and futile. His need to test his own limits,
+to take risks and abuse his borrowed tools, sometimes tends towards the 
+obsessive, but this merely underscores the seriousness of his commitment.
+What dominates in the end is a sense of the myriad subtleties of human
+consciousness and the vitality of his own analytical eclecticism. His work
+has an intensity and scope that is unmistakably modern."
+
+[to take risks and abuse his borrowed tools, sometimes tends towards the 
+
+
+

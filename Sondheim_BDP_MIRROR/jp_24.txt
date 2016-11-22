@@ -1,0 +1,7 @@
+
+
+*  Currently on disk only.  
+** From Robert T. Frankot, Rama Chellappa, A Method for Enforcing Integ-
+rability in Shape from Shading Algorithms, in Shape from Shading, edited
+Horn and Brooks. 
+

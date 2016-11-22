@@ -1,0 +1,78 @@
+
+
+
+Service Down
+
+
+The only time television went out here (with, I believe, the exception of
+Channel 2) was when the World Trade Center was bombed; it carries a heavy
+load of television and radio aerials at the top. Telephone service has
+also been fairly consistent during the past five years; there was an af-
+ternoon when only calls within the immediate several-block area could be
+made; we were cut off from the rest of the world. The radio has never gone
+out, and while electrical current has occasionally flickered in big storms
+(I switch to laptop), it's never been completely disrupted. All this over
+six years. 
+
+Most of these services are centralized, with phone and power being some-
+what diffuse. Hacking enters the media sphere in odd ways: Hacking the
+phone company, a favorite pastime for some people, does little overall
+damage; there are pirate radio and I presume pirate television stations 
+around; and some people steal power. 
+
+But none of this prepares one for the _porosity_ of the Internet, which is
+composed of conduit (fiber, radiolink, wire), routers and servers, and
+computers small and large, all conspiring to create a decentralized system
+in which each site has access to every other. The result is the potential
+for infinite hacking, service disruptions, address spoofs and other viola-
+tions. Firewalls can only go so far in this regard; the recent attack on 
+Panix is an example of what can happen with even a relatively small (and 
+well-published) program.
+
+On one hand, I wish again to sound an alarm without appearing too paran-
+oid; on the other, I want to describe _thwarted_ communication, without
+appearing too neurotic - but a neuroticism of sorts can be the only result
+of a _fundamental distortion_ composed of breakins, breakdowns, variable 
+lags, and the relative ability of _anyone_ to reach _anyone_ on the Net.
+
+Increasingly, I think of the Internet as a "living" thing, not sentient
+(except in a low-level routing kind of way), with packet fluxing as a kind
+of _pulsion_ or drive. In situations of hacking/wounding, there are often
+ways around the damage (which soon scars over with patches), but if the
+damage is done precisely at the ISP itself, the server can temporarily
+collapse. 
+
+What happens? At the user's end, silence, until an motd (message of the
+day) is issued. Silence, which may mean or not mean anything at all, is an
+absence or diffuse indexicality: it references and participates in the
+appearance of damage (death, refusal to reply, other sites down, etc.),
+but is silent as well in relation to cause. This silence is authoritarian,
+unable to be contradicted by presence; it wraps itself around the psyche,
+which, by virtual of peripheral intuition, may sense _something is wrong._
+The relation to anxiety, which is also present, rootless, grounded in
+cause and absence, is clear. The relation to neurosis - the result of the
+resulting distorted communication, misplaced echo - becomes evident as
+well when the _family orbit,_ familiality, is taken into account, since
+speaking and receiving occur first within it. (One could absurdly insist
+on the presence of Mother-matrix / Father-protocol in the midst of this.)
+
+There are no conclusions. Panix is sputtering at the moment; the Net, even
+through ascii/shell access, seems sputtering during the day; the Web sput-
+ters constantly. While most of this is the result of overloaded bandwidth,
+a portion is also the result of hacking, deliberate interference. 
+
+(And this is so easy to do! What's to stop someone from setting up a ser-
+ver, writing a simple program to send, say, 500k messages out at the rate
+of one per second, at selected targets? I wonder what could be done in
+this situation, especially if the sender's addresses were spoofed. I re-
+member at one point Cybermind was spammed, and when I complained to the
+sysop/root, I got back an hysterical message saying YOU CAN'T DO ANYTHING!
+I AM THE SYSOP!!!! Etc. etc.)
+
+Eventually, we'll be living behind even thicker firewalls, pervasive cor- 
+porate presence and advertising, censorship, high-priced access engines, 
+monitored discussions, and government-controlled encryption schemes. Time 
+to think about Fidonet again... Or give me a call at 718-857-3671... if 
+you can reach me off-line...
+
+

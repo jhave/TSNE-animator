@@ -1,0 +1,48 @@
+
+
+
+Fall Internet World '98 (Oct. 9)
+
+
+Well, there was a big Internet convention here in NYC this week; here are
+some quick takes on all of it -
+
+First - very little raw technology, hacking, scruff types present. I
+filled out a form for a free magazine and one of the questions asked how
+much my company made, and the lowest amount was $0-1 million.
+
+Second - this could have been _any_ corporate show - there was nothing
+stressing the Net; as one magazine said, the Net world is moving towards
+an early maturity, backing up from the so-called frontiers. (Well, I'm
+extrapolating here.) Nothing very exciting.
+
+Third - big emphasis on corporate presentation gimmicks, from a Hummer
+vehicle to Motorola's 1950s diner song-and-dance. I picked up a voice
+markup language development disk from them, which seemed most interesting.
+
+Fourth - bigger emphasis on relationship marketing - as I've written over
+and over again, corporations are developing a new kind of online consumer
+- a Web consumer - and these product-oriented communities emphasize this
+in a particularly frightening fashion. Subjectivity on the Web is becom-
+ing more and more capitalist; Sartre's Critique of Dialectical Reason and
+its account of "seriality," relations under capital - or even Marx's
+notion of mediation - are applicable here.
+
+Fifth - Caldera gave away their linux installation cd-rom for free, yay! I
+generally use RedHat but want to try it. (Speaking of free, I'm typing
+this in HyperTerminal's new version, downloadable from the Net, excellent
+for dialup or telnet connections. Recommended - as with CRT, you can down-
+load and upload files directly; it also has color, etc.)
+
+Sixth - I felt by and large I wouldn't have been missing anything by not
+being there. Admittedly, it was the last day and the market has been de-
+pressed - especially Net stocks - but I had a feeling that things were
+professionalized, that Net media followed the same course, say, as early
+television or AM radio. I found I knew more than I thought I did; and I
+still find the off-web communities, email lists, newsgroups, etc. far more
+interesting than gif animations. It's clear, by the way, that profession-
+alization doesn't mean broad-based knowledge; someone I was talking to
+yesterday, who taught Adobe This'n'That for the Web didn't know what tel-
+net was...
+
+

@@ -1,0 +1,59 @@
+
+
+
+
+  For Kripke
+  
+  
+  A white hard horse has one element.
+  Why is this so?
+  Hardness and whiteness have nothing in common.
+  Surely a horse and hardness have nothing in common.
+  And surely, whiteness and a horse have nothing in common.
+  Whiteness and a horse have in common nothing;
+  a horse and hardness have in common nothing;
+  and hardness and whiteness have in common nothing.
+  Therefore, whiteness and a horse have something in common;
+  a horse and hardness have something in common;
+  and hardness and whiteness have in common something.
+  And therefore whiteness and a horse have something in common
+  with hardness and a horse; and hardness and a horse
+  have something in common with hardness and whiteness; 
+  and hardness and whiteness have something in common 
+  with whiteness and a horse.
+  And therefore a white hard horse has something in common.
+  And therefore a white hard horse has one element in common.
+  A white hard horse has no element in common.
+  Why is this so?
+  Whiteness has nothing in common with hardness.
+  Hardness has nothing in common with a horse.
+  A horse has nothing in common with whiteness.
+  And therefore there is no white hard horse.
+  And therefore a white hard horse has no element in common.
+  Therefore a white hard horse is not white or hard.
+  Therefore a white hard horse is not a horse or white.
+  Therefore a white hard horse is not a horse or hard.
+  Therefore a hard horse is not a horse.
+  Therefore a hard whiteness is not hard or white.
+  Therefore a white hardness is not white or hard.
+  Therefore a white horse is not a horse.
+
+  Perhaps a white hard horse has a name in common.
+  Perhaps a white hard horse remains unnamed.
+  Therefore the people are unnamed.
+  If the people are named, they have elements in common.
+  If they have elements in common, they are a people.
+  Why is this so?
+  People have nothing in common.
+  A name has nothing in common.
+  A name is never common. 
+
+  
+    after Kung-Sun Lung-Tzu, The Works of Kung-Sun Lung-Tzu with
+    A Translation from the Parallel Chinese Original Text, Crit- 
+    ical and Exegetical Notes, Punctuation and Literal Transla-
+    tion, The Chinese Commentary, Prolegomena and Index, by Max
+    Perleberg, Hong-Kong, 1952.
+
+
+  

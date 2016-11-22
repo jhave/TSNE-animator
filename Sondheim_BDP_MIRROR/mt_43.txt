@@ -1,0 +1,132 @@
+
+
+
+Codeworld                                            */alansondheim/*
+
+ 
+12:55pm  up 2 min,  1 user,  load average: 0.31, 0.19, 0.07
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU  WHAT
+root     tty1     -                12:54pm  0.00s  0.46s  0.05s  w 
+
+Die Welt ist alles, was der Fall ist.
+Ogden:
+The world is everything that is the case.
+Pears/McGuinness:
+The world is all that is the case.
+Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
+Pears/McGuinness:
+The world is the totality of facts, not of things.
+Ogden:
+The world is the totality of facts, not of things.
+...
+Die Tatsachen im logischen Raum sind die Welt.
+Die Welt zerfallt in Tatsachen.
+Ogden:
+The facts in logical space are the world.
+The world divides into facts.
+...
+Wovon man nicht sprechen kann, daruber muss man schweigen.
+Ogden:
+Whereof one cannot speak, thereof one must be silent.
+Pears/McGuinness:
+What we cannot speak about we must pass over in silence.
+(From beginning and end of Wittgenstein, Tractatus Logico-Philosophicus,
+Ogden translation 1922, Pears/McGuinness translation 1961.)
+
+TLP describes a Dostoevskian crystalline world divisible into facts. The
+German is clear; the motto to the book, by Kurnberger states, in trans-
+lation: ...and whatever a man knows, whatever is not mere rumbling, and
+roaring that he has heard, can be said in three words.
+
+TLP portends ideality. The world is logical, mathematical, capable of
+clear division. Logical space is the space, I would assume, of the natural
+numbers, if not the integers; as Russell says in his introduction, TLP
+presents, inscribes, a finite mathematics - there's no room for the
+continuum, and proof of the continuum hypothesis was far in the future.
+
+The translations are different, almost never radically so, but different
+nonetheless. There is a residue in German such that both English versions
+converge, but often never meet. The sememes are equivalent, but only to a
+degree; translations are almost never one-to-one. 
+
+In this logical space of facts, programming, and protocols, there is
+always a wavering, always room, always doubt, critique, and I would say
+desire as well. Never mind that this wor(l)d breaks down, evidenced a few
+decades later by Godel, Tarski, Skolem, etc.: Coherency, living within the
+safety-net of mathesis, matrix, maternality, remains a dream of humanity.
+DNA coding, cryptography, hacking the world - all appear to guarantee that
+everything is possible.
+
+Computer languages are logical; computers are presumed so, but aren't;
+protocols are logical as well; logical spaces may be compared to
+drive-space; garbage-in, garbage-out; and so forth. Hacking depends on a
+closed world with closed loopholes; the loopholes themselves are coherent,
+logical, _there._
+
+Codework, code writing, rides within and throughout the logical world, as
+a disturbance, a sign of things to come, both extension and breakdown. 
+
+Where does the content lie? Is it in the translation of code into
+messiness or residue? Is it in the interpretation of residue? Or perhaps,
+and herewith a criticism, is it in the wonderment, confusion, and novelty
+of the residue itself?
+
+Is codework a minor art, minor literature? What is the point of repeatedly
+shaking the scaffolding - if not the emergence, in the future, of an other
+or another approach, or an other, being or organism, for which codework
+now both provides augury and its weakness as portal/welcoming? For what is
+come among us already no longer speaks the world of logical facts, just as
+computers are no longer large-scale calculators, but something else as
+well, something unnamed, fearful - that fearfulness already documented by,
+say, Cruikshank in the 19th century.
+
+2:20pm  up 1 min,  1 user,  load average: 0.33, 0.18, 0.06
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU  WHAT
+root     tty1     -                 2:19pm  0.00s  0.42s  0.05s  w 
+
+Codework references the alterity of a substrate which supports, generates,
+and behaves as a catalyst in relation to its production. To this extent,
+codework is self-referential, but no text is completely self-referential
+(sr); things waver. So for example 'ten letters' and 'two words' and
+'english' may be considered sr - but only to the extent that the phrases
+are presumed to apply to themselves. Extended: 'This sentence has
+thirty-one letters.' - 'This sentence has five words.' - 'This is an
+english sen- tence.'
+
+What is the residue? What are the sentences 'about'? On the surface,
+letters, words, language. This is an additional or diacritical relation-
+ship to sr; if one, for example, didn't know english, none of these would
+make sense.
+
+All sr possesses a residue - an _attribute tag._ In codework, which has a
+component of sr, the tag may be plural, muddied - the world is never
+presumed complete, total. Codework is not an instance in this regard of
+mathematical platonism or Godelian-platonism; if anything it relies on the
+breakdown of the ideal, pointing out the meaning-component of computation,
+program, protocol, even the strictest formalisms.
+
+Early on Whitehead pointed out that 2+2 = 4, but only in a certain formal
+sense; in fact, the equation implies an operation or unifying process;  
+within the 4, the components are combined, their history lost. Strictly,
+'2+2' and '4' are equivalent; within the symbolic, they differ - for that 
+matter, in terms of thermodynamics as well. This domain is expanded by 
+codework, which endlessly interferes.
+
+The danger of codework is in its delimitation; it tends to repeat; the
+works tend towards considerable length; automatic generation can flow
+forever. Sometimes it appears as maw-machine emissions - text in, modified
+text/partial code out. Sometimes it extends language into new uncharted
+territories. Sometimes it references the labor and/or processing of
+language. Sometimes it privileges the written over the spoken, or portends
+the spoken within a convolution of stuttering and close-to-impossible
+phonemic combinations. Sometimes it appears as a warning against the all-
+too-easy assimilation of linguistic competency. 
+
+Sometimes it breaks free, relates to the subjectivity behind its produc-
+tion, the subjectivity inherent in every presentation of symbol-symbolic.
+
+2:37pm  up 18 min,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU  WHAT
+root     tty1     -                 2:19pm  0.00s  0.44s  0.06s  w 
+
+

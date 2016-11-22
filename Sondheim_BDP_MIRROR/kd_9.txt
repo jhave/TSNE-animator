@@ -1,0 +1,33 @@
+
+
+
+Aliases: Transformations: Us:
+
+
+# General redirections for pseudo accounts.
+bin:            root-around-the-merry-go-round
+daemon:         root-around-the-merry-go-round
+games:          root-around-the-merry-go-round
+ingres:         root-around-the-merry-go-round
+nobody:         root-around-the-merry-go-round
+system:         root-around-the-merry-go-round
+toor:           root-around-the-merry-go-round
+uucp:           root-around-the-merry-go-round
+webmaster:      root-around-the-merry-go-round
+archive:        root-around-the-merry-go-round
+hostmaster:     root-around-the-merry-go-round
+usenet:         root-around-the-merry-go-round
+news:           root-around-the-merry-go-round
+ 
+# Well-known aliases
+root-around-the-merry-go-round:   admin
+manager:        root-around-the-merry-go-round
+dumper:         root-around-the-merry-go-round
+operator:       root-around-the-merry-go-round
+ 
+ 
+# trap decode to catch security attacks
+decode:         root-around-the-merry-go-round
+(END)
+
+

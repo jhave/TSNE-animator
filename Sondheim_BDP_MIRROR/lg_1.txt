@@ -1,0 +1,24 @@
+
+Read: 3 times
+
+00 Let X = tan(approaching 90 degrees)
+10 # in a very pure land
+20 # this is not a very pure land
+30 Print X in pixels and GOTO 00
+40 and when this is all over go back to 00
+50 and when back at 00 make the raster finer
+60 # making it finer makes X go greater
+70 # X is so very great!
+80 X is so very great it begins to escape the screen!
+90 X escapes all screens!
+100 quick quick cat X > /dev/null
+110 /dev/null begins to bloat with Pixel-X!
+120 # /dev/null is crafty
+130 /dev/null empty as fast as /dev/null is full!
+140 X can go on and on and is very tired but /dev/null is not!
+150 # this happens when I am very tired
+160 I am very tired, emptying X in all its forms
+170 # this is the end of the world
+180 it is not a very pure land
+
+

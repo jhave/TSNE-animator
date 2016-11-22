@@ -1,0 +1,226 @@
+
+
+
+Notes on Electronic Conferencing
+
+
+General:
+
+
+I am going to talk about low-bandwidth applications for the most part. 
+Low-bandwidth gives the greatest possible demographics. If mid-range
+applications such as RealAudio are used, they should be duplicated by
+other client technology that does not require, say, a sound card, 32-bit
+computer operations, high-speed machines, and so forth. 
+
+In fact, duplication, multiple-channel processing for conferencing, has a
+variety of uses. With CuSeeMe, certain reflector sites may be more acces-
+sible than others. With IRC, it's possible that netsplit is occurring
+with one server, and not another. 
+
+Beyond this, there is the issue of _delivered_ versus _negotiated_ con-
+tent. The former refers to the reproduction (by text, voice, etc.) of
+content coming from the conference speakers or organizing body - in other
+words, server-generated content; the latter refers to participant or
+client-generated content. Ordinarily, the two operate in conjunction (for
+example in a chatroom); in a conference environment, however, issues of
+governance, authority, and control surface. In addition, _all_ on-line
+conference materials are filtered through "rites of passage" - signing up,
+logging on, entering login names and/or passwords, and so forth. (These
+categories are augmented by a third, _open_ content, which usually plays
+no role in a conference environment. Open content is completely free - the
+situation on newsgroups or open IRC channels (without banning). As Jerry
+Everard has pointed out, all email is delivered content, since the frame-
+work of the post is secured by the sender; it's also open, since the con-
+tent is completely user-determined as well.)
+
+Rites of passage have a positive use; they create an active sense of in-
+vestment on the part of the participant, helping keep noise and spam down
+to a minimum. (This is clear if one compares newsgroups to email lists,
+and, say, Worldschat to ThePalace; the difference in online behavior and
+"substance" can be striking. The same is true between guest and non-guest
+logins on MOOs; at times, a MOO participant will deliberately login as
+guest in order to spam. It may be true that the flatter the playing field,
+the greater the noise - but at the same time, of course, _possibly_ the
+greater the freedom of the participants. It's necessary and difficult to
+maintain a creative balance here.) 
+
+If we take a measure of bandwidth for various applications, we find that
+the least is that of email and email lists - any number of mail readers
+are available. The least _synchronous_ application is probably talker,
+which can run without a client program, as raw text through telnet. On a
+slightly more advanced level, IRC, MOO, etc. come into play - as do FTP,
+etc. with asynchronous. Pine and other similar mail readers seem to
+require greater bandwidth - but even an IBM XT can handle them well. 
+
+There is the question of client-side technology, MIRC for IRC in Windows
+or Phoenix in the shell; tf for MOOs, MUDs, and talkers in the shell;
+and so forth. These can take up bandwidth but simplify interactivity;
+the three major advantages are the presence of macros of all sorts, the
+ability to multi-task/multi-channel, and the separation of user input
+from the application window itself.
+
+IRC spikes the feeling of distance, over talkers; there is little or no
+sense of physical, architectural, space across the channels. For me,
+channels appear as so many interactive discursive formations, and the use
+of <name>: preceding statements formalizes the _slotted_ phenomenology of
+the whole. On talkers, as on IRC, input is direct (i.e. without the use of
+"say" or " " " preceding the statement), but the rendering is different,
+more on the order of fictional conversation: "Alan exclaims, "Wow!"" 
+Talkers, MOOs, and MUDs all have well-developed senses of place; in talk-
+ers, space is a _given,_ immobile, and there to be navigated. On MUDs,
+space is similar, but combined with magic apparatus, and a sense of
+(wounded, tired, thirsty, healthy, satiated, drunk, etc.) body not found
+elsewhere. Finally, on MOOs, space is transformable, and body is control-
+led (in terms of appearance and inventory) totally by the participant;
+it's assumed healthy. 
+
+Given all these modalities, the _talker_ most closely approaches the feel-
+ing of the _conference room._ Speech is natural; spatial navigation is
+relatively simple; it's easy to receive a map of the total environment.
+Talkers also assume a model of _spoken communication_ - and, unlike MUDs,
+for example, there is no economy attached. The body is assumed healthy. 
+
+These attributions are also true for conferences; once inside, a model
+(almost never true) of Enlightenment equivalence is presupposed, and
+speech becomes the literal order of the day. 
+
+In terms of virtual conference setup, both IRC and talkers are useful. 
+IRC is common everywhere, but users in Windows might have to download and
+configure MIRC or equivalent, for example. Talkers require only the
+ability to telnet. Both can handle multiple-user situations. Talkers have
+built-in email and bulletin boards, and there's no need of (or use for)
+bots. For the server, talker software is remarkably small and easy to set
+up; each room, etc. is an individual file, which makes configuring simple. 
+
+On the other hand, the channelmaster in IRC possesses a great degree of
+power and the ability to immediately reconfigure the channel - for exam-
+ple through individual or site bans; speak or non-speak flags; public or
+secret; and so forth.
+
+The IRC channels for the Nova Scotia conference somewhat attempted to imi-
+tate talker morphology, with the presence of "workshop" spaces, as well as
+a "hallway" and "lobby." All of these were individual channels. There was
+no overall architectural configuration; because of my previous real-life
+participation with the WINS group, etc., I was able to project the outline
+of a virtual space into the meetings. This is, however, not a typical sit-
+uation.
+
+The IRC channels also of course involved a rite of passage - the signin 
+to the conference proper. Almost all of these applications have a way of
+filtering out intruders; on a public IRC server, this can be difficult -
+particularly if people are intent on breaking in or causing trouble. 
+
+On an _asynchronous_ level there are several applications that are of use. 
+The simplest is the email list itself, which can be used for presenting
+papers as well as discussion; these lists are also archived, so the paper
+can be readily accessed. It's also possible to set up a simple website
+that is also lynx-accessible, for ftp-ing materials; the ftp directory can
+also be directly accessible. 
+
+Newsgroups are another possibility; these permit threading and commentary,
+but would require software and news capabilities for each participant. 
+I find that the learning curve for newsgroups is somewhat steep - as it
+was for the old Caucus system. 
+
+
+Conference demographics and types:
+
+
+The above discussion is in terms of an open-demographics conference, with
+no necessary institutional framework - in other words, the broadest pos-
+sible approach. Institutionalized conferencing systems - say at a univer-
+sity or corporation - can use specific software for the purpose; every-
+thing is either in- or across- house, not designed for a general public.
+
+The open-demographics on-line conference must assume a wide range of ac-
+cess levels, from lynx through multi-media. In many countries, for exam-
+ple, there may be no dependable phonelines and modem speeds of, say, 9600
+baud maximum. A second assumption is that the user may not know how to
+download particular software, even lean or low-bandwidth software, to her
+or his computer. 
+
+For these reasons, the best approach is to make use of _common applica-
+tions_ that are already found on most shell accounts - augmented on PPP
+and SLIP accounts to be sure. These include most of the above; talkers,
+for example, can be accessed through raw telnet (even though MOO GUIs are
+beautiful), and email lists ride on ordinary email protocols. IRC can be a
+problem with extremely wide demo, because of netsplit; there are some
+shell accounts that don't carry it, or carry only a clumsy version. It may
+also be difficult for someone to lock into a local server thousands of
+miles away.
+
+Newsgroups are the most problematic here; while tin and other readers per-
+mit extremely simple and tailored access, Netscape doesn't. I tend to stay
+away from these.
+
+For IRC and Windows formats, there is Globalchat which can be quite use-
+ful. And if bandwidth or machinery isn't an issue, RealAudio broadcast is
+excellent.
+
+
+My experience: 
+
+
+I have conferenced both on-line and off-line with on-line access, through
+a number of applications. At a New School panel, we had set up both IRC
+and MOO; the former wouldn't connect, and the latter - using the PMC2 MOO
+- was extremely noisy, since non-participants kept interfering with the
+proceedings. I suggest strongly that if MOOs are used, that they be crea-
+ted or dedicated specifically to the conference situation. MOOs also have
+somewhat of a learning curve, even for basic commands; they're the most
+developed application around, but tend to filter out people who aren't
+familiar with them.
+
+At a New York City censorship conference, I participated through Global-
+chat and RealAudio 3.0; because I was near the broadcast source, there was
+little or no discernible lag and participation was full, immediate, and
+easy. But many people don't have RA capabilities, and Globalchat needs a
+download (it's a form of simple IRC).
+
+For the Nova Scotia conference, I was on with IRC, finding myself trying
+to listen to three channels simultaneously, since transcription was the
+order of the day. I wanted a second chat channel to accompany each for-
+mal presentation (within which the other participants were unable to speak
+or comment), in order to fill out time and commentary. Beyond that, there
+was a sense of inhabiting several spheres simultaneously - two of the
+channels duplicated each other, in French and English, and the third was
+from an entirely different workshop, in English.
+
+For transcribed conferencing (i.e. text- not audio-based), the easiest
+papers to absorb were those that presented themselves in outline form: "I
+am going to make the following points" etc. More complexly-argued or
+self-reflexive papers (such as some of the ones at the Cybermind96 con-
+ference, which I attempted to transcribe) tended to be almost impossible.
+It is always helpful to have an abstract available ahead of time - even
+one that can be sent out on the transcription channel (before the session
+begins); dccing on IRC is a useful possibility.
+
+CuSeeMe is useful, even now, for conveying the "flavor" of the speakers,
+but little more; it still runs extremely slow, with broken audio; is
+dependent on proper transmit/receive settings; and needs very heavy band-
+width requirements - minimum 28.8 modem for example. It added "color" to
+the Cybermind96 conference, but little more.
+
+A MOO or talker can be very useful, by the way, for developing a "confer-
+ence counterpont" in virtual space; this happened with the Cybermind96
+events. It does take some skill on the part of the participants as well as
+the transcriber, to keep things in bound; without good-will, as I've said,
+the system could easily break down. (I _have_ participated in decent on-
+line conferences on the old PMC, but then some of the participants were
+wizards, etc. who could @gag or kick merrymakers (!) off.)
+
+My own predilection for simple on-line conferencing has involved three
+components: email lists for in-depth discussion; IRC or talkers for live
+discussion and (with the latter) limited internal email; and a gateway web
+page (lean and readable in lynx as well of course) which gives the sched-
+ule, papers, abstracts, and other conference information. Cybermind96 had
+one for example, which is still up and running, and excellent.
+
+Finally, I do believe that in the distant future, all of these local and
+already installed applications will be unnecessary; all computers will
+come with PPP or equivalent already installed, and everything will be,
+like the radio, based on a GUI. But this is at least a decade away, if we
+are really considering world-wide demographics. 
+
+

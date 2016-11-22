@@ -1,0 +1,6 @@
+
+.echo (Jennifer) Well we have Wonderful Game played, now we will Play
+Another!
+(Jennifer) Well we have Wonderful Game Played, Now we will Play Another!
+.echo They All Rises!
+.w

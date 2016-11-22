@@ -1,0 +1,34 @@
+
+
+
+Mathesis (halfgroupoid with a corrupted unit element)
+
+Let us define a mathematical structure with a set A of elements, an
+operation on the set such that, for some a,b,c of A we have ab = c.
+Let us also define an identity element e, such that ae = ea = a,
+and ee = e. But let us also define e such that eee = e*, and eeea =
+a*, where * is indeterminacy such that a* not= a and e* not= e. (We
+can define similar structures with any length of concatenation, i.e.
+eeeee.) Then the structure is non-associative, for otherwise one can
+write eeea = ee(ea) = ea; it is also non-symmetric, since otherwise
+ee(ea) = eeae = eae. e is only partially reflexive, since ee = e.
+Note that this structure embeds the notion of process in any equa-
+tion, since an accumulation of identity elements transforms the re-
+sulting equation. What is produced can be constructed by steps - 
+for example ea = a = ea = a = eea = a and so forth - each term cal-
+culated in order. Note the relationship of this to the halfgroupoid
+with a unit element, but it is a "corrupted" structure as such, and
+overall an indeterminate structure. Phenomenologically, it repre-
+sents an economy of means and perception for structures in the real
+world of everyday life; this is even more so if the rule for e is
+generalized, such that, for any element x, xxx not= x(xx) or (xx)x.
+Thus "building" x by xx = y, xy = z is not= xxx = z*. What of all
+of this? Creating a mathematical structure with a potential error
+built-in, for example, one operation eee = e* throwing everything
+off - then salvaging by prohibition. Isn't this in fact the way of
+every testament, making a fence around the Torah, for example, in 
+order to keep in bounds what is holy, what is profane, what is the
+pathway of desire? Too much accumulation produces nonsense; proceed
+by rite, carefully, and all will come out exact in the end.
+
+

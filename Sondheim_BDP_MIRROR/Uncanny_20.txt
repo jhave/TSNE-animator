@@ -1,0 +1,97 @@
+
+
+
+The Homeless Mind
+
+
+I want to return momentarily to Berger, Berger, and Kellner's The Homeless
+Mind, Modernization and Consciousness, because its metaphor, that of a
+mind which has no dwelling, losing the ability to inhabit, relates closely
+to cyberspace issues. In the first chapter, there are a number of terms 
+defined which owe to Alfred Schutz, Frankfurt School, and Marx, I think. 
+They're used to characterize the mode of technological production; they 
+could equally be applied to software production or computer technology in 
+general.
+
+A _style_ of work is associated with such production, characterized by
+mechanisticity, reproducibility, participation in a sequence of produc-
+tion, and so forth. Clearly this style, which is organized top-down, has
+been replaced by a style of laterality, bricolage, innovation, and inser-
+tion into or across production. This is a major difference. But there are
+other elements at the core of the technological which relate closely;
+these fall under _cognitive style,_ and include componentiality, interde-
+pendence of components and their sequences, separability of means and
+ends, and implicit abstraction. Given these elements, note their transla-
+tion into cyberspatial issues:
+
+1. Componentiality relates directly to programming, applets, MOO morphs,
+and the like. TCP/IP falls under this element and the following. 
+2. Interdependence of components and their sequences references links,
+GUI, the MOO database, etc. 
+3. Separability of means and ends refers to the foreclosing or frame-
+working associated with every software program, including variable
+declarations, main(), etc. - as well as the transportation of components 
+from one application to another.
+4. Implicit abstraction is evident everywhere, from programming to the 
+class of @-commands in MOO. 
+
+As might be expected, "Technological production brings with it _anonymous 
+social relations._ The thinking behind this goes back at least to Marx 
+and Blake, but I think the implicit model of the technological here is 
+based on _mechanism,_ not cyber-wear for example. In fact, technology can 
+theoretically mimic (and mimicing is a becoming as well) _any_ social 
+relations, anomic, anonymous, abstracted, or otherwise. In so doing, the 
+abstract remains as skeletal articulation; for every bot on an lpmud, 
+there's a bot code. But the surface signifiers, programmed in and be- 
+coming more and more emergent as well, are otherwise, just as skin and 
+facial musculature are part of a complex and irreducible system of 
+communications, no matter how much cellular biochemistry is understood.
+(I am _not_ arguing for "spirit" or "soul" here by the way _at all,_ but 
+only for emergent phenomena, which are fairly common in the physical 
+world _as-is._)
+
+Later, the authors say, "Put differently, a double consciousness develops
+in which the other is simultaneously experienced in terms of his [sic]
+concrete individuality _and_ in terms of the high abstract complexes of
+action within which he functions. In order for such actions to be perfor-
+med, the other _must_ be anonymized." It's again easy to dismiss this
+within CMC, assuming that community engenders community, that our differ-
+ences are somewhat translatable into text. However, at least for me, the
+issue of implicit abstraction returns, almost like a stain or residue. In
+real life, physical life, on the street, I meet Leslie. Leslie and I talk
+and not only are there an inordinate number of "clues" which constitute
+part of the communication between us - there is also remarkably little in
+the way of frameworking, beyond the self-evident and somewhat manipulata-
+ble style of every-day life. We both wear clothes, are held in position
+somewhat by gravity, have our shadows fall parallel if the sun is out, and
+so forth. But the _space_ itself appears mobile, almost in a state of ir-
+ruption, able to be reconfigured, blurred. You might say that the obdurate
+of the real is so much in place that it's taken for granted - or else that
+the obdurate is, in fact, softened, part and parcel of communicating. 
+
+Within CMC, however, implicit abstraction presents itself at the heart of 
+things. This won't always be the case, but for the present, an avatar for 
+example looks like it just emerged from the slime of the symbolic; it's 
+fresh, cleansed, relative unreal, almost entirely expressionless. On the 
+MOO, there's less symbolic and more imaginary, in spite of the language; 
+as I've written elsewhere, this is an inversion of the everyday use of 
+text which appears extruded from the real. But even on the MOO, frame is 
+close to everything, whether it's tiny fugue or raw telnet or Homer or 
+some other form. When I join PMC MOO, in fact, in tiny fugue I type 
+/world PMC, _as if it were a world,_ but it is something that _appears 
+above-line,_ labeled and announced, within the confines of the computer 
+screen itself. Again, once _there/here,_ the limited commands, etc. carry 
+the abstract with them, as they _must_ do, being a relatively small 
+finite set of options. Next to every utterance is a """ or "say" and next 
+to every participant is a computer.
+
+These are minor matters and I could just as easily argue otherwise. But
+what I'm interested in is how this relatively formal account of techno-
+logical production still holds in electronic communication, conferencing,
+and/or browsing situations. Instead of asking where the body is, one might
+as well ask where abstraction resides; instead of formulating issues of
+embodiment, it's just as worthwhile to formulate phenomenologies of the
+frame. Whatever the analysis, there seems to be "something to it" that 
+we're homeless in the midst of our new homes, mindless in the midst of 
+others' minds, at a loss for words in the midst of our productions.
+

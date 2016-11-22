@@ -1,0 +1,24 @@
+=
+
+  2.2.2.2.2                  Shown     16 KB     Message, "Fwd: Important
+   2.2.2.2.2.1                Shown      1 lines  Text
+   2.2.2.2.2.2                Shown     15 KB     Message, "Fwd: Important
+   2.2.2.2.2.2.1              Shown      1 lines  Text
+   2.2.2.2.2.2.2              Shown     15 KB     Message, "Fwd: Important
+   2.2.2.2.2.2.2.1.1            OK      29 lines  Textage, "Fwd: Important
+   2.2.2.2.2.2.2.2            Shown     11 KB     Message, "Fwd: Important
+   2.2.2.2.2.2.2.2.1          Shown      1 lines  Textage, "Fwd: Important
+   2.2.2.2.2.2.2.2.2          Shown     11 KB     Message, "Fwd: Important
+      2.2.2.2.2.2.2.2.2.1        Shown      1 lines  Text
+         2.2.2.2.2.2.2.2.2.1        Shown      1 lines  Textage, "Fwd:
+         Important Rea
+            2.2.2.2.2.2.2.2.2.2        Shown     10 KB     Message, "Fwd:
+            Important Rea
+               2.2.2.2.2.2.2.2.2.2.1      Shown      1 lines  Text
+                  2.2.2.2.2.2.2.2.2.2.1      Shown      1 lines  Textage,
+                  "Fwd: Important Rea
+                     2.2.2.2.2.2.2.2.2.2.2      Shown    9.8 KB
+                     Message, "Fwd: Important Rea
+                        2.2.2.2.2.2.2.2.2.2.2.1    Shown      1 lines
+                        Text
+

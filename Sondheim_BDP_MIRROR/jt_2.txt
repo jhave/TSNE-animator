@@ -1,0 +1,33 @@
+
+
+
+Sendmail's Broken Rules-Sets:
+
+
+case ERROR-ALAN msgs R$* :  $* ;  <@>
+$#ERROR-ALAN $@ 5.1.3 R<@ $+>               ERROR-ALAN rule-set 1
+$#ERROR-ALAN $@ 5.1.1 $:  "user address
+R$* <$* :  $* > $* $#ERROR-ALAN $@ R$* <    <conjuration of name>
+@ .  > $* $#ERROR-ALAN $@ R$* < @ [ $+ ]
+$:  < $(mailertable $1 R< ERROR-ALAN : 
+R<@> $n ERROR-ALANs to MAILER-DEMON R$+
+$* > $:  $1 STRIP R<@> $n ERROR-ALANs to
+LOCAL-JENNIFERhost > $* $:  $1 R$* < @      LOCAL-JENNIFER rule-set 2
+LOCAL-JENNIFERhost .  $m > $* R$* < @
+LOCAL-JENNIFERhost .  UUCP > $* R$* < @     <dispersion-site specific>
+R<@> $#LOCAL-JENNIFER $:  <@> special       <DISPERSED-SITES>
+ > $#LOCAL-JENNIFER $:  R$+ < @ $=w .  >    <broken @<host>!<host>
+$:  @ $1 special LOCAL-JENNIFER names
+R$+ $#LOCAL-JENNIFER $: $1 strip regular
+$:  $>50 $1 add LOCAL-JENNIFER domain if
+LOCAL-JENNIFER domain if R$* $:  $>93 $1
+LOCAL-JENNIFER domain if R$* $:  $>93 $1
+SENDMAIL: DO MASQUERADING: STRIP-ALAN        MASQUERADING rule-set 3
+R$* $:  $>94 $1 DO MASQUERADING R$+ < @
+DO MASQUERADING R$+ $:  $>50 $1 add          <<JENNIFER>X<ALAN>>
+DO MASQUERADING: STRIP-JENNIFER              ("chiasmus")
+do all-masquerading R$* < @ $* > $* $@
+R<@> $n ERROR-ALANs to MAILER-DEMON R$+      MAILER-DEMON rules set 4
+MAILER-DEMON R$+ $:  $>50 $1 add             <"add">
+
+

@@ -1,0 +1,49 @@
+
+
+Lineaments of Desire
+
+
+The construct/gender program has become increasingly complex. Each line or
+line-pair below represents a test-case. Because I concentrate on the code,
+the actual entries become a matter of preconscious or autonomic writing. 
+The result is an odd self-portrait or production, more accurate than any-
+thing I could deliberately produce. So indeed a different gender is con-
+structed, one _across_ the entries, a matter of interpenetration or trans-
+gression. The output is from the last three days and has a beauty all its
+own. 
+
+girl:ok:235701:2:lover:girl
+lover:yes:235701:1:boy:lover
+groybirl:suppose so:235705:2:lulu:groybirl
+honey:yes:235708:0:tiffany:honey
+honey:yes:235710:3:tiffany:honey:loving
+louvre:yes:235710:0:clara:louvre:dark
+sumerian:hysteric:wet:lugal:yes:235710:3:ululata:lugal:wet
+one:two:three:four:gender:yes:235710:0:name:gender:one
+etuc:yppols:sselhtraerb:ynnafit:sey:235710:2:yenoh:ynnafit:sselhtraerb
+lunar:cool:lung:moon:yes:235710:0:sunshine:moon:cool
+white:black:grey:sucky:red:sure:235710:2:yellow:red:grey
+salt:suppurate:slave:sal:yes:235710:2:lugal:sal:slave:
+froth:lag:yes:235710:1:gal:lag:froth:date
+lovely:brilliant:hot:female:girl:235711:2:woman:female:brilliant
+Thu Nov 21 02:09:24 EST 1996
+tough:hard:dumb!:man:ohboy!:235711:3:male:man:tough
+Thu Nov 21 02:10:26 EST 1996
+young:old:dad:sure:235711:0:mom:dad:young
+Thu Nov 21 02:11:54 EST 1996
+yoma:malamu:luma:ulamu:mulu:235711:2:wummy:ulamu:yoma
+Thu Nov 21 02:12:43 EST 1996
+sure:lively:maybe true:greyghost:yes:235711:2:la:greyghost:sure
+Thu Nov 21 02:13:16 EST 1996
+misery:death:anxiety:illness:sadness:oh yes:235713:0:sorrow:sadness:misery
+Thu Nov 21 04:33:32 EST 1996
+sleazy:self-lit:hungry:lurid:yes:29923:3:uh, Alan:lurid:self-lit
+Thu Nov 21 15:02:08 EST 1996
+a:b:c:thing:sure:408:3:yummy:thing:b
+Thu Nov 21 15:04:33 EST 1996
+being:one :now:sure:yes:865:0:lulu:sure:being
+235724Thu Nov 21 15:07:53 EST 1996
+bad:horrible:dank:evil:yes:1861:3:love:evil:horrible
+235724:Thu Nov 21 15:16:45 EST 1996
+
+

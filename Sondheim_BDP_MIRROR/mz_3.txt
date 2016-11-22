@@ -1,0 +1,18 @@
+=
+
+Root Class (#1) is owned by Wizard (#2).
+Aliases:  nothing
+(No description set.)
+i#1 (#947) is owned by Nikuko (#934).
+Aliases:  i#1
+submergence of drowned gods
+Key:  (None.)
+Obvious Verbs:
+  g*et/t*ake i#1
+  d*rop/th*row i#1
+  gi*ve/ha*nd i#1 to <anything>
+  v*iew i#1
+  dis*play i#1
+  connect i#1 to <anything>
+  @webpref*erences i#1
+

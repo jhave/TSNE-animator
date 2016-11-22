@@ -1,0 +1,82 @@
+
+
+-
+
+
+Who owns what here?
+
+
+I'm called technically the list-owner but the sysop at the server site
+owns me.  The space isn't free because you're paying or someone is for the
+ISP or SLIP/PPP connect. The machine that the list runs on costs money. 
+Someone's paid for the listserv software to be set up. My labor as co- 
+moderator is free; I don't charge you and I'm not paid. The sysop is paid 
+and listserv is paid. Someone is paid to maintain the machine that the 
+list runs on. People pay to go the the university or for AOL to maintain 
+the listserv sites. Someone pays for the electricity at AOL and the uni- 
+versity and someone pays the salary of the sysop and someone has paid for 
+the development of the machinery. Someone is paying for the fiber optic 
+cables and I am paying my ISPs in order among other things to maintain 
+the lists as co-moderator. Only on Cybermind do I do all the basic work; 
+on the other lists, the basic work is done by the co-moderators and they 
+are not paid, including Pip on Cybermind, Laurie and Tbone on FOP-L, Tom 
+on Image, Mike on E-Conf. Tom is not paid for maintaining a Web page for 
+Cybermind and Richard is not paid for maintaining the archives.
+
+Our costs run to ISPs, telephone lines and calls, equipment upgrading, and
+labor time; our costs may also run to space on a public_html directory. 
+
+You're not free to say anything you want here. You can be sued for quot- 
+ing private mail and I can be sued as list-owner but I probably wouldn't 
+lose. AOL and the university could be sued and AOL might lose but judging 
+by the contract I have for Cybermind I doubt they would. You yourself 
+might well lose the case if the post were slanderous but otherwise you 
+might not. You would probably win if you posted from another forum that 
+was already public. You would probably lose if you posted a real threat 
+to someone, including one of the list members. You could lose for haras- 
+sment, but it is hard to tell in these cases.
+
+You could possibly lose for publishing proprietary codes or software. You 
+can be removed by me or any of the co-moderators at our discretion. AOL 
+and the university could remove the list from their listserv, but AOL 
+might be sued because of the contract. The contract is in writing, hard- 
+copy and is between me and AOL. The contract is for the period of a year. 
+I know "somewhere" I have the contract but I am not sure.
+
+You might be breaking the law for sending a pornographic post on the list
+and I might be sued or be breaking the law for allowing the post or for
+allowing the post to remain on the archives. If you are a child I might be
+breaking the law for allowing a child on the list even though I do not
+know you are a child, even if you say you are one, and if there are porno-
+graphic posts on the list. 
+
+On Cybermind and FOP-L, you are here because your subscription passed; we
+checked it. On Image, subscriptions are totally by hand and I do subscrip-
+tions by hand that pass from Spoons on jefferson to my account, for Cyber-
+mind and FOP-L. On E-Conf, subscriptions are automatic and do not pass
+through us. 
+
+If you are a U.S. citizen and you threaten the President of the United 
+States on a list, you are breaking the law. If you pass on copyrighted 
+material to a list without authorization, you are breaking the law.
+
+Every post, public or private, on the Internet, is not immune from the 
+law, but in the case of the CDA and pornographic issues, the law will at 
+this point, and perhaps only at this point, pay no attention. Every post 
+reaches its destination by virtue of labor, free and paid, but never over 
+free networks, or if free, free by virtue of the gift of someone's labor. 
+Every post costs, every post drains the earth. Every post delivered con- 
+forms to protocol standards or else becomes a problem of labor for one of 
+the co-moderators, or the machinery itself. A post that does not reach 
+its destination may loop within a site or among sites and becomes noise. 
+A loop of noise can flood a list if it is not quickly caught. Sysops and 
+co-moderators and others catch loops so they do not reach your mailbox. 
+When they fail, your mailbox can also crash and your account will break 
+down, returning mail itself. This can increase the number of loops.
+
+AOL and the university are owned by corporations who may be in bidding 
+wars. Down the recessed halls of communications, things get murkier and 
+at the far end, the very far end, there are shadowed figures. Do not 
+suppose for a second that they are not making money from this. One way or 
+another it pays off, or we would not be allowed to be here.
+

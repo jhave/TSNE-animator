@@ -1,0 +1,90 @@
+
+
+-
+
+
+BEWARE: MOOs, Revisited
+
+
+With all the recent problems on CM-MOO and now PMC2; with the bad politics
+a while ago over the move from PMC to PMC2; with my own experience as a
+wizard on Kyoto MOO and CM-MOO; and with rethinking MOO structures in gen-
+eral, I want consider, again, their potential for general communications.
+
+I find the MOO core and database themselves so flawed that only a rigid
+framework seems possibly secure - such as one might find in a research
+MOO, k12 MOO, or even an on-line teaching MOO. In all of these, users come
+on for specific engagements - including meetings, structured learning
+experiences, and so forth. Characters are highly limited. The wizards
+are primarily administrators or "officials."
+
+On open MOOs, however, there are two problems. One, which applies every-
+where, is that of the phenomenology and seduction of an emotionally-
+charged textual domain, which tends towards fore/closure, and even psy-
+chosis (not that characters are psychotic, but that the framework becomes
+symptomatic) - interior and exterior worlds merge with a combination of
+inner speech (Vygotsky) and what I've called the "ascii unconscious." 
+
+The second is that of the _completely unrestrained power of the wizards._
+Consider _any_ text-based virtual environment residing on a machine. Sup-
+pose that x sends y private email within it. Then, unless that email is
+encrypted (and it isn't in 99.99% of the cases - in general there aren't
+even routines for this), the email resides _somewhere_ in the closure of
+the database - somewhere in the MOO/MUD/talker etc. directories. It may
+reside within the MOO db as a whole, or in a separate file on an lpmud -
+but it's _there._ And because it's there, there are a always sysadmins who
+have total access to it - who have root access to the machine, or wizard
+ownership on a MOO, etc. _It's readable._ And more to the point, _it's
+read._
+
+On some applications there is even an @snoop or .snoop or /snoop function
+that allows a wizard/sysadmin/god to listen in on any private conversa-
+tion. On some applications, wizards (I'll use this as generic) may move 
+about invisibly, without announcing their presence. 
+
+On the MOO, a wizard can read anyone's mail, change anyone's password (in-
+cluding the password of another wizard - locking hir out), change anyone's
+description, rewrite anyone's objects or take them for hir own, and even,
+I believe, forge email - forging is also relatively easy to do on a talk-
+er. (Ironically, IRC, with all its faults, seems safest with /msg and dcc
+communications. There are obviously tradeoffs.)
+
+Before I was wizard/god etc. on various applications, I didn't realize, as
+well, the _ease_ with which these things can be done. They're simple ad-
+ministrative tasks/commands - they don't take programming. As a result,
+the MOO has appeared increasingly leaky to me - I would not trust anyone
+on one, and certainly would not trust any private email, email list, or
+talking/paging/whispering, etc., in any sort of space, no matter how pri-
+vate it seems to be. _It all depends on the good will of the wizards_ -
+and that hardly provides for security. A MOO, for example, would be one of
+the last places one would want to transact business. 
+
+For research purposes, or k12, MOOs are excellent - they work well as a
+distance learning environment. In all of these cases, it doesn't matter if
+anything is overheard - in fact, monitoring might be an integral part of a
+k12 diorama display for example. But these are extremely narrowed catego-
+ries, oddly against the grain of the expansive programming/routines inher-
+ent to the MOO. 
+
+Finally, the Cybermind conference MOO (CM-MOO) - for me, all the difficul-
+ties there have made the above clearer than ever. Text-alone does its own
+damage;  the hierarchical structure of the MOO (who has access to #2? to
+the root?  who has wizard status? programming status? who determines the
+overall look of the space? who organizes the email lists? and so forth)
+does the rest. Is it possible, in fact, to have a functional and user-
+friendly conference MOO, where the conference itself is not strictly aca- 
+demic?
+
+I want to conclude by mentioning talkers again - which have, after the
+basic level of the organizer/sysadmin - a much more level playing field. 
+Have one sysadmin, no other gods or wizards - and the site is more or less
+secure. Others could still add rooms _by sending them to the sysadmin as
+ASCII files for inclusion_ - but they would not have access to the data-
+base. The political hierarchy would consist of a single node - the sysad-
+min - and "the rest." If the sysadmin was a conference organizer, I think 
+the application would run smoothly.
+
+Nonetheless, even with a talker, all private communications among parti- 
+cipants would be immediately accessible to hir...
+
+

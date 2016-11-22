@@ -1,0 +1,80 @@
+=
+
+
+As far as I can tell, the last entered introduction is pi.txt:
+
+
+From net1.txt:
+
+INTRODUCTION TO INTERNET TEXT AS A WHOLE
+
+Years ago, I gave a lecture at the Ontario College of Art, in which 
+interaction with a computer was described as the production of a program 
+space. The space was characterized by absolute control; the computer 
+responds on a one-to-one basis to input. If the user enters a command, 
+either the command is carried out, or various errors occur. Computer 
+games carry this one step farther - the game responds deliberately to 
+what I _do,_ creating the sense of a dominated environment.
+
+Today, the situation is completely different, particularly given the
+various communicative modalities of the Internet - email, email lists,
+usenet groups, IRC (Internet Relay Chat), and so forth. Within the next
+several years, there will be at least seventy-five million users 
+on-line, and as the Net grows, it becomes leaky, ungainly, and noisy.
+More than ever, the user's personality (on- and off-line) plays a major
+role in his or her interaction. On the one hand, the machine interface
+still determines to a great extent the nature of this interaction; on
+the other, there is a tendency to (want to) "see past" the machinery, 
+into the heart of the Other.
+
+Internet Text is an extended analysis of the environment of Internet
+communication, an extended meditation on the psychology and philosophy
+of Net exchange. As such, it is concerned primarily with virtual or
+electronic subjectivity - the simultaneous presence and absence of the
+user, the sorts of libidinal projections that result, the nature of
+flamewars, and the ontological or epistemological issues that underlie
+these processes.
+
+Internet Text begins with a brief, almost corrosive, account of the
+subject - an account based on the concepts of Address, Protocol, and
+Recognition. This section "reduces" virtual subjectivity to packets of
+information, Internet sputterings, and an ontology of the self based on
+Otherness - _your_ recognition of me is responsible for my Net-presence.
+The reduction then begins to break down through a series of further texts 
+detailing the nature of this presence, a nature which is both sexualized/ 
+gendered, and absenting, the result of an _imaginary site._ 
+
+Almost all of Internet Text is in the form of "short-waves, long-waves." 
+The former are the individual texts themselves, written in a variety of 
+styles, and referencing a number of writers ranging from Jabes and 
+Blanchot to Acker and Bataille, with Sartre, Kristeva, and Karl Kraus 
+somewhere in the middle. These texts are completely interrelated; on 
+occasion "characters" appear - these are _actants,_ conveying certain 
+psychological or philosophical ideas beyond or within traditional 
+expository prose.
+
+The long-waves are content-sites, such as issues of death, love, virtual 
+embodiment, the "granularity of the real," physical reality, and so 
+forth, which interpenetrate the short-waves, connecting them. During the 
+writing of Internet Text, Michael Current (now deceased) and I began an 
+Internet conference, Cybermind - and the moderating of Cybermind has led 
+to serious considerations of hackers, the nature of "free" net 
+communica- tion, flaming, and so forth. Eventually, it has become clear 
+that every- thing revolves around issues of the virtual subject, who is 
+only virtual _on_ the Net, but who has a very real body _elsewhere._ So 
+Internet Text has evolved more and more in a meditation on this subject 
+- a subject which will perhaps be one of the dominant modes of _being_ 
+within the next millennium.
+
+Finally, it should be noted that there are no conclusions to be drawn in 
+Internet Text, no series of protocol statements or declarations creating 
+any sort of ultimate defining or explanatory position. The entire 
+history of philosophy mitigates against this; instead, I side with the 
+Schlegels, with Nietzsche, Bataille, Jabes, and others, for whom the 
+fragment is crucial to an understanding of contemporary life...
+
+I wish to thank Michael Current, Chris Keep, and Robert Withers for 
+their help and encouragement. Parts of this text have been published in 
+Perforations and Crash (Thread Waxing Space). It is dedicated to 
+Michael Current and Clara Hielo.
+

@@ -1,0 +1,112 @@
+
+
+Heine:
+
+
+
+There fell a frost in the night of spring,
+
+It fell on the tender blossoms young
+
+And they are withered and faded.
+
+
+
+A lad once loved a maiden fair,
+
+They fled in secret from house and home,
+
+They told neither father nor mother.
+
+
+
+They roamed and wandered here and there,
+
+They had nor luck nor guiding star,
+
+They fell by the wayside and perished.
+
+
+
+-- (trans. Feise)
+
+
+
+Es fiel ein Reif in der Fruhlingsnacht,
+
+Er fiel auf die zarten Blaublumelein,
+
+Sie sind verwelket, verdorret.
+
+
+
+Ein Jungling hatte ein Madchen lieb,
+
+Sie flohen heimlich von Hause fort,
+
+Es wusst weder Vater noch Mutter.
+
+
+
+Sie sind gewandert hin und her,
+
+Sie haben gehabt weder Gluck noch Stern,
+
+Sie sind verdorben, gestorben.
+
+
+
+
+
+All the characteristics of life may be defined by states and processes.
+
+There must be an ontological framework capable of shifting from one world
+
+to another, in order that the definition holds. Only if one insists that
+
+life is a natural kind based on a material environment, material exchange,
+
+does artificial life fail to meet the criteria. Worlding occurs within
+
+ontological frameworks, attributed frames; the question is whether life
+
+can occur within them, whether they would support a set X of fundamental
+
+processes. Such processes involve exchange with imminent environment. For
+
+example, one can create computer lifeforms which have no necessity to
+
+absorb energy; they reproduce wildly and competitively. Conversely, one
+
+can create lifeforms which do not reproduce, but horde, absorb, and
+
+compete for food. Certain large marine worms near deep-sea thermal vents
+
+absorb nourishment without the necessity of a digestive system. Energy
+
+must always be present in an operational environment; in the case of
+
+artificial life, the environment itself may form an ontological foundation
+
+for existence; the two exist in entirely different worlds. One can, in 
+
+fact, consider a _new topodynamics_ of lifeforms, in which _no_ specific 
+
+attribute is necessary for an evolving definition of "life." Definitions 
+
+then become a matter of degree within a holarchic structure, a consensus- 
+
+situation or fammily of usages. These are important considerations for 
+
+the philosophy of computer/human interactions. It is only to be noted in 
+
+conclusion that we are still bound within the state/operator or noun/ 
+
+verb model of programming itself; either this is to be taken as a funda- 
+
+mental condition of the real, or one can look towards other domains for 
+
+future implementation.
+
+
+

@@ -1,0 +1,129 @@
+
+
+
+/Signals/Indices/Virtual/Real Topographies/ (Selections)
+
+Belcher's Farmers' Almanac for the Maritime Provinces 1927:
+
+
+BAY OF FUNDY, SOUTH OF GRAND MANAN ISLAND, LOCAL MAGNETIC DISTURBANCE
+
+Capt. W. J. Milne, master of the C. G. S. "Curley" reports the existence
+of an area of local magnetic disturbance southward of Grand Manan Island.
+The area is situated 3/4 mile southward Three Islands and is about 150
+yards in diameter with depth of water of 12 fathoms. The greatest deflec-
+tion of compass observed was 45 degrees. The northern portion of the area
+is fixed by the following sextant angles; Gannet Rock lighthouse, 0 deg. 
+southwest Head lighthouse Grand Manan Island, 92 deg 42' Whitehead Hill in
+range with reef that never covers bearing N. 36 deg E 83 deg 0'. Lat. 44
+deg 33' 17" N., long 66 deg 45' 38: W. 
+
+LIGHTHOUSE
+
+BELLE ISLE - On north east point. Lat. 52 deg. 1' 2" N., long. 55 deg. 15'
+18" W. Flashing white light; Flash 1/2 second, eclipse 10 1/2 seconds; 137
+feet high; visible 17 miles; iron tower encased in a reinforced concrete
+covering; red, polygonal lantern, 55 feet high; visible from all points. 
+Diaphone operated by compressed air, gives blast of 3 1/2 seconds duration
+every minute. Horn points 77 deg 90 feet above high water mark; situated
+near edge of cliff 200 feet northeasterly of the lighthouse. Marine tele-
+graph and signal and ice report station. Depot of provisions for ship-
+wrecked mariners. In fog, low light may be visible when high obscured or
+vice versa. Should the fog siren at Belle Isle south and light station
+become disabled, cotton powder bombs will be exploded temporarily every
+ten minutes; and if a vessel fog signal is heard in dangerous proximity,
+an additional shot will be immediately fired, and the firing will be con-
+tinued at intervals of 5 minutes, until the vessel has passed the station.
+Marconi wireless station established here in 1905. 
+
+SIGNAL STATIONS
+
+Money point lighthouse...................Cape Breton Island
+Flat point lighthouse ...................Cape Breton Island
+South point of Belle Isle lighthouse.....Belle Isle
+
+The International Code of Signals is used for communicating with stations.
+
+NOVA SCOTIA TRAIL MARKINGS
+
+SAM SLICK TRAIL. WINDSOR-SHUBENACADIE
+
+Pole Markings, White--Black--White
+
+Miles from Windsor                        Miles from Shubenacadie
+
+0  WINDSOR                                48
+10 Brooklyn                               38
+48 SHUBENACADIE                            -
+
+Fair earth road in dry weather.
+
+NEW BRUNSWICK LIGHT HOUSES
+
+QUODDY HEAD -- U. S. light and whistle.
+
+RADIOTELEGRAPH STATIONS (operating on a wave length of 600 metres)
+
+Station  Call Letters  Range in Nautical Miles  Hours  Open  Operated By
+
+North Sydney, N. S.  V C O  200  All hours  Throughout the year  D M F
+Belle Isle, Nfld     V C M  250  All hours  Throughout the year  D M F  
+
+RADIOTELEGRAPH STATIONS (weather and other reports transmitted, 600
+metres, spark)
+
+Belle Isle, Nfld...600 Spark  VCM                   2:30 a.m. and p.m.
+          (a) Weather Forecasts 
+          (b) Ice reports.
+          (c) Reports respecting dangers to navigation in 
+              (1) the Gulf of St. Lawrence and the Strait of Belle Isle
+
+COMMERCIAL WIRELESS STATIONS
+
+CALL SIGN          STATIONS                 LAT.    LONG.
+
+V C M          Belle Isle, Nfld   51 deg 27' 52"N 55 deg 21' 44"W
+
+CANADIAN GOVERNMENT DIRECTION FINDING STATIONS
+
+(SEE ABOVE)
+
+CANADIAN GOVERNMENT RADIO BEACONS
+
+V D R        Lurcher Lightship    43 deg 48' 20"N 66 deg 31' 54"W
+
+SIGNAL SERVICE PORT OF HALIFAX
+
+SIGNALS MADE ON THE LOWER YARD
+
+A large ball at the extremity of either yard arm denotes a square rigged
+vessel having three or more masts approaching.
+
+A small ball denotes a square rigged vessel having two masts approaching.
+
+A blue pennant - a full-rigged ship.
+
+A blue and white (vertical pennant) - a brigantine.
+
+A white pennant - a schooner, 3 or more masts.
+
+MEN OF WAR
+
+Red light, 12 feet above green light - British warship from east.
+
+Green light, 12 feet above red light - British warship from west.
+
+GREEN AND WHITE
+
+Green flag with white diamond containing green letter F--T.Forhan & Co.
+
+STORM SIGNALS
+
+1. Cone, hoisted with the apex downwards, indicates "the probability of a
+gale" at first from an easterly direction.
+2. Cone, with apex pointing upwards, indicates "the probability of a gale
+at first from a westerly direction."
+
+The Drum will always be hoisted when the velocity of the wind is expected
+to exceed 40 miles an hour.
+

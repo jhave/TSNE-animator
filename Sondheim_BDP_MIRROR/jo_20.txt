@@ -1,0 +1,66 @@
+
+
+>>
+
+
+++++++++++++++++++++++++++++stone, granite
+
+
+burned_program:archaos:rabidos:grave:cain:14187:7:Jennifer,lost:grave:rabidos+
+dust:catacomb:skull_script:tomb:betach:14222:2:lost_Jennifer:tomb:skull_script
+lost:here:stone:bone:shtut:14232:0:Jen-gone:bone:lost+++++++++++++++++++++++++
+wraithe:wrythe:wryte:ghost:be'emet:14248:3:gone,Jen:ghost:wraithe+++++++++++++
+
+
+++++++++++++++++++++++++++++stone, marble
+
+
+>>
+
+
+Critical Mass:
+
+
+File transfer rates between the US and Australia, sending the Internet
+Text to a mirror site. The _mass_ of the work is paramount; the texts 
+are in ascii, about 2200 maximum bytes to the page. So I'm transferring
+a _spew_ or _emission_ of theory.
+
+The spew continually crashed; I'd bail out of the transfer, start over;
+so far it's taken over five hours for approximately three megabytes...
+
+I'm transferring a _block_ or _critical mass,_ residue or temporary sup-
+erstructure, an exhausted stream, defuge, wryting into thin air, produc-
+ing nothing more than the enmity of the uncanny. _Therefore_ the route
+collapses, packets sparkle and dissolve, somewhere the wisp of a thought
+lies wounded, hidden, the wing of a butterfly, trilobite book-lung, leaf
+of neuropteris, footnote to unread volumes. Jennifer says, more and more
+of these metaphors, pile them on!
+
+70375 bytes received in 68 seconds (1 Kbytes/s)
+76345 bytes received in 38 seconds (2 Kbytes/s)
+72058 bytes received in 4.6e+02 seconds (0.15 Kbytes/s)
+72253 bytes received in 1.6e+02 seconds (0.44 Kbytes/s)
+71700 bytes received in 61 seconds (1.2 Kbytes/s)
+8937 bytes received in 23 seconds (0.37 Kbytes/s)
+26868 bytes received in 71 seconds (0.37 Kbytes/s)
+76518 bytes received in 1.3e+02 seconds (0.59 Kbytes/s)
+20492 bytes received in 18 seconds (1.1 Kbytes/s)
+24914 bytes received in 12 seconds (2 Kbytes/s)
+7680 bytes received in 3.1e+02 seconds (0.024 Kbytes/s)
+17350 bytes received in 7.6 seconds (2.2 Kbytes/s)
+85185 bytes received in 1.5e+02 seconds (0.56 Kbytes/s)
+73125 bytes received in 64 seconds (1.1 Kbytes/s)
+76428 bytes received in 1.1e+02 seconds (0.68 Kbytes/s)
+70796 bytes received in 1.9e+02 seconds (0.37 Kbytes/s)
+70570 bytes received in 1.3e+02 seconds (0.52 Kbytes/s)
+89345 bytes received in 1.5e+02 seconds (0.57 Kbytes/s)
+66048 bytes received in 4.8e+02 seconds (0.14 Kbytes/s)
+62976 bytes received in 1.5e+02 seconds (0.41 Kbytes/s)
+29184 bytes received in 1.3e+02 seconds (0.21 Kbytes/s)
+75253 bytes received in 67 seconds (1.1 Kbytes/s)
+76435 bytes received in 3.2e+02 seconds (0.23 Kbytes/s)
+64512 bytes received in 4.8e+02 seconds (0.13 Kbytes/s)
+73773 bytes received in 78 seconds (0.92 Kbytes/s)
+
+

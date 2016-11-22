@@ -1,0 +1,117 @@
+
+
+shining upwards
+
+
+the face in which epiphany is produced and which appeals to me, mirage
+of breath, perhaps I am doing this for you, an epiphany. there is always
+epiphany, talk, sleep, breath, 'a state of _phantasmic exaltation_ forms
+the typical introduction of the organism from space, all breath and
+exaltation.' the midst of the grasping, the organisms, saying, ending in
+ellipsis ... and the exaltation of violence which makes a man, a man.
+among those macroscopic moments of exaltation are emotions.
+
+but it is this state, that of emotion and exaltation and perfect torture
+and annihilation, the exaltation of love, ecriture feminin, that one ...
+but the interior may be lifted into exaltation, this state, i have said to 
+you, this state of the organism, this epiphany when worlds ...
+
+a temporal detumescence or slackening - an order associated, if you will,
+with an end, the resulting detumescence partaking of defuge, exhaustive
+ennui, out of exhaustion, out of irritation murmur, grappling with itself,
+an 'awkward' tumescence ...
+
+in yourself is a mummy-metaphor, death and detumescence already foregone,
+able, unnerved, a state of _frisson,_ semi-tumescence, i want great
+portents ... to establish the bulwark ... - the first word, the slight
+tumescence of the cloth, of burrowing.
+ 
+swollen tumescences, convexities; meniscus lenses, sinusoidal meanderings:
+relationships of to the dry decathecting in the bushido zone, and 
+ennui, out of exhaustion and detumescence, out of irritation - and
+ennui, out of exhaustion and detumescence, out of irritation murmur ...
+
+and arousal, tumescence, distension, stretched or opened skin: upwelling
+and arousal, tumescence, distension, stretched or opened skin: upwelling
+
+detumescence of etiquette in the light of the body
+and detumescence of the light
+
+and exaltation and transcendence
+and exaltation of the light 
+
+audible
+and audible
+
+_
+
+
+Subject: small homage in the tropics
+
+http://www.asondheim.org/empire.jpg
+
+small homage
+in the tropics
+connect
+
+
+__
+
+
+history.
+
+history. history ftp pahistoricx.com ls -la .profile in history rm
+.profile in history ls ftp pahistoricx.com rm .profile in history ls ftp
+pahistoricx exit ls ls .b* h less .bashrc now less .profile in history ls
+cd C:\program-files cd .. dir p* ls p** exit in history exit h ls exit
+exit pwd cd fsf ls edit .bashrc rm .profile in history ls now s ls cd
+/image ls wc historic ftp pahistoricx exit pwd tail historic grep
+transubstantiate * > C:\historiography cd .. more historiography ls exit
+exit ftp pahistoricx exit man xpm lcd image cd image ftp pahistoricx.com p
+xit exit h now p now p now p now f exit
+
+
+_
+
+
+Essential software for Windows - for codework/'experimental' work/ etc.
+
+
+
+Yesterday we were at the LinuxWorld convention; at the Free Software 
+Foundation booth I bought Dan Hagerty, Melissa Weisshaus, and Eli 
+Zaretskii, Gnu Software for MS-Windows and MS-DOS. This book, published in 
+2001, contains a cdrom developed for MS-Windows up through NT. I asked if 
+the software would work on WinXP; the people at the booth didn't know.
+
+Well, it does. It works for Win3.0 up through current. And it's amazing - 
+a close-to-full suite of linux commands that works in Windows. This isn't 
+linux; it's a port. Commands and programs include emacs, fold, cut, od, 
+split, csplit, mv, cp, ls, grep, sed, awk, egrep, gawk, cat, tac, a 
+version of vi, gimp, etc. Two shells are also included; I'm using bash in 
+Windows! There is enough material here for a full programming and text 
+writing/development environment. It's incredible - something I've been 
+looking for, for a long time. If you are working with codework, writing 
+experimental work, I think these programs are essential.
+
+There are some tricks - if you do install, back-channel me, and I can tell 
+you how, for example, to configure bash (which you'll want to do). 
+
+I'm now working on a selection of my work for publication; the following 
+was done entirely in the DOS shell.
+
+Some other packages - mutt, shutdown (it works, and weirdly!), chmod,
+chown, chgrp, Groff, RCS, man, make, more, less, shell utilities, TEX, 
+head, tail, uniq, DJGPP/GCC (compiler) and other programming tools.
+(All the flags work too.)
+
+Again - these are unix/linux commands that run in the terminal window of 
+windows _without_ changing the operating system or isolating a directory. 
+I can type 'shell' (thanks to a shell.bat I set up) anywhere in Windows 
+and go immediately to a linux shell emulation. The result of all of this - 
+I can work back and forth between my linux desktop and my WinXP OS without 
+changing formats, etc.
+
+The book and disk costs $35 - well worth it. 
+
+

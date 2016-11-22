@@ -1,0 +1,31 @@
+
+
+
+
+Wizards, Politics
+
+One saying I am fond of: Build an application and both community and net 
+sex will come. Another: Every MOO is a panopticon. 
+
+Every wizard can change just about everything. The degree of power is 
+frightening. 
+
+But another saying: Build a MOO and there is politics. And the politics 
+always develops back-room, in part because of whisper, page, email, etc. 
+
+The point? To develop _another_ database with a sysadmin who couldn't 
+hack it himself. To develop one with PGP or similar built in, translation 
+based on passwords. To have these passwords external to the MOO.
+
+Or: Build a talker in which .private automatically encrypts its contents.
+Have the keys shared by interior players. 
+
+The _addiction_ to the MOO is the addiction to the political, to the 
+wages and fortunes of men and women simmering at love and war. It would 
+happen anywhere.
+
+Here it is stronger and said. Here it is a foundation of spent lives,
+lives spent. I found myself. 
+
+Meet me in the corner.
+

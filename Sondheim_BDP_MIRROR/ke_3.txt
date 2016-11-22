@@ -1,0 +1,10 @@
+enframing techne__________
+
+
+Beautiful Self-Reflexivity in Unix by Alan for Nikuko: Fragment
+
+
+{k:3} w | grep Nikuko
+sondheim ttyq1    12:26pm     1      5         grep Nikuko
+
+

@@ -1,0 +1,134 @@
+
+
+
+
+Obsession, The Record of Three Days
+
+
+sondheim  ttyp6    166.84.0.102     Thu Mar 28 02:18   still logged in
+sondheim  ttyp4    166.84.0.102     Wed Mar 27 23:42 - 01:44  (02:02)
+sondheim  ttyqb    166.84.0.102     Wed Mar 27 22:43 - 23:03  (00:19)
+sondheim  ttyp9    166.84.0.102     Wed Mar 27 20:26 - 21:12  (00:45)
+sondheim  ttyqb    166.84.0.102     Wed Mar 27 17:37 - 18:03  (00:25)
+sondheim  ttyrf    166.84.0.102     Wed Mar 27 16:12 - 16:15  (00:02)
+sondheim  ttyt5    166.84.0.102     Wed Mar 27 14:46 - 15:31  (00:44)
+sondheim  ttypc    166.84.0.103     Wed Mar 27 13:47 - 13:48  (00:01)
+sondheim  ttyr5    166.84.0.104     Wed Mar 27 12:00 - 12:26  (00:26)
+sondheim  ttyp2    166.84.0.102     Wed Mar 27 03:24 - 03:33  (00:08)
+sondheim  ttyp6    166.84.0.102     Wed Mar 27 02:22 - 02:23  (00:00)
+sondheim  ttyq6    166.84.0.102     Wed Mar 27 01:44 - 02:21  (00:37)
+sondheim  ttys0    166.84.250.149   Wed Mar 27 01:00 - 01:03  (00:02)
+sondheim  ttypd    166.84.250.149   Wed Mar 27 00:52 - 00:52  (00:00)
+sondheim  ttyra    166.84.0.103     Wed Mar 27 00:29 - 00:48  (00:18)
+sondheim  ttypd    166.84.0.102     Tue Mar 26 23:54 - 00:09  (00:15)
+sondheim  ttyp6    166.84.0.104     Tue Mar 26 23:08 - 23:11  (00:03)
+sondheim  ttys7    166.84.0.103     Tue Mar 26 22:51 - 22:57  (00:05)
+sondheim  ttyrf    166.84.0.103     Tue Mar 26 22:28 - 22:33  (00:05)
+sondheim  ttyp8    166.84.0.103     Tue Mar 26 22:02 - 22:04  (00:01)
+sondheim  ttyt9    149.31.1.100     Tue Mar 26 16:36 - 16:42  (00:05)
+sondheim  ttyrc    149.31.1.100     Tue Mar 26 14:22 - 14:23  (00:01)
+sondheim  ttyt9    149.31.1.100     Tue Mar 26 14:16 - 14:21  (00:05)
+sondheim  ttysc    149.31.1.100     Tue Mar 26 13:51 - 13:51  (00:00)
+sondheim  ttysc    149.31.1.100     Tue Mar 26 13:13 - 13:36  (00:23)
+sondheim  ttyqc    149.31.1.100     Tue Mar 26 13:02 - 13:07  (00:04)
+sondheim  ttys4    166.84.0.103     Tue Mar 26 11:25 - 11:41  (00:15)
+sondheim  ttypa    166.84.0.102     Tue Mar 26 02:01 - 02:21  (00:19)
+sondheim  ttypd    166.84.0.103     Tue Mar 26 01:01 - 01:02  (00:00)
+sondheim  ttyq0    166.84.0.102     Mon Mar 25 23:50 - 00:44  (00:54)
+sondheim  ttypf    166.84.0.102     Mon Mar 25 23:45 - 23:46  (00:01)
+sondheim  ttyr5    166.84.0.102     Mon Mar 25 22:31 - 22:53  (00:21)
+sondheim  ttys4    166.84.0.102     Mon Mar 25 21:47 - 21:48  (00:00)
+sondheim  ttyr1    206.20.110.15    Mon Mar 25 20:59 - 21:09  (00:09)
+sondheim  ttyp2    206.20.110.15    Mon Mar 25 20:30 - 20:40  (00:09)
+sondheim  ttyr2    206.20.110.15    Mon Mar 25 20:26 - 20:28  (00:02)
+sondheim  ttype    192.100.81.100   Mon Mar 25 16:39 - 16:40  (00:00)
+sondheim  ttyt8    192.100.81.100   Mon Mar 25 16:10 - 16:32  (00:21)
+sondheim  ttyq7    206.20.110.122   Mon Mar 25 16:07 - 16:10  (00:02)
+sondheim  ftp      netcom.netcom.co Mon Mar 25 15:55 - 15:55  (00:00)
+sondheim  ttyt8    192.100.81.100   Mon Mar 25 15:47 - 15:54  (00:06)
+sondheim  ttytc    192.100.81.100   Mon Mar 25 15:46 - 15:46  (00:00)
+sondheim  ttyt5    192.100.81.100   Mon Mar 25 15:41 - 15:42  (00:00)
+sondheim  ftp      netcom.netcom.co Mon Mar 25 15:41 - 15:41  (00:00)
+sondheim  ttyt8    192.100.81.100   Mon Mar 25 15:22 - 15:31  (00:09)
+sondheim  ttyqb    206.20.110.122   Mon Mar 25 15:19 - 15:21  (00:02)
+sondheim  ttys1    166.84.0.102     Mon Mar 25 11:43 - 12:09  (00:26)
+sondheim  ttyp2    166.84.0.102     Mon Mar 25 03:53 - 03:53  (00:00)
+sondheim  ttyp2    166.84.0.102     Mon Mar 25 02:34 - 03:40  (01:06)
+sondheim  ttyq1    166.84.0.106     Mon Mar 25 00:33 - 00:57  (00:23)
+
+----
+-
+
+
+(S)MER
+
+
+Everything conspires to drag us into the past, where causation appears 
+perfect, even if Babylonia and the Upanishads require emergence. Cause 
+and effect is neat, takes care of death as well; what was, lives on; 
+there's always the question of inheritance. We have names for this, so 
+many names in fact, that it's the situation of an entire industry...
+
+Think of: memoir, paeon, obituary, recounting, memory, ode, recreation, 
+accounting, remembrance, funeral, funereal, retelling, memorandum, 
+biography, autobiography, epitaph, cenotaph, history, retelling, grave, 
+genealogy, archeology, memorial, prehistory, commemoration, requiem - 
+and there are more, innumerable others, in varying forms, some with the 
+_re_ going over the same ground, a visitation and so forth (ghosts, 
+wraiths, spirits of children killed in the plague); and some with the 
+_mem_ or the retelling of it all, alas...
+
+We can't escape this, our own stories, already entombing us, pulling us
+back into the past, reconstructing the _problem_ of time as the dream
+screen against which we locate our own desires, projections, introjections
+in the form of violated beauty and horror.
+
+It's those strands of algae in Brecht's Manual of Piety again, it's the
+death of Ophelia, everything pulling us deeper, there's no end to it. The
+cast of forlorn times is always upon us; we try to make use of history,
+even make sense of it, forgetting that the only sense is that of sense-
+lessness, that cause and effect are not there for us, are only the desire
+of intellect gone awry. The tombs, graves, markers, shafts, stelae, do
+nothing but ascertain cause, construct the world from chaos, over and over
+again. And what is a masterpiece, (yes, gender-laden), say, if not already
+the signifier of demarcation: this is a _moment_ of comprehension, which
+usually mind you means _the most overdetermined moment_ - thus Rembrandt
+or Leonardo - you can read the world into them. In fact the only "truth"
+of Leonardo was his last sequence of global catastrophic drawings, every-
+thing occurring without rhyme or reason.
+
+_Memory_ and related apparently from a stem (S)MER-1, related to _mourn_ 
+in Claireborne, The Roots of English: We remember the death of the other. 
+We turn away: shame. We live _to remember._
+
+Age pulls us down; just as death seems causeless and is recuperated
+through the suturing of mourning, entombment, so the origin is causeless
+as well, coupled with emergence, mythos, beginnings which apparently cir-
+culated around themselves. We're thrown between the two, thrown _in the
+midst of happenstance,_ constructing the Aristotelian as we go, the logic
+of causes, of vacuum, annihilation, and lack - of fullness, creation, and
+plenitude, inputs and outputs. It's all there, myths varying from one to
+another position; a compendium of the first quatrain of all the creation
+texts worldwide would tend towards exhaustion, language splayed apart,
+deconstructed. Never fear; _man_ is _resolute._ Never fear; there are
+_containers_ for the _thing contained._ Never fear: Tiamat gets angry; 
+the guys try to deal with it, Babylonia. Never argue with male god/heads
+taken apart by their own irreconcilable logic. 
+
+I have no order in which _I speak this._ I sense my own pull towards the 
+grave. I sense the flash of memory and mourning burning skull-dry, in- 
+creasing their loads. I hear them, hear you. I make them, make you. I put 
+you together, put them together. I take you apart, take them apart. I 
+remember, at last, these words sewn as the threads silence my lips, etc.: 
+There is no cause for cause. The platitude rings true, doesn't ring. 
+
+So there are two questions: why is there something rather than nothing?; 
+how does this nothing begin causation? Infinite time places the origin
+elsewhere; this form of logic, applied to the cosmos is presumption it-
+self; one cannot legislate. What then? I prefer the pure grief of random
+acts to the fictions of narrative. This too is a leap, but at least out of
+the cycle, not of rebirth, but of implication: the _archeology_ of mourn-
+ing, the travails and history of the therapeutic, the narration of the
+sepulchre. And how could _causation begin,_ if not through the grace of 
+the story-teller's art?
+

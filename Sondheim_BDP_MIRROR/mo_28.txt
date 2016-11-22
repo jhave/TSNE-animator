@@ -1,0 +1,10 @@
+ [20;80H ---- No world
+
+---- [1;24r [24;1H/quit [22;24r [24;1H  [?1l > [1;24r [21;1H [J$ exit
+
+Script done on Tue Sep 3 01:07:53 2002
+
+
+
+
+

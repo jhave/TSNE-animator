@@ -1,0 +1,119 @@
+
+-
+
+
+How We Feel What We Feel
+
+{Emotions for the MOO Kayo Matsushita and I are designing; I've been 
+writing these on and off for a week.}
+
+
+#94.emotions
+Owner:        Alan (#94)
+Permissions:  rc
+Value:        {{"smile", "%n smiles broadly with a twinkle in hir eye!", "%n
+ smiles at %d with a beautiful twinkle in hir eye!", "%n smiles at you with a
+ beautiful emotional response!"}, {"wonder", "%n wonders about the beautiful
+ forms of human beings", "%n wonders what %d could mean by such pleasurable
+ words!", "%n wonders why you are saying these things?"}, {"jump", "%n
+ heartily moves upward and downward on the same spot and fast!", "%n makes %d
+ very nervous!", "%n makes %d very very nervous!"}, {"hug", "%n moves quietly
+ around the room, hugging everyone fondly.", "%n hugs %d with a warmth rarely
+ felt in cyberspace, with true emotion.", "%n hugs you with a true sweetness,
+ making you feel wonderful."}, {"cry", "%n cries, half in sadness and
+ mourning, half in pure exhaustion.", "%n cries to %d that %n needs comfort
+ and consolation.", "%n cries to %d that %n needs quiet and private
+ consolation."}, {"laugh", "%n laughs infectiously and everyone desires to
+ join in!", "No one can tell whether %n laughs with or at %d!", "%n laughs
+ with you!"}, {"scream", "%n yells OH OH OH OH  ArghhH!", "%n yells to %d
+ GRAAAAHR ROOOORRRR!!!", "%n murmurs GRAAAAH ROOOOORRRRR under %n's breath!"},
+ {"sigh", "%n sighs so unbelievably sadly it sounds like it will go on
+ forever!", "%n sighs so that %d will hear and respond with warm and embracing
+ sympathy.", "I sign for you and everything in the world that is against
+ us!"}, {"giggle", "%n engages in murky but uproarious giggling, embarrassing
+ everyone!", "%d sends %n into fits of uproarious giggling!", "%n giggles in
+ collusion with %d!"}, {"kiss", "%n kisses everyone, remembering safe sex, and
+ the kindness of strangers!", "%n kisses %d ever so sweetly, like the Cedars
+ of Lebanon if they could kiss!", "%n kisses you sweetly but intensely, and
+ the MOO holds its cyber-breath..."}, {"kick", "%n kick higher into the air
+ than safety would allow!", "In his attempt to kick %d, %n falls head over
+ heals in love!", "%n kicks you? Hardly! But it's always in hir thoughts!"},
+ {"yell", "%n yells for some reason or other, as if people couldn't hear him
+ otherwise!", "%n yells at %d and immediately regrets it; %n is sorrowful.",
+ "%n yells at %d and is requested to keep hir voice down..."}, {"sing", "%n
+ sings charmingly about life beneath the ceramic tiles of the old country",
+ "%n sings to %d beautiful stories about life beneath the kitchen hearth", "%n
+ sings la la la la loo to %d with tears in hir eyes"}, {"hum", "%n hums hmmmm
+ ahmmmmm hmhmmmmrmmmmmm rohummmmmmm rmmmmhimmruhummmmmm mmmmrrr", "%n hums
+ hmmm to %d ahmmmm to %d hmhmmmmmrhmmmm to %d hum hum hum!", "%n hums hmmmms
+ and ahmmmms and rohummmms of beauty rmmmmhimmruhummm to %d!"}, {"yawn", "%n
+ yawns in belated tiredness exhausting hirself so quietly forsooth you etc.",
+ "%n yawns to %d you know we are so listening boring you hearing tiring here",
+ "%n yawns to %d alone, they're so boring and we're so smart!"}, {"grin", "%n
+ grins like a foolish sheep to every parchment in the room!", "%n grins to %d
+ just about, oh %n doesn't know, maybe about the weather!!!", "%n grins to you
+ so quietly, privately, secretly, and no one else will know!"}, {"nod", "%n
+ nods amusingly perhaps agreeing with the company more than the concept", "%n
+ nods to %d recognizing %d's astute analysis in this matter", "hey %d I'm
+ nodding to you!"}, {"agree", "Happily %n agrees agreeably with everyone in
+ the vicinity!", "%n agrees with %d because the sky is blue and the truth will
+ out!", "%n agrees with you of course, and this is so mysterious!"}, {"touch",
+ "%n touches everyone in sight, reminding %n that %n exists.", "%n touches %d
+ and thinks, wow! You're really there!", "%n touches %d tenderly, hoping the
+ two of them continue to exist."}, {"run", "%n runs aimlessly around the MOO,
+ Coyote on the loose!", "%n runs to %d full of wishful desire, Coyote on the
+ loose again!", "Ah %n, I run to you full of happiness and glee!"}, {"fly",
+ "Flap flap flap flap flap flap! while %n flies!", "%n flies flap flap flap
+ flap flap! to %d, right up to %d!", "%n flies to you, dearest %d, full of
+ charm and energy!"}, {"wave", "Ah, %n waves to everyone in the room, which
+ must mean something somewhere!", "%n waves to %d so happily and sadly at the
+ same time, what must this mean?", "%n waves secretly to you, how could this
+ be behind %n's back?"}, {"slap", "%n is passive, aggressive, thinking of
+ slapping everyone but not, ah...", "%n might slap %d but thinks better of it,
+ I'm sorry, %d!", "%n tends to slap you in private, but oh my, tickles you
+ instead!"}, {"bow", "%n bows to everyone but feels just the same their equal,
+ and flowery!", "%n bows to %d, because %n isn't afraid to show emotions in
+ public!", "%n bows to you privately, so secretly, the tiniest little bow, but
+ beautiful!"}, {"is", "%n is, isn't %n, %n wonders if there's more than %n
+ anywhere, anytime?", "%n is %d, which indicates some sort of psychosis on
+ %n's part, %d thinks!", "%n is you, isn't %n? Wait a minute, %d, what am I
+ saying? Who's saying it?"}, {"dream", "%n dreams darkly through the night,
+ visions of great intensity.", "%n dreams of %d nightly, even during the day
+ %d is present...", "I dream of you, you are with me with my waking, sleeping
+ thoughts..."}, {"love", "%n loves everyone with a transcendence found in
+ mountains and valleys.", "%n loves %d, and it is highschool and our eyes and
+ smiles fill the sky.", "I love you, and we need more than packaging to talk
+ of this, and soon."}, {"die", "%n has a horrifying premonition about the
+ death of everyone.", "%n wonder if %d will die, and whether it will concern
+ %d.", "%n dies for you, and is silent on the morrow..."}, {"shake", "%n
+ shakes uncontrollably, tearful with glad emotions.", "%n shakes %d, begging
+ %d to pull out of hir mood, oh please!", "%n shakes you, hoping to awaken you
+ to %n's presence, full of import here."}, {"sleep", "%n sleeps through a few
+ ticks of the clock, wake hir soon!", "%n puts %d to sleep by repetitive,
+ inconsequential, smalltalk!", "%n watches you sleeping, delightedly..."},
+ {"disagree", "%n disagrees with everyone, partly mood, partly careful
+ thought.", "%n disagrees with %d, but respects %d more than %n can tell...",
+ "%n disagrees with everyone else, but agrees with you!"}, {"live", "%n lives!
+ Clarion trumpets blare out the truth of a new day!", "%n is happy that %d is
+ still alive!", "I'm glad you and I are together in this wonderful time..."},
+ {"walk", "%n walks around %l looking at everyone through %p eyes.", "%n walks
+ up to %d in %l happy with %p ability to place legs in order!", "%n wants to
+ place your legs in order, here in lovely %l!"}, {"weep", "%n weeps openly in
+ front of everyone in %l without giving it a second thought.", "%n wipes %p
+ eyes in %l right before %d who understands better than anyone!", "Ah, I am
+ weeping before you, my love, in this difficult times..."}, {"moan", "%n goes
+ oh ohhhh ohhhhhh moaning and groaning and rolling in %l!", "Oh %d I moan for
+ you and with you, all this moaning and groaning and rolling!", "In %l I moan
+ for you, dear %d!"}, {"like", "%n likes just about everyone here in %l,
+ wouldn't you know?!", "%n likes %d and isn't afraid to let everyone know
+ about %p feelings!", "%n likes you especially, even when we're not in %l!"},
+ {"fear", "Suddenly, a cold wind... %n is afraid of everyone in %l, perhaps
+ for no reason...", "Should I be afraid of you, dear %d, who has meant
+ everything to me?", "Ah, dearest %d, I am afraid here, my eyes are dry and
+ wary..."}, {"wake", "Wow! %n wakes up in front of everyone in %l!", "%n wakes
+ %d %s thinks or maybe %s should just let %d sleep, hmmmm....", "Wake up, wake
+ up! People might be looking, shhhh!"}, {"greet", "%n greets everyone in %l
+ while %s tries to figure out what to say next!", "%n greets %d with great
+ merriment and deep dark compassion!", "Here in %l, everyone knows your name,
+ but I great you privately, %d!"}}
+

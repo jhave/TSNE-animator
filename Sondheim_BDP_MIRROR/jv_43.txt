@@ -1,0 +1,64 @@
+
+
+
+Time and Imminency within Unix:
+
+
+{k:7} late
+ksh: late: not found
+{k:8} at night
+at: you are not authorized to use at.  Sorry.
+{k:9} he tracked
+ksh: he: not found
+{k:10} the time
+ksh: the: not found
+{k:11} time
+   0.00s real    0.00s user    0.00s system
+{k:12} time which
+   0.45s real    0.05s user    0.10s system
+{k:13} was in fact a measure of itself, instantaneous:
+ksh: was: not found
+{k:14} time
+   0.00s real    0.00s user    0.00s system
+{k:15} taking nothing
+ksh: taking: not found
+{k:16} give back to Jennifer
+ksh: give: not found
+{k:17} all the time in the world...
+ksh: all: not found
+{k:18} pico zz
+ 
+                                  [ New file ]
+={k:11} time
+={k:12} time which
+={k:13} was in fact a measure of itself, instantaneous:
+=ksh: was: not found
+={k:14} time
+={k:15} taking nothing
+=ksh: taking: not found
+[...] 
+                               [ Wrote 24 lines ]
+ 
+{k:19} what occurs?
+No hey's found.
+{k:20} that only it reads pure absence, that it sustains
+ksh: that: not found
+{k:21} emptiness, negation: time as measure of ( )
+ksh: syntax error: `(' unexpected
+{k:22} not for example, as in
+ksh: not: not found
+{k:23} time pico zz
+[...]
+   4.60s real    0.00s user    0.11s system
+{k:24} split second devolving of entering, in fact
+split: second: No such file or directory
+{k:25} this file, a return
+ksh: this: not found
+{k:26} beyond the current
+ksh: beyond: not found
+{k:27} date
+Wed Jul  9 03:34:56 EDT 1997
+{k:28} and elsewhere...
+ksh: and: not found
+
+

@@ -1,0 +1,25 @@
+
+
+Searching /wais/indexes/2006_budget...
+
+Your query:
+
+   ($$NOPTOKEN$$)
+
+is equivalent to:
+
+   (<nothing> )
+
+and was interpreted as:
+
+<nothing>
+
+
+The database contains 1,372,660 words in 471 documents.
+The database contains the following fields:
+  body - All non-fielded text
+  book - Budget Book
+
+
+The search found -2 documents.  It took less than a second.
+

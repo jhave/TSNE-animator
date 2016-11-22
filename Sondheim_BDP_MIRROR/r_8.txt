@@ -1,0 +1,54 @@
+
+
+
+Tuning
+
+
+I stab into the machine, change one or another line, back out, run the
+assessment programs, return to autoexec.bat or config.sys, place REM
+before a possible difficulty. I download a video driver from AST, load
+it into C:\b, inflate it, install it in A:\ reinflating, run it from 
+windows, change the settings; I defragment drives C: D: E:, back out,
+remove several directories from E:, change the bins all the way around,
+fool with high memory but leave it empty, establish a permanent Windows
+section on E:, try 32 bits and crash everything, go into the system.ini
+file blindly and set 32=no no no over again, reload and rerun after
+placing REM in front of all sorts of devices and possible TSRs. I don't
+have the slightest. I rearrange files, bring yoyos (so I'm told) towards
+the front, create menus, eliminate everything dead or useless from the
+different sections, thinking about returning to Trumpet Winsock setup,
+play again with virtual memory, change the files and buffers sizes,
+eliminate dead or unncessary directories from the path, place all the
+backup files in a CHANGE directory. I'm flying blind now, not the 
+vaguest. When Windows crashes, it crashes big, recreates the C: direc-
+tory with nothing on it; rebooting, everything returns. Sound files con-
+stantly slip out of control; if I hear the song one more time I'll go
+crazy, maybe I'll go crazy anyway. The machine's up to a 10.7 run on
+the clocktime ahead of the 10.5 standard and way up from the 5 some-
+thing it was running at earlier. Windows takes ThePalace now, it takes
+AVIPRO, runs out on CuSeeMe from Norway with a record 12 frames a sec-
+ond on a 33 mhz machine, say. No land record but for this. Xingstream
+actually works out recognizable, someone's talking in Finnish and his
+picture moves on occasion and by the looks of it I'd recognize him on 
+the street. Amazingly, Windows loads at doublespeed now, but the lamp by
+the bed is beginning to fizzle, the bulb's going - I can't turn away -
+the sound's in tune with TV static, emissions all over the place. There
+are antennas all over the place as well, the television and phone base
+antennas, but also three for the Sony and Hallicrafter (antique!) short-
+wave radios, tuned and hustling against the ceiling, desperate for air,
+circuit, current. But the colors are more subtle on the AST at the mom-
+ent and this notebook I'm writing on runs fast enough for type to take,
+transmit affect. Still it's all stabbing at the dark; never before have 
+I been so aware of the _body_ of the machine, the virtual body which re-
+acts according to the vagaries of unknown dis-easing; I hereby witness.
+This isn't the body of the _case,_ screwed or unscrewed, occasionally 
+reconfigured itself - this is the body which speaks desperately to me,
+attempts to hold its own as it slims down for the penultimate but con-
+tinuous run. I've absorbed it running; nothing crashes anymore, and what
+were dim flickers across the internetworking screen have become pleasures
+of the sensory text, familiarities, familialities. You can guess where
+this is heading, far beyond the stabbing, into interstellar absorption,
+body thinned against perfect works lit, nuclear, from within. Stabbing
+dulls the knife as the wood is carved, and becomes one. Where that is,
+is for no one to say.*
+

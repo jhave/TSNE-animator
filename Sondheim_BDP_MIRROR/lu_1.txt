@@ -1,0 +1,201 @@
+
+
+
+
+language in irc (internet relay chat)
+
+
+
+
+
+there are three types of languaging:
+
+
+
+>>hello
+
+hello - just where you speak and it appears, and this serves in addition
+
+as a declaration of presence; it's speech, nothing more - it may be reply
+
+or affirmation or expostulation, interjection or query - there's always
+
+the expectancy of the other, always something in return
+
+>>/me says hello
+
+Alan says hello - thus a performative, Alan performing in conjunction
+
+with the assignation of the /me - the inclusion of action -
+
+>>/me turns around
+
+Alan turns around - the performative connected with a material action -
+
+thus _in the virtual realm_ all actions are necessarily performatives -
+
+this holding as well with programming - so that semantics are intended as
+
+well - /me turns around always already ikonic - attend to this distinction
+
+- just as the speaking above is also ikonic -
+
+>>/echo it is raining out
+
+it is raining out - here the language is itself the material substrate of
+
+the world - the world constituted by language - if the /me indicates
+
+process, the /echo indicates state - however
+
+>>/echo the world burns
+
+the world burns - and the state may well be a state-description of an
+
+action whose performance is subtexted by the neutrality of the (re)quoted
+
+expression 
+
+here in virtuality all expressions are doubly or triply quoted -
+
+in ytalk doubly quoted - i type, transmit, you read
+
+elsewhere triply - i type, i read, transmit, you read - three different
+
+instantiations - resonances - sheaves 
+
+>>/echo it is raining out
+
+it is raining out - the description of the world is already the state of
+
+the world - however the /me in
+
+>>/me is taking a walk - there is a separation - as in
+
+me < is taking a walk - the expression is piped; in
+
+>>/echo it is raining out - here the /echo is a modification on
+
+it is raining out - as in e(it is raining out) - or as in
+
+e(x)
+
+x
+
+whereas with /me thinks it is raining out - 
+
+m(thinks it is raining out) > $n + thinks it is raining out - or as in
+
+m(x) 
+
+$n + x
+
+as if there were the construction or constitution of a number series -
+
+in any case the presence of the other - that is 
+
+the name $n
+
+as an adjunct or supplement to the string x. 
+
+where does this lead - to three states - that of enunciation, that of
+
+action, that of world-constituting language. if enunciation is declarative
+
+- and one might consider an interpolated enunciation here as a shifter -
+
+then action is performative - and it is echo, world-constituting language,
+
+that becomes deeply problematic, in the sense that it is _separated from
+
+intention, from speaker, from source_ - it is an emission above and within
+
+the _face of the world, its alterity,_ within which it resides.
+
+>>one might think of these languagings as modal; in which case echo 
+
+references the foucauldian _divinatio,_ but only as index; in fact, echo 
+
+is _in fact,_ the construal of the world as-if (vaihinger, bentham) there 
+
+is no presencing, no intentional, no actor, no agency. in another similar 
+
+sense, echo is the call of a shell command from a perl script; it is 
+
+ulterior, an existential alterity, legible, readable, or not.<<
+
+
+
+>>thus i call my book .echo, which acts subtly towards the material
+
+completion of a constituted world, however fragile, however thinned (down
+
+to the width of a pixel), .echo which reflects, not narcissus, but the
+
+very grain of the separated and dismembered voice.<<
+
+
+
+_
+
+
+
+
+
+.echo
+
+
+
+.echo it's a nice sunny day.
+
+it's a nice sunny day.
+
+.echo <Alan> this is a truly wonderful world.
+
+<Alan> this is a truly wonderful world.
+
+.echo the voice is everything in this world.
+
+the voice is everything in this world. 
+
+.echo <Nikuko> i don't belong here, i haven't said a thing.
+
+<Nikuko> i don't belong here, i haven't said a thing.
+
+.echo rain begins to fall...
+
+rain begins to fall...
+
+.echo rain falls in torrents.
+
+rain falls in torrents.
+
+.echo <Alan> help help.
+
+<Alan> help help.
+
+.echo a great inundation sweeps through the wonderful world.
+
+a great inundation sweeps through the wonderful world.
+
+.echo <Nikuko> i don't belong here, i haven't seen a thing.
+
+<Nikuko> i don't belong here, i haven't seen a thing.
+
+.echo everyone is swept away ...
+
+everyone is swept away ...
+
+.echo the voice is everything in this world.
+
+the voice is everything in this world.
+
+.echo the voice is everything.
+
+the voice is everything.
+
+
+
+
+
+.echo 

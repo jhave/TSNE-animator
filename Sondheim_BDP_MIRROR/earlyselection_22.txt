@@ -1,0 +1,38 @@
+
+
+
+Subject: the new girl
+
+
+
+Sadly,
+k:29> Victoria
+ksh: Victoria: not found
+Sadly,
+k:30> Tiffany
+ksh: Tiffany: not found
+Sadly,
+k:31> Honey
+ksh: Honey: not found
+Sadly,
+k:32> Clara
+ksh: Clara: not found
+Sadly,
+k:33> Travis
+ksh: Travis: not found
+k:34> $z='what could be found was only emptiness in a dreary world'
+panix3.panix.com!sondheim ttyp4   Sep  9 02:40(ts2.nyc.access.n)
+k:35> $z='who is she alas that I have loved & split my heart in two'
+panix3.panix.com!sondheim ttyp4   Sep  9 02:40(ts2.nyc.access.n)
+k:36> $a='apropos nothing...'
+ksh: =apropos nothing...: not found
+Sadly,
+k:37> apropos nothing...
+nothing...: nothing appropriate
+Sadly,
+k:38> apropos nothing appropriate 
+nothing: nothing appropriate
+Sadly,
+k:39> nothing
+ksh: nothing: not found
+

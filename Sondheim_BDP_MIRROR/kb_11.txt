@@ -1,0 +1,57 @@
+
+
+
+
+Bourdieu Note
+
+[That what appears cleansed from within, the purity of form and con-
+tent, is context within the habitus. See The Field of Cultural Pro-
+duction  and Language and Symbolic Power. Read on.
+
+In Language and Symbolic Power, Pierre Bourdieu takes Austin and oth-
+ers to task for presenting a naive view of performativity from a form-
+alist stance. Institutions and context are not taken into account; in
+order for performative competence to occur, members must both recog-
+nize and empathize with authority. Language is seen as communication
+within a linguistic community. Language does not operate on itself.
+Nevertheless, computer languages provide an instructive counter exam-
+ple. Within the aegis of a program, the language itself is the ins-
+titution, articulated through other languages, all the way down to
+software implementations in the midst of hardware. This is clean-cut;
+the program need only be started for it to run independently of com-
+munity. It carries out tasks in what appears to be a rather essential
+interiority, and one might consider that every action in the universe
+might be considered one sort of program or another.
+
+The computer language, then, is both formal and leaky, residing in the
+midst of other languages; what appear to be objects and life-forms may
+only be the surplus productions of a program that continues to develop
+on its own. Such a language, in fact, _can_ operate upon itself, as
+any owner in 1974 of a TI59 calculator can attest to; even within such
+a small device, there are self-modifying programs - and the develop-
+ment since then has been exponential.
+
+Thus the program could be considered almost purely performative in the
+Austinian sense, constructing by virtue of compiled or interpreted
+commands. While the context is the computer itself, as well as the
+particular implementation of the language, etc., this is formal and
+well-defined and conceivably inseparable from the language as well.
+
+One could argue that there is always an operator in the background,
+but this parallels human evolution with an Operator in the background.
+
+I would argue instead that there is a qualitative difference between
+human languages (as constituted by speech and writing) and computer
+languages - precisely in this aspect - that performativity within the
+computer (which is all there is vis-a-vis the language) is context-
+free, in a sense which human languages are not. I would also argue
+that this constitutes a turn in representation itself, which becomes
+both construct and _dynamic,_ performative, just as any virtual real-
+ity is necessarily performative, if not to be reduced to the old-
+fashioned stereograms of the nineteenth century.
+
+Thus it is relevant now to ask: What does it mean to _perform the
+real,_ which is a question that, previously, would have been consid-
+ered nonsensical, or literally the theater of psychoses.
+
+

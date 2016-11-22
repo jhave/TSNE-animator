@@ -1,0 +1,49 @@
+
+
+
+typology of inscription, guns and others
+
+
+/[s]+/ print "aimed his gun in my direction"  /[v]+/ "born and later 1967"
+/[y]+/ "but ghosts come always back furious" /[g]+/ "coward, fearful of
+any" /[k]+/ "father a healthier fashion, even the" /[z]+/ "from 1994 i
+buried selves selves" /[n]+/ "genre. why didn't other people tell" /[0]+/
+"i'm tired this" /[d]+/ "impetus against the wall writing from which i"
+/[a]+/ "insanity everywhere this world, among friends and" /[x]+/ "into
+every other" /[q]+/ "lake firefight was going" /[m]+/ "me what doing, i'd
+have been able" /[b]+/ "nonfictionally. i've seen far too much" /[c]+/
+"now escape through others creatively" /[p]+/ "on above cliffs or over"
+/[u]+/ "or sometime lost my" /^$/ "others. alan, she said, stop it."
+/[w]+/ "picture. 1943 was" /[j]+/ "rest family placing me in" /[i]+/ "the
+darkness hurtling" /[o]+/ "them. know better about" /[l]+/ "to work out
+relations with /[e]+/ "unbearable. sexuality became /[f]+/ "violence
+tension is" /[t]+/ "virginity just about time soldier" /[r]+/ "when we
+were floating over " /[h]+/ "world. still live there; i'm a" /[0]+/ /[0]/
+print print "i'm "i'm tired tired of of this" this"  /[z]+/ 1994 "from my
+1994 selves i in buried selves" my selves /[z]+/ in selves" print /[y]+/
+"but "but always ghosts back come and always furious" back and /[y]+/
+furious"  /[x]+/ "into this this and every other" other"  /[w]+/ "picture.
+in 1943 i was"  /[v]+/ "born and later in 1967"  /[u]+/ /[u]+/ "or "or
+sometime sometime lost lost my" my" /[t]+/ "virginity "virginity the just
+time about a the soldier" time a /[t]+/ soldier"  /[s]+/ print "aimed gun
+his in gun my direction" /[s]+/ /[r]+/ "when "when floating we over were
+the floating " over "  /[q]+/ print "lake the firefight going" was going"
+/[q]+/ /[p]+/ print "on the above cliffs cliffs over" or over" /[p]+/
+/[o]+/ print "them. didn't didn't better know about" better about" /[o]+/
+/[n]+/ print "genre. didn't why other other tell" people tell" /[n]+/
+/[m]+/ i "me i'd what have doing, i'd /[m]+/ have been print able" "me
+/[l]+/ "to "to the work relations out with relations with /[l]+/ /[k]+/
+"father "father healthier healthier the" fashion, even /[k]+/ the"  
+/[j]+/ "rest "rest family family in" placing me /[j]+/ in"  /[i]+/ "the
+darkness darkness of hurtling"  /[h]+/ "world. "world. live still i'm live
+a" there;  i'm /[h]+/ a"  /[g]+/ /[g]+/ "coward, "coward, fearful fearful
+any" any" /[f]+/ "violence and tension is" is"  /[e]+/ "unbearable.
+sexuality sexuality became became a /[d]+/ the "impetus writing against
+from wall i" writing /[d]+/ from which print i" "impetus /[c]+/ "now
+escape escape through through others others creatively" creatively"  
+/[b]+/ print "nonfictionally. seen i've far seen too far much" too much"
+/[b]+/ /[a]+/ everywhere "insanity world, everywhere among world, among
+/[a]+/ friends and" print /^$/ print "others. she alan, said, she stop
+said, it." stop it."
+
+

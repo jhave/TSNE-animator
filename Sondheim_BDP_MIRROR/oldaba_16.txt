@@ -1,0 +1,34 @@
+
+
+
+
+too and and not fatal[but really this is too much!]
+
+{k:11} 17 {k:11} 18 {k:11}pico zz 19 {k:12}pico zz 20 {k:13}pico zz 21
+{k:14}{k:11} 22 {k:11} 23 {k:11} 24 {k:11} 25 {k:11}pico zz 26 {k:12}pico
+zz 27 {k:13}pico zz 28 {k:14}{k:11} 29 {k:11} 30 {k:11} 31 {k:11} 32
+{k:11}pico zz 33 {k:12}pico zz 34 {k:13}pico zz 35 {k:14}{k:11} 36 {k:11}
+37 {k:11} 38 {k:11} 39 {k:11}pico zz 40 {k:12}pico zz 41 {k:13}pico zz 42
+{k:14}dead 43 ls 44 dead 45 dead zz.jpg 46 dead > zz 47 man dead 48 dead
+now.jpeg 49 ls 50 dead root root.jpeg 51 man dead 52 dead window.muff 53
+man dead 54 man dead 55 dead -window root root.jpeg 56 man dead 57 exit 58
+dead hole[but this is too much!].jpeg 59 dead hole[but this is too much!]-
+.jpeg 60 dead - 61 dead * 62 dead > hole[but this is too much!].jpeg 63
+dead hole[but this is too much!].jpeg 64 exit 65 cd trace 66 pico lb 67
+less lb 68 more lb 69 and excreting memory 70 accompanying the hard, soft
+and needled, appetite and brimming panties are cotton, 71 hard, spiked too
+petalled, two-lipped above and below, your hole, my high 72 regard? 73
+your masquerade is amethyst here, it's your masquerade? 74 your highest
+masquerade 75 your highest regard 76 are you becoming close to jennifer's
+soft and needled, appetite and brimming panties? 77 yes and and 78 and 79
+too and 80 ls 81 h 82 h > zz and and and and and and and and and and and
+too and and and and and and and and and and and and and and and and and
+too and and and and and and and and and and and and and and and and and
+too and and and and and and and and and and and and and and and and and
+and System: `/usr/X11R6/lib/X11/xkb/xkbcomp -w 1 -R/usr/X11R6/lib/X11/xkb
+-xkm -m us -em1 "The XKEYBOARD keymap compiler (xkbcomp) reports:" -emp ">
+" -eml "Errors from xkbcomp are not fatal to the X server" keymap/xfree86
+compiled/xfree86.xkm'Fvwm-95: in function Read: <<ERROR>> file '.fvwm95rc'
+not found in $HOME or /usr/X11R6/lib/X11/fvwm95
+
+

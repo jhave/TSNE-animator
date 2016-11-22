@@ -1,0 +1,76 @@
+
+
+
+
+Reading the Clitoris
+
+
+---- World sotatsu ----
+Welcome to Kyoto-MOO!
++++++++++++++++++++++++++++++++++++++
+A moment of stillness just before the invention of radio. you are
+entering a world of speaking bodies; everyone is close at hand. If
+you reach out, you touch us with your bright thinking. Welcome to
+Kyoto!
++++++++++++++++++++++++++++++++++++++
+*** Connected ***
+Yurt
+hovel where Wizards hang, bones in front, skins behind
+You see basin, human, lump, stuff, and stump here.
+Last connected Fri Oct 23 17:39:43 1998 EDT from panix3.panix.com
++++++++++++++++++++++++++++++++++++++
+@examine me
+
+Sotatsu (#2) is owned by Sotatsu (#2).
+Aliases:  Sotatsu
+
+Sotatsu is awake and looks alert.
+
+Sotatsu owning Sotatsu is a god. Sotatsu is God. But there are not enough
+arms and legs. But there are not enough fingers and toes. Sotatsu wants to
+do everything all the time. Sotatsu wants to understand everything all at
+once. Sotatsu Peers at his Tendrils.
+
+Because I am God and can Extend Tendrils
+I don't understand that.
+Because there is room for me to grow Arms
+I don't understand that.
+@create $thing called Arms
+You now have Arms with object number #191 and parent generic thing (#5).
+@describe Arms as Thick, Immense, Foliage Everywhere Upon Their Biceps
+Description set.
+drop Arms
+You drop Arms.
+look Arms
+Thick, Immense, Foliage Everywhere Upon Their Biceps
+"Hello Arms, How are You?
+You say, "Hello Arms, How are You?"
+"Please talk to me, Arms!
+You say, "Please talk to me, Arms!"
+::'s Arms Curl Lovingly Around His Face
+Sotatsu's Arms Curl Lovingly Around His Face
+"Now I will Leave with my New Arms!
+You say, "Now I will Leave with my New Arms!"
+@quit
+
+/* later */
+
+look Sotatsu
+
+She is awake and looks alert.
+Carrying:
+ clitoris                           
+look clitoris
+There appears to be some writing on the clitoris ...
+read note
+Now I have my Arms and Legs. Now I have my Fingers and Toes. Now I have
+many Heads and Many Mouths and Tongues. Now I can speak many Tongues. I
+have Many Eyes and can See Everywhere too. I have many Ears and Can see
+Everywhere too. I can make Many Things now. I can Make Many Many Things. 
+
+You finish reading.
+You finish making things.
+You have made Many Arms.
+You can Make Anything Now!
+
+

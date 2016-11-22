@@ -1,0 +1,44 @@
+
+
+
+Last Letter from Gol.Com
+
+
+I'm out of gol.com, my Japanese account. I closed it down a week early.
+Although they have touted themselves as far ahead of panix in my corres-
+pondence with them, they have repeatedly damaged their own shell accounts.
+They switched machines without telling anyone at times - rendering void
+email lists which rely on correct addressing. They got rid of emacs quite
+a while ago, allow no traceroute, ping, netstat, or any sort of perl and
+other programming - as far as I could tell, only simple shell programs
+would run. They change things without advance notice - including time-
+consuming machine repairs that they knew of in advance. I'd dial in and
+find the account inaccessible. At one point, they removed Pine - I had to
+switch to elm; they removed elm - I had to switch to mail. All this with-
+out notice. Of course they removed /usr/games etc. Finally, they kept
+reconfiguring Pine, the mailer - at this point, I couldn't even change my
+name. They set more and more of the so-called user options. And again, all
+of this without advance warning.
+
+Thank god for panix.com - I'd recommend it anywhere. The following indi-
+cates my account after I took out all files, incriminating or otherwise!
+It was down to 110 k.
+
+-Date: Tue, 17 Nov 1998 15:49:26 +0900 (JST)
+-From: Alan Sondheim <sondheim@gol.com>
+-Message-Id: <199811170649.PAA22445@gol1.gol.com>
+-To: sondheim@panix.com
+
+I'm writing this last letter from gol.com. I've closed the account down. I
+have nothing more open here. They are furious trolls here at gol.com. They
+have rendered shell accounts useless. They are evil people. They should be
+turned inside out.
+
+total 174
+drwx------     6 sondheim  genusers    512 Nov 17 15:47 .
+drwxr-xr-x  1013 root      wheel     17408 Nov 17 15:00 ..
+drwx------     2 sondheim  genusers    512 Oct 31 14:47 Mail
+drwx------     2 sondheim  genusers    512 Nov 29  1997 News
+drwx------     2 sondheim  genusers    512 Nov 17 15:45 mail
+
+

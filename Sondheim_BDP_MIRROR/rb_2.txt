@@ -1,0 +1,16 @@
+==
+
+making space, space for the talk and the whisper. Space and body breathed
+making space, space for the talk and the whisper. Space and body breathed
+Mon Oct 18 15:11:42 EDT 1999 This is Jennifer and it's fun making time go
+Mon Oct 18 15:11:42 EDT 1999 This is Jennifer and it's fun making time go
+life - playing with the the with playing = masturbation - making time fly, 
+1	grep -h "filling space" texts/* > zz
+2	grep -h "wasting space" texts/* >> zz
+3	grep -h "making space" texts/* >> zz
+4	grep -h "useless space" texts/* >> zz
+5	grep -h "filling time" texts/* >> zz
+6	grep -h "wasting time" texts/* >> zz
+7	grep -h "making time" texts/* >> zz
+8	grep -h "useless time" texts/* >> zz
+

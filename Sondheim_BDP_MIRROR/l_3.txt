@@ -1,0 +1,45 @@
+
+
+
+
+
+The Infinite Post
+
+
+A simple example of an infinite self-reflexive sentence: 
+
+The first word in this sentence has three letters and the second word has
+five letters and the third word has four letters ... 
+
+In terms of syntax:
+
+The first word in this sentence is an article and the second is an 
+adjective and the third is a noun...
+
+Both of these are relatively simple, self-generating.
+
+One can nest levels as well:
+
+The first word here is "the" and the second is "first" and the third is 
+"word" and the fourth is "here" and the fifth is "is" and the sixth is 
+'"the"' ...
+
+Although first two above owe something to Bory, they're not of particular 
+interest except as a now moribund conceptualism. But there is one scheme 
+that has been fascinating me since I discovered it:
+
+The last word in this sentence has seven letters and the next to last 
+word has five letters and the next to next to last word has three 
+letters   [...]   has three letters.
+
+Now the _last_ three words refer to the first word, "The," everything wor-
+king backwards, and in fact, both the ending and beginning of this monster
+can be determined to any degree of precision. The ending is an infinitely
+distant memory of the beginning of course; the order is that of the infin-
+ity of the integers. So this is an infinity with clear boundaries, hover-
+ing around, but not quite penetrating, the transfinite. I don't believe
+there's a paradox here, but the sentence amazes me. 
+
+Alan - and please don't attempt to send any of the above in full to the 
+Net; you'd bring everything to a halt...
+

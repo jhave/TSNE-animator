@@ -1,0 +1,99 @@
+
+
+
+
+
+Perfection Implied by Relative Invisibility and the Shaking of Hands*
+
+Aesthetics of Perfection
+
+
+Milner's Communication and Concurrency develops the notion of a _single
+perfect action,_ tau (we'll use T) such that, if there are agents
+a(A)c' and c(B)b' where x' implies output and otherwise input, then if we
+have a(A)c'---->----c(B)b' and A'-->c'-->A (where A' is the state before
+c' is released - note that all of this is a handshake communication among
+agents - then we can infer A'|B --> A|B' where | is composition. (This is
+similar in a way to both something called Petrie graphs and a formalism I
+worked on years ago.) The question asked - what is the label of the last
+arrow? Milner states that this is T, which references the _single perfect
+action_ or handshake. It is internal to the system, and has no complement.
+Further, it is not directly observable. Milner regards two systems as
+equivalent of course if they exhibit the same ("in some sense") pattern of
+external actions. T can figure in graphs such as linear sequences. It does
+not figure externally. 
+
+Among other things, Milner uses the formalism for thinking about communi-
+cation protocols (such as TCP/IP etc.). There are handshakes, send, and
+ack (acknowledgements) involved; a three-way handshake is used in TCP/IP,
+interrupted in a SYN attack. I think a model could be developed from this
+involving layering such that T could also represent an entire structure
+that _appears_ inputless and outputless. Such a structure could be consid-
+ered a basis under certain circumstances; thus TCP/IP is nothing that the
+end user concerns herself with - and in fact to the extent that protocols
+and protocol configurations disappear from the "surface" of communications
+technologies, those technologies increasingly appear virtual/real. Thus a
+future seamless virtual reality would appear to be an _inhabitation_ (in
+the Heideggerian sense), and the "normative" phenomenological horizon of
+the subject would be - as if it were - _identically mapped_ in processes
+to and from the machinery. We can speak of the bandwidth or raster of
+these processes as well. (And are all autonomic processes perfect? And is
+there an aesthetics implied?)
+
+In fact, within the book, everything is process; a storage register for
+example is defined as put(Reg(y))get' which is, in fact, a representation
+of potential operations. The formal definition is Reg(y) def = putx.Reg(x)
++ gety'.Reg(y) - in other words, either put something in or take something
+out. Registers - plural - can be indexed in various ways.
+
+Could we then make up for example [TCP/IP] where all T resonate internal-
+ly, and where the brackets represent the protocol layers, including the
+inputs and outputs - except those pertaining uppermost to the subject and
+her communication (actual and potential)?
+
+I realize I know less and less of the modeling process as I continue here.
+But what I am concerned with is the notion of perfect actions "below" a
+surface, just as software does its job. Within this situation, there would
+be disturbances - noise, chaotic noise, parasites, viruses, Trojan horses,
+and so forth - through which a particular T would break into its compon-
+ents. In such cases, the boundaries or borderlines of invisible processes
+become evident; such processes, from the viewpoint of perfection, are
+"flawed." It's in this domain that the Nikuko and Jennifer experimentation
+has occurred at times, and as perfect sequences are interrupted, their
+virtual bodies expand, producing awkward and confused text. The text is
+their bones, the confusion their speech.
+
+Milner's book is concerned with scheduling; I like thinking about hand-
+shakes, perfections, and breakdowns. Concurrency is critical in parallel
+processing - everything runs together smoothly (ideally). Handshaking is
+critical when anything communicates with anything else, and although this
+is a term from computer science, it's worthwhile to examine it across the
+board - from the entrance/exits of a particular email post ("how do I
+respond to him or her") to Hall's ethological studies. Liminality, in-be-
+tween states, enters into the picture as well - and one might talk about
+onset, coherency achievement, perfection, interrupt, denouement, and with-
+draw, for example. Whether the formalism would prove useful or not at this
+level is moot (I think not actually); it's here that phenomenology, etho-
+logy, Lacanian psychoanalytics, and cognitive science come into play. And
+it's here I exit as well, riding the bones of Nikuko.
+
+(A final issue, however - the extent to which an aesthetics is, in fact,
+implied in perfection. One can consider c and c' as canceling each other
+out, a formation of body and antibody bringing A and B into communicative
+contact through T; what might be considered an apparent symmetry is
+involved. But I also would like to extent this further - into the idea of
+the handshake as an art or aesthetics in itself - the perfect inhaling of
+breath before a shakuhachi note is played out, for example - as instru-
+ment, sound, musical sequence, performer, and breath are adjusted. Think
+of approaching a potential lover for the first time - and what vocal,
+body, and chemical languages (pheromones) are involved. There are other
+examples from molecular biology as well.
+
+Now think of _the beautiful perfection_ of one's eyes, wide-opened, for as
+a lover approaches, or as Nikuko, at last, begins to speak...)
+
+
+*This is speculative and ill-formed; I give in both to my ignorance and
+desire to see the concepts through.
+
+

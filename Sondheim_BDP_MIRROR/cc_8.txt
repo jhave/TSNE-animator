@@ -1,0 +1,54 @@
+
+
+
+
+A Report on Older
+
+
+The HP 110 worked with a small AC power supply at 780 milliamps and 9
+volts; it went on as if it had run for the past twelve years without a
+hitch. I was able to set the terminal program, log into Panix at 300 baud,
+and use a bizarrely configured vt100 emulation on all 16 lines of the
+screen.
+
+Pine was usable, but slowly refreshed; it was clear that other mail read-
+ers would be better at the speed. SMTP seemed the easiest way to send.
+Tiny Fugue ran with total havoc - characters were unreadable, and I wasn't
+able to page anyone; it was hard enough to back out of the application
+(control-c and the kill everything did it).
+
+300 baud turns out to be a fast human reading speed - nothing much is
+lost. Still, Pine insisted on redrawing line-by-line; the time wasted is
+absurd, with constant full-screen redraws. But there's more: Control-v
+doesn't work in Pico - either does control-y (upper or lower cases) - or
+control-wy or control-wv. So there's no paging up and down; the screen is
+useless. I couldn't write on-line with it at all.
+
+In IRC, the connect time was about twenty minutes with the Phoenix program
+and the text didn't scroll - only the line above the bar changed at all.
+Nice ASCII art disappeared the same way everything else did. I gave up.
+
+At the prompt, control-c would pull me out of a slow readout, but in Pine,
+the full-refresh wouldn't allow it - I had to wait until the end of one
+sorry sequence after another.
+
+There is an upload and download application built-in, but I have no idea
+what the on-line commands should be - surely not xmodem, kermit, or any-
+thing other current standard. I need "primitive transfer _x_" - whatever
+that may be.
+
+After logging out, I tried the memo writer, which seemed usable, and there
+were two drives, with a total of 272k distributed among the virtual RAM
+disks. There was Lotus 123 as well. I could save to file (slave to file
+was more like it) but with a totally dead battery, all the configurations
+disappeared, of course, when I closed down.
+
+The keyboard was stiff but robust; the design, excellent, and the power
+drain unbelievably small - the unit would run for 16 hours when new, with
+a good battery. The screen isn't backlit, and without drive motors,
+there's not much that uses electricity.
+
+All this from 1984, when the Big Brother was supposed to once again take
+over the Holding Company - who know it was Microsoft at the time...
+
+

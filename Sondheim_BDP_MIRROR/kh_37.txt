@@ -1,0 +1,7 @@
+
+
+Shell: /bin/csh
+New mail since Wed May  6 15:36:50 1998
+Has not read mail for  0:05:11.
+  User     Real Name         What    Idle  TTY  Host      Console Location
+  

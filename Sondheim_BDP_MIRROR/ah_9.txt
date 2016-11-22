@@ -1,0 +1,19 @@
+
+
+
+
+TRYING TO COMMIT SUICIDE ON THE MOO
+
+#-1 does not exist.
+Everyone died but no one got assassinated...
+You see Darkness before the dawn., Tuneless in Gaza, DINGIR SAL LU, and
+ @rename Alan here.
+@audit Alan
+Objects owned by Alan (from #0 to #15755):
+  8K #14773 Alan                       [#-1 does not exist.]
+933b  #3915 #-1 does not exist.       
+675b  #9370 Darkness before the dawn.  [#-1 does not exist.]
+672b #10896 Tuneless in Gaza           [#-1 does not exist.]
+606b  #1847 DINGIR SAL LU              [#-1 does not exist.]
+625b  #2476 @rename Alan               [#-1 does not exist.]
+-- 6 objects.  Total bytes: 11,957.

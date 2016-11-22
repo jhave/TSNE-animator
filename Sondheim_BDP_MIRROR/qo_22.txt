@@ -1,0 +1,84 @@
+
+
+
+current.txt
+
+Ritual
+
+Over a hundred times I've had to follow the paths below, adding new files
+to the Internet Text as they _accumulate,_ transform into theoretical sub-
+stance. Last night, file ff was added to the rest, and the net index was
+updated. The files are easily retrievable; the whole morass is around
+four megabytes of solid bristly ascii. 
+
+I travel from panix.com to the site at jefferson.village.virginia.edu, and
+then: 
+
+341	cd ftp.archives/cybermind-digest.archive/internet
+342	ftp panix3.panix.com	[getting file]
+343	wc ff				
+344	ls -l ee		[checking permissions]
+345	chmod 664 ff		
+346	ls -l ff		[changing, checking permissions]
+347	cd
+348	cd public_html
+349	pico internet_txt.html	[adding access on home-page for filename]
+350	ftp panix3.panix.com	[preparing home-page for download]
+351	exit
+352	cd ftp.archives/cybermind-digest.archive/internet
+353	ls -l netindex.txt
+354	rm netindex.txt		[removing old index for Internet Text]
+355	ftp panix3.panix.com	[adding new index]
+356	chmod 664 netindex.txt
+357	ls -l netindex.txt	[checking permissions]
+
+I exit, enter internet_txt.html from panix.com, make sure everything is
+running properly. I have had to change the netindex.txt first, by down-
+loading ff, and toggling between it and online. The index has grown to
+390 entries, something for everybody. It's spidery, out of control; it 
+has bones in it. The sequence above, server-side, is the bi-weekly stir-
+ring of the soup.
+
+URL: http://jefferson.village.virginia.edu/~spoons/internet_txt.html 
+
+
+Writing in Minimal Fare
+
+
+Writing in Pico in the linux or unix shell strips away excess; what 
+remains is inner speech, a dialog of thought unencumbered by design. It's 
+difficult to work within boxes, colors, menu systems, corporate or other 
+headings. Here I think through the movement of concepts, ideas, emotions; 
+there, I founder on the barriers of software design. True enough, Pico 
+itself is design, but the design minimal; what is visible is primarily a 
+window of unadorned text, processed by a minimal number of commands. There 
+are no distracting images, no sounds or other annoyances (the arrival of 
+new mail, instant messaging, banner ads). It's as if writing has returned 
+to its source in the body and stele or table, and lost in eternity, stone 
+hardened writing should tend only towards existence. the self-inscribed 
+desire sexuality desire's written for & conceivable tablet, there are 
+others that Reading _on_ virtual-real bodyonly to disappear, write 
+background. media change from text To modernism is voiceless voice. voice 
+an enunciation. Whatever I write, apt word. Or it must appear contrived as 
+a collusion between reader writer.  [...]
+
+
+ma.txt
+
+Poetics in Internet Text
+
+grep poetics *?? > z; grep Poetics *?? >> z; ftp panix3.panix.com; sed
+'s/^...//g' z > zz; h >> zz; pico zz
+
+crossing of words, language and its poetics, is an undertow, vectoried 
+Like John Giorno with his doubled-up pasty columns of reiterated poetics,
+tions, states, processes, places, flows, and not all the poetics in the
+The elaborate metaphor I'm working with is more than poetics. It's unfair
+tain poetics at work that it's too easy to relate to haiku, mystery -
+I don't comprehend haiku; I do comprehend zen poetics. I don't comprehend
+think of incomprehensible audiences; think of the poetics of speech
+of the poetics of technology and the bypass of the circulatory systems of
+shrapnel beyond experimental poetics.
+[...]
+
+

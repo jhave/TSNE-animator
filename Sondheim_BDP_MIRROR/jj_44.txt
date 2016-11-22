@@ -1,0 +1,4 @@
+
+"How much $ are you worth exactly: $       .
+"What bank do you use and what is your account number:
+"Bank:

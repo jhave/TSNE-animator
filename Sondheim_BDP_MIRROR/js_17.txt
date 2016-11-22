@@ -1,0 +1,101 @@
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Jennifer</TITLE>
+   <META NAME="GENERATOR" CONTENT="User-Agent: Mozilla/3.0Gold (Macintosh; I; PPC)">
+    <META http-equiv="REFRESH" CONTENT="1">
+</HEAD>
+<NOSCRIPT> <PRE> 
+The truth of course lies here. Jennifer performs blockage and existence.
+She's never tired of breathing. Breathing Jennifer continues, visible or
+not. </PRE> </NOSCRIPT>
+<BODY BGCOLOR= "darkred">
+<BR><BR><BR>
+<CENTER>
+<H2>BREATHING JENNIFER</H2>
+<P>
+<SCRIPT LANGUAGE="Javascript">
+function zz()
+{document.bgColor="black"}
+</SCRIPT>
+<FORM> <!-- JENNIFER-CONCEALMENT -->
+<INPUT TYPE="button" VALUE="touch jennifer" onClick="zz()">
+</FORM><FONT SIZE="+1">
+<SCRIPT> <!-- JENNIFER-FUNCTION AND ITS CATEGORIES  // -->
+function Jennifer(gender, breathing, milk, suture_and_surgery, you)
+{
+this.gender = gender;
+this.breathing = breathing;
+this.milk = milk
+this.suture_and_surgery = suture_and_surgery;
+this.you = you;
+} // JENNIFER-BODIES AND THEIR CHARACTERISTICS
+Jennifer1 = new Jennifer("female ", "inhale ", "spurt", "cut ", "your_voice ");
+Jennifer2 = new Jennifer("male ", "exhale ", "spurt", "suture ", "your_voice ");
+Jennifer3 = new Jennifer("mine ", "inhale ", "spurt", "surgery ", "my_voice ");
+Jennifer4 = new Jennifer("yours ", "hers ", "spurt", "cauterize ", "whisper ");
+Jennifer5 = new Jennifer("neuter ", "ah", "dribble ", "catheter ", "murmur ");
+Jennifer6 = new Jennifer("penetrate ", "oh", "drop ", "vein ", "my_voice ");
+Jennifer7 = new Jennifer("vaginate ", "ooh", "droop ", "artery ", "their_voice ");
+Jennifer8 = new Jennifer("loose", "grahr", "milk", "neural ", "thrust ");
+Jennifer9 = new Jennifer("fallen", "inhale", "spurt", "exhale ", "portend ");
+var z = 0; var x; var j; var now;
+while (z < 8)
+{
+now = new Date; 
+x = now.getSeconds(); 
+j = x % 12 <!-- THE DISPERSION OF JENNIFER // -->
+if ( j == 0 )
+{document.write(Jennifer1.gender + Jennifer2.breathing + Jennifer3.milk
+  + Jennifer4.suture_and_surgery + "<BR>");}
+if ( j == 1 )
+{document.write(Jennifer1.breathing + Jennifer2.gender + Jennifer3.you
+  + Jennifer4.milk + "<BR>");}
+if ( j == 2)
+{document.write(Jennifer1.suture_and_surgery + Jennifer2.suture_and_surgery
+ + Jennifer3.gender + Jennifer4.breathing + "<BR>");}
+if ( j == 3)
+{document.write(Jennifer1.milk + Jennifer2.you + Jennifer3.you 
+ + Jennifer4.suture_and_surgery + "<BR>");}
+if (j == 4)
+{document.write(Jennifer5.milk + Jennifer6.you + Jennifer7.gender 
+ + Jennifer4.breathing + "<BR>");}
+if (j == 5)
+{document.write(Jennifer6.milk + Jennifer6.gender + Jennifer7.milk 
+ + Jennifer5.breathing + "<BR>");}
+if (j == 6)
+{document.write(Jennifer7.suture_and_surgery + Jennifer6.suture_and_surgery
+ + Jennifer5.you + Jennifer2.suture_and_surgery + "<BR>");}
+if (j == 7 || j == 8)
+{document.bgColor="black";
+document.write("My panties on the ground are wet with elements and planets.")
+} 
+// THE CONCEALMENT OF PANTIES AND HIDDEN DOCTRINE
+if (j == 9)
+{document.write(Jennifer9.milk + Jennifer9.suture_and_surgery + Jennifer9.gender
+ + Jennifer8.gender + Jennifer4.suture_and_surgery + "<BR>");}
+if (j == 10)
+{document.write(Jennifer8.milk + Jennifer7.breathing + Jennifer8.you 
+ + Jennifer1.you + Jennifer9.you + "<BR>");}
+z++;
+if (j == 11)
+{document.bgColor="yellow";
+document.write("Jenniferyellowmilk Jenniferbreathinggender Jennifersutureandsurgery");}
+}
+</SCRIPT>
+<SCRIPT>if (j % 2 == 0)
+{document.write("<H2>" + "JENNIFER INHALES" + "</H2>")}
+else
+{document.write("<H2>" + "JENNIFER EXHALES" + "</H2>")}
+if (j % 3 == 0)
+{document.write("<H4>" + "JENNIFER FALLS APART" + "</H4>")}
+</SCRIPT>
+</FONT>
+<H2>JENNIFER YOU JENNIFER JENNIFER</H2>
+</CENTER>
+</BODY>
+</HTML>
+

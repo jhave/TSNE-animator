@@ -1,0 +1,47 @@
+
+
+
+Delivered, Negotiated, Open
+
+
+I want to consider a distinction between _delivered_ and _negotiated_
+content on the Internet - not only in regard to email lists, etc., but
+also conferences and on-line education.
+
+Delivered content is top-down; the Red Rock Eater (RRE) email list is a
+good example - only the moderator posts. The presentation of a conference
+paper is another example.
+
+Negotiated content refers to lateral processes - a chat on a particular
+topic, or the Fop-l email list. Issues of governance arise with negotia-
+tion that are taken for granted with delivery - for example, dealing with
+spam or destructive behavior. Delivery is monolithic; negotiation is het-
+erological.
+
+These terms of course form a grid in relation to the asynchronous/synch-
+ronous division. An ftp site is asynchronous and usually delivery; there
+are publicly negotiated sites, however, which take the _put_ command. Most
+chatspaces are negotiated, but a chatspace can be used for conference de-
+livery as well.
+
+Finally, there is a third term, _open_ content, which refers to completely
+unmoderated participation, without "rites of passage" (such as occur by
+signing up to an email list) - newsgroups and IRC in general are good ex-
+amples.
+
+What is the point of this taxonomy? It might provide a tool for thinking
+through the uses of various Net spaces vis-a-vis participant and/or audi-
+ence. Here in Nova Scotia, I am working on the phenomenology of electronic
+conferencing - what works, what doesn't work, and why. The same phenomeno-
+logy operates in relation to communication in general; in the Hebrew Uni-
+versity classroom of 1962, content was delivered - in the smaller, infor-
+mal meetings, it was negotiated, and outside both (in the plaza area of
+the campus) it was open. All three domains interacted with one another,
+from the student's viewpoint, although delivery has a tendency in such si-
+tuations to ossify because: 1. It's easier for a professor to repeat the
+same materials year after year; and 2. The very distinctions between lec-
+ture and discussion served to firewall student-professor dialogic.
+
+Please comment - thanks.
+
+

@@ -1,0 +1,97 @@
+==
+
+
+Internet Philosophy and Psychology -                           Jan/Feb 01
+
+
+This is a somewhat periodic notice describing my Internet Text, available
+on the Net, and sent in the form of texts to various lists. The URL is:  
+http://www.anu.edu.au/english/internet_txt/ which is partially mirrored at
+http://lists.village.virginia.edu/~spoons/internet_txt.html. (The first
+site includes some graphics, dhtml, The Case of the Real, etc.)
+
+The changing nature of the email lists, Cybermind and Wryting, to which
+the texts are sent individually, hides the full body of the work; readers
+may not be aware of the continuity among them. The writing may appear
+fragmented, created piecemeal, splintered from a non-existent whole. On my
+end, the whole is evident, the texts extended into the lists, partial or
+transitional objects.
+
+So this (periodic) notice is an attempt to recuperate the work as total-
+ity, restrain its diaphanous existence. Below is an updated introduction. 
+
+-----
+
+The "Internet Text" currently constitutes around 100 files, or 4500 print-
+ed pages. It began in 1994, and has continued as an extended meditation on
+cyberspace, expanding into 'wild theory' and literatures.
+
+Almost all of the text is in the form of short- or long-waves. The former
+are the individual sections, written in a variety of styles, at times
+referencing other writers/theorists. The sections are interrelated; on
+occasion emanations are used, avatars of philosophical or psychological
+import. These also create and problematize narrative substructures within
+the work as a whole. Such are Julu, Alan, Jennifer, and Nikuko, in parti-
+cular.
+
+The long-waves are fuzzy thematics bearing on such issues as death, sex,
+virtual embodiment, the "granularity of the real," physical reality, com-
+puter languages, and protocols. The waves weave throughout the text; the
+resulting splits and convergences owe something to phenomenology, program-
+ming, deconstruction, linguistics, prehistory, etc., as well as to the
+domains of online worlds in relation to everyday realities.
+
+Overall, I'm concerned with virtual-real subjectivity and its manifesta-
+tions, relative to philosophical concerns. I continue working on a cdrom
+of the last seven years of my work (Archive); I also have additional
+video materials, created with Azure Carter and Foofwa d'Imobilite, on two
+cdroms, Baal and Parables. Most recently, I've been working on a text for 
+publication in a month or two, ".echo" - as well as "cancer.txt" which 
+deals with loss, mourning, and death. And I've finished articles on Stel- 
+arc and Panamarenko. I want to write once again on radio and radiations.
+
+I have used MUDS, MOOS, talkers, perl, d/html, qbasic, linux, emacs, Cu-
+SeeMe, etc., my work tending towards embodied writing, texts which act and
+engage beyond traditional reading practices. Some of these emerge out of
+performative language soft-tech such as computer programs which _do_
+things; some emerge out of interferences with these programs, or conversa-
+tions using internet applications that are activated one way or another.
+And some of the work stems from collaboration, particularly video, sound, 
+and flash pieces.
+
+There is no binarism in the texts, no series of definitive statements.
+Virtuality is considered beyond the text- and web-scapes prevalent now.
+The various issues of embodiment that will arrive with full-real VR are
+already in embryonic existence, permitting the theorizing of present and
+future sites, "spaces," nodes, and modalities of body/speech/community.
+
+It may be difficult to enter the texts for the first time. The Case of the
+Real is a sustained work and possible introduction. It is also helpful to
+read the first file, Net1.txt, and/or to look at the latest files (lq, lr)
+as well. Skip around. The Index works only for the earlier files; you can
+look up topics and then do a search on the file listed.
+
+The texts may be distributed in any medium; please credit me. I would ap-
+preciate in return any comments you may have.
+
+Current cdroms are available for $14; if you've have an earlier version,
+they go for $10. Baal and Parables are ach $15 (video format is .mov with
+Sorenson compression). (Costs include shipping.)
+
+You can find my collaborative projects at
+http://trace.ntu.ac.uk/writers/sondheim/index.htm and my conference
+activities at http://trace.ntu.ac.uk - both as a result of my virtual 
+writer-in-residence with the Trace online writing community.
+
+See also:
+Being on Line, Net Subjectivity (anthology), Lusitania, 1997
+New Observations Magazine #120 (anthology), Cultures of Cyberspace, 1998
+The Case of the Real, Pote and Poets Press, 1998
+Jennifer, Nominative Press Collective, 1997
+Parables of Izanami, Potes and Poets Press, 2000/1
+
+Alan Sondheim 718-857-3671 
+432 Dean Street, Brooklyn, NY, 11217, USA
+mail to: sondheim@panix.com 
+
+

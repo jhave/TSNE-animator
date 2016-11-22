@@ -1,0 +1,120 @@
+
+-
+
+
+Available and Sustainable CMC
+
+
+I want to write about MOOs and basic computer communication in underdevel-
+oped regions. I assume that the user has no previous computer experience,
+that the servers provide Unix shells only, that individual accounts have
+extremely small quotas. I also assume that the user is given a _prompt_ as
+primary means of access, and that her machine may be as simple as an older
+IBM XT, with a connect at 2400 baud maximum. I also consider the possibil-
+ity of a company such as Microsoft coming up with an extremely simplified
+battery-operated computer, with built-in modem, some reasonable weather-
+proofing, and perhaps a megabyte of RAM at best.
+
+Given all of this, what can be done to configure a MOO to operate under
+these conditions, and what would be the advantage? First, I assume that 
+the only _external_ command given the user is to type "telnet <IP address>
+<port number>" and that everything else will occur from that point on.
+
+Kayo Matsushita has designed an @configure command that can be encountered
+by new users immediately after the Welcome message. The @configure will 
+send a user through a series of questions, allowing him to set, for ex-
+ample, line wrap, Answering Machine service, and character description, on
+the MOO. The Welcome message itself becomes critical; it would give, not
+only immediate and extremely basic commands, but also instructions for
+guests on establishing a permanent character. I believe the best route 
+here, given possible difficulties with standard email, would be to have 
+the @request be made within the MOO itself, and answered within the MOO.
+There would be no reliance on outside mail.
+
+Kayo has also implemented a Kyoto-MOO player class, which is almost com-
+plete. This has a variety of emootions built in, the ability to page, to
+use the Answering Machine service, to have remote emotes, and so forth.
+It does not allow programming or extensive building - our idea here is to
+make the MOO democratic, so that there wouldn't be a group of programmers
+as opposed to a group of players. When groups evolve in this fashion,
+issues of power and politics quickly become paramount, since some users
+would have more control over theirs and others' environments.
+
+The Answer Machine serves as a simple means to contact someone off-MOO;
+if I say "page Clara hello" and Clara is not logged in, she will receive
+the message and the time it was sent, when she logs in. So simple com-
+munications could occur, asynchronously, in this fashion.
+
+Beyond this, there is the usual email system within the MOO; I think 
+this could also, ultimately, use revision. And there are email lists de-
+voted to various topics; they're not that hard to configure. Whoever sets
+the MOO up could be responsible for establishing new email lists upon re-
+quest, as well as configuring their privileges.
+
+The MOO could also have a message-base for longer texts, which would most
+probably be uploaded by the MOO archwizard and/or wizards in general. All
+of this, by the way, takes advantage of the MOO as a relatively autonomous
+closed environment, which one logs into from remote. In this fashion, the
+MOO could be kept continuously running, accessible when lines permit - and
+if lines were even slightly stable, classes, etc. could be held on it.
+
+One issue to be addressed is downloading from the MOO. This can be done
+relatively easily from client programs; without them, either the Print
+Screen command or a log file would need to be used. Almost every communi-
+cations program I've seen comes with the ability to log; in Procomm for
+example, one need hit only Alt/F1 - at which point the user is asked for
+a file name and the logging begins until Alt/F1 is hit again.
+
+Why emphasize the MOO over such things as newsgroups, email lists, IRC, 
+and various pieces of software? Because of the autonomy described above.
+The entire MOO can easily be backed up, even off the hard-drive; its
+check-pointing creates continual backups in any case (i.e. db.old for 
+the older database, and this is done automatically at set intervals).
+Because of this, it's relatively robust, and also centralized. If someone
+can't log on for, say, a week, he could eventually catch up on his email
+lists - as opposed to someone who might lose a week's worth of email on
+his own personal account (considering that messages might not be resent).
+If someone needs to reach a person quickly, she could page her through
+the MOO, and the page would be the first thing the recipient would notice
+upon logging in. If someone wanted to send completely private email for
+that matter, he could use the internal MOO email - and the recipient
+would access it only after telnetting in and using the MOO password,
+which is fairly tightly protected.
+
+(Of course, as with any application that involves wizards or sysadmins, 
+the system could be taken advantage of using commands such as @snoop. 
+Even here, there could be built-in limitations to wizard's powers.)
+
+Finally, if all else fails, the talkers I've described still remain. The
+MOO takes up a number of megabytes of hard-drive space, and may be dif- 
+ficult to administer or configure. The talkers aren't this way. In a MOO,
+an object, every object, resides within a single database. In a talker,
+rooms are independent and quickly-edited files - as I've pointed out else-
+where, these files could be texts in themselves. A talker comes in at
+around a megabyte. It has simple mail and message-boards and rooms that
+can be set to public or private. It requires even less expertise on the
+part of users. The Nuts talker software comes with a core that's easily
+compiled; the core also allows new player classes to be quickly config-
+ured (in other words new users could be given a variety of privileges
+upon first logging in). (Again, for those who don't know, I want to say
+that a talker is _not_ voice-recognition software, but text-based soft-
+ware that is half IRC, internet relay chat, and half MOO in feeling.)
+
+So, given all of the possibilities here, a question might be - where do
+we go at this point? Who is going to convince computer companies to go
+beyond or below their current drive towards Network Computers (NCs), and
+create quick and easy "connectivity modules" which could function as
+dumb terminals with reasonable built-in text memory? (The terminals by
+the way could have a "log" key also built in - whenever anyone wanted,
+in any program, etc., whatever was occurring on the screen would auto-
+matically be logged in a file.) Who is going to present MOOs and talkers
+and the like to servers world-wide where they might do some good, for
+example, in matters of education, politics, technology, group-identity,
+multiculturalism? Where does one go from here? (Note finally, that very
+little is needed to implement all of this _now._ It's not future-dreaming
+we're talking about - it's the present, and what could be done immedi-
+ately. And the synchronous communications possibilities, which would ex-
+tend beyond local regions to the world at large, hold enormous possibil-
+ities in this regard, of course...)
+
+

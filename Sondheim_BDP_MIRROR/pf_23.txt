@@ -1,0 +1,14 @@
+
+[3;1H[Waiting for connection...]
+[21C######################################
+[38D# Rering sondheim@panix3.panix.com?  #
+[38D######################################
+[22B
+[24;1H
+[?1l
+>$ exitScript done, output file is typescript
+$ talk sndheim^?^?
+sondheim@panix3.panix.com
+[1;24r
+[?7h
+[H

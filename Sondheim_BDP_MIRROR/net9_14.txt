@@ -1,0 +1,292 @@
+
+
+
+
+
+
+_Who / Why / Where / When / What / How:_
+
+
+
+
+
+Who: Who is on the Net? To whom am I speaking? Ontological problems
+
+intervene immediately after demographics, and demographics themselves
+
+aren't reliable. 
+
+
+
+Why: Purpose is often at variance from stated purpose; performatives
+
+are often skewed, producing intended results elsewhere or beyond their
+
+ostensible content.
+
+
+
+Where: Where is often untraceable, single or double blind, with or with-
+
+out the appearance of tracking.
+
+
+
+When: Arrrivals and departures are announced, re-announced, and over-
+
+determined.
+
+
+
+What: The ostensible content is the surface communication of the post.
+
+This may be interrupted by jargon, visible or invisible code.
+
+
+
+How: The transmission-mechanisms and their layering remain invisible
+
+as well.
+
+
+
+The news story is produced out of an Enlightenment classicist environ-
+
+ment in which it is assumed that space-time is locally fixed and stable.
+
+The Net post, communication, or artwork, appears out of an information-
+
+flux which is ominous to some extent: On one hand, it utilizes an over-
+
+abundance of headers, and on the other, it is deeply sourceless. The
+
+header is the hysteria of space-time, its fetishization, but the speci-
+
+ficities of the route lose themselves in planetary echos, bounces, and
+
+various forms of interference. It is not that the environment is no
+
+longer classicist; it is instead an _absence of environment_ coupled 
+
+with a problematic ontological/epistemological regime. 'Environment'
+
+almost always implies analog extension, a smooth manifold capable of
+
+manipulation (as in Piagetian experiments with children). But the Net
+
+or NII environment is at best that of the local node, the projections
+
+and introjections associated with the terminal screen itself.
+
+
+
+The screen is the _tracing_ of the absent environment, not its manifes-
+
+tation. And as such it is the _nostalgia_ for the absence as well; it
+
+is always already a memory of the excessivity or surplus of the real.
+
+Barren, it can never answer the Question who, what, why, etc., although 
+
+the Net can _construct_ or _locate_ a nearly-infinite number of answers 
+
+(infinite for all 'practical purposes'). Full, it is representative of 
+
+the psyche itself, dream-states reordered as insubstantial, the imposi-
+
+tions of spaces and times which automatically perform themselves. (For 
+
+there may well be no backdrop to the dream, no dream-screen or maternal 
+
+breast - there may only be _laminar inscriptions_ channel-surfing 
+
+through reconstructive memory. This is _near_ but not equivalent to the 
+
+Net, in which such channel-surfing is ruptured and fragmentary.)
+
+
+
+One must _devour_ or _swallow_ the Net to realize it, present its com-
+
+munication on the level of the _throat_ which is vulnerable and suscep-
+
+tible to disease of all sort. The real of the Net may well lie in
+
+disease, physical and mental, disease extending itself in and out of the
+
+communicative environment - _dis-ease_ which discomforts the body and 
+
+flattens the screen. From the _terminus, appearance itself is dis-ease,_
+
+the interpenetration of the real of the other, which is the exhaustion
+
+of the real, all the real there is. For the Net is never other, always
+
+_something else_ beyond or elsewhere than language, in spite of its
+
+harboring of language. 
+
+
+
+The W-questions wobble on the Net, are played-with, a form of inundation.
+
+They carry the cartesian body into cyberspace where both collapse; still,
+
+in the midst of chaos, they remain the final signifiers of inhabitation,
+
+of dwelling, hearth, and home...
+
+WETWARE
+
+
+
+
+
+From _Computers: Their Operation and Applications_ by Berkeley and 
+
+Wainwright, 1956:
+
+
+
+"The total rapid memory of Univac I consists of seven tanks of mercury 
+
+and is known as a mercury delay line memory. [...] Each tank contains
+
+18 paths or channels, along which a pattern of pulses can be remembered,
+
+or stored, as a circulating train of waves. The 126 channels are allo-
+
+cated as follows: 100 for main memory; 7 for temperature control (1 in
+
+each tank); 6 for input from Uniservos (known as the I register or I
+
+tank); 6 for output to Uniservos (known as the O register or O tank);
+
+6 as spare channels; 1 for the so-called 'ten-word transfer' or 'Y
+
+register' operations.
+
+
+
+"Each of these channels is capable of storing ten words, each equal to
+
+12 characters, or 720 binary digits (together with 120 check bits in
+
+addition). Consequently, this portion of the rapid memory of the com-
+
+puter consists of 1000 'registers' of mercury tank memory, totalling
+
+720,000 binary digits (plus checking bits).
+
+
+
+"The access time to any register ranges from 40 to 404 microseconds,
+
+depending on the number of words, from 0 to 9, which must circulate 
+
+before the desired word arrives in the train of waves. The average
+
+access time is, accordingly, 222 microseconds."
+
+
+
+
+
+Consider the promulgation of interconnected neural networks throughout
+
+the sphere of mentation, each associated with the columnar structure
+
+of cortical tissue in order to construct muscular-mind capable of
+
+reminiscent wave-forms; is this not, in fact, the illusory "meat" of
+
+the electronic machine, associated with Spencer Brown's "oscillator
+
+function" - an operator lending itself to the imaginary, as described
+
+in his _Laws of Form_? A further instance would be the concept of
+
+_identity as resonance,_ as presented first in my _Structure of Reality_
+
+from 1977, as a fundamental condition of networking/memory in general.
+
+Such resonance, indicated by degree, is further smoothed by the condi-
+
+tion of fuzzy networking and the operation of integration. On one hand,
+
+therefore, the spikes of a binary domain, and on the other, recoverable
+
+wavefronts, often overlooked in an attempt at the representation of
+
+everything within a chaotic or fractal domain (not to mention unsolva-
+
+bility theory itself). 
+
+
+
+In the early days of the computer, wetware was at the heart of hardware;
+
+wetware returns as organism problematizes computation: 
+
+
+
+"But why look for an artificial version of microtubules, or any other
+
+biological component, if the original or something like it can be made
+
+available through biotechnology, or perhaps through directed evolution? 
+
+One of the main points of the nature-based AI movement is to eliminate
+
+the traditional emphasis on building from scratch, and instead to take
+
+advantage of whatever shortcuts nature offers.
+
+
+
+"As the nature-based AI movement continues to thrive, and the conven-
+
+tional AI effort continues to falter, it seems increasingly likely that
+
+the first conscious device will not only provide the functionality of a
+
+brain, it will in many ways be _like_ a brain. Nature has provided a 
+
+blue-print for intelligence, and AI is finally prepared to follow it."
+
+
+
+(From Freedman, _Brainmakers,_ 1994.)
+
+
+
+
+
+I therefore propose that _identity_ arguments occur within the domain
+
+of _resonance,_ and that communication models work through issues of
+
+inscription, fissure, and (de)territorializations. An _inscription_
+
+exists within a classical or Boolean domain, a _fissure_ represses that
+
+domain (either in favor of equivalence or gestural logics), and _terri-
+
+torializations_ are regions dominated by power, maintenance, and taxon-
+
+omies. I further refer the whole back to the construct of threshold-
+
+logic machinery and its breakdowns, the flux of such machinery redirec-
+
+ted to nanotechnological impulses, and the efflux of the same existing
+
+within or without a chaotic domain of wavefronts and their irresolutions.
+
+
+
+In the process of the MPTE (micro-process-thought-experiment).
+
+
+
+
+

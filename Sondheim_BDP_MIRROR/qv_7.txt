@@ -1,0 +1,251 @@
+==
+
+
+
+Julu, Prison-Escape
+
+$ BitchX
+BitchX - Based on EPIC Software Labs epic ircII (1998).
+Version (BitchX-1.0c19) -- Date (20020325).
+Process [2755]
+Using terminal type [vt100]
+<Nickname not registered yet>
+[1mBitchX
+: Auto Response is set to - sondheim
+*** Connecting to port 6667 of server irc.Prison.NET [refnum 0]
+[Prison]
+*** Processing connection to irc.Prison.NET
+[Prison]
+*** Looking up your hostname...
+[Prison]
+*** Checking Ident
+[Prison]
+*** Found your hostname
+[Prison]
+*** Got Ident response
+*** Welcome to the EFNet Internet Relay Chat Network sondheim 
+*** Your host is irc.Prison.NET[67.218.118.62/6667], running version
+ircd-ratbox-2.2.9 
+*** This server was created Mon Dec 27 2010 at 14:50:21 PST 
+*** CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:25
+PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFNet MODES=4 STATUSMSG=@+
+KNOCK CALLERID=g :are supported by this server 
+*** SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 
+CHANNELLEN=50
+*** TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:
+,MONITOR :are supported by this server 
+total users on irc
+39226
+total servers on irc
+50
+avg. 784 users per server
+total channels created
+19934
+avg. 1 users per channel
+*** 891 1232  Current local users 891, max 1232
+*** 39226 40821  Current global users 39226, max 40821
+#nikuko
+*** Channel #nikuko was created at Sun Jan  2 01:16:08 2011
+Join to #nikuko was synched in 0.232 secs!!
+[#nikuko] 
+/topic waiting for you to arrive
+#nikuko
+/topic with so many people nearby, the obscurity...
+/nick nikuko
+*** Topic changed by nikuko
+You are now known as nikuko
+nikuko: jennifer you'll never find me
+nikuko: not a chance in the world
+/nick jennifer_
+You are now known as jennifer_
+*** Your nick jennifer is owned by meric@alt.dotdev.org
+jennifer_: Obscure! Obscure!
+/nick Julu
+You are now known as Julu
+Julu: owned by no one! no one at all!
+*** Topic #nikuko changed by Julu 1;30:
+THIS IS MY WORLD AND MY NAME IS JULU!!
+[#nikuko] 
+*** Signon time  :    Sun Jan  2 01:15:48 2011
+*** Signoff time :    Sun Jan  2 01:18:47 2011
+*** Total uptime :    0d  0h  2m 59s
+SignOff: Julu 
+BitchX: now with flavor crystals!
+
+
+
+IRC, Mourning Becomes Nikuko
+
+*** Mode change [+iw] for user Julu
+*** Julu [xHv8uPzPEB@panix3.panix.com] has joined #nikuko
+*** [Users(#nikuko:1)] 
+[@Julu      ] 
+*** Channel #nikuko was created at Sun Jan  2 01:50:47 2011
+*** BitchX: Join to #nikuko was synched in 0.253 secs!!
+
+*** Topic (#nikuko): changed by Julu: WHERE IS MY NAME AND MY LOG
+>>> You(Julu) are now known as nikuko
+<nikuko> quantum coding, there's no tomorrow
+>>> You(nikuko) are now known as jennifer_
+*** Your nick [jennifer] is owned by eric@alt.dotdev.org
+*** BitchX: Unknown command: probably...
+>>> You(jennifer_) are now known as Julu
+<Julu> I've returned
+*** Topic (#nikuko): changed by Julu: Where am I
+*** BitchX: Doing this is not a good idea. Add -YES if you really mean it
+<Julu> I won't do it then!
+#nikuko    Julu       H@  xHv8uPzPEB@panix3.panix.com (Alan Sondheim)
+>>> You(Julu) are now known as nikuko
+<nikuko> I think if I really really want to change
+*** Topic (#nikuko): changed by nikuko: do you really really want to 
+ change? :-)
+<nikuko> I can, yes I really do believe this! :-)
+>>> You(nikuko) are now known as Jennifer_
+*** Your nick [Jennifer] is owned by eric@alt.dotdev.org
+<Jennifer_> Idiot!
+*** BitchX: Nickname specified is illegal.
+>>> You(Jennifer_) are now known as I_am_lost
+<I_am_lost> Jennifer! Where are you?
+>>> You(I_am_lost) are now known as Jennifer_
+<Jennifer_> I was here, Julu?
+>>> You(Jennifer_) are now known as here_were
+<here_were> Julu? Here were?
+>>> You(here_were) are now known as nikuko
+<nikuko> name here were nikuko and this is my channel +o
+>>> You(nikuko) are now known as were_here
+<were_here> then we will leave
+*** Topic (#nikuko): changed by were_here: were here then we will leave
+>>> You(were_here) are now known as Julu
+<Julu> Jennifer?
+<Julu> differance! disappear! goodbye!
+
+*** Julu [xHv8uPzPEB@panix3.panix.com] has joined #allofme
+*** ServerMode/#ALLOFME [+nt] by irc.Prison.NET
+*** [Users(#ALLOFME:1)] 
+[@Julu      ] 
+*** Channel #ALLOFME was created at Sun Jan  2 02:04:14 2011
+*** BitchX: Join to #allofme was synched in 0.239 secs!!
+
+>>> You(Julu) are now known as here_were
+<here_were> now we leave you Nikuko -
+>>> You(here_were) are now known as nikuko
+<nikuko> oh, please, please...
+<nikuko> please don't...
+<nikuko> please don't...
+
+*** Signon time  :    Sun Jan  2 01:44:54 2011
+*** Signoff time :    Sun Jan  2 02:05:52 2011
+*** Total uptime :    0d  0h 20m 58s
+*** SignOff: nikuko (Killed by Cap (Requested by panasync))
+
+
+
+Poetry Class
+
+[@Julu      ] 
+*** Channel #Julu was created at Sun Jan  2 21:55:32 2011
+*** BitchX: Join to #julu was synched in 0.318 secs!!
+*** Topic (#Julu): changed by Julu: In this dark world we're joined of worm
+*** Topic (#Julu): changed by Julu: Nothing brought us down to harm
+*** Topic (#Julu): changed by Julu: Present the swimmer, proffer the swarm
+*** Topic (#Julu): changed by Julu: The poem is taught, for naught its charm
+*** Topic (#Julu): changed by Julu: Time hastens forth, its souls to farm
+*** Topic (#Julu): changed by Julu: Its words to farm, the earth is warm
+<Julu> All my children, discussion is over, you ignored my topics.
+<Julu> Not a word from you, not a single solitary word.
+<Julu> What a horde! What to do!
+>>> You(Julu) are now known as Gone-Chic
+<Gone-Chic> I don't like poetry anyway, boo, these topics are silly!
+<Gone-Chic> Let's go party!
+<Gone-Chic> Let's go!
+*** Signon time  :    Sun Jan  2 21:53:30 2011
+*** Signoff time :    Sun Jan  2 22:04:07 2011
+*** Total uptime :    0d  0h 10m 37s
+*** SignOff: Gone-Chic ([BX] Reserve your copy of BitchX-1.0c19 for the 
+      Apple Newton today!)
+
+
+
+Prairie Dogs
+
+slowly heading towards extinction, a colony here in Aurora, walking 
+distance, was gassed, the prairie, everything is dying, small songs,
+yes, with errors, repetitions, in honor, memory, condolence, these
+beautiful animals
+
+http://espdisk.com/alansondheim/prairie.mp3 plucked violin
+http://espdisk.com/alansondheim/prairiedogs0.mp3 bowed violin
+http://espdisk.com/alansondheim/prairiedogs1.mp3 bowed violin
+
+
+
+Playing Out of Tune (for Yael)
+
+
+I play in tune as much as possible, sliding notes on fretless instruments; 
+if what I play sounds out of tune, then that's an error; if it's out of 
+tune and continues the modal interplay or seems to acquiesce in something 
+just beyond one's reach, that is tuneful and proper. In the meantime, the 
+melodic interplay yaws back and forth, from side to side, as if the issue 
+of in tune playing were absorbed in an alien architecture that one - I you 
+- attempts to negotiate. The problem only arises when error shines when 
+everything sees naive, broken, emptied - but even here, if error tends 
+towards something useful on the horizon it may yet be forgiven.
+
+There is also the unworrying of in tune playing when the instrument 
+becomes a sonic vehicle, expressive, programmatic, without defining
+                       [ Read 16 lines ]          
+intervals or scales. This tends towards new territory; it also tends 
+towards an easy acceptance of whatever is played. I worry among these - 
+how to produce something wayward, untoward, but as if it possessed a kind 
+of background that one might call broken style.
+
+Without this, there's always the fear of incompetence. What I hear 
+internally doesn't always occur externally; my mind makes up for it. This 
+lends an air of foolishness to the music, of course: someone is playing 
+beyond his means.
+
+The rolling of fingers: My fingers roll into consonance; a sixteenth of an 
+inch can make a difference; I hear I'm off; quickly I roll up and down; 
+sooner or later things seem proper; etiquette appears and settles down; 
+I'm off the hook.
+
+There's something charming in a child playing wildly out of tune, but 
+there's something horrifying in an adult following suit. I am to be 
+punished; the music does that itself.
+
+The notes may be so near, so close, but so far as well; the map is incom- 
+plete. But then there's a kind of earnestess - look, he's trying, he may 
+be unsuccessful, but he'll pull through - his earnestness lends an air of 
+authenticity to his work - he's got something to say, and he'll say it, no 
+matter what the consequences.
+
+And you've got to go along with that, listening to what might have been, 
+not what's there as plain as the nose on your face - grant him the grace 
+of his work, that he's giving you a gift, no matter how wounded or tawdry 
+- that the gift is a jewel with many facets, that grace might enrich your 
+life, that he rolls his fingers for you, not for himself. The melody may 
+be incorrect but stunning, the pathos, not in the miserable execution, but 
+in the transcendent meaning, in the immanence of meaning, that overrides 
+everything else, as if to say - this gift, the gift of this melody, is all 
+he has to give, he's giving it his all, he's giving it with his dying 
+breath, it has to be sufficient.
+
+It has to be sufficient because, in spite of everything, it structures his 
+world, and you sense that, the power of this structuring, what it says 
+through what it might have said, music entangled with the grace of inten- 
+tion, the broken phenomenological horizon of truth.
+
+    ____  ___    ____     __ __ ___    ____  __  ______ 
+   / __ )/   |  / __ \   / //_//   |  / __ \/  |/  /   |
+  / __  / /| | / / / /  / ,<  / /| | / /_/ / /|_/ / /| |
+ / /_/ / ___ |/ /_/ /  / /| |/ ___ |/ _, _/ /  / / ___ |
+/_____/_/  |_/_____/  /_/ |_/_/  |_/_/ |_/_/  /_/_/  |_|
+                                                        
+   ____  __  ________   ____  ______   ________  ___   ________
+  / __ \/ / / /_  __/  / __ \/ ____/  /_  __/ / / / | / / ____/
+ / / / / / / / / /    / / / / /_       / / / / / /  |/ / __/   
+/ /_/ / /_/ / / /    / /_/ / __/      / / / /_/ / /|  / /___   
+\____/\____/ /_/     \____/_/        /_/  \____/_/ |_/_____/   
+                                                               
+

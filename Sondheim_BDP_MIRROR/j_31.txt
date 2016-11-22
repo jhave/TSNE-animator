@@ -1,0 +1,67 @@
+
+
+Speculum
+
+
+The breakdown of the law of distribution, which only holds in classical 
+domains, is at least one index of organism; this is the collapse of the 
+Boolean lattice with the law an(buc)=(anb)u(anc) and its dual, au(bnc)=
+(aub)n(auc). With the inequality, it is possible for a gestural resolu- 
+tion of bandwidth, such that a finite bracketing <---[x]----> in relation 
+to a similar bracketing <------[y]---->, i.e. <---[x]----[y]--->, repro- 
+duces a larger, almost complete, bandwidth spread, i.e. beyond that of
+<---[x,y]---->, towards that of <[x   ,     y]>. This is a triggering 
+based on activated threshold decisions, and now one might add intelligent 
+agents, within a well-defined domain. If in addition (x,y) are taken as a 
+semiotic system defined perhaps by complementarity x=y' and y=x' etc., 
+then it is also clear that the breakdown of distributivity is connected 
+with a certain leakage or residue/extension of the sememe itself. Note 
+that in quantum systems, there are superpositions such that, given atomic 
+propositions e1 and e2 (discrete), there exists an e3, also discrete such 
+that e1ue2=e1ue3=e2ue3; thus "We can now understand why the validity of 
+the superposition principle is so characteristic for quantum systems: It 
+implies the non-Boolean character of the proposition system." This quote 
+is from Jauch, Foundations of Quantum Mechanics, an older book already 
+from 1968; he also says
+
+"Let us examine some of the mathematical consequences of the principle of 
+superposition. A first remark: A lattice which satisfied the principle of 
+superposition cannot be Boolean. Indeed, let e1, e2, and e3 be as in 
+[above]. If the lattice were Boolean, we would have, for instance,
+e3n(e1ue2)=(e3ne1)u(e3ne2). But this relation cannot be right, as one 
+sees from the following: Since e1 and e2 are two _different_ minimal 
+propositions, e1ne2=0. Hence the right-hand side is equal to 0u0=0. But 
+the left-hand side is equal to e3 since e1ue2 contains e3. Thus the 
+equation is incompatible with e3 not= 0." 
+
+This is the heart of the matter, which as I have mentioned elsewhere, I 
+have located in the phenomenology of color vision according to Land, 
+Horn, Marr, etc. In the Land experiments, let e1,2,3 be separate fre- 
+quences; then any two discrete intersect at 0, i.e. e1ne2=e2ne3=e3ne1=0. 
+Hence again the right-hand side is equal to 0. Let us look however at 
+e3n(e1ue2); because e3 is a subset of e1ue2=(+-)U, where U = the band- 
+width in its entirety, we are given the contradiction e3nU=e3=0.
+
+In its dual form, distributivity breaks down more radically; consider
+e3u(e1ne2)=(e1ue3)n(e2ue3). The right-hand side is equivalent to UuU=U; 
+the left-hand side is equivalent to e3u0, or e3; we have then e3=U, a 
+contradiction.
+
+These things show up, creating fuzzy situations, whenever an attempt is 
+made to construct a clear differentiation/difference in semiotic situa- 
+tions interacting with the "real." Such situations imply an observer; 
+hence the spill mentioned above.
+
+Cyberspace is totally spill in this sense, totally a situation of super- 
+position. As yet I am unsure of the mapping of distributivity and quan- 
+tum logic onto the structure of email and other postings, but it is clear 
+that what I have called "hysterical embodiment" is based precisely on 
+this spill, the reading-through of well-defined limitation. I would go so 
+far as to say that all human language is double-edged in this fashion: on 
+one hand, it is characterized by redundancy (heavily documented by cyber- 
+neticians of the 60s-70s), which results in expansion - and on the other, 
+it is precisely this expansion which spills speech and textual acts into 
+the gestural unknown. What Benjamin calls the aura always already exists 
+by virtue of organism; quantum logic and mechanics are caught up in the 
+human far beyond the reaches of Bell's theorem.
+

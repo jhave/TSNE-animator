@@ -1,0 +1,98 @@
+
+
+
+
+
+
+Double Rotation and None at All
+
+
+
+
+
+From various sources it became clear to me that the body itself presents 
+
+paradoxes difficult to portray in cyberspace. In particular, there is the 
+
+"plate trick" related to the "spinor spanner" it is here that a quantum- 
+
+mechanical property touches on the macro-world, RL, in an easy demonstra- 
+
+tion. If I hold a plate on my palm, I can rotate the plate 720 degrees, 
+
+during which my arm returns to the original position. From Francis, A 
+
+Topological Picturebook: "Half way, your arm will have one full twist in 
+
+it, which disappears, as you continue twisting your arm in the same way. 
+
+Another version of this phenomenon was popularized by Dirac and explained 
+
+by M.H.A. Newman with the help of braids. Dirac used it to illustrate how 
+
+the Lie group SO(3) of rotations in 3-space is doubly covered by the 
+
+group S^3 of unit length quaternions." And in Silverman, More than One 
+
+Mystery, Explorations in Quantum Interference, "All physicists at some 
+
+time during their study of the quantum theory of angular momentum 
+
+undoubtedly encounter the seemingly peculiar property of spinors that a 
+
+rotation of 4pi, rather than 2pi, radians is required to return them to 
+
+their original state. A rotation of 2pi radians [a full turn (A.S.)], 
+
+which intuitively ought to correspond to no rotation at all, multiplies 
+
+the spinor wave function by -1, or equivalently by the phase factor 
+
+e^(i*pi)." 
+
+
+
+I don't claim to understand all of this, but am disturbed and fascinated 
+
+that the plate trick results in a _continuous rotational motion_ of the 
+
+plate in the same direction, while the arm returns to the resting state 
+
+over and over again. This defies "common sense," which insists that, with 
+
+the plate held securely, it could only rotate a slight amount before the 
+
+arm becomes hopelessly twisted.
+
+
+
+In fact this 720 degrees or 4pi revolution is a fundamental property of 
+
+space related to the quaternions, a system of "imaginary numbers" which 
+
+interlock beautifully. You will find much on this in Kauffman's Knots and 
+
+Physics, as well as his On Knots, which is somewhat simpler; at least I 
+
+can follow most of it.
+
+
+
+Still what's amazing is, to use that word again, the _obdurate_ nature of 
+
+the trick, defying common-sense logic, and revealing a property of funda- 
+
+mental particles. Dirac's spinor spannor is a similar demonstration, 
+
+connecting a spanner tool with three cords to two parallel walls; it is 
+
+possible to create a continuous rotation of the tool without the cords 
+
+becoming increasingly tangled. Silverman's book shows a nice diagram of a 
+
+neutron beam with the required 4pi property, contributing to our sense of 
+
+eeriness of lived space, that all is not quite what it seems to be...
+
+
+

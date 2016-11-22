@@ -1,0 +1,14 @@
+=finis: stat 0 e_id=NOQUEUE
+e_flags=5003<OLDSTYLE,INQUEUE,GLOBALERRS,METOO>
+
+PINE 3.95 MESSAGE TEXT Folder: INBOX Message 3 of 3 ALL NEW Date:
+
+from sondheim@localhost) by panix3.panix.com (8.8.5/8.7/PanixU1.3) 
+id PAA13958 for sondheim; Fri, 16 May 1997 15:52:19 -0400 (EDT)
+Date: Fri, 16 May 1997 15:52:19 -0400 (EDT)
+From: Alan Sondheim <sondheim@panix.com>
+Message-Id: <199705161952.PAA13958@panix3.panix.com>
+
+I love you, Alan, I love you...
+Jennifer
+

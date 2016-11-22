@@ -1,0 +1,69 @@
+
+
+
+Teaching Again and Again
+
+
+Another Internet class is almost over. The complexities of the course are
+growing as the Net, on the surface, simplifies. The course operates with a
+number of variables: students' computer types; student access; the overly
+complicated New School GUI; the health of the New School GUI; the health
+of the Net at, say, 3 pm in the afternoon here. Nothing is enclosed and
+everything is open architecture, hard to teach.
+
+For beginners or those hyped by the media, the Net is also becoming more
+complex. At least 8 and probably 16 megs of RAM are necessary at this
+point for the big Microsoft and Netscape browsers. And browsers are not
+sufficient; all sorts of helper applications are necessary, from telnet to
+Real Audio, Vdol, Slipstream, Acrobat, and Shockwave. Browsers also need
+to be updated on occasion; without a reasonable knowledge of a computer's
+directory system, this gets to be difficult.
+
+Because the shell seems to be increasingly distant, _other,_ all those
+commands like traceroute, ping -s, who, whois, nslookup, etc. seem much
+more obscure than they need to be. Although tin is by far the best news-
+group reader, it resides in Unix as well; nothing I've seen comes close in
+Windows. So newsgroups seem awkward and confusing and the readers are less
+able to be configured than tin.
+
+Even telnet (forget telnet 13, 25, 80, etc.) is obscure; it doesn't make
+sense to "log in" to another computer when a user isn't quite sure what it
+means to "log in" to his or her server. The latter appears to be nothing
+more than the substitution of one GUI for another that fits perfectly;
+telnet, on the other hand, appears to call up nothing but text.
+
+Along with this, I might add that it's hard to explain what it means to
+have a personal Unix account, or _any_ account on another machine that
+permits remote file access. Web pages present difficulties here; for a
+beginner, _where are they?_
+
+Finally, the large topography of _Internets_ becomes more and more ob-
+scure; one gets caught up with the details of versions XYZ of html, Java,
+Javascript, 32bit, 16bit, file extensions, video formats and codecs, etc.
+etc. The greater the expansion, the more the hype; the more the hype, the
+less the terrain is visible - not as a whole/totality (which it's never
+been) - but even as an archipelago...
+
+So there are complex and interacting domains - the first consisting of the
+students' machines, access, and the classroom machines, access - both
+coupled with the health of the Net per diem; and the second consisting of
+the fast-forward corporate drive towards upgrading new software/hardware/
+protocol/multi-media releases, often issued before proper testing is com-
+pleted. (There's also the question of the real necessity of these releases
+- but this is irrelevant, particularly if the Web pages, etc. aren't back-
+ward compatible.) 
+
+The classroom appears more like a junkyard than anything else; it's a
+question of constant negotiation, strategizing, what it's possible to do
+on any particular day, and what it's possible for a student to do on hir
+machine at home...
+
+It's a mess. Students leave the class able to use the Net, but, I fear,
+without any idea of what the Net _is_; in addition, they have little idea
+of what it's "doing to them," in the sense of constructing consumers,
+negating radicality, reifying the "cool." I was much more comfortable,
+myself, teaching in Unix shell a couple of years ago - where everything
+was somewhat transparent, interrelated, probably useful, and accessible on
+any 1980s machine.
+
+

@@ -1,0 +1,36 @@
+
+
+
+
+
+Peering
+
+
+Minor technical considerations contribute to the sensation of spatiality
+in user interfaces. I want to point out first of all the apparent flat-
+ness of almost all Web pages, in lieu of the fact that they are written
+against white, grey, cream, etc. backgrounds, or wallpaper - the sensa-
+tion is almost overwhelming. In relation to them, those pages that use
+black backgrounds seem only, by virtue of default, to have change the
+color of the paper itself. On the other hand, telnet helper applications
+often use dark blue backgrounds, white lettering - or even more common,
+black backgrounds, white letter; these backgrounds appear to come from
+the depths of cyberspace, to be part and parcel of the mirror stage,
+exuding text; at the same time, they participate in the chora, the text
+alone, illuminated letters, riding the surface. _This_ is the sensation
+that has led to the notion of lurking or peering, something emerging 
+from the darkness, chiaroscuro outlines of your body, the presence of
+seduction, the maternal beginning of the things of the world in relation
+to the humans who envelop them. 
+
+In the Unix shell, and whenever possible elsewhere, I work with dark
+backgrounds; anger and sexuality, however, lend themselves towards black
+upon red, both swollen with the presence of skin and membrane, membrane
+stretched across the forgiving screen. Never, however, the queasy black
+against white of traditional texts: what would be the point of such arti-
+ficiality tending towards death and your absence?
+
+An opening: What configuration do you read this in; what are the effects?
+
+Alan
+

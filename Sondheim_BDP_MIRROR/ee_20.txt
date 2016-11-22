@@ -1,0 +1,55 @@
+
+
+
+Property and Questions Simple on the Surface -
+
+
+Property as verb, not as noun: 
+
+"Property is the individual's recognized right to dispose over a partic-
+ular object. Like other rights, the right called property involves more
+than a relation between a person and a thing. It involves a relation be-
+tween the proprietor and other individuals who, through the former's
+prerogative, are excluded from disposing over the object in question.
+
+"The relation also involves the representatives of government, who, on the
+one hand, share the restrictions placed on the private non-proprietors
+and, on the other, are concerned with maintaining the existing property
+relations. Thus in addition to being a legal and social institution, pro-
+perty is a political phenomenon.
+
+"Strong property develops in a societal order which is so balanced that
+the holders of property can dispose over 'their' objects with a maximum of
+freedom. Weak property develops in a societal order that is not so balan-
+ced."  [...]
+
+"The concepts of mobile and immobile property present obvious difficul-
+ties, but they have great advantages for our inquiry." 
+
+Quoted from Karl Wittfogel's Oriental Despotism, A Comparative Study of
+Total Power, these passages lend themselves to a series of questions:
+
+What constitutes disposal of property in cyberspace? What, in fact, con-
+stitutes property _here?_ Is all such property, intellectual property?
+Is all property in cyberspace mobile? Modular?
+
+Is all property in cyberspace _an act,_ resulting in a _file_ subject to
+further acts, by either the proprietor, or those permitted by the pro-
+prietor? (This would constitute the _setting of permissions of a file,_
+such as chmod - necessary even for Web pages.) 
+
+_Is a file an act?_
+
+(Note: Is a file in fact a _negotiation_ with access and interface? The
+ontology of information remains inordinately problematic, as the diamat
+Soviet philosophers discovered, having to resort to a reflection theory
+that conjured up various idealities. Further, if files is assigned, and
+the chmod/chown commands imply that, are files always _intellectual?_
+Finally, it should be noted that even, say, MOO identity, is retained in a
+player's log somewhere; the right-to-a-name, its properness and propriety,
+could be considered property as well.)
+
+Finally: Is there anything in cyberspace _that is not property_ in one or
+another form - in fact, _that is not intellectual property,_ or an _act?_
+
+

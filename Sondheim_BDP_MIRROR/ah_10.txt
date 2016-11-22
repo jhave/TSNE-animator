@@ -1,0 +1,48 @@
+
+@recycle #3915
+#-1 does not exist. (#3915) is slated for recycling in 5 minutes.
+@recycle #9370
+Darkness before the dawn. (#9370) is slated for recycling in 5 minutes.
+@recycle #10896
+Tuneless in Gaza (#10896) is slated for recycling in 5 minutes.
+@recycle #1847
+DINGIR SAL LU (#1847) is slated for recycling in 5 minutes.
+@recycle #2476
+@rename Alan (#2476) is slated for recycling in 5 minutes.
+You say, "Ah well, time for death."
+Alan laughs!
+@recycle #14773
+I'll bet that you don't *really* want to commit suicide, do you?  If so,
+ then get a wizard to kill you or program it yourself; there will be no
+ state-sanctioned self-destruction on *this* MOO...
+cry
+Alan is crying!
+weep
+You want me to WHAT?  (type `help' for help)
+WEEP
+I don't get it.  (type `help' for help)
+kill
+Alan is in a very violent mood!
+kill Alan
+Alan is plotting to kill Alan.
+@dig Death-Machine
+Death-Machine (#11930) created.
+@describe #11930 as @recycle Alan
+Description set.
+@go #11930
+Death-Machine
+@recycle Alan
+You digitize yourself for reconstruction elsewhere.
+@sethome
+Death-Machine is your new home.
+@rename me to Clara
+Name of #14773 changed to "Clara", with aliases {"Clara"}.
+#-1 does not exist. (#3915) recycled.
+Darkness before the dawn. (#9370) recycled.
+Tuneless in Gaza (#10896) recycled.
+DINGIR SAL LU (#1847) recycled.
+@rename Alan (#2476) recycled.
+@rename Death-Machine to Vulva
+Name of #11930 changed to "Vulva", with aliases {"Vulva"}.
+[Clara is in Vulva, described as "@recycle Alan."]
+@quit

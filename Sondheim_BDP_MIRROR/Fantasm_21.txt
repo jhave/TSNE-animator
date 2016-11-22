@@ -1,0 +1,62 @@
+
+
+
+Good For Nothing
+
+
+I can't do anything; I feel I'm a failure as a teacher, certainly, of Net
+stuff. I teach at several places, and have to rely on piped-in servers,
+either over fiber-optic or phonelines. They often goes down at least par-
+tially, sometimes more than that. Some of the students end up hating me,
+as if I'm responsible. 
+
+The Net's a new kind of teaching. If I'm teaching other subjects, say
+video, everything occurs in the classroom; if a student's camera has
+trouble, she can bring it to me. The dialog is _there,_ present. But if
+it's the Net, I find myself caught between students' troubles with their 
+home computers or servers - which I have no access to - and the crackling 
+of the campus server, which to date has had telnet, email, newsgroup, 
+Netscape, gopher, and overall network connect difficulties. It's as if 
+I'm teaching in the midst of a living organism, nodes or polyps in inti- 
+mate and private association with the students at home, and the great 
+heaving body gasping for breath in the classroom. I find myself trying 
+various circumventions; if one server doesn't work, try connect with tel- 
+net; if local Usenet is down, find a site where it isn't. Meanwhile the 
+students get frustrated; learning isn't packaged, and no matter how much 
+I explain the difficulty - that I don't know the ins and outs of all 
+their local servers - that I'm not responsible for the health of the Net 
+- it doesn't matter at all. What they know is that _their_ computer in 
+the classroom is misbehaving and the teacher doesn't know what to do about 
+it. 
+
+I did better when I was teaching solely on Unix - why? Because if I want 
+to demonstrate telnet, I just do telnet <address>; I don't have to enter 
+into complex applications with pull-down menus. In the Windows telnet I 
+use in class, to change the port number, I have to enter the setup menu, 
+transport menu, edit new transport menu, change the number, back out, all 
+after clicking telnet and waiting for the menus to come up. To use a port 
+number at the prompt, just do telnet <address> <port #> and it's clear - 
+easy to understand this. It's a line of text.
+
+I always manage to teach in realms that are shadowed, half-established,
+that get me in difficulties. I taught courses in feminism before they were
+popular in arts schools, courses in postmodernism years and years ago, a
+course in the year 3000 back in 1971, and so forth. I turned my English
+composition class at Brown into an experimental writing group that pub-
+lished a magazine; my students at RISD put out a magazine as well. (There
+have been others.) I've taught "sound sculpture" twice even though I've
+done little sculpture, and even did some experimental sessions on chor- 
+eography. I used Kristeva to analyze the Decalog in an intro humanities 
+class at an art school which got me into trouble, and Franz Fanon at UCLA 
+in a course on art and politics, which also got me into trouble. My stu- 
+dents have often gone on to professional careers and quite a few are well 
+known but meanwhile, in terms of this basic teaching, which is all I'm 
+going to get hired for at my age, it's the straitjacket of Net access, 
+with some philosophy and other issues thrown in when I get a chance. The 
+video classes are more rewarding at this time, dealing with the mediated 
+sight of things and their definitions, and all that that implies.
+
+I'll operate in the shadows for the rest of my life. I'll make less and
+less money. I'll be screaming I'm ahead of them all. You'll find me on the
+streets soon enough, never fear... 
+

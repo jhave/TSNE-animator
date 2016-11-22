@@ -1,0 +1,43 @@
+
+
+
+Writing texts in states
+
+
+[What theory occurs in relation to what theorizer, what body, what
+state? Too often, health is assumed, what would pass for perfect
+European health. Too often, neutrality as well; even now, after so
+much feminist theory, the body is assumed as textual background or
+a form of texting itself. What about theory-during-masturbation? 
+Theory-after? Theory in the realm of dreams, sick-writing-theory?
+In _Disorders of the Real,_ I tackled this problem, that of fever
+for example, and the (apparent, from the standpoint of normative
+health) disturbances, hallucinations, dissolutions it produced in
+the text. Forget my words below; these are remaining-issues, uncom-
+fortable, dis-eased. No longer can I think beyond sputterings, flow
+of weakness, lassitude. No wonder the texts dissolve.]
+
+Pico zz, touch zz, I touch the file to begin the file.
+Do you write when you are aroused? After masturbation.
+Theory appears after masturbation, desexualized, abstracted, precise.
+Theory before masturbation, filled with desire, innuendo, body.
+Writing with a migraine, looking elsewhere than the screen:
+The text becomes an act of memory, recall, recounting.
+Later, one may recuperate the text; now, it is painful to observe.
+Writing with hunger, thirst: intention dominates, teleology.
+Exhausted writing: despair as the foundation of ethics, ontology.
+Idealism is the result of satiation; materialism, of scarcity economics.
+Conventionalism is the product of renewing subscriptions, consumption;
+formalism, defense and offense of aristocracy.
+The conditions of a dull, humid day: the aphorism.
+Sick now, theory in the form of confession.
+Having traveled, theory in the form of displacement, multiculturalism.
+Having arrived, theory as fortification against violence, seepage.
+Pico you, touch you, I touch you to begin you.
+Touch you, I touch you to make you.
+_I touch the file to begin the file._
+
+
+[In Unix/Linux, 'touch x' creates file x; 'pico x' opens the pico editor
+with file x - if x did not exist, pico touches it.]
+

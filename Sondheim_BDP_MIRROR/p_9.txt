@@ -1,0 +1,41 @@
+
+
+
+Red Dawn and Never Decline:
+
+
+[Traceroute from panix3.panix.com to listserv.aol.com and a pool floods, 
+"memory fault" appears on ping, eternal absorption and recuperation, no 
+blackhole but rerunnnnnnnn...]
+
+ 1  xenyn-eid-E0-1.nyc.access.net (198.7.0.126)  2 ms  3 ms  3 ms
+ 2  sl-dc-12-S3/2-T1.sprintlink.net (144.228.122.5)  13 ms  12 ms  13 ms
+ 3  sl-dc-8-F0/0.sprintlink.net (144.228.20.8)  14 ms  17 ms  10 ms
+ 4  sl-mae-e-H2/0-T3.sprintlink.net (144.228.10.42)  44 ms *  12 ms
+ 5  * mae-east.ans.net (192.41.177.140)  12 ms  10 ms
+ 6  * 140.222.150.2 (140.222.150.2)  19 ms  11 ms
+ 7  * * inet3-gw.red.aol.com (152.163.14.3)  26 ms
+ 8  inet3-gw.red.aol.com (152.163.14.3)  34 ms *  26 ms
+ 9  * * *
+10  * * inet3-gw.red.aol.com (152.163.14.3)  27 ms
+11  * * *
+12  * inet3-gw.red.aol.com (152.163.14.3)  29 ms *
+13  * inet3-gw.red.aol.com (152.163.14.3)  30 ms *
+14  inet3-gw.red.aol.com (152.163.14.3)  27 ms *  29 ms
+15  * inet3-gw.red.aol.com (152.163.14.3)  26 ms *
+16  inet3-gw.red.aol.com (152.163.14.3)  34 ms * *
+17  inet3-gw.red.aol.com (152.163.14.3)  29 ms *  22 ms
+18  * inet3-gw.red.aol.com (152.163.14.3)  36 ms *
+19  inet3-gw.red.aol.com (152.163.14.3)  28 ms * *
+20  * inet3-gw.red.aol.com (152.163.14.3)  28 ms *
+21  inet3-gw.red.aol.com (152.163.14.3)  23 ms *  26 ms
+22  * * inet3-gw.red.aol.com (152.163.14.3)  34 ms
+23  * * inet3-gw.red.aol.com (152.163.14.3)  27 ms
+24  * * inet3-gw.red.aol.com (152.163.14.3)  25 ms
+25  * * inet3-gw.red.aol.com (152.163.14.3)  28 ms
+26  * inet3-gw.red.aol.com (152.163.14.3)  27 ms *
+27  * inet3-gw.red.aol.com (152.163.14.3)  25 ms *
+28  inet3-gw.red.aol.com (152.163.14.3)  19 ms *  28 ms
+29  * * *
+30  * * *
+

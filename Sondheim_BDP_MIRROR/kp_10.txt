@@ -1,0 +1,15 @@
+==
+
+Welcome to GOL1. This machine's prime directive is MAIL.
+All else is secondary to this purpose.
+
+Shell Access may be temporarily suspended at any time,
+without notice. Other ancilliary services similarly.
+
+Unauthorised use is, naturally, unauthorised.
+You have mail.
+Thu Oct 22 09:46:28 JST 1998
+ksh: /home/s/sondheim/.profile[57]: ./.memo: Permission denied
+Alarm set for Thu Oct 22 10:45. (pid 28406)
+ksh: /home/s/sondheim/.profile[59]: ./.auto: Permission denied
+

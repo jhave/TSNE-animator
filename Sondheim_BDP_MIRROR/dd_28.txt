@@ -1,0 +1,15 @@
+
+
+
+Net Weight Poem
+
+motd -v
+Attack stopped Wed Sep 11 03:01:14 1996 :y/n/q? [n] n
+Attacker goes berserk Wed Sep 11 01:38:55 1996 :y/n/q? [n] n
+Mail servers under attack again Tue Sep 10 23:31:35 1996 :y/n/q? [n] n
+Attack over, for the moment Mon Sep  9 17:28:44 1996 :y/n/q? [n] n
+Panix attacked, even worse Mon Sep  9 11:53:54 1996 :y/n/q? [n] n
+Mail attack defeated, for now Sun Sep  8 07:11:49 1996 :y/n/q? [n] n
+Panix Office Closed for Labor Day Fri Aug 30 11:13:57 1996 :y/n/q? [n] q n
+
+

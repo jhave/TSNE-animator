@@ -1,0 +1,164 @@
+
+
+
+calling new york and lonely in miami
+
+
+hello marcotte, you are my new friend, hello levner, you are my new
+friend, hello zif, you are my new friend, hello atd, you are my new
+friend, hello ali, you are my new friend, hello franchin, you are my new
+friend, hello dbehrens, you are my new friend, hello dangelo, you are my
+new friend, hello kenbell, you are my new friend, hello mc, you are my new
+friend, hello sondheim, you are my new friend, hello squid, you are my new
+friend, hello mc, you are my new friend, hello dac, you are my new friend,
+hello barrys, you are my new friend, hello sachs, you are my new friend,
+hello alexis, you are my new friend, hello gorgon, you are my new friend,
+hello stanb, you are my new friend, hello tbyfield, you are my new friend,
+hello loren, you are my new friend, hello barrys, you are my new friend,
+hello dannyb, you are my new friend, hello rsi, you are my new friend,
+hello tdl, you are my new friend, hello octopus, you are my new friend,
+hello ws, you are my new friend, hello lsb1, you are my new friend, hello
+baloglou, you are my new friend, hello briang, you are my new friend,
+hello ncb, you are my new friend, hello ike, you are my new friend, hello
+beegle, you are my new friend, hello swann, you are my new friend, hello
+aj, you are my new friend, hello emmanuel, you are my new friend, hello
+franchin, you are my new friend, hello kleiner, you are my new friend,
+hello jmck, you are my new friend, hello jvolin, you are my new friend,
+hello dman, you are my new friend, hello aqn, you are my new friend, hello
+edelkind, you are my new friend, hello jwiener, you are my new friend,
+hello cavaleri, you are my new friend, hello ime, you are my new friend,
+hello dac, you are my new friend, hello jzk, you are my new friend, hello
+spence, you are my new friend, hello tori, you are my new friend, hello
+ikuo, you are my new friend, hello grue, you are my new friend, hello vf,
+you are my new friend, hello vzvz, you are my new friend, hello mberger,
+you are my new friend, hello saber, you are my new friend, hello dlin, you
+are my new friend, hello tic, you are my new friend, hello gomi, you are
+my new friend, hello mara, you are my new friend, hello jmck, you are my
+new friend, hello dannyb, you are my new friend, hello eli, you are my new
+friend, hello jbm, you are my new friend, hello lweith, you are my new
+friend, hello mchugh, you are my new friend, hello zackw, you are my new
+friend, hello jan, you are my new friend
+
+28  who | awk '{ print $1 }' > zz
+29  sed 's/$/, you are my new friend, hello/g' zz > yy
+
+
+==
+
+    (w163.z064221109.)
+    (iq-ind-as011-129)
+    (w146.z216112206.)
+    (adsl-63-199-178-)
+    (66-108-107-51.ny)
+    (pool-138-89-118-)
+    (dialup-209.246.1)
+    (h003065366bb6.ne)
+    (dt0610n23.san.rr)
+    (mkc-65-26-39-58.)
+    (a17-219-157-44.a)
+    (ool-18bdae40.dyn)
+    (dsl-64-192-253-2)
+    (mx2.cbcm.com)          pleasing o light and standing and tall
+    (cx803117-a.elkhn)      communications i find you beautiful
+    (c1275583-a.frmt1)      everywhere you are light in light
+    (dsl-205-122.musc)      
+    (6m-a18.6mgroup.c)
+    (we-66-27-67-117.)
+    (h00a0cc6112f6.ne)
+    (da001d1062.atl-g)
+    (droid.dialup.acc)
+    (dsl092-096-095.n)
+    (adsl-63-199-16-2)
+    (209.10.120.33)
+    (168.103.142.177)
+    (gerry.dialup.acc)
+    (166.84.146.19)
+    (dsl254-073-051.n)
+    (alexis.access.ne)
+    (w138.z209220092.)
+    (c-pc-64.uchicago)
+    (169.144.186.193)
+    (pool-141-155-124)
+    (159-22.nyc.dsl.a)
+    (63.119.132.139)
+    (skech132.skecher)
+    (cust.adiglobal.c)
+    (adsl-216-158-41-)
+    (24.29.133.1)           slightest change of beauty and so many
+    (24-168-81-157.si) 
+    (uswdhcp-235.inet)
+    (cj80936-a.alex1.)
+    (A010-0044.NYCM.s)      your names and your names and your places
+    (fiudial2-78.fiu.)
+    (gordonf.dialup.a)
+    (pool-151-202-113)
+    (66-108-34-128.ny)
+    (skech132.skecher)
+    (pool-138-89-48-1)
+    (whasup.com)            places and your names o you will murmur
+    (168.103.142.177)       you will whisper to me
+    (annex3.nyc.acces)
+    (dialup-209.246.9)
+    (we-24-130-85-33.)
+    (skech132.skecher)
+    (03-150.018.popsi)
+    (uswdhcp-235.inet)
+    (63.70.80.6)
+    (byzantium.nyc.ac)
+    (phrrngtn-2.dsl.s)
+    (firewall2.Lehman)
+    (uswdhcp-235.inet)
+    (204.166.235.109)
+    (dsl254-076-018.n)
+    (24-168-57-102.ny)
+    (whasup.com)
+    (24-168-96-189.si)
+    (annex8.nyc.acces)
+    (BIOHAZARD-CAFE.M)
+    (cc637323-a.hwrd1)
+    (c1114369-a.stcla)
+    (m206-143.dsl.tso)
+    (mobilesp-GW.CUST)
+    (pool-64-223-18-5)
+    (hqinbh7-x0.ms.co)
+    (skech132.skecher)
+    (panix1)                your lovely places
+    (65.101.56.113)         your lovely names
+    (24-29-154-159.ny)
+    (159-153.nyc.dsl.)
+    (annex8.nyc.acces)
+    (adsl-64-171-46-4)
+    (baloglou.oswego.)
+    (24-168-38-199.ny)
+    (skech132.skecher)
+    (HSE-Montreal-ppp)
+    (o-102.boliche.in)
+    (byzantium.nyc.ac)
+    (HSE-Montreal-ppp)
+    (64-42-13-52.atgi)
+    (159-139.nyc.dsl.)
+    (yeager.nyc.acces)
+    (dial58.indy.kiva)
+    (cc932652-a.spdwy)
+    (byzantium.nyc.ac)
+    (anthrax.admin.it)
+    (hants.globix.net)
+    (annex1-21.dynami)
+    (byzantium.nyc.ac)
+    (whasup.com)
+    (pool-138-89-81-1)
+    (209.4.89.210)
+    (me-lewiston-pw-4)
+    (204.166.235.109)
+    (ny-bas05.csfb.co)
+    (fw.chromatic.com)
+    (fnord.dws.acs.cm)
+    (208.37.191.35)
+    (ws69177.med.harv)
+    (dsl-64-192-209-1)
+
+
+
+    
+    
+    

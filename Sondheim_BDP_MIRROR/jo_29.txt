@@ -1,0 +1,35 @@
++   
+Internet Gopher Information Client 2.0 pl8International Organizations
+
+Press ? for Help, q to Quit, u to go up a menu    Page: 2/3    
+ -->    
+ -->    
+ -->    
+ -->    
+ -->Receiving Directory...  Connecting...Retrieving Directory...  Internet
+Gopher Information Client 2.0 pl8International Monetary Fund
+
+ --> 1.  Gopher retired, Please visit our web site at http://www.imf.org/
+.Press ? for Help, q to Quit, u to go up a menu Page: 1/1Receiving
+Information...  Receiving file...Gopher retired, Please visit our web site
+at http://www.imf.org/ (0k) 
+
+ Thank you.
+
+  ***********************************************************100%
+InternetGopher Information Client 2.0 pl8International Monetary Fund
+
+> 1.  Gopher retired, Please visit our web site at http://www.imf.org/
+.Press ? for Help, q to Quit, u to go up a menu Page: 1/1Receiving
+Information...Gopher retired, Please visit our web site at
+http://www.imf.org/ (0k) 
+
+ Thank you
+
+Internet Gopher Information Client 2.0 pl8International Monetary Fund
+
+ --> 1.  Gopher retired, Please visit our web site at http://www.imf.org/
+.Press ? for Help, q to Quit, u to go up a menu Page: 1/1Really quit (y/n)
+? yYes{k:27}
+
+

@@ -1,0 +1,54 @@
+
+
+  
+
+  julu
+
+
+  41 drums.o3 initrunlvl nntpserver rpc hrmmm
+  42  drums.sb        inittab         npasswd.conf    rpmrc
+  57 {b:41} drums.o3 initrunlvl nntpserver rpc hrmmm
+  58 julu: drums.o3: command not found hrmmm hrmmm hrmmm
+  59 {b:42} drums.sb inittab npasswd.conf rpmrc
+  60 julu: drums.sb: command not found hrmmm hrmmm hrmmm
+  79 {b:41} drums.o3 initrunlvl nntpserver rpc hrmmm
+  80 julu: drums.o3: command not found hrmmm hrmmm hrmmm
+  81 {b:42} drums.sb inittab npasswd.conf rpmrc
+  82 julu-mud: drums.sb: command not found hrmmm hrmmm hrmmm
+  101 {b:41} drums.o3 initrunlvl nntpserver rpc hrmmm
+  102 julu-mud: drums.o3: command not found hrmmm hrmmm hrmmm
+  103 {b:42} drums.sb inittab npasswd.conf rpmrc
+  104 julu-mud: drums.sb: command not found hrmmm hrmmm hrmmm
+  {b:139} pwd
+  /etc/skeleton
+  {b:140} cd /
+  {b:142} descent to the root
+  julu-mud-feather: descent: command not found
+  {b:143} cd root
+  {b:144} cd *h/awk
+  {b:145} ascent up the root
+  julu-mud-feather: ascent: command not found 
+  {b:146} hrmmm hrmmm hrmmm 
+  julu-mud-feather: hrmmm: command not found
+  5hhhrm hhhrm hhhrm hhhrm' 5hhhrm hrmmm hhhrm, 5hrmmm hrmmm,
+  5hrmmm hrmmm, 5hrmmm hrmmm, 5hhhrm hhhrm hhhrm hhhrm,
+  5hhhrm hrmmm hhhrm, 5hrmmm hrmmm, 5hrmmm hrmmm, 5hrmmm hrmmm
+  {b:147} whoami
+  *julu*
+  {b:148} whois julu
+  julu of the grep-feather-chant
+  julu of the mud-feather-chant
+  75 {b:39} dip-script.dip httpd motdresolv.conf v$
+  76 julu-mud-feather: dip-script.dip: command found
+  77 {b:40} dip-scriptold inetd.conf mtab rmt
+  78 julu-mud-feather: dip-scriptold: *tree*
+  {b:149} julu-mud-feather-crystal hrmmm hrmmm
+  {b:149} julu-mud-feather-crystal hrmmm hrmmm
+  {b:149} julu-mud-feather-crystal hrmmm hrmmm
+  {b:149} julu-mud-feather-crystal hrmmm hrmmm
+  {b:149} julu-mud-feather-crystal hrmmm hrmmm
+                 * system looped *
+  SYSTEM HALTED  
+
+
+

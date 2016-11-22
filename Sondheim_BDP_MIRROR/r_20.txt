@@ -1,0 +1,48 @@
+
+
+
+Finished
+
+
+The forty or so qbasic programs I have written constitute a zone of com-
+fort, all that needs remain, occlusions to leaking comprehension. They
+fall into various categories - those of the almost-symmetric series, for
+example, exemplifying the properties of the integers which diffuse vision
+and the mind in favor of remarkable identities; in fact these series are
+the closest to straightforward identity, just beyond a line of pure repe-
+tition. A second set of programs develops maps of chaos; the islands of
+stabilization are clearly mapped. What is elegant here is the conciseness
+of the programs. Two other sets create quite different cinematic displays; 
+the first, related to the second, constructs orbits within parabolic or
+sinusoidal structures. The orbits, which may be of any length, are pre-
+sented one after the other in rapid succession, the result being a flut-
+tering around certain stabilized positions - chaos clearly in evidence
+otherwise. The final set here uses recursive nesting to construct orbital
+clouds around points in a planar lattice; instabilities send the orbits
+flying to other attractors. The result may be anything from a single
+orbital bundle to nestled orbits forming complex irregular patterns. Then
+there are the primitive programs designed to illustrate one-dimensional
+life-forms, and the programs which utilize nestled orbits to create vary-
+ing patterns on the screen. All of these together exhaust certain pattern-
+ings of symmetries and equivalences (deeply related of course through 
+automorphisms; see Weyl); they pour into me, constitute the integral cal- 
+culus of thought I employ elsewhere. (I would add to these the programs 
+written, years ago, exploring catastrophies, folds, and the like; the 
+result of one of them forms the pattern on the cover of my Disorders of 
+the Real.) 
+
+I think through my clumsiness here (if my programs have any intrinsic
+beauty, it's accidental; my mathematical knowledge is basic), that I have
+tightened my hold on the symbolic in odd ways - designing threshold logic
+units, for example which allow me to conceive of thresholding itself as a
+higher-order construct than, say, that of demarcation. I wouldn't go so
+far as to claim ur-forms, but only that certain classes of pattern may be
+succinctly realized and explored. Finally, what is odd about all of this
+is that the programs are relatively simple, indicating the quick demon-
+stration of properties near the surface of the continuum, properties which
+still (like the Mandelbrot or Julia sets) produced unexpected results. 
+
+Thus stated, there is nothing else to do but grasp the forms, introject 
+them, proceed with analysis until the grave ices over, in summer or in 
+winter, wherever time continues to exist.
+

@@ -1,0 +1,41 @@
+
+
+Ritual
+
+
+Over a hundred times I've had to follow the paths below, adding new files
+to the Internet Text as they _accumulate,_ transform into theoretical sub-
+stance. Last night, file ff was added to the rest, and the net index was
+updated. The files are easily retrievable; the whole morass is around
+four megabytes of solid bristly ascii. 
+
+I travel from panix.com to the site at jefferson.village.virginia.edu, and
+then: 
+
+341	cd ftp.archives/cybermind-digest.archive/internet
+342	ftp panix3.panix.com	[getting file]
+343	wc ff				
+344	ls -l ee		[checking permissions]
+345	chmod 664 ff		
+346	ls -l ff		[changing, checking permissions]
+347	cd
+348	cd public_html
+349	pico internet_txt.html	[adding access on home-page for filename]
+350	ftp panix3.panix.com	[preparing home-page for download]
+351	exit
+352	cd ftp.archives/cybermind-digest.archive/internet
+353	ls -l netindex.txt
+354	rm netindex.txt		[removing old index for Internet Text]
+355	ftp panix3.panix.com	[adding new index]
+356	chmod 664 netindex.txt
+357	ls -l netindex.txt	[checking permissions]
+
+I exit, enter internet_txt.html from panix.com, make sure everything is
+running properly. I have had to change the netindex.txt first, by down-
+loading ff, and toggling between it and online. The index has grown to
+390 entries, something for everybody. It's spidery, out of control; it 
+has bones in it. The sequence above, server-side, is the bi-weekly stir-
+ring of the soup.
+
+URL: http://jefferson.village.virginia.edu/~spoons/internet_txt.html 
+

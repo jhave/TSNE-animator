@@ -1,0 +1,32 @@
+
+
+
+[I make a building on Media Moo.]
+
+
+
+Description set.
+look
+Tiffany
+... dense entanglement of liquid, blood, piss, shit, cum, spit, sweat,
+ vomit, i course through you, i you, swallow you thru me, Tiffany
+ course through alan, we breathe floods, our eyes stayin by you, you
+ lay me out on Menstrual Table
+Obvious exits: out to Living Quarters - 2nd Floor
+look Table
+I see no "Table" here.
+look Menstrual Table
+a dark space of annotations, unreadable, the dinner readied by the
+ male, trapped, a web-inversion, violation, fabric: He sees: a lance
+ impaled on an endless plain of skin
+@create $thing called lance
+You now have lance with object number #9757 and parent generic thing
+ (#5).
+@describe lance as  holed skin, rimmed with Tiffanyalan
+Description set.
+@create $thing called skin
+You now have skin with object number #4924 and parent generic thing
+ (#5).
+@describe skin as lance holed with Tiffanyalan
+Description set.
+

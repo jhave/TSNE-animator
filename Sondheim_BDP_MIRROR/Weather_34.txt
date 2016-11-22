@@ -1,0 +1,42 @@
+
+ 
+
+Invention
+
+
+One of the amazing things about middle-late nineteenth century technology
+is its complexity and reliance on mechanism. Cams were the order of the
+day, and gear theory was highly developed. Any manual task could easily
+be duplicated. Machines were often enormous; hat-making and other tradi-
+tional occupations were highly automated. Power stemmed from steam, water,
+etc. - later electric motors were employed - and there was often a main
+driveshaft in the factory, running any number of semi-independent units.
+
+Against this backdrop, Edison's and Bell's work seems an enormous reduc- 
+tion. The early telephone, phonograph, lightbulb, and cinema (and all of 
+these have debatable origins) were remarkable in their simplicity; the
+bulb, for example, consists of a somewhat evacuated glass sphere and a
+filament that passes electric current. The earlier phonographs were hand-
+cranked, a small handle turning a turntable holding the record platter or
+cylinder, and the needle/diaphragm (possibly)/horn did the rest.
+
+These inventions had very few, if any, moving parts. Even conceptually,
+they're relatively easy to understand. Unlike television, there's little
+in terms of system philosophy necessary (television's history actually
+begins in the late 19th-century, earlier than film's; even then, it was
+complex - needing further technological development).
+
+Perhaps there is a different mode of thinking at work. Mechanism remains
+within its own framework, its own ontology - sound, for example, while
+technically a part of this, conceptually isn't. Mechanism is an intensi-
+fication - a form of programming, similar to that of the computer. Just 
+as a computer program can do _anything_ on screen that's well-defined,
+nineteenth-century mechanism could do _anything_ in the real world that
+involved physical manipulation. Just as programming without interfacing
+beyond the screen is confined to visual presentation, so mechanism locks
+itself in a different but equally rigid framework.
+
+The inventions mentioned were all interstitial. They operated between do-
+mains, not within them. As interfaces, they're similar to membranes, fil-
+ters, and it's this that gave them their enormous social power...
+

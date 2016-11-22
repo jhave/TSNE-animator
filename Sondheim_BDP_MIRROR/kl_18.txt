@@ -1,0 +1,23 @@
+
+
+
+Loneliest Time of the Night
+
+
+wtmp begins Tue Jul 14 04:43:41 1998
+
+{k:28}w
+ 12:45am  up  2:51,  1 user,  load average: 0.06, 0.02, 0.00
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU  WHAT
+root     tty1                       9:56pm  0.00s  0.41s  0.05s  w
+{k:29}who
+root     tty1     Jul 18 21:56
+{k:30}whoami
+root
+{k:31}who mom loves
+166.84.250.149!root     tty1     Jul 18 21:56
+{k:32}
+
+wtmp begins Sun Jul 19 00:47:23 1998
+
+

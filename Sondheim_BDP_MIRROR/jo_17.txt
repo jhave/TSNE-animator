@@ -1,0 +1,44 @@
+
+
+
+Teaching in Temporality
+
+
+Each Net class, instance, of the Internet Access Culture and Community
+course has been arranged differently, as the result of the physical space
+intersecting with the virtual.
+
+The first class we sat in rows, without hardware. The second, we sat in a
+circle, went upstairs to watch someone, me, demonstrate a Unix shell
+account on a student's computer in a full and busy lab; all but six of my
+students left.
+
+In the third, we had the luxury of a computer apparently but not really
+connected to the school LAN; the result was again a Unix shell, this time
+projected, the students returned to the row, this time sloppy row, con-
+figuration.
+
+In the fourth, today, we had PPP; a cable broke, we replaced the projec-
+tor by an overhead and display screen; the students sat in rows after the
+class began, a few up in front, circular, at the beginning.
+
+I always get in troubles, with these intersections; they transgress the
+normative boundaries of the modernist university, make life difficult for
+everyone. I'm not teaching this particular course in a computer lab, but
+through a consortium of the Parsons Design Department and Lang Liberal
+Arts College; we're using a section of an auditorium, blocked off from the
+rest. The result? Stunning possibilities in the midst of real-life confu-
+sion. 
+
+If it were solely a matter of computation, like my work at the Computer
+Instruction Center, no problem at all. Place two students in front of each
+machine, and let the network fly (or fail, as the case may be). But using
+what could be considered a background _on the order of a discursive field,
+the model for the liberal arts, perhaps - things begin to fail; the skele-
+ton is not in place, equipment is borrowed, reconfigured, discarded, and
+worlds senselessly intermingle, confuse everyone... 
+
+(And as I've pointed out elsewhere, there are always Net interruptions,
+sites down, widely varying student backgrounds and access...)
+
+

@@ -1,0 +1,32 @@
+
+
+
+Shell Interface
+
+The shell has a number of advantages over the graphic user interfaces, in
+spite of the fact that the latter support sound/images:
+
+1 Almost always faster than ppp or slip connections
+2 Many more options for every application
+3 A HUGE number of commands unavailable elsewhere: traceroute, rusers,
+rev, whois, etc.
+4 Extremely sophisticated file manipulation tools
+5 On-line storage for files
+6 Extremely fast ability to leap between applications
+7 Ability to _work_ a lot more mail options
+8 A _homespace_ which foregrounds all other operations
+9 Secure chat such as ytalk
+10 Access to all the telnet ports
+11 Nothing beats yet the Unix news readers which turn newsgroups into
+easily accessible content, _news_
+12 Total ability to configure your own account; I run memo programs here,
+for example, that I wrote myself - and they reside on Panix, using Perl
+13 With traceroute etc. the ability to really test the health/waters of
+the Net
+14 An interface that is coherent and easier to understand (I know this
+from teaching)
+15 Coherent and extensive help is available through man or apropos
+commands
+16 Runs on _every_ computer I've seen through straightforward communi-
+cations software.
+

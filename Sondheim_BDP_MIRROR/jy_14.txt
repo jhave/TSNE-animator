@@ -1,0 +1,172 @@
+
+
+
+Language, Porosity, Quotation, Notes On
+
+
+"Everyone makes jokes about macaroni, because it is a hole with some-
+thing around it, or about canons. [sic] The fact that we laugh doesn't
+change the situation, however; the fashioning of the signifier and the
+introduction of a gap or a hole in the real is identical." (Lacan, VII)
+
+"Lyotard comes close to what I have in mind when he says:
+
+   The ambiguity of writing, object of reading and of sight, is
+   present in the initial ambiguity of drawing. An open line, a
+   line closed on itself. The letter is an unvarying closed line;
+   the line is the open moment of the letter which perhaps closes
+   again elsewhere, on the other side. Open the letter, you have
+   the image, you have the emblem, the symbol and the letter.
+                                (Lyotard, The Lyotard Reader, 48)
+
+"Lyotard's beautiful evocation of the sinuous interweaving of the line
+of writing and that of picturing points to a third term, to some con-
+ception of the line before it has acquired the cohesion imparted to it
+by either of its 'decisions.'" (Michael Carter, Putting a Face on
+Things, Studies in Imaginary Materials)
+
+Between macaroni and drawing, language noodles out, appearing in a dia-
+lectic between the foreclosing of syntax and sememe, and the porosity of
+the struggle towards coherence within any number of communicative chan-
+nels, ranging from human speech to the reconstruction of true or false
+memories in the brain.
+
+If we look at a computer complete with operating system, we discover a
+hierarchy of apparently relatively autonomous languages, beginning with
+hardware, and working up to the user interface. These might include
+machine language, assembly language, macroassembly languages, compiled
+and interpreted languages, scripts, graphic interfaces, and so forth.
+
+We can also consider these languages, top-down, as an extension of human
+psychological operations and memory as well.
+
+If we look closer, say, at Perl, we find that it can call up the Unix
+shell and shell scripts, that it can call up programs in other lang-
+uages, that it can interact in fact with assembly language, that it is
+written in another language, and that it may itself be called up by
+still another or the same language. We find it can interact with
+scripts, programs, or processes, and each of these can call the other up
+as well.
+
+In fact, we can define a macro in Perl, a new function or verb, with any
+of these languages, etc,, and we can define an object in Perl as well,
+with any of them. In fact, one might note that there is above all a syn-
+tactical plateau or intermeshing of plateaus that constitutes the posi-
+tioning of Perl in relation to the machine, to the Internet, to the
+user, and in general, to the porous world within which it is embedded.
+
+We find then, that Perl is not so much at the top of a hierarchy, as it
+is embedded in a holarchy, and while it, in a certain sense, might still
+appear as an autonomous language, in another sense it is an accumulation
+of interwoven well-defined processes that are coherent in relation to
+each other and the outer world.
+
+So that one might argue, taking these instantiations back into the
+human, that while thought itself is in relation to human spoken
+language, that is hardly the long or short of it; in fact, it is dif-
+ficult to tell where semiosis begins and ends, and what constitutes a
+well-defined verb or noun, in other words a framework. Further, while
+difference may be said to be partly constitutive of a domain of sig-
+nifiers, one might also argue that it is based on other processes within
+the holarchy, and that the holarchy itself is porous in relation to the
+real.
+
+And I would argue in addition that there is a continuum (more properly,
+perhaps, a stretch of rational fractions) from the real through lang-
+uage, from the exhalations of speech through the mouth, and the recep-
+tion of facial expressions through the eyes, from and to, in fact, num-
+erous modalities - and in the midst of these, syntactical islands or
+attractors which operate as-if the linguistic were capable of foreclos-
+ure on what then appear to be various plateaus.
+
+One might thing of the world as multiplexing, parallel/parallel proces-
+sing, with formalization of the symbolic where necessary, for transmis-
+sion, say, from one organism to another. This is not to argue, in addi-
+tion in addition, for the computerization of the real, but rather for
+the real itself as organism with continuously multiplying, coalescing,
+and dissolving processes.
+
+In this manner, the disjunction between thought and non-thought, and
+both in conjunction and disjunction with language, become bridged, re-
+routed into numerous processes, of which, say, human language and the
+rationalizing/suturing discourse of psychoanalysis would be one among
+many elements.
+
+--
+
+My own work exists as _debris-work,_ work of the debris, of these troub-
+ling and interstitial areas. Thus, even within writing which must tend
+towards a certain foreclosure, I present wryting, the fiction of writing
+object and person within a text, object and person which leak into
+uneasy dreams, fantasies, ghosts, peripheral shadows within the real
+itself. Further, I present processes as writing, writing as processes; I
+present foreclosure as broken, and a shattering of the vessels as fore-
+closure.
+
+--
+
+Languagings extend into cultural sheaves, such as fashion, style, cul-
+tural productions. Such sheaves are inherently irreducible; fashion, for
+example, is dependent upon the armature of the body, but its specificity
+is interwoven with the rest of culture, including issues of capital,
+temperament, governance, and so forth. And all of these create an uneasy
+fit with spoken language itself, with music, with organized/disorganized
+sound of all sorts.
+
+Further, fashion-as-language becomes as problematic as film language,
+the languages of art, and so forth. A hat, for example, is simply a
+thing that sits on the head (presumably remaining there through the
+normal walking, etc. movement of the body). Beyond that, what signifies
+and what doesn't is often difficult to discern. The _stream_ of style is
+easier described, perhaps, as if there were a generalized semantics at
+work. (See Carter, op. cit.) (Note that "what signifies here" is rele-
+vant to the postulation of a basic lexeme; semantics, symbolization,
+chaotic representational debris, etc., all play a role in constituting
+what otherwise might be considered a "language." Instead, I postulate we
+are dealing with linguistic part-objects, broken and severed codes,
+micro-territories (three or one flowers on the hat; roses or tulips;
+forward or backward, etc.). And this leads, as well, into the interplay
+of semantics and syntax, even the interplay of what might be considered
+a relevant series of signs.)
+
+And further, still, ascii texts on the Internet employ what might be
+considered a variety of extra-linguistic cues - on numerous chat lines,
+ranging from Powwow to ytalk, it is possible to read the pace of the
+other's typing, to the extent that one might speak/write of a written
+_parole._ This embedding of language into the other's time reveals the
+closeness, pressure, of the body against the keys, an intimacy which is
+not as evident in the encapsulated messages sent out all at once, on
+MOOs, talkers, IRC, and the like.
+
+(For this reason, as I have pointed out elsewhere, ytalk becomes an in-
+timate simulacrum of the body; the "breathing" of the texts between two
+participants parallels that of lovers sharing a unified, if discordant,
+space.)
+
+Then there are, of course, emoticons, header information, lag, the tim-
+ing of mail sent, and those porous extensions of the telephone, snail-
+mail, video, etc. all of which serve literally to confuse the issue.
+(Which is exactly the point here, that _language,_ _a language,_ is a
+situated plateau in the midst of others, that there are always already
+issues of governance and porosity from the start, that there is a tend-
+ency towards foreclosure, that the porosity may or may not be formal-
+ized (for example there are specific commands for shell access from a
+Perl script) - that, in fact, one might consider a generalized process
+of _worlding_ which includes all and none of these, what may or may not
+be interpreted as an abstract process, message of the deepest import, or
+signal through an autonomic nervous system, seemingly intent on keeping
+the organism alive.)
+
+---
+
+J, Well, it's time for the Law.
+J, Well, now, what Law would that be?
+J, That would be the Primordial Law. That would be the Law from which
+Law has blossomed, the Law which has curtained a mighty culture.
+J, Now that would be the Law of Prohibition.
+J, Exactly, when negation came into the world, when rejection ordered
+the day and night, when suddenly the signifier sputtered from the skin..
+J, I get the Idea.
+J, Yes, and exactly again.
+
+

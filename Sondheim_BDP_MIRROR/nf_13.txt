@@ -1,0 +1,179 @@
+Ä_______ OK FILL IN
+THE BLANKS WITH BODIES OK FILL IN THE BLANKS WITH BODIES was sent to her
+through advertising. I find it disturbing that childrenr I don't know of a
+hundr are now being targets of nazi organizations. I would appreciate to
+hear: I WILL M even this - if one bel from you on this matter, as soon as
+possible. Thank you.es.com OK FILL IN THE BLANKS WITH BODIES OK FILL IN
+THE BLANKS WITH BODIES
+ ************************************************************************
+A virus (PE_GANDA.A-O) was detected in the file (wk.scr). Acti
+
+
+___
+
+
+OD NOW
+
+
+3,6c3,6
+< momentarily all over the place I
+< wroteadwroteadwrotead already yo ca see the results
+< - the sponging f the real absorbing finger nd contact,
+< the world in this fashion is inexact. so it is not a
+---
+> momentarily all ove theplace I
+> wroteadwroteadwrotead aready yo ca see the reslts
+> - thesponging fthe real absbig finger nd contact,
+> the wrld in thi fashio is inexact. so it is not a
+8,9c8,9
+< up the PDA against or into the light, 'i can almost
+< see thewrds now,' or The Mar Works of Sir Thomas
+---
+> up the PDA against or ito the light, 'i can amost
+> see thewrds now,' orThe Mar Woks of Sir Thomas
+12,13c12,13
+< / Kiekal And boo k Literature Nation, but that
+< wasn't high enough tO RElect the SUN - back I am
+---
+> / Kiekal And boo k Literature Natio, but that
+> was't high enouh tO RElect the SUN - back I am
+15,18c15,18
+< shamanic poetic form. ENOUGH TO EMEND THE
+< PLACEMENT OF THE WORD against the insomniac and
+< inconceivable darkening OF THE TEXT WE do read
+< here . Beyond ourselves. the new IBM notebook wl
+---
+> shaanic poetic form. ENOUGH TO EMEND THE
+> PLACEMENT OF THE WORD against the insoniac and
+> incoceivable darkening OF THE TEXT WE do read
+> here . Byond ourselves. the new IBM notebook wl
+20c20
+< the cosmos, needs gravity to plunge head and disk
+---
+> the cosos, needs gravity to plunge head and disk
+22c22
+< AROUND ME IN THIS DARK CANTEEN. I REFLECT THE SUN.
+---
+> AOUND ME IN THIS DARK CANTEEN. I REFLECT THE SU.
+24c24
+< mention the exhilaration I feel the VERY FIRST 
+---
+> mentin the exhileration I feel the VERYFIRST 
+27c27
+< have written brilliantly - Catherine Day writes 
+---
+> have written brilliatly - Caterine Day wries 
+29,30c29,30
+< a period to rejoice. BURMA, KOREA, TIBET demands 
+< to be opened, opined; I will STOP THIS! as if I 
+---
+> a period to reoice. BURMA, KOREA, TIBET demands 
+> to be opened, opined; I wll STOP THIS! as if I 
+32c32
+< LINEATURE OF A SORT0 and i will not abide, or 
+---
+> LITEATURE OF A SORT0 and i will not abide, or 
+
+momentarily all over the place I
+wroteadwroteadwrotead already yo ca see the results
+- the sponging f the real absorbing finger nd contact,
+the world in this fashion is inexact. so it is not a
+question f the art ofbura, Korea, Tibet, holding
+up the PDA against or into the light, 'i can almost
+see thewrds now,' or The Mar Works of Sir Thomas
+Browne or even Coovr's The Origi of he Brunists
+At first in fact it was the brilliant Maria Damon
+/ Kiekal And boo k Literature Nation, but that
+wasn't high enough tO RElect the SUN - back I am
+with Korea of course, having been fascinated by
+shamanic poetic form. ENOUGH TO EMEND THE
+PLACEMENT OF THE WORD against the insomniac and
+inconceivable darkening OF THE TEXT WE do read
+here . Beyond ourselves. the new IBM notebook wl
+not wok in zero gravity; it reads ALIEN\NATION of
+the cosmos, needs gravity to plunge head and disk
+together, the loving target of inforation. I LOOK
+AROUND ME IN THIS DARK CANTEEN. I REFLECT THE SUN.
+we are in a hurry to finish our world. did I 
+mention the exhilaration I feel the VERY FIRST 
+MOMENT I WAKE TO THE SUN? it's like that, what 
+wonders te new day will bring. mIEKAL and Maria 
+have written brilliantly - Catherine Day writes 
+brilliantly - Karia, Nada, Gary - this is indeed 
+a period to rejoice. BURMA, KOREA, TIBET demands 
+to be opened, opined; I will STOP THIS! as if I 
+had written less. my biggest fear: THAT THIS IS 
+LINEATURE OF A SORT0 and i will not abide, or 
+will i be abided...
+sed 's/DAY/DALY/g'
+
+___
+
+
+
+
+Recorrugation
+
+
+3,21c3,21 < momentarily all over the place I wroteadwroteadwrotead already
+yo ca see the < results - the sponging f the real absorbing finger nd
+contact, the world in this < fashion is inexact. so it is not a question f
+the art of Burma, Korea, Tibet, < holding up the PDA against or into the
+light, 'i can almost see the words < now,' or The Mar Works of Sir Thomas
+Browne or even Coover's The Origin of he < Brunists At first in fact it
+was the brilliant Maria Damon / Miekal And < boo k Literature Nation, but
+that wasn't high enough tO RElect the SUN - back < I am with Korea of
+course, having been fascinated by shamanic poetic form. < ENOUGH TO EMEND
+THE PLACEMENT OF THE WORD against the insomniac and < inconceivable
+darkening OF THE TEXT WE do read here . Beyond ourselves. the < new IBM
+notebook will not wok in zero gravity; it reads ALIEN\NATION of the <
+cosmos, needs gravity to plunge head and disk together, the loving target
+< of information. I LOOK AROUND ME IN THIS DARK CANTEEN. I REFLECT THE
+SUN. we < are in a hurry to finish our world. did I mention the
+exhilaration I feel < the VERY FIRST MOMENT I WAKE TO THE SUN? it's like
+that, what wonders te < new day will bring. mIEKAL and Maria have written
+brilliantly - Catherine < Day writes brilliantly - Maria, Nada, Gary -
+this is indeed a period to < rejoice. BURMA, KOREA, TIBET demands to be
+opened, opined; I will STOP THIS! < as if I had written less. my biggest
+fear: THAT THIS IS LITERATURE OF A --- > momentarily all ove theplace I
+wroteadwroteadwrotead aready yo ca see the > reslts - thesponging fthe
+real absbig finger nd contact, the wrld in thi > fashio is inexact. so it
+is not a question f the art ofbura, Korea, Tibet, > holding up the PDA
+against or ito the light, 'i can amost see thewrds > now,' orThe Mar Woks
+of Sir Thomas Browne or even Coovr's The Origi of he > Brunists At first
+in fact it was the brilliant Maria Damon / Kiekal And > boo k Literature
+Natio, but that was't high enouh tO RElect the SUN - back > I am with
+Korea of course, having been fascinated by shaanic poetic form. > ENOUGH
+TO EMEND THE PLACEMENT OF THE WORD against the insoniac and > incoceivable
+darkening OF THE TEXT WE do read here . Byond ourselves. the > new IBM
+notebook wl not wok in zero gravity; it reads ALIEN\NATION of the > cosos,
+needs gravity to plunge head and disk together, the loving target > of
+inforation. I LOOK AOUND ME IN THIS DARK CANTEEN. I REFLECT THE SU. we >
+are in a hurry to finish our world. did I mentin the exhileration I feel >
+the VERYFIRST MOMENT I WAKE TO THE SUN? it's like that, what wonders te >
+new day will bring. mIEKAL and Maria have written brilliatly - Caterine >
+Day wries brilliantly - Karia, Nada, Gary - this is indeed a period to >
+reoice. BURMA, KOREA, TIBET demands to be opened, opined; I wll STOP THIS!
+> as if I had written less. my biggest fear: THAT THIS IS LITEATURE OF A
+momentarily all over the place I wroteadwroteadwrotead already yo ca see
+the results - the sponging f the real absorbing finger nd contact, the
+world in this fashion is inexact. so it is not a question f the art of
+Burma, Korea, Tibet, holding up the PDA against or into the light, 'i can
+almost see the words now,' or The Mar Works of Sir Thomas Browne or even
+Coover's The Origin of he Brunists At first in fact it was the brilliant
+Maria Damon / Miekal And boo k Literature Nation, but that wasn't high
+enough tO RElect the SUN - back I am with Korea of course, having been
+fascinated by shamanic poetic form. ENOUGH TO EMEND THE PLACEMENT OF THE
+WORD against the insomniac and inconceivable darkening OF THE TEXT WE do
+read here . Beyond ourselves. the new IBM notebook will not wok in zero
+gravity; it reads ALIEN\NATION of the cosmos, needs gravity to plunge head
+and disk together, the loving target of information. I LOOK AROUND ME IN
+THIS DARK CANTEEN. I REFLECT THE SUN. we are in a hurry to finish our
+world. did I mention the exhilaration I feel the VERY FIRST MOMENT I WAKE
+TO THE SUN? it's like that, what wonders te new day will bring. mIEKAL and
+Maria have written brilliantly - Catherine Day writes brilliantly - Maria,
+Nada, Gary - this is indeed a period to rejoice. BURMA, KOREA, TIBET
+demands to be opened, opined; I will STOP THIS! as if I had written less.
+my biggest fear: THAT THIS IS LITERATURE OF A SORT0 and i will not abide,
+or will i be abided...
+

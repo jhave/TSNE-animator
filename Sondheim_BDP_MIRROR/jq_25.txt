@@ -1,0 +1,71 @@
+
+
+
+JENNIFER BANGS AT HER NAMESAKE SERVER: The Mess or Wound
+
+
+{k:22} Banging Jennifer Banging Alan:		I tried to get into you
+ksh: Banging: not found				over and over again, Alan/
+{k:16} finger jennifer@jennifer.com >> z	Jennifer never answers the
+{k:17} host jennifer.com >> z			email. I stalk Alan/Jenn-
+{k:18} lynx http://www.jennifer.com/ >> z       ifer who just won't listen
+{k:19} telnet jennifer.com 13 >> z		to anything I have to say.
+Connection closed by foreign host.
+{k:20} telnet jennifer.com 21 >> z
+USER sondheim					My name's her own.
+PASS jennifer					My name's my own.
+PASV						I'm not passive.
+QUIT						I'll never quit.
+Connection closed by foreign host.		She's not foreign.
+{k:33} telnet jennifer.com 25 >> z		I send him mail.
+HELO panix3.panix.com				I'm very polite.
+VERB
+MAIL FROM: jennifer@jennifer.com		I am his mail.
+RCPT TO: sondheim@sondheim.com
+DATA
+Alan, I love you madly!				I tell the truth.
+Jennifer!					I sign my name.
+QUIT
+Connection closed by foreign host.
+
+[jennifer.com]					The sad results:
+
+jennifer.com has address 198.6.197.1
+jennifer.com mail is handled by mail.nicom.com
+[?1h=(B)0[m[H[J[23B[0;7m
+Getting http://www.jennifer.com/
+Look
+up www.jennifer.com.[0m 
+[0;7mUnable to locate remote host
+www.jennifer.com.
+Alert!: Unable to connect to remote host.[0m
+
+[K[?1l>
+lynx: Can't access startfile http://www.jennifer.com/
+Trying 198.6.197.1...
+Connected to jennifer.com.
+Escape character is '^]'.
+Thu Apr  3 19:59:05 1997
+Trying 198.6.197.1...
+Connected to jennifer.com.
+Escape character is '^]'.
+220 dcez.nicom.com FTP server (Version wu-2.4(1) 
+Fri Dec 29 06:15:49 GMT 1995) ready.
+331 Password required for sondheim.
+530 Login incorrect.
+503 Login with USER first.
+221 Goodbye.
+
+Trying 198.6.197.1...  Connected to jennifer.com.  Escape character
+is '^]'.  220 dcez.nicom.com ESMTP Sendmail 8.8.3/8.7.3; Thu, 3 Apr 1997
+20:10:57 -0500 (EST)  250 dcez.nicom.com Hello panix3.panix.com
+[198.7.0.4], pleased to meet you 250 Verbose mode 250
+jennifer@jennifer.com... Sender ok 250 sondheim@sondheim.com... Recipient
+ok 354 Enter mail, end with "." on a line by itself 050
+sondheim@sondheim.com... Connecting to sondheim.com. via smtp...  050 220
+hijinks.com ESMTP Sendmail 8.8.5/8.7.3; Thu, 3 Apr 1997 16:49:28 -0800
+(PST)  
+[...]
+Closing connection to sondheim.com. 
+closing connection 221 dcez.nicom.com closing connection
+

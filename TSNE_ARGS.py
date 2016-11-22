@@ -28,7 +28,7 @@ verb=0
 
 #######   PATH   ############
 
-READ_PATH = "www.alansondheim.org/"
+READ_PATH = "Sondheim_BDP_MIRROR/"
 
 
 
@@ -36,7 +36,6 @@ cnt =0
 poems = []
 
 ids=[]
-filenames=[]
 first_chars=[]
 
 cnt=0
@@ -45,55 +44,37 @@ size_array=[]
 nup=0
 nup_orig=0
 
+cnt=0
+
+
 print("Loading and parsing files:",READ_PATH)
 
 for subdir, dirs, files in os.walk(READ_PATH):
 	for file in files:
-		if ".txt" in file  and 'readme' not in file:
+		if ".txt" in file:
 			if os.path.isfile(subdir+file):
-				#print (subdir+file)
+				print (cnt,subdir+file)
 
 				nup_orig=nup_orig+1
-
-				filenames.append(file.split(".txt")[0])
 				
-				txt_data=open(subdir+file, encoding="latin-1").read()
-
-				if file != "equations.txt" and  file != "equationselim.txt" and  file != "qa.txt"  and  file != "tg.txt"  and  file != "qr.txt":
-					if file != "lp.txt" and file !="sn.txt"  and file !="re.txt"  and file !="pf.txt"  and file !="qs.txt":
-						txt_data = txt_data.replace(r"===","----~~~~---")
-						txt_data = txt_data.replace(r"====+","----~~~~---")
-					txt_data_split = re.split(r"----~~~~---|-------------+|______________+|",txt_data)
-
+				txt_data=open(subdir+file).read()
+				poems.append(txt_data)
+				
 				# Parse & store
+				cnt= cnt+1
+				txt_fn = file.split(".txt")[0]
+				ids.append(txt_fn)
 
-				cnt=0
-				for pt in txt_data_split:
-					if len(pt.strip("\n"))>5:
-						poems.append(pt.strip("\n"))
-						cnt= cnt+1
-						txt_fn = file.split(".txt")[0]+"_"+str(cnt)+".txt"
-						ids.append(txt_fn)
+				# LIMIT size of largest
+				sz = len(txt_data.strip("\n"))/2000
+				if sz < 4.0:
+					sz = 4.0
+				if sz > 300:
+					sz = sz + (sz-300)/40
 
-						# LIMIT size of largest
-						sz = len(pt.strip("\n"))/2000
-						if sz < 4.0:
-							sz = 4.0
-						if sz > 300:
-							sz = sz + (sz-300)/40
+				sz = round(sz,2)
 
-						sz = round(sz,2)
-
-						size_array.append(sz)
-
-
-						#SAVE SEGMENTS IN www.alansondheim.org_BDP_MIRROR
-						# txt_fn = file.split(".txt")[0]+"_"+str(cnt)+".txt"
-
-						# txt_fn_path = "Sondheim_BDP_MIRROR/"+txt_fn
-						# f_txt=open(txt_fn_path,'w')
-						# f_txt.write(pt)
-						# f_txt.close() 
+				size_array.append(sz)
 
 
 print ("# of Text segments:",len(poems))
@@ -102,7 +83,6 @@ print ("# of Text segments:",len(poems))
 
 vectors = TfidfVectorizer().fit_transform(poems)
 print(repr(vectors))
-
 
 
 
@@ -208,7 +188,6 @@ perp_MIN = args.perplexity_MIN
 perp_MAX = args.perplexity_MAX
 
 random_state = args.random_state
-
 
 
 ##################  SAVE Folders ##############
@@ -355,7 +334,7 @@ for _ in itertools.repeat(None, N):
 	fig.savefig("img/"+save_PATH+"/TSNE_SONDHEIM_{0:05d}.png".format(iters), transparent=True, figsize=(16.0, 9.0), dpi=320)
 	print("IMAGE saved at: img/"+save_PATH+"/TSNE_SONDHEIM_{0:05d}.png".format(iters))
 
-	# for i, a in enumerate(filenames):
+	# for i, a in enumerate(txt_fn):
 	# 	ax.annotate(a, (X_embedded[:, 0][i], X_embedded[:, 1][i]))
 	# 	#ax.annotate(a+"\n'"+titles[i]+"'", (X_embedded[:, 0][i], X_embedded[:, 1][i]))
 

@@ -1,0 +1,21 @@
+
+
+
+time  {
+
+Time Stuffs Itself
+
+
+{k:31} time
+   0.00s real    0.00s user    0.00s system 
+{k:32} time (time)
+   0.01s real    0.00s user    0.03s system 
+{k:33} time (time (time))
+   0.01s real    0.01s user    0.01s system 
+{k:34} time (time (time (time)))
+   0.01s real    0.00s user    0.01s system 
+{k:35} time (time (time (time (time (time (time (time)))))))
+   0.03s real    0.01s user    0.01s system 
+
+}   5.28s real    0.01s user    0.05s system
+

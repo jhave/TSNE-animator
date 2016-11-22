@@ -1,0 +1,2 @@
+the=seq_factory=
+   should=never=have=to=know=what's=inside=another

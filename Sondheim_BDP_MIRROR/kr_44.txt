@@ -1,0 +1,4 @@
+
+Listening to shouts and tells. Receiving logon/logoff messages.
+Receiving banners. Accepting games. Beeps are on. Monitor off.
+Wrapping ON. Paging lines 20 at a time.

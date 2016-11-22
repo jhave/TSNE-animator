@@ -1,0 +1,60 @@
+
+
+Frontiers of the Internet
+
+
+Where are the frontiers of the Net - and by this I don't mean demograph-
+ics or geography, but signposts towards conceivable futures? There are 
+two broad areas that overlap, one connected with bandwidth, and the other 
+with applications themselves.
+
+With _increased_ bandwidth (mbone, atm, etc.), video and audio clips will 
+become more prevalent. We can also expect MOOs, MUDs, and the like to 
+enter into the pictorial domain. Language-processing will be available as 
+a common option, establishing two-way communications through the home 
+computer. The sheer _visibility_ of the Net will completely transform its 
+impact, no matter how much the rest of us appreciate text. The number of 
+text-based documents will continue to grow at an exponential rate, how- 
+ever, and search engines, driving intelligent agents, will become more 
+functional and compact.
+
+In terms of applications, particularly the current state of the Net, 
+there are three areas to watch:
+
+1. Home-pages. The World Wide Web home-pages are becoming more and more 
+elaborate, miniature audio-visual webs themselves, and the framework for 
+all sorts of experimentation. By 1997, expect full immersive access.
+
+2. VRML and similar languages. The virtual reality markup language is an 
+early step towards complete immersion in seamless constructed realities, 
+which will probably be commonplace by 2010 or so. I believe at least 15 
+years are necessary to develop the enormous bandwidth such realities will 
+require; whether all the copper-wire lines in the United States and else- 
+where will be converted to fiber-optic (necessary for the bandwidth) is 
+another matter altogether.
+
+3. MOOs as research institutions, group meeting-places within which the 
+Net is accessible by a number of geographically dispersed people at once. 
+I see this area leading quickly towards the idea of an info-sphere; com- 
+bined with virtual reality, information access, filtering, and function- 
+ality will be commonplace by 2005.
+
+All of these areas touch upon and interpenetrate the others; by 2000, 
+expect the merging/morphing of various Net applications and content. The 
+Net may ultimately be defined by sensorium/text and by lag/no-lag bases. 
+The former is a division between video/audio and text/data streams (which 
+consume considerably less bandwidth); the latter separates the document 
+and message-base from synchronous transmission, conversation, and on-line 
+group researching.
+
+(By 2000 also, the Net might become a "lookup" facility, with search 
+engines calling up other search engines; one might enter <subject> at a 
+prompt (as in the World Wide Web Worm or Webcrawler), and a virtual page 
+with links to content would be created. The lookup facility would search 
+more than the Web, however, activating archie and other commands, estab-
+lishing hypertext links with ftp sites, etc. The model would be that of 
+the hypertextual encyclopedia, rather than that of the layered Internet 
+with its gopher/ftp/etc. domains.)
+
+Just some thoughts...
+

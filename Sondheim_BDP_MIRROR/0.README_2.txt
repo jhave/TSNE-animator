@@ -1,0 +1,5 @@
+
+
+The basic directory contains programs for text and mathematics graphs.
+The graphs images in portal are resonant/diacritical with the rest.
+

@@ -1,0 +1,43 @@
+
+
+
+WHO DO YOU LOVE
+
+
+Demonstration that who do you love does _not_ register on BSD Unix but
+Instead sends the Machine into Self-questioning in a form I cannot But
+answer (notes Below):
+
+(NON-BSD)
+Ju1lu% who am i
+panix3.panix.com!jennifer ttypc   Sep 18 01:19  (panix7.panix.com)
+Ju2lu% who do you love | head -2
+         ttyp1   Sep 14 02:02
+                 Dec 31 19:00
+Ju3lu% who loves me
+panix3.panix.com!jennifer ttypc   Sep 18 01:19  (panix7.panix.com)
+(BSD)
+Ju78lu| who am i
+jennifer ttyp4    Sep 18 00:18  (166.84.0.106)
+Ju79lu| who do you love | head -2
+usage: who [-mTuH] [ file ]
+       who am i
+Ju80lu| who loves me
+jennifer ttyp4    Sep 18 00:18  (166.84.0.106)
+(EXPLANATION)
+The who command lists current online users; who mom loves was designed
+to producer the name of the questioner. who do you love produces an oddly
+formatted answer in one form of Unix, and is ignored on another. Ju80lu|
+is the prompt on one machine, and Ju3lu% is the prompt on the other. jen-
+nifer is the substituted name for the current user of this machine. ttyp
+is an abbreviation for teletype and is a holdover from the days when
+teletype consoles were the order of the day. panix3 is a unix machine at
+panix; panix7 is a new high-speed BSD unix machine. Ju80lu and jennifer
+circulate around issues of identity; mom, note, doesn't figure into the
+series of questions. i'm somewhere behind or in the middle of Ju80lu and
+jennifer, losing myself in their circulations. The 80 in Ju80lu refers
+to the 80th command entered and its position is represented by a variable
+in my personal configuration file. who _i_ am is literally the order of
+the day.
+
+

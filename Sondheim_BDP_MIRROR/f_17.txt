@@ -1,0 +1,64 @@
+
+
+
+
+
+
+Artificial Life
+
+
+
+
+
+I am still puzzling over entropy and information in relation to artificial
+
+life. Consider a suitably large enclosed screen environment, steady-state
+
+in terms of energy input from an "external" framework. Is it necessarily
+
+true then that the degree of entropy remains constant internally? Note
+
+that there is no _increase_ of energy in this model; the quantity E is
+
+also constant. _Within_ the environment, one can imagine local areas in
+
+non-equilibrium potential wells, and other areas remaining in equilibrium
+
+with a specified degree of disorder. Within the wells, information
+
+increases; this is ultimately a result of the external energy input. Such
+
+input transforms into _time._ The question is what happens to the entropy? 
+
+In a closed system with finite energy, entropy increases; in our system,
+
+which may be considered _virtually open,_ entropy seems to decrease as
+
+information increases.* Ultimately, can one consider the environment _to-
+
+tally ordered,_ and what would constitute this? Would this be - or more to
+
+the point _could_ this be a form of self-organization, self-conscious-
+
+ness, and if the latter, would it conceivably involved the use of external
+
+data-storage devices? If so, these devices would presumably be aligned or
+
+internalized with the life-forms (I wrote a story about Travis in one of
+
+the Internet Text files about this); there would be no mechanical move-
+
+ment, no thought processes whatsoever, already a form of death...
+
+
+
+*which is the opposite I believe of the definition of entropy in informa- 
+
+tion theory.
+
+
+
+(Can someone help with the mathematics here?)
+
+
+

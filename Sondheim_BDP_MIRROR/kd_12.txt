@@ -1,0 +1,40 @@
+
+
+
+
+YOU ARE WRITING TO NOBODY! THIS MESSAGE IS GOING TO NOBODY!
+
+
+LISTEN UP! LOOSEN UP!
+
+For some, the message below, confused, overly-obscure, obfuscatory in
+fact, might tend towards a blankness resonant with the absence of ANY
+communication in this damned space. For me, the INCONSISTENCY noted simply
+means that, in fact, EVERY ISP is creating its own simulacrum of messaging
+- as if there _were_ communication among widely-dispersed peoples - where-
+as in fact, it is a _fiction_ created by the world-wide consortium of
+interactive governments (WWCIG), which ensure that populations _remain
+put._ Why else would an ISP have an UNEXPECTED INCONSISTENCY involving
+something as simple as a quota-check from root?
+
+
+{k:11} /sbin/quotacheck -a
+/dev/rsd4a: Permission denied
+/dev/rsd2a: Permission denied
+THE FOLLOWING FILE SYSTEMS HAD AN UNEXPECTED INCONSISTENCY:
+        /dev/rsd4a (/var/mail), /dev/rsd2a (/home)
+
+
+DUPES! NO ONE IS TALKING TO ANYONE HERE! WE'RE RESPONDING TO BOTS!
+GET IT? BOTS!!!!!!
+
+UNDERSTAND ME!
+UNDERSTAND ME!!
+UNDERSTAND ME!!!
+UNDERSTAND ME!!!!
+UNDERSTAND ME!!!!!
+UNDERSTAND ME!!!!!!
+UNDERSTAND ME!!!!!!!
+UNDERSTAND ME!!!!!!!!
+
+

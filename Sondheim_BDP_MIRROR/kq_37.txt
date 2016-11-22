@@ -1,0 +1,50 @@
+
+
+
+Shell Accounts, IPs, and Community
+
+
+All the difficulties surrounding the gol.com shell accounts started me
+thinking of the usefulness of shells in the first place. After all, there
+are easy ways to duplicate services - for example, any linux implementa-
+tion will have enormous built-in network programs.
+
+For me, the main difference lies in the who or w etc. commands - on an ISP
+shell, there are almost always numerous others logged in at the same time,
+to the same or networked machines. This means that resources are shared,
+that quota is allotted, that the account is culled from time to time. It
+also means that there are means to chat locally with other users online at
+the same time, and there may also be local newsgroups which share shell
+account issues. Here, we have panix.upgrade, for example, as well as pan-
+ix.unix, panix.chat, etc. Sysadmins, also, are fairly accessible; one can
+easily find out who is on at any particular time.
+
+Then there is almost always older and legacy software, abandoned corners
+of the drives that contain interesting and usable programs - archie is a
+good example. One explores a commonly-held space, and this commonality is
+everywhere evident.
+
+Think of dynamic or static IP allocation on the other hand, or even the
+web page. This might as well be a local file on your own machine; it's a
+place to experiment with html or represent yourself, but there's no sight
+of anyone else, not even with a hit counter. On online chats, you're al-
+ways aware of entering a domain not entirely your own - but a local talk
+or ntalk or ytalk, settling comfortably on the same machine, gives an
+entirely different feeling. (It's as if I breathe in machine, breathe
+_this_ machine in relation to _this_ body. It's as if the health of the
+machine is connected with my health, and the health of my own local compu-
+ter. And the fact that I can configure my remote account - even keep files
+and interface software such as Tiny Fugue or Phoenix on it - means that
+this physically distant and virtual part of the Net becomes part of me, as
+if I'm extended into it, into the machine.)
+
+I think this machinic communality needs examination - it's overlooked in
+most discussions of the evolution of Net community. I haven't seen the
+panix machines themselves (I would love to), but I _sense their presence_
+every time I log on. And ironically, their presence is even closer when
+I'm in on straight dialup - rather than using a telnet application through
+static IP and Windows, all those layers. With telnet, there are subtle and
+untraceable falterings at times; through dialup, the machine and its other
+users are breathing down your neck...
+
+

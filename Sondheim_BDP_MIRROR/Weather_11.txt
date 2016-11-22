@@ -1,0 +1,33 @@
+
+
+
+
+Can't Bang In, Can't Bang Out: Pup takes Revenge
+
+
+[addresses etc. changed]
+
+*** Mode change "+m" on channel #netsex by Pup
+*** _Zebbo_ (abcdef@lingo.ab.oswald.edu) has joined channel #netsex
+*** Mode change "+b *!*abcdef@*.oswald.edu" on channel #netsex by Pup
+*** _Zebbo_ has been kicked off channel #Netsex by Pup (git outta here
+    lameass!)
+*** Mode change "+i+k fuckyou" on channel #netsex by Pup
+*** Chunky has been kicked off channel #Netsex by Pup ((*!*@*) .)
+*** Courier has been kicked off channel #Netsex by Pup ((*!*@*) .)
+*** DonJuan has been kicked off channel #Netsex by Pup ((*!*@*) .)
+*** Tweeker has been kicked off channel #Netsex by Pup ((*!*@*) .)
+*** b0r3d has been kicked off channel #Netsex by Pup ((*!*@*) .)
+*** rpenguin has been kicked off channel #Netsex by Pup ((*!*@*) .)
+*** sanclara has been kicked off channel #Netsex by Pup ((*!*@*) .)
+*** Mode change "-bbbb *!*abcdef@*.oswald.edu *!*hijkl@*.pipeline.com
+    *!*lingo@*.iit.edu *!bingo@*.sunysb.edu" on channel #netsex by Pup
+[E/X] The time is now 07:00PM.
+*** Mode change "-bb *!*thingo@*.zynet.com *!*@*.netcom.com" on channel
+    #netsex by Pup
+[E/X] BAN ON YOU DETECTED. By: Pup
+*** Mode change "+b *!*sondheim@*.panix.com" on channel #netsex by Pup
+*** You have been kicked off channel #Netsex by Pup (git outta here lameass!)
+*** #Netsex :Sorry, cannot join channel. (Banned from channel)
+*** #Netsex :Sorry, cannot join channel. (Banned from channel)
+

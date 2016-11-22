@@ -1,0 +1,43 @@
+
+
+
+
+shEmake Twotorial
+
+
+Does the editor configure content, contain it, create it? Here in emacs,
+top bar in the window states Buffers Files Tools Edit Search Help. No 
+other aids. I type Control-h and the second window opens, but no access.
+The cursor will not move topside! Escape-B brings not the buffers closer; 
+this command works in a DOS editor I use. To continue (remember, we want
+to access the _bar,_ not the buffers, etc. themselves), let's try the 
+_other_ meta key - on b, it does the word backup thing which is neat, but
+not germane. Together? Nothing, Although I'M Getting Close To Stopping 
+The Computer. Oops, The Wind Just Blew The Cursor Up The Screen. I Know 
+In Addition That meta-c does wonders w/ word capitalization, and meta-u 
+does the same for juST ABOUT EVERYTHING. NOW I'M _THINKING_ THROUGH THE 
+TEXT, VISIBLE WORLD! meta-s does nothing in _this version, but meta-x and
+		     center-line appears to work.	     center-line 
+appears to work however as the text is yanked back in. What am I getting
+at? Apply Control-s for forward search off the block of text, as in Con-
+trol-s goal? and nothing occurs; the response is silence. Now, window 
+split, typing proceeds uncannily as form follows function and upper bar 
+remains _deePLY INVIOLATE._ HERE I TYPE BELOW, THIS CURSED WORK! UPPER 
+WINDOW CONTINUES HAVOC-REGION. NOTHING IS SALVAGED IN _THIS_ TEXT APPEAR-
+ING SELF-REFLExive but actually integrating process into, what? Cursor
+Wind-Blown Jumps Back From Here.
+
+Ah, to begin again: Entering _blank-EMACS_ provides a screenful of infor-
+mation, including menu-bar access through M-` or F10. I do so, call up 
+calendar, examine MY-DAY. Close down calendar MY-DAY buffer (ah, I could
+have seen the HOLIDAYS) {wind now blowing cursor around screen}, I _bing-
+				  o_
+across screen still into GOAL search deferred. Now they will find me, it,
+they, she, above. Now I am safest.
+
+	   I Do Move Out Of Here Where It Is Safer Safest..
+
+( Buffer buffer screen, no nearer goal than henceforth. Remember: I re-
+member _nothing._ A _very quiet time._ )
+
+

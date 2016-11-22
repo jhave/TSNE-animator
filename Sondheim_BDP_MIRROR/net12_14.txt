@@ -1,0 +1,50 @@
+
+
+
+
+
+
+MOUTH TO MOUTH
+
+
+
+
+
+ 1  hydro-E0.nyc.access.net (198.7.0.126)  4 ms  2 ms  2 ms
+
+ 2  sewer-S1-T1.nyc.access.net (166.84.64.10)  4 ms  4 ms  4 ms
+
+ 3  transit.nyc.access.net (166.84.0.98)  7 ms  6 ms  10 ms
+
+ 4  144.228.2.193 (144.228.2.193)  15 ms  15 ms  14 ms
+
+ 5  sl-dc-8-F0/0.sprintlink.net (144.228.20.8)  15 ms  19 ms  14 ms
+
+ 6  sl-fw-5-H4/0-T3.sprintlink.net (144.228.10.18)  50 ms  46 ms  46 ms
+
+ 7  sl-fw-3-F0/0.sprintlink.net (144.228.30.3)  47 ms  46 ms  46 ms
+
+ 8  sl-interpath-1-S0-T1.sprintlink.net (144.228.79.2)  78 ms  83 ms  77 ms
+
+ 9  mercury.interpath.net (199.72.1.1)  75 ms  77 ms  76 ms
+
+ 1  discovery-e0/0.interpath.net (199.72.1.250)  2 ms  2 ms  2 ms
+
+ 2  sl-fw-3-S1/6-T1.sprintlink.net (144.228.79.1)  34 ms  34 ms  32 ms
+
+ 3  sl-fw-5-F1/0.sprintlink.net (144.228.30.5)  36 ms  33 ms  33 ms
+
+ 4  sl-dc-8-H3/0-T3.sprintlink.net (144.228.10.17)  65 ms  67 ms  65 ms
+
+ 5  sl-dc-1-F0.sprintlink.net (144.228.20.1)  65 ms  66 ms  66 ms
+
+ 6  144.228.2.194 (144.228.2.194)  76 ms  79 ms  74 ms
+
+ 7  sewer-e0.nyc.access.net (166.84.0.97)  73 ms  73 ms  74 ms
+
+ 8  hydro-S0-T1.nyc.access.net (166.84.64.9)  77 ms  76 ms  84 ms
+
+ 9  panix3.panix.com (198.7.0.4)  77 ms  79 ms  88 ms
+
+
+

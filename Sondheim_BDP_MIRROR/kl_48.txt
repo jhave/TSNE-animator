@@ -1,0 +1,80 @@
+
+
+
+
+{k:18} Promptly
+
+
+Does the phenomenology of the _prompt,_ {k:1} for example, imply a poten-
+tial field of operations (this or that program/script/text/protocol/etc.)
+outside of any program, I write _in Pico_ (another ASCII editor)? But a
+prompt exists in relation to a shell; it is an access to the shell -
+_here_ {k:2} on the screen - not elsewhere, for example to the Korn shell
+or the DOS shell, depending on the operating system. So I am for example
+_in the Korn shell_ which is software (as is the entire operating system),
+but I am and am not in a program, when I face the prompt {k:3} which may
+or may not have a cursor at-hand, just as there may or may not be a tool
+at-hand {k:4}_.
+
+The cursor, like Weyl's Cartesian Origin (the point, say, where the x, y,
+z axes cross on a graph, arbitrarily picked), defines the locus of the
+ego: this is the point I have chosen, or has been chosen for me {k:5}_;
+this is what I inhabit. It is the beginning of the spill against the
+prompt itself, {k:6}echo Nikuko, for example. It is the conjuring and con-
+juring-up of a program or script, foreclosed and completed by the ENTER or
+RETURN key: _now_ the program takes over, until it completes its task, or
+until it is stopped - something always ends it, with or without the com-
+mand and intention of the user.
+
+It is writing on the body (trite phrase, indeed) of the machine; it is
+writing through dream/screen memories; it is stuttering across the open-
+close of Kristeva's chora; it is the emergence, say, of Nikuko or others:
+it is the presence of the others. The shell sends to and from the kernel;
+listen once again {k:7} ktrace echo Nikuko [this command traces kernel -
+internal operating system - processes from the shell - the user inter-
+face ]:
+
+ [...]
+ 10372 echo     EMUL  "netbsd"
+ 10372 echo     RET   execve JUSTRETURN
+ 10372 echo     CALL  __fstat13(0x1,0xefbfd9cc)
+ 10372 echo     RET   __fstat13 0
+ 10372 echo     CALL  __sysctl(0xefbfda08,0x2,0xaa68,0xefbfda10,0,0)
+ 10372 echo     RET   __sysctl 0
+ 10372 echo     CALL  break(0xaa90)
+ 10372 echo     RET   break 0
+ 10372 echo     CALL  break(0xaffc)
+ 10372 echo     RET   break 0
+ 10372 echo     CALL  break(0x1bffc)
+ 10372 echo     RET   break 0
+ 10372 echo     CALL  ioctl(0x1,TIOCGETA,0xefbfda08)
+ 10372 echo     RET   ioctl 0
+ 10372 echo     CALL  write(0x1,0xb000,0x7)
+ 10372 echo     GIO   fd 1 wrote 7 bytes
+       "Nikuko
+       "
+ 10372 echo     RET   write 7
+ 10372 echo     CALL  exit(0)
+
+And "Nikuko" is written as a result of echo-in-the-machine:
+
+{k:8} echo Nikuko
+Nikuko
+
+as such. There are calls and returns from the kernel; there is the prompt
+at the surface, waiting for the entrance of the user's symptom.
+
+{k:9} echo Nikuko is just such a symptom.
+Nikuko is just such a symptom.
+
+[ And I am not in the kernel, I am no longer in the shell; now I am _in
+Pico,_ the ASCII editor once again; now I have, or do not have, a name:
+Now I will send off a missile or missive (Derrida); from _now on,_ every-
+thing I do is for you - in regard to _this_ text
+
+{k:10} echo which is a symptom.
+which is a symptom.
+
+]
+
+

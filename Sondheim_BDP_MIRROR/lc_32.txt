@@ -1,0 +1,68 @@
+ 
+
+
+ii (Linkages and Couplings)
+
+
+It seems to me that, technically, couplings may be considered a form of
+proximity-relation, with the proximity falling off with distance (which
+need not be measured exactly - which need not even imply a metric); I
+believe this is a form of relation called a halfgroupoid. Think of a set
+of elements with a relation defined among some of them. Linkages are a
+form of connectivity (think of electric); relation is defined across them,
+nothing falling off. Linkages may be subgroupoids within a halfgroupoid,
+and may therefore be substructures of a coupling structure. One can think
+of a _rattling_ or _jostling_ domain consisting of a mixture; the overall
+formation is a coupling. Since a coupling may have elements with no re-
+lation with each other, but with relations with other elements that have
+relations with each other, etc., we can see it as a very weak linkage; in
+a linkage, all elements are related such that the breaking of a link re-
+sults in a deep de-linking. A breaking can result in a decoupling as well,
+the elements torn asunder, into part-objects with full or weakened links.
+
+Negation provides a way in. One might define negation within a linkage as
+the breaking of a link (think of electric); the thing breaks into two
+linkages, falls apart, most likely into a coupling. A break anywhere with-
+in a linkage negates the linkage. With a coupling, negating an element
+says nothing about the rest; the element is removed, no longer proximal.
+If the coupling is of the form abc, removal of b may weaken the coupling
+in its entirety. The negation of a negation of a linkage may result in a
+linkage - in other words, given a coupling of two linkages, created by
+negation of a link within a single linkage, the negation of the negation
+might relink them. But within the coupling, there might also be a second
+negation, removing one of the two linkages, resulting in a single linkage,
+the coupling transformed. While negation within a coupling implies the
+coupling as clutter, a-historical, negation within linkages implies that
+linkages carry history. 
+
+Negation appears overly complex here; perhaps a negation of a coupling may
+be considered a contribution to falling-apart, and a negation within a
+linkage may be irreversible, a 'hard' negation. This in fact is the case
+within the implicate order, for example, which is linked; a cut into a
+folded fluid would, I assume, reduce the rest to chaos. But then chaos of
+this sort is not a coupling, just another form of linkage; all chaos is
+linked. 
+
+Consider an addition; then if a coupling is abc, abcd or abdc, etc. can
+also be considered a coupling. A coupling might now be defined as a frame
+or framework, nothing more; there may or may not be other relations among
+the elements. An addition to a linkage results in a linkage, although
+there can also be an addition such that the linkage is embedded within a
+coupling; place a cup and saucer next to a radio.
+
+An addition may be an addendum, a diacritical mark, a surplus, an inser-
+tion, an adjacency. A linkage carries its trace, embedding additions; a
+coupling loses its trace, blind emissions. 
+
+This isn't mathematics, but the phenomenology of the entities and debris
+of the world. Once that is understood, it's also understood that contra-
+dictions are acceptable; deal with the individual frames.
+
+One might think of coupling as literally circumscribed by an economy of
+attention, and linkage circumscribed by internal articulation. Thus within
+the world-picture there is a movement from organism to loosely-coupled
+("de-coupled") assemblages - transcendent causality transformed partly
+into happenstance, societies of objects re-presented as accumulations of
+clutter.
+
+

@@ -1,0 +1,102 @@
+
+
+
+Alt.fan.Jen-coolest
+
+
+[The story so far: Jennifer experiments with NNTP, desperate to find her
+name listed on alt.fan.jen-coolest, the coolest newsgroup around. Jennifer
+finds herself locked out of site after site, finally having to settle for
+sad Panix attacks, where she reads her email in a small and almost
+pathetic voice.]
+
+{k:18} telnet news.demon.co.uk 119
+Trying 158.152.254.242...
+Connected to news.news.demon.net.
+Escape character is '^]'.
+502 access denied
+Connection closed by foreign host.
+
+{k:19} telnet news.ibmpcug.co.uk 119
+Trying 192.68.174.75...
+Connected to news.ibmpcug.co.uk.
+Escape character is '^]'.
+502 Only PCUG customers have permission to talk.  Goodbye.
+Connection closed by foreign host.
+
+{k:20} telnet news.fu-berlin.de 119
+Trying 160.45.4.4...
+Connected to thetis.fddi4.fu-berlin.de.
+Escape character is '^]'.
+502 
+You have no permission to talk to news.fu-berlin.de. If it is really
+necessary for you to gain access to our server, please contact
+news-register@fu-berlin.de, tell us your hostname as well as IP number and
+give us some time to register them. Your cur rent host is known to us as
+panix3.panix.com (198.7.0.4).  Connection closed by foreign host. 
+
+{k:21} telnet news.panix.com 119
+Trying 166.84.0.220...
+Connected to news1.panix.com.
+Escape character is '^]'.
+200 news.panix.com InterNetNews NNRP server INN 1.4unoff4 05-Mar-96 ready
+(posting ok). 
+group alt.fan.jen-coolest
+211 13 5628 5650 alt.fan.jen-coolest
+
+next 223 5629 <5f45o9$1i5@newsflash.concordia.ca> Article retrieved;
+request text separately.  next 223 5630
+<19970227151101.KAA24898@ladder02.news.aol.com> Article retrieved; request
+text separately.  next 223 5631 <kdhR2HA+hdFzEwo2@gizmo1.demon.co.uk>
+Article retrieved; request text separately.  next 223 5632
+<3315FDE1.399A@sk.sympatico.ca> Article retrieved; request text
+separately.  next 223 5633 <5f50nd$9t4@newsflash.concordia.ca> Article
+retrieved; request text separately.  next 223 5636
+<33167e74.889570@news.wcoil.com> Article retrieved; request text
+separately.  next 223 5640 <19970228162300.LAA01727@ladder02.news.aol.com>
+Article retrieved; request text separately.  next 223 5641
+<19970228162701.LAA02029@ladder02.news.aol.com> Article retrieved; request
+text separately.  next 223 5643 <bl$$DHANpNGzEw0N@gizmo1.demon.co.uk>
+Article retrieved; request text separately.  next 223 5645
+<3319e7f6.4467929@news.wcoil.com> Article retrieved; request text
+separately.  next 223 5648 <331B8CA4.418C@sk.sympatico.ca> Article
+retrieved; request text separately.  next
+
+223 5650 <5fle6h$l0i@panix3.panix.com> Article retrieved; request text
+separately. 
+
+article
+220 5650 <5fle6h$l0i@panix3.panix.com> article
+Path: news.panix.com!not-for-mail
+From: sondheim@panix.com (Alan Sondheim)
+Newsgroups: alt.fan.jen-coolest
+Subject: Jennifer Texts
+Date: 5 Mar 1997 22:37:53 -0500
+Organization: PANIX Public Access Internet and UNIX, NYC
+Lines: 16
+Message-ID: <5fle6h$l0i@panix3.panix.com>
+NNTP-Posting-Host: panix3.panix.com
+Summary: Psychosis-texts, Internet Theory through "Jennifer"
+Keywords: Avatar, Philosophy, Psychology, Cyberspace
+X-Newsreader: TIN [UNIX 1.3 unoff BETA release 961018]
+
+I have been working with Jennifer, writing/developing a continuous medita-
+tion on cyberspace; you can find the texts (Jennifer Texts) at http://jef-
+ferson.village.virginia.edu/~spoons/internet_txt.html .
+
+Jennifer writes through a variety of styles; she is listed in the index at
+the site. 
+
+It's clear that Jennifer is not an "alter ego," or "avatar," or "gender-
+bending," or "character" - but that the reality of virtual subjectivity is
+incredibly complex, bordering on psychosis, on Freudian notions of hyster-
+ia, and Butler's concepts of gender construction. 
+
+You, Jennifer and others, may find the work of interest.
+
+Alan Jen Sondheim
+quit
+205
+Connection closed by foreign host.
+
+

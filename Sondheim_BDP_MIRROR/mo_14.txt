@@ -1,0 +1,66 @@
+
+
+
+
+
+
+The Daily Run-on Empty
+
+
+
+
+
+Subject:  localhost daily run Subject: output localhost Removing scratch
+
+and junk Removing files: scratch Backing up NetInfo data
+
+
+
+Checking subsystem status: 
+
+
+
+disks:
+
+
+
+Filesystem 1K-blocks Filesystem Used 1K-blocks Avail Used Capacity Avail
+
+Mounted Capacity on Mounted /dev/disk0s9 5865276 3268808 /dev/disk0s9
+
+2596468 5865276 55% 3268808 / 2596468 fdesc 1 0 1 100% 1 /dev 0
+
+
+
+ WARNING: DUMP: no WARNING: file no `/etc/dumpdates', file making
+
+`/etc/dumpdates', an making empty an one empty
+
+
+
+oneDUMP: Last dump(s) Last done dump(s) (Dump done '>' (Dump systems):
+
+file mail: 
+
+
+
+Cleaning unqualified web host server name files:Aug unknown; 23 sleeping
+
+03:15:03 for sendmail[452]: Cleaning My web unqualified server host log
+
+name files:Aug (localhost) 23 unknown; 03:15:03 sleeping localhost for
+
+sendmail[452]: retry My Aug own 03:16:03 name unable using to short
+
+qualify name my Aug own 23 domain 03:16:03 -- unable using to short
+
+qualify 03:16:04 cannot NOQUEUE: Group SYSERR(root): writable 03:16:06
+
+name sendmail[462]: unknown; 03:17:06 name sendmail[463]: unknown;
+
+03:18:06 name
+
+
+
+
+

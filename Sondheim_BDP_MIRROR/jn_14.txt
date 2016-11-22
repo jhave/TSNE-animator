@@ -1,0 +1,5 @@
+
+(Task areas: questions):
+ Asks for orientation, information, repetition, confirmation, clarity
+ Asks for opinion, evaluations, analysis, feelings, trolls, spams
+ Asks for suggestion, direction, course of action

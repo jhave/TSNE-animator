@@ -1,0 +1,632 @@
+
+
+Notes from Utah (Alan)
+
+110812_004: Pain as separating inscription/history from the 
+inertness of the body; what's read as history from the outside 
+(and thereby entering the social), from the inside is 
+unread/unreadable. The inside is pure substance.
+
+110812_005: Inscription carries, until burial, carries a 
+specific relationship to the body until burial. Burial is a form 
+of reinscription. A line on the body - how is this interpreted 
+during life? during death?
+
+110812_012: Inscription => embodiment and maintenance; 
+maintenance => retardation: what makes for example virtual 
+particles last as long as they do? Retardation - slowing things 
+down, copying, duplicating, a poetics of dispersion, 
+holding-back. See the phenomenology of numbers: data-base, 
+interpretation, intentionality, an immersive situation, memory. 
+In doing mathematics, always dealing with temporal processes. In 
+pain: everything drops away, definable and immersive situations 
+cease to exist.
+
+110812_014: Splintering, splintered nails, leveraging of 
+particles, striations, applicable to notions of binding, 
+constriction, discomfort.
+
+110816_002: Pain of the signifier: signifier as incision, 
+disturbance, splits between the Pale and beyond the Pale. Pain 
+beyond the Pale?
+
+The pain of death: horizon foreclosing its origin and the 
+subject as well.
+
+110816_003: The work I do as obdurate, not grid or mapping, but 
+flows that are not channelized, flows that are mute - relation 
+to pain. The phenomenology of the embodiment of the signifier is 
+also mute.
+
+What I do is planless, expands into available technology on a 
+practical level, produces and reproduces that way.
+
+110816_006: My Textbook of Thinking: components of inscription: 
+linkage, syntactical structure, inscription is an ordering of 
+difference, impulse, representation-structure, legitimation 
+structure, maintenance, stabilization mechanisms, 
+positive/negative feedback, field of abjection. Excessive 
+related to corrosion. Difference between fissure and 
+inscription. Relationship of corrosion and scarcity to pain.
+
+110816_007: Phenomenology of eccentric space, Sarduy, 
+de-centering the subject, tied to abjection.
+
+110816_008: Difference between fissure and inscription; pain 
+tends towards fissure; if fissure is same and same, there's no 
+geography, no topography, no topology; the result is the crack / 
+wound, everywhere and nowhere.
+
+110818_001: Pain relates to the body as cosmology to the 
+universe. (?)
+
+110819_001: Pain in relation to virtual worlds: in 
+circumlocution of the subject who may remain impervious, the 
+degree zero of phenomenology.
+
+[See, if still available:
+http://eyebeam.org/blogs/alansondheim/ and go to the 
+beginning http://eyebeam.org/blogs/alansondheim?page=24
+if you want; there's also http://alansondheim.org/pain.txt - ]
+
+
+
+forest gesture
+
+/ $ forest is a hookll sy say Addy to gesture in the morning to 
+for that
+/ $ to event egg and scent .once this orchid i was lost and 
+nothing ckg be done about it
+/ $ o cearth be done tooth me!!
+o cearth be done tooth meto event egg and scent .once this 
+orchid i was lost and nothing ckg be done about it
+/ $ the forest is a
+/ $ hook
+/ $ three birds above in the empyrean and this orchid
+/ $
+/ $ the meadow
+/ $ the darling skies there angelic orders live the forest is a 
+hook .
+/ $ here there are
+/ $ rich hillocks and Greeks held forth / the sign blossomed / 
+tuition futurefreereescent of the event / now unfounded
+/ $ o cearth be done tooth me!!
+/ $ and the forest a hook, and scent 
+/ $ 
+
+
+
+
+for sebastian droste and anita berber
+ndroosuicide
+suicide
+suicide
+suicide
+suicide
+the repetition (re)creates the death-drive
+as automotive; it's the machine in them that
+does the dying .
+or rather the twitter feed caught looping
+/ $ or a thyeory unsure of tariff tariff itstooluff as
+bash: or: command not found
+/ $ construct f meaning . meanwhile the deaths
+go on .
+bash: construct: command not found
+/ $ they go on .
+bash: they: command not found
+/ $ repetition oof RuICUiI'd suicide
+teFDCICOreadyio9occurs inkloyoonly
+>
+> onceJJGCE .
+the period stepped out, frightened of the words trailing
+behind . (period's ridden with anxiety, full stress .)
+(they gone .)
+>
+suicide
+suicide
+suicide
+the repetition (re)creates the death-drive
+as automotive; it's the machine in them that
+does the dying.
+or rather the twitter feed caught looping
+/ $ or a thyeory unsure of tariff tariff itstooluff as
+bash: or: command not found
+/ $ construct f meaning . meanwhile the deaths
+go on .
+bash: construct: command not found
+/ $ they go on .
+bash: they: command not found
+/ $ repetition oof RuICUiI'd suicide FDCICOreadyio9occurs inkloyoonly
+>
+> onceJJGCE .
+>
+(or the period gone  )
+
+
+
+
+
+Center for Jewish Studies talk at UMN, 12/02/13
+
+
+Thanks to the wonderful presentations by Elizabeth Workman, 
+Maria Damon, and Eric Lorberer, and thanks for the amazing 
+dance/choreography in my talk by Foofwa d'Imobilite, Azure 
+Carter, and Maud Liardon, as well as song by Azure Carter.
+
+I put my own talk up at http://www.alansondheim.org/Jewish.mp3
+- without the video of course; some of it might be worth 
+hearing. I do want to especially thank Eric for his introduction 
+and responses to all of us. I also put up a text of manipulated
+examples at http://www.alansondheim.org/examples.txt . Enjoy.
+
+- Alan (examples.txt below)
+
+
+Text Manipulation Examples
+
+
+trAce: http://tracearchive.ntu.ac.uk/writers/sondheim/
+-- scroll through texts
+trAce Lost Project: http://tracearchive.ntu.ac.uk/lost/
+
+
+Normal
+
+Every organism is an organism of and by slaughter, every landscape, a
+landscape of death. Hannibal's elephants haunt the Alps. Where nothing
+lives always has fuzzy boundaries where the limited exigencies of life are
+contested. I think of the unholy matri-patrimony of aM and what it has led
+to, almost a denial that only Rilke was capable of. Actually climbing to
+the bluff, the church, the grave, seems an impossible memory now, as if I
+have robbed the experience of another. Memories always teeter on the verge
+of recognition.
+
+Back through awk
+{
+ for ( i = NF; i >= 1; i-- )
+ printf "%s ", $i;
+ printf "\n";
+}
+
+a landscape, every slaughter, by and of organism an is organism Every 
+nothing Where Alps. the haunt elephants Hannibal's death. of landscape 
+are life of exigencies limited the where boundaries fuzzy has always lives 
+led has it what and aM of matri-patrimony unholy the of think I contested. 
+to climbing Actually of. capable was Rilke only that denial a almost to, 
+I if as now, memory impossible an seems grave, the church, the bluff, the 
+verge the on teeter always Memories another. of experience the robbed have 
+recognition. of 
+
+Rev
+
+a ,epacsdnal yreve ,rethguals yb dna fo msinagro na si msinagro yrevE
+gnihton erehW .splA eht tnuah stnahpele s'labinnaH .htaed fo epacsdnal
+era efil fo seicnegixe detimil eht erehw seiradnuob yzzuf sah syawla sevil
+del sah ti tahw dna Ma fo ynomirtap-irtam ylohnu eht fo kniht I .detsetnoc
+ot gnibmilc yllautcA .fo elbapac saw ekliR ylno taht lained a tsomla ,ot
+I fi sa ,won yromem elbissopmi na smees ,evarg eht ,hcruhc eht ,ffulb eht
+egrev eht no reteet syawla seiromeM .rehtona fo ecneirepxe eht debbor evah
+.noitingocer fo
+
+Tac through vi :g/^/mo0
+
+of recognition.
+have robbed the experience of another. Memories always teeter on the verge
+the bluff, the church, the grave, seems an impossible memory now, as if I
+to, almost a denial that only Rilke was capable of. Actually climbing to
+contested. I think of the unholy matri-patrimony of aM and what it has led
+lives always has fuzzy boundaries where the limited exigencies of life are
+landscape of death. Hannibal's elephants haunt the Alps. Where nothing
+Every organism is an organism of and by slaughter, every landscape, a
+
+tr A-Z a-z 
+
+every organism is an organism of and by slaughter, every landscape, a
+landscape of death. hannibal's elephants haunt the alps. where nothing
+lives always has fuzzy boundaries where the limited exigencies of life are
+contested. i think of the unholy matri-patrimony of am and what it has led
+to, almost a denial that only rilke was capable of. actually climbing to
+the bluff, the church, the grave, seems an impossible memory now, as if i
+have robbed the experience of another. memories always teeter on the verge
+of recognition.
+
+tr transposition
+
+Evory orqknssm ss kn orqknssm op knn ly slkuqrtor, ovory lknnsmkpo, k
+lknnsmkpo op noktr. Hknnslkl's oloprknts rkunt tro Alps. Wroro notrsnq
+lsvos klwkys rks puzzy lounnkrsos wroro tro lsmston oxsqonmsos op lspo kro
+montoston. I trsnk op tro unroly mktrs-pktrsmony op kM knn wrkt st rks lon
+to, klmost k nonskl trkt only Rslko wks mkpkllo op. Amtuklly mlsmlsnq to
+tro llupp, tro mrurmr, tro qrkvo, sooms kn smposssllo momory now, ks sp I
+rkvo rollon tro oxporsonmo op knotror. Momorsos klwkys tootor on tro vorqo
+op romoqnstson.
+
+substitution
+
+Evory orgonosm os on orgonosm of ond by slooghtor, ovory londscopo, o 
+londscopo of dooth. Honnobol's olophonts hoont tho Alps. Whoro nothong 
+lovos olwoys hos fozzy boondoroos whoro tho lomotod oxogoncoos of lofo oro 
+contostod. I thonk of tho onholy motro-potromony of oM ond whot ot hos lod 
+to, olmost o donool thot only Rolko wos copoblo of. Actoolly clombong to 
+tho bloff, tho chorch, tho grovo, sooms on ompossoblo momory now, os of I 
+hovo robbod tho oxporoonco of onothor. Momoroos olwoys tootor on tho vorgo 
+of rocognotoon.
+
+Pig-Latin
+
+Everyway organismway isway anway organismway ofway andway ybay 
+aughterslay, everyway andscapelay, away andscapelay ofway eathday. 
+Annibalhay'say elephantsway aunthay ethay Alpsway. Erewhay othingnay 
+iveslay alwaysway ashay uzzyfay oundariesbay erewhay ethay imitedlay 
+exigenciesway ofway ifelay areway ontestedcay. IWAY inkthay ofway ethay 
+unholyway atrimay-atrimonypay ofway aMway andway atwhay itway ashay edlay 
+otay, almostway away enialday atthay onlyway Ilkeray asway apablecay 
+ofway. Actuallyway imbingclay otay ethay uffblay, ethay urchchay, ethay 
+avegray, eemssay anway impossibleway emorymay ownay, asway ifway IWAY 
+avehay obbedray ethay experienceway ofway anotherway. Emoriesmay alwaysway 
+eetertay onway ethay ergevay ofway ecognitionray.
+
+Punched Cards
+___________
+| o   .o o|
+| ooo .oo |
+| oo  .o o|
+| ooo . o |
+| oooo.  o|
+|  o  .   |
+| oo o.ooo|
+| ooo . o |
+| oo  .ooo|
+| oo  .  o|
+| oo o.oo |
+| oo o.  o|
+| ooo . oo|
+| oo o.o o|
+|  o  .   |
+| oo o.  o|
+| ooo . oo|
+|  o  .   |
+| oo  .  o|
+| oo o.oo |
+|  o  .   |
+| oo o.ooo|
+| ooo . o |
+| oo  .ooo|
+| oo  .  o|
+| oo o.oo |
+| oo o.  o|
+| ooo . oo|
+| oo o.o o|
+|  o  .   |
+| oo o.ooo|
+| oo  .oo |
+|  o  .   |
+| oo  .  o|
+| oo o.oo |
+| oo  .o  |
+|  o  .   |
+...
+
+Eliminate
+
+#!/usr/local/bin/perl5
+while (<STDIN>) {
+        @words = split /[\s]+/, $_;
+        @spaces = split /[\S]+/, $_;
+	for ($x=0; $x <= $#words; $x++) {
+                $word_count{$words[$x]}++;
+if ($word_count{$words[$x]} == 1) {print $words[$x],$spaces[$x+1]}
+                }
+        }
+
+Every organism is an of and by slaughter, every landscape, a landscape 
+death. Hannibal's elephants haunt the Alps. Where nothing lives always has 
+fuzzy boundaries where limited exigencies life are contested. I think 
+unholy matri-patrimony aM what it led to, almost denial that only Rilke 
+was capable of. Actually climbing to bluff, church, grave, seems 
+impossible memory now, as if have robbed experience another. Memories 
+teeter on verge recognition.
+
+Elimx.pl 
+#!/usr/local/bin/perl5
+
+while (<STDIN>) {
+        @words = split /[\s]+/, $_;
+        @spaces = split /[\S]+/, $_;
+	for ($x=0; $x <= $#words; $x++) {
+                $word_count{$words[$x]}++;
+if ($word_count{$words[$x]} == 1) 
+   {print $words[$x],$spaces[$x+1],$words[$x-8],"\n"}
+                }
+        }
+
+Every organism
+organism of
+is and
+an by
+of every
+and landscape,
+by a
+slaughter, Every
+every organism
+landscape, is
+a
+an
+landscape death.
+death. elephants
+Hannibal's haunt
+elephants the
+haunt Alps.
+the Where
+Alps. nothing
+Where landscape
+nothing
+of
+lives boundaries
+always where
+has the
+fuzzy limited
+boundaries exigencies
+...
+
+Mathesis
+
+&parse_file_into_words("zz", 4000, " \$i/4 - 10 * sin(\$i * 20)");
+sub parse_file_into_words
+{
+         print "\n";     #blank line
+         my ($extract_filename, $iterations, $formula) = @_;
+         open(IN,  "< $extract_filename")  or die("can't open 
+$extract_filename:
+         $!");
+         my $line, $i, $index;
+         my $full_file = "";
+         while ($line = <IN>)
+         {
+                 chomp($line);
+                 $full_file = join " ", $full_file, $line;
+         }
+         close(IN);
+         my @words = split(/\s+/, $full_file);
+         for ($i=1; $i<=$iterations; $i++)
+         {
+                 $index = word_index($i, $formula)-1;
+                 print "$words[$index] ";                
+         }
+         print "\n";     #blank line
+}
+sub word_index
+{
+         my $ret_val;
+         my ($i, $formula) = @_;
+         $ret_val = eval($formula);              
+         return int $ret_val;            
+}
+
+another. always organism slaughter, organism on another. recognition. 
+slaughter, every always the of a and verge teeter organism a a organism 
+the recognition. slaughter, death. slaughter, recognition. verge of death. 
+of an of organism landscape haunt landscape, Every slaughter, haunt 
+Hannibal's of organism Hannibal's Alps. landscape is is landscape Where 
+the by is slaughter, Alps. lives of organism of Hannibal's always Where 
+every organism a lives has Hannibal's and slaughter, Alps. boundaries 
+lives a by Hannibal's boundaries boundaries haunt every landscape always 
+limited has of landscape, Alps. limited limited Alps. a Hannibal's 
+boundaries life fuzzy Hannibal's of lives life of nothing death. Alps. 
+exigencies contested. where haunt elephants boundaries I are always haunt 
+lives are of limited Alps. Alps. exigencies the I fuzzy Alps. boundaries 
+of unholy of lives always are of of where lives limited matri-patrimony aM 
+are has boundaries of what unholy limited fuzzy are and what I where 
+limited matri-patrimony led of of the think led led of limited are what 
+almost and are of matri-patrimony a almost unholy life think led that it I 
+contested. what only denial of contested. matri-patrimony denial was led 
+of of led capable only aM of and Rilke of. almost matri-patrimony 
+matri-patrimony denial climbing was what matri-patrimony led Actually to 
+denial aM what was bluff, of. has and denial the bluff, only what led 
+Actually church, climbing to, has Rilke church, church, Rilke led denial 
+bluff, seems the denial almost Actually seems grave, capable almost Rilke 
+the memory the only that the now, impossible Actually that Actually 
+impossible as the was was the I now, to was the as have seems of. Actually 
+impossible the if bluff, Actually the have the an to bluff, as of have 
+church, to an of another. memory bluff, the robbed always the grave, the 
+as always always as the an of the of an grave, robbed the on I seems as 
+teeter recognition. Memories now, memory of recognition. verge robbed 
+memory have verge teeter if if teeter recognition. experience if of on 
+have robbed verge another. have always verge the of always experience 
+verge recognition. another. teeter on Memories always verge verge on the 
+recognition. of recognition.
+
+GoogleScrape (raw)
+
+"landscape of sex and death" 
+true In Kevin Pattersons fictional debut, Country of Cold:
+Stories of Sex and Death,  landscapes of physical
+and emotional extremes are traversed by a group of ...
+Pattersons fictional debut, Country of Cold: Stories of Sex
+and Death,  landscapes of physical and emotional
+extremes are traversed by a group of ...
+Sex harassment cases tread rough landscape ...
+Gamow said he had not  engaged in sex with Ruehlman.
+Liquor store rampage ends in death ...
+true pop ought to offer a deeply alluring landscape,
+both actual and symbolic,  You - the Sex
+Pistols, the Clash, or any of those other Golden Age ...
+significance do other landscapes, like the desert and the
+English countryside,  Can you find other places in the
+novel where sex and death are ...
+03&view=rg 28k true What significance do other landscapes, like
+the desert and the English countryside,  Does it seem
+to you that Almasy links sex with death and pain?
+...
+ew=rg 26k true What significance do other landscapes, like the
+desert and the English countryside,  Can you find other
+places in the novel where sex and death are ...
+132k true This singular book follows a mad, tumultuous
+landscape without remorse or  Gilmore obsesses
+on a relentless panorama of sex, violence and death in
+five ...
+the authors note, Cerda
+s Aftermath and Buttgereit
+s Nekromantik (1
+and 2)  may signal a saturation point for sex and death,
+but without these films there ...
+93?OpenDocument 19k true Respect for the opposite sex and the
+Christian interpretation of death  when deciding
+on the research method for the Swiss wish landscape study,
+landscape of sex and death 
+
+Simple perl program results:
+
+Give a name to your hunger!
+
+This Every organism is an organism of and by slaughter, every landscape, a 
+speeds endlessly through the body -
+Your squeezed is the currency of your drug - 
+Ah...
+
+Your lost-body-skins are your juice? 
+
+I love these feelings, Every organism is an organism of and by slaughter, 
+every landscape, a ...
+
+for ecstasy me in your juice!
+
+What do you call your the squeezed?
+
+Your drugs - list them... 
+one by one, each on a line alone, typing Control-d when done.
+
+My the bluff, the church, the grave, seems an impossible memory now, as if 
+I is yours...
+
+lives always has fuzzy boundaries where the limited exigencies of life are 
+calls forth cock on, eating, core-dumping.
+
+inside the heavens, lives always has fuzzy boundaries where the limited 
+exigencies of life are is , 039], landscape of death. Hannibal's elephants 
+haunt the Alps. Where nothing?
+
+... on is contested. I think of the unholy matri-patrimony of aM and what 
+it has led here, it's on?
+
+Are you properly compiling lives always has fuzzy boundaries where the 
+limited exigencies of life are?
+
+For 1 the days, I have been junkie Julu ...
+and it has taken you just 0.133 minutes turning on ...
+
+
+(simple mash-up)
+
+yipes!
+
+yassmee ,yargeva yahte ,yahchcru yahte ,yalbffu yahte yacta yaghthrou
+yalhanniba'yas yafo yasmorgani yaghrou yawlandscape yanthau yalpsa.
+yangnothi yawwhere yawlandscape yasmathesi yaothingnay yasstorie yawage
+... yashengli yawcountryside, yanca yawyou yandfi yarothe yadpunche
+yardsca yaweliminate yaevery yasmorgani yasi yana yafo yanda yaby yasplace
+yani yawlondscopo, yawo yagpi-yanlati yaeveryway yaorganismway yaisway
+yaanway yaorganismway yaofway yasday, yawi ... yawgamo yadsai yawhe yadha
+yatno yadengage yani yaxse yathwi yanruehlma. yawlandscape, yawjunkie
+yawjulu ... yaxtte yanmanipulatio yasexample yalnorma yaevery yasmorgani
+yangclimbi yarslaughte, yaevery yawlandscape, yawa yackba yaghthrou yawka
+yawi yafi yawgooglescrape (yawra) ,yanwo yangcompili yaslive yasalway
+yasha yafuzzy yasboundarie yawwhere yawthe yawthe yawlknnsmkpo, yaevery
+yasmorgani yasi yana yasmorgani yafo yanda yaby yarslaughte, yadsqueeze?
+yaryou yak yaevory yaalpsway. yaerewhay yawimpossible yana yamssee
+yawgrave, yawthe yarchchu, yawthe yaffblu, yaevery yana yasmorgani yafo
+yanda yaby yarslaughte, yatwha yawdo yawyou yallca yaryou yawhave yanda
+yaby yawthose yarothe yangolde yaandway yaybay yaannibalhay'yasay
+yaelephantsway yaaunthay yafo yaxse yawto, yasha yawrilke yarchchu,
+yarchchu, yawrilke yadle yaldenia yamyrome yawelbissopmi yawna yaany yafo
+yawthe yanchristia yawrampage yandse yani yathdea ... yalspisto, yawthe
+yashcla, yaro yaproperly yawvi yalhanniba'yas yalpsa. yawlandscape yasi
+yasi yawlandscape yawwhere yaactually yarchchu, :yag/^/yawmo0
+yalhanniba'yas yaha... yaryou yastlo-yabody-yansski yaware yaryou
+yawjuice? yawi yawlove yasmorgani yasi yamssee yana yawimpossible yamemory
+yawno, yasa yafi yawi yasi yarsyou... yaware yawyou yaethay yasmorgani
+yasi yana yasmorgani yafo yanda yaby yacountry yafo yaldco: yasstorie yafo
+yaxse yaxse yantharassme yanda yathdea, yaslandscape yafo yalphysica
+yanspatterso yalfictiona yatdebu, yafo yarfo 1 yawthe yasmorgono yaso yano
+yasmorgono yafo yando yaby yarslooghto, yaovory yawthese yangsfeeli,
+yagsdru - yasa yawno, yamemory yarslaughte, yaevery yawlandscape, yawa
+yaryou yadsqueeze yasi yawthe yacurrency yaryou yagdru - yarslaughte,
+yaevery yawlandscape, yawa yawlandscape yamxeli.yapl yaevery yanbee yawa
+yaevory yarqknssmo yass yakn yarqknssmo yapo yaknn yaly yarslkuqrto,
+yaovory yascase yadtrea yastli yamthe... yamy yawthe yaffblu, yawthe
+yarchchu, yawthe yawgrave, yawthe yavre yawi yawfi yawsa yaevery yarliquo
+yawstore yawname yawto yaryou yarhunge! yasthi yaevery yasmorgani yasi
+yana yasmorgani yafo yaninterpretatio yafo yathdea yanwhe yangdecidi
+yawsimple yarlpe yamprogra yaltsresu: yawgive yawa
+
+Using Chat
+
+the session of creation
+
+[Alan Sondheim joined the session]
+[Alan Sondheim started recording]
+Alan Sondheim: Listening to this session for the echo in the room.
+16-Jan-2007 16:15:14 GMT
+Alan Sondheim: "Recording this session" "Listening to this session"
+16-Jan-2007 16:15:25 GMT
+Alan Sondheim: I remember when I used to write into the void,
+there were great hollows, condors, sublime worlds beyond worlds
+16-Jan-2007 16:16:18 GMT
+Alan Sondheim: And because the worlds were beyond worlds, because of this,
+there were worlds invisible, worlds hidden by the truths of others.
+16-Jan-2007 16:16:47 GMT
+Alan Sondheim: They recorded only as echoes, they sounded only as echoes.
+16-Jan-2007 16:17:04 GMT
+Alan Sondheim: That was the beginning of appearance, that was the ending
+of dreams.
+16-Jan-2007 16:17:30 GMT
+[Alan Sondheim stopped recording]
+
+
+
+
+Straw
+
+1.
+
+They toiled mightily in their homeland, erecting an enormous dam 
+in order to bring electrification to the downtrodden farmers and 
+small merchants who lived by their wits enslaved by the tawdry 
+religious institutions that held them in bondage for eons while 
+they uselessly toiled for others well up in the food-chain who 
+cared not a wit about anything except the straw which hardened 
+the river mud in order to create the towering slopes of an 
+enormous dam erected to bring electrification to those same 
+downtrodden farmers and peasantry who lived by their wits 
+beneath the religious overlords who held them in fiefdom for 
+millennia while someone toiled for someone else eating well up 
+in the food chain who lived by her wits bringing electrification 
+to the enormous towers and their adobe slopes
+
+2.
+
+http://lounge.espdisk.com/archives/1237 (best)
+http://espdisk.com/alansondheim/straw.mp3
+
+With the microphone so close to the toiling bow against the 
+strings of the madcap viola struggling out of control under 
+the weight of the heavy mute, it was impossible not to hear 
+the toil of the laborers
+
+
+
+Hay
+
+http://lounge.espdisk.com/archives/1239 (best)
+http://espdisk.com/alansondheim/straw2.mp3
+
+sweetened straw, on about the tunnel or illuminated rind ice 
+against the rim but drawing you in, from pomo to romance, what 
+was soiled and toiled now murmurs inside the body, so many 
+tissues and organelles
+
+i work through these, i'm not deaf you know, their clarity 
+shines for me if for no one else, grant me paranoia
+
+

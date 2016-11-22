@@ -1,0 +1,3 @@
+BEGIN
+The Interior Enfolded Indefinite Maze 
+(as Defined by Lars Pensj| and Olaf Kolbu)

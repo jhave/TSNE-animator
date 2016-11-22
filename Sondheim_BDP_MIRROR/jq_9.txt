@@ -1,0 +1,33 @@
+
+
+
+Lieu
+
+
+The first Lieu runs as .htm, cutting/incising into the textual body; it is
+lieu.htm. The second Lieu substitutes language for html, transforms other
+sections of the texts, results in a breathing-apparatus. The first places
+text between < >, as with a block of granite, sculpted away; intermediate
+sections between <text> and </text> are visible. Formally, using <!-- and
+--> locates comments, but browsers tend to ignore extraneous uninterpret-
+able commands. 
+
+Thus a document can be written to be doubly read, one way with .htm ex-
+tensions, and one way without; further, it can be additionally encoded as
+well, so that, saving it as .txt then results in another document that can
+be moved to .htm. Over and over again, things thicken, take on attributes
+of the book of the world, dense, particulate, broken or sheared, _talus_
+sloping nowhere.
+
+The breathing-apparatus of the second Lieu/place places Jennifer at the
+heart of commands; the text is no longer performative, but mimics the body
+constructed by repeated sed 's/foo/bar/g' commands. The first Lieu pro-
+duces the second; in creating the second, I am well aware of the _body of
+the text_ itself, sed an operator _onto_ totality, the text hidden as I
+shuttle back and forth between twin files, churning itself according to
+the pronouncement of surgery or suture: sed 's/foo1/bar1/g' < z1 > z2, and
+sed 's/foo2/bar2/g' < z2 > z1, etc. What results is a simulacrum of the
+hysterical embodiment of attempted speech, Jennifer-Alan-suppuration.
+
+By way of explanation, in place of / Lieu. 
+

@@ -1,0 +1,4 @@
+
+/usr/bin/perl -MCPAN -e install SOAP::Lite
+
+ 

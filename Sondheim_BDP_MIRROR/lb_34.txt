@@ -1,0 +1,43 @@
+
+
+
+
+Removed or Dysfunctional Utilities, Slackware Distribution on C:\linux\
+
+
+cdutils emacsbin fvwm2 fvwmicns joe koules lesstif ltstatic minicom
+oldlibs5 oldlibs6 ppp qv-utils x3dl x8514 xagx xaw3d xbin xcfg xdoc xf100
+xfb xfcyr xfnon xfnts xfract xfscl xfsrv xhtml xi128 xjdoc xjset xlib
+xlock xma32 xma64 xma8 xman xmono xnest xp9k xpm xprog xprt xps xs3 xs3v
+xset xsvga xv xvfb xvg16 xw32 emac_nox* emacsbin* fileutls* fvwm2* gpm*
+all the x's gone, no visual imagery, even 'seejpeg' messes up the pictures
+- this primitive system of acronyms cutting through the darkness with one
+error message after another, libraries missing, files not found, video
+modes unsupported, silent modems, irregular IRQs, program conflicts
+joe* koules* lesstif* minicom* oldlibs5* oldlibs6* ppp* tcpip1* x3dl*
+x8514* xagx* xaw3d* xbin* xcfg* xfb* xi128* xlib* xma32* xma64* xma8*
+xmono* xp9k* xpm* xprog* xs3* xs3v* xsvga* xvg16* xw32*
+i'm locked here in the system, banging at the outerwall of telephone cable
+and silence everywhere at the other end, broken protocols and mismatches,
+you can't hear or see me, not until later, i'll retrieve the file through
+the dos directory structure, i'll prove to you my failure, you'll have no
+doubt about the occurrence, what happened here... everywhere... the mouth
+sealed shut, electrical cauterization of the vocal cords...
+Aug 20 23:25:05 nikuko pppd[664]: pppd 2.3.7 started by root, uid 0
+Aug 20 23:25:07 nikuko pppd[664]: Exit.
+Aug 20 23:26:39 nikuko pppd[680]: pppd 2.3.7 started by root, uid 0
+Aug 20 23:26:40 nikuko chat[681]: timeout set to 60 seconds
+Aug 20 23:26:40 nikuko chat[681]: abort on (ERROR)
+Aug 20 23:26:40 nikuko chat[681]: abort on (BUSY)
+Aug 20 23:26:40 nikuko chat[681]: abort on (NO CARRIER)
+Aug 20 23:26:40 nikuko chat[681]: abort on (NO DIALTONE)
+Aug 20 23:26:40 nikuko chat[681]: send (AT&FH0^M)
+Aug 20 23:26:40 nikuko chat[681]: expect (OK)
+Aug 20 23:27:40 nikuko chat[681]: alarm
+Aug 20 23:27:40 nikuko chat[681]: Failed
+Aug 20 23:56:22 nikuko -- MARK --
+inaccessible speech, the slackware distribution running in the C:\linux
+directory in DOS, over 12,000 files in this particular minimal install,
+always faced with the failure shunting me back into local text, putting a
+lid on it, closing down the body, foetal, curling internally and nesting
+

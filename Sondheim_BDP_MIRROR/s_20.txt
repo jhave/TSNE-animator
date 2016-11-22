@@ -1,0 +1,91 @@
+
+
+
+Interim Report
+
+
+Here's some information on our (Kayo Matsushita's and my) explorations at 
+the moment. It may be of interest. I'd also recommend people to look at 
+the current issue of Byte, which has articles on avatars, Internet tele- 
+phony and video, and linux.
+
+We installed lynx 2.4.2 (I believe) on a linux machine without difficulty; 
+it can be configured for either a personal account (which anyone can do on
+their unix server) or system-wide on the machine. We did the former. 
+There is a lynx.cfg file that sets the parameters, like the netscape.ini 
+file; we've got the home-page set to a bookmarks file. This went in easily.
+
+We installed NUTS2.3 (I believe) which is the easiest talker to use, I 
+believe; there's a datadir directory with a init_data file that is very 
+simple and allows the wizard to create room exits and entrances, as well 
+as permissions. There are also .atmos (atmosphere) files which contain 
+statements that appear randomly in the rooms - one for each room. 
+Finally, there are the room descriptions themselves and a map.
+
+NUTS is very configurable; the rooms for example could be long texts - one
+could enter essays for a seminar that way. There is a .read and .write
+system for messaging that could be used for discussion. In this manner, 
+one would enter, as a student, a textual space which could then be used 
+as a basis for discussion. You don't have to read the entire text each 
+time you enter, by the way.
+
+Another advantage with NUTS is the .echo command, which works without 
+diacritical marks, although you can't use it with the name of an on-line 
+participant. It has emote, say, tell, etc. as well. Mail can be left.
+
+NUTS installed with error messages that we were able to ignore. We also 
+installed Lorien, and this is more complicated; there were error messages 
+galore and the system runs oddly, but it runs nonetheless. We didn't try 
+this out with telnet. 
+
+Finally, we installed a small Haven/zone, which was around 80k I believe 
+unexpanded. This is the simplest talker, much like IRC, without many 
+commands; there's no password and anyone can login. You set your own name 
+with /n <name> for example. It runs lean and fast; there were few error 
+messages.
+
+For those wanting to play with this stuff, you can find it all over the
+Net. You can generally rewrite the databases completely; on the lpmud I
+worked on a while ago, the space was _vastly_ configured into an entirely
+different sort of landscape. If you have permissions and the programs
+allow it, you can run them as daemons such as haven -d 4000, which would
+direct haven as a daemon to port 4000. You can also use the interesting
+command nohup, no hang-up, as a background process; for example nohup
+haven -d 4000 & where the & backgrounds. With the lambda moo, you run it
+with a database, .db extension; you can also have a second data- base
+which can be used as a checkpoint dump. (You can also checkpoint as a
+wizard from within the MOO. Checkpointing simply means creating a .db.old
+so that the database is saved in case the MOO goes down. Otherwise your 
+work is lost.)
+
+It's easy on the MOO and NUTS to keep outsiders out, or give specified 
+passwords, etc., so there is some control over the environment which may 
+or may not be useful.
+
+Linux itself works like a charm; the bash shell is like the korn shell 
+and takes the same alias structure. The version 1.2.8 (I believe) we're 
+usng has strange stuff like calendar on, which I didn't expect; it uses 
+an X terminal that makes opening other shells extremely easy.
+
+Some of the things we're going to experiment with - ThePalace, which is a
+graphics MOO environment from Time Warner; Prism, a TinyMud descendent,
+and Lily, a conference data-base which fits over the MOO core. We're
+running the things that work both on a LAN and open privately to ourselves
+on the Net, so we can experiment by telnetting in. Eventually, various 
+applications will be open to the New School, and some will hopefully be 
+open in general. We're a bit worried about bandwidth and hacking of 
+course, if the sites become even the slightest bit popular.
+
+(I should add my own interest stems from the phenomenology of the differ-
+ent applications and the ability to treat them as highly-activated texts
+to write within/without. The NUTS and lpmud, for example, both contain a 
+lot of writing that constructs application-wide environments, almost like 
+crystals. The MOO will be collaborative, of course, once it gets in more 
+open operation. We're not that familiar with Lily to comment on it. The- 
+Palace, as a server, allows one to use home-made gifs as rooms, and to 
+specify entrances and exits within them. That's thrilling. The gifs have 
+to conform to a particular spectrum (wide-range though) and size; other 
+than that, they're fair game...)
+
+Alan
+

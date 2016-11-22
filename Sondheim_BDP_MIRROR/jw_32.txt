@@ -1,0 +1,123 @@
+
+
+
+
+
+	PRELIMINARY USER'S GUIDE TO THE ARPA NETWORK
+
+
+1   	_Overview_
+
+The socket connection is viewed as a device and setting up a connection is
+analogous to mounting a disk pack or, in the 10/50 system, to assigning a
+logical name to a device. The user establishes a connection (via the UUO
+given below) and performs normal I/O, including file manipulations (initi-
+ally not implemented). The connection is permanent for the life of the
+user's job (unless it is explicitely closed). The user interface to the
+network is a pseudo-device labelled an "IMP". Each IMP is capable of a
+transmit and/or a receive socket connection. The IMP has been constructed
+to resemble as much as possible the device types on the PDP-10 timesharing
+system. Thus existing programs can be expected to work over the network.
+
+2 	_Implementation_
+
+2A 	NCP Interface
+
+2A1	The user interfaces with the NCP via a single UUO. The calling se-
+	quence is:
+
+	MOVE AC,[ (<FLAGS>B8) + <CODE> ,, E]
+	CALLI AC,-5   OR CALL AC,[SIXBIT -IMPUUO-]
+	  ERROR RETURN...	ERROR CODE PLACED IN E+1
+ 	OK RETURN...		FUNCTION COMPLETED
+
+		...
+
+	E:	SIXBIT /NAME/	;DEVICE LOGICAL NAME
+		O		;RETURN ARGUMENTS
+		<SOCKET>	;LOCAL (8 BIT) SOCKET NUMBER
+		<STATE>,,<HOST> ;INITIAL STATE(BYTE SIZE,
+				;   ETC.), REMOTE HOST
+		<REMOTE SOCKET> ;REMOTE(32 BIT) SOCKET
+
+2A2	Operation
+
+Upon execution of the IMPUUO, the exec first identifies the requested
+function and verifies that the user is privileged to use the facility. The
+device identified in location E is then found and assigned by console to
+the user. If the device cannot be found and the function is of the
+connection type, then a free IMP is given to the user. If the specified
+name is null or "IMP", then the physical name of the device (IMP1,  IMP2,
+IMP3,  etc.) is written over it. Otherwise, the supplied name is given to
+the IMP as a logical name.
+
+The NCP(Network Control Program) is called to generate the proper control
+messages and the current socket state (see section 2A5) is updated, as ap-
+propriate. If the function is one of those that wait for a reply from the
+remote host, the user's job is placed in I/O wait until that reply arrives
+or a timeout occurs (timeout occurs) timeout not yet implemented). When
+the operation has been completed, the skip return is taken. Whenever an
+error is detected, the proper code is deposited in E+1 and the non-skip
+return is taken.
+
+2A3 Function Codes
+
+The function codes are not yet fixed and are subject to immediate altera-
+tion. The current set is:
+0	Return the status of transmit socket in left half of E+1 and the
+	receive socket in the right half of E+1. See 2A5 for an explana-
+	tion of the state codes.
+1	Start making the connection specified.
+2	Start closing the connection specified.
+3	Same as (1), but wait for completion.
+4	Same as (2), but wait for completion.
+5 	Listen for external requests for connection.
+6 	Flush all requests.
+7	Get the next external request.
+8	Accept the latest request.
+9	Reject the latest request.
+10	Connect the user's teletype to the specified socket pair. Both	
+	must be open.
+11	Specify a translation code. (unimplemented)
+12	Send an interrupt on link.
+13	Trap to specified address on receipt of an interrupt on link. 
+	Address is in E+!.
+14	Return the version numbers of the IMP service and the NCP in the
+	left and right halves of E+1, respectively.
+
+64	Send a "RST"
+65	Send an "ALL". Arguments in E+1 and E+5.
+66	Send a "GVB".
+67	Send a "RET".
+68	Send an "ECO".
+69	Send an "ERP".
+
+2A4	Error Codes
+
+	When the non-skip return is taken, an error code is deposited in
+	E+1 as follows:
+
+0	The function is not available (illegal or not implemented).
+1	There is no such device (IMPn with n too big).
+2	The device is not available.
+3	The device is not an IMP.
+4	The socket must be closed for this operation.
+5	System error -- socket wouldn't open.
+6	Socket must be open for this operation.
+7	System error -- socket wouldn't close.
+8	Socket must be listening for this operation.
+
+2A5 Socket States
+0	S.CLOS	Closed
+1	S.LSTN	Socket is listening for incoming requests.
+2	S.RFCN	An RFC has arrived on a listening socket
+3	S.ABRT  A CLS was received for a socket in S.RFCN state.
+			(aborted request)
+4	S.RFCW 	A RFC was sent. An answer is expected.
+5	S.OPEN	Open for data transfer.
+6	S.CLSW	A CLS was sent. A reply is expected.
+7	S.RFMW	Waiting for a RFNM before issuing a CLS.
+8	S.CLRC	Awaiting a CLS for the logger
+9	S.RMLW	Awaiting a RFNM for the logger.
+
+

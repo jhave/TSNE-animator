@@ -1,0 +1,26 @@
+
+
+
+	"
+	I have fought the good Fight	byte
+	I have put on my Mail		email
+	Fought many a Knight		byte
+	And won without fail		email
+	But was never so strong		integer long	
+	At the moment of Light		byte
+	When right or when wrong	integer long
+	I ran and took flight		byte
+	Too late I had lain		packet train
+	God's Dark was too long		integer long
+	I found I had slain		packet train
+	God's Love with my song		integer long
+	So I wait and bewail,		email
+	By my Bed and in pain		packet train
+	I'll die in the Gaol		email
+	Of God's love without gain:	packet train
+	"I have fought the good Fight	byte
+	"I have put on my Mail		email
+	"Fought many a Knight		byte
+	"And won without fail."		email
+	"
+

@@ -1,0 +1,17 @@
+ 
+
+gdm:
+   Unknown Entries:
+      authentication failure; logname= uid=0 euid=0 tty=:0 ruser=gdm rhost=localhost : 1 Time(s)
+      check pass; user unknown: 1 Time(s)
+
+login:
+   Sessions Opened:
+      root: 1 Time(s)
+   Invalid Users:
+      Unknown Account: 1 Time(s)
+   Authentication Failures:
+      unknown ( ): 1 Time(s)
+
+
+ 

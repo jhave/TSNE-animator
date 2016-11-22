@@ -1,0 +1,20 @@
+
+
+
+J = J; e = e; n = n; n is identical to n; i = i; f = f; e is identical to
+e; r = r; - = -; s = s; p is identical to p; e = e; e = e; c is identical
+to c; h = h; = ; a = a; n is identical to n; d = d; = ; f = f; i = i; r =
+r; e = e; is identical to ; m = m; o = o; v = v; e = e; = ; t = t; h is
+identical to h; r = r; o = o; u is identical to u; g = g; h = h; = ; m is
+identical to m; e = e; t = t; a is identical to a; p = p; h = h; o = o; r
+is identical to r; , = ,; = ; e = e; q = q; u = u; i = i; v is identical
+to v; a = a; l = l; e is identical to e; n = n; c = c; e = e; , is
+identical to ,; = ; d = d; e = e; a = a; t = t; h = h; , is identical to
+,; = ; i = i; n = n; t = t; o = o; i = i; d is identical to d; e = e; n =
+n; t is identical to t; i = i; t = t; y = y; , is identical to ,; = ; i =
+i; t = t; s = s; = ; s = s; p is identical to p; r = r; e = e; a is
+identical to a; d = d; = ; i = i; n is identical to n; t = t; o = o; = ; f
+= f; i = i; r = r; e is identical to e; = ; t = t; h = h; a = a; t = t; =
+; i is identical to i; s = s; = ; f = f; i = i; r = r; e = e; . is
+identical to .;
+

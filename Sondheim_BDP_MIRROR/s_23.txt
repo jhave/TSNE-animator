@@ -1,0 +1,35 @@
+
+-
+
+
+Carapace
+
+
+I want to discuss the carapace briefly, as it applies to lpmuds and stan-
+dard lambda MOOs. In the latter, the database is of a whole, an enormous
+singularity that can be hand-edited but is almost always accessed from
+within the MOO. The database is a performative body, a body of wryting,
+the body operative on the body. In an lpmud, objects, rooms, persons, etc.
+each have their own file; my lpmud decompressed to 600 of them at startup.
+These can be edited either from without or within; inside the lpmud, as a
+wizard you have a series of Unix-like commands which penetrate the cara-
+pace and drag out the file system itself. So on the lp, you're aware of
+the skeleton, while the skeleton of the MOO, accessible from within, ap-
+pears of the same stuff as the MOO itself - when you hit @dig it actually
+seems as if you're digging into the _MOO-substance_ so to speak, an enti-
+rely different feeling. 
+
+I wonder about these sorts of investigations into the phenomenology of
+their spaces, not wanting to get trapped in detail, but feeling without
+detail, one generalizes about "cyberspace" as if body is a simple projec-
+tion of equivalence - "I" here is equal to "I" there. This is (maybe not
+so obviously) false: there are not only varying projections, but varying
+persons (among first, second, third, spivak, neutral, etc.) as well - and
+there is the question of the dream screen, the matrix receiving the pro-
+jection (specifically, the matrix _produced_ by the projection in dialog
+with the software at hand). I use "carapace" for dream screen, because
+it's a _covering_ or hardening of a surface; the dream screen in Lacan is
+more of a bubble or analog of the surface of the breast - but in any case,
+a purity which is absent in text-based virtual communications. 
+
+

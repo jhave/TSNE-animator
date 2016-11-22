@@ -1,0 +1,76 @@
+==
+
+Dance description (for the empyre email list, highly edited here)
+
+I've been following this discussion and thought the best way I might 
+participate is to describe the work that I've done with Foofwa d'Imobilite 
+and others over the past decade or so. We went from using video and audio 
+tracks accompanying choreography, to work in Blender and Poser. The Poser 
+work was created from bvh (Bio-Vision Hierarchy) files produced with 
+motion capture (mocap) equipment that used 21 sensors electromagnetically 
+interacting with an antenna. The antenna fed sensor signals into a hard- 
+wired 486 microprocessor that output coordinates; these were fed into a 
+second computer that created the bvh files themselves. we modified the 
+sensors in a number of ways - some through the software interface, and 
+some with limb assignment and position. We did a piece called heap for 
+example - the sensors were dropped in a heap and the bvh file fed into 
+Poser. We did a star piece, arranging the sensors in a star formation on 
+the floor and inverting it by exchanging +r from a sensor position to -r. 
+We also reassigned sensors in several ways - dividing them between two 
+bodies, remapping inversely onto a single body, and so forth. All of this 
+produced bvh/Poser mannequins that were used as projections in live per- 
+formance, or chroma-keyed over dance/performance video.
+
+All of this work was at West Virginia University's Virtual Environments 
+Lab, headed by Frances van Scoy. I received an NSF consultancy through 
+Sandy Baldwin and NYSCA grant; through the former, I had a grad assistant 
+from software engineering, Gary Manes, to assist me. We went into the 
+mocap software itself and Gary rewrote it, creating a dynamic/behavioral 
+filter interface, which would produce transforms from the sensor output - 
+before the 3-d assignment to bvh was made. This was modeled on graphic 
+software filtering, but the assignments were different - we applied a 
+function f(x) to the coordinates and/or modified the coordinate mechanism 
+or input streams themselves. The bvh files that were produced were sent 
+into Poser for editing; in some cases, Poser mannequin video was output. 
+But more and more, we edited in Poser to format the bvh for upload to 
+Second Life; this way we had live 3-d performance based on the transforms. 
+This performance could interact within Second Life itself - with other 
+online performers and audience - or through projection, without Second 
+Life, in real-space where performers might interact with the avatars.
+
+The bvh files are complex and avatars perform, most often at high-speed, 
+with sudden jumps and motions that involve them intersecting with them- 
+selves. The motions appeared convulsive and sometimes sexualized. Foofwa 
+d'Imobilite used projections direct from Poser - about 100 files - as part 
+of Incidences, a piece produced in Geneva and widely shown. Foofwa, along 
+with Maud Liardon and my partner, Azure Carter, also imitated avatar move- 
+ment - and this fed back, from dance/performance into programming and pro- 
+cessing; at times it has been impossible to tell whether a particular 
+motion stream originated on- or off-line.
+
+In SL, everything is pure, digital, protocol, numeric; by 'smearing' the 
+animation input, avatar appearance, and location, we create in-world and 
+out-world experiences that stray from body and tend towards choratic and 
+pre-linguistic drives. We've performed a lot at various limits of SL - on 
+sim edges for example, or at 4k 'up', where the physics changes. The 
+output is the usual - audience in-world or out-world, as well as video and 
+stills.
+
+Foofwa, Maud, Azure, and myself all traveled to the Alps where avatar work 
+was re-enacted live; the performances were on the edge of the Aletsch 
+glacier. (This was sponsored by a Swiss grant.) What was interesting most 
+to me here was the development and performance of a field - Foofwa dancing 
+with a VLF (very low frequency) radio antenna, for example - his body 
+coupled and modified the electromagnetic capacitance surrounding the wire. 
+We had done this indoors with Foofwa and Azure; outdoors, against the 
+glacier, spherics formed a deep part of the content. This also paralleled 
+work we did with the mocap sensors at WVU - using high-strength magnetics, 
+we modified the local fieldlines, almost as if we were modeling general 
+relativity's 4-space gravity/mass interaction - the results were similar. 
+I'm fascinated by these 'cosmologies in the small'; at the same time, want 
+to avoid any easy and false metaphoric equivalence with scientific theory. 
+As for the theory of the work we're doing, at least from a phenomenologi- 
+cal viewpoint, I've put up http://www.alansondheim.org/sltheory.txt which 
+has also been published as a book.
+
+

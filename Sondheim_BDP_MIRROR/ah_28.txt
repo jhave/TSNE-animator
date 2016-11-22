@@ -1,0 +1,185 @@
+
+-
+
+
+Linguistic Dispersion and the Theorization of the Internet
+
+
+While the Internet itself is a collocation of client-server technologies
+that are not necessarily implemented with the same structures (even TCP/IP
+is of limited presence), there are elements that are open to analysis, 
+that cross traditional boundaries, and that are susceptible in fact to a 
+theoretical linguistics of language change, acculturation, and upheaval.
+Colin Renfrew describes a number of scenarios for such transformations, 
+some of which go back to nineteenth-century thinking. In any case, these 
+and others can be used for theorizing elements of the Net that otherwise 
+go undetected or are described purely through phenomenological approaches.
+
+I will give examples of these scenarios and their usefulness in theorizing
+the Net. I am not of course vouching for their verity in Indo-European or
+other studies, although my understanding of them has come from such read-
+ing. 
+
+1. Takeover: One domain is subjected to another by conquest, and the lat-
+ter may impose new standards. An example is the Netscape takeover of Mo- 
+saic (and for that matter, Netcruiser); early Web accounts presented the 
+latter as the primary browser. The takeover is accompanied by continued 
+development of Netscape (see below), into further extensions of html, 
+Java, and now telephony. This can be considered a _replacement model_ in 
+a network _core._
+
+Takeover results in _colonization_ that then transforms into self-colon-
+ization, a process described by Franz Fanon. In self-colonization, also
+referred to as the myth of a national literature under the sign of empire,
+the colonized introject the values of the colonizer. Thus Mosaic has had
+to make concessions to the continued growth of Netscape and its dominance; 
+and thus the various commercial bbs-services such as Compuserve, AOL, Pro-
+digy, etc. have had to scramble to "catch up."
+
+Takeover on IRC, to give another example, can refer to channel takeover, 
+and if new techniques are developed, they're recoded and implemented in the 
+various war programs. 
+
+2. Language diffusion through perceived superior technology imported from
+outside. A Hittite document on horse-training uses Mitannian terms, for
+example. Basic Internet terms are often borrowed by other languages direc-
+tly, just as Quebec _joual_ spelled "weekend" "ouicenne" in some key 
+texts of the 60s. 
+
+The import of technology occurs in a number of areas - from Java applets 
+imported into home terminals, to the IRC war programs mentioned in #1. A 
+strong instance of this is the continuous cross-fertilization of MOOs, 
+with programming on one MOO ported to another. 
+
+Another example is shareware/freeware itself, which is a literal import; 
+tiny fugue goes from a single program to "tiny-fugue-like" clients. It 
+becomes a class term - just as, for some people "listserv" refers to the 
+totality of email lists, not just those employing listserv software.
+
+(Language diffusion can be extremely complex. Diffusion can be localized
+and in relation to the Net may include other communications modalities
+such as the telephone, printed matter, snailmail, and face to face con-
+tact. Think of hacking circuits which use all sorts of contact, including
+hacking conferences, 2600 magazine and 2600 newsgroups, etc. These mod-
+alities can be seen in relation to Fidonet, as well as local bulletin-
+board software, databanks, chat exchange, and in-house email. All of this
+is describable by the "wave of advance" model described by Renfrew in
+Archaeology and Language. Random localized movement (for example, farmers'
+children settling near their parents) results, through quickly increasing 
+population density, in widespread cultural influence - without migration, 
+takeover, etc. This model works well with the modalities mentioned above, 
+all of which could be considered operative on a "neighborhood" model.)
+
+3. There are also _autonomous_ or internal transformations which always 
+occur in a series of steps or _plateaus._ Beta-versions of software are 
+the simplest example, or decimal-incremental indexing of continuous up- 
+grading. (I'm writing this in Pico 2.5 for example.) Beta-versions often 
+results in major changes, and the integers are reserved for basic major 
+changes (Netscape 1.0, 2.0, etc.). This numbering does go back, I be- 
+lieve, to Wittgenstein's Tractatus and the Principia Mathematica of Rus- 
+sell and Whitehead; there may be earlier antecedents.
+
+Plateaus "slough" off into _minor steps,_ which are often created to fix
+software bugs. These steps may be nothing more than patches into the soft-
+ware, or they may be integrated into a new beta version. Usually, they 
+are released before the new version, however, sometimes with a warning. 
+They can be an Internet form of recall; I've seen this from Pavel Curtis 
+in regard to the MOO core, for example. I consider the minor steps a form 
+of _accretion,_ the slow growth and maturing of a beta version before its 
+abandonment for the next plateau.
+
+4. Renfrew describes a process of empire collapse which is critical for
+understanding the Net. The boundary regions of an empire are always sites
+of contestation; they also represent the phenomenological horizon of the
+Other at odds with the core, which can be conceived of as "the civil." An
+empire may over-extend, however, in which case, the boundary regions apply
+pressure to the core; at the same time, they may begin defining themselves
+as autonomous, using the tools and languages of the core. The core begins
+to retreat from the peripheral zone, and the boundary regions move in to a
+limited extent, becoming independent and often anarchic. This process
+(which I have elaborated on above) characterizes to some extent the break-
+downs of the Roman empire and the USSR; in both cases, anarchy has meant 
+a problematization of etiquette and rhetoric (both interrelated) as well 
+as language itself. (I use "anarchy" in the sense of confused local rule, 
+often chieftain-organized, and often in a state of competition with other 
+local groups.)
+
+If we look at the Net pre-1989, for the most part it is small, organized 
+(the RFCs playing a major and critical role), and, in spite of the Worm 
+of 1988, relatively pacific. The development of the Web took this Net by 
+surprise; the Web can be considered an intrusion or migration of new 
+standards (html, .gif, etc.) across the older Net (within which standards 
+such as .gif were relatively well-defined in limited domains). 
+
+What happens? 
+
+a. The Net as a whole splits into ASCII and Web-dominated applications,
+with other sound/video/text applications on the periphery.  
+
+b. This split parallels the split between community and presentation - as
+well as the split between information and entertainment, and the split
+between active and passive. (Please note this is _extremely rough here,_
+and not to be taken at all as "ultimate" or "fixed" characteristics. The
+reality is much more complex.)
+
+c. The older Net becomes less coherent, and more anarchic; there is a
+general system collapse as advertising, hackers, spams, viruses, etc. 
+invade. RFCs no longer have the governance (which was by consensus only)
+that they once had; their non-commercialist aspect is bulldozed over. 
+Newsgroups and the like are increasingly invaded. 
+
+d. In response, this older Net, what I call the darknet, develops more
+sophisticated responses, such as filtering, war defenses in IRC, and
+totally moderated newsgroups. These parallel the development of monas-
+teries in Europe, "citadels" of learning preserving classical texts and
+even literacy during the "Middle Ages." As with the monasteries, one can
+say that the moderated newsgroups, etc. are interrelated, but the general
+sense of Internet community has been increasingly breaking down.
+
+In other words: We can see the older Net collapsing with the rise of the
+Web. The collapse is accompanied by a lack of central authority, and the
+rise in anarchic tendencies, coupled with defensive responses. And instead
+of seeing this as a fight between anarchy (in the traditional sense) and
+capital (which it is), one can also see this as a transformation of lan-
+guage itself - the older languages becoming jargon, and the newer lan-
+guages adopting other sensory modalities, such as image, sound, and move-
+ment. (It's useful to think of "jargon" in a technical sense here, re-
+ferring to a somewhat underground/underrepresented demographics which has
+created its own speech, built on archaic forms to some extent. Consider
+the jargon on IRC, or MOO/MUD talk in which the prefix "@" can be used to
+delineate an ingroup, create a sense of "local color," and refer to tech-
+nical issues. But this jargon, like the MOO language or the MUD lpc, are
+becoming increasingly "minor," in the sense of a "minor literature" (see
+Deleuze and Guattari on Kafka) - all of these are _regional issues,_ far
+away from the concerted sense of power and sentience displayed on the Web
+at this point in time.)
+
+This analysis is crude as it stands, and the processes outlined above are
+never "pure." But the analysis does take into account such things as pro-
+tocol totalities (Unix, html, TCP/IP) and their borders, the growth of new
+applications and the disappearance of older ones, and the importing and
+exporting of code across the Net, even across applications. If the Net is
+a widely disparate accumulation of interconnected functions, protocols,
+applications, and demographics (not to mention telecommunications chan-
+nels), it is also a somewhat closed region (in the sense of a closed set)
+of competing languages, functions, protocols, etc., with _traderoutes_ of
+shareware/freeware/coding among them.  Models of linguistic dispersion can
+help one understand this relative cacophony. The modeling is rough, but it
+just might be the best we have. 
+
+(Further research would take into account "core borrowings," basic struc-
+tures or functions that would be imported and rewritten from one to ano-
+ther application. The various _forms_ of applications or functions would
+be considered, much as differing literatures are examined. Again, Laurel's
+work on Computers as Theater has some relevance here. Finally, there is
+the issue of dialect. Chomsky somewhere describes a language as a dialect
+with an army; here, we can consider its equivalent as an application with
+corporate backing. In any case, should Netscape be considered a browser
+language, Mosaic and Chameleon as dialects? While these terms seem absurd,
+tracing influences among the applications is not, and here again we would
+turn to linguistic dispersion theories, considering not only older tree
+models of development (i.e. Netscape 2.1b coming before Netscape 2.2b
+etc.) but also models based on diffusion, wave phenomena, and overlapping 
+regions.)
+
+

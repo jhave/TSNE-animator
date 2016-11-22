@@ -1,0 +1,52 @@
+
+-
+
+
+Lullaby
+
+
+For a brief moment tonight, I felt peaceful; I wrote, during an intermis- 
+sion at an evening of performance, "For one brief moment in time, all the 
+peoples of the earth talked among themselves." About six years ago I was 
+involved in a psychologically abusive relationship; when I parted from the
+woman, all hell broke loose. I didn't see her, physically, until this eve- 
+ning; N. was sitting on the other side of the room; the audience was lost
+in shadows... And we ignored each other. The performances were good; Ron 
+Ehmke, whom I know from my stint in Buffalo, was brilliant. Buffalo was 
+everywhere in evidence in the room.
+
+Later during the same intermission, after talking with Maureen, I began
+to read Running Linux (Matt Welsh and Lar Kaufman). On Friday, I compiled
+a talker and got it running on a local LAN without difficulty. Afterwards,
+when I came back to the loft, I was excited and couldn't sleep - I wrote:
+
+"Compiling the talker in the room, communication opened up immediately
+across feet, across yardage that would never be encompassed by vocals,
+already grunge rock filling the air. Performatives flew nude _presences_
+in unforeseen spaces; this is the power of the Net closeup, flesh med-
+iated by bodies skewed on the imaginary in spite of the real everywhere
+at once. You, I, all were at once" 
+
+and at this point I broke off, thinking about the _power,_ emptied of all
+force, everywhere present in my life. Back at the performance (at Dixon
+Place, totally recommended) I became nervous, even talking with Maureen,
+whom I have known for a long time, because of the _presence_ of the other 
+woman; there was a party afterwards, and I decided not to stay. I was
+surrounded by ghosts, hauntings; I was inhabited off the Net and on it as
+well.* 
+
+The presence was something that couldn't be deleted, but that's not the
+point - the point is that I found the world of linux, compilation, Net
+stuff in general, totally incomprehensible; I couldn't move from one to
+another environment with grace. Psychosis (which I have written about in
+this regard) was evident; it was as if I had a secret, and the secret,
+in this space of intense presence and presentation, was abject, sad, even
+tawdry; I felt crippled (with all the antagonistic stereotyping inherent
+in the word itself). Nothing mattered but the Ron's _speaking,_ the heat 
+of the room; nothing mattered but the optimization procedures for gcc and
+whether -O6 was really equivalent at this stage of the game to -O2.
+
+I can't live like this! I do live like this! I can't live like this!
+Returning from Dixon Place, I logged in, cleared out the account, began
+this incessant TYPING...
+

@@ -1,0 +1,41 @@
+
+
+
+
+Drives: What Happened and Nature
+
+
+The C: drive was on the original drive; D: and E: were placed on the sec-
+ond physical drive. F: and G: were added later for interlink and an I: 
+drive was used for a portable CD-ROM. A new drive was added, and the C: 
+drive was moved to it. The original C: drive was then erased. The D: and
+E: drives were added on the new C: drive as subsets and the second phys-
+ical drive was reformatted and named the D: drive. The D: drive from the
+C: drive was placed back on the new D: drive. The original C: drive was
+now renamed the E: drive and reformatted and the E: drive on the new C:
+drive was placed back on the new E: drive. The CD-ROM was placed on the X: 
+drive. The F: drive and G: drive were left as is and through my objections
+the CD-ROM was placed on the I: drive after the portable CD-ROM drive was
+erased from the I: drive. Finally the original A: drive was moved to the
+new machine as the A: drive. Drive management was removed.
+
+In CMC-space where no one knows your name, your drives can be driven. The
+C: drive is the ur-drive; it is the source of all things, relying on the
+quiet floppy A: boot disk if all else fails. The frailty of the floppy is
+the final arbiter; there is nothing beyond it except for the free-wheeling
+style of the hacker reconfiguring as you go. The hacker _has_ the informa-
+tion. But the information can be anywhere, looping through the boot files,
+organizing the machine. Computer memory is passive; it can be written and
+rewritten, but exists as orderly and specifiable connections, very unlike
+the mind (in spite of the fact that excitation of specific areas of the
+cortex will call up specific memories). Machine memory is also modular and
+removable; it travels exactly from computer to computer, as in some dreams
+of humanity's future. It flows and floods; being passive, however, it has
+no thought, no operations. It is done-to. It controls the doing, but it is
+nonetheless done-to. It feeds into and out of the machine; the two are
+symbiotic. Nothing runs unless it runs into and out of a world; the do the
+slow dance of chora and control.
+
+Nothing runs unless it runs in and out a world.
+
+

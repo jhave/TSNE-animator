@@ -1,0 +1,109 @@
+
+
+
+Comments
+
+
+MOUNT
+/dev/root / minix rw 0 0
+ none     /proc proc rw 0 0
+/dev/ram1 /usr minix rw 0 0
+/dev/ram3 /tmp minix rw 0 0
+/dev/hda1 /mnt msdos rw 0 0
+
+Some people really can't read about the problems others are having; for
+others, including myself, it's healing, knowing there are other people
+who feel like I do, that I may be crazy, but there are other crazies out
+there and maybe we aren't that crazy after all. 
+
+But sometimes as well people attack me for how I feel. I mean, how could
+I be attacked, I'm just expressing myself, what I'm going through. I 
+don't want to lay it on anyone else, I just want to be understood. I
+don't even want sympathy, just maybe there would be someone reading what
+I have to say who could understand me or help.
+
+Very briefly, if it wasn't for these people on line, I would kill myself
+a long time ago. These have been the people who have helped me when my
+friends haven't wanted to even hear anything about me.
+
+What do I have to do, have a crisis before anyone listens to me? I'm 30
+yrs. old and I've supported myself since I was 15. I know how to get 
+around but believe me, it's not been easy. And if I speak about malaise
+or something that's not all that interesting, I mean how much of this
+stuff really IS interesting, then no one wants to hear me.
+
+Now at least I can say how I feel. Before I could never talk to anyone.
+Now I have someone who will listen to me when I express my rage, when I
+want to kill myself. I know I will be a better person. It is enough that
+they listen, they don't have to say anything. My computer has become my
+best friend.
+
+I've learned that I can discuss things better with you online than I can
+with my doctor, and I know now who to avoid when I need to look for a 
+doctor. It has been very painful; it has been the most painful period of
+my life and being on line has saved me time and again.
+
+For once I could talk to my doctor and tell her that the medication was
+not working, that it might have been a placebo for all I know. I said I
+wanted to try something else, that I had the support of the online commu-
+nity. I said nothing else mattered, my whole world gets caught up in this
+or that medication and I know there is more to life than that.
+
+Before, I was always taken by surprised; now I know when things are going
+to get bad way ahead of time, and I can look for help from my doctor or
+from online, and online people seem much more willing to listen.
+
+Sometimes I'll feel so down, I could almost break things. Then to listen
+online to people talking, I mean what they say to each other, how they
+relate, sometimes it's really funny, and that helps a lot. I never thought
+I could laugh so much from things coming over the screen but that's how
+it is.
+
+It is so spiritual to read these disembodied voices who never judge me,
+and I know in real life they never would...
+
+There are people out there in this town who could really benefit from all
+this on line, they would learn how to better control themselves. I think
+so many people in this culture are hurting or wrecked, I don't know where
+it's all coming from, things are changing so fast, for everyone. I'm only
+seventeen and I can hardly handle my life anymore, things going so fast
+before my eyes, but when I get online I can really concentrate and slow
+things down and learn to speak and think for myself.
+
+You know, my daughter wouldn't talk to anyone, and we were both going
+through a lot and it was coming on line that gave us the courage to speak,
+first to others, and then to ourselves. It was so strange, we began by 
+writing back and forth, honestly trying to deal with our feelings, even
+though we were living in the same house. I think things like this are 
+somehow more natural than being off line and walking warily around the
+place, all of us fearful to speak to one another, we've got all those
+defenses from being in the same place together too long.
+
+Now this is what I have to say, don't use this as a crutch. If you do, 
+what will you do when y2k comes along or your computer goes? It's a lot
+more delicate than a friend, you have to know that. It's not a friend at
+all, it's machinery that brings you voices that help you and console you
+from time to time. But you can't count on it. I wouldn't count on it at
+all.
+
+This has replaced drugs of any sort for me; you can't believe what I was
+like at one time. I couldn't even sit down without shuddering. Now I have
+the time to even be with my parents a little, we're beginning to under-
+stand each other. But it's because of this screen, nothing else. And they
+know that. Someday maybe I can put this aside, but not for a long long 
+time.
+
+MAP
+3859.76 3843.68
+08048000-08055000 r-xp 00000000 01:00 4
+08055000-08056000 rw-p 0000c000 01:00 4
+08056000-0805e000 rwxp 00000000 00:00 0
+40000000-40005000 r-xp 00000000 01:00 247
+40005000-40006000 rw-p 00004000 01:00 247
+40006000-40007000 rw-p 00000000 00:00 0
+40008000-4006a000 r-xp 00000000 01:00 246
+4006a000-4006f000 rw-p 00061000 01:00 246
+4006f000-400a2000 rw-p 00000000 00:00 0
+bfffe000-c0000000 rwxp fffff000 00:00 0
+
+

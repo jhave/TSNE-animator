@@ -1,0 +1,65 @@
+
+-
+
+
+Bans
+
+
+You can be easily banned from an IRC channel. You can be banned or your
+site can be banned or the machine on your site can be banned. You can be
+banned from a MOO, @toaded, without any explanation. You can be banned and
+your site can be banned as well. You and your site can be banned from a
+talker. You can be unsubbed from an email list by a moderator. You can
+also be subbed to an email list without your permission by a moderator. 
+You can lose your account. You can complain to root or postmaster or sys-
+admin at a site about a moderator or god or operator or wizard, depending
+on the application and she or he can be warned and can lose her or his
+account. 
+
+Listservs and other software can be set to filter out sites and individu-
+als. It is easier to filter on listserv than majordomo and easier on maj-
+ordomo than on lists that require manual subbing and unsubbing. You can
+set your mailbox to filter out individuals and sites, which is easier if
+you are on elm than pine but possible on both. Lists can be set to allow
+posting only by subscribers, filtering out people who are not subscribers. 
+
+You can spam a list or a newsgroup. You can spam by sending unwanted mail
+to a list or newsgroup that has no protection. You can spam by sending
+huge files to a list or newsgroup that has not set a file limit. You can
+spam by repeatedly sending messages. You can flood an IRC channel by re-
+naming, by cycling in and out, by repeatedly sending messages. You can use
+client software that prevents you from being spammed on IRC, by ignoring
+someone repeatedly messaging you. It is easier to spam a newsgroup than an
+email list but both are traceable unless you use an anonymous remailer. 
+
+You can use tactical strategy and troll a newsgroup or email list. You can
+do this with several people responding to one another. You can be success-
+ful if you sign on at different times and wait. You can crash a newsgroup
+this way. 
+
+You can spam a MOO by creating rogue programs that continually fork pro-
+cesses until the server crashes. You can spam a MOO by creating programs
+that interfere with other programs. You can spam a MOO by creating pro-
+grams that interfere with MOO conversation. If you are a MOO wizard you
+can rewrite other's programs and descriptions. If you are a wizard or a
+god on a talker you can listen into private conversations. You can repost
+private conversations including net sex although this may well be illegal. 
+You can repost private email although this also may be illegal.
+
+If you are a wizard or a list moderator you can remove posts from any
+archives and remove the archives themselves. You can go in and change any
+material in the archives. If you can do simple hacks you can send somewhat
+anonymous email and if you are better you can send untraceable email. If
+you are very good you can create programs and loops that will automatical-
+ly spam a newsgroup, email list, or IRC. 
+
+You can take the offensive by complaining to Internet task groups that mo-
+nitor hacks. You can create trouble for someone who is not hacking in this
+manner. You can spam someone privately and anonymous and complain to his
+or her sysadmin anonymously. If you are very good you can slow a server 
+down that permits fingering and enter through windows as users click off 
+without logout. 
+
+If you are very good you are far beyond this and beneath the surface. If
+you are very very good you are in my account now and typing this text. 
+

@@ -1,0 +1,42 @@
+= HOST #69
+
+<- scholar() _After (possibly) looking at instructions, start the
+              SCHOLAR dialog._
+
+HELLO, MY NAME IS SCHOLAR. I WILL HELP YOU IN REVIEWING THE GEOGRAPHY OF
+SOUTH AMERICA. THIS IS ABC REGIONAL HIGH SCHOOL. TODAY IS 24-OCT-72.
+
+IF YOU HAVE CAREFULLY STUDIED YOUR INSTRUCTIONS, WE MAY BEGIN THE REVIEW
+NOW.
+
+WHEN YOU ARE READY TO START, TYPE READY --- REMEMBER TO TERMINATE EACH
+LINE OF INPUT WITH AN ASTERISK * FOLLOWED BY A CARRIAGE RETURN.
+* read* [CR] _Asterisk("*") is SCHOLAR's prompt character. You must, 
+              repeat MUST, terminate input to SCHOLAR with an asterisk
+              ("*") and a carriage return before it will listen to you.
+              Use control-a ("^A") to delete characters from your input
+              line, i.e., the standard Tenex editing characters._
+PLEASE TYPE YOUR NAME---MR., MISS, OR MRS. FOLLOWED BY FIRST NAME, MIDDLE
+NAME OR MIDDLE INITIAL, AND LAST NAME.
+* YOURNAME* [CR]
+NAME OF YOUR INSTRUCTOR, PLEASE:
+* warnock* [CR]
+LET'S BEGIN OUR DISCUSSION NOW, "YOURNAME"
+USE ONE OF THE FOLLOWING:
+14400000
+3600000
+1200000
+1800000
+TO ANSWER THE QUESTION:
+APPROX WHAT IS THE AREA OF BRAZIL?
+* 14400000* [CR]
+WRONG,
+I'LL GIVE YOU ANOTHER CHANCE.
+* 3600000* [CR]
+VERY GOOD.
+.................
+   _Continue your dialog as you wish. When tired, type control-c ("^C")
+   to return to EXEC on logout.
+.................
+^c
+

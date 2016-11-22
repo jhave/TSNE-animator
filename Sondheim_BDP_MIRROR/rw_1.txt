@@ -1,0 +1,108 @@
+
+Music Improvisation: New course at Underacademy College!
+
+There are other great classes as well! Check them all out!
+Free! Experimental!
+
+http://underacademycollege.wordpress.com/
+http://underacademycollege.wordpress.com/studies/courses/
+
+What is musical improvisation? Why do we do this? Why do we do 
+music at all? We'll consider this and other issues and post / 
+critique musical files through a blog interface. We'll see if we 
+can find a way to improvise communally online or off. Please 
+sign up if you're seriously interested in the subject; I'd like 
+to try to assemble a body of writing and work. There are no 
+assignments per se, except to post your thoughts and sounds; the 
+course will grow organically.
+
+Please note that this will begin around March 20th. I'm hoping 
+we can discuss the aesthetics of improvisation, find ways to 
+play online together, and discussion improvisational structures, 
+venues, etc. etc. Just about anything.
+
+Thanks and have fun!
+
+ Alan Sondheim
+You can write me at
+sondheim <at> panix.com for additional information.
+
+
+
+
+the vi * tracking of a certain device 
+
+hello, hello, you~~~~~~~~~~~~~~~~~~~~~~ hello, 
+you~~~~~~~~~~~~~~~~~~~~~~ hello, this you~~~~~~~~~~~~~~~~~~~~~~ 
+the hello, is hello, of beginning beginning and test beginning 
+test of and formation i'd i'd something add add something to 
+something it, to it, something means the in instead, in instead, 
+vi, in vi, i'm given i'm permanently permanently ability the 
+remain to within to structure the within certain within structure 
+a of certain a device, tracking thought from device, which 
+tracking or from device, which device, there no little there no or 
+no or escape; no it and this, is clause, escape offers that me 
+offers me offers that clause, choice, no cannot that allow cannot 
+freedom the _performative the would that word,_ change would 
+change world the - - only if only i only - if - longer longer 
+could escape, could bound bound longer other other marks, other 
+~and other what what what other have what have what marks, myself, 
+myself, to done, myself, language, to language, to o , , of he , 
+ins from forma which forma processing; ly of ain ain racking 
+marks, her canno wha change _performa her wha this
+
+* vi - unix/linux editor
+
+
+
+
+how i do it how i don't do it how i make 
+mistakes how i correct them how i am 
+ashamed how i am learning how i am
+failing how i am repeating myself how i
+am trying something new how i am close 
+to giving up how i begin again how i do
+it how i don't do it how i sarangi how
+i don't
+
+http://lounge.espdisk.com/archives/1075 (best)
+http://espdisk.com/alansondheim/howidoit.mp3
+
+-- alan sondheim, sarangi and talk --
+
+
+
+Just found these outlines of courses I taught around 1995-96 on Net stuff 
+- might be of interest - Alan
+
+
+
+EXTENDED OUTLINE: 
+
+This is a guide to all of the material that will be covered in the 
+course, either in outline form or in detail. I presuppose no prior 
+knowledge of the Internet. The main book is Harley Hahn, The Internet 
+Complete Reference, Second Edition, Osborne.
+
+
+Take Notes!
+
+1  Overview of the Internet: History, Demographics, Cultural Impact
+	History: Relation to Arpanet, DOD, BBN, NSF
+		TCP/IP
+		The _porous_ and _redundant_ Net
+		Dissolving the backbone
+		Commercialization
+	Demographics: Past and present
+	Cultural Impact:
+		From research to commerce
+		From television to cable to video: interactivity
+		Ham and CB Radio
+		Hacking: Subversion
+	Countries On Line:
+	Genders On Line:
+
+   Overview of Internet Applications:
+
+		synchronous  |  asynchronous
+		

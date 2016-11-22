@@ -1,0 +1,39 @@
+
+
+COMMUNICATION TYPES:
+
+    -   LambdaMoo (MOO server and database core)
+    -   LilyMOO (MOO database core)
+    -   MUCK (furrymuck for example)
+    -   MUSH
+    -   MOOSE (k12 programming)
+    -   MUD (dikumud for example)
+    -   LPMUD (programmable)
+    -   Hotel California (talker)
+    -   Lorien (talker)
+    -   Nuts (talker)
+    -   Summink (talker)
+    -   Zone (talker)
+    -   Haven (talker)
+    -   Nuts (talker)
+    -   Internet Relay Chat (w/dcc file exchange)
+    -   Ytalk (Unixtalk)
+    -   Talk, Ntalk
+    -   WorldsChat (graphic)
+    -   ThePalace (graphic)
+    -   Firefly (audio, graphic, intelligent agent)
+    -   Iphone (audio)
+    -   Powwow (multiple ytalk, audio)
+    -   CuSeeMe (video w/audio, chat)
+
+Mostly Async:
+
+    -   Listserv (email list)
+    -   Majordomo (email list)
+    -   Listproc (email list)
+    -   Email Alias List (small email list)
+    -   Email
+    -   WWW Updating Homepage (slow chat, some graphics)
+    -   Newsgroup moderated +/- alt +/- registered +/- (Usenet)
+    -   Newsgroup single-poster (e.g. clari.net) (Usenet)
+

@@ -1,0 +1,108 @@
+
+
+
+BODY-HTML
+
+
+I wish to return to issues of body-html, in light of the experiments I've
+been running in Javascript. A webpage currently has four levels epistemo-
+logically (ignoring, for the moment, the distinction between sound/sight/
+text): semantic markup (content-control negotiated between client and ser-
+ver); the texts/graphics themselves; style-sheets and other design-orien-
+ted content; and scripting/programming, which active the page.
+
+There are exceptions: REFRESH and BLINK, for example, are active elements
+in HTML; links themselves are a call for action on the part of the reader;
+forms are almost entirely designed within HTML, javascript can modify sem-
+antic markup according to browser, and so forth.
+
+Beneath the surface appearance (which, like any superstructure, tends to-
+wards an imaginary autonomy), there are interactions among HTML, Perl and
+CGI, Java, Javascript, ActiveX, and so forth.
+
+The body of the page splits uneasily into appearance and marrow; the body-
+html is the inversion of html-elements, or the appearance of the webpage
+as organism. If the page appears to "have a life of its own," nothing is
+changed ontologically or epistemologically, but the implications are that
+one is in _negotiation_ with something close to the dream of a bot or ava-
+tar. The page _is_ that bot/avatar for the moment; diachronically, there
+may be a history of such, and synchronically, the appearance of the organ-
+ic may be "smeared" across a number of pages, programs, or other aspects
+of the Net.
+
+Call them aspects; avatars connect, reference no essential or background
+node, continue as _uneasy_ text which foregrounds them. This may also be
+taken as a model of communications in which superstructural elements, such
+as the sitcom, appear to reference actors and situations - but the refer-
+ence may already be broken epistemologically or ontologically (re: Baud-
+rillard, etc.). 
+
+The avatar such as Jennifer references a different epistemology altogether
+- clearly, she is not an actor, nor is she in a _situation._ Instead, she
+may well be part of a cultivated psychosis on the part of the author/ess,
+one which treats html-body as signal or flag of a _condition,_ organic or
+otherwise.
+
+Or rather, a condition which develops its own superstructural coherence,
+the html-body as mirror-stage refracting, not reflecting, the author, ac-
+cording to _its_ whims.
+
+These sites: page, code, script, author, reader, writer, viewer, partici-
+pant, text/image/audio, become increasingly difficult to disentangle -
+which is precisely the point; this is also the condition of the lived body
+which cannot separate its _I_ from its _eye,_ and its _I_ from that of
+others or the language within which it was born/graded. The _history_ is
+different, as are the traumas, but - and I'm _not_ talking on the level of
+the symptom - the superstructure, _from wherever,_ becomes someone/some-
+thing else.
+
+Thus the superstructure/avatar, like the other, is unaccountable and unac-
+counted-for. It is unaccountable because it is smeared across sites (pa-
+ges, codes, scripts, authors, readers, writers...), and it is unaccounted-
+for, because it has the appearance of Venus or Athena emergent, not-there
+but a psychotopogpraphy - in truth psychotropology.
+
+Personhood as well is never _there,_ and Jennifer in fact is Jennifer(),
+function or potential bracketing, loose collocation of signifiers and
+leakages which appear to be foreclosed (the _super_ of the structure) just
+as psychosis is all too neat a package.
+
+ii
+
+The seething and seduction of the webpage: the page _seethes_ as it is ac-
+tivated, leads out of itself, churns around an attractor; and the page is
+the locus of a _seduction_ towards itself, the proffering of part-objects
+for consumption by the participant. These objects may be _repetitive_ and/
+or _mirroring_; they operate through introjections/projections, through
+hysteric embodiments (see Internet Text), through the collusion of the
+dream and the imaginary. Text/image/sound fall to the level of the ground,
+(re)construct it. This combination of seething and seduction, I call (con-
+tinuous) _rewrite,_ the re-presencing of the self/avatar as obsessive-com-
+pulsive construct. Above all, Jennifer and body-html say, _return_: my
+body depends on it.
+
+The _minimal interaction_ in Flaubert expands into a/his crystalline world
+of Salammbo, Bovary, Bouvard and Pecuchet. Seething is internalized, fore-
+closed; one jumps the text-as-hypertext, and (Vygotsky) inner-speech
+stresses the seduction. There are no leaks, except for the fleeting pre-
+sence of _that woman in the hat turning the corner_ ... The interaction in
+html-body leaks, just as personhood leaks; the speech appears not always
+as "inner," as one's own, but instead emanates from dispersion (what I
+call elsewhere "emission"). 
+
+So that it becomes, for example, _the name Jennifer_ which recuperates the
+seething/opening of the pages, returns them to a somewhat fractured unary
+disposition. It is the insertion into language (icon, symbolic) that pre-
+cisely allows (her) escaping towards the leakiness inherent in html-body,
+as if the blood were produced by "blood" which is close <BLOOD> to the
+case </BLOOD>.
+
+And it is _the name Jennifer_ which is itself semantic markup: <JENNIFER>
+text image sound </JENNIFER> or the Jennifer-function in the Jennifer-link
+at http://www.anu.edu.au/english/internet_txt/ that tend towards these ir-
+ruptions, presaged and accompanied by bots, morphs, players, and all vari-
+ous others, organic and other/wise. 
+
+sound/sight/text text/image/audio text image sound text/image/sound
+
+

@@ -1,0 +1,64 @@
+
+
+
+JENNIFER CAN'T GET IN! MOO'S GOING DOWN! BANG! BANG! BANG!
+
+
+Maat
+Papyrus Love the Rush of Thoth on Ka Ba and Kin
+Obvious exits: South (to Personal Spaces) and West (to Librynth)
+West
+
+Librynth
+An Escher rendered real. Bookshelves line each impossible wall; every moment 
+is of rich, dark wood (the air is thick with the scent of it.) Angles shift 
+and spin slowly -- nothing remains quite as it was, nothing is static. Slowly.
+Obvious exits: East (to Maat), North (to Sanctuary), and Up (to Jade
+Staircase)
+Up
+
+Jade Staircase
+You step upon the delicately wrought stair and footfall strikes the 
+translucent jade with a faint ringing, the delicate sound of fine steel torn 
+through to bone in ancient battles long forgotten.
+Obvious exits: Down (to Librynth) and Up (to Zen Pool Hall)
+Up
+
+Zen Pool Hall
+Exuding infinite quietude. All silence. Words are not better than...be silent.
+Obvious exits: Down (to Jade Staircase)
+Down
+Down
+Obvious exits: East (to Maat), North (to Sanctuary), and Up (to Jade
+Staircase)
+
+North
+You can't go that way.
+North
+You can't go that way.
+North
+You can't go that way.
+North
+You can't go that way.
+
+BANG! BANG! BANG!
+I don't understand that.
+BANT! BANG! BANG!
+I don't understand that.
+
+@uptime
+The server has been up for 4 months, 3 days, 10 hours, 24 minutes, and 44 
+seconds.
+The last checkpoint occured 7 seconds ago.@01:23
+
+who
+Player name   Connected    Idle time    Location
+-----------   ---------    ---------    --------
+Alan (#139)   2 minutes    0 seconds    Entry Point
+
+Total: 1 player, who has been active recently.
+
+@quit
+
+<!-- Disconnected --!>
+

@@ -1,0 +1,38 @@
+
+
+Tuesday morning - new media class
+
+A. What constitutes the virtual?
+B. What constitutes the digital? The discrete? Granularity?
+C. What constitutes closure / the abject? (Kristeva, Powers of Horror?)
+The abject is what leaks; closure can be augmented by purity, 
+potential wells.
+D. Fundamental nature of physical reality.
+E. The laboratory of Second Life, creation and use of 'concrete' samples.
+ Some history: MOOs and MUDs.
+ Use of language in SL. (Garrett's work among other people. Gaz.)
+E1: Avatars
+Personhood: First, Second, Third - the drift of persons and tenses
+
+
+ON MOCAP 
+
+A. Motion capture - 
+Behavior/dynamic filters: Types: where does node addressibility happen?
+1. From position of software rewrite: filter as intermediary.
+2. Transformations within the external nodes
+i. dispersions, scatterings: social dynamic embodied in avatar
+ii. reverberations: avatar embodied in social dynamic (choreography)
+
+
+B. Use of Second Life, OpenSim, Poser, Slac
+1. Weather, constructions, scripting.
+2. Active textures.
+3. Imported mocap.
+4. Accessories, attachments, avatar transformations.
+5. == Use of available tech: Linux, Blender, Gimp, etc.
+
+C. Demos:
+SL or OpenSim Live? Video. Use Mocap documentation.
+Mocap demonstration with Poser?
+

@@ -1,0 +1,25 @@
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>how could you</TITLE>
+</HEAD><CENTER>
+<NOSCRIPT>there's nothing further, nothing opens, closes, not for a
+moment the projector, an instant the apparatus, a second the you you
+Jennifer</NOSCRIPT>
+<BODY BGCOLOR= "#700070"><BR><BR><BR><BR><FONT SIZE="+7">
+<I>how could you do this to me</I></FONT>
+<SCRIPT LANGUAGE="Javascript">
+function zz()
+{
+window.open("tail.htm")
+}
+</SCRIPT>
+<FORM>
+<INPUT TYPE="button" VALUE="how could you" onClick="zz()"> 
+</FORM>
+</CENTER>
+</BODY>
+</HTML>

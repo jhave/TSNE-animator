@@ -1,0 +1,98 @@
+
+
+
+
+
+
+oracle: success in war
+
+
+
+
+
+   159	16:36	grep -h "great war" network/* > zz
+
+   163	16:37	grep -h "missing in action" network/* > zz
+
+   165	16:38	grep -h "missing" network/* > zz
+
+   167	16:38	grep -h "killed or wounded" network/* > zz
+
+   169	16:39	grep -h "wounded or killed" network/* > zz
+
+   171	16:39	grep -h "wounded and killed" network/* > zz
+
+   173	16:39	grep -h "killed and wounded" network/* > zz
+
+   175	16:40	grep -h "mutilated" network/* > zz
+
+
+
+survive. the woman mutilated herself by eating pieces of her fingers.
+
+fragments of cocks, breasts, cunts, churn through past-histories as
+
+mutilated hate crimes, digital eternities mutilated by legacy softwares
+
+and dead prisons, mutilated translations of the usual, the holds and holes
+
+of the body; leaning in toward the screen; the mutilated screen,
+
+projection of emptied spaces, mutilated sites, questions of the mutilated
+
+history of every little thing
+
+
+
+mutilated women, men, children. even the order's got an ideology, informal
+
+hate crimes, digital eternities mutilated by legacy softwares and dead
+
+dull and mutilated violence against oneself, the accumulation of mutilated
+
+signs. 
+
+
+
+destroyed and mutilated. - you are killing children. your scatter-mines,
+
+your leaflets are destroyed and mutilated - you are killing children,
+
+killing everything. everything is destroyed and mutilated. what damage
+
+mutilated, returned, sliding out forever, caressed, cuddled, fucked,
+
+mutilated, returned, sliding out of view of a mutilated conversation. 
+
+
+
+the mutilated faces were unrecognizable.
+
+
+
+# the signs were unrecognizable. the machine sorted, resorted, arranged.
+
+# the signs written by smiling old men. 
+
+# the signs were brought on the backs of the wounded.
+
+# the foiled assassination. the concentration camp. the computer-roundup.
+
+# everything in this world is evil, she said.
+
+# the smiling old men in power pissing oil.
+
+# the world can't hold us, they said.
+
+# we are far from damaged life, she said. we are mutilated.
+
+# there was no answer. believe in this: meltdown of the net.
+
+# there was no answer. believe in this: you can see the world teeter, if 
+
+you look around and leave the commentary.
+
+
+
+
+

@@ -1,0 +1,114 @@
+
+
+
+
+Bones/Gristle
+
+
+From the position of list-administration, listservs and majordomo appear
+very different. With majordomo, things ran clumsily, bad addresses could
+halt the list, administration had to be done with care, there was no
+digest except in the form of a separate list, and problem addresses had to
+be monitored by hand. Advertising was by separate listing on independent
+home-pages which were often out of date. (On Listserv there are central 
+clearing-sites for advertising.)
+
+Listserv is smoother, cleaner, requiring far less work. Listserv bounces
+the error-messages to one or another list-owner; on Cybermind, this means
+if there are eight bad addresses bouncing, and fifty messages a day boun-
+cing from them, I can get up to 400 bounced messages in my Inbox. Most of
+these are simply deleted; what's interesting is to view Cybermind and
+FOP-L accompanied by continuous noise, the quantity of bad addresses far
+outweighing the quantity of posts. I wait for the end of the day when the
+monitoring report comes in; this is sent directly by the listserv soft-
+ware, which is capable of deleting bad addresses on its own, after a
+specified period of time. Last night on Cybermind, 18 addresses were being
+monitored. 
+
+Sometimes you can read the bad addresses and find out where the mistake
+lies and resubscribe the participant. But even then, the bad address 
+itself floats through the software for awhile. Recently again, there have
+been other bad addresses which are just blanks on the monitoring report,
+ghost addresses so to speak, glitches perhaps, which register as users
+without identity whatsoever.
+
+Beyond the noise there is the list header which can be variously confi-
+gured to create greater or lesser degrees of security, as well as the
+overall formal feel of the list itself. This is as close as I have gotten
+to the depths of listserv; on majordomo, it was possible to see the
+complete surface workings/readable files of the program which ran in Unix.
+Majordomo seemed to constantly need patching and alterations; listserv,
+even given the header, is all surface, mail and noise skittering about in
+unequal proportions. (Of course I am speaking as a list administrator on 
+listserv, not someone writing filters and configuring behind the scenes.)
+
+Sherry Turkle's book forges almost from the beginning a split between 
+MACs and PCs, claiming the former for postmodernism's skimming/simulacra,
+and the latter for modernism's calculations/bare-to-the-bones. The same
+could be said about majordomo (PC) and listserv (MAC), but I don't think
+that the analogy holds up very well; one could just as easily consider
+the MAC an analog of the totalized subject (everything equally available
+and interconnected on a single interface), and the PC an analog of the 
+fragmented "self" (everything breaking down into parts of a holarchy on
+various levels which may or may not communicate). What the PC does pre-
+sent is a form of occluded transparency all the way up (Windows 95) and
+down (debug command in DOS), an increased thickening as the hardware is
+approached, but never realized, from the screen. To reach the hardware,
+you jump elsewhere, back to large-scale components (I'll install my CD-
+ROM drive, etc.), and only, rarely, jumpers on the level of circuitry.
+(To reach the hardware, you @open the non-virtual @container.)
+
+As I've pointed out elsewhere, in any case, there is information all
+across and among the components, information all the way down, and as a
+result, there is no origin; the computer harbors deconstruction as a
+primary (deconstructed!) ontology. There are texts and there are other
+texts, and the epistemological urge is based on who is capable of read-
+ing what; I can't make sense of pure binary addresses and data at this
+point, for example but some friends can. The epistemology of the interior
+is cryptic, but not too much so; it's encoded, and breaking/reading the
+codes also carries information for the hacker, up and down the layers. 
+
+What the error messages, bounces, on listserv, do for me (besides create a
+mess on my account), is indicate internal corruptions, cancers, insofar as
+a cleansed and pure switching network passes information without fail.
+They're messages upwelling from one or another layer of TCP/IP, messages
+which never arrive at their destination, and may never have a destination
+in mind.* So the skin, the surface, is scratched, scraped raw, but just a
+little, exposing some of the tissue beneath. 
+
+--
+
+*And who _are_ messages destined for? For whom does one write on an email
+list? Is it oneself, several, many, he or she at a predestined end, the
+others serving as a sheath of anonymity or publicity? It is often easier
+to expose oneself, one's own gristle so to speak, to the social, than to
+the _ecriture_ of Unixtalk, with its uneasy aura of mouths and ears all
+too close to one another, all to @physical and _real._
+
+In any case, _your_ post may return to me as part and parcel of noise, as
+cauterized, the tail to series of error statements, confirmations, even
+SMTP (simple mail transfer protocol) conversations among the machines. As
+such, your desperate confession, happy anecdote, considered theoretical
+position, informal comment, is only the catalyst or occasion for the un-
+rewarded return. Even this text, for example, already self-reflexive, 
+will return to me, perhaps over and over again, in the midst of the pre-
+sence and denial of the Other.**
+
+**And who _are_ Others here, those for whom the messages are destined, 
+those who never receive messages at all, those whose sites, servers,
+accounts, access generate errors, those who are not on-line nor ever have
+been, or those for whom one writes in the midst of the other Others?***
+
+***And who_are_ the other Others, if those not constituted by differing
+ontologies, on-line/off-line, or as we have said, constituted by decon-
+struction all the way up and down, as well as across plateaus? Are we in
+the guise of a return to the primacy of information, memetic/DNA drifting
+as the cybernetic engines constituting the totality of the world?****
+
+****And if we are back in mechanism (albeit on a different level than 
+the merely mechanistic), then what of _destinations_? Or are these only
+signifiers in excess, noise harbored against death and quiescence?*****
+
+*****And have we drifted enough?
+
+

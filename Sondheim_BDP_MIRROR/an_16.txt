@@ -1,0 +1,56 @@
+
+
+-
+
+
+ALARM LAG ALPHA
+
+
+ALA: alarm lag alpha: the condition of the Net this afternoon (see last
+file below): Panix reachable for split-second sparking out: jammed routes
+everywhere: nothing to do but bail/slash back again: inandout/ inandout:
+the old/: lag gone to +60 seconds/letter: get the hell out: this future-
+world: YOU SLAM YOUR FIST INTO MY MOUTH: TEETH SPLINTER:  WE'RE SO USED TO
+BLOOD: throat caught on your fingers: MAYDAY MAYDAY: can't speak: CAN'T
+SPEAK: 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+k:> last sondheim > zz produces the following; each log-off was a _crash_
+out of the system, as it stopped responding to me. Connection was through
+netcom.com in Wilkes-Barre, Penna or through net.com. Almost nothing was
+accomplished. This is becoming more and more common, so tired, your fin-
+gers kill the words in my my mouth... 
+
+sondheim  ttyq2    205.187.210.42   Mon Jun  3 18:04   still logged in
+sondheim  ttyp8    192.100.81.100   Mon Jun  3 16:56 - 17:11  (00:15)
+sondheim  ttyp8    205.187.210.47   Mon Jun  3 16:54 - 16:54  (00:00)
+sondheim  ttyp8    205.187.210.47   Mon Jun  3 16:48 - 16:53  (00:05)
+sondheim  ttyq8    205.187.210.49   Mon Jun  3 16:27 - 16:37  (00:10)
+sondheim  ttyr8    205.187.210.42   Mon Jun  3 15:34 - 15:39  (00:05)
+sondheim  ttys5    205.187.210.55   Mon Jun  3 15:20 - 15:22  (00:01)
+sondheim  ttypb    205.187.210.55   Mon Jun  3 15:15 - 15:17  (00:01)
+sondheim  ftp      wbr-pa1-23.ix.ne Mon Jun  3 15:11 - 15:12  (00:00)
+sondheim  ftp      wbr-pa1-23.ix.ne Mon Jun  3 15:10 - 15:11  (00:01)
+sondheim  ttyp8    205.187.210.55   Mon Jun  3 15:08 - 15:09  (00:01)
+sondheim  ftp      wbr-pa1-15.ix.ne Mon Jun  3 15:04 - 15:10  (00:05)
+sondheim  ftp      wbr-pa1-15.ix.ne Mon Jun  3 15:01 - 15:01  (00:00)
+sondheim  ttypb    205.187.210.47   Mon Jun  3 14:56 - 15:00  (00:04)
+sondheim  ttyp8    205.187.210.47   Mon Jun  3 14:52 - 14:55  (00:02)
+sondheim  ttypa    205.187.210.47   Mon Jun  3 14:48 - 14:51  (00:02)
+sondheim  ttyrd    205.187.210.44   Mon Jun  3 14:02 - 14:02  (00:00)
+sondheim  ttype    205.187.210.44   Mon Jun  3 14:00 - 14:10  (00:09)
+sondheim  ttyr4    205.187.210.44   Mon Jun  3 13:58 - 14:00  (00:02)
+sondheim  ttyp3    205.187.210.44   Mon Jun  3 13:53 - 13:57  (00:03)
+sondheim  ttys1    205.187.210.44   Mon Jun  3 13:48 - 13:49  (00:00)
+sondheim  ttypf    205.187.210.44   Mon Jun  3 13:44 - 13:47  (00:03)
+sondheim  ttyp2    205.187.210.44   Mon Jun  3 13:42 - 13:52  (00:09)
+sondheim  ttyp2    205.187.210.44   Mon Jun  3 13:39 - 13:41  (00:01)
+sondheim  ttyp2    205.187.210.44   Mon Jun  3 13:39 - 13:39  (00:00)
+sondheim  ttyr6    205.187.210.44   Mon Jun  3 13:38 - 13:39  (00:00)
+sondheim  ttyp2    205.187.210.44   Mon Jun  3 13:36 - 13:37  (00:01)
+sondheim  ttyp2    205.187.210.44   Mon Jun  3 13:31 - 13:35  (00:04)
+sondheim  ttyp2    205.187.210.44   Mon Jun  3 13:28 - 13:30  (00:02)
+sondheim  ttyqe    205.187.210.44   Mon Jun  3 13:19 - 13:22  (00:03)
+sondheim  ttyqe    205.187.210.44   Mon Jun  3 13:05 - 13:18  (00:13)
+

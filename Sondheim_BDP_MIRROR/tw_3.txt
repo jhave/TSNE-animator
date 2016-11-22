@@ -1,0 +1,261 @@
+
+
+
+
+suona
+
+http://www.alansondheim.org/umb2.jpg
+http://www.alansondheim.org/suona.mp3
+http://www.alansondheim.org/umb1.jpg
+http://www.alansondheim.org/umb3.jpg
+
+suona solo and visual interpretations based on absolutely 
+nothing at all, not even impressions or the presumed musicality 
+of any image whatsoever. let's refuse synesthesias of all sorts 
+and receive listening and looking, let's not watch but be there, 
+let's not listen but open our ears to merriment!
+
+
+
+@evensong and the Internet Text first and last steps
+
+http://www.alansondheim.org/ch0.jpg
+http://www.alansondheim.org/evensong.mp3
+http://www.alansondheim.org/ch1.jpg
+
+electric guitar - gearing up for performance work 
+
+http://www.alansondheim.org/1994Internet.txt
+
+my early theorizing around cyberspace; I still think it's 
+valuable. please check it out if you have the time.-
+
+
+
+The Inconceivable Closeness of Annihilation
+
+http://www.alansondheim.org/neutr.jpg
+http://www.alansondheim.org/barrington6.jpg
+
+This is the closeness of your other
+ 
+Mon Apr 11 12:48:07 EDT 2016
+
+useless flailing. my basic rule: that there are infinities of 
+space and time and universe utterly cut off from us, where 
+speculation is the only myth, a free-for-all of the imagination, 
+a lie. that's where dead narratives go: to tell a story is to 
+lie, to do nothing, another lie, to tell a lie, another story.
+
+a moment or a movement of writing under or within the chaos of 
+effacement, for something surely has created these words? in 
+this order? whose order has already disappeared? in the future? 
+in a previous time? among times? temporalities? don't escape; 
+there's nothing to escape to; nothing has occurred.
+Mon Apr 11 13:09:25 EDT 2016
+
+what follows or precedes, is no condition, no conditional, no 
+one, no many, no commons, has written these, written among 
+these. there are no remnants found, no punctum, no embodying, 
+embedding. annihilation: to the limit - is limitless, 
+annihilation pervasive, creation yet another story.
+Mon Apr 11 13:11:28 EDT 2016
+ 
+This is the distance of your new Clar 
+ 
+Mon Apr 11 12:48:07 EDT 2016
+
+anonymity is the fundamental flux of existence. into the future, 
+one writes, now, under conditions of erasure. this is the 
+chiasmus of presencing within codification and raster.
+ 
+annihilation: to the limit! has always already occurred; we just 
+weren't aware of it.
+Mon Apr 11 12:50:20 EDT 2016
+
+abandonment is the condition of life. species and planets are 
+abandoned, territories are always under contestation, formed on 
+the remnants of organic debris. to be abandoned means there was 
+once 'comfort and a home' - another misrecognition by dead eyes, 
+misrecognition _in fact_ by the dead. think of abandonment 
+without an origin, without that imaginary - then you, 
+temporarily and again under erasure, have it.
+Mon Apr 11 12:52:32 EDT 2016
+
+nothing one writes is now; there is no 'one' writing, no 
+communal writing, only temporary coagulations, cicatrix 
+remnants. despair is an illusion, hope as well. there are no 
+new/s and old/s, no newer and older, no progress, only 
+progression. the sign itself is that of annihilation - of the 
+sign, of referent, of coding and decoding, of digitalanalogic 
+and analogicdigital. with matter, it doesn't matter. what 
+appears to matter is the evanescence of strange attractors.
+Mon Apr 11 12:55:30 EDT 2016
+
+writing _here_ is non-writing, to write oneself into existence 
+is the simultaneity of writing oneself out of existence, not 
+writing at all. anomie is a true state and the truth of the 
+state. again, it is fundamental to abandon abandonment - and, 
+for that _matter,_ the subjunctive itself.
+Mon Apr 11 12:57:00 EDT 2016
+
+to breath in and through this is to do oneself the favor of 
+emptiness, no enlightenment along the way, no way. the 
+insipidity of being conscious is the tawdry revelation that it's 
+of no account; the universe is unaccountable; and mathematico- 
+scientific forays into comprehension only, within expansive 
+economics, push the barriers back towards unascertainable and 
+unforgivable limits.
+Mon Apr 11 13:00:05 EDT 2016
+
+one breathes; one has to breathe; to stop breathing is to stop. 
+one might as well continue as to stop. everyone knows the 
+indifferent is the character of our time, projected and 
+introjected into and from the past and future. move the words 
+around as you may; nothing is being said here. it's as if there 
+were nothing _sayable_ in fact.
+Mon Apr 11 13:01:40 EDT 2016
+
+debris is never beyond debris, never within debris; the 
+character of debris is its infinitude. never a remnant of (which 
+implies abandonment), always a part-object as if it were 
+yearning for totality, another story.
+Mon Apr 11 13:05:10 EDT 2016
+
+the only return is that of eternity. a new rule: nothing has 
+anything to do with us. 
+Mon Apr 11 13:07:49 EDT 2016
+
+and another story following suit, another silenced, an other 
+silenced, an other silence, an other, exactly the same.
+Mon Apr 11 13:12:30 EDT 2016
+
+Mon Apr 11 13:12:31 EDT 2016
+
+
+
+
+performance, pretested for your listening pleasure
+
+http://www.alansondheim.org/amherstfungi083.jpg
+http://www.alansondheim.org/tested.mp3
+clarinet, violin, revrev
+http://www.alansondheim.org/tested2.mp3
+clarinet revrev
+
+terrible days configuring linux audio hell
+
+http://www.alansondheim.org/sigl.png
+http://www.alansondheim.org/sigl.mp3
+http://www.alansondheim.org/sigll.mp3
+http://www.alansondheim.org/lnx.mp3
+
+running between alsa and jack cutting each other out
+in the meantime supercollider moderates and sometimes
+i can't hear the results. the alienware got bricked
+way beforehand. misery. audio randomly disappears and
+linuxmint audio configuration guis are also miserable.
+supercollider works with jack. jack kills alsa. alsa
+sneaks back through jack. jack dies and on reboot 
+there's alsa again. up pops jack and alsa's dead as a
+doornail, an expression i don't understand. too much
+configuration to make it through the night performing
+with linux mint. windows works or doesn't but win10
+tanked the alienware. i just realized bricked and
+tanked somehow play together. it's 4:20 and last night
+i was trying unsuccessfully to straighten the mess out.
+a week from now i'm performing. i'll use violin and 
+hope for the best. there's nothing like a good violin.
+
+anyway the result is a few brief pieces that pass for
+signals because that's what they are, spewing noise 
+that says something to me.
+
+
+
+miniature ghichak
+
+http://www.alansondheim.org/ghichak0.jpg ghichak
+http://www.alansondheim.org/ghichak2.mp3 bowing
+http://www.alansondheim.org/ghichak3.mp3 plucking
+
+a miniature ghichak similar to the larger one we gave to the 
+National Music Museum, but less ornamented. it's very difficult 
+to play, given the setup. here are two pieces which sound 
+strange (and, i think, wonderful). they're extremely high- 
+pitched. bowing is traditional; i like the intensity, harmonics, 
+and fascinating timbres in the second part of the piece. the 
+strings aren't pressed to the neck, but touched above or on the 
+side. the plucking piece is a bit traditional, although not for 
+the ghichak; again, the strings aren't pressed down. thanks 
+greatly to Mitchell Clark for the ghichak; these instruments 
+are rare. i think it's from Balochistan; the decoration seems 
+from that area, but i could very well be wrong.
+
+
+
+
+Verizon Strike
+
+http://www.alansondheim.org/verizon.jpg
+http://www.alansondheim.org/verizon.mp4
+
+From CNN Money -
+
+36,000 Verizon workers have walked off the job Wednesday after 
+failing to reach a new labor agreement.
+
+This is the largest strike in the United States since Verizon 
+workers last walked off the job in 2011, according to the U.S. 
+Bureau of Labor Statistics. That strike involved 45,000 workers.
+
+Most of the striking workers service the company's landline 
+phone business and FiOS broadband network -- not the much larger 
+Verizon Wireless network. They have gone without a contract 
+since August, and their union, the Communication Workers of 
+America, says it is fighting to get Verizon to come to the table 
+with a better offer.
+
+The union's list of complaints is a long one: Verizon has 
+outsourced 5,000 jobs to workers in Mexico, the Philippines and 
+the Dominican Republic. Verizon is hiring more low-wage, 
+non-union contractors, the union says.
+
+"The main thing is that's it's taking good-paying jobs and 
+taking them away from the American public," said Ken Beckett, a 
+technical telecommunications associate for Verizon and union 
+board member with 1101 CWA, as he picketed with colleagues 
+outside a Verizon office in Manhattan.
+verizon protests 041316
+Union members picketed outside Verizon's central office for 
+midtown Manhattan. Their chief complaint? Outsourcing 5,000 jobs 
+to Mexico, the Philippines and the Dominican Republic.
+
+The union also claims Verizon won't negotiate with people who 
+work in Verizon stores and is closing call centers. And Verizon 
+is asking workers to work out of state, away from their homes, 
+for months at a time.
+
+Meanwhile, the union says Verizon is cutting costs as its 
+profits have soared.
+
+"Verizon's corporate greed isn't just harming workers' families, 
+it's hurting customers as well," the CWA said in a statement.
+
+It's true that Verizon continues to post record profit, but most 
+of that is coming from its wireless business. The "wireline" 
+business that most CWA workers serve is in decline.
+
+Wireline sales have been steadily falling over the past several 
+years. Last year sales fell by nearly 2%, and Verizon lost 1.4 
+million voice customers.
+
+To help make up for the losses, Verizon continues to offload 
+some of its wireline assets, and it has been offshoring some of 
+its workers overseas. The company says it saved $300 million in 
+employee costs in 2015.
+
+Still, Verizon managed to post an $8.9 billion operating profit 
+in its wireline business last year. That was down slightly from 
+2014, but not by much. 
+

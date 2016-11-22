@@ -1,0 +1,48 @@
+
+
+
+
+RED MERCURY
+
+
+I am serious about this: You know who I am.
+
+This message has been generated automatically in order to help you track
+the circulation in the test newsgroups. If you do not wish any reply from
+this program, just include the word "ignore" or its translation in
+french or german in the subject line or in the 5 first lines of the
+body of your message.
+
+Your article <5eokah$cep@panix3.panix.com> was received by news.texoma.net
+at Sat, 22 Feb 1997 23:24:35 CST by the path
+news.texoma.net!zephyr.texoma.net!www.nntp.primenet.com!nntp.
+primenet.com!howland.erols.net!panix!news.panix.com!not-for-mail
+
+Your message travelled on the network during
+0 day(s), 0 hour(s), 0 minute(s), 2 second(s)
+before arriving here.
+
+Following headers have been recognized in your message:
+
+Path:
+news.texoma.net!zephyr.texoma.net!www.nntp.primenet.com!nntp.
+primenet.com!howland.erols.net!panix!news.panix.com!not-for-mail
+Newsgroups: alt.test
+From: sondheim@panix.com (Alan Sondheim)
+Date: 23 Feb 1997 00:24:33 -0500
+Subject: test rot
+Message-ID: <5eokah$cep@panix3.panix.com>
+Organization: PANIX Public Access Internet and UNIX, NYC
+Nntp-Posting-Host: panix3.panix.com
+Lines: 2
+
+Following headers are present in your message but have not been recognized
+by the application. This does not necessarily mean that they are not
+legal: 
+
+X-Newsreader: TIN [UNIX 1.3 unoff BETA release 961018]
+
+The first lines in the body of your message are:
+
+->           you know who I am
+-> 

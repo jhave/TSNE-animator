@@ -1,0 +1,13 @@
+
+Oct 30 23:04:45: Loaded protect cache for 128 builtins
+Oct 30 23:04:45: LISTEN: #0 now listening on port 7777
+Oct 30 23:05:10: ACCEPT: #-2 on port 7777 from localhost, port 36672
+Oct 30 23:05:34: CONNECTED: Wizard (#2) on port 7777 from localhost, port 
+ 36672
+Oct 30 23:09:19: ACCEPT: #-3 on port 7777 from localhost, port 50332
+Oct 30 23:09:43: CONNECTED: Alan-Dojoji (#95) on port 7777 from localhost, 
+ port 50332
+Oct 30 23:18:33: DISCONNECTED: Alan-Dojoji (#95) on port 7777 from 
+ localhost, port 50332
+Oct 30 23:28:20: DISCONNECTED: Wizard (#2) on port 7777 from localhost, 
+port 36672
